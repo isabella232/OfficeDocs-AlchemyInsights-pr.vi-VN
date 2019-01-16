@@ -1,0 +1,39 @@
+---
+title: Làm thế nào để kích hoạt đăng ký
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: mnirkhe
+ms.date: 2/21/2018
+ms.audience: Admin
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom: Adm_O365
+ms.assetid: 7dc125f8-491d-4bc2-a2f2-b73c7bda3035
+ms.openlocfilehash: 0c1410ac74e3a749493bdb65d198de5a09b069f9
+ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.translationtype: MT
+ms.contentlocale: vi-VN
+ms.lasthandoff: 01/15/2019
+ms.locfileid: "28321249"
+---
+# <a name="how-to-reactivate-a-subscription"></a><span data-ttu-id="aade0-102">Làm thế nào để kích hoạt đăng ký</span><span class="sxs-lookup"><span data-stu-id="aade0-102">How to reactivate a subscription</span></span>
+
+<span data-ttu-id="aade0-103">Nếu đăng ký của bạn hết hạn, đã bị hủy bỏ hoặc vô hiệu hoá bởi Microsoft, bạn có thể kích hoạt lại nó trong Trung tâm quản trị Office 365.</span><span class="sxs-lookup"><span data-stu-id="aade0-103">If your subscription expired, has been cancelled, or disabled by Microsoft, you can reactivate it in the Office 365 admin center.</span></span>
+  
+1. <span data-ttu-id="aade0-104">Trong Trung tâm quản trị, hãy vào trang [đăng ký](https://go.microsoft.com/fwlink/p/?linkid=842054) , hoặc lựa chọn **thanh toán** \> **mục đăng ký**.</span><span class="sxs-lookup"><span data-stu-id="aade0-104">In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.</span></span>
+    
+2. <span data-ttu-id="aade0-105">Chọn các thuê bao mà bạn muốn kích hoạt lại.</span><span class="sxs-lookup"><span data-stu-id="aade0-105">Choose the subscription that you would like to reactivate.</span></span>
+    
+3. <span data-ttu-id="aade0-106">Chọn **kích hoạt** nút ở bên phải.</span><span class="sxs-lookup"><span data-stu-id="aade0-106">Choose the **Reactivate** button on the right.</span></span> 
+    
+4. <span data-ttu-id="aade0-p101">Bạn sẽ được yêu cầu để cập nhật chi tiết thanh toán. Khi tất cả thông tin là chính xác, chọn **gửi**.</span><span class="sxs-lookup"><span data-stu-id="aade0-p101">You will be asked to update the payment details. When all information is correct, choose **Submit**.</span></span>
+    
+5. <span data-ttu-id="aade0-p102">Xác nhận sẽ hiển thị ở phía dưới của màn hình. Chọn **Close** để trở về trang **đăng ký** .</span><span class="sxs-lookup"><span data-stu-id="aade0-p102">A confirmation will show on the bottom of the screen. Choose **Close** to return to the **Subscriptions** page.</span></span> 
+    
+6. <span data-ttu-id="aade0-111">Nếu thuê bao không xuất hiện các hoạt động sau một vài phút, làm mới trang.</span><span class="sxs-lookup"><span data-stu-id="aade0-111">If the subscription does not appear Active after a few minutes, refresh the page.</span></span>
+    
+<span data-ttu-id="aade0-112">Để biết thêm thông tin, hãy xem: [gia hạn Office 365 Beta dành cho doanh nghiệp](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e)</span><span class="sxs-lookup"><span data-stu-id="aade0-112">For more information, see: [Renew Office 365 for business](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e)</span></span>
+  
+
