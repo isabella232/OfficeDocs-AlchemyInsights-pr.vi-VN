@@ -1,12 +1,21 @@
 ---
-tiêu đề: "1051 Antispam\4.7.500 truy cập bị từ chối, xin vui lòng thử lại sau" ms.author: chrisda tác giả: chrisda giám đốc: serdars ms.date: 28/9 năm 2018 ms.audience: ITPro ms.topic: bài robot: NOINDEX, NOFOLLOW localization_priority: ưu tiên
-
-MS.assetid: 5b195ea9-028b-42a8-8b39-e19797a00d8e
-
+title: 1051 antispam 4.7.500 truy cập từ chối, xin vui lòng thử lại sau
+ms.author: chrisda
+author: chrisda
+manager: serdars
+ms.date: 9/28/2018
+ms.audience: ITPro
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.assetid: 5b195ea9-028b-42a8-8b39-e19797a00d8e
+ms.openlocfilehash: d777bacb799bbe25c11b8ceaf92e2c3d0262026a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.translationtype: MT
+ms.contentlocale: vi-VN
+ms.lasthandoff: 01/22/2019
+ms.locfileid: "29383540"
 ---
-
-
-
 # <a name="47500-access-denied-please-try-again-later"></a>4.7.500 truy cập từ chối, xin vui lòng thử lại sau
 
 Lỗi này xảy ra khi khối lượng lưu lượng truy cập thư điện tử từ địa chỉ IP nguồn vượt quá giới hạn dựa trên danh tiếng (hoặc thiếu uy tín) của địa chỉ IP nguồn.

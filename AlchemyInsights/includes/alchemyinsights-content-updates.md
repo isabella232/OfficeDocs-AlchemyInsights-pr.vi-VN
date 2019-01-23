@@ -1,3 +1,11 @@
+---
+ms.openlocfilehash: 06c6f31405751acbe0477456685be44a43a37460
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.translationtype: MT
+ms.contentlocale: vi-VN
+ms.lasthandoff: 01/22/2019
+ms.locfileid: "29383549"
+---
 <!-- This file is generated automatically each week. Changes made to this file will be overwritten.-->
 
 
@@ -624,3 +632,14 @@
 | 11-1-2019 | [Xóa người dùng](/AlchemyInsights/deleting-users) | Sửa đổi lần |
 | 11-1-2019 | [Triển khai liên tục đăng nhập đơn](/AlchemyInsights/deploy-seamless-single-sign-on) | Sửa đổi lần |
 | 11-1-2019 | [Vô hiệu hoá quyền truy cập vào Yammer](/AlchemyInsights/disable-access-to-yammer) | Sửa đổi lần |
+
+
+## <a name="week-of-january-14-2019"></a>Tuần của tháng 1 14, 2019
+
+
+| Được đăng trên |Tiêu đề chủ đề | Thay đổi |
+|------|------------|--------|
+| 14-1-2019 | Giả kim thuật giữ chỗ | gỡ bỏ |
+| 14-1-2019 | Thêm tên miền alchemy | gỡ bỏ |
+| 14-1-2019 | [Giả kim thuật nhìn thấy nhà](/AlchemyInsights/index) | Sửa đổi lần |
+| 17-1-2019 | [tương tự như là tên tập tin là tốt nhất [RULE #-mô tả]](/AlchemyInsights/1-alchemy-insight-template) | Thêm vào |
