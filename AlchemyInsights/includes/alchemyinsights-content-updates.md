@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 06c6f31405751acbe0477456685be44a43a37460
+ms.openlocfilehash: 213940d30877da1794b78f1d86bd2fa251bf4121
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 01/22/2019
-ms.locfileid: "29383549"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29454452"
 ---
 <!-- This file is generated automatically each week. Changes made to this file will be overwritten.-->
 
@@ -14,7 +14,7 @@ ms.locfileid: "29383549"
 ## <a name="week-of-january-07-2019"></a>Tuần của tháng 1 07, 2019
 
 
-| Được đăng trên |Tiêu đề chủ đề | Thay đổi |
+| Được đăng trên |Tiêu đề chủ đề | Thay đổi, |
 |------|------------|--------|
 | 7-1-2019 | [Thay đổi mật khẩu của bạn](/AlchemyInsights/change-your-password-in-outlook.com) | Thêm vào |
 | 7-1-2019 | [Thay đổi quyền truy cập vào một hộp thư](/AlchemyInsights/changing-permissions-on-a-mailbox) | Thêm vào |
@@ -302,7 +302,7 @@ ms.locfileid: "29383549"
 | 10-1-2019 | [Tạo một trang web thông tin liên lạc](/AlchemyInsights/create-a-communication-site) | Thêm vào |
 | 10-1-2019 | [Tạo ra một dòng chảy](/AlchemyInsights/create-a-flow) | Thêm vào |
 | 10-1-2019 | [Tạo một trang web hiện đại đội](/AlchemyInsights/create-a-modern-team-site) | Thêm vào |
-| 10-1-2019 | [Tạo một hộp thư dùng chung](/AlchemyInsights/create-a-shared-mailbox) | Thêm vào |
+| 10-1-2019 | Tạo hộp thư chung | Thêm vào |
 | 10-1-2019 | [Tạo một trang web SharePoint](/AlchemyInsights/create-a-sharepoint-site) | Thêm vào |
 | 10-1-2019 | [Tạo một trang web trong SharePoint Online](/AlchemyInsights/create-a-site-in-sharepoint-online) | Thêm vào |
 | 10-1-2019 | [Tạo và sử dụng hộp thư dùng chung](/AlchemyInsights/create-and-use-a-shared-mailbox-0) | Thêm vào |
@@ -599,7 +599,7 @@ ms.locfileid: "29383549"
 | 11-1-2019 | [Tạo một trang web thông tin liên lạc](/AlchemyInsights/create-a-communication-site) | Sửa đổi lần |
 | 11-1-2019 | [Tạo ra một dòng chảy](/AlchemyInsights/create-a-flow) | Sửa đổi lần |
 | 11-1-2019 | [Tạo một trang web hiện đại đội](/AlchemyInsights/create-a-modern-team-site) | Sửa đổi lần |
-| 11-1-2019 | [Tạo một hộp thư dùng chung](/AlchemyInsights/create-a-shared-mailbox) | Sửa đổi lần |
+| 11-1-2019 | Tạo hộp thư chung | Sửa đổi lần |
 | 11-1-2019 | [Tạo một trang web SharePoint](/AlchemyInsights/create-a-sharepoint-site) | Sửa đổi lần |
 | 11-1-2019 | [Tạo một trang web trong SharePoint Online](/AlchemyInsights/create-a-site-in-sharepoint-online) | Sửa đổi lần |
 | 11-1-2019 | [Tạo và sử dụng hộp thư dùng chung](/AlchemyInsights/create-and-use-a-shared-mailbox-0) | Sửa đổi lần |
@@ -637,7 +637,7 @@ ms.locfileid: "29383549"
 ## <a name="week-of-january-14-2019"></a>Tuần của tháng 1 14, 2019
 
 
-| Được đăng trên |Tiêu đề chủ đề | Thay đổi |
+| Được đăng trên |Tiêu đề chủ đề | Thay đổi, |
 |------|------------|--------|
 | 14-1-2019 | Giả kim thuật giữ chỗ | gỡ bỏ |
 | 14-1-2019 | Thêm tên miền alchemy | gỡ bỏ |
