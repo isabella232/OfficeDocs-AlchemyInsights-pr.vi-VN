@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 592f502a-493f-4bf4-adc3-5bc8aea87bb5
 ms.openlocfilehash: d944b1d8a2c515dbe19bf34ed168a19b1e11e9ea
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28320025"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29496633"
 ---
 # <a name="copy-or-move-items-in-a-sharepoint-document-library"></a>Sao chép hoặc di chuyển các mục trong một thư viện tài liệu SharePoint
 
@@ -37,6 +37,6 @@ Bạn có thể sao chép và di chuyển các tập tin, thư mục, và các l
 3. Bấm vào **sao chép ở đây** hoặc **di chuyển ở đây**.
     
 > [!NOTE]
->  Bạn có thể sao chép lên đến 500 MB của các tập tin và thư mục tại một thời gian. > Khi bạn sao chép văn bản đã Lược sử Phiên bản, phiên bản mới nhất sẽ được sao chép. Khi bạn di chuyển tài liệu, lịch sử của họ cũng được di chuyển. 
+>  Bạn có thể sao chép lên đến 500 MB của các tập tin và thư mục tại một thời gian. > khi bạn sao chép văn bản đã Lược sử Phiên bản, phiên bản mới nhất được sao chép. Khi bạn di chuyển tài liệu, lịch sử của họ cũng được di chuyển. 
   
 
