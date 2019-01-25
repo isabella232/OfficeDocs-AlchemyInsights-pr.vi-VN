@@ -9,20 +9,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 242bf619-d235-49de-88a3-9f6173c542d1
 ms.openlocfilehash: c4a461538c02fd9a5e2d5a3c2637856fb325d79c
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28320732"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29497361"
 ---
-# <a name="install-and-configure-onedrive"></a><span data-ttu-id="0fcb8-102">Cài đặt và đặt cấu hình OneDrive</span><span class="sxs-lookup"><span data-stu-id="0fcb8-102">Install and configure OneDrive</span></span>
+# <a name="install-and-configure-onedrive"></a><span data-ttu-id="e94a6-102">Cài đặt và đặt cấu hình OneDrive</span><span class="sxs-lookup"><span data-stu-id="e94a6-102">Install and configure OneDrive</span></span>
 
-<span data-ttu-id="0fcb8-p101">Khách hàng đồng bộ OneDrive được cài đặt sẵn với Windows 10. Để cài đặt OneDrive cho Windows 7 hoặc Mac, hoặc để có được các ứng dụng di động cho điện thoại hoặc máy tính bảng của bạn, đi đến [http://onedrive.com/download](http://onedrive.com/download).</span><span class="sxs-lookup"><span data-stu-id="0fcb8-p101">The OneDrive sync client is preinstalled with Windows 10. To install OneDrive for Windows 7 or Mac, or to get the mobile app for your phone or tablet, go to [http://onedrive.com/download](http://onedrive.com/download).</span></span>
+<span data-ttu-id="e94a6-p101">Khách hàng đồng bộ OneDrive được cài đặt sẵn với Windows 10. Để cài đặt OneDrive cho Windows 7 hoặc Mac, hoặc để có được các ứng dụng di động cho điện thoại hoặc máy tính bảng của bạn, đi đến [http://onedrive.com/download](http://onedrive.com/download).</span><span class="sxs-lookup"><span data-stu-id="e94a6-p101">The OneDrive sync client is preinstalled with Windows 10. To install OneDrive for Windows 7 or Mac, or to get the mobile app for your phone or tablet, go to [http://onedrive.com/download](http://onedrive.com/download).</span></span>
   
-<span data-ttu-id="0fcb8-105">Để thiết lập các khách hàng đồng bộ OneDrive trong Windows, hãy xem:</span><span class="sxs-lookup"><span data-stu-id="0fcb8-105">To set up the OneDrive sync client in Windows, see:</span></span>
+<span data-ttu-id="e94a6-105">Để thiết lập các khách hàng đồng bộ OneDrive trong Windows, hãy xem:</span><span class="sxs-lookup"><span data-stu-id="e94a6-105">To set up the OneDrive sync client in Windows, see:</span></span>
   
-- [<span data-ttu-id="0fcb8-106">Thiết lập máy tính của bạn để đồng bộ hóa của bạn OneDrive cho doanh nghiệp các tập tin trong Office 365</span><span class="sxs-lookup"><span data-stu-id="0fcb8-106">Set up your computer to sync your OneDrive for Business files in Office 365</span></span>](https://go.microsoft.com/fwlink/?linkid=533375)
+- [<span data-ttu-id="e94a6-106">Thiết lập máy tính của bạn để đồng bộ hóa của bạn OneDrive cho doanh nghiệp các tập tin trong Office 365</span><span class="sxs-lookup"><span data-stu-id="e94a6-106">Set up your computer to sync your OneDrive for Business files in Office 365</span></span>](https://go.microsoft.com/fwlink/?linkid=533375)
     
-- [<span data-ttu-id="0fcb8-107">Tập tin SharePoint Sync với khách hàng mới đồng bộ OneDrive</span><span class="sxs-lookup"><span data-stu-id="0fcb8-107">Sync SharePoint files with the new OneDrive sync client</span></span>](https://go.microsoft.com/fwlink/?linkid=871666)
+- [<span data-ttu-id="e94a6-107">Tập tin SharePoint Sync với khách hàng mới đồng bộ OneDrive</span><span class="sxs-lookup"><span data-stu-id="e94a6-107">Sync SharePoint files with the new OneDrive sync client</span></span>](https://go.microsoft.com/fwlink/?linkid=871666)
     
 
