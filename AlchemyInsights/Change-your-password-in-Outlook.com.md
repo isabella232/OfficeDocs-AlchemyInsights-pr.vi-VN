@@ -11,11 +11,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - 0bd18328-35e4-4e4a-94c3-48430e8e2e77
 ms.openlocfilehash: 9124d20404cb673dbac1a25cc0ccac054ac26d34
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28321080"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29497569"
 ---
 Nếu bạn quên mật khẩu của bạn, đi đến [tài khoản Microsoft khôi phục mật khẩu trang](https://go.microsoft.com/fwlink/p/?linkid=841909). Nếu không, hãy làm theo các hướng dẫn dưới đây.
   
