@@ -1,5 +1,5 @@
 ---
-title: Chuyển sang một khác nhau Office 365 Beta dành cho kế hoạch kinh doanh
+title: Chuyển sang gói Office 365 dành cho doanh nghiệp khác
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
 ms.openlocfilehash: 06ece0f33bc817aa9759cbc3487544ed5b48b946
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28320359"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29496505"
 ---
-# <a name="switch-to-a-different-office-365-for-business-plan"></a>Chuyển sang một khác nhau Office 365 Beta dành cho kế hoạch kinh doanh
+# <a name="switch-to-a-different-office-365-for-business-plan"></a>Chuyển sang gói Office 365 dành cho doanh nghiệp khác
 
 Khi thay đổi kinh doanh của bạn, hoặc bạn cần thêm các tính năng của Office 365, bạn có thể chuyển đổi kế hoạch.
   

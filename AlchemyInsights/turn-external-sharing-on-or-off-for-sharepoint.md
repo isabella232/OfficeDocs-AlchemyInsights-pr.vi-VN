@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: ad290ba4-169e-4866-9c78-2763319e9ed0
 ms.openlocfilehash: 1c98fcf991bc1e8648d23178b169bc6aba67784a
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28320555"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29497024"
 ---
 # <a name="turn-external-sharing-on-or-off-for-sharepoint"></a>Biến bên ngoài chia sẻ hoặc tắt cho SharePoint
 
@@ -25,7 +25,7 @@ ms.locfileid: "28320555"
 2. Bật các thiết lập hoặc tắt, hoặc chọn một tùy chọn chia sẻ nếu nó được bật.
     
 > [!NOTE]
-> Tắt chia sẻ cho SharePoint tắt nó cho OneDrive. Để cho phép chia sẻ trên bất kỳ trang bên ngoài, cài đặt phạm vi tổ chức của bạn phải trên. > Để cho phép chia sẻ cho OneDrive hoặc bất kỳ các trang web SharePoint cá nhân bên ngoài, bạn phải biến nó trên phạm vi tổ chức cho SharePoint. Bạn có thể sau đó tắt nó cho các bộ sưu tập trang web cụ thể. Để quản lý cài đặt chia sẻ bên ngoài cho các trang web thông tin liên lạc và các trang web thuộc nhóm Office 365, bạn cần phải sử dụng trung tâm quản trị SharePoint mới (xem trước) hoặc PowerShell. Để biết thêm chi tiết về quản lý cài đặt chia sẻ bên ngoài, hãy xem [bật bên ngoài chia sẻ hoặc tắt](https://go.microsoft.com/fwlink/?linkid=866426). 
+> Tắt chia sẻ cho SharePoint tắt nó cho OneDrive. Để cho phép chia sẻ trên bất kỳ trang bên ngoài, cài đặt phạm vi tổ chức của bạn phải trên. > cho phép bên ngoài chia sẻ cho OneDrive hoặc bất kỳ các trang web SharePoint riêng lẻ, bạn phải bật nó phạm vi tổ chức cho SharePoint. Bạn có thể sau đó tắt nó cho các bộ sưu tập trang web cụ thể. Để quản lý cài đặt chia sẻ bên ngoài cho các trang web thông tin liên lạc và các trang web thuộc nhóm Office 365, bạn cần phải sử dụng trung tâm quản trị SharePoint mới (xem trước) hoặc PowerShell. Để biết thêm chi tiết về quản lý cài đặt chia sẻ bên ngoài, hãy xem [bật bên ngoài chia sẻ hoặc tắt](https://go.microsoft.com/fwlink/?linkid=866426). 
   
 [Tìm hiểu thêm về chia sẻ bên ngoài trong SharePoint](https://go.microsoft.com/fwlink/?linkid=734908)
   

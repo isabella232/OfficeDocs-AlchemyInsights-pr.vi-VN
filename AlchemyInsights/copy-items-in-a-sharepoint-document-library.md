@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 94b46e45-0a79-4dc3-9c2b-94fb021a7f4a
 ms.openlocfilehash: cd0647aabfd8e3783b1320ced1c2244098eb0257
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28321148"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29497525"
 ---
 # <a name="copy-items-in-a-sharepoint-document-library"></a>Sao các khoản mục trong một thư viện tài liệu SharePoint
 
@@ -35,6 +35,6 @@ ms.locfileid: "28321148"
 3. Bấm vào **sao chép ở đây**.
     
 > [!NOTE]
->  Bạn có thể sao chép lên đến 500 MB của các tập tin và thư mục tại một thời gian. > Khi bạn sử dụng **sao chép** , với các tài liệu có Lược sử Phiên bản, phiên bản mới nhất sẽ được sao chép. 
+>  Bạn có thể sao chép lên đến 500 MB của các tập tin và thư mục tại một thời gian. > khi bạn sử dụng **bản sao đến** với tài liệu có Lược sử Phiên bản, phiên bản mới nhất được sao chép. 
   
 
