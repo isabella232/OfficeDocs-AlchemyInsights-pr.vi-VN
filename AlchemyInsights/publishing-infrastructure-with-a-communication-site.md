@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: de63d2e1-f053-40ed-ac1a-041ddafefba0
 ms.openlocfilehash: 9cdb6226d61ec8258c96d422e14762523064bb53
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28321095"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29496565"
 ---
-# <a name="publishing-infrastructure-with-a-communication-site"></a><span data-ttu-id="94d45-102">Cơ sở hạ tầng xuất bản với một trang web thông tin liên lạc</span><span class="sxs-lookup"><span data-stu-id="94d45-102">Publishing Infrastructure with a Communication Site</span></span>
+# <a name="publishing-infrastructure-with-a-communication-site"></a><span data-ttu-id="9ff8c-102">Cơ sở hạ tầng xuất bản với một trang web thông tin liên lạc</span><span class="sxs-lookup"><span data-stu-id="9ff8c-102">Publishing Infrastructure with a Communication Site</span></span>
 
-<span data-ttu-id="94d45-p101">Cho phép các tính năng SharePoint Server cơ sở hạ tầng xuất bản là **không được hỗ trợ** với các trang web thông tin liên lạc. Vui lòng cung cấp thông tin phản hồi của bạn tại [UserVoice](https://go.microsoft.com/fwlink/?linkid=2047322&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="94d45-p101">Enabling the SharePoint Server Publishing Infrastructure feature is **not supported** with Communication Sites. Please provide your feedback in [UserVoice](https://go.microsoft.com/fwlink/?linkid=2047322&amp;clcid=0x409).</span></span> 
+<span data-ttu-id="9ff8c-p101">Cho phép các tính năng SharePoint Server cơ sở hạ tầng xuất bản là **không được hỗ trợ** với các trang web thông tin liên lạc. Vui lòng cung cấp thông tin phản hồi của bạn tại [UserVoice](https://go.microsoft.com/fwlink/?linkid=2047322&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="9ff8c-p101">Enabling the SharePoint Server Publishing Infrastructure feature is **not supported** with Communication Sites. Please provide your feedback in [UserVoice](https://go.microsoft.com/fwlink/?linkid=2047322&amp;clcid=0x409).</span></span> 
   
-<span data-ttu-id="94d45-105">Hãy xem [kích hoạt tính năng xuất bản](https://support.office.com/en-us/article/Enable-publishing-features-479677A6-8B33-4AC7-907D-071C1C7E4518) cho biết thêm thông tin.</span><span class="sxs-lookup"><span data-stu-id="94d45-105">See [Enable publishing features](https://support.office.com/en-us/article/Enable-publishing-features-479677A6-8B33-4AC7-907D-071C1C7E4518) for more information.</span></span> 
+<span data-ttu-id="9ff8c-105">Hãy xem [kích hoạt tính năng xuất bản](https://support.office.com/en-us/article/Enable-publishing-features-479677A6-8B33-4AC7-907D-071C1C7E4518) cho biết thêm thông tin.</span><span class="sxs-lookup"><span data-stu-id="9ff8c-105">See [Enable publishing features](https://support.office.com/en-us/article/Enable-publishing-features-479677A6-8B33-4AC7-907D-071C1C7E4518) for more information.</span></span> 
   
 
