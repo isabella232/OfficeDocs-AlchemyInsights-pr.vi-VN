@@ -9,26 +9,26 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: e8b46cc3-4dde-4386-8bc0-c21b0ef708b3
 ms.openlocfilehash: 85512ad5e40cb97e8af6d9bd83d8b21bb747028c
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28320012"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29496697"
 ---
-# <a name="solutions-for-error-30125-4-or-30125-1011"></a><span data-ttu-id="7f636-102">Giải pháp cho lỗi 30125-4 hoặc 30125-1011</span><span class="sxs-lookup"><span data-stu-id="7f636-102">Solutions for error 30125-4 or 30125-1011</span></span>
+# <a name="solutions-for-error-30125-4-or-30125-1011"></a><span data-ttu-id="c0373-102">Giải pháp cho lỗi 30125-4 hoặc 30125-1011</span><span class="sxs-lookup"><span data-stu-id="c0373-102">Solutions for error 30125-4 or 30125-1011</span></span>
 
-<span data-ttu-id="7f636-p101">Bạn có thể gặp lỗi này nếu phần mềm chống virus, tường lửa, thiết đặt ủy quyền hoặc kết nối của bạn ngăn cản bạn cài đặt Office. Dưới đây là một số điều bạn có thể cố gắng khắc phục sự cố:</span><span class="sxs-lookup"><span data-stu-id="7f636-p101">You might see this error if your anti-virus software, firewall, proxy settings, or connection prevent you from installing Office. Here are some things you can try to fix the problem:</span></span>
+<span data-ttu-id="c0373-p101">Bạn có thể gặp lỗi này nếu phần mềm chống virus, tường lửa, thiết đặt ủy quyền hoặc kết nối của bạn ngăn cản bạn cài đặt Office. Dưới đây là một số điều bạn có thể cố gắng khắc phục sự cố:</span><span class="sxs-lookup"><span data-stu-id="c0373-p101">You might see this error if your anti-virus software, firewall, proxy settings, or connection prevent you from installing Office. Here are some things you can try to fix the problem:</span></span>
   
-- <span data-ttu-id="7f636-105">Khởi động lại máy tính của bạn và cài đặt lại Office</span><span class="sxs-lookup"><span data-stu-id="7f636-105">Restart your computer and reinstall Office</span></span>
+- <span data-ttu-id="c0373-105">Khởi động lại máy tính của bạn và cài đặt lại Office</span><span class="sxs-lookup"><span data-stu-id="c0373-105">Restart your computer and reinstall Office</span></span>
     
-- <span data-ttu-id="7f636-106">Cài đặt Office, bằng cách sử dụng [văn phòng offline cài đặt](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c.aspx)</span><span class="sxs-lookup"><span data-stu-id="7f636-106">Install Office using the [Office offline installer](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c.aspx)</span></span>
+- <span data-ttu-id="c0373-106">Cài đặt Office, bằng cách sử dụng [văn phòng offline cài đặt](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c.aspx)</span><span class="sxs-lookup"><span data-stu-id="c0373-106">Install Office using the [Office offline installer](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c.aspx)</span></span>
     
-- <span data-ttu-id="7f636-107">Tạm thời tắt thiết đặt ủy quyền</span><span class="sxs-lookup"><span data-stu-id="7f636-107">Temporarily turn off proxy settings</span></span>
+- <span data-ttu-id="c0373-107">Tạm thời tắt thiết đặt ủy quyền</span><span class="sxs-lookup"><span data-stu-id="c0373-107">Temporarily turn off proxy settings</span></span>
     
-- <span data-ttu-id="7f636-108">Tạm thời tắt phần mềm diệt virus</span><span class="sxs-lookup"><span data-stu-id="7f636-108">Temporarily turn off antivirus software</span></span>
+- <span data-ttu-id="c0373-108">Tạm thời tắt phần mềm diệt virus</span><span class="sxs-lookup"><span data-stu-id="c0373-108">Temporarily turn off antivirus software</span></span>
     
-- <span data-ttu-id="7f636-109">Tạm thời tắt tường lửa</span><span class="sxs-lookup"><span data-stu-id="7f636-109">Temporarily turn off firewall</span></span>
+- <span data-ttu-id="c0373-109">Tạm thời tắt tường lửa</span><span class="sxs-lookup"><span data-stu-id="c0373-109">Temporarily turn off firewall</span></span>
     
-<span data-ttu-id="7f636-110">Để biết thêm thông tin xem [mã lỗi 30125-4 hoặc 30125-1011 khi cài đặt văn phòng](https://support.office.com/article/7bfabec6-76be-4cde-880e-819a9c569612.aspx)</span><span class="sxs-lookup"><span data-stu-id="7f636-110">For more information see [Error code 30125-4 or 30125-1011 when installing Office](https://support.office.com/article/7bfabec6-76be-4cde-880e-819a9c569612.aspx)</span></span>
+<span data-ttu-id="c0373-110">Để biết thêm thông tin xem [mã lỗi 30125-4 hoặc 30125-1011 khi cài đặt văn phòng](https://support.office.com/article/7bfabec6-76be-4cde-880e-819a9c569612.aspx)</span><span class="sxs-lookup"><span data-stu-id="c0373-110">For more information see [Error code 30125-4 or 30125-1011 when installing Office](https://support.office.com/article/7bfabec6-76be-4cde-880e-819a9c569612.aspx)</span></span>
   
 

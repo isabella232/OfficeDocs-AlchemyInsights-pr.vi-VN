@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 3bab036c-dbaa-406a-8b73-1e5f31993436
 ms.openlocfilehash: 77bf1d550c53a750129fb87ecd795c5ea3a463b5
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28320840"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29500520"
 ---
-# <a name="data-location"></a><span data-ttu-id="1c342-102">Dữ liệu vị trí</span><span class="sxs-lookup"><span data-stu-id="1c342-102">Data location</span></span>
+# <a name="data-location"></a><span data-ttu-id="fa404-102">Dữ liệu vị trí</span><span class="sxs-lookup"><span data-stu-id="fa404-102">Data location</span></span>
 
-<span data-ttu-id="1c342-p101">Chúng tôi duy trì nhiều bản sao của dữ liệu của bạn qua Trung tâm dữ liệu cho dự phòng. [Xem dữ liệu của bạn nằm ở đâu](https://office.com/datamaps). Nếu chúng ta mở rộng vị trí của dữ liệu của bạn thành một quốc gia mới hoặc vùng, chúng tôi sẽ cung cấp cho bạn thông báo trước một tháng.</span><span class="sxs-lookup"><span data-stu-id="1c342-p101">We maintain multiple copies of your data across datacenters for redundancy. [See where your data is located](https://office.com/datamaps). If we expand the location of your data into a new country or region, we'll give you one month advance notice.</span></span>
+<span data-ttu-id="fa404-p101">Chúng tôi duy trì nhiều bản sao của dữ liệu của bạn qua Trung tâm dữ liệu cho dự phòng. [Xem dữ liệu của bạn nằm ở đâu](https://office.com/datamaps). Nếu chúng ta mở rộng vị trí của dữ liệu của bạn thành một quốc gia mới hoặc vùng, chúng tôi sẽ cung cấp cho bạn thông báo trước một tháng.</span><span class="sxs-lookup"><span data-stu-id="fa404-p101">We maintain multiple copies of your data across datacenters for redundancy. [See where your data is located](https://office.com/datamaps). If we expand the location of your data into a new country or region, we'll give you one month advance notice.</span></span>
   
-<span data-ttu-id="1c342-106">Để biết thêm chi tiết về bảo mật, quyền riêng tư và tuân thủ Office 365, xem [Trung tâm tin Office 365](https://products.office.com/business/office-365-trust-center-welcome).</span><span class="sxs-lookup"><span data-stu-id="1c342-106">For more info about Office 365 security, privacy, and compliance, see the [Office 365 Trust Center](https://products.office.com/business/office-365-trust-center-welcome).</span></span> 
+<span data-ttu-id="fa404-106">Để biết thêm chi tiết về bảo mật, quyền riêng tư và tuân thủ Office 365, xem [Trung tâm tin Office 365](https://products.office.com/business/office-365-trust-center-welcome).</span><span class="sxs-lookup"><span data-stu-id="fa404-106">For more info about Office 365 security, privacy, and compliance, see the [Office 365 Trust Center](https://products.office.com/business/office-365-trust-center-welcome).</span></span> 
   
 

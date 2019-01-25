@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 7d169f0f-828b-4d2a-b60b-ec9297df2c59
 ms.openlocfilehash: c3ba1eb76432cd022943c51a5a7cdfdff849fb3b
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28321109"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29497231"
 ---
-# <a name="turn-off-focused-inbox"></a><span data-ttu-id="13cfa-102">Tắt vào hộp thư đến tập trung</span><span class="sxs-lookup"><span data-stu-id="13cfa-102">Turn off Focused Inbox</span></span>
+# <a name="turn-off-focused-inbox"></a><span data-ttu-id="54d52-102">Tắt vào hộp thư đến tập trung</span><span class="sxs-lookup"><span data-stu-id="54d52-102">Turn off Focused Inbox</span></span>
 
-1. <span data-ttu-id="13cfa-103">Chọn **cài đặt**![cài đặt](media/f4b2e798-fff1-4a14-931f-5677a4543b58.png) \> **tập trung vào hộp thư đến**.</span><span class="sxs-lookup"><span data-stu-id="13cfa-103">Select **Settings**![Settings](media/f4b2e798-fff1-4a14-931f-5677a4543b58.png) \> **Focused Inbox**.</span></span>
+1. <span data-ttu-id="54d52-103">Chọn **cài đặt**![cài đặt](media/f4b2e798-fff1-4a14-931f-5677a4543b58.png) \> **tập trung vào hộp thư đến**.</span><span class="sxs-lookup"><span data-stu-id="54d52-103">Select **Settings**![Settings](media/f4b2e798-fff1-4a14-931f-5677a4543b58.png) \> **Focused Inbox**.</span></span>
     
-2. <span data-ttu-id="13cfa-104">Trong **khi nhận được email**, hãy chọn **không sắp xếp tin nhắn**.</span><span class="sxs-lookup"><span data-stu-id="13cfa-104">Under **When email is received**, select **Don't sort messages**.</span></span>
+2. <span data-ttu-id="54d52-104">Trong **khi nhận được email**, hãy chọn **không sắp xếp tin nhắn**.</span><span class="sxs-lookup"><span data-stu-id="54d52-104">Under **When email is received**, select **Don't sort messages**.</span></span>
     
-3. <span data-ttu-id="13cfa-105">Chọn **OK**.</span><span class="sxs-lookup"><span data-stu-id="13cfa-105">Select **OK**.</span></span>
+3. <span data-ttu-id="54d52-105">Chọn **OK**.</span><span class="sxs-lookup"><span data-stu-id="54d52-105">Select **OK**.</span></span>
     
-<span data-ttu-id="13cfa-106">Để tìm hiểu thêm, hãy xem [Tập trung vào các hộp thư cho Outlook](https://go.microsoft.com/fwlink/p/?linkid=873108).</span><span class="sxs-lookup"><span data-stu-id="13cfa-106">To learn more, see [Focused Inbox for Outlook](https://go.microsoft.com/fwlink/p/?linkid=873108).</span></span>
+<span data-ttu-id="54d52-106">Để tìm hiểu thêm, hãy xem [Tập trung vào các hộp thư cho Outlook](https://go.microsoft.com/fwlink/p/?linkid=873108).</span><span class="sxs-lookup"><span data-stu-id="54d52-106">To learn more, see [Focused Inbox for Outlook](https://go.microsoft.com/fwlink/p/?linkid=873108).</span></span>
   
 
