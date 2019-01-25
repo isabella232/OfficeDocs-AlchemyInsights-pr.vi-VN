@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
 ms.openlocfilehash: c263f8b1692f5116222d753964e6a9e16eb5d1ac
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28320845"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29496580"
 ---
 Khi sử dụng **chính sách DLP**, người dùng có thể được thông báo về vi phạm chính sách với **lời khuyên chính sách**. Quản trị viên có thể đặt cấu hình chính sách Mẹo để hiển thị trong khi thử nghiệm chính sách DLP của họ hoặc khi các chính sách ở chế độ thi hành đầy đủ. 
   

@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: f6fcf5ad-55a1-4f25-af27-1f7c1ce06409
 ms.openlocfilehash: eab000e0a850c522ede5f51ae46ba11b87ba4732
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28320378"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29496649"
 ---
 # <a name="dlp-not-working-as-expected"></a>DLP không làm việc như mong đợi
 
@@ -36,7 +36,7 @@ Khi sử dụng **các loại thông tin nhạy cảm được xây dựng trong
     
     Nếu bạn đang cố gắng để tạo ra các loại tùy chỉnh các thông tin nhạy cảm, sử dụng bài viết sau để biết thông tin về làm thế nào để tạo ra một loại nhạy cảm tùy chỉnh: [tạo một loại tùy chỉnh các thông tin nhạy cảm](https://docs.microsoft.com/en-us/office365/securitycompliance/create-a-custom-sensitive-information-type).
     
- **Báo cáo:**
+ Báo cáo
   
 - Nhận được dữ liệu nhạy cảm hiểu biết với [báo cáo DLP.](https://docs.microsoft.com/en-us/office365/securitycompliance/data-loss-prevention-policies#dlp-reports)
     
