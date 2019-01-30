@@ -1,11 +1,3 @@
----
-ms.openlocfilehash: 213940d30877da1794b78f1d86bd2fa251bf4121
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
-ms.contentlocale: vi-VN
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29454452"
----
 <!-- This file is generated automatically each week. Changes made to this file will be overwritten.-->
 
 
@@ -14,7 +6,7 @@ ms.locfileid: "29454452"
 ## <a name="week-of-january-07-2019"></a>Tuần của tháng 1 07, 2019
 
 
-| Được đăng trên |Tiêu đề chủ đề | Thay đổi, |
+| Được đăng trên |Tiêu đề chủ đề | Thay đổi |
 |------|------------|--------|
 | 7-1-2019 | [Thay đổi mật khẩu của bạn](/AlchemyInsights/change-your-password-in-outlook.com) | Thêm vào |
 | 7-1-2019 | [Thay đổi quyền truy cập vào một hộp thư](/AlchemyInsights/changing-permissions-on-a-mailbox) | Thêm vào |
@@ -302,7 +294,7 @@ ms.locfileid: "29454452"
 | 10-1-2019 | [Tạo một trang web thông tin liên lạc](/AlchemyInsights/create-a-communication-site) | Thêm vào |
 | 10-1-2019 | [Tạo ra một dòng chảy](/AlchemyInsights/create-a-flow) | Thêm vào |
 | 10-1-2019 | [Tạo một trang web hiện đại đội](/AlchemyInsights/create-a-modern-team-site) | Thêm vào |
-| 10-1-2019 | Tạo hộp thư chung | Thêm vào |
+| 10-1-2019 | [Tạo một hộp thư dùng chung](/AlchemyInsights/create-a-shared-mailbox) | Thêm vào |
 | 10-1-2019 | [Tạo một trang web SharePoint](/AlchemyInsights/create-a-sharepoint-site) | Thêm vào |
 | 10-1-2019 | [Tạo một trang web trong SharePoint Online](/AlchemyInsights/create-a-site-in-sharepoint-online) | Thêm vào |
 | 10-1-2019 | [Tạo và sử dụng hộp thư dùng chung](/AlchemyInsights/create-and-use-a-shared-mailbox-0) | Thêm vào |
@@ -599,7 +591,7 @@ ms.locfileid: "29454452"
 | 11-1-2019 | [Tạo một trang web thông tin liên lạc](/AlchemyInsights/create-a-communication-site) | Sửa đổi lần |
 | 11-1-2019 | [Tạo ra một dòng chảy](/AlchemyInsights/create-a-flow) | Sửa đổi lần |
 | 11-1-2019 | [Tạo một trang web hiện đại đội](/AlchemyInsights/create-a-modern-team-site) | Sửa đổi lần |
-| 11-1-2019 | Tạo hộp thư chung | Sửa đổi lần |
+| 11-1-2019 | [Tạo một hộp thư dùng chung](/AlchemyInsights/create-a-shared-mailbox) | Sửa đổi lần |
 | 11-1-2019 | [Tạo một trang web SharePoint](/AlchemyInsights/create-a-sharepoint-site) | Sửa đổi lần |
 | 11-1-2019 | [Tạo một trang web trong SharePoint Online](/AlchemyInsights/create-a-site-in-sharepoint-online) | Sửa đổi lần |
 | 11-1-2019 | [Tạo và sử dụng hộp thư dùng chung](/AlchemyInsights/create-and-use-a-shared-mailbox-0) | Sửa đổi lần |
@@ -637,9 +629,25 @@ ms.locfileid: "29454452"
 ## <a name="week-of-january-14-2019"></a>Tuần của tháng 1 14, 2019
 
 
-| Được đăng trên |Tiêu đề chủ đề | Thay đổi, |
+| Được đăng trên |Tiêu đề chủ đề | Thay đổi |
 |------|------------|--------|
 | 14-1-2019 | Giả kim thuật giữ chỗ | gỡ bỏ |
 | 14-1-2019 | Thêm tên miền alchemy | gỡ bỏ |
 | 14-1-2019 | [Giả kim thuật nhìn thấy nhà](/AlchemyInsights/index) | Sửa đổi lần |
 | 17-1-2019 | [tương tự như là tên tập tin là tốt nhất [RULE #-mô tả]](/AlchemyInsights/1-alchemy-insight-template) | Thêm vào |
+
+
+## <a name="week-of-january-21-2019"></a>Tuần của tháng 1 21, 2019
+
+
+| Được đăng trên |Tiêu đề chủ đề | Thay đổi |
+|------|------------|--------|
+| 22-1-2019 | [1047 antiSpam 550 5.7.708 dịch vụ không sẵn dùng. Truy cập bị từ chối, lưu lượng truy cập không được chấp nhận từ IP](/AlchemyInsights/1047-antispam-550-5-7-708-service-unavailable-access-denied-traffic-not-accepted) | Sửa đổi lần |
+| 22-1-2019 | [1049 antiSpam 4.5.3 quá nhiều người nhận (AS780090)](/AlchemyInsights/1049-antispam-4-5-3-too-many-recipients-as780090) | Sửa đổi lần |
+| 22-1-2019 | [1050 antispam 4.7.500 hệ phục vụ bận rộn. Xin vui lòng thử lại sau từ [XXX.XXX.XXX.XXX]](/AlchemyInsights/1050-antispam-4-7-500-server-busy-please-try-again-later-from-xxx-xxx-xxx-xxx) | Sửa đổi lần |
+| 22-1-2019 | [1051 antispam 4.7.500 truy cập từ chối, xin vui lòng thử lại sau](/AlchemyInsights/1051-antispam-4-7-500-access-denied-please-try-again-later) | Sửa đổi lần |
+| 22-1-2019 | [Chuyển tiếp email thông qua Office 365](/AlchemyInsights/relay-email-through-office-365) | Sửa đổi lần |
+| 24-1-2019 | [Điều khiển sáng tạo của các nhóm](/AlchemyInsights/control-creation-of-groups) | Sửa đổi lần |
+| 24-1-2019 | [Outlook vấn đề với Exchange 2007](/AlchemyInsights/outlook-issues-with-exchange-2007) | Thêm vào |
+| 24-1-2019 | [Khôi phục lại một nhóm Office 365 sử dụng trung tâm quản trị Exchange](/AlchemyInsights/restore-an-office-365-group-using-eac%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B) | đổi tên |
+| 24-1-2019 | [Khắc phục sự cố với Microsoft Intune](/AlchemyInsights/troubleshoot-issues-with-microsoft-intune) | đổi tên |
