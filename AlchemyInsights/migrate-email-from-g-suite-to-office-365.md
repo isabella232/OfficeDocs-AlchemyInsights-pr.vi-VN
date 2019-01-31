@@ -11,15 +11,15 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 09a4c114-ef71-4958-ad1d-d5acdc47cd05
-ms.openlocfilehash: fca1117f28eb152c57d0e8ec84a8f090ff18c328
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 660c27d8385483a120a17a30d6282dca6e2e8721
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29496644"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29659838"
 ---
-# <a name="migrate-email-from-g-suite-to-office-365"></a><span data-ttu-id="382e8-102">Di chuyển email từ G mật với Office 365</span><span class="sxs-lookup"><span data-stu-id="382e8-102">Migrate email from G Suite to Office 365</span></span>
+# <a name="migrate-email-from-g-suite-to-office-365"></a><span data-ttu-id="b8ae9-102">Di chuyển email từ G mật với Office 365</span><span class="sxs-lookup"><span data-stu-id="b8ae9-102">Migrate email from G Suite to Office 365</span></span>
 
-<span data-ttu-id="382e8-103">Để di chuyển email từ G mật với Office 365, hãy làm theo quy trình này: [mật G di chuyển hộp thư sang Office 365](https://support.office.com/en-us/article/migrate-g-suite-mailboxes-to-office-365-665dc56c-581c-4e35-8028-6bc1e8497016).</span><span class="sxs-lookup"><span data-stu-id="382e8-103">To migrate email from G Suite to Office 365, please follow this process: [Migrate G Suite mailboxes to Office 365](https://support.office.com/en-us/article/migrate-g-suite-mailboxes-to-office-365-665dc56c-581c-4e35-8028-6bc1e8497016).</span></span>
+<span data-ttu-id="b8ae9-103">Để di chuyển email từ G mật với Office 365, hãy làm theo quy trình này: [mật G di chuyển hộp thư sang Office 365](https://support.office.com/article/migrate-g-suite-mailboxes-to-office-365-665dc56c-581c-4e35-8028-6bc1e8497016).</span><span class="sxs-lookup"><span data-stu-id="b8ae9-103">To migrate email from G Suite to Office 365, please follow this process: [Migrate G Suite mailboxes to Office 365](https://support.office.com/article/migrate-g-suite-mailboxes-to-office-365-665dc56c-581c-4e35-8028-6bc1e8497016).</span></span>
   
 
