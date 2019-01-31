@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: a3a923e8-fece-4a26-b8b6-00970d75275e
-ms.openlocfilehash: ee96abfa179c36ebaf43dbd327d4608b849395d3
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: b8b3e5389778b3aff0fbe2f6506ba2b2fc3abc7e
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29496982"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29655689"
 ---
 # <a name="the-recoverable-items-folder-is-full"></a>Thư mục mục có thể phục hồi được đầy đủ
 
@@ -36,7 +36,7 @@ Hộp thư không phải là tổ chức, quản trị viên có thể sử dụ
     
 - [Hộp thư tìm kiếm](https://docs.microsoft.com/powershell/module/exchange/mailboxes/Search-Mailbox)
     
-Cho các hộp thư về tổ chức, quản trị viên có để loại bỏ các giữ trước khi họ có thể các khoản mục đã xóa khỏi thư mục mục có thể phục hồi. Để biết thêm chi tiết, hãy xem [xóa các khoản mục trong các mục có thể phục hồi các thư mục trong hộp thư dựa trên giữ](https://docs.microsoft.com/en-us/office365/securitycompliance/delete-items-in-the-recoverable-items-folder-of-mailboxes-on-hold).
+Cho các hộp thư về tổ chức, quản trị viên có để loại bỏ các giữ trước khi họ có thể các khoản mục đã xóa khỏi thư mục mục có thể phục hồi. Để biết thêm chi tiết, hãy xem [xóa các khoản mục trong các mục có thể phục hồi các thư mục trong hộp thư dựa trên giữ](https://docs.microsoft.com/office365/securitycompliance/delete-items-in-the-recoverable-items-folder-of-mailboxes-on-hold).
   
 Để giúp ngăn ngừa thư mục mục có thể phục hồi từ trở nên đầy đủ, quản trị viên có thể tăng giới hạn lưu trữ các mục có thể phục hồi các thư mục hộp thư vào tổ chức và thiết lập một chính sách lưu giữ hộp thư di chuyển khoản mục khỏi thư mục mục có thể phục hồi để lưu trữ của người dùng hộp thư. Thấy [tăng các khoản mục có thể phục hồi định mức cho hộp thư trên tổ chức](https://docs.microsoft.com/office365/securitycompliance/increase-the-recoverable-quota-for-mailboxes-on-hold).
   

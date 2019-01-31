@@ -2,20 +2,23 @@
 title: Cài đặt treo cứng hoặc bị mắc kẹt
 ms.author: janellem
 author: janellem
-ms.date: 12/19/2018
+ms.date: 1/17/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: b54d4f87-e366-47e5-b3d8-42477f72f6a3
-ms.openlocfilehash: 9a4584abc9e70b17757302a58c8aaa46b2ac95c2
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: c4fdbe9e117d66af5e2099a422985112880f8f1e
+ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29496520"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29646009"
 ---
 # <a name="installation-hangs-or-gets-stuck"></a>Cài đặt treo cứng hoặc bị mắc kẹt
+
+
 
 Bạn có thể thấy hành vi này do kết nối mạng, phần mềm chống vi-rút hoặc cài đặt Windows Update trên máy tính của bạn. Dưới đây là một số điều bạn có thể cố gắng sửa chữa vấn đề.
   
@@ -23,7 +26,7 @@ Bạn có thể thấy hành vi này do kết nối mạng, phần mềm chống
     
 - Sử dụng một kết nối có dây
     
-- Nếu bạn đang ở trên một kết nối internet chậm, cài đặt văn phòng [bằng cách sử dụng văn phòng offline cài đặt](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA.aspx)
+- Nếu bạn đang ở trên một kết nối internet chậm, cài đặt văn phòng [bằng cách sử dụng văn phòng offline cài đặt](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)[](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA.aspx)
     
 - Tạm thời tắt phần mềm diệt virus
     
@@ -31,6 +34,6 @@ Bạn có thể thấy hành vi này do kết nối mạng, phần mềm chống
     
 - Gỡ bỏ và cài đặt lại Office
     
-[Văn phòng dành nhiều thời gian để cài đặt](https://support.office.com/article/0f09f357-3fef-42a6-b8aa-cef4c6c44bdf?wt.mc_id=Alchemy_ClientDIA.aspx)
+[Văn phòng dành nhiều thời gian để cài đặt](https://support.office.com/article/0f09f357-3fef-42a6-b8aa-cef4c6c44bdf?wt.mc_id=Alchemy_ClientDIA)
   
 
