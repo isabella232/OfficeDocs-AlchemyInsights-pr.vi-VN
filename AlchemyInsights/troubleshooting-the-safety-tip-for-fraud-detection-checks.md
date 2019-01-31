@@ -6,17 +6,20 @@ manager: mnirkhe
 ms.date: 1/9/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 96ebe3c5-66ea-4662-98b7-052c2181c2f3
-ms.openlocfilehash: 24842e8cc5c6e47fb0eb637e6a3211637ede1ed8
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 06a0b5b8d29052e6033de5938b8ea67ceabc9848
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29496971"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29658137"
 ---
 # <a name="troubleshooting-the-safety-tip-for-fraud-detection-checks"></a>Khắc phục sự cố Mẹo an toàn cho phát hiện gian lận kiểm tra
+
+
 
 Nếu bạn đang nhận được một Mẹo an toàn mà nói "người gửi không thành công của chúng tôi kiểm tra phát hiện gian lận và có thể không là những người họ xuất hiện để", sau đó người gửi không thành công để vượt qua kiểm tra xác thực DKIM hoặc SPF. Các phương pháp tốt nhất để giải quyết điều này là dành cho người gửi cho phép bản thân mình. Nếu người gửi gửi thay cho bạn, bạn cần phải cho phép chúng bằng cách thêm các địa chỉ IP của người gửi đến bản ghi SPF của bạn.
   
@@ -24,8 +27,8 @@ Xem [khắc phục sự cố Mẹo an toàn (nghi ngờ) màu đỏ cho phát hi
   
 Dưới đây là một số liên kết có thể giúp:
   
-- [Cách Office 365 sử dụng khung chính sách người gửi (SPF) để ngăn chặn thư giả mạo](https://docs.microsoft.com/en-us/office365/SecurityCompliance/how-office-365-uses-spf-to-prevent-spoofing)
+- [Cách Office 365 sử dụng khung chính sách người gửi (SPF) để ngăn chặn thư giả mạo](https://docs.microsoft.com/office365/SecurityCompliance/how-office-365-uses-spf-to-prevent-spoofing)
     
-- [Thiết lập SPF trong Office 365 để giúp chặn thư giả mạo](https://docs.microsoft.com/en-us/office365/SecurityCompliance/set-up-spf-in-office-365-to-help-prevent-spoofing)
+- [Thiết lập SPF trong Office 365 để giúp chặn thư giả mạo](https://docs.microsoft.com/office365/SecurityCompliance/set-up-spf-in-office-365-to-help-prevent-spoofing)
     
 

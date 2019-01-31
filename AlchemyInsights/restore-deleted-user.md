@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: dae7b5b0-1003-40bd-b59f-8c5009fc8d82
-ms.openlocfilehash: b246b17a2809859b06841c262011e368e72c77b3
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 3c1fc65a08816403b453c3159b2ae3573e741a1a
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29497108"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29657921"
 ---
 # <a name="restore-a-user-in-office-365"></a>Khôi phục một người dùng trong Office 365
 
@@ -30,6 +30,6 @@ Khôi phục các người dùng trong Office 365 bằng cách sử dụng các 
     
 4. Nhấp vào **gửi email và đóng**, và bạn đã làm xong!
     
-Không phải là dễ dàng? Để biết thêm thông tin chi tiết và bước với các ảnh chụp màn hình, hãy kiểm tra bài viết này: [khôi phục người dùng trong Office 365](https://support.office.com/article/https://support.office.com/en-us/article/Restore-a-user-in-Office-365-2c261e42-5dd1-48b0-845f-2a016d29cfc1.aspx)
+Không phải là dễ dàng? Để biết thêm thông tin chi tiết và bước với các ảnh chụp màn hình, hãy kiểm tra bài viết này: [khôi phục người dùng trong Office 365](https://support.office.com/article/https://support.office.com/article/Restore-a-user-in-Office-365-2c261e42-5dd1-48b0-845f-2a016d29cfc1.aspx)
   
 

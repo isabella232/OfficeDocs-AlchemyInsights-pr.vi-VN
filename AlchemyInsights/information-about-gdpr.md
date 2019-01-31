@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 729fdf4e-810a-4a99-9438-60ae8291fe4c
-ms.openlocfilehash: 7b01f640b1c8d538e4209d7f905b1474b9ffabd7
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: baec2a01fe1bbc74a7005463bd2c52dbcfd298cf
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29497434"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29657885"
 ---
 # <a name="information-about-gdpr"></a>Thông tin về GDPR
 
@@ -25,10 +25,10 @@ ms.locfileid: "29497434"
     
   - [Báo cáo kiểm toán](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide)
     
-- Thông tin về **Dữ liệu đối tượng yêu cầu** (DSR) - khám phá, truy cập, khắc phục, hạn chế, xóa, xuất khẩu là [đây.](https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-dsr-office365)
+- Thông tin về **Dữ liệu đối tượng yêu cầu** (DSR) - khám phá, truy cập, khắc phục, hạn chế, xóa, xuất khẩu là [đây.](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-office365)
     
 - Thông tin về **Dữ liệu vi phạm thông báo** là [đây.](https://servicetrust.microsoft.com/ViewPage/GDPRBreach)
     
-- Thông tin về **vị trí dữ liệu** là [đây.](https://products.office.com/en-us/where-is-your-data-located?ms.officeurl=datamaps&amp;geo=All#All)
+- Thông tin về **vị trí dữ liệu** là [đây.](https://products.office.com/where-is-your-data-located?ms.officeurl=datamaps&amp;geo=All#All)
     
 

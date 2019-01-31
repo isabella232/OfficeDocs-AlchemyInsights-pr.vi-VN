@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 1cba32c4-37ce-4ec1-9e58-8d3440b53d57
-ms.openlocfilehash: c71fce8621057093d23891c26f7b0285fdc8b9ed
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 589820c945fb20f00431655f9f53196e740bb38f
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29496996"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29655833"
 ---
 # <a name="troubleshoot-password-synchronization"></a>Khắc phục sự cố đồng bộ hoá mật khẩu
 
@@ -57,6 +57,6 @@ Nhiệm vụ khắc phục sự cố thực hiện kiểm tra sau đây:
     
   - Xác nhận rằng các tài khoản Dịch vụ miền Active Directory (AD DS) được sử dụng bởi kết nối Active Directory tại chỗ có đúng tên người dùng, mật khẩu, và các quyền cần thiết để đồng bộ hoá mật khẩu.
     
-Để thêm trợ giúp khắc phục sự cố đồng bộ mật khẩu, hãy xem [đồng bộ hoá mật khẩu khắc phục với Azure quảng cáo kết nối đồng bộ](https://docs.microsoft.com/en-us/azure/active-directory/connect/active-directory-aadconnectsync-troubleshoot-password-synchronization).
+Để thêm trợ giúp khắc phục sự cố đồng bộ mật khẩu, hãy xem [đồng bộ hoá mật khẩu khắc phục với Azure quảng cáo kết nối đồng bộ](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-troubleshoot-password-synchronization).
   
 

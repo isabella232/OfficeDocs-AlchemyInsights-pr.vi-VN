@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: c8f2a1a1-9704-4d08-ba60-d836b9a5f981
-ms.openlocfilehash: 14c7b17a710137e156d6f8ac31d67701c9a86ac2
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: c7f0b2c14c32ceb24b64bdb06bef4d48cc2ad39c
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29497510"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29661233"
 ---
 # <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>Làm thế nào để thay đổi từ thẻ tín dụng thanh toán cho các hóa đơn?
 
@@ -28,12 +28,9 @@ ms.locfileid: "29497510"
 2. Chọn các thuê bao mà bạn muốn thay đổi. Trong phần **phương thức thanh toán** , chọn **thay đổi chi tiết thanh toán**.
     
 3. Trong cửa sổ **thay đổi chi tiết thanh toán** , chọn **thay đổi phương thức thanh toán của bạn**.
-    
-    > [!TIP]
-    > Nếu liên kết **thay đổi phương thức thanh toán của bạn** không hiển thị, nó có nghĩa rằng chuyển đổi từ thẻ tín dụng hoặc tài khoản ngân hàng để hóa đơn không có sẵn cho đăng ký bởi vì việc đăng ký không đáp ứng các số tiền tối thiểu chi phí cho các thanh toán của hóa đơn. Số tiền chi phí tối thiểu bắt buộc phải được lập hoá đơn của hóa đơn thay đổi theo vị trí địa lý. 
+<br>*Lưu ý: Nếu các liên kết **thay đổi phương thức thanh toán của bạn** không hiển thị, nó có nghĩa rằng chuyển đổi từ thẻ tín dụng hoặc tài khoản ngân hàng để hóa đơn không có sẵn cho đăng ký bởi vì việc đăng ký không đáp ứng các số tiền tối thiểu chi phí cho các thanh toán của hóa đơn. Số tiền chi phí tối thiểu bắt buộc phải được lập hoá đơn của hóa đơn thay đổi theo vị trí địa lý.*
   
 4. Trong các ** thay đổi phương thức thanh toán của bạn ** hộp thoại, chọn **tiếp tục**.
     
 5. Chọn **OK** để trở về Trung tâm quản trị. 
-    
-
+   

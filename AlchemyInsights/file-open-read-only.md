@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
-ms.openlocfilehash: 46b2489e86c018b3cbd6feb07a3a2e397de383b6
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 6c4610a133cf4202310bfd166a61ab84ca6ecdbb
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29499548"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29661809"
 ---
 # <a name="file-open-read-only"></a>Tập tin mở chỉ-đọc
 
@@ -30,7 +30,7 @@ Bạn có thể kiểm tra các thuộc tính tệp bằng cách bấm chuột p
   
  **Nội dung là trong diện được bảo vệ**
   
-Tập tin từ Internet và từ các địa điểm có khả năng không an toàn có thể chứa vi-rút, sâu, hoặc các loại khác của phần mềm độc hại có thể làm hại máy tính của bạn. Điều này cũng thường là trường hợp với file đính kèm email hoặc các tập tin bạn đã tải xuống. Để giúp bảo vệ máy tính của bạn, các tập tin từ các địa điểm có khả năng không an toàn được mở trong chế độ xem bảo vệ. Bằng cách sử dụng Protected View, bạn có thể đọc một tập tin và xem nội dung của nó trong khi làm giảm những rủi ro. Để biết thêm chi tiết về bảo vệ xem và làm thế nào để thay đổi cài đặt, xem bài viết này: [xem bảo vệ là gì?](https://support.office.com/en-us/article/d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
+Tập tin từ Internet và từ các địa điểm có khả năng không an toàn có thể chứa vi-rút, sâu, hoặc các loại khác của phần mềm độc hại có thể làm hại máy tính của bạn. Điều này cũng thường là trường hợp với file đính kèm email hoặc các tập tin bạn đã tải xuống. Để giúp bảo vệ máy tính của bạn, các tập tin từ các địa điểm có khả năng không an toàn được mở trong chế độ xem bảo vệ. Bằng cách sử dụng Protected View, bạn có thể đọc một tập tin và xem nội dung của nó trong khi làm giảm những rủi ro. Để biết thêm chi tiết về bảo vệ xem và làm thế nào để thay đổi cài đặt, xem bài viết này: [xem bảo vệ là gì?](https://support.office.com/article/d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
   
  **OneDrive là đầy đủ?**
   
@@ -38,7 +38,7 @@ Nếu tập tin được lưu trữ trên OneDrive và dung lượng lưu trữ 
   
  **Văn phòng được kích hoạt?**
   
-Nếu văn phòng không được kích hoạt, hoặc đăng ký của bạn đã hết hạn, bạn có thể chỉ đọc giảm chức năng Mode. Thông tin về làm thế nào để kích hoạt Office, xem: [sản phẩm không có giấy phép và kích hoạt lỗi trong văn phòng](https://support.office.com/en-us/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
+Nếu văn phòng không được kích hoạt, hoặc đăng ký của bạn đã hết hạn, bạn có thể chỉ đọc giảm chức năng Mode. Thông tin về làm thế nào để kích hoạt Office, xem: [sản phẩm không có giấy phép và kích hoạt lỗi trong văn phòng](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
   
  **Nếu vẫn thất bại...**
   

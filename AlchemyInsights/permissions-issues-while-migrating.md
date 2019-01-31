@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: cbec51a7-5513-4848-a9ae-cdf993e000a8
-ms.openlocfilehash: 0b375c3054d6ebd8638b167770fb73f12c7e95ef
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: d85a9e37e30bf83b8990247c4a7d529b4d9ff305
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29496674"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29656481"
 ---
 # <a name="user-profile-and-photo-synchronization"></a>Đồng bộ ảnh và hồ sơ người dùng
 
@@ -25,6 +25,6 @@ ms.locfileid: "29496674"
   
 Để biết thêm chi tiết về quá trình đồng bộ hoá cấu hình, xem [các thông tin về hồ sơ người dùng đồng bộ hoá trong SharePoint Online](https://go.microsoft.com/fwlink/?linkid=2022639)
     
-- **Cập nhật hồ sơ tại văn phòng nghiên cứu** - Delve người dùng có thể quản lý hồ sơ công cụ Office 365 của họ. Để biết thêm chi tiết, hãy xem [xem và cập nhật hồ sơ của bạn trong văn phòng nghiên cứu](https://support.office.com/en-us/article/View-and-update-your-profile-in-Office-Delve-4e84343b-eedf-45a1-aeb9-8627ccca14ba).
+- **Cập nhật hồ sơ tại văn phòng nghiên cứu** - Delve người dùng có thể quản lý hồ sơ công cụ Office 365 của họ. Để biết thêm chi tiết, hãy xem [xem và cập nhật hồ sơ của bạn trong văn phòng nghiên cứu](https://support.office.com/article/View-and-update-your-profile-in-Office-Delve-4e84343b-eedf-45a1-aeb9-8627ccca14ba).
     
 

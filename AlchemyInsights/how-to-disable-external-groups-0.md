@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 962c2a4f-7dac-4ccc-98a8-d0d283c95808
-ms.openlocfilehash: 037589c42768addd5fd19e9b48a2985d2ab4c7da
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 8518372f85420b7ffd2a6be109bad08a23069a33
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29497442"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29660837"
 ---
 # <a name="how-to-disable-external-groups"></a>Làm thế nào để vô hiệu hóa nhóm bên ngoài
 
@@ -27,6 +27,6 @@ Chúng ta có 4 lựa chọn cho người dùng bên ngoài truy cập vào mạ
     
 4. **Mạng lưới bên ngoài** - tùy chọn này cho phép bạn để mời người dùng bên ngoài với một mạng bên ngoài xác nhận quản trị viên có thể tạo ra trong mạng của bạn. Tùy chọn này là tốt nhất để lưu trữ bên ngoài cộng đồng. 
     
-Để biết thêm chi tiết, xin vui lòng xem [thêm bên ngoài người tham gia nhắn tin của cuộc đàm thoại Yammer](https://support.office.com/en-us/article/add-external-messaging-participants-to-your-yammer-conversations-423653bb-86b2-4eac-9d7e-dca121f7c16c?ui=en-US&amp;rs=en-US&amp;ad=US) và [Hỏi đáp tin nhắn bên ngoài (Yammer)](https://support.office.com/en-us/article/External-messaging-FAQ-Yammer-35b59d6c-bb1c-4541-bf19-9f67d2f2b199)
+Để biết thêm chi tiết, xin vui lòng xem [thêm bên ngoài người tham gia nhắn tin của cuộc đàm thoại Yammer](https://support.office.com/article/add-external-messaging-participants-to-your-yammer-conversations-423653bb-86b2-4eac-9d7e-dca121f7c16c?ui=en-US&amp;rs=en-US&amp;ad=US) và [Hỏi đáp tin nhắn bên ngoài (Yammer)](https://support.office.com/article/External-messaging-FAQ-Yammer-35b59d6c-bb1c-4541-bf19-9f67d2f2b199)
   
 

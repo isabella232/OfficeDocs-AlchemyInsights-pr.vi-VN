@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 6a44f797-acc7-4cbe-aa5a-47e2581fabf5
-ms.openlocfilehash: 80516ed9e15040475a8b65a1af98a1b561704d49
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 010474bcc4cc6f97bcaafef9dfe6f4accfed4247
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29498540"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29659613"
 ---
 # <a name="consistencyguid--sourceanchor-behavior"></a>ConsistencyGuid / sourceAnchor hành vi
 
@@ -28,6 +28,6 @@ Azure quảng cáo kết nối (Phiên bản 1.1.524.0 và sau) bây giờ tạo
     
  **Lưu ý:** Một khi một chỗ đối tượng quảng cáo nhập khẩu vào Azure quảng cáo kết nối (có nghĩa là, được nhập vào không gian kết nối AD và dự kiến vào Metaverse), bạn không thể thay đổi giá trị sourceAnchor của nó nữa. Để xác định giá trị sourceAnchor cho một cho tại chỗ quảng cáo đối tượng, cấu hình thuộc tính msDS-ConsistencyGuid của nó trước khi nó được nhập vào Azure quảng cáo kết nối. 
   
-Để biết thêm chi tiết về SourceAnchor và ConsistencyGuid, tham khảo như sau: [Azure quảng cáo kết nối: thiết kế khái niệm](https://docs.microsoft.com/en-us/azure/active-directory/connect/active-directory-aadconnect-design-concepts)
+Để biết thêm chi tiết về SourceAnchor và ConsistencyGuid, tham khảo như sau: [Azure quảng cáo kết nối: thiết kế khái niệm](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-design-concepts)
   
 

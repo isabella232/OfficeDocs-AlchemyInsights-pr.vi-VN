@@ -11,17 +11,17 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 20ea6700-31b5-4491-aaf3-40ddd775e8a3
-ms.openlocfilehash: 4c42c2b3a51fc656d949fd7468b63b4c66bdfa13
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 1f6eca19567e2e9132b10c2b45b99f51558f5cfc
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29496809"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29661125"
 ---
 # <a name="problems-setting-up-an-exchange-email-account-in-outlook"></a>Các vấn đề về thiết lập tài khoản email Exchange trong Outlook
 
 Nếu bạn đang gặp vấn đề về thiết lập tài khoản Exchange trong Outlook, bạn có thể chạy [Outlook công cụ thiết lập tài khoản](https://aka.ms/SaRA-OutlookSetupProfile) trên máy tính bị ảnh hưởng. Nó sẽ thực hiện các kiểm tra khác nhau và cung cấp các giải pháp có thể để vấn đề thiết lập tài khoản của bạn. 
   
-Nếu bạn vẫn gặp vấn đề, hãy xem [Outlook không thể thiết lập một hồ sơ mới bằng cách sử dụng Exchange tự động phát hiện cho hộp thư Exchange Online trong Office 365](https://support.microsoft.com/en-us/help/2404385/outlook-can-t-set-up-a-new-profile-by-using-exchange-autodiscover-for).
+Nếu bạn vẫn gặp vấn đề, hãy xem [Outlook không thể thiết lập một hồ sơ mới bằng cách sử dụng Exchange tự động phát hiện cho hộp thư Exchange Online trong Office 365](https://support.microsoft.com/help/2404385/outlook-can-t-set-up-a-new-profile-by-using-exchange-autodiscover-for).
   
 

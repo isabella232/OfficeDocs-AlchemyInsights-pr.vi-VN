@@ -9,22 +9,22 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 52484e19-9328-42f4-b675-7e0be9338a8b
-ms.openlocfilehash: 2331b2a599da3bb05d6ae89dd80ef09739d5525a
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 46f868dba0f5e99ed1d2df7cf9bed7e5ebb350c9
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29497454"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29660153"
 ---
-- Để áp dụng một vụ kiện tụng giữ hoặc ở một địa điểm tổ chức cho một hộp thư, một [trao đổi trực tuyến kế hoạch 2 giấy phép](https://docs.microsoft.com/en-us/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) được yêu cầu. Nếu bạn có bất kỳ kế hoạch khác, gán một giấy phép [Trao đổi lưu trữ trực tuyến](https://docs.microsoft.com/en-us/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) riêng biệt cho các tài khoản. 
+- Để áp dụng một vụ kiện tụng giữ hoặc ở một địa điểm tổ chức cho một hộp thư, một [trao đổi trực tuyến kế hoạch 2 giấy phép](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) được yêu cầu. Nếu bạn có bất kỳ kế hoạch khác, gán một giấy phép [Trao đổi lưu trữ trực tuyến](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) riêng biệt cho các tài khoản. 
     
-- **Để cho phép duy trì** cho một người dùng, hãy làm theo các bước được nêu [ở đây](https://docs.microsoft.com/en-us/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold). Khi duy trì tranh chấp được kích hoạt, tất cả nội dung trong hộp thư được đặt trên tổ chức.
+- **Để cho phép duy trì** cho một người dùng, hãy làm theo các bước được nêu [ở đây](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold). Khi duy trì tranh chấp được kích hoạt, tất cả nội dung trong hộp thư được đặt trên tổ chức.
     
-- Để áp dụng một **trong nơi giữ trên người sử dụng duy nhất** hoặc một tổ chức cho **tất cả các hộp thư trong toàn bộ tổ chức**, bạn có thể sử dụng chính sách lưu giữ trong Office 365 bảo mật và tuân thủ trung tâm bằng cách làm theo bước sau vạch ra [ở đây](https://docs.microsoft.com/en-us/Office365/securitycompliance/retention-policies ).
+- Để áp dụng một **trong nơi giữ trên người sử dụng duy nhất** hoặc một tổ chức cho **tất cả các hộp thư trong toàn bộ tổ chức**, bạn có thể sử dụng chính sách lưu giữ trong Office 365 bảo mật và tuân thủ trung tâm bằng cách làm theo bước sau vạch ra [ở đây](https://docs.microsoft.com/Office365/securitycompliance/retention-policies ).
     
     > [!NOTE]
     > Cho các chính sách lưu giữ Org-rộng, người dùng mới sẽ được tự động thêm vào tổ chức. 
   
-- Để xem hoặc khám phá nội dung hộp thư được đặt trên nắm giữ, sử dụng **eDiscovery tìm và xuất khẩu**. Để biết thông tin về cách sử dụng **eDiscovery tìm và xuất khẩu**, thực hiện theo bước sau vạch ra [ở đây](https://docs.microsoft.com/en-us/office365/securitycompliance/export-search-results).
+- Để xem hoặc khám phá nội dung hộp thư được đặt trên nắm giữ, sử dụng **eDiscovery tìm và xuất khẩu**. Để biết thông tin về cách sử dụng **eDiscovery tìm và xuất khẩu**, thực hiện theo bước sau vạch ra [ở đây](https://docs.microsoft.com/office365/securitycompliance/export-search-results).
     
 

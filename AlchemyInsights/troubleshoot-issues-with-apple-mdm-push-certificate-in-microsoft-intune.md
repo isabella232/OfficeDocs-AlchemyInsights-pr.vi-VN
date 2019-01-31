@@ -9,21 +9,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 2259d916-4d6d-40cf-83d0-c4b81eb3ab35
-ms.openlocfilehash: 2edcec1ce3dd7fa1a6776197fa414a22b5a3ff70
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 9ec35a4169532956e55362ab9bd3a8e33d58d9f0
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29497234"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29658029"
 ---
 # <a name="troubleshoot-issues-with-apple-mdm-push-certificate-in-microsoft-intune"></a>Khắc phục sự cố với táo MDM đẩy chứng chỉ Microsoft Intune
 
 Xem xét các nguồn tài nguyên được liệt kê dưới đây để giải quyết vấn đề của bạn bây giờ. 
   
-1. Xem lại [tài liệu này](https://docs.microsoft.com/en-us/intune/apple-mdm-push-certificate-get) để cấu hình hoặc làm mới Apple MDM đẩy giấy chứng nhận. 
+1. Xem lại [tài liệu này](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get) để cấu hình hoặc làm mới Apple MDM đẩy giấy chứng nhận. 
     
-2. Sử dụng [Cổng thông tin khắc phục sự cố dành](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) để chẩn đoán và giải quyết chung đăng ký thất bại. Xem lại [tài liệu này](https://docs.microsoft.com/en-us/intune/help-desk-operators) cho biết thêm chi tiết. 
+2. Sử dụng [Cổng thông tin khắc phục sự cố dành](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) để chẩn đoán và giải quyết chung đăng ký thất bại. Xem lại [tài liệu này](https://docs.microsoft.com/intune/help-desk-operators) cho biết thêm chi tiết. 
     
-3. Xem xét các tài liệu này cho một danh sách các lỗi phổ biến mà ngăn chặn ghi danh và độ phân giải cho mỗi: [hướng dẫn giải đáp thắc mắc](https://support.microsoft.com/en-us/help/4039809/troubleshooting-ios-device-enrollment-in-intune) và [giải đáp thắc mắc doc](https://docs.microsoft.com/en-us/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune).
+3. Xem xét các tài liệu này cho một danh sách các lỗi phổ biến mà ngăn chặn ghi danh và độ phân giải cho mỗi: [hướng dẫn giải đáp thắc mắc](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) và [giải đáp thắc mắc doc](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune).
     
 
