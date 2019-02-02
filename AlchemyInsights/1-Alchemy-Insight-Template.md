@@ -11,16 +11,17 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 1bb1cb35f06e16a2dc85b7e2642b9fa0d203945e
-ms.sourcegitcommit: b032c2ac45540b1eb5dd68a4ec7ce1a5d6922f0e
+ms.openlocfilehash: 278a26f4b986a85e33442baef690d3bb44462ace
+ms.sourcegitcommit: 32355b76d45b730a069575efeec708149d4aeaa3
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29662952"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29697152"
 ---
-# <a name="required-customer-facing-h1-h2-doesnt-work"></a>Yêu cầu khách hàng phải đối mặt với H1, H2 không hoạt động
-Ví dụ văn bản chặn - hãy làm theo các hướng dẫn sau:
+# <a name="required-alchemy-header-h1-h2s-dont-work"></a>Yêu cầu Alchemy tiêu đề H1, H2 của không làm việc.
+Thực hành và hướng dẫn cho tác giả kim thuật tốt nhất:
 
+1. **Không lồng Alchemy Insights trong thư mục này**- điều này sẽ phá vỡ cấu trúc url. Chúng tôi đang xem xét khắc phục điều này.
 1. Các tập tin trong thư mục **AlchemyInsights** cần phải có quy tắc ID và tên quy tắc từ [cổng thông tin đối tác giả kim thuật](https://alchemyportal.azurewebsites.net) trong tên tập tin.
     1. Ví dụ: ***976-How-to-enable-litigation-hold***
 1. Sử dụng các siêu dữ liệu ở đầu file này như là bản mẫu của bạn. Không có gì khác là cần thiết.
@@ -35,7 +36,6 @@ Ví dụ văn bản chặn - hãy làm theo các hướng dẫn sau:
 
 Và điều này thực sự đã là một chút quá dài. Thực hành tốt nhất là khoảng 400 ký tự---
 
-Khi nội dung của bạn đã sẵn sàng, kéo nó tới các chi nhánh trực tiếp. Sau đó, các [cổng thông tin đối tác giả kim thuật](https://alchemyportal.azurewebsites.net) và nhập tên tập tin vào trường url. Đảm bảo rằng cái nhìn sâu sắc được nhận xét và công bố nói "có" và sau đó bấm vào Cập Nhật quy tắc. (Điều này sẽ nhìn đẹp hơn trong phiên bản mới của portal - phát hành sớm.)
-
-![URL field](media/for-content-team.PNG)
+Khi nội dung của bạn đã sẵn sàng, kéo nó tới các chi nhánh trực tiếp. Sau đó, các [cổng thông tin đối tác giả kim thuật](https://alchemyportal.azurewebsites.net) và nhập tên tập tin vào trường url. Đảm bảo rằng cái nhìn sâu sắc được nhận xét và công bố nói "có" và sau đó bấm vào Cập Nhật quy tắc. **(Điều này sẽ nhìn đẹp hơn trong phiên bản mới của portal - phát hành sớm.)** 
+ ![trường url](media/for-content-team.PNG)
 
