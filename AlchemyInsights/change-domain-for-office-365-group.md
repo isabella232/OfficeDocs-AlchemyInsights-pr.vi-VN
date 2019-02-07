@@ -11,17 +11,17 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 78695de0-7021-4900-a784-7cc782785f1d
-ms.openlocfilehash: 83fbb2d131968c3db82fb85f196f5255cf0ce22d
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 99aba7f10c657d71debbf186b32e01f037e11a22
+ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29497563"
+ms.lasthandoff: 02/06/2019
+ms.locfileid: "29759194"
 ---
 # <a name="change-the-domain-for-office-365-group"></a>Thay đổi tên miền cho Office 365 nhóm
 
 Nếu bạn muốn thay đổi tên miền cho Office 365 nhóm trong quá trình sáng tạo, làm theo các bước trong cách [chọn tên miền để sử dụng khi tạo Office 365 nhóm](https://support.office.com/article/7cf5655d-e523-4bc3-a93b-3ccebf44a01a.aspx).
   
-Sau khi nhóm 365 của văn phòng đã được tạo ra, không còn hiện cách để thay đổi tên miền. Cách duy nhất là tạo ra một nhóm 365 văn phòng mới và xóa cái cũ nếu cần thiết (địa chỉ email bổ sung có thể được thêm vào thông qua [Trung tâm quản trị Exchange](https://support.office.com/article/https://outlook.office365.com/ecp.aspx)).
+Sau khi nhóm 365 của văn phòng đã được tạo ra, không còn hiện cách để thay đổi tên miền. Cách duy nhất là tạo ra một nhóm 365 văn phòng mới và xóa cái cũ nếu cần thiết (địa chỉ email bổ sung có thể được thêm vào thông qua [Trung tâm quản trị Exchange](https://outlook.office365.com/ecp.aspx)).
   
 

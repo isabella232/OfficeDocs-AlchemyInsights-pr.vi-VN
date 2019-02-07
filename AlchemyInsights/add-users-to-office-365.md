@@ -11,18 +11,18 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: cfacdcac-8b59-4d81-a8b1-0d16b712df25
-ms.openlocfilehash: f6d93a59996009e070438d942afd92204f636abf
-ms.sourcegitcommit: 3fd1c87a75450e598de6ea10d9a5937ceaf51d20
+ms.openlocfilehash: d80072c3cdbeb97d7b73520267c64ca8447bee4b
+ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 02/05/2019
-ms.locfileid: "29735318"
+ms.lasthandoff: 02/06/2019
+ms.locfileid: "29758582"
 ---
 # <a name="add-a-user-to-office-365"></a>Thêm người dùng Office 365
 
 Sử dụng các bước sau để thêm người dùng Office 365:
   
-1. Đi vào [Hoạt động người dùng](https://portal.office.com/adminportal/home.aspx#/users) (hoặc trên nav trái chọn **người dùng** \> **người dùng hoạt động**).
+1. Đi vào [Hoạt động người dùng](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) (hoặc trên nav trái chọn **người dùng** \> **người dùng hoạt động**).
     
 2. Nhấp vào **Thêm người dùng**.
     

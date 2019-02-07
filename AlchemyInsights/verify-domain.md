@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 99b4b225-38b3-4af2-afd7-29769ef5c2a0
-ms.openlocfilehash: 4c2d2ab077ecf2f1fdc7addae93f328487775505
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: be907ec3ef667e353561a832cee466699662440a
+ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29659469"
+ms.lasthandoff: 02/06/2019
+ms.locfileid: "29759374"
 ---
 # <a name="trying-to-verify-your-domain"></a>Cố gắng để xác minh tên miền của bạn?
 
@@ -24,6 +24,6 @@ Bạn cần phải thêm bản ghi TXT để đăng ký tên miền của bạn 
   
 Thực hiện theo các hướng dẫn trong bài viết dưới đây để thêm bản ghi TXT để xác minh tên miền của bạn. Chọn đăng ký tên miền của bạn để được hướng dẫn cụ thể cho miền của bạn.
   
-[Tạo bản ghi DNS cho Office 365](https://support.office.com/article/https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx)
+[Tạo bản ghi DNS cho Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx)
   
 
