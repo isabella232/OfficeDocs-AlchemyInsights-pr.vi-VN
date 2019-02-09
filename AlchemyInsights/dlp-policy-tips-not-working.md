@@ -9,13 +9,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
-ms.openlocfilehash: c59fb005168e02b4aa8dda26b335ac763ab61aa0
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: f7dfc010c3624b2192da01d9e50e58dd6bb653df
+ms.sourcegitcommit: ca06ef831226d629de3057a0df85e017b80f3356
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29657804"
+ms.lasthandoff: 02/08/2019
+ms.locfileid: "29786756"
 ---
+# <a name="dlp-policy-tip-issues"></a>Vấn đề DLP chính sách Mẹo
+
 Khi sử dụng **chính sách DLP**, người dùng có thể được thông báo về vi phạm chính sách với **lời khuyên chính sách**. Quản trị viên có thể đặt cấu hình chính sách Mẹo để hiển thị trong khi thử nghiệm chính sách DLP của họ hoặc khi các chính sách ở chế độ thi hành đầy đủ. 
   
 Để đặt cấu hình chính sách lời khuyên về chính sách DLP của bạn trong Trung tâm bảo mật và tuân thủ trong chế độ thực thi đầy đủ thực hiện như sau:
