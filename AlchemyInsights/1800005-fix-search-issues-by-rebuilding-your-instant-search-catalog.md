@@ -7,37 +7,37 @@ ms.date: 6/7/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 812a5c80-db64-43de-a892-f539c5f87174
-ms.openlocfilehash: ed9a5e6a1d86902fd13d63ebd4d05b1dab430ecc
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: b126a921828a87ce3705f8cf6cf1779c3b8ec13e
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29496792"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29901210"
 ---
-# <a name="fix-search-issues-by-rebuilding-your-instant-search-catalog"></a><span data-ttu-id="ea4f9-102">Sửa chữa vấn đề tìm kiếm bằng cách xây dựng lại cửa hàng của bạn Instant Search</span><span class="sxs-lookup"><span data-stu-id="ea4f9-102">Fix search issues by rebuilding your Instant Search catalog</span></span>
+# <a name="fix-search-issues-by-rebuilding-your-instant-search-catalog"></a><span data-ttu-id="0b21f-102">Sửa chữa vấn đề tìm kiếm bằng cách xây dựng lại cửa hàng của bạn Instant Search</span><span class="sxs-lookup"><span data-stu-id="0b21f-102">Fix search issues by rebuilding your Instant Search catalog</span></span>
 
-1. <span data-ttu-id="ea4f9-103">Đóng Outlook và mở **Bảng điều khiển**.</span><span class="sxs-lookup"><span data-stu-id="ea4f9-103">Close Outlook and open **Control Panel**.</span></span>
+1. <span data-ttu-id="0b21f-103">Đóng Outlook và mở **Bảng điều khiển**.</span><span class="sxs-lookup"><span data-stu-id="0b21f-103">Close Outlook and open **Control Panel**.</span></span>
     
     > [!NOTE]
-    > <span data-ttu-id="ea4f9-104">Tùy thuộc vào phiên bản bạn đang sử dụng văn phòng, bạn có thể cần phải nhấp vào nút **bắt đầu** , và trên menu **bắt đầu** , bấm chuột phải vào **Control Panel**.</span><span class="sxs-lookup"><span data-stu-id="ea4f9-104">Depending on the version of Office you're using, you might need to click the **Start** button, and on the **Start** menu, right-click **Control Panel**.</span></span> 
+    > <span data-ttu-id="0b21f-104">Tùy thuộc vào phiên bản bạn đang sử dụng văn phòng, bạn có thể cần phải nhấp vào nút **bắt đầu** , và trên menu **bắt đầu** , bấm chuột phải vào **Control Panel**.</span><span class="sxs-lookup"><span data-stu-id="0b21f-104">Depending on the version of Office you're using, you might need to click the **Start** button, and on the **Start** menu, right-click **Control Panel**.</span></span> 
   
-2. <span data-ttu-id="ea4f9-105">Thực hiện một trong các thao tác sau:</span><span class="sxs-lookup"><span data-stu-id="ea4f9-105">Do one of the following:</span></span>
+2. <span data-ttu-id="0b21f-105">Thực hiện một trong các thao tác sau:</span><span class="sxs-lookup"><span data-stu-id="0b21f-105">Do one of the following:</span></span>
     
-  - <span data-ttu-id="ea4f9-106">Chọn **tùy chọn đánh chỉ mục**.</span><span class="sxs-lookup"><span data-stu-id="ea4f9-106">Choose **Indexing Options**.</span></span>
+  - <span data-ttu-id="0b21f-106">Chọn **tùy chọn đánh chỉ mục**.</span><span class="sxs-lookup"><span data-stu-id="0b21f-106">Choose **Indexing Options**.</span></span>
     
-  - <span data-ttu-id="ea4f9-107">Trong hộp **Tìm kiếm** , gõ *chỉ mục* , và sau đó chọn **Tùy chọn đánh chỉ mục**.</span><span class="sxs-lookup"><span data-stu-id="ea4f9-107">In the **Search** box, type  *Indexing*  , and then choose **Indexing Options**.</span></span>
+  - <span data-ttu-id="0b21f-107">Trong hộp **Tìm kiếm** , gõ *chỉ mục* , và sau đó chọn **Tùy chọn đánh chỉ mục**.</span><span class="sxs-lookup"><span data-stu-id="0b21f-107">In the **Search** box, type  *Indexing*  , and then choose **Indexing Options**.</span></span>
     
-3. <span data-ttu-id="ea4f9-108">Trong hộp thoại **Lập chỉ mục vị trí** , theo **thay đổi vị trí được chọn**, hãy chọn hộp kiểm cho các vị trí bạn muốn sửa đổi, và sau đó nhấp vào **OK**.</span><span class="sxs-lookup"><span data-stu-id="ea4f9-108">In the **Indexed Locations** dialog box, under **Change selected locations**, select the check box for the location you want to modify, and then click **OK**.</span></span>
+3. <span data-ttu-id="0b21f-108">Trong hộp thoại **Lập chỉ mục vị trí** , theo **thay đổi vị trí được chọn**, hãy chọn hộp kiểm cho các vị trí bạn muốn sửa đổi, và sau đó nhấp vào **OK**.</span><span class="sxs-lookup"><span data-stu-id="0b21f-108">In the **Indexed Locations** dialog box, under **Change selected locations**, select the check box for the location you want to modify, and then click **OK**.</span></span>
     
-4. <span data-ttu-id="ea4f9-109">Trong hộp thoại **Tùy chọn nâng cao** , trên tab **Cài đặt chỉ** trong **gỡ rối**, hãy nhấp vào **xây dựng lại**.</span><span class="sxs-lookup"><span data-stu-id="ea4f9-109">In the **Advanced Options** dialog box, on the **Index Settings** tab, under **Troubleshooting**, click **Rebuild**.</span></span>
+4. <span data-ttu-id="0b21f-109">Trong hộp thoại **Tùy chọn nâng cao** , trên tab **Cài đặt chỉ** trong **gỡ rối**, hãy nhấp vào **xây dựng lại**.</span><span class="sxs-lookup"><span data-stu-id="0b21f-109">In the **Advanced Options** dialog box, on the **Index Settings** tab, under **Troubleshooting**, click **Rebuild**.</span></span>
     
     > [!NOTE]
-    > <span data-ttu-id="ea4f9-p101">Một hộp thoại **Index xây dựng lại** hộp mở ra cảnh báo rằng các "chỉ số có thể mất một thời gian dài để hoàn thành." Chọn **OK** để bắt đầu xây dựng lại các chỉ mục.</span><span class="sxs-lookup"><span data-stu-id="ea4f9-p101">A **Rebuild Index** dialog box opens warning that the "index might take a long time to complete." Choose **OK** to start rebuilding the index.</span></span> 
+    > <span data-ttu-id="0b21f-p101">Một hộp thoại **Index xây dựng lại** hộp mở ra cảnh báo rằng các "chỉ số có thể mất một thời gian dài để hoàn thành." Chọn **OK** để bắt đầu xây dựng lại các chỉ mục.</span><span class="sxs-lookup"><span data-stu-id="0b21f-p101">A **Rebuild Index** dialog box opens warning that the "index might take a long time to complete." Choose **OK** to start rebuilding the index.</span></span> 
   
-<span data-ttu-id="ea4f9-112">Để biết thêm chi tiết, hãy xem vấn đề [không có kết quả tìm kiếm cho các tài khoản POP/IMAP](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039.aspx).</span><span class="sxs-lookup"><span data-stu-id="ea4f9-112">For more information, see the known issue [No search results for POP/IMAP accounts](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039.aspx).</span></span>
+<span data-ttu-id="0b21f-112">Để biết thêm chi tiết, hãy xem vấn đề [không có kết quả tìm kiếm cho các tài khoản POP/IMAP](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039.aspx).</span><span class="sxs-lookup"><span data-stu-id="0b21f-112">For more information, see the known issue [No search results for POP/IMAP accounts](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039.aspx).</span></span>
   
 
