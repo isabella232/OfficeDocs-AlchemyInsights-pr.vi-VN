@@ -7,25 +7,25 @@ ms.date: 4/19/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: b65125f0-7d6a-42c8-a5d8-a1ce733dddf7
-ms.openlocfilehash: a5f5a31e946e4f916dc926ede32dbdafae2d0196
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 7b66cfc49df40b326506a089fc29d58e35fb1f5e
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29498828"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29929216"
 ---
-# <a name="delete-a-contact"></a><span data-ttu-id="a1aa0-102">Xóa một số liên lạc</span><span class="sxs-lookup"><span data-stu-id="a1aa0-102">Delete a contact</span></span>
+# <a name="delete-a-contact"></a><span data-ttu-id="fc6c7-102">Xóa một số liên lạc</span><span class="sxs-lookup"><span data-stu-id="fc6c7-102">Delete a contact</span></span>
 
-1. <span data-ttu-id="a1aa0-p101">Ở đầu trang, chọn ứng dụng launcher ![The App Launcher nút. ](media/9634bec0-78d1-4282-8aea-7c5e81f162d2.png) và sau đó chọn **người**.</span><span class="sxs-lookup"><span data-stu-id="a1aa0-p101">At the top of the page, select the app launcher ![The App Launcher button.](media/9634bec0-78d1-4282-8aea-7c5e81f162d2.png) and then select **People**.</span></span> 
+1. <span data-ttu-id="fc6c7-p101">Ở đầu trang, chọn ứng dụng launcher ![The App Launcher nút. ](media/9634bec0-78d1-4282-8aea-7c5e81f162d2.png) và sau đó chọn **người**.</span><span class="sxs-lookup"><span data-stu-id="fc6c7-p101">At the top of the page, select the app launcher ![The App Launcher button.](media/9634bec0-78d1-4282-8aea-7c5e81f162d2.png) and then select **People**.</span></span> 
     
-2. <span data-ttu-id="a1aa0-105">Chọn số liên lạc bạn muốn xóa và chọn **Delete**![xóa](media/deb47846-8483-4f9d-813a-fc8fe288b583.png).</span><span class="sxs-lookup"><span data-stu-id="a1aa0-105">Select the contact you want to delete and select **Delete**![Delete](media/deb47846-8483-4f9d-813a-fc8fe288b583.png).</span></span>
+2. <span data-ttu-id="fc6c7-105">Chọn số liên lạc bạn muốn xóa và chọn **Delete**![xóa](media/deb47846-8483-4f9d-813a-fc8fe288b583.png).</span><span class="sxs-lookup"><span data-stu-id="fc6c7-105">Select the contact you want to delete and select **Delete**![Delete](media/deb47846-8483-4f9d-813a-fc8fe288b583.png).</span></span>
     
-    <span data-ttu-id="a1aa0-p102">Nếu bạn không thể chọn **Delete**, số liên lạc có thể từ Skype hoặc tài khoản đã kết nối mạng xã hội. Để xóa số liên lạc, hãy vào Skype hoặc tài khoản số liên lạc nằm ở đâu.</span><span class="sxs-lookup"><span data-stu-id="a1aa0-p102">If you can't select **Delete**, the contact might be from Skype or a connected social network account. To delete the contact, go to Skype or the account where the contact is located.</span></span>
+    <span data-ttu-id="fc6c7-p102">Nếu bạn không thể chọn **Delete**, số liên lạc có thể từ Skype hoặc tài khoản đã kết nối mạng xã hội. Để xóa số liên lạc, hãy vào Skype hoặc tài khoản số liên lạc nằm ở đâu.</span><span class="sxs-lookup"><span data-stu-id="fc6c7-p102">If you can't select **Delete**, the contact might be from Skype or a connected social network account. To delete the contact, go to Skype or the account where the contact is located.</span></span>
     
-3. <span data-ttu-id="a1aa0-108">Chọn **Delete** để xác nhận.</span><span class="sxs-lookup"><span data-stu-id="a1aa0-108">Select **Delete** to confirm.</span></span> 
+3. <span data-ttu-id="fc6c7-108">Chọn **Delete** để xác nhận.</span><span class="sxs-lookup"><span data-stu-id="fc6c7-108">Select **Delete** to confirm.</span></span> 
     
 
