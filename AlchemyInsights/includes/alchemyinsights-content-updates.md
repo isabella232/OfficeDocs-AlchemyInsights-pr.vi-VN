@@ -838,3 +838,57 @@
 | 30-1-2019 | [123 nhận được một tài khoản vô hiệu hóa lỗi trong OWA?](/AlchemyInsights/123-getting-an-account-disabled-error-in-owa) | Sửa đổi lần |
 | 1-2-2019 | [tương tự như là tên tập tin là tốt nhất [RULE #-mô tả]](/AlchemyInsights/1-alchemy-insight-template) | Sửa đổi lần |
 | 1-2-2019 | [Thay đổi quyền truy cập vào một hộp thư](/AlchemyInsights/changing-permissions-on-a-mailbox) | Sửa đổi lần |
+
+
+## <a name="week-of-february-04-2019"></a>Tuần của tháng 04, 2019
+
+
+| Được đăng trên |Tiêu đề chủ đề | Thay đổi |
+|------|------------|--------|
+| 4-2-2019 | [Thêm người dùng vào Office 365](/AlchemyInsights/add-users-to-office-365) | Sửa đổi lần |
+| 6-2-2019 | [Nhân viên rời khỏi](/AlchemyInsights/employee-leaving) | Sửa đổi lần |
+| 6-2-2019 | [Tiếp quản admin](/AlchemyInsights/admin-takeover) | Sửa đổi lần |
+| 6-2-2019 | [127 nhận được một lỗi TenantAccessBlockedException khi truy cập vào email?](/AlchemyInsights/127-getting-a-tenantaccessblockedexception-error-when-accessing-email) | Sửa đổi lần |
+| 6-2-2019 | [959 thay đổi tên hiển thị](/AlchemyInsights/959-change-display-name) | Sửa đổi lần |
+| 6-2-2019 | [Thêm hoặc loại bỏ một bí danh email cho người dùng](/AlchemyInsights/add-or-remove-an-email-alias-for-a-user) | Sửa đổi lần |
+| 6-2-2019 | Thêm ghế cho một thuê bao trả trước | gỡ bỏ |
+| 6-2-2019 | [Thêm người dùng vào Office 365](/AlchemyInsights/add-users-to-office-365) | Sửa đổi lần |
+| 6-2-2019 | [Thêm người dùng bên ngoài cho một nhóm phân phối?](/AlchemyInsights/adding-external-users-to-a-distribution-group) | Sửa đổi lần |
+| 6-2-2019 | Admin - Global Office 365 thiết lập và quản lý | gỡ bỏ |
+| 6-2-2019 | Admin - quản lý người dùng, nhóm và tài nguyên | gỡ bỏ |
+| 6-2-2019 | Admin - thiết lập tên miền và cài đặt DNS | gỡ bỏ |
+| 6-2-2019 | Admin - đăng nhập và mật khẩu các vấn đề | gỡ bỏ |
+| 6-2-2019 | [Hủy đăng ký Office 365](/AlchemyInsights/cancel-office-365-subscription) | Sửa đổi lần |
+| 6-2-2019 | [Thay đổi người dùng tên và địa chỉ email](/AlchemyInsights/change-a-user-s-name-and-email-address) | Sửa đổi lần |
+| 6-2-2019 | Thương mại - quản lý hóa đơn, thanh toán, các mục đăng ký và giấy phép | gỡ bỏ |
+| 6-2-2019 | [Nhận được một lỗi TenantAccessBlockedException khi truy cập vào email?](/AlchemyInsights/getting-a-tenantaccessblockedexception-error-when-accessing-email) | Sửa đổi lần |
+| 6-2-2019 | [Có vấn đề phân phối email?](/AlchemyInsights/having-email-delivery-issues-0) | Sửa đổi lần |
+| 6-2-2019 | [Có vấn đề phân phối email?](/AlchemyInsights/having-email-delivery-issues) | Sửa đổi lần |
+| 6-2-2019 | [Có vấn đề nhận được Outlook kết nối?](/AlchemyInsights/having-issues-getting-outlook-to-connect-0) | Sửa đổi lần |
+| 6-2-2019 | [Có vấn đề nhận được Outlook kết nối?](/AlchemyInsights/having-issues-getting-outlook-to-connect) | Sửa đổi lần |
+| 6-2-2019 | Dành - tải về, cài đặt và sử dụng dành | gỡ bỏ |
+| 6-2-2019 | [Vấn đề với Skype cho doanh nghiệp?](/AlchemyInsights/issue-with-skype-for-business) | Sửa đổi lần |
+| 6-2-2019 | ODSP | gỡ bỏ |
+| 6-2-2019 | Văn phòng khách hàng - Excel | gỡ bỏ |
+| 6-2-2019 | [Khôi phục xóa người dùng](/AlchemyInsights/restore-deleted-user) | Sửa đổi lần |
+| 6-2-2019 | [Dịch vụ tai nạn đang tiếp diễn](/AlchemyInsights/service-incident-in-progress-0) | Sửa đổi lần |
+| 6-2-2019 | [Dịch vụ tai nạn đang tiếp diễn](/AlchemyInsights/service-incident-in-progress-1) | Sửa đổi lần |
+| 6-2-2019 | [Dịch vụ tai nạn đang tiếp diễn](/AlchemyInsights/service-incident-in-progress-2) | Sửa đổi lần |
+| 6-2-2019 | [Dịch vụ tai nạn đang tiếp diễn](/AlchemyInsights/service-incident-in-progress-3) | Sửa đổi lần |
+| 6-2-2019 | [Dịch vụ tai nạn đang tiếp diễn](/AlchemyInsights/service-incident-in-progress-4) | Sửa đổi lần |
+| 6-2-2019 | [Dịch vụ tai nạn đang tiếp diễn](/AlchemyInsights/service-incident-in-progress-5) | Sửa đổi lần |
+| 6-2-2019 | [Dịch vụ tai nạn đang tiếp diễn](/AlchemyInsights/service-incident-in-progress) | Sửa đổi lần |
+| 6-2-2019 | [Thiết lập dự án](/AlchemyInsights/setting-up-project) | Sửa đổi lần |
+| 6-2-2019 | Thiết lập tính năng tuân thủ thích lưu trữ, duy trì, kiện tụng, eDiscovery và MDM | gỡ bỏ |
+| 6-2-2019 | Bằng cách sử dụng bộ cài đặt Offline cho văn phòng | gỡ bỏ |
+| 6-2-2019 | Yammer – thiết lập và sử dụng dịch vụ Yammer | gỡ bỏ |
+| 7-2-2019 | [Excel rơi?](/AlchemyInsights/excel-crashing) | Sửa đổi lần |
+| 7-2-2019 | [Làm thế nào để thêm hoặc chỉnh sửa một VatID](/AlchemyInsights/how-to-add-or-edit-a-vatid) | Sửa đổi lần |
+| 7-2-2019 | [Minecraft bản với Office 365 Beta dành cho miễn phí](/AlchemyInsights/minecraft-edition-with-office-365-education-for-free) | Sửa đổi lần |
+| 7-2-2019 | [Thông tin đoàn 606](/AlchemyInsights/606-information-on-delegation) | Sửa đổi lần |
+| 7-2-2019 | [Nhóm của bạn không hiển thị trong danh sách Nhóm](/AlchemyInsights/your-groupaimkiobjectnot-showing-in-groups-list) | Sửa đổi lần |
+| 8-2-2019 | [DLP chính sách Mẹo không làm việc](/AlchemyInsights/dlp-policy-tips-not-working) | Sửa đổi lần |
+| 8-2-2019 | [DLP quy tắc cho Hoa Kỳ / Vương Quốc Anh số hộ chiếu không làm việc](/AlchemyInsights/dlp-rule-for-us-uk-passport-number-not-working) | Sửa đổi lần |
+| 8-2-2019 | [Office 365 Beta dành cho miễn phí](/AlchemyInsights/office-365-education-for-free) | Sửa đổi lần |
+| 8-2-2019 | [Các giấy phép cần thiết cho Microsoft ToDo](/AlchemyInsights/required-licences-for-microsoft-todo) | Sửa đổi lần |
+| 8-2-2019 | [Chính sách lưu giữ trong Exchange trung tâm quản trị không làm việc](/AlchemyInsights/retention-policies-in-exchange-admin-center-not-working) | Sửa đổi lần |
