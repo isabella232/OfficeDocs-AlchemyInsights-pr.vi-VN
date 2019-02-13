@@ -7,14 +7,14 @@ ms.date: 9/11/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: f01362e1-17da-4528-b116-9b3240dd3f15
-ms.openlocfilehash: c8037f4ab43b37f7340b3d7fa315ba1296adf5d2
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: bed46c2ba85fbe6abb2281cb1fefe935d3157ec9
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29496780"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29922414"
 ---
 # <a name="focused-inbox-in-outlook"></a>Tập trung các hộp thư đến trong Outlook
 
@@ -22,7 +22,7 @@ Hộp thư đến tập trung của bạn hộp thư đến chia tách thành ha
   
 [Outlook 2016](https://go.microsoft.com/fwlink/p/?linkid=2002112&amp;clcid=0x409) | [Outlook trên web](https://go.microsoft.com/fwlink/p/?linkid=2002113&amp;clcid=0x409) | [Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2002012&amp;clcid=0x409) | [Outlook 2016 cho Mac](https://go.microsoft.com/fwlink/p/?linkid=2002013&amp;clcid=0x409) | [Mail cho Windows 10](https://go.microsoft.com/fwlink/p/?linkid=2001919&amp;clcid=0x409)
   
-Tìm hiểu thêm
+Tìm hiểu thêm:
   
 - [Xem tập trung vào hộp thư đến trong hành động](https://go.microsoft.com/fwlink/p/?linkid=2002212&amp;clcid=0x409)
     
