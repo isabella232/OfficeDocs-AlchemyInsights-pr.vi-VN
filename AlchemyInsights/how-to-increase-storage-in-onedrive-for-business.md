@@ -6,29 +6,29 @@ ms.date: 12/14/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: ceaa6256-a9d9-4fef-a274-d7219365e07f
-ms.openlocfilehash: b15b365d243d5a632c9bb32f6cee5bc391d6c1b3
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 4633f13dd9dfefbdce4864268c08c4c84d6bd8d2
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29499836"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29906430"
 ---
-# <a name="how-to-increase-storage-in-onedrive-for-business"></a><span data-ttu-id="85dd2-102">Làm thế nào để tăng lưu trữ trong OneDrive cho doanh nghiệp</span><span class="sxs-lookup"><span data-stu-id="85dd2-102">How to increase storage in OneDrive for Business</span></span>
+# <a name="how-to-increase-storage-in-onedrive-for-business"></a><span data-ttu-id="cfa2e-102">Làm thế nào để tăng lưu trữ trong OneDrive cho doanh nghiệp</span><span class="sxs-lookup"><span data-stu-id="cfa2e-102">How to increase storage in OneDrive for Business</span></span>
 
-<span data-ttu-id="85dd2-103">Để thay đổi lưu trữ mặc định cho người sử dụng OneDrive mới và sẵn có:</span><span class="sxs-lookup"><span data-stu-id="85dd2-103">To change the default storage for new and existing OneDrive users:</span></span>
+<span data-ttu-id="cfa2e-103">Để thay đổi lưu trữ mặc định cho người sử dụng OneDrive mới và sẵn có:</span><span class="sxs-lookup"><span data-stu-id="cfa2e-103">To change the default storage for new and existing OneDrive users:</span></span>
   
-- <span data-ttu-id="85dd2-104">Đi đến [trang lưu trữ của Trung tâm quản trị OneDrive](https://admin.onedrive.com/?v=StorageSettings), và sau đó nhập một số lượng mới trong GB.</span><span class="sxs-lookup"><span data-stu-id="85dd2-104">Go to the [Storage page of the OneDrive admin center](https://admin.onedrive.com/?v=StorageSettings), and then enter a new amount in GB.</span></span>
+- <span data-ttu-id="cfa2e-104">Đi đến [trang lưu trữ của Trung tâm quản trị OneDrive](https://admin.onedrive.com/?v=StorageSettings), và sau đó nhập một số lượng mới trong GB.</span><span class="sxs-lookup"><span data-stu-id="cfa2e-104">Go to the [Storage page of the OneDrive admin center](https://admin.onedrive.com/?v=StorageSettings), and then enter a new amount in GB.</span></span>
     
-<span data-ttu-id="85dd2-p101">Cài đặt space lí này áp dụng cho tất cả người dùng mà bạn chưa thiết lập giới hạn dung lượng cụ thể. Để thay đổi không gian lưu trữ cho người dùng cụ thể, bạn cần phải sử dụng Microsoft PowerShell. Thông tin về làm thế nào để làm điều này, hãy xem [thay đổi dung lượng lưu trữ của người dùng OneDrive bằng PowerShell](https://go.microsoft.com/fwlink/?linkid=866402).</span><span class="sxs-lookup"><span data-stu-id="85dd2-p101">This storage space setting applies to all users for whom you haven't set specific storage limits. To change the storage space for specific users, you need to use Microsoft PowerShell. For info on how to do this, see [Change your users' OneDrive storage space using PowerShell](https://go.microsoft.com/fwlink/?linkid=866402).</span></span> 
+<span data-ttu-id="cfa2e-p101">Cài đặt space lí này áp dụng cho tất cả người dùng mà bạn chưa thiết lập giới hạn dung lượng cụ thể. Để thay đổi không gian lưu trữ cho người dùng cụ thể, bạn cần phải sử dụng Microsoft PowerShell. Thông tin về làm thế nào để làm điều này, hãy xem [thay đổi dung lượng lưu trữ của người dùng OneDrive bằng PowerShell](https://go.microsoft.com/fwlink/?linkid=866402).</span><span class="sxs-lookup"><span data-stu-id="cfa2e-p101">This storage space setting applies to all users for whom you haven't set specific storage limits. To change the storage space for specific users, you need to use Microsoft PowerShell. For info on how to do this, see [Change your users' OneDrive storage space using PowerShell](https://go.microsoft.com/fwlink/?linkid=866402).</span></span> 
   
- <span data-ttu-id="85dd2-p102">**Lưu ý**: có vẻ như bạn không có một kế hoạch bao gồm không giới hạn lưu trữ. Để biết thông tin về lưu trữ mà đi kèm với mỗi kế hoạch, xem [OneDrive cho doanh nghiệp dịch vụ mô tả](https://go.microsoft.com/fwlink/p/?LinkID=826071).</span><span class="sxs-lookup"><span data-stu-id="85dd2-p102">**NOTE**: It looks like you don't have a plan that includes unlimited storage. For info about the storage that comes with each plan, see [OneDrive for Business service description](https://go.microsoft.com/fwlink/p/?LinkID=826071).</span></span>
+ <span data-ttu-id="cfa2e-p102">**Lưu ý**: có vẻ như bạn không có một kế hoạch bao gồm không giới hạn lưu trữ. Để biết thông tin về lưu trữ mà đi kèm với mỗi kế hoạch, xem [OneDrive cho doanh nghiệp dịch vụ mô tả](https://go.microsoft.com/fwlink/p/?LinkID=826071).</span><span class="sxs-lookup"><span data-stu-id="cfa2e-p102">**NOTE**: It looks like you don't have a plan that includes unlimited storage. For info about the storage that comes with each plan, see [OneDrive for Business service description](https://go.microsoft.com/fwlink/p/?LinkID=826071).</span></span>
   
-<span data-ttu-id="85dd2-110">Để tăng lưu trữ trong OneDrive cho doanh nghiệp của bạn, chọn một gói Office 365 bao gồm hoặc **OneDrive cho doanh nghiệp kế hoạch 2** hoặc **Office 365 Enterprise E3**.</span><span class="sxs-lookup"><span data-stu-id="85dd2-110">To increase your storage in OneDrive for Business, choose an Office 365 plan that includes either **OneDrive for Business Plan 2** or **Office 365 Enterprise E3**.</span></span> 
+<span data-ttu-id="cfa2e-110">Để tăng lưu trữ trong OneDrive cho doanh nghiệp của bạn, chọn một gói Office 365 bao gồm hoặc **OneDrive cho doanh nghiệp kế hoạch 2** hoặc **Office 365 Enterprise E3**.</span><span class="sxs-lookup"><span data-stu-id="cfa2e-110">To increase your storage in OneDrive for Business, choose an Office 365 plan that includes either **OneDrive for Business Plan 2** or **Office 365 Enterprise E3**.</span></span> 
   
-<span data-ttu-id="85dd2-111">Để thay đổi kế hoạch, trong Trung tâm quản trị Office 365, hãy chuyển đến **thanh toán** \> **mục đăng ký**, và sau đó chọn **chuyển đổi kế hoạch.**</span><span class="sxs-lookup"><span data-stu-id="85dd2-111">To change plans, in the Office 365 admin center, go to **Billing** \> **Subscriptions**, and then choose **Switch plans.**</span></span>
+<span data-ttu-id="cfa2e-111">Để thay đổi kế hoạch, trong Trung tâm quản trị Office 365, hãy chuyển đến **thanh toán** \> **mục đăng ký**, và sau đó chọn **chuyển đổi kế hoạch.**</span><span class="sxs-lookup"><span data-stu-id="cfa2e-111">To change plans, in the Office 365 admin center, go to **Billing** \> **Subscriptions**, and then choose **Switch plans.**</span></span>
   
-<span data-ttu-id="85dd2-112">Để biết thêm chi tiết về chuyển đổi kế hoạch và OneDrive để lưu trữ doanh nghiệp, hãy xem [chuyển sang một phiên bản khác nhau của Office 365 cho kế hoạch kinh doanh](https://go.microsoft.com/fwlink/?LinkId=2031117) và [OneDrive cho doanh nghiệp dịch vụ mô tả](https://go.microsoft.com/fwlink/?LinkId-2031122).</span><span class="sxs-lookup"><span data-stu-id="85dd2-112">For more information on switching plans and OneDrive for Business storage, see [Switch to a different Office 365 for business plan](https://go.microsoft.com/fwlink/?LinkId=2031117) and the [OneDrive for Business Service Description](https://go.microsoft.com/fwlink/?LinkId-2031122).</span></span>
+<span data-ttu-id="cfa2e-112">Để biết thêm chi tiết về chuyển đổi kế hoạch và OneDrive để lưu trữ doanh nghiệp, hãy xem [chuyển sang một phiên bản khác nhau của Office 365 cho kế hoạch kinh doanh](https://go.microsoft.com/fwlink/?LinkId=2031117) và [OneDrive cho doanh nghiệp dịch vụ mô tả](https://go.microsoft.com/fwlink/?LinkId-2031122).</span><span class="sxs-lookup"><span data-stu-id="cfa2e-112">For more information on switching plans and OneDrive for Business storage, see [Switch to a different Office 365 for business plan](https://go.microsoft.com/fwlink/?LinkId=2031117) and the [OneDrive for Business Service Description](https://go.microsoft.com/fwlink/?LinkId-2031122).</span></span>
   
 
