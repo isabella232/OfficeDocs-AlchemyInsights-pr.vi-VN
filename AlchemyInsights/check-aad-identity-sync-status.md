@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: e7242604-6a81-44f3-86ac-7f1f5da29ce7
-ms.openlocfilehash: c4b0dfdf1b5cc52bd08dc6f7273efb67f6bec117
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: b2788e98cf7c94d8dd4c1543145f30a442072f1e
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29913446"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30209723"
 ---
-# <a name="check-aad-identity-sync-status"></a><span data-ttu-id="63a64-102">Kiểm tra trạng thái AAD danh tính đồng bộ</span><span class="sxs-lookup"><span data-stu-id="63a64-102">Check AAD Identity Sync status</span></span>
+# <a name="check-aad-identity-sync-status"></a><span data-ttu-id="f396f-102">Kiểm tra trạng thái AAD danh tính đồng bộ</span><span class="sxs-lookup"><span data-stu-id="f396f-102">Check AAD Identity Sync status</span></span>
 
-<span data-ttu-id="63a64-103">Kiểm tra trạng thái đồng bộ là dễ dàng:</span><span class="sxs-lookup"><span data-stu-id="63a64-103">Checking sync status is easy:</span></span> 
+<span data-ttu-id="f396f-103">Kiểm tra trạng thái đồng bộ là dễ dàng:</span><span class="sxs-lookup"><span data-stu-id="f396f-103">Checking sync status is easy:</span></span> 
   
-- <span data-ttu-id="63a64-104">Đăng nhập vào Trung tâm quản trị Office 365 và chọn \*\* DirSync tình trạng \*\* trên trang chủ.</span><span class="sxs-lookup"><span data-stu-id="63a64-104">Sign in to the Office 365 admin center and choose \*\* DirSync Status \*\* on the home page.</span></span> 
+- <span data-ttu-id="f396f-104">Đăng nhập vào Trung tâm quản trị Microsoft 365 và chọn \*\* DirSync tình trạng \*\* trên trang chủ.</span><span class="sxs-lookup"><span data-stu-id="f396f-104">Sign in to the Microsoft 365 admin center and choose \*\* DirSync Status \*\* on the home page.</span></span> 
     
-- <span data-ttu-id="63a64-105">Thay phiên, bạn có thể đi đến người dùng \> người dùng hoạt động, và trên trang người dùng hoạt động, chọn Thêm \> đồng bộ hoá thư mục.</span><span class="sxs-lookup"><span data-stu-id="63a64-105">Alternately, you can go to Users \> Active users, and on the Active users page, choose More \> Directory synchronization.</span></span>
+- <span data-ttu-id="f396f-105">Thay phiên, bạn có thể đi đến người dùng \> người dùng hoạt động, và trên trang người dùng hoạt động, chọn Thêm \> đồng bộ hoá thư mục.</span><span class="sxs-lookup"><span data-stu-id="f396f-105">Alternately, you can go to Users \> Active users, and on the Active users page, choose More \> Directory synchronization.</span></span>
     
-- <span data-ttu-id="63a64-106">Trên cửa sổ đồng bộ hoá thư mục, chọn Go to DirSync quản lý.</span><span class="sxs-lookup"><span data-stu-id="63a64-106">On the Directory Synchronization pane, choose Go to DirSync management.</span></span> 
+- <span data-ttu-id="f396f-106">Trên cửa sổ đồng bộ hoá thư mục, chọn Go to DirSync quản lý.</span><span class="sxs-lookup"><span data-stu-id="f396f-106">On the Directory Synchronization pane, choose Go to DirSync management.</span></span> 
     
-<span data-ttu-id="63a64-p101">Nếu có một vấn đề với đồng bộ hóa thư mục của bạn, các lỗi được liệt kê trên Trang này. Để biết thêm chi tiết về các lỗi khác nhau bạn có thể gặp phải, hãy xem [xác định thư mục đồng bộ lỗi trong Office 365](https://support.office.com/article/b4fc07a5-97ea-4ca6-9692-108acab74067).</span><span class="sxs-lookup"><span data-stu-id="63a64-p101">If there is a problem with your directory synchronization, the errors are listed on this page. For more information about different errors you might encounter, see [Identify directory synchronization errors in Office 365](https://support.office.com/article/b4fc07a5-97ea-4ca6-9692-108acab74067).</span></span>
+<span data-ttu-id="f396f-p101">Nếu có một vấn đề với đồng bộ hóa thư mục của bạn, các lỗi được liệt kê trên Trang này. Để biết thêm chi tiết về các lỗi khác nhau bạn có thể gặp phải, hãy xem [xác định thư mục đồng bộ lỗi trong Office 365](https://support.office.com/article/b4fc07a5-97ea-4ca6-9692-108acab74067).</span><span class="sxs-lookup"><span data-stu-id="f396f-p101">If there is a problem with your directory synchronization, the errors are listed on this page. For more information about different errors you might encounter, see [Identify directory synchronization errors in Office 365](https://support.office.com/article/b4fc07a5-97ea-4ca6-9692-108acab74067).</span></span>
   
 
