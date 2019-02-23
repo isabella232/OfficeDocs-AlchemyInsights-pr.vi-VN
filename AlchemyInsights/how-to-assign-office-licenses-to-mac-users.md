@@ -10,16 +10,16 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 22777888-c472-437c-87cf-e3c52f3b310c
-ms.openlocfilehash: f27198496cbcbef502e33f6c4c3125077bd3f23e
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: ec58c6fb06047ee25b867127838e14fbc626e87f
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29909491"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30207815"
 ---
 # <a name="how-to-assign-office-licenses-to-mac-users"></a>Làm thế nào để gán giấy phép văn phòng cho người dùng Mac
 
-- Trong Trung tâm quản trị Office 365, hãy vào trang [người dùng hoạt động](https://go.microsoft.com/fwlink/p/?linkid=834822) , hoặc chọn **người dùng** \> **người dùng hoạt động**.
+- Trong Trung tâm quản trị Microsoft 365, đi đến trang [người dùng hoạt động](https://go.microsoft.com/fwlink/p/?linkid=834822) , hoặc chọn **người dùng** \> **người dùng hoạt động**.
     
 - Chọn hộp bên cạnh tên của người dùng mà bạn muốn gán một giấy phép.
     

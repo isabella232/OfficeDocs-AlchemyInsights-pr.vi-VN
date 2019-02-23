@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: 892eff30359f71984cae2f4ae2448dad49e4d6bd
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 3ecff82230295ca161dc83efcede3d989bb7cb5a
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29906790"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30208319"
 ---
 # <a name="switch-plans-to-increase-mailbox-size"></a>Chuyển đổi kế hoạch để tăng kích cỡ hộp thư
 
@@ -24,7 +24,7 @@ Nếu kích thước hộp thư đã được 100 GB, có là không có cách n
   
 Nếu kích thước hộp thư là 50 GB, bạn có thể tăng nó đến 100 GB chuyển sang [Office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) hoặc [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software). Dưới đây là các bước để chuyển cho một gói Office 365 khác nhau:
   
-1. Trong Trung tâm quản trị Office 365, hãy vào trang [đăng ký](https://go.microsoft.com/fwlink/p/?linkid=842054) , hoặc lựa chọn **thanh toán** \> **mục đăng ký**.
+1. Trong Trung tâm quản trị Microsoft 365, đi đến trang [đăng ký](https://go.microsoft.com/fwlink/p/?linkid=842054) , hoặc lựa chọn **thanh toán** \> **mục đăng ký**.
     
 2. Chọn **kế hoạch chuyển đổi** để xem danh sách các kế hoạch mới mà có sẵn. 
     

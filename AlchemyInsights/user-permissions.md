@@ -8,18 +8,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
-ms.openlocfilehash: f1ecdafdf21fa3cd026108738432c942d2c1ad45
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 6fc7e4211691e0f29b9a65db2d33540804ea7b4a
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29941134"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30209867"
 ---
 # <a name="user-permissions-in-sharepoint-and-onedrive"></a>Quyền của người dùng trong SharePoint và OneDrive
 
 Nếu một người dùng trong tổ chức của bạn không thể truy cập vào OneDrive hoặc SharePoint, đảm bảo rằng họ có một giấy phép bao gồm SharePoint và OneDrive. 
   
-1. Đi vào [hoạt động người dùng trang trong Trung tâm quản trị Office 365](https://portal.office.com/adminportal/home#/users) và chọn người dùng. 
+1. Đi vào [hoạt động người dùng trang trong Trung tâm quản trị Microsoft 365](https://portal.office.com/adminportal/home#/users) và chọn người dùng. 
     
 2. Đảm bảo rằng dưới **giấy phép sản phẩm**, một giấy phép được gán và **SharePoint Online** được chọn. 
     

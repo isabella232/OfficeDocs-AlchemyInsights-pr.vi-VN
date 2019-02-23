@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: e57572ff-0ba7-4782-ba5d-cdac3142ea71
-ms.openlocfilehash: bb2dc43b2035510c86a51d605325957c945be2f2
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 64b492aefa16a5e53a93536bbd3f62021341766f
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29916834"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30207743"
 ---
 # <a name="what-to-do-if-your-mailbox-size-is-already-100gb"></a>Phải làm gì nếu kích thước hộp thư của bạn đã là 100GB
 
@@ -24,7 +24,7 @@ Với một kế hoạch E3 hoặc E5, kích thước hộp thư của bạn đ�
   
 Để cho phép lưu trữ email:
   
-1. Trong Trung tâm quản trị Office 365, đi tới **Trung tâm quản trị** \> **trao đổi**. 
+1. Trong Trung tâm quản trị Microsoft 365, đi tới **Trung tâm quản trị** \> **trao đổi**. 
     
 2. Chọn **người nhận** \> ** hộp thư **, và chọn một hộp thư. 
     

@@ -11,20 +11,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: d3d0b69b-214e-4859-8957-621fd6306b30
-ms.openlocfilehash: 20b538846997c021b6e88596a1e8aff401ea935b
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 4b132a3cb0fac015ab44a1fa08565af15b7e8121
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29900918"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30207707"
 ---
 # <a name="fix-problems-sharing-sharepoint-content-with-external-users"></a>Sửa chữa các vấn đề về chia sẻ nội dung SharePoint với người dùng bên ngoài
 
 Đảm bảo rằng bên ngoài chia sẻ được bật cho tổ chức của bạn:
   
-1. Đi đến các [dịch vụ &amp; add-in trang trong Trung tâm quản trị Office 365](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns), và nhấp vào **các trang web**.
+1. Đi đến các [dịch vụ &amp; add-in trang trong Trung tâm quản trị Microsoft 365](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns), và nhấp vào **các trang web**.
     
-2. Đảm bảo rằng các thiết lập được bật "On." Nếu "Chỉ người dùng bên ngoài hiện tại" được chọn, hãy chắc chắn rằng người dùng bên ngoài được liệt kê trong Trung tâm quản trị Office 365.
+2. Đảm bảo rằng các thiết lập được bật "On." Nếu "Chỉ người dùng bên ngoài hiện tại" được chọn, hãy chắc chắn rằng người dùng bên ngoài được liệt kê trong Trung tâm quản trị Microsoft 365.
     
 Đảm bảo rằng ngoài việc chia sẻ nó bật lên cho trang web. Đối với một bộ sưu tập cổ điển trang web:
   

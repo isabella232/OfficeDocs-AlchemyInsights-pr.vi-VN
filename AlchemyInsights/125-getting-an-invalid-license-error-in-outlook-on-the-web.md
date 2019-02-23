@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 6d9947d9-6c92-4ada-b655-8ab2a0c2b66d
-ms.openlocfilehash: c341ac08f261d926a2ab229e6a56f69c6ce14181
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 1b0969720aeb10eb50eeb221ae7e467052650e15
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29909346"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30209058"
 ---
 # <a name="getting-an-invalid-license-error-in-outlook-on-the-web"></a>Nhận được một lỗi không hợp lệ giấy phép trong Outlook trên web?
 
 Nếu bạn đang sử dụng Outlook trên web và bạn nhận được một **cái gì đó đã đi sai** lỗi chứa **X-OWA-lỗi: Microsoft.Exchange.Data.Storage.InvalidLicenseException**, giấy phép Exchange Online của bạn không được gán một cách chính xác hoặc có mới hết hạn. Quản trị của bạn có thể gán một giấy phép cho bạn bằng cách làm theo các bước sau:
   
-1. Mở [Trung tâm quản trị Office 365](https://portal.office.com/adminportal/home#/homepage) và trong **người dùng hoạt động**, hãy chọn **chỉnh sửa người dùng**.
+1. Mở [Trung tâm quản trị Microsoft 365](https://portal.office.com/adminportal/home#/homepage) và trong **người dùng hoạt động**, hãy chọn **chỉnh sửa người dùng**.
     
 2. **Chỉnh sửa người dùng** trên trang mở ra, chọn người dùng. Người sử dụng thuộc tính trên trang mở ra, nhấp vào **chỉnh sửa** cho các **sản phẩm giấy phép**.
     

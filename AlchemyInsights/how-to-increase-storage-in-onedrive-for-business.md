@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ceaa6256-a9d9-4fef-a274-d7219365e07f
-ms.openlocfilehash: 4633f13dd9dfefbdce4864268c08c4c84d6bd8d2
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 693e7607f557f2586bf3debda8e4b7fdb04cf143
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29906430"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30207779"
 ---
 # <a name="how-to-increase-storage-in-onedrive-for-business"></a>Làm thế nào để tăng lưu trữ trong OneDrive cho doanh nghiệp
 
@@ -27,7 +27,7 @@ Cài đặt space lí này áp dụng cho tất cả người dùng mà bạn ch
   
 Để tăng lưu trữ trong OneDrive cho doanh nghiệp của bạn, chọn một gói Office 365 bao gồm hoặc **OneDrive cho doanh nghiệp kế hoạch 2** hoặc **Office 365 Enterprise E3**. 
   
-Để thay đổi kế hoạch, trong Trung tâm quản trị Office 365, hãy chuyển đến **thanh toán** \> **mục đăng ký**, và sau đó chọn **chuyển đổi kế hoạch.**
+Để thay đổi kế hoạch, trong Trung tâm quản trị Microsoft 365, hãy chuyển đến **thanh toán** \> **mục đăng ký**, và sau đó chọn **chuyển đổi kế hoạch.**
   
 Để biết thêm chi tiết về chuyển đổi kế hoạch và OneDrive để lưu trữ doanh nghiệp, hãy xem [chuyển sang một phiên bản khác nhau của Office 365 cho kế hoạch kinh doanh](https://go.microsoft.com/fwlink/?LinkId=2031117) và [OneDrive cho doanh nghiệp dịch vụ mô tả](https://go.microsoft.com/fwlink/?LinkId-2031122).
   

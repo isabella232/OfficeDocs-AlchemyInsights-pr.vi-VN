@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: e7242604-6a81-44f3-86ac-7f1f5da29ce7
-ms.openlocfilehash: c4b0dfdf1b5cc52bd08dc6f7273efb67f6bec117
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: b2788e98cf7c94d8dd4c1543145f30a442072f1e
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29913446"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30209723"
 ---
 # <a name="check-aad-identity-sync-status"></a>Kiểm tra trạng thái AAD danh tính đồng bộ
 
 Kiểm tra trạng thái đồng bộ là dễ dàng: 
   
-- Đăng nhập vào Trung tâm quản trị Office 365 và chọn ** DirSync tình trạng ** trên trang chủ. 
+- Đăng nhập vào Trung tâm quản trị Microsoft 365 và chọn ** DirSync tình trạng ** trên trang chủ. 
     
 - Thay phiên, bạn có thể đi đến người dùng \> người dùng hoạt động, và trên trang người dùng hoạt động, chọn Thêm \> đồng bộ hoá thư mục.
     
