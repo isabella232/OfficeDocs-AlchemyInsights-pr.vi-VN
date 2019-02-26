@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 99ff945c-a5b0-463b-8626-734c2c88f1c3
-ms.openlocfilehash: 4683bd62adb7bf9096dc7e5fedca8b42d6dcccf0
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: ed917050637d3984cc120fa26ecb29719a921878
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29930537"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30244531"
 ---
 # <a name="deal-with-phishing-scams-in-your-inbox"></a>Đối phó với lừa đảo lừa đảo trong hộp thư đến của bạn
 
@@ -32,6 +32,6 @@ Tìm hiểu thêm về làm thế nào để [đối phó với lạm dụng, l�
   
 Nếu bạn đang nhìn thấy một sự gia tăng thư rác, hãy đọc làm thế nào để [giúp giữ cho thư rác và thư rác ra khỏi hộp thư của bạn](https://go.microsoft.com/fwlink/p/?linkid=873140).
   
-Để ngăn chặn địa chỉ email, hãy vào **cài đặt**![cài đặt](media/f4b2e798-fff1-4a14-931f-5677a4543b58.png) \> **tùy chọn** \> **người gửi bị chặn**. Để thêm địa chỉ hoặc tên miền vào danh sách người gửi an toàn của bạn, chọn **người gửi an toàn**. 
+Để ngăn chặn địa chỉ email, hãy vào **cài đặt** \> **tùy chọn** \> **người gửi bị chặn**. Để thêm địa chỉ hoặc tên miền vào danh sách người gửi an toàn của bạn, chọn **người gửi an toàn**. 
   
 
