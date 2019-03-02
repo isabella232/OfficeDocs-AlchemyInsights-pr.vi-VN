@@ -11,15 +11,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: cd3fdff4-346c-4730-9a5e-de02fbb60613
-ms.openlocfilehash: 6b7d48292f7dfd68bb4995b22abbeb9d627f5336
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 0e35172668353737d860f7a212101539b1e4e6f1
+ms.sourcegitcommit: 47bdacaa8fcfce06f159a7ddbc114f2d1a70bc2c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29926590"
+ms.lasthandoff: 03/02/2019
+ms.locfileid: "30361695"
 ---
 # <a name="in-app-support-in-outlook-for-mac"></a>Trong app hỗ trợ ở Outlook dành cho Mac
 
-Để nhận được hỗ trợ trong ứng dụng Outlook cho Mac các vấn đề, mở Outlook và nhấp vào trợ giúp \> liên hệ hỗ trợ. Loại câu hỏi của bạn, và một thành viên của Outlook dành cho Mac hỗ trợ đội ngũ sẽ liên lạc với bạn. [Liên hệ với hỗ trợ ở Outlook dành cho Mac](https://go.microsoft.com/fwlink/?linkid=2002400&amp;clcid=0x409)
-  
-
+Để nhận được hỗ trợ trong ứng dụng Outlook cho Mac các vấn đề, mở Outlook và nhấp vào trợ giúp \> liên hệ hỗ trợ. Loại câu hỏi của bạn, và một thành viên của Outlook dành cho Mac hỗ trợ đội ngũ sẽ liên lạc với bạn. [Liên hệ với hỗ trợ ở Outlook dành cho Mac](https://answers.microsoft.com/en-us/msoffice/forum/msoffice_outlook-mso_mac/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517)
