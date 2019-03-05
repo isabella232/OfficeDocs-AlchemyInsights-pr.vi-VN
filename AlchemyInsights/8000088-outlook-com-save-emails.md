@@ -10,12 +10,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
-ms.openlocfilehash: 800fde849db0f1d3673a7144bc83b83e0ee7ace8
-ms.sourcegitcommit: e3df67530bd5205410acf5beba4a07acab9692f0
+ms.openlocfilehash: 27f7c36576c7be4fab824df1a22bf0bde7047341
+ms.sourcegitcommit: b1fef941ee5c1392a6b05f6f1ba92080b99d8589
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30347429"
+ms.lasthandoff: 03/04/2019
+ms.locfileid: "30376094"
 ---
 # <a name="saving-messages-in-outlookcom"></a>Lưu tin nhắn trong Outlook.com
 
@@ -29,4 +29,4 @@ Các tiện ích Microsoft in sang PDF bao gồm trong Windows 10 cho phép bạ
 4. Chọn **in**.
 5. Nhập tên tệp, sau đó chọn **Save**.
 
-Lưu ý: Điều này là không nên trên các máy tính được chia sẻ hoặc khu vực như người dùng khác có thể có quyền truy cập vào bất kỳ file PDF bạn tiết kiệm đến máy PC và không xóa.
+**Lưu ý:** Điều này không được khuyến cáo trên máy tính được chia sẻ hoặc khu vực như người dùng khác có thể có quyền truy cập vào bất kỳ file PDF bạn tiết kiệm đến máy PC và không xóa.
