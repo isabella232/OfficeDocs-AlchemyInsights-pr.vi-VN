@@ -1,5 +1,5 @@
 ---
-title: 'tương tự như là tên tập tin là tốt nhất [RULE #-mô tả]'
+title: giống như tên tập tin là tốt nhất
 ms.author: pebaum
 author: pebaum
 manager: jackiesm
@@ -9,22 +9,22 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: e248c2ee3cbb9a86f21c1f36be10c893df76ff52
-ms.sourcegitcommit: 3070905131e6d8449981231a3551c0bb4ca38ae6
+ms.openlocfilehash: ec979c2f2246fa06945b79bbb9348a7a57ad5180
+ms.sourcegitcommit: b3cf5130ac8118f0fed66abe5286aa80ee91af52
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/14/2019
-ms.locfileid: "30634526"
+ms.lasthandoff: 03/19/2019
+ms.locfileid: "30683871"
 ---
 # <a name="required-alchemy-header-h1-h2s-dont-work"></a>Yêu cầu Alchemy tiêu đề H1, H2 của không làm việc.
 Thực hành và hướng dẫn cho tác giả kim thuật tốt nhất:
 
 1. **Không lồng Alchemy Insights trong thư mục này**- điều này sẽ phá vỡ cấu trúc url. Chúng tôi đang xem xét khắc phục điều này.
-1. Các tập tin trong thư mục **AlchemyInsights** cần phải có quy tắc ID và tên quy tắc từ [cổng thông tin đối tác giả kim thuật](https://alchemyportal.azurewebsites.net) trong tên tập tin.
-    1. ex. ***976-How-to-Enable-litigation-Hold***
-1. Sử dụng các siêu dữ liệu ở đầu file này như là bản mẫu của bạn. Không có gì khác là cần thiết.
+1. Các tập tin trong thư mục **AlchemyInsights** cần phải có tên tập tin chữ thường với dấu gạch nối cho không gian ví dụ. ***làm thế nào-to-enable--duy trì tranh chấp***.
+    1. Bao gồm các quy tắc ID hoặc Xô ID từ [cổng thông tin đối tác giả kim thuật](https://alchemyportal.azurewebsites.net) trong trường ms.custom. ex. ***MS.Custom: 100021***
+1. Sử dụng phần còn lại của các siêu dữ liệu ở đầu file này như là bản mẫu của bạn.
 1. Trong các [cổng thông tin đối tác giả kim thuật](https://alchemyportal.azurewebsites.net), di chuyển xuống mục **tiêu đề thấu hiểu khách hàng:** và sử dụng rằng, cũng như bắt đầu từ một điểm cho tiêu đề H1 của bạn cho sự thấu hiểu. 
     > [!NOTE]
     > Giả kim thuật Insights phải có chỉ một H1 đơn ở đầu trang hoặc họ sẽ phá vỡ trong sản xuất. H2s không hiển thị vì vậy sử dụng **đậm** hoặc các công ước để biểu thị phần riêng biệt.
@@ -33,9 +33,8 @@ Thực hành và hướng dẫn cho tác giả kim thuật tốt nhất:
     1. Đánh số các danh sách quá
     1. **Đậm** và *nghiêng* là a-ok
     1. Liên kết nên luôn luôn là một trong hai **"liên kết đến các trang web" / ngoài** OR **sâu-liên kết đến các yếu tố giao diện người dùng**, không phải nội bộ liên kết.
+    1. Hình ảnh không hỗ trợ chính thức tại thời điểm này, nhưng nó là trên lộ trình.
 
 Và điều này thực sự đã là một chút quá dài. Thực hành tốt nhất là khoảng 400 ký tự---
 
-Khi nội dung của bạn đã sẵn sàng, kéo nó tới các chi nhánh trực tiếp. Sau đó, các [cổng thông tin đối tác giả kim thuật](https://alchemyportal.azurewebsites.net) và nhập tên tập tin vào trường url. Đảm bảo rằng cái nhìn sâu sắc được nhận xét và công bố nói "có" và sau đó bấm vào Cập Nhật quy tắc. **(Điều này sẽ nhìn đẹp hơn trong phiên bản mới của portal - phát hành sớm.)** 
- ![trường url](media/for-content-team.PNG)
-
+Khi nội dung của bạn đã sẵn sàng, kéo nó tới các chi nhánh trực tiếp. Sau đó, các [cổng thông tin đối tác giả kim thuật](https://alchemyportal.azurewebsites.net) và nhập tên tập tin vào trường url. M
