@@ -9,14 +9,14 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: fb7a525e-3527-4b4f-84a7-8d969e97abf7
-ms.openlocfilehash: 0e9b08f456483e7177190b1dc32454611bc0daf0
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
+ms.openlocfilehash: d2e3285d81aa1a630d668fea11382abd0d42265c
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30405381"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30762338"
 ---
 # <a name="update-dns-records"></a>Cập Nhật bản ghi DNS
 Thiết lập bản ghi DNS của bạn là quan trọng đối với việc đăng ký Office 365 của bạn làm việc với tên miền riêng của bạn. Sử dụng các liên kết dưới đây để thêm hoặc Cập Nhật bản ghi DNS.
