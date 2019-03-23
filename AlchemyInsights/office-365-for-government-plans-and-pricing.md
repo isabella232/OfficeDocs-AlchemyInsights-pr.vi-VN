@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 541063f0-181a-4d1a-895f-ea90ec3b29bb
-ms.openlocfilehash: b5cd1e39fb7c0576614568950cad423df600a941
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: c7fffc223bbb89d5ab4d6a1e290b9b6f7df3bd91
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29911470"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30764858"
 ---
 Office 365 chính phủ Hoa Kỳ kế hoạch được thiết kế cho các nhu cầu duy nhất của tổ chức chính phủ Hoa Kỳ. Họ cung cấp tất cả các tính năng và khả năng của dịch vụ Office 365 trong một cộng đồng mây phân đoạn chính phủ cho phép các tổ chức để đáp ứng Hoa Kỳ tuân thủ và tiêu chuẩn bảo mật.
   

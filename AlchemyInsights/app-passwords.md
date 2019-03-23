@@ -1,39 +1,37 @@
 ---
-title: Mật khẩu ứng dụng
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.date: 3/20/2018
+title: 500 app passwords
+ms.author: chrisda
+author: chrisda
+manager: serdars
+ms.date: 4/9/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
-ms.assetid: e0d62ef3-cba0-4df8-a234-ce75a4f6cd84
-ms.openlocfilehash: c883dda38f959624668e202b188ff6e2ddd4ed47
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.custom: 500
+ms.assetid: 4f670a84-a2b8-48ce-b0aa-a9ada3bad066
+ms.openlocfilehash: 77a90338106ffeefc93b3631c0424156195ea1b8
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29938254"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30762554"
 ---
 # <a name="app-passwords"></a>Mật khẩu ứng dụng
 
-Mật khẩu ứng dụng là một mã cho phép một ứng dụng hoặc thiết bị để truy cập tài khoản Office 365. Nếu quản trị của bạn đã bật nhiều yếu tố xác thực cho tổ chức của bạn, và bạn đang sử dụng ứng dụng mà kết nối với tài khoản Office 365, bạn cần tạo một mật khẩu ứng dụng vì vậy ứng dụng có thể kết nối với Office 365. Ví dụ, nếu bạn đang sử dụng Outlook 2016 hoặc trước đó với Office 365, bạn cần để tạo ra một mật khẩu ứng dụng.
+Mật khẩu ứng dụng là một mã cho phép một ứng dụng hoặc thiết bị để truy cập vào Office 365 của bạn làm việc hay trường học tài khoản. Nếu tài khoản của bạn yêu cầu nhiều yếu tố xác thực (MFA), và các ứng dụng kết nối đến tài khoản của bạn, bạn cần phải tạo ra một mật khẩu ứng dụng, do đó, các ứng dụng có thể kết nối với Office 365. Ví dụ, Outlook 2016 và phiên bản trước, Outlook của yêu cầu một mật khẩu ứng dụng.
   
-1. Kiểm tra xem liệu quản trị Office 365 của bạn đã bật nhiều yếu tố xác thực tài khoản của bạn. Nếu họ không, khi bạn cố gắng làm các bước này bạn sẽ không thấy tùy chọn trong Office 365.
+ **Lưu ý**: trước khi bạn thử các bước sau, kiểm tra với quản trị Office 365 của bạn MFA là cần thiết cho tài khoản của bạn. Nếu nó không phải là, các tùy chọn được mô tả trong các bước sẽ không có sẵn cho bạn.
+  
+1. Đăng nhập Office 365 với công việc của bạn hoặc trường tài khoản và mật khẩu của bạn.
     
-2. Đăng nhập Office 365 với tài khoản nơi làm việc hoặc trường học của bạn với mật khẩu của bạn như bạn thường làm. Sau khi bạn chọn **đăng nhập**, bạn sẽ thấy một trang với tên người dùng và một vài lựa chọn 
+2. Chọn **thiết lập nó bây giờ**.
     
-3. Chọn **thiết lập nó bây giờ**. 
+3. Chọn phương thức xác thực và thực hiện theo lời nhắc.
     
-4. Chọn phương thức xác thực và sau đó làm theo các lời nhắc trên trang.
+4. Sau khi bạn xác minh thay thế phương thức liên lạc của bạn, chọn **tiếp theo**.
     
-5. Sau khi bạn xác minh thay thế phương thức liên lạc của bạn, chọn **tiếp theo**. 
-    
-6. Bạn sẽ nhận được một mật khẩu ứng dụng mà bạn có thể sử dụng với Outlook, Apple Mail, v.v.. Chọn vào biểu tượng sao chép để sao chép mật khẩu vào clipboard của bạn. Bạn sẽ không cần phải ghi nhớ mật khẩu này. 
-    
-7. Khi bạn thêm tài khoản Office 365 email vào Outlook (hoặc một ứng dụng), và bạn đang nhắc nhập một mật khẩu, qua mật khẩu ứng dụng này vào hộp mật khẩu, thay vì nhập mật khẩu tài khoản của bạn. 
+5. Bạn sẽ nhận được một mật khẩu ứng dụng mà bạn có thể sử dụng với Outlook, Apple Mail, và các ứng dụng khác mà đòi hỏi nó. Chọn **Copy** sao chép mật khẩu để bạn có thể dán nó ở nơi khác (bạn không cần phải ghi nhớ nó). 
     
 
