@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: 3ecff82230295ca161dc83efcede3d989bb7cb5a
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.openlocfilehash: c2fa0a3489def709ed4f1823237ba98e3dd52cc2
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30208319"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30752152"
 ---
 # <a name="switch-plans-to-increase-mailbox-size"></a>Chuyển đổi kế hoạch để tăng kích cỡ hộp thư
 
@@ -34,4 +34,4 @@ Nếu kích thước hộp thư là 50 GB, bạn có thể tăng nó đến 100 
     
 Cho biết thêm chi tiết, hãy xem [chuyển đổi cho một gói Office 365 khác nhau](https://support.office.com/article/73318661-8f33-478b-bcc7-fb8d69dbb22a).
   
-
+Nếu bạn có một [kế hoạch O365 hỗ trợ một kho lưu trữ In-place](https://docs.microsoft.com/en-us/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description), bạn cũng có thể lưu trữ các email bằng cách kích hoạt hộp thư lưu trữ.  Hộp thư lưu trữ cho phép bạn lưu trữ bổ sung và cho phép bạn để di chuyển, sao chép và tìm kiếm tin nhắn trong cả chính và hộp thư lưu trữ. Để bước về cách kích hoạt hộp thư lưu trữ, hãy xem [kích hoạt hộp thư lưu trữ](https://docs.microsoft.com/en-us/office365/securitycompliance/enable-archive-mailboxes).

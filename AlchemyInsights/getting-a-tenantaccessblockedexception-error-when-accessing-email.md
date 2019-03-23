@@ -1,28 +1,33 @@
 ---
-title: Nhận được một lỗi TenantAccessBlockedException khi truy cập vào email?
-ms.author: v-crytho
-author: CrystalThomasMS
-ms.date: 8/21/2017
-ms.audience: ITPro
+title: 127 nhận được một lỗi TenantAccessBlockedException khi truy cập vào email?
+ms.author: chrisda
+author: chrisda
+manager: serdars
+ms.date: 4/9/2018
+ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.assetid: 7fdd37c9-540f-4689-812b-55303a90dd50
-ms.openlocfilehash: e473a74523c927fca2ab3087d382543890766981
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.collection: Adm_O365
+ms.custom:
+- "127"
+- "128"
+ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
+ms.openlocfilehash: a14de964ac77b586c49543dd0916a4afe344c05b
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29912046"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30754276"
 ---
 # <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>Nhận được một lỗi TenantAccessBlockedException khi truy cập vào email?
 
-Không có một vài lý do khác nhau, tại sao bạn có thể nhận được một lỗi nói rằng quyền truy cập cho người thuê nhà của bạn bị chặn. Để khắc phục vấn đề, bạn có thể thử các bước sau:
+Không có một vài lý do khác nhau, tại sao bạn có thể nhận được lỗi này. Ví dụ:
   
-- Kiểm tra đăng ký của bạn là hợp lệ trên trang [đăng ký](https://admin.microsoft.com/adminportal/home#/subscriptions) . 
+- Xác minh rằng đăng ký của bạn là hợp lệ trong **thanh toán** \> **đăng ký** trang trong Trung tâm quản trị Microsoft 365 ( [https://portal.office.com/adminportal/home#/subscriptions](https://portal.office.com/adminportal/home#/subscriptions).
     
-- Kiểm tra trang [thanh toán](https://admin.microsoft.com/adminportal/home#/billoverview) cho bất kỳ qua lệ phí vào tài khoản của bạn. 
+- Kiểm tra bất kỳ trong quá khứ do các thông báo trong **thanh toán** \> **hóa đơn** trang trong Trung tâm quản trị Microsoft 365 ( [https://portal.office.com/adminportal/home#/billoverview](https://portal.office.com/adminportal/home#/billoverview).
     
-- Nếu tài khoản của bạn để bây giờ, nhưng đã được thay đổi gần đây, nó có thể mất một chút thời gian để thay đổi truyền cho tất cả các máy chủ. Cung cấp cho nó một thử trong vài phút, và nếu vấn đề vẫn còn, liên hệ với chúng tôi.
+- Nếu thanh toán và đăng ký cho tài khoản của bạn đã được cập nhật mới, nó có thể mất thời gian cho những thay đổi để tuyên truyền. Hãy thử một lần nữa trong một vài phút, và nếu vấn đề vẫn còn, liên hệ với chúng tôi.
     
 
