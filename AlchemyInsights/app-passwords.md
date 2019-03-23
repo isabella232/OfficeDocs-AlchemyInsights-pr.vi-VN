@@ -1,39 +1,37 @@
 ---
-title: Mật khẩu ứng dụng
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.date: 3/20/2018
+title: 500 app passwords
+ms.author: chrisda
+author: chrisda
+manager: serdars
+ms.date: 4/9/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
-ms.assetid: e0d62ef3-cba0-4df8-a234-ce75a4f6cd84
-ms.openlocfilehash: c883dda38f959624668e202b188ff6e2ddd4ed47
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.custom: 500
+ms.assetid: 4f670a84-a2b8-48ce-b0aa-a9ada3bad066
+ms.openlocfilehash: 77a90338106ffeefc93b3631c0424156195ea1b8
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29938254"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30762554"
 ---
-# <a name="app-passwords"></a><span data-ttu-id="987f9-102">Mật khẩu ứng dụng</span><span class="sxs-lookup"><span data-stu-id="987f9-102">App passwords</span></span>
+# <a name="app-passwords"></a><span data-ttu-id="f5ad4-102">Mật khẩu ứng dụng</span><span class="sxs-lookup"><span data-stu-id="f5ad4-102">App passwords</span></span>
 
-<span data-ttu-id="987f9-p101">Mật khẩu ứng dụng là một mã cho phép một ứng dụng hoặc thiết bị để truy cập tài khoản Office 365. Nếu quản trị của bạn đã bật nhiều yếu tố xác thực cho tổ chức của bạn, và bạn đang sử dụng ứng dụng mà kết nối với tài khoản Office 365, bạn cần tạo một mật khẩu ứng dụng vì vậy ứng dụng có thể kết nối với Office 365. Ví dụ, nếu bạn đang sử dụng Outlook 2016 hoặc trước đó với Office 365, bạn cần để tạo ra một mật khẩu ứng dụng.</span><span class="sxs-lookup"><span data-stu-id="987f9-p101">An app password is a code that gives an app or device permission to access your Office 365 account. If your admin has turned on multi-factor authentication for your organization, and you're using apps that connect to your Office 365 account, you'll need to generate an app password so the app can connect to Office 365. For example, if you're using Outlook 2016 or earlier with Office 365, you'll need to create an app password.</span></span>
+<span data-ttu-id="f5ad4-103">Mật khẩu ứng dụng là một mã cho phép một ứng dụng hoặc thiết bị để truy cập vào Office 365 của bạn làm việc hay trường học tài khoản.</span><span class="sxs-lookup"><span data-stu-id="f5ad4-103">An app password is a code that gives an app or device permission to access your Office 365 work or school account.</span></span> <span data-ttu-id="f5ad4-104">Nếu tài khoản của bạn yêu cầu nhiều yếu tố xác thực (MFA), và các ứng dụng kết nối đến tài khoản của bạn, bạn cần phải tạo ra một mật khẩu ứng dụng, do đó, các ứng dụng có thể kết nối với Office 365.</span><span class="sxs-lookup"><span data-stu-id="f5ad4-104">If your account requires multi-factor authentication (MFA), and the app connects to your account, you need to generate an app password so the app can connect to Office 365.</span></span> <span data-ttu-id="f5ad4-105">Ví dụ, Outlook 2016 và phiên bản trước, Outlook của yêu cầu một mật khẩu ứng dụng.</span><span class="sxs-lookup"><span data-stu-id="f5ad4-105">For example, Outlook 2016 and earlier versions Outlook of require an app password.</span></span>
   
-1. <span data-ttu-id="987f9-p102">Kiểm tra xem liệu quản trị Office 365 của bạn đã bật nhiều yếu tố xác thực tài khoản của bạn. Nếu họ không, khi bạn cố gắng làm các bước này bạn sẽ không thấy tùy chọn trong Office 365.</span><span class="sxs-lookup"><span data-stu-id="987f9-p102">Check whether your Office 365 admin has turned on multi-factor authentication for your account. If they haven't, when you try to do these steps you won't see the options in Office 365.</span></span>
+ <span data-ttu-id="f5ad4-106">**Lưu ý**: trước khi bạn thử các bước sau, kiểm tra với quản trị Office 365 của bạn MFA là cần thiết cho tài khoản của bạn.</span><span class="sxs-lookup"><span data-stu-id="f5ad4-106">**Note**: Before you try the following steps, verify with your Office 365 admin that MFA is required for your account.</span></span> <span data-ttu-id="f5ad4-107">Nếu nó không phải là, các tùy chọn được mô tả trong các bước sẽ không có sẵn cho bạn.</span><span class="sxs-lookup"><span data-stu-id="f5ad4-107">If it isn't, the options described in the steps won't be available to you.</span></span>
+  
+1. <span data-ttu-id="f5ad4-108">Đăng nhập Office 365 với công việc của bạn hoặc trường tài khoản và mật khẩu của bạn.</span><span class="sxs-lookup"><span data-stu-id="f5ad4-108">Sign in to Office 365 with your work or school account and your password.</span></span>
     
-2. <span data-ttu-id="987f9-p103">Đăng nhập Office 365 với tài khoản nơi làm việc hoặc trường học của bạn với mật khẩu của bạn như bạn thường làm. Sau khi bạn chọn **đăng nhập**, bạn sẽ thấy một trang với tên người dùng và một vài lựa chọn</span><span class="sxs-lookup"><span data-stu-id="987f9-p103">Sign in to Office 365 with your work or school account with your password like you normally do. After you choose **Sign in**, you'll see a page with your user name and a few options</span></span> 
+2. <span data-ttu-id="f5ad4-109">Chọn **thiết lập nó bây giờ**.</span><span class="sxs-lookup"><span data-stu-id="f5ad4-109">Choose **Set it up now**.</span></span>
     
-3. <span data-ttu-id="987f9-110">Chọn **thiết lập nó bây giờ**.</span><span class="sxs-lookup"><span data-stu-id="987f9-110">Choose **Set it up now**.</span></span> 
+3. <span data-ttu-id="f5ad4-110">Chọn phương thức xác thực và thực hiện theo lời nhắc.</span><span class="sxs-lookup"><span data-stu-id="f5ad4-110">Select your authentication method and follow the prompts.</span></span>
     
-4. <span data-ttu-id="987f9-111">Chọn phương thức xác thực và sau đó làm theo các lời nhắc trên trang.</span><span class="sxs-lookup"><span data-stu-id="987f9-111">Select your authentication method and then follow the prompts on the page.</span></span>
+4. <span data-ttu-id="f5ad4-111">Sau khi bạn xác minh thay thế phương thức liên lạc của bạn, chọn **tiếp theo**.</span><span class="sxs-lookup"><span data-stu-id="f5ad4-111">After you verify your alternate contact method, choose **Next**.</span></span>
     
-5. <span data-ttu-id="987f9-112">Sau khi bạn xác minh thay thế phương thức liên lạc của bạn, chọn **tiếp theo**.</span><span class="sxs-lookup"><span data-stu-id="987f9-112">After you verify your alternate contact method, choose **Next**.</span></span> 
-    
-6. <span data-ttu-id="987f9-p104">Bạn sẽ nhận được một mật khẩu ứng dụng mà bạn có thể sử dụng với Outlook, Apple Mail, v.v.. Chọn vào biểu tượng sao chép để sao chép mật khẩu vào clipboard của bạn. Bạn sẽ không cần phải ghi nhớ mật khẩu này.</span><span class="sxs-lookup"><span data-stu-id="987f9-p104">You'll get an app password that you can use with Outlook, Apple Mail, etc. Choose the copy icon to copy the password to your clipboard. You won't need to memorize this password.</span></span> 
-    
-7. <span data-ttu-id="987f9-115">Khi bạn thêm tài khoản Office 365 email vào Outlook (hoặc một ứng dụng), và bạn đang nhắc nhập một mật khẩu, qua mật khẩu ứng dụng này vào hộp mật khẩu, thay vì nhập mật khẩu tài khoản của bạn.</span><span class="sxs-lookup"><span data-stu-id="987f9-115">When you add your Office 365 email account to Outlook (or another app), and you're prompted for a password, past this app password into the Password box, instead of typing your account password.</span></span> 
+5. <span data-ttu-id="f5ad4-112">Bạn sẽ nhận được một mật khẩu ứng dụng mà bạn có thể sử dụng với Outlook, Apple Mail, và các ứng dụng khác mà đòi hỏi nó.</span><span class="sxs-lookup"><span data-stu-id="f5ad4-112">You'll get an app password that you can use with Outlook, Apple Mail, and other apps that require it.</span></span> <span data-ttu-id="f5ad4-113">Chọn **Copy** sao chép mật khẩu để bạn có thể dán nó ở nơi khác (bạn không cần phải ghi nhớ nó).</span><span class="sxs-lookup"><span data-stu-id="f5ad4-113">Choose **Copy** to copy the password so you can paste it elsewhere (you don't need to memorize it).</span></span> 
     
 

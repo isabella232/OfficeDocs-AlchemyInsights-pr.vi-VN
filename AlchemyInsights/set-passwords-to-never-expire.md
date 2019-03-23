@@ -9,19 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: f5383fc3-d7fc-4efb-93b7-a520b374099a
-ms.openlocfilehash: b29a049e3fd0c99e2640e6f434f02566bae6d44b
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 0a44dd8fad248086046f995b7e4f223249d1644c
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29932746"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30765542"
 ---
-# <a name="set-passwords-to-never-expire"></a><span data-ttu-id="b1722-102">Thiết lập mật khẩu không bao giờ hết hạn</span><span class="sxs-lookup"><span data-stu-id="b1722-102">Set passwords to never expire</span></span>
+# <a name="set-passwords-to-never-expire"></a><span data-ttu-id="f7144-102">Thiết lập mật khẩu không bao giờ hết hạn</span><span class="sxs-lookup"><span data-stu-id="f7144-102">Set passwords to never expire</span></span>
 
-<span data-ttu-id="b1722-p101">Thiết lập mật khẩu không bao giờ hết hạn từ [an ninh &amp; bảo mật](https://portal.office.com/adminportal/home#/settings/security). Nhấp vào "Chỉnh sửa" bên cạnh chính sách mật khẩu, và chuyển thanh trượt sang "on".</span><span class="sxs-lookup"><span data-stu-id="b1722-p101">Set passwords to never expire from [Security &amp; Privacy](https://portal.office.com/adminportal/home#/settings/security). Click "Edit" next to Password Policy, and turn the slider to "on".</span></span>
+<span data-ttu-id="f7144-103">Thiết lập mật khẩu không bao giờ hết hạn từ [an ninh &amp; bảo mật](https://portal.office.com/adminportal/home#/settings/security).</span><span class="sxs-lookup"><span data-stu-id="f7144-103">Set passwords to never expire from [Security &amp; Privacy](https://portal.office.com/adminportal/home#/settings/security).</span></span> <span data-ttu-id="f7144-104">Nhấp vào "Chỉnh sửa" bên cạnh chính sách mật khẩu, và chuyển thanh trượt sang "on".</span><span class="sxs-lookup"><span data-stu-id="f7144-104">Click "Edit" next to Password Policy, and turn the slider to "on".</span></span>
   
-<span data-ttu-id="b1722-105">Để biết thêm thông tin xem: [thiết lập mật khẩu hết hạn chính sách cho tổ chức của bạn](https://support.office.com/article/set-the-password-expiration-policy-for-your-organization-0f54736f-eb22-414c-8273-498a0918678f).</span><span class="sxs-lookup"><span data-stu-id="b1722-105">For more detailed information see: [Set the password expiration policy for your organization](https://support.office.com/article/set-the-password-expiration-policy-for-your-organization-0f54736f-eb22-414c-8273-498a0918678f).</span></span>
+<span data-ttu-id="f7144-105">Để biết thêm thông tin xem: [thiết lập mật khẩu hết hạn chính sách cho tổ chức của bạn](https://support.office.com/article/set-the-password-expiration-policy-for-your-organization-0f54736f-eb22-414c-8273-498a0918678f).</span><span class="sxs-lookup"><span data-stu-id="f7144-105">For more detailed information see: [Set the password expiration policy for your organization](https://support.office.com/article/set-the-password-expiration-policy-for-your-organization-0f54736f-eb22-414c-8273-498a0918678f).</span></span>
   
 
