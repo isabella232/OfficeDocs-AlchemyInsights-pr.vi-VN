@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: a8117dea-2111-4275-9ca1-9c1f3e5667cf
-ms.openlocfilehash: c59ee99923722efcb8524381a6486f92ba4bf0ed
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: b78899d4652fccb16054c2bc535d8b871acd0139
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29939262"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30755778"
 ---
-# <a name="restore-a-previous-file-version"></a><span data-ttu-id="4d49b-102">Khôi phục Phiên bản trước của tệp</span><span class="sxs-lookup"><span data-stu-id="4d49b-102">Restore a previous file version</span></span>
+# <a name="restore-a-previous-file-version"></a><span data-ttu-id="53065-102">Khôi phục Phiên bản trước của tệp</span><span class="sxs-lookup"><span data-stu-id="53065-102">Restore a previous file version</span></span>
 
-<span data-ttu-id="4d49b-p101">Với lịch sử các phiên bản trực tuyến, bạn có thể xem và khôi phục lại phiên bản cũ của các tập tin trong OneDrive hoặc SharePoint. Lược sử Phiên bản làm việc với tất cả các loại tệp, bao gồm các file PDF, CAD tập tin, hình ảnh, và video. Để khôi phục lại phiên bản trước của tệp:</span><span class="sxs-lookup"><span data-stu-id="4d49b-p101">With online version history, you can see and restore older versions of your files in OneDrive or SharePoint. Version history works with all file types, including PDFs, CAD files, photos, and videos. To restore a previous file version:</span></span>
+<span data-ttu-id="53065-103">Với lịch sử các phiên bản trực tuyến, bạn có thể xem và khôi phục lại phiên bản cũ của các tập tin trong OneDrive hoặc SharePoint.</span><span class="sxs-lookup"><span data-stu-id="53065-103">With online version history, you can see and restore older versions of your files in OneDrive or SharePoint.</span></span> <span data-ttu-id="53065-104">Lược sử Phiên bản làm việc với tất cả các loại tệp, bao gồm các file PDF, CAD tập tin, hình ảnh, và video.</span><span class="sxs-lookup"><span data-stu-id="53065-104">Version history works with all file types, including PDFs, CAD files, photos, and videos.</span></span> <span data-ttu-id="53065-105">Để khôi phục lại phiên bản trước của tệp:</span><span class="sxs-lookup"><span data-stu-id="53065-105">To restore a previous file version:</span></span>
   
-1. <span data-ttu-id="4d49b-106">Mở thư viện tài liệu SharePoint hoặc vị trí OneDrive.</span><span class="sxs-lookup"><span data-stu-id="4d49b-106">Open the SharePoint document library or OneDrive location.</span></span>
+1. <span data-ttu-id="53065-106">Mở thư viện tài liệu SharePoint hoặc vị trí OneDrive.</span><span class="sxs-lookup"><span data-stu-id="53065-106">Open the SharePoint document library or OneDrive location.</span></span>
     
-2. <span data-ttu-id="4d49b-p102">Nhấp vào bên trái của các tập tin để chọn nó, và sau đó nhấp vào **Lược sử Phiên bản**. Nếu bạn không thấy Lược sử Phiên bản trên thanh lệnh, bấm vào Thêm ( **...** ).</span><span class="sxs-lookup"><span data-stu-id="4d49b-p102">Click to the left of the file to select it, and then click **Version history**. If you don't see Version history on the command bar, click More ( **...** ).</span></span> 
+2. <span data-ttu-id="53065-107">Nhấp vào bên trái của các tập tin để chọn nó, và sau đó nhấp vào **Lược sử Phiên bản**.</span><span class="sxs-lookup"><span data-stu-id="53065-107">Click to the left of the file to select it, and then click **Version history**.</span></span> <span data-ttu-id="53065-108">Nếu bạn không thấy Lược sử Phiên bản trên thanh lệnh, bấm vào Thêm ( **...** ).</span><span class="sxs-lookup"><span data-stu-id="53065-108">If you don't see Version history on the command bar, click More ( **...** ).</span></span> 
     
-3. <span data-ttu-id="4d49b-109">Bấm vào phiên bản bạn muốn xem, hoặc nhấp vào Thêm ( **...** ) ở bên phải của một phiên bản và sau đó nhấp vào **khôi phục**.</span><span class="sxs-lookup"><span data-stu-id="4d49b-109">Click the version you want to view, or click More ( **...** ) to the right of a version and then click **Restore**.</span></span>
+3. <span data-ttu-id="53065-109">Bấm vào phiên bản bạn muốn xem, hoặc nhấp vào Thêm ( **...** ) ở bên phải của một phiên bản và sau đó nhấp vào **khôi phục**.</span><span class="sxs-lookup"><span data-stu-id="53065-109">Click the version you want to view, or click More ( **...** ) to the right of a version and then click **Restore**.</span></span>
     
 

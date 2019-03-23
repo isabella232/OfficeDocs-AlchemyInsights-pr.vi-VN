@@ -9,29 +9,29 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 1f16f2c7-9593-4ef3-a4d4-e22b59814497
-ms.openlocfilehash: e49ab58be7084f4703bf1617d8954c9b3c01c97b
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 2b4a84495ae874e6c41f4ab3b0a0fcf036fb03d4
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29923026"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30758884"
 ---
-# <a name="solutions-for-error-30015-25"></a><span data-ttu-id="0c104-102">Giải pháp cho lỗi 30015-25</span><span class="sxs-lookup"><span data-stu-id="0c104-102">Solutions for error 30015-25</span></span>
+# <a name="solutions-for-error-30015-25"></a><span data-ttu-id="c57ee-102">Giải pháp cho lỗi 30015-25</span><span class="sxs-lookup"><span data-stu-id="c57ee-102">Solutions for error 30015-25</span></span>
 
-<span data-ttu-id="0c104-103">Hãy thử các giải pháp để khắc phục lỗi [30015-25](https://support.office.com/article/d5df89a9-0507-4b4c-92f9-22f457e630aa?wt.mc_id=Alchemy_ClientDIA):</span><span class="sxs-lookup"><span data-stu-id="0c104-103">Try these solutions to fix error [30015-25](https://support.office.com/article/d5df89a9-0507-4b4c-92f9-22f457e630aa?wt.mc_id=Alchemy_ClientDIA):</span></span>
+<span data-ttu-id="c57ee-103">Hãy thử các giải pháp để khắc phục lỗi [30015-25](https://support.office.com/article/d5df89a9-0507-4b4c-92f9-22f457e630aa?wt.mc_id=Alchemy_ClientDIA):</span><span class="sxs-lookup"><span data-stu-id="c57ee-103">Try these solutions to fix error [30015-25](https://support.office.com/article/d5df89a9-0507-4b4c-92f9-22f457e630aa?wt.mc_id=Alchemy_ClientDIA):</span></span>
   
-- <span data-ttu-id="0c104-104">Khởi động lại máy tính của bạn và thử [cài đặt Office](https://portal.office.com/OLS/MySoftware.aspx).</span><span class="sxs-lookup"><span data-stu-id="0c104-104">Restart your computer and try [installing Office](https://portal.office.com/OLS/MySoftware.aspx).</span></span>
+- <span data-ttu-id="c57ee-104">Khởi động lại máy tính của bạn và thử [cài đặt Office](https://portal.office.com/OLS/MySoftware.aspx).</span><span class="sxs-lookup"><span data-stu-id="c57ee-104">Restart your computer and try [installing Office](https://portal.office.com/OLS/MySoftware.aspx).</span></span>
     
-- <span data-ttu-id="0c104-105">Tải về và cài đặt các [hỗ trợ và phục hồi chương trình hỗ trợ](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span><span class="sxs-lookup"><span data-stu-id="0c104-105">Download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span></span>
+- <span data-ttu-id="c57ee-105">Tải về và cài đặt các [hỗ trợ và phục hồi chương trình hỗ trợ](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span><span class="sxs-lookup"><span data-stu-id="c57ee-105">Download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span></span>
     
-1. <span data-ttu-id="0c104-106">Khi mở ra, **gỡ bỏ cài đặt văn phòng phẩm** chọn từ phiên bản bạn muốn gỡ bỏ cài đặt và chọn **tiếp theo**.</span><span class="sxs-lookup"><span data-stu-id="0c104-106">When it opens, from **Uninstall Office products** select the version you want to uninstall and select **Next**.</span></span> 
+1. <span data-ttu-id="c57ee-106">Khi mở ra, **gỡ bỏ cài đặt văn phòng phẩm** chọn từ phiên bản bạn muốn gỡ bỏ cài đặt và chọn **tiếp theo**.</span><span class="sxs-lookup"><span data-stu-id="c57ee-106">When it opens, from **Uninstall Office products** select the version you want to uninstall and select **Next**.</span></span> 
     
-2. <span data-ttu-id="0c104-107">Tiếp tục đi qua màn hình và khởi động lại máy tính của bạn khi được nhắc.</span><span class="sxs-lookup"><span data-stu-id="0c104-107">Continue going through screens and restart your computer when prompted.</span></span>
+2. <span data-ttu-id="c57ee-107">Tiếp tục đi qua màn hình và khởi động lại máy tính của bạn khi được nhắc.</span><span class="sxs-lookup"><span data-stu-id="c57ee-107">Continue going through screens and restart your computer when prompted.</span></span>
     
-    <span data-ttu-id="0c104-108">Sau khi khởi động, hỗ trợ và phục hồi chương trình hỗ trợ tự động tái mở để hoàn tất quá trình gỡ bỏ cài đặt.</span><span class="sxs-lookup"><span data-stu-id="0c104-108">After restarting, the Support and Recovery Assistant automatically re-opens to complete the uninstall process.</span></span>
+    <span data-ttu-id="c57ee-108">Sau khi khởi động, hỗ trợ và phục hồi chương trình hỗ trợ tự động tái mở để hoàn tất quá trình gỡ bỏ cài đặt.</span><span class="sxs-lookup"><span data-stu-id="c57ee-108">After restarting, the Support and Recovery Assistant automatically re-opens to complete the uninstall process.</span></span>
     
-3. <span data-ttu-id="0c104-109">Làm theo còn lại nhắc nhở, và [cài đặt lại Office](https://portal.office.com/OLS/MySoftware.aspx) hoặc đóng các trợ lý.</span><span class="sxs-lookup"><span data-stu-id="0c104-109">Follow remaining prompts, and [reinstall Office](https://portal.office.com/OLS/MySoftware.aspx) or close the assistant.</span></span> 
+3. <span data-ttu-id="c57ee-109">Làm theo còn lại nhắc nhở, và [cài đặt lại Office](https://portal.office.com/OLS/MySoftware.aspx) hoặc đóng các trợ lý.</span><span class="sxs-lookup"><span data-stu-id="c57ee-109">Follow remaining prompts, and [reinstall Office](https://portal.office.com/OLS/MySoftware.aspx) or close the assistant.</span></span> 
     
 
