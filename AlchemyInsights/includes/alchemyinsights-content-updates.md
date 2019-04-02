@@ -472,62 +472,16 @@
 | 22-3-2019 | [1488-perform-eDiscovery-and-Content-Searches](/AlchemyInsights/perform-ediscovery-and-content-searches) | đổi tên |
 
 
-## <a name="week-of-february-18-2019"></a>Tuần của tháng hai 18, 2019
+## <a name="week-of-march-25-2019"></a>Tuần của Tháng ba 25, 2019
 
 
 | Được đăng trên |Tiêu đề chủ đề | Thay đổi |
 |------|------------|--------|
-| 19-2-2019 | [Có một 'Tham số không thể được tìm thấy' lỗi?](/AlchemyInsights/got-a-parameter-cannot-be-found-error) | Sửa đổi lần |
-| 19-2-2019 | [Di chuyển email vào Office 365](/AlchemyInsights/move-email-to-office-365) | Sửa đổi lần |
-| 19-2-2019 | [Khôi phục xóa hộp thư](/AlchemyInsights/restore-deleted-mailbox) | Sửa đổi lần |
-| 21-2-2019 | [Làm thế nào để cài đặt Mac Office từ cổng thông tin](/AlchemyInsights/647-how-to-install-mac-office-from-the-portal) | đổi tên |
-| 22-2-2019 | [1048 5.7.750 dịch vụ không sẵn dùng. Khách hàng bị chặn gửi từ các tên miền chưa](/AlchemyInsights/1048-5-7-750-service-unavailable-client-blocked-from-sending-from-unregistered-d) | Sửa đổi lần |
-| 22-2-2019 | [125 nhận được một lỗi không hợp lệ giấy phép trong Outlook trên web?](/AlchemyInsights/125-getting-an-invalid-license-error-in-outlook-on-the-web) | Sửa đổi lần |
-| 22-2-2019 | [126 nhận được một hộp thư không thể được tìm thấy lỗi trong OWA?](/AlchemyInsights/126-getting-a-mailbox-cannot-be-found-error-in-owa) | Sửa đổi lần |
-| 22-2-2019 | [127 nhận được một lỗi TenantAccessBlockedException khi truy cập vào email?](/AlchemyInsights/127-getting-a-tenantaccessblockedexception-error-when-accessing-email) | Sửa đổi lần |
-| 22-2-2019 | [128 nhận được một lỗi TenantAccessBlockedException khi truy cập vào email?](/AlchemyInsights/128-getting-a-tenantaccessblockedexception-error-when-accessing-email) | Sửa đổi lần |
-| 22-2-2019 | [711 tạo ra một danh sách phân phối hoặc nhóm](/AlchemyInsights/711-creating-a-distribution-list-or-group) | Sửa đổi lần |
-| 22-2-2019 | [912 các hộp thư đến tập trung cấu hình cho tất cả mọi người trong tổ chức của bạn](/AlchemyInsights/912-configure-focused-inbox-for-everyone-in-your-organization) | Sửa đổi lần |
-| 22-2-2019 | [Loại bỏ tên miền](/AlchemyInsights/remove-domain) | Sửa đổi lần |
-| 22-2-2019 | [Thêm một nhóm cho một trang web SharePoint](/AlchemyInsights/add-a-group-to-a-sharepoint-site) | Sửa đổi lần |
-| 22-2-2019 | [Thêm một bí danh email](/AlchemyInsights/add-another-email-alias) | Sửa đổi lần |
-| 22-2-2019 | [Thêm địa chỉ liên lạc vào nhóm O365](/AlchemyInsights/add-contacts-to-o365-group) | Sửa đổi lần |
-| 22-2-2019 | [Thay đổi UPN](/AlchemyInsights/change-upn) | Sửa đổi lần |
-| 22-2-2019 | [Thay đổi quyền truy cập thư mục chung](/AlchemyInsights/changing-public-folder-permissions) | Sửa đổi lần |
-| 22-2-2019 | [Thay đổi hộp thư dùng chung gửi dưới dạng hành vi](/AlchemyInsights/changing-shared-mailbox-send-as-behavior) | Sửa đổi lần |
-| 22-2-2019 | [Kiểm tra trạng thái đồng bộ AAD Identity](/AlchemyInsights/check-aad-identity-sync-status) | Sửa đổi lần |
-| 22-2-2019 | [Hãy so sánh các kế hoạch Office 365](/AlchemyInsights/compare-office-365-plans) | Sửa đổi lần |
-| 22-2-2019 | [Tạo một trang web cổ điển](/AlchemyInsights/create-a-classic-site) | Sửa đổi lần |
-| 22-2-2019 | [Tạo một trang web trong SharePoint Online](/AlchemyInsights/create-a-site-in-sharepoint-online) | Sửa đổi lần |
-| 22-2-2019 | [Tạo thư mục công cộng](/AlchemyInsights/creating-public-folders) | Sửa đổi lần |
-| 22-2-2019 | [Xóa một trang web SharePoint](/AlchemyInsights/delete-a-sharepoint-site-0) | Sửa đổi lần |
-| 22-2-2019 | [Cung cấp cho người dùng quyền truy cập cho SharePoint và OneDrive](/AlchemyInsights/give-users-access-to-sharepoint-and-onedrive) | Sửa đổi lần |
-| 22-2-2019 | [Có một 'Tham số không thể được tìm thấy' lỗi?](/AlchemyInsights/got-a-parameter-cannot-be-found-error) | Sửa đổi lần |
-| 22-2-2019 | [Có vấn đề phân phối email?](/AlchemyInsights/having-email-delivery-issues-0) | Sửa đổi lần |
-| 22-2-2019 | [Có vấn đề phân phối email?](/AlchemyInsights/having-email-delivery-issues) | Sửa đổi lần |
-| 22-2-2019 | [Có vấn đề nhận được Outlook kết nối?](/AlchemyInsights/having-issues-getting-outlook-to-connect-0) | Sửa đổi lần |
-| 22-2-2019 | [Có vấn đề nhận được Outlook kết nối?](/AlchemyInsights/having-issues-getting-outlook-to-connect) | Sửa đổi lần |
-| 22-2-2019 | [Làm thế nào để gán giấy phép văn phòng cho người dùng Mac](/AlchemyInsights/how-to-assign-office-licenses-to-mac-users) | Sửa đổi lần |
-| 22-2-2019 | [Làm thế nào để mua giấy phép cho đăng ký Office 365 doanh nghiệp của bạn](/AlchemyInsights/how-to-buy-licenses-for-your-office-365-business-subscription) | Sửa đổi lần |
-| 22-2-2019 | [Làm thế nào để tăng lưu trữ trong OneDrive cho doanh nghiệp](/AlchemyInsights/how-to-increase-storage-in-onedrive-for-business) | Sửa đổi lần |
-| 22-2-2019 | [Làm thế nào để kích hoạt đăng ký](/AlchemyInsights/how-to-reactivate-a-subscription) | Sửa đổi lần |
-| 22-2-2019 | [Tăng kích cỡ hộp thư cho các doanh nghiệp SKUs](/AlchemyInsights/increase-mailbox-size-for-enterprise-skus) | Sửa đổi lần |
-| 22-2-2019 | [Tăng kích cỡ hộp thư cho các SMB SKUs](/AlchemyInsights/increase-mailbox-size-for-smb-skus) | Sửa đổi lần |
-| 22-2-2019 | [Tăng kích cỡ hộp thư](/AlchemyInsights/increase-mailbox-size) | Sửa đổi lần |
-| 22-2-2019 | [Vấn đề với Skype cho doanh nghiệp?](/AlchemyInsights/issue-with-skype-for-business) | Sửa đổi lần |
-| 22-2-2019 | [Quản lý tài khoản người dùng được đồng bộ hóa](/AlchemyInsights/manage-synchronized-user-accounts) | Sửa đổi lần |
-| 22-2-2019 | [Giám sát việc sử dụng OneDrive và SharePoint và các hoạt động](/AlchemyInsights/monitor-onedrive-and-sharepoint-usage-and-activity) | Sửa đổi lần |
-| 22-2-2019 | [Kích hoạt lại một thuê bao](/AlchemyInsights/reactivate-a-subscription) | Sửa đổi lần |
-| 22-2-2019 | [Khôi phục đã bị xóa OneDrive](/AlchemyInsights/restore-a-deleted-onedrive) | Sửa đổi lần |
-| 22-2-2019 | [Khôi phục lại một nhóm Office 365 sử dụng trung tâm quản trị Exchange](/AlchemyInsights/restore-an-office-365-group-using-eac%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B) | Sửa đổi lần |
-| 22-2-2019 | [Thiết lập của bạn đăng ký O365 Business Essentials](/AlchemyInsights/setting-up-your-o365-business-essentials-subscription) | Sửa đổi lần |
-| 22-2-2019 | [Chia sẻ với người dùng bên ngoài không hoạt động](/AlchemyInsights/sharing-with-external-users-isn-t-working) | Sửa đổi lần |
-| 22-2-2019 | [Cố gắng tìm một phiên tòa?](/AlchemyInsights/trying-to-find-a-trial) | Sửa đổi lần |
-| 22-2-2019 | [Biến bên ngoài chia sẻ hoặc tắt cho SharePoint](/AlchemyInsights/turn-external-sharing-on-or-off-for-sharepoint-0) | Sửa đổi lần |
-| 22-2-2019 | [Biến bên ngoài chia sẻ hoặc tắt cho SharePoint](/AlchemyInsights/turn-external-sharing-on-or-off-for-sharepoint) | Sửa đổi lần |
-| 22-2-2019 | [Cho phép người dùng](/AlchemyInsights/user-permissions) | Sửa đổi lần |
-| 22-2-2019 | [Khi báo cáo thanh toán được tạo ra?](/AlchemyInsights/when-is-the-billing-statement-generated) | Sửa đổi lần |
-| 22-2-2019 | [Làm thế nào để xác minh tên miền của bạn với Office 365](/AlchemyInsights/how-to-verify-your-domain-with-office-365) | Sửa đổi lần |
+| 25-3-2019 | [Outlook.com thay đổi ngôn ngữ](/AlchemyInsights/outlook-com-change-language) | Sửa đổi lần |
+| 27-3-2019 | [Xóa một trang web SharePoint](/AlchemyInsights/delete-a-sharepoint-site) | Sửa đổi lần |
+| 28-3-2019 | Hạn chế SharePoint Online để chế độ cổ điển | Thêm vào |
+| 28-3-2019 | [Không thể thêm mặc định năm 2010 phê duyệt quy trình làm việc](/AlchemyInsights/can-t-add-default-2010-approval-workflow) | Sửa đổi lần |
+| 28-3-2019 | [Hạn chế SharePoint Online để chế độ cổ điển](/AlchemyInsights/restrict-sharepoint-online-to-classic-mode) | đổi tên |
 
 
 ## <a name="week-of-february-25-2019"></a>Tuần của tháng hai 25, 2019
