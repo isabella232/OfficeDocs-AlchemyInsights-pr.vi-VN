@@ -8,15 +8,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9e6df5ee-ede8-421d-ba25-a3a3d0ca0a5d
-ms.openlocfilehash: 1eecc9a699a950760fd00cb96c11d167e40344f2
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 06c8c3e3686dbb1567551c8a727af669593285c6
+ms.sourcegitcommit: 26774fd0e24a02cc6ee2433eccbbfc27ebc9f850
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29907762"
+ms.lasthandoff: 04/03/2019
+ms.locfileid: "31397028"
 ---
-# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a><span data-ttu-id="0b7bc-102">550 5.7.705 truy cập từ chối, người thuê nhà đã vượt quá ngưỡng</span><span class="sxs-lookup"><span data-stu-id="0b7bc-102">550 5.7.705 Access denied, tenant has exceeded threshold</span></span>
+# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a><span data-ttu-id="47fdf-102">550 5.7.705 truy cập từ chối, người thuê nhà đã vượt quá ngưỡng</span><span class="sxs-lookup"><span data-stu-id="47fdf-102">550 5.7.705 Access denied, tenant has exceeded threshold</span></span>
 
-<span data-ttu-id="0b7bc-p101">Thông điệp này xảy ra khi quá nhiều thư rác hoặc số lượng lớn thư đã được gửi của các tổ chức Office 365 của mình. Để loại bỏ khối này, bạn cần phải hiểu và giải thích nguyên nhân cho một đại lý hỗ trợ, cũng như sửa chữa vấn đề cơ bản.</span><span class="sxs-lookup"><span data-stu-id="0b7bc-p101">This message occurs when too much spam or bulk mail has been sent by your Office 365 organization. To remove this block, you need to understand and explain the cause to a support agent, as well as correct the underlying problem.</span></span>
-  
+<span data-ttu-id="47fdf-103">Thông điệp này xảy ra khi quá nhiều thư rác hoặc số lượng lớn thư đã được gửi cho tổ chức của bạn và chúng tôi đặt một khối trên thư gửi đi.</span><span class="sxs-lookup"><span data-stu-id="47fdf-103">This message occurs when too much spam or bulk mail has been sent by your organization and we place a block on outgoing mail.</span></span>
+<span data-ttu-id="47fdf-104">Nguyên nhân phổ biến là các máy chủ tại chỗ bị xâm phạm hoặc tài khoản admin bị xâm nhập đã được sử dụng để tạo kết nối.</span><span class="sxs-lookup"><span data-stu-id="47fdf-104">Common causes are compromised on-premises servers or compromised admin accounts that have been used to create connectors.</span></span> <span data-ttu-id="47fdf-105">Một trong hai điều kiện có thể cho phép các thư rác để vượt qua thông qua các tổ chức của bạn.</span><span class="sxs-lookup"><span data-stu-id="47fdf-105">Either condition can allow spam to pass through your organization.</span></span>
+
+<span data-ttu-id="47fdf-106">Để loại bỏ khối này, bạn cần phải hiểu và giải thích nguyên nhân cho một đại lý hỗ trợ, cũng như sửa chữa vấn đề cơ bản.</span><span class="sxs-lookup"><span data-stu-id="47fdf-106">To remove this block, you need to understand and explain the cause to a support agent, as well as correct the underlying problem.</span></span>
+<span data-ttu-id="47fdf-107">Nhấp vào **liên hệ với chúng tôi** dưới đây sau khi bạn đã sẵn sàng.</span><span class="sxs-lookup"><span data-stu-id="47fdf-107">Click **Contact us** below once you're ready.</span></span>
 
