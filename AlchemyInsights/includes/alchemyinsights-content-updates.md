@@ -484,55 +484,23 @@
 | 28-3-2019 | [Hạn chế SharePoint Online để chế độ cổ điển](/AlchemyInsights/restrict-sharepoint-online-to-classic-mode) | đổi tên |
 
 
-## <a name="week-of-february-25-2019"></a>Tuần của tháng hai 25, 2019
+## <a name="week-of-april-01-2019"></a>Tuần của Tháng ba, 2019
 
 
 | Được đăng trên |Tiêu đề chủ đề | Thay đổi |
 |------|------------|--------|
-| 25-2-2019 | [1800014 nhận được hỗ trợ trong ứng dụng Outlook mobile app](/AlchemyInsights/1800014-get-in-app-support-for-the-outlook-mobile-app) | Sửa đổi lần |
-| 25-2-2019 | [1800014 thiết lập email trong Outlook mobile app](/AlchemyInsights/1800014-set-up-email-in-the-outlook-mobile-app) | Sửa đổi lần |
-| 25-2-2019 | [8000001 tắt hộp thư đến tập trung](/AlchemyInsights/8000001-turn-off-focused-inbox) | Sửa đổi lần |
-| 25-2-2019 | [8000009 tạo ra một thư mục trong Outlook.com](/AlchemyInsights/8000009-create-a-folder-in-outlook-com) | Sửa đổi lần |
-| 25-2-2019 | [8000012 xóa một số liên lạc trong Outlook.com](/AlchemyInsights/8000012-delete-a-contact-in-outlook-com) | Sửa đổi lần |
-| 25-2-2019 | [8000013 thay đổi font chữ trong Outlook.com](/AlchemyInsights/8000013-change-font-in-outlook-com) | Sửa đổi lần |
-| 25-2-2019 | [8000014 làm thế nào để thay đổi ngôn ngữ trong Outlook.com](/AlchemyInsights/8000014-how-to-change-language-in-outlook-com) | Sửa đổi lần |
-| 25-2-2019 | [8000015 chặn hoặc bỏ chặn người gửi](/AlchemyInsights/8000015-block-or-unblock-senders) | Sửa đổi lần |
-| 25-2-2019 | [8000015 nhận được email từ chặn người gửi trong Outlook.com](/AlchemyInsights/8000015-receiving-email-from-blocked-senders-in-outlook-com) | Sửa đổi lần |
-| 25-2-2019 | [8000029 đối phó với sự giả mạo trong Outlook.com](/AlchemyInsights/8000029-deal-with-phishing-in-outlook-com) | Sửa đổi lần |
-| 25-2-2019 | [8000029 đối phó với thư rác trong Outlook.com](/AlchemyInsights/8000029-deal-with-spam-in-outlook-com) | Sửa đổi lần |
-| 25-2-2019 | [8000029 đối phó với thư rác hoặc lừa đảo trong Outlook.com](/AlchemyInsights/8000029-deal-with-spam-or-phishing-in-outlook-com) | Sửa đổi lần |
-| 25-2-2019 | [8000033 làm thế nào để trả lời hoặc chuyển tiếp tin nhắn trong các phiên bản beta Outlook.com](/AlchemyInsights/8000033-how-to-reply-to-or-forward-messages-in-the-outlook-com-beta) | Sửa đổi lần |
-| 25-2-2019 | [8000034 biên nhận đã đọc trong Outlook.com](/AlchemyInsights/8000034-read-receipts-in-outlook-com) | Sửa đổi lần |
-| 25-2-2019 | [8000036 thay đổi tên của bạn email trong Outlook.com](/AlchemyInsights/8000036-change-your-email-name-in-outlook-com) | Sửa đổi lần |
-| 25-2-2019 | [8000046 in email và lịch trong Outlook.com](/AlchemyInsights/8000046-print-email-and-calendars-in-outlook-com) | Sửa đổi lần |
-| 25-2-2019 | [8000047 làm thế nào để tạo một chữ ký email trong Outlook.com](/AlchemyInsights/8000047-how-to-create-an-email-signature-in-outlook-com) | Sửa đổi lần |
-| 25-2-2019 | [8000052 các tập tin đính kèm trong Outlook.com](/AlchemyInsights/8000052-attach-files-in-outlook-com) | Sửa đổi lần |
-| 25-2-2019 | [8000059 làm thế nào để thay đổi chủ đề hành động (FMS)](/AlchemyInsights/8000059-how-to-change-theme-action-fms) | Sửa đổi lần |
-| 25-2-2019 | [Nên bước đi nếu tài khoản bị thỏa hiệp](/AlchemyInsights/recommended-steps-to-take-if-an-account-is-compromised) | Sửa đổi lần |
-| 26-2-2019 | [Khôi phục lại một nhóm Office 365 đã xóa](/AlchemyInsights/restore-a-deleted-office-365-group) | Sửa đổi lần |
-| 26-2-2019 | [9000215 đăng ký Outlook.com](/AlchemyInsights/9000215-outlook-com-subscriptions) | Thêm vào |
-| 27-2-2019 | [9000199 PST các tập tin trong Outlook.com](/AlchemyInsights/9000199-outlook-com-read-pst-files) | Thêm vào |
-| 27-2-2019 | [9000202 Outlook.com tùy chọn](/AlchemyInsights/9000202-outlook-com-options) | Thêm vào |
-| 27-2-2019 | [9000203 các bộ lọc Outlook.com](/AlchemyInsights/9000203-outlook-com-filters) | Thêm vào |
-| 28-2-2019 | [8000036 thay đổi hồ sơ pic/tên trong Outlook.com](/AlchemyInsights/8000036-6-outlook-com-update-profile) | Thêm vào |
-| 28-2-2019 | [8000049 Skype biểu tượng thiếu trong Outlook.com](/AlchemyInsights/8000049-2-outlook-com-skype-button) | Thêm vào |
-| 28-2-2019 | [8000088 lưu email trong Outlook.com](/AlchemyInsights/8000088-outlook-com-save-emails) | Thêm vào |
-| 28-2-2019 | [9000071 không thể nhập các biểu tượng trên Mac @](/AlchemyInsights/9000071-outlook-com-cant-type-@-on-mac) | Thêm vào |
-| 28-2-2019 | [9000193 hoàn tác di chuyển hoặc xóa trong Outlook.com](/AlchemyInsights/9000193-outlook-com-undo-move-delete) | Thêm vào |
-| 28-2-2019 | [Phiên bản Beta 9000198 Outlook.com lịch](/AlchemyInsights/9000198-outlook-com-calendar-beta) | Thêm vào |
-| 1-3-2019 | [8000035 yêu cầu quay trở lại từ phiên bản beta Outlook.com để cổ điển Outlook.com](/AlchemyInsights/8000035-5-outlook-com-roll-back-from-beta-to-classic) | Thêm vào |
-| 1-3-2019 | [8000035 làm thế nào để nhìn Outlook.com mới giống như cũ](/AlchemyInsights/8000035-7-make-new-outlook-com-like-old-version) | Thêm vào |
-| 1-3-2019 | [8000043 cài đặt POP, IMAP và SMTP cho Outlook.com](/AlchemyInsights/8000043-2-outlook-com-pop-imap-smtp-settings) | Thêm vào |
-| 1-3-2019 | [8000090 Outlook.com chọn tất cả](/AlchemyInsights/8000090-outlook-com-select-all) | Thêm vào |
-| 1-3-2019 | [8000091 Outlook.com phản ứng cửa sổ pop up](/AlchemyInsights/8000091-outlook-com-react-pop-up) | Thêm vào |
-| 1-3-2019 | [8000092 Outlook.com xem thông báo nguồn](/AlchemyInsights/8000092-outlook-com-view-message-source) | Thêm vào |
-| 1-3-2019 | [8000093 Outlook.com kết nối tài khoản cấp phép](/AlchemyInsights/8000093-outlook-com-connected-account-permissions) | Thêm vào |
-| 1-3-2019 | [1800009Outlook cho Mac trong ứng dụng hỗ trợ](/AlchemyInsights/1800009-outlook-for-mac-in-app-support) | Sửa đổi lần |
-| 1-3-2019 | [8000057 an toàn liên kết trong Outlook.com](/AlchemyInsights/8000057-safe-links-in-outlook-com-0) | Sửa đổi lần |
-| 1-3-2019 | [Sổ địa chỉ Outlook.com 9000232](/AlchemyInsights/9000232-outlook-com-address-book) | Thêm vào |
-| 1-3-2019 | [9000233 Outlook.com PIN](/AlchemyInsights/9000233-outlook-com-pin) | Thêm vào |
-| 1-3-2019 | [9000234 Outlook.com internal server error](/AlchemyInsights/9000234-outlook-com-internal-server-error) | Thêm vào |
-| 1-3-2019 | [9000236 Outlook.com thêm tài khoản](/AlchemyInsights/9000236-outlook-com-add-account) | Thêm vào |
-| 1-3-2019 | [9000238 Outlook.com thêm bí danh](/AlchemyInsights/9000238-outlook-com-add-alias) | Thêm vào |
-| 1-3-2019 | [9000239 Outlook.com chuyển tiếp](/AlchemyInsights/9000239-outlook-com-forwarding) | Thêm vào |
-| 1-3-2019 | [9000240 Outlook.com bài trả lời](/AlchemyInsights/9000240-outlook-com-replies) | Thêm vào |
+| 1-4-2019 | [Kích hoạt Office 365 ATP cho SharePoint, OneDrive và Microsoft đội](/AlchemyInsights/enable-office-365-atp-spo-odb-teams) | Thêm vào |
+| 1-4-2019 | [Office 365 nâng cao mối đe dọa bảo vệ (ATP) thiết lập](/AlchemyInsights/office-365-atp-setup) | Thêm vào |
+| 1-4-2019 | [9000071 không thể nhập các biểu tượng trên Mac @](/AlchemyInsights/outlook-com-cant-type-chars-on-mac) | đổi tên |
+| 1-4-2019 | [Khôi phục lại một nhóm Office 365 sử dụng trung tâm quản trị Exchange](/AlchemyInsights/restore-an-office-365-group-using-eac%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B) | Sửa đổi lần |
+| 1-4-2019 | [Khắc phục sự cố với Office 365 nâng cao mối đe dọa bảo vệ (ATP)](/AlchemyInsights/troubleshoot-issues-office-365-atp) | Thêm vào |
+| 2-4-2019 | Phân loại nhãn trong Office 365 | Thêm vào |
+| 2-4-2019 | Data Loss Prevention (DLP) Tổng quan | Thêm vào |
+| 2-4-2019 | Các ứng dụng máy tính để bàn cho SharePoint | Thêm vào |
+| 2-4-2019 | Trung tâm trang web giới hạn và hạn chế | Thêm vào |
+| 2-4-2019 | OneDrive: Thiếu tập tin hoặc thư mục | Thêm vào |
+| 2-4-2019 | Lưu trang web hoặc danh sách như là một bản mẫu | Thêm vào |
+| 2-4-2019 | Tổng quan về các trang web SharePoint hub | Thêm vào |
+| 2-4-2019 | Trang web và cấu trúc nội dung loại bỏ | Thêm vào |
+| 2-4-2019 | Khắc phục sự cố lỗi 404, File không tìm thấy | Thêm vào |
+| 3-4-2019 | [Mã lỗi 550 5.7.705 truy cập từ chối, người thuê nhà đã vượt quá ngưỡng](/AlchemyInsights/error-code-550-5-7-705-access-denied-tenant-has-exceeded-threshold) | Sửa đổi lần |

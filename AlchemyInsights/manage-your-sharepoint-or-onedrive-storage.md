@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8b0e6b9b-67c9-4716-8602-ebb58b364ef9
-ms.openlocfilehash: a6e6d95f79b058326255f480b1f72ceb8d94bfd9
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 450b416b5e0635bb8868f7eaf8296930af68f1a5
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30761223"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747332"
 ---
 # <a name="manage-your-sharepoint-or-onedrive-storage"></a>Quản lý lưu trữ OneDrive hoặc SharePoint của bạn
 
@@ -24,7 +24,7 @@ ms.locfileid: "30761223"
   
 Đối với hầu hết các tổ chức, lưu trữ SharePoint quản lý tự động nên bạn không cần phải thiết lập giới hạn cho mỗi bộ sưu tập trang web. Để kiểm tra bao nhiêu lưu trữ SharePoint bạn có:
   
-- Trong Trung tâm quản trị cổ điển SharePoint, ở phía trên bên phải của trang bộ sưu tập trang web, tìm kiếm lưu trữ có sẵn và tất cả của bạn.
+- Trong Trung tâm quản trị mới SharePoint, ở phía trên bên phải của trang web, tìm kiếm lưu trữ có sẵn và tất cả của bạn.
     
 Để xem thông tin về cách tính giới hạn của bạn, hãy xem [Giới hạn trực tuyến SharePoint](https://go.microsoft.com/fwlink/p/?LinkID=856113). Để mua lưu trữ thêm, hãy xem [thay đổi dung lượng lưu trữ cho các thuê bao của bạn](https://go.microsoft.com/fwlink/?linkid=866428).
   

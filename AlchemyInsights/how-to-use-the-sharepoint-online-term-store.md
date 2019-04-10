@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9b55de94-8aee-40cb-970f-046de0a80e6b
-ms.openlocfilehash: a1eb23c097e8540856df9d350798a0cdfeb73f15
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: ac2e27eac4110def1ab91e5124b21b216ddbc178
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29932494"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747692"
 ---
 # <a name="how-to-use-the-sharepoint-online-term-store"></a>Làm thế nào để sử dụng lưu trữ SharePoint Online hạn
 
-Các thuật ngữ cửa hàng có một Office 365 quản trị toàn cầu, quản trị SharePoint và thời hạn lưu trữ quản trị viên và có thể được tìm thấy trong Trung tâm quản trị cổ điển của SharePoint Online. 
+Các thuật ngữ cửa hàng có một Office 365 quản trị toàn cầu, quản trị SharePoint và thời hạn lưu trữ quản trị viên và có thể được tìm thấy trong Trung tâm quản trị SharePoint Online mới. 
   
 Để biết thêm chi tiết về cách sử dụng SharePoint Online thời hạn lưu trữ và phân loại trong SharePoint Online, hãy xem [giới thiệu về quản lý siêu dữ liệu](https://go.microsoft.com/fwlink/?linkid=2044674&amp;clcid=0x409).
   

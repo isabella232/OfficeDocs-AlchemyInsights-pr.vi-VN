@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: 25bc059326d1c91fcdd331811dfc402ecd16f688
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 71c41134a267cdd18c2168d4835078da103ad840
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30754672"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31748016"
 ---
 # <a name="delete-sites-that-belong-to-an-office-365-group"></a>Xóa trang web này thuộc về một nhóm Office 365:
 
-Khi người dùng tạo một trang web mới của đội bóng từ trang chủ SharePoint (hoặc bạn tạo một trang web mới của đội bóng từ xem trước Trung tâm quản trị SharePoint mới), một nhóm Office 365 tương ứng được tự động tạo ra. Office 365 đội nhóm kết nối trang web cũng được tạo ra khi bạn tạo một nhóm hoặc một nhóm Office 365 trong Microsoft Teams. Để xóa một trang web SharePoint thuộc về một nhóm Office 365, bạn cần phải xoá nhóm Office 365 chính nó. 
+Khi người dùng tạo một trang web mới của đội bóng từ trang chủ SharePoint hoặc bạn tạo một trang web mới của đội bóng từ Trung tâm quản trị SharePoint mới, một nhóm Office 365 tương ứng được tự động tạo ra. Office 365 đội nhóm kết nối trang web cũng được tạo ra khi bạn tạo một nhóm hoặc một nhóm Office 365 trong Microsoft Teams. Để xóa một trang web SharePoint thuộc về một nhóm Office 365, bạn cần phải xoá nhóm Office 365 chính nó. 
   
 1. Vào [nhóm trang Trung tâm quản trị Microsoft 365](https://portal.office.com/adminportal/home#/groups).
     
@@ -40,11 +40,11 @@ Lưu ý: Khi bạn xoá một nhóm, có thể có một sự chậm trễ trư�
   
 **Xóa một bộ sưu tập trang web SharePoint:**
 
-Để xóa một bộ sưu tập cổ điển trang web:
+Để xóa một trang web:
   
-1. Trong Trung tâm quản trị cổ điển SharePoint, trên trang bộ sưu tập trang web, hãy chọn **hộp kiểm** bên cạnh bộ sưu tập trang web. 
+1. Trong SharePoint quản trị Trung tâm mới, trên trang web, nhấp vào **hộp kiểm** bên cạnh các trang web mà bạn muốn xóa. 
     
-2. Trên tab bộ sưu tập trang web, hãy chọn **xóa.**
+2. Trên thanh công cụ ribbon, bấm vào **xóa.**
     
 **Xóa một trang web do tai nạn?**
 

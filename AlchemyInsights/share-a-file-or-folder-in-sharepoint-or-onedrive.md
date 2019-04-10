@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 29782984-30d5-4c1b-b1dd-eff6fab41078
-ms.openlocfilehash: 29e4e5c105fa5c68a286c277c4039f15a77d5c5d
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 428646635f0a9112c49a676ee297d514a86354ae
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29941782"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747872"
 ---
 # <a name="share-a-file-or-folder-in-sharepoint-or-onedrive"></a>Chia sẻ tập tin hoặc thư mục trong SharePoint hoặc OneDrive
 
@@ -28,7 +28,7 @@ ms.locfileid: "29941782"
   - **Những người cụ thể** cho phép truy cập duy nhất để những người bạn chỉ định, mặc dù người khác có thể đã có quyền truy cập. Nếu mọi người về phía trước theo lời mời chia sẻ, chỉ có những người đã có quyền truy cập vào mục sẽ có thể sử dụng liên kết. 
     
     > [!NOTE]
-    > Nếu một trong các tùy chọn này không khả dụng, hoặc nếu bạn muốn có một kiểu khác nhau liên kết để xuất hiện theo mặc định, bạn có thể thay đổi cài đặt phạm vi tổ chức của bạn bằng Trung tâm quản trị cổ điển của SharePoint và nhấp vào **chia sẻ** ở ngăn bên trái. [Tìm hiểu thêm](https://go.microsoft.com/fwlink/?linkid=866426)
+    > Nếu một trong các tùy chọn này không khả dụng, hoặc nếu bạn muốn có một kiểu khác nhau liên kết để xuất hiện theo mặc định, bạn có thể thay đổi cài đặt phạm vi tổ chức của bạn bằng Trung tâm quản trị SharePoint mới và nhấp vào **chia sẻ** ở ngăn bên trái. [Tìm hiểu thêm](https://go.microsoft.com/fwlink/?linkid=866426)
   
 3. Theo mặc định, **cho phép chỉnh sửa** được bật. Nếu bạn muốn mọi người để chỉ xem các tập tin của bạn, hãy xoá hộp kiểm. 
     
