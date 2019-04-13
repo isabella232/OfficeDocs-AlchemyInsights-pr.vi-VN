@@ -10,25 +10,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1554
 ms.assetid: caecfa19-86c9-4aa4-9c83-b8a974ce60b9
-ms.openlocfilehash: f44ed42906b85e63f1f694813f54710906969904
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 7651effc43cb0c4bc2fbbe5349bb72303943f493
+ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30772463"
+ms.lasthandoff: 04/13/2019
+ms.locfileid: "31859162"
 ---
 # <a name="winsock-error-10061"></a>Winsock lỗi 10061
 
 Mã lỗi này có nghĩa rằng Office 365 không thể thiết lập một cổng TCP (kết nối) với máy chủ mục tiêu. Nguyên nhân có thể nhất của lỗi này là một vấn đề với cấu hình tường lửa của bạn. Để khắc phục vấn đề, hãy kiểm tra các cài đặt này:
-  
-- Xác minh cấu hình tường lửa của bạn với các thông tin trong [Office 365 URL và dải địa chỉ IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
-    
-- Nếu lỗi cụ thể để bảo vệ trực tuyến trao đổi (EOP), bạn nên đã được trước đó thông báo để thay đổi [địa chỉ IP bảo vệ trực tuyến trao đổi](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses).
-    
-- Xác minh rằng nhà cung cấp dịch vụ Internet (ISP) không phải là chặn cổng.
-    
-- Xác minh các thông minh chủ và mục tiêu máy chủ cài đặt kết nối của bạn.
-    
-Lưu ý rằng Office 365 không chặn *các* kết nối theo cách này. 
-  
 
+- Xác minh cấu hình tường lửa của bạn với các thông tin trong [Office 365 URL và dải địa chỉ IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
+
+- Nếu lỗi cụ thể để bảo vệ trực tuyến trao đổi (EOP), bạn nên đã được trước đó thông báo để thay đổi [địa chỉ IP bảo vệ trực tuyến trao đổi](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses).
+
+- Xác minh rằng nhà cung cấp dịch vụ Internet (ISP) không phải là chặn cổng.
+
+- Xác minh các thông minh chủ và mục tiêu máy chủ cài đặt kết nối của bạn.
+
+Lưu ý rằng Office 365 không chặn *các* kết nối theo cách này.
