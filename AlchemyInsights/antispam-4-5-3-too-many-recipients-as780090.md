@@ -10,17 +10,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1049
 ms.assetid: fa3d4be9-c90a-4926-9754-4b708b038bf6
-ms.openlocfilehash: 363214d75c255d2f493e6a771749d2c2817042f0
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 5bb496363b9612427e5b704cdba12b8913676885
+ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30780478"
+ms.lasthandoff: 04/13/2019
+ms.locfileid: "31859594"
 ---
-# <a name="453-too-many-recipients-as780090"></a><span data-ttu-id="f2a39-102">4.5.3 quá nhiều người nhận (AS780090)</span><span class="sxs-lookup"><span data-stu-id="f2a39-102">4.5.3 Too many recipients (AS780090)</span></span>
+# <a name="453-too-many-recipients-as780090"></a><span data-ttu-id="ab3c7-102">4.5.3 quá nhiều người nhận (AS780090)</span><span class="sxs-lookup"><span data-stu-id="ab3c7-102">4.5.3 Too many recipients (AS780090)</span></span>
 
-<span data-ttu-id="f2a39-103">Lỗi này xảy ra khi khối lượng lưu lượng truy cập thư điện tử từ địa chỉ IP nguồn vượt quá giới hạn dựa trên danh tiếng (hoặc thiếu uy tín) của địa chỉ IP nguồn.</span><span class="sxs-lookup"><span data-stu-id="f2a39-103">This error occurs when the volume of email traffic from the source IP address exceeds the limit based on the reputation (or lack of reputation) of source IP address.</span></span>
-  
-<span data-ttu-id="f2a39-104">Chặn email từ các nguồn địa chỉ IP sẽ hết hạn trong vòng một giờ.</span><span class="sxs-lookup"><span data-stu-id="f2a39-104">Blocking email from the source IP address will expire within an hour.</span></span> <span data-ttu-id="f2a39-105">Nếu địa chỉ IP của nguồn là một máy chủ email tại chỗ thuộc về bạn, kiểm tra lại cấu hình kết nối luồng thư.</span><span class="sxs-lookup"><span data-stu-id="f2a39-105">If the source IP address is an on-premises email server that belongs to you, verify the configuration of the mail flow connector.</span></span> <span data-ttu-id="f2a39-106">Nếu hành vi tiếp tục cho hơn một giờ, liên hệ với hỗ trợ cho yêu cầu ngoại lệ cho địa chỉ IP của nguồn.</span><span class="sxs-lookup"><span data-stu-id="f2a39-106">If the behavior continues for more than an hour, contact support to request an exception for the source IP address.</span></span>
-  
+<span data-ttu-id="ab3c7-103">Lỗi này xảy ra khi khối lượng lưu lượng truy cập thư điện tử từ địa chỉ IP nguồn vượt quá giới hạn dựa trên danh tiếng (hoặc thiếu uy tín) của địa chỉ IP nguồn.</span><span class="sxs-lookup"><span data-stu-id="ab3c7-103">This error occurs when the volume of email traffic from the source IP address exceeds the limit based on the reputation (or lack of reputation) of source IP address.</span></span>
 
+<span data-ttu-id="ab3c7-104">Chặn email từ các nguồn địa chỉ IP sẽ hết hạn trong vòng một giờ.</span><span class="sxs-lookup"><span data-stu-id="ab3c7-104">Blocking email from the source IP address will expire within an hour.</span></span> <span data-ttu-id="ab3c7-105">Nếu địa chỉ IP của nguồn là một máy chủ email tại chỗ thuộc về bạn, kiểm tra lại cấu hình kết nối luồng thư.</span><span class="sxs-lookup"><span data-stu-id="ab3c7-105">If the source IP address is an on-premises email server that belongs to you, verify the configuration of the mail flow connector.</span></span> <span data-ttu-id="ab3c7-106">Nếu hành vi tiếp tục cho hơn một giờ, liên hệ với hỗ trợ cho yêu cầu ngoại lệ cho địa chỉ IP của nguồn.</span><span class="sxs-lookup"><span data-stu-id="ab3c7-106">If the behavior continues for more than an hour, contact support to request an exception for the source IP address.</span></span>
