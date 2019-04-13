@@ -10,17 +10,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 8cf6d70b-9a78-4f04-ac59-7ffcf44ffd22
 ms.custom: 1048
-ms.openlocfilehash: 5eb42679f123fcd1b680327329721cb47e18e11a
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 06be6babc524ae0d8065355218426c695f49be66
+ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30776523"
+ms.lasthandoff: 04/13/2019
+ms.locfileid: "31856642"
 ---
 # <a name="57750-client-blocked-from-sending-from-unregistered-domain"></a>5.7.750 khách hàng chặn gửi từ chưa đăng ký tên miền
 
 Lỗi xảy ra khi một lượng lớn các khối lượng của các thư được gửi từ các tên miền không được cung cấp trong Office 365 (Thêm vào như là miền được chấp nhận và xác nhận).
-  
-Để tránh lỗi này, bạn có thể sử dụng một kết nối dòng dựa trên chứng chỉ thư, nơi các giấy chứng nhận tên miền là một miền được cung cấp, hoặc bạn có thể cung cấp tất cả các miền gửi.
-  
 
+Để tránh lỗi này, bạn có thể sử dụng một kết nối dòng dựa trên chứng chỉ thư, nơi các giấy chứng nhận tên miền là một miền được cung cấp, hoặc bạn có thể cung cấp tất cả các miền gửi.
