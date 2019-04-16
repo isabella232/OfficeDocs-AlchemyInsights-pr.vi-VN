@@ -11,13 +11,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 182
 ms.assetid: a3a5ea91-6989-4616-9290-c7b24484e8c8
-ms.openlocfilehash: 549805ddc255df5292d0f3c4e31bc055e611c7bf
-ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
+ms.openlocfilehash: a8154d56839c43dd073862467c43366978b8cd3a
+ms.sourcegitcommit: e87b3f691444db3b9f460c9a3109146dc7ad4f80
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/13/2019
-ms.locfileid: "31858334"
+ms.lasthandoff: 04/15/2019
+ms.locfileid: "31869365"
 ---
 # <a name="use-sara-to-diagnose-and-resolve-outlook-authentication-issues"></a>Sử dụng SaRA để chẩn đoán và giải quyết các vấn đề xác thực Outlook
 
-Chúng tôi khuyên bạn sử dụng [Outlook giữ yêu cầu mật khẩu của tôi](https://aka.ms/SaRA-OutlookPwdPrompt) chẩn đoán trên máy tính bị ảnh hưởng để khắc phục sự cố mà Outlook liên tục nhắc mật khẩu. Này [SaRA](https://diagnostics.office.com/#/) chẩn đoán không tự động kiểm tra và trả về các giải pháp có thể để bạn có thể sử dụng để giải quyết bất kỳ vấn đề phát hiện.
+Chúng tôi khuyên bạn sử dụng [Outlook giữ yêu cầu mật khẩu của tôi](https://aka.ms/SaRA-OutlookPwdPrompt-Alchemy) chẩn đoán trên máy tính bị ảnh hưởng để khắc phục sự cố mà Outlook liên tục nhắc mật khẩu. Này [SaRA](https://diagnostics.office.com/#/) chẩn đoán không tự động kiểm tra và trả về các giải pháp có thể để bạn có thể sử dụng để giải quyết bất kỳ vấn đề phát hiện.
