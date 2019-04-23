@@ -9,18 +9,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
-ms.openlocfilehash: ffed863e8d44d2513fbcf53edd9bfa14b859b913
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: cddc790c7ad64cb917fb91df9fcdb60fd22bb306
+ms.sourcegitcommit: e87b3f691444db3b9f460c9a3109146dc7ad4f80
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29900814"
+ms.lasthandoff: 04/15/2019
+ms.locfileid: "31869617"
 ---
 # <a name="dlp-policy-tip-issues"></a>Vấn đề DLP chính sách Mẹo
 
 Khi sử dụng **chính sách DLP**, người dùng có thể được thông báo về vi phạm chính sách với **lời khuyên chính sách**. Quản trị viên có thể đặt cấu hình chính sách Mẹo để hiển thị trong khi thử nghiệm chính sách DLP của họ hoặc khi các chính sách ở chế độ thi hành đầy đủ. 
   
-Để đặt cấu hình chính sách lời khuyên về chính sách DLP của bạn trong Trung tâm bảo mật và tuân thủ trong chế độ thực thi đầy đủ thực hiện như sau:
+Để đặt cấu hình chính sách lời khuyên về chính sách DLP của bạn trong Trung tâm bảo mật và tuân thủ trong chế độ thi hành đầy đủ, làm như sau:
   
 - Đảm bảo chính sách Mẹo đã là **kích hoạt** trên các quy tắc DLP bằng các bước [dưới đây](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips).
     
