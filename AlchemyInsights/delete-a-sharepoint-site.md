@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c060815d-1d3f-4a13-81c2-0377bbeda202
 ms.openlocfilehash: 708365cefa79c9bc0268897ac34d980306a846c2
-ms.sourcegitcommit: 74e18e743273d5e759e8f00bd8fb16c471d42b40
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/27/2019
-ms.locfileid: "30935623"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32405646"
 ---
 # <a name="delete-a-sharepoint-site"></a>Xóa một trang web SharePoint
 **Xóa các trang web từ Trung tâm quản trị mới của SharePoint** Bằng cách sử dụng trung tâm quản trị SharePoint mới, bạn có thể xóa các trang web hiện đại và cổ điển. Chọn **các trang web đang hoạt động**, chọn trang web, và sau đó chọn **xóa**. Để [xem và khôi phục lại xóa các trang web trong Trung tâm quản trị SharePoint mới](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center), hãy chọn **xóa các trang web**. Để biết thêm chi tiết, hãy xem [xóa một trang web trong Trung tâm quản trị mới của SharePoint](https://docs.microsoft.com/en-us/sharepoint/delete-site-collection#delete-a-site-in-the-new-sharepoint-admin-center).
