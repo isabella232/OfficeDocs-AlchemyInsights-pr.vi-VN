@@ -3,20 +3,6 @@
 
 
 
-## <a name="week-of-march-11-2019"></a>Tuần của Tháng ba 11, 2019
-
-
-| Được đăng trên |Tiêu đề chủ đề | Thay đổi |
-|------|------------|--------|
-| 3/12/2019 | Hộp thư đến Outlook.com 8000054 không tải | Thêm vào |
-| 3/12/2019 | [Hộp thư đến Outlook.com 8000078 không tải](/AlchemyInsights/8000078-outlook-com-inbox-not-loading) | đổi tên |
-| 3/12/2019 | [Hộp thư đến Outlook.com 8000078 không tải](/AlchemyInsights/8000078-outlook-com-inbox-not-loading) | Sửa đổi lần |
-| 13-3-2019 | [Chuyển tiếp email thông qua Office 365](/AlchemyInsights/relay-email-through-office-365) | Sửa đổi lần |
-| 14-3-2019 | [tương tự như là tên tập tin là tốt nhất [RULE #-mô tả]](/AlchemyInsights/1-alchemy-insight-template) | Sửa đổi lần |
-| 14-3-2019 | [Tăng kích cỡ hộp thư](/AlchemyInsights/increase-mailbox-size) | Sửa đổi lần |
-| 15-3-2019 | [Outlook nhớ lại máy tính để bàn hoặc thay thế thư email](/AlchemyInsights/outlook-desktop-recall-or-replace-message) | Thêm vào |
-
-
 ## <a name="week-of-march-18-2019"></a>Tuần 18 Tháng ba, 2019
 
 
@@ -530,3 +516,47 @@
 | 4/12/2019 | [932 nâng cấp AADConnect](/AlchemyInsights/upgrading-aadconnect) | Sửa đổi lần |
 | 4/12/2019 | [725 sử dụng bí danh email trên điện thoại di động](/AlchemyInsights/using-email-alias-on-mobile-device) | Sửa đổi lần |
 | 4/12/2019 | [1554 Winsock lỗi 10061](/AlchemyInsights/winsock-error-10061) | Sửa đổi lần |
+
+
+## <a name="week-of-april-15-2019"></a>Tuần của tháng tư 15, 2019
+
+
+| Được đăng trên |Tiêu đề chủ đề | Thay đổi |
+|------|------------|--------|
+| 15-4-2019 | [Giả kim thuật - chẩn đoán và giải quyết các vấn đề kết nối Outlook](/AlchemyInsights/alchemydiagnose-and-resolve-outlook-connectivity-issues) | Sửa đổi lần |
+| 15-4-2019 | [Giả kim thuật - tái tạo hồ sơ Outlook của bạn](/AlchemyInsights/alchemyrecreate-your-outlook-profile) | Sửa đổi lần |
+| 15-4-2019 | [DLP có thể cần một loại tùy chỉnh](/AlchemyInsights/dlp-might-need-custom-type) | Thêm vào |
+| 15-4-2019 | [DLP không làm việc như mong đợi](/AlchemyInsights/dlp-not-working-as-expected) | Sửa đổi lần |
+| 15-4-2019 | [DLP chính sách Mẹo không làm việc](/AlchemyInsights/dlp-policy-tips-not-working) | Sửa đổi lần |
+| 15-4-2019 | [Outlook.com lỗi 550](/AlchemyInsights/outlook-com-error-550) | Thêm vào |
+| 15-4-2019 | [Outlook.com trong hạn ngạch](/AlchemyInsights/outlook-com-over-quota) | Thêm vào |
+| 15-4-2019 | [Outlook.com Remove Skype](/AlchemyInsights/outlook-com-remove-skype-rule-1) | Thêm vào |
+| 15-4-2019 | [Outlook.com Remove Skype](/AlchemyInsights/outlook-com-remove-skype-rule-2) | Thêm vào |
+| 15-4-2019 | [182 hãy chạy SaRA để chẩn đoán &amp; giải quyết các vấn đề xác thực Outlook](/AlchemyInsights/please-run-sara-to-diagnoseresolve-outlook-authentication-issues) | Sửa đổi lần |
+| 16-4-2019 | [9000233 Outlook.com PIN](/AlchemyInsights/outlook-com-pin) | Sửa đổi lần |
+| 16-4-2019 | [Outlook.com Remove Skype](/AlchemyInsights/outlook-com-remove-skype-rule-1) | Sửa đổi lần |
+| 16-4-2019 | [8000088 lưu email trong Outlook.com](/AlchemyInsights/outlook-com-save-emails) | Sửa đổi lần |
+| 16-4-2019 | [8000052 các tập tin đính kèm trong Outlook.com](/AlchemyInsights/attach-files-in-outlook-com) | Sửa đổi lần |
+| 16-4-2019 | [8000015 chặn hoặc bỏ chặn người gửi](/AlchemyInsights/block-or-unblock-senders) | Sửa đổi lần |
+| 16-4-2019 | [8000014 làm thế nào để thay đổi ngôn ngữ trong Outlook.com](/AlchemyInsights/how-to-change-language-in-outlook-com) | Sửa đổi lần |
+| 16-4-2019 | [8000059 làm thế nào để thay đổi bố trí của bạn](/AlchemyInsights/how-to-change-your-layout) | Sửa đổi lần |
+| 16-4-2019 | [8000033 làm thế nào để trả lời hoặc chuyển tiếp tin nhắn trong các phiên bản beta Outlook.com](/AlchemyInsights/how-to-reply-to-or-forward-messages-in-the-outlook-com-beta) | Sửa đổi lần |
+| 16-4-2019 | [8000055 làm thế nào để đăng nhập vào hoặc ra khỏi Outlook.com](/AlchemyInsights/how-to-sign-in-to-or-out-of-outlook-com) | Sửa đổi lần |
+| 16-4-2019 | [8000062 di chuyển một thư mục trong Outlook.com](/AlchemyInsights/moving-a-folder-in-outlook-com) | Sửa đổi lần |
+| 16-4-2019 | [Tự động áp dụng nhãn nhạy cảm](/AlchemyInsights/auto-apply-sensitivity-labels) | Thêm vào |
+| 16-4-2019 | [Độ nhạy nhãn không xuất hiện](/AlchemyInsights/sensitivity-labels-not-appearing) | Thêm vào |
+| 16-4-2019 | [Mới giữ nhãn tự động tạo ra](/AlchemyInsights/new-retention-labels-created-automatically) | Thêm vào |
+| 16-4-2019 | [SharePoint và OneDrive kiểm tra các bản ghi](/AlchemyInsights/classic-sharepoint-audit-log-reports) | Thêm vào |
+| 16-4-2019 | [Xác định sự kiện thông báo xóa trong Nhật ký kiểm tra](/AlchemyInsights/identify-delete-message-events-in-audit-logs) | Thêm vào |
+| 16-4-2019 | [Xác định bên ngoài email chuyển tiếp vào hộp thư trong Nhật ký kiểm tra](/AlchemyInsights/identify-external-email-forwarding-on-mailboxes-in-audit-logs) | Thêm vào |
+| 16-4-2019 | [Xác định các hoạt động quy tắc hộp thư đến trong Nhật ký kiểm tra](/AlchemyInsights/identify-inbox-rule-activity-in-audit-logs) | Thêm vào |
+| 16-4-2019 | [Xác định địa chỉ IP và các khách hàng trong Nhật ký kiểm tra](/AlchemyInsights/identify-ip-address-and-client-in-audit-logs) | Thêm vào |
+| 16-4-2019 | [Sửa chữa PST tập tin trước khi nhập khẩu](/AlchemyInsights/repair-pst-before-importing) | Thêm vào |
+| 16-4-2019 | [Cổ điển SharePoint kiểm toán báo cáo đăng nhập](/AlchemyInsights/sharepoint-and-onedrive-audit-logs) | Thêm vào |
+| 16-4-2019 | [Cổ điển SharePoint kiểm toán báo cáo đăng nhập](/AlchemyInsights/classic-sharepoint-audit-log-reports) | Sửa đổi lần |
+| 16-4-2019 | [Xác định bên ngoài email chuyển tiếp vào hộp thư trong Nhật ký kiểm tra](/AlchemyInsights/identify-external-email-forwarding-on-mailboxes-in-audit-logs) | Sửa đổi lần |
+| 16-4-2019 | [Xác định các hoạt động quy tắc hộp thư đến trong Nhật ký kiểm tra](/AlchemyInsights/identify-inbox-rule-activity-in-audit-logs) | Sửa đổi lần |
+| 16-4-2019 | [Cổ điển SharePoint kiểm toán báo cáo đăng nhập](/AlchemyInsights/sharepoint-and-onedrive-audit-logs) | Sửa đổi lần |
+| 17-4-2019 | [Sửa chữa các vấn đề phân phối email để kích hoạt thư thư mục công cộng](/AlchemyInsights/fix-email-delivery-issues-to-public-folders) | Thêm vào |
+| 17-4-2019 | [Đội ca](/AlchemyInsights/teams-shifts) | Sửa đổi lần |
+| 18-4-2019 | [8000011 phục hồi xóa các email trong Outlook.com](/AlchemyInsights/recover-deleted-email-in-outlook-com) | Sửa đổi lần |
