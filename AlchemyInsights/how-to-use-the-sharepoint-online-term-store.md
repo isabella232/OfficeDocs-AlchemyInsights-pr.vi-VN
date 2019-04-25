@@ -9,18 +9,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9b55de94-8aee-40cb-970f-046de0a80e6b
 ms.openlocfilehash: ac2e27eac4110def1ab91e5124b21b216ddbc178
-ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/09/2019
-ms.locfileid: "31747692"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32417044"
 ---
-# <a name="how-to-use-the-sharepoint-online-term-store"></a><span data-ttu-id="5e86e-102">Làm thế nào để sử dụng lưu trữ SharePoint Online hạn</span><span class="sxs-lookup"><span data-stu-id="5e86e-102">How to use the SharePoint Online Term store</span></span>
+# <a name="how-to-use-the-sharepoint-online-term-store"></a><span data-ttu-id="52e1d-102">Làm thế nào để sử dụng lưu trữ SharePoint Online hạn</span><span class="sxs-lookup"><span data-stu-id="52e1d-102">How to use the SharePoint Online Term store</span></span>
 
-<span data-ttu-id="5e86e-103">Các thuật ngữ cửa hàng có một Office 365 quản trị toàn cầu, quản trị SharePoint và thời hạn lưu trữ quản trị viên và có thể được tìm thấy trong Trung tâm quản trị SharePoint Online mới.</span><span class="sxs-lookup"><span data-stu-id="5e86e-103">The Term Store is available to an Office 365 Global Admin, SharePoint Admin, and Term Store Admins and can be found in the new SharePoint Online admin center.</span></span> 
+<span data-ttu-id="52e1d-103">Các thuật ngữ cửa hàng có một Office 365 quản trị toàn cầu, quản trị SharePoint và thời hạn lưu trữ quản trị viên và có thể được tìm thấy trong Trung tâm quản trị SharePoint Online mới.</span><span class="sxs-lookup"><span data-stu-id="52e1d-103">The Term Store is available to an Office 365 Global Admin, SharePoint Admin, and Term Store Admins and can be found in the new SharePoint Online admin center.</span></span> 
   
-<span data-ttu-id="5e86e-104">Để biết thêm chi tiết về cách sử dụng SharePoint Online thời hạn lưu trữ và phân loại trong SharePoint Online, hãy xem [giới thiệu về quản lý siêu dữ liệu](https://go.microsoft.com/fwlink/?linkid=2044674&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="5e86e-104">For more information on how to use the SharePoint Online Term Store and taxonomy within SharePoint Online, see [Introduction to managed metadata](https://go.microsoft.com/fwlink/?linkid=2044674&amp;clcid=0x409).</span></span>
+<span data-ttu-id="52e1d-104">Để biết thêm chi tiết về cách sử dụng SharePoint Online thời hạn lưu trữ và phân loại trong SharePoint Online, hãy xem [giới thiệu về quản lý siêu dữ liệu](https://go.microsoft.com/fwlink/?linkid=2044674&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="52e1d-104">For more information on how to use the SharePoint Online Term Store and taxonomy within SharePoint Online, see [Introduction to managed metadata](https://go.microsoft.com/fwlink/?linkid=2044674&amp;clcid=0x409).</span></span>
   
-<span data-ttu-id="5e86e-105">Nếu bạn đang gặp một vấn đề với điều kiện không xuất hiện hoặc xuất hiện không liên tục, chúng tôi khuyên bạn hãy đợi 24 giờ và sau đó đăng một yêu cầu hỗ trợ nếu vấn đề vẫn tồn tại.</span><span class="sxs-lookup"><span data-stu-id="5e86e-105">If you are having an issue with terms not appearing or appearing intermittently, we recommend you wait 24 hours, and then log a support request if the issue persists.</span></span> <span data-ttu-id="5e86e-106">Mặc dù 24 giờ có thể là một thời gian dài, có thể là một vấn đề bộ nhớ đệm hoặc chúng tôi đã có thể làm việc trên một giải pháp cho vấn đề này.</span><span class="sxs-lookup"><span data-stu-id="5e86e-106">Even though 24 hours can be a long time, there could be a caching issue or we may already be working on a solution to this problem.</span></span>
+<span data-ttu-id="52e1d-105">Nếu bạn đang gặp một vấn đề với điều kiện không xuất hiện hoặc xuất hiện không liên tục, chúng tôi khuyên bạn hãy đợi 24 giờ và sau đó đăng một yêu cầu hỗ trợ nếu vấn đề vẫn tồn tại.</span><span class="sxs-lookup"><span data-stu-id="52e1d-105">If you are having an issue with terms not appearing or appearing intermittently, we recommend you wait 24 hours, and then log a support request if the issue persists.</span></span> <span data-ttu-id="52e1d-106">Mặc dù 24 giờ có thể là một thời gian dài, có thể là một vấn đề bộ nhớ đệm hoặc chúng tôi đã có thể làm việc trên một giải pháp cho vấn đề này.</span><span class="sxs-lookup"><span data-stu-id="52e1d-106">Even though 24 hours can be a long time, there could be a caching issue or we may already be working on a solution to this problem.</span></span>
   
 
