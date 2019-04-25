@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 09e255ce-ccf9-4804-91e7-c15590c3727b
 ms.openlocfilehash: cdb0b8949e08f97679da4c598247a28f295d05af
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30758596"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32395320"
 ---
-# <a name="canceling-your-office-365-subscription"></a><span data-ttu-id="ced4b-102">Huỷ đăng ký Office 365 của bạn?</span><span class="sxs-lookup"><span data-stu-id="ced4b-102">Canceling your Office 365 subscription?</span></span>
+# <a name="canceling-your-office-365-subscription"></a><span data-ttu-id="5b5ee-102">Huỷ đăng ký Office 365 của bạn?</span><span class="sxs-lookup"><span data-stu-id="5b5ee-102">Canceling your Office 365 subscription?</span></span>
 
-<span data-ttu-id="ced4b-103">Chúng tôi rất tiếc khi thấy bạn rời đi, nhưng ở đây là các tùy chọn để hủy bỏ đăng ký của bạn:</span><span class="sxs-lookup"><span data-stu-id="ced4b-103">We're sorry to see you go, but here are your options to cancel your subscription:</span></span>
+<span data-ttu-id="5b5ee-103">Chúng tôi rất tiếc khi thấy bạn rời đi, nhưng ở đây là các tùy chọn để hủy bỏ đăng ký của bạn:</span><span class="sxs-lookup"><span data-stu-id="5b5ee-103">We're sorry to see you go, but here are your options to cancel your subscription:</span></span>
   
-- <span data-ttu-id="ced4b-104">**Dựa trên các dữ liệu tổ chức của bạn, chúng tôi tin rằng tất cả các đăng ký hiện tại của bạn đăng ký phiên tòa. Không cần đến một cách rõ ràng huỷ đăng ký xét xử vì phiên tòa các mục đăng ký yêu cầu không có thanh toán, và có không có nghĩa vụ sau khi kết thúc phiên tòa.**</span><span class="sxs-lookup"><span data-stu-id="ced4b-104">**Based on your organization data, we believe all your current subscriptions are Trial subscriptions. There is no need to explicitly cancel a Trial subscription because Trial subscriptions require no payments, and there is no obligation after the trial ends.**</span></span>
+- <span data-ttu-id="5b5ee-104">**Dựa trên các dữ liệu tổ chức của bạn, chúng tôi tin rằng tất cả các đăng ký hiện tại của bạn đăng ký phiên tòa. Không cần đến một cách rõ ràng huỷ đăng ký xét xử vì phiên tòa các mục đăng ký yêu cầu không có thanh toán, và có không có nghĩa vụ sau khi kết thúc phiên tòa.**</span><span class="sxs-lookup"><span data-stu-id="5b5ee-104">**Based on your organization data, we believe all your current subscriptions are Trial subscriptions. There is no need to explicitly cancel a Trial subscription because Trial subscriptions require no payments, and there is no obligation after the trial ends.**</span></span>
     
-- <span data-ttu-id="ced4b-105">Để tìm hiểu thêm về hủy bỏ đăng ký, hoặc cho các hướng dẫn từng bước, hãy xem bài viết: [hủy bỏ Office 365 Beta dành cho doanh nghiệp](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)</span><span class="sxs-lookup"><span data-stu-id="ced4b-105">To learn more about canceling a subscription, or for step-by-step instructions, see this article: [Cancel Office 365 for business](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)</span></span>
+- <span data-ttu-id="5b5ee-105">Để tìm hiểu thêm về hủy bỏ đăng ký, hoặc cho các hướng dẫn từng bước, hãy xem bài viết: [hủy bỏ Office 365 Beta dành cho doanh nghiệp](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)</span><span class="sxs-lookup"><span data-stu-id="5b5ee-105">To learn more about canceling a subscription, or for step-by-step instructions, see this article: [Cancel Office 365 for business](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)</span></span>
     
 

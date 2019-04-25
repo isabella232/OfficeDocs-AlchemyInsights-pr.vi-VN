@@ -9,24 +9,24 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 22a229b6-b18a-43a8-9868-b32be87bc09e
 ms.openlocfilehash: cc5f917522f31349c48c8232496dc862d6769539
-ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/09/2019
-ms.locfileid: "31747512"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32401957"
 ---
-# <a name="external-sharing-with-a-team-site"></a><span data-ttu-id="c4f11-102">Ngoài việc chia sẻ với một nhóm trang web</span><span class="sxs-lookup"><span data-stu-id="c4f11-102">External Sharing with a Team Site</span></span>
+# <a name="external-sharing-with-a-team-site"></a><span data-ttu-id="5b4e2-102">Ngoài việc chia sẻ với một nhóm trang web</span><span class="sxs-lookup"><span data-stu-id="5b4e2-102">External Sharing with a Team Site</span></span>
 
-<span data-ttu-id="c4f11-103">Để bật chia sẻ cho các trang web của nhóm người dùng bên ngoài, hãy làm theo các bước sau:</span><span class="sxs-lookup"><span data-stu-id="c4f11-103">To turn on external user sharing for Team Sites, follow these steps:</span></span> 
+<span data-ttu-id="5b4e2-103">Để bật chia sẻ cho các trang web của nhóm người dùng bên ngoài, hãy làm theo các bước sau:</span><span class="sxs-lookup"><span data-stu-id="5b4e2-103">To turn on external user sharing for Team Sites, follow these steps:</span></span> 
   
-1. <span data-ttu-id="c4f11-104">Trong Trung tâm quản trị mới SharePoint, bấm vào **các trang web đang hoạt động**.</span><span class="sxs-lookup"><span data-stu-id="c4f11-104">In the new SharePoint admin center, click **Active Sites**.</span></span>
+1. <span data-ttu-id="5b4e2-104">Trong Trung tâm quản trị mới SharePoint, bấm vào **các trang web đang hoạt động**.</span><span class="sxs-lookup"><span data-stu-id="5b4e2-104">In the new SharePoint admin center, click **Active Sites**.</span></span>
   
-2. <span data-ttu-id="c4f11-105">Chọn một trang web có một **Nhóm trang web** mẫu.</span><span class="sxs-lookup"><span data-stu-id="c4f11-105">Select a site that has a **Team Site** template.</span></span> 
+2. <span data-ttu-id="5b4e2-105">Chọn một trang web có một **Nhóm trang web** mẫu.</span><span class="sxs-lookup"><span data-stu-id="5b4e2-105">Select a site that has a **Team Site** template.</span></span> 
   
-3. <span data-ttu-id="c4f11-106">Hãy chọn nút **chia sẻ** từ menu trên cùng.</span><span class="sxs-lookup"><span data-stu-id="c4f11-106">Select the **Sharing** button from the top menu.</span></span> 
+3. <span data-ttu-id="5b4e2-106">Hãy chọn nút **chia sẻ** từ menu trên cùng.</span><span class="sxs-lookup"><span data-stu-id="5b4e2-106">Select the **Sharing** button from the top menu.</span></span> 
   
- <span data-ttu-id="c4f11-107">**Lưu ý**: theo mặc định, khi một trang web hiện đại đội được tạo ra, bên ngoài tùy chọn chia sẻ sẽ được thiết lập mới và người dùng bên ngoài hiện tại.</span><span class="sxs-lookup"><span data-stu-id="c4f11-107">**Note**: By default, when a Modern Team Site is created, the External sharing option will be set to New and existing external users.</span></span> 
+ <span data-ttu-id="5b4e2-107">**Lưu ý**: theo mặc định, khi một trang web hiện đại đội được tạo ra, bên ngoài tùy chọn chia sẻ sẽ được thiết lập mới và người dùng bên ngoài hiện tại.</span><span class="sxs-lookup"><span data-stu-id="5b4e2-107">**Note**: By default, when a Modern Team Site is created, the External sharing option will be set to New and existing external users.</span></span> 
   
- <span data-ttu-id="c4f11-108">**Lưu ý:** Nếu bạn có nhiều hơn một trang web được chọn, nút **chia sẻ** sẽ xuất hiện Khuyết tật.</span><span class="sxs-lookup"><span data-stu-id="c4f11-108">**Note:** If you have more than one site selected, the **Sharing** button will appear disabled.</span></span> <span data-ttu-id="c4f11-109">Chọn chỉ có một trang web.</span><span class="sxs-lookup"><span data-stu-id="c4f11-109">Select only one site.</span></span> 
+ <span data-ttu-id="5b4e2-108">**Lưu ý:** Nếu bạn có nhiều hơn một trang web được chọn, nút **chia sẻ** sẽ xuất hiện Khuyết tật.</span><span class="sxs-lookup"><span data-stu-id="5b4e2-108">**Note:** If you have more than one site selected, the **Sharing** button will appear disabled.</span></span> <span data-ttu-id="5b4e2-109">Chọn chỉ có một trang web.</span><span class="sxs-lookup"><span data-stu-id="5b4e2-109">Select only one site.</span></span> 
   
 
