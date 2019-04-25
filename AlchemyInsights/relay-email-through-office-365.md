@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 84191e23-496c-495a-a2ec-28c5ae0d4c0b
 ms.openlocfilehash: db8523c19ed7f4ebdb475c1425fae4f6ea0b8219
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30752836"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32388889"
 ---
 # <a name="set-up-a-multifunction-device-or-application-to-send-email-using-office-365"></a>Thiết lập một thiết bị đa chức năng hoặc ứng dụng để gửi email bằng cách sử dụng Office 365
 
