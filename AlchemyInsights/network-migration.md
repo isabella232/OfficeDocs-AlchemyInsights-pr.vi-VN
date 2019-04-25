@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: b5ab885c-3803-4cc8-adab-94848e226ffb
 ms.openlocfilehash: 02f824897b0163a7577e93451d6642464966594d
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29904702"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32417733"
 ---
 # <a name="network-migration"></a>Di chuyển mạng
 
@@ -29,8 +29,8 @@ Người thuê nhà của bạn O365 là có thể kết hợp với nhiều Yam
     
 Xin lưu ý:
   
-- **Di chuyển di chuyển mạng chỉ là các hoạt động và đang chờ người sử dụng.** Cùng với những người sử dụng đang hoạt động, thông tin của người dùng, chẳng hạn như tên và tiểu sử, hình ảnh, cũng được di chuyển. Bất kỳ nội dung mạng, bao gồm cả nhóm, không được di chuyển. 
+- **Di chuyển di chuyển mạng chỉ là các hoạt động và đang chờ người dùng.** Cùng với những người sử dụng đang hoạt động, thông tin của người dùng, chẳng hạn như tên và tiểu sử, hình ảnh, cũng được di chuyển. Bất kỳ nội dung mạng, bao gồm cả nhóm, không được di chuyển. 
     
-- **Mạng di chuyển không thể đảo ngược.** Bạn sẽ không thể truy cập vào mạng lưới chi nhánh của bạn và nội dung của nó sau khi di chuyển. Vì vậy, trước khi bạn xem xét việc di chuyển, bạn muốn lên kế hoạch cẩn thận. 
+- **Mạng lưới di chuyển không thể đảo ngược.** Bạn sẽ không thể truy cập vào mạng lưới chi nhánh của bạn và nội dung của nó sau khi di chuyển. Vì vậy, trước khi bạn xem xét việc di chuyển, bạn muốn lên kế hoạch cẩn thận. 
     
 
