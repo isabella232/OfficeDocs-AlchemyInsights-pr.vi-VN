@@ -9,22 +9,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cebdac7f-fa90-4431-9a71-feb4104e479a
 ms.openlocfilehash: 082b549f76360f6af0921f7b608030e068232935
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29905242"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32371717"
 ---
-# <a name="remove-a-hub-site"></a><span data-ttu-id="23113-102">Loại bỏ một trang web trung tâm</span><span class="sxs-lookup"><span data-stu-id="23113-102">Remove a hub site</span></span>
+# <a name="remove-a-hub-site"></a><span data-ttu-id="b22ab-102">Loại bỏ một trang web trung tâm</span><span class="sxs-lookup"><span data-stu-id="b22ab-102">Remove a hub site</span></span>
 
-<span data-ttu-id="23113-103">Unregister một trang web trung tâm Trung tâm quản trị mới của SharePoint</span><span class="sxs-lookup"><span data-stu-id="23113-103">Unregister a hub site in the new SharePoint admin center</span></span>
+<span data-ttu-id="b22ab-103">Unregister một trang web trung tâm Trung tâm quản trị mới của SharePoint</span><span class="sxs-lookup"><span data-stu-id="b22ab-103">Unregister a hub site in the new SharePoint admin center</span></span>
   
-1. <span data-ttu-id="23113-104">Trong Trung tâm quản trị mới SharePoint, theo **các trang web**, nhấp vào **các trang web đang hoạt động**.</span><span class="sxs-lookup"><span data-stu-id="23113-104">In the new SharePoint admin center, under **Sites**, click **Active sites**.</span></span> 
+1. <span data-ttu-id="b22ab-104">Trong Trung tâm quản trị mới SharePoint, theo **các trang web**, nhấp vào **các trang web đang hoạt động**.</span><span class="sxs-lookup"><span data-stu-id="b22ab-104">In the new SharePoint admin center, under **Sites**, click **Active sites**.</span></span> 
     
-2. <span data-ttu-id="23113-105">Chọn trang web, nhấp vào **trang web trung tâm**, và sau đó nhấp vào **Unregister như là trang web trung tâm**.</span><span class="sxs-lookup"><span data-stu-id="23113-105">Select the site, click **Hub site**, and then click **Unregister as hub site**.</span></span> 
+2. <span data-ttu-id="b22ab-105">Chọn trang web, nhấp vào **trang web trung tâm**, và sau đó nhấp vào **Unregister như là trang web trung tâm**.</span><span class="sxs-lookup"><span data-stu-id="b22ab-105">Select the site, click **Hub site**, and then click **Unregister as hub site**.</span></span> 
     
-3. <span data-ttu-id="23113-106">Bấm vào **OK**.</span><span class="sxs-lookup"><span data-stu-id="23113-106">Click **OK**.</span></span> 
+3. <span data-ttu-id="b22ab-106">Bấm **OK**.</span><span class="sxs-lookup"><span data-stu-id="b22ab-106">Click **OK**.</span></span> 
     
-[<span data-ttu-id="23113-107">Tìm hiểu thêm về các trang web trung tâm</span><span class="sxs-lookup"><span data-stu-id="23113-107">Learn more about hub sites</span></span>](https://support.office.com/article/what-is-a-sharepoint-hub-site-fe26ae84-14b7-45b6-a6d1-948b3966427f?ui=en-US&amp;rs=en-US&amp;ad=US)
+[<span data-ttu-id="b22ab-107">Tìm hiểu thêm về các trang web trung tâm</span><span class="sxs-lookup"><span data-stu-id="b22ab-107">Learn more about hub sites</span></span>](https://support.office.com/article/what-is-a-sharepoint-hub-site-fe26ae84-14b7-45b6-a6d1-948b3966427f?ui=en-US&amp;rs=en-US&amp;ad=US)
   
 

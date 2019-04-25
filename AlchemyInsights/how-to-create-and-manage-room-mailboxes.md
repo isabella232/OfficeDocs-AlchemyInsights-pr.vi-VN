@@ -14,14 +14,14 @@ ms.custom:
 - "956"
 ms.assetid: 3f439b79-7eda-4dd7-857e-ce0a10130c88
 ms.openlocfilehash: 332c255427932c4d8c0d1c41f3d0dd683e05dae2
-ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/13/2019
-ms.locfileid: "31858010"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32399577"
 ---
-# <a name="how-to-create-and-manage-room-mailboxes"></a><span data-ttu-id="b10d6-102">Làm thế nào để tạo và quản lý hộp thư phòng</span><span class="sxs-lookup"><span data-stu-id="b10d6-102">How to create and manage room mailboxes</span></span>
+# <a name="how-to-create-and-manage-room-mailboxes"></a><span data-ttu-id="7a48b-102">Làm thế nào để tạo và quản lý hộp thư phòng</span><span class="sxs-lookup"><span data-stu-id="7a48b-102">How to create and manage room mailboxes</span></span>
 
-<span data-ttu-id="b10d6-103">Để tạo và chỉnh sửa hộp thư phòng, hãy xem [tạo và quản lý các hộp thư phòng](https://technet.microsoft.com/library/jj215781.aspx).</span><span class="sxs-lookup"><span data-stu-id="b10d6-103">To create and modify room mailboxes, see [Create and manage room mailboxes](https://technet.microsoft.com/library/jj215781.aspx).</span></span>
+<span data-ttu-id="7a48b-103">Để tạo và chỉnh sửa hộp thư phòng, hãy xem [tạo và quản lý các hộp thư phòng](https://technet.microsoft.com/library/jj215781.aspx).</span><span class="sxs-lookup"><span data-stu-id="7a48b-103">To create and modify room mailboxes, see [Create and manage room mailboxes](https://technet.microsoft.com/library/jj215781.aspx).</span></span>
 
-<span data-ttu-id="b10d6-104">Để tìm hiểu thêm về hộp thư phòng và thiết bị (còn được gọi là hộp thư tài nguyên), hãy xem [hộp thư phòng và thiết bị](https://support.office.com/article/9f518a6d-1e2c-4d44-93f3-e19013a1552b).</span><span class="sxs-lookup"><span data-stu-id="b10d6-104">To learn more about room and equipment mailboxes (also known as resource mailboxes), see [Room and equipment mailboxes](https://support.office.com/article/9f518a6d-1e2c-4d44-93f3-e19013a1552b).</span></span>
+<span data-ttu-id="7a48b-104">Để tìm hiểu thêm về hộp thư phòng và thiết bị (còn được gọi là hộp thư tài nguyên), hãy xem [hộp thư phòng và thiết bị](https://support.office.com/article/9f518a6d-1e2c-4d44-93f3-e19013a1552b).</span><span class="sxs-lookup"><span data-stu-id="7a48b-104">To learn more about room and equipment mailboxes (also known as resource mailboxes), see [Room and equipment mailboxes](https://support.office.com/article/9f518a6d-1e2c-4d44-93f3-e19013a1552b).</span></span>
