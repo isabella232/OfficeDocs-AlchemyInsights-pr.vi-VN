@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: dae7b5b0-1003-40bd-b59f-8c5009fc8d82
 ms.openlocfilehash: c6277ee3705c30399b230852e849e47ec3f15187
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30759892"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32422301"
 ---
-# <a name="restore-a-user-in-office-365"></a><span data-ttu-id="c289e-102">Khôi phục một người dùng trong Office 365</span><span class="sxs-lookup"><span data-stu-id="c289e-102">Restore a user in Office 365</span></span>
+# <a name="restore-a-user-in-office-365"></a><span data-ttu-id="f9ea4-102">Khôi phục một người dùng trong Office 365</span><span class="sxs-lookup"><span data-stu-id="f9ea4-102">Restore a user in Office 365</span></span>
 
-<span data-ttu-id="c289e-103">Khôi phục các người dùng trong Office 365 bằng cách sử dụng các bước sau:</span><span class="sxs-lookup"><span data-stu-id="c289e-103">Restore a user in Office 365 using these steps:</span></span>
+<span data-ttu-id="f9ea4-103">Khôi phục các người dùng trong Office 365 bằng cách sử dụng các bước sau:</span><span class="sxs-lookup"><span data-stu-id="f9ea4-103">Restore a user in Office 365 using these steps:</span></span>
   
-1. <span data-ttu-id="c289e-104">Đi đến [dùng \> xóa người dùng](https://admin.microsoft.com/adminportal/home#/deletedusers).</span><span class="sxs-lookup"><span data-stu-id="c289e-104">Go to [Users \> Deleted users](https://admin.microsoft.com/adminportal/home#/deletedusers).</span></span>
+1. <span data-ttu-id="f9ea4-104">Đi đến [dùng \> xóa người dùng](https://admin.microsoft.com/adminportal/home#/deletedusers).</span><span class="sxs-lookup"><span data-stu-id="f9ea4-104">Go to [Users \> Deleted users](https://admin.microsoft.com/adminportal/home#/deletedusers).</span></span>
     
-2. <span data-ttu-id="c289e-105">Chọn người dùng, sau đó chọn **khôi phục**.</span><span class="sxs-lookup"><span data-stu-id="c289e-105">Choose the user, then select **Restore**.</span></span>
+2. <span data-ttu-id="f9ea4-105">Chọn người dùng, sau đó chọn **khôi phục**.</span><span class="sxs-lookup"><span data-stu-id="f9ea4-105">Choose the user, then select **Restore**.</span></span>
     
-3. <span data-ttu-id="c289e-106">Thực hiện theo lời nhắc để đặt mật khẩu.</span><span class="sxs-lookup"><span data-stu-id="c289e-106">Follow the prompts to set the password.</span></span>
+3. <span data-ttu-id="f9ea4-106">Thực hiện theo lời nhắc để đặt mật khẩu.</span><span class="sxs-lookup"><span data-stu-id="f9ea4-106">Follow the prompts to set the password.</span></span>
     
-4. <span data-ttu-id="c289e-107">Nhấp vào **gửi email và đóng**, và bạn đã làm xong!</span><span class="sxs-lookup"><span data-stu-id="c289e-107">Click **Send email and close**, and you're done!</span></span>
+4. <span data-ttu-id="f9ea4-107">Nhấp vào **gửi email và đóng**, và bạn đã làm xong!</span><span class="sxs-lookup"><span data-stu-id="f9ea4-107">Click **Send email and close**, and you're done!</span></span>
     
 
-<span data-ttu-id="c289e-108">Không phải là dễ dàng?</span><span class="sxs-lookup"><span data-stu-id="c289e-108">Wasn't that easy?</span></span> <span data-ttu-id="c289e-109">Để biết thêm thông tin chi tiết và bước với các ảnh chụp màn hình, hãy kiểm tra bài viết này: [khôi phục người dùng trong Office 365](https://support.office.com/article/2c261e42-5dd1-48b0-845f-2a016d29cfc1.aspx).</span><span class="sxs-lookup"><span data-stu-id="c289e-109">For more details and steps with screen shots, check out this article: [Restore a user in Office 365](https://support.office.com/article/2c261e42-5dd1-48b0-845f-2a016d29cfc1.aspx).</span></span> <span data-ttu-id="c289e-110">Nếu bạn nhận ra bạn thay vào đó cần phải khôi phục người dùng hộp thư, hãy xem: [xóa hoặc khôi phục hộp thư người dùng trong Exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes).</span><span class="sxs-lookup"><span data-stu-id="c289e-110">If you realize you instead need to restore user's mailbox, see: [Delete or restore user mailboxes in Exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes).</span></span>
+<span data-ttu-id="f9ea4-108">Không phải là dễ dàng?</span><span class="sxs-lookup"><span data-stu-id="f9ea4-108">Wasn't that easy?</span></span> <span data-ttu-id="f9ea4-109">Để biết thêm thông tin chi tiết và bước với các ảnh chụp màn hình, hãy kiểm tra bài viết này: [khôi phục người dùng trong Office 365](https://support.office.com/article/2c261e42-5dd1-48b0-845f-2a016d29cfc1.aspx).</span><span class="sxs-lookup"><span data-stu-id="f9ea4-109">For more details and steps with screen shots, check out this article: [Restore a user in Office 365](https://support.office.com/article/2c261e42-5dd1-48b0-845f-2a016d29cfc1.aspx).</span></span> <span data-ttu-id="f9ea4-110">Nếu bạn nhận ra bạn thay vào đó cần phải khôi phục người dùng hộp thư, hãy xem: [xóa hoặc khôi phục hộp thư người dùng trong Exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes).</span><span class="sxs-lookup"><span data-stu-id="f9ea4-110">If you realize you instead need to restore user's mailbox, see: [Delete or restore user mailboxes in Exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes).</span></span>
