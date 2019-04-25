@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: df1ffdf0-8e08-4a56-880e-8ef162ec8431
 ms.openlocfilehash: 32e3c4016f3c2ef5d6477e3593c4717802bd62b5
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30752980"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32389513"
 ---
-# <a name="upload-a-folder-or-files-to-a-sharepoint-document-library"></a><span data-ttu-id="e6033-102">Tải lên một thư mục hoặc tập tin vào một thư viện tài liệu SharePoint</span><span class="sxs-lookup"><span data-stu-id="e6033-102">Upload a folder or files to a SharePoint document library</span></span>
+# <a name="upload-a-folder-or-files-to-a-sharepoint-document-library"></a><span data-ttu-id="bf4d7-102">Tải lên một thư mục hoặc tập tin vào một thư viện tài liệu SharePoint</span><span class="sxs-lookup"><span data-stu-id="bf4d7-102">Upload a folder or files to a SharePoint document library</span></span>
 
-<span data-ttu-id="e6033-103">Để tải lên một thư mục, bạn cần phải sử dụng Microsoft Edge, Google Chrome hoặc Mozilla FireFox.</span><span class="sxs-lookup"><span data-stu-id="e6033-103">To upload a folder, you need to use Microsoft Edge, Google Chrome, or Mozilla FireFox.</span></span> <span data-ttu-id="e6033-104">Bạn không thể tải lên các thư mục trong kinh nghiệm thư viện cổ điển, hoặc bằng cách sử dụng Internet Explorer 10 hay 11.</span><span class="sxs-lookup"><span data-stu-id="e6033-104">You can't upload folders in the classic library experience, or using Internet Explorer 10 or 11.</span></span>
+<span data-ttu-id="bf4d7-103">Để tải lên một thư mục, bạn cần phải sử dụng Microsoft Edge, Google Chrome hoặc Mozilla FireFox.</span><span class="sxs-lookup"><span data-stu-id="bf4d7-103">To upload a folder, you need to use Microsoft Edge, Google Chrome, or Mozilla FireFox.</span></span> <span data-ttu-id="bf4d7-104">Bạn không thể tải lên các thư mục trong kinh nghiệm thư viện cổ điển, hoặc bằng cách sử dụng Internet Explorer 10 hay 11.</span><span class="sxs-lookup"><span data-stu-id="bf4d7-104">You can't upload folders in the classic library experience, or using Internet Explorer 10 or 11.</span></span>
   
-1. <span data-ttu-id="e6033-105">Mở thư viện tài liệu mà bạn muốn tải lên một thư mục hoặc tập tin.</span><span class="sxs-lookup"><span data-stu-id="e6033-105">Open the document library where you want to upload a folder or files.</span></span>
+1. <span data-ttu-id="bf4d7-105">Mở thư viện tài liệu mà bạn muốn tải lên một thư mục hoặc tập tin.</span><span class="sxs-lookup"><span data-stu-id="bf4d7-105">Open the document library where you want to upload a folder or files.</span></span>
     
-2. <span data-ttu-id="e6033-106">Mở File Explorer trên máy tính của bạn và duyệt đến thư mục hoặc tập tin bạn muốn tải lên.</span><span class="sxs-lookup"><span data-stu-id="e6033-106">Open File Explorer on your computer and browse to the folder or files you want to upload.</span></span>
+2. <span data-ttu-id="bf4d7-106">Mở File Explorer trên máy tính của bạn và duyệt đến thư mục hoặc tập tin bạn muốn tải lên.</span><span class="sxs-lookup"><span data-stu-id="bf4d7-106">Open File Explorer on your computer and browse to the folder or files you want to upload.</span></span>
     
-3. <span data-ttu-id="e6033-107">Kéo các thư mục hay tập tin thư viện tài liệu.</span><span class="sxs-lookup"><span data-stu-id="e6033-107">Drag the folder or files to the document library.</span></span> <span data-ttu-id="e6033-108">Nếu bạn không thấy các mục mà bạn đã tải lên, xuất hiện trong thư viện, làm mới trang.</span><span class="sxs-lookup"><span data-stu-id="e6033-108">If you don't see the items you uploaded appear in the library, refresh the page.</span></span> 
+3. <span data-ttu-id="bf4d7-107">Kéo các thư mục hay tập tin thư viện tài liệu.</span><span class="sxs-lookup"><span data-stu-id="bf4d7-107">Drag the folder or files to the document library.</span></span> <span data-ttu-id="bf4d7-108">Nếu bạn không thấy các mục mà bạn đã tải lên, xuất hiện trong thư viện, làm mới trang.</span><span class="sxs-lookup"><span data-stu-id="bf4d7-108">If you don't see the items you uploaded appear in the library, refresh the page.</span></span> 
     
-<span data-ttu-id="e6033-109">Nếu bạn không muốn để tải lên bằng cách kéo các mục giữa các cửa sổ, bạn có thể cũng sử dụng nút **tải lên** trong thư viện tài liệu để chọn thư mục hoặc tập tin bạn muốn tải lên.</span><span class="sxs-lookup"><span data-stu-id="e6033-109">If you don't want to upload by dragging items between windows, you can also use the **Upload** button in the document library to select the folder or files you want to upload.</span></span> 
+<span data-ttu-id="bf4d7-109">Nếu bạn không muốn để tải lên bằng cách kéo các mục giữa các cửa sổ, bạn có thể cũng sử dụng nút **tải lên** trong thư viện tài liệu để chọn thư mục hoặc tập tin bạn muốn tải lên.</span><span class="sxs-lookup"><span data-stu-id="bf4d7-109">If you don't want to upload by dragging items between windows, you can also use the **Upload** button in the document library to select the folder or files you want to upload.</span></span> 
   
 
