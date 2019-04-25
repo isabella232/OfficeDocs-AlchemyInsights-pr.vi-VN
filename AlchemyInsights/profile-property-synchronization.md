@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 17e9882a-2341-459f-86d8-6ad8df3bef7e
 ms.openlocfilehash: 1bb87786d9e28e11b1b883e5dba0c0588f3db18f
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29939154"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32372058"
 ---
-# <a name="profile-property-synchronization"></a><span data-ttu-id="cb6e2-102">Hồ sơ bất động sản đồng bộ</span><span class="sxs-lookup"><span data-stu-id="cb6e2-102">Profile property synchronization</span></span>
+# <a name="profile-property-synchronization"></a><span data-ttu-id="c43e9-102">Hồ sơ bất động sản đồng bộ</span><span class="sxs-lookup"><span data-stu-id="c43e9-102">Profile property synchronization</span></span>
 
-<span data-ttu-id="cb6e2-p101">Nó không phải là không thể để lập bản đồ các thuộc tính bổ sung cho quảng cáo nhập khẩu đồng bộ từ Azure Active Directory để ứng dụng hồ sơ người dùng. Quảng cáo nhập bị giới hạn một tập các thuộc tính để đảm bảo hiệu suất phù hợp của công việc đếm thời gian cấu hình sẵn.</span><span class="sxs-lookup"><span data-stu-id="cb6e2-p101">It's not possible to map additional properties for AD Import to sync from Azure Active Directory to the User Profile Application. AD Import is limited to a preconfigured set of properties to guarantee consistent performance of the timer job.</span></span>
+<span data-ttu-id="c43e9-103">Nó không phải là không thể để lập bản đồ các thuộc tính bổ sung cho quảng cáo nhập khẩu đồng bộ từ Azure Active Directory để ứng dụng hồ sơ người dùng.</span><span class="sxs-lookup"><span data-stu-id="c43e9-103">It's not possible to map additional properties for AD Import to sync from Azure Active Directory to the User Profile Application.</span></span> <span data-ttu-id="c43e9-104">Quảng cáo nhập bị giới hạn một tập các thuộc tính để đảm bảo hiệu suất phù hợp của công việc đếm thời gian cấu hình sẵn.</span><span class="sxs-lookup"><span data-stu-id="c43e9-104">AD Import is limited to a preconfigured set of properties to guarantee consistent performance of the timer job.</span></span>
   
-[<span data-ttu-id="cb6e2-105">Tìm hiểu thêm về các thuộc tính cấu hình đồng bộ</span><span class="sxs-lookup"><span data-stu-id="cb6e2-105">Learn more about the profile properties that sync</span></span>](https://go.microsoft.com/fwlink/?linkid=875671)
+[<span data-ttu-id="c43e9-105">Tìm hiểu thêm về các thuộc tính cấu hình đồng bộ</span><span class="sxs-lookup"><span data-stu-id="c43e9-105">Learn more about the profile properties that sync</span></span>](https://go.microsoft.com/fwlink/?linkid=875671)
   
 
