@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ccb3e76a-557e-42fa-a9fc-95e396a1a74d
 ms.openlocfilehash: b4137d1a88fd555f340c61298af5b34ec1fe0803
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30764102"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32404659"
 ---
-# <a name="distribution-group-not-showing-in-groups-list"></a><span data-ttu-id="99a8a-102">Nhóm phân phối không hiển thị trong danh sách Nhóm</span><span class="sxs-lookup"><span data-stu-id="99a8a-102">Distribution Group not showing in Groups list</span></span>
+# <a name="distribution-group-not-showing-in-groups-list"></a><span data-ttu-id="94c31-102">Nhóm phân phối không hiển thị trong danh sách Nhóm</span><span class="sxs-lookup"><span data-stu-id="94c31-102">Distribution Group not showing in Groups list</span></span>
 
-<span data-ttu-id="99a8a-103">Nó có thể mất tới 60 phút trước khi danh sách phân phối mới của bạn sẽ xuất hiện ở trung tâm Trung tâm quản trị trao đổi.</span><span class="sxs-lookup"><span data-stu-id="99a8a-103">It can take up to 60 minutes before your new Distribution List appears in the Exchange admin center center.</span></span>
+<span data-ttu-id="94c31-103">Nó có thể mất tới 60 phút trước khi danh sách phân phối mới của bạn sẽ xuất hiện ở trung tâm Trung tâm quản trị trao đổi.</span><span class="sxs-lookup"><span data-stu-id="94c31-103">It can take up to 60 minutes before your new Distribution List appears in the Exchange admin center center.</span></span>
   
-<span data-ttu-id="99a8a-104">Nếu bạn muốn thêm thành viên hoặc thực hiện các chỉnh sửa của bạn ngay bây giờ, xin vui lòng sử dụng tính năng nhóm trong [Trung tâm quản trị trao đổi](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx).</span><span class="sxs-lookup"><span data-stu-id="99a8a-104">If you want to add members or make other edits right now, please use the Groups feature in the [Exchange Admin Center](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx).</span></span>
+<span data-ttu-id="94c31-104">Nếu bạn muốn thêm thành viên hoặc thực hiện các chỉnh sửa của bạn ngay bây giờ, xin vui lòng sử dụng tính năng nhóm trong [Trung tâm quản trị trao đổi](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx).</span><span class="sxs-lookup"><span data-stu-id="94c31-104">If you want to add members or make other edits right now, please use the Groups feature in the [Exchange Admin Center](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx).</span></span>
   
 

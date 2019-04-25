@@ -10,20 +10,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 5f76890d-3f85-430b-95fd-dcab42624745
 ms.openlocfilehash: 63624f7487292d09034f55a9ec976efa18363a91
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29911866"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32406636"
 ---
-# <a name="creditrefund"></a><span data-ttu-id="dbbf8-102">Tín dụng/hoàn tiền</span><span class="sxs-lookup"><span data-stu-id="dbbf8-102">Credit/refund</span></span>
+# <a name="creditrefund"></a><span data-ttu-id="7c903-102">Tín dụng/hoàn tiền</span><span class="sxs-lookup"><span data-stu-id="7c903-102">Credit/refund</span></span>
 
- <span data-ttu-id="dbbf8-103">**Hủy bỏ**</span><span class="sxs-lookup"><span data-stu-id="dbbf8-103">**Cancellation**</span></span>
+ <span data-ttu-id="7c903-103">**Hủy bỏ**</span><span class="sxs-lookup"><span data-stu-id="7c903-103">**Cancellation**</span></span>
   
-<span data-ttu-id="dbbf8-p101">Khi hủy bỏ đăng ký bạn sẽ nhận được một hoá đơn cuối cùng với một tín dụng do vào ngày thanh toán tiếp theo. Điều này có thể mất tối đa 30 ngày để nhận được từ ngày thuê bao đã bị hủy bỏ.</span><span class="sxs-lookup"><span data-stu-id="dbbf8-p101">When cancelling a subscription you will receive a final invoice with a credit due on the next billing date. This can take up to 30 days to receive from the date the subscription was cancelled.</span></span>
+<span data-ttu-id="7c903-104">Khi hủy bỏ đăng ký bạn sẽ nhận được một hoá đơn cuối cùng với một tín dụng do vào ngày thanh toán tiếp theo.</span><span class="sxs-lookup"><span data-stu-id="7c903-104">When cancelling a subscription you will receive a final invoice with a credit due on the next billing date.</span></span> <span data-ttu-id="7c903-105">Điều này có thể mất tối đa 30 ngày để nhận được từ ngày thuê bao đã bị hủy bỏ.</span><span class="sxs-lookup"><span data-stu-id="7c903-105">This can take up to 30 days to receive from the date the subscription was cancelled.</span></span>
   
- <span data-ttu-id="dbbf8-106">**Thay đổi chỗ ngồi**</span><span class="sxs-lookup"><span data-stu-id="dbbf8-106">**Seat Change**</span></span>
+ <span data-ttu-id="7c903-106">**Thay đổi chỗ ngồi**</span><span class="sxs-lookup"><span data-stu-id="7c903-106">**Seat Change**</span></span>
   
-<span data-ttu-id="dbbf8-p102">Khi giấy phép được lấy ra từ một thuê bao, trong thời gian chưa sử dụng trên các giấy phép sẽ được áp dụng như là một tín dụng trên các hóa đơn tiếp theo. Điều này có thể mất tối đa 30 ngày để nhận được từ ngày giấy phép được loại bỏ.</span><span class="sxs-lookup"><span data-stu-id="dbbf8-p102">When licenses are removed from a subscription, the unused time on these licenses will be applied as a credit on the next bill. This can take up to 30 days to receive from the date the licenses are removed.</span></span>
+<span data-ttu-id="7c903-107">Khi giấy phép được lấy ra từ một thuê bao, trong thời gian chưa sử dụng trên các giấy phép sẽ được áp dụng như là một tín dụng trên các hóa đơn tiếp theo.</span><span class="sxs-lookup"><span data-stu-id="7c903-107">When licenses are removed from a subscription, the unused time on these licenses will be applied as a credit on the next bill.</span></span> <span data-ttu-id="7c903-108">Điều này có thể mất tối đa 30 ngày để nhận được từ ngày giấy phép được loại bỏ.</span><span class="sxs-lookup"><span data-stu-id="7c903-108">This can take up to 30 days to receive from the date the licenses are removed.</span></span>
   
 
