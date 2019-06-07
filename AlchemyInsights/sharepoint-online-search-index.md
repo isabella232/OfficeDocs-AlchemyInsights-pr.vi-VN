@@ -7,24 +7,24 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: c2960093bb1cfb649c26528c9f671e6d720ff237
-ms.sourcegitcommit: 241e21b6da226563bf70bdb1f5bad3d91c38cd2c
+ms.openlocfilehash: 5319c2f1edc3e61074301f039736d2aa96bda47b
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/05/2019
-ms.locfileid: "34736074"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34758787"
 ---
 # <a name="search-in-sharepoint-online"></a>Tìm kiếm trong SharePoint Online
 
 Nội dung phải được thu thập và bổ sung vào danh mục tìm kiếm cho người dùng tìm thấy những gì họ đang tìm kiếm trong SharePoint Online. Nội dung được tự động thu thập thông tin dựa theo một lịch trình thu thập dữ liệu được xác định trước (lịch trình thu thập thông tin không thể được thay đổi). Thu thập công cụ chọn lên nội dung đã thay đổi kể từ khi thu thập dữ liệu cuối cùng và Cập Nhật chỉ số. Để đảm bảo nội dung thu thập thông tin và chỉ số được Cập Nhật, hãy làm theo các bước dưới đây.
 
-Đảm bảo rằng nội dung có thể được tìm thấy bằng cách tìm kiếm nội dung trang web. Để biết thêm chi tiết, hãy xem [sử nội dung trên một trang web để có thể tìm kiếm](https://docs.microsoft.com/en-us/sharepoint/make-site-content-searchable).
+Đảm bảo rằng nội dung có thể được tìm thấy bằng cách tìm kiếm nội dung trang web. Để biết thêm chi tiết, hãy xem [sử nội dung trên một trang web để có thể tìm kiếm](https://docs.microsoft.com/sharepoint/make-site-content-searchable).
 
 Khi bạn đã thay đổi một tài sản được quản lý, hoặc khi bạn đã thay đổi bản đồ của thu thập và quản lý tài sản, các trang web phải được tái crawled trước khi thay đổi của bạn sẽ được phản ánh trong chỉ mục tìm kiếm. 
 
 Bởi vì các thay đổi được thực hiện trong lược đồ tìm kiếm, và không để các trang web thực tế, các trình thu thập sẽ không tự động tái index trang web. 
 
-Để biết thêm chi tiết, hãy xem [theo cách thủ công yêu cầu thu thập dữ liệu và lập chỉ mục lại của một trang web, một thư viện hay một danh sách](https://docs.microsoft.com/en-us/sharepoint/crawl-site-conten).
+Để biết thêm chi tiết, hãy xem [theo cách thủ công yêu cầu thu thập dữ liệu và lập chỉ mục lại của một trang web, một thư viện hay một danh sách](https://docs.microsoft.com/sharepoint/crawl-site-conten).
 
  Đợi ít nhất 24 giờ sau khi theo cách thủ công yêu cầu một thu thập thông tin và đầy đủ tái lập chỉ mục để xem nếu bạn vẫn gặp sự cố. 
 

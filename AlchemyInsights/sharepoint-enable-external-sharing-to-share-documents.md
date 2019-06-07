@@ -8,18 +8,41 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: 14b005e353b162b7c49c350ec434798009269219
-ms.sourcegitcommit: 6d341637dbb14e90726a1ce1d68f077ace9bb765
+ms.openlocfilehash: 425752ce9b25132005fcff503b90aac2b9130903
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/04/2019
-ms.locfileid: "34716878"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34760783"
 ---
 # <a name="enable-external-sharing-in-sharepoint-online"></a>Cho phép chia sẻ bên ngoài trong SharePoint Online
 
-Nếu tổ chức của bạn thực hiện các công việc liên quan đến việc chia sẻ các tài liệu hoặc cộng tác trực tiếp với nhà cung cấp, khách hàng hoặc khách hàng, sau đó bạn có thể sử dụng <a href="https://docs.microsoft.com/en-us/sharepoint/external-sharing-overview"><span style="color: blue;">bên ngoài chia sẻ tính năng của SharePoint Online</span></a> để chia sẻ nội dung với những người bên ngoài của bạn tổ chức.
+Nếu tổ chức của bạn thực hiện các công việc liên quan đến việc chia sẻ các tài liệu hoặc cộng tác trực tiếp với nhà cung cấp, khách hàng hoặc khách hàng, sau đó bạn có thể sử dụng [bên ngoài chia sẻ tính năng của SharePoint Online](https://docs.microsoft.com/sharepoint/external-sharing-overview) để chia sẻ nội dung với những người bên ngoài của bạn tổ chức.
 
-Cho thêm thông tin về chia sẻ bên ngoài xin vui lòng truy cập vào liên kết dưới đây.</span></u></strong></p> <ul> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;"><a href="https://docs.microsoft.com/en-us/sharepoint/external-sharing-overview#what-is-an-external-user"><span style="color: blue;">Một người dùng bên ngoài là gì?</span></a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;"><a href="https://docs.microsoft.com/en-us/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document"><span style="color: blue;">Điều gì sẽ xảy ra khi tôi chia sẻ một trang web hoặc tài liệu?</span></a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;"><a href="https://docs.microsoft.com/en-us/sharepoint/turn-external-sharing-on-or-off"><span style="color: blue;">Biến bên ngoài chia sẻ hoặc tắt cho SharePoint Online</span></a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;"><a href="https://docs.microsoft.com/en-us/sharepoint/change-external-sharing-site"><span style="color: blue;">Bật chia sẻ hoặc tắt cho một trang web bên ngoài</span></a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;"><a href="https://docs.microsoft.com/en-us/sharepoint/create-b2b-extranet"><span style="color: blue;">Sử dụng Sharepoint Online như là một giải pháp kinh doanh cho doanh nghiệp (B2B) extranet</span></a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;"><a href="https://support.office.com/en-us/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c"><span style="color: blue;">Chia sẻ SharePoint tập tin hoặc thư mục</span></a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;"><a href="https://support.office.com/en-us/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323?ui=en-US&amp;rs=en-US&amp;ad=US"><span style="color: blue;">Dừng chia sẻ tệp OneDrive hoặc SharePoint hoặc thư mục, hoặc thay đổi điều khoản</span></a></span></li> <li><a href="https://docs.microsoft.com/en-us/sharepoint/remove-users#delete-a-guest-from-the-microsoft-365-admin-center">Xóa một người dùng bên ngoài</a></li> </ul> <p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><strong style="mso-bidi-font-weight: normal;"><u><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;">
+Cho thêm thông tin về chia sẻ bên ngoài xin vui lòng truy cập vào liên kết dưới đây.
 
-Nhận được một lỗi với một người dùng bên ngoài? &nbsp;Kiểm tra các liên kết dưới đây. </span></u></strong></p> <ul> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;"><a href="https://support.office.com/en-us/article/Error-message-when-an-external-user-accepts-a-SharePoint-Online-invitation-by-using-another-account-f0d34413-ea7c-42c7-a485-c4e5d421e5f0"><span style="color: blue;">Thông báo lỗi khi một người dùng bên ngoài chấp nhận một lời mời SharePoint Online bằng cách sử dụng một tài khoản khác</span></a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;"><a href="https://support.office.com/client/d678b57a-53ad-4414-9423-d8726a0c532f"><span style="color: blue;">Truy cập bị từ chối vào một thư mục được chia sẻ</span></a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;"><a href="https://docs.microsoft.com/en-us/sharepoint/sharepoint-onedrive-error-message"><span style="color: blue;">OSE chia sẻ lỗi trong Sharepoint và OneDrive</span></a></span></li> </ul>
+[Một người dùng bên ngoài là gì?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-is-an-external-user)
+
+[Điều gì sẽ xảy ra khi tôi chia sẻ một trang web hoặc tài liệu?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document)
+
+
+[Biến bên ngoài chia sẻ hoặc tắt cho SharePoint Online](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)</
+
+[Bật chia sẻ hoặc tắt cho một trang web bên ngoài](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
+
+[Sử dụng Sharepoint Online như là một giải pháp kinh doanh cho doanh nghiệp (B2B) extranet](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
+
+[Chia sẻ SharePoint tập tin hoặc thư mục](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
+
+[Dừng chia sẻ tệp OneDrive hoặc SharePoint hoặc thư mục, hoặc thay đổi điều khoản](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323?ui=en-US&amp;rs=en-US&amp;ad=US)
+
+[Xóa một người dùng bên ngoài](https://docs.microsoft.com/sharepoint/remove-users#delete-a-guest-from-the-microsoft-365-admin-center)
+
+Nhận được một lỗi với một người dùng bên ngoài? &nbsp;Kiểm tra các liên kết dưới đây.
+
+- [Thông báo lỗi khi một người dùng bên ngoài chấp nhận một lời mời SharePoint Online bằng cách sử dụng một tài khoản khác](https://support.office.com/article/Error-message-when-an-external-user-accepts-a-SharePoint-Online-invitation-by-using-another-account-f0d34413-ea7c-42c7-a485-c4e5d421e5f0- )
+
+- [Truy cập bị từ chối vào một thư mục được chia sẻ](https://support.office.com/client/d678b57a-53ad-4414-9423-d8726a0c532f)
+
+- [OSE chia sẻ lỗi trong Sharepoint và OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 
