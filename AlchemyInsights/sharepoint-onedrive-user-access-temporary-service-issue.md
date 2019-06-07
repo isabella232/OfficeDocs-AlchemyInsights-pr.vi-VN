@@ -8,31 +8,31 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
-ms.openlocfilehash: 3b04e811b69a1f9d652abbd603c3c09df068480c
-ms.sourcegitcommit: 6d341637dbb14e90726a1ce1d68f077ace9bb765
+ms.openlocfilehash: 745a62c917c0b94501843332d70609261c6d3b76
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/04/2019
-ms.locfileid: "34719538"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34759172"
 ---
 # <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>SharePoint hoặc OneDrive chậm, không thể tiếp cận hoặc không sẵn dùng cho nhiều người dùng
 
 Nếu một trang web OneDrive hoặc SharePoint không phải là có sẵn cho nhiều người dùng trước đó đã truy cập, có thể có một vấn đề tạm thời dịch vụ. [Kiểm tra bảng điều khiển dịch vụ y tế](https://portal.office.com/adminportal/home#/servicehealth).
 
-## <a name="add-and-license-the-user"></a>Thêm và giấy phép người dùng
+Thêm và giấy phép người dùng
 
-Đảm bảo rằng bạn [gán giấy phép cho người dùng trong Office 365 Beta dành cho doanh nghiệp](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide&amp;tabs=One).
+Đảm bảo rằng bạn [gán giấy phép cho người dùng trong Office 365 Beta dành cho doanh nghiệp](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide&amp;tabs=One).
 
 
-## <a name="assign-permissions"></a>Gán quyền
+**Gán quyền**
 
-Nếu người dùng đã được chỉ định một cấp phép Sharepoint và vẫn nhận được quyền truy cập bị từ chối thư, hãy đảm bảo rằng họ có [sự cho phép thích hợp cấp](https://docs.microsoft.com/en-us/sharepoint/understanding-permission-levels) được chỉ định.
+Nếu người dùng đã được chỉ định một cấp phép Sharepoint và vẫn nhận được quyền truy cập bị từ chối thư, hãy đảm bảo rằng họ có [sự cho phép thích hợp cấp](https://docs.microsoft.com/sharepoint/understanding-permission-levels) được chỉ định.
 
-## <a name="consider-using-the-access-request-feature"></a>Xem xét sử dụng các tính năng yêu cầu truy cập
+**Xem xét sử dụng các tính năng yêu cầu truy cập**
 
-[Truy cập yêu cầu tính năng](https://support.office.com/en-us/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3) cho phép người để yêu cầu quyền truy cập vào nội dung mà họ hiện tại không có sự cho phép để xem.
+[Truy cập yêu cầu tính năng](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3) cho phép người để yêu cầu quyền truy cập vào nội dung mà họ hiện tại không có sự cho phép để xem.
 
-## <a name="allow-custom-script-may-cause-access-denied-issues"></a>Cho phép tùy chỉnh kịch bản có thể gây ra các quyền truy cập bị từ chối các vấn đề
+**Cho phép tùy chỉnh kịch bản có thể gây ra các quyền truy cập bị từ chối các vấn đề**
 
-Có những tình huống nhất định mà các tính năng *cho phép tùy chỉnh kịch bản* có thể trình bày một truy cập bị từ chối. Đối với một danh sách các tính năng ảnh hưởng, cân nhắc an ninh và khả năng vô hiệu hóa các tính năng. Xin vui lòng ghé thăm [cho phép hoặc ngăn chặn các tuỳ chỉnh script](https://docs.microsoft.com/en-us/sharepoint/allow-or-prevent-custom-script).
+Có những tình huống nhất định mà các tính năng *cho phép tùy chỉnh kịch bản* có thể trình bày một truy cập bị từ chối. Đối với một danh sách các tính năng ảnh hưởng, cân nhắc an ninh và khả năng vô hiệu hóa các tính năng. Xin vui lòng ghé thăm [cho phép hoặc ngăn chặn các tuỳ chỉnh script](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script).
 
