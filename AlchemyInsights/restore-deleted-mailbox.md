@@ -14,12 +14,12 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: e6112a76-bbb6-4c22-b2e6-690b004d92d4
-ms.openlocfilehash: d3808cdee54b748abec16035ecb5c093ec6d37f3
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 760587c0e58662283c3c1a647d1cc5fb81187545
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32370564"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34770760"
 ---
 # <a name="restore-a-deleted-mailbox"></a>Khôi phục hộp thư đã xoá
 
@@ -33,6 +33,6 @@ Khi người dùng mất giấy phép của Exchange Online, hộp thư của h�
     
 3. Gán giấy phép Exchange Online và nhấn **lưu**
     
-Nếu bạn đang cố gắng khôi phục một hộp thư dùng chung, đó là cũng có thể phục hồi trong 30 ngày. Bạn có thể tìm thấy dưới **người dùng** \> người dùng **đã bị xoá** ; hộp thư dùng chung không yêu cầu một giấy phép. Nếu bạn nhận ra rằng bạn cần khôi phục một người dùng đã xoá, hãy xem [khôi phục một người dùng trong Office 365](https://docs.microsoft.com/en-us/office365/admin/add-users/restore-user).
+Nếu bạn đang cố gắng khôi phục một hộp thư dùng chung, đó là cũng có thể phục hồi trong 30 ngày. Bạn có thể tìm thấy dưới **người dùng** \> người dùng **đã bị xoá** ; hộp thư dùng chung không yêu cầu một giấy phép. Nếu bạn nhận ra rằng bạn cần khôi phục một người dùng đã xoá, hãy xem [khôi phục một người dùng trong Office 365](https://docs.microsoft.com/office365/admin/add-users/restore-user).
   
 

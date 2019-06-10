@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 997
 ms.assetid: d3fcac43-f659-47ba-a45e-f32863680685
-ms.openlocfilehash: 65b953ef5c090b59aa2665e29ef3fda92adb8a30
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 6913bee931574266d1464a9f7862393747fe3746
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32420903"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34771436"
 ---
 # <a name="id-like-to-sign-up-for-teams-free-but-i-cant"></a>Tôi muốn đăng ký cho đội bóng miễn phí, nhưng tôi không thể.
 
-- Nếu bạn đang sử dụng Office 365 một công việc hay trường học tài khoản, cung cấp miễn phí này không có sẵn. Org của bạn, mặc dù, có thể đã sử dụng các đội. Nếu không, đi đến [Microsoft đội](https://products.office.com/en-us/microsoft-teams/group-chat-software) để xem nếu nó là đủ điều kiện cho một thử nghiệm miễn phí.
+- Nếu bạn đang sử dụng Office 365 một công việc hay trường học tài khoản, cung cấp miễn phí này không có sẵn. Org của bạn, mặc dù, có thể đã sử dụng các đội. Nếu không, đi đến [Microsoft đội](https://products.office.com/microsoft-teams/group-chat-software) để xem nếu nó là đủ điều kiện cho một thử nghiệm miễn phí.
 
 - Học viện không đủ điều kiện để cung cấp miễn phí này. Giáo viên và học sinh, mặc dù, có thể nhận được một phiên bản miễn phí của Office 365, bao gồm một phiên bản đầy đủ của Microsoft Teams. Thấy [cấp phép Office 365 Beta dành cho Microsoft đội](https://docs.microsoft.com/microsoftteams/office-365-licensing).
 

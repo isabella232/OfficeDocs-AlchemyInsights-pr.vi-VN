@@ -13,12 +13,12 @@ ms.custom:
 - "1800027"
 - "1267"
 ms.assetid: ''
-ms.openlocfilehash: ed0c679cf3ed9d363e552c04a5ae6d0fc72f88dd
-ms.sourcegitcommit: 6a229919cf67005e7e67841e9e45f2f3aa6833ef
+ms.openlocfilehash: 1d1b02527c3b614375cf1f84a7a511d9318689b1
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33630037"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34770268"
 ---
 # <a name="how-to-import-nk2-files"></a>Làm thế nào để nhập tệp .nk2 
 
@@ -37,4 +37,4 @@ Sau khi bạn nhập tệp .nk2, nội dung của các tập tin được sáp n
 
 **Lưu ý**: tập tin .nk2 đổi tên với một phần mở rộng tên tệp .old thời gian tiếp theo bạn khởi động Outlook 2013, Outlook 2016, Outlook 2019 hoặc Outlook cho Office 365. Nếu muốn tái nhập tệp .nk2, loại bỏ phần mở rộng tên tệp .old lần đầu tiên.
 
-Để biết thêm chi tiết, hãy xem [nhập hoặc sao chép danh sách Auto-Complete sang máy tính khác](https://support.microsoft.com/en-us/help/2806550/how-to-import-nk2-files-into-outlook%).
+Để biết thêm chi tiết, hãy xem [nhập hoặc sao chép danh sách Auto-Complete sang máy tính khác](https://support.microsoft.com/help/2806550/how-to-import-nk2-files-into-outlook%).

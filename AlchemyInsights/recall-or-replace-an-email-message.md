@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1860
 ms.assetid: ''
-ms.openlocfilehash: 6e66b5d60fe9ac66c2f2f8f7e99e753652c3a59e
-ms.sourcegitcommit: bcb2612ab8ba2aee5165e3912dca95cc1bdd09f4
+ms.openlocfilehash: 461969bee3b871fd2c4a8418406ea2b6de791191
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/16/2019
-ms.locfileid: "34096678"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34770830"
 ---
 # <a name="recall-or-replace-an-email-message"></a>Nhớ lại hoặc thay thế thư email
 
@@ -36,7 +36,7 @@ ms.locfileid: "34096678"
 
 ***Tìm kiếm và xoá thư email trong tổ chức của bạn*** Để tìm kiếm và xoá các thư email trong tổ chức của bạn, nó là dễ nhất nếu bạn là một quản trị toàn cầu. Nếu bạn không phải là một quản trị toàn cầu, tài khoản của bạn phải được thêm vào nhóm vai trò quản lý eDiscovery, hoặc vai trò quản lý tuân thủ tìm kiếm. Để xoá thư, bạn sẽ cần để tham gia vào nhóm vai trò quản lý tổ chức hoặc vai trò quản lý tìm kiếm và thanh trừng. Quyền các vai trò được gán trong [Trung tâm bảo mật & tuân thủ](https://protection.office.com/).
 
-1. [Tạo một nội dung tìm kiếm](https://docs.microsoft.com/en-us/office365/securitycompliance/content-search) để tìm thư để xóa.
-2. [Kết nối bảo mật & tuân thủ trung tâm PowerShell](https://docs.microsoft.com/en-us/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps). 
+1. [Tạo một nội dung tìm kiếm](https://docs.microsoft.com/office365/securitycompliance/content-search) để tìm thư để xóa.
+2. [Kết nối bảo mật & tuân thủ trung tâm PowerShell](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps). 
 
-Nếu bạn đang sử dụng MFA, hãy xem [kết nối với Office 365 an ninh & tuân thủ trung tâm PowerShell sử dụng nhiều yếu tố xác thực](https://docs.microsoft.com/en-us/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps). 
+Nếu bạn đang sử dụng MFA, hãy xem [kết nối với Office 365 an ninh & tuân thủ trung tâm PowerShell sử dụng nhiều yếu tố xác thực](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps). 

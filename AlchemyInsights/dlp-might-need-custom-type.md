@@ -10,12 +10,12 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: cd5bac5efe3a16d32f9b695c8cb452a1eaa3a796
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 0ccdc524625ac76031004300a2406d5bfddcc759
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32399141"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34770338"
 ---
 # <a name="dlp-might-need-a-custom-type"></a>DLP có thể cần một loại tùy chỉnh
 
@@ -25,14 +25,14 @@ Ví dụ, tổ chức của bạn có thể cần phải xác định và bảo 
   
  **Tùy chỉnh loại thông tin nhạy cảm được xây dựng trong**
   
-Nếu một loại được xây dựng trong các thông tin nhạy cảm nào đáp ứng nhu cầu của bạn với chỉ một vài tinh chỉnh, bạn có thể [tùy chỉnh loại thông tin nhạy cảm được xây dựng trong](https://docs.microsoft.com/en-us/office365/securitycompliance/customize-a-built-in-sensitive-information-type). Ví dụ, bạn có thể thêm hoặc loại bỏ từ khoá, thêm hoặc loại bỏ các bằng chứng hỗ trợ như là một ngày hoặc địa chỉ.
+Nếu một loại được xây dựng trong các thông tin nhạy cảm nào đáp ứng nhu cầu của bạn với chỉ một vài tinh chỉnh, bạn có thể [tùy chỉnh loại thông tin nhạy cảm được xây dựng trong](https://docs.microsoft.com/office365/securitycompliance/customize-a-built-in-sensitive-information-type). Ví dụ, bạn có thể thêm hoặc loại bỏ từ khoá, thêm hoặc loại bỏ các bằng chứng hỗ trợ như là một ngày hoặc địa chỉ.
   
  **Tạo ra một loại tùy chỉnh các thông tin nhạy cảm**
   
-Nhưng nếu bạn cần phải xác định và bảo vệ một loại khác nhau của thông tin nhạy cảm hoàn toàn, bạn có thể [tạo ra một loại tùy chỉnh các thông tin nhạy cảm](https://docs.microsoft.com/en-us/office365/securitycompliance/create-a-custom-sensitive-information-type) trong giao diện người dùng của an ninh & tuân thủ trung tâm. 
+Nhưng nếu bạn cần phải xác định và bảo vệ một loại khác nhau của thông tin nhạy cảm hoàn toàn, bạn có thể [tạo ra một loại tùy chỉnh các thông tin nhạy cảm](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type) trong giao diện người dùng của an ninh & tuân thủ trung tâm. 
   
 **Tạo ra một loại tùy chỉnh các thông tin nhạy cảm trong an ninh & tuân thủ trung tâm PowerShell**
 
-Cuối cùng, nếu giao diện không cung cấp tất cả các tùy chọn mà bạn cần, bạn có thể [tạo ra một loại tùy chỉnh các thông tin nhạy cảm trong an ninh & tuân thủ trung tâm PowerShell](https://docs.microsoft.com/en-us/office365/securitycompliance/create-a-custom-sensitive-information-type-in-scc-powershell). Bằng cách bắt đầu với một tập tin XML, bạn có thể sử dụng mỗi tùy chọn có sẵn.
+Cuối cùng, nếu giao diện không cung cấp tất cả các tùy chọn mà bạn cần, bạn có thể [tạo ra một loại tùy chỉnh các thông tin nhạy cảm trong an ninh & tuân thủ trung tâm PowerShell](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type-in-scc-powershell). Bằng cách bắt đầu với một tập tin XML, bạn có thể sử dụng mỗi tùy chọn có sẵn.
 
     

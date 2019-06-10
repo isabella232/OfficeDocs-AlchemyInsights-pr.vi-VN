@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: c2fa0a3489def709ed4f1823237ba98e3dd52cc2
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: f30db7cdb083356b0ad02348b7c5188280dc88f0
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32412521"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34769917"
 ---
 # <a name="switch-plans-to-increase-mailbox-size"></a>Chuyển đổi kế hoạch để tăng kích cỡ hộp thư
 
@@ -34,4 +34,4 @@ Nếu kích thước hộp thư là 50 GB, bạn có thể tăng nó đến 100 
     
 Cho biết thêm chi tiết, hãy xem [chuyển đổi cho một gói Office 365 khác nhau](https://support.office.com/article/73318661-8f33-478b-bcc7-fb8d69dbb22a).
   
-Nếu bạn có một [kế hoạch O365 hỗ trợ một kho lưu trữ In-place](https://docs.microsoft.com/en-us/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description), bạn cũng có thể lưu trữ các email bằng cách kích hoạt hộp thư lưu trữ.  Hộp thư lưu trữ cho phép bạn lưu trữ bổ sung và cho phép bạn để di chuyển, sao chép và tìm kiếm tin nhắn trong cả chính và hộp thư lưu trữ. Để bước về cách kích hoạt hộp thư lưu trữ, hãy xem [kích hoạt hộp thư lưu trữ](https://docs.microsoft.com/en-us/office365/securitycompliance/enable-archive-mailboxes).
+Nếu bạn có một [kế hoạch O365 hỗ trợ một kho lưu trữ In-place](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description), bạn cũng có thể lưu trữ các email bằng cách kích hoạt hộp thư lưu trữ.  Hộp thư lưu trữ cho phép bạn lưu trữ bổ sung và cho phép bạn để di chuyển, sao chép và tìm kiếm tin nhắn trong cả chính và hộp thư lưu trữ. Để bước về cách kích hoạt hộp thư lưu trữ, hãy xem [kích hoạt hộp thư lưu trữ](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes).
