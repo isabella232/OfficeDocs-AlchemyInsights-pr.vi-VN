@@ -9,15 +9,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.custom: 1703
-ms.openlocfilehash: 5741aab79cd4647f2ad2ff01c05ccbac33c62a46
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: a7514bece0f841a0df46c50a3d83012ce586bdde
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
 ms.lasthandoff: 06/07/2019
-ms.locfileid: "34762351"
+ms.locfileid: "34771292"
 ---
-# <a name="polycom-phones-and-microsoft-teams"></a><span data-ttu-id="ed1c9-102">Microsoft Teams và điện thoại Polycom</span><span class="sxs-lookup"><span data-stu-id="ed1c9-102">Polycom phones and Microsoft Teams</span></span>
+# <a name="polycom-phones-and-microsoft-teams"></a><span data-ttu-id="f3b18-102">Microsoft Teams và điện thoại Polycom</span><span class="sxs-lookup"><span data-stu-id="f3b18-102">Polycom phones and Microsoft Teams</span></span>
 
-<span data-ttu-id="ed1c9-103">Hãy kiểm tra này [Polycom liên kết](http://www.polycom.com/content/dam/polycom/common/documents/faqs/polycom-phones-and-microsoft-teams-faq-enus.pdf) cho các thông tin cụ thể hơn về cách sử dụng điện thoại Polycom với Microsoft Teams.</span><span class="sxs-lookup"><span data-stu-id="ed1c9-103">Please check this [Polycom link](http://www.polycom.com/content/dam/polycom/common/documents/faqs/polycom-phones-and-microsoft-teams-faq-enus.pdf) for more specific information on using Polycom phones with Microsoft Teams.</span></span>
+<span data-ttu-id="f3b18-103">Hãy kiểm tra này [Polycom liên kết](http://www.polycom.com/content/dam/polycom/common/documents/faqs/polycom-phones-and-microsoft-teams-faq-enus.pdf) cho các thông tin cụ thể hơn về cách sử dụng điện thoại Polycom với Microsoft Teams.</span><span class="sxs-lookup"><span data-stu-id="f3b18-103">Please check this [Polycom link](http://www.polycom.com/content/dam/polycom/common/documents/faqs/polycom-phones-and-microsoft-teams-faq-enus.pdf) for more specific information on using Polycom phones with Microsoft Teams.</span></span>
 
-<span data-ttu-id="ed1c9-104">Nếu bạn muốn tìm hiểu thêm về sử dụng điện thoại với đội bóng, hãy kiểm tra [bài viết này](https://docs.microsoft.com/en-us/microsoftteams/phones-for-teams).</span><span class="sxs-lookup"><span data-stu-id="ed1c9-104">If you'd like to learn more about using phones with Teams, check out [this article](https://docs.microsoft.com/en-us/microsoftteams/phones-for-teams).</span></span>
+<span data-ttu-id="f3b18-104">Nếu bạn muốn tìm hiểu thêm về sử dụng điện thoại với đội bóng, hãy kiểm tra [bài viết này](https://docs.microsoft.com/microsoftteams/phones-for-teams).</span><span class="sxs-lookup"><span data-stu-id="f3b18-104">If you'd like to learn more about using phones with Teams, check out [this article](https://docs.microsoft.com/microsoftteams/phones-for-teams).</span></span>
