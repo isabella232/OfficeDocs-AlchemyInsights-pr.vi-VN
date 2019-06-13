@@ -8,25 +8,24 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 47ceb983-f9a4-4c55-a40c-03d5c3d75dc9
-ms.openlocfilehash: 43369c600687d6ac253f70a8535dc2bd0d41687e
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: b7a3805d30cac44781adbbb00c0f0ed3496ff17b
+ms.sourcegitcommit: a9be2e396022382e92cf40c0d0d82f2f59c2e259
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32389909"
+ms.lasthandoff: 06/12/2019
+ms.locfileid: "34883613"
 ---
-# <a name="access-denied-when-viewing-a-workflow"></a><span data-ttu-id="4ec47-102">Truy cập từ chối khi xem một công việc</span><span class="sxs-lookup"><span data-stu-id="4ec47-102">Access denied when viewing a Workflow</span></span>
+# <a name="access-denied-when-viewing-a-workflow"></a><span data-ttu-id="b4a7c-102">Truy cập từ chối khi xem một công việc</span><span class="sxs-lookup"><span data-stu-id="b4a7c-102">Access denied when viewing a Workflow</span></span>
 
-<span data-ttu-id="4ec47-103">SharePoint 2013 quy trình công việc mà cố gắng để gửi email đến một nhóm SharePoint có thể thất bại với một thông báo lỗi "Truy cập từ chối" nếu các thành viên của nhóm SharePoint không được thiết lập để tất cả mọi người.</span><span class="sxs-lookup"><span data-stu-id="4ec47-103">SharePoint 2013 Workflows that attempt to send an email to a SharePoint group can fail with an "Access Denied" error message if the membership of the SharePoint group is not set to Everyone.</span></span>
+<span data-ttu-id="b4a7c-103">SharePoint 2013 quy trình công việc mà cố gắng để gửi email đến một nhóm SharePoint có thể thất bại với một thông báo lỗi "Truy cập từ chối" nếu các thành viên của nhóm SharePoint không được thiết lập để tất cả mọi người.</span><span class="sxs-lookup"><span data-stu-id="b4a7c-103">SharePoint 2013 Workflows that attempt to send an email to a SharePoint group can fail with an "Access Denied" error message if the membership of the SharePoint group is not set to Everyone.</span></span>
   
- <span data-ttu-id="4ec47-104">**Để giải quyết vấn đề này, hãy làm các bước sau:**</span><span class="sxs-lookup"><span data-stu-id="4ec47-104">**To resolve this issue, do these steps:**</span></span>
+ <span data-ttu-id="b4a7c-104">**Để giải quyết vấn đề này, hãy làm các bước sau:**</span><span class="sxs-lookup"><span data-stu-id="b4a7c-104">**To resolve this issue, do these steps:**</span></span>
   
- 1. <span data-ttu-id="4ec47-105">Cho phép tất cả mọi người để xem các thành viên của nhóm SharePoint.</span><span class="sxs-lookup"><span data-stu-id="4ec47-105">Allow everybody to see the members of the SharePoint group.</span></span> 
+ 1. <span data-ttu-id="b4a7c-105">Cho phép tất cả mọi người để xem các thành viên của nhóm SharePoint.</span><span class="sxs-lookup"><span data-stu-id="b4a7c-105">Allow everybody to see the members of the SharePoint group.</span></span>
   
- 2. <span data-ttu-id="4ec47-106">Loại bỏ nhóm SharePoint từ k/g hoặc sao của email.</span><span class="sxs-lookup"><span data-stu-id="4ec47-106">Remove the SharePoint group from the To or CC line of the email.</span></span> 
+ 2. <span data-ttu-id="b4a7c-106">Loại bỏ nhóm SharePoint từ k/g hoặc sao của email.</span><span class="sxs-lookup"><span data-stu-id="b4a7c-106">Remove the SharePoint group from the To or CC line of the email.</span></span>
   
- 3. <span data-ttu-id="4ec47-107">Một cách rõ ràng thêm người dùng k/g hoặc sao dòng nếu tầm nhìn của thành viên không thể thay đổi cho SharePoint group.</span><span class="sxs-lookup"><span data-stu-id="4ec47-107">Explicitly add the users to the To or CC line if the membership visibility cannot be changed for SharePoint group.</span></span> 
+ 3. <span data-ttu-id="b4a7c-107">Một cách rõ ràng thêm người dùng k/g hoặc sao dòng nếu tầm nhìn của thành viên không thể thay đổi cho SharePoint group.</span><span class="sxs-lookup"><span data-stu-id="b4a7c-107">Explicitly add the users to the To or CC line if the membership visibility cannot be changed for SharePoint group.</span></span>
   
-<span data-ttu-id="4ec47-108">Để xem thêm chi tiết xin vui lòng tham khảo [HTTP trái phép để /_vti_bin/client.svc/sp.utilities.utility.SendEmail ](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="4ec47-108">To view more details please refer to [HTTP Unauthorized to /_vti_bin/client.svc/sp.utilities.utility.SendEmail ](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).</span></span>
+<span data-ttu-id="b4a7c-108">Để xem thêm chi tiết xin vui lòng tham khảo [HTTP trái phép để /_vti_bin/client.svc/sp.utilities.utility.SendEmail](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="b4a7c-108">To view more details please refer to [HTTP Unauthorized to /_vti_bin/client.svc/sp.utilities.utility.SendEmail](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).</span></span>
   
-
