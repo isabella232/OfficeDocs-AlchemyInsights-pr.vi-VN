@@ -3,7 +3,7 @@ title: Xóa một số liên lạc trong Outlook trên web
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/9/2019
+ms.date: 5/21/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,19 +11,16 @@ localization_priority: Normal
 ms.custom:
 - "8000012"
 - "1997"
-ms.openlocfilehash: 9e9f4a4bd712fa961f1e7a4da7c78a8dfc4c5a35
-ms.sourcegitcommit: 2247a2e723b6c0a1cf3af1f2d82afa1f45803812
+ms.openlocfilehash: 7ad83d301230c81b4b3e635e6ef61faf683344f0
+ms.sourcegitcommit: c72efee4375c3462641639ec78a171d8eae6d631
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/09/2019
-ms.locfileid: "33866601"
+ms.lasthandoff: 05/21/2019
+ms.locfileid: "34335438"
 ---
 # <a name="delete-a-contact"></a>Xóa một số liên lạc
 
-1. Chọn biểu tượng **người** ở góc dưới bên trái của màn hình.
-
+1. Ở phía dưới góc bên trái của trang, chọn biểu tượng **người** .
 2. Chọn số liên lạc bạn muốn xóa và chọn **Delete**.
 
-    Nếu bạn không thể chọn **Delete**, số liên lạc có thể từ Skype hoặc tài khoản đã kết nối mạng xã hội. Để xóa số liên lạc, hãy vào Skype hoặc tài khoản số liên lạc nằm ở đâu.
-
-3. Chọn **Delete** để xác nhận.
+Nếu bạn không thể chọn **Delete**, số liên lạc có thể từ Skype hoặc tài khoản đã kết nối mạng xã hội. Để xóa số liên lạc, hãy vào Skype hoặc tài khoản số liên lạc nằm ở đâu.

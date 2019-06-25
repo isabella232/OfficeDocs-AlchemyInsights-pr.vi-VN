@@ -3,7 +3,7 @@ title: Không thể xóa hình ảnh hoặc tập tin từ các tập tin trong 
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/31/2019
+ms.date: 6/20/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,15 +14,15 @@ ms.custom:
 - "1178"
 - "1179"
 ms.assetid: 6486ce36-65dc-48dc-be19-52d6c7890956
-ms.openlocfilehash: 4b292661c4d9c58ad1ff3bb62c6d62f871c664d2
-ms.sourcegitcommit: 6a79e457f0326c2bf1ac96006e93603d94245f8b
+ms.openlocfilehash: 6126fcc1027b34ef44160e3d13c120c179457307
+ms.sourcegitcommit: 2bc5a3a7cfdc2b43ea22dd41fea1a13e312d5de2
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/31/2019
-ms.locfileid: "34669277"
+ms.lasthandoff: 06/20/2019
+ms.locfileid: "35115866"
 ---
 # <a name="cant-delete-files-or-photos-from-files"></a>Không thể xóa tập tin hoặc hình ảnh từ các tập tin
 
-Các tập tin cho thấy các tập tin và hình ảnh đính kèm vào thư trong hộp thư của bạn. Bạn không thể xóa tập tin hoặc hình ảnh trực tiếp từ các tập tin. Để xóa các tập tin và hình ảnh, bạn cần xóa các tin nhắn email mà họ đang gắn liền với:
+**Các tập tin** cho thấy các tập tin và hình ảnh đính kèm vào thư trong hộp thư của bạn. Để loại bỏ các tập tin và hình ảnh từ các tập tin, bạn cần phải xóa các tin nhắn email họ đang gắn vào. Sau khi xóa các tin nhắn, bạn cũng cần phải xoá chúng khỏi thư mục mục đã xoá của bạn.
 
-Để biết thêm chi tiết, đọc [làm thế nào để xóa tập tin hoặc hình ảnh trong Outlook.com](https://support.office.com/article/bae0531f-040f-4c42-90b9-786ca718c16d.aspx).
+Để tìm hiểu thêm, hãy đọc [làm thế nào để xóa tập tin hoặc hình ảnh trong Outlook.com](https://support.office.com/article/bae0531f-040f-4c42-90b9-786ca718c16d?wt.mc_id=Office_Outlook_com_Alchemy).

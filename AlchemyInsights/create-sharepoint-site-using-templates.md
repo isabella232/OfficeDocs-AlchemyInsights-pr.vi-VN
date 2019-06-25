@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 84f2b70e-2b23-4039-8305-85783798feed
-ms.openlocfilehash: a964751e52972875a8794ce311546f5816a36ca6
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 9ab06cbd1648da31d8a04e61c237a2326b4bbe93
+ms.sourcegitcommit: f856d46a325c517fc29d935c27f21b77c4219e66
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34753733"
+ms.lasthandoff: 06/24/2019
+ms.locfileid: "35199295"
 ---
 # <a name="create-sharepoint-sites-using-templates"></a>Tạo ra các trang web SharePoint sử dụng mẫu
 
@@ -31,7 +31,7 @@ Quản trị viên sẽ cần phải cho phép tuỳ chỉnh Script để kích 
 
 - Các trang web lưu như mẫu lệnh không được hỗ trợ và có thể gây ra vấn đề trên các trang web sử dụng các SharePoint Server xuất bản cơ sở hạ tầng.
 
-Các mẫu trang web không thể được tạo ra hoặc không làm việc một cách chính xác.
+**Các mẫu trang web không thể được tạo ra hoặc không làm việc một cách chính xác**
 
 Các mẫu có thể mất một [tính năng](https://social.technet.microsoft.com/wiki/contents/articles/14423.sharepoint-2013-existing-features-guid.aspx) và sẽ không kích hoạt. Nếu các tính năng không có sẵn để kích hoạt trong bộ sưu tập trang web hiện tại, bạn không thể sử dụng các mẫu trang web để tạo ra một trang web.
 

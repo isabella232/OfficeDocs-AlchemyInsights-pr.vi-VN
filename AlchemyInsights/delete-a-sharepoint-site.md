@@ -9,16 +9,19 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c060815d-1d3f-4a13-81c2-0377bbeda202
-ms.openlocfilehash: 37905f9c673b1597779f558a4c6d9b5a8bc28ad8
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 17554fdefd4ac8a9248e3e375301edf25edebf05
+ms.sourcegitcommit: 2bc5a3a7cfdc2b43ea22dd41fea1a13e312d5de2
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34752941"
+ms.lasthandoff: 06/20/2019
+ms.locfileid: "35115617"
 ---
 # <a name="delete-a-sharepoint-site"></a>Xóa một trang web SharePoint
 **Xóa các trang web từ Trung tâm quản trị mới của SharePoint** Bằng cách sử dụng trung tâm quản trị SharePoint mới, bạn có thể xóa các trang web hiện đại và cổ điển. Chọn **các trang web đang hoạt động**, chọn trang web, và sau đó chọn **xóa**. Để [xem và khôi phục lại xóa các trang web trong Trung tâm quản trị SharePoint mới](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center), hãy chọn **xóa các trang web**. Để biết thêm chi tiết, hãy xem [xóa một trang web trong Trung tâm quản trị mới của SharePoint](https://docs.microsoft.com/sharepoint/delete-site-collection#delete-a-site-in-the-new-sharepoint-admin-center).
-**Quan trọng:** Nếu các trang web là một phần của một chính sách lưu giữ, bạn không thể xóa bỏ nó cho đến khi trang web được lấy ra từ các [an ninh &amp; Trung tâm quản trị tuân thủ chính sách](https://protection.office.com/?rfr=AdminCenter#/homepage). Hãy xem [Tổng quan chính sách lưu giữ](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) cho biết thêm thông tin. Lời khuyên:
+
+**Quan trọng:** Nếu các trang web là một phần của một chính sách lưu giữ, bạn không thể xóa bỏ nó cho đến khi trang web được lấy ra từ các [an ninh &amp; Trung tâm quản trị tuân thủ chính sách](https://protection.office.com/?rfr=AdminCenter#/homepage). Hãy xem [Tổng quan chính sách lưu giữ](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) cho biết thêm thông tin. 
+
+Lời khuyên:
 - Quản trị viên SharePoint bây giờ có thể xóa các trang web thuộc **Văn phòng 365 nhóm**. Việc này sẽ xóa nhóm và tất cả các tài nguyên của nó, bao gồm cả hộp thư Outlook và lịch, và bất kỳ kênh đội. Để biết thêm chi tiết, hãy xem [xóa các trang web SharePoint](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)
 - Bạn có thể khôi phục các trang web đã bị xóa trong 93 ngày. Lưu ý rằng xóa nhóm phải được khôi phục trong vòng 30 ngày. Để biết thêm chi tiết, hãy xem [xem và khôi phục lại xóa các trang web](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center).
 - Để vĩnh viễn loại bỏ một trang web, hãy xem [xoá vĩnh viễn một trang web](https://docs.microsoft.com/sharepoint/delete-site-collection#permanently-delete-a-site). Bước này sẽ được yêu cầu nếu bạn đang có kế hoạch tái sử dụng các URL. 
