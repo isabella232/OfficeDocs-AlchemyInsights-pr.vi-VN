@@ -10,24 +10,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: 891f4cf89a0468fe9330689bde722d9ff591ac8f
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: fceb8656ed6f7b59492b63208475051b5f37d209
+ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34759382"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35223482"
 ---
 # <a name="problems-opening-office-files-from-sharepoint"></a>Vấn đề mở tập tin văn phòng từ SharePoint
 
 Nếu bạn có vấn đề mở tập tin văn phòng và các tài liệu từ SharePoint trong khách hàng văn phòng địa phương của bạn, vui lòng xem xét các liên kết dưới đây. 
 
-[Kiểm tra giới hạn tệp để đảm bảo các tập tin được hỗ trợ](https://support.office.com/article/Invalid-file-names-and-file-types-in-OneDrive-OneDrive-for-Business-and-SharePoint-64883a5d-228e-48f5-b3d2-eb39e07630fa).
+- [Kiểm tra giới hạn tệp để đảm bảo các tập tin được hỗ trợ](https://support.office.com/article/Invalid-file-names-and-file-types-in-OneDrive-OneDrive-for-Business-and-SharePoint-64883a5d-228e-48f5-b3d2-eb39e07630fa).
 
-[Xóa bộ nhớ cache tài liệu văn phòng của bạn](https://support.office.com/article/Delete-your-Office-Document-Cache-b1d3765e-d71b-4bb8-99ca-acd22c42995d).
+- [Xóa bộ nhớ cache tài liệu văn phòng của bạn](https://support.office.com/article/Delete-your-Office-Document-Cache-b1d3765e-d71b-4bb8-99ca-acd22c42995d).
 
-[Chạy một sửa chữa vào văn phòng](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).
+- [Chạy một sửa chữa vào văn phòng](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).
 
 Để biết thêm thông tin hoặc thông tin chi tiết vui lòng tham khảo các bài viết, [khắc phục sự cố khi mở các tài liệu trong thư viện SharePoint](https://support.office.com/article/Fix-problems-opening-documents-in-SharePoint-libraries-31329FA1-4AD0-47FC-95D8-BB0C5B12A536).
 
-**Lưu ý**: nếu bạn đang gặp vấn đề với các tài liệu mở trong trình duyệt hoặc khách hàng theo mặc định, bạn có thể cần phải thay đổi cài đặt thư viện. Để làm điều này, bạn điều hướng đến hành vi của >Default mở cho các tùy chọn kích hoạt trình duyệt tài liệu.
+**Lưu ý**: nếu bạn đang gặp vấn đề với các tài liệu mở trong trình duyệt hoặc khách hàng theo mặc định, bạn có thể cần phải thay đổi cài đặt thư viện. Để làm điều này, điều hướng đến các thư viện có vấn đề > biểu tượng bánh răng ở góc trên bên phải > cài đặt thư viện > cài đặt nâng cao > tài liệu mở trong trình duyệt.
 
