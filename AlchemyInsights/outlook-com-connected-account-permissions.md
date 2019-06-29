@@ -8,19 +8,21 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000093
-ms.openlocfilehash: 9bd711a5780129ac643ec9bf0000adf69ae2153b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1431"
+- "8000093"
+ms.openlocfilehash: da2e08be499afff97fd0f0cf3cf4f1993cb6dba4
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32417988"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35375811"
 ---
 # <a name="how-to-fix-it-looks-like-we-dont-have-permission"></a>Làm thế nào để fix "Có vẻ như chúng tôi không có quyền"
 
 Nếu bạn thấy thông báo lỗi "có vẻ như chúng tôi không có sự cho phép để nhận được email cho..." Hãy làm như sau:
 
-1. Mở [cài đặt kết nối tài khoản](https://outlook.live.com/mail/options/mail/accounts) của bạn và loại bỏ hoặc xóa các tài khoản đã kết nối được liệt kê trong lỗi. 
+1. Mở [cài đặt kết nối tài khoản](https://outlook.live.com/mail/options/mail/accounts) của bạn và loại bỏ hoặc xóa các tài khoản đã kết nối được liệt kê trong lỗi.
 2. Thêm các tài khoản đã kết nối lại.
 3. Hãy [trở lại vào hộp thư của bạn](https://outlook.live.com/mail/inbox).
 
