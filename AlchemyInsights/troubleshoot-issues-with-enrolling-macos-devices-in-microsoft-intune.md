@@ -9,23 +9,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 71174bae-870a-4d5b-856b-891a054cf61e
-ms.openlocfilehash: 787037983d026fa159fc64f2f0bfc283462c291e
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "781"
+- "6200002"
+ms.openlocfilehash: c4c9f87c1a5aaa995ad0f277d44c73fd17cf39d1
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32420305"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35353595"
 ---
 # <a name="troubleshoot-issues-with-enrolling-macos-devices-in-microsoft-intune"></a>Gỡ rối các vấn đề với đăng ký thiết bị macOS trong Microsoft Intune
 
-Xem xét các nguồn tài nguyên được liệt kê dưới đây để giải quyết vấn đề của bạn bây giờ. 
+Xem xét các nguồn tài nguyên được liệt kê dưới đây để giải quyết vấn đề của bạn bây giờ.
   
-1. Sử dụng [Cổng thông tin khắc phục sự cố dành](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) để chẩn đoán và giải quyết chung đăng ký thất bại. Xem lại [tài liệu này](https://docs.microsoft.com/intune/help-desk-operators) cho biết thêm chi tiết. 
-    
-2. Xem lại [tài liệu này](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune) cho một danh sách các lỗi phổ biến mà ngăn chặn ghi danh và độ phân giải cho mỗi. 
-    
+1. Sử dụng [Cổng thông tin khắc phục sự cố dành](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) để chẩn đoán và giải quyết chung đăng ký thất bại. Xem lại [tài liệu này](https://docs.microsoft.com/intune/help-desk-operators) cho biết thêm chi tiết.
+
+2. Xem lại [tài liệu này](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune) cho một danh sách các lỗi phổ biến mà ngăn chặn ghi danh và độ phân giải cho mỗi.
+
 3. [Tìm hiểu làm thế nào để ghi danh macOS thiết bị trong Microsoft dành](https://docs.microsoft.com/intune/macos-enroll).
-    
+
 [Kiểm tra người dùng cuối hướng dẫn để đăng ký thiết bị macOS trong Microsoft Intune](https://docs.microsoft.com/intune-user-help/enroll-your-device-in-intune-macos-cp)
   
-

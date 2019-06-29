@@ -1,41 +1,43 @@
 ---
 title: DLP quy tắc cho chúng tôi tài khoản ngân hàng số không làm việc
-ms.author: cmcatee
-author: cmcatee-MSFT
-manager: mnirkhe
+ms.author: deniseb
+author: denisebmsft
+manager: laurawi
 ms.date: 11/5/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "1287"
+- "3200001"
 ms.assetid: 80b40145-8376-4c3a-8d22-6efb9f9cb271
-ms.openlocfilehash: 9ebfa6bc09cef9ab7c30bddb4fcb8b6be3ab55a5
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 83050b05cffacd3e81d34f05383c213eb0042fae
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32404303"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35389491"
 ---
-Bạn đang gặp vấn đề với **Công tác phòng chống mất mát dữ liệu (DLP)** không làm việc cho nội dung có chứa một **Số tài khoản ngân hàng của Mỹ** khi sử dụng một loại thông tin nhạy cảm DLP trong O365? Nếu vậy, hãy chắc chắn rằng nội dung của bạn sẽ chứa các thông tin cần thiết cho những gì chính sách DLP tìm kiếm khi nó được đánh giá. 
+Bạn đang gặp vấn đề với **Công tác phòng chống mất mát dữ liệu (DLP)** không làm việc cho nội dung có chứa một **Số tài khoản ngân hàng của Mỹ** khi sử dụng một loại thông tin nhạy cảm DLP trong O365? Nếu vậy, hãy chắc chắn rằng nội dung của bạn sẽ chứa các thông tin cần thiết cho những gì chính sách DLP tìm kiếm khi nó được đánh giá.
   
-Ví dụ, đối với một **Số tài khoản ngân hàng Mỹ** chính sách được cấu hình với mức độ tin cậy là 85%, sau đây được đánh giá và phải được phát hiện cho quy tắc để kích hoạt: 
+Ví dụ, đối với một **Số tài khoản ngân hàng Mỹ** chính sách được cấu hình với mức độ tin cậy là 85%, sau đây được đánh giá và phải được phát hiện cho quy tắc để kích hoạt:
   
-- **[Định dạng:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#format-77)** chữ số 8-17 
-    
-- **[Mẫu:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-77)** chữ số liên tục 8-17. 
-    
-- **[Kiểm tra:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#checksum-76)** Không, đó là không có kiểm tra 
-    
-- **[Định nghĩa:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)** Một chính sách DLP là 75% tự tin rằng nó đã phát hiện đây là loại thông tin nhạy cảm nếu, trong vòng một gần 300 ký tự: 
-    
+- **[Định dạng:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#format-77)** chữ số 8-17
+
+- **[Mẫu:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-77)** chữ số liên tục 8-17.
+
+- **[Kiểm tra:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#checksum-76)** Không, đó là không có kiểm tra
+
+- **[Định nghĩa:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)** Một chính sách DLP là 75% tự tin rằng nó đã phát hiện đây là loại thông tin nhạy cảm nếu, trong vòng một gần 300 ký tự:
+
   - Biểu hiện thường xuyên Regex_usa_bank_account_number tìm thấy nội dung phù hợp với các mô hình
-    
+
   - Tìm thấy một từ khóa từ Keyword_usa_Bank_Account.
-    
-    Ví dụ, các mẫu sau sẽ kích hoạt chính sách **Hoa Kỳ tài khoản ngân hàng số** : kiểm tra tài khoản 78344011 
-    
+
+    Ví dụ, các mẫu sau sẽ kích hoạt chính sách **Hoa Kỳ tài khoản ngân hàng số** : kiểm tra tài khoản 78344011
+
 Để biết thêm chi tiết về những gì là cần thiết cho một **Số tài khoản ngân hàng của Mỹ** để được phát hiện cho nội dung của bạn, hãy xem phần sau đây trong bài viết này: [Những gì the nhạy cảm loại thông tin tìm kiếm các số tài khoản ngân hàng Mỹ](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#us-bank-account-number)
   
 Bằng cách sử dụng một loại thông tin nhạy cảm khác nhau được xây dựng trong, xem bài viết sau đây để có thông tin về những gì là cần thiết cho các loại khác: [những gì the nhạy cảm loại thông tin tìm kiếm](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)
   
-
