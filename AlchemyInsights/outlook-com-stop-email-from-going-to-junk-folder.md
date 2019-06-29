@@ -1,26 +1,34 @@
 ---
-title: Outlook.com dừng thư từ đi vào thư mục rác
+title: Ngăn chặn các tin nhắn từ đi vào thư mục thư rác Email Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/21/2019
+ms.date: 5/16/2019
 ms.audience: Admin
 ms.topic: article
-ms.custom: 9000290
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: a45058474722af57b772cf6637195aa475faa045
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1897"
+- "9000290"
+ms.openlocfilehash: 835efcaa5b86feb38285f51aaea492cfefd8e339
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32373266"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35371815"
 ---
-# <a name="stop-messages-going-to-your-junk-email-folder"></a>Ngăn chặn thư đi thư mục thư rác Email của bạn
+# <a name="stop-messages-from-going-to-your-junk-email-folder"></a>Ngăn chặn các tin nhắn từ đi vào thư mục thư rác Email
 
-Nếu bạn phát hiện ra rằng một thư email trong thư mục thư rác đã không spam hoặc thư rác:
+Nếu bạn phát hiện ra rằng một thư email trong thư mục thư rác không phải rác:
 
-1. Mở [thư mục thư rác Email](https://outlook.live.com/mail/junkemail) của bạn và chọn tin nhắn. (Các khoản mục trong thư mục thư rác Email của bạn sẽ bị xóa sau 30 ngày.)
+1. Mở [thư mục thư rác Email](https://outlook.live.com/mail/junkemail)của bạn.
+1. Chọn tin nhắn. (*Lưu ý:* các mục trong thư mục thư rác Email của bạn sẽ bị xóa sau 30 ngày.)
 1. Trên danh sách thư, hãy chọn **không rác** > **không phải rác**.
+
+Nếu bạn muốn ngăn chặn bất kỳ thông điệp nào từ người gửi đi vào thư mục thư rác Email, thêm người gửi vào danh sách người gửi an toàn:
+
 1. Mở của bạn [cài đặt email rác](https://go.microsoft.com/fwlink/?linkid=2035804).
-1. Theo **người gửi an toàn**, nhập địa chỉ email hoặc tên miền bạn muốn thêm và chọn **Thêm**. Gửi email từ địa chỉ hoặc tên miền trên người gửi an toàn danh sách không có được chuyển đến thư mục Email rác của bạn.
+1. **Người gửi an toàn và tên miền**, chọn **Thêm**, nhập địa chỉ email hoặc tên miền bạn muốn thêm và chọn **lưu**.
+
+Để tìm hiểu thêm, đọc [đánh dấu các email như là người gửi thư rác hoặc khối trong Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4).

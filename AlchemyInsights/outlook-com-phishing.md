@@ -1,27 +1,29 @@
 ---
-title: Lừa đảo trực tuyến Outlook.com
+title: Đối phó với sự giả mạo trong Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/21/2019
+ms.date: 6/3/2019
 ms.audience: Admin
 ms.topic: article
-ms.custom: 9000289
+ms.custom:
+- "1895"
+- "9000289"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 5543ff98408b394ad77bbe462b80207f12b30702
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 0551eb86016b572796a789e6e82fd4c46274bea7
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32393671"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35373579"
 ---
-# <a name="how-to-deal-with-phishing-email-in-outlookcom"></a>Làm thế nào để đối phó với các email lừa đảo trong Outlook.com
+# <a name="how-to-deal-with-a-phishing-email"></a>Làm thế nào để đối phó với một email lừa đảo
 
-Một scam lừa đảo là email đó có vẻ hợp pháp, nhưng là một nỗ lực để có được thông tin cá nhân của bạn hoặc ăn cắp tiền của bạn. Kẻ xấu cũng có thể sử dụng một kỹ thuật được gọi là giả mạo để làm cho nó xuất hiện như là nếu bạn đã nhận được một email từ bản thân bạn.
+Một scam lừa đảo là email đó sẽ xuất hiện hợp pháp, nhưng thực sự là một cố gắng để ăn cắp thông tin cá nhân hoặc tiền của bạn. Kẻ xấu cũng có thể sử dụng một kỹ thuật được gọi là giả mạo để làm cho nó xuất hiện như là nếu bạn đã nhận được một email từ bản thân bạn.
 
-Nếu bạn nhận được một email mà trông giống như một scam lừa đảo trực tuyến, bạn có thể báo cáo bằng cách chọn thư và sau đó chọn **rác** > **lừa đảo** > **báo cáo**.
+Nếu bạn nhận được một email mà trông giống như một scam lừa đảo trực tuyến, bạn có thể báo cáo bằng cách chọn thư và sau đó chọn **rác** > **lừa đảo**.
 
-Khi bạn đánh dấu một thư là lừa đảo, nó chỉ báo cáo gửi.Nó không chặn người gửi đó gửi cho bạn tin nhắn trong tương lai. Để chặn người gửi, bạn cần phải thêm người gửi vào danh sách người gửi bị chặn của bạn. Để biết thêm chi tiết, hãy xem [chặn người gửi hoặc bỏ chặn người gửi trong Outlook.com](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e).
+*Lưu ý:* Khi bạn đánh dấu một thư là lừa đảo, nó chỉ báo cáo gửi.Nó không chặn người gửi đó gửi cho bạn tin nhắn trong tương lai. Để chặn người gửi, bạn cần phải thêm người gửi vào danh sách người gửi bị chặn của bạn. Để biết thêm chi tiết, hãy xem [chặn người gửi hoặc bỏ chặn người gửi trong Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4).
 
-Tìm hiểu thêm về làm thế nào để [đối phó với lạm dụng, lừa đảo, hoặc giả mạo trong Outlook.com](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3) và [Outlook.com nâng cao bảo mật cho các thuê bao Office 365](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2).
+Tìm hiểu về làm thế nào để [đối phó với lạm dụng, lừa đảo, hoặc giả mạo trong Outlook.com](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3) và [Outlook.com bảo mật chuyên sâu cho các thuê bao Office 365](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2).
