@@ -9,28 +9,29 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "433"
+- "1500001"
 ms.assetid: c8f2a1a1-9704-4d08-ba60-d836b9a5f981
-ms.openlocfilehash: 95a08b58912340ed5cd3261576ef679d1574cc56
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 2afff350b0d55f8c6962963b65a159ad4dcf76b0
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32400261"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35386215"
 ---
-# <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a><span data-ttu-id="bfd43-102">Làm thế nào để thay đổi từ thẻ tín dụng thanh toán cho các hóa đơn?</span><span class="sxs-lookup"><span data-stu-id="bfd43-102">How do I change from credit card payments to invoice?</span></span>
+# <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a><span data-ttu-id="84a6e-102">Làm thế nào để thay đổi từ thẻ tín dụng thanh toán cho các hóa đơn?</span><span class="sxs-lookup"><span data-stu-id="84a6e-102">How do I change from credit card payments to invoice?</span></span>
 
 > [!NOTE]
-> <span data-ttu-id="bfd43-103">Tùy chọn thanh toán của hóa đơn là chỉ khả dụng nếu đăng ký Office 365 của bạn chi phí hơn một số tiền nhất định (mà thay đổi theo vị trí của dịch vụ).</span><span class="sxs-lookup"><span data-stu-id="bfd43-103">The option to pay by invoice is only available if your Office 365 subscription costs over a certain amount (which varies by service location).</span></span> <span data-ttu-id="bfd43-104">Một kiểm tra tín dụng có thể được yêu cầu thanh toán hóa đơn lớn hơn.</span><span class="sxs-lookup"><span data-stu-id="bfd43-104">A credit check might be required for larger invoice payments.</span></span> <span data-ttu-id="bfd43-105">Để tìm hiểu thêm, hãy xem [trả tiền của bạn-Office 365 Beta dành cho doanh nghiệp đăng ký](https://support.office.com/article/734f4aab-df2d-4e9b-8cb1-691910bde216).</span><span class="sxs-lookup"><span data-stu-id="bfd43-105">To learn more, see [Pay for your Office 365 for business subscription](https://support.office.com/article/734f4aab-df2d-4e9b-8cb1-691910bde216).</span></span> 
+> <span data-ttu-id="84a6e-103">Tùy chọn thanh toán của hóa đơn là chỉ khả dụng nếu đăng ký Office 365 của bạn chi phí hơn một số tiền nhất định (mà thay đổi theo vị trí của dịch vụ).</span><span class="sxs-lookup"><span data-stu-id="84a6e-103">The option to pay by invoice is only available if your Office 365 subscription costs over a certain amount (which varies by service location).</span></span> <span data-ttu-id="84a6e-104">Một kiểm tra tín dụng có thể được yêu cầu thanh toán hóa đơn lớn hơn.</span><span class="sxs-lookup"><span data-stu-id="84a6e-104">A credit check might be required for larger invoice payments.</span></span> <span data-ttu-id="84a6e-105">Để tìm hiểu thêm, hãy xem [trả tiền của bạn-Office 365 Beta dành cho doanh nghiệp đăng ký](https://support.office.com/article/734f4aab-df2d-4e9b-8cb1-691910bde216).</span><span class="sxs-lookup"><span data-stu-id="84a6e-105">To learn more, see [Pay for your Office 365 for business subscription](https://support.office.com/article/734f4aab-df2d-4e9b-8cb1-691910bde216).</span></span>
   
-1. <span data-ttu-id="bfd43-106">Trong Trung tâm quản trị, hãy vào trang [đăng ký](https://go.microsoft.com/fwlink/p/?linkid=842054) , hoặc lựa chọn **thanh toán** \> **mục đăng ký**.</span><span class="sxs-lookup"><span data-stu-id="bfd43-106">In the Admin Center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.</span></span>
-    
-2. <span data-ttu-id="bfd43-107">Chọn các thuê bao mà bạn muốn thay đổi.</span><span class="sxs-lookup"><span data-stu-id="bfd43-107">Choose the subscription that you want to change.</span></span> <span data-ttu-id="bfd43-108">Trong phần **phương thức thanh toán** , chọn **thay đổi chi tiết thanh toán**.</span><span class="sxs-lookup"><span data-stu-id="bfd43-108">In the **Payment method** section, choose **Change payment details**.</span></span>
-    
-3. <span data-ttu-id="bfd43-109">Trong cửa sổ **thay đổi chi tiết thanh toán** , chọn **thay đổi phương thức thanh toán của bạn**.</span><span class="sxs-lookup"><span data-stu-id="bfd43-109">In the **Change payment details** pane, choose **Change your payment method**.</span></span>
-<br><span data-ttu-id="bfd43-110">*Lưu ý: Nếu các liên kết **thay đổi phương thức thanh toán của bạn** không hiển thị, nó có nghĩa rằng chuyển đổi từ thẻ tín dụng hoặc tài khoản ngân hàng để hóa đơn không có sẵn cho đăng ký bởi vì việc đăng ký không đáp ứng các số tiền tối thiểu chi phí cho các thanh toán của hóa đơn. Số tiền chi phí tối thiểu bắt buộc phải được lập hoá đơn của hóa đơn thay đổi theo vị trí địa lý.*</span><span class="sxs-lookup"><span data-stu-id="bfd43-110">*NOTE: If the **Change your payment method** link isn't displayed, it means that switching from credit card or bank account to invoice isn't available for the subscription because the subscription doesn't meet the minimum cost amount for billing by invoice. The minimum cost amount required to be billed by invoice varies by geographic location.*</span></span>
+1. <span data-ttu-id="84a6e-106">Trong Trung tâm quản trị, hãy vào trang [đăng ký](https://go.microsoft.com/fwlink/p/?linkid=842054) , hoặc lựa chọn **thanh toán** \> **mục đăng ký**.</span><span class="sxs-lookup"><span data-stu-id="84a6e-106">In the Admin Center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.</span></span>
+
+2. <span data-ttu-id="84a6e-107">Chọn các thuê bao mà bạn muốn thay đổi.</span><span class="sxs-lookup"><span data-stu-id="84a6e-107">Choose the subscription that you want to change.</span></span> <span data-ttu-id="84a6e-108">Trong phần **phương thức thanh toán** , chọn **thay đổi chi tiết thanh toán**.</span><span class="sxs-lookup"><span data-stu-id="84a6e-108">In the **Payment method** section, choose **Change payment details**.</span></span>
+
+3. <span data-ttu-id="84a6e-109">Trong cửa sổ **thay đổi chi tiết thanh toán** , chọn **thay đổi phương thức thanh toán của bạn**.</span><span class="sxs-lookup"><span data-stu-id="84a6e-109">In the **Change payment details** pane, choose **Change your payment method**.</span></span>
+<br><span data-ttu-id="84a6e-110">*Lưu ý: Nếu các liên kết **thay đổi phương thức thanh toán của bạn** không hiển thị, nó có nghĩa rằng chuyển đổi từ thẻ tín dụng hoặc tài khoản ngân hàng để hóa đơn không có sẵn cho đăng ký bởi vì việc đăng ký không đáp ứng các số tiền tối thiểu chi phí cho các thanh toán của hóa đơn. Số tiền chi phí tối thiểu bắt buộc phải được lập hoá đơn của hóa đơn thay đổi theo vị trí địa lý.*</span><span class="sxs-lookup"><span data-stu-id="84a6e-110">*NOTE: If the **Change your payment method** link isn't displayed, it means that switching from credit card or bank account to invoice isn't available for the subscription because the subscription doesn't meet the minimum cost amount for billing by invoice. The minimum cost amount required to be billed by invoice varies by geographic location.*</span></span>
   
-4. <span data-ttu-id="bfd43-111">Trong các \*\* thay đổi phương thức thanh toán của bạn \*\* hộp thoại, chọn **tiếp tục**.</span><span class="sxs-lookup"><span data-stu-id="bfd43-111">In the \*\* Change your payment method \*\* dialog box, choose **Continue**.</span></span>
-    
-5. <span data-ttu-id="bfd43-112">Chọn **OK** để trở về Trung tâm quản trị.</span><span class="sxs-lookup"><span data-stu-id="bfd43-112">Choose **OK** to return to the Admin center.</span></span> 
-   
+4. <span data-ttu-id="84a6e-111">Trong hộp thoại **thay đổi phương thức thanh toán của bạn** , chọn **tiếp tục**.</span><span class="sxs-lookup"><span data-stu-id="84a6e-111">In the **Change your payment method** dialog box, choose **Continue**.</span></span>
+
+5. <span data-ttu-id="84a6e-112">Chọn **OK** để trở về Trung tâm quản trị.</span><span class="sxs-lookup"><span data-stu-id="84a6e-112">Choose **OK** to return to the Admin center.</span></span>

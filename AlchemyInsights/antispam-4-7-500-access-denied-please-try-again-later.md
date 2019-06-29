@@ -8,17 +8,19 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 1051
+ms.custom:
+- "1051"
+- "3100024"
 ms.assetid: 5b195ea9-028b-42a8-8b39-e19797a00d8e
-ms.openlocfilehash: c48007d1d151d4fc6e7e68ae530a8bb9f1985e90
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 79658dbc0ed3e902494d3e57c0c9623260901b89
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34755585"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35356979"
 ---
-# <a name="47500-access-denied-please-try-again-later"></a><span data-ttu-id="8cc55-102">4.7.500 truy cập từ chối, xin vui lòng thử lại sau</span><span class="sxs-lookup"><span data-stu-id="8cc55-102">4.7.500 Access denied, please try again later</span></span>
+# <a name="47500-access-denied-please-try-again-later"></a><span data-ttu-id="a8518-102">4.7.500 truy cập từ chối, xin vui lòng thử lại sau</span><span class="sxs-lookup"><span data-stu-id="a8518-102">4.7.500 Access denied, please try again later</span></span>
 
-<span data-ttu-id="8cc55-103">Lỗi này xảy ra khi khối lượng lưu lượng truy cập thư điện tử từ địa chỉ IP nguồn vượt quá giới hạn dựa trên danh tiếng (hoặc thiếu uy tín) của địa chỉ IP nguồn.</span><span class="sxs-lookup"><span data-stu-id="8cc55-103">This error occurs when the volume of email traffic from the source IP address exceeds the limit based on the reputation (or lack of reputation) of source IP address.</span></span>
+<span data-ttu-id="a8518-103">Lỗi này xảy ra khi khối lượng lưu lượng truy cập thư điện tử từ địa chỉ IP nguồn vượt quá giới hạn dựa trên danh tiếng (hoặc thiếu uy tín) của địa chỉ IP nguồn.</span><span class="sxs-lookup"><span data-stu-id="a8518-103">This error occurs when the volume of email traffic from the source IP address exceeds the limit based on the reputation (or lack of reputation) of source IP address.</span></span>
 
-<span data-ttu-id="8cc55-104">Chặn email từ các nguồn địa chỉ IP sẽ hết hạn trong vòng một giờ.</span><span class="sxs-lookup"><span data-stu-id="8cc55-104">Blocking email from the source IP address will expire within an hour.</span></span> <span data-ttu-id="8cc55-105">Nếu địa chỉ IP của nguồn là một máy chủ email tại chỗ thuộc về bạn, kiểm tra lại cấu hình kết nối luồng thư.</span><span class="sxs-lookup"><span data-stu-id="8cc55-105">If the source IP address is an on-premises email server that belongs to you, verify the configuration of the mail flow connector.</span></span> <span data-ttu-id="8cc55-106">Nếu hành vi tiếp tục cho hơn một giờ, liên hệ với hỗ trợ cho yêu cầu ngoại lệ cho địa chỉ IP của nguồn.</span><span class="sxs-lookup"><span data-stu-id="8cc55-106">If the behavior continues for more than an hour, contact support to request an exception for the source IP address.</span></span>
+<span data-ttu-id="a8518-104">Chặn email từ các nguồn địa chỉ IP sẽ hết hạn trong vòng một giờ.</span><span class="sxs-lookup"><span data-stu-id="a8518-104">Blocking email from the source IP address will expire within an hour.</span></span> <span data-ttu-id="a8518-105">Nếu địa chỉ IP của nguồn là một máy chủ email tại chỗ thuộc về bạn, kiểm tra lại cấu hình kết nối luồng thư.</span><span class="sxs-lookup"><span data-stu-id="a8518-105">If the source IP address is an on-premises email server that belongs to you, verify the configuration of the mail flow connector.</span></span> <span data-ttu-id="a8518-106">Nếu hành vi tiếp tục cho hơn một giờ, liên hệ với hỗ trợ cho yêu cầu ngoại lệ cho địa chỉ IP của nguồn.</span><span class="sxs-lookup"><span data-stu-id="a8518-106">If the behavior continues for more than an hour, contact support to request an exception for the source IP address.</span></span>
