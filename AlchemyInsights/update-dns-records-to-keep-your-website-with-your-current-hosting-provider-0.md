@@ -9,41 +9,42 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "42"
+- "43"
+- "100002"
 ms.assetid: 48251355-7383-4fdc-a1e1-9dc2c85a8d29
-ms.openlocfilehash: f2cdb319e56b82c09b7a9856c81a45e69dee6759
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 62f49038cf541c2185ed6a60c6cb58fe2889342d
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32423745"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35353199"
 ---
 # <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>Cập Nhật bản ghi DNS để giữ cho trang web của bạn với nhà cung cấp lưu trữ hiện hành
 
-1. Trên trang [miền](https://portal.office.com/adminportal/home#/Domains) , trong danh sách các tên miền, chọn tên miền bạn đang sử dụng cho trang web của bạn, và sau đó chọn **cài đặt DNS** trong cửa sổ quản lý. 
-    
-2. Chọn **+ ghi tùy chỉnh mới** và nhập thông tin sau: 
-    
+1. Trên trang [miền](https://portal.office.com/adminportal/home#/Domains) , trong danh sách các tên miền, chọn tên miền bạn đang sử dụng cho trang web của bạn, và sau đó chọn **cài đặt DNS** trong cửa sổ quản lý.
+
+2. Chọn **+ ghi tùy chỉnh mới** và nhập thông tin sau:
+
   - **DNS** loại nhập: **(địa chỉ)**
-    
+
   - Đối với **tên máy chủ hoặc bí danh**, gõ như sau:**@**
-    
-  - Đối với **Địa chỉ IP**, gõ địa chỉ IP tĩnh cho trang web của bạn nơi mà nó hiện đang được tổ chức (ví dụ, 172.16.140.1). 
-    
-    Điều này phải có một địa chỉ IP *tĩnh* cho trang web, không phải là một địa chỉ IP *động* . Kiểm tra với các trang web mà trang web của bạn được lưu trữ để đảm bảo rằng bạn có thể nhận được một địa chỉ IP tĩnh cho trang web công cộng của bạn. 
-    
-3. Chọn **lưu**. 
-    
+
+  - Đối với **Địa chỉ IP**, gõ địa chỉ IP tĩnh cho trang web của bạn nơi mà nó hiện đang được tổ chức (ví dụ, 172.16.140.1).
+
+    Điều này phải có một địa chỉ IP *tĩnh* cho trang web, không phải là một địa chỉ IP *động* . Kiểm tra với các trang web mà trang web của bạn được lưu trữ để đảm bảo rằng bạn có thể nhận được một địa chỉ IP tĩnh cho trang web công cộng của bạn.
+
+3. Chọn **lưu**.
+
 Ngoài ra, bạn có thể tạo bản ghi CNAME để giúp khách hàng tìm thấy trang web của bạn.
   
-1. Chọn **+ ghi tùy chỉnh mới** và nhập thông tin sau: 
-    
-  - **DNS** loại nhập: **CNAME (bí danh)**
-    
-  - Đối với **tên máy chủ hoặc bí danh**, gõ như sau: **www**
-    
-  - Cho **điểm đến địa chỉ**, hãy nhập tên miền đủ điều kiện (FQDN) cho trang web của bạn (ví dụ: contoso.com). 
-    
-2. Chọn **lưu**. 
-    
+1. Chọn **+ ghi tùy chỉnh mới** và nhập thông tin sau:
 
+  - **DNS** loại nhập: **CNAME (bí danh)**
+
+  - Đối với **tên máy chủ hoặc bí danh**, gõ như sau: **www**
+
+  - Cho **điểm đến địa chỉ**, hãy nhập tên miền đủ điều kiện (FQDN) cho trang web của bạn (ví dụ: contoso.com).
+
+2. Chọn **lưu**.

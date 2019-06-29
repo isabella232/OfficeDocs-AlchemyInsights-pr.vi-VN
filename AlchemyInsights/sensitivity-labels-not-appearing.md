@@ -9,12 +9,15 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: ffb31ee0910ec41fca5a6ac69b98805023828097
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.custom:
+- "1778"
+- "9000181"
+ms.openlocfilehash: 7336a6603b160a43b71e722487728df9af3e15b4
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34770795"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35355755"
 ---
 # <a name="sensitivity-labels-not-appearing"></a>Độ nhạy nhãn không xuất hiện
 
@@ -25,8 +28,7 @@ Nếu bạn cấu hình nhãn nhạy cảm của bạn, nhưng họ không xuấ
 - Xác nhận rằng nhãn hiệu nhạy cảm đã là [xuất bản](https://docs.microsoft.com/Office365/SecurityCompliance/sensitivity-labels#what-label-policies-can-do) để người dùng và các nhóm mà bạn muốn.
 
 - Xác nhận rằng người dùng đang sử dụng một ứng dụng hỗ trợ độ nhạy nhãn - xem [độ nhạy nhãn trong tài liệu của bạn](https://support.office.com/article/apply-sensitivity-labels-to-your-documents-and-email-within-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?ad=US&ui=en-US&rs=en-US#bkmk_whereavailable).
- 
- 
+
 - Nếu bạn đang [di chuyển bảo vệ thông tin Azure nhãn](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels), được nhận thức của cân nhắc được liệt kê [ở đây](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#considerations-for-unified-labels).
 
 - Công tác phòng chống mất mát dữ liệu (DLP) hỗ trợ: hiện nay, chỉ lưu giữ nhãn có thể được sử dụng như là một điều kiện trong DLP chính sách.  Hỗ trợ độ nhạy nhãn trong một chính sách DLP là không có sẵn nào được nêu ra, nhưng chúng tôi đang làm việc trên nó.

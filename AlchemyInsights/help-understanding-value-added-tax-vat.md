@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "435"
+- "1500005"
 ms.assetid: 3bb6fce9-2072-4380-9c05-6aad40792eea
-ms.openlocfilehash: fa174850f1e2810a2d38833f5dca4360ee53d4be
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 314eed3875d50cee87c7271bfbdba174bed8fb93
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32400334"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35386359"
 ---
 # <a name="help-understanding-value-added-tax-vat"></a>Giúp hiểu biết giá trị thuế (VAT)
 
@@ -24,6 +26,5 @@ Nếu bạn đang ở trong một quốc gia sử dụng giá trị thuế (VAT)
   
 Vì lý do thuế, bạn cũng phải xác định số đăng ký thuế VAT của bạn trong cài đặt cho đơn.
   
-Bạn không thể thêm hoặc loại bỏ các tỷ lệ thuế GTGT, nhưng bạn có thể thay đổi mặc định tỷ lệ thuế GTGT trong cài đặt. Theo mặc định, đơn sử dụng một dịch vụ để xác nhận số điện thoại đăng ký thuế VAT, nhưng chúng tôi đề nghị bạn đọc [VIES tuyên bố từ chối](https://go.microsoft.com/fwlink/?LinkID=841741) xuất bản bởi Ủy ban châu Âu. Nếu bạn chọn để vô hiệu hoá dịch vụ, bạn phải xác minh tất cả các số điện thoại đăng ký thuế GTGT. 
+Bạn không thể thêm hoặc loại bỏ các tỷ lệ thuế GTGT, nhưng bạn có thể thay đổi mặc định tỷ lệ thuế GTGT trong cài đặt. Theo mặc định, đơn sử dụng một dịch vụ để xác nhận số điện thoại đăng ký thuế VAT, nhưng chúng tôi đề nghị bạn đọc [VIES tuyên bố từ chối](https://go.microsoft.com/fwlink/?LinkID=841741) xuất bản bởi Ủy ban châu Âu. Nếu bạn chọn để vô hiệu hoá dịch vụ, bạn phải xác minh tất cả các số điện thoại đăng ký thuế GTGT.
   
-

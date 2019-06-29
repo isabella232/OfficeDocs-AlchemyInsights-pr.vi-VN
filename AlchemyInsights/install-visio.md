@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "1764"
 - "9000201"
-ms.openlocfilehash: ed36ddd74a4d8a92b1743fe75574993e7de2e193
-ms.sourcegitcommit: a9be2e396022382e92cf40c0d0d82f2f59c2e259
+ms.openlocfilehash: 5d4ee6859fef7cd91630e12eab5a5c7206c13dde
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/12/2019
-ms.locfileid: "34914128"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35381895"
 ---
 # <a name="install-visio"></a>Cài đặt Visio
 
 Visio được bán như là một ứng dụng đứng một mình vì vậy nếu bạn không có nó được nêu ra, [mua hoặc cố gắng Visio](https://products.office.com/visio). 
 
-Nếu bạn có một thuê bao để Visio trực tuyến kế hoạch 2, người dùng sẽ thấy một tùy chọn để cài đặt Visio từ **cài đặt của tôi** tại [cổng thông tin tài khoản của tôi](https://portal.office.com/account#installs) , trừ khi bạn có một [phân công cho họ một giấy phép](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764).
-
 **Lưu ý**: Visio Online kế hoạch 1 không bao gồm một phiên bản máy tính để bàn của Visio, do đó, không có cài đặt là có thể.
 
-Để được hướng dẫn cụ thể cách tải về và cài đặt Visio, hãy xem [Cài đặt Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764). 
+Nếu bạn có một thuê bao để Visio trực tuyến kế hoạch 2, bạn phải [gán giấy phép](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) cho người dùng hoặc họ sẽ không có một tùy chọn để cài đặt Visio từ **cài đặt của tôi** tại [cổng thông tin tài khoản của tôi](https://portal.office.com/account#installs). 
 
-Nếu bạn đã đăng ký/giấy phép hợp lệ và đang chạy vào các vấn đề trong khi thiết lập, hãy thử cài đặt Visio bằng cách sử dụng các [hỗ trợ và phục hồi chương trình hỗ trợ](https://aka.ms/SaRA-VisioSetupScenario).
+Phòng Không-khối lượng giấy phép phiên bản của Visio Standard hoặc Visio Professional được liên kết với tài khoản Microsoft và không thể được quản lý trong Trung tâm quản trị. Để cài đặt các phiên bản này, người dùng phải đăng nhập để [account.microsoft.com](https://account.microsoft.com) bằng tài khoản Microsoft, kết hợp với phiên bản này của Visio.
+
+Để được trợ giúp chi tiết hơn xem [Cài đặt Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) và làm theo các bước cho các phiên bản của Visio.
 
 Để biết thêm thông tin, xem:<br>
 [Hướng dẫn triển khai cho Visio](https://docs.microsoft.com/deployoffice/deployment-guide-for-visio)<br>

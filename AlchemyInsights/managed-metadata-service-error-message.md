@@ -7,13 +7,16 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "1246"
+- "5200021"
 ms.assetid: 15091086-2ac9-4e99-94be-a08a17386e6e
-ms.openlocfilehash: 52c9d772410569adef01ea78bdfb21ab192a70b5
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 49b76cd0b7eb6af3ad4b2f0ea8c38c109d6fff00
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32409136"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35380455"
 ---
 # <a name="managed-metadata-service-error-message"></a>Quản lý thông báo lỗi dịch vụ siêu dữ liệu
 
@@ -21,4 +24,3 @@ Khi bạn mở cửa hàng hạn, bạn có thể thấy thông báo lỗi: "qu�
   
 Nếu nhiều hơn 24 giờ đã trôi qua kể từ khi bạn lần đầu tiên thấy vấn đề này, xin vui lòng đăng nhập một trường hợp hỗ trợ. Chúng tôi hiểu rằng 24 giờ có thể có vẻ giống như một thời gian dài. Trong nhiều trường hợp, chúng tôi đã làm việc trên một giải pháp như vậy xin vui lòng cho chúng tôi ít nhất là 24 giờ.
   
-

@@ -9,32 +9,34 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 1800001
+ms.custom:
+- "626"
+- "1800001"
 ms.assetid: a5c5cf46-d23b-40c7-8983-34fdcbdc02fe
-ms.openlocfilehash: ad29c88bde451695c3e9a915f8452f3ea1a5b1ea
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: dad0ecbacf20d5fc2fd0fa46bcf5a30cff44c58d
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32404987"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35389959"
 ---
+# <a name="delete-a-profile"></a>Xóa một hồ sơ
+
 Để xóa một cấu hình, sử dụng các bước sau đây.
   
 1. Trong Outlook, chọn **File** \> **Cài đặt tài khoản** \> **Quản lý cấu hình**.
-    
-2. Chọn **Hiển thị hồ sơ**.
-    
-3. Trong hộp thoại **thư** , chọn hồ sơ muốn xóa, sau đó bấm **loại bỏ**.
-    
-    > [!NOTE]
-    > Outlook có thể cảnh báo bạn rằng xoá tiểu sử của bạn sẽ xoá dữ liệu ngoại tuyến. Bạn sẽ không mất bất kỳ thông tin nào được lưu trữ trong các tập tin dữ liệu Outlook (.pst), hoặc bất kỳ thông tin lưu trữ trong tài khoản trực tuyến của bạn, ví dụ như Outlook.com, Exchange hoặc Office 365 tài khoản. 
-  
-Nhất ** Outlook dành cho Mac ** hồ sơ quản lý, hãy xem [quản lý hồ sơ hoặc nhận dạng trong Outlook dành cho Mac](https://support.office.com/article/fed2a955-74df-4a24-bef6-78a426958c4c.aspx) hoặc sử dụng các bước sau đây. 
-  
-1. Từ Finder, mở thư mục **ứng dụng** . 
-    
-2. Ctrl + click hoặc nhấp chuột phải vào **Microsoft Outlook**, và sau đó chọn **Hiển thị nội dung đóng gói**.
-    
-3. Chọn **nội dung** \> **Hỗ trợ chia sẻ**, và sau đó khởi động **Outlook Profile Manager**.
-    
 
+2. Chọn **Hiển thị hồ sơ**.
+
+3. Trong hộp thoại **thư** , chọn hồ sơ muốn xóa, sau đó bấm **loại bỏ**.
+
+    > [!NOTE]
+    > Outlook có thể cảnh báo bạn rằng xoá tiểu sử của bạn sẽ xoá dữ liệu ngoại tuyến. Bạn sẽ không mất bất kỳ thông tin nào được lưu trữ trong các tập tin dữ liệu Outlook (.pst), hoặc bất kỳ thông tin lưu trữ trong tài khoản trực tuyến của bạn, ví dụ như Outlook.com, Exchange hoặc Office 365 tài khoản.
+  
+Quản lý hồ sơ **Outlook dành cho Mac** , hãy xem [quản lý hồ sơ hoặc nhận dạng trong Outlook dành cho Mac](https://support.office.com/article/fed2a955-74df-4a24-bef6-78a426958c4c.aspx) hoặc sử dụng các bước sau.
+  
+1. Từ Finder, mở thư mục **ứng dụng** .
+
+2. Ctrl + click hoặc nhấp chuột phải vào **Microsoft Outlook**, và sau đó chọn **Hiển thị nội dung đóng gói**.
+
+3. Chọn **nội dung** \> **Hỗ trợ chia sẻ**, và sau đó khởi động **Outlook Profile Manager**.
