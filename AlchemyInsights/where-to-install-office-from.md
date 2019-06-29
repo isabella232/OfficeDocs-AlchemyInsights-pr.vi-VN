@@ -8,13 +8,16 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "913"
+- "2000023"
 ms.assetid: caf090c7-4270-4a75-a873-cb8d094dcd82
-ms.openlocfilehash: 4b3bfb9cf38dddf9b6f6482950c752e7c54497f7
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: c77b00bbfba784087c7d35fe45050ba24f6670a1
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32422773"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35365187"
 ---
 # <a name="install-office"></a>Cài đặt Office
 
@@ -23,12 +26,11 @@ ms.locfileid: "32422773"
 Văn phòng sau đó có thể được cài đặt theo các bước dưới đây:
   
 1. Đi đến [portal.office.com/OLS/MySoftware.aspx](https://portal.office.com/OLS/MySoftware.aspx)
-    
+
 2. Trên trang chủ văn phòng, chọn ngôn ngữ bạn muốn và sau đó chọn nâng cao để lựa chọn giữa các phiên bản 64-bit hoặc 32-bit
-    
+
 3. Chọn **cài đặt Office**.
-    
+
 Để biết thêm chi tiết, xem [tải xuống và cài đặt hoặc cài đặt lại các văn phòng trên một máy PC hoặc Mac](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA)
   
 Để được hướng dẫn Visio hoặc dự án cụ thể, hãy xem [Cài đặt Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) hoặc [dự án](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281)
-

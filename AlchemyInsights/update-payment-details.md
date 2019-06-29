@@ -9,33 +9,33 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "428"
+- "1500016"
 ms.assetid: f8d8b8d1-aed2-47df-b9bc-5f71b3c109dd
-ms.openlocfilehash: a20d332a32514e7c7608e825883b9e85f7d1a093
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 471958c764ddeb4e4600005b6d9e6772423e29ac
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32390269"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35366159"
 ---
 # <a name="update-payment-details"></a>Cập Nhật chi tiết thanh toán
 
 1. Trong Trung tâm quản trị, hãy vào trang [phương thức thanh toán](https://go.microsoft.com/fwlink/p/?linkid=2018806) , hoặc lựa chọn **thanh toán** \> **phương thức thanh toán**.
-    
+
     > [!NOTE]
-    > Nếu bạn gặp một vòng lặp sẽ gửi bạn quay lại trang chủ của Admin trước khi cập nhật của bạn được hoàn thành, hãy thử chế độ Inprivate hoặc ẩn danh. 
+    > Nếu bạn gặp một vòng lặp sẽ gửi bạn quay lại trang chủ của Admin trước khi cập nhật của bạn được hoàn thành, hãy thử chế độ Inprivate hoặc ẩn danh.
   
 2. Chọn thẻ tín dụng bạn muốn Cập Nhật.
-    
+
     > [!NOTE]
-    > Nếu một admin thêm phương thức thanh toán, bạn sẽ không thể cập nhật thông tin thẻ tín dụng hoặc tài khoản ngân hàng cho nó. Nếu thẻ tín dụng là hết hạn và các quản trị viên khác không thể cập nhật nó, bạn có thể ngăn ngừa gián đoạn dịch vụ bằng cách thêm một thẻ tín dụng khác hoặc tài khoản ngân hàng mới cho các thuê bao bằng cách chọn **phương thức thanh toán thêm**. 
+    > Nếu một admin thêm phương thức thanh toán, bạn sẽ không thể cập nhật thông tin thẻ tín dụng hoặc tài khoản ngân hàng cho nó. Nếu thẻ tín dụng là hết hạn và các quản trị viên khác không thể cập nhật nó, bạn có thể ngăn ngừa gián đoạn dịch vụ bằng cách thêm một thẻ tín dụng khác hoặc tài khoản ngân hàng mới cho các thuê bao bằng cách chọn **phương thức thanh toán thêm**.
   
 3. Trên trang **chi tiết thanh toán** , lựa chọn **chỉnh sửa chi tiết thanh toán**.
-    
-4. Làm cho các bản Cập Nhật, và sau đó chọn **Save**.
-    
-5. Để loại bỏ các phương thức thanh toán này, chọn **xóa**.
-    
-Để biết thêm chi tiết, hãy xem [Thêm, Cập Nhật hoặc loại bỏ một thẻ tín dụng hoặc tài khoản ngân hàng trong Office 365 Beta dành cho doanh nghiệp](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724) và [gỡ rối thẻ tín dụng và tài khoản ngân hàng](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).
-  
 
+4. Làm cho các bản Cập Nhật, và sau đó chọn **Save**.
+
+5. Để loại bỏ các phương thức thanh toán này, chọn **xóa**.
+
+Để biết thêm chi tiết, hãy xem [Thêm, Cập Nhật hoặc loại bỏ một thẻ tín dụng hoặc tài khoản ngân hàng trong Office 365 Beta dành cho doanh nghiệp](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724) và [gỡ rối thẻ tín dụng và tài khoản ngân hàng](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).
