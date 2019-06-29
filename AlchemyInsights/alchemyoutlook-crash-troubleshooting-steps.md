@@ -9,15 +9,17 @@ ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "377"
+- "1800016"
 ROBOTS: NOINDEX, NOFOLLOW
 ms.assetid: dbd710ec-cdeb-473f-aab4-bdf99de29610
-ms.openlocfilehash: d0e1211e8cdd20b9d3792fda2c50507f7860f466
-ms.sourcegitcommit: 5718d96f30f25619845223e8622ce13b4a52114c
+ms.openlocfilehash: 4c93a542fe4bf615bfa7a2cc0a2ce8e443a4dedc
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/10/2019
-ms.locfileid: "33883149"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35357591"
 ---
 # <a name="outlook-crash-troubleshooting-steps"></a>Tai nạn Outlook bước xử lý sự cố
 
@@ -25,10 +27,9 @@ Nếu bạn đang gặp các vấn đề máy tính tai nạn Outlook, hãy bắ
   
 Bước 1: Điều tra các vấn đề có thể với add-in.
   
-Bước 2: Sửa chữa Outlook và chạy công [cụ hỗ trợ và phục hồi chương trình hỗ trợ để khắc phục sự cố Outlook khởi động lỗi](https://aka.ms/SaRA-OutlookWontStart) trên máy tính bị ảnh hưởng. 
+Bước 2: Sửa chữa Outlook và chạy công [cụ hỗ trợ và phục hồi chương trình hỗ trợ để khắc phục sự cố Outlook khởi động lỗi](https://aka.ms/SaRA-OutlookWontStart) trên máy tính bị ảnh hưởng.
   
-Bước 3: Tạo một hồ sơ Outlook mới hoặc bạn có thể chạy [Outlook hồ sơ công cụ](https://aka.ms/SaRA-OutlookSetupProfile) trên máy tính bị ảnh hưởng. 
+Bước 3: Tạo một hồ sơ Outlook mới hoặc bạn có thể chạy [Outlook hồ sơ công cụ](https://aka.ms/SaRA-OutlookSetupProfile) trên máy tính bị ảnh hưởng.
   
 Nếu vấn đề xảy ra sau khi một bản Cập Nhật và các bước trên không làm việc, bạn có thể cần phải trở lại để xây dựng trước đó. Hãy xem [làm thế nào để hoàn nguyên một phiên bản cũ của Office 2013, Office 2016 bấm vào để chạy](https://support.microsoft.com/help/2770432).
   
-
