@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "472"
+- "1500026"
 ms.assetid: faefe872-1fb6-4a0d-8ea6-3c034a484351
-ms.openlocfilehash: c5a36dab129523d54109f761343ed2adb5ef7f5f
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: f9635956184ed2bb46772b7a2f25c4798a1aa082
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32408274"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35362235"
 ---
 # <a name="compare-office-365-plans"></a>Hãy so sánh các kế hoạch Office 365
 
@@ -26,8 +28,7 @@ Office 365 kế hoạch có sẵn cho [doanh nghiệp](https://products.office.c
   
 Nếu tổ chức của bạn quan tâm đến việc so sánh tất cả các gói và giá cả, hãy xem lại [so sánh tất cả các gói Office 365](https://products.office.com/business/compare-more-office-365-for-business-plans).
   
-Nếu tổ chức của bạn đã mua một kế hoạch Office 365 và quan tâm đến việc chuyển đổi sang một kế hoạch khác nhau bạn có thể như vậy từ Trung tâm quản trị Microsoft 365, hãy vào [mục đăng ký](https://go.microsoft.com/fwlink/p/?linkid=842054), hoặc chọn **thanh toán** \> **mục đăng ký**. Chọn **kế hoạch chuyển đổi** để xem danh sách các kế hoạch mới mà có sẵn. 
+Nếu tổ chức của bạn đã mua một kế hoạch Office 365 và quan tâm đến việc chuyển đổi sang một kế hoạch khác nhau bạn có thể như vậy từ Trung tâm quản trị Microsoft 365, hãy vào [mục đăng ký](https://go.microsoft.com/fwlink/p/?linkid=842054), hoặc chọn **thanh toán** \> **mục đăng ký**. Chọn **kế hoạch chuyển đổi** để xem danh sách các kế hoạch mới mà có sẵn.
   
 Tổ chức của bạn cũng có thể trộn và phù hợp với Office 365 kế hoạch để đáp ứng nhu cầu và tính năng yêu cầu của người dùng. Từ Office 365 Admin, vào trang [Dịch vụ mua hàng](https://go.microsoft.com/fwlink/p/?linkid=868433) , hoặc chọn **thanh toán** \> **Mua dịch vụ**.
   
-

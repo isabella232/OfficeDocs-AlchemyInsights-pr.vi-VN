@@ -9,23 +9,24 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "2008"
+- "9000355"
 ms.assetid: 8e0ec879-3f0e-423b-9d72-5e52fc2b9e0c
-ms.openlocfilehash: 08e882f822411734d69a3c714d4ec8059c6cd60b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 5d3c93a1e78d3481394a39aa484bf2cdd1435be2
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32421226"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35354783"
 ---
 # <a name="manage-your-sharepoint-online-storage"></a>Quản lý lưu trữ SharePoint Online của bạn
 
 Đối với hầu hết các tổ chức, lưu trữ SharePoint quản lý tự động nên bạn không cần phải thiết lập giới hạn cho mỗi bộ sưu tập trang web. Để kiểm tra bao nhiêu lưu trữ SharePoint bạn có:
   
 - Trong Trung tâm quản trị mới SharePoint, ở phía trên bên phải của trang web, tìm kiếm lưu trữ có sẵn và tất cả của bạn.
-    
+
 Để xem thông tin về cách tính giới hạn của bạn, hãy xem [Giới hạn trực tuyến SharePoint](https://go.microsoft.com/fwlink/p/?LinkID=856113). Để mua lưu trữ thêm, hãy xem [thay đổi dung lượng lưu trữ cho các thuê bao của bạn](https://go.microsoft.com/fwlink/?linkid=866428).
   
 Để xem thông tin về giám sát việc lưu trữ các trang web cá nhân bằng cách sử dụng PowerShell và quản lý trang web bộ sưu tập lí theo cách thủ công, xem [quản lý trang web bộ sưu tập giới hạn dung lượng](https://go.microsoft.com/fwlink/?linkid=867833)
   
-

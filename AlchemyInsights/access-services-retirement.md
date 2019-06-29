@@ -6,13 +6,16 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "9000356"
+- "2009"
 ms.assetid: ''
-ms.openlocfilehash: f5a1e88e4443fdf43cdd4f07cf9e784810df7540
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.openlocfilehash: 5f171050479f34077f3dc155bec40437f86b84c0
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34769494"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35359395"
 ---
 # <a name="access-services-retirement"></a>Truy cập vào dịch vụ hưu trí
 
@@ -24,7 +27,7 @@ Bắt đầu từ tháng sáu 2019, chúng tôi sẽ ngừng các sáng tạo m�
 
 **Những gì tôi cần làm để chuẩn bị cho sự thay đổi này?**
 
-Chúng tôi khuyến khích bạn tạo ra một kế hoạch chuyển đổi cho tổ chức của bạn truy cập trang web cơ sở dữ liệu. Quản trị viên có thể sử dụng [SharePoint truy cập ứng dụng quét](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner) để có một hàng tồn kho của các ứng dụng truy cập các trang web đang sử dụng. 
+Chúng tôi khuyến khích bạn tạo ra một kế hoạch chuyển đổi cho tổ chức của bạn truy cập trang web cơ sở dữ liệu. Quản trị viên có thể sử dụng [SharePoint truy cập ứng dụng quét](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner) để có một hàng tồn kho của các ứng dụng truy cập các trang web đang sử dụng.
 
 Có rất nhiều cách để di chuyển các dữ liệu cơ sở dữ liệu truy cập web:
 
