@@ -9,21 +9,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "446"
+- "1500018"
 ms.assetid: 43db851f-f5e5-4849-8222-2c8ac26acb60
-ms.openlocfilehash: adad4b8d16185db033a5405b2b09dc8f72fb221b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 56415e03dedfa607e956a28e8781315aae567f7c
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32422881"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35365144"
 ---
-# <a name="when-is-my-credit-card-charged"></a><span data-ttu-id="a08cf-102">Khi tính phí thẻ tín dụng của tôi?</span><span class="sxs-lookup"><span data-stu-id="a08cf-102">When is my credit card charged?</span></span>
+# <a name="when-is-my-credit-card-charged"></a><span data-ttu-id="f44d3-102">Khi tính phí thẻ tín dụng của tôi?</span><span class="sxs-lookup"><span data-stu-id="f44d3-102">When is my credit card charged?</span></span>
 
-<span data-ttu-id="a08cf-103">Với một mua ban đầu, có thể mất tối đa hai ngày cho phí xảy ra.</span><span class="sxs-lookup"><span data-stu-id="a08cf-103">With an initial purchase, it can take up to two days for the charge to occur.</span></span>
+<span data-ttu-id="f44d3-103">Với một mua ban đầu, có thể mất tối đa hai ngày cho phí xảy ra.</span><span class="sxs-lookup"><span data-stu-id="f44d3-103">With an initial purchase, it can take up to two days for the charge to occur.</span></span>
   
-<span data-ttu-id="a08cf-104">Phí xảy ra trong vòng một ngày của hoá đơn được tạo ra.</span><span class="sxs-lookup"><span data-stu-id="a08cf-104">Recurring charges happen within one day of the invoice being created.</span></span>
+<span data-ttu-id="f44d3-104">Phí xảy ra trong vòng một ngày của hoá đơn được tạo ra.</span><span class="sxs-lookup"><span data-stu-id="f44d3-104">Recurring charges happen within one day of the invoice being created.</span></span>
   
-<span data-ttu-id="a08cf-105">Nếu phí là không thành công, Hệ thống sẽ tiếp tục cố gắng để giải quyết sự cân bằng trong vài tuần tiếp theo.</span><span class="sxs-lookup"><span data-stu-id="a08cf-105">If the charge is unsuccessful, the system will continue to attempt to settle the balance over the next few weeks.</span></span> <span data-ttu-id="a08cf-106">Bạn có thể thực hiện cập nhật thông tin thanh toán của bạn bất cứ lúc nào để bảo đảm các nỗ lực phí tiếp theo là thành công.</span><span class="sxs-lookup"><span data-stu-id="a08cf-106">You can make updates to your payment information at any time to insure the next charge attempt is successful.</span></span> <span data-ttu-id="a08cf-107">Để biết thêm chi tiết, hãy xem [Thêm, Cập Nhật hoặc loại bỏ một thẻ tín dụng hoặc tài khoản ngân hàng trong Office 365 Beta dành cho doanh nghiệp](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).</span><span class="sxs-lookup"><span data-stu-id="a08cf-107">For more information, see [Add, update or remove a credit card or bank account in Office 365 for business](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).</span></span>
-  
-
+<span data-ttu-id="f44d3-105">Nếu phí là không thành công, Hệ thống sẽ tiếp tục cố gắng để giải quyết sự cân bằng trong vài tuần tiếp theo.</span><span class="sxs-lookup"><span data-stu-id="f44d3-105">If the charge is unsuccessful, the system will continue to attempt to settle the balance over the next few weeks.</span></span> <span data-ttu-id="f44d3-106">Bạn có thể thực hiện cập nhật thông tin thanh toán của bạn bất cứ lúc nào để bảo đảm các nỗ lực phí tiếp theo là thành công.</span><span class="sxs-lookup"><span data-stu-id="f44d3-106">You can make updates to your payment information at any time to insure the next charge attempt is successful.</span></span> <span data-ttu-id="f44d3-107">Để biết thêm chi tiết, hãy xem [Thêm, Cập Nhật hoặc loại bỏ một thẻ tín dụng hoặc tài khoản ngân hàng trong Office 365 Beta dành cho doanh nghiệp](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).</span><span class="sxs-lookup"><span data-stu-id="f44d3-107">For more information, see [Add, update or remove a credit card or bank account in Office 365 for business](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).</span></span>
