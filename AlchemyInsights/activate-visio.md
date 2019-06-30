@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800"
 - "9000201"
-ms.openlocfilehash: 9a516f6ca1fa351f8484271da0bdc47ba7f12447
-ms.sourcegitcommit: a9be2e396022382e92cf40c0d0d82f2f59c2e259
+ms.openlocfilehash: f74846f805789731305fa321799007c151309033
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/12/2019
-ms.locfileid: "34883182"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35358923"
 ---
 # <a name="activate-visio"></a>Kích hoạt Visio
 
@@ -27,8 +27,8 @@ Trước khi người dùng có thể cài đặt và kích hoạt các ứng d�
 
 Để kích hoạt Visio:
 
-1. [Cài đặt Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800) nếu nó không phải là đã được cài đặt.
-2. Khi cài đặt xong, mở Visio. Trong nhiều trường hợp các ứng dụng kích hoạt tự động và bạn có thể bắt đầu sử dụng Visio ngay lập tức. Nếu được nhắc đăng nhập, hãy đăng nhập bằng cùng một công việc hay tài khoản trường học đã được giao cho một giấy phép Visio. 
+1. Cài đặt Visio từ [cổng thông tin tài khoản của tôi](https://portal.office.com/account#installs) của bạn nếu nó không phải là đã được cài đặt. Để được trợ giúp, hãy xem [Cài đặt Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800).
+2. Khi cài đặt xong, mở ứng dụng Visio. Visio sẽ có khả năng kích hoạt tự động và bạn có thể bắt đầu sử dụng nó ngay lập tức. Nếu không, bạn có thể được nhắc để đăng nhập. Hãy chắc chắn để đăng nhập bằng cùng một công việc hay tài khoản trường học đã được giao cho một giấy phép Visio. Làm theo lời nhắc để tiếp tục với các kích hoạt. 
 
 Để kích hoạt các vấn đề, chạy [trình gỡ rối kích hoạt](https://aka.ms/SARA-OfficeActivation-Alchemy) trên máy tính bị ảnh hưởng.
 
