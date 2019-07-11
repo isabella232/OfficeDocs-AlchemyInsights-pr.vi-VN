@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1819"
 - "9000236"
-ms.openlocfilehash: e9cd0cffaae247ee2442713434c9d8bb256dba19
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 7620537310b48b34124d815d112c9544d91f5283
+ms.sourcegitcommit: 017ab30091ab205b31e62e611443e3ac5feac658
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35377791"
+ms.lasthandoff: 07/10/2019
+ms.locfileid: "35614156"
 ---
 # <a name="add-your-other-email-accounts-to-outlookcom"></a>Thêm tài khoản email khác vào Outlook.com
 
@@ -32,6 +32,6 @@ Thêm một tài khoản đã kết nối:
 
 Bạn có thể gửi email từ bất kỳ tài khoản nào bạn đã kết nối với tài khoản Outlook.com của bạn. Khi soạn email, **chọn** và chọn những địa chỉ email bạn muốn sử dụng, hoặc [Cập Nhật của bạn mặc định địa chỉ](https://go.microsoft.com/fwlink/?linkid=875264).
 
-Để biết thêm chi tiết, đọc [thêm của bạn tài khoản email khác để Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba).
+Để biết thêm chi tiết, đọc [thêm của bạn tài khoản email khác để Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy).
 
-Nếu bạn muốn tạo một địa chỉ email mới mà sử dụng cùng một tài khoản Outlook.com, đọc [thêm/loại bỏ một bí danh email](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2).
+Nếu bạn muốn tạo một địa chỉ email mới mà sử dụng cùng một tài khoản Outlook.com, đọc [thêm/loại bỏ một bí danh email](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).
