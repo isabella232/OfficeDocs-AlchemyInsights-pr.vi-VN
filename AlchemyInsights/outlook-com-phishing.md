@@ -11,12 +11,12 @@ ms.custom:
 - "9000289"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 0551eb86016b572796a789e6e82fd4c46274bea7
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d837096640d951e7fec289440f56b3339caf3680
+ms.sourcegitcommit: 42f0dc9fdf5b93a68b048e8aee2eb9b6cf66a6eb
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35373579"
+ms.lasthandoff: 07/15/2019
+ms.locfileid: "35697321"
 ---
 # <a name="how-to-deal-with-a-phishing-email"></a>Làm thế nào để đối phó với một email lừa đảo
 
@@ -24,6 +24,6 @@ Một scam lừa đảo là email đó sẽ xuất hiện hợp pháp, nhưng th
 
 Nếu bạn nhận được một email mà trông giống như một scam lừa đảo trực tuyến, bạn có thể báo cáo bằng cách chọn thư và sau đó chọn **rác** > **lừa đảo**.
 
-*Lưu ý:* Khi bạn đánh dấu một thư là lừa đảo, nó chỉ báo cáo gửi.Nó không chặn người gửi đó gửi cho bạn tin nhắn trong tương lai. Để chặn người gửi, bạn cần phải thêm người gửi vào danh sách người gửi bị chặn của bạn. Để biết thêm chi tiết, hãy xem [chặn người gửi hoặc bỏ chặn người gửi trong Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4).
+*Lưu ý:* Khi bạn đánh dấu một thư là lừa đảo, nó chỉ báo cáo gửi.Nó không chặn người gửi đó gửi cho bạn tin nhắn trong tương lai. Để chặn người gửi, bạn cần phải thêm người gửi vào danh sách người gửi bị chặn của bạn. Để biết thêm chi tiết, hãy xem [chặn người gửi hoặc bỏ chặn người gửi trong Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
 
-Tìm hiểu về làm thế nào để [đối phó với lạm dụng, lừa đảo, hoặc giả mạo trong Outlook.com](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3) và [Outlook.com bảo mật chuyên sâu cho các thuê bao Office 365](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2).
+Tìm hiểu về làm thế nào để [đối phó với lạm dụng, lừa đảo, hoặc giả mạo trong Outlook.com](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3?wt.mc_id=Office_Outlook_com_Alchemy) và [Outlook.com bảo mật chuyên sâu cho các thuê bao Office 365](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2?wt.mc_id=Office_Outlook_com_Alchemy).

@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.custom:
 - "1840"
 - "9000250"
-ms.openlocfilehash: dc8cbefba8e85fcf19ac09d3c1d469ae0db4bc03
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: fa50002e6ceba625a0db1df407c0e750cd4a69c8
+ms.sourcegitcommit: 42f0dc9fdf5b93a68b048e8aee2eb9b6cf66a6eb
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35390247"
+ms.lasthandoff: 07/15/2019
+ms.locfileid: "35696997"
 ---
 # <a name="outlookcom-updates"></a>Outlook.com Cập Nhật
 
 **Cập Nhật mới nhất**
 
-- Nhận được nhiều hơn từ các email của bạn với Outlook.com mới. Chúng tôi đã sắp xếp hợp lý các tìm kiếm để làm cho nó dễ dàng hơn bao giờ hết để tìm thấy những gì bạn đang tìm kiếm. Các tính năng mới như hình ảnh và xem trước tập tin đính kèm cho phép bạn xem hình ảnh và tập tin của bạn mà không cần rời khỏi hộp thư của bạn. Và bây giờ bạn có thể thêm emojis và GIFs tin nhắn của bạn.  [Tìm hiểu thêm về mới Outlook.com.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d)
+- Nhận được nhiều hơn từ các email của bạn với Outlook.com mới. Chúng tôi đã sắp xếp hợp lý các tìm kiếm để làm cho nó dễ dàng hơn bao giờ hết để tìm thấy những gì bạn đang tìm kiếm. Các tính năng mới như hình ảnh và xem trước tập tin đính kèm cho phép bạn xem hình ảnh và tập tin của bạn mà không cần rời khỏi hộp thư của bạn. Và bây giờ bạn có thể thêm emojis và GIFs tin nhắn của bạn.  [Tìm hiểu thêm về mới Outlook.com.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
 
 **Email Cập Nhật**
 
-- Nếu hộp thư Outlook.com của bạn không Cập Nhật, xem [vấn đề đồng bộ email Outlook.com sửa chữa](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642).
+- Nếu hộp thư Outlook.com của bạn không Cập Nhật, xem [vấn đề đồng bộ email Outlook.com sửa chữa](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642?wt.mc_id=Office_Outlook_com_Alchemy).

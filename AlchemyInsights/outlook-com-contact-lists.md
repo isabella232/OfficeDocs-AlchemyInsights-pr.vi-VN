@@ -11,12 +11,12 @@ ms.custom:
 - "9000258"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 979047010dee0bb5908fe9f2c9f5897f82ba0c67
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 59b4845833a8d4a50772d54852f500e2b8c8e2f6
+ms.sourcegitcommit: 42f0dc9fdf5b93a68b048e8aee2eb9b6cf66a6eb
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35375703"
+ms.lasthandoff: 07/15/2019
+ms.locfileid: "35697033"
 ---
 # <a name="organizing-your-outlookcom-mailbox"></a>Tổ chức các hộp thư Outlook.com của bạn
 
@@ -27,4 +27,4 @@ Một danh sách liên lạc là một tập hợp các địa chỉ email, và 
 1. Nhập tên cho danh sách, và sau đó thêm tên hoặc địa chỉ email.
 1. Chọn **tạo ra**.
 
-Tìm hiểu thêm về làm thế nào để [tạo, xem, và chỉnh sửa số liên lạc và liên hệ với danh sách trong Outlook.com](https://support.office.com/article/5b909158-036e-4820-92f7-2a27f57b9f01).
+Tìm hiểu thêm về làm thế nào để [tạo, xem, và chỉnh sửa số liên lạc và liên hệ với danh sách trong Outlook.com](https://support.office.com/article/5b909158-036e-4820-92f7-2a27f57b9f01?wt.mc_id=Office_Outlook_com_Alchemy).

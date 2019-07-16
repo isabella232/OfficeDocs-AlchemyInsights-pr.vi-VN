@@ -12,12 +12,12 @@ ms.custom:
 - "9000251"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: b385a16e8538f0633d5746f1abc8eb62c9c83df0
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 1500c2e0bc7ba40b4ee4d149899e5199ae926722
+ms.sourcegitcommit: 42f0dc9fdf5b93a68b048e8aee2eb9b6cf66a6eb
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35376783"
+ms.lasthandoff: 07/15/2019
+ms.locfileid: "35697213"
 ---
 # <a name="cant-send-email-in-outlookcom"></a>Không thể gửi email trong Outlook.com
 
@@ -28,6 +28,6 @@ Nếu bạn gặp sự cố khi gửi thư trong Outlook.com, hãy thử các gi
 1. Nếu hộp thư của bạn là đầy đủ, bạn sẽ không thể gửi hoặc nhận thư mới. Làm trống [thư mục thư rác Email](https://outlook.live.com/mail/junkemail) của bạn bằng cách nhấp chuột phải vào thư mục thư rác Email và chọn **thư mục trống**.
 1. Hãy chắc chắn rằng địa chỉ email của người bạn đang cố gắng để gửi đến được định dạng đúng.
 1. Nếu bạn có nhiều hơn 20 [kết nối tài khoản Google](https://outlook.live.com/mail/options/mail/accounts/connected), bạn sẽ không thể gửi hoặc nhận thư.
-1. Tài khoản của bạn có thể tạm thời bị cấm bởi vì chúng tôi nhận thấy một số đăng nhập hoạt động bất thường. Thấy [bỏ chặn tài khoản Outlook.com của tôi](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4).
+1. Tài khoản của bạn có thể tạm thời bị cấm bởi vì chúng tôi nhận thấy một số đăng nhập hoạt động bất thường. Thấy [bỏ chặn tài khoản Outlook.com của tôi](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4?wt.mc_id=Office_Outlook_com_Alchemy).
 
-Tìm hiểu thêm về làm thế nào để [sửa chữa các vấn đề đồng bộ Outlook.com email](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642).
+Tìm hiểu thêm về làm thế nào để [sửa chữa các vấn đề đồng bộ Outlook.com email](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642?wt.mc_id=Office_Outlook_com_Alchemy).
