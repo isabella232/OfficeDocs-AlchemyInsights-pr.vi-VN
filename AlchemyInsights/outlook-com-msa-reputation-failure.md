@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1979"
 - "9000345"
-ms.openlocfilehash: f4af8679ac71ab15bd68a62e71143b14f8e20f97
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d241612ec41247c36aa5806429c5b7b547e02098
+ms.sourcegitcommit: a7e5ca472000dfec471950bafd12eee8d7144f74
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35373831"
+ms.lasthandoff: 07/16/2019
+ms.locfileid: "35701309"
 ---
 # <a name="account-locked"></a>Tài khoản bị khóa
 
@@ -25,4 +25,4 @@ Nếu bạn thấy thông báo "tài khoản của bạn đã bị khóa" khi c�
 1. Đi đến [account.microsoft.com](https://go.microsoft.com/fwlink/?linkid=2090484) và đăng nhập vào tài khoản của bạn bị khóa.Để mở khóa tài khoản của bạn, bạn phải nhập mã bảo vệ được cung cấp trong tin nhắn văn bản từ Microsoft. Để nhận được tin nhắn văn bản, bạn phải có một chiếc điện thoại hỗ trợ nhắn tin văn bản. Nếu điện thoại của bạn không hỗ trợ nhắn tin văn bản, bạn có thể yêu cầu một người bạn hoặc thành viên gia đình sử dụng điện thoại của họ. Microsoft không lưu số điện thoại này, vì vậy số điện thoại bạn sử dụng để nhận được tin nhắn văn bản này không cần phải được liên kết với tài khoản của bạn.
 2. Nếu bạn thấy thông báo "Sử dụng vượt quá giới hạn", vào [Phục hồi tài khoản](https://go.microsoft.com/fwlink/?linkid=2090483) và một trong số các đại lý của chúng tôi sẽ xem xét tài khoản của bạn.
 
-Để tìm hiểu thêm, đọc [bỏ chặn tài khoản Outlook.com của tôi](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4) 
+Để tìm hiểu thêm, đọc [bỏ chặn tài khoản Outlook.com của tôi](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4?wt.mc_id=Office_Outlook_com_Alchemy) 
