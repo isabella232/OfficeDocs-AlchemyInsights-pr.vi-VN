@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: b77e514da36701808d46248e8f2a45137751a1c7
-ms.sourcegitcommit: 5447031f9d0a320c49897b8adb5d29ac9437fbc5
+ms.openlocfilehash: 31a578800468e9f3a69fff4f6e2e1945943c779c
+ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35786435"
+ms.lasthandoff: 07/19/2019
+ms.locfileid: "35800067"
 ---
 # <a name="required-alchemy-header-h1-h2s-dont-work"></a>Yêu cầu Alchemy tiêu đề H1, H2 của không làm việc.
 Thực hành và hướng dẫn cho tác giả kim thuật tốt nhất:
@@ -38,5 +38,3 @@ Thực hành và hướng dẫn cho tác giả kim thuật tốt nhất:
 Và điều này thực sự đã là một chút quá dài. Thực hành tốt nhất là khoảng 400 ký tự---
 
 Khi nội dung của bạn đã sẵn sàng, kéo nó tới các chi nhánh trực tiếp. Sau đó, các [cổng thông tin đối tác giả kim thuật](https://alchemyportal.azurewebsites.net) và nhập tên tập tin vào trường url. 
-
-
