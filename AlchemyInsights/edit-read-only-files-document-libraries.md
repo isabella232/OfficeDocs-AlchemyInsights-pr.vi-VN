@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7fd02fc7-4aaf-4ae6-b514-ceda456b74e2
-ms.openlocfilehash: ebafb4ec807f6e6b9c26935e766456414212de81
-ms.sourcegitcommit: 8b200a117fa8932f11fc649560496ffb308909da
+ms.openlocfilehash: 5da4914548348418c42e1e1b52d1428c0ed0af9b
+ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35132744"
+ms.lasthandoff: 07/25/2019
+ms.locfileid: "35903960"
 ---
 # <a name="edit-a-read-only-file"></a>Chỉnh sửa tệp chỉ-đọc
 
@@ -25,7 +25,7 @@ Thay vì cách nhấn vào tiêu đề tài liệu, nhấp vào **Mở Menu** (b
 
 Ghi chú:
 
-- Nếu bạn muốn có tài liệu mở để chỉnh sửa trong văn phòng trực tuyến khi bạn nhấp vào tiêu đề, bạn có thể thiết lập các thư viện để làm điều đó (miễn là bạn có quyền để thay đổi cài đặt thư viện).
+- Nếu bạn muốn có tài liệu mở để chỉnh sửa trong văn phòng khi bạn nhấp vào tiêu đề, bạn có thể thiết lập các thư viện để làm điều đó (miễn là bạn có quyền để thay đổi cài đặt thư viện).
 
 - Nếu bạn có các thư viện với thanh toán, yêu cầu cột hoặc khi chỉ người dùng có thể chỉnh sửa trong phiên bản cài đặt SharePoint một tài liệu thư viện, các mặt hàng này sẽ được đồng bộ hóa như là chỉ-đọc.
 
