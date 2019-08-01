@@ -13,18 +13,19 @@ ms.custom:
 - "920"
 - "944"
 - "8000015"
-ms.openlocfilehash: f827cb6b55aa7ea0eee27b85786c6fced933e621
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: cc352670c7604e83dc3a0742c2caea334182303c
+ms.sourcegitcommit: 6be59c8adfbe651833959d251f829496be1a1331
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35372967"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "36049162"
 ---
 # <a name="receiving-email-from-blocked-senders"></a>Nhận email từ người gửi bị chặn
 
 Nếu email từ một người gửi bị chặn vẫn xuất hiện trong hộp thư đến của bạn, người gửi có thể ẩn địa chỉ email thực sự của họ. Để kiểm tra địa chỉ email thực của người gửi:
   
-1. Chọn ba dấu chấm ở trên cùng của cửa sổ thư và chọn **xem thông báo nguồn**.
+1. Chọn ba dấu chấm <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAPCAYAAADgbT9oAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4wYLFhkF94QzeAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAL0lEQVQ4jWP8////fwYaACZaGDpq8HAzuKGhnqGhoR5DIaniNHMx42gGGTUYAwAAw6QRD6XFR1wAAAAASUVORK5CYII=' />
+ ở trên cùng của cửa sổ tin nhắn và chọn **xem nguồn thư**.
 2. Trong cửa sổ **thông báo nguồn** , di chuyển xuống cho đến khi bạn tìm thấy **từ** lĩnh vực này.
 3. Đánh dấu địa chỉ email được kèm theo trong \< \> và nhấp chuột phải để **sao chép**
 4. Sử dụng các địa chỉ mà bạn đã sao chép để chặn người gửi. Để tìm hiểu làm thế nào để ngăn chặn người gửi, xem [đánh dấu các email như là người gửi thư rác hoặc khối trong Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
