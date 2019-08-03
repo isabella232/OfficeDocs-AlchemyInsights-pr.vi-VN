@@ -1,25 +1,24 @@
 ---
-title: Mới giữ nhãn tự động tạo ra
-ms.author: kirks
-author: Techwriter40
-manager: pamgreen
+title: Xem thêm thông tin về chính sách lưu giữ
+ms.author: stephow
+author: msft-stephow
+manager: laurawi
 ms.audience: admin
 ms.topic: article
-ms.prod: office-online-server
+ms.prod: ''
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 0b52b56da0f23ca410f930eb7f719f6933e6135b
-ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
+ms.openlocfilehash: 7f7417a73e95d96a1b105d904bf926c363d4bcff
+ms.sourcegitcommit: 0a11493406c51ed1481586b4c35f1bd2441c4d40
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/25/2019
-ms.locfileid: "35223014"
+ms.lasthandoff: 07/02/2019
+ms.locfileid: "35448857"
 ---
-# <a name="new-retention-labels-created-automatically"></a>Mới giữ nhãn tự động tạo ra
+# <a name="more-info-about-retention-policies"></a>Xem thêm thông tin về chính sách lưu giữ
 
 Đối với hầu hết các tổ chức, khối lượng và độ phức tạp của dữ liệu của họ đang tăng lên hàng ngày - email, tài liệu, tin nhắn tức thời, và nhiều hơn nữa.
-
-Hiệu quả quản lý hoặc quản thông tin này là rất quan trọng, một chính sách lưu giữ có thể giúp bạn đạt được các mục tiêu này. Để biết thêm chi tiết về chính sách lưu giữ, xin vui lòng truy cập vào liên kết dưới đây.
+Hiệu quả quản lý hoặc quản thông tin này là rất quan trọng, và một chính sách lưu giữ có thể giúp bạn đạt được các mục tiêu này. Để biết thêm chi tiết về chính sách lưu giữ, xin vui lòng truy cập vào các liên kết này:
 
 - [Tổng quan về các chính sách lưu giữ](https://docs.microsoft.com/office365/securitycompliance/retention-policies)
 
