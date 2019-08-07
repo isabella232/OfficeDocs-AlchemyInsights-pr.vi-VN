@@ -1,36 +1,36 @@
 ---
-title: Quản lý các tìm kiếm từ điển trong SharePoint Online
-ms.author: kirks
-author: Techwriter40
+title: Tìm kiếm trong SharePoint Online
+ms.author: efrene
+author: efrene
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: 5319c2f1edc3e61074301f039736d2aa96bda47b
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: fc49978fbd2c07381dae83061b1a1868cd1df0d0
+ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34758787"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "36059274"
 ---
 # <a name="search-in-sharepoint-online"></a>Tìm kiếm trong SharePoint Online
 
-Nội dung phải được thu thập và bổ sung vào danh mục tìm kiếm cho người dùng tìm thấy những gì họ đang tìm kiếm trong SharePoint Online. Nội dung được tự động thu thập thông tin dựa theo một lịch trình thu thập dữ liệu được xác định trước (lịch trình thu thập thông tin không thể được thay đổi). Thu thập công cụ chọn lên nội dung đã thay đổi kể từ khi thu thập dữ liệu cuối cùng và Cập Nhật chỉ số. Để đảm bảo nội dung thu thập thông tin và chỉ số được Cập Nhật, hãy làm theo các bước dưới đây.
+Nội dung phải được thu thập và bổ sung vào danh mục tìm kiếm cho người dùng tìm thấy những gì họ đang tìm kiếm trong SharePoint Online. Nội dung được tự động thu thập thông tin dựa theo một lịch trình thu thập dữ liệu được xác định trước (lịch trình thu thập thông tin không thể được thay đổi). Thu thập công cụ chọn lên nội dung đã thay đổi kể từ khi thu thập dữ liệu cuối cùng và Cập Nhật chỉ số. Để đảm bảo nội dung thu thập thông tin và chỉ số được Cập Nhật, lưu ý những điều sau đây:
 
-Đảm bảo rằng nội dung có thể được tìm thấy bằng cách tìm kiếm nội dung trang web. Để biết thêm chi tiết, hãy xem [sử nội dung trên một trang web để có thể tìm kiếm](https://docs.microsoft.com/sharepoint/make-site-content-searchable).
+- Đảm bảo rằng nội dung có thể được tìm thấy bằng [cách tìm kiếm nội dung trang web](https://docs.microsoft.com/sharepoint/make-site-content-searchable).
 
-Khi bạn đã thay đổi một tài sản được quản lý, hoặc khi bạn đã thay đổi bản đồ của thu thập và quản lý tài sản, các trang web phải được tái crawled trước khi thay đổi của bạn sẽ được phản ánh trong chỉ mục tìm kiếm. 
+- Khi bạn đã thay đổi một tài sản được quản lý, hoặc khi bạn đã thay đổi bản đồ của thu thập và quản lý tài sản, các trang web phải được tái crawled trước khi thay đổi của bạn sẽ được phản ánh trong chỉ mục tìm kiếm. 
 
-Bởi vì các thay đổi được thực hiện trong lược đồ tìm kiếm, và không để các trang web thực tế, các trình thu thập sẽ không tự động tái index trang web. 
+    Bởi vì các thay đổi được thực hiện trong lược đồ tìm kiếm, và không để các trang web thực tế, các trình thu thập sẽ không tự động tái index trang web. 
 
-Để biết thêm chi tiết, hãy xem [theo cách thủ công yêu cầu thu thập dữ liệu và lập chỉ mục lại của một trang web, một thư viện hay một danh sách](https://docs.microsoft.com/sharepoint/crawl-site-conten).
+    Để biết thêm chi tiết, hãy xem [theo cách thủ công yêu cầu thu thập dữ liệu và lập chỉ mục lại của một trang web, một thư viện hay một danh sách](https://docs.microsoft.com/sharepoint/crawl-site-conten).
 
- Đợi ít nhất 24 giờ sau khi theo cách thủ công yêu cầu một thu thập thông tin và đầy đủ tái lập chỉ mục để xem nếu bạn vẫn gặp sự cố. 
+- Đợi ít nhất 24 giờ sau khi theo cách thủ công yêu cầu một thu thập thông tin và đầy đủ tái lập chỉ mục để xem nếu bạn vẫn gặp sự cố. 
 
-Nếu nhiều hơn 24 giờ đã trôi qua kể từ khi bạn bắt đầu thu thập dữ liệu và lập chỉ mục lại đầy đủ, xin vui lòng đăng nhập một trường hợp hỗ trợ. Trong nhiều trường hợp, chúng tôi đã làm việc trên một giải pháp. Xin vui lòng cho chúng tôi ít nhất 24 giờ để hoàn thành một giải pháp.
+    Nếu nhiều hơn 24 giờ đã trôi qua kể từ khi bạn bắt đầu thu thập dữ liệu và lập chỉ mục lại đầy đủ, xin vui lòng đăng nhập một trường hợp hỗ trợ. Trong nhiều trường hợp, chúng tôi đã làm việc trên một giải pháp. Xin vui lòng cho chúng tôi ít nhất 24 giờ để hoàn thành một giải pháp.
 
-**Chú ý**: nếu một trang web, tài liệu (thư viện), hoặc một danh sách đã bị xoá và vẫn thấy trong kết quả tìm kiếm, người dùng sẽ nhận được một lỗi 404 Không tìm thấy tệp khi cố gắng truy cập. Vấn đề này nên được đăng nhập như là một trường hợp hỗ trợ cho điều tra thêm. 
+>[! Quan trọng!]: nếu một trang web, tài liệu (thư viện), hoặc một danh sách đã bị xoá và vẫn thấy trong kết quả tìm kiếm, người dùng sẽ nhận được một **Lỗi 404 Không tìm thấy tệp** khi cố gắng để truy cập vào nó. Vấn đề này nên được đăng nhập như là một trường hợp hỗ trợ cho điều tra thêm. 
 
 
 
