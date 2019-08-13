@@ -15,10 +15,10 @@ ms.custom:
 - "3500012"
 ms.assetid: 361f5405-ac43-46f6-b1b9-5d91f61617ec
 ms.openlocfilehash: c43edb77041915108d05a5e89e6107ee7838857f
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.sourcegitcommit: 25110a298bef81fe02af177b9fa880331c28948d
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/28/2019
+ms.lasthandoff: 08/12/2019
 ms.locfileid: "35366627"
 ---
 # <a name="different-types-of-shared-calendars-and-how-to-set-them-up"></a>Các loại khác nhau của chia sẻ lịch và làm thế nào để thiết lập
