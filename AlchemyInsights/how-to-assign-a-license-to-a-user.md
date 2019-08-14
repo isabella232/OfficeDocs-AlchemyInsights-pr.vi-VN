@@ -13,18 +13,18 @@ ms.custom:
 - "325"
 - "150008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: a32f90e3d6c7f7c9fbbe5b320825f2a81a3a2bf6
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 46f48dc401268599821df0fcd51fefa0b8968493
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35385711"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36386318"
 ---
 # <a name="how-to-assign-a-license-to-a-user"></a>Làm thế nào để gán một giấy phép cho người dùng
 
 Người dùng cần một giấy phép để có quyền truy cập vào dịch vụ. Dưới đây là các bước để thêm, thay đổi hoặc loại bỏ một giấy phép từ người dùng.
   
-1. Trong Trung tâm quản trị, hãy vào trang [Người dùng hoạt động](https://go.microsoft.com/fwlink/p/?linkid=834822) , hoặc chọn **người dùng** \> **người dùng hoạt động**.
+1. Trong Trung tâm quản trị, đi tới **người dùng** \> [Người dùng hoạt động](https://go.microsoft.com/fwlink/p/?linkid=834822) trang.
 
 2. Chọn hộp bên cạnh tên của người dùng mà bạn muốn chỉ định, thay đổi hoặc loại bỏ một giấy phép.
 
@@ -38,5 +38,4 @@ Người dùng cần một giấy phép để có quyền truy cập vào dịch
 
 5. Ở dưới **giấy phép sản phẩm** cửa sổ, chọn **lưu** \> **gần** \> **đóng**.
 
-Để biết thêm chi tiết, hãy xem [gán giấy phép cho người dùng trong Office 365 Beta dành cho doanh nghiệp](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc), và [loại bỏ giấy phép từ người dùng trong Office 365 Beta dành cho doanh nghiệp](https://support.office.com/article/9b497c85-d0a4-4735-80fa-d3565bc05bd1).
-  
+Để biết thêm chi tiết, hãy xem [gán giấy phép cho người dùng trong Office 365 Beta dành cho doanh nghiệp](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/assign-licenses-to-users), và [loại bỏ giấy phép từ người dùng trong Office 365 Beta dành cho doanh nghiệp](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/remove-licenses-from-users).

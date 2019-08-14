@@ -13,12 +13,12 @@ ms.custom:
 - "257"
 - "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: c4771f8a66d131d08a558a216c1d75869fbc13a3
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 1e1e6f115a1314f824ce69f03ee23a3e21ba3cf0
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35359396"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36386930"
 ---
 # <a name="buy-a-subscription-to-office-365-from-your-free-trial"></a>Mua một thuê bao Office 365 từ thử nghiệm miễn phí của bạn
 
@@ -26,18 +26,16 @@ Bạn đã thử Office 365, và bây giờ bạn đã sẵn sàng để mua. B�
   
  **Bạn có thể mua các kế hoạch tương tự như thử nghiệm của bạn**
   
-1. Trong Trung tâm quản trị, hãy vào trang [đăng ký](https://go.microsoft.com/fwlink/p/?linkid=842054) , hoặc lựa chọn **thanh toán** \> **mục đăng ký**.
+1. Trong Trung tâm quản trị, đi đến **thanh toán** \> [đăng ký](https://go.microsoft.com/fwlink/p/?linkid=842054) trang.
 
 2. Chọn **mua ngay bây giờ** cho đăng ký thử nghiệm mà bạn muốn, và làm theo các bước để kiểm tra.
 
 hoặc **bạn có thể mua một thuê bao khác nhau**
   
-1. Đăng nhập Office 365 bằng tài khoản nơi làm việc hoặc trường học của bạn như là một quản trị toàn cầu. [Tìm hiểu làm thế nào để đăng nhập](https://support.office.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4).
+1. Trong Trung tâm quản trị, đi đến **thanh toán** \> [đăng ký](https://go.microsoft.com/fwlink/p/?linkid=842054) trang.
 
-2. Chọn **Office 365** trên trang bắt đầu.
+2. Trên trang **đăng ký** , hãy chọn **Thêm các mục đăng ký**.
 
-3. Ở góc trên bên phải của trang, dưới thanh menu, chọn **mua**.
+3. Tìm các thuê bao mà bạn muốn mua, chọn **Mua ngay bây giờ**và làm theo các bước để kiểm tra.
 
-4. Trên trang **đăng ký mua** , kế hoạch mà bạn đang cố gắng có một biểu ngữ **Trong xét xử** .
-
-5. Chọn **mua ngay bây giờ** cho đăng ký thử nghiệm mà bạn muốn, và làm theo các bước để kiểm tra.
+Bạn đang sử dụng trung tâm quản trị mới? Mới bước, hãy xem [mua một thuê bao Office 365 Beta dành cho doanh nghiệp từ thử nghiệm miễn phí của bạn](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial).

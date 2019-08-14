@@ -13,16 +13,16 @@ ms.custom:
 - "18"
 - "1200010"
 ms.assetid: ba665d35-f4af-4bd0-b52d-841df7454d4b
-ms.openlocfilehash: 93e354494902d7ca52f5c3d6117be895975f52f0
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 3641fb38fa95173a6367c1c0754c26bd3ee3eb0f
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35388735"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36386390"
 ---
 # <a name="have-an-employee-leaving-and-need-to-block-access-to-data-and-email"></a>Có một nhân viên để lại và cần phải ngăn chặn quyền truy cập vào dữ liệu và email?
   
-1. Đi đến [người dùng](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
+1. Trong Trung tâm quản trị, đi tới **người dùng** \> [Người dùng hoạt động](https://go.microsoft.com/fwlink/p/?linkid=834822) trang.
 
 2. Chọn người dùng bạn muốn chặn.
 
@@ -30,4 +30,4 @@ ms.locfileid: "35388735"
 
 4. Chọn **chặn người dùng từ khi đăng nhập** \> **tiết kiệm**.
 
- **Lưu ý**: đăng xuất cho một số ứng dụng có thể không phải ngay lập tức. Theo dõi với các hành động khác trong bài viết này: [loại bỏ một cựu nhân viên từ Office 365](https://support.office.com/article/Remove-a-former-employee-from-Office-365-44d96212-4d90-4027-9aa9-a95eddb367d1.aspx)
+**Lưu ý**: đăng xuất cho một số ứng dụng có thể không phải ngay lập tức. Theo dõi với các hành động khác trong bài viết này: [loại bỏ một cựu nhân viên từ Office 365](https://docs.microsoft.com/en-us/office365/admin/add-users/remove-former-employee)

@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "428"
 - "1500016"
-ms.openlocfilehash: 76415c71ecfe81e38dbcbd55d2aca38dfeeaa38b
-ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
+ms.openlocfilehash: a97f7ce806013e3454c2c89621acddf571e940ac
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35903745"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36387794"
 ---
 # <a name="update-payment-details"></a>Cập Nhật chi tiết thanh toán
 
-1. Trong Trung tâm quản trị, hãy vào trang [phương thức thanh toán](https://go.microsoft.com/fwlink/p/?linkid=2018806) , hoặc lựa chọn **thanh toán** \> **phương thức thanh toán**.
+1. Trong Trung tâm quản trị, đi đến **thanh toán** \> [phương thức thanh toán](https://go.microsoft.com/fwlink/p/?linkid=2018806) trang.
 
     > [!NOTE]
     > Nếu bạn gặp một vòng lặp sẽ gửi bạn quay lại trang chủ của Admin trước khi cập nhật của bạn được hoàn thành, hãy thử chế độ Inprivate hoặc ẩn danh.
@@ -37,4 +37,4 @@ ms.locfileid: "35903745"
 
 5. Để loại bỏ các phương thức thanh toán này, chọn **xóa**.
 
-Để biết thêm chi tiết, hãy xem [Thêm, Cập Nhật hoặc loại bỏ một thẻ tín dụng hoặc tài khoản ngân hàng trong Office 365 Beta dành cho doanh nghiệp](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724) và [gỡ rối thẻ tín dụng và tài khoản ngân hàng](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).
+Để biết thêm chi tiết, hãy xem [Thêm, Cập Nhật hoặc loại bỏ một thẻ tín dụng hoặc tài khoản ngân hàng trong Office 365 Beta dành cho doanh nghiệp](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) và [gỡ rối thẻ tín dụng và tài khoản ngân hàng](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).

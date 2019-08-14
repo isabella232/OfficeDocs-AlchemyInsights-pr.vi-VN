@@ -3,15 +3,6 @@
 
 
 
-## <a name="week-of-july-01-2019"></a>Tuần của tháng bảy ba, 2019
-
-
-| Được đăng trên |Tiêu đề chủ đề | Thay đổi |
-|------|------------|--------|
-| 1-7-2019 | [Cổ điển SharePoint kiểm toán báo cáo đăng nhập](/AlchemyInsights/sharepoint-and-onedrive-audit-logs) | Sửa đổi lần |
-| 7/2/2019 | [Xem thêm thông tin về chính sách lưu giữ](/AlchemyInsights/office-security-compliance-retention-policy) | Sửa đổi lần |
-
-
 ## <a name="week-of-july-08-2019"></a>Tuần của tháng bảy 08, 2019
 
 
@@ -220,3 +211,69 @@
 | 8/2/2019 | [Tổ chức các email của bạn trong Outlook trên web](/AlchemyInsights/owa-organize-email) | Sửa đổi lần |
 | 8/2/2019 | [In email, lịch, và các tập tin đính kèm trong Outlook trên web](/AlchemyInsights/owa-print-email-calendars-attachments) | Sửa đổi lần |
 | 8/2/2019 | [Biên nhận đã đọc trong Outlook trên web](/AlchemyInsights/owa-read-receipts) | Sửa đổi lần |
+
+
+## <a name="week-of-august-05-2019"></a>Tuần của tháng 8 05, 2019
+
+
+| Được đăng trên |Tiêu đề chủ đề | Thay đổi |
+|------|------------|--------|
+| 5-8-2019 | [Làm thế nào để trả lời hoặc chuyển tiếp tin nhắn trong Outlook trên web](/AlchemyInsights/owa-reply-forward-messages) | Sửa đổi lần |
+| 5-8-2019 | [8000003 tìm kiếm thư và những người trong Outlook trên web](/AlchemyInsights/owa-search-mail-and-people) | Sửa đổi lần |
+| 5-8-2019 | [Tạo chữ ký trong Outlook trên web](/AlchemyInsights/owa-signature) | Sửa đổi lần |
+| 5-8-2019 | [S/MIME trong Outlook trên web](/AlchemyInsights/owa-smime) | Sửa đổi lần |
+| 5-8-2019 | [Ngăn chặn các tin nhắn từ đi vào thư mục thư rác Email trong Outlook trên web](/AlchemyInsights/owa-stop-email-from-going-to-junk-folder) | Sửa đổi lần |
+| 5-8-2019 | [Tắt vào hộp thư đến tập trung](/AlchemyInsights/owa-turn-off-focused-inbox) | Sửa đổi lần |
+| 5-8-2019 | [1332 OWA - hộp thư đến rule(s) không thực hiện cho một hộp thư](/AlchemyInsights/owainbox-rule-s-are-not-executing-for-a-mailbox) | Sửa đổi lần |
+| 6-8-2019 | [Thử nghiệm Alchemy inline hình ảnh](/AlchemyInsights/testing-alchemy-inline-images) | Sửa đổi lần |
+| 6-8-2019 | [Bảo vệ nâng cao mối đe dọa trong SharePoint và OneDrive](/AlchemyInsights/advanced-threat-protection-in-sharepoint) | Sửa đổi lần |
+| 6-8-2019 | [Ransomware tấn công trong SharePoint hoặc OneDrive](/AlchemyInsights/ransomware-attack-in-sharepoint) | Sửa đổi lần |
+| 6-8-2019 | [Các trang web hiện đại như các trang web gốc](/AlchemyInsights/modern-site-as-the-root-site) | Sửa đổi lần |
+| 6-8-2019 | [Các vấn đề trong khi di chuyển dữ liệu SharePoint Online](/AlchemyInsights/sharepoint-data-size-migration-issues) | Sửa đổi lần |
+| 6-8-2019 | [Tải về hoặc ngăn chặn tải về các tập tin từ OneDrive hoặc SharePoint](/AlchemyInsights/sharepoint-onedrive-download-files) | Sửa đổi lần |
+| 6-8-2019 | [Khắc phục sự cố truy cập từ chối các thư đến OneDrive cho các trang web kinh doanh](/AlchemyInsights/sharepoint-onedrive-restore-users-admin%20rights) | Sửa đổi lần |
+| 6-8-2019 | [Khôi phục đã bị xóa file hoặc thư mục](/AlchemyInsights/sharepoint-deleted-items-restore) | Sửa đổi lần |
+| 6-8-2019 | [Versioning trong SharePoint và OneDrive](/AlchemyInsights/sharepoint-enable-versioning-list-library) | Sửa đổi lần |
+| 6-8-2019 | [Thông tin lưu trữ và xóa OneDrive](/AlchemyInsights/one-drive-retention-and-deletion) | Sửa đổi lần |
+| 7-8-2019 | [Ngăn chặn các tập tin được tải về từ OneDrive hoặc SharePoint](/AlchemyInsights/prevent-download) | Sửa đổi lần |
+| 7-8-2019 | [Khôi phục đã bị xóa file hoặc thư mục](/AlchemyInsights/sharepoint-deleted-items-restore) | Sửa đổi lần |
+| 7-8-2019 | [Cho phép chia sẻ bên ngoài trong SharePoint Online](/AlchemyInsights/sharepoint-enable-external-sharing) | Sửa đổi lần |
+| 7-8-2019 | [Khắc phục vấn đề đồng bộ OneDrive](/AlchemyInsights/fix-onedrive-sync-issues) | Sửa đổi lần |
+| 7-8-2019 | [Khắc phục sự cố đồng bộ OneDrive](/AlchemyInsights/fix-onedrive-sync-problems) | Sửa đổi lần |
+| 7-8-2019 | [Quy trình làm việc email chưa được gửi](/AlchemyInsights/workflow-email-not-being-sent) | Sửa đổi lần |
+| 7-8-2019 | [Công việc không bắt đầu](/AlchemyInsights/workflow-is-not-starting) | Sửa đổi lần |
+| 7-8-2019 | [Bảo vệ nâng cao mối đe dọa trong SharePoint và OneDrive](/AlchemyInsights/advanced-threat-protection-in-sharepoint) | Sửa đổi lần |
+| 7-8-2019 | [Liên kết trang web trung tâm](/AlchemyInsights/associate-a-hub-site) | Sửa đổi lần |
+| 7-8-2019 | [Tạo một trang web SharePoint](/AlchemyInsights/create-a-sharepoint-site) | Sửa đổi lần |
+| 7-8-2019 | [Các trang web hiện đại như các trang web gốc](/AlchemyInsights/modern-site-as-the-root-site) | Sửa đổi lần |
+| 7-8-2019 | [Lưu trữ OneDrive và xóa](/AlchemyInsights/one-drive-retention-and-deletion) | Sửa đổi lần |
+| 7-8-2019 | [Những vấn đề chung của OneDrive và nghị quyết](/AlchemyInsights/onedrive-common-issues-and-resolutions) | Sửa đổi lần |
+| 7-8-2019 | [Ransomware tấn công trong SharePoint hoặc OneDrive](/AlchemyInsights/ransomware-attack-in-sharepoint) | Sửa đổi lần |
+| 7-8-2019 | [Ngoài việc chia sẻ trong SharePoint Online](/AlchemyInsights/sharepoint-enable-external-sharing-to-share-documents) | Sửa đổi lần |
+| 7-8-2019 | [Versioning trong SharePoint và OneDrive](/AlchemyInsights/sharepoint-enable-versioning-list-library) | Sửa đổi lần |
+| 7-8-2019 | [Liên hệ với bên ngoài là không thể chấp nhận một lời mời chia sẻ](/AlchemyInsights/sharepoint-external-contact-cannot-accept-invite) | Sửa đổi lần |
+| 7-8-2019 | [Những vấn đề chung SharePoint Online và nghị quyết](/AlchemyInsights/sharepoint-get-started-faq) | Sửa đổi lần |
+| 7-8-2019 | [Các trang web hiện đại như các trang web gốc](/AlchemyInsights/sharepoint-modernize-classic-site) | Sửa đổi lần |
+| 7-8-2019 | [Tải về hoặc ngăn chặn tải về các tập tin từ OneDrive hoặc SharePoint](/AlchemyInsights/sharepoint-onedrive-download-files) | Sửa đổi lần |
+| 7-8-2019 | [Cài đặt, thiết lập, và đồng bộ OneDrive hoặc SharePoint các tập tin trên máy Mac](/AlchemyInsights/sharepoint-onedrive-sync-files-mac) | Sửa đổi lần |
+| 7-8-2019 | [Khắc phục sự cố "Mở với Explorer" các vấn đề trong SharePoint Online](/AlchemyInsights/sync-sharepoint-files-with-onedrive) | Sửa đổi lần |
+| 8-8-2019 | [Bảo vệ nâng cao mối đe dọa trong SharePoint và OneDrive](/AlchemyInsights/advanced-threat-protection-in-sharepoint) | Sửa đổi lần |
+| 8-8-2019 | [Liên kết trang web trung tâm](/AlchemyInsights/associate-a-hub-site) | Sửa đổi lần |
+| 8-8-2019 | [Tạo một trang web SharePoint](/AlchemyInsights/create-a-sharepoint-site) | Sửa đổi lần |
+| 8-8-2019 | [Lỗi 404: Không tìm thấy tệp](/AlchemyInsights/error-404-access-site-file-sharepoint-onedrive) | Sửa đổi lần |
+| 8-8-2019 | [Khắc phục vấn đề đồng bộ OneDrive trên máy Mac](/AlchemyInsights/fix-onedrive-sync-issues-on-a-mac) | Sửa đổi lần |
+| 8-8-2019 | [Bản đồ một thư viện SharePoint một ổ đĩa mạng](/AlchemyInsights/map-sharepoint-library-to-network-drive-new) | Sửa đổi lần |
+| 8-8-2019 | [Các trang web hiện đại như các trang web gốc](/AlchemyInsights/modern-site-as-the-root-site) | Sửa đổi lần |
+| 8-8-2019 | [Lưu trữ OneDrive và xóa](/AlchemyInsights/one-drive-retention-and-deletion) | Sửa đổi lần |
+| 8-8-2019 | [Ransomware tấn công trong SharePoint hoặc OneDrive](/AlchemyInsights/ransomware-attack-in-sharepoint) | Sửa đổi lần |
+| 8-8-2019 | [Khôi phục đã bị xóa file hoặc thư mục](/AlchemyInsights/sharepoint-deleted-items-restore) | Sửa đổi lần |
+| 8-8-2019 | [Người dùng bên ngoài là không thể truy cập các nội dung trong SharePoint Online](/AlchemyInsights/sharepoint-external-sharing-issues) | Sửa đổi lần |
+| 8-8-2019 | [Tổng quan về các trang web SharePoint hub](/AlchemyInsights/sharepoint-hub-sites) | Sửa đổi lần |
+| 8-8-2019 | [Tải về hoặc ngăn chặn tải về các tập tin từ OneDrive hoặc SharePoint](/AlchemyInsights/sharepoint-onedrive-download-files) | Sửa đổi lần |
+| 8-8-2019 | [Quản lý các lược đồ tìm trong SharePoint Online](/AlchemyInsights/sharepoint-search-schema) | Sửa đổi lần |
+| 8-8-2019 | [Các bước để tạo ra một quy trình làm việc SharePoint](/AlchemyInsights/steps-to-create-a-sharepoint-workflow) | Sửa đổi lần |
+| 8-8-2019 | [Trao đổi trang web gốc cổ điển của bạn với một trang web hiện đại](/AlchemyInsights/swap-your-classic-root-site-with-a-modern-site) | Sửa đổi lần |
+| 8-8-2019 | [Khắc phục sự cố "Mở với Explorer" các vấn đề trong SharePoint Online](/AlchemyInsights/sync-sharepoint-files-with-onedrive) | Sửa đổi lần |
+| 8-8-2019 | [Khắc phục sự cố quy trình làm việc](/AlchemyInsights/workflow-troubleshooting) | Sửa đổi lần |
+| 8-8-2019 | [Đăng nhập cho phép và tìm kiểm toán](/AlchemyInsights/enable-auditing) | Sửa đổi lần |
+| 8-8-2019 | [Kích hoạt và tìm kiếm các Nhật ký kiểm tra](/AlchemyInsights/enable-auditing) | Sửa đổi lần |

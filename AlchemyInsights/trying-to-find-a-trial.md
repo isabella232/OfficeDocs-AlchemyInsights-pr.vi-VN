@@ -13,18 +13,18 @@ ms.custom:
 - "488"
 - "1500033"
 ms.assetid: 12edf610-e7f1-4693-b767-a8d67b09c10b
-ms.openlocfilehash: beed41b96dde1b120a98391187424367e868071e
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d11e5e28dbc524e9e894c0d2e504495f3811a763
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35366771"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36387866"
 ---
 # <a name="trying-to-find-a-trial"></a>Cố gắng tìm một phiên tòa?
 
-Nếu bạn muốn thử một dịch vụ mới, bạn có thể tìm thấy một danh sách các mục đăng ký có sẵn cho thử nghiệm tại Trung tâm quản trị Microsoft 365.
+Nếu bạn muốn thử một dịch vụ mới, bạn có thể tìm thấy một danh sách các mục đăng ký có sẵn dành cho thử nghiệm tại Trung tâm quản trị.
   
-1. Đi đến trang [Mua dịch vụ](https://go.microsoft.com/fwlink/p/?linkid=868433) , hoặc lựa chọn **thanh toán** \> **mua dịch vụ**.
+1. Trong Trung tâm quản trị, đi đến **thanh toán** \> trang [Dịch vụ mua hàng](https://go.microsoft.com/fwlink/p/?linkid=868433) .
 
 2. Tìm thuê bao đáp ứng nhu cầu của bạn, chuột lên đó, và chọn **bắt đầu thử nghiệm miễn phí**.
 

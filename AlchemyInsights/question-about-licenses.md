@@ -13,18 +13,18 @@ ms.custom:
 - "491"
 - "1500032"
 ms.assetid: b69fea1b-0542-4b75-bea0-53d7be294e7a
-ms.openlocfilehash: 369e6e8e5e8e2e5d9739415e2a4ab959ba706c80
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: ddc8e78f7f56110b11521f60d9c68e6fae241f5e
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35370697"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36388478"
 ---
 # <a name="question-about-licenses"></a>Câu hỏi về giấy phép
 
 Nếu bạn muốn biết bao nhiêu giấy phép bạn đã mua, hoặc làm thế nào nhiều giấy phép được chỉ định từ một thuê bao:
   
-1. Trong Trung tâm quản trị, hãy vào trang [đăng ký](https://go.microsoft.com/fwlink/p/?linkid=842054) , hoặc lựa chọn **thanh toán** \> **mục đăng ký**.
+1. Trong Trung tâm quản trị, đi đến **thanh toán** \> [đăng ký](https://go.microsoft.com/fwlink/p/?linkid=842054) trang.
 
 2. Chọn các thuê bao bạn muốn biết thêm về.
 

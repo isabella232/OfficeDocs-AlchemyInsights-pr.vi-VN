@@ -13,16 +13,16 @@ ms.custom:
 - "662"
 - "1500012"
 ms.assetid: ba037d2d-3c99-4d01-8d60-ca5d624da9b1
-ms.openlocfilehash: 156b1b9563f2996dd4c9303ea1506e4c5e74917c
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: db7b3094291c476afde2769a9c803a53d4432319
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35371239"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36388622"
 ---
 # <a name="prepaid-renewal"></a>Trả trước đổi mới
 
-1. Trong Trung tâm quản trị, hãy vào trang [đăng ký](https://go.microsoft.com/fwlink/p/?linkid=842054) , hoặc lựa chọn **thanh toán** \> **mục đăng ký**.
+1. Trong Trung tâm quản trị, đi đến **thanh toán** \> [đăng ký](https://go.microsoft.com/fwlink/p/?linkid=842054) trang.
 
 2. Chọn các thuê bao trả trước bạn muốn mở rộng, sau đó chọn **mở rộng**.
 
@@ -33,3 +33,5 @@ ms.locfileid: "35371239"
 5. Đảm bảo rằng thông tin là chính xác, sau đó chọn **tiếp theo**.
 
 6. Chọn nút radio để kéo dài ngày kết thúc của các giấy phép hiện có, sau đó chọn **tiếp theo**.
+
+Bạn đang sử dụng trung tâm quản trị mới? Mới bước, hãy xem [thêm giấy phép hoặc gia hạn thuê bao được thanh toán cho việc sử dụng một mã khóa sản phẩm](https://docs.microsoft.com/en-us/office365/admin/misc/add-licenses-using-product-key).

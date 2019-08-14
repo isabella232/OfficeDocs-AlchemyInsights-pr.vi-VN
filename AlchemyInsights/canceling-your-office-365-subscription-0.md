@@ -13,18 +13,17 @@ ms.custom:
 - "86"
 - "1400001"
 ms.assetid: dc0504f1-00ad-4769-be87-492ad98e42f0
-ms.openlocfilehash: 5365cef480f22523e8410acf24f4845026f52a02
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 84538224f9f00f5807489449f3d5e75b99656313
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35359787"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36386966"
 ---
 # <a name="canceling-your-office-365-subscription"></a>Huỷ đăng ký Office 365 của bạn?
 
 Chúng tôi rất tiếc khi thấy bạn rời đi!
   
-Dựa trên các dữ liệu tổ chức của bạn, chúng tôi tin rằng tất cả các đăng ký hiện tại của bạn có ít hơn 25 chỗ ngồi. Để hủy bỏ đăng ký của bạn trực tuyến, đi đến trang [đăng ký](https://go.microsoft.com/fwlink/p/?linkid=842054) , hoặc đi đến **thanh toán** \> **mục đăng ký**, sau đó chọn **Thêm hành động** \> **hủy bỏ đăng ký**.
+Dựa trên các dữ liệu tổ chức của bạn, chúng tôi tin rằng tất cả các đăng ký hiện tại của bạn có ít hơn 25 chỗ ngồi. Để hủy bỏ đăng ký của bạn trực tuyến, hãy chuyển đến **thanh toán** \> [đăng ký](https://go.microsoft.com/fwlink/p/?linkid=842054) trang, sau đó chọn **Thêm hành động** \> **hủy bỏ đăng ký**.
   
-Để tìm hiểu thêm về hủy bỏ đăng ký hoặc cho các hướng dẫn từng bước, hãy xem bài viết này: [hủy bỏ Office 365 Beta dành cho doanh nghiệp](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)
-  
+Để tìm hiểu thêm về hủy bỏ đăng ký hoặc cho các hướng dẫn từng bước, hãy xem bài viết này: [hủy bỏ đăng ký của bạn](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/cancel-your-subscription)

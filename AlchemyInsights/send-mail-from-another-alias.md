@@ -13,12 +13,12 @@ ms.custom:
 - "703"
 - "1"
 ms.assetid: aa1bcbea-c09e-40f1-81ad-e86ad567ae16
-ms.openlocfilehash: 73ea8fe0ba9ab6398af269f8fb99b8c8dc61a866
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 97191c9d0f267935485ccbdeaf5243c3b4e12a97
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35369507"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36388406"
 ---
 # <a name="send-email-from-an-alias-or-secondary-address"></a>Gửi thư điện tử từ một bí danh hoặc địa chỉ phụ
 
@@ -26,4 +26,4 @@ Office 365 hiện không hỗ trợ email gửi từ một bí danh hoặc đị
   
 - [Hãy vào đây để tạo một hộp thư dùng chung](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions)
 
-Bạn cũng có thể đọc các bài viết [tạo hộp thư dùng chung](https://support.office.com/article/871a246d-3acd-4bba-948e-5de8be0544c9) mà sẽ cho bạn biết tất cả mọi thứ bạn cần biết về hộp thư dùng chung, bao gồm làm thế nào để sử dụng chúng.
+Bạn cũng có thể đọc các bài viết [tạo hộp thư dùng chung](https://docs.microsoft.com/en-us/office365/admin/email/create-a-shared-mailbox) mà sẽ cho bạn biết tất cả mọi thứ bạn cần biết về hộp thư dùng chung, bao gồm làm thế nào để sử dụng chúng.
