@@ -13,14 +13,13 @@ ms.custom:
 - "332"
 - "1500009"
 ms.assetid: 09f40c86-05d7-45ef-a6d1-3292509353c2
-ms.openlocfilehash: 8fde8f671ba7290740b48b830e42831e503928a9
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 2ea82331f388fd8903d30ea4d479311f9af9dc31
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35384055"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36390966"
 ---
-# <a name="how-to-purchase-office-365-education-plans"></a><span data-ttu-id="9022c-102">Làm thế nào để mua Office 365 giáo dục kế hoạch</span><span class="sxs-lookup"><span data-stu-id="9022c-102">How to purchase Office 365 Education plans</span></span>
+# <a name="how-to-purchase-office-365-education-plans"></a><span data-ttu-id="e5de0-102">Làm thế nào để mua Office 365 giáo dục kế hoạch</span><span class="sxs-lookup"><span data-stu-id="e5de0-102">How to purchase Office 365 Education plans</span></span>
 
-<span data-ttu-id="9022c-103">Office 365 giáo dục bằng cấp của bạn đang xem xét.</span><span class="sxs-lookup"><span data-stu-id="9022c-103">Your Office 365 Education qualification is under review.</span></span> <span data-ttu-id="9022c-104">Bạn có thể mong đợi để nhận được một thông báo về việc xác định đủ điều kiện của bạn trước khi thử nghiệm của bạn hết hạn.</span><span class="sxs-lookup"><span data-stu-id="9022c-104">You can expect to receive a notification on the determination of your eligibility before your trial expires.</span></span>
-  
+<span data-ttu-id="e5de0-103">Office 365 giáo dục bằng cấp của bạn đang xem xét.</span><span class="sxs-lookup"><span data-stu-id="e5de0-103">Your Office 365 Education qualification is under review.</span></span> <span data-ttu-id="e5de0-104">Bạn có thể mong đợi để nhận được một thông báo về việc xác định đủ điều kiện của bạn trước khi thử nghiệm của bạn hết hạn.</span><span class="sxs-lookup"><span data-stu-id="e5de0-104">You can expect to receive a notification on the determination of your eligibility before your trial expires.</span></span>
