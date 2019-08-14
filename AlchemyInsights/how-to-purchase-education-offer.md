@@ -14,23 +14,21 @@ ms.custom:
 - "369"
 - "1500009"
 ms.assetid: f7b8d5c5-2d9d-441e-91c7-0a042149ea0c
-ms.openlocfilehash: f2603b0ae3d739de43c1ed6bcf7703fcd4c5379c
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 208eb40788fcf27332245e4590ad204709b32371
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35384258"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36390210"
 ---
 # <a name="how-to-purchase-education-offer"></a>Làm thế nào để mua hàng ưu đãi giáo dục
 
 Bạn đã được chấp thuận cho Office 365 giáo dục. Để mua hàng:
   
-1. Trong Trung tâm quản trị, hãy vào trang [đăng ký](https://go.microsoft.com/fwlink/p/?linkid=842054) , hoặc lựa chọn **thanh toán** \> **mục đăng ký**.
-    
-2. Chọn thử nghiệm cho **sinh viên hoặc giảng viên**.
-    
-3. Chọn **Mua ngay bây giờ** trên thử nghiệm bạn muốn mua. 
-    
-Nếu bạn muốn mua một thuê bao khác với những gì là trong thử nghiệm, đi đến trang [Mua dịch vụ](https://go.microsoft.com/fwlink/p/?linkid=868433) , hoặc lựa chọn **thanh toán** \> **Mua dịch vụ**, và chọn từ danh sách dưới **Kế hoạch giáo dục**.
-  
+1. Trong Trung tâm quản trị, đi đến **thanh toán** \> [đăng ký](https://go.microsoft.com/fwlink/p/?linkid=842054) trang.
 
+2. Chọn thử nghiệm cho **sinh viên hoặc giảng viên**.
+
+3. Chọn **Mua ngay bây giờ** trên thử nghiệm bạn muốn mua. 
+
+Nếu bạn muốn mua một thuê bao khác với những gì là trong thử nghiệm, đi đến **thanh toán** \> [Mua dịch vụ](https://go.microsoft.com/fwlink/p/?linkid=868433) trang, và chọn từ danh sách dưới **Kế hoạch giáo dục**.
