@@ -12,12 +12,12 @@ ms.custom:
 - "308"
 - "3100007"
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
-ms.openlocfilehash: 9f4a175239bc20aaf489615da63ef35002030a70
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d0af4c933f262fe1ec4c2a6ff16d5f6195398b0d
+ms.sourcegitcommit: e98443a049108e0dc83d63895af66944bdb1f108
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35369687"
+ms.lasthandoff: 08/16/2019
+ms.locfileid: "36444830"
 ---
 # <a name="retention-policies-in-exchange-admin-center"></a>Chính sách lưu giữ trong Trung tâm quản trị Exchange
 
@@ -56,4 +56,9 @@ ms.locfileid: "35369687"
   ```
 
  **Lưu ý:** Nếu một hộp thư nhỏ hơn 10 MB, chương trình hỗ trợ thư mục quản lý sẽ không tự động xử lý hộp thư.
-  
+ 
+Để biết thêm chi tiết về chính sách lưu giữ trong Trung tâm quản trị Exchange, hãy xem:
+- [Thẻ lưu giữ và chính sách lưu giữ](https://docs.microsoft.com/en-us/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies)
+- [Áp dụng một chính sách lưu giữ cho hộp thư](https://docs.microsoft.com/en-us/exchange/security-and-compliance/messaging-records-management/apply-retention-policy)
+- [Thêm hoặc xoá thẻ lưu giữ](https://docs.microsoft.com/en-us/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags)
+- [Làm thế nào để xác định loại của tổ chức được đặt trên một hộp thư](https://docs.microsoft.com/en-us/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox)
