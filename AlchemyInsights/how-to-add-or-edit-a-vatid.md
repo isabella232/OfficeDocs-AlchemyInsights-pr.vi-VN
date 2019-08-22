@@ -12,23 +12,23 @@ ms.custom:
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: cd75ad71fc731047011627cabe24b74d8f342892
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 870f81742c13b143a0b99e2ce126d9b696e72d28
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386426"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36522633"
 ---
 # <a name="how-to-add-or-edit-a-vatid"></a>Làm thế nào để thêm hoặc chỉnh sửa một VatID
 
-- Trong Trung tâm quản trị, đi đến **thanh toán** \> [đăng ký](https://go.microsoft.com/fwlink/p/?linkid=842054) trang.
+1.  Trong Trung tâm quản trị Microsoft 365, đi đến **thanh toán** \> [sản phẩm & servicces](https://go.microsoft.com/fwlink/p/?linkid=842054) trang.
 
-- Trên trang **đăng ký** , chọn đăng ký mà bạn muốn chỉnh sửa, sau đó chọn **Tác vụ khác** \> **số chỉnh sửa thuế GTGT**.
+2. Tìm thấy thẻ đăng ký cho các thuê bao bạn muốn Cập Nhật.
 
-- Ở dưới cùng của cửa sổ **chỉnh sửa địa chỉ sử dụng dịch vụ của bạn** , nhập hoặc chỉnh sửa ID VAT của bạn trong hộp **số thuế GTGT** , và sau đó chọn **gửi**.
+3. Trong phần **cài đặt & hành động** , hãy chọn **chỉnh sửa địa chỉ sử dụng dịch vụ**.
+
+4. Trên trang **chỉnh sửa địa chỉ sử dụng dịch vụ của bạn** , hãy nhập ID VAT của bạn trong hộp **số thuế GTGT** , và sau đó chọn **Save**.
 
     Khi hoàn tất, VAT sẽ không được tính vào hóa đơn tiếp theo của bạn.
 
-Để biết thêm thông tin, hãy xem [thuế những gì tôi sẽ được tính phí cho Office 365?](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged)
-
-Bạn đang sử dụng trung tâm quản trị mới? Mới bước, hãy xem [thêm ID VAT của bạn](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide#add-your-vat-id-eu-countries-only).
+Để biết thêm thông tin, hãy xem [thuế những gì tôi sẽ được tính phí cho Office 365?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged) hoặc [thêm ID VAT của bạn](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide#add-your-vat-id-eu-countries-only).
