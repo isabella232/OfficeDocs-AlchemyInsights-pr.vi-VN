@@ -13,24 +13,24 @@ ms.assetid: 22777888-c472-437c-87cf-e3c52f3b310c
 ms.custom:
 - "651"
 - "2000017"
-ms.openlocfilehash: a68e6a78f042a57f88c44e7b5cf62bdacebefba4
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: bde7f68684003b551297f8befc52e438a6fa5e58
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35385423"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36522525"
 ---
 # <a name="how-to-assign-office-licenses-to-mac-users"></a>Làm thế nào để gán giấy phép văn phòng cho người dùng Mac
 
-- Trong Trung tâm quản trị Microsoft 365, đi đến trang [người dùng hoạt động](https://go.microsoft.com/fwlink/p/?linkid=834822) , hoặc chọn **người dùng** \> **người dùng hoạt động**.
+1. Trong Trung tâm quản trị, đi tới **người dùng** \> [người dùng hoạt động](https://go.microsoft.com/fwlink/p/?linkid=834822) trang.
 
-- Chọn hộp bên cạnh tên của người dùng mà bạn muốn gán một giấy phép.
+2. Chọn tên người dùng mà bạn muốn chỉ định, thay đổi hoặc loại bỏ một giấy phép.
 
-- Bên phải, trong dòng **sản phẩm giấy** , chọn **chỉnh sửa**.
+3. Trên tab **giấy phép và các ứng dụng** , chọn giấy phép bạn muốn gán cho người dùng này.
 
-- Trong **giấy phép sản phẩm**cho ô s, chuyển chuyển đổi **trên** vị trí cho phép bạn muốn gán cho người dùng này.
+    Theo mặc định, tất cả các dịch vụ liên quan đến giấy phép đó sẽ tự động được gán cho người dùng. Để hạn chế mà các dịch vụ có sẵn cho người dùng, xóa hộp kiểm cho các dịch vụ mà bạn không muốn người dùng đó có.
 
-- Ở dưới **giấy phép sản phẩm** cửa sổ, chọn **lưu** \> **gần** \> **đóng**.
+4. Ở dưới cùng của ô, chọn **lưu thay đổi**.
 
 Để biết thêm thông tin: [gán giấy phép cho người dùng trong Office 365 Beta dành cho doanh nghiệp](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
   

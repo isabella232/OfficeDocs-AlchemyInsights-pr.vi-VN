@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom:
 - "1958"
 - "9000331"
-ms.openlocfilehash: 8b54e5449ed0726170393916df58722bfabc1129
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 2df788f74e7e6464d4a51653709e983046dd2f8c
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35379087"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36522201"
 ---
 # <a name="new-retention-labels-created-automatically"></a>Mới giữ nhãn tự động tạo ra
 
-Bạn có thể thấy [ba mới giữ nhãn](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager#default-retention-labels-and-label-policy) tự động tạo ra trong tổ chức của bạn dưới **giữ nhãn** trong Trung tâm quản trị an ninh hoặc tuân thủ. Tên nhãn hiệu là:
+Bạn có thể thấy [ba mới Office 365 giữ nhãn](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager#default-retention-labels-and-label-policy) tự động tạo ra trong tổ chức của bạn dưới **giữ nhãn** trong Trung tâm quản trị an ninh hoặc tuân thủ. Tên nhãn hiệu là:
 
 - Quy trình hoạt động
 - Kinh doanh tổng quát
