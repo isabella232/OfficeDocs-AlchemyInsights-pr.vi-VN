@@ -13,21 +13,23 @@ ms.custom:
 - "18"
 - "1200010"
 ms.assetid: ba665d35-f4af-4bd0-b52d-841df7454d4b
-ms.openlocfilehash: 3641fb38fa95173a6367c1c0754c26bd3ee3eb0f
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: b5f86345ac9315b489c9cc19419d95437e0f4bbe
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386390"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36527853"
 ---
-# <a name="have-an-employee-leaving-and-need-to-block-access-to-data-and-email"></a>Có một nhân viên để lại và cần phải ngăn chặn quyền truy cập vào dữ liệu và email?
+# <a name="block-access-to-a-former-employee"></a>Chặn quyền truy cập vào một cựu nhân viên
+
+Có một nhân viên để lại và cần phải ngăn chặn quyền truy cập vào dữ liệu Office 365 và email? Hãy làm như sau.
   
 1. Trong Trung tâm quản trị, đi tới **người dùng** \> [Người dùng hoạt động](https://go.microsoft.com/fwlink/p/?linkid=834822) trang.
 
-2. Chọn người dùng bạn muốn chặn.
+2. Chọn tên người dùng bạn muốn chặn.
 
-3. Bên cạnh trạng thái đăng nhập, chọn **chỉnh sửa**.
+3. Dưới tên của người dùng, chọn **chặn người dùng này**.
 
-4. Chọn **chặn người dùng từ khi đăng nhập** \> **tiết kiệm**.
+4. Chọn **chặn người dùng từ khi đăng nhập** \> **lưu thay đổi**.
 
-**Lưu ý**: đăng xuất cho một số ứng dụng có thể không phải ngay lập tức. Theo dõi với các hành động khác trong bài viết này: [loại bỏ một cựu nhân viên từ Office 365](https://docs.microsoft.com/en-us/office365/admin/add-users/remove-former-employee)
+**Lưu ý**: đăng xuất cho một số ứng dụng có thể không phải ngay lập tức. Theo dõi với các hành động khác trong bài viết này: [loại bỏ một cựu nhân viên từ Office 365](https://docs.microsoft.com/office365/admin/add-users/remove-former-employee)

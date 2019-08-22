@@ -8,14 +8,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: b376d8ea-50c4-47f0-9720-50d80aa3f7f1
-ms.openlocfilehash: f333957a585d16207aabe0f9de4d4b72b9e1ce63
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 9e29823dd40cf9353ade9e32cf5ac4bc7794d154
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32374094"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36503225"
 ---
-# <a name="sharepoint-online-throttling"></a>SharePoint Online Throttling
+# <a name="sharepoint-online-throttling"></a>SharePoint Online throttling
 
 Sử dụng SharePoint Online throttling để duy trì hiệu suất tối ưu và độ tin cậy của các dịch vụ SharePoint Online. Throttling giới hạn số hành động người dùng hoặc đồng thời các cuộc gọi (bởi kịch bản hoặc mã) để ngăn chặn lạm dụng tài nguyên. Nếu bạn nhận được throttled, 99% thời gian, đó là bởi vì mã tùy chỉnh.
   

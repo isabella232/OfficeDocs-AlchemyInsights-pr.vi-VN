@@ -14,15 +14,15 @@ ms.custom:
 - "168"
 - "1200029"
 ms.assetid: e06cdce9-1e43-475d-970b-e0bac0fc5446
-ms.openlocfilehash: 20e3110c61599ebd8548f0aedc53c644132c7766
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 5af9236bfb208dd4c2f2a60e8122b3392a4eb222
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35364035"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36516693"
 ---
-# <a name="control-creation-of-o365-groups"></a>Điều khiển sáng tạo của các nhóm O365
+# <a name="control-creation-of-office-365-groups"></a>Điều khiển sáng tạo của các nhóm Office 365
 
-Theo mặc định, tất cả người dùng trong công ty có thể tạo ra các nhóm O365. Nếu cần thiết, bạn có thể thay đổi này, và gán các quyền để tạo ra các nhóm O365 cho một tập hợp của những người trong công ty của bạn. Lưu ý rằng điều này sẽ có tác động trên tạo ra các nhóm từ bất kỳ dịch vụ O365 (chẳng hạn như Outlook, các đội, hoạch định và do đó trên).
+Theo mặc định, tất cả người dùng trong công ty có thể tạo các nhóm. Nếu cần thiết, bạn có thể thay đổi này, và chỉ định quyền tạo nhóm cho một tập hợp của những người trong công ty của bạn. Lưu ý rằng điều này sẽ có tác động trên tạo ra các nhóm từ bất kỳ dịch vụ Office 365 (chẳng hạn như Outlook, các đội, hoạch định và do đó trên).
   
 Hướng dẫn: [quản lý những người có thể tạo các nhóm Office 365](https://docs.microsoft.com/office365/admin/create-groups/manage-creation-of-groups)

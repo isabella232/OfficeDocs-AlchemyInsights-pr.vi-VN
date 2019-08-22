@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 446b22df-807d-4778-a54f-767c2cc83fba
-ms.openlocfilehash: 4b55ef73a9234f605fd3dd02dc801866273be1a6
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: eab8994e85149e0e4b6c0ed8ae455820cd78607a
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32397956"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36505853"
 ---
 # <a name="outlook-search-not-indexing"></a>Tìm kiếm Outlook không chỉ mục
 
 Chúng tôi là nhận thức của Outlook tìm kiếm vấn đề cập nhật bảo mật có liên quan gần đây cho Windows.
   
-Khi tìm kiếm trong Outlook, bạn có thể nhận được lỗi này: ** một cái gì đó đã đi sai và tìm kiếm của bạn không thể được hoàn thành **, hoặc **kết quả tìm kiếm có thể không đầy đủ vì mục vẫn còn đang được lập chỉ mục**. Khắc phục sự cố đã được phát hành như là một tùy chọn Windows update. Hãy cài đặt một trong tương ứng với phiên bản Windows bạn đang nhìn thấy vấn đề này trên: 
+Khi tìm kiếm trong Outlook, bạn có thể nhận được một trong những lỗi: **một cái gì đó đã đi sai và không thể hoàn tất tìm kiếm của bạn**, hoặc **kết quả tìm kiếm có thể không đầy đủ vì mục vẫn còn đang được lập chỉ mục**. Khắc phục sự cố đã được phát hành như là một tùy chọn Windows update. Hãy cài đặt một trong tương ứng với phiên bản Windows bạn đang nhìn thấy vấn đề này trên: 
   
 > [Windows 7 - Cập Nhật ngày 27 tháng 6 năm 2017](https://support.microsoft.com/kb/4022168.aspx)
     

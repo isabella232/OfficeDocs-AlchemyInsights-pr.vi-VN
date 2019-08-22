@@ -13,27 +13,30 @@ ms.custom:
 - "663"
 - "1500007"
 ms.assetid: 9595e2e7-5f72-4b08-9e16-183fc6e9c108
-ms.openlocfilehash: 9592c217a8ea994314f1c1f75ce5928bb8020bac
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 93010b4923e86122fefea973c4653af827280ed4
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36385634"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36495053"
 ---
 # <a name="add-seats-to-a-prepaid-subscription"></a>Thêm ghế cho một thuê bao trả trước
 
-1. Trong Trung tâm quản trị, đi đến **thanh toán** \> [đăng ký](https://go.microsoft.com/fwlink/p/?linkid=842054) trang.
+Trả trước Office 365 giấy phép được cấp cho bạn như là một mã số 25 ký tự chữ và số. Sau khi bạn đã mua giấy phép bạn cần, bạn có thể thêm chúng vào đăng ký của bạn. 
 
-2. Chọn các thuê bao trả trước, bạn muốn thêm người dùng.
+1. Trong Trung tâm quản trị, đi đến **thanh toán** > trang[sản phẩm & dịch vụ](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-3. Trong trình đơn **Thêm tác vụ** , chọn **Renew hoặc thêm giấy phép với mã thông báo**.
+2. Tìm các thuê bao mà bạn muốn thêm giấy phép. Chọn danh sách thả xuống **tác vụ khác** , và sau đó chọn **Renew hoặc thêm giấy phép với mã thông báo**.
 
-4. **Khóa sản phẩm mới và không sử dụng** tùy chọn. (Nếu đăng ký này được tạo ra với một khóa sản phẩm mua tại một địa điểm bán lẻ, bạn có thể có tùy chọn để thêm người dùng với các phương thức thanh toán.)
+3. Trên các **Renew hay thêm người dùng giấy phép** trang, chọn **sử dụng một mã khóa sản phẩm mới và không sử dụng**, sau đó chọn **tiếp theo**.
 
-5. Chọn **tiếp theo**.
+4. Nhập khóa sản phẩm, sau đó chọn **tiếp theo**.
 
-6. Nhập khóa sản phẩm, sau đó chọn **tiếp theo**.
+    > [!NOTE]
+    > Nếu bạn có nhiều hơn một mã khóa sản phẩm, bạn có thể chọn **Thêm một sản phẩm quan trọng** để nhập chúng.
 
-7. Chọn tùy chọn để thêm nhiều người dùng, chọn **tiếp theo**, sau đó chọn **đổi**.
+5. Chọn để thêm người dùng vào việc đăng ký, sau đó chọn **tiếp theo**.
 
-Bạn đang sử dụng trung tâm quản trị mới? Mới bước, hãy xem [thêm giấy phép hoặc gia hạn thuê bao được thanh toán cho việc sử dụng một mã khóa sản phẩm](https://docs.microsoft.com/en-us/office365/admin/misc/add-licenses-using-product-key).
+6. Xem lại chi tiết đơn đặt hàng của bạn, sau đó chọn **đổi**.
+
+Để biết thêm chi tiết, hãy xem [thêm giấy phép hoặc gia hạn một thuê bao được thanh toán cho việc sử dụng một mã khóa sản phẩm](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).

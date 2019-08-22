@@ -13,12 +13,12 @@ ms.custom:
 - "456"
 - "1500020"
 ms.assetid: 713d37dd-a34c-469f-b96b-99d63e793fe9
-ms.openlocfilehash: 5ac8c629c98f6dbd716b0076f2e203a95263fe4f
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 3b4377cb54cf6892e5e04b61b7cce203ebe89855
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36389107"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36526701"
 ---
 # <a name="expired-subscription"></a>Hết hạn đăng ký
 
@@ -26,18 +26,16 @@ Dường như bạn có một hoặc nhiều mục đăng ký đã hết hạn. 
   
 **Kích hoạt lại**
   
-1. Trong Trung tâm quản trị, đi đến **thanh toán** \> [đăng ký](https://go.microsoft.com/fwlink/p/?linkid=842054) trang.
+1. Trong Trung tâm quản trị, đi đến **thanh toán** \> trang [sản phẩm & dịch vụ](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
 2. Chọn đăng ký để được kích hoạt lại.
 
-3. Bên phải, chọn **kích hoạt lại**.
+3. Trong phần **thanh toán** , chọn **kích hoạt lại**.
 
-Bạn đang sử dụng trung tâm quản trị mới? Mới bước, hãy xem [kích hoạt thuê bao của bạn](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
+Để biết thêm chi tiết, hãy xem [kích hoạt thuê bao của bạn](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
 
 **Mua hàng mới**
   
-1. Trong Trung tâm quản trị, đi đến **thanh toán** \> trang [Dịch vụ mua hàng](https://go.microsoft.com/fwlink/p/?linkid=868433) .
+1. Trong Trung tâm quản trị, đi đến **thanh toán** \> trang [dịch vụ mua hàng](https://go.microsoft.com/fwlink/p/?linkid=868433) .
 
-2. Chọn một thuê bao bạn muốn mua.
-
-3. Di chuột qua lát, và chọn **mua ngay bây giờ**.
+2. Chọn một thuê bao bạn muốn mua, và sau đó chọn **mua**.

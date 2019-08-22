@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 03a23778-ded1-4131-ba9c-59ecba15ff05
-ms.openlocfilehash: b526a87740c44d2b247c202a92d9c35f85383500
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 0ab2877a6192af1bf88016ca9cff5ec0aa967e5f
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32407600"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36516298"
 ---
 # <a name="create-a-communication-site"></a>Tạo một trang web thông tin liên lạc
 
-Để tạo một trang web thông tin liên lạc, hoàn thành các bước sau: 
+Để tạo ra một trang web thông tin liên lạc trong SharePoint Online, hoàn thành các bước sau: 
   
 1. Ở góc trên bên trái của trang, nhấp vào ứng dụng launcher và chọn gạch SharePoint. Nếu bạn không thấy gạch SharePoint, bấm vào **các trang web** hoặc **tất cả ứng dụng** nếu SharePoint không phải là có thể nhìn thấy. 
     

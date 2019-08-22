@@ -13,19 +13,19 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: 8c0ab0086ca47ead5705d423f01824081d0e109e
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 3727c037d323a042b8ba97e0fd01ca1481a76669
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34755353"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36524001"
 ---
 # <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>Nhận được một lỗi TenantAccessBlockedException khi truy cập vào email?
 
 Không có một vài lý do khác nhau, tại sao bạn có thể nhận được lỗi này. Ví dụ:
 
-- Xác minh rằng đăng ký của bạn là hợp lệ trong **thanh toán** \> **đăng ký** trang trong [Trung tâm quản trị Microsoft 365](https://portal.office.com/adminportal/home#/subscriptions).
+- Xác minh rằng đăng ký của bạn là hợp lệ trên **thanh toán** \> [sản phẩm & dịch vụ](https://portal.office.com/adminportal/home#/subscriptions) trang tại Trung tâm quản trị Microsoft 365.
 
-- Kiểm tra bất kỳ trong quá khứ do các thông báo trong **thanh toán** \> **hóa đơn** trang trong [Trung tâm quản trị Microsoft 365](https://portal.office.com/adminportal/home#/billoverview).
+- Kiểm tra bất kỳ trong quá khứ do thông báo trên **thanh toán** \> [thanh toán hóa đơn &](https://portal.office.com/adminportal/home#/billoverview) trang trong Trung tâm quản trị Microsoft 365.
 
 - Nếu thanh toán và đăng ký cho tài khoản của bạn đã được cập nhật mới, nó có thể mất thời gian cho những thay đổi để tuyên truyền. Hãy thử một lần nữa trong một vài phút, và nếu vấn đề vẫn còn, liên hệ với chúng tôi.
