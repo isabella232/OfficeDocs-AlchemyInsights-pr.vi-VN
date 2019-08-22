@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000566"
 - "2424"
-ms.openlocfilehash: d8be2a6d0c8a86fbcc86fb32c4150df28bb97ee6
-ms.sourcegitcommit: f507896c3909cfd02395d3214ab49f7a08f021e3
+ms.openlocfilehash: 990723bf8911ce15a72056262124e85e68e7f3b0
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "35607018"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36542147"
 ---
 # <a name="how-to-cancel-software-as-a-service-apps"></a>Làm thế nào để hủy bỏ phần mềm như một dịch vụ ứng dụng 
 
-1. Chuyển đến **thanh toán** > [sản phẩm & dịch vụ](https://go.microsoft.com/fwlink/p/?linkid=842054) trang, sau đó chọn **Apps** tab.
+1. Trong Trung tâm quản trị Microsoft 365, để **thanh toán** > [sản phẩm & dịch vụ](https://go.microsoft.com/fwlink/p/?linkid=842054) trang, sau đó chọn **Apps** tab.
 
 2. Tìm và chọn ứng dụng bạn muốn quản lý.
 

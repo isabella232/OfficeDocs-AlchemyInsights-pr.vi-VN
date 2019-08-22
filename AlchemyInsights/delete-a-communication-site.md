@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cbf9ca67-56ff-4455-aa2d-30b39f883ddb
-ms.openlocfilehash: d9e92b484e36e3fcc6a84dd655385b6e8d21434b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 33bf81d01653f29369672819cfe8446809584ec1
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32405830"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36514179"
 ---
 # <a name="delete-a-communication-site"></a>Xóa một trang web thông tin liên lạc
 
@@ -25,14 +25,12 @@ ms.locfileid: "32405830"
   
 3. Theo **Thông tin trang web**, nhấp vào **xóa trang web này**, và sau đó nhấp vào **xóa**. 
   
-Quản trị viên cũng có thể xóa một trang web thông tin từ Trung tâm quản trị hiện đại bằng cách làm theo các bước sau: 
+Quản trị viên cũng có thể xóa một trang web thông tin từ Trung tâm quản trị mới bằng cách làm theo các bước sau: 
   
-1. Hãy thử Trung tâm quản trị mới bằng cách nhấp vào **thử nó ngay bây giờ** nút ở góc trên bên phải. 
+1. Chọn **các trang web đang hoạt động** ở bên trái. 
   
-2. Chọn **các trang web đang hoạt động**. 
+2. Nhấp vào bên cạnh các trang web để xoá và tùy chọn **xóa** sẽ xuất hiện trong trình đơn đầu trang. 
   
-3. Nhấp vào bên cạnh các trang web để xoá và tùy chọn **xóa** sẽ xuất hiện trong trình đơn đầu trang. 
-  
- **Lưu ý:** Nếu bạn muốn xóa vĩnh viễn trang web thông tin liên lạc (bằng cách loại bỏ nó từ thùng rác) vì vậy, bạn có thể tái sử dụng URL trang web, sử dụng [https://aka.ms/Get-SPODeletedSite](https://aka.ms/Get-SPODeletedSite) để đánh giá các thùng rác và [https://aka.ms/Remove-SPODeletedSite](https://aka.ms/Remove-SPODeletedSite) để loại bỏ các trang web từ thùng rác. 
+ **Lưu ý:** Nếu bạn muốn xóa vĩnh viễn trang web thông tin liên lạc (bằng cách loại bỏ nó từ thùng rác) vì vậy, bạn có thể tái sử dụng URL trang web, sử dụng [Get-SPODeletedSite](https://aka.ms/Get-SPODeletedSite) để đánh giá các thùng rác và [Xóa-SPODeletedSite](https://aka.ms/Remove-SPODeletedSite) để loại bỏ các trang web từ thùng rác. 
   
 

@@ -11,16 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000609"
 - "2444"
-ms.openlocfilehash: 5a383bdd17c5fa055c35a923ca36e0e0f6d429e4
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: a943c59d67c512e6326856dacd0053db121f6aa3
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35380527"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36542039"
 ---
 # <a name="unable-to-set-primary-email-address-or-change-user-attributes"></a>Không thể đặt địa chỉ email chính hoặc thay đổi các thuộc tính người dùng
 
-Nếu đồng bộ hoá thư mục được kích hoạt cho môi trường của bạn một số thuộc tính đối tượng hoặc người dùng không thể thay đổi bằng cách sử dụng trung tâm quản trị.
+Nếu đồng bộ hoá thư mục được kích hoạt cho môi trường của bạn, một số thuộc tính đối tượng hoặc người dùng không thể thay đổi bằng cách sử dụng trung tâm quản trị Microsoft 365.
+
 Để hoàn toàn quản lý người dùng đồng bộ và tất cả các thuộc tính của họ, sử dụng của bạn địa phương hoạt động thư mục người dùng và nhóm quản lý giao diện điều khiển (adsiedit.msc).  
 
 Ngoài ra, bạn có thể thay đổi người dùng cá nhân hoặc các thuộc tính cho người dùng đồng bộ bằng cách sử dụng powershell chẳng hạn như hiển thị trong những ví dụ phổ biến: 

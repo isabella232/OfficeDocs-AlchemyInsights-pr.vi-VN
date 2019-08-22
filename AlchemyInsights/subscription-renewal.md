@@ -13,25 +13,21 @@ ms.custom:
 - "493"
 - "1500032"
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
-ms.openlocfilehash: 0a60ea59daad5679f249fd52a15fe2262dee347b
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 5514117e56daeb9098c5d90caccc230261f3177c
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388226"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36501387"
 ---
 # <a name="subscription-recurring-billing"></a>Đăng ký theo định kỳ thanh toán
 
-Nếu bạn muốn biết khi đăng ký hàng tháng hoặc hàng năm của bạn sẽ được lập hoá đơn (nếu **thanh toán Recurring** được bật) hoặc hết hạn (nếu **thanh toán Recurring** tắt):
+Nếu bạn muốn biết khi của bạn hàng tháng hoặc hàng năm đăng ký Office 365 sẽ được lập hoá đơn (nếu **thanh toán Recurring** được bật) hoặc hết hạn (nếu **thanh toán Recurring** tắt):
   
-1. Trong Trung tâm quản trị, đi đến **thanh toán** \> [đăng ký](https://go.microsoft.com/fwlink/p/?linkid=842054) trang.
+1. Trong Trung tâm quản trị, đi đến **thanh toán** \> trang [sản phẩm & dịch vụ](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. Chọn các thuê bao mà bạn muốn biết thêm về.
+2. Cho các thuê bao mà bạn muốn biết thêm về, theo **thanh toán**, xem **Renews trên** hoặc **Expiring trên** ngày.
 
-3. Bên phải của thẻ đăng ký là thông tin về tình trạng đăng ký, cài đặt **thanh toán Recurring** và ngày thanh toán hoặc hết hạn tiếp theo.
+4. Để làm cho một sự thay đổi, hãy chọn **chỉnh sửa** và sau đó, trong cửa sổ cài đặt **thanh toán Recurring** , chọn **Turn OFF** để tắt nó đi. Nếu thanh toán định kỳ đã tắt, hãy chọn **hàng tháng** hoặc **một lần** để biến nó trên.
 
-4. Để tiếp tục sử dụng dịch vụ qua ngày này, chuyển đổi chuyển đổi **cài đặt thanh toán Recurring** **on**. Trạng thái sẽ hiển thị ngày thanh toán tiếp theo cho các thuê bao.
-
-5. Để ngừng dịch vụ vào ngày này, chuyển đổi chuyển đổi **thanh toán Recurring** **off**. Trạng thái sẽ hiển thị ngày hết hạn đăng ký.
-
-Bạn đang sử dụng trung tâm quản trị mới? Mới bước, hãy xem [bật định kỳ thanh toán hết hoặc trên](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/renew-your-subscription).
+Để biết thêm chi tiết, hãy xem [bật định kỳ thanh toán hết hoặc trên](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription).

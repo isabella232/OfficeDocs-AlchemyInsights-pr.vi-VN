@@ -12,20 +12,20 @@ ms.custom:
 - "1369"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 43b6a26bc05892e71d41c4b47522785245cb4851
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 7defd0902e8c8bebae9c7bfee72c3199cbc1909f
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35383119"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36539123"
 ---
 # <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Xác định khi chuyển tiếp email bên ngoài được cấu hình trên hộp thư
 
-Khi người dùng cấu hình chuyển tiếp thư điện tử bên ngoài một hộp thư, các hoạt động kiểm toán là một phần của lệnh ghép ngắn **Set-Mailbox** . Bạn có thể xem các hoạt động bằng cách sử dụng kiểm toán đăng nhập tìm kiếm trong an ninh & Trung tâm phù hợp.
+Khi một người dùng Office 365 cấu hình chuyển tiếp thư điện tử bên ngoài một hộp thư, các hoạt động kiểm toán là một phần của lệnh ghép ngắn **Set-Mailbox** . Bạn có thể xem các hoạt động bằng cách sử dụng kiểm toán đăng nhập tìm kiếm trong an ninh & Trung tâm phù hợp.
 
-1. Đăng nhập vào [Trung tâm Compliance Office 365 bảo mật &](https://protection.office.com/)
+1. Đăng nhập [Office 365 an ninh & tuân thủ trung tâm](https://protection.office.com/).
 
-2. Nhấp vào **Tìm kiếm và điều tra** và chọn **Kiểm toán đăng nhập tìm kiếm**.
+2. Đi **Tìm** > trang**kiểm toán đăng nhập tìm kiếm** .
 
 3. Chọn phạm vi ngày trong các **ngày bắt đầu** và **ngày kết thúc** . Bạn không cần phải chỉ định một tên người dùng. Xác minh các lĩnh vực **hoạt động** được đặt để **Hiển thị kết quả cho tất cả các hoạt động**.
 

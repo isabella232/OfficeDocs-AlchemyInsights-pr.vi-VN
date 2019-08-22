@@ -11,12 +11,12 @@ ms.custom:
 - "750"
 - "5300017"
 ms.assetid: 693db84f-2737-4c21-b027-4ab3d121b4a8
-ms.openlocfilehash: 8215b0a5cde5adffa3bec37d6699418557f914dd
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: ffb6bf349f9e8c2323186a8fc3183325d1d7e1bf
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35363850"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36517053"
 ---
 # <a name="content-doesnt-appear-in-sharepoint-search-results"></a>Nội dung không xuất hiện trong kết quả tìm kiếm của SharePoint
 
@@ -28,7 +28,7 @@ Hãy làm theo các bước gỡ rối khi nội dung dự kiến sẽ không xu
 
 3. Xác minh rằng trang, tài liệu hoặc trang tùy chỉnh bố trí được công bố như là một **lớn phiên bản.** Thực hiện theo bước 3 trong [Tìm kiếm không trả lại tất cả kết quả trong SharePoint Online](https://go.microsoft.com/fwlink/?linkid=874525).
 
-4. Xác minh rằng người dùng có **quyền** để xem nội dung. Làm theo các bước trong [sự hiểu biết các cấp phép SharePoint](https://docs.microsoft.com/en-us/sharepoint/understanding-permission-levels).
+4. Xác minh rằng người dùng có **quyền** để xem nội dung. Làm theo các bước trong [sự hiểu biết các cấp phép SharePoint](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
     
 5. Nếu lược đồ tìm kiếm đã được thay đổi bằng cách thêm một tài sản được quản lý mới, bằng cách chỉnh sửa một tài sản được quản lý, hoặc bằng cách loại bỏ một tài sản được quản lý, sau đó yêu cầu một thu thập dữ liệu và tái lập chỉ mục nhất sẽ được yêu cầu. **Lại chỉ mục** nội dung bằng cách làm theo các bước trong [tự yêu cầu thu thập dữ liệu và lập chỉ mục lại của một trang web, một thư viện hay một danh sách](https://docs.microsoft.com/sharepoint/crawl-site-content). Điều này có thể mất một lúc, hãy đợi 24 giờ trước khi kiểm tra kết quả một lần nữa.
 
