@@ -9,13 +9,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 52484e19-9328-42f4-b675-7e0be9338a8b
-ms.openlocfilehash: 7d300bd006c3e7fae68da1245037819396122fc9
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: c3f47e3230270e69b8a5bb7ee4167b0b534460dd
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34754952"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36498977"
 ---
+# <a name="about-litigation-holds-and-in-place-holds"></a>Về kiện tụng có và giữ tại chỗ
+
 - Để áp dụng một vụ kiện tụng giữ hoặc ở một địa điểm tổ chức cho một hộp thư, một [trao đổi trực tuyến kế hoạch 2 giấy phép](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) được yêu cầu. Nếu bạn có bất kỳ kế hoạch khác, gán một giấy phép [Trao đổi lưu trữ trực tuyến](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) riêng biệt cho các tài khoản. 
     
 - **Để cho phép duy trì** cho một người dùng, hãy làm theo các bước được nêu [ở đây](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold). Khi duy trì tranh chấp được kích hoạt, tất cả nội dung trong hộp thư được đặt trên tổ chức.

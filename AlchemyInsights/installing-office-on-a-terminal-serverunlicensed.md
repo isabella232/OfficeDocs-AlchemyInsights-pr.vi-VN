@@ -11,12 +11,12 @@ ms.custom:
 - "917"
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
-ms.openlocfilehash: 6fc4bd5f6971ca833084a6a8ad6c25b3fdafb8dc
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: edac051840594f13b22ccd83f5cd6e3da5f84cbc
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35381751"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36498437"
 ---
 # <a name="installing-office-on-a-terminal-server"></a>Cài đặt Office trên một máy chủ đầu cuối
 
@@ -26,7 +26,7 @@ ms.locfileid: "35381751"
 
 - Bạn cần cho phép [dùng chung máy tính kích hoạt](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus).
 
-Nếu bạn muốn cài đặt Office 365 ProPlus trên RDS từ cổng Office 365, ** *sử dụng thiết lập cài đặt mặc định* **, hãy làm theo các bước sau:
+Nếu bạn muốn cài đặt Office 365 ProPlus trên RDS từ cổng Office 365, ***sử dụng thiết lập cài đặt mặc định***, hãy làm theo các bước sau:
   
 1. Kiểm tra những gì kế hoạch Office 365 bạn có. [Tìm hiểu làm thế nào](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
 
@@ -36,7 +36,7 @@ Nếu bạn muốn cài đặt Office 365 ProPlus trên RDS từ cổng Office 3
 
 4. Trên máy chủ RDS, đăng nhập vào cổng Office 365 với tài khoản quản trị của bạn và [cài đặt Office 365 ProPlus](https://portal.office.com/OLS/MySoftware.aspx).
 
-5. Sau khi văn phòng được cài đặt, ** *không mở hoặc đăng nhập* ** cho bất kỳ ứng dụng văn phòng.
+5. Sau khi văn phòng được cài đặt, ***không mở hoặc đăng nhập*** để các ứng dụng văn phòng.
 
 6. Trên máy chủ RDS, cho phép dùng chung máy tính kích hoạt bằng cách chỉnh sửa đăng ký bằng cách làm theo các bước sau:
 
@@ -46,7 +46,7 @@ Nếu bạn muốn cài đặt Office 365 ProPlus trên RDS từ cổng Office 3
 
 3. Trong Registry Editor, thêm một chuỗi giá trị của **SharedComputerLicensing** với một thiết lập 1 dưới HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \Office\ClickToRun\Configuration.
 
-7. Trên máy chủ RDS, ** *đăng nhập như là một người sử dụng cuối cùng* ** và [xác minh rằng dùng chung máy tính kích hoạt được kích hoạt cho Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded).
+7. Trên máy chủ RDS, ***đăng nhập như là một người dùng cuối*** và [xác minh rằng dùng chung máy tính kích hoạt được kích hoạt cho Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded).
 
 Để biết thêm chi tiết về điều kiện tiên quyết, hướng dẫn cài đặt và hướng dẫn cài đặt tùy chỉnh bằng cách sử dụng công cụ triển khai văn phòng, hãy xem [Triển khai Office 365 ProPlus bằng cách sử dụng dịch vụ máy tính để bàn từ xa](https://docs.microsoft.com/DeployOffice/deploy-office-365-proplus-by-using-remote-desktop-services).
   
