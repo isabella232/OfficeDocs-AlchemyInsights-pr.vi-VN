@@ -10,17 +10,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7ec088d3-8629-435e-a222-8722bc99f9c6
 ms.custom: 410
-ms.openlocfilehash: 499a525b484a0d8bc469b185016d041159235864
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: f76c16275605a5716d4e20b569c10498763a8204
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32396782"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36518277"
 ---
-# <a name="calendar-sharing-in-office-365"></a><span data-ttu-id="d3a38-102">Lịch chia sẻ trong Office 365</span><span class="sxs-lookup"><span data-stu-id="d3a38-102">Calendar sharing in Office 365</span></span>
+# <a name="calendar-sharing-in-office-365"></a><span data-ttu-id="24d8c-102">Lịch chia sẻ trong Office 365</span><span class="sxs-lookup"><span data-stu-id="24d8c-102">Calendar sharing in Office 365</span></span>
 
-<span data-ttu-id="d3a38-103">Nếu bạn đang gặp vấn đề truy cập vào lịch của bạn hoặc lịch khác, sử dụng [Microsoft hỗ trợ và phục hồi chương trình hỗ trợ cho Office 365](https://diagnostics.office.com/).</span><span class="sxs-lookup"><span data-stu-id="d3a38-103">If you're having issues accessing your calendar or other calendars, use the [Microsoft Support and Recovery Assistant for Office 365](https://diagnostics.office.com/).</span></span>
+<span data-ttu-id="24d8c-103">Nếu bạn đang gặp vấn đề truy cập vào lịch của bạn hoặc lịch khác, sử dụng [Microsoft hỗ trợ và phục hồi chương trình hỗ trợ cho Office 365](https://diagnostics.office.com/).</span><span class="sxs-lookup"><span data-stu-id="24d8c-103">If you're having issues accessing your calendar or other calendars, use the [Microsoft Support and Recovery Assistant for Office 365](https://diagnostics.office.com/).</span></span>
   
-<span data-ttu-id="d3a38-104">Để tìm hiểu thêm về chia sẻ lịch của bạn, hãy xem [chia sẻ một lịch Outlook với người khác](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88.aspx).</span><span class="sxs-lookup"><span data-stu-id="d3a38-104">To learn more about sharing your calendar, see [Share an Outlook calendar with other people](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88.aspx).</span></span>
+<span data-ttu-id="24d8c-104">Để tìm hiểu thêm về chia sẻ lịch của bạn, hãy xem [chia sẻ một lịch Outlook với người khác](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88.aspx).</span><span class="sxs-lookup"><span data-stu-id="24d8c-104">To learn more about sharing your calendar, see [Share an Outlook calendar with other people](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88.aspx).</span></span>
   
 
