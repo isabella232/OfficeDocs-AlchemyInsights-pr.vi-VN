@@ -13,12 +13,12 @@ ms.custom:
 - "1241"
 - "3200001"
 ms.assetid: f6fcf5ad-55a1-4f25-af27-1f7c1ce06409
-ms.openlocfilehash: 1ea457bd69e7d545cf761a0be849695738b19d8b
-ms.sourcegitcommit: d6ea6f4456a582559f27b34c0b9455a86a8e61f1
+ms.openlocfilehash: 102c8025571f840cf64091d75295acec50661df2
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 07/31/2019
-ms.locfileid: "35941090"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36530324"
 ---
 # <a name="dlp-not-working-as-expected"></a>DLP không làm việc như mong đợi
 
@@ -42,7 +42,7 @@ Khi sử dụng **các loại thông tin nhạy cảm được xây dựng trong
 
 **Kiểm tra chính sách DLP**
 
-Để kiểm tra dữ liệu của bạn với một loại thông tin nhạy cảm được xây dựng trong hoặc tùy chỉnh, sử dụng các tùy chọn **kiểm tra các loại** theo **phân loại** > **các loại thông tin nhạy cảm**. Để biết thêm chi tiết, hãy xem [thử nghiệm các loại tùy chỉnh các thông tin nhạy cảm](https://docs.microsoft.com/en-us/office365/securitycompliance/create-a-custom-sensitive-information-type#test-custom-sensitive-information-types-in-the-security--compliance-center).
+Để kiểm tra dữ liệu của bạn với một loại thông tin nhạy cảm được xây dựng trong hoặc tùy chỉnh, sử dụng các tùy chọn **kiểm tra các loại** theo **phân loại** > **các loại thông tin nhạy cảm**. Để biết thêm chi tiết, hãy xem [thử nghiệm các loại tùy chỉnh các thông tin nhạy cảm](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type#test-custom-sensitive-information-types-in-the-security--compliance-center).
 
  **Báo cáo**
   

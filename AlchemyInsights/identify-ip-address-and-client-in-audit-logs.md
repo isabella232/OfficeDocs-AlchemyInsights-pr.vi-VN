@@ -12,20 +12,20 @@ ms.custom:
 - "1367"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: a91778c006531371b85116f5c97485d42e6cc5be
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: e0119762d2a34bd2b0da827faf55c832e29d8a2b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35382975"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36539051"
 ---
 # <a name="identify-ip-address-and-client-in-audit-logs"></a>Xác định địa chỉ IP và các khách hàng trong Nhật ký kiểm tra
 
-Địa chỉ IP tương ứng với một hoạt động của một người dùng hay quản trị được thể hiện trong Nhật ký kiểm tra. Thông tin khách hàng cũng đã đăng nhập. Dưới đây là các bước để xác định các thông tin như vậy
+Địa chỉ IP tương ứng với một hoạt động bởi một người dùng Office 365 hoặc người quản trị được thể hiện trong Nhật ký kiểm tra. Thông tin khách hàng cũng đã đăng nhập. Dưới đây là các bước để xác định các thông tin như vậy
 
-1. Đăng nhập vào [Trung tâm Compliance Office 365 bảo mật &](https://protection.office.com/)
+1. Đăng nhập [Office 365 an ninh & tuân thủ trung tâm](https://protection.office.com/).
 
-2. Nhấp vào **Tìm kiếm và điều tra** và chọn **Kiểm toán đăng nhập tìm kiếm**.
+2. Đi **Tìm** > trang**kiểm toán đăng nhập tìm kiếm** .
 
    Nếu bạn đang quan tâm đến một hoạt động cụ thể, chọn nó từ danh sách **các hoạt động** . Nếu không, tất cả các hoạt động sẽ được trả lại cho người dùng lựa chọn (cài đặt mặc định).
 

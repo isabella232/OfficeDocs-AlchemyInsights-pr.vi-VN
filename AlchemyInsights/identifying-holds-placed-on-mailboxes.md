@@ -12,14 +12,16 @@ ms.custom:
 - "1202"
 - "3100023"
 ms.assetid: 3378775d-67a2-47aa-a7ed-fbc6d0b4d561
-ms.openlocfilehash: 90302767ac2cb4e137bc1fd5fa17edea4602b766
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 5d6f8f2dff42d89a91759c4504cab68b5d1c22f4
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35382903"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36538828"
 ---
-Bạn có nội dung đang là **giữ lại** bởi một **tổ chức** mà bạn không thể xác định? Cần **Tìm hiểu** nơi giữ nằm trên **hộp thư** ? Giữ ( *tính năng duy trì* ) có thể được áp dụng bởi một trong những phương pháp sau trong Office 365:
+# <a name="identify-holds-placed-on-mailboxes"></a>Xác định các tổ chức được đặt trên hộp thư
+
+Bạn có nội dung Office 365 đang là **giữ lại** bởi một **tổ chức** mà bạn không thể xác định? Cần **Tìm hiểu** nơi giữ nằm trên **hộp thư** ? Giữ (*tính năng duy trì*) có thể được áp dụng bởi một trong những phương pháp sau trong Office 365:
   
 - Duy trì tranh chấp
 
