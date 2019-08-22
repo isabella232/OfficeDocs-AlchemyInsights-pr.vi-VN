@@ -12,21 +12,21 @@ ms.assetid: 3891bd0c-374c-49aa-9336-86caccb9639e
 ms.custom:
 - "786"
 - "6200002"
-ms.openlocfilehash: e25f544b9f94eaa6a9d090c4d21a37add5b4bdc5
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 9249fc562ef73078d508d7548275f336cc13caa1
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35353451"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36506753"
 ---
-# <a name="troubleshoot-issues-with-enrollment-options-microsoft-intune"></a><span data-ttu-id="5ed55-102">Gỡ rối các vấn đề với các tùy chọn đăng ký Microsoft Intune</span><span class="sxs-lookup"><span data-stu-id="5ed55-102">Troubleshoot issues with enrollment options Microsoft Intune</span></span>
+# <a name="troubleshoot-issues-with-enrollment-options-microsoft-intune"></a><span data-ttu-id="06047-102">Gỡ rối các vấn đề với các tùy chọn đăng ký Microsoft Intune</span><span class="sxs-lookup"><span data-stu-id="06047-102">Troubleshoot issues with enrollment options Microsoft Intune</span></span>
 
-<span data-ttu-id="5ed55-103">Xem xét các nguồn tài nguyên được liệt kê dưới đây để giải quyết vấn đề của bạn bây giờ.</span><span class="sxs-lookup"><span data-stu-id="5ed55-103">Review the resources listed below to resolve your issue now.</span></span>
+<span data-ttu-id="06047-103">Xem xét các nguồn tài nguyên được liệt kê dưới đây để giải quyết vấn đề của bạn bây giờ.</span><span class="sxs-lookup"><span data-stu-id="06047-103">Review the resources listed below to resolve your issue now.</span></span>
   
-- <span data-ttu-id="5ed55-104">[Xem lại dành TechNet để tìm câu trả lời và giải pháp cho các vấn đề phổ biến](https://social.technet.microsoft.com/Forums/home?category=microsoftintune&amp;filter=alltypes&amp;sort=lastpostdesc).</span><span class="sxs-lookup"><span data-stu-id="5ed55-104">[Review Intune TechNet to find answers and solutions to common issues](https://social.technet.microsoft.com/Forums/home?category=microsoftintune&amp;filter=alltypes&amp;sort=lastpostdesc).</span></span>
+- <span data-ttu-id="06047-104">[Xem lại dành TechNet để tìm câu trả lời và giải pháp cho các vấn đề phổ biến](https://social.technet.microsoft.com/Forums/home?category=microsoftintune&amp;filter=alltypes&amp;sort=lastpostdesc).</span><span class="sxs-lookup"><span data-stu-id="06047-104">[Review Intune TechNet to find answers and solutions to common issues](https://social.technet.microsoft.com/Forums/home?category=microsoftintune&amp;filter=alltypes&amp;sort=lastpostdesc).</span></span>
 
-- <span data-ttu-id="5ed55-105">Sử dụng [Cổng thông tin khắc phục sự cố dành](https://aka.ms/intunetroubleshooting) để chẩn đoán và giải quyết chung đăng ký thất bại.</span><span class="sxs-lookup"><span data-stu-id="5ed55-105">Use [Intune Troubleshooting Portal](https://aka.ms/intunetroubleshooting) to diagnose and resolve common enrollment failures.</span></span> <span data-ttu-id="5ed55-106">Xem lại [tài liệu này](https://docs.microsoft.com/intune/help-desk-operators) cho biết thêm chi tiết.</span><span class="sxs-lookup"><span data-stu-id="5ed55-106">Review [this document](https://docs.microsoft.com/intune/help-desk-operators) for more details.</span></span>
+- <span data-ttu-id="06047-105">Sử dụng [Cổng thông tin khắc phục sự cố dành](https://aka.ms/intunetroubleshooting) để chẩn đoán và giải quyết chung đăng ký thất bại.</span><span class="sxs-lookup"><span data-stu-id="06047-105">Use [Intune Troubleshooting Portal](https://aka.ms/intunetroubleshooting) to diagnose and resolve common enrollment failures.</span></span> <span data-ttu-id="06047-106">Xem lại [tài liệu này](https://docs.microsoft.com/intune/help-desk-operators) cho biết thêm chi tiết.</span><span class="sxs-lookup"><span data-stu-id="06047-106">Review [this document](https://docs.microsoft.com/intune/help-desk-operators) for more details.</span></span>
 
-- <span data-ttu-id="5ed55-107">Xem lại [tài liệu này](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) cho một danh sách các lỗi phổ biến mà ngăn chặn ghi danh và độ phân giải cho mỗi.</span><span class="sxs-lookup"><span data-stu-id="5ed55-107">Review [this document](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) for a list of common errors that prevent enrollment and resolutions to each.</span></span>
+- <span data-ttu-id="06047-107">Xem lại [tài liệu này](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) cho một danh sách các lỗi phổ biến mà ngăn chặn ghi danh và độ phân giải cho mỗi.</span><span class="sxs-lookup"><span data-stu-id="06047-107">Review [this document](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) for a list of common errors that prevent enrollment and resolutions to each.</span></span>
 
-- <span data-ttu-id="5ed55-108">[Tìm hiểu về các lựa chọn đăng ký trong Microsoft dành](https://docs.microsoft.com/intune/enrollment-options).</span><span class="sxs-lookup"><span data-stu-id="5ed55-108">[Learn about enrollment options in Microsoft Intune](https://docs.microsoft.com/intune/enrollment-options).</span></span>
+- <span data-ttu-id="06047-108">[Tìm hiểu về các lựa chọn đăng ký trong Microsoft dành](https://docs.microsoft.com/intune/enrollment-options).</span><span class="sxs-lookup"><span data-stu-id="06047-108">[Learn about enrollment options in Microsoft Intune](https://docs.microsoft.com/intune/enrollment-options).</span></span>

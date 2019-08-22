@@ -15,31 +15,31 @@ ms.custom:
 - "1800014"
 - "1800018"
 ms.assetid: d2b46122-b59a-4b94-9cae-5e42be819022
-ms.openlocfilehash: 168761c46cb7534d466664d6172c6e9f2ce74101
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: f636c0b6bef3ec779a6393f3a4cd489a467c4bc5
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35355323"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36509239"
 ---
-# <a name="set-up-email-in-the-outlook-mobile-app"></a><span data-ttu-id="3ee6e-102">Thiết lập email trong Outlook mobile app</span><span class="sxs-lookup"><span data-stu-id="3ee6e-102">Set up email in the Outlook mobile app</span></span>
+# <a name="set-up-email-in-the-outlook-mobile-app"></a><span data-ttu-id="95755-102">Thiết lập email trong Outlook mobile app</span><span class="sxs-lookup"><span data-stu-id="95755-102">Set up email in the Outlook mobile app</span></span>
 
-1. <span data-ttu-id="3ee6e-103">Chọn **Bắt đầu** nếu bạn thiết lập thời gian đầu tiên lập email trong ứng dụng điện thoại di động.</span><span class="sxs-lookup"><span data-stu-id="3ee6e-103">Select **Get Started** if it's your first time setting up email in the mobile app.</span></span> <span data-ttu-id="3ee6e-104">Nếu không, bấm vào **Menu** và sau đó bấm vào **cài đặt** \> **Thêm tài khoản** \> **Thêm tài khoản Email**.</span><span class="sxs-lookup"><span data-stu-id="3ee6e-104">Otherwise, tap **Menu** and then tap **Settings** \> **Add Account** \> **Add Email Account**.</span></span>
+1. <span data-ttu-id="95755-103">Chọn **Bắt đầu** nếu bạn thiết lập thời gian đầu tiên lập email trong ứng dụng điện thoại di động.</span><span class="sxs-lookup"><span data-stu-id="95755-103">Select **Get Started** if it's your first time setting up email in the mobile app.</span></span> <span data-ttu-id="95755-104">Nếu không, bấm vào **Menu** và sau đó bấm vào **cài đặt** \> **Thêm tài khoản** \> **Thêm tài khoản Email**.</span><span class="sxs-lookup"><span data-stu-id="95755-104">Otherwise, tap **Menu** and then tap **Settings** \> **Add Account** \> **Add Email Account**.</span></span>
 
-2. <span data-ttu-id="3ee6e-105">Nhập địa chỉ email đầy đủ của bạn và bấm vào **tiếp tục** hoặc **Thêm tài khoản**.</span><span class="sxs-lookup"><span data-stu-id="3ee6e-105">Enter your full email address and tap **Continue** or **Add Account**.</span></span>
+2. <span data-ttu-id="95755-105">Nhập địa chỉ email đầy đủ của bạn và bấm vào **tiếp tục** hoặc **Thêm tài khoản**.</span><span class="sxs-lookup"><span data-stu-id="95755-105">Enter your full email address and tap **Continue** or **Add Account**.</span></span>
 
-3. <span data-ttu-id="3ee6e-106">Nhập mật khẩu tài khoản email của bạn và bấm vào **Đăng nhập** hay **tiếp theo**.</span><span class="sxs-lookup"><span data-stu-id="3ee6e-106">Enter your email account password and tap **Sign In** or **Next**.</span></span>
+3. <span data-ttu-id="95755-106">Nhập mật khẩu tài khoản email của bạn và bấm vào **Đăng nhập** hay **tiếp theo**.</span><span class="sxs-lookup"><span data-stu-id="95755-106">Enter your email account password and tap **Sign In** or **Next**.</span></span>
 
-4. <span data-ttu-id="3ee6e-107">Nếu [nhiều yếu tố xác thực](https://support.office.com/article/8f0454b2-f51a-4d9c-bcde-2c48e41621c6.aspx) được kích hoạt, xác minh bằng cách sử dụng các phương pháp mà bạn thiết lập (mã 6 chữ số, gọi điện thoại hoặc ứng dụng Microsoft Authenticator).</span><span class="sxs-lookup"><span data-stu-id="3ee6e-107">If [multi-factor authentication](https://support.office.com/article/8f0454b2-f51a-4d9c-bcde-2c48e41621c6.aspx) is enabled, verify using the method you set up (6 digit code, phone call, or Microsoft Authenticator app).</span></span>
+4. <span data-ttu-id="95755-107">Nếu [nhiều yếu tố xác thực](https://support.office.com/article/8f0454b2-f51a-4d9c-bcde-2c48e41621c6.aspx) được kích hoạt, xác minh bằng cách sử dụng các phương pháp mà bạn thiết lập (mã 6 chữ số, gọi điện thoại hoặc ứng dụng Microsoft Authenticator).</span><span class="sxs-lookup"><span data-stu-id="95755-107">If [multi-factor authentication](https://support.office.com/article/8f0454b2-f51a-4d9c-bcde-2c48e41621c6.aspx) is enabled, verify using the method you set up (6 digit code, phone call, or Microsoft Authenticator app).</span></span>
 
-5. <span data-ttu-id="3ee6e-108">Nếu bổ sung các chính sách quản trị CNTT đưa ra, bấm vào **kích hoạt** để kích hoạt chúng.</span><span class="sxs-lookup"><span data-stu-id="3ee6e-108">If additional IT admin policies are in place, tap **Activate** to enable them.</span></span>
+5. <span data-ttu-id="95755-108">Nếu bổ sung các chính sách quản trị CNTT đưa ra, bấm vào **kích hoạt** để kích hoạt chúng.</span><span class="sxs-lookup"><span data-stu-id="95755-108">If additional IT admin policies are in place, tap **Activate** to enable them.</span></span>
 
-6. <span data-ttu-id="3ee6e-109">Outlook có thể yêu cầu sự cho phép để truy cập vào lịch của bạn, địa chỉ liên lạc và thông tin khác.</span><span class="sxs-lookup"><span data-stu-id="3ee6e-109">Outlook may request permission to access your calendar, contacts, and other information.</span></span> <span data-ttu-id="3ee6e-110">Chọn **Yes** hoặc **cho phép**.</span><span class="sxs-lookup"><span data-stu-id="3ee6e-110">Select **Yes** or **Allow**.</span></span>
+6. <span data-ttu-id="95755-109">Outlook có thể yêu cầu sự cho phép để truy cập vào lịch của bạn, địa chỉ liên lạc và thông tin khác.</span><span class="sxs-lookup"><span data-stu-id="95755-109">Outlook may request permission to access your calendar, contacts, and other information.</span></span> <span data-ttu-id="95755-110">Chọn **Yes** hoặc **cho phép**.</span><span class="sxs-lookup"><span data-stu-id="95755-110">Select **Yes** or **Allow**.</span></span>
 
-<span data-ttu-id="3ee6e-111">Nhận được chi tiết thiết lập hướng dẫn cho [Outlook cho Android](https://support.office.com/article/886db551-8dfa-4fd5-b835-f8e532091872.aspx) hoặc [Outlook cho iOS](https://support.office.com/article/b2de2161-cc1d-49ef-9ef9-81acd1c8e234.aspx) tại đây.</span><span class="sxs-lookup"><span data-stu-id="3ee6e-111">Get detailed set up instructions for [Outlook for Android](https://support.office.com/article/886db551-8dfa-4fd5-b835-f8e532091872.aspx) or [Outlook for iOS](https://support.office.com/article/b2de2161-cc1d-49ef-9ef9-81acd1c8e234.aspx) here.</span></span>
+<span data-ttu-id="95755-111">Nhận được chi tiết thiết lập hướng dẫn cho [Outlook cho Android](https://support.office.com/article/886db551-8dfa-4fd5-b835-f8e532091872.aspx) hoặc [Outlook cho iOS](https://support.office.com/article/b2de2161-cc1d-49ef-9ef9-81acd1c8e234.aspx) tại đây.</span><span class="sxs-lookup"><span data-stu-id="95755-111">Get detailed set up instructions for [Outlook for Android](https://support.office.com/article/886db551-8dfa-4fd5-b835-f8e532091872.aspx) or [Outlook for iOS](https://support.office.com/article/b2de2161-cc1d-49ef-9ef9-81acd1c8e234.aspx) here.</span></span>
   
- <span data-ttu-id="3ee6e-112">**Cần trợ giúp?**</span><span class="sxs-lookup"><span data-stu-id="3ee6e-112">**Need help?**</span></span>
+ <span data-ttu-id="95755-112">**Cần trợ giúp?**</span><span class="sxs-lookup"><span data-stu-id="95755-112">**Need help?**</span></span>
   
-- [<span data-ttu-id="3ee6e-113">Khắc phục sự cố thiết lập email trên điện thoại di động</span><span class="sxs-lookup"><span data-stu-id="3ee6e-113">Troubleshoot email setup on mobile</span></span>](https://support.office.com/article/a264ef01-9c88-48fb-9285-7017e4f31f02.aspx)
+- [<span data-ttu-id="95755-113">Khắc phục sự cố thiết lập email trên điện thoại di động</span><span class="sxs-lookup"><span data-stu-id="95755-113">Troubleshoot email setup on mobile</span></span>](https://support.office.com/article/a264ef01-9c88-48fb-9285-7017e4f31f02.aspx)
 
-- [<span data-ttu-id="3ee6e-114">Trợ giúp trong ứng dụng Outlook cho iOS và Android</span><span class="sxs-lookup"><span data-stu-id="3ee6e-114">Get in-app help for Outlook for iOS and Android</span></span>](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support)
+- [<span data-ttu-id="95755-114">Trợ giúp trong ứng dụng Outlook cho iOS và Android</span><span class="sxs-lookup"><span data-stu-id="95755-114">Get in-app help for Outlook for iOS and Android</span></span>](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support)

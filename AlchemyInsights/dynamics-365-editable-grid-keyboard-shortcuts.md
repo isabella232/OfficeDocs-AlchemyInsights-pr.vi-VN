@@ -9,13 +9,13 @@ localization_priority: Normal
 ms.custom:
 - "1708"
 - "6200013"
-ms.openlocfilehash: 92b41db66c7f64973dbccc9cc8ba5cd5e9818549
-ms.sourcegitcommit: a413a0e27ef4ab8c484fa9fccff8bbef381c8b96
+ms.openlocfilehash: 030190352426de39cda53be3429e7bb8c2c42000
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35749196"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36529113"
 ---
-# <a name="dynamics-365-editable-grid-keyboard-shortcuts"></a><span data-ttu-id="73b9e-102">Dynamics 365 lưới điện có thể chỉnh sửa phím tắt</span><span class="sxs-lookup"><span data-stu-id="73b9e-102">Dynamics 365 editable grid keyboard shortcuts</span></span>
+# <a name="dynamics-365-editable-grid-keyboard-shortcuts"></a><span data-ttu-id="e8348-102">Dynamics 365 lưới điện có thể chỉnh sửa phím tắt</span><span class="sxs-lookup"><span data-stu-id="e8348-102">Dynamics 365 editable grid keyboard shortcuts</span></span>
 
-* [<span data-ttu-id="73b9e-103">Lưới có thể chỉnh sửa phím tắt</span><span class="sxs-lookup"><span data-stu-id="73b9e-103">Editable grid keyboard shortcuts</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/basics/keyboard-shortcuts#editable-grids-views)
+* [<span data-ttu-id="e8348-103">Lưới có thể chỉnh sửa phím tắt</span><span class="sxs-lookup"><span data-stu-id="e8348-103">Editable grid keyboard shortcuts</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/basics/keyboard-shortcuts#editable-grids-views)
