@@ -16,25 +16,27 @@ search.appverid:
 - MOP150
 - MBS150
 ms.assetid: 785fc94f-fa62-461b-ba00-cf875e45d48f
-ms.openlocfilehash: 80295232bfd23979665755566e9fb45a440d0f85
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 7c49f63632f89696165136d823123c599acecc21
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32403697"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36527493"
 ---
 # <a name="enable-multi-factor-authentication"></a>Sử nhiều yếu tố xác thực
 
-1. Điều hướng đến **người dùng** \> **người dùng hoạt động**
+Để cho phép nhiều yếu tố xác thực trong Trung tâm quản trị Microsoft 365:
+
+1. Hãy để **người dùng** \> **người dùng hoạt động** trang.
     
-2. Nhấp vào **Thêm** \> **Setup Azure đa nhân tố auth**. 
+2. Ở đầu trang, chọn **nhiều yếu tố xác thực**. 
     
-3. Tìm người dùng hoặc người dùng bạn muốn kích hoạt cho MFA. Để xem tất cả các người dùng, bạn có thể cần phải thay đổi các yếu tố đa Auth xem trạng thái ở đầu.
+3. Tìm người dùng hoặc người sử dụng bạn muốn cho phép đối với nhiều yếu tố xác thực. Để xem tất cả các người dùng, bạn có thể cần phải thay đổi bộ lọc **đa nhân tố Auth trạng thái** ở phía trên.
     
-4. Kiểm tra hộp kiểm cạnh người dùng bạn muốn bật.
+4. Chọn hộp kiểm cạnh người dùng bạn muốn bật.
     
-5.  Trên ngăn thông tin người sử dụng đúng, theo **bước nhanh chóng** bạn sẽ thấy kích hoạt và quản lý cài đặt người sử dụng. Chọn **sử**. 
+5.  Trong cửa sổ thông tin người sử dụng đúng, theo **bước nhanh**, chọn **Enable**. 
     
-6. Trong hộp thoại đó mở ra, **nhấp chuột sử auth nhiều yếu tố**. 
+6. Trong hộp thoại mở ra, chọn **enable auth nhiều yếu tố**. 
     
 

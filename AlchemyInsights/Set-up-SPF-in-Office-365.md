@@ -9,14 +9,16 @@ ms.service: o365-administration
 localization_priority: Normal
 ROBOTS: NOINDEX, NOFOLLOW
 ms.custom: 0ba5e44e-f0ae-4978-98a3-90065447af08
-ms.openlocfilehash: 542d1c91b87e6d7b918d091f463cf56697213778
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: c2e43788d674942b14bec3aa7316e34e7126d1be
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32389621"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36496025"
 ---
-Để đặt tất cả mật khẩu không bao giờ hết hạn, hãy vào [an ninh &amp; bảo mật](https://portal.office.com/adminportal/home#/settings/security). Nhấp vào **chỉnh sửa** bên cạnh **Chính sách mật khẩu**, và biến thanh trượt để **vào**.
+# <a name="set-passwords-to-never-expire"></a>Thiết lập mật khẩu không bao giờ hết hạn 
+
+Để đặt tất cả mật khẩu không bao giờ hết hạn, trong Trung tâm quản trị Microsoft 365, hãy vào **cài đặt** > [an ninh &amp; bảo mật](https://portal.office.com/adminportal/home#/settings/security) trang. Chọn **chỉnh sửa** bên cạnh **chính sách mật khẩu**và chuyển con trượt để **vào**.
   
 Để biết thêm thông tin xem: [đặt mật khẩu hết hạn chính sách cho tổ chức của bạn.](https://support.office.com/article/0f54736f-eb22-414c-8273-498a0918678f)
   
