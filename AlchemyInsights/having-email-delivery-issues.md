@@ -8,23 +8,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 6a7bc2f3-7d03-4c6f-b15f-cc7e89d92102
-ms.openlocfilehash: c7c90d9eb4e9ae40a7ea558528d42e91e666bb8b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: e9c073f63249af80c83f2957ba7bb3931325f6b0
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32400523"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36523425"
 ---
-# <a name="having-email-delivery-issues"></a><span data-ttu-id="1395c-102">Có vấn đề phân phối email?</span><span class="sxs-lookup"><span data-stu-id="1395c-102">Having email delivery issues?</span></span>
+# <a name="having-email-delivery-issues"></a><span data-ttu-id="931b1-102">Có vấn đề phân phối email?</span><span class="sxs-lookup"><span data-stu-id="931b1-102">Having email delivery issues?</span></span>
 
-<span data-ttu-id="1395c-103">Chúng tôi đã phát hiện rằng người dùng của bạn không nhận được email được gửi đến domain(s) sau:</span><span class="sxs-lookup"><span data-stu-id="1395c-103">We've detected that your users can't receive emails sent to the following domain(s):</span></span>
+<span data-ttu-id="931b1-103">Chúng tôi đã phát hiện rằng người dùng của bạn không nhận được email được gửi đến domain(s) sau:</span><span class="sxs-lookup"><span data-stu-id="931b1-103">We've detected that your users can't receive emails sent to the following domain(s):</span></span>
   
-<span data-ttu-id="1395c-104">{HealthCheckString}</span><span class="sxs-lookup"><span data-stu-id="1395c-104">{HealthCheckString}</span></span>
+<span data-ttu-id="931b1-104">{HealthCheckString}</span><span class="sxs-lookup"><span data-stu-id="931b1-104">{HealthCheckString}</span></span>
   
-<span data-ttu-id="1395c-105">Các bản ghi NS hoặc MX cài đặt tên miền (DNS) không phải là cấu hình đúng để gửi email đến bạn dịch vụ Office 365.</span><span class="sxs-lookup"><span data-stu-id="1395c-105">The NS or MX records of the domain (DNS) settings aren't configured correctly for email delivery to your Office 365 service.</span></span> <span data-ttu-id="1395c-106">Bạn có thể tham khảo để [Cập Nhật DNS hồ sơ trong Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) để được hướng dẫn chi tiết.</span><span class="sxs-lookup"><span data-stu-id="1395c-106">You can refer to [Updating DNS records in Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) for detailed instructions.</span></span> 
+<span data-ttu-id="931b1-105">Các bản ghi NS hoặc MX cài đặt tên miền (DNS) không phải là cấu hình đúng để gửi email đến bạn dịch vụ Office 365.</span><span class="sxs-lookup"><span data-stu-id="931b1-105">The NS or MX records of the domain (DNS) settings aren't configured correctly for email delivery to your Office 365 service.</span></span> <span data-ttu-id="931b1-106">Bạn có thể tham khảo để [Cập Nhật DNS hồ sơ trong Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) để được hướng dẫn chi tiết.</span><span class="sxs-lookup"><span data-stu-id="931b1-106">You can refer to [Updating DNS records in Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) for detailed instructions.</span></span> 
   
-<span data-ttu-id="1395c-107">Để khắc phục nó, xin vui lòng đến trang [miền](https://admin.microsoft.com/adminportal/home#/Domains) Trung tâm quản trị Microsoft 365, và chúng tôi sẽ giúp bạn với nó.</span><span class="sxs-lookup"><span data-stu-id="1395c-107">To fix it, please go to the [Domains](https://admin.microsoft.com/adminportal/home#/Domains) page in the Microsoft 365 admin center, and we'll help you with it.</span></span> 
+<span data-ttu-id="931b1-107">Để khắc phục nó, xin vui lòng đến trang [miền](https://admin.microsoft.com/adminportal/home#/Domains) Trung tâm quản trị Microsoft 365, và chúng tôi sẽ giúp bạn với nó.</span><span class="sxs-lookup"><span data-stu-id="931b1-107">To fix it, please go to the [Domains](https://admin.microsoft.com/adminportal/home#/Domains) page in the Microsoft 365 admin center, and we'll help you with it.</span></span> 
   
-<span data-ttu-id="1395c-108">[Kiểm tra hỏi đáp tên miền](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) cho các giải pháp phổ biến khác.</span><span class="sxs-lookup"><span data-stu-id="1395c-108">[Check the Domains FAQ](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) for other common solutions.</span></span> 
+<span data-ttu-id="931b1-108">[Kiểm tra hỏi đáp tên miền](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) cho các giải pháp phổ biến khác.</span><span class="sxs-lookup"><span data-stu-id="931b1-108">[Check the Domains FAQ](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) for other common solutions.</span></span> 
   
 
