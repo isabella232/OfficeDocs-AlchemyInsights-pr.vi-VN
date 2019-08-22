@@ -11,14 +11,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: 71c41134a267cdd18c2168d4835078da103ad840
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 19033fe2f700e940432428e212a5956fcc06b0e6
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32406334"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36514098"
 ---
-# <a name="delete-sites-that-belong-to-an-office-365-group"></a>Xóa trang web này thuộc về một nhóm Office 365:
+# <a name="delete-sites-that-belong-to-an-office-365-group"></a>Xóa trang web này thuộc về một nhóm Office 365
 
 Khi người dùng tạo một trang web mới của đội bóng từ trang chủ SharePoint hoặc bạn tạo một trang web mới của đội bóng từ Trung tâm quản trị SharePoint mới, một nhóm Office 365 tương ứng được tự động tạo ra. Office 365 đội nhóm kết nối trang web cũng được tạo ra khi bạn tạo một nhóm hoặc một nhóm Office 365 trong Microsoft Teams. Để xóa một trang web SharePoint thuộc về một nhóm Office 365, bạn cần phải xoá nhóm Office 365 chính nó. 
   
@@ -34,7 +34,7 @@ Lưu ý: Khi bạn xoá một nhóm, có thể có một sự chậm trễ trư�
 
 1. Đi đến trang web.
   
-2. Nhấp vào các ** cài đặt ** biểu tượng ở phía trên bên phải. 
+2. Nhấp vào biểu tượng **cài đặt** ở phía trên bên phải. 
   
 3. Nhấp vào **thiết lập trang web**. Theo **Trang thông tin** hoặc **Hành động của trang web**, nhấp vào **xóa trang web này**, và sau đó nhấp vào **xóa**.
   

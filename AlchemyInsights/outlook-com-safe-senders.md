@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.custom:
 - "1400"
 - "8000089"
-ms.openlocfilehash: 81ee40a9f9598b6a9fbc0f28c04a0d229c8442c8
-ms.sourcegitcommit: f507896c3909cfd02395d3214ab49f7a08f021e3
+ms.openlocfilehash: 296ecfc6f02c136d885ff9d447291b3f73ef96c6
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "35602021"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36535377"
 ---
 # <a name="stop-messages-from-going-into-your-junk-email-folder"></a>Ngăn chặn các tin nhắn từ đi vào thư mục thư rác Email của bạn
 
-Có những lần khi bạn không muốn tin nhắn từ một người cụ thể hoặc các tên miền kết thúc tại thư mục thư rác Email của bạn. Tin nhắn từ địa chỉ hoặc tên miền trong danh sách người gửi an toàn sẽ không nhận được chuyển đến thư mục Email rác của bạn.
+Có những lần khi bạn không muốn tin nhắn từ một người cụ thể hoặc các tên miền để kết thúc trong thư mục Junk Email Outlook.com. Tin nhắn từ địa chỉ hoặc tên miền trong danh sách người gửi an toàn sẽ không nhận được chuyển đến thư mục Email rác của bạn.
 
 1. Mở của bạn [cài đặt người gửi an toàn](https://go.microsoft.com/fwlink/?linkid=2035804).
 2. Dưới **người gửi an toàn và tên miền**, nhập địa chỉ email hoặc tên miền bạn muốn thêm và chọn **Thêm**.

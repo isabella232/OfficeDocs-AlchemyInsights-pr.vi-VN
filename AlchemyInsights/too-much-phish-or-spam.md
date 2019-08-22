@@ -10,15 +10,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 665,2578
 ms.assetid: ''
-ms.openlocfilehash: 94c3bbb343bd98241ae71d29d3c240ee1ff11d51
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: ba020a25c1220a8a018709995e59709850911f75
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36391623"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36500525"
 ---
 # <a name="are-you-receiving-too-much-phish-or-spam-in-your-mailbox"></a>Bạn nhận được quá nhiều phish hoặc thư rác trong hộp thư của bạn?
 
-Theo một admin, cách tốt nhất để xác định lý do tại sao một tin nhắn lừa đảo trực tuyến hoặc thư rác đã được chuyển giao là để gửi mẫu cho Microsoft trong [Đệ trình Explorer](https://protection.office.com/reportsubmission). Bạn sẽ nhận được thông tin phản hồi ngay lập tức có liên quan đến tin nhắn lọc và lý do tại sao có những vấn đề.
+Theo một admin Microsoft 365, cách tốt nhất để xác định lý do tại sao một tin nhắn lừa đảo trực tuyến hoặc thư rác đã được chuyển giao là để gửi mẫu cho Microsoft trong [Đệ trình Explorer](https://protection.office.com/reportsubmission). Bạn sẽ nhận được thông tin phản hồi ngay lập tức có liên quan đến tin nhắn lọc và lý do tại sao có những vấn đề.
 
 Để làm cho nó easer, bạn có thể cho phép người dùng của bạn để thông báo trực tiếp cho Microsoft thông qua [báo cáo tin nhắn add-in](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview).

@@ -12,20 +12,20 @@ ms.custom:
 - "1368"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 51c25897223371a6dcc94c948955107ce74b0e8e
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 1201a625948743cacfaa58410abeb4108ed2eb56
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35383047"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36539195"
 ---
 # <a name="identify-inbox-rule-activity-in-audit-logs"></a>Xác định các hoạt động quy tắc hộp thư đến trong Nhật ký kiểm tra
 
-Bạn có thể sử dụng kiểm toán đăng nhập tìm kiếm trong an ninh & tuân thủ trung tâm để xem sự kiện quy tắc hộp thư đến (tạo, chỉnh sửa và xoá quy tắc hộp thư đến).
+Bạn có thể sử dụng kiểm toán đăng nhập tìm kiếm trong Office 365 an ninh & tuân thủ trung tâm để xem sự kiện quy tắc hộp thư đến (tạo, chỉnh sửa và xoá quy tắc hộp thư đến).
 
-1. Đăng nhập vào [Trung tâm Compliance Office 365 bảo mật &](https://protection.office.com/)
+1. Đăng nhập [Office 365 an ninh & tuân thủ trung tâm](https://protection.office.com/).
 
-2. Nhấp vào **Tìm kiếm và điều tra** và chọn **Kiểm toán đăng nhập tìm kiếm**.
+2. Đi **Tìm** > trang**kiểm toán đăng nhập tìm kiếm** .
 
 3. Chọn phạm vi ngày trong các **ngày bắt đầu** và **ngày kết thúc** .
 

@@ -11,12 +11,12 @@ ms.custom:
 - "1454"
 - "1456"
 - "6200009"
-ms.openlocfilehash: 1fad32a445f1de4bfca566f13323274c87ebd4c1
-ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
+ms.openlocfilehash: 4fdcae9dbe524f5e552c8b4c8736d6795c394348
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35904248"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36509956"
 ---
 # <a name="dynamics-server-side-sync-recommended-solutions"></a>Động lực phía máy chủ đồng bộ giới thiệu giải pháp
 
@@ -28,7 +28,7 @@ ms.locfileid: "35904248"
 
 * [Làm thế nào để thay đổi các đối tượng và các loại của một cổng Dynamics 365](https://support.microsoft.com/en-us/help/4091253/how-to-change-the-audience-and-type-of-a-dynamics-365-portal)
 
-* [Làm thế nào để thay đổi URL cơ sở của một cổng thông tin](https://docs.microsoft.com/en-us/dynamics365/customer-engagement/portals/change-base-url)
+* [Làm thế nào để thay đổi URL cơ sở của một cổng thông tin](https://docs.microsoft.com/dynamics365/customer-engagement/portals/change-base-url)
 
 * [Làm thế nào để cấu hình nhà cung cấp nhận dạng bên ngoài với cổng thông tin](https://docs.microsoft.com/dynamics365/customer-engagement/portals/configure-portal-authentication)
 

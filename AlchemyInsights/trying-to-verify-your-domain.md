@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ebf00eb2-1205-4d5d-aae0-4581766234f5
-ms.openlocfilehash: 2f5323e6179bcce3dd25833d263dfe095f6c6d12
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 189eb0365e57bb872e1fb4ea400bff0f786e640b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32420146"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36533283"
 ---
 # <a name="trying-to-verify-your-domain"></a>Cố gắng để xác minh tên miền của bạn?
 
-Bạn cần phải thêm bản ghi TXT để đăng ký tên miền của bạn để xác minh rằng bạn sở hữu tên miền của bạn. Theo các hướng dẫn thêm miền bằng cách nhấp vào **cài đặt** \> **tên miền**, và sau đó **Thêm tên miền**. 
+Bạn cần phải thêm bản ghi TXT để đăng ký tên miền của bạn để xác minh rằng bạn sở hữu tên miền của bạn. Làm theo thuật sĩ tên miền mới tại Trung tâm quản trị Microsoft 365 bằng cách đi tới **cài đặt** \> **tên miền**, và sau đó **Thêm tên miền**. 
   
 Thực hiện theo các hướng dẫn trong bài viết dưới đây để thêm bản ghi TXT để xác minh tên miền của bạn. Chọn đăng ký tên miền của bạn để được hướng dẫn cụ thể cho miền của bạn.
   
