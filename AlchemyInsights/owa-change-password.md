@@ -11,13 +11,13 @@ localization_priority: Normal
 ms.custom:
 - "8000002"
 - "1990"
-ms.openlocfilehash: d350f2292f759cb5a0e4674110e92036160f8985
-ms.sourcegitcommit: 8e4126e64eca48be458242d744650878b8bb89e5
+ms.openlocfilehash: 18aef4096e936138c85f22f343500f5f233f903f
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/07/2019
-ms.locfileid: "33664069"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36510501"
 ---
-# <a name="change-your-password"></a><span data-ttu-id="557e5-102">Thay đổi mật khẩu của bạn</span><span class="sxs-lookup"><span data-stu-id="557e5-102">Change your password</span></span>
+# <a name="change-your-office-365-password"></a><span data-ttu-id="221d7-102">Thay đổi mật khẩu Office 365</span><span class="sxs-lookup"><span data-stu-id="221d7-102">Change your Office 365 password</span></span>
 
-[<span data-ttu-id="557e5-103">Đặt lại mật khẩu Office 365</span><span class="sxs-lookup"><span data-stu-id="557e5-103">Reset your Office 365 password</span></span>](https://go.microsoft.com/fwlink/p/?linkid=841910)
+<span data-ttu-id="221d7-103">Nếu bạn cần phải thay đổi hoặc đặt lại mật khẩu Office 365, bạn có thể đi trực tiếp vào trang này: [đặt lại mật khẩu Microsoft](https://go.microsoft.com/fwlink/p/?linkid=841910)</span><span class="sxs-lookup"><span data-stu-id="221d7-103">If you need to change or reset your Office 365 password, you can go directly to this page: [Reset your Microsoft password](https://go.microsoft.com/fwlink/p/?linkid=841910)</span></span>
