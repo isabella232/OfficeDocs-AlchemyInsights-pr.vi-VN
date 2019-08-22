@@ -13,16 +13,16 @@ ms.custom:
 - "490"
 - "1500032"
 ms.assetid: 14d2d36a-37cd-4d72-8344-85447e27a38e
-ms.openlocfilehash: 3c455489f1daadee74eca909e1a974887227039f
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 25d5379245e325eadf329a658f3718a17cd5937a
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388334"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36501281"
 ---
 # <a name="subscription-information"></a>Đăng ký thông tin
 
-Thông tin về đăng ký bạn sở hữu, đi đến **thanh toán** \> [đăng ký](https://go.microsoft.com/fwlink/p/?linkid=842054) trang.
+Thông tin về các mục đăng ký Office 365, bạn sở hữu, trong Trung tâm quản trị, đi đến **thanh toán** \> trang [sản phẩm & dịch vụ](https://go.microsoft.com/fwlink/p/?linkid=842054) .
   
 Thông tin quan trọng về mỗi thuê bao:
   
