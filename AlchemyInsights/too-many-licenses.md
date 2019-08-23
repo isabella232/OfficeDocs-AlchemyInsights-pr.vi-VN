@@ -13,27 +13,23 @@ ms.custom:
 - "540"
 - "1500027"
 ms.assetid: 73aa19fa-9334-4499-be2c-b6f9fe7b7b2b
-ms.openlocfilehash: 807fab7199a6f5d4e3c79be22451069def82a358
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 99102d883ae5c4fbb7af624b0b06e0313bd5f218
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388046"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36549097"
 ---
 # <a name="too-many-licenses"></a>Giấy phép quá nhiều?
 
-Nếu bạn nghĩ rằng bạn đang được lập hoá đơn cho quá nhiều giấy phép, điều này thường là do có mua thêm giấy phép thì bạn cần.
+Nếu bạn nghĩ rằng bạn đang được lập hoá đơn cho Office 365 Beta dành quá nhiều giấy phép, điều này thường là do có mua thêm giấy phép thì bạn cần.
   
 **Giảm số lượng giấy phép mua**
   
-1. Trong Trung tâm quản trị, đi đến **thanh toán** \> [đăng ký](https://go.microsoft.com/fwlink/p/?linkid=842054) trang.
+1. Trong Trung tâm quản trị, đi đến **thanh toán** \> trang [sản phẩm & dịch vụ](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. Bên trái, chọn đăng ký mà bạn muốn loại bỏ giấy phép.
+2. Tìm các thuê bao mà bạn muốn loại bỏ giấy phép, sau đó chọn **thêm/loại bỏ giấy phép**.
 
-3. Chọn **giấy phép Add/Remove**.
+3. Trong **tất cả các giấy phép** hộp, nhập tổng số giấy phép mà bạn cần cho các thuê bao này, và sau đó chọn **gửi thay đổi**. Ví dụ, nếu bạn có 110 giấy phép và bạn muốn loại bỏ 5 số, nhập 105.
 
-4. Nhập tổng số người dùng cần thiết. Ví dụ, nếu bạn đang có 25 giấy phép và bạn muốn loại bỏ 5, nhập 20 trong lĩnh vực này.
-
-5. Chọn **gửi**.
-
-Bạn đang sử dụng trung tâm quản trị mới? Các bước mới, xem các [loại bỏ giấy phép từ của bạn-Office 365 Beta dành cho doanh nghiệp đăng ký](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription).
+Để biết thêm chi tiết, hãy xem [xóa các giấy phép từ của bạn-Office 365 Beta dành cho doanh nghiệp đăng ký](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription).

@@ -13,21 +13,23 @@ ms.custom:
 - "350"
 - "1500012"
 ms.assetid: f1a3f310-a87f-4a42-a9c3-4ea894caf52e
-ms.openlocfilehash: eba0888fb2591ea36620dfff14fcf08356e1e91a
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: f5d809e247516cc9ed47b5091eb0cb7edd88a44d
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36389814"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36542460"
 ---
 # <a name="manage-recurring-billing"></a>Quản lý định kỳ thanh toán
 
-Quản lý định kỳ thanh toán, bạn có thể chuyển đổi **định kỳ thanh toán** hoặc tắt.
+Bạn có thể tắt định kỳ thanh toán hoặc tắt trong Trung tâm quản trị Microsoft 365.
   
-1. Trong Trung tâm quản trị, đi đến **thanh toán** \> [đăng ký](https://go.microsoft.com/fwlink/p/?linkid=842054) trang.
+1. Chuyển đến **thanh toán** > trang[sản phẩm & dịch vụ](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. Chọn đăng ký mà bạn muốn quản lý định kỳ thanh toán.
+2. Trong **thanh toán**, bên cạnh **Renews trên** hoặc **Expiring trên**, hãy chọn **chỉnh sửa**.
 
-3. Chuyển đổi chuyển đổi **thanh toán Recurring** sang **baät** hoaëc **taét**.
+3. Trong cửa sổ **cài đặt thanh toán Recurring** , hãy chọn **thanh toán Recurring OFF** để tắt nó đi. Nếu **thanh toán Recurring** đã tắt, hãy chọn **hàng tháng** hoặc **một lần** để biến nó trên.
 
-Để biết thêm chi tiết, hãy xem [bật định kỳ thanh toán hết hoặc trên](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/renew-your-subscription?view=o365-worldwide#turn-recurring-billing-off-or-on).
+4. Chọn **gửi thay đổi**.
+
+Để biết thêm chi tiết, hãy xem [bật định kỳ thanh toán hết hoặc trên](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription?view=o365-worldwide#turn-recurring-billing-off-or-on).

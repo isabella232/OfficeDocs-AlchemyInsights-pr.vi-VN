@@ -13,25 +13,26 @@ ms.custom:
 - "662"
 - "1500012"
 ms.assetid: ba037d2d-3c99-4d01-8d60-ca5d624da9b1
-ms.openlocfilehash: db7b3094291c476afde2769a9c803a53d4432319
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 79bbf01dde6020a18a9693d5ad0f4ae62390a245
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388622"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36554643"
 ---
-# <a name="prepaid-renewal"></a>Trả trước đổi mới
+# <a name="prepaid-office-365-renewal"></a>Gia hạn Office 365 trả trước
 
-1. Trong Trung tâm quản trị, đi đến **thanh toán** \> [đăng ký](https://go.microsoft.com/fwlink/p/?linkid=842054) trang.
+1. Trong Trung tâm quản trị, đi đến **thanh toán** \> trang [sản phẩm & dịch vụ](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. Chọn các thuê bao trả trước bạn muốn mở rộng, sau đó chọn **mở rộng**.
+2. Tìm các thuê bao bạn muốn mở rộng. Trong phần **thanh toán** , chọn **kéo dài ngày kết thúc**.
 
-3. Chọn các tùy chọn cho **mã khóa sản phẩm**. (Nếu điều này là một khóa sản phẩm mua tại một địa điểm bán lẻ, bạn có thể có tùy chọn để mở rộng với các phương thức thanh toán khác.)
+3. Trong cửa sổ **mở rộng đăng ký** , chọn **sử dụng một mã khóa sản phẩm mới và không sử dụng**, sau đó chọn **tiếp theo**.
 
-4. Nhập khóa sản phẩm.
+4. Nhập khóa sản phẩm, sau đó chọn **tiếp theo**.
 
-5. Đảm bảo rằng thông tin là chính xác, sau đó chọn **tiếp theo**.
+> [!NOTE]
+> Nếu bạn có nhiều hơn một mã khóa sản phẩm, bạn có thể chọn **Thêm một sản phẩm quan trọng** để nhập chúng.
 
-6. Chọn nút radio để kéo dài ngày kết thúc của các giấy phép hiện có, sau đó chọn **tiếp theo**.
+5. Xem lại chi tiết đơn đặt hàng của bạn, sau đó chọn **đổi**.
 
-Bạn đang sử dụng trung tâm quản trị mới? Mới bước, hãy xem [thêm giấy phép hoặc gia hạn thuê bao được thanh toán cho việc sử dụng một mã khóa sản phẩm](https://docs.microsoft.com/en-us/office365/admin/misc/add-licenses-using-product-key).
+Để biết thêm chi tiết, hãy xem [thêm giấy phép hoặc gia hạn một thuê bao được thanh toán cho việc sử dụng một mã khóa sản phẩm](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).

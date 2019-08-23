@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: d9e30e18f9821f689878867b1619d01767c34274
-ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
+ms.openlocfilehash: 2a9f35dc83e82bc169e89404ae5e697792821b79
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "36171380"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36557523"
 ---
-# <a name="change-the-look-of-your-mailbox"></a>Thay đổi giao diện của hộp thư của bạn
+# <a name="change-the-look-of-your-outlook-mailbox"></a>Thay đổi giao diện của hộp thư Outlook của bạn
 
 Bạn có thể thay đổi sự xuất hiện của ngăn danh sách và đọc thư, vì vậy nó trông và cư xử theo cách bạn muốn. Chọn cho dù tin nhắn của bạn sẽ được hiển thị riêng lẻ hoặc cuộc hội thoại, nếu thư mới sẽ xuất hiện ở đầu hoặc cuối danh sách thư, và nhiều hơn nữa.
 

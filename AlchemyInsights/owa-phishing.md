@@ -10,14 +10,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "9000289"
-ms.openlocfilehash: ce55ab1025bd4b3f22c7313cc8cc91cef6e726f6
-ms.sourcegitcommit: c65fb26afcaa8446c3e5490ed14c4f403b9d0945
+ms.openlocfilehash: d9f199035251c8b4f8041fc8530d1eca2eb3c7e8
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/03/2019
-ms.locfileid: "34683412"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36556644"
 ---
-# <a name="how-to-deal-with-a-phishing-email"></a>Làm thế nào để đối phó với một email lừa đảo
+# <a name="how-to-deal-with-a-phishing-email-in-outlook-on-the-web"></a>Làm thế nào để đối phó với một email lừa đảo trong Outlook trên web
 
 Một scam lừa đảo là email đó sẽ xuất hiện hợp pháp, nhưng thực sự là một cố gắng để ăn cắp thông tin cá nhân hoặc tiền của bạn. Kẻ xấu cũng có thể sử dụng một kỹ thuật được gọi là giả mạo để làm cho nó xuất hiện như là nếu bạn đã nhận được một email từ bản thân bạn.
 

@@ -11,14 +11,14 @@ ms.custom:
 - "977"
 - "5300028"
 ms.assetid: f5c85f1b-4ed6-441c-8f5d-d3e4713fb98d
-ms.openlocfilehash: 0162b27b6310671bec19e159e9953b7556b31c60
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 3523b50a0d0eba7c65cd9e740bd4adcc918130ff
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35370120"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36552913"
 ---
-# <a name="rename-a-site"></a>Đổi tên một trang web
+# <a name="rename-a-sharepoint-site"></a>Đổi tên trang web SharePoint
 
 Để thay đổi tên của một trang web, ví dụ, từ https://contoso.sharepoint.com/sites/sample1 để https://contoso.sharepoint.com/sites/sample2, bạn cần phải tạo ra một trang web mới và sau đó di chuyển tất cả các nội dung từ các trang web cũ sang mới. Để xem thông tin về di chuyển khoản mục trong thư viện tài liệu, hãy xem [di chuyển hoặc sao chép các mục từ một thư viện tài liệu SharePoint](https://go.microsoft.com/fwlink/?Linkid=2018691).
   

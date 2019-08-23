@@ -13,23 +13,23 @@ ms.custom:
 - "482"
 - "1500028"
 ms.assetid: 2d59f23f-7aad-4b57-9039-0bd2bbf929a3
-ms.openlocfilehash: 8e64c5f315fd52a34d735ba653e9cb28821f2031
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 846fa7ebdfed5d9160f97556451e4c6d557b2a8c
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36391074"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36553382"
 ---
-# <a name="reactivate-a-subscription"></a>Kích hoạt lại một thuê bao
+# <a name="reactivate-an-office-365-subscription"></a>Kích hoạt lại một thuê bao Office 365
 
 Nếu đăng ký của bạn hết hạn, được vô hiệu hoá bởi Microsoft, hoặc bạn hủy bỏ nó ở giữa một thời hạn đăng ký, bạn có thể kích hoạt lại nó trong Trung tâm quản trị.
   
-1. Trong Trung tâm quản trị, đi đến **thanh toán** \> [đăng ký](https://go.microsoft.com/fwlink/p/?linkid=842054) trang.
+1. Trong Trung tâm quản trị, đi đến **thanh toán** \> trang [sản phẩm & dịch vụ](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. Chọn các thuê bao mà bạn muốn kích hoạt lại, sau đó chọn **kích hoạt lại**.
+2. Chọn các thuê bao mà bạn muốn kích hoạt lại. Trong phần thanh toán, chọn **kích hoạt lại**.
 
-    Nếu bạn không thấy **kích hoạt lại** như một hành động có sẵn, dùng tùy chọn "Hãy để chúng tôi gọi bạn" nói chuyện với một kỹ sư hỗ trợ để kích hoạt thuê bao của bạn.
+    Nếu bạn không thấy **kích hoạt lại** như là một hành động có sẵn, [gọi hỗ trợ](https://docs.microsoft.com/office365/admin/contact-support-for-business-products?view=o365-worldwide) để kích hoạt thuê bao của bạn.
 
-3. Nhập thông tin thanh toán của bạn. Bạn có thể cập nhật thông tin thanh toán sẵn có ở đây.
+3. Xác nhận các chi tiết thanh toán của bạn. Bạn có thể cập nhật thông tin thanh toán sẵn có ở đây. Khi bạn hoàn tất bước vào phương thức thanh toán của bạn, chọn **kích hoạt lại**.
 
-Bạn đang sử dụng trung tâm quản trị mới? Mới bước, hãy xem [kích hoạt thuê bao của bạn](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
+Để biết thêm chi tiết, hãy xem [kích hoạt thuê bao của bạn](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).

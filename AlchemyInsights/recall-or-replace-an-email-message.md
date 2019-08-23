@@ -13,20 +13,20 @@ ms.custom:
 - "1860"
 - "9000260"
 ms.assetid: ''
-ms.openlocfilehash: 170fbd632f0289a45d9497ac26fbe7f90cf88318
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d5952041f6f2fd736e975abf06cc22880d21a089
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35356619"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36553454"
 ---
-# <a name="recall-or-replace-an-email-message"></a>Nhớ lại hoặc thay thế thư email
+# <a name="recall-or-replace-an-email-message-in-office-365"></a>Nhớ lại hoặc thay thế thư email trong Office 365
 
 - Bạn có thể **chỉ thu hồi tin nhắn đó được gửi đến mọi người trong tổ chức của bạn**. Nếu thư được gửi đến một địa chỉ Gmail, ví dụ, bạn không thể nhớ nó.
 - Bạn có thể **chỉ thu hồi tin nhắn được gửi từ Outlook 2016 cho máy PC**. Nếu người dùng gửi một tin nhắn bằng cách sử dụng Outlook dành cho Mac hoặc Outlook trên web, bạn không thể nhớ nó.
 - Nếu bạn là quản trị viên, bạn có thể **nhớ lại tin nhắn cho người dùng bằng cách sử dụng PowerShell**. Bạn không thể nhớ lại các tin nhắn từ Trung tâm quản trị. Di chuyển xuống "Tìm kiếm và xoá thư email trong tổ chức của bạn" để biết thêm thông tin.
 
-***Nhớ lại hoặc thay thế thư email mà bạn đã gửi***
+**Nhớ lại hoặc thay thế thư email mà bạn đã gửi**
 
 1. Trong cửa sổ thư mục ở bên trái của cửa sổ Outlook, chọn thư mục mục đã gửi.
 2. Mở tin nhắn mà bạn muốn nhớ lại. Bạn phải nhấp đúp để mở tin nhắn. Chọn tin nhắn để nó xuất hiện trong ngăn đọc sẽ không cho phép bạn gọi lại những thông điệp.
