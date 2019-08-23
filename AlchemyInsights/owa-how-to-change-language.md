@@ -12,16 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000014"
 - "2000"
-ms.openlocfilehash: e760a0f4037dc626a08e17a3f0e5ac57f51b2859
-ms.sourcegitcommit: 9c6c2ff5865275dc8e3d48132180108884647365
+ms.openlocfilehash: c7ed1f7286fb62a552c21d7a20d7c85111656058
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/24/2019
-ms.locfileid: "34430632"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36556658"
 ---
-# <a name="change-your-language-date-and-time-format-or-time-zone"></a>Thay đổi ngôn ngữ, ngày và thời gian định dạng hay múi giờ
+# <a name="change-your-language-date-and-time-format-or-time-zone-in-outlook-on-the-web"></a>Thay đổi ngôn ngữ, ngày và thời gian định dạng hay múi giờ trong Outlook trên web
 
-1. Ở đầu trang, chọn **cài đặt** > **xem tất cả các cài đặt Outlook**.
+1. Ở đầu trang, chọn <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
+ **Thiết lập** > **xem tất cả các cài đặt Outlook**.
 2. Chọn **General** > **ngôn ngữ và thời gian**.
 3. Chọn ngôn ngữ mà bạn muốn sử dụng.
 4. Chọn **lưu**.

@@ -13,27 +13,23 @@ ms.custom:
 - "441"
 - "1500017"
 ms.assetid: 7dc125f8-491d-4bc2-a2f2-b73c7bda3035
-ms.openlocfilehash: 886f6933daed7fc21c858591286b05b7093d627e
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: c1c18215a6746ac7ae22c869ffde1a9bd53efce6
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36390858"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36539951"
 ---
 # <a name="how-to-reactivate-a-subscription"></a>Làm thế nào để kích hoạt đăng ký
 
-Nếu đăng ký của bạn hết hạn, đã bị hủy bỏ hoặc vô hiệu hoá bởi Microsoft, bạn có thể kích hoạt lại nó trong Trung tâm quản trị Microsoft 365.
+Nếu thuê bao của bạn đã hết hạn, bị hủy bỏ hoặc vô hiệu hoá bởi Microsoft, bạn có thể kích hoạt lại nó trong Trung tâm quản trị Microsoft 365.
   
-1. Trong Trung tâm quản trị, đi đến **thanh toán** \> [đăng ký](https://go.microsoft.com/fwlink/p/?linkid=842054) trang.
+1. Trong Trung tâm quản trị, đi đến **thanh toán** \> trang [sản phẩm & dịch vụ](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. Chọn các thuê bao mà bạn muốn kích hoạt lại.
+2. Trong **thanh toán**, bên cạnh **Renews trên** hoặc **Expiring trên**, hãy chọn **chỉnh sửa**.
 
-3. Chọn **kích hoạt** nút ở bên phải.
+3. Trong cửa sổ **cài đặt thanh toán Recurring** , chọn tùy chọn bạn muốn. Nếu thanh toán định kỳ đã tắt, hãy chọn **hàng tháng** hoặc **một lần** để biến nó trên.
 
-4. Bạn sẽ được yêu cầu để cập nhật chi tiết thanh toán. Khi tất cả thông tin là chính xác, chọn **gửi**.
+4. Chọn **gửi thay đổi**.
 
-5. Xác nhận sẽ hiển thị ở phía dưới của màn hình. Chọn **Close** để trở về trang **đăng ký** .
-
-6. Nếu thuê bao không xuất hiện các hoạt động sau một vài phút, làm mới trang.
-
-Để biết thêm thông tin, hãy xem: [gia hạn Office 365 Beta dành cho doanh nghiệp](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/renew-your-subscription)
+Để biết thêm thông tin, hãy xem: [gia hạn Office 365 Beta dành cho doanh nghiệp](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription)
