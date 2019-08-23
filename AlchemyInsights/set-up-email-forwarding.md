@@ -13,20 +13,20 @@ ms.custom:
 - "20"
 - "1200004"
 ms.assetid: 15abf81d-5c5d-49da-ac81-1b4daa1809f6
-ms.openlocfilehash: 9a88c1e0d66eaff5fe942de55cf2c2c3525b5602
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: e654137489609da2273d199b4eedb9227c7db011
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35355395"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36549961"
 ---
 # <a name="check-the-email-forwarding-settings-for-a-mailbox"></a>Kiểm tra email chuyển tiếp cài đặt cho một hộp thư
 
-Nó rất dễ dàng để xác minh email chuyển tiếp cài đặt trên hộp thư! Chỉ cần làm theo các bước sau.
+Nó rất dễ dàng để xác minh email chuyển tiếp cài đặt trên hộp thư tại Office 365! Chỉ cần làm theo các bước sau.
   
-> Nếu đây là hộp thư người dùng, hãy để **người dùng** \> **người dùng hoạt động** và lựa chọn cho người dùng những người có hộp thư bạn đang chuyển tiếp. Dưới thiết đặt thư, chọn **chỉnh sửa** để chuyển tiếp Email.
+> Nếu đây là hộp thư người dùng, hãy để **người dùng** \> **người dùng hoạt động** và lựa chọn cho người dùng những người có hộp thư bạn đang chuyển tiếp. Trên tab **thư** , hãy chọn **quản lý emaill chuyển tiếp**.
     
-> Nếu đây là hộp thư dùng chung, hãy chuyển đến **nhóm** \> **chia sẻ các hộp thư** và chọn hộp thư dùng chung mà bạn đang chuyển tiếp. Chọn **chỉnh sửa** để chuyển tiếp Email.
+> Nếu đây là hộp thư dùng chung, hãy chuyển đến **nhóm** \> **chia sẻ các hộp thư** và chọn hộp thư dùng chung mà bạn đang chuyển tiếp. Chỉnh sửa các **chỉnh sửa** để chuyển tiếp Email.
 
 Để biết thêm chi tiết, hãy xem [cấu hình email chuyển tiếp trong Office 365](https://support.office.com/article/Configure-email-forwarding-in-Office-365-ab5eb117-0f22-4fa7-a662-3a6bdb0add74).
   
