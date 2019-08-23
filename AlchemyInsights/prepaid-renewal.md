@@ -13,25 +13,26 @@ ms.custom:
 - "662"
 - "1500012"
 ms.assetid: ba037d2d-3c99-4d01-8d60-ca5d624da9b1
-ms.openlocfilehash: db7b3094291c476afde2769a9c803a53d4432319
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 79bbf01dde6020a18a9693d5ad0f4ae62390a245
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388622"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36554643"
 ---
-# <a name="prepaid-renewal"></a><span data-ttu-id="f949b-102">Trả trước đổi mới</span><span class="sxs-lookup"><span data-stu-id="f949b-102">Prepaid renewal</span></span>
+# <a name="prepaid-office-365-renewal"></a><span data-ttu-id="e63ba-102">Gia hạn Office 365 trả trước</span><span class="sxs-lookup"><span data-stu-id="e63ba-102">Prepaid Office 365 renewal</span></span>
 
-1. <span data-ttu-id="f949b-103">Trong Trung tâm quản trị, đi đến **thanh toán** \> [đăng ký](https://go.microsoft.com/fwlink/p/?linkid=842054) trang.</span><span class="sxs-lookup"><span data-stu-id="f949b-103">In the Admin center, go to the **Billing** \> [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+1. <span data-ttu-id="e63ba-103">Trong Trung tâm quản trị, đi đến **thanh toán** \> trang [sản phẩm & dịch vụ](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="e63ba-103">In the admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
 
-2. <span data-ttu-id="f949b-104">Chọn các thuê bao trả trước bạn muốn mở rộng, sau đó chọn **mở rộng**.</span><span class="sxs-lookup"><span data-stu-id="f949b-104">Choose the prepaid subscription you would like to extend, then choose **Extend**.</span></span>
+2. <span data-ttu-id="e63ba-104">Tìm các thuê bao bạn muốn mở rộng.</span><span class="sxs-lookup"><span data-stu-id="e63ba-104">Find the subscription you want to extend.</span></span> <span data-ttu-id="e63ba-105">Trong phần **thanh toán** , chọn **kéo dài ngày kết thúc**.</span><span class="sxs-lookup"><span data-stu-id="e63ba-105">In the **Billing** section, select **Extend end date**.</span></span>
 
-3. <span data-ttu-id="f949b-105">Chọn các tùy chọn cho **mã khóa sản phẩm**.</span><span class="sxs-lookup"><span data-stu-id="f949b-105">Choose the option for **Product key**.</span></span> <span data-ttu-id="f949b-106">(Nếu điều này là một khóa sản phẩm mua tại một địa điểm bán lẻ, bạn có thể có tùy chọn để mở rộng với các phương thức thanh toán khác.)</span><span class="sxs-lookup"><span data-stu-id="f949b-106">(If this was a product key purchased at a retail location, you might have the option to extend with other payment methods.)</span></span>
+3. <span data-ttu-id="e63ba-106">Trong cửa sổ **mở rộng đăng ký** , chọn **sử dụng một mã khóa sản phẩm mới và không sử dụng**, sau đó chọn **tiếp theo**.</span><span class="sxs-lookup"><span data-stu-id="e63ba-106">In the **Extend subscription** pane, select **Use a new and unused product key**, then select **Next**.</span></span>
 
-4. <span data-ttu-id="f949b-107">Nhập khóa sản phẩm.</span><span class="sxs-lookup"><span data-stu-id="f949b-107">Enter the product key.</span></span>
+4. <span data-ttu-id="e63ba-107">Nhập khóa sản phẩm, sau đó chọn **tiếp theo**.</span><span class="sxs-lookup"><span data-stu-id="e63ba-107">Enter the product key, then select **Next**.</span></span>
 
-5. <span data-ttu-id="f949b-108">Đảm bảo rằng thông tin là chính xác, sau đó chọn **tiếp theo**.</span><span class="sxs-lookup"><span data-stu-id="f949b-108">Make sure the information is correct, then choose **Next**.</span></span>
+> [!NOTE]
+> <span data-ttu-id="e63ba-108">Nếu bạn có nhiều hơn một mã khóa sản phẩm, bạn có thể chọn **Thêm một sản phẩm quan trọng** để nhập chúng.</span><span class="sxs-lookup"><span data-stu-id="e63ba-108">If you have more than one product key, you can select **Add another product key** to enter them.</span></span>
 
-6. <span data-ttu-id="f949b-109">Chọn nút radio để kéo dài ngày kết thúc của các giấy phép hiện có, sau đó chọn **tiếp theo**.</span><span class="sxs-lookup"><span data-stu-id="f949b-109">Choose the radio button to extend the end date of the existing licenses, then choose **Next**.</span></span>
+5. <span data-ttu-id="e63ba-109">Xem lại chi tiết đơn đặt hàng của bạn, sau đó chọn **đổi**.</span><span class="sxs-lookup"><span data-stu-id="e63ba-109">Review your order details, then select **Redeem**.</span></span>
 
-<span data-ttu-id="f949b-110">Bạn đang sử dụng trung tâm quản trị mới?</span><span class="sxs-lookup"><span data-stu-id="f949b-110">Are you using the new admin center?</span></span> <span data-ttu-id="f949b-111">Mới bước, hãy xem [thêm giấy phép hoặc gia hạn thuê bao được thanh toán cho việc sử dụng một mã khóa sản phẩm](https://docs.microsoft.com/en-us/office365/admin/misc/add-licenses-using-product-key).</span><span class="sxs-lookup"><span data-stu-id="f949b-111">For new steps, see [Add licenses to or extend a subscription paid for using a product key](https://docs.microsoft.com/en-us/office365/admin/misc/add-licenses-using-product-key).</span></span>
+<span data-ttu-id="e63ba-110">Để biết thêm chi tiết, hãy xem [thêm giấy phép hoặc gia hạn một thuê bao được thanh toán cho việc sử dụng một mã khóa sản phẩm](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).</span><span class="sxs-lookup"><span data-stu-id="e63ba-110">For more information, see [Add licenses to or extend a subscription paid for using a product key](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).</span></span>
