@@ -10,14 +10,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "9000290"
-ms.openlocfilehash: 8749b365638a2c5441743cd6d58f2728a36914ef
-ms.sourcegitcommit: 77f704672b7c7de541899e25c022ff10c111e304
+ms.openlocfilehash: 19873107de9450cd276253194c08cd0a84cd4a82
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/05/2019
-ms.locfileid: "36204154"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36555759"
 ---
-# <a name="stop-messages-from-going-to-your-junk-email-folder"></a>Ngăn chặn các tin nhắn từ đi vào thư mục thư rác Email
+# <a name="stop-messages-from-going-to-your-junk-email-folder-in-outlook-on-the-web"></a>Ngăn chặn các tin nhắn từ đi vào thư mục thư rác Email trong Outlook trên web
 
 Nếu bạn phát hiện ra rằng một thư email trong thư mục thư rác không phải rác:
 
