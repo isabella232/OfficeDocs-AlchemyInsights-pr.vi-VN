@@ -13,19 +13,19 @@ ms.custom:
 - "87"
 - "1400001"
 ms.assetid: ec57734d-073d-4aee-8c7c-f4aa9e7130ae
-ms.openlocfilehash: 18cacee394e7f1be20002cc64a9db8dd9afc61a3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 75ce59fedadc22291062affd2220b08057910966
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36520977"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36576114"
 ---
-# <a name="canceling-your-office-365-subscription"></a><span data-ttu-id="fe410-102">Huỷ đăng ký Office 365 của bạn?</span><span class="sxs-lookup"><span data-stu-id="fe410-102">Canceling your Office 365 subscription?</span></span>
+# <a name="canceling-your-office-365-subscription"></a><span data-ttu-id="64efc-102">Huỷ đăng ký Office 365 của bạn?</span><span class="sxs-lookup"><span data-stu-id="64efc-102">Canceling your Office 365 subscription?</span></span>
 
-<span data-ttu-id="fe410-103">Chúng tôi rất tiếc khi thấy bạn rời đi!</span><span class="sxs-lookup"><span data-stu-id="fe410-103">We're sorry to see you go!</span></span>
+<span data-ttu-id="64efc-103">Chúng tôi rất tiếc khi thấy bạn rời đi!</span><span class="sxs-lookup"><span data-stu-id="64efc-103">We're sorry to see you go!</span></span>
   
-<span data-ttu-id="fe410-104">Dựa trên các dữ liệu tổ chức của bạn, chúng tôi tin rằng tất cả các đăng ký hiện tại của bạn có hơn 25 giấy phép gán.</span><span class="sxs-lookup"><span data-stu-id="fe410-104">Based on your organization data, we believe all your current subscriptions have more than 25 assigned licenses.</span></span> <span data-ttu-id="fe410-105">Bạn có thể loại bỏ người dùng cho đến khi bạn có ít hơn 25, sau đó đi đến **thanh toán** \> [đăng ký](https://go.microsoft.com/fwlink/p/?linkid=842054) trang, và sau đó chọn **Thêm hành động** \> **hủy bỏ đăng ký**.</span><span class="sxs-lookup"><span data-stu-id="fe410-105">You can remove users until you have fewer than 25, then go to the **Billing** \> [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, and then choose **More actions** \> **Cancel subscription**.</span></span>
+<span data-ttu-id="64efc-104">Dựa trên các dữ liệu tổ chức của bạn, chúng tôi tin rằng tất cả các đăng ký hiện tại của bạn có hơn 25 giấy phép gán.</span><span class="sxs-lookup"><span data-stu-id="64efc-104">Based on your organization data, we believe all your current subscriptions have more than 25 assigned licenses.</span></span> <span data-ttu-id="64efc-105">Bạn có thể loại bỏ người dùng cho đến khi bạn có ít hơn 25, sau đó đi đến **thanh toán** \> trang [sản phẩm & dịch vụ](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="64efc-105">You can remove users until you have fewer than 25, then go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span> <span data-ttu-id="64efc-106">Trong phần **cài đặt & hành động** , hãy chọn **hủy đăng ký**.</span><span class="sxs-lookup"><span data-stu-id="64efc-106">In the **Settings & Actions** section, choose **Cancel subscription**.</span></span>
   
-<span data-ttu-id="fe410-106">Ngoài ra, dùng tùy chọn "Hãy để chúng tôi gọi bạn" nói chuyện với một kỹ sư hỗ trợ.</span><span class="sxs-lookup"><span data-stu-id="fe410-106">Alternatively, use the "Let us call you" option to talk to a support engineer.</span></span>
+<span data-ttu-id="64efc-107">Ngoài ra, chọn **cần giúp đỡ** để nói chuyện với một kỹ sư hỗ trợ.</span><span class="sxs-lookup"><span data-stu-id="64efc-107">Alternatively, choose **Need help** to talk to a support engineer.</span></span>
   
-<span data-ttu-id="fe410-107">Để tìm hiểu thêm về hủy bỏ đăng ký hoặc cho các hướng dẫn từng bước, hãy xem bài viết này: [hủy bỏ đăng ký của bạn](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)</span><span class="sxs-lookup"><span data-stu-id="fe410-107">To learn more about canceling a subscription or for step-by-step instructions, see this article: [Cancel your subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)</span></span>
+<span data-ttu-id="64efc-108">Bạn đang sử dụng trung tâm quản trị cũ?</span><span class="sxs-lookup"><span data-stu-id="64efc-108">Are you using the old admin center?</span></span> <span data-ttu-id="64efc-109">Bước cũ, hoặc để tìm hiểu thêm, hãy xem [huỷ đăng ký của bạn](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="64efc-109">For old steps, or to learn more, see [Cancel your subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).</span></span>
