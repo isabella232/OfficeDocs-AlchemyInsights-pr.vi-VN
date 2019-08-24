@@ -13,12 +13,12 @@ ms.custom:
 - "530"
 - "1400007"
 ms.assetid: 75fdfd6d-cae7-40fd-bc50-8674bcd3a771
-ms.openlocfilehash: a9c2f53ff074d548659757cae9456c3c4633d4ec
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5cf6100e0affd23bc320df8acad7810e402bdb5f
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36518061"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36575973"
 ---
 # <a name="buy-additional-office-365-licenses"></a>Mua thêm giấy phép Office 365
 
@@ -32,9 +32,10 @@ ms.locfileid: "36518061"
 
     > [!NOTE]
     > Nếu bạn trả tiền cho thuê bao của bạn bằng thẻ tín dụng hoặc tài khoản ngân hàng, bất cứ giấy phép mới mua được cung cấp ngay lập tức sau khi bạn nhận được một xác nhận đơn đặt hàng. Nếu bạn trả bằng hoá đơn, bạn có thể phải chờ đợi cho một kiểm tra tín dụng trước khi cấp phép mới của bạn có sẵn để sử dụng.
-  
+
+Bạn đang sử dụng trung tâm quản trị cũ? Bước cũ, hoặc để tìm hiểu thêm, hãy xem [mua giấy phép cho của bạn-Office 365 Beta dành cho doanh nghiệp đăng ký](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).  
+
 **Tài nguyên bổ sung**
 
 - [Gán giấy phép cho người dùng trong Office 365 Beta dành cho doanh nghiệp](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
 
-Để biết thêm chi tiết, hãy xem [mua giấy phép cho của bạn-Office 365 Beta dành cho doanh nghiệp đăng ký](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).

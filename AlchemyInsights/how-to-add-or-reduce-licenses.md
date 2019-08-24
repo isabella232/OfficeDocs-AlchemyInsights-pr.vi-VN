@@ -13,12 +13,12 @@ ms.custom:
 - "319"
 - "1500007"
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
-ms.openlocfilehash: b6a8e6dc08941bf18c3ef8f36a14d63a41b34d4d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 64a7566ff4e1759e8687179d49bac47f7e28bf6a
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36522453"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36574964"
 ---
 # <a name="how-to-add-or-reduce-licenses"></a>Làm thế nào để thêm hoặc giảm bớt các giấy phép
 
@@ -39,7 +39,7 @@ Dưới đây là làm thế nào để loại bỏ hoặc mua thêm giấy phé
 > [!NOTE]
 > Bất kỳ cước mới (giấy phép tăng) hoặc tín dụng (giấy phép giảm) sẽ xuất hiện trên hóa đơn tiếp theo của bạn.
 
-Để biết thêm chi tiết, hãy xem [mua giấy phép cho của bạn-Office 365 Beta dành cho doanh nghiệp đăng ký](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).
+Bạn đang sử dụng trung tâm quản trị cũ? Bước cũ, hoặc để tìm hiểu thêm, hãy xem [mua giấy phép cho của bạn-Office 365 Beta dành cho doanh nghiệp đăng ký](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).
 
  **Tài nguyên bổ sung**
   

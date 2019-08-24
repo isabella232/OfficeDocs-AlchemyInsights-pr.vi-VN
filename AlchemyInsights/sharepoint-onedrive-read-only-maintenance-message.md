@@ -12,18 +12,24 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: cc232fba6f502e2b6f282a8c1a1e29221e36b70d
-ms.sourcegitcommit: a285c609319ade038461e090e14a701830031825
+ms.openlocfilehash: 5b1e56253d6deeb0f9ba2f753eff5c00ff9c51a2
+ms.sourcegitcommit: cd79ecca88b2cb166f78f44ab8bc4e8136729418
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 07/24/2019
-ms.locfileid: "35840537"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36620745"
 ---
 # <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>Chỉ đọc cho các thông báo bảo trì khi cố gắng sử dụng SharePoint hoặc OneDrive
 
-Người dùng có thể nhận được một tin nhắn **Chỉ đọc bảo trì** khi cố gắng sử dụng SharePoint hoặc OneDrive.  Nếu vậy, kiểm tra xem có hoạt động bảo trì xảy ra trên người thuê nhà của bạn bằng cách điều hướng đến [Trung tâm tin nhắn](https://portal.office.com/adminportal/home#/MessageCenter). Ngoài ra, hãy chắc chắn để kiểm tra bảng điều khiển [Dịch vụ y tế](https://portal.office.com/adminportal/home#/servicehealth) để kiểm tra bất kỳ tư vấn/sự cố có thể xảy ra.
+Người dùng có thể nhận được một tin nhắn **Chỉ đọc bảo trì** khi cố gắng sử dụng SharePoint hoặc OneDrive cho một trong các trường hợp sau. 
 
-Nếu bảng điều khiển không phải trung tâm tin nhắn hoặc dịch vụ y tế đã ghi nhận bất cứ điều gì về bảo trì hiện thời cho người thuê nhà của bạn, điều này có thể một trình duyệt bộ nhớ đệm vấn đề.
+-   Một kế hoạch hoặc hoạt động duy trì hoạt động.  Kiểm tra cho họ bằng cách điều hướng đến [Trung tâm tin nhắn](https://portal.office.com/adminportal/home#/messagecenter).
+-   Một ưu tiên cao, hoạt động sự cố có thể xảy ra. Kiểm tra bất kỳ tư vấn/sự cố bằng cách điều hướng đến [Dịch vụ sức khỏe](https://portal.office.com/adminportal/home#/servicehealth).
+-   Một tiểu tự chữa bệnh phục hồi tình huống có thể xảy ra do sự kiện bất ngờ nào trên các máy chủ đó có thể cuối cùng trong chưa đầy 30 phút hoặc lâu hơn. 
+    
+    Không có không có trung tâm tin nhắn hoặc dịch vụ sức khỏe bài viết cho những phục hồi nhỏ, nhưng bạn nên trở lại bình thường rất sớm.
+
+Trong những dịp rất ít chúng tôi quan sát thấy rằng một trong ba trường hợp nêu trên có là nguyên nhân, và dịch vụ đã được khôi phục, nhưng bộ nhớ cache trình duyệt của người dùng đã bị xoá sổ.
 
 Hãy cố gắng để xóa bộ nhớ cache của trình duyệt trước khi điều hướng đến trang web.
 

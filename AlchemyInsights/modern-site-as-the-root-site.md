@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000265"
 - "1874"
-ms.openlocfilehash: 2f75f1e60af06da47fe846e84bbb370dd60084e9
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d5ea73c967013822854dbd408d4628d991c90378
+ms.sourcegitcommit: cd79ecca88b2cb166f78f44ab8bc4e8136729418
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36543875"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36620781"
 ---
 # <a name="modern-site-as-root-site"></a>Các trang web hiện đại như là trang web gốc
 
-Chúng tôi đã bắt đầu buổi giới thiệu một tính năng mới mà sẽ cho phép bạn để hoán đổi cổ điển trang web trang web gốc của bạn với một trang web hiện đại. Sử dụng [Gọi SPSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) để trao đổi vị trí của một trang web với một trang web khác trong khi lưu trữ trang web gốc. Sẵn sàng cho cả hai nhóm trang web (không kết nối với một nhóm) và trang web thông tin liên lạc. 
+Chúng tôi đã bắt đầu buổi giới thiệu một tính năng mới mà sẽ cho phép bạn để hoán đổi cổ điển trang web trang web gốc của bạn với một trang web hiện đại. Sử dụng [Gọi SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) để trao đổi vị trí của một trang web với một trang web khác trong khi lưu trữ trang web gốc. Sẵn sàng cho cả hai nhóm trang web (không kết nối với một nhóm) và trang web thông tin liên lạc. 
 
 >[!Important]
 > Không xóa bỏ các trang web gốc cổ điển của bạn để tạo ra một trang web thông tin liên lạc hiện đại. Điều này không được hỗ trợ bởi Microsoft. Xóa trang web gốc sẽ làm cho tất cả các trang web SharePoint trong tổ chức của bạn không thể tiếp cận tất cả người dùng, cho đến khi bạn khôi phục lại các trang web hoặc tạo một trang web mới tại cùng một URL. Chúng tôi sẽ liên lạc các tính năng này thông qua Trung tâm tin nhắn. Bạn có thể mong đợi các tính năng được bật trong người thuê nhà của bạn ngay.

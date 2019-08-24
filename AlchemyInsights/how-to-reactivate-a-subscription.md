@@ -13,12 +13,12 @@ ms.custom:
 - "441"
 - "1500017"
 ms.assetid: 7dc125f8-491d-4bc2-a2f2-b73c7bda3035
-ms.openlocfilehash: c1c18215a6746ac7ae22c869ffde1a9bd53efce6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 30bbc5006932a22e8247db69cd126c70a657b57f
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539951"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36574784"
 ---
 # <a name="how-to-reactivate-a-subscription"></a>Làm thế nào để kích hoạt đăng ký
 
@@ -26,10 +26,10 @@ Nếu thuê bao của bạn đã hết hạn, bị hủy bỏ hoặc vô hiệu 
   
 1. Trong Trung tâm quản trị, đi đến **thanh toán** \> trang [sản phẩm & dịch vụ](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. Trong **thanh toán**, bên cạnh **Renews trên** hoặc **Expiring trên**, hãy chọn **chỉnh sửa**.
+2. Tìm các thuê bao mà bạn muốn kích hoạt lại. Trong phần **thanh toán** , chọn **kích hoạt lại**.
 
-3. Trong cửa sổ **cài đặt thanh toán Recurring** , chọn tùy chọn bạn muốn. Nếu thanh toán định kỳ đã tắt, hãy chọn **hàng tháng** hoặc **một lần** để biến nó trên.
+    Nếu bạn không thấy **kích hoạt lại** như là một hành động có sẵn, gọi hỗ trợ để kích hoạt thuê bao của bạn.
 
-4. Chọn **gửi thay đổi**.
+3. Xác nhận các chi tiết thanh toán của bạn. Bạn có thể cập nhật thông tin thanh toán sẵn có ở đây. Khi bạn hoàn tất bước vào phương thức thanh toán của bạn, chọn **kích hoạt lại**.
 
-Để biết thêm thông tin, hãy xem: [gia hạn Office 365 Beta dành cho doanh nghiệp](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription)
+Bạn đang sử dụng trung tâm quản trị cũ? Bước cũ, hoặc để tìm hiểu thêm, hãy xem [kích hoạt thuê bao của bạn](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
