@@ -15,20 +15,21 @@ ms.custom:
 - "8000015"
 - "8000017"
 ms.assetid: 2ef840ec-7e1a-4df2-944b-d643fe08bd8f
-ms.openlocfilehash: d4daf97aa7d082906000a48d2fd542a70e8cdc8b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b4c2aeca8eec19487fec6957ba42df2a80c0da20
+ms.sourcegitcommit: 7a95ae38cfceb6c9d8218a50c3ce026fe506530e
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36537898"
+ms.lasthandoff: 08/27/2019
+ms.locfileid: "36643716"
 ---
 # <a name="block-or-unblock-senders"></a>Chặn hoặc bỏ chặn người gửi
 
-Tin nhắn từ địa chỉ email hoặc tên miền trên người gửi bị chặn của bạn đi trực tiếp đến thư mục Email rác của bạn. Email sẽ tự động gỡ bỏ từ các thư mục Email rác sau 14 ngày và không thể khôi phục.
+Tin nhắn từ địa chỉ email hoặc tên miền trên người gửi bị chặn của bạn đi trực tiếp đến thư mục Email rác của bạn. Email sẽ tự động gỡ bỏ từ các thư mục Email rác sau 30 ngày và không thể khôi phục. SE; v.v. một mục để xem khi nó sẽ được gỡ bỏ.
 
 **Từ hộp thư đến của bạn:**
 
 - Trong danh sách thư, chọn tin nhắn và chọn **Junk** > **Block**.
+- **Lưu ý:** Chặn một mục đã có trong thư mục thư rác Email của bạn sẽ không xóa nó.
 
 **Cài đặt:**
 
