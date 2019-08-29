@@ -1,9 +1,8 @@
 ---
-title: Kích hoạt lại một thuê bao
+title: Kích hoạt lại đăng ký
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 5/2/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,23 +12,23 @@ ms.custom:
 - "482"
 - "1500028"
 ms.assetid: 2d59f23f-7aad-4b57-9039-0bd2bbf929a3
-ms.openlocfilehash: 846fa7ebdfed5d9160f97556451e4c6d557b2a8c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 865241f1595de5ebaa3136cbb8b65c66c5330708
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36553382"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666610"
 ---
-# <a name="reactivate-an-office-365-subscription"></a>Kích hoạt lại một thuê bao Office 365
+# <a name="reactivate-an-office-365-subscription"></a>Kích hoạt lại đăng ký Office 365
 
-Nếu đăng ký của bạn hết hạn, được vô hiệu hoá bởi Microsoft, hoặc bạn hủy bỏ nó ở giữa một thời hạn đăng ký, bạn có thể kích hoạt lại nó trong Trung tâm quản trị.
+Nếu đăng ký của bạn hết hạn, đã bị vô hiệu hoá bởi Microsoft, hoặc bạn đã hủy nó ở giữa một thời hạn đăng ký, bạn có thể kích hoạt lại nó trong Trung tâm quản trị.
   
-1. Trong Trung tâm quản trị, đi đến **thanh toán** \> trang [sản phẩm & dịch vụ](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. Trong Trung tâm quản trị, hãy chuyển đến trang [dịch vụ của các sản phẩm](https://go.microsoft.com/fwlink/p/?linkid=842054) **thanh toán** \> _.
 
-2. Chọn các thuê bao mà bạn muốn kích hoạt lại. Trong phần thanh toán, chọn **kích hoạt lại**.
+2. Chọn đăng ký mà bạn muốn kích hoạt lại. Trong phần lập hóa đơn, chọn **kích**hoạt lại.
 
-    Nếu bạn không thấy **kích hoạt lại** như là một hành động có sẵn, [gọi hỗ trợ](https://docs.microsoft.com/office365/admin/contact-support-for-business-products?view=o365-worldwide) để kích hoạt thuê bao của bạn.
+    Nếu bạn không thấy **kích** hoạt lại dưới dạng một hành động có sẵn, hãy [gọi cho hỗ trợ](https://docs.microsoft.com/office365/admin/contact-support-for-business-products?view=o365-worldwide) để kích ứng đăng ký của bạn.
 
-3. Xác nhận các chi tiết thanh toán của bạn. Bạn có thể cập nhật thông tin thanh toán sẵn có ở đây. Khi bạn hoàn tất bước vào phương thức thanh toán của bạn, chọn **kích hoạt lại**.
+3. Xác nhận chi tiết thanh toán của bạn. Bạn có thể cập nhật thông tin thanh toán hiện tại của mình tại đây. Khi bạn đã hoàn tất việc nhập phương thức thanh toán của mình, hãy chọn **kích**hoạt lại.
 
-Để biết thêm chi tiết, hãy xem [kích hoạt thuê bao của bạn](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
+Để tìm hiểu thêm, hãy xem kích hoạt lại [đăng ký của bạn](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).

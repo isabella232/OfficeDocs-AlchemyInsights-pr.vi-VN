@@ -3,7 +3,6 @@ title: Mở rộng các thử nghiệm của bạn cho Office 365 Beta dành cho
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/20/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +12,12 @@ ms.custom:
 - "95"
 - "1400006"
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: 52e65c95ec8ac0176d30ae8a13a62ba843fbcf34
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: d407b8ce254590802f0839d2186beadde2619efb
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36575668"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665026"
 ---
 # <a name="extend-your-trial-for-office-365-for-business"></a>Mở rộng các thử nghiệm của bạn cho Office 365 Beta dành cho doanh nghiệp
 
@@ -32,4 +31,4 @@ Nếu đăng ký dùng thử của bạn trong vòng 15 ngày kể từ ngày h�
 
 4. Bạn cần phải cung cấp thông tin thẻ tín dụng để mở rộng các thử nghiệm của bạn. Chúng tôi sẽ không tính phí thẻ tín dụng của bạn cho phần mở rộng thử nghiệm.
 
-Bạn đang sử dụng trung tâm quản trị cũ? Bước cũ, hoặc để tìm hiểu thêm, hãy xem [mở rộng thử nghiệm của bạn cho Office 365 Beta dành cho doanh nghiệp](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/extend-your-trial).
+Để tìm hiểu thêm, hãy xem [mở rộng thử nghiệm của bạn cho Office 365 Beta dành cho doanh nghiệp](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/extend-your-trial).
