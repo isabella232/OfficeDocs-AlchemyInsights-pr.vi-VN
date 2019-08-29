@@ -2,7 +2,6 @@
 title: Nên bước đi nếu tài khoản bị thỏa hiệp
 ms.author: pebaum
 author: pebaum
-ms.date: 10/2/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -10,12 +9,12 @@ localization_priority: Priority
 ms.custom:
 - "957"
 - "3100016"
-ms.openlocfilehash: 71ccb6c4bd3c9f3d229a391f820df72e2d01ee37
-ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
+ms.openlocfilehash: 6c18059616c0900f330e0cdb5d1076ff28a5b76c
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35904212"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666574"
 ---
 # <a name="recommended-steps-to-take-if-an-account-is-compromised"></a>Nên bước đi nếu tài khoản bị thỏa hiệp
 
@@ -27,7 +26,7 @@ ms.locfileid: "35904212"
 
 3. Loại bỏ bất kỳ nghi ngờ [quy tắc hộp thư đến](https://support.office.com/article/1433E3A0-7FB0-4999-B536-50E05CB67FED) trong hộp thư.
 
-4. Nếu người dùng bị chặn gửi thư điện tử, [đi tới những người dùng bị giới hạn để mở khóa các tài khoản](https://protection.office.com/?hash=/restrictedusers). Sau khi thực hiện, người dùng sẽ có thể tiếp tục gửi tin nhắn trong vòng 1 giờ.
+4. Nếu người dùng bị chặn gửi thư điện tử, [đi tới trang bị giới hạn người dùng để mở khóa các tài khoản](https://protection.office.com/?hash=/restrictedusers). Sau khi thực hiện, người dùng sẽ có thể tiếp tục gửi tin nhắn trong vòng 1 giờ.
 
 5. Loại bỏ trương mục người dùng từ bất kỳ [nhóm vai trò quản trị](https://support.office.com/article/eac4d046-1afd-4f1a-85fc-8219c79e1504) cho đến khi bạn đang tự tin rằng các tài khoản không còn bị tổn hại.
 

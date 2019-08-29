@@ -13,12 +13,12 @@ ms.custom:
 - "87"
 - "1400001"
 ms.assetid: ec57734d-073d-4aee-8c7c-f4aa9e7130ae
-ms.openlocfilehash: 75ce59fedadc22291062affd2220b08057910966
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: 7bf1ae4696576155ac3df3356ebf5d32ec779dbb
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36576114"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665494"
 ---
 # <a name="canceling-your-office-365-subscription"></a>Huỷ đăng ký Office 365 của bạn?
 
@@ -28,4 +28,4 @@ Dựa trên các dữ liệu tổ chức của bạn, chúng tôi tin rằng t�
   
 Ngoài ra, chọn **cần giúp đỡ** để nói chuyện với một kỹ sư hỗ trợ.
   
-Bạn đang sử dụng trung tâm quản trị cũ? Bước cũ, hoặc để tìm hiểu thêm, hãy xem [huỷ đăng ký của bạn](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+Để tìm hiểu thêm, hãy xem [huỷ đăng ký của bạn](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).

@@ -1,9 +1,8 @@
 ---
-title: Xem thêm thông tin về các vấn đề DLP
+title: Thông tin thêm về vấn đề DLP
 ms.author: stephow
 author: stephow-MSFT
 manager: laurawi
-ms.date: ''
 ms.audience: admin
 ms.topic: article
 ms.prod: office-online-server
@@ -12,24 +11,24 @@ localization_priority: Normal
 ms.custom:
 - "2447"
 - "3200001"
-ms.openlocfilehash: e1340945b5d90505e290d2561d0179856c93679d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0717b99f500fd9173167d2e3fcaff1b920d22d74
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36530409"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665242"
 ---
-# <a name="more-info-about-dlp-issues"></a>Xem thêm thông tin về các vấn đề DLP
+# <a name="information-about-dlp-issues"></a>Thông tin về vấn đề DLP
 
 Với chính sách DLP, bạn có thể xác định, theo dõi và tự động bảo vệ thông tin nhạy cảm trên Office 365.
 
-Xin vui lòng truy cập vào các liên kết này cho biết thêm thông tin:
+Vui lòng truy cập các liên kết này để biết thêm thông tin:
 
-- [Tổng quan về công tác phòng chống mất mát dữ liệu](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)
-- [Những thông tin nhạy cảm loại tìm kiếm](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)
-- [Tạo ra một loại tùy chỉnh các thông tin nhạy cảm](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type)
-- [Gửi email thông báo và hiển thị chính sách Mẹo](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips)
-- [Bảo vệ tập tin SharePoint Online với lưu giữ nhãn và DLP](https://docs.microsoft.com/office365/securitycompliance/protect-sharepoint-online-files-with-office-365-labels-and-dlp)
-- [Microsoft đội và DLP](https://docs.microsoft.com/office365/securitycompliance/dlp-microsoft-teams)
+- [Tổng quan về ngăn ngừa mất dữ liệu](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)
+- [Những loại thông tin nhạy cảm tìm kiếm](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)
+- [Tạo loại thông tin nhạy cảm tùy chỉnh](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type)
+- [Gửi thông báo email và hiển thị Mẹo chính sách](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips)
+- [Bảo vệ tệp SharePoint trực tuyến với nhãn lưu giữ và DLP](https://docs.microsoft.com/office365/securitycompliance/protect-sharepoint-online-files-with-office-365-labels-and-dlp)
+- [DLP và Microsoft teams](https://docs.microsoft.com/office365/securitycompliance/dlp-microsoft-teams)
 
-Để kiểm tra dữ liệu của bạn với một loại thông tin nhạy cảm được xây dựng trong hoặc tùy chỉnh, sử dụng các tùy chọn **kiểm tra các loại** theo **phân loại** > **các loại thông tin nhạy cảm**. Để biết thêm chi tiết, hãy xem [thử nghiệm các loại tùy chỉnh các thông tin nhạy cảm](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type#test-custom-sensitive-information-types-in-the-security--compliance-center).
+Để kiểm tra dữ liệu của bạn bằng loại thông tin nhạy cảm được tích hợp hoặc tùy chỉnh, hãy **** > sử dụng tùy chọn **loại thử nghiệm** trong phân**loại thông tin nhạy cảm**. Để biết thêm thông tin, xem [kiểm tra các loại thông tin nhạy cảm tùy chỉnh](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type#test-custom-sensitive-information-types-in-the-security--compliance-center).

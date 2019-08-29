@@ -3,7 +3,6 @@ title: 1385-văn phòng-365-cảnh báo-chính sách
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +12,16 @@ ms.custom:
 - "1385"
 - "3200002"
 ms.assetid: ''
-ms.openlocfilehash: 46a029f262fa05edffa6f681c7205e289fe448c5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: edff5a265cf31ce9a242f73ae7121ccb8b591d5f
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36496375"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36661318"
 ---
 # <a name="office-365-alert-policies"></a>Office 365 cảnh báo chính sách
 
-Office 365 an ninh & của cung cấp Trung tâm tuân thủ [chính sách cảnh báo mặc định](https://docs.microsoft.com/office365/securitycompliance/alert-policies#default-alert-policies) kích hoạt cảnh báo cho các tổ chức với một thuê bao Office 365 doanh nghiệp hoặc Office 365 Beta dành cho chúng tôi chính phủ E1/G1, E3/G3 hoặc E5/G5. Do đó, quản trị viên có thể nhận được một thông báo cảnh báo email được gửi bởi Office365Alerts@microsoft.com với một dòng tiêu đề như "một cảnh báo mức độ thấp:*tên của chính sách cảnh báo*". Cảnh báo thông báo được gửi khi cảnh báo được kích hoạt cho các hoạt động phổ biến, chẳng hạn như khi người dùng:
+Office 365 an ninh & của cung cấp Trung tâm tuân thủ [chính sách cảnh báo mặc định](https://docs.microsoft.com/office365/securitycompliance/alert-policies#default-alert-policies) kích hoạt cảnh báo cho các tổ chức với một thuê bao Office 365 doanh nghiệp hoặc Office 365 Beta dành cho chúng tôi chính phủ E1/G1, E3/G3 hoặc E5/G5. Do đó, quản trị viên có thể nhận được một thông báo cảnh báo email được gửi bởi Office365Alerts@microsoft.com với một dòng tiêu đề như "một cảnh báo mức độ thấp: *tên của chính sách cảnh báo*". Cảnh báo thông báo được gửi khi cảnh báo được kích hoạt cho các hoạt động phổ biến, chẳng hạn như khi người dùng:
 
 - Tạo quy tắc hộp thư đến chuyển tiếp email.
 - Gán quyền hộp thư của họ.
@@ -31,8 +30,8 @@ Office 365 an ninh & của cung cấp Trung tâm tuân thủ [chính sách cản
 
 Để xem xét và hành động trên một cảnh báo:
 
-1. Đi đến [an ninh & tuân thủ trung tâm](https://protection.office.com) và đăng nhập.
-2. Bấm vào **thông báo > xem thông báo**.
+1. Đi đến [Trung tâm bảo mật & tuân thủ](https://protection.office.com) và đăng nhập.
+2. Bấm vào **thông báo** > **xem thông báo**.
 3. Nhấp vào một cảnh báo để hiển thị một trang flyout với thông tin về cảnh báo.
 
 Bạn có thể có hành động về thông báo, như [loại bỏ quy tắc hộp thư đến đáng ngờ](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account). Hoặc bạn có thể chỉ đơn giản là đóng cảnh báo bằng cách nhấp vào **giải quyết** trong trang viên alert flyout.
@@ -41,8 +40,8 @@ Bạn có thể có hành động về thông báo, như [loại bỏ quy tắc 
 
 **Chú ý**: thông báo email cảnh báo từ Microsoft sẽ không bao giờ yêu cầu bạn thực hiện như sau:
 
-- Cung cấp một mật khẩu.
-- Xác minh các chi tiết bảo mật tài khoản của bạn.
-- Tái xác nhận chính mình.
+- Mật khẩu
+- Xác minh các chi tiết bảo mật tài khoản của bạn
+- Tái xác nhận chính mình
 
 Nếu bạn nhận được một email thông báo như thế này, nó đã không được gửi bởi Microsoft và nên được coi là một scam lừa đảo. Nếu điều đó xảy ra, xin vui lòng [báo cáo cho Microsoft](https://docs.microsoft.com/office365/SecurityCompliance/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop).

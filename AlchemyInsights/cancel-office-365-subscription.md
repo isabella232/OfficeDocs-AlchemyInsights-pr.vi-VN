@@ -1,5 +1,5 @@
 ---
-title: Hủy đăng ký Office 365
+title: Huỷ đăng ký Office 365
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -11,21 +11,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8518f535-1bd3-4bf0-8e6e-e3468459bd5e
-ms.openlocfilehash: 4400fa666e0f4485286793a8703f82606702e6cf
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: 3aecd74ad35c7c9cfc799cc73434e57065f09fdf
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36576078"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665549"
 ---
-# <a name="cancelling-your-office-365-subscription"></a>Hủy bỏ đăng ký Office 365 của bạn?
+# <a name="cancelling-your-office-365-subscription"></a>Hủy đăng ký Office 365 của bạn?
 
-Chúng tôi rất tiếc khi thấy bạn rời đi, nhưng ở đây là các tùy chọn để hủy bỏ đăng ký của bạn:
+Chúng tôi rất tiếc khi thấy bạn đi, nhưng đây là lựa chọn của bạn để hủy bỏ đăng ký của bạn:
   
-- Nếu bạn là một khách hàng dùng thử, không có gì để hủy bỏ. Đăng ký dùng thử hết hạn tự động trừ khi bạn cung cấp một phương thức thanh toán.
+- Nếu bạn là một khách hàng dùng thử, không có gì để hủy bỏ. Đăng ký dùng thử hết hạn tự động trừ khi bạn cung cấp phương thức thanh toán.
 
-- Nếu bạn có ít hơn 25 được gán giấy phép, bạn có thể hủy bỏ đăng ký của bạn trực tuyến. Chuyển đến **thanh toán** \> [sản phẩm & dịch vụ](https://go.microsoft.com/fwlink/p/?linkid=842054). Trong phần **cài đặt & hành động** , hãy chọn **hủy đăng ký**.
+- Nếu bạn có ít hơn 25 giấy phép được chỉ định, bạn có thể hủy đăng ký trực tuyến. Đi đến các sản phẩm **thanh toán** \> [_ amp_ dịch vụ](https://go.microsoft.com/fwlink/p/?linkid=842054). Trong phần **cài đặt _ Amp_ hành động** , chọn **hủy bỏ đăng ký**.
 
-- Nếu bạn có hơn 25 được gán giấy phép, bạn có thể hoặc là loại bỏ người dùng cho đến khi bạn có ít hơn 25, hoặc sử dụng tùy chọn "Hãy để chúng tôi gọi bạn" nói chuyện với một kỹ sư hỗ trợ.
+- Nếu bạn có nhiều hơn 25 giấy phép được chỉ định, bạn có thể xóa người dùng cho đến khi bạn có ít hơn 25 hoặc sử dụng tùy chọn "để chúng tôi gọi cho bạn" để nói chuyện với một kỹ sư hỗ trợ.
 
-Bạn đang sử dụng trung tâm quản trị cũ? Bước cũ, hoặc để tìm hiểu thêm, hãy xem [huỷ đăng ký của bạn](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+Để tìm hiểu thêm, hãy xem [hủy đăng ký của bạn](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).

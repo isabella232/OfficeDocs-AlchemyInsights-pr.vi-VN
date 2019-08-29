@@ -13,12 +13,12 @@ ms.custom:
 - "662"
 - "1500012"
 ms.assetid: ba037d2d-3c99-4d01-8d60-ca5d624da9b1
-ms.openlocfilehash: 79bbf01dde6020a18a9693d5ad0f4ae62390a245
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ccfc1b392f789e42c2bfbd545f8a7abdeb5ef022
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36554643"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666718"
 ---
 # <a name="prepaid-office-365-renewal"></a>Gia hạn Office 365 trả trước
 
@@ -35,4 +35,4 @@ ms.locfileid: "36554643"
 
 5. Xem lại chi tiết đơn đặt hàng của bạn, sau đó chọn **đổi**.
 
-Để biết thêm chi tiết, hãy xem [thêm giấy phép hoặc gia hạn một thuê bao được thanh toán cho việc sử dụng một mã khóa sản phẩm](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).
+Để tìm hiểu thêm, hãy xem [thêm giấy phép hoặc gia hạn một thuê bao được thanh toán cho việc sử dụng một mã khóa sản phẩm](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).

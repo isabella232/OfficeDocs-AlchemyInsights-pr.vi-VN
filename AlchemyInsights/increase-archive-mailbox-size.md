@@ -3,25 +3,24 @@ title: 305 tăng kích cỡ hộp thư lưu trữ
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 305
 ms.assetid: ''
-ms.openlocfilehash: 28086145d8769bd06ef6352257a820146c5f237d
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: a8c16d97040e9396d6cf9bd4a5da671a7da88e13
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36391633"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36661822"
 ---
 # <a name="increase-the-archive-mailbox-size"></a>Tăng kích cỡ hộp thư lưu trữ
 
 Office 365 [giới hạn](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#mailbox-storage-limits) kích thước của hộp thư lưu trữ dựa trên on the giấy phép được gán cho tài khoản người dùng. Khi hộp thư lưu trữ đạt đến 90% cho phép kích thước của nó, người dùng nhận được một email thông báo. Khi hộp thư lưu trữ đạt tới giới hạn kích thước của nó, người dùng không thể di chuyển thêm khoản mục vào hộp thư lưu trữ. Office 365 sẽ không tăng kích thước của hộp thư lưu trữ khi đạt đến giới hạn kích thước. Thay vào đó, người dùng có thể thực hiện hành động sau đây để giải phóng không gian trong hộp thư lưu trữ:
 
-- Xuất khẩu các mặt hàng để một .pst tập tin bằng cách sử dụng Outlook
+- Xuất khẩu các mặt hàng để một .pst tập tin bằng cách sử dụng Outlook.
 
 - Xoá các mục khỏi hộp thư lưu trữ.
 

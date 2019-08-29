@@ -3,7 +3,6 @@ title: Kích hoạt và tìm kiếm các Nhật ký kiểm tra
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,14 +12,16 @@ ms.custom:
 - "286"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 37ffbe6a3c94edc3b9888b1544e9e29097d3425a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9c8f38e7bfac6d5ac6f82e5d8225c89530bd98b2
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527745"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665098"
 ---
 # <a name="enable-and-search-the-audit-log"></a>Cho phép và tìm kiếm Nhật ký kiểm tra
+
+**Office 365**
 
 Để tìm kiếm các Nhật ký kiểm tra Office 365, hãy làm theo [các bước sau](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
 
@@ -28,7 +29,7 @@ ms.locfileid: "36527745"
 
 - Các hoạt động quản trị đổi Ngoại tệ được kiểm toán theo mặc định.
 
-- Chúng tôi đang trong quá trình tạo điều kiện cho hộp thư kiểm tra theo mặc định trong Office 365. Cho đến lúc đó, để cho phép kiểm toán cho một hộp thư duy nhất hoặc cho tất cả các hộp thư trong tổ chức của bạn, hãy xem [bài viết này](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing).
+- Kiểm tra hộp thư được kích hoạt theo mặc định trong Office 365. Để biết thêm chi tiết, hãy xem [bài viết này](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing).
 
 - Office 365 nhóm hộp thư và thư mục chung các hộp thư trong Exchange Online không hỗ trợ ghi nhật ký kiểm tra.
 

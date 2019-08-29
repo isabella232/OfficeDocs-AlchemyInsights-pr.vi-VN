@@ -13,12 +13,12 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: 4a63466a307f5741b531a731b8436d1303376c33
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: d92f34b3c103f21c539c898c3f2b3224016c2754
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36574564"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36663982"
 ---
 # <a name="how-to-reactivate-and-manage-recurring-billing"></a>Làm thế nào để kích hoạt lại và quản lý theo định kỳ thanh toán
 
@@ -32,7 +32,7 @@ Có vẻ như bạn có một đăng ký đã hết hạn. Nếu bạn muốn k�
 
 3. Xác nhận các chi tiết thanh toán của bạn. Bạn có thể cập nhật thông tin thanh toán sẵn có ở đây. Khi bạn hoàn tất bước vào phương thức thanh toán của bạn, chọn **kích hoạt lại**.
 
-Bạn đang sử dụng trung tâm quản trị cũ? Bước cũ, hoặc để tìm hiểu thêm, hãy xem [kích hoạt thuê bao của bạn](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
+Để tìm hiểu thêm, hãy xem [kích hoạt thuê bao của bạn](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
 
 Để quản lý hàng tháng hoặc hàng năm thanh toán bạn có thể bật tắt **thanh toán Recurring** Baät hoaëc Taét.
   
@@ -46,4 +46,4 @@ Bạn đang sử dụng trung tâm quản trị cũ? Bước cũ, hoặc để t
 
 5. Chọn **gửi thay đổi**.
 
-Bạn đang sử dụng trung tâm quản trị cũ? Bước cũ, hoặc để tìm hiểu thêm, hãy xem [bật định kỳ thanh toán hết hoặc trên](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
+Để tìm hiểu thêm, hãy xem [bật định kỳ thanh toán hết hoặc trên](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).

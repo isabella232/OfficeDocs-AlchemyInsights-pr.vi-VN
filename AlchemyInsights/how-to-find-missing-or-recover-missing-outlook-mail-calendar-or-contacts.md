@@ -3,7 +3,6 @@ title: 204 làm thế nào để tìm thấy thiếu hoặc phục hồi mất O
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
-ms.date: 9/17/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,18 +12,18 @@ ms.custom:
 - "204"
 - "1800008"
 ms.assetid: 86752487-615c-447d-aebf-bf5abd49db20
-ms.openlocfilehash: ffedca61f5915c0a32a7e0ca903703802667b64e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b9e602538d3c3e83b681cf644fd63c223bdbac93
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36540671"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664197"
 ---
 # <a name="how-to-find-and-recover-missing-messages-contacts-or-calendar-items-in-outlook"></a>Làm thế nào để tìm và khôi phục thiếu thư, số liên lạc hoặc các mục lịch trong Outlook
 
 - Bạn có thể sử dụng [tôi đang gặp vấn đề về việc gửi, nhận, hoặc tìm kiếm công cụ tin nhắn email](https://aka.ms/SaRA-OutlookSendReceive) trên máy tính bị ảnh hưởng. Công cụ này sẽ kiểm tra một số vấn đề và sẽ đề xuất các giải pháp có thể.
 
-- [Xác định nếu tài khoản thỏa hiệp](https://support.microsoft.com/help/2551603/how-to-determine-whether-your-office-365-account-has-been-compromised). Nếu bị xâm phạm, hãy thực hiện theo các bước trong [đáp ứng với một bị xâm phạm tài khoản email trong Office 365.](https://docs.microsoft.com/office365/enterprise/responding-to-a-compromised-email-account)
+- [Xác định nếu tài khoản thỏa hiệp](https://support.microsoft.com/help/2551603/how-to-determine-whether-your-office-365-account-has-been-compromised). Nếu bị xâm phạm, hãy thực hiện theo các bước trong [đáp ứng với một bị xâm phạm tài khoản email trong Office 365.](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account)
 
 - [Tìm tin nhắn hoặc mục bằng tìm kiếm tức thì](https://support.office.com/article/69748862-5976-47b9-98e8-ed179f1b9e4d)
 
