@@ -11,23 +11,23 @@ ms.custom:
 - "764"
 - "1800018"
 ms.assetid: afd20b89-09e9-4746-ac16-e282382dd948
-ms.openlocfilehash: 39c9466f41002a1471a9fb81c93900f75260678d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1aa03a534b224c1629b480d53648b4982eebd31a
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36494837"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36660922"
 ---
 # <a name="setup-email-accounts"></a>Thiết lập tài khoản email
 
-1. Trong Outlook, chọn **File** \> **Thêm tài khoản**.
+1. Trong Outlook, chọn **File** > **thông tin** > **Thêm tài khoản**.
 
-2. Nhập địa chỉ email của bạn và sau đó bấm **kết nối**.
+2. Nhập địa chỉ email của bạn, và sau đó chọn **kết nối**.
 
-3. Nhập mật khẩu của bạn và sau đó nhấp vào **OK**.
+3. Nhập mật khẩu của bạn và sau đó chọn **OK**.
 
 4. Bạn có thể lặp lại các bước để thêm nhiều tài khoản.
 
     > [!NOTE]
-    > Một số tài khoản email, như Gmail, Yahoo và iCloud, yêu cầu bạn phải thiết lập xác thực 2 yếu tố để sử dụng Outlook để gửi và nhận email. Xem [Thêm tài khoản email với Outlook](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b.aspx)để biết thêm thông tin.
+    > Một số tài khoản email, như Gmail, Yahoo và iCloud, yêu cầu bạn phải thiết lập xác thực 2 yếu tố để sử dụng Outlook để gửi và nhận email. Xem [Thêm tài khoản email với Outlook](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b.aspx) để biết thêm thông tin.
   
