@@ -1,5 +1,5 @@
 ---
-title: Các vấn đề giả mạo, lừa đảo hoặc mạo danh?
+title: Các vấn đề về giả mạo, lừa đảo hoặc mạo danh?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -9,29 +9,29 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1755
 ms.assetid: ''
-ms.openlocfilehash: c4d6c9c28c146a098288fdd2d978cdca098e89af
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 73a960d76802ccfee5500b1816f34a15b960c3f2
+ms.sourcegitcommit: 7398c9d81f00328d1edc515a195d779dd28f1bea
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36661498"
+ms.lasthandoff: 09/03/2019
+ms.locfileid: "36716125"
 ---
-# <a name="issues-with-spoofing-phishing-or-impersonation"></a><span data-ttu-id="61d04-102">Các vấn đề giả mạo, lừa đảo hoặc mạo danh?</span><span class="sxs-lookup"><span data-stu-id="61d04-102">Issues with spoofing, phishing, or impersonation?</span></span>
+# <a name="issues-with-spoofing-phishing-or-impersonation"></a><span data-ttu-id="a852b-102">Các vấn đề về giả mạo, lừa đảo hoặc mạo danh?</span><span class="sxs-lookup"><span data-stu-id="a852b-102">Issues with spoofing, phishing, or impersonation?</span></span>
 
-<span data-ttu-id="61d04-103">Tìm hiểu làm thế nào Office 365 bảo vệ bạn từ:</span><span class="sxs-lookup"><span data-stu-id="61d04-103">Learn how Office 365 protects you from:</span></span>
+<span data-ttu-id="a852b-103">Tìm hiểu cách Office 365 bảo vệ bạn khỏi:</span><span class="sxs-lookup"><span data-stu-id="a852b-103">Learn how Office 365 protects you from:</span></span>
 
-- [<span data-ttu-id="61d04-104">Giả mạo</span><span class="sxs-lookup"><span data-stu-id="61d04-104">Spoofing</span></span>](https://docs.microsoft.com/office365/securitycompliance/anti-spoofing-protection)
+- [<span data-ttu-id="a852b-104">Spoofing</span><span class="sxs-lookup"><span data-stu-id="a852b-104">Spoofing</span></span>](https://docs.microsoft.com/office365/securitycompliance/anti-spoofing-protection)
 
-- [<span data-ttu-id="61d04-105">Lừa đảo trực tuyến và mạo danh</span><span class="sxs-lookup"><span data-stu-id="61d04-105">Phishing and impersonation</span></span>](https://docs.microsoft.com/office365/securitycompliance/atp-anti-phishing)
+- [<span data-ttu-id="a852b-105">Lừa đảo và mạo danh</span><span class="sxs-lookup"><span data-stu-id="a852b-105">Phishing and impersonation</span></span>](https://docs.microsoft.com/office365/securitycompliance/atp-anti-phishing)
 
-<span data-ttu-id="61d04-106">Đề nghị bổ sung:</span><span class="sxs-lookup"><span data-stu-id="61d04-106">Additional recommendations:</span></span>
+<span data-ttu-id="a852b-106">Khuyến nghị bổ sung:</span><span class="sxs-lookup"><span data-stu-id="a852b-106">Additional recommendations:</span></span>
 
-- <span data-ttu-id="61d04-107">Để lừa đảo người gửi có vẻ đến từ tên miền của riêng bạn, SPF và DKIM có thể giúp đỡ.</span><span class="sxs-lookup"><span data-stu-id="61d04-107">For spoofed senders that appear to come from your own domain, SPF and DKIM can help.</span></span>
+- <span data-ttu-id="a852b-107">Đối với người gửi giả mạo xuất hiện từ tên miền của riêng bạn, [SPF](https://docs.microsoft.com/office365/securitycompliance/set-up-spf-in-office-365-to-help-prevent-spoofing) và [DKIM](https://docs.microsoft.com/office365/securitycompliance/use-dkim-to-validate-outbound-email) có thể giúp đỡ.</span><span class="sxs-lookup"><span data-stu-id="a852b-107">For spoofed senders that appear to come from your own domain, [SPF](https://docs.microsoft.com/office365/securitycompliance/set-up-spf-in-office-365-to-help-prevent-spoofing) and [DKIM](https://docs.microsoft.com/office365/securitycompliance/use-dkim-to-validate-outbound-email) can help.</span></span>
 
-- <span data-ttu-id="61d04-108">Xác minh người gửi trong miền của bạn không được cấu hình để tránh lọc chống thư rác bằng cách sử dụng quy tắc dòng chảy (còn được gọi là quy tắc truyền tải) hoặc danh mục cho phép.</span><span class="sxs-lookup"><span data-stu-id="61d04-108">Verify senders in your own domain aren't configured to bypass anti-spam filtering using flow rules (also known as transport rules) or allow list entries.</span></span>
+- <span data-ttu-id="a852b-108">Xác minh người gửi trong miền riêng của bạn không được cấu hình để tránh lọc chống thư rác bằng cách sử dụng quy tắc luồng thư (còn gọi là quy tắc truyền tải) hoặc cho phép các mục nhập danh sách.</span><span class="sxs-lookup"><span data-stu-id="a852b-108">Verify senders in your own domain aren't configured to bypass anti-spam filtering using mail flow rules (also known as transport rules) or allow list entries.</span></span> <span data-ttu-id="a852b-109">Để biết thêm thông tin, xem [Cautions chống bỏ qua Office 365 bộ lọc thư rác](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters).</span><span class="sxs-lookup"><span data-stu-id="a852b-109">For more information, see [Cautions against bypassing Office 365 spam filters](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters).</span></span>
 
-- <span data-ttu-id="61d04-109">Xác minh rằng người dùng đã không cấu hình cho phép danh sách các mục có thể cho phép tấn công lừa đảo.</span><span class="sxs-lookup"><span data-stu-id="61d04-109">Verify that users haven't configured allow list entries that could allow phishing attacks.</span></span>
+- <span data-ttu-id="a852b-110">Xác minh rằng người dùng chưa cấu hình mục nhập [danh sách gửi an toàn](https://support.office.com/article/BE1BAEA0-BEAB-4A30-B968-9004332336CE) có thể cho phép tấn công lừa đảo.</span><span class="sxs-lookup"><span data-stu-id="a852b-110">Verify that users haven't configured [Safe Senders list](https://support.office.com/article/BE1BAEA0-BEAB-4A30-B968-9004332336CE) entries that could allow phishing attacks.</span></span>
 
-- <span data-ttu-id="61d04-110">Hãy xem xét việc cung cấp độ tin cậy cao thư thư rác và thư lừa đảo để cách ly thay vì các thư mục Email rác.</span><span class="sxs-lookup"><span data-stu-id="61d04-110">Consider delivering high-confidence spam and phishing messages to quarantine instead of the Junk Email folder.</span></span>
+- <span data-ttu-id="a852b-111">Cân nhắc cung cấp thư rác và thư lừa đảo có độ tin cậy cao để cách ly thay vì thư mục email rác.</span><span class="sxs-lookup"><span data-stu-id="a852b-111">Consider delivering high-confidence spam and phishing messages to quarantine instead of the Junk Email folder.</span></span> <span data-ttu-id="a852b-112">Để biết thêm thông tin, xem cách [ly thư email trong Office 365](https://docs.microsoft.com/office365/securitycompliance/quarantine-email-messages).</span><span class="sxs-lookup"><span data-stu-id="a852b-112">For more information, see [Quarantine email messages in Office 365](https://docs.microsoft.com/office365/securitycompliance/quarantine-email-messages).</span></span>
 
-<span data-ttu-id="61d04-111">**[Báo cáo tin nhắn cho Microsoft](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) là cách tốt nhất để cho chúng tôi biết làm thế nào các bộ lọc thực hiện.**</span><span class="sxs-lookup"><span data-stu-id="61d04-111">**[Reporting messages to Microsoft](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) is the best way to let us know how the filters are performing.**</span></span>
+<span data-ttu-id="a852b-113">**[Báo cáo tin nhắn cho Microsoft](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) là cách tốt nhất để cho chúng tôi biết các bộ lọc đang hoạt động như thế nào.**</span><span class="sxs-lookup"><span data-stu-id="a852b-113">**[Reporting messages to Microsoft](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) is the best way to let us know how the filters are performing.**</span></span>
