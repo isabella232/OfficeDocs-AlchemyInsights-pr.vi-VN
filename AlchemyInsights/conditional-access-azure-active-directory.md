@@ -1,26 +1,26 @@
 ---
-title: Có điều kiện tiếp cận với dành
-ms.author: kirks
+title: Truy cập có điều kiện với InTune
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: aecba7c5-e86d-4ec8-9d44-679f5a3d659d
-ms.openlocfilehash: 4111ae725c14a897c110af3d0d0002d81629c310
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b0f2a7bd2d28a05ea192747c5b8c95bc16d7b8fb
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36520197"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755582"
 ---
-# <a name="conditional-access"></a><span data-ttu-id="8bffc-102">Có điều kiện truy cập</span><span class="sxs-lookup"><span data-stu-id="8bffc-102">Conditional Access</span></span>
+# <a name="conditional-access"></a><span data-ttu-id="2439a-102">Truy cập có điều kiện</span><span class="sxs-lookup"><span data-stu-id="2439a-102">Conditional Access</span></span>
 
-<span data-ttu-id="8bffc-103">Có điều kiện truy cập là một khả năng của Azure Active Directory.</span><span class="sxs-lookup"><span data-stu-id="8bffc-103">Conditional access is a capability of Azure Active Directory.</span></span> <span data-ttu-id="8bffc-104">Truy cập có điều kiện, bạn có thể thực hiện quyết định kiểm soát quyền truy cập tự động để truy cập vào các ứng dụng đám mây của bạn được dựa trên điều kiện.</span><span class="sxs-lookup"><span data-stu-id="8bffc-104">With conditional access, you can implement automated access control decisions for accessing your cloud apps that are based on conditions.</span></span> <span data-ttu-id="8bffc-105">Để biết thêm chi tiết, vui lòng truy cập [Chính sách Configuring Location-Based](https://docs.microsoft.com/azure/active-directory/conditional-access/overview).</span><span class="sxs-lookup"><span data-stu-id="8bffc-105">For more information, please visit [Configuring Location-Based Policies](https://docs.microsoft.com/azure/active-directory/conditional-access/overview).</span></span>
+<span data-ttu-id="2439a-103">Truy cập có điều kiện là một khả năng của Azure Active Directory.</span><span class="sxs-lookup"><span data-stu-id="2439a-103">Conditional access is a capability of Azure Active Directory.</span></span> <span data-ttu-id="2439a-104">Với quyền truy cập có điều kiện, bạn có thể triển khai các quyết định kiểm soát truy cập tự động để truy cập các ứng dụng đám mây dựa trên điều kiện.</span><span class="sxs-lookup"><span data-stu-id="2439a-104">With conditional access, you can implement automated access control decisions for accessing your cloud apps that are based on conditions.</span></span> <span data-ttu-id="2439a-105">Để biết thêm thông tin, vui lòng truy cập [cấu hình chính sách dựa trên vị trí](https://docs.microsoft.com/azure/active-directory/conditional-access/overview).</span><span class="sxs-lookup"><span data-stu-id="2439a-105">For more information, please visit [Configuring Location-Based Policies](https://docs.microsoft.com/azure/active-directory/conditional-access/overview).</span></span>
 
-<span data-ttu-id="8bffc-106">Như là quản trị viên CNTT, bạn cũng có thể kiểm soát quyền truy cập vào tài nguyên SharePoint và OneDrive dựa trên vị trí mạng được xác định hoặc các thiết bị mà bạn tin tưởng.</span><span class="sxs-lookup"><span data-stu-id="8bffc-106">As an IT admin, you can also control access to SharePoint and OneDrive resources based on defined network locations or devices you trust.</span></span> <span data-ttu-id="8bffc-107">Để biết thêm chi tiết, xin vui lòng truy cập vào liên kết dưới đây.</span><span class="sxs-lookup"><span data-stu-id="8bffc-107">For more information, please visit the links below.</span></span>
+<span data-ttu-id="2439a-106">Là quản trị viên CNTT, bạn cũng có thể kiểm soát quyền truy cập vào tài nguyên SharePoint và OneDrive dựa trên các vị trí mạng được xác định hoặc thiết bị bạn tin tưởng.</span><span class="sxs-lookup"><span data-stu-id="2439a-106">As an IT admin, you can also control access to SharePoint and OneDrive resources based on defined network locations or devices you trust.</span></span> <span data-ttu-id="2439a-107">Để biết thêm thông tin, xin vui lòng truy cập vào các liên kết dưới đây.</span><span class="sxs-lookup"><span data-stu-id="2439a-107">For more information, please visit the links below.</span></span>
 
-- [<span data-ttu-id="8bffc-108">Kiểm soát quyền truy cập vào dữ liệu trực tuyến SharePoint và OneDrive dựa trên vị trí mạng</span><span class="sxs-lookup"><span data-stu-id="8bffc-108">Control access to SharePoint Online and OneDrive data based on network location</span></span>](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
+- [<span data-ttu-id="2439a-108">Kiểm soát quyền truy cập vào dữ liệu SharePoint Online và OneDrive dựa trên vị trí mạng</span><span class="sxs-lookup"><span data-stu-id="2439a-108">Control access to SharePoint Online and OneDrive data based on network location</span></span>](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
 
-- [<span data-ttu-id="8bffc-109">Điều khiển truy cập từ các thiết bị không được quản lý</span><span class="sxs-lookup"><span data-stu-id="8bffc-109">Control access from unmanaged devices</span></span>](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
+- [<span data-ttu-id="2439a-109">Kiểm soát truy cập từ các thiết bị không quản lý</span><span class="sxs-lookup"><span data-stu-id="2439a-109">Control access from unmanaged devices</span></span>](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
 

@@ -1,5 +1,5 @@
 ---
-title: Tạo một hộp thư dùng chung
+title: Tạo hộp thư dùng chung
 ms.author: dmaguire
 author: msdmaguire
 manager: dansimp
@@ -9,17 +9,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3b5f8296-6661-4721-83bc-bc7e310219ac
-ms.openlocfilehash: e87bdbbc400217e6f7cb86c210b9140bd60a31c6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 91a14421af93580926ba97d65b9a6a6c8a687d23
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36515915"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738255"
 ---
-# <a name="create-a-shared-mailbox"></a><span data-ttu-id="e59ad-102">Tạo một hộp thư dùng chung</span><span class="sxs-lookup"><span data-stu-id="e59ad-102">Create a shared mailbox</span></span>
+# <a name="create-a-shared-mailbox"></a><span data-ttu-id="08f60-102">Tạo hộp thư dùng chung</span><span class="sxs-lookup"><span data-stu-id="08f60-102">Create a shared mailbox</span></span>
 
-<span data-ttu-id="e59ad-103">Hộp thư dùng chung cho phép nhiều hơn một người gửi và nhận thư điện tử cho một bí danh, như **sales@contoso.com**, mà không cần gán một giấy phép.</span><span class="sxs-lookup"><span data-stu-id="e59ad-103">A shared mailbox lets more than one person send and receive email for an alias, like **sales@contoso.com**, without assigning another license.</span></span>
+<span data-ttu-id="08f60-103">Hộp thư dùng chung cho phép nhiều người gửi và nhận email cho một bí danh, như **Sales@contoso.com**, mà không cần gán một giấy phép khác.</span><span class="sxs-lookup"><span data-stu-id="08f60-103">A shared mailbox lets more than one person send and receive email for an alias, like **sales@contoso.com**, without assigning another license.</span></span>
   
-<span data-ttu-id="e59ad-104">Hãy xem [tạo hộp thư dùng chung](https://support.office.com/client/871a246d-3acd-4bba-948e-5de8be0544c9) cho biết thêm thông tin.</span><span class="sxs-lookup"><span data-stu-id="e59ad-104">See [Create a shared mailbox](https://support.office.com/client/871a246d-3acd-4bba-948e-5de8be0544c9) for more information.</span></span> 
+<span data-ttu-id="08f60-104">Xem [tạo hộp thư dùng chung](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox) để biết thêm thông tin.</span><span class="sxs-lookup"><span data-stu-id="08f60-104">See [Create a shared mailbox](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox) for more information.</span></span> 
   
 

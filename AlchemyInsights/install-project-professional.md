@@ -1,5 +1,5 @@
 ---
-title: Cài đặt dự án chuyên nghiệp
+title: Cài đặt Project Professional
 ms.author: efrene
 author: efrene
 ms.date: 8/8/2019
@@ -12,20 +12,20 @@ ms.assetid: ''
 ms.custom:
 - "9000695"
 - "2607"
-ms.openlocfilehash: 6d88f8f13f242d797114eae2367f16de03c6ca33
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9aa41ee8302413fb5c24eca3e7caaf1336fb65ad
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36498725"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739155"
 ---
-# <a name="install-project-professional"></a><span data-ttu-id="17f3e-102">Cài đặt dự án chuyên nghiệp</span><span class="sxs-lookup"><span data-stu-id="17f3e-102">Install Project Professional</span></span>
+# <a name="install-project-professional"></a><span data-ttu-id="722b2-102">Cài đặt Project Professional</span><span class="sxs-lookup"><span data-stu-id="722b2-102">Install Project Professional</span></span>
 
-<span data-ttu-id="17f3e-103">Xem [Cài đặt dự án](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281?ui=en-US&rs=en-US&ad=US) tìm hiểu làm thế nào để cài đặt các phiên bản đăng ký của dự án trực tuyến và các phiên bản không đăng ký của dự án 2019, năm 2016 hoặc năm 2013.</span><span class="sxs-lookup"><span data-stu-id="17f3e-103">See [Install Project](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281?ui=en-US&rs=en-US&ad=US) to learn how to install the subscription version of Project Online, and the non-subscription version of Project 2019, 2016, or 2013.</span></span> 
+<span data-ttu-id="722b2-103">Xem [cài đặt dự án](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281) để tìm hiểu cách cài đặt phiên bản đăng ký Project Online và phiên bản không đăng ký dự án 2019, 2016 hoặc 2013.</span><span class="sxs-lookup"><span data-stu-id="722b2-103">See [Install Project](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281) to learn how to install the subscription version of Project Online, and the non-subscription version of Project 2019, 2016, or 2013.</span></span> 
 
-<span data-ttu-id="17f3e-104">Đối với dự án 2010 hoặc 2007, làm theo các bước trong [Office 2010](https://support.office.com/article/install-office-2010-1b8f3c9b-bdd2-4a4f-8c88-aa756546529d) hoặc [Office 2007](https://support.office.com/article/install-office-2007-88a8e329-3335-4f82-abb2-ecea3e319657).</span><span class="sxs-lookup"><span data-stu-id="17f3e-104">For Project 2010 or 2007, follow the steps in [Office 2010](https://support.office.com/article/install-office-2010-1b8f3c9b-bdd2-4a4f-8c88-aa756546529d) or [Office 2007](https://support.office.com/article/install-office-2007-88a8e329-3335-4f82-abb2-ecea3e319657).</span></span> 
+<span data-ttu-id="722b2-104">Cho dự án 2010 hoặc 2007, hãy làm theo các bước trong [Office 2010](https://support.office.com/article/install-office-2010-1b8f3c9b-bdd2-4a4f-8c88-aa756546529d) hoặc [Office 2007](https://support.office.com/article/install-office-2007-88a8e329-3335-4f82-abb2-ecea3e319657).</span><span class="sxs-lookup"><span data-stu-id="722b2-104">For Project 2010 or 2007, follow the steps in [Office 2010](https://support.office.com/article/install-office-2010-1b8f3c9b-bdd2-4a4f-8c88-aa756546529d) or [Office 2007](https://support.office.com/article/install-office-2007-88a8e329-3335-4f82-abb2-ecea3e319657).</span></span> 
 
-<span data-ttu-id="17f3e-105">Dự án được bán như là một ứng dụng độc lập, vì vậy nếu bạn không có nó được nêu ra, [mua hoặc cố gắng dự án](https://products.office.com/project).</span><span class="sxs-lookup"><span data-stu-id="17f3e-105">Project is sold as a stand-alone application, so if you don't have it yet, [Buy or try Project](https://products.office.com/project).</span></span> 
+<span data-ttu-id="722b2-105">Dự án được bán dưới dạng một ứng dụng độc lập, vì vậy nếu bạn chưa có, [Hãy mua hoặc thử Project](https://products.office.com/project).</span><span class="sxs-lookup"><span data-stu-id="722b2-105">Project is sold as a stand-alone application, so if you don't have it yet, [Buy or try Project](https://products.office.com/project).</span></span> 
 
 
 

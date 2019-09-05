@@ -1,5 +1,5 @@
 ---
-title: Thiết lập một môi trường Hybrid
+title: Thiết lập một môi trường kết hợp
 ms.author: dstrome
 author: dstrome
 manager: dansimp
@@ -12,14 +12,14 @@ ms.custom:
 - "690"
 - "3500010"
 ms.assetid: 08b866c0-aaff-4d6d-821f-97dc238dbd21
-ms.openlocfilehash: 041ba1c8e235bc9adf4f951b8ff7688dcf12e826
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: cf623c3b7e9fe2e31b285607181e3120ff590cd7
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36509166"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36741027"
 ---
-# <a name="setting-up-a-hybrid-environment"></a><span data-ttu-id="b15aa-102">Thiết lập một môi trường hybrid</span><span class="sxs-lookup"><span data-stu-id="b15aa-102">Setting up a hybrid environment</span></span>
+# <a name="setting-up-a-hybrid-environment"></a><span data-ttu-id="04915-102">Thiết lập một môi trường kết hợp</span><span class="sxs-lookup"><span data-stu-id="04915-102">Setting up a hybrid environment</span></span>
 
-<span data-ttu-id="b15aa-103">Để cho phép người dùng của bạn làm việc liên tục với nhau không có vấn đề nếu dữ liệu của họ được lưu trữ trên máy chủ tại chỗ hoặc trong Office 365, bạn có thể cần phải thiết lập một môi trường lai.</span><span class="sxs-lookup"><span data-stu-id="b15aa-103">To let your users work seamlessly together no matter if their data is stored on on-premises servers or in Office 365, you might need to set up a hybrid environment.</span></span> <span data-ttu-id="b15aa-104">Để có được một tổng quan về các tùy chọn của bạn, hãy kiểm tra [tích hợp Office 365 với môi trường tại chỗ](https://support.office.com/article/263faf8d-aa21-428b-aed3-2021837a4b65.aspx).</span><span class="sxs-lookup"><span data-stu-id="b15aa-104">To get an overview of your options, check out [Office 365 integration with on-premises environments](https://support.office.com/article/263faf8d-aa21-428b-aed3-2021837a4b65.aspx).</span></span>
+<span data-ttu-id="04915-103">Để người dùng của bạn làm việc liền mạch cùng nhau không quan trọng nếu dữ liệu của họ được lưu trữ trên máy chủ tại chỗ hoặc trong Office 365, bạn có thể cần phải thiết lập một môi trường kết hợp.</span><span class="sxs-lookup"><span data-stu-id="04915-103">To let your users work seamlessly together no matter if their data is stored on on-premises servers or in Office 365, you might need to set up a hybrid environment.</span></span> <span data-ttu-id="04915-104">Để có tổng quan về các tùy chọn của bạn, hãy kiểm tra [tích hợp Office 365 với môi trường tại chỗ](https://docs.microsoft.com/office365/enterprise/office-365-integration).</span><span class="sxs-lookup"><span data-stu-id="04915-104">To get an overview of your options, check out [Office 365 integration with on-premises environments](https://docs.microsoft.com/office365/enterprise/office-365-integration).</span></span>
   
