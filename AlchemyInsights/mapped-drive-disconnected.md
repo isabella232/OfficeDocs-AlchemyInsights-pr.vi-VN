@@ -1,5 +1,5 @@
 ---
-title: Được ánh xạ ổ đĩa bị ngắt kết nối
+title: Ánh xạ ổ đĩa bị ngắt kết nối
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c6e78799-5baa-4e27-8def-29db01118209
-ms.openlocfilehash: 552b5a523a55d67c8ba5f902581f8a625410e9d4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 16346f2f8edee6a4386f6f324424a86bc5d92b4a
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36496853"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734871"
 ---
-# <a name="sharepoint-libraries-mapped-to-network-drives-become-disconnected"></a>Thư viện SharePoint ánh xạ tới ổ đĩa mạng trở thành ngắt kết nối
+# <a name="sharepoint-libraries-mapped-to-network-drives-become-disconnected"></a>Thư viện SharePoint ánh xạ ổ đĩa mạng bị ngắt kết nối
 
-Lập bản đồ một thư viện tài liệu SharePoint một ổ đĩa mạng là tạm thời. Đôi khi, bạn phải mở các trang web SharePoint trong Internet Explorer và chọn **ở trạng thái đăng nhập** để ngăn chặn phiên làm việc hết hạn. 
+Ánh xạ thư viện tài liệu SharePoint vào ổ đĩa mạng là tạm thời. Đôi khi bạn phải mở các trang web SharePoint trong Internet Explorer và chọn ở lại **đăng nhập** để ngăn chặn các phiên làm việc hết hạn. 
   
-[Trợ giúp cấu hình và khắc phục sự cố ổ đĩa mạng đã ánh xạ](https://support.office.com/article/ef399c67-4578-4c3a-adbe-0b489084eabe.aspx).
+[Nhận trợ giúp cấu hình và khắc phục sự cố ổ đĩa mạng được ánh xạ](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives).
   
-Để làm việc với một thư viện trong File Explorer, [đồng bộ tập tin SharePoint với khách hàng mới đồng bộ OneDrive](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) bao gồm các [Tập tin theo yêu cầu](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx). Truy cập vào tất cả các tập tin trong OneDrive mà không sử dụng không gian lưu trữ cục bộ.
+Để làm việc với một thư viện trong file Explorer, [đồng bộ hóa SharePoint tệp với khách hàng đồng bộ OneDrive mới](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) bao gồm [các tệp theo yêu cầu](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx). Truy cập tất cả các tệp của bạn trong OneDrive mà không sử dụng dung lượng lưu trữ cục bộ.
   
 

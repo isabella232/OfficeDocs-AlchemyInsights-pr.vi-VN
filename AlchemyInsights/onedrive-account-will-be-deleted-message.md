@@ -1,6 +1,6 @@
 ---
-title: Thông báo 'tài khoản OneDrive sẽ bị xóa bỏ'
-ms.author: kirks
+title: Thông báo ' tài khoản OneDrive sẽ bị xóa '
+ms.author: pebaum
 author: Techwriter40
 ms.date: 10/30/2018
 ms.audience: ITPro
@@ -8,19 +8,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 16645f44-219e-4f2a-b30b-159a409b790c
-ms.openlocfilehash: 93d86ecb14623480f8566b9b20372a9688e76d28
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6e9027e4bf2baa9b1a04177651ec627723ba4a4b
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36521409"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36753530"
 ---
-# <a name="onedrive-account-will-be-deleted-message"></a>"Tài khoản OneDrive sẽ bị xóa bỏ" tin nhắn
+# <a name="onedrive-account-will-be-deleted-message"></a>Thông báo "tài khoản OneDrive sẽ bị xóa"
 
-Nếu bạn nhận được một email từ email@mail.onedrive.com cảnh báo rằng "tài khoản OneDrive của bạn sẽ bị xóa" Xin lưu ý điều này tài khoản OneDrive.com cá nhân của bạn, không phải là của OneDrive cho các tài khoản doanh nghiệp. 
+Nếu bạn nhận được email từ email@mail.onedrive.com cảnh báo rằng "tài khoản OneDrive của bạn sẽ bị xóa" Xin lưu ý đây là tài khoản OneDrive.com cá nhân của bạn, không phải OneDrive cho tài khoản doanh nghiệp của bạn. 
   
-Nếu bạn không chắc chắn cho dù bạn sử dụng OneDrive cá nhân, đăng nhập vào onedrive.com để kích hoạt lại và xem xét tài khoản của bạn.
+Nếu bạn không chắc chắn liệu mình có sử dụng OneDrive cá nhân hay không, hãy đăng nhập vào onedrive.com để kích hoạt lại và xem lại tài khoản của bạn.
   
-Để biết thêm thông tin, hãy xem [lý do tại sao tôi nhận được một email nói rằng tài khoản của bạn sẽ bị xóa không?](https://go.microsoft.com/fwlink/?linkid=2036151&amp;clcid=0x409)
+Để biết thêm thông tin, hãy xem [tại sao tôi nhận được email nói rằng tài khoản của bạn sẽ bị xóa?](https://go.microsoft.com/fwlink/?linkid=2036151&amp;clcid=0x409)
   
 

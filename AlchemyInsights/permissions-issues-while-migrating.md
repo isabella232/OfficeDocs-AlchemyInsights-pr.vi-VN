@@ -1,6 +1,6 @@
 ---
-title: Quyền các vấn đề trong khi di chuyển
-ms.author: kirks
+title: Vấn đề về quyền trong khi di chuyển
+ms.author: pebaum
 author: Techwriter40
 ms.date: 9/18/2018
 ms.audience: ITPro
@@ -8,23 +8,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cbec51a7-5513-4848-a9ae-cdf993e000a8
-ms.openlocfilehash: 50f98fad1c4e37af1e8dacb76e0af1addafe0dc4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 33e605ff3019f52bbd0be876d485ff389b260a44
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36554931"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36752650"
 ---
-# <a name="user-profile-and-photo-synchronization"></a>Đồng bộ ảnh và hồ sơ người dùng
+# <a name="user-profile-and-photo-synchronization"></a>Hồ sơ người dùng và đồng bộ hóa ảnh
 
- **Đồng bộ ảnh profile** - người dùng có thể nhận thấy rằng hình ảnh hồ sơ của họ không đồng bộ với SharePoint. Hoặc, họ có thể đã cố gắng để cập nhật ảnh tiểu sử của họ và các bức ảnh vẫn xuất hiện như là các bức ảnh cũ. Để đảm bảo hình ảnh hồ sơ cho thấy như mong đợi, người dùng sẽ cần phải bắt đầu đồng bộ ảnh. 
+ **Hồ sơ hình ảnh đồng bộ hóa** -người dùng có thể nhận thấy rằng hình ảnh hồ sơ của họ không đồng bộ hoá với SharePoint. Hoặc, họ có thể đã cố gắng Cập Nhật ảnh hồ sơ của họ và ảnh vẫn xuất hiện dưới dạng ảnh cũ. Để đảm bảo ảnh hồ sơ Hiển thị như mong đợi, người dùng sẽ cần phải bắt đầu đồng bộ hóa ảnh. 
   
-Để biết thêm chi tiết về quá trình đồng bộ hóa ảnh, xem [thông tin về hồ sơ hình ảnh đồng bộ hoá trong Office 365](https://go.microsoft.com/fwlink/?linkid=2022634)
+Để biết thêm thông tin về quá trình đồng bộ hóa ảnh, hãy xem [thông tin về đồng bộ hóa ảnh hồ sơ trong Office 365](https://go.microsoft.com/fwlink/?linkid=2022634)
   
-- **Đồng bộ hóa profile** - thời gian cần thiết để hoàn tất đồng bộ hoá cấu hình phụ thuộc vào số lượng thay đổi (công việc) việc quảng cáo nhập đã đến quá trình. Nếu không có nhiều thay đổi, việc đếm thời gian có rất nhiều việc phải làm, và nó sẽ mất nhiều thời gian để thay đổi được phản ánh trong các ứng dụng hồ sơ người dùng. Nếu công việc đếm thời gian có một khối lượng nhỏ của việc phải làm, những thay đổi sẽ được phản ánh trong hồ sơ người dùng ứng dụng nhanh hơn nhiều. 
+- **Cấu hình đồng bộ hóa** -thời gian cần thiết để hoàn thành đồng bộ hóa hồ sơ phụ thuộc vào số lượng thay đổi (công việc) việc nhập quảng cáo phải xử lý. Nếu có nhiều thay đổi, việc hẹn giờ có rất nhiều việc phải làm, và nó sẽ mất lâu hơn để thay đổi được phản ánh trong ứng dụng hồ sơ người dùng. Nếu công việc hẹn giờ có một số lượng nhỏ công việc cần làm, thay đổi sẽ được phản ánh trong ứng dụng hồ sơ người dùng nhanh hơn nhiều. 
   
-Để biết thêm chi tiết về quá trình đồng bộ hoá cấu hình, xem [các thông tin về hồ sơ người dùng đồng bộ hoá trong SharePoint Online](https://go.microsoft.com/fwlink/?linkid=2022639)
+Để biết thêm thông tin về quá trình đồng bộ hóa hồ sơ, hãy xem [thông tin về đồng bộ hóa hồ sơ người dùng trong SharePoint trực tuyến](https://go.microsoft.com/fwlink/?linkid=2022639)
     
-- **Cập nhật hồ sơ tại văn phòng nghiên cứu** - Delve người dùng có thể quản lý hồ sơ công cụ Office 365 của họ. Để biết thêm chi tiết, hãy xem [xem và cập nhật hồ sơ của bạn trong văn phòng nghiên cứu](https://support.office.com/article/View-and-update-your-profile-in-Office-Delve-4e84343b-eedf-45a1-aeb9-8627ccca14ba).
+- **Cập nhật hồ sơ trong Office delve** -delve người dùng có thể quản lý văn phòng 365 hồ sơ. Để biết thêm thông tin, hãy xem [xem và cập nhật hồ sơ của bạn trong Office delve](https://support.office.com/article/View-and-update-your-profile-in-Office-Delve-4e84343b-eedf-45a1-aeb9-8627ccca14ba).
     
 

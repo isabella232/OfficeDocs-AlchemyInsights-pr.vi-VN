@@ -1,6 +1,6 @@
 ---
-title: Hạn chế SharePoint Online để chế độ cổ điển
-ms.author: kirks
+title: Giới hạn SharePoint Online sang chế độ cổ điển
+ms.author: pebaum
 author: Techwriter40
 ms.date: 3/27/2018
 ms.audience: ITPro
@@ -12,26 +12,26 @@ ms.custom:
 - "1835"
 - "1889"
 - "9000225"
-ms.openlocfilehash: e7ecfd8c2f1a532355bfb8c2c0a846fc0d6e88b1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 18d263593d99f24c3020336ae601df14dbbf5411
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551581"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36752090"
 ---
-# <a name="restrict-sharepoint-online-to-classic-mode"></a>Hạn chế SharePoint Online để chế độ cổ điển
+# <a name="restrict-sharepoint-online-to-classic-mode"></a>Giới hạn SharePoint Online sang chế độ cổ điển
 
-Một số tổ chức vẫn đòi hỏi kinh nghiệm chế độ cổ điển. Trong khi không có kế hoạch để loại bỏ các chế độ cổ điển ở một mức độ chi tiết, nó không còn có thể giới hạn một tổ chức toàn bộ (thuê) để chế độ cổ điển cho các danh sách và thư viện.
+Một số tổ chức vẫn yêu cầu trải nghiệm chế độ cổ điển. Trong khi không có kế hoạch để loại bỏ chế độ cổ điển ở cấp độ chi tiết, nó không còn có thể hạn chế một tổ chức toàn bộ (người thuê nhà) để chế độ cổ điển cho các danh sách và thư viện.
 
-Các quản trị viên sẽ có các tùy chọn sau đây để quản lý danh sách cá nhân và thư viện trong chế độ cổ điển bằng cách sử dụng chi tiết lựa chọn thiết bị chuyển mạch mà chúng tôi cung cấp tại các đơn vị sau:
+Quản trị viên sẽ có các tùy chọn sau để quản lý các danh sách và thư viện riêng lẻ ở chế độ cổ điển sử dụng các công tắc chọn không tham gia chi tiết mà chúng tôi cung cấp ở các cấp sau:
 
 - bộ sưu tập trang web
 - Trang web
-- danh sách
-- thư viện
+- Danh sách
+- Thư viện
 
-Ngoài ra, danh sách sử dụng một số tính năng và tùy chỉnh mà không được hỗ trợ bởi hiện đại sẽ vẫn được tự động chuyển sang chế độ cổ điển.
+Ngoài ra, danh sách sử dụng một số tính năng và tuỳ chỉnh không được hỗ trợ bởi hiện đại sẽ vẫn được tự động chuyển sang chế độ cổ điển.
 
-Bắt đầu từ tháng 1, 2019, quá trình này để vô hiệu hóa ở cấp độ người thuê nhà chọn không tham gia hiện đại danh sách và thư viện sẽ bắt đầu và tiếp tục thông qua 31 tháng 5, 2019.  Danh sách và thư viện đang trong chế độ cổ điển là kết quả của người thuê nhà chọn không tham gia sẽ tự động được chuyển đến hiện đại.
+Bắt đầu từ ngày 1 tháng 4, 2019, quá trình này để vô hiệu hóa mức chọn không tham gia danh sách hiện đại và thư viện sẽ bắt đầu và tiếp tục thông qua ngày 31 tháng 5, 2019.  Các danh sách và thư viện ở chế độ cổ điển như là kết quả của việc chọn không tham gia thuê sẽ tự động được chuyển sang hiện đại.
 
-Nếu bạn yêu cầu chế độ cổ điển xin vui lòng xem thêm thông tin [ở đây](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Delivering-SharePoint-modern-experiences/ba-p/315023) và PnP Powershell hướng dẫn [dưới đây](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries-optout) mô tả các tùy chọn và các công cụ bạn có thể sử dụng ngày nay để sử dụng kinh nghiệm chế độ cổ điển.
+Nếu bạn yêu cầu chế độ cổ điển xin vui lòng xem thêm thông tin [ở đây](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Delivering-SharePoint-modern-experiences/ba-p/315023) và PNP PowerShell hướng dẫn [ở đây](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries-optout) mô tả các tùy chọn và công cụ bạn có thể sử dụng ngày hôm nay để sử dụng kinh nghiệm chế độ cổ điển.
