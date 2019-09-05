@@ -1,5 +1,5 @@
 ---
-title: Các trang web hiện đại như các trang web gốc
+title: Trang web hiện đại như là trang web gốc
 ms.author: efrene
 author: efrene
 ms.audience: ITPro
@@ -11,22 +11,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000265"
 - "1874"
-ms.openlocfilehash: d5ea73c967013822854dbd408d4628d991c90378
-ms.sourcegitcommit: cd79ecca88b2cb166f78f44ab8bc4e8136729418
+ms.openlocfilehash: a3cf44d52a3948634fc0eed64c852ff17515fd9b
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36620781"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36753926"
 ---
-# <a name="modern-site-as-root-site"></a>Các trang web hiện đại như là trang web gốc
+# <a name="modern-site-as-root-site"></a>Trang web hiện đại như trang web gốc
 
-Chúng tôi đã bắt đầu buổi giới thiệu một tính năng mới mà sẽ cho phép bạn để hoán đổi cổ điển trang web trang web gốc của bạn với một trang web hiện đại. Sử dụng [Gọi SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) để trao đổi vị trí của một trang web với một trang web khác trong khi lưu trữ trang web gốc. Sẵn sàng cho cả hai nhóm trang web (không kết nối với một nhóm) và trang web thông tin liên lạc. 
+Chúng tôi đã bắt đầu triển khai một tính năng mới mà sẽ cho phép bạn hoán đổi trang web gốc trang web [cổ điển của bạn với một trang web hiện đại](https://docs.microsoft.com/sharepoint/modern-root-site). Sử dụng [gọi SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) để hoán đổi vị trí của một trang web với một trang web trong khi lưu trữ các trang web ban đầu. Có sẵn cho cả hai trang web nhóm (không được kết nối với một nhóm) và trang web truyền thông.
 
 >[!Important]
-> Không xóa bỏ các trang web gốc cổ điển của bạn để tạo ra một trang web thông tin liên lạc hiện đại. Điều này không được hỗ trợ bởi Microsoft. Xóa trang web gốc sẽ làm cho tất cả các trang web SharePoint trong tổ chức của bạn không thể tiếp cận tất cả người dùng, cho đến khi bạn khôi phục lại các trang web hoặc tạo một trang web mới tại cùng một URL. Chúng tôi sẽ liên lạc các tính năng này thông qua Trung tâm tin nhắn. Bạn có thể mong đợi các tính năng được bật trong người thuê nhà của bạn ngay.
+> Không xóa trang web gốc cổ điển của bạn để tạo ra một trang web truyền thông hiện đại. Điều này không được hỗ trợ bởi Microsoft. Xóa các trang web gốc sẽ làm cho tất cả các trang web SharePoint trong tổ chức của bạn không thể truy nhập cho tất cả người dùng, cho đến khi bạn khôi phục lại các trang web hoặc tạo ra một trang web mới tại cùng một URL. Chúng tôi sẽ giao tiếp tính năng này thông qua Trung tâm tin nhắn. Bạn nên mong đợi tính năng được bật trong thuê của bạn ngay.
 
-## <a name="known-issues-with-swapping-sites"></a>Các vấn đề được biết đến với các trang web trao đổi
-- Trang web mục tiêu có thể trả lại một lỗi "không tìm thấy" (HTTP 404) cho một khoảng thời gian ngắn.
-- Nội dung sẽ cần phải được recrawled để cập nhật danh mục tìm kiếm. Không không có bước hướng dẫn sử dụng yêu cầu ở đây, điều này sẽ được thực hiện tự động.
-- Bất cứ điều gì phụ thuộc vào các liên kết "tĩnh" (chẳng hạn như đồng bộ hóa tập tin và OneNote files) sẽ cần phải được sửa chữa bằng tay.
-- Dự án máy chủ trang web có thể cần phải được xác nhận để đảm bảo rằng họ vẫn còn liên kết một cách chính xác. 
+## <a name="known-issues-with-swapping-sites"></a>Các vấn đề với trao đổi trang web
+- Trang đích có thể trả về lỗi "không tìm thấy" (HTTP 404) trong một khoảng thời gian ngắn.
+- Nội dung cần phải được thu thập lại để cập nhật chỉ mục tìm kiếm. Không có hướng dẫn sử dụng bước cần thiết ở đây, điều này sẽ được thực hiện tự động.
+- Bất cứ điều gì phụ thuộc vào "tĩnh" liên kết (chẳng hạn như tập tin Sync và OneNote tập tin) sẽ cần phải được sửa chữa thủ công.
+- Trang web máy chủ dự án có thể cần phải được xác nhận để đảm bảo rằng chúng vẫn được liên kết chính xác. 

@@ -1,6 +1,6 @@
 ---
-title: Dự án Web App là mất tích từ các bộ sưu tập trang web SharePoint
-ms.author: kirks
+title: Dự án Web App bị thiếu từ bộ sưu tập trang web SharePoint
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -9,19 +9,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000207
-ms.openlocfilehash: a68fefa2f92ee43a6e26807fe89d034589b2476b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8c749ce5f7e6a00b990ca387833fac90f4e2ce17
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36502612"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36749678"
 ---
-# <a name="missing-web-part-in-sharepoint-site-collection"></a>Thiếu một phần Web trong bộ sưu tập trang web SharePoint
+# <a name="missing-web-part-in-sharepoint-site-collection"></a>Thiếu web Part trong bộ sưu tập trang web SharePoint
 
-Nếu bạn đang thiếu một phần trang Web bạn đang sử dụng để nhìn thấy, có thể bạn đang cố gắng để thêm một [phần web cổ điển vào một trang hiện đại](https://support.office.com/article/classic-and-modern-web-part-experiences-3fdae6c3-8fc1-49ab-8708-8c104b882e64). Nó là quan trọng cần lưu ý rằng hiện đại trang chỉ có thể sử dụng bộ phận web hiện đại và cổ điển trang chỉ có thể sử dụng bộ phận web cổ điển. Nhiều web hiện đại bộ phận thực hiện đầy đủ các mục đích tương tự như bộ phận web cổ điển, nhưng bạn sẽ thấy sự khác biệt trong hình và chức năng.
+Nếu bạn đang thiếu một phần web bạn đang sử dụng để xem, có thể bạn đang cố gắng thêm một [phần web cổ điển trên một trang hiện đại](https://support.office.com/article/classic-and-modern-web-part-experiences-3fdae6c3-8fc1-49ab-8708-8c104b882e64). Điều quan trọng cần lưu ý là các trang hiện đại chỉ có thể sử dụng các phần web hiện đại và các trang cổ điển chỉ có thể sử dụng các phần web cổ điển. Nhiều phần web hiện đại hoàn thành các mục đích tương tự như các phần web cổ điển, nhưng bạn sẽ thấy sự khác biệt về ngoại hình và chức năng.
 
-Có rất nhiều các bộ phận Web không hiển thị do [thiết đặt tùy chỉnh kịch bản](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script), đó tắt theo mặc định trên các trang web hiện đại. 
+Có rất nhiều phần web không hiển thị do [cài đặt Script tùy chỉnh](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script), được tắt theo mặc định trên các trang web hiện đại. 
 
-Để có danh sách của các bộ phận Web không sẵn dùng xin vui lòng xem, [tính năng bị ảnh hưởng khi tuỳ chỉnh script bị chặn](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script#features-affected-when-custom-script-is-blocked).
+Để có danh sách các phần web không có sẵn, hãy xem các [tính năng bị ảnh hưởng khi tập lệnh tùy chỉnh bị chặn](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script#features-affected-when-custom-script-is-blocked).
 
- Để biết thêm chi tiết về những tác động an ninh của kịch bản tùy chỉnh, hãy xem [bảo mật cân nhắc cho phép các kịch bản tùy chỉnh](https://docs.microsoft.com/sharepoint/security-considerations-of-allowing-custom-script).
+ Để biết thêm thông tin về các tác động bảo mật của kịch bản tùy chỉnh, xem [cân nhắc bảo mật cho phép kịch bản tùy chỉnh](https://docs.microsoft.com/sharepoint/security-considerations-of-allowing-custom-script).

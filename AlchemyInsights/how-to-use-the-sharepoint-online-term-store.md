@@ -1,6 +1,6 @@
 ---
-title: Làm thế nào để sử dụng lưu trữ SharePoint Online hạn
-ms.author: kirks
+title: Làm thế nào để sử dụng cửa hàng hạn SharePoint trực tuyến
+ms.author: pebaum
 author: Techwriter40
 ms.date: 12/17/2018
 ms.audience: ITPro
@@ -11,18 +11,18 @@ ms.custom:
 - "1247"
 - "5200021"
 ms.assetid: 9b55de94-8aee-40cb-970f-046de0a80e6b
-ms.openlocfilehash: 8c87a4ca51dae25a0cfec86d53bc45ec59f8962f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2b785f475c7f673acff3dd419883b136d7feb92e
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539663"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36754862"
 ---
-# <a name="how-to-use-the-sharepoint-online-term-store"></a>Làm thế nào để sử dụng lưu trữ SharePoint Online hạn
+# <a name="how-to-use-the-sharepoint-online-term-store"></a>Làm thế nào để sử dụng cửa hàng hạn SharePoint trực tuyến
 
-Các thuật ngữ cửa hàng có một Office 365 quản trị toàn cầu, quản trị SharePoint và thời hạn lưu trữ quản trị viên và có thể được tìm thấy trong Trung tâm quản trị SharePoint Online mới.
+Cửa hàng hạn có sẵn cho một Office 365 toàn cầu quản trị, quản trị SharePoint và quản trị lưu trữ hạn và có thể tìm thấy trong Trung tâm quản trị SharePoint trực tuyến mới.
   
-Để biết thêm chi tiết về cách sử dụng SharePoint Online thời hạn lưu trữ và phân loại trong SharePoint Online, hãy xem [giới thiệu về quản lý siêu dữ liệu](https://go.microsoft.com/fwlink/?linkid=2044674&amp;clcid=0x409).
+Để biết thêm thông tin về cách sử dụng lưu trữ hạn SharePoint trực tuyến và phân loại trong SharePoint trực tuyến, hãy xem [giới thiệu về quản lý siêu dữ liệu](https://go.microsoft.com/fwlink/?linkid=2044674&amp;clcid=0x409).
   
-Nếu bạn đang gặp một vấn đề với điều kiện không xuất hiện hoặc xuất hiện không liên tục, chúng tôi khuyên bạn hãy đợi 24 giờ và sau đó đăng một yêu cầu hỗ trợ nếu vấn đề vẫn tồn tại. Mặc dù 24 giờ có thể là một thời gian dài, có thể là một vấn đề bộ nhớ đệm hoặc chúng tôi đã có thể làm việc trên một giải pháp cho vấn đề này.
+Nếu bạn đang gặp sự cố với các điều khoản không xuất hiện hoặc xuất hiện liên tục, chúng tôi khuyên bạn đợi 24 giờ, và sau đó đăng một yêu cầu hỗ trợ nếu sự cố vẫn tiếp diễn. Mặc dù 24 giờ có thể là một thời gian dài, có thể có một vấn đề bộ nhớ đệm hoặc chúng tôi có thể đã được làm việc trên một giải pháp cho vấn đề này.
   

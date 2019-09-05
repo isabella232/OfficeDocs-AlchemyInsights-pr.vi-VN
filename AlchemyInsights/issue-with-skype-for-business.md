@@ -1,5 +1,5 @@
 ---
-title: Vấn đề với Skype cho doanh nghiệp?
+title: Vấn đề với Skype for Business?
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.audience: ITPro
@@ -10,24 +10,23 @@ ms.assetid: db38c1dd-e61b-48cd-8f52-40add3dc5632
 ms.custom:
 - "66"
 - "4000001"
-ms.openlocfilehash: 08a59e9ebcae5ab0daff6089b54a73339fea6fc9
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: fab71b234088b54a684f43dca5533dd0332da48d
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36661570"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739083"
 ---
-# <a name="issue-with-skype-for-business"></a>Vấn đề với Skype cho doanh nghiệp?
+# <a name="issue-with-skype-for-business"></a>Vấn đề với Skype for Business?
 
-Chúng tôi đã phát hiện thấy domain(s) sau đây có vấn đề mà có thể ngăn chặn Skype cho doanh nghiệp hoạt động bình thường:
+Chúng tôi đã phát hiện ra rằng (các) miền sau có vấn đề có thể ngăn Skype dành cho doanh nghiệp hoạt động đúng cách:
   
 {HealthCheckString}
   
-Các bản ghi NS, bản ghi CNAME hoặc SRV cài đặt tên miền (DNS) không được cấu hình đúng cho Skype cho doanh nghiệp. Bạn có thể tham khảo để [Cập Nhật DNS hồ sơ trong Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) để được hướng dẫn chi tiết.
+Các bản ghi NS, CNAME hoặc SRV của miền (DNS) cài đặt không được cấu hình đúng cho Skype dành cho doanh nghiệp. Bạn có thể tham khảo [tạo bản ghi DNS tại bất kỳ nhà cung cấp dịch vụ lưu trữ DNS cho Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) để được hướng dẫn chi tiết.
   
-Để khắc phục nó, xin vui lòng đến trang [miền](https://admin.microsoft.com/adminportal/home#/Domains) Trung tâm quản trị Microsoft 365, và chúng tôi sẽ giúp bạn với nó.
+Để khắc phục sự cố, hãy đi tới trang [miền](https://admin.microsoft.com/adminportal/home#/Domains) trong Trung tâm quản trị Microsoft 365 và chúng tôi sẽ giúp bạn.
   
-Nếu bạn đang gặp vấn đề giao tiếp với người dùng bên ngoài tổ chức của bạn, bạn có thể tham khảo để [thiết lập Skype cho kinh doanh trực tuyến liên lạc bên ngoài](https://support.microsoft.com/help/10041/set-up-skype-for-business-online-external-communications.aspx) để được hướng dẫn chi tiết.
-  
-[Kiểm tra hỏi đáp tên miền](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) cho các giải pháp phổ biến khác.
+Nếu bạn gặp sự cố khi giao tiếp với người dùng bên ngoài tổ chức của bạn, bạn có thể tham khảo [thiết lập Skype dành cho doanh nghiệp trực tuyến liên lạc bên ngoài](https://support.microsoft.com/help/10041/set-up-skype-for-business-online-external-communications.aspx) để biết hướng dẫn chi tiết.
+
   

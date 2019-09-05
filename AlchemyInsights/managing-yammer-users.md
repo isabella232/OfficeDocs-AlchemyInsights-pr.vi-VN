@@ -1,5 +1,5 @@
 ---
-title: Quản lý người dùng Yammer
+title: Quản lý người dùng yammer
 ms.author: pebaum
 author: pebaum
 ms.date: 5/1/2018
@@ -11,29 +11,29 @@ ms.custom:
 - "733"
 - "6000004"
 ms.assetid: 34b5611b-e77e-4dd1-9480-a12c190fbaa3
-ms.openlocfilehash: 5906a9e80ac16233835dd691eccbe310df1dd26c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c6fddafaf0cc1fb1f6985a7aaf771688e3b87483
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36497069"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734943"
 ---
-# <a name="managing-yammer-users"></a>Quản lý người dùng Yammer
+# <a name="managing-yammer-users"></a>Quản lý người dùng yammer
 
-1. Thông tin về việc quản lý Yammer người dùng từ Office 365, hãy xem [quản lý Yammer người dùng trên vòng đời từ Office 365](https://support.office.com/article/6c4c8fff-6444-404a-bffc-f9da0bcc3039). Điều này bao gồm các thông tin chi tiết về:
+1. Để biết thông tin về quản lý người dùng yammer từ Office 365, hãy xem [quản lý người dùng yammer trên vòng đời của họ từ office 365](https://docs.microsoft.com/yammer/manage-yammer-users/manage-users-across-their-lifecycle). Điều này bao gồm các chi tiết về:
 
   - Tạo người dùng
 
   - Xóa người dùng
 
-  - Quản lý khách sạn Yammer người dùng từ Office 365
+  - Quản lý người dùng yammer từ Office 365
 
-2. Xin vui lòng xem [Thêm, ngăn chặn, hoặc loại bỏ người dùng Yammer](http://alchemyportal.azurewebsites.net/Rule/ManageYammer%20users%20across%20their%20lifecycle%20from%20Office%20365) để thông tin về quản lý người dùng từ giao diện điều khiển admin Yammer. Điều này bao gồm:
+2. Vui lòng xem [Thêm, chặn hoặc xóa người dùng yammer](http://alchemyportal.azurewebsites.net/Rule/ManageYammer%20users%20across%20their%20lifecycle%20from%20Office%20365) để biết thông tin về quản lý người dùng từ bảng điều khiển quản trị yammer. Điều này bao gồm:
 
-  - Mời hoặc loại bỏ người dùng
+  - Mời hoặc xóa người dùng
 
-  - Mời người dùng đánh
+  - Mời người dùng khách
 
-  - Xuất chuyển danh sách người dùng
+  - Xuất danh sách người dùng
 
-3. Thông tin về cách thêm, loại bỏ và quản lý người dùng bên ngoài, xem [thêm bên ngoài người tham gia nhắn tin để Yammer mạng của bạn](https://support.office.com/article/423653bb-86b2-4eac-9d7e-dca121f7c16c).
+3. Để biết thông tin về cách thêm, xóa và quản lý người dùng bên ngoài, hãy xem [Thêm người tham gia nhắn tin bên ngoài vào mạng yammer của bạn](https://docs.microsoft.com/yammer/work-with-external-users/add-external-participants).

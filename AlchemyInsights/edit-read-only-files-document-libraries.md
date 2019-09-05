@@ -1,6 +1,6 @@
 ---
-title: Chỉnh sửa tệp chỉ-đọc
-ms.author: kirks
+title: Chỉnh sửa tệp chỉ đọc
+ms.author: pebaum
 author: Techwriter40
 ms.date: 9/10/2018
 ms.audience: ITPro
@@ -8,26 +8,26 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7fd02fc7-4aaf-4ae6-b514-ceda456b74e2
-ms.openlocfilehash: f36a87488c3c470f92038a92f68519a7e38323c6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bdfd516dd151addf874ea6ee4d9d7c6f23aa1da6
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36528141"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36756122"
 ---
-# <a name="edit-a-read-only-file"></a>Chỉnh sửa tệp chỉ-đọc
+# <a name="edit-a-read-only-file"></a>Chỉnh sửa tệp chỉ đọc
 
-Bạn có thể thấy rằng khi bạn đang mở tập tin, họ mở như chỉ-đọc. Trong một số trường hợp, đây là an toàn hơn, chẳng hạn như khi bạn đang mở tập tin từ internet và các thời điểm khác, nó có thể do một thiết lập mà có thể được thay đổi. Trong bài viết [tại sao đã mở tập tin của tôi chỉ đọc](https://support.office.com/article/Why-did-my-file-open-read-only-3ab4b792-da50-4b38-8628-14c64e1f1d15) chúng tôi phác thảo một số kịch bản mà một tập tin mở ra chỉ có đọc và một số bước bạn có thể làm để thay đổi điều đó.
+Bạn có thể thấy rằng khi bạn đang mở tệp, họ mở dưới dạng chỉ đọc. Trong một số trường hợp, điều này là để bảo mật bổ sung, chẳng hạn như khi bạn đang mở các tập tin từ Internet, và thời gian khác, nó có thể là do một thiết lập có thể được thay đổi. Trong bài viết tại [sao tập tin của tôi mở trong chỉ đọc](https://support.office.com/article/Why-did-my-file-open-read-only-3ab4b792-da50-4b38-8628-14c64e1f1d15) chúng tôi phác thảo một số tình huống mà một tập tin mở ra chỉ-đọc và một số bước bạn có thể thực hiện để thay đổi điều đó.
 
-Dưới đây là làm thế nào để mở tập tin văn phòng để chỉnh sửa.
+Đây là cách để mở các tập tin văn phòng để chỉnh sửa.
 
-Thay vì cách nhấn vào tiêu đề tài liệu, nhấp vào **Mở Menu** (ba dấu chấm), và sau đó nhấp vào **chỉnh sửa**.
+Thay vì bấm vào tiêu đề tài liệu, bấm **mở menu** (ba dấu chấm), và sau đó nhấp vào **chỉnh sửa**.
 
 Ghi chú:
 
-- Nếu bạn muốn có tài liệu mở để chỉnh sửa trong văn phòng khi bạn nhấp vào tiêu đề, bạn có thể thiết lập các thư viện để làm điều đó (miễn là bạn có quyền để thay đổi cài đặt thư viện).
+- Nếu bạn muốn có các tài liệu mở để chỉnh sửa trong Office khi bạn nhấp vào tiêu đề, bạn có thể thiết lập thư viện để làm điều đó (miễn là bạn có quyền thay đổi cài đặt thư viện).
 
-- Nếu bạn có các thư viện với thanh toán, yêu cầu cột hoặc khi chỉ người dùng có thể chỉnh sửa trong phiên bản cài đặt SharePoint một tài liệu thư viện, các mặt hàng này sẽ được đồng bộ hóa như là chỉ-đọc.
+- Nếu bạn có thư viện với thanh toán, cột bắt buộc hoặc khi chỉ người dùng có thể chỉnh sửa trong cài đặt phiên bản của thư viện tài liệu SharePoint, các mục này sẽ được đồng bộ hoá dưới dạng chỉ đọc.
 
-- Một tài liệu văn phòng sẽ mở ra trong bảo vệ ngay cả khi bạn sử thiết đặt chính sách "Mở văn phòng tài liệu như đọc/ghi trong khi trình duyệt". Để biết thêm chi tiết, xin vui lòng tham khảo này [bài.](https://support.microsoft.com/help/983047/an-office-document-opens-in-protected-view-even-though-you-enable-the)
+- Tài liệu Office mở trong bảo vệ xem ngay cả khi bạn bật thiết đặt chính sách "mở tài liệu Office như đọc/ghi khi duyệt". Để biết thêm thông tin, vui lòng tham khảo [bài viết này.](https://support.microsoft.com/help/983047/an-office-document-opens-in-protected-view-even-though-you-enable-the)
 

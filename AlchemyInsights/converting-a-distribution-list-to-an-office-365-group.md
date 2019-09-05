@@ -1,5 +1,5 @@
 ---
-title: 712 chuyển đổi một danh sách gửi đến một nhóm Office 365
+title: 712 chuyển đổi danh sách phân phối một nhóm Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,13 +13,13 @@ ms.custom:
 - "712"
 - "3"
 ms.assetid: a54600a0-e150-4a1a-8d67-ed77624bb928
-ms.openlocfilehash: 167c4e5fe0b1be2d4c0c3931db08c02feb8fa53d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9af4f8772be25c5d3de0489cd24b9cdbac199daa
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36516441"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738363"
 ---
-# <a name="convert-a-distribution-group-to-an-office-365-group"></a>Chuyển đổi một nhóm phân phối vào Office 365 nhóm
+# <a name="convert-a-distribution-group-to-an-office-365-group"></a>Chuyển đổi nhóm phân phối sang một nhóm Office 365
 
-Bạn có thể chuyển đổi các nhóm phân phối để Office 365 nhóm nếu họ đáp ứng tiêu chí nhất định. Để chuyển đổi một nhóm hoặc gỡ rối các vấn đề chuyển đổi, hãy xem [nâng cấp danh sách phân phối cho Office 365 nhóm trong Outlook](https://support.office.com/article/787D7A75-E201-46F3-A242-F698162FF09F).
+Bạn có thể chuyển đổi nhóm phân phối cho Office 365 nhóm nếu họ đáp ứng các tiêu chí nhất định. Để chuyển đổi một nhóm hoặc khắc phục sự cố chuyển đổi, xem [nâng cấp danh sách phân phối cho Office 365 nhóm trong Outlook](https://docs.microsoft.com/office365/admin/manage/upgrade-distribution-lists).

@@ -1,5 +1,5 @@
 ---
-title: Bạn có tin nhắn hợp pháp bị đánh dấu là thư rác?
+title: Bạn có tin nhắn hợp pháp được đánh dấu là spam không?
 ms.author: pebaum
 author: pebaum
 ms.date: 1/9/2019
@@ -12,22 +12,22 @@ ms.custom:
 - "666"
 - "3100019"
 ms.assetid: 2a362fcd-b67a-41ef-b97c-7ddc193244dc
-ms.openlocfilehash: fca4150c6dbeed2d83d7d6d6503b9f8742a1ff6b
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: c70374055d650e5673c1110bcf7b8b8b9ceaff66
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665194"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36740415"
 ---
-# <a name="do-you-have-legitimate-messages-being-marked-as-spam"></a>Bạn có tin nhắn hợp pháp bị đánh dấu là thư rác?
+# <a name="do-you-have-legitimate-messages-being-marked-as-spam"></a>Bạn có tin nhắn hợp pháp được đánh dấu là spam không?
 
-Thử chẩn đoán ở trên hoặc thử này [hướng dẫn từng bước để gỡ rối tốt các thư được đánh dấu là thư rác trong Office 365](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam-0).
+Hãy thử chẩn đoán ở trên hoặc thử hướng dẫn từng bước này để [khắc phục sự cố thư tốt được đánh dấu là spam trong Office 365](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam-0).
   
-Cách tốt nhất để báo cáo các loại vấn đề là:
+Cách tốt nhất để báo cáo các loại vấn đề này là:
   
-1. [Sử các báo cáo add-in](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in) cho người dùng.
+1. [Kích hoạt các báo cáo Add-in](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in) cho người dùng.
 
-2. Có người dùng [báo cáo thư không phải thư rác](https://support.office.com/article/use-the-report-message-add-in-b5caa9f1-cdf3-4443-af8c-ff724ea719d2?ui=en-US&amp;rs=en-US&amp;ad=US).
+2. Có người dùng [báo cáo thư là không rác](https://support.office.com/article/use-the-report-message-add-in-b5caa9f1-cdf3-4443-af8c-ff724ea719d2).
 
-Nếu bạn muốn mở một vé hỗ trợ, xin vui lòng đính kèm email đầy đủ các tiêu đề từ ít **một thông báo toàn bộ bản gốc** bên dưới.
+Nếu bạn muốn mở một vé hỗ trợ, vui lòng đính kèm các tiêu đề email đầy đủ từ ít nhất **một toàn bộ thư gốc** dưới đây.
   

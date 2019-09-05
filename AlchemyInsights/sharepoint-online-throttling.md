@@ -1,6 +1,6 @@
 ---
-title: SharePoint Online Throttling
-ms.author: kirks
+title: SharePoint trực tuyến throttling
+ms.author: pebaum
 author: Techwriter40
 ms.date: 9/17/2018
 ms.audience: ITPro
@@ -8,17 +8,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: b376d8ea-50c4-47f0-9720-50d80aa3f7f1
-ms.openlocfilehash: 9e29823dd40cf9353ade9e32cf5ac4bc7794d154
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4b144e951b1997f9464522d3052dfcba0fa5d198
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36503225"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36750254"
 ---
-# <a name="sharepoint-online-throttling"></a>SharePoint Online throttling
+# <a name="sharepoint-online-throttling"></a>Điều chỉnh SharePoint trực tuyến
 
-Sử dụng SharePoint Online throttling để duy trì hiệu suất tối ưu và độ tin cậy của các dịch vụ SharePoint Online. Throttling giới hạn số hành động người dùng hoặc đồng thời các cuộc gọi (bởi kịch bản hoặc mã) để ngăn chặn lạm dụng tài nguyên. Nếu bạn nhận được throttled, 99% thời gian, đó là bởi vì mã tùy chỉnh.
+SharePoint Online sử dụng điều chỉnh để duy trì hiệu suất tối ưu và độ tin cậy của dịch vụ SharePoint trực tuyến. Điều tiết giới hạn số hành động của người dùng hoặc các cuộc gọi đồng thời (theo tập lệnh hoặc mã) để tránh sử dụng quá nhiều tài nguyên. Nếu bạn nhận được điều chỉnh, 99% của thời gian đó là vì mã tùy biến.
   
-Cho thêm thông tin về throttling xem, [tránh việc throttled hoặc bị chặn trong SharePoint Online](https://go.microsoft.com/fwlink/?linkid=2022019)
+Để biết thêm thông tin về điều chỉnh xem, [tránh bị điều chỉnh hoặc chặn trong SharePoint trực tuyến](https://go.microsoft.com/fwlink/?linkid=2022019)
   
 

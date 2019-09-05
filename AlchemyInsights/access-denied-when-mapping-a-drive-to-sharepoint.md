@@ -1,5 +1,5 @@
 ---
-title: Truy cập từ chối khi ánh xạ một ổ cho SharePoint
+title: Truy cập bị từ chối khi ánh xạ ổ đĩa SharePoint
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -11,22 +11,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: b7da3918-969f-40bb-acb3-fbc762605504
-ms.openlocfilehash: c73358ebfbdede5b4e43ca2c35146f6611958e23
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c41bfd9d25c8aa946a4ec5156be6d2424f4e2133
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495881"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737499"
 ---
-# <a name="fix-problems-with-sharepoint-libraries-mapped-to-network-drives"></a>Khắc phục sự cố với thư viện SharePoint ánh xạ tới ổ đĩa mạng
+# <a name="fix-problems-with-sharepoint-libraries-mapped-to-network-drives"></a>Khắc phục sự cố với thư viện SharePoint ánh xạ ổ đĩa mạng
 
-Khi bạn duyệt đến một ổ đĩa mạng đã ánh xạ, bạn có thể thấy một trong các thông điệp sau đây:
+Khi bạn duyệt một ổ đĩa mạng bị ánh xạ, bạn có thể thấy một thông báo sau:
   
-- **\\Đường dẫn không phải là có thể truy cập. Bạn có thể không có sự cho phép để sử dụng tài nguyên mạng này. Liên hệ với người quản trị hệ phục vụ này để tìm hiểu xem bạn có quyền truy cập.**
+- **\\Đường dẫn không thể truy cập. Bạn có thể không có quyền sử dụng tài nguyên mạng này. Liên hệ với quản trị viên của máy chủ này để tìm hiểu nếu bạn có quyền truy cập.**
 
-- **Truy cập bị từ chối. Trước khi mở tập tin ở vị trí này, bạn phải lần đầu tiên thêm trang web vào danh sách site tin cậy của bạn, trình duyệt các trang web, và chọn tùy chọn đăng nhập tự động.**
+- **Truy nhập bị từ chối. Trước khi mở tệp ở vị trí này, đầu tiên bạn phải thêm trang web vào danh sách trang web đáng tin cậy của bạn, duyệt đến trang web và chọn tùy chọn để đăng nhập tự động.**
 
-[Nhận trợ giúp khắc phục sự cố ánh xạ ổ đĩa mạng](https://support.office.com/article/ef399c67-4578-4c3a-adbe-0b489084eabe.aspx).
+[Nhận trợ giúp khắc phục sự cố ổ đĩa mạng được ánh xạ](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives).
   
-Một thư viện như một ổ đĩa mạng lập bản đồ là tạm thời và được hỗ trợ trong Internet Explorer. Thay vào đó, [đồng bộ tập tin SharePoint với khách hàng mới đồng bộ OneDrive](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) bao gồm các [Tập tin theo yêu cầu](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx). Truy cập vào tất cả các tập tin trong OneDrive mà không sử dụng không gian lưu trữ cục bộ.
+Ánh xạ thư viện là một ổ đĩa mạng tạm thời và được hỗ trợ chỉ trong Internet Explorer. Thay vào đó, [đồng bộ hoá SharePoint tệp với khách hàng đồng bộ OneDrive mới](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) bao gồm [các tệp theo yêu cầu](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx). Truy cập tất cả các tệp của bạn trong OneDrive mà không sử dụng dung lượng lưu trữ cục bộ.
   

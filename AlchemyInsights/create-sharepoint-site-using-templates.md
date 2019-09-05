@@ -1,6 +1,6 @@
 ---
-title: Tạo một trang web trong SharePoint Online
-ms.author: kirks
+title: Tạo một trang web trong SharePoint trực tuyến
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -10,39 +10,39 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 84f2b70e-2b23-4039-8305-85783798feed
-ms.openlocfilehash: 7c24a0cf3bcae0f2780c1cb33c911cb38c1ca5cb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 42430c8dadc17b87dc7741f3fa045ba7c25fab84
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36515020"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755330"
 ---
-# <a name="create-sharepoint-sites-using-templates"></a>Tạo ra các trang web SharePoint sử dụng mẫu
+# <a name="create-sharepoint-sites-using-templates"></a>Tạo các trang web SharePoint bằng cách sử dụng mẫu
 
-SharePoint trang web mẫu là dựng sẵn định nghĩa được thiết kế quanh một nhu cầu doanh nghiệp cụ thể. Để biết thêm chi tiết, hãy xem [sử dụng mẫu để tạo ra các loại khác nhau của các trang web SharePoint](https://support.office.com/article/using-templates-to-create-different-kinds-of-sharepoint-sites-449eccec-ff99-4cf3-b62e-dcfee37e8da4).
+Mẫu trang web SharePoint được xây dựng sẵn định nghĩa được thiết kế xung quanh một nhu cần kinh doanh cụ thể. Để biết thêm thông tin, xem [sử dụng mẫu để tạo các loại trang web SharePoint](https://support.office.com/article/using-templates-to-create-different-kinds-of-sharepoint-sites-449eccec-ff99-4cf3-b62e-dcfee37e8da4).
 
-Dưới đây là một số vấn đề phổ biến/giải pháp liên quan đến tiết kiệm một trang web hoặc danh sách như là một bản mẫu trong Sharepoint Online. 
+Dưới đây là một số vấn đề thường gặp/giải pháp liên quan đến lưu một trang web hoặc danh sách như một mẫu trong SharePoint Online. 
 
-**Lưu danh sách, trang web mẫu nút không phải là có sẵn hoặc mất tích**
+**Lưu trang web/danh sách mẫu nút không có sẵn hoặc thiếu**
 
-Quản trị viên sẽ cần phải cho phép tuỳ chỉnh Script để kích hoạt tính năng mẫu. Các bước chi tiết, ví dụ và cân nhắc xem 
+Quản trị viên sẽ cần cho phép tuỳ chỉnh script để kích hoạt các tính năng mẫu. Để biết các bước chi tiết, ví dụ và xem xét 
 
-- [Cho phép hoặc ngăn chặn kịch bản tùy chỉnh](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
+- [Cho phép hoặc ngăn chặn tập lệnh tùy chỉnh](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
 
-- Các trang web lưu như mẫu lệnh không được hỗ trợ và có thể gây ra vấn đề trên các trang web sử dụng các SharePoint Server xuất bản cơ sở hạ tầng.
+- Lưu trang web dưới dạng lệnh không được hỗ trợ và có thể gây ra sự cố trên các trang web sử dụng SharePoint Server xuất bản cơ sở hạ tầng.
 
-**Các mẫu trang web không thể được tạo ra hoặc không làm việc một cách chính xác**
+**Mẫu trang web không thể tạo hoặc không hoạt động bình thường**
 
-Các mẫu có thể mất một [tính năng](https://social.technet.microsoft.com/wiki/contents/articles/14423.sharepoint-2013-existing-features-guid.aspx) và sẽ không kích hoạt. Nếu các tính năng không có sẵn để kích hoạt trong bộ sưu tập trang web hiện tại, bạn không thể sử dụng các mẫu trang web để tạo ra một trang web.
+Mẫu có thể thiếu một [tính năng](https://social.technet.microsoft.com/wiki/contents/articles/14423.sharepoint-2013-existing-features-guid.aspx) và sẽ không kích hoạt. Nếu tính năng không có sẵn để kích hoạt trong bộ sưu tập trang web hiện tại, bạn không thể sử dụng mẫu trang web để tạo một trang web.
 
-- Kiểm tra xem nếu bất kỳ danh sách hoặc thư viện vượt quá [Danh sách nhìn giới hạn ngưỡng](https://support.office.com/article/Manage-large-lists-and-libraries-in-SharePoint-B8588DAE-9387-48C2-9248-C24122F07C59) 5000 mặt hàng như điều này có thể chặn các sáng tạo của một trang web mẫu.
+- Kiểm tra xem nếu có danh sách hoặc thư viện vượt quá [ngưỡng giới hạn xem danh sách](https://support.office.com/article/Manage-large-lists-and-libraries-in-SharePoint-B8588DAE-9387-48C2-9248-C24122F07C59) 5000 mục vì điều này có thể chặn tạo một mẫu trang web.
 
-- Các trang web có thể sử dụng quá nhiều tài nguyên, và do đó các mẫu trang web vượt quá giới hạn 50 MB.
+- Trang web có thể sử dụng quá nhiều tài nguyên và do đó các trang web mẫu vượt quá giới hạn 50 MB.
 
 
-- Không có vấn đề Hiển thị các dữ liệu từ một danh sách mà sử dụng một cột tra cứu. Để biết thêm chi tiết, hãy xem [tạo mẫu danh sách không hiển thị các dữ liệu từ danh sách tra cứu chính xác trong SharePoint Online](https://support.office.com/article/template-generated-list-doesn-t-display-correct-data-for-a-column-in-sharepoint-online-20430b62-e40c-4f6f-8889-aa24e80d605a).
+- Có vấn đề Hiển thị dữ liệu từ danh sách sử dụng cột tìm kiếm. Để biết thêm thông tin, hãy xem [danh sách tạo mẫu không hiển thị dữ liệu từ danh sách tìm kiếm chính xác trong SharePoint trực tuyến](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/template-generated-list-incorrect-data).
 
-Thông tin chi tiết về vấn đề và giải pháp thông thường, hãy xem [tạo và sử dụng các mẫu trang web](https://support.office.com/article/Create-and-use-site-templates-60371B0F-00E0-4C49-A844-34759EBDD989).
+Để biết thêm thông tin về các vấn đề và giải pháp phổ biến, hãy kiểm tra [tạo và sử dụng các mẫu trang web](https://support.office.com/article/Create-and-use-site-templates-60371B0F-00E0-4C49-A844-34759EBDD989).
 
 
 

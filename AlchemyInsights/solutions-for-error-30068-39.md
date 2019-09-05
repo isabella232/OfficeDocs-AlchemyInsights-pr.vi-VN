@@ -13,12 +13,12 @@ ms.custom:
 - "833"
 - "2000020"
 ms.assetid: 92f0ef7c-4a39-4885-994d-473a4d13accd
-ms.openlocfilehash: 0edb3f738f55406ba97872311f1bde907e0ed6c8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 98f83d7351bd6dd608c8dc8565c8050cc29dfcbc
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501713"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36743367"
 ---
 # <a name="solutions-for-error-30068-39"></a>Giải pháp cho lỗi 30068-39
 
@@ -26,14 +26,14 @@ Hãy thử các giải pháp để khắc phục lỗi [30068-39](https://suppor
   
 - Khởi động lại máy tính của bạn và thử [cài đặt Office](https://portal.office.com/OLS/MySoftware.aspx).
 
-- Kiểm tra nếu **Microsoft Click để chạy**[dịch vụ bị vô hiệu hoá](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA) và nếu nó bị tắt, thay đổi tình trạng **bằng tay** hoặc **tự động**.
+- Kiểm tra nếu dịch vụ **Microsoft Click-to-Run** [bị vô hiệu hoá](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA) và nếu nó bị vô hiệu hoá, thay đổi trạng thái thành **thủ công** hoặc **tự động**.
 
-- Tải về và cài đặt các [hỗ trợ và phục hồi chương trình hỗ trợ](https://aka.ms/SARA-OfficeUninstall-Alchemy).
+- Tải về và cài đặt [hỗ trợ và phục hồi trợ lý](https://aka.ms/SARA-OfficeUninstall-Alchemy).
 
-1. Khi mở ra, **gỡ bỏ cài đặt văn phòng phẩm** chọn từ phiên bản bạn muốn gỡ bỏ cài đặt và chọn **tiếp theo**.
+1. Khi nó mở ra, từ **gỡ bỏ cài đặt các sản phẩm Office** chọn phiên bản bạn muốn gỡ bỏ và chọn **tiếp theo**.
 
 2. Tiếp tục đi qua màn hình và khởi động lại máy tính của bạn khi được nhắc.
 
-    Sau khi khởi động, hỗ trợ và phục hồi chương trình hỗ trợ tự động tái mở để hoàn tất quá trình gỡ bỏ cài đặt.
+    Sau khi khởi động lại, hỗ trợ và phục hồi trợ tự động mở lại để hoàn tất quá trình dỡ cài đặt.
 
-3. Làm theo còn lại nhắc nhở, và [cài đặt lại Office](https://portal.office.com/OLS/MySoftware.aspx) hoặc đóng các trợ lý.
+3. Làm theo lời nhắc còn lại và [cài đặt lại Office](https://portal.office.com/OLS/MySoftware.aspx) hoặc đóng trợ lý.

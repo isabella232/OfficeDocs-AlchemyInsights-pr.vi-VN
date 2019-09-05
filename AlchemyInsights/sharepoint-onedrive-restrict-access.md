@@ -1,6 +1,6 @@
 ---
-title: Hạn chế truy cập trong SharePoint hoặc OneDrive
-ms.author: kirks
+title: Hạn chế quyền truy cập trong SharePoint hoặc OneDrive
+ms.author: pebaum
 author: Techwriter40
 ms.date: 8/7/2018
 ms.audience: ITPro
@@ -8,40 +8,40 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
-ms.openlocfilehash: 84f2d4b6e5fd2380a2fa96e30953c68aab203cd3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bef0612903b9bb455aa34e90d35d6b7b9093b4e0
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559899"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36750686"
 ---
-# <a name="restrict-access-in-sharepoint-or-onedrive"></a>Hạn chế truy cập trong SharePoint hoặc OneDrive
+# <a name="restrict-access-in-sharepoint-or-onedrive"></a>Hạn chế quyền truy cập trong SharePoint hoặc OneDrive
 
-Có rất nhiều cách để hạn chế truy cập vào các dịch vụ SharePoint Online/OneDrive. Những phương pháp hạn chế truy cập khác nhau được trình bày dưới đây. 
+Có nhiều cách để hạn chế quyền truy cập vào dịch vụ SharePoint Online/OneDrive. Các phương pháp hạn chế truy cập khác nhau được nêu dưới đây. 
 
-**Quyền hạn chế**
+**Hạn chế quyền**
 
-Trong trực tuyến SharePoint và OneDrive cho doanh nghiệp, chúng tôi giới hạn truy cập vào các mục như các trang web, tập tin và thư mục bằng cách chỉ cấp quyền truy cập vào các nhóm/cá nhân nên có thể truy cập.
+Trong SharePoint Online và OneDrive for Business, chúng tôi giới hạn quyền truy cập vào các mục như trang web, tệp và thư mục bằng cách chỉ cấp quyền truy cập vào các nhóm/cá nhân có quyền truy cập.
 
-- [Tùy chỉnh cấp phép cho một danh sách SharePoint hoặc thư viện](https://support.office.com/article/Customize-permissions-for-a-SharePoint-list-or-library-02d770f3-59eb-4910-a608-5f84cc297782)
+- [Tuỳ chỉnh quyền cho một danh sách SharePoint hoặc thư viện](https://support.office.com/article/Customize-permissions-for-a-SharePoint-list-or-library-02d770f3-59eb-4910-a608-5f84cc297782)
 
-- [Tùy chỉnh cho phép trang web SharePoint](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions)
+- [Tùy chỉnh quyền trang web SharePoint](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions)
 
-- [Thay đổi quyền truy cập vào một thư mục con](https://support.office.com/article/Change-the-permissions-on-a-subfolder-5427BD7C-F20A-4F75-8CF2-5359DD45A1A6)
+- [Thay đổi quyền trên một thư mục con](https://support.office.com/article/Change-the-permissions-on-a-subfolder-5427BD7C-F20A-4F75-8CF2-5359DD45A1A6)
 
-- [Điều khiển truy cập từ các thiết bị không được quản lý](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
+- [Kiểm soát truy cập từ các thiết bị không quản lý](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
 
-SharePoint hoặc quản trị toàn cầu trong Office 365, bạn có thể chặn hoặc hạn chế quyền truy cập vào nội dung SharePoint và OneDrive từ các thiết bị không được quản lý (những người không kết hợp quảng cáo tham gia hoặc tuân thủ trong dành).
+Là một SharePoint hoặc quản trị toàn cầu trong Office 365, bạn có thể chặn hoặc giới hạn truy cập vào SharePoint và OneDrive nội dung từ thiết bị không được quản lý (những người không kết hợp AD tham gia hoặc phù hợp trong InTune).
 
 **Giới hạn vị trí mạng**
 
-Như là quản trị viên CNTT, bạn có thể kiểm soát quyền truy cập vào tài nguyên SharePoint và OneDrive dựa trên vị trí xác định mạng mà bạn tin tưởng. Điều này cũng được gọi là chính sách dựa trên vị trí. Để biết thêm chi tiết, xin vui lòng xem [kiểm soát quyền truy cập vào dữ liệu OneDrive dựa trên vị trí mạng và SharePoint Online](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
+Là quản trị viên CNTT, bạn có thể kiểm soát quyền truy cập vào tài nguyên SharePoint và OneDrive dựa trên các vị trí mạng được xác định mà bạn tin cậy. Điều này còn được gọi là chính sách dựa trên vị trí. Để biết thêm thông tin, hãy xem [kiểm soát truy cập vào dữ liệu SharePoint trực tuyến và OneDrive dựa trên vị trí mạng](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
 
-**Trang web Lock hạn chế** 
+**Hạn chế khóa trang web** 
 
-Trong SharePoint Online, bạn có khả năng khóa xuống một bộ sưu tập trang web, do đó, không ai có quyền truy cập. Điều này được thiết lập qua PowerShell và [SharePoint Online Management Shell](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps) bằng cách sử dụng [Set-SPOSite](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps) - LockState tài sản.
+Trong SharePoint Online, bạn có khả năng khóa một bộ sưu tập trang web, do đó, không ai có quyền truy cập. Điều này được thiết lập qua PowerShell và [SharePoint Online Management Shell](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps) bằng cách sử dụng thuộc tính [Set-sposite](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps) -lockstate.
 
-**Hạn chế người dùng từ việc tạo ra trang web này hoặc SubSite**
+**Hạn chế người dùng tạo trang web hoặc trang web con**
 
-Như là một quản trị SharePoint hoặc Office 365 quản trị toàn cầu, bạn có thể cho phép người dùng tạo và quản lý các trang web SharePoint của riêng họ, xác định những loại trang web, họ có thể tạo ra, và xác định vị trí các trang web. Để biết thêm chi tiết, hãy xem [quản lý tạo ra trang web trong SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation)
+Là một quản trị SharePoint hoặc quản trị viên toàn cầu Office 365, bạn có thể cho phép người dùng của bạn tạo và quản lý các trang web SharePoint của riêng họ, xác định loại trang web mà họ có thể tạo và chỉ định vị trí của các trang web. Để biết thêm thông tin, hãy xem [quản lý tạo trang web trong SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation)
 

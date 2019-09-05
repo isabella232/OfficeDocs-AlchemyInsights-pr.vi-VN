@@ -11,15 +11,15 @@ ms.custom:
 - "955"
 - "1300007"
 ms.assetid: 88731c82-90d4-4019-a627-8ca6a82224af
-ms.openlocfilehash: 851aed83ff87777666130dfd2009073d852cb643
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 52ab5336858c0013667be721dc865fdccf71bfa0
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664054"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739659"
 ---
-# <a name="configure-multi-factor-authentication-in-office-365"></a>Đặt cấu hình nhiều yếu tố xác thực trong Office 365
+# <a name="configure-multi-factor-authentication-in-office-365"></a>Cấu hình nhiều yếu tố xác thực trong Office 365
 
-Để cấu hình MFA, hãy xem [thiết lập nhiều yếu tố xác thực cho người dùng Office 365](https://support.office.com/article/8f0454b2-f51a-4d9c-bcde-2c48e41621c6.aspx).
+Để cấu hình MFA, xem [thiết lập xác thực nhiều yếu tố cho Office 365 người dùng](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication).
 
-Lưu ý rằng bạn cần phải là một Office 365 quản trị toàn cầu để kích hoạt và đặt cấu hình MFA.
+Lưu ý rằng bạn cần phải là quản trị viên toàn cầu của Office 365 để bật và đặt cấu hình MFA.

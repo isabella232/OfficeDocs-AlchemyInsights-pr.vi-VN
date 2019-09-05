@@ -1,5 +1,5 @@
 ---
-title: Kiểm tra trạng thái đồng bộ AAD Identity
+title: Kiểm tra trạng thái đồng bộ nhận dạng AAD
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,22 +13,22 @@ ms.custom:
 - "304"
 - "1300008"
 ms.assetid: e7242604-6a81-44f3-86ac-7f1f5da29ce7
-ms.openlocfilehash: eb69643f1760aa69ee45637b2099220ce4359692
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9d706021a6666270c8545b73e78abc56a3507f34
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36520581"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738543"
 ---
-# <a name="check-aad-identity-sync-status"></a>Kiểm tra trạng thái AAD danh tính đồng bộ
+# <a name="check-aad-identity-sync-status"></a>Kiểm tra trạng thái đồng bộ hóa danh tính AAD
 
 Kiểm tra trạng thái đồng bộ là dễ dàng:
   
-- Đăng nhập vào Trung tâm quản trị Microsoft 365 và chọn **Trạng thái DirSync** trên trang chủ.
+- Đăng nhập vào Trung tâm quản trị Microsoft 365 và chọn **Dirsync trạng thái** trên trang chủ.
 
-- Thay phiên, bạn có thể đi đến người dùng \> người dùng hoạt động, và trên trang người dùng hoạt động, chọn Thêm \> đồng bộ hoá thư mục.
+- Thay phiên, bạn có thể đi đến \> người dùng đang hoạt động và trên trang người dùng đang hoạt \> động, chọn đồng bộ hóa thư mục khác.
 
-- Trên cửa sổ đồng bộ hoá thư mục, chọn Go to DirSync quản lý.
+- Trên cửa sổ đồng bộ hóa thư mục, chọn tới DirSync quản lý.
 
-Nếu có một vấn đề với đồng bộ hóa thư mục của bạn, các lỗi được liệt kê trên Trang này. Để biết thêm chi tiết về các lỗi khác nhau bạn có thể gặp phải, hãy xem [xác định thư mục đồng bộ lỗi trong Office 365](https://support.office.com/article/b4fc07a5-97ea-4ca6-9692-108acab74067).
+Nếu có sự cố với đồng bộ hóa thư mục của bạn, các lỗi được liệt kê trên Trang này. Để biết thêm thông tin về các lỗi khác nhau mà bạn có thể gặp phải, xem [xem lỗi đồng bộ hóa thư mục trong Office 365](https://docs.microsoft.com//office365/enterprise/identify-directory-synchronization-errors).
   

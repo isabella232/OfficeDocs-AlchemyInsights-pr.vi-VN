@@ -1,6 +1,6 @@
 ---
-title: Cho phép chia sẻ bên ngoài
-ms.author: kirks
+title: Bật chia sẻ bên ngoài
+ms.author: pebaum
 author: Techwriter40
 ms.date: 12/4/2018
 ms.audience: ITPro
@@ -8,35 +8,35 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: de0a6940680bc4ec5193c8aa9345b0b214b5fd5b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 53eadea43e4ac9365bd7f434b1db254ccf224e4b
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527673"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36756050"
 ---
-# <a name="enable-external-sharing"></a>Cho phép chia sẻ bên ngoài
+# <a name="enable-external-sharing"></a>Bật chia sẻ bên ngoài
 
- Để đảm bảo rằng việc chia sẻ được kích hoạt cho SharePoint Online:
+ Để đảm bảo rằng chia sẻ được kích hoạt cho SharePoint trực tuyến:
   
-- **Chia sẻ trên toàn cầu**
+- **Chia sẻ toàn cầu**
     
-  - Cổng thông tin -\> chia sẻ bên ngoài -\> chia sẻ tổng quan - các trang web, hãy để những người bên ngoài truy cập vào trang web của bạn: ON
+  - Cổng-\> chia sẻ bên\> ngoài-tổng quan chia sẻ-trang web, cho phép người bên ngoài truy cập trang web của bạn: trên
     
-  - Cổng thông tin -\> chia sẻ bên ngoài -\> trang web - "Hãy để những người bên ngoài truy cập vào trang web của bạn" hộp kiểm
+  - Cổng thông\> tin-chia\> sẻ bên ngoài-trang web-"cho phép người bên ngoài truy cập trang web của bạn" hộp kiểm
     
-- **Chia sẻ hành chính – Trung tâm quản trị SharePoint**
+- **Chia sẻ quản trị-Trung tâm quản trị SharePoint**
     
-    Chia sẻ bên ngoài - đảm bảo một trong hai tùy chọn được chọn:
+    Chia sẻ bên ngoài-đảm bảo một trong hai tùy chọn được chọn:
     
-  - "Cho phép người dùng bên ngoài những người chấp nhận lời mời chia sẻ và đăng nhập như người dùng xác thực"
+  - "Cho phép người dùng bên ngoài chấp nhận lời mời chia sẻ và đăng nhập như người dùng xác thực"
     
-  - "Cho phép cả người dùng bên ngoài những người chấp nhận chia sẻ lời mời và các liên kết ẩn danh đánh"
+  - "Cho phép cả người dùng bên ngoài chấp nhận lời mời chia sẻ và liên kết khách ẩn danh"
     
-- **Các bộ sưu tập trang web cá nhân**
+- **Bộ sưu tập trang web cá nhân**
     
-  - Trang web bộ sưu tập - sưu tập chọn trang web trong câu hỏi, và sau đó nhấp vào chia sẻ - từ ribbon -\> đảm bảo một trong hai tùy chọn chia sẻ được lựa chọn.
+  - Bộ sưu tập trang web-chọn tập hợp trang web trong câu hỏi, và sau đó\> nhấp vào chia sẻ-từ ruy băng-đảm bảo một trong hai tùy chọn chia sẻ được chọn.
     
-Để biết thêm thông tin về làm thế nào để bật chia sẻ bên ngoài, hãy xem [biến bên ngoài chia sẻ hoặc tắt cho SharePoint Online.](https://go.microsoft.com/fwlink/?linkid=2047681&amp;clcid=0x409)
+Để biết thêm thông tin về cách bật chia sẻ bên ngoài, [hãy xem bật hoặc tắt chia sẻ bên ngoài cho SharePoint Online.](https://go.microsoft.com/fwlink/?linkid=2047681&amp;clcid=0x409)
   
 

@@ -1,5 +1,5 @@
 ---
-title: Gỡ rối các vấn đề bằng cách sử dụng mở Explorer
+title: Khắc phục sự cố sử dụng mở với Explorer
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -11,26 +11,26 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ed852342-e33f-4450-8400-63d30df09476
-ms.openlocfilehash: 6e67c2916e0c5739f6126064d45e175a7fd6f8d4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a9ab7dd27e4dc1bd76c93cc81260616063e638ed
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36500237"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36742755"
 ---
-# <a name="fix-problems-with-open-with-explorer"></a>Sửa các vấn đề mở Explorer
+# <a name="fix-problems-with-open-with-explorer"></a>Khắc phục sự cố với Open With Explorer
 
-Sửa chữa các vấn đề thường gặp với việc mở một thư viện tài liệu trong SharePoint hoặc OneDrive sử dụng lệnh **Open Explorer** : 
+Khắc phục sự cố thường gặp với việc mở thư viện tài liệu trong SharePoint hoặc OneDrive bằng lệnh **mở Explorer** : 
   
-- Sử dụng Internet Explorer 10 hoặc Internet Explorer 11. **Open Explorer** không tương thích với Microsoft Edge, Google Chrome, Firefox và những người khác. **Open Explorer** bị vô hiệu hóa trong tất cả các trình duyệt ngoại trừ Internet Explorer. 
+- Sử dụng Internet Explorer 10 hoặc Internet Explorer 11. **Mở bằng Explorer** không tương thích với Microsoft Edge, Google Chrome, Firefox và những người khác. **Mở với Explorer** bị vô hiệu hoá trong tất cả các trình duyệt ngoại trừ Internet Explorer. 
     
-- **Open Explorer** không phải là có sẵn trong những kinh nghiệm hiện đại cho các thư viện SharePoint. Thay vì sử dụng **chế độ xem trong File Explorer** . Chọn **tùy chọn View** \> **xem trong File Explorer**. Chế độ xem trong File Explorer không phải là tương thích với Microsoft Edge, Google Chrome, Firefox và những người khác. **Chế độ xem trong File Explorer** trong chỉ có trong Internet Explorer. 
+- **Mở bằng Explorer** không có trong trải nghiệm hiện đại cho thư viện SharePoint. Sử dụng **dạng xem trong file Explorer** thay thế. Chọn xem **tùy chọn** \> **xem trong file Explorer**. Xem trong file Explorer không tương thích với Microsoft Edge, Google Chrome, Firefox và những người khác. **Xem trong file Explorer** chỉ có sẵn trong Internet Explorer. 
     
-- Đảm bảo rằng các dịch vụ WebClient đang chạy. Trong hộp tìm kiếm của Windows, gõ run, chọn các ứng dụng máy tính để bàn chạy, gõ services.msc, và sau đó nhấn Enter. Cuộn xuống WebClient dịch vụ và đảm bảo rằng cột **trạng thái** sẽ hiển thị "Chạy." Nếu không, bấm đúp vào dịch vụ, bấm vào **bắt đầu**, và sau đó nhấp vào **OK**. (Bạn có thể cần để lần đầu tiên kích hoạt dịch vụ bằng cách chọn hoặc **bằng tay** hoặc **tự động** trong hộp **loại khởi động** .) 
+- Đảm bảo rằng dịch vụ WebClient đang chạy. Trong hộp tìm kiếm của Windows, nhập chạy, chọn ứng dụng Run Desktop, gõ Services. msc, và sau đó nhấn Enter. Cuộn xuống dịch vụ WebClient và đảm bảo rằng cột **trạng thái** Hiển thị "đang chạy." Nếu không, bấm đúp vào dịch vụ, bấm **bắt đầu**, và sau đó bấm **OK**. (Bạn có thể cần phải kích hoạt dịch vụ trước tiên bằng cách chọn **hướng dẫn sử dụng** hoặc **tự động** trong hộp **loại khởi động** .) 
     
 > [!NOTE]
-> Mở một thư viện trong File Explorer là hữu ích nếu bạn cần để sao chép hoặc di chuyển nhiều tập tin và thư mục sau khi, nhưng nếu bạn muốn thường xuyên làm việc trong thư viện, chúng tôi khuyên bạn nên đồng bộ hoá nó. Để khắc phục vấn đề mở File Explorer, nhìn thấy [mở trong Explorer](https://go.microsoft.com/fwlink/?linkid=871665). Thông tin về việc thiết lập đồng bộ, xem [tập tin Sync SharePoint với khách hàng mới đồng bộ OneDrive](https://go.microsoft.com/fwlink/?linkid=871666).
+> Mở một thư viện trong file Explorer là tiện dụng nếu bạn cần sao chép hoặc di chuyển nhiều tệp và thư mục một lần, nhưng nếu bạn muốn thường xuyên làm việc trong thư viện, chúng tôi khuyên bạn nên đồng bộ hóa nó. Để khắc phục sự cố mở trong file Explorer, hãy xem [mở trong Explorer](https://go.microsoft.com/fwlink/?linkid=871665). Để biết thông tin về thiết lập đồng bộ hóa, [hãy xem đồng bộ hóa tệp SharePoint với khách hàng đồng bộ OneDrive mới](https://go.microsoft.com/fwlink/?linkid=871666).
   
-Xin vui lòng xem bài viết [làm thế nào để sử dụng lệnh "mở với Explorer" khắc phục sự cố các vấn đề trong SharePoint Online](https://support.office.com/article/How-to-use-the-Open-with-Explorer-command-to-troubleshoot-issues-in-SharePoint-Online-87155331-0c92-4224-a4c1-da5c21c4ade4) cho biết thêm thông tin. 
+Vui lòng xem bài viết [cách sử dụng lệnh "mở bằng Explorer" để khắc phục sự cố trong SharePoint trực tuyến để](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/troubleshoot-issues-using-open-with-explorer) biết thêm thông tin. 
   
 

@@ -1,6 +1,6 @@
 ---
-title: Truy cập từ chối khi xem một công việc
-ms.author: kirks
+title: Truy nhập bị từ chối khi xem luồng công việc
+ms.author: pebaum
 author: Techwriter40
 ms.date: 11/27/2018
 ms.audience: ITPro
@@ -8,24 +8,24 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 47ceb983-f9a4-4c55-a40c-03d5c3d75dc9
-ms.openlocfilehash: 53bd9285e49e220f880eea21923f261302003127
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4ca65583fbd98867026e9e3cc8f36fe38798aa85
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495845"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36747770"
 ---
-# <a name="access-denied-when-viewing-a-workflow"></a>Truy cập từ chối khi xem một công việc
+# <a name="access-denied-when-viewing-a-workflow"></a>Truy nhập bị từ chối khi xem luồng công việc
 
-SharePoint 2013 quy trình công việc mà cố gắng để gửi email đến một nhóm SharePoint có thể thất bại với một thông báo lỗi "Truy cập từ chối" nếu các thành viên của nhóm SharePoint không được thiết lập để tất cả mọi người.
+SharePoint 2013 luồng công việc cố gắng gửi email đến một nhóm SharePoint có thể thất bại với thông báo lỗi "truy cập từ chối" nếu các thành viên của nhóm SharePoint không được đặt thành tất cả mọi người.
   
- **Để giải quyết vấn đề này, hãy làm các bước sau:**
+ **Để khắc phục sự cố này, thực hiện các bước sau:**
   
- 1. Cho phép tất cả mọi người để xem các thành viên của nhóm SharePoint.
+ 1. Cho phép tất cả mọi người xem các thành viên của nhóm SharePoint.
   
- 2. Loại bỏ nhóm SharePoint từ k/g hoặc sao của email.
+ 2. Loại bỏ nhóm SharePoint từ hoặc CC dòng email.
   
- 3. Một cách rõ ràng thêm người dùng k/g hoặc sao dòng nếu tầm nhìn của thành viên không thể thay đổi cho SharePoint group.
+ 3. Rõ ràng thêm người dùng đến hoặc CC dòng nếu Hiển thị thành viên không thể thay đổi cho nhóm SharePoint.
   
-Để xem thêm chi tiết xin vui lòng tham khảo [HTTP trái phép để /_vti_bin/client.svc/sp.utilities.utility.SendEmail](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).
+Để xem thêm chi tiết xin vui lòng tham khảo [http trái phép để/_vti_bin/client.SVC/SP.Utilities.Utility.SendEmail](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).
   

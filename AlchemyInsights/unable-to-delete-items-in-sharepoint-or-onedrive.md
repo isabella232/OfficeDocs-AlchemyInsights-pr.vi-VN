@@ -1,6 +1,6 @@
 ---
-title: Không thể xoá mục trong SharePoint hoặc OneDrive
-ms.author: kirks
+title: Không thể xoá các mục trong SharePoint hoặc OneDrive
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
@@ -11,26 +11,26 @@ ms.custom:
 - "2377"
 - "9000255"
 ms.assetid: ''
-ms.openlocfilehash: b25e6d144dcefcfed4258e78ad5cfd4089ba7d1e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3cc168846999c6880b95edfaedb2df8cf6e843a6
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36558675"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36748598"
 ---
-# <a name="unable-to-delete-items"></a>Không thể xoá bỏ khoản mục
+# <a name="unable-to-delete-items"></a>Không thể xoá các mục
 
-Có vấn đề xóa khoản mục SharePoint?
+Có vấn đề xóa các mục SharePoint?
 
-- Luôn chắc chắn rằng bạn có [quyền phù hợp](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) để xóa mục hoặc có một [bộ sưu tập quản lý](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions#add-change-or-remove-a-site-collection-administrator) cố gắng loại bỏ các mục.
+- Luôn đảm bảo rằng bạn có quyền [thích hợp](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) để xoá mục hoặc có một [quản trị viên bộ sưu tập trang web](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions#add-change-or-remove-a-site-collection-administrator) cố gắng loại bỏ mục.
 
-- Đảm bảo rằng có không phải là một thiết lập [chính sách lưu giữ](https://docs.microsoft.com/office365/securitycompliance/retention-policies) trên mặt hàng đó.
+- Đảm bảo rằng không có thiết lập [chính sách lưu giữ](https://docs.microsoft.com/office365/securitycompliance/retention-policies) trên mục.
 
-- Bảo đảm hàng không [kiểm tra](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de) đến người dùng khác.
+- Đảm bảo mục không được [kiểm tra](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de) cho người dùng khác.
 
-- Cuối cùng, người quản trị có thể sử dụng [SharePoint Patterns và thực tiễn](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps#installation) (PnP) chứa một thư viện của PowerShell lệnh cho phép bạn thực hiện các hoạt động quản lý phức tạp như buộc xóa mục bướng bỉnh.
-- [Loại bỏ tệp PNP](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnpfile?view=sharepoint-ps)
-- [Loại bỏ cặp PNP](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnpfolder?view=sharepoint-ps)
-- [Loại bỏ các mục danh sách PNP](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnplistitem?view=sharepoint-ps)
-- [Xoá danh sách PNP](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnplist?view=sharepoint-ps)
-- [Loại bỏ các PNP trường (cột)](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnpfield?view=sharepoint-ps)
+- Cuối cùng, quản trị viên có thể sử dụng [SharePoint Patterns và thực tiễn](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps#installation) (PNP) chứa một thư viện lệnh PowerShell cho phép bạn thực hiện các hành động quản lý phức tạp như lực xóa các mục cứng đầu.
+- [Loại bỏ PNP file](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnpfile?view=sharepoint-ps)
+- [Loại bỏ PNP cặp](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnpfolder?view=sharepoint-ps)
+- [Loại bỏ PNP danh mục](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnplistitem?view=sharepoint-ps)
+- [Loại bỏ PNP danh sách](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnplist?view=sharepoint-ps)
+- [Loại bỏ PNP trường (cột)](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnpfield?view=sharepoint-ps)

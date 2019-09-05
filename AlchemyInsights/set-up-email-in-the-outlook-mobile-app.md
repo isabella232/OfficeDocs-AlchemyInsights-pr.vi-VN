@@ -1,5 +1,5 @@
 ---
-title: 1800014 thiết lập email trong Outlook mobile app
+title: 1800014 thiết lập email trong ứng dụng Outlook dành cho thiết bị di động
 ms.author: anahitab
 author: anahitab
 manager: dansimp
@@ -15,31 +15,31 @@ ms.custom:
 - "1800014"
 - "1800018"
 ms.assetid: d2b46122-b59a-4b94-9cae-5e42be819022
-ms.openlocfilehash: f636c0b6bef3ec779a6393f3a4cd489a467c4bc5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4bada589fa55fc78233d13f44566b919ab2d15b9
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36509239"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734187"
 ---
-# <a name="set-up-email-in-the-outlook-mobile-app"></a>Thiết lập email trong Outlook mobile app
+# <a name="set-up-email-in-the-outlook-mobile-app"></a>Thiết lập email trong ứng dụng Outlook dành cho thiết bị di động
 
-1. Chọn **Bắt đầu** nếu bạn thiết lập thời gian đầu tiên lập email trong ứng dụng điện thoại di động. Nếu không, bấm vào **Menu** và sau đó bấm vào **cài đặt** \> **Thêm tài khoản** \> **Thêm tài khoản Email**.
+1. Chọn **bắt đầu** nếu đó là lần đầu tiên bạn thiết lập email trong ứng dụng dành cho thiết bị di động. Nếu không, hãy nhấn vào **menu** rồi nhấn vào **cài đặt** \> **Thêm tài** \> khoản **Add email**.
 
-2. Nhập địa chỉ email đầy đủ của bạn và bấm vào **tiếp tục** hoặc **Thêm tài khoản**.
+2. Nhập địa chỉ email đầy đủ của bạn và nhấn vào **tiếp tục** hoặc **Thêm tài khoản**.
 
-3. Nhập mật khẩu tài khoản email của bạn và bấm vào **Đăng nhập** hay **tiếp theo**.
+3. Nhập mật khẩu tài khoản email của bạn và nhấn vào **đăng nhập** hoặc **tiếp theo**.
 
-4. Nếu [nhiều yếu tố xác thực](https://support.office.com/article/8f0454b2-f51a-4d9c-bcde-2c48e41621c6.aspx) được kích hoạt, xác minh bằng cách sử dụng các phương pháp mà bạn thiết lập (mã 6 chữ số, gọi điện thoại hoặc ứng dụng Microsoft Authenticator).
+4. Nếu [xác thực nhiều yếu tố](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication) được bật, hãy xác minh bằng cách sử dụng phương pháp bạn thiết lập (mã 6 chữ số, cuộc gọi điện thoại hoặc ứng dụng Microsoft Authenticator).
 
-5. Nếu bổ sung các chính sách quản trị CNTT đưa ra, bấm vào **kích hoạt** để kích hoạt chúng.
+5. Nếu có các chính sách quản trị viên CNTT bổ sung, hãy nhấn vào **kích hoạt** để bật chúng.
 
-6. Outlook có thể yêu cầu sự cho phép để truy cập vào lịch của bạn, địa chỉ liên lạc và thông tin khác. Chọn **Yes** hoặc **cho phép**.
+6. Outlook có thể yêu cầu quyền truy cập vào lịch, danh bạ và thông tin khác của bạn. Chọn **có** hoặc **cho phép**.
 
-Nhận được chi tiết thiết lập hướng dẫn cho [Outlook cho Android](https://support.office.com/article/886db551-8dfa-4fd5-b835-f8e532091872.aspx) hoặc [Outlook cho iOS](https://support.office.com/article/b2de2161-cc1d-49ef-9ef9-81acd1c8e234.aspx) tại đây.
+Nhận hướng dẫn thiết lập chi tiết cho [Outlook for Android](https://support.office.com/article/886db551-8dfa-4fd5-b835-f8e532091872.aspx) hoặc [Outlook for iOS](https://support.office.com/article/b2de2161-cc1d-49ef-9ef9-81acd1c8e234.aspx) tại đây.
   
- **Cần trợ giúp?**
+ **Cần giúp đỡ?**
   
-- [Khắc phục sự cố thiết lập email trên điện thoại di động](https://support.office.com/article/a264ef01-9c88-48fb-9285-7017e4f31f02.aspx)
+- [Khắc phục sự cố thiết lập email trên thiết bị di động](https://support.office.com/article/a264ef01-9c88-48fb-9285-7017e4f31f02.aspx)
 
-- [Trợ giúp trong ứng dụng Outlook cho iOS và Android](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support)
+- [Nhận trợ giúp trong ứng dụng cho Outlook for iOS và Android](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support)

@@ -1,5 +1,5 @@
 ---
-title: Các di chuyển dứt điểm vào Office 365
+title: Cutover di cư đến văn phòng 365
 ms.author: dstrome
 author: dstrome
 manager: dansimp
@@ -11,14 +11,14 @@ localization_priority: Priority
 ms.custom:
 - "695"
 - "3500010"
-ms.openlocfilehash: f50ac52c030a04b1125cff751b5b3e9dc538a566
-ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
+ms.openlocfilehash: a2017060fceecf3172facc4cd75f52fc2e07f9f3
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35903779"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36740595"
 ---
-# <a name="cutover-migrations-to-office-365"></a>Các di chuyển dứt điểm vào Office 365
+# <a name="cutover-migrations-to-office-365"></a>Cutover di cư đến văn phòng 365
 
-Khi bạn đăng ký Office 365, bạn có thể di chuyển nội dung của hộp thư người dùng từ tổ chức Exchange tại chỗ sang Office 365. Khi bạn làm tất cả điều này tại một thời gian, nó gọi là một di chuyển đơn giản. Một di chuyển đơn giản có thể phù hợp với bạn nếu bạn đang chạy một phiên bản được hỗ trợ trao đổi và có ít hơn 2.000 các hộp thư. Để tìm hiểu thêm về quá trình di chuyển dứt điểm, hãy xem: [di chuyển vào Office 365](https://support.office.com/article/9496e93c-1e59-41a8-9bb3-6e8df0cd81b4.aspx).
+Khi bạn đăng ký Office 365, bạn có thể di chuyển nội dung của hộp thư người dùng từ một tổ chức Exchange tại chỗ sang Office 365. Khi bạn làm điều này tất cả cùng một lúc, nó được gọi là một di cư đơn giản. Một di chuyển có thể phù cho bạn nếu bạn đang chạy phiên bản Exchange được hỗ trợ và có ít hơn 2.000 hộp thư. Để tìm hiểu thêm về di chuyển, hãy xem [qua: di trú email bằng cách sử dụng phương pháp Exchange đơn giản](https://docs.microsoft.com/Exchange/mailbox-migration/cutover-migration-to-office-365).
   

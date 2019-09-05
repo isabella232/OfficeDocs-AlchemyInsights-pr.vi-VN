@@ -11,18 +11,18 @@ ms.custom:
 - "732"
 - "1200030"
 ms.assetid: 1d51fc10-cb67-4afa-a597-aef8dc90b9f8
-ms.openlocfilehash: 90c291dfbe9eb35dd878040806d5ea649e09097f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6e4e2430ff2fc9b493d93897ca3429bbee82e96e
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36544705"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738831"
 ---
-# <a name="when-you-get-a-not-an-accepted-domain-error"></a>Khi bạn nhận được một "Không phải là một miền được chấp nhận" lỗi
+# <a name="when-you-get-a-not-an-accepted-domain-error"></a>Khi bạn nhận được lỗi "không phải là một miền được chấp nhận"
 
-Khi cố gắng để thêm một địa chỉ email người dùng hoặc nhóm hoặc trong khi di chuyển các hộp thư Office 365, bạn có thể nhận được lỗi sau: **bạn không thể sử dụng tên miền, bởi vì nó không phải là một miền được chấp nhận cho hệ thống trao đổi nào được nêu ra.**
+Khi cố gắng thêm địa chỉ email người dùng hoặc nhóm hoặc trong quá trình di chuyển Office 365 hộp thư, bạn có thể nhận được lỗi sau: **bạn không thể sử dụng miền vì nó không phải là một miền được chấp nhận cho hệ thống Exchange được nêu ra.**
   
-Trong hầu hết trường hợp, lỗi này là kết quả của tên miền tên *(chẳng hạn như contoso.com)* không bị đầy đủ thiết lập đối với tổ chức của bạn.
+Trong hầu hết trường hợp, lỗi này là kết quả của tên miền *(chẳng hạn như contoso.com)* không được thiết lập đầy đủ cho tổ chức của bạn.
   
-Xin vui lòng kiểm chứng rằng tên miền đầy đủ thiết lập bằng cách làm theo các hướng dẫn ở [Thêm một tên miền vào Office 365](https://support.office.com/article/6383f56d-3d09-4dcb-9b41-b5f5a5efd611).
+Hãy kiểm chứng rằng miền được thiết lập đầy đủ bằng cách làm theo các hướng dẫn trong [Thêm một miền cho Office 365](https://docs.microsoft.com/office365/admin/setup/add-domain).
   

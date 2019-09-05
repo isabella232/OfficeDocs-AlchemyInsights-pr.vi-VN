@@ -1,6 +1,6 @@
 ---
-title: Không thể thêm mặc định năm 2010 phê duyệt quy trình làm việc
-ms.author: kirks
+title: Không thể thêm mặc định 2010 phê duyệt luồng công việc
+ms.author: pebaum
 author: Techwriter40
 ms.date: 1/28/2019
 ms.audience: ITPro
@@ -12,18 +12,18 @@ ms.custom:
 - "1403"
 - "5200024"
 ms.assetid: 2060c9a1-e714-4d93-925e-629c82c35986
-ms.openlocfilehash: ecdbaeaa002a40a743d836ee50ccaaeda3426ec7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d5486e218e9b6e3d632330bcc3a64b7b87952581
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36493823"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36747698"
 ---
-# <a name="cant-add-default-2010-approval-workflow"></a>Không thể thêm mặc định năm 2010 phê duyệt quy trình làm việc
+# <a name="cant-add-default-2010-approval-workflow"></a>Không thể thêm mặc định 2010 phê duyệt luồng công việc
 
-Trong một bộ sưu tập trang web Microsoft SharePoint, bạn không thể thêm một công việc toàn cầu tái sử dụng (ví dụ như "phê duyệt - SharePoint 2010") một danh sách hoặc thư viện. Tiến trình công việc phê duyệt có thể bị thiếu. Để giải quyết vấn đề này, hãy tham khảo [không thể thêm một công việc tái sử dụng trên toàn cầu cho một danh sách SharePoint hoặc thư viện](https://support.microsoft.com/help/4467263/sharepoint-designer-2013-shows-empty-wfpub-library).
+Trong bộ sưu tập trang web Microsoft SharePoint, bạn không thể thêm một công việc tái sử dụng toàn cầu (chẳng hạn như "phê duyệt-SharePoint 2010") vào một danh sách hoặc thư viện. Luồng công việc phê duyệt có thể bị mất. Để giải quyết vấn đề này, tham khảo [không thể thêm một luồng công việc tái sử dụng toàn cầu vào danh sách SharePoint hoặc thư viện](https://support.microsoft.com/help/4467263/sharepoint-designer-2013-shows-empty-wfpub-library).
 
-Để biết thêm chi tiết về phê duyệt quy trình làm việc, thấy [tất cả về phê duyệt quy trình công việc](https://support.office.com/article/All-about-Approval-workflows-078C5A89-821F-44A9-9530-40BB34F9F742). 
+Để biết thêm thông tin về quy trình phê duyệt, xem [tất cả về phê duyệt luồng](https://support.office.com/article/All-about-Approval-workflows-078C5A89-821F-44A9-9530-40BB34F9F742)công việc. 
  
-Tìm hiểu thêm về [Các phê chuẩn hiện đại trong dòng chảy](https://flow.microsoft.com/blog/introducing-modern-approvals). 
+Tìm hiểu thêm về [phê duyệt hiện đại trong Flow](https://flow.microsoft.com/blog/introducing-modern-approvals). 
   

@@ -1,5 +1,5 @@
 ---
-title: Cài đặt, thiết lập, và đồng bộ OneDrive hoặc SharePoint các tập tin trên máy Mac
+title: Cài đặt, thiết lập và đồng bộ tệp OneDrive hoặc SharePoint trên Mac
 ms.author: efrene
 author: efrene
 ms.date: 6/10/2018
@@ -8,21 +8,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 89b29dd9-edfe-49a4-84eb-5dc270d64526
-ms.openlocfilehash: c167e3ffb011f397022a2ca8f6aea14f0c836e04
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 7a845bbf2fd6f3d3572a1284654c9f593dd3ec1e
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36507941"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36743799"
 ---
-# <a name="install-setup-and-sync-onedrive-or-sharepoint-files-on-mac"></a>Cài đặt, thiết lập, và đồng bộ OneDrive hoặc SharePoint các tập tin trên máy Mac 
+# <a name="install-setup-and-sync-onedrive-or-sharepoint-files-on-mac"></a>Cài đặt, thiết lập và đồng bộ tệp OneDrive hoặc SharePoint trên Mac 
 
-««««Cài đặt, thiết lập và đồng bộ OneDrive hoặc SharePoint các tập tin trên máy Mac với các hướng dẫn từ [đồng bộ hóa các tập tin với các khách hàng đồng bộ OneDrive trên hệ điều hành Mac OS X](https://support.office.com/article/sync-files-with-the-onedrive-sync-client-on-mac-os-x-d11b9f29-00bb-4172-be39-997da46f913f).
+Cài đặt, thiết lập và đồng bộ OneDrive hoặc SharePoint tập tin trên máy Mac với các hướng dẫn từ [đồng bộ tệp với khách hàng đồng bộ OneDrive trên Mac OS X](https://support.office.com/article/sync-files-with-the-onedrive-sync-client-on-mac-os-x-d11b9f29-00bb-4172-be39-997da46f913f).
 
-Nếu ứng dụng OneDrive cài đặt và thiết lập trên một máy Mac, nhưng người dùng đang gặp phải vấn đề đồng bộ, hãy xem [đồng bộ sửa chữa các vấn đề với OneDrive (Mac)](https://support.office.com/article/fix-onedrive-sync-problems-on-a-mac-af3012d7-13ec-4ac9-bbb1-ebcd2a0cd756?ui=en-US&amp;rs=en-US&amp;ad=US).
+Nếu ứng dụng OneDrive được cài đặt và thiết lập trên máy Mac, nhưng người dùng đang gặp sự cố đồng bộ hóa, hãy xem [khắc phục sự cố đồng bộ hóa với OneDrive (Mac)](https://support.office.com/article/fix-onedrive-sync-problems-on-a-mac-af3012d7-13ec-4ac9-bbb1-ebcd2a0cd756).
 
 > [!NOTE]
-> Các tính năng biết đến thư mục di chuyển trong đồng bộ OneDrive cho Windows là không có sẵn cho Mac.
+> Tính năng di chuyển thư mục được biết đến trong đồng bộ OneDrive cho Windows không khả dụng cho Mac.
 
 
 

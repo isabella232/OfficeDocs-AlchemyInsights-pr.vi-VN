@@ -1,5 +1,5 @@
 ---
-title: Vai trò quản trị và làm thế nào để gán
+title: Vai trò quản trị viên và cách gán
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,20 +13,20 @@ ms.custom:
 - "2"
 - "1200008"
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: ebab0e09aa2eb4a1605a44a670489fbe5660be32
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 151f2def68b53838929f1ebeaa61a24439815aa0
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36493938"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737115"
 ---
-# <a name="what-are-admin-roles-and-how-do-you-assign-them"></a>Vai trò quản trị là gì và làm thế nào bạn gán cho chúng?
+# <a name="what-are-admin-roles-and-how-do-you-assign-them"></a>Vai trò quản trị là gì và làm thế nào để gán cho họ?
 
-Có vẻ như bạn có một số câu hỏi về vai trò quản trị. Những bài viết nên trả lời tất cả câu hỏi của bạn.
+Có vẻ như bạn có một số câu hỏi về vai trò quản trị viên. Những bài viết này nên trả lời tất cả các câu hỏi của bạn.
   
-- [Về vai trò quản trị Office 365](https://support.office.com/article/About-Office-365-admin-roles-da585eea-f576-4f55-a1e0-87090b6aaa9d.aspx)
+- [Về vai trò quản trị viên](https://docs.microsoft.com/office365/admin/add-users/about-admin-roles)
 
-- [Gán vai trò admin](https://support.office.com/article/assign-eac4d046-1afd-4f1a-85fc-8219c79e1504.aspx)
+- [Gán vai trò quản trị](https://docs.microsoft.com/office365/admin/add-users/assign-admin-roles)
 
-Không trả lời câu hỏi của bạn? Không vấn đề gì! Sử dụng tùy chọn "Hãy để chúng tôi gọi bạn" nói chuyện với một kỹ sư hỗ trợ.
+Không trả lời câu hỏi của bạn? Không vấn đề gì! Sử dụng tùy chọn "Hãy để chúng tôi gọi cho bạn" để nói chuyện với một kỹ sư hỗ trợ.
   

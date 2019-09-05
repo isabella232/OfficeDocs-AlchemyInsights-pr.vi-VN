@@ -1,6 +1,6 @@
 ---
-title: Quản lý các tìm kiếm từ điển trong SharePoint Online
-ms.author: kirks
+title: Quản lý từ điển tìm kiếm trong SharePoint Online
+ms.author: pebaum
 author: Techwriter40
 ms.date: 11/27/2018
 ms.audience: ITPro
@@ -11,16 +11,16 @@ ms.custom:
 - "1244"
 - "5200021"
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: 78aaf013c3fa8f5ed4c91b1c651ba2328ed73402
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d375ed80ba4c58b32a830f140a8f18ba50008bd6
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36542146"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36754430"
 ---
-# <a name="manage-search-dictionaries"></a>Quản lý các tìm kiếm từ điển
+# <a name="manage-search-dictionaries"></a>Quản lý từ điển tìm kiếm
 
-Tìm kiếm từ điển trong SharePoint online được quản lý trong SharePoint Online hạn Store nằm ở trung tâm quản trị mới của SharePoint. Để biết thêm chi tiết về làm thế nào để thêm hoặc chỉnh sửa tìm kiếm từ điển, hãy xem [quản lý tìm kiếm từ điển](https://go.microsoft.com/fwlink/?linkid=2044669&amp;clcid=0x409).
+Từ điển tìm kiếm trong SharePoint trực tuyến được quản lý trong cửa hàng hạn SharePoint trực tuyến nằm trong Trung tâm quản trị SharePoint mới. Để biết thêm thông tin về cách thêm hoặc chỉnh sửa từ điển tìm kiếm, xem [quản lý từ điển tìm kiếm](https://go.microsoft.com/fwlink/?linkid=2044669&amp;clcid=0x409).
   
-Nếu bạn không nhìn thấy một thuật ngữ tìm kiếm từ điển thiết lập xuất hiện trong các cửa hàng hạn, xin vui lòng chờ 24 giờ. Nếu từ điển vẫn không xuất hiện sau 24 giờ, xin vui lòng đăng nhập một vé hỗ trợ.
+Nếu bạn không nhìn thấy bộ thuật ngữ từ điển tìm kiếm xuất hiện trong kho thuật ngữ, vui lòng đợi 24 giờ. Nếu từ điển vẫn không xuất hiện sau 24 giờ, vui lòng đăng nhập một vé hỗ trợ.
   

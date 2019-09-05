@@ -1,5 +1,5 @@
 ---
-title: Cài đặt office trên một máy chủ đầu cuối - không có giấy phép
+title: Cài đặt Office trên máy chủ đầu cuối-không có giấy phép
 ms.author: pebaum
 author: pebaum
 ms.date: 12/17/2018
@@ -11,44 +11,44 @@ ms.custom:
 - "917"
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
-ms.openlocfilehash: edac051840594f13b22ccd83f5cd6e3da5f84cbc
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 53071224a7c33532d864cd70b84bf0e3cc6a992f
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36498437"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735411"
 ---
-# <a name="installing-office-on-a-terminal-server"></a>Cài đặt Office trên một máy chủ đầu cuối
+# <a name="installing-office-on-a-terminal-server"></a>Cài đặt Office trên máy chủ đầu cuối
 
-Để triển khai Office 365 ProPlus trên một máy chủ Windows bằng cách sử dụng dịch vụ máy tính để bàn từ xa (RDS), tên cũ là dịch vụ đầu cuối:
+Để triển khai Office 365 ProPlus trên Windows Server sử dụng dịch vụ máy tính để bàn từ xa (RDS), trước đây có tên dịch vụ đầu cuối:
   
-- Bạn phải có một kế hoạch Office 365 bao gồm Office 365 ProPlus, chẳng hạn như Office 365 Enterprise E3 hoặc doanh nghiệp E5. Các gói Office 365 Business và Office 365 doanh nghiệp bảo hiểm không bao gồm Office 365 ProPlus.
+- Bạn phải có một gói Office 365 bao gồm Office 365 ProPlus, chẳng hạn như Office 365 Enterprise E3 hoặc Enterprise E5. Các gói Office 365 Business và Office 365 Business Premium không bao gồm Office 365 ProPlus.
 
-- Bạn cần cho phép [dùng chung máy tính kích hoạt](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus).
+- Bạn cần bật [kích hoạt máy tính dùng chung](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus).
 
-Nếu bạn muốn cài đặt Office 365 ProPlus trên RDS từ cổng Office 365, ***sử dụng thiết lập cài đặt mặc định***, hãy làm theo các bước sau:
+Nếu bạn muốn cài đặt Office 365 ProPlus trên RDS từ Trung tâm quản trị Microsoft 365, ***sử dụng cài đặt mặc định***, hãy làm theo các bước sau:
   
-1. Kiểm tra những gì kế hoạch Office 365 bạn có. [Tìm hiểu làm thế nào](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
+1. Kiểm tra những gì Office 365 kế hoạch bạn có. [Tìm hiểu cách](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
 
-2. Nếu cần thiết, chuyển sang một khác nhau Office 365 có kế hoạch. [Tìm hiểu làm thế nào](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)
+2. Nếu cần thiết, chuyển sang một gói Office 365 khác. [Tìm hiểu cách](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)
 
-3. Nếu văn phòng đã được cài đặt trên máy chủ RDS sử dụng bất kỳ kế hoạch nào khác của Office 365, gỡ bỏ cài đặt nó. Ví dụ, bằng cách vào Control Panel \> gỡ bỏ cài đặt một chương trình. Gỡ cài đặt bằng cách sử dụng [Microsoft hỗ trợ và phục hồi chương trình hỗ trợ](https://aka.ms/SARA-OfficeUninstall-Alchemy) nếu bạn đang chạy vào các vấn đề.
+3. Nếu Office đã được cài đặt trên máy chủ RDS sử dụng bất kỳ kế hoạch Office 365 khác, dỡ cài đặt. Ví dụ: bằng cách đi tới Pa \> -nen điều khiển gỡ cài đặt chương trình. Dỡ cài đặt bằng cách sử dụng [Microsoft support và phục hồi](https://aka.ms/SARA-OfficeUninstall-Alchemy) hỗ trợ nếu bạn đang chạy vào vấn đề.
 
-4. Trên máy chủ RDS, đăng nhập vào cổng Office 365 với tài khoản quản trị của bạn và [cài đặt Office 365 ProPlus](https://portal.office.com/OLS/MySoftware.aspx).
+4. Trên máy chủ RDS, đăng nhập vào Trung tâm quản trị Microsoft 365 với tài khoản quản trị viên của bạn và [cài đặt Office 365 ProPlus](https://portal.office.com/OLS/MySoftware.aspx).
 
-5. Sau khi văn phòng được cài đặt, ***không mở hoặc đăng nhập*** để các ứng dụng văn phòng.
+5. Sau khi Office được cài đặt, ***không mở hoặc đăng nhập*** vào bất kỳ ứng dụng Office.
 
-6. Trên máy chủ RDS, cho phép dùng chung máy tính kích hoạt bằng cách chỉnh sửa đăng ký bằng cách làm theo các bước sau:
+6. Trên máy chủ RDS, cho phép kích hoạt máy tính được chia sẻ bằng việc chỉnh sửa sổ đăng ký bằng các bước sau:
 
-1. Nhấp chuột phải vào nút Windows trong thấp hơn ở góc bên trái của màn hình của bạn và chọn Run. Trong các mở hộp, loại **regedit**, và sau đó chọn OK.
+1. Bấm chuột phải vào nút Windows ở góc dưới bên trái của màn hình và chọn chạy. Trong ô mở, gõ **regedit**, và sau đó chọn OK.
 
-2. Chọn có khi được nhắc để cho phép trình biên tập Registry để thay đổi thiết bị của bạn.
+2. Chọn có khi được nhắc để cho phép Registry Editor thay đổi thiết bị của bạn.
 
-3. Trong Registry Editor, thêm một chuỗi giá trị của **SharedComputerLicensing** với một thiết lập 1 dưới HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \Office\ClickToRun\Configuration.
+3. Trong Registry Editor, thêm một giá trị chuỗi **Sharedcomputerlicensing** với thiết đặt 1 trong HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \Office\ClickToRun\Configuration.
 
-7. Trên máy chủ RDS, ***đăng nhập như là một người dùng cuối*** và [xác minh rằng dùng chung máy tính kích hoạt được kích hoạt cho Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded).
+7. Trên máy chủ RDS, ***đăng nhập là người dùng cuối*** và [xác minh rằng kích hoạt máy tính dùng chung được kích hoạt cho Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded).
 
-Để biết thêm chi tiết về điều kiện tiên quyết, hướng dẫn cài đặt và hướng dẫn cài đặt tùy chỉnh bằng cách sử dụng công cụ triển khai văn phòng, hãy xem [Triển khai Office 365 ProPlus bằng cách sử dụng dịch vụ máy tính để bàn từ xa](https://docs.microsoft.com/DeployOffice/deploy-office-365-proplus-by-using-remote-desktop-services).
+Để biết thêm chi tiết về điều kiện tiên quyết, hướng dẫn thiết lập và hướng dẫn cài đặt tuỳ chỉnh bằng cách sử dụng công cụ triển khai Office, hãy xem [triển khai Office 365 ProPlus bằng cách sử dụng dịch vụ máy tính để bàn từ xa](https://docs.microsoft.com/DeployOffice/deploy-office-365-proplus-by-using-remote-desktop-services).
   
-Để sửa chữa các lỗi liên quan đến dùng chung máy tính kích hoạt, hãy xem [khắc phục sự cố với máy tính được chia sẻ kích hoạt cho Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus).
+Để khắc phục lỗi liên quan đến kích hoạt máy tính dùng chung, vui lòng xem [khắc phục sự cố với kích hoạt máy tính dùng chung cho Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus).
   

@@ -1,5 +1,5 @@
 ---
-title: Làm thế nào để kích hoạt lại và đổi mới quản lý
+title: Làm thế nào để kích hoạt lại và quản lý gia hạn
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,37 +13,37 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: d92f34b3c103f21c539c898c3f2b3224016c2754
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 5b9674920eb28cd48805ecab72cdf6f4149d62e3
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36663982"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739335"
 ---
-# <a name="how-to-reactivate-and-manage-recurring-billing"></a>Làm thế nào để kích hoạt lại và quản lý theo định kỳ thanh toán
+# <a name="how-to-reactivate-and-manage-recurring-billing"></a>Cách kích hoạt lại và quản lý thanh toán định kỳ
 
-Có vẻ như bạn có một đăng ký đã hết hạn. Nếu bạn muốn kích hoạt lại nó, ở đây như thế nào.
+Có vẻ như bạn có một thuê bao đã hết hạn. Nếu bạn muốn kích hoạt lại nó, đây là cách.
   
-1. Trong Trung tâm quản trị, đi đến **thanh toán** \> trang [sản phẩm & dịch vụ](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. Trong Trung tâm quản trị, hãy chuyển đến trang [dịch vụ của các sản phẩm](https://go.microsoft.com/fwlink/p/?linkid=842054) **thanh toán** \> _.
 
-2. Tìm các thuê bao mà bạn muốn kích hoạt lại. Trong phần **thanh toán** , chọn **kích hoạt lại**.
+2. Tìm gói đăng ký bạn muốn kích hoạt lại. Trong phần **lập hóa đơn** , chọn **kích**hoạt lại.
 
-    Nếu bạn không thấy **kích hoạt lại** như là một lựa chọn, sử dụng nút "Cần sự giúp đỡ" để nói chuyện với một kỹ sư hỗ trợ để kích hoạt thuê bao của bạn.
+    Nếu bạn không thấy **kích** hoạt lại như một tùy chọn, sử dụng nút "cần giúp đỡ" để nói chuyện với một kỹ sư hỗ trợ để kích hoạt lại đăng ký của bạn.
 
-3. Xác nhận các chi tiết thanh toán của bạn. Bạn có thể cập nhật thông tin thanh toán sẵn có ở đây. Khi bạn hoàn tất bước vào phương thức thanh toán của bạn, chọn **kích hoạt lại**.
+3. Xác nhận chi tiết thanh toán của bạn. Bạn có thể cập nhật thông tin thanh toán hiện tại của mình tại đây. Khi bạn đã hoàn tất việc nhập phương thức thanh toán của mình, hãy chọn **kích**hoạt lại.
 
-Để tìm hiểu thêm, hãy xem [kích hoạt thuê bao của bạn](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
+Để tìm hiểu thêm, hãy xem kích hoạt lại [đăng ký của bạn](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
 
-Để quản lý hàng tháng hoặc hàng năm thanh toán bạn có thể bật tắt **thanh toán Recurring** Baät hoaëc Taét.
+Để quản lý thanh toán theo tháng hoặc hàng năm, bạn có thể bật hoặc tắt tính phí định **kỳ** .
   
-1. Trong Trung tâm quản trị, đi đến **thanh toán** \> trang [sản phẩm & dịch vụ](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. Trong Trung tâm quản trị, hãy chuyển đến trang [dịch vụ của các sản phẩm](https://go.microsoft.com/fwlink/p/?linkid=842054) **thanh toán** \> _.
 
-2. Chọn đăng ký mà bạn muốn quản lý định kỳ thanh toán.
+2. Chọn đăng ký mà bạn muốn quản lý thanh toán định kỳ.
 
-3. Trong **thanh toán**, bên cạnh **Renews trên** hoặc **Expiring trên**, hãy chọn **chỉnh sửa**.
+3. Trong **thanh toán**, bên cạnh **renews trên** hoặc hết hạn **bật**, chọn **chỉnh sửa**.
 
-4. Trong cửa sổ **cài đặt thanh toán Recurring** , chọn **Turn OFF** để tắt nó đi. Nếu thanh toán định kỳ đã tắt, hãy chọn **hàng tháng** hoặc **một lần** để biến nó trên.
+4. Trong ngăn **cài đặt thanh toán định kỳ** , **Hãy** chọn tắt để tắt tính năng này. Nếu thanh toán định kỳ đã bị tắt, hãy chọn **hàng tháng** hoặc **một lần** để bật tính năng này.
 
 5. Chọn **gửi thay đổi**.
 
-Để tìm hiểu thêm, hãy xem [bật định kỳ thanh toán hết hoặc trên](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
+Để tìm hiểu thêm, [hãy xem bật hoặc tắt tính năng thanh toán định kỳ](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).

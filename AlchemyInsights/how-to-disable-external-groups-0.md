@@ -11,24 +11,24 @@ ms.custom:
 - "965"
 - "6000006"
 ms.assetid: 962c2a4f-7dac-4ccc-98a8-d0d283c95808
-ms.openlocfilehash: 6c936c18a63f1f1938d8f3fdafbacfc87d804408
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a467cc5deea6ae3a6f12832d238928daf4800039
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36541247"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739587"
 ---
 # <a name="how-to-disable-external-groups"></a>Làm thế nào để vô hiệu hóa nhóm bên ngoài
 
-Hiện có bốn cách người dùng bên ngoài có thể truy cập vào mạng lưới của bạn tại Yammer.
+Có bốn cách người dùng bên ngoài có thể truy cập vào mạng của bạn trong yammer.
   
-1. **Người dùng đánh** - Yammer quản trị viên có thể mời các số liên lạc từ các miền bên ngoài như là người dùng trên mạng gia đình. Những người dùng sẽ thấy công ty tất cả nguồn cấp dữ liệu và có thể tham gia các nhóm khác trong cùng mạng.
+1. **Người dùng khách** -yammer quản trị viên có thể mời liên hệ từ các miền bên ngoài như người dùng trên mạng nhà. Những người dùng này sẽ thấy tất cả các nguồn cấp dữ liệu của công ty và cũng có thể tham gia các nhóm khác trong mạng.
 
-2. **Người dùng bên ngoài trong một nhóm bên ngoài** - ngoài nhóm cho phép người dùng bên ngoài. Phạm vi của một người dùng bên ngoài truy cập bị giới hạn đến nhóm bên ngoài. Với các nhóm bên ngoài, bạn chỉ có thể mời các số liên lạc từ Yammer mạng cho phép người dùng tham gia vào cuộc đàm thoại bên ngoài.
+2. **Người dùng bên ngoài trong nhóm bên ngoài** -nhóm bên ngoài cho phép người dùng bên ngoài. Phạm vi truy cập của người dùng bên ngoài được giới hạn ở nhóm bên ngoài. Với các nhóm bên ngoài, bạn chỉ có thể mời liên hệ từ mạng yammer cho phép người dùng tham gia vào các cuộc trò chuyện bên ngoài.
 
-3. **Người dùng bên ngoài trong một cuộc trò chuyện Yammer trong nhóm nội bộ** - tùy chọn này cho phép các học viên bên ngoài để được thêm vào một cuộc hội thoại cụ thể. Người tham gia bên ngoài chỉ có thể tham gia vào các cuộc đàm thoại, họ có được một cách rõ ràng mời đến và bất kỳ tập tin đính kèm trong cuộc hội thoại đó. Họ truy cập các cuộc hội thoại qua của hộp thư đến Yammer (trên mạng của họ). Họ đã không có quyền truy cập vào phần còn lại của mạng của bạn.
+3. **Người dùng bên ngoài trong cuộc hội thoại yammer trong một nhóm nội bộ** -tùy chọn này cho phép người tham gia bên ngoài được thêm vào một cuộc trò chuyện cụ thể. Người tham gia bên ngoài chỉ có thể tham gia vào các cuộc trò chuyện mà họ đã được mời và đến bất kỳ tệp đính kèm nào trong cuộc trò chuyện đó. Họ truy cập các cuộc hội thoại này qua hộp thư đến yammer (trên mạng của họ). Họ không có quyền truy cập vào phần còn lại của mạng của bạn.
 
-4. **Mạng lưới bên ngoài** - tùy chọn này cho phép bạn để mời người dùng bên ngoài với một mạng bên ngoài xác nhận quản trị viên có thể tạo ra trong mạng của bạn. Tùy chọn này là tốt nhất để lưu trữ bên ngoài cộng đồng.
+4. **Mạng bên ngoài** -tùy chọn này cho phép bạn mời người dùng bên ngoài đến mạng bên ngoài mà quản trị viên đã xác minh có thể tạo trong mạng của bạn. Tùy chọn này phù hợp nhất để lưu trữ các cộng đồng bên ngoài.
 
-Để biết thêm chi tiết, xin vui lòng xem [thêm bên ngoài người tham gia nhắn tin của cuộc đàm thoại Yammer](https://support.office.com/article/add-external-messaging-participants-to-your-yammer-conversations-423653bb-86b2-4eac-9d7e-dca121f7c16c?ui=en-US&amp;rs=en-US&amp;ad=US) và [Hỏi đáp tin nhắn bên ngoài (Yammer)](https://support.office.com/article/External-messaging-FAQ-Yammer-35b59d6c-bb1c-4541-bf19-9f67d2f2b199)
+Để biết thêm thông tin, vui lòng xem [Thêm người tham gia nhắn tin bên ngoài vào cuộc trò chuyện yammer](https://docs.microsoft.com/yammer/work-with-external-users/add-external-participants) và [câu hỏi thường gặp về nhắn tin bên ngoài (yammer)](https://docs.microsoft.com/yammer/work-with-external-users/external-messaging-faq)
   

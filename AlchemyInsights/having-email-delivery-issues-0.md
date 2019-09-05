@@ -1,5 +1,5 @@
 ---
-title: Có vấn đề phân phối email?
+title: Có vấn đề về gửi email?
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 8/21/2017
@@ -13,22 +13,21 @@ ms.custom:
 - "875"
 - "876"
 - "3100010"
-ms.openlocfilehash: a18878032c2da76c930c6d4d3fa572f46350de39
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 031b79da47892b4449bfd3d6f1157d1c41e60473
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523389"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739803"
 ---
-# <a name="having-email-delivery-issues"></a>Có vấn đề phân phối email?
+# <a name="having-email-delivery-issues"></a>Có vấn đề về gửi email?
 
-Chúng tôi đã phát hiện rằng người dùng của bạn không nhận được email được gửi đến domain(s) sau:
+Chúng tôi đã phát hiện ra rằng người dùng của bạn không thể nhận email được gửi đến (các) miền sau:
   
 {HealthCheckString}
   
-Các bản ghi NS hoặc MX cài đặt tên miền (DNS) không phải là cấu hình đúng để gửi email đến bạn dịch vụ Office 365. Bạn có thể tham khảo để [Cập Nhật DNS hồ sơ trong Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) để được hướng dẫn chi tiết.
+Các bản ghi NS hoặc MX của miền (DNS) cài đặt không được cấu hình đúng để gửi email đến dịch vụ Office 365 của bạn. Bạn có thể tham khảo [tạo bản ghi DNS tại bất kỳ nhà cung cấp dịch vụ lưu trữ DNS cho Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) để được hướng dẫn chi tiết.
   
-Để khắc phục nó, xin vui lòng đến trang [miền](https://admin.microsoft.com/adminportal/home#/Domains) Trung tâm quản trị Microsoft 365, và chúng tôi sẽ giúp bạn với nó.
+Để khắc phục sự cố, hãy đi tới trang [miền](https://admin.microsoft.com/adminportal/home#/Domains) trong Trung tâm quản trị Microsoft 365 và chúng tôi sẽ giúp bạn.
   
-[Kiểm tra hỏi đáp tên miền](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) cho các giải pháp phổ biến khác.
   

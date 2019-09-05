@@ -12,22 +12,22 @@ ms.assetid: ''
 ms.custom:
 - "9000191"
 - "2382"
-ms.openlocfilehash: 067756fb7a411a2c75de1c61c3b57e78a07046da
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9638ce92fc0cda83999f64da278a827e0ba32584
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36526053"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36740055"
 ---
 # <a name="external-user-cannot-access-content"></a>Người dùng bên ngoài không thể truy cập nội dung
 
-Nếu một người dùng bên ngoài đã được mời tham gia và không thể truy cập vào nội dung, hãy thử truy cập vào liên kết dưới đây:
+Nếu người dùng bên ngoài đã được mời và không thể truy cập nội dung, vui lòng thử tham khảo các liên kết dưới đây:
 
-- ["Truy cập chối", "Bạn cần có quyền truy cập vào trang web này", hay "Người sử dụng không tìm thấy trong thư mục" lỗi trong SharePoint Online và OneDrive cho doanh nghiệp](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
-- ["Chính sách của tổ chức của bạn không cho phép bạn chia sẻ với những người dùng" lỗi khi chia sẻ một mục hoặc các trang web trong SharePoint Online hoặc OneDrive cho doanh nghiệp](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
-- [Tùy chọn chia sẻ màu xám ra ngoài khi chia sẻ từ OneDrive hoặc SharePoint Online](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
-- [Thông báo lỗi khi một người dùng bên ngoài chấp nhận một lời mời SharePoint Online bằng cách sử dụng một tài khoản khác](https://support.office.com/article/Error-message-when-an-external-user-accepts-a-SharePoint-Online-invitation-by-using-another-account-f0d34413-ea7c-42c7-a485-c4e5d421e5f0-)
-- [OSE chia sẻ lỗi trong SharePoint và OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
+- ["Truy cập từ chối", "bạn cần quyền truy cập vào trang web này", hoặc "người dùng không tìm thấy trong thư mục" lỗi trong SharePoint trực tuyến và OneDrive dành cho doanh nghiệp](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
+- ["Chính sách tổ chức của bạn không cho phép bạn chia sẻ với những người dùng này" lỗi khi chia sẻ một mục hoặc trang web trong SharePoint trực tuyến hoặc OneDrive dành cho doanh nghiệp](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
+- [Tùy chọn chia sẻ được tô xám khi chia sẻ từ SharePoint Online hoặc OneDrive](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
+- [Thông báo lỗi khi người dùng bên ngoài chấp nhận lời mời SharePoint trực tuyến bằng cách sử dụng tài khoản khác](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
+- [Lỗi chia sẻ OSE trong SharePoint và OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: 912 các hộp thư đến tập trung cấu hình cho tất cả mọi người trong tổ chức của bạn
+title: 912 cấu hình hộp thư đến tập trung cho tất cả mọi người trong tổ chức của bạn
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,15 +12,15 @@ ms.custom:
 - "912"
 - "1800019"
 ms.assetid: bad7a7f6-0c68-497a-8637-aae49355034a
-ms.openlocfilehash: d5b8825bede8ff17a10dba09f269320e17b13354
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 672348fa3f34157c190b6d986309b8ed141e02f2
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504737"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738435"
 ---
-# <a name="turn-focused-inbox-on-or-off-for-everyone"></a>Bật tập trung vào hộp thư đến hoặc tắt cho tất cả mọi người
+# <a name="turn-focused-inbox-on-or-off-for-everyone"></a>Bật hoặc tắt hộp thư đến tập trung cho mọi người
 
-Để được hướng dẫn, hãy xem [Đặt cấu hình tập trung vào hộp thư đến cho tất cả mọi người trong tổ chức của bạn](https://support.office.com/article/613a845c-4b71-41de-b331-acdcf5b6625d.aspx).
+Để biết hướng dẫn, hãy xem [cấu hình hộp thư đến tập trung cho mọi người trong tổ chức của bạn](https://docs.microsoft.com/office365/admin/setup/configure-focused-inbox).
 
-**Lưu ý**: thủ tục này yêu cầu trao đổi trực tuyến PowerShell. Bạn có muốn làm điều này trong Trung tâm quản trị Microsoft 365 thay vào đó? [Bỏ phiếu ở đây!](https://go.microsoft.com/fwlink/p/?linkid=862489)
+**Lưu ý**: quy trình này yêu cầu Exchange Online PowerShell. Bạn có muốn làm điều này trong Trung tâm quản trị Microsoft 365 thay thế? [Bình chọn ở đây!](https://go.microsoft.com/fwlink/p/?linkid=862489)

@@ -1,6 +1,6 @@
 ---
-title: Truy cập vào dịch vụ hưu trí
-ms.author: kirks
+title: Truy cập Dịch vụ nghỉ hưu
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
@@ -10,26 +10,26 @@ ms.custom:
 - "9000356"
 - "2009"
 ms.assetid: ''
-ms.openlocfilehash: 8886d7a6fad49e942e17f6a2f3c98542f87aae0b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 197366882468ebc87fc26f2fe2733371790d1871
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495773"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36747813"
 ---
-# <a name="access-services-retirement"></a>Truy cập vào dịch vụ hưu trí
+# <a name="access-services-retirement"></a>Truy cập Dịch vụ nghỉ hưu
 
-Như chúng tôi ban đầu được công bố trong MC97576, vào tháng 3 năm 2017, và tiếp tục để giao tiếp trong những năm qua dịch vụ truy cập đang bị rút lui khỏi Office 365. Giai đoạn tiếp theo trong quá trình này sẽ loại bỏ các quyền truy cập cơ sở dữ liệu Web mà sử dụng danh sách SharePoint như là của họ lưu trữ dữ liệu nằm bên dưới.
+Như chúng tôi ban đầu được công bố trong MC97576, vào tháng ba 2017, và tiếp tục giao tiếp trong năm qua truy cập Dịch vụ đang được nghỉ hưu từ văn phòng 365. Giai đoạn tiếp theo trong quá trình này sẽ là loại bỏ truy cập web cơ sở dữ liệu sử dụng danh sách SharePoint như lưu trữ dữ liệu cơ bản của họ.
 
-**Làm thế nào để điều này ảnh hưởng đến tôi?**
+**Điều này ảnh hưởng đến tôi như thế nào?**
 
-Bắt đầu từ tháng sáu 2019, chúng tôi sẽ ngừng các sáng tạo mới truy cập cơ sở dữ liệu trong SharePoint Online và tắt các dịch vụ và bất kỳ ứng dụng còn lại của tháng tư năm 2020.
+Bắt đầu từ ngày 2019 tháng 6, chúng tôi sẽ ngừng tạo cơ sở dữ liệu Access mới trong SharePoint Online và tắt dịch vụ và bất kỳ ứng dụng còn lại nào vào tháng 2020.
 
-**Những gì tôi cần làm để chuẩn bị cho sự thay đổi này?**
+**Tôi cần làm gì để chuẩn bị cho sự thay đổi này?**
 
-Chúng tôi khuyến khích bạn tạo ra một kế hoạch chuyển đổi cho tổ chức của bạn truy cập trang web cơ sở dữ liệu. Quản trị viên có thể sử dụng [SharePoint truy cập ứng dụng quét](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner) để có một hàng tồn kho của các ứng dụng truy cập các trang web đang sử dụng.
+Chúng tôi khuyến khích bạn tạo một kế hoạch chuyển tiếp cho cơ sở dữ liệu Web Access của tổ chức bạn. Quản trị viên có thể sử dụng [máy quét ứng dụng SharePoint Access](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner) để lấy hàng tồn kho của các ứng dụng truy cập mà các trang web đang sử dụng.
 
-Có rất nhiều cách để di chuyển các dữ liệu cơ sở dữ liệu truy cập web:
+Có một số cách để di chuyển dữ liệu truy cập cơ sở dữ liệu web:
 
-- Nhập khẩu để cơ sở dữ liệu truy cập địa phương (. ACCDB) hoặc vào một tập tin Excel.
-- Chúng tôi cũng khuyên bạn nên khám phá Microsoft PowerApps như là một nền tảng thay thế để tạo ra không có mã số doanh nghiệp giải pháp cho web và các thiết bị di động.
+- Nhập vào cơ sở dữ liệu Access cục bộ (. ACCDB) hoặc tệp Excel.
+- Chúng tôi cũng khuyên bạn nên khám phá Microsoft PowerApps như một nền tảng thay thế để tạo các giải pháp kinh doanh không có mã cho các thiết bị web và di động.

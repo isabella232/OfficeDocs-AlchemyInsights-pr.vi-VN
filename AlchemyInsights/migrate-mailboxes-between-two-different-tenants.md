@@ -1,5 +1,5 @@
 ---
-title: Di chuyển hộp thư giữa hai người thuê nhà khác nhau
+title: Di chuyển hộp thư giữa hai người thuê khác nhau
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,16 +13,16 @@ ms.custom:
 - "684"
 - "3500008"
 ms.assetid: b9f57026-5f1f-48a8-805f-56b31f83314e
-ms.openlocfilehash: 974858539f1a28929e98c5ade1d8358ef04b2496
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0c0cebc33b8277689631e2eb0530efb8789ad7e7
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36544669"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734475"
 ---
-# <a name="migrate-mailboxes-between-two-different-tenants"></a>Di chuyển hộp thư giữa hai người thuê nhà khác nhau
+# <a name="migrate-mailboxes-between-two-different-tenants"></a>Di chuyển hộp thư giữa hai người thuê khác nhau
 
-Bạn có thể cần phải di chuyển hộp thư giữa hai khác nhau người thuê nhà trong Office 365, ví dụ, khi có những vụ sáp nhập tổ chức. Những cuộc di cư nên được lên kế hoạch cẩn thận. Xin vui lòng xem hướng dẫn sau đây:
+Bạn có thể cần phải di chuyển hộp thư giữa hai người thuê khác nhau trong Office 365, ví dụ: khi có tổ chức sáp nhập. Những di cư phải được lên kế hoạch cẩn thận. Vui lòng xem hướng dẫn sau:
   
-[Làm thế nào để di chuyển hộp thư từ một người thuê nhà Office 365 khác](https://support.office.com/article/how-to-migrate-mailboxes-from-one-office-365-tenant-to-another-65af7d77-3e79-44d4-9173-04fd991358b7)
+[Làm thế nào để di chuyển hộp thư từ một Office 365 thuê khác](https://docs.microsoft.com/Exchange/mailbox-migration/migrate-mailboxes-across-tenants)
   
