@@ -1,6 +1,6 @@
 ---
-title: Cơ sở hạ tầng xuất bản với một trang web thông tin liên lạc
-ms.author: kirks
+title: Xuất bản cơ sở hạ tầng với một trang web truyền thông
+ms.author: pebaum
 author: Techwriter40
 ms.date: 1/14/2019
 ms.audience: ITPro
@@ -9,18 +9,18 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: de63d2e1-f053-40ed-ac1a-041ddafefba0
-ms.openlocfilehash: fb6607f90369f2b98aa3e957132c8c97182cc13b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 66e133f427913282e21fb8edb9f9b2b2294734f8
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36553704"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36752414"
 ---
-# <a name="publishing-infrastructure-with-a-communication-site"></a>Cơ sở hạ tầng xuất bản với một trang web thông tin liên lạc
+# <a name="publishing-infrastructure-with-a-communication-site"></a>Xuất bản cơ sở hạ tầng với một trang web truyền thông
 
 
-Cho phép các tính năng SharePoint Server cơ sở hạ tầng xuất bản là **không được hỗ trợ** với các trang web thông tin liên lạc. 
+Cho phép tính năng SharePoint Server xuất bản cơ sở hạ tầng **không được hỗ trợ** với các trang web truyền thông. 
   
-Để biết thêm chi tiết, xem [các trang web di chuyển từ xuất bản đến giao tiếp các trang web](https://docs.microsoft.com/sharepoint/publishing-sites-classic-to-modern-experience). 
+Để biết thêm thông tin, xem [chuyển từ các trang web xuất bản sang các trang web truyền thông](https://docs.microsoft.com/sharepoint/publishing-sites-classic-to-modern-experience). 
   
 

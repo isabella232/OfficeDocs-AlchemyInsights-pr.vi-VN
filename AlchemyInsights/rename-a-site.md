@@ -1,6 +1,6 @@
 ---
 title: Đổi tên một trang web
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.date: 9/7/2018
 ms.audience: ITPro
@@ -11,16 +11,16 @@ ms.custom:
 - "977"
 - "5300028"
 ms.assetid: f5c85f1b-4ed6-441c-8f5d-d3e4713fb98d
-ms.openlocfilehash: 3523b50a0d0eba7c65cd9e740bd4adcc918130ff
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ee92e2687da9e72d8551e74a0d179bf2c50f2adb
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36552913"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36752198"
 ---
-# <a name="rename-a-sharepoint-site"></a>Đổi tên trang web SharePoint
+# <a name="rename-a-sharepoint-site"></a>Đổi tên một trang web SharePoint
 
-Để thay đổi tên của một trang web, ví dụ, từ https://contoso.sharepoint.com/sites/sample1 để https://contoso.sharepoint.com/sites/sample2, bạn cần phải tạo ra một trang web mới và sau đó di chuyển tất cả các nội dung từ các trang web cũ sang mới. Để xem thông tin về di chuyển khoản mục trong thư viện tài liệu, hãy xem [di chuyển hoặc sao chép các mục từ một thư viện tài liệu SharePoint](https://go.microsoft.com/fwlink/?Linkid=2018691).
+Để thay đổi tên của một trang web, ví dụ, https://contoso.sharepoint.com/sites/sample1 từ https://contoso.sharepoint.com/sites/sample2đến, bạn cần phải tạo một trang web mới và sau đó di chuyển tất cả các nội dung từ các trang web cũ đến mới. Để biết thông tin về di chuyển các mục trong thư viện tài liệu, xem [di chuyển hoặc sao chép các mục từ thư viện tài liệu SharePoint](https://go.microsoft.com/fwlink/?Linkid=2018691).
   
-Lưu ý: Nếu bạn đang cố gắng để thay đổi tên miền (có nghĩa là, contoso phần của URL ở trên) trong SharePoint Online URL, đó là không thể. Hãy xem [thay đổi tên miền của bạn](https://go.microsoft.com/fwlink/?Linkid=2018696).
+Lưu ý: nếu bạn đang cố gắng thay đổi tên miền (nghĩa là, phần contoso của URL ở trên) trong một URL SharePoint trực tuyến, không thể. Xem [thay đổi tên miền của bạn](https://go.microsoft.com/fwlink/?Linkid=2018696).
   

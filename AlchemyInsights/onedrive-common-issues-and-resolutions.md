@@ -1,5 +1,5 @@
 ---
-title: Những vấn đề chung của OneDrive và nghị quyết
+title: Vấn đề và giải pháp phổ biến OneDrive
 ms.author: efrene
 author: efrene
 manager: pamgreen
@@ -11,20 +11,20 @@ ms.collection: Admin_O365
 ms.custom:
 - "9000293"
 - "1901"
-ms.openlocfilehash: ffd92db8c2ff810e1cc12dae3cf9a5cb559a8f9d
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 1aaac66a914b159dad64cce0950e46b04bf4685a
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36660886"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734295"
 ---
-# <a name="onedrive-common-issues-and-resolutions"></a>Những vấn đề chung của OneDrive và nghị quyết
+# <a name="onedrive-common-issues-and-resolutions"></a>Vấn đề và giải pháp phổ biến OneDrive
 
-Dưới đây là một số chủ đề thường xuyên được yêu cầu liên quan đến OneDrive vấn đề:
+Dưới đây là một số chủ đề thường xuyên được yêu cầu liên quan đến vấn đề OneDrive:
 
-- **Thiết lập OneDrive Sync**: [đồng bộ OneDrive của bạn cho các tập tin kinh doanh](https://go.microsoft.com/fwlink/?linkid=533375) hoặc [SharePoint tệp đồng bộ](https://go.microsoft.com/fwlink/?linkid=871666) với OneDrive sync client cho Windows.  Sử dụng máy Mac? Bạn có thể [đồng bộ hóa tệp với OneDrive](https://support.office.com/article/Sync-files-with-the-OneDrive-sync-client-on-Mac-OS-X-d11b9f29-00bb-4172-be39-997da46f913f) với nó là tốt.
+- **Thiết lập Onedrive Sync**: [đồng bộ onedrive của bạn cho tệp doanh nghiệp](https://go.microsoft.com/fwlink/?linkid=533375) hoặc [đồng bộ hoá SharePoint tệp](https://go.microsoft.com/fwlink/?linkid=871666) với khách hàng đồng bộ onedrive cho Windows.  Sử dụng máy Mac? Bạn cũng có thể [đồng bộ hóa các tệp với OneDrive](https://support.office.com/article/Sync-files-with-the-OneDrive-sync-client-on-Mac-OS-X-d11b9f29-00bb-4172-be39-997da46f913f) với nó.
 
-- **Khắc phục sự cố đồng bộ OneDrive**: OneDrive nếu không phải là đồng bộ hóa tập tin theo cách mà bạn mong đợi, bạn có thể [gỡ rối các vấn đề đồng bộ OneDrive](https://go.microsoft.com/fwlink/?linkid=866431) cho Windows. Sử dụng máy Mac? Bạn có thể [gỡ rối các vấn đề đồng bộ](https://support.office.com/article/fix-onedrive-sync-problems-on-a-mac-af3012d7-13ec-4ac9-bbb1-ebcd2a0cd756?ui=en-US&rs=en-US&ad=US) cho nó như là tốt.
-- **Giới hạn OneDrive**: tìm hiểu về [giới hạn và hạn chế](https://support.office.com/article/Invalid-file-names-and-file-types-in-OneDrive-OneDrive-for-Business-and-SharePoint-64883a5d-228e-48f5-b3d2-eb39e07630fa) áp dụng cho tên tập tin và loại tập tin khi đồng bộ với OneDrive.
-- **Lưu trữ OneDrive**: xem làm thế nào để [thay đổi dung lượng lưu trữ OneDrive người dùng cụ thể](https://docs.microsoft.com/onedrive/change-user-storage) hoặc [quản lý của OneDrive cho doanh nghiệp lưu trữ](https://support.office.com/article/Manage-your-OneDrive-for-Business-storage-31519161-059C-4764-B6F8-F5CD29F7FE68).
-- **Kiểm tra các bản ghi**: xem như thế nào bạn có thể [sử dụng kiểm tra Nhật ký tìm kiếm](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log) để kiểm tra hoạt động của các tệp, cặp, () người dùng hoặc cấp phép. 
+- **Khắc phục sự cố Sync onedrive**: nếu Onedrive không đồng bộ hóa tệp theo cách bạn muốn, bạn có thể [khắc phục sự cố đồng bộ OneDrive](https://go.microsoft.com/fwlink/?linkid=866431) cho Windows. Sử dụng máy Mac? Bạn cũng có thể [khắc phục sự cố đồng bộ hóa](https://support.office.com/article/fix-onedrive-sync-problems-on-a-mac-af3012d7-13ec-4ac9-bbb1-ebcd2a0cd756) cho nó.
+- **Giới hạn OneDrive**: tìm hiểu về các [hạn chế và giới hạn](https://support.office.com/article/Invalid-file-names-and-file-types-in-OneDrive-OneDrive-for-Business-and-SharePoint-64883a5d-228e-48f5-b3d2-eb39e07630fa) áp dụng cho tên tệp và loại tệp khi đồng bộ hoá với OneDrive.
+- **Lưu trữ onedrive**: xem cách [thay đổi không gian lưu trữ onedrive của người dùng cụ thể](https://docs.microsoft.com/onedrive/change-user-storage) hoặc [quản lý lưu trữ onedrive cho doanh nghiệp của bạn](https://support.office.com/article/Manage-your-OneDrive-for-Business-storage-31519161-059C-4764-B6F8-F5CD29F7FE68).
+- **Nhật ký kiểm**tra: xem cách bạn có thể [sử dụng tìm kiếm Nhật ký kiểm](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log) tra để kiểm tra hoạt động của (các) tệp, cặp (s), người dùng (s) hoặc quyền. 

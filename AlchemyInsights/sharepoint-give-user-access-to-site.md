@@ -1,6 +1,6 @@
 ---
-title: Truy cập yêu cầu tính năng
-ms.author: kirks
+title: Tính năng yêu cầu truy cập
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.date: 11/14/2018
@@ -11,28 +11,28 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: 059eeab6cc3aa14f90258edc39144bc6bce928c0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 14ae1064de9e26a4b9d9540205020af11ca2daee
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36503837"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36751550"
 ---
-# <a name="give-users-access-to-sharepoint-site"></a>Cung cấp cho người dùng truy cập đến trang web SharePoint
+# <a name="give-users-access-to-sharepoint-site"></a>Cấp cho người dùng quyền truy cập vào trang web SharePoint
 
-Các tính năng yêu cầu quyền truy cập cho phép mọi người để yêu cầu quyền truy cập vào nội dung mà họ hiện tại không có sự cho phép để xem. Như là một chủ sở hữu trang web, bạn có thể cấu hình các tính năng để gửi cho bạn thư khi ai đó yêu cầu quyền truy cập vào một trang web. Để biết thêm chi tiết, vui lòng truy cập [thiết lập và quản lý các yêu cầu truy cập](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3).
+Tính năng yêu cầu truy cập cho phép người khác yêu cầu quyền truy cập vào nội dung mà họ hiện không có quyền xem. Là chủ sở hữu trang web, bạn có thể định cấu hình tính năng này để gửi thư cho bạn khi ai đó yêu cầu quyền truy cập vào một trang web. Để biết thêm thông tin, vui lòng truy cập [thiết lập và quản lý yêu cầu truy cập](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3).
 
 Dưới đây là một số liên kết phổ biến liên quan đến yêu cầu truy cập:
 
-- [Truy cập chối"để yêu cầu truy cập danh sách hoặc"Yêu cầu phê duyệt đã thất bại"khi bạn xử lý một yêu cầu đang chờ xử lý trong SharePoint Online](https://support.office.com/article/-Access-Denied-to-Access-Requests-list-or-Request-approval-failed-when-you-process-a-pending-request-in-SharePoint-Online-3ec71fe1-9111-4a4c-84a5-bdfe05c2e558)
+- [Truy cập bị từ chối "để truy cập yêu cầu danh sách hoặc" yêu cầu phê duyệt không thành công "khi bạn xử lý yêu cầu chờ trong SharePoint trực tuyến](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/request-approval-failed)
 
-- [Yêu cầu truy cập thay đổi thiết đặt](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#bk_enableallow)
+- [Thay đổi cài đặt yêu cầu truy cập](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#bk_enableallow)
 
-- [Phê chuẩn hoặc từ chối yêu cầu truy cập một trang web](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc374462558)
+- [Phê duyệt hoặc từ chối yêu cầu truy cập cho một trang web](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc374462558)
 
-- [Quản lý lời mời đến người dùng bên ngoài (SharePoint Online chỉ)](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc334189260)
+- [Quản lý lời mời cho người dùng bên ngoài (chỉ SharePoint trực tuyến)](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc334189260)
 
-- [Gửi lời mời](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc374462560)
+- [Gửi lại lời mời](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc374462560)
 
 
 
