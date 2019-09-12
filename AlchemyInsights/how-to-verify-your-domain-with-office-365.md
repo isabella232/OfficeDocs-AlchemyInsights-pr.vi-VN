@@ -1,5 +1,5 @@
 ---
-title: Làm thế nào để xác minh tên miền của bạn với Office 365
+title: Làm thế nào để xác minh miền của bạn với Office 365
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.audience: ITPro
@@ -13,16 +13,16 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: 1621b58ca82f91645c7b46d962bd76290161b39f
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 7e6586f4ba0b7f65fe16a040208ff56ec4ca1985
+ms.sourcegitcommit: 52605656a92e31d3bf65f90ba427f56e87d6a221
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664108"
+ms.lasthandoff: 09/11/2019
+ms.locfileid: "36851742"
 ---
-# <a name="how-to-verify-your-domain-with-office-365"></a>Làm thế nào để xác minh tên miền của bạn với Office 365
+# <a name="how-to-verify-your-domain-with-office-365"></a>Làm thế nào để xác minh miền của bạn với Office 365
 
-Để xác minh tên miền của bạn, bạn sẽ cần phải thêm bản ghi TXT để đăng ký tên miền của bạn để xác minh rằng bạn sở hữu tên miền của bạn. Đầu tiên, hãy làm theo [thuật sĩ Thêm miền](https://portal.office.com/adminportal/home#/Domains) bằng cách chọn **cài đặt** \> **Domaisn**, và sau đó **Thêm tên miền**.
+Để xác minh miền của bạn, bạn sẽ cần phải thêm bản ghi TXT vào công ty đăng ký tên miền của mình để xác minh rằng bạn sở hữu miền của mình. Trước tiên, hãy làm theo [thuật sĩ Thêm tên miền](https://portal.office.com/adminportal/home#/Domains) bằng cách chọn **cài đặt** \> **miền**, và sau đó **Thêm tên miền**.
   
-Theo các chỉ dẫn trong [bản ghi DNS tạo ra ở bất kỳ nhà cung cấp DNS hosting cho Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) để thêm bản ghi TXT để xác minh tên miền của bạn.
+Làm theo hướng dẫn trong [tạo bản ghi DNS tại bất kỳ nhà cung cấp dịch vụ lưu trữ DNS nào cho Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) để thêm bản ghi TXT để xác minh miền của bạn.
   
