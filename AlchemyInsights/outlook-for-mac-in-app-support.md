@@ -1,5 +1,5 @@
 ---
-title: 1800009 outlook dành cho Mac trong ứng dụng hỗ trợ
+title: 1800009 Outlook dành cho Mac trong ứng dụng hỗ trợ
 ms.author: supravee
 author: supravee
 manager: scotv
@@ -12,15 +12,15 @@ ms.custom:
 - "135"
 - "1800009"
 ms.assetid: cd3fdff4-346c-4730-9a5e-de02fbb60613
-ms.openlocfilehash: 676c725f93432ef2086f378c0ddb21acd1815084
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: b151c74c0b35361b6edc91e3b68874717d8a2ba2
+ms.sourcegitcommit: a1af40d92fa9c6c0dda9ec5da3b4776400fbb857
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666826"
+ms.lasthandoff: 09/18/2019
+ms.locfileid: "37035777"
 ---
-# <a name="in-app-support-in-outlook-for-mac"></a>Trong app hỗ trợ ở Outlook dành cho Mac
+# <a name="in-app-support-in-outlook-for-mac"></a>Trong ứng dụng hỗ trợ trong Outlook dành cho Mac
 
-Để nhận được hỗ trợ trong ứng dụng Outlook cho Mac các vấn đề, mở Outlook và bấm **Trợ giúp** \> **Liên hệ hỗ trợ**. Loại câu hỏi của bạn, và một thành viên của Outlook dành cho Mac hỗ trợ đội ngũ sẽ liên lạc với bạn. 
+Nhận hỗ trợ trong ứng dụng cho Outlook dành cho Mac vấn đề, mở Outlook và bấm trợ **giúp** \> **liên hệ**. Nhập câu hỏi của bạn và một thành viên của nhóm hỗ trợ Outlook for Mac sẽ liên lạc với bạn. 
 
-[Liên hệ với hỗ trợ ở Outlook dành cho Mac](https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517)
+Tìm hiểu thêm: [liên hệ với hỗ trợ trong Outlook dành cho Mac](https://support.office.com//article/d0410177-8e65-4487-93f7-206a3a3d71a8)
