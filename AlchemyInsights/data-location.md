@@ -1,8 +1,7 @@
 ---
-title: Dữ liệu vị trí
+title: Vị trí dữ liệu
 ms.author: pebaum
 author: pebaum
-ms.date: 6/20/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +10,27 @@ ms.custom:
 - "945"
 - "5300023"
 ms.assetid: 3bab036c-dbaa-406a-8b73-1e5f31993436
-ms.openlocfilehash: b895dabc8d3513a2035b698fefb04a540810cfa3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0e683c8266d425be95e87c590d4cb5d56108721a
+ms.sourcegitcommit: 71978e2bb779b5955fd113f84512b83321b26912
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514187"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "37207283"
 ---
-# <a name="data-location"></a>Dữ liệu vị trí
+# <a name="data-location"></a>Vị trí dữ liệu
 
-Chúng tôi duy trì nhiều bản sao của dữ liệu của bạn qua Trung tâm dữ liệu cho dự phòng. [Xem dữ liệu của bạn nằm ở đâu](https://office.com/datamaps). Nếu chúng ta mở rộng vị trí của dữ liệu của bạn thành một quốc gia mới hoặc vùng, chúng tôi sẽ cung cấp cho bạn thông báo trước một tháng.
-  
-Để biết thêm chi tiết về bảo mật, quyền riêng tư và tuân thủ Office 365, xem [Trung tâm tin Office 365](https://products.office.com/business/office-365-trust-center-welcome).
-  
+Bạn có thể xem vị trí của người thuê văn phòng 365 trong Trung tâm quản trị hoặc bằng cách kết nối với Exchange Online qua PowerShell.
+
+
+**Trung tâm quản trị:**
+1. Đăng nhập vào [Trung tâm quản trị](https://admin.microsoft.com/Adminportal/Home).
+2. Chọn**cấu hình tổ chức** **cài đặt** > .
+3. Trong **vị trí dữ liệu**, chọn **xem chi tiết**.
+
+
+**Powershell:**
+1. Kết nối với Exchange Online bằng cách sử dụng Windows PowerShell.
+2. Thực hiện lệnh [Get-OrganizationalUnit](https://docs.microsoft.com/en-us/powershell/module/exchange/active-directory/get-organizationalunit) để hiển thị danh sách các thuộc tính của người thuê. 
+3. Xem thuộc tính OrganizationId.
+
+Khi bạn có vị trí dữ liệu cho EXO và SPO, bạn có thể xác định vị trí dữ liệu cho các dịch vụ khác mà bạn có thể sử dụng từ [nơi dữ liệu của bạn nằm ở đâu](https://products.office.com/where-is-your-data-located).
