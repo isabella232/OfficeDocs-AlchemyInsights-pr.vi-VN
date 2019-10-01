@@ -1,5 +1,5 @@
 ---
-title: Đội ca
+title: Các đội thay đổi
 ms.author: heidip
 author: heidip
 manager: dansimp
@@ -9,19 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 1686
-ms.openlocfilehash: fe1d3d099cdd94923d4010b11c12af878f5b0348
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.custom:
+- "1686"
+- "9000161"
+ms.openlocfilehash: 7c5e736d0ac66fb5a1398494b9ffe1164324e344
+ms.sourcegitcommit: 027bb52244f304b891143c72cccd89ac1a9a05aa
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34771328"
+ms.lasthandoff: 09/30/2019
+ms.locfileid: "37328692"
 ---
-# <a name="using-teams-shifts"></a>Bằng cách sử dụng các đội ca
+# <a name="using-teams-shifts"></a>Sử dụng thay đổi teams
 
-Ứng dụng thay đổi theo nhóm cho phép thời gian nhanh chóng và hiệu quả quản lý và giao tiếp cho các đội tiền tuyến. Nó cho phép quản lý và nhân viên sử dụng thiết bị di động của họ để quản lý lịch và giữ liên lạc.
+Để tìm hiểu thêm về ca cho teams, bao gồm cách di chuyển từ Microsoft Staffhub, hãy xem [thay đổi cho teams](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts-for-teams-landing-page). 
 
-Để tìm hiểu thêm xem [thay đổi cho các đội](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts-for-teams-landing-page). Bạn sẽ nhận được thông tin về làm thế nào để thay đổi và làm thế nào để thiết lập nó.
-
-Nếu bạn đã kích hoạt đã thay đổi, hãy đọc [bắt đầu bằng ca](https://support.office.com/article/get-started-in-shifts-5f3e30d8-1821-4904-be26-c3cd25a497d6) để tìm hiểu làm thế nào để tạo ra lịch trình.
+Microsoft Staffhub sẽ [ngừng](https://docs.microsoft.com/MicrosoftTeams/expand-teams-across-your-org/shifts/microsoft-staffhub-to-be-retired) hoạt động vào ngày 31 tháng 12, 2019. 
 
