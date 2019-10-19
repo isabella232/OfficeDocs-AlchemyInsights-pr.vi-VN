@@ -1,5 +1,5 @@
 ---
-title: Một nền đen xuất hiện, hoặc di động định dạng không nhìn bên phải
+title: Nền đen xuất hiện, hoặc định dạng ô không nhìn đúng
 ms.author: dludwig
 author: dludwig
 manager: jecon
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 92095f9c-4610-443c-8fc4-ddc49b2e6162
 ms.openlocfilehash: 879e482ed3cd80f2918e3cc56f2ba555bccc6f45
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36495989"
 ---
-# <a name="a-black-background-appears-or-cell-formatting-doesnt-look-right"></a>Một nền đen xuất hiện, hoặc di động định dạng không nhìn bên phải
+# <a name="a-black-background-appears-or-cell-formatting-doesnt-look-right"></a>Nền đen xuất hiện, hoặc định dạng ô không nhìn đúng
 
-Excel 2016, bạn có thể thấy một nền đen bất ngờ, hoặc bạn có thể thấy di động định dạng mà có vẻ không đúng. Điều này có thể xảy ra sau khi thêm một header hoặc footer trong xem bố trí trang, và áp dụng một mẫu điền vào một tế bào. Vấn đề này đã được cố định trong phiên bản 1708 (xây dựng 8431.2094). Để khắc phục điều này, bạn cần cập nhật lên phiên bản mới nhất của văn phòng. Chọn **tập tin** \> **tài khoản** \> **Cập Nhật tuỳ chọn** \> **Cập Nhật bây giờ**.
+Trong Excel 2016, bạn có thể thấy một nền đen bất ngờ, hoặc bạn có thể thấy định dạng ô không xuất hiện đúng. Điều này có thể xảy ra sau khi thêm một đầu trang hoặc chân trang trong Page Layout View, và áp dụng một mẫu điền vào một ô. Vấn đề này được khắc phục trong phiên bản 1708 (xây dựng 8431,2094). Để khắc phục sự cố này, Cập nhật lên phiên bản mới nhất của Office. Chọn **tệp** \> **tài khoản** \> **Cập nhật tùy chọn** \> **Cập Nhật ngay bây giờ**.
   
 

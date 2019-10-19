@@ -1,5 +1,5 @@
 ---
-title: Triển khai liên tục đăng nhập đơn
+title: Triển khai đăng nhập đơn liền mạch
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 998d9af8-91c6-4583-a752-dfbf21f7d9b8
 ms.openlocfilehash: 0d91638e3b4f3ab0912730dbda47c42d9ae19c16
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36512805"
 ---
-# <a name="enable-seamless-sso"></a>Sử SSO liền mạch
+# <a name="enable-seamless-sso"></a>Bật SSO liền mạch
 
-Azure Active Directory (Azure AD) liên tục đăng nhập đơn (SSO liền mạch) sẽ tự động đăng nhập người dùng khi họ đang ở trên của máy tính để bàn doanh nghiệp được kết nối với mạng công ty của bạn.
+Azure Active Directory (Azure AD) liền mạch một đăng nhập (liền mạch SSO) tự động dấu hiệu người dùng khi họ trên máy tính để bàn của công ty được kết nối với mạng công ty của bạn.
   
-[Làm theo các bước trong bài viết này để cho phép Seamless SSO](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start)
+[Làm theo các bước trong bài viết này để cho phép liền mạch SSO](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start)
   
 

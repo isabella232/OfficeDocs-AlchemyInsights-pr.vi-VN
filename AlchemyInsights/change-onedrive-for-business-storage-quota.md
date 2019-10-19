@@ -1,5 +1,5 @@
 ---
-title: Thay đổi OneDrive cho doanh nghiệp lưu trữ dung lượng
+title: Thay đổi dung lượng lưu trữ OneDrive cho doanh nghiệp
 ms.author: kaarins
 author: kaarins
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c8f0d578-272b-41f2-8a67-af363969203c
 ms.openlocfilehash: 52d8fd39b21b2ac8f1a9965981e8fdc536ea18f0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36519285"
 ---
 # <a name="change-the-default-onedrive-storage-space-for-your-users"></a>Thay đổi không gian lưu trữ OneDrive mặc định cho người dùng của bạn
 
-1. Đi đến [trang lưu trữ của Trung tâm quản trị OneDrive](https://admin.onedrive.com/?v=StorageSettings).
+1. Truy cập [trang lưu trữ của Trung tâm quản trị OneDrive](https://admin.onedrive.com/?v=StorageSettings).
     
-2. Nhập mặc định lưu trữ số lượng (GB) trong hộp **lưu trữ mặc định** , và sau đó nhấp vào **lưu**.
+2. Nhập dung lượng lưu trữ mặc định (bằng GB) trong hộp **lưu trữ mặc định** , sau đó bấm vào **lưu**.
     
-Cài đặt space lí này áp dụng cho tất cả người dùng mà bạn chưa thiết lập giới hạn dung lượng cụ thể. Để thay đổi không gian lưu trữ cho người dùng cụ thể, bạn cần phải sử dụng Microsoft PowerShell. Thông tin về làm thế nào để làm điều này, xem các [thay đổi người dùng OneDrive lượng lưu trữ bằng cách sử dụng PowerShell](https://go.microsoft.com/fwlink/?linkid=866402).
+Thiết đặt không gian lưu trữ này áp dụng cho tất cả người dùng mà bạn chưa đặt giới hạn lưu trữ cụ thể. Để thay đổi không gian lưu trữ cho người dùng cụ thể, bạn cần sử dụng Microsoft PowerShell. Để biết thông tin về cách thực hiện việc này, hãy xem [thay đổi dung lượng lưu trữ OneDrive của người dùng bằng PowerShell](https://go.microsoft.com/fwlink/?linkid=866402).
   
 

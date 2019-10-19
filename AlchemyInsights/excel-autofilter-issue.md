@@ -1,5 +1,5 @@
 ---
-title: Vấn đề Excel AutoFilter
+title: Vấn đề tự động lọc Excel
 ms.author: chrsm
 author: chrsm
 manager: jecon
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4ef9e25f-7ac3-46fc-af90-cb24ad1c99ce
 ms.openlocfilehash: 31a4294f7035f2ff69bb30b65261f5210fc1a3d0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36527197"
 ---
-# <a name="excel-autofilter-issue"></a>Vấn đề Excel AutoFilter
+# <a name="excel-autofilter-issue"></a>Vấn đề tự động lọc Excel
 
-Khi sử dụng Excel 2016, nếu bạn AutoFilter thả xuống không hiển thị tất cả các hộp kiểm tra có sẵn, hoặc hộp kiểm không nhấp, nó có thể là do một vấn đề được biết đến ở xây dựng trước đó của Excel. 
+Khi sử dụng Excel 2016, nếu thả xuống tự lọc của bạn không hiển thị tất cả các hộp kiểm có sẵn hoặc hộp kiểm không nhấp, nó có thể là do vấn đề trong các bản dựng trước của Excel. 
   
-Vấn đề này bây giờ cố định trong **Phiên bản năm 1707 (8326.2073)** hoặc sau đó. Để nhận được cập nhật ngay lập tức, mở Excel và chọn **File** \> **tài khoản** \> **Cập nhật tùy chọn** \> **Cập Nhật bây giờ**.
+Vấn đề này bây giờ là khắc phục trong **Phiên bản 1707 (8326,2073)** hoặc mới hơn. Để có được bản cập nhật ngay lập tức, mở Excel và chọn **tệp** \> **tài khoản** \> **Cập nhật tùy chọn** \> **Cập Nhật ngay bây giờ**.
   
 

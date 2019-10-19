@@ -1,5 +1,5 @@
 ---
-title: Thay đổi chính quyền MDM
+title: Thay đổi quyền MDM
 ms.author: sirkkuw
 author: Sirkkuw
 ms.date: 12/4/2018
@@ -9,26 +9,26 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 08c51aa6-cffc-456b-91fb-185f0d636afb
 ms.openlocfilehash: 6545798fe5e7702285b9e32cf635f3d7f672baeb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36519321"
 ---
-# <a name="change-intune-mdm-authority"></a>Thay đổi quyền lực dành MDM
+# <a name="change-intune-mdm-authority"></a>Thay đổi quyền MDM
 
-Bạn có thể thay đổi thẩm quyền MDM của bạn mà không cần mở một trường hợp hỗ trợ. Hãy xem các tài liệu sau đây để được hướng dẫn:
+Bạn có thể thay đổi quyền MDM của bạn mà không cần mở một trường hợp hỗ trợ. Xem các tài liệu sau để biết hướng dẫn:
   
-- [Thay đổi chính quyền MDM từ trình quản lý cấu hình để dành độc lập](https://docs.microsoft.com/sccm/mdm/deploy-use/migrate-change-mdm-authority)
+- [Thay đổi cơ quan MDM từ trình quản lý cấu hình để InTune độc lập](https://docs.microsoft.com/sccm/mdm/deploy-use/migrate-change-mdm-authority)
     
-- [Thay đổi chính quyền MDM từ dành độc lập để quản lý cấu hình](https://docs.microsoft.com/sccm/mdm/deploy-use/change-mdm-authority)
+- [Thay đổi cơ quan MDM từ InTune độc lập để quản lý cấu hình](https://docs.microsoft.com/sccm/mdm/deploy-use/change-mdm-authority)
     
- **MDM quyền đồng tồn tại**
+ **MDM Authority co-tồn tại**
   
-- Bạn có thể có cả hai chính quyền MDM hoạt động đồng thời nếu bạn đã có Office 365 MDM được kích hoạt, nhưng bạn muốn thử dành MDM.
+- Bạn có thể có cả hai chính quyền MDM hoạt động đồng thời nếu bạn đã có Office 365 MDM kích hoạt nhưng bạn muốn thử InTune MDM.
     
-- Quản trị viên đã có O365 MDM hoạt động đơn giản là có thể đánh dấu dành MDM là hoạt động từ cổng Azure.
+- Quản trị viên đã có O365 MDM hoạt động có thể chỉ cần đánh dấu InTune MDM hoạt động từ cổng Azure.
     
-- Nếu bạn đã dành MDM nhưng muốn sử dụng Office 365 MDM: xin vui lòng mở một vé dưới đây và một đại lý hỗ trợ sẽ giúp kích hoạt này cho bạn.
+- Nếu bạn có InTune MDM nhưng muốn làm cho việc sử dụng Office 365 MDM: hãy mở một vé dưới đây và một đại lý hỗ trợ sẽ giúp kích hoạt này cho bạn.
     
 

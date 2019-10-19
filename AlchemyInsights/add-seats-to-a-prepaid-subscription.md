@@ -1,5 +1,5 @@
 ---
-title: Thêm ghế cho một thuê bao trả trước
+title: Thêm chỗ ngồi vào đăng ký trả trước
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -14,27 +14,27 @@ ms.custom:
 - "1500007"
 ms.assetid: 9595e2e7-5f72-4b08-9e16-183fc6e9c108
 ms.openlocfilehash: 5c01fa5ea22686c2c79e7678823ffa7fe31c3f89
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36661030"
 ---
-# <a name="add-seats-to-a-prepaid-subscription"></a>Thêm ghế cho một thuê bao trả trước
+# <a name="add-seats-to-a-prepaid-subscription"></a>Thêm chỗ ngồi vào đăng ký trả trước
 
-Trả trước Office 365 giấy phép được cấp cho bạn như là một mã số 25 ký tự chữ và số. Sau khi bạn đã mua giấy phép bạn cần, bạn có thể thêm chúng vào đăng ký của bạn. 
+Giấy phép Office 365 trả trước được cấp cho bạn dưới dạng mã chữ số 25 ký tự. Sau khi bạn đã mua giấy phép bạn cần, bạn có thể thêm chúng vào đăng ký của bạn. 
 
-1. Trong Trung tâm quản trị, đi đến **thanh toán** > trang[sản phẩm & dịch vụ](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. Trong Trung tâm quản trị, hãy chuyển đến trang sản phẩm **thanh toán** > [& dịch vụ](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. Tìm các thuê bao mà bạn muốn thêm giấy phép. Trong phần **giấy phép** , hãy chọn **thêm nhiều giấy phép**.
+2. Tìm gói đăng ký bạn muốn thêm giấy phép vào. Trong phần **giấy phép** , chọn Thêm **giấy phép**khác.
 
-3. Trong cửa sổ **Add thêm giấy phép** , chọn **sử dụng một mã khóa sản phẩm mới và không sử dụng**, sau đó chọn **tiếp theo**.
+3. Trong ngăn **thêm giấy phép** khác, hãy chọn **sử dụng khóa sản phẩm mới và chưa dùng**, sau đó chọn **tiếp theo**.
 
 4. Nhập khóa sản phẩm, sau đó chọn **tiếp theo**.
 
     > [!NOTE]
-    > Nếu bạn có nhiều hơn một mã khóa sản phẩm, bạn có thể chọn **Thêm một sản phẩm quan trọng** để nhập chúng.
+    > Nếu bạn có nhiều hơn một khóa sản phẩm, bạn có thể chọn **Thêm một khóa sản phẩm khác** để nhập chúng.
 
-5. Xem lại chi tiết đơn đặt hàng của bạn, sau đó chọn **đổi**.
+5. Hãy đánh giá chi tiết đơn đặt hàng, sau đó chọn **đổi**.
 
-Để tìm hiểu thêm, hãy xem [thêm giấy phép hoặc gia hạn một thuê bao được thanh toán cho việc sử dụng một mã khóa sản phẩm](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).
+Để tìm hiểu thêm, hãy xem [thêm giấy phép vào hoặc mở rộng đăng ký trả tiền để sử dụng khóa sản phẩm](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).

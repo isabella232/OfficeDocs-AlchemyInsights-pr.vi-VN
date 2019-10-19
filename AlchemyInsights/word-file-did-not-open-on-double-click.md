@@ -1,5 +1,5 @@
 ---
-title: Word file không mở khi bấm đúp
+title: Tệp Word không mở trên bấm đúp
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,38 +12,38 @@ ms.custom:
 - "850"
 - "2100002"
 ms.openlocfilehash: aaf4cf8f22a81c601f41ef00080aeb1d8a7e2789
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36558207"
 ---
-# <a name="word-document-opened-in-the-wrong-app-or-didnt-open"></a>Tài liệu Word mở trong các ứng dụng sai hoặc không mở
+# <a name="word-document-opened-in-the-wrong-app-or-didnt-open"></a>Tài liệu Word được mở trong ứng dụng không đúng hoặc không mở
 
-Hãy thử một trong các đề xuất này:
+Hãy thử một trong những gợi ý:
 
-**Chọn từ như mặc định**
+**Chọn Word làm mặc định**
 
-- Nhấp chuột phải vào tài liệu, chọn **mở**, và sau đó chọn **từ**
+- Nhấp chuột phải vào tài liệu, chọn **mở bằng**, sau đó chọn **từ**
 
 **Chạy một sửa chữa nhanh chóng**
 
-1. Go to **Control Panel > chương trình > chương trình và tính năng**.
+1. Đi tới **Pa-nen điều khiển > chương trình > chương trình và tính năng**.
 
-2. Chọn sản phẩm văn phòng mà bạn muốn sửa chữa, và sau đó chọn **thay đổi**.
+2. Chọn sản phẩm Office bạn muốn sửa chữa, sau đó chọn **thay đổi**.
 
-3. Chọn tùy chọn **Nhanh chóng sửa chữa** , và sau đó chọn **sửa chữa**.
+3. Chọn tùy chọn **sửa chữa nhanh** , và sau đó chọn **sửa chữa**.
 
-**Gỡ bỏ cài đặt các phiên bản của văn phòng bạn không sử dụng**
+**Gỡ cài đặt phiên bản Office bạn không sử dụng**
 
-1. Đi đến **bảng điều khiển > gỡ bỏ cài đặt một chương trình**, và sau đó chọn các phiên bản của văn phòng bạn muốn loại bỏ.
+1. Đi tới **Pa-nen điều khiển > gỡ cài đặt chương trình**, sau đó chọn phiên bản Office bạn muốn loại bỏ.
 
 2. Nhấp vào **gỡ cài đặt**.
 
 3. Khởi động lại máy tính của bạn.
 
-**Chạy trình gỡ rối này để cài đặt phần mở rộng tệp Office để mở trong văn phòng**
+**Chạy trình khắc phục sự cố này để đặt phần mở rộng tệp Office mở trong Office**
 
-1. Chạy trình gỡ rối này: https://aka.ms/diag_officefile.
+1. Chạy trình khắc phục https://aka.ms/diag_officefilesự cố này:.
 
-2. Tùy thuộc vào trình duyệt của bạn, **mở** hoặc **lưu** trình gỡ rối máy tính để bàn của bạn, và sau đó **chạy** nó.
+2. Tùy thuộc vào trình duyệt của bạn, **mở** hoặc **lưu** bộ hướng dẫn giải quyết trục trặc vào máy tính của bạn, sau đó **chạy** nó.

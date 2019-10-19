@@ -1,5 +1,5 @@
 ---
-title: Xóa một trang web SharePoint
+title: Xoá một trang web SharePoint
 ms.author: stevhord
 author: bentoncity
 manager: scotv
@@ -12,42 +12,42 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
 ms.openlocfilehash: 19033fe2f700e940432428e212a5956fcc06b0e6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36514098"
 ---
-# <a name="delete-sites-that-belong-to-an-office-365-group"></a>Xóa trang web này thuộc về một nhóm Office 365
+# <a name="delete-sites-that-belong-to-an-office-365-group"></a>Xoá các trang web thuộc nhóm Office 365
 
-Khi người dùng tạo một trang web mới của đội bóng từ trang chủ SharePoint hoặc bạn tạo một trang web mới của đội bóng từ Trung tâm quản trị SharePoint mới, một nhóm Office 365 tương ứng được tự động tạo ra. Office 365 đội nhóm kết nối trang web cũng được tạo ra khi bạn tạo một nhóm hoặc một nhóm Office 365 trong Microsoft Teams. Để xóa một trang web SharePoint thuộc về một nhóm Office 365, bạn cần phải xoá nhóm Office 365 chính nó. 
+Khi người dùng tạo một trang web nhóm mới từ SharePoint Home hoặc bạn tạo một trang web nhóm mới từ Trung tâm quản trị SharePoint mới, nhóm Office 365 tương ứng được tạo tự động. Office 365 nhóm kết nối site nhóm cũng được tạo ra khi bạn tạo một nhóm Office 365 hoặc nhóm trong Microsoft teams. Để xoá một trang web SharePoint thuộc một nhóm Office 365, bạn phải xoá nhóm Office 365 chính nó. 
   
-1. Vào [nhóm trang Trung tâm quản trị Microsoft 365](https://portal.office.com/adminportal/home#/groups).
+1. Đi tới [trang nhóm của Trung tâm quản trị Microsoft 365](https://portal.office.com/adminportal/home#/groups).
     
-2. Chọn hộp kiểm bên cạnh các nhóm.
+2. Chọn hộp kiểm bên cạnh nhóm.
     
 3. Chọn **xóa**.
     
-Lưu ý: Khi bạn xoá một nhóm, có thể có một sự chậm trễ trước khi trang web được lấy ra từ SharePoint.
+CHÚ ý: khi bạn xoá một nhóm, có thể có độ trễ trước khi trang web bị xoá khỏi SharePoint.
   
-**Xóa thông tin trang web hoặc các trang web cổ điển:**
+**Xóa các trang web liên lạc hoặc các trang web cổ điển:**
 
-1. Đi đến trang web.
+1. Truy cập trang web.
   
-2. Nhấp vào biểu tượng **cài đặt** ở phía trên bên phải. 
+2. Nhấp vào biểu tượng **Settings** ở phía trên bên phải. 
   
-3. Nhấp vào **thiết lập trang web**. Theo **Trang thông tin** hoặc **Hành động của trang web**, nhấp vào **xóa trang web này**, và sau đó nhấp vào **xóa**.
+3. Nhấp vào **cài đặt trang web**. Trong **trang web thông tin** hoặc **trang web hoạt động**, bấm **xoá trang web này**, và sau đó bấm **xoá**.
   
-**Xóa một bộ sưu tập trang web SharePoint:**
+**Xoá bộ sưu tập trang web SharePoint:**
 
 Để xóa một trang web:
   
-1. Trong SharePoint quản trị Trung tâm mới, trên trang web, nhấp vào **hộp kiểm** bên cạnh các trang web mà bạn muốn xóa. 
+1. Trong Trung tâm quản trị SharePoint mới, trên trang web, bấm vào **hộp kiểm** bên cạnh trang web mà bạn muốn xóa. 
     
-2. Trên thanh công cụ ribbon, bấm vào **xóa.**
+2. Trên thanh công cụ ruy băng, bấm **xoá.**
     
 **Xóa một trang web do tai nạn?**
 
-Hãy xem [khôi phục một bộ sưu tập trang web đã bị xóa](https://go.microsoft.com/fwlink/?linkid=867660).
+Xem [khôi phục bộ sưu tập trang web đã xóa](https://go.microsoft.com/fwlink/?linkid=867660).
   
 

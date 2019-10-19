@@ -1,5 +1,5 @@
 ---
-title: Tìm các tập tin bị mất hoặc bị mất tích trong OneDrive hoặc SharePoint
+title: Tìm tệp bị mất hoặc thiếu trong OneDrive hoặc SharePoint
 ms.author: matteva
 author: pebaum
 manager: scotv
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d4de6b5e-5102-4e2c-af92-1f8b049c3a02
 ms.openlocfilehash: 911b8fffa673e578a7afb83cfff305e4f1806013
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36525441"
 ---
-# <a name="find-lost-or-missing-files-in-onedrive-or-sharepoint"></a>Tìm các tập tin bị mất hoặc bị mất tích trong OneDrive hoặc SharePoint
+# <a name="find-lost-or-missing-files-in-onedrive-or-sharepoint"></a>Tìm tệp bị mất hoặc thiếu trong OneDrive hoặc SharePoint
 
-- Kiểm tra thùng rác bằng cách duyệt đến OneDrive của bạn hoặc trên các trang web SharePoint, trang web và nhấp vào thùng rác trong khung bên trái. (Nếu bạn không thấy Recycle bin trong ngăn bên trái, nhấp vào biểu tượng cài đặt và sau đó chọn **nội dung trang web**. **Thùng rác** là trên bên phải của thanh lệnh ở phía trên). 
+- Kiểm tra thùng rác bằng cách duyệt OneDrive hoặc trang web SharePoint trên web và bấm thùng rác trong ngăn bên trái. (Nếu bạn không thấy thùng rác trong ngăn bên trái, hãy nhấp vào biểu tượng cài đặt, sau đó chọn **nội dung trang web**. **Recycle Bin** là ở phía bên phải của thanh lệnh ở trên cùng.) 
     
-- Nếu bạn đang đồng bộ hóa các tập tin trên máy tính của bạn, hãy kiểm tra thùng rác trên máy tính của bạn. 
+- Nếu bạn đang đồng bộ hóa các tệp trên máy tính của mình, hãy kiểm tra thùng rác trên máy tính của bạn. 
     
-- Nếu bạn không thấy mục bạn đang tìm kiếm, và nó đã được xóa gần đây, một bộ sưu tập trang web quản trị có thể khôi phục lại nó từ trang web bộ sưu tập thùng rác. Nếu bạn là quản trị viên bộ sưu tập trang web, hãy xem [khôi phục lại xóa các mặt hàng từ trang web bộ sưu tập thùng rác](https://go.microsoft.com/fwlink/?linkid=866439).
+- Nếu bạn không thấy mục bạn đang tìm kiếm, và nó đã bị xóa gần đây, quản trị viên bộ sưu tập trang web có thể khôi phục nó từ thùng rác bộ sưu tập trang web. Nếu bạn là quản trị viên bộ sưu tập trang web, xem [khôi phục các mục đã xoá từ bộ sưu tập trang web thùng](https://go.microsoft.com/fwlink/?linkid=866439)rác.
     
-[Thêm trợ giúp phục hồi xóa các tập tin và thư mục trong OneDrive](https://go.microsoft.com/fwlink/?linkid=872872)
+[Trợ giúp khôi phục tệp và thư mục đã xóa trong OneDrive](https://go.microsoft.com/fwlink/?linkid=872872)
   
 

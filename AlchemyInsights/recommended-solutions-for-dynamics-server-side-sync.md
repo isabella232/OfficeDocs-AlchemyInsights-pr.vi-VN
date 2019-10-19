@@ -1,5 +1,5 @@
 ---
-title: Động lực phía máy chủ đồng bộ giới thiệu giải pháp
+title: Dynamics Server-Side Sync khuyến nghị giải pháp
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,27 +11,27 @@ ms.custom:
 - "1454"
 - "1456"
 - "6200009"
-ms.openlocfilehash: 4fdcae9dbe524f5e552c8b4c8736d6795c394348
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1bd2fae31757ab4d890e1732b004edf594e3e724
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36509956"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "36745491"
 ---
-# <a name="dynamics-server-side-sync-recommended-solutions"></a>Động lực phía máy chủ đồng bộ giới thiệu giải pháp
+# <a name="dynamics-server-side-sync-recommended-solutions"></a>Giải pháp được khuyến nghị đồng bộ hóa phía máy chủ Dynamics
 
-* [Làm thế nào để xem chi tiết lỗi máy chủ được hiển thị trên cổng thông tin của tôi](https://docs.microsoft.com/dynamics365/customer-engagement/portals/view-portal-error-log)
+* [Cách xem lỗi máy chủ chi tiết hiển thị trên cổng thông tin của tôi](https://docs.microsoft.com/dynamics365/customer-engagement/portals/view-portal-error-log)
 
-* [Làm thế nào để thiết lập lại một cổng thông tin](https://docs.microsoft.com/dynamics365/customer-engagement/portals/reset-portal)
+* [Cách đặt lại cổng thông tin](https://docs.microsoft.com/dynamics365/customer-engagement/portals/reset-portal)
 
-* [Làm thế nào để xóa bộ nhớ cache phía máy chủ cho một cổng thông tin](https://docs.microsoft.com/dynamics365/customer-engagement/portals/clear-server-side-cache)
+* [Làm thế nào để xóa bộ nhớ cache phía máy chủ cho một cổng](https://docs.microsoft.com/dynamics365/customer-engagement/portals/clear-server-side-cache)
 
-* [Làm thế nào để thay đổi các đối tượng và các loại của một cổng Dynamics 365](https://support.microsoft.com/en-us/help/4091253/how-to-change-the-audience-and-type-of-a-dynamics-365-portal)
+* [Làm thế nào để thay đổi đối tượng và loại của một cổng Dynamics 365](https://support.microsoft.com//help/4091253/how-to-change-the-audience-and-type-of-a-dynamics-365-portal)
 
-* [Làm thế nào để thay đổi URL cơ sở của một cổng thông tin](https://docs.microsoft.com/dynamics365/customer-engagement/portals/change-base-url)
+* [Cách thay đổi URL cơ sở của cổng thông tin](https://docs.microsoft.com/dynamics365/customer-engagement/portals/change-base-url)
 
-* [Làm thế nào để cấu hình nhà cung cấp nhận dạng bên ngoài với cổng thông tin](https://docs.microsoft.com/dynamics365/customer-engagement/portals/configure-portal-authentication)
+* [Cách đặt cấu hình nhà cung cấp danh tính bên ngoài với cổng thông tin](https://docs.microsoft.com/dynamics365/customer-engagement/portals/configure-portal-authentication)
 
 * [Câu hỏi Thường gặp](https://support.microsoft.com/help/4456128/portal-capabilities-for-dynamics-365-faq)
 
-* [Bắt đầu với My Dynamics 365 Portal](https://docs.microsoft.com/dynamics365/customer-engagement/portals/manage-sharepoint-documents#step-2-set-up-sharepoint-integration-from-portal-admin-center)
+* [Bắt đầu với cổng thông tin 365 của tôi Dynamics](https://docs.microsoft.com/dynamics365/customer-engagement/portals/manage-sharepoint-documents#step-2-set-up-sharepoint-integration-from-portal-admin-center)

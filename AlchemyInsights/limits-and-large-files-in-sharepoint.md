@@ -1,5 +1,5 @@
 ---
-title: Giới hạn và các tập tin lớn trong SharePoint
+title: Giới hạn và tệp lớn trong SharePoint
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bda3a75d-23f8-44d9-a23a-0abbfdccf131
 ms.openlocfilehash: 20ab2b7effa92a6b3765f6469de2966cbd84e1be
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36497609"
 ---
-# <a name="files-that-cant-be-uploaded-to-sharepoint-online"></a>Các tập tin không thể được tải lên trực tuyến SharePoint
+# <a name="files-that-cant-be-uploaded-to-sharepoint-online"></a>Tệp không thể tải lên SharePoint trực tuyến
 
-Nếu một tập tin sẽ không tải lên SharePoint Online, hãy chắc chắn rằng:
+Nếu tệp không tải lên SharePoint Online, hãy đảm bảo:
   
-- Đó là ít hơn 15 GB trong kích thước.
+- Nó có kích thước nhỏ hơn 15 GB.
     
-- Đường dẫn toàn bộ, bao gồm các tên tập tin là ít hơn 400 ký tự.
+- Toàn bộ đường dẫn, bao gồm tên tệp, ít hơn 400 ký tự.
     
-- Tên tệp không chứa các ký tự " \* : \< \> ? / \ | và không phải trên danh sách các [tên không hợp lệ](https://go.microsoft.com/fwlink/?linkid=866430).
+- Tên tệp không chứa các ký tự " \* : \< \> ? / \ | và không có trong danh sách các [tên không hợp lệ](https://go.microsoft.com/fwlink/?linkid=866430).
     
-Nếu bạn đang cố gắng để tải lên các tập tin bằng cách sử dụng các ứng dụng máy tính để bàn OneDrive, hãy xem [giới hạn và hạn chế khi bạn đồng bộ hóa tập tin và thư mục](http://go.microsoft.com/fwlink/p/?LinkID=717734) hoặc [các vấn đề đồng bộ OneDrive sửa chữa](https://go.microsoft.com/fwlink/?linkid=866431).
+Nếu bạn đang cố gắng tải lên tệp bằng cách sử dụng ứng dụng OneDrive dành cho máy tính để bàn, hãy xem [hạn chế và giới hạn khi bạn đồng bộ hóa tệp và thư mục](http://go.microsoft.com/fwlink/p/?LinkID=717734) hoặc [khắc phục sự cố đồng bộ OneDrive](https://go.microsoft.com/fwlink/?linkid=866431).
   
 

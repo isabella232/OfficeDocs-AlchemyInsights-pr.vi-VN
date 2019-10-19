@@ -1,5 +1,5 @@
 ---
-title: Xoá các khoản mục trong SharePoint
+title: Xoá các mục trong SharePoint
 ms.author: stevhord
 author: bentoncity
 manager: scotv
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: af5691d7-a55f-4ece-90c8-d6aaece66b1c
 ms.openlocfilehash: 91f5d3647e6fe4be75f3ce15526d195d61f969c3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36513669"
 ---
-# <a name="delete-items-in-sharepoint"></a>Xoá các khoản mục trong SharePoint
+# <a name="delete-items-in-sharepoint"></a>Xoá các mục trong SharePoint
 
 [Xóa danh sách](https://go.microsoft.com/fwlink/?linkid=869393)
   
-[Xóa một thư viện tài liệu](https://go.microsoft.com/fwlink/?linkid=869392)
+[Xoá thư viện tài liệu](https://go.microsoft.com/fwlink/?linkid=869392)
   
-[Xóa bỏ khoản mục từ danh sách](https://go.microsoft.com/fwlink/?linkid=869397)
+[Xóa các mục khỏi danh sách](https://go.microsoft.com/fwlink/?linkid=869397)
   
-[Xóa bỏ khoản mục từ một thư viện tài liệu](https://go.microsoft.com/fwlink/?linkid=869399)
+[Xoá các mục khỏi thư viện tài liệu](https://go.microsoft.com/fwlink/?linkid=869399)
   
-[Xóa một cột trên một trang](https://go.microsoft.com/fwlink/?linkid=869394)
+[Xóa cột trên trang](https://go.microsoft.com/fwlink/?linkid=869394)
   
-[Xóa một cột trong một danh sách hoặc thư viện](https://go.microsoft.com/fwlink/?linkid=869396)
+[Xóa một cột trong danh sách hoặc thư viện](https://go.microsoft.com/fwlink/?linkid=869396)
   
 

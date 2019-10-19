@@ -1,5 +1,5 @@
 ---
-title: Yammer quản lý tất cả các công ty nhóm
+title: Yammer quản lý tất cả nhóm công ty
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,14 +12,14 @@ ms.custom:
 - "1019"
 - "6000003"
 ms.openlocfilehash: 30b258de51ff0140520cf05ca09e6b0a8b872f22
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36558063"
 ---
-# <a name="all-company-group"></a>Tất cả các nhóm công ty
+# <a name="all-company-group"></a>Tất cả nhóm công ty
 
-Nhóm **Công ty tất cả** được tạo ra tự động khi bạn tạo một mạng lưới Yammer. Đó là một mặc định hệ thống mà không thể được đổi tên hoặc xóa bỏ. Tất cả mọi người có thể gửi đến nhóm **Tất cả các công ty** , nhưng chỉ Yammer quản trị mạng có thể gửi thông báo cho nhóm. Sử dụng **Nhóm Insights**để xem các thông tin về sự tham gia trong nhóm **Toàn công ty** .
+**Tất cả nhóm công ty** được tạo tự động khi bạn tạo một mạng yammer. Nó là một nhóm hệ thống mặc định không thể đổi tên hoặc xóa. Mọi người đều có thể đăng lên **tất cả các nhóm công ty** , nhưng chỉ quản trị mạng yammer có thể đăng thông báo cho nhóm. Sử dụng **Insights nhóm**để xem thông tin về tương tác trong **tất cả nhóm công ty** .
 
-Để biết thêm chi tiết, hãy xem [quản lý một nhóm trong Yammer](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2).
+Để biết thêm thông tin, xem [quản lý nhóm trong yammer](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2).

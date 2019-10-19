@@ -1,5 +1,5 @@
 ---
-title: 322 các vấn đề khi một người dùng là có vấn đề gửi
+title: 322 vấn đề khi người dùng có vấn đề gửi
 ms.author: chrisda
 author: chrisda
 ms.audience: Admin
@@ -12,12 +12,12 @@ ms.custom:
 - "3100011"
 ms.assetid: 66c651d2-7e58-4bd8-a009-05065e644043
 ms.openlocfilehash: 5d3c3d749c298682e1a6798b0f05ccb4bb657015
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36661534"
 ---
-# <a name="a-user-is-having-issues-sending-email-messages"></a>Một người sử dụng là có vấn đề, gửi thư điện tử
+# <a name="a-user-is-having-issues-sending-email-messages"></a>Người dùng đang gặp sự cố khi gửi thư điện tử
 
-Chỗ ở này có vẻ như bạn có một vấn đề luồng thư. Chúng tôi có chẩn đoán sẽ giúp xác định nhiều vấn đề luồng thư thông thường. Nhấp vào **chạy chẩn đoán** dưới đây.
+Dường như bạn có một vấn đề dòng thư. Chúng tôi có chẩn đoán sẽ giúp xác định nhiều vấn đề về dòng thư phổ biến. Nhấp vào **chạy chẩn đoán** bên dưới.

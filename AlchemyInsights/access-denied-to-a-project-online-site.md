@@ -1,5 +1,5 @@
 ---
-title: Truy cập bị từ chối đến một trang web dự án Web App
+title: Truy cập bị từ chối một trang web dự án ứng dụng web
 ms.author: efrene
 author: efrene
 manager: pamg
@@ -12,20 +12,20 @@ ms.custom:
 - "2700001"
 - "1381"
 ms.openlocfilehash: be8ba63cc5c7a2042d997598c6ed5d792862c58f
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36661246"
 ---
-# <a name="give-users-permissions-in-project-online"></a>Cung cấp cho người dùng quyền trong dự án Online
+# <a name="give-users-permissions-in-project-online"></a>Cấp quyền cho người dùng trong Project Online
 
-Cung cấp cho người dùng quyền truy cập vào một trang web dự án Web App sử dụng SharePoint cho phép chế độ:
+Cấp cho người dùng quyền truy cập vào một trang web dự án Web App bằng cách sử dụng chế độ quyền SharePoint:
 
-1. Đăng nhập vào dự án trực tuyến như là một admin.
-2. Trên trang chủ dự án Web App, hãy chọn **chia sẻ** ở góc trên bên phải.
-3. Trong hộp thoại **Chia sẻ dự án Web App** , hãy nhập tên người dùng của người bạn muốn cung cấp cho truy cập vào trong hộp **Mời mọi người** .
-4. Chọn **Tùy chọn Hiển thị**, và trong menu **chọn một mức độ cho phép** , hãy chọn **Quản lý dự án cho các dự án Web ứng dụng**.
+1. Đăng nhập vào Project Online dưới dạng quản trị viên.
+2. Trên trang chủ dự án Web App, hãy chọn **chia sẻ** ở góc trên cùng bên phải.
+3. Trong hộp thoại **chia sẻ Project Web App** , nhập tên người dùng của người bạn muốn cấp quyền truy cập vào hộp **mời người** .
+4. Chọn **Hiển thị tuỳ chọn**và chọn trình đơn **cấp phép** , chọn **quản lý dự án cho ứng dụng web của dự án**.
 5. Chọn **chia sẻ**.
 
-Nếu bạn sử dụng chế độ cấp phép dự án, hoặc để biết thêm thông tin, hãy xem [Thêm người để dự án trực tuyến](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online).
+Nếu bạn sử dụng chế độ cho phép dự án, hoặc để biết thêm thông tin, hãy xem [Thêm người vào dự án trực tuyến](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online).

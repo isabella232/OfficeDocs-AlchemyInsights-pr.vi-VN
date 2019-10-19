@@ -1,5 +1,5 @@
 ---
-title: Hạn chế truy cập trong SharePoint hoặc OneDrive
+title: Hạn chế quyền truy cập trong SharePoint hoặc OneDrive
 ms.author: mikeplum
 author: MikePlumleyMSFT
 ms.date: 8/7/2018
@@ -9,22 +9,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
 ms.openlocfilehash: e5458226fe33bd5cb3da1f608fb113b888fbfd16
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36551473"
 ---
-# <a name="restrict-access-in-sharepoint-or-onedrive"></a>Hạn chế truy cập trong SharePoint hoặc OneDrive
+# <a name="restrict-access-in-sharepoint-or-onedrive"></a>Hạn chế quyền truy cập trong SharePoint hoặc OneDrive
 
-Trong SharePoint và OneDrive, bạn hạn chế quyền truy cập vào các mục như các tập tin, thư mục và danh sách bằng cách cấp quyền truy cập chỉ để nhóm hay cá nhân muốn có quyền truy cập. Theo mặc định, các cấp phép SharePoint được thừa hưởng từ cao lên trong hệ thống. Vì vậy một tập tin thừa hưởng các quyền của mình từ thư mục cấp phép của nó thừa hưởng từ thư viện của nó quyền thừa hưởng từ các trang web.
+Trong SharePoint và OneDrive, bạn hạn chế quyền truy cập vào các mục như tệp, thư mục và danh sách bằng cách cấp quyền truy cập chỉ cho các nhóm hoặc cá nhân bạn muốn có quyền truy cập. Theo mặc định, quyền trong SharePoint được kế thừa từ cao hơn trong hệ thống phân cấp. Vì vậy, một tệp kế thừa các quyền của nó từ thư mục, kế thừa các quyền của nó từ thư viện, kế thừa các quyền từ trang web.
   
-Bạn có thể chia sẻ ở một mức độ cao hơn (chẳng hạn như bằng cách chia sẻ một trang web toàn bộ) và sau đó chia di sản thừa kế nếu bạn không muốn chia sẻ tất cả các mục trên trang web. Tuy nhiên, chúng tôi không khuyên bạn nên điều này bởi vì nó làm cho việc duy trì các điều khoản phức tạp và khó hiểu hơn trong tương lai. Dưới đây là những gì bạn có thể làm để thay thế:
+Bạn có thể chia sẻ ở một mức độ cao hơn (chẳng hạn như bằng cách chia sẻ toàn bộ trang web) và sau đó phá vỡ thừa kế nếu bạn không muốn chia sẻ tất cả các mục trên trang web. Tuy nhiên, chúng tôi không khuyên bạn nên điều này vì nó làm cho việc duy trì các quyền phức tạp hơn và khó hiểu trong tương lai. Đây là những gì bạn có thể làm thay vì:
   
-- Nếu, ví dụ, bạn muốn chia sẻ tất cả các nội dung của một thư mục ngoại trừ các tập tin một trong nó, di chuyển tệp đó đến một vị trí mới không phải là chia sẻ.
+- Ví dụ: nếu bạn muốn chia sẻ tất cả nội dung của thư mục ngoại trừ một tệp trong đó, hãy di chuyển tệp đó sang vị trí mới không được chia sẻ.
     
-- Nếu bạn có 2 thư mục con trong thư mục, và bạn muốn chia sẻ một thư mục con với các nhóm A và B và cho phép chỉ group A quyền truy cập vào các thư mục con thứ hai, chia sẻ thư mục mẹ với group A và thêm nhóm B để các thư mục con đầu tiên.
+- Nếu bạn có hai cặp con trong một thư mục, và bạn muốn chia sẻ một cặp với nhóm A và B và cho phép chỉ nhóm quyền truy cập vào thư mục con thứ hai, hãy chia sẻ cặp cha với nhóm A và thêm nhóm B vào con đầu tiên.
     
-[Dừng chia sẻ tệp hoặc cặp](https://go.microsoft.com/fwlink/?linkid=2008861)
+[Dừng chia sẻ tệp hoặc thư mục](https://go.microsoft.com/fwlink/?linkid=2008861)
   
 
