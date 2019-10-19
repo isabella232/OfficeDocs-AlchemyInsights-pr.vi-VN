@@ -12,22 +12,22 @@ ms.custom:
 - "1820"
 - "9000236"
 ms.openlocfilehash: 59325a0d1221dac6fcd905f3918c164f69551271
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36538150"
 ---
-# <a name="add-your-gmail-account-to-outlookcom"></a>Thêm tài khoản Gmail vào Outlook.com
+# <a name="add-your-gmail-account-to-outlookcom"></a>Thêm tài khoản Gmail của bạn vào Outlook.com
 
-1. Mở của bạn [cài đặt đồng bộ Email](https://go.microsoft.com/fwlink/?linkid=875264).
-2. Trong phần **kết nối tài khoản**, chọn **Gmail**.
-3. Nhập tên hiển thị (tên người nhận sẽ nhìn thấy khi họ nhận được một email từ bạn).
-4. Chọn nếu Outlook.com nên nhập email của bạn từ Gmail và nơi nhập khẩu email sẽ được lưu trữ.
-5. Chọn **OK** để đi đến trang đăng nhập của Google.
+1. Mở [cài đặt đồng bộ email](https://go.microsoft.com/fwlink/?linkid=875264)của bạn.
+2. Trong **tài khoản đã kết nối**, hãy chọn **Gmail**.
+3. Nhập tên hiển thị (người nhận tên sẽ thấy khi họ nhận được thư email từ bạn).
+4. Chọn nếu Outlook.com nên nhập email của bạn từ Gmail và nơi email đã nhập sẽ được lưu trữ.
+5. Chọn **OK** để chuyển đến trang đăng nhập Google.
 
-Đồng bộ hoá từ một tài khoản đã kết nối tài khoản Outlook.com của bạn là theo một chiều duy nhất. Email được gửi từ tài khoản Gmail của bạn bằng cách sử dụng Outlook.com sẽ không xuất hiện trong thư đã gửi trong Gmail.
+Đồng bộ hóa từ tài khoản đã kết nối với tài khoản Outlook.com của bạn chỉ là một chiều. Email được gửi từ tài khoản Gmail của bạn bằng cách sử dụng Outlook.com sẽ không xuất hiện trong mục đã gửi trong Gmail.
 
-Bạn có thể gửi email trong Outlook.com kết nối tài khoản Gmail của bạn. Khi soạn email, **chọn** và lựa chọn của bạn địa chỉ Gmail, hoặc [Cập Nhật của bạn mặc định địa chỉ](https://go.microsoft.com/fwlink/?linkid=875264).
+Bạn có thể gửi email trong Outlook.com từ tài khoản Gmail kết nối của bạn. Khi soạn email, hãy chọn **từ** và chọn địa chỉ Gmail của bạn hoặc [Cập Nhật địa chỉ mặc định của bạn](https://go.microsoft.com/fwlink/?linkid=875264).
 
-Để biết thêm chi tiết, hãy xem [thêm của bạn tài khoản email khác để Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy).
+Để biết thêm thông tin, hãy xem [Thêm tài khoản email khác của bạn vào Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy).

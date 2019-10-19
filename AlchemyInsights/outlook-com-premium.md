@@ -1,5 +1,5 @@
 ---
-title: Outlook.com Premium
+title: Outlook.com cao cấp
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,19 +12,19 @@ ms.custom:
 - "1831"
 - "9000243"
 ms.openlocfilehash: ad9d095803fae20865bf0161cf4ddc36f86dbaf4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36545821"
 ---
-# <a name="outlookcom-premium"></a>Outlook.com Premium
+# <a name="outlookcom-premium"></a>Outlook.com cao cấp
 
-**Hiện có phí bảo hiểm người đăng kí**
+**Hiện có thuê bao Premium**
 
-- Nếu bạn đã có một thuê bao phí bảo hiểm Outlook.com, đọc [Câu hỏi thường gặp Premium Outlook.com](https://support.office.com/article/cd5f03f6-1407-456a-9410-f8f24804746b?wt.mc_id=Office_Outlook_com_Alchemy).
+- Nếu bạn đã có đăng ký Outlook.com Premium, hãy đọc [câu hỏi thường gặp về Outlook.com Premium](https://support.office.com/article/cd5f03f6-1407-456a-9410-f8f24804746b?wt.mc_id=Office_Outlook_com_Alchemy).
 
-**Đăng ký mới**
+**Người đăng ký mới**
 
-- Chúng tôi xin lỗi, nhưng Outlook.com Premium bây giờ đóng cửa để đăng ký mới.
-- Nhiều người trong số các [tính năng và lợi ích](https://support.office.com/article/78c6089c-7faf-44f5-82e2-efa9ebb921d2?wt.mc_id=Office_Outlook_com_Alchemy) bây giờ bao gồm trong [đăng ký đối với Office 365 Home và Office 365 cá nhân](https://go.microsoft.com/fwlink/?linkid=2017122).
+- Chúng tôi rất tiếc, nhưng Outlook.com Premium bây giờ là đóng cửa cho thuê bao mới.
+- Nhiều người trong số các [tính năng và lợi ích](https://support.office.com/article/78c6089c-7faf-44f5-82e2-efa9ebb921d2?wt.mc_id=Office_Outlook_com_Alchemy) hiện nay đi kèm với các [thuê bao văn phòng 365 Trang chủ và văn phòng 365 cá nhân](https://go.microsoft.com/fwlink/?linkid=2017122).
