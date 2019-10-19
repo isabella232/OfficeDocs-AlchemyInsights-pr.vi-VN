@@ -1,5 +1,5 @@
 ---
-title: Không thể đọc email Outlook.com trong Google Chrome với AdBlock
+title: Không thể đọc Outlook.com email trong Google Chrome với AdBlock
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,15 +12,15 @@ ms.custom:
 - "8000048"
 - "814"
 ms.openlocfilehash: e63e31ea008558d57b0582d306afd34df4715631
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36537681"
 ---
 # <a name="cant-read-email-in-google-chrome-with-adblock"></a>Không thể đọc email trong Google Chrome với AdBlock
 
-Nếu bạn không thể đọc hoặc soạn email khi sử dụng Google Chrome với tiện ích mở rộng AdBlock:
+Nếu bạn không thể đọc hoặc soạn email khi sử dụng Google Chrome có phần mở rộng AdBlock:
 
 - Sử dụng [Microsoft Edge](https://go.microsoft.com/fwlink/p/?linkid=2001503&amp;clcid=0x409) hoặc trình duyệt web khác.
-- Loại trừ Outlook.com từ cài đặt AdBlock. Ở góc trên bên phải của Google Chrome, chọn **AdBlock** và sau đó chọn **không chạy trên các trang web trên tên miền này**. Làm mới trình duyệt của bạn để tải Outlook.com một lần nữa.
+- Loại trừ Outlook.com từ các cài đặt AdBlock. Ở góc trên cùng bên phải của Google Chrome, chọn **Adblock** rồi chọn **không chạy trên các trang trên tên miền này**. Làm mới trình duyệt của bạn để tải lại Outlook.com.

@@ -1,5 +1,5 @@
 ---
-title: Vấn đề với MFA
+title: Các vấn đề về MFA
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,17 +12,17 @@ ms.custom:
 - "2417"
 - "9000557"
 ms.openlocfilehash: 276f6b2212c9d85df726cb46a46dee7828b34c89
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36545208"
 ---
-# <a name="issues-with-mfa"></a>Vấn đề với MFA
-Có một vài điều để kiểm tra nếu người dùng không thể đăng nhập bằng cách sử dụng nhiều yếu tố xác thực (MFA)
+# <a name="issues-with-mfa"></a>Các vấn đề về MFA
+Có một vài điều cần kiểm tra nếu người dùng không thể đăng nhập bằng cách sử dụng nhiều yếu tố xác thực (MFA)
 
-1. Người dùng bị ảnh hưởng có thể bị chặn trong Azure Active Directory cổng. Nếu trường hợp đó xảy ra, xác thực nỗ lực cho rằng người dùng cụ thể sẽ được tự động bị từ chối. [Xin vui lòng làm theo các bước trong bài viết này để bỏ chặn họ.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#block-and-unblock-users)
+1. Người dùng bị ảnh hưởng có thể bị chặn trong cổng Azure Active Directory. Nếu đó là trường hợp, các nỗ lực xác thực cho người dùng cụ thể đó sẽ tự động bị từ chối. [Vui lòng làm theo các bước trong bài viết này để bỏ chặn chúng.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#block-and-unblock-users)
 
-2. Nếu bỏ chặn người dùng đã không giúp đỡ hoặc không chặn người dùng bạn có thể thử đặt lại MFA cho người dùng và họ sẽ đi qua quá trình ghi danh một lần nữa. [Xin vui lòng làm theo các bước trong bài viết này.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-userdevicesettings#require-users-to-provide-contact-methods-again)
+2. Nếu bỏ chặn người dùng không giúp đỡ hoặc người dùng không bị chặn, bạn có thể thử đặt lại MFA cho người dùng và họ sẽ đi qua quá trình đăng ký một lần nữa. [Vui lòng làm theo các bước trong bài viết này.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-userdevicesettings#require-users-to-provide-contact-methods-again)
 
-Nếu đây là lần đầu tiên bạn kích hoạt MFA và người dùng của bạn là không thể đăng nhập vào trình duyệt không khách hàng chẳng hạn như Outlook, Skype, vv, có lẽ ADAL (Active Directory xác thực thư viện) không được kích hoạt trên đăng ký của bạn O365. Trong trường hợp này bạn sẽ cần để kết nối với Exchange Online Powershell và chạy lệnh ghép ngắn này:  *Set-OrganizationConfig-OAuth2ClientProfileEnabled: $true*
+Nếu đây là lần đầu tiên bạn kích hoạt MFA và người dùng của bạn không thể đăng nhập vào các trình duyệt không phải là các khách hàng như Outlook, Skype, vv, có lẽ ADAL (Active Directory xác thực thư viện) không được kích hoạt trên O365 đăng ký của bạn. Trong trường hợp này, bạn sẽ cần phải kết nối với Exchange Online PowerShell và chạy lệnh này:  *Set-OrganizationConfig-OAuth2ClientProfileEnabled: $True*

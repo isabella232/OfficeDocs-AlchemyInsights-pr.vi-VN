@@ -1,5 +1,5 @@
 ---
-title: Làm thế nào để hủy bỏ một ứng dụng
+title: Cách hủy ứng dụng
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,16 +13,16 @@ ms.custom:
 - "9000566"
 - "2424"
 ms.openlocfilehash: 990723bf8911ce15a72056262124e85e68e7f3b0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36542147"
 ---
-# <a name="how-to-cancel-software-as-a-service-apps"></a>Làm thế nào để hủy bỏ phần mềm như một dịch vụ ứng dụng 
+# <a name="how-to-cancel-software-as-a-service-apps"></a>Cách hủy ứng dụng phần mềm dưới dạng-dịch vụ 
 
-1. Trong Trung tâm quản trị Microsoft 365, để **thanh toán** > [sản phẩm & dịch vụ](https://go.microsoft.com/fwlink/p/?linkid=842054) trang, sau đó chọn **Apps** tab.
+1. Trong Trung tâm quản trị Microsoft 365, đến trang sản phẩm **thanh toán** > [& dịch vụ](https://go.microsoft.com/fwlink/p/?linkid=842054) , sau đó chọn tab **ứng dụng** .
 
 2. Tìm và chọn ứng dụng bạn muốn quản lý.
 
-3. Trong mục **cài đặt & hành động**, chọn **hủy đăng ký**.
+3. Trong **cài đặt & hành động**, chọn **hủy bỏ đăng ký**.

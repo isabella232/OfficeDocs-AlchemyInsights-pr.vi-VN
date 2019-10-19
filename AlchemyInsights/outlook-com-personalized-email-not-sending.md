@@ -1,5 +1,5 @@
 ---
-title: Outlook.com personalized email địa chỉ không phải là việc gửi hoặc nhận
+title: Outlook.com địa chỉ email được cá nhân hóa không gửi hoặc nhận
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,18 +10,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000083
 ms.openlocfilehash: 7363af1d4fc1a0f4131bebc325485dc99a30e2eb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36545893"
 ---
-# <a name="my-personalized-outlookcom-email-address-isnt-sending-or-receiving"></a>Địa chỉ email Outlook.com cá nhân của tôi không phải là việc gửi hoặc nhận
+# <a name="my-personalized-outlookcom-email-address-isnt-sending-or-receiving"></a>Địa chỉ email Outlook.com cá nhân hoá của tôi không gửi hoặc nhận
 
-Chọn biểu tượng kim cương trên thanh công cụ để mở bảng điều khiển của phí bảo hiểm.
+Chọn biểu tượng kim cương trên thanh công cụ để mở bảng điều khiển cao cấp.
 
-Nếu bạn không thấy biểu tượng kim cương trong hộp thư của bạn (và bạn thấy quảng cáo), nó có nghĩa là đăng ký Office 365 của bạn đã hết hạn. Đi đến [https://account.microsoft.com/services](https://account.microsoft.com/services) để tái kích hoạt thuê bao của bạn, sau đó kết nối lại các tên miền của bạn bằng cách sử dụng các bước trong "Bắt đầu".
+Nếu bạn không thấy biểu tượng kim cương trong hộp thư đến của mình (và bạn nhìn thấy quảng cáo), điều đó có nghĩa là đăng ký Office 365 của bạn đã hết hạn. Truy cập [https://account.microsoft.com/services](https://account.microsoft.com/services) để kích hoạt lại gói đăng ký của bạn, sau đó tái kết nối miền của bạn bằng cách sử dụng các bước trong "bắt đầu".
 
-Nếu tab "Địa chỉ email cá nhân hoá" có một thanh trạng thái màu đỏ, tên miền của bạn có thể đã hết hạn.
+Nếu tab "địa chỉ email được cá nhân hóa" có thanh trạng thái màu đỏ, miền của bạn có thể đã hết hạn.
 
-Đọc thêm các bước gỡ rối về [địa chỉ email cá nhân hoá trong Office 365](https://support.office.com/article/75416a58-b225-4c02-8c07-8979403b427b?wt.mc_id=Office_Outlook_com_Alchemy).
+Đọc thêm các bước khắc phục sự cố trên [địa chỉ email được cá nhân hóa trong Office 365](https://support.office.com/article/75416a58-b225-4c02-8c07-8979403b427b?wt.mc_id=Office_Outlook_com_Alchemy).

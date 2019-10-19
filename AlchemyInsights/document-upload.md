@@ -1,5 +1,5 @@
 ---
-title: Tài liệu tải lên
+title: Tải lên tài liệu
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ace29990-1bf3-4378-833d-22e418f0fba7
 ms.openlocfilehash: 6a2559521b4160dc337796ed8d4721ec49acf703
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36529473"
 ---
-# <a name="upload-files-to-onedrive-or-sharepoint"></a>Tải tập tin lên OneDrive hoặc SharePoint
+# <a name="upload-files-to-onedrive-or-sharepoint"></a>Tải tệp lên OneDrive hoặc SharePoint
 
-1. Trong trình duyệt của bạn, đi đến vị trí mà bạn muốn tải lên tập tin.
+1. Trong trình duyệt web của bạn, hãy chuyển đến vị trí bạn muốn tải tệp lên.
     
-2. Mở File Explorer và duyệt đến tập tin bạn muốn tải lên.
+2. Mở file Explorer và duyệt đến các tập tin bạn muốn tải lên.
     
-3. Chọn các tập tin và kéo chúng đến vị trí trong OneDrive hoặc SharePoint. Lưu ý: Nếu bạn dùng Microsoft Edge, Mozilla FireFox hoặc Google Chrome, bạn có thể cũng tải lên một thư mục và tất cả các file trong đó.
+3. Chọn tệp và kéo chúng vào vị trí trong OneDrive hoặc SharePoint. Lưu ý: nếu bạn sử dụng Microsoft Edge, Mozilla FireFox hoặc Google Chrome, bạn cũng có thể tải lên một thư mục và tất cả các tệp trong đó.
     
 > [!NOTE]
->  Bạn có thể tải tập tin lên đến 15 GB trong kích thước. > đường dẫn đầy đủ cho một tập tin (bao gồm cả tên tập tin) không thể là hơn 400 ký tự. > nếu bạn cần để tải lên tập tin hơn 100, [sử dụng các khách hàng đồng bộ OneDrive](https://go.microsoft.com/fwlink/?linkid=866427). 
+>  Bạn có thể tải lên các tập tin có kích thước lên đến 15 GB. > đường dẫn đầy đủ cho tệp (bao gồm tên tệp) không thể nhiều hơn 400 ký tự. > nếu bạn cần tải lên hơn 100 tệp, [hãy sử dụng máy khách đồng bộ OneDrive](https://go.microsoft.com/fwlink/?linkid=866427). 
   
 

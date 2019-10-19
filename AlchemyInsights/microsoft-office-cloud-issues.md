@@ -11,10 +11,10 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
 ms.openlocfilehash: 6092a1222734666807509dff0d86b8a822f37922
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36754106"
 ---
 # <a name="experiencing-problems-with-a-cloud-service"></a>Gặp vấn đề với dịch vụ đám mây?
@@ -23,5 +23,5 @@ Nếu bạn đang gặp sự cố với dịch vụ đám mây, bạn có thể 
 
 **Chính sách thông báo**
 
-Khi xảy ra sự cố dịch vụ, Microsoft nhận thấy rằng thông tin liên lạc kịp thời, được nhắm mục tiêu và chính xác là rất quan trọng đối với khách hàng. Microsoft thông báo cho Office 365 quản trị viên bằng việc cập nhật bảng điều khiển tình trạng dịch vụ dành riêng cho thuê [(SHD)](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) trên cổng quản trị Office 365. Bản Cập Nhật sự cố dịch vụ được cung cấp trên một cadence hàng giờ hoặc, nếu một cadence khác là bắt buộc, nó sẽ được nêu trong thông tin liên lạc SHD đăng. Để biết thêm thông tin, [hãy xem cách kiểm tra Office 365 dịch vụ y tế](https://docs.microsoft.com/office365/enterprise/view-service-health).
+Khi xảy ra sự cố dịch vụ, Microsoft nhận thấy rằng thông tin liên lạc kịp thời, được nhắm mục tiêu và chính xác là rất quan trọng đối với khách hàng. Microsoft thông báo cho Office 365 quản trị viên bằng việc cập nhật bảng điều khiển tình trạng dịch vụ dành riêng cho thuê [(SHD)](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) trên cổng quản trị Office 365. Bản Cập Nhật sự cố dịch vụ được cung cấp trên một cadence giờ hoặc, nếu một cadence khác là bắt buộc, nó sẽ được nêu trong liên lạc SHD đăng. Để biết thêm thông tin, [hãy xem cách kiểm tra Office 365 dịch vụ y tế](https://docs.microsoft.com/office365/enterprise/view-service-health).
 

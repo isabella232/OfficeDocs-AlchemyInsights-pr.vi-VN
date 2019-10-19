@@ -1,5 +1,5 @@
 ---
-title: 9000199 PST các tập tin trong Outlook.com
+title: 9000199 PST tập tin trong Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,14 +14,14 @@ ms.custom:
 - "1771"
 - "9000199"
 ms.openlocfilehash: 6b4b5bdf5921153c99c4d1eb109ea0579c08eb37
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36535629"
 ---
 # <a name="pst-data-files-in-outlookcom"></a>PST tập tin dữ liệu trong Outlook.com
 
-Nó không phải là không thể chuyển nhập một Outlook. PST tập tin dữ liệu tài khoản Outlook.com của bạn bằng cách sử dụng một trình duyệt.
+Không thể nhập Outlook. PST tập tin dữ liệu vào tài khoản Outlook.com của bạn bằng cách sử dụng một trình duyệt.
 
-Để nhập một. PST tập tin dữ liệu, bạn phải sử dụng các ứng dụng máy tính để bàn Outlook. Để tìm hiểu thêm, đọc [nhập khẩu email, danh bạ và lịch từ Outlook một .pst.](https://support.office.com/article/431a8e9a-f99f-4d5f-ae48-ded54b3440ac?wt.mc_id=Office_Outlook_com_Alchemy)
+Để nhập một. Tệp dữ liệu PST, bạn phải sử dụng ứng dụng Outlook dành cho máy tính để bàn. Để tìm hiểu thêm, hãy đọc [nhập email, danh bạ và lịch từ một Outlook. PST.](https://support.office.com/article/431a8e9a-f99f-4d5f-ae48-ded54b3440ac?wt.mc_id=Office_Outlook_com_Alchemy)

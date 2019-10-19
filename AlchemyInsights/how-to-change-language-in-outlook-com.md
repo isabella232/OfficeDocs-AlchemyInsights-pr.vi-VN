@@ -14,18 +14,18 @@ ms.custom:
 - "269"
 ms.assetid: 6b5e5d32-d247-4dd9-b2d4-c4805a2f5e2d
 ms.openlocfilehash: 81d7272729c9770d4476f3c880b1a8ac3b6f90cd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36541688"
 ---
 # <a name="change-your-language"></a>Thay đổi ngôn ngữ của bạn
 
-1. Để chang ngôn ngữ trong Outlook, hãy vào cài đặt [**ngôn ngữ và thời gian**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) (**cài đặt** \> **xem tất cả các cài đặt Outlook** > **tổng** > **ngôn ngữ và thời gian**).
+1. Để Chang ngôn ngữ trong Outlook, đi đến cài đặt [**ngôn ngữ và thời gian**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) (**cài đặt** \> **xem tất cả các cài đặt** > Outlook**chung** > **ngôn ngữ và thời gian**).
 
 2. Chọn ngôn ngữ của bạn.
 
 3. Chọn **lưu**.
 
-Để tìm hiểu thêm, hãy xem [thay đổi múi giờ và cài đặt ngôn ngữ trong Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873132).
+Để tìm hiểu thêm, hãy xem [thay đổi cài đặt múi giờ và ngôn ngữ trong Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873132).

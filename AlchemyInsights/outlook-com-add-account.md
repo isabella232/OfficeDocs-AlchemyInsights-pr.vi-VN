@@ -12,26 +12,26 @@ ms.custom:
 - "1819"
 - "9000236"
 ms.openlocfilehash: a7eed96ea74b037adaa39bbe2d91936d65fe54c3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36538222"
 ---
-# <a name="add-your-other-email-accounts-to-outlookcom"></a>Thêm tài khoản email khác vào Outlook.com
+# <a name="add-your-other-email-accounts-to-outlookcom"></a>Thêm tài khoản email khác của bạn vào Outlook.com
 
-Khi bạn thêm tài khoản email khác vào Outlook.com, bạn có thể sử dụng Outlook.com để gửi và đọc thư điện tử từ các tài khoản mà không cần rời khỏi Outlook.com. Mỗi tài khoản mà bạn thêm vào Outlook.com được gọi là tài khoản đã kết nối.
+Khi bạn thêm các tài khoản email khác vào Outlook.com, bạn có thể sử dụng Outlook.com để gửi và đọc thư email từ các tài khoản đó mà không cần rời khỏi Outlook.com. Mỗi tài khoản bạn thêm vào Outlook.com được gọi là tài khoản đã kết nối.
 
-Lưu ý: Đồng bộ hóa khỏi tài khoản đã kết nối tài khoản Outlook.com của bạn chỉ là một chiều. Email được gửi từ tài khoản đã kết nối của bạn bằng cách sử dụng Outlook.com sẽ không xuất hiện trong tài khoản đã kết nối gửi các bạn.
+Lưu ý: đồng bộ hóa từ tài khoản đã kết nối của bạn vào tài khoản Outlook.com chỉ là một chiều. Email được gửi từ tài khoản đã kết nối của bạn bằng Outlook.com sẽ không xuất hiện trong tài khoản được kết nối của bạn mục đã gửi.
 
-Thêm một tài khoản đã kết nối:
+Để thêm tài khoản đã kết nối:
 
-1. Mở của bạn [cài đặt đồng bộ Email](https://go.microsoft.com/fwlink/?linkid=875264).
-2. Trong **kết nối tài khoản**, chọn **tài khoản email khác**hoặc **Gmail** .
-3. Kết nối trang tài khoản của bạn, nhập một tên hiển thị (tên người nhận sẽ nhìn thấy khi họ nhận được một email từ bạn) và địa chỉ email đầy đủ và mật khẩu của tài khoản email bạn muốn kết nối tới tài khoản Outlook.com của bạn.
+1. Mở [cài đặt đồng bộ email](https://go.microsoft.com/fwlink/?linkid=875264)của bạn.
+2. Trong **tài khoản đã kết nối**, chọn **Gmail** hoặc **tài khoản email khác**.
+3. Trên trang kết nối tài khoản của bạn, nhập tên hiển thị (người nhận tên sẽ thấy khi họ nhận được thư email từ bạn) và địa chỉ email và mật khẩu đầy đủ của tài khoản email bạn muốn kết nối với tài khoản Outlook.com của mình.
 
-Bạn có thể gửi email từ bất kỳ tài khoản nào bạn đã kết nối với tài khoản Outlook.com của bạn. Khi soạn email, **chọn** và chọn những địa chỉ email bạn muốn sử dụng, hoặc [Cập Nhật của bạn mặc định địa chỉ](https://go.microsoft.com/fwlink/?linkid=875264).
+Bạn có thể gửi email từ bất kỳ tài khoản nào bạn đã kết nối với tài khoản Outlook.com của mình. Khi soạn email, hãy chọn **từ** và chọn địa chỉ email bạn muốn sử dụng hoặc [Cập Nhật địa chỉ từ mặc định của bạn](https://go.microsoft.com/fwlink/?linkid=875264).
 
-Để biết thêm chi tiết, đọc [thêm của bạn tài khoản email khác để Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy).
+Để biết thêm thông tin, hãy đọc [Thêm tài khoản email khác của bạn vào Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy).
 
-Nếu bạn muốn tạo một địa chỉ email mới mà sử dụng cùng một tài khoản Outlook.com, đọc [thêm/loại bỏ một bí danh email](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).
+Nếu bạn muốn tạo một địa chỉ email mới sử dụng cùng một tài khoản Outlook.com, hãy đọc [Thêm hoặc xóa bí danh email](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).

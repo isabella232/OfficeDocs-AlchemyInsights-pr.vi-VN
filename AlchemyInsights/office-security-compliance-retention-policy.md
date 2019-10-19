@@ -14,10 +14,10 @@ ms.custom:
 - "9000048"
 - "1983"
 ms.openlocfilehash: edf14c3b8c23416157325c7c319e75bd318303ca
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36753782"
 ---
 # <a name="more-info-about-retention-policies"></a>Thông tin thêm về chính sách lưu giữ
@@ -26,13 +26,13 @@ ms.locfileid: "36753782"
 
 ## <a name="a-from-security-and-compliance-center"></a>A) từ Trung tâm bảo mật và tuân thủ
 
-- Đi đến bảo mật và tuân thủ _ gt_quản trị dữ liệu _ Gt_ lưu giữ
+- Đi tới bảo mật và tuân thủ > quản trị dữ liệu > lưu giữ
   - Xem bài viết [này](https://docs.microsoft.com/office365/securitycompliance/retention-policies)
 
-- Đi tới bảo mật và tuân thủ _ Gt_eDiscovery> eDiscovery nâng cao 
+- Đi đến bảo mật và tuân thủ > eDiscovery> Advanced eDiscovery 
   - Xem bài viết [này](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases)
 
-- Đi đến bảo mật và tuân thủ _ Gt_phân loại _ Gt_lưu giữ
+- Truy cập các phân loại > bảo mật và tuân thủ > lưu giữ
   - Xem các bài viết này
     - [Nhãn nhạy cảm](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
     - [Tổng quan về nhãn mác](https://docs.microsoft.com/office365/securitycompliance/labels)

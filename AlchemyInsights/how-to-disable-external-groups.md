@@ -12,17 +12,17 @@ ms.custom:
 - "6000006"
 ms.assetid: 4e429507-039b-410e-a994-54b443d4e91e
 ms.openlocfilehash: b2328ea85d3ff6ec722cc56d8a46395d8438f79c
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36739515"
 ---
 # <a name="how-to-disable-external-groups"></a>Làm thế nào để vô hiệu hóa nhóm bên ngoài
 
 Thông điệp bên ngoài yammer áp dụng quy tắc truyền tải Exchange (ETRs), một tập hợp các điều khiển chủ động để ngăn chặn chia sẻ công ty. Để hạn chế người dùng tạo nhóm bên ngoài, bạn cần cấu hình quy tắc truyền tải Exchange (ETR), và sau đó cấu hình yammer sử dụng quy tắc truyền tải Exchange để chặn tin nhắn bên ngoài.
   
-Khi bạn đã tạo một quy tắc trong Trung tâm quản trị Exchange Online, hãy làm theo các bước sau để đặt ETR để áp dụng trong yammer:
+Khi bạn đã tạo một quy tắc trong Trung tâm quản trị Exchange Online, hãy làm theo các bước sau để đặt ETR áp dụng trong yammer:
   
 - Đăng nhập vào yammer với tư cách là quản trị viên đã xác minh và trong **Trung tâm quản trị yammer**, đi tới **nội dung C và thiết đặt bảo mật an ninh \> .**
 
