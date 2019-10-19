@@ -1,5 +1,5 @@
 ---
-title: Giả kim thuật - Outlook tìm không idexing
+title: Alchemy-Outlook tìm kiếm không idexing
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 446b22df-807d-4778-a54f-767c2cc83fba
 ms.openlocfilehash: eab8994e85149e0e4b6c0ed8ae455820cd78607a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36505853"
 ---
-# <a name="outlook-search-not-indexing"></a>Tìm kiếm Outlook không chỉ mục
+# <a name="outlook-search-not-indexing"></a>Outlook tìm kiếm không chỉ mục
 
-Chúng tôi là nhận thức của Outlook tìm kiếm vấn đề cập nhật bảo mật có liên quan gần đây cho Windows.
+Chúng tôi biết các vấn đề tìm kiếm Outlook liên quan đến Cập Nhật bảo mật gần đây cho Windows.
   
-Khi tìm kiếm trong Outlook, bạn có thể nhận được một trong những lỗi: **một cái gì đó đã đi sai và không thể hoàn tất tìm kiếm của bạn**, hoặc **kết quả tìm kiếm có thể không đầy đủ vì mục vẫn còn đang được lập chỉ mục**. Khắc phục sự cố đã được phát hành như là một tùy chọn Windows update. Hãy cài đặt một trong tương ứng với phiên bản Windows bạn đang nhìn thấy vấn đề này trên: 
+Khi tìm kiếm trong Outlook, bạn có thể nhận được một trong các lỗi này: có **điều gì đó không ổn và tìm kiếm của bạn không thể hoàn tất**hoặc **kết quả tìm kiếm có thể không đầy đủ vì các mục vẫn đang được lập chỉ mục**. Bản vá được phát hành như là một tùy chọn Windows Update. Hãy cài đặt một tương ứng với phiên bản Windows bạn đang gặp vấn đề này trên: 
   
-> [Windows 7 - Cập Nhật ngày 27 tháng 6 năm 2017](https://support.microsoft.com/kb/4022168.aspx)
+> [Windows 7-ngày 27 tháng 6, 2017 Cập Nhật](https://support.microsoft.com/kb/4022168.aspx)
     
-> [Windows 8.1 - Cập Nhật ngày 27 tháng 6 năm 2017](https://support.microsoft.com/kb/4022720.aspx)
+> [Windows 8,1-Cập Nhật ngày 27 tháng 6 2017](https://support.microsoft.com/kb/4022720.aspx)
     
-> [Phiên bản Windows 10 1703 - Cập Nhật ngày 27 tháng 6 năm 2017](https://support.microsoft.com/kb/4022716.aspx)
+> [Windows 10 phiên bản 1703-27 tháng 6, 2017 Cập Nhật](https://support.microsoft.com/kb/4022716.aspx)
     
-Những thông tin gần đây nhất, xin vui lòng xem bài viết: [Outlook được biết đến các vấn đề trong bản Cập Nhật bảo mật tháng năm 2017](https://support.office.com/article/Outlook-known-issues-in-the-June-2017-security-updates-3F6DBFFD-8505-492D-B19F-B3B89369ED9B.aspx) vấn đề #5. 
+Để biết thông tin gần đây nhất, hãy xem bài viết: [Outlook các vấn đề trong bản Cập Nhật bảo mật ngày 2017](https://support.office.com/article/Outlook-known-issues-in-the-June-2017-security-updates-3F6DBFFD-8505-492D-B19F-B3B89369ED9B.aspx) vấn đề #5. 
   
 

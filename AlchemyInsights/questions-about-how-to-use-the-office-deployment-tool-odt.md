@@ -1,5 +1,5 @@
 ---
-title: Các câu hỏi về làm thế nào để sử dụng công cụ triển khai văn phòng (ODT)
+title: Câu hỏi về cách sử dụng công cụ triển khai Office (ODT)
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -10,21 +10,21 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3e88e0f3-c86d-4ab8-b076-59d0552318f9
 ms.openlocfilehash: 604fc200517316de6e0194bd64e6eb3039cfa61b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36553562"
 ---
-# <a name="questions-about-how-to-use-the-office-deployment-tool-odt"></a>Các câu hỏi về làm thế nào để sử dụng công cụ triển khai văn phòng (ODT)
+# <a name="questions-about-how-to-use-the-office-deployment-tool-odt"></a>Câu hỏi về cách sử dụng công cụ triển khai Office (ODT)
 
-Tải về công cụ triển khai Office từ [Microsoft Download Center](http://go.microsoft.com/fwlink/p/?LinkID=626065).
+Tải xuống công cụ triển khai Office từ [Microsoft Download Center](http://go.microsoft.com/fwlink/p/?LinkID=626065).
   
-Sau khi tải về các tập tin, chạy tập tin thực thi tự giải nén chứa các văn phòng triển khai công cụ thực thi (setup.exe) và một tập tin cấu hình mẫu (configuration.xml).
+Sau khi tải xuống tệp, chạy tệp thi hành tự giải nén, chứa công cụ triển khai Office thực thi (Setup. exe) và tệp cấu hình mẫu (configuration. xml).
   
- **Để loại trừ hoặc loại bỏ các sản phẩm Office 365 ProPlus từ máy tính khách hàng:**
+ **Để loại trừ hoặc loại bỏ các sản phẩm Office 365 ProPlus từ máy khách:**
   
-Khi cài đặt Office 365 ProPlus, bạn có thể loại trừ sản phẩm cụ thể. Để làm như vậy, hãy làm theo các bước để cài đặt văn phòng với ODT, nhưng bao gồm các yếu tố ExcludeApp trong tập tin cấu hình của bạn. Ví dụ, tập tin cấu hình này sẽ cài đặt tất cả các sản phẩm Office 365 ProPlus trừ nhà xuất bản:
+Khi cài đặt Office 365 ProPlus, bạn có thể loại trừ các sản phẩm cụ thể. Để làm như vậy, hãy làm theo các bước để cài đặt Office với ODT, nhưng bao gồm phần tử ExcludeApp trong tệp cấu hình của bạn. Ví dụ, tập tin cấu hình này cài đặt tất cả các sản phẩm Office 365 ProPlus ngoại trừ nhà xuất bản:
   
 ```
 <Add SourcePath="\\Server\share" Version="15.1.2.3" OfficeClientEdition="32">
@@ -35,6 +35,6 @@ Khi cài đặt Office 365 ProPlus, bạn có thể loại trừ sản phẩm c�
 </Add>
 ```
 
-[Tổng quan về công cụ triển khai văn phòng](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool)
+[Tổng quan về công cụ triển khai Office](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool)
   
 

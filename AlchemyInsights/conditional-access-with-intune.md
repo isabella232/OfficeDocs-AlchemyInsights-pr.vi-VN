@@ -1,5 +1,5 @@
 ---
-title: Có điều kiện tiếp cận với dành
+title: Truy cập có điều kiện với InTune
 ms.author: pebaum
 author: pebaum
 ms.date: 10/11/2018
@@ -9,26 +9,26 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: aecba7c5-e86d-4ec8-9d44-679f5a3d659d
 ms.openlocfilehash: e147e7460ee6a786e577a43c0b8355fc27ee367b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36505016"
 ---
-# <a name="conditional-access-with-intune"></a>Có điều kiện tiếp cận với dành
+# <a name="conditional-access-with-intune"></a>Truy cập có điều kiện với InTune
 
-Sử dụng **Có điều kiện tiếp cận** với dành yêu cầu 3 bước: 
+Sử dụng **truy cập có điều kiện** với InTune yêu cầu 3 bước: 
   
-- Tạo một **Chính sách truy nhập có điều kiện** xác định những nguồn tài nguyên đang được bảo vệ, và điều kiện cần phải được đáp ứng để truy cập vào các nguồn lực. Ví dụ, một thiết bị phải được tuân thủ trước khi truy cập vào email của công ty. 
+- Tạo **chính sách truy cập có điều kiện** xác định tài nguyên nào đang được bảo vệ và điều kiện nào cần được đáp ứng để truy cập các tài nguyên đó. Ví dụ: một thiết bị phải tuân thủ trước khi truy cập email công ty. 
     
-- Tạo một **Chính sách tuân thủ** để xác định các cài đặt phải được đáp ứng trước khi thiết bị được coi là phù hợp. Ví dụ, một thiết bị phải có một pin ít nhất 6 chữ số trước khi nó được coi là phù hợp. 
+- Tạo **chính sách tuân thủ** để xác định các cài đặt phải được đáp ứng trước khi thiết bị được coi là tuân thủ. Ví dụ: một thiết bị phải có một pin ít nhất 6 chữ số trước khi nó được coi là phù hợp. 
     
-- Đảm bảo **Việc tuân thủ chính sách** và **Điều kiện chính sách truy cập** được nhắm mục tiêu cho các nhóm người dùng, bạn muốn. Điều này có thể cần tạo nhóm người dùng cụ thể vào Azure Active Directory. 
+- Đảm bảo cả **chính sách tuân thủ** và **chính sách truy cập có điều kiện** được nhắm mục tiêu đến các nhóm người dùng mong muốn. Điều này có thể yêu cầu tạo nhóm người dùng cụ thể trong Azure Active Directory. 
     
 Đọc thêm:
   
-- [Có điều kiện tiếp cận thực tiễn tốt nhất](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)
+- [Điều kiện truy cập thực tiễn tốt nhất](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)
     
-- [Bắt đầu với điều kiện truy cập](https://docs.microsoft.com/azure/active-directory/active-directory-conditional-access-azure-portal-get-started)
+- [Bắt đầu với truy cập có điều kiện](https://docs.microsoft.com/azure/active-directory/active-directory-conditional-access-azure-portal-get-started)
     
 
