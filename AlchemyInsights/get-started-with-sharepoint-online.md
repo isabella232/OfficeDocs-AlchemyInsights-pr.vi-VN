@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
 ms.openlocfilehash: 235bc552a393980423044421b6d43f7e712fbc99
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36524145"
 ---
-# <a name="get-started-with-sharepoint-online"></a><span data-ttu-id="ebe7e-102">Bắt đầu với SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="ebe7e-102">Get started with SharePoint Online</span></span>
+# <a name="get-started-with-sharepoint-online"></a><span data-ttu-id="e827d-102">Bắt đầu với SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="e827d-102">Get started with SharePoint Online</span></span>
 
-<span data-ttu-id="ebe7e-103">Nhận được và chạy với [SharePoint Online video đào tạo](https://go.microsoft.com/fwlink/?linkid=866438) của chúng tôi và [hướng dẫn bắt đầu nhanh chóng](https://go.microsoft.com/fwlink/?linkid=866437).</span><span class="sxs-lookup"><span data-stu-id="ebe7e-103">Get up and running with our [SharePoint Online video training](https://go.microsoft.com/fwlink/?linkid=866438) and [quick start guide](https://go.microsoft.com/fwlink/?linkid=866437).</span></span> <span data-ttu-id="ebe7e-104">Nếu bạn đang tìm kiếm một toàn diện hơn, hướng dẫn từng bước làm theo các bước trong các [cố vấn triển khai SharePoint Online.](https://portal.office.com/onboarding/sharepointonline#/)</span><span class="sxs-lookup"><span data-stu-id="ebe7e-104">If you are looking for a more comprehensive, step-by-step guide follow the steps in the [SharePoint Online deployment advisor.](https://portal.office.com/onboarding/sharepointonline#/)</span></span>
+<span data-ttu-id="e827d-103">Hãy bắt đầu và chạy với [video đào tạo trực tuyến SharePoint](https://go.microsoft.com/fwlink/?linkid=866438) của chúng tôi và [hướng dẫn khởi động nhanh](https://go.microsoft.com/fwlink/?linkid=866437).</span><span class="sxs-lookup"><span data-stu-id="e827d-103">Get up and running with our [SharePoint Online video training](https://go.microsoft.com/fwlink/?linkid=866438) and [quick start guide](https://go.microsoft.com/fwlink/?linkid=866437).</span></span> <span data-ttu-id="e827d-104">Nếu bạn đang tìm kiếm một hướng dẫn toàn diện hơn, từng bước làm theo các bước trong [cố vấn triển khai SharePoint trực tuyến.](https://portal.office.com/onboarding/sharepointonline#/)</span><span class="sxs-lookup"><span data-stu-id="e827d-104">If you are looking for a more comprehensive, step-by-step guide follow the steps in the [SharePoint Online deployment advisor.](https://portal.office.com/onboarding/sharepointonline#/)</span></span>
   
 

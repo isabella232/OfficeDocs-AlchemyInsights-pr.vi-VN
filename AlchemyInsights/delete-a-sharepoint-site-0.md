@@ -1,5 +1,5 @@
 ---
-title: Xóa một trang web SharePoint
+title: Xoá một trang web SharePoint
 ms.author: stevhord
 author: bentoncity
 manager: scotv
@@ -12,42 +12,42 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
 ms.openlocfilehash: 19033fe2f700e940432428e212a5956fcc06b0e6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36514098"
 ---
-# <a name="delete-sites-that-belong-to-an-office-365-group"></a><span data-ttu-id="d2409-102">Xóa trang web này thuộc về một nhóm Office 365</span><span class="sxs-lookup"><span data-stu-id="d2409-102">Delete sites that belong to an Office 365 group</span></span>
+# <a name="delete-sites-that-belong-to-an-office-365-group"></a><span data-ttu-id="7714c-102">Xoá các trang web thuộc nhóm Office 365</span><span class="sxs-lookup"><span data-stu-id="7714c-102">Delete sites that belong to an Office 365 group</span></span>
 
-<span data-ttu-id="d2409-103">Khi người dùng tạo một trang web mới của đội bóng từ trang chủ SharePoint hoặc bạn tạo một trang web mới của đội bóng từ Trung tâm quản trị SharePoint mới, một nhóm Office 365 tương ứng được tự động tạo ra.</span><span class="sxs-lookup"><span data-stu-id="d2409-103">When users create a new team site from SharePoint Home or you create a new team site from the new SharePoint admin center, a corresponding Office 365 group is automatically created.</span></span> <span data-ttu-id="d2409-104">Office 365 đội nhóm kết nối trang web cũng được tạo ra khi bạn tạo một nhóm hoặc một nhóm Office 365 trong Microsoft Teams.</span><span class="sxs-lookup"><span data-stu-id="d2409-104">Office 365 group-connected team sites are also created when you create an Office 365 group or a team in Microsoft Teams.</span></span> <span data-ttu-id="d2409-105">Để xóa một trang web SharePoint thuộc về một nhóm Office 365, bạn cần phải xoá nhóm Office 365 chính nó.</span><span class="sxs-lookup"><span data-stu-id="d2409-105">To delete a SharePoint site that belongs to an Office 365 group, you need to delete the Office 365 group itself.</span></span> 
+<span data-ttu-id="7714c-103">Khi người dùng tạo một trang web nhóm mới từ SharePoint Home hoặc bạn tạo một trang web nhóm mới từ Trung tâm quản trị SharePoint mới, nhóm Office 365 tương ứng được tạo tự động.</span><span class="sxs-lookup"><span data-stu-id="7714c-103">When users create a new team site from SharePoint Home or you create a new team site from the new SharePoint admin center, a corresponding Office 365 group is automatically created.</span></span> <span data-ttu-id="7714c-104">Office 365 nhóm kết nối site nhóm cũng được tạo ra khi bạn tạo một nhóm Office 365 hoặc nhóm trong Microsoft teams.</span><span class="sxs-lookup"><span data-stu-id="7714c-104">Office 365 group-connected team sites are also created when you create an Office 365 group or a team in Microsoft Teams.</span></span> <span data-ttu-id="7714c-105">Để xoá một trang web SharePoint thuộc một nhóm Office 365, bạn phải xoá nhóm Office 365 chính nó.</span><span class="sxs-lookup"><span data-stu-id="7714c-105">To delete a SharePoint site that belongs to an Office 365 group, you need to delete the Office 365 group itself.</span></span> 
   
-1. <span data-ttu-id="d2409-106">Vào [nhóm trang Trung tâm quản trị Microsoft 365](https://portal.office.com/adminportal/home#/groups).</span><span class="sxs-lookup"><span data-stu-id="d2409-106">Go to the [Groups page of the Microsoft 365 admin center](https://portal.office.com/adminportal/home#/groups).</span></span>
+1. <span data-ttu-id="7714c-106">Đi tới [trang nhóm của Trung tâm quản trị Microsoft 365](https://portal.office.com/adminportal/home#/groups).</span><span class="sxs-lookup"><span data-stu-id="7714c-106">Go to the [Groups page of the Microsoft 365 admin center](https://portal.office.com/adminportal/home#/groups).</span></span>
     
-2. <span data-ttu-id="d2409-107">Chọn hộp kiểm bên cạnh các nhóm.</span><span class="sxs-lookup"><span data-stu-id="d2409-107">Select the check box next to the group.</span></span>
+2. <span data-ttu-id="7714c-107">Chọn hộp kiểm bên cạnh nhóm.</span><span class="sxs-lookup"><span data-stu-id="7714c-107">Select the check box next to the group.</span></span>
     
-3. <span data-ttu-id="d2409-108">Chọn **xóa**.</span><span class="sxs-lookup"><span data-stu-id="d2409-108">Select **Delete**.</span></span>
+3. <span data-ttu-id="7714c-108">Chọn **xóa**.</span><span class="sxs-lookup"><span data-stu-id="7714c-108">Select **Delete**.</span></span>
     
-<span data-ttu-id="d2409-109">Lưu ý: Khi bạn xoá một nhóm, có thể có một sự chậm trễ trước khi trang web được lấy ra từ SharePoint.</span><span class="sxs-lookup"><span data-stu-id="d2409-109">NOTE: When you delete a group, there can be a delay before the site is removed from SharePoint.</span></span>
+<span data-ttu-id="7714c-109">CHÚ ý: khi bạn xoá một nhóm, có thể có độ trễ trước khi trang web bị xoá khỏi SharePoint.</span><span class="sxs-lookup"><span data-stu-id="7714c-109">NOTE: When you delete a group, there can be a delay before the site is removed from SharePoint.</span></span>
   
-<span data-ttu-id="d2409-110">**Xóa thông tin trang web hoặc các trang web cổ điển:**</span><span class="sxs-lookup"><span data-stu-id="d2409-110">**Delete communication sites or classic sites:**</span></span>
+<span data-ttu-id="7714c-110">**Xóa các trang web liên lạc hoặc các trang web cổ điển:**</span><span class="sxs-lookup"><span data-stu-id="7714c-110">**Delete communication sites or classic sites:**</span></span>
 
-1. <span data-ttu-id="d2409-111">Đi đến trang web.</span><span class="sxs-lookup"><span data-stu-id="d2409-111">Go to the site.</span></span>
+1. <span data-ttu-id="7714c-111">Truy cập trang web.</span><span class="sxs-lookup"><span data-stu-id="7714c-111">Go to the site.</span></span>
   
-2. <span data-ttu-id="d2409-112">Nhấp vào biểu tượng **cài đặt** ở phía trên bên phải.</span><span class="sxs-lookup"><span data-stu-id="d2409-112">Click the **Settings** icon in the upper right.</span></span> 
+2. <span data-ttu-id="7714c-112">Nhấp vào biểu tượng **Settings** ở phía trên bên phải.</span><span class="sxs-lookup"><span data-stu-id="7714c-112">Click the **Settings** icon in the upper right.</span></span> 
   
-3. <span data-ttu-id="d2409-113">Nhấp vào **thiết lập trang web**.</span><span class="sxs-lookup"><span data-stu-id="d2409-113">Click **Site settings**.</span></span> <span data-ttu-id="d2409-114">Theo **Trang thông tin** hoặc **Hành động của trang web**, nhấp vào **xóa trang web này**, và sau đó nhấp vào **xóa**.</span><span class="sxs-lookup"><span data-stu-id="d2409-114">Under **Site Information** or **Site Actions**, click **Delete this site**, and then click **Delete**.</span></span>
+3. <span data-ttu-id="7714c-113">Nhấp vào **cài đặt trang web**.</span><span class="sxs-lookup"><span data-stu-id="7714c-113">Click **Site settings**.</span></span> <span data-ttu-id="7714c-114">Trong **trang web thông tin** hoặc **trang web hoạt động**, bấm **xoá trang web này**, và sau đó bấm **xoá**.</span><span class="sxs-lookup"><span data-stu-id="7714c-114">Under **Site Information** or **Site Actions**, click **Delete this site**, and then click **Delete**.</span></span>
   
-<span data-ttu-id="d2409-115">**Xóa một bộ sưu tập trang web SharePoint:**</span><span class="sxs-lookup"><span data-stu-id="d2409-115">**Delete a SharePoint site collection:**</span></span>
+<span data-ttu-id="7714c-115">**Xoá bộ sưu tập trang web SharePoint:**</span><span class="sxs-lookup"><span data-stu-id="7714c-115">**Delete a SharePoint site collection:**</span></span>
 
-<span data-ttu-id="d2409-116">Để xóa một trang web:</span><span class="sxs-lookup"><span data-stu-id="d2409-116">To delete a site:</span></span>
+<span data-ttu-id="7714c-116">Để xóa một trang web:</span><span class="sxs-lookup"><span data-stu-id="7714c-116">To delete a site:</span></span>
   
-1. <span data-ttu-id="d2409-117">Trong SharePoint quản trị Trung tâm mới, trên trang web, nhấp vào **hộp kiểm** bên cạnh các trang web mà bạn muốn xóa.</span><span class="sxs-lookup"><span data-stu-id="d2409-117">In the new SharePoint admin center, on the Sites page, click the **check box** next to the site you want to delete.</span></span> 
+1. <span data-ttu-id="7714c-117">Trong Trung tâm quản trị SharePoint mới, trên trang web, bấm vào **hộp kiểm** bên cạnh trang web mà bạn muốn xóa.</span><span class="sxs-lookup"><span data-stu-id="7714c-117">In the new SharePoint admin center, on the Sites page, click the **check box** next to the site you want to delete.</span></span> 
     
-2. <span data-ttu-id="d2409-118">Trên thanh công cụ ribbon, bấm vào **xóa.**</span><span class="sxs-lookup"><span data-stu-id="d2409-118">On the ribbon toolbar, click **Delete.**</span></span>
+2. <span data-ttu-id="7714c-118">Trên thanh công cụ ruy băng, bấm **xoá.**</span><span class="sxs-lookup"><span data-stu-id="7714c-118">On the ribbon toolbar, click **Delete.**</span></span>
     
-<span data-ttu-id="d2409-119">**Xóa một trang web do tai nạn?**</span><span class="sxs-lookup"><span data-stu-id="d2409-119">**Deleted a site by accident?**</span></span>
+<span data-ttu-id="7714c-119">**Xóa một trang web do tai nạn?**</span><span class="sxs-lookup"><span data-stu-id="7714c-119">**Deleted a site by accident?**</span></span>
 
-<span data-ttu-id="d2409-120">Hãy xem [khôi phục một bộ sưu tập trang web đã bị xóa](https://go.microsoft.com/fwlink/?linkid=867660).</span><span class="sxs-lookup"><span data-stu-id="d2409-120">See [Restore a deleted site collection](https://go.microsoft.com/fwlink/?linkid=867660).</span></span>
+<span data-ttu-id="7714c-120">Xem [khôi phục bộ sưu tập trang web đã xóa](https://go.microsoft.com/fwlink/?linkid=867660).</span><span class="sxs-lookup"><span data-stu-id="7714c-120">See [Restore a deleted site collection](https://go.microsoft.com/fwlink/?linkid=867660).</span></span>
   
 
