@@ -11,16 +11,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: de665ca6defcd0d00d227435473e5a4ccf61bc82
-ms.sourcegitcommit: 0495112ad4fd0e695140ec66d190e62f03030584
+ms.openlocfilehash: 729fc5d4213acbbdf74a9d07adacb42b34170717
+ms.sourcegitcommit: ffbeb72c9199ab4ebcb0f1ad443ed3e2f4950efc
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 10/02/2019
-ms.locfileid: "37376909"
+ms.lasthandoff: 10/23/2019
+ms.locfileid: "37637799"
 ---
 # <a name="control-lobby-settings-and-level-of-participation"></a>Kiểm soát cài đặt sảnh và mức độ tham gia
 
-Các thiết lập kiểm soát mà người tham gia cuộc họp chờ đợi trong hành lang trước khi chúng được nhận vào cuộc họp và mức độ tham gia được cho phép trong một cuộc họp. Bạn có thể sử dụng PowerShell để cập nhật cài đặt chính sách cuộc họp chưa được triển khai (có nhãn "đến sớm") trong Trung tâm quản trị teams.  Xem bên dưới để biết lệnh ghép ngắn PowerShell ví dụ cho phép tất cả người dùng bỏ qua hành lang.  
+Nếu bạn muốn cho phép tất cả mọi người, bao gồm cả người dùng quay số, bên ngoài và ẩn danh để bỏ qua hành lang, bạn có thể sử dụng PowerShell để làm điều đó. Dưới đây là ví dụ về sửa đổi chính sách cuộc họp toàn cầu cho tổ chức của bạn:
+
+`Set-CsTeamsMeetingPolicy -Identity Global -AutoAdmittedUsers "Everyone" -AllowPSTNUsersToBypassLobby $True`
+
+Lệnh này hiện yêu cầu sử dụng Skype dành cho mô-đun PowerShell kinh doanh. Để có được thiết lập để sử dụng lệnh này, hãy xem chính sách quản lý qua PowerShell.
+
+Bạn có thể thiết lập chính sách mới mà sau đó bạn sẽ cần áp dụng cho người dùng. Nếu bạn sửa đổi chính sách toàn cầu, nó sẽ tự động áp dụng cho người dùng. Đối với bất kỳ thay đổi chính sách nào, bạn cần phải chờ ít nhất 4 giờ và tối đa 24 giờ để các chính sách có hiệu lực.
+
+Hãy chắc chắn để đánh giá các tài liệu dưới đây trước khi thực hiện những thay đổi này để hiểu chính xác những gì này cho phép.
+
+## <a name="understanding-teams-meeting-lobby-policy-controls"></a>Hiểu các kiểm soát chính sách của teams họp tại sảnh
 
 - [Tự động thừa nhận người](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#automatically-admit-people) là chính sách cho mỗi tổ chức điều khiển xem người tham gia cuộc họp trực tiếp hay đợi ở hành lang cho đến khi họ được người dùng xác thực nhận.
 
@@ -30,15 +40,4 @@ Các thiết lập kiểm soát mà người tham gia cuộc họp chờ đợi 
 
 - [Cho phép người tổ chức ghi đè cài đặt tiền sảnh](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-organizers-to-override-lobby-settings-coming-soon) (**sắp ra mắt**) là chính sách cho mỗi tổ chức kiểm soát xem tổ chức cuộc họp có thể ghi đè cài đặt tiền sảnh mà một quản trị viên đặt **tự động thừa** nhận và **cho phép quay số trong người dùng bỏ qua hành lang** khi họ lên lịch cuộc họp mới.
 
-**Lưu ý:** Đọc [quản lý chính sách cuộc họp trong teams](https://docs.microsoft.com/en-us/microsoftteams/meeting-policies-in-teams) để biết tổng quan đầy đủ về chính sách cuộc họp của Microsoft teams. 
-
-
-**Ví dụ về PowerShell**
-
-Nếu bạn muốn cho phép tất cả mọi người, bao gồm cả người dùng bên ngoài hoặc ẩn danh, để bỏ qua hành lang, bạn cũng có thể sử dụng PowerShell để thực hiện nhiệm vụ này.  Dưới đây là ví dụ về sửa đổi chính sách cuộc họp toàn cầu cho tổ chức của bạn.   
-
-(Hãy chắc chắn để đánh giá các tài liệu trên trước khi thực hiện những thay đổi này để hiểu chính xác những gì này cho phép.)
-
-Thiết lập CsTeamsMeetingPolicy-danh tính toàn cầu-AutoAdmittedUsers "tất cả mọi người"-Allowusnuserstobypasslobby $True
-
-Để biết thêm thông tin, xem [thiết lập CsTeamsMeetingPolicy](https://docs.microsoft.com/powershell/module/skype/set-csteamsmeetingpolicy?view=skype-ps).
+**Lưu ý:** Đọc [quản lý chính sách cuộc họp trong teams](https://docs.microsoft.com/en-us/microsoftteams/meeting-policies-in-teams) để biết tổng quan đầy đủ về chính sách cuộc họp của Microsoft teams.
