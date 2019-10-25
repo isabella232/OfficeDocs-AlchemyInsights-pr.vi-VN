@@ -3,7 +3,6 @@ title: Lưu trữ SharePoint
 ms.author: kaarins
 author: kaarins
 manager: scotv
-ms.date: 5/17/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,20 +12,26 @@ ms.custom:
 - "2008"
 - "9000355"
 ms.assetid: 8e0ec879-3f0e-423b-9d72-5e52fc2b9e0c
-ms.openlocfilehash: 400dba3564aa48d7141f674dddea86cc39e2ba0a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8a1892e5eb6fa11b69cca63a3d8465583ddb185c
+ms.sourcegitcommit: f1493a9eea7bb6df2a284adecf4349fc6416958f
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36502756"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "37658279"
 ---
-# <a name="manage-your-sharepoint-online-storage"></a><span data-ttu-id="3b720-102">Quản lý lưu trữ SharePoint Online của bạn</span><span class="sxs-lookup"><span data-stu-id="3b720-102">Manage your SharePoint Online storage</span></span>
+# <a name="manage-your-sharepoint-online-storage"></a><span data-ttu-id="d7c10-102">Quản lý bộ nhớ SharePoint Online của bạn</span><span class="sxs-lookup"><span data-stu-id="d7c10-102">Manage your SharePoint Online storage</span></span>
 
-<span data-ttu-id="3b720-103">Đối với hầu hết các tổ chức, lưu trữ SharePoint quản lý tự động nên bạn không cần phải thiết lập giới hạn cho mỗi bộ sưu tập trang web.</span><span class="sxs-lookup"><span data-stu-id="3b720-103">For most organizations, SharePoint storage is managed automatically so you don't need to set limits per site collection.</span></span> <span data-ttu-id="3b720-104">Để kiểm tra bao nhiêu lưu trữ SharePoint bạn có:</span><span class="sxs-lookup"><span data-stu-id="3b720-104">To check how much SharePoint storage you have:</span></span>
-  
-- <span data-ttu-id="3b720-105">Trong Trung tâm quản trị mới SharePoint, ở phía trên bên phải của trang web, tìm kiếm lưu trữ có sẵn và tất cả của bạn.</span><span class="sxs-lookup"><span data-stu-id="3b720-105">In the new SharePoint admin center, in the upper right of the sites page, look for your available and total storage.</span></span>
+<span data-ttu-id="d7c10-103">Tìm hiểu cách [tính toán bộ nhớ](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectedfrom=MSDN#limits-by-plan) của người thuê dựa trên kế hoạch của bạn.</span><span class="sxs-lookup"><span data-stu-id="d7c10-103">Learn how [tenant storage is calculated](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectedfrom=MSDN#limits-by-plan) based on your plan.</span></span>
 
-<span data-ttu-id="3b720-106">Để xem thông tin về cách tính giới hạn của bạn, hãy xem [Giới hạn trực tuyến SharePoint](https://go.microsoft.com/fwlink/p/?LinkID=856113).</span><span class="sxs-lookup"><span data-stu-id="3b720-106">For info about how your limit is calculated, see [SharePoint Online Limits](https://go.microsoft.com/fwlink/p/?LinkID=856113).</span></span> <span data-ttu-id="3b720-107">Để mua lưu trữ thêm, hãy xem [thay đổi dung lượng lưu trữ cho các thuê bao của bạn](https://go.microsoft.com/fwlink/?linkid=866428).</span><span class="sxs-lookup"><span data-stu-id="3b720-107">To buy extra storage, see [Change storage space for your subscription](https://go.microsoft.com/fwlink/?linkid=866428).</span></span>
-  
-<span data-ttu-id="3b720-108">Để xem thông tin về giám sát việc lưu trữ các trang web cá nhân bằng cách sử dụng PowerShell và quản lý trang web bộ sưu tập lí theo cách thủ công, xem [quản lý trang web bộ sưu tập giới hạn dung lượng](https://go.microsoft.com/fwlink/?linkid=867833)</span><span class="sxs-lookup"><span data-stu-id="3b720-108">For info about monitoring the storage of individual sites using PowerShell and managing site collection storage manually, see [Manage site collection storage limits](https://go.microsoft.com/fwlink/?linkid=867833)</span></span>
+<span data-ttu-id="d7c10-104">Đối với hầu hết các tổ chức, bộ nhớ SharePoint được quản lý tự động, do đó bạn không cần phải đặt giới hạn cho mỗi bộ sưu tập trang web.</span><span class="sxs-lookup"><span data-stu-id="d7c10-104">For most organizations, SharePoint storage is managed automatically, so you don't need to set limits per site collection.</span></span>
+
+<span data-ttu-id="d7c10-105">Tìm hiểu cách [xem tổng số và không gian lưu trữ sẵn có cho tổ chức của bạn](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits).</span><span class="sxs-lookup"><span data-stu-id="d7c10-105">Learn how to [view the total and available storage space for your organization](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits).</span></span>
+
+<span data-ttu-id="d7c10-106">Tìm hiểu cách [quản lý giới hạn dung lượng bộ sưu tập trang web riêng lẻ](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits).</span><span class="sxs-lookup"><span data-stu-id="d7c10-106">Learn how to [manage individual site collection storage limits](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits).</span></span>
+
+<span data-ttu-id="d7c10-107">Nếu trang web của bạn không gian hoặc bạn muốn tìm hiểu thư viện hoặc danh sách nào đang sử dụng không gian, hãy đi tới > **chỉ số lưu trữ** **cài đặt trang web**(quyền quản trị bộ sưu tập trang web được yêu cầu).</span><span class="sxs-lookup"><span data-stu-id="d7c10-107">If your site is out of space or you want to learn which library or list is utilizing the space, go to **Site Settings** > **Storage Metrics** (Site Collection administrator permissions are required).</span></span>
+
+<span data-ttu-id="d7c10-108">Tìm hiểu cách theo [dõi giới hạn bộ nhớ trang web bằng cách sử dụng PowerShell](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#monitor-site-storage-limits-by-using-powershell).</span><span class="sxs-lookup"><span data-stu-id="d7c10-108">Learn how to [monitor site storage limits by using PowerShell](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#monitor-site-storage-limits-by-using-powershell).</span></span>
+
+<span data-ttu-id="d7c10-109">Tìm hiểu cách [mua bộ nhớ bổ sung](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-storage-space).</span><span class="sxs-lookup"><span data-stu-id="d7c10-109">Learn how to [buy extra storage](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-storage-space).</span></span> 
   
