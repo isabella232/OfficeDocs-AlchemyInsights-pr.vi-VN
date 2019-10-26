@@ -13,16 +13,16 @@ ms.custom:
 - "1276"
 - "8000079"
 ms.openlocfilehash: e0c2029ce40e4c105c7a4790f15555f9cd3b1fee
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36536529"
 ---
-# <a name="issues-with-junk-email-claiming-to-be-from-linkedin"></a><span data-ttu-id="4f00c-102">Các vấn đề với email rác tự xưng là từ LinkedIn</span><span class="sxs-lookup"><span data-stu-id="4f00c-102">Issues with junk email claiming to be from LinkedIn</span></span>
+# <a name="issues-with-junk-email-claiming-to-be-from-linkedin"></a><span data-ttu-id="8fa05-102">Các vấn đề với email rác tự xưng là từ LinkedIn</span><span class="sxs-lookup"><span data-stu-id="8fa05-102">Issues with junk email claiming to be from LinkedIn</span></span>
 
-<span data-ttu-id="4f00c-103">Chúng tôi biết rằng một số người dùng nhận được email rác mà tuyên bố là từ LinkedIn.</span><span class="sxs-lookup"><span data-stu-id="4f00c-103">We're aware that some users are receiving junk email which claims to be from LinkedIn.</span></span>
+<span data-ttu-id="8fa05-103">Chúng tôi biết rằng một số người dùng nhận được email rác mà tuyên bố là từ LinkedIn.</span><span class="sxs-lookup"><span data-stu-id="8fa05-103">We're aware that some users are receiving junk email which claims to be from LinkedIn.</span></span>
 
-<span data-ttu-id="4f00c-104">Chúng tôi khuyên bạn nên sử dụng quy tắc hộp thư đến để lọc các email này.</span><span class="sxs-lookup"><span data-stu-id="4f00c-104">We recommend using an inbox rule to filter these emails.</span></span>
+<span data-ttu-id="8fa05-104">Chúng tôi khuyên bạn nên sử dụng quy tắc hộp thư đến để lọc các email này.</span><span class="sxs-lookup"><span data-stu-id="8fa05-104">We recommend using an inbox rule to filter these emails.</span></span>
 
-<span data-ttu-id="4f00c-105">Để biết thêm thông tin, đọc cách [sử dụng quy tắc hộp thư đến trong Outlook.com](https://support.office.com/article/4b094371-a5d7-49bd-8b1b-4e4896a7cc5d?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="4f00c-105">For more information, read how to [use inbox rules in Outlook.com](https://support.office.com/article/4b094371-a5d7-49bd-8b1b-4e4896a7cc5d?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+<span data-ttu-id="8fa05-105">Để biết thêm thông tin, đọc cách [sử dụng quy tắc hộp thư đến trong Outlook.com](https://support.office.com/article/4b094371-a5d7-49bd-8b1b-4e4896a7cc5d?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="8fa05-105">For more information, read how to [use inbox rules in Outlook.com](https://support.office.com/article/4b094371-a5d7-49bd-8b1b-4e4896a7cc5d?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>

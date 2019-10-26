@@ -9,22 +9,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 395eb03f-2885-43d5-b2fe-55febf85b1e5
 ms.openlocfilehash: 56aa04f7866227c4b5a1e1828d3c10ea3746d00a
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36748346"
 ---
-# <a name="who-has-a-file-checked-out"></a><span data-ttu-id="3b182-102">Ai có một tập tin kiểm tra ra?</span><span class="sxs-lookup"><span data-stu-id="3b182-102">Who has a file checked out?</span></span>
+# <a name="who-has-a-file-checked-out"></a><span data-ttu-id="a6004-102">Ai có một tập tin kiểm tra ra?</span><span class="sxs-lookup"><span data-stu-id="a6004-102">Who has a file checked out?</span></span>
 
-<span data-ttu-id="3b182-103">Để xem ai đã kiểm tra tệp trong SharePoint, bạn có thể thực hiện hoặc một trong các bước sau:</span><span class="sxs-lookup"><span data-stu-id="3b182-103">To see who has a file checked out in SharePoint, you can do either one of the following steps:</span></span>
+<span data-ttu-id="a6004-103">Để xem ai đã kiểm tra tệp trong SharePoint, bạn có thể thực hiện hoặc một trong các bước sau:</span><span class="sxs-lookup"><span data-stu-id="a6004-103">To see who has a file checked out in SharePoint, you can do either one of the following steps:</span></span>
   
-1. <span data-ttu-id="3b182-104">Di chuột qua **kiểm tra** để xem chú giải công cụ cho bạn biết ai đã kiểm tra tệp.</span><span class="sxs-lookup"><span data-stu-id="3b182-104">Hover over **Checked Out** to see a tooltip that tells you who has the file checked out.</span></span> 
+1. <span data-ttu-id="a6004-104">Di chuột qua **kiểm tra** để xem chú giải công cụ cho bạn biết ai đã kiểm tra tệp.</span><span class="sxs-lookup"><span data-stu-id="a6004-104">Hover over **Checked Out** to see a tooltip that tells you who has the file checked out.</span></span> 
     
-2. <span data-ttu-id="3b182-105">Thêm **kiểm tra theo** cột để xem mặc định của thư viện.</span><span class="sxs-lookup"><span data-stu-id="3b182-105">Add the **Checked Out By** column to the default view of the library.</span></span> <span data-ttu-id="3b182-106">Bằng cách này, mọi người có thể dễ dàng xem ai đã kiểm tra tài liệu.</span><span class="sxs-lookup"><span data-stu-id="3b182-106">This way, everyone can easily see who has a document checked out.</span></span> 
+2. <span data-ttu-id="a6004-105">Thêm **kiểm tra theo** cột để xem mặc định của thư viện.</span><span class="sxs-lookup"><span data-stu-id="a6004-105">Add the **Checked Out By** column to the default view of the library.</span></span> <span data-ttu-id="a6004-106">Bằng cách này, mọi người có thể dễ dàng xem ai đã kiểm tra tài liệu.</span><span class="sxs-lookup"><span data-stu-id="a6004-106">This way, everyone can easily see who has a document checked out.</span></span> 
     
-<span data-ttu-id="3b182-107">Để tìm hiểu cách thêm cột đã kiểm tra trong SharePoint, hãy xem [tạo một cột trong danh sách hoặc thư viện](https://go.microsoft.com/fwlink/?linkid=2019591).</span><span class="sxs-lookup"><span data-stu-id="3b182-107">To learn how to add a Checked Out By column in SharePoint, see [Create a column in a list or library](https://go.microsoft.com/fwlink/?linkid=2019591).</span></span> 
+<span data-ttu-id="a6004-107">Để tìm hiểu cách thêm cột đã kiểm tra trong SharePoint, hãy xem [tạo một cột trong danh sách hoặc thư viện](https://go.microsoft.com/fwlink/?linkid=2019591).</span><span class="sxs-lookup"><span data-stu-id="a6004-107">To learn how to add a Checked Out By column in SharePoint, see [Create a column in a list or library](https://go.microsoft.com/fwlink/?linkid=2019591).</span></span> 
   
-<span data-ttu-id="3b182-108">Xem thêm các câu hỏi thường gặp về nhận phòng hoặc trả phòng, xem các [câu hỏi hàng đầu về kiểm tra,](https://go.microsoft.com/fwlink/?linkid=2018786)nhận phòng.</span><span class="sxs-lookup"><span data-stu-id="3b182-108">See more frequently asked questions about check in or check out, see [Top questions about check out, check in](https://go.microsoft.com/fwlink/?linkid=2018786).</span></span>
+<span data-ttu-id="a6004-108">Xem thêm các câu hỏi thường gặp về nhận phòng hoặc trả phòng, xem các [câu hỏi hàng đầu về kiểm tra,](https://go.microsoft.com/fwlink/?linkid=2018786)nhận phòng.</span><span class="sxs-lookup"><span data-stu-id="a6004-108">See more frequently asked questions about check in or check out, see [Top questions about check out, check in](https://go.microsoft.com/fwlink/?linkid=2018786).</span></span>
   
 

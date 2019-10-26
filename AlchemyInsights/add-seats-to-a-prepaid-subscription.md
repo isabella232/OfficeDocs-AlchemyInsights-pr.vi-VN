@@ -14,27 +14,27 @@ ms.custom:
 - "1500007"
 ms.assetid: 9595e2e7-5f72-4b08-9e16-183fc6e9c108
 ms.openlocfilehash: 5c01fa5ea22686c2c79e7678823ffa7fe31c3f89
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36661030"
 ---
-# <a name="add-seats-to-a-prepaid-subscription"></a><span data-ttu-id="b2205-102">Thêm chỗ ngồi vào đăng ký trả trước</span><span class="sxs-lookup"><span data-stu-id="b2205-102">Add seats to a prepaid subscription</span></span>
+# <a name="add-seats-to-a-prepaid-subscription"></a><span data-ttu-id="4605c-102">Thêm chỗ ngồi vào đăng ký trả trước</span><span class="sxs-lookup"><span data-stu-id="4605c-102">Add seats to a prepaid subscription</span></span>
 
-<span data-ttu-id="b2205-103">Giấy phép Office 365 trả trước được cấp cho bạn dưới dạng mã chữ số 25 ký tự.</span><span class="sxs-lookup"><span data-stu-id="b2205-103">Prepaid Office 365 licenses are issued to you as a 25-character alphanumeric code.</span></span> <span data-ttu-id="b2205-104">Sau khi bạn đã mua giấy phép bạn cần, bạn có thể thêm chúng vào đăng ký của bạn.</span><span class="sxs-lookup"><span data-stu-id="b2205-104">After you have purchased the licenses you need, you can add them to your subscription.</span></span> 
+<span data-ttu-id="4605c-103">Giấy phép Office 365 trả trước được cấp cho bạn dưới dạng mã chữ số 25 ký tự.</span><span class="sxs-lookup"><span data-stu-id="4605c-103">Prepaid Office 365 licenses are issued to you as a 25-character alphanumeric code.</span></span> <span data-ttu-id="4605c-104">Sau khi bạn đã mua giấy phép bạn cần, bạn có thể thêm chúng vào đăng ký của bạn.</span><span class="sxs-lookup"><span data-stu-id="4605c-104">After you have purchased the licenses you need, you can add them to your subscription.</span></span> 
 
-1. <span data-ttu-id="b2205-105">Trong Trung tâm quản trị, hãy chuyển đến trang sản phẩm **thanh toán** > [& dịch vụ](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="b2205-105">In the admin center, go to the **Billing** > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+1. <span data-ttu-id="4605c-105">Trong Trung tâm quản trị, hãy chuyển đến trang sản phẩm **thanh toán** > [& dịch vụ](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="4605c-105">In the admin center, go to the **Billing** > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
 
-2. <span data-ttu-id="b2205-106">Tìm gói đăng ký bạn muốn thêm giấy phép vào.</span><span class="sxs-lookup"><span data-stu-id="b2205-106">Find the subscription you want to add licenses to.</span></span> <span data-ttu-id="b2205-107">Trong phần **giấy phép** , chọn Thêm **giấy phép**khác.</span><span class="sxs-lookup"><span data-stu-id="b2205-107">In the **Licenses** section, select **Add more licenses**.</span></span>
+2. <span data-ttu-id="4605c-106">Tìm gói đăng ký bạn muốn thêm giấy phép vào.</span><span class="sxs-lookup"><span data-stu-id="4605c-106">Find the subscription you want to add licenses to.</span></span> <span data-ttu-id="4605c-107">Trong phần **giấy phép** , chọn Thêm **giấy phép**khác.</span><span class="sxs-lookup"><span data-stu-id="4605c-107">In the **Licenses** section, select **Add more licenses**.</span></span>
 
-3. <span data-ttu-id="b2205-108">Trong ngăn **thêm giấy phép** khác, hãy chọn **sử dụng khóa sản phẩm mới và chưa dùng**, sau đó chọn **tiếp theo**.</span><span class="sxs-lookup"><span data-stu-id="b2205-108">In the **Add more licenses** pane, select **Use a new and unused product key**, then select **Next**.</span></span>
+3. <span data-ttu-id="4605c-108">Trong ngăn **thêm giấy phép** khác, hãy chọn **sử dụng khóa sản phẩm mới và chưa dùng**, sau đó chọn **tiếp theo**.</span><span class="sxs-lookup"><span data-stu-id="4605c-108">In the **Add more licenses** pane, select **Use a new and unused product key**, then select **Next**.</span></span>
 
-4. <span data-ttu-id="b2205-109">Nhập khóa sản phẩm, sau đó chọn **tiếp theo**.</span><span class="sxs-lookup"><span data-stu-id="b2205-109">Enter the product key, then select **Next**.</span></span>
+4. <span data-ttu-id="4605c-109">Nhập khóa sản phẩm, sau đó chọn **tiếp theo**.</span><span class="sxs-lookup"><span data-stu-id="4605c-109">Enter the product key, then select **Next**.</span></span>
 
     > [!NOTE]
-    > <span data-ttu-id="b2205-110">Nếu bạn có nhiều hơn một khóa sản phẩm, bạn có thể chọn **Thêm một khóa sản phẩm khác** để nhập chúng.</span><span class="sxs-lookup"><span data-stu-id="b2205-110">If you have more than one product key, you can select **Add another product key** to enter them.</span></span>
+    > <span data-ttu-id="4605c-110">Nếu bạn có nhiều hơn một khóa sản phẩm, bạn có thể chọn **Thêm một khóa sản phẩm khác** để nhập chúng.</span><span class="sxs-lookup"><span data-stu-id="4605c-110">If you have more than one product key, you can select **Add another product key** to enter them.</span></span>
 
-5. <span data-ttu-id="b2205-111">Hãy đánh giá chi tiết đơn đặt hàng, sau đó chọn **đổi**.</span><span class="sxs-lookup"><span data-stu-id="b2205-111">Review your order details, then select **Redeem**.</span></span>
+5. <span data-ttu-id="4605c-111">Hãy đánh giá chi tiết đơn đặt hàng, sau đó chọn **đổi**.</span><span class="sxs-lookup"><span data-stu-id="4605c-111">Review your order details, then select **Redeem**.</span></span>
 
-<span data-ttu-id="b2205-112">Để tìm hiểu thêm, hãy xem [thêm giấy phép vào hoặc mở rộng đăng ký trả tiền để sử dụng khóa sản phẩm](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).</span><span class="sxs-lookup"><span data-stu-id="b2205-112">To learn more, see [Add licenses to or extend a subscription paid for using a product key](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).</span></span>
+<span data-ttu-id="4605c-112">Để tìm hiểu thêm, hãy xem [thêm giấy phép vào hoặc mở rộng đăng ký trả tiền để sử dụng khóa sản phẩm](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).</span><span class="sxs-lookup"><span data-stu-id="4605c-112">To learn more, see [Add licenses to or extend a subscription paid for using a product key](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).</span></span>
