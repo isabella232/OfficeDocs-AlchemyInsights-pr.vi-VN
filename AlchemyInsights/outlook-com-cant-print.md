@@ -12,12 +12,12 @@ ms.custom:
 - "8000046"
 - "2507"
 ms.openlocfilehash: c2ce75066631e822c4cda2f7fa4019e20632cea0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36547945"
 ---
 # <a name="unable-to-print"></a>Không thể in
 
-Chúng tôi nhận thức của một vấn đề nơi một số người dùng không thể in khi sử dụng trình duyệt Safari hoặc cạnh. Trong khi chúng tôi làm việc trên một sửa chữa cho điều này, xin vui lòng sử dụng trình duyệt khác. Chúng tôi xin lỗi vì sự bất tiện này.
+Chúng tôi biết sự cố trong đó một số người dùng không thể in khi sử dụng trình duyệt Safari hoặc Edge. Trong khi chúng tôi làm việc trên một sửa chữa cho điều này, hãy sử dụng một trình duyệt khác. Chúng tôi xin lỗi vì sự bất tiện này.
