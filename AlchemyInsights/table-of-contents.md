@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3042"
 - "9000592"
-ms.openlocfilehash: 388573cc1d5b378f0da9fe8d6d3430cc5000d112
-ms.sourcegitcommit: 8e1fa99a781674a79ae5d0385a48be2e209a2386
+ms.openlocfilehash: a7d34c8b99e1cdab915bfeec20ad5f9bdf1c1603
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 10/16/2019
-ms.locfileid: "37554385"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769793"
 ---
 # <a name="table-of-contents"></a>Bảng nội dung
 
-Để biết thông tin về việc tạo ra một bảng nội dung, xem [chèn một bảng nội dung](https://support.office.com/article/882e8564-0edb-435e-84b5-1d8552ccf0c0), hoặc tải về [bảng của chúng tôi nội dung hướng dẫn](https://go.microsoft.com/fwlink/?linkid=2065106).
+Để biết thông tin về việc tạo ra một bảng nội dung trong Word, xem [chèn một bảng nội dung](https://support.office.com/article/882e8564-0edb-435e-84b5-1d8552ccf0c0), hoặc tải về [bảng của chúng tôi nội dung hướng dẫn](https://go.microsoft.com/fwlink/?linkid=2065106).
 
 **Giải pháp cho các vấn đề phổ biến**
 

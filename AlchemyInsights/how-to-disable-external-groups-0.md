@@ -2,7 +2,6 @@
 title: Làm thế nào để vô hiệu hóa nhóm bên ngoài
 ms.author: pebaum
 author: pebaum
-ms.date: 8/1/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,14 +10,14 @@ ms.custom:
 - "965"
 - "6000006"
 ms.assetid: 962c2a4f-7dac-4ccc-98a8-d0d283c95808
-ms.openlocfilehash: a467cc5deea6ae3a6f12832d238928daf4800039
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: b62d53d1698f0afd3d89139f2cc2711a8a9b8ba6
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36739587"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769073"
 ---
-# <a name="how-to-disable-external-groups"></a>Làm thế nào để vô hiệu hóa nhóm bên ngoài
+# <a name="how-to-give-access-to-external-users-in-yammer"></a>Cách cấp quyền truy cập cho người dùng bên ngoài trong yammer
 
 Có bốn cách người dùng bên ngoài có thể truy cập vào mạng của bạn trong yammer.
   

@@ -1,9 +1,8 @@
 ---
-title: 718 thêm liên hệ bên ngoài / người bên ngoài tổ chức danh sách phân phối
+title: 718 thêm số liên lạc bên ngoài/người bên ngoài tổ chức vào danh sách phân phối
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/13/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +12,15 @@ ms.custom:
 - "718"
 - "3"
 ms.assetid: e6d64379-2dd9-4fda-a9bd-e9d61a5a4205
-ms.openlocfilehash: e31a9f4213a69e84f78fcd00b767edb04bd9ec4e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 57f8b5859a5a91b9ce83d7ca8da5330ac73413f9
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36494585"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37766661"
 ---
-# <a name="add-external-email-addresses-to-a-distribution-group"></a>Thêm địa chỉ e-mail bên ngoài vào một nhóm phân phối
+# <a name="add-external-email-addresses-to-a-distribution-group"></a>Thêm địa chỉ email bên ngoài vào nhóm phân phối
 
-Trước tiên, bạn cần tạo một số liên lạc trong tổ chức của bạn cho địa chỉ e-mail bên ngoài. Sau đó, bạn có thể thêm số liên lạc vào nhóm phân phối. Để biết thêm thông tin, hãy xem [thêm bên ngoài người dùng vào một nhóm phân phối?](https://support.office.com/client/caa0f310-0bb7-48e3-8ad2-cb358b53bbba).
+Trước tiên, bạn cần tạo một liên hệ trong tổ chức của bạn cho địa chỉ email bên ngoài. Sau đó, bạn có thể thêm liên hệ vào nhóm phân phối. Để biết thêm thông tin, xem [Thêm người dùng bên ngoài vào một nhóm phân phối?](https://support.office.com/client/caa0f310-0bb7-48e3-8ad2-cb358b53bbba).
 
-Nếu bạn muốn người dùng bên ngoài để có thể gửi thư đến nhóm phân phối, xác minh các nhóm được cấu hình để chấp nhận thư từ người gửi bên ngoài. Để biết thêm chi tiết, hãy xem [quản lý gửi](https://technet.microsoft.com/library/bb124513.aspx#deliverymanagement).
+Nếu bạn muốn người dùng bên ngoài có thể gửi thư đến nhóm phân phối, xác minh nhóm được cấu hình để chấp nhận thư từ người gửi bên ngoài. Để biết thêm thông tin, xem [quản lý giao hàng](https://technet.microsoft.com/library/bb124513.aspx#deliverymanagement).

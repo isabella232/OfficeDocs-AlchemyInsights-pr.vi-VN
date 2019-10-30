@@ -2,7 +2,6 @@
 title: Tạo một trang web SharePoint
 ms.author: efrene
 author: efrene
-ms.date: 1/16/2019
 ms.audience: ITPro
 ms.topic: article
 ms.collection: Adm_O365
@@ -14,12 +13,12 @@ ms.custom:
 - "1386"
 - "2303"
 ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
-ms.openlocfilehash: 30c51d84005534cc1de9e8b8136da1a07be57b73
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: ac894195d847dfc009bc0b57647e1a474361f1c1
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36738219"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769613"
 ---
 # <a name="create-a-sharepoint-site"></a>Tạo một trang web SharePoint
 
@@ -31,10 +30,10 @@ Bạn có thể xem những thông tin sau để tạo trang web SharePoint:
 
 
   
-> [! Mẹo
-> - Bạn không thể tạo một trang web có cùng URL của trang web hiện có. Nếu bạn đã xóa một trang web và muốn sử dụng lại URL, có thể trang web đã xóa vẫn tồn tại trong **các trang web đã xóa**. Để quản lý các trang web đã xóa, xem, [xóa một trang web](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site). Để loại bỏ hoàn toàn một trang web với PowerShell, hãy xem ví dụ lệnh ghép ngắn [Remove-SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) .
-> - Một số người dùng có thể không thể tạo một trang web. Xem [quản lý tạo trang web trong SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation).
-> - Có thể trang web xuất hiện bị kẹt lúc **tạo** lâu hơn dự kiến. Nếu hơn 24 giờ đã trôi qua kể từ lần đầu tiên bạn thấy vấn đề này, vui lòng đăng nhập một vé hỗ trợ. Trong nhiều trường hợp, chúng tôi đã làm việc trên một giải pháp. Xin vui lòng cho chúng tôi ít nhất 24 giờ để hoàn thành một giải pháp.
-> - Nếu bạn cần tạo một trang web nhóm mới không bao gồm một nhóm Office 365, 
+**Mẹo:**
+- Bạn không thể tạo một trang web có cùng URL của trang web hiện có. Nếu bạn đã xóa một trang web và muốn sử dụng lại URL, có thể trang web đã xóa vẫn tồn tại trong **các trang web đã xóa**. Để quản lý các trang web đã xóa, xem, [xóa một trang web](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site). Để loại bỏ hoàn toàn một trang web với PowerShell, hãy xem ví dụ lệnh ghép ngắn [Remove-SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) .
+- Một số người dùng có thể không thể tạo một trang web. Xem [quản lý tạo trang web trong SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation).
+- Có thể trang web xuất hiện bị kẹt lúc **tạo** lâu hơn dự kiến. Nếu hơn 24 giờ đã trôi qua kể từ lần đầu tiên bạn thấy vấn đề này, vui lòng đăng nhập một vé hỗ trợ. Trong nhiều trường hợp, chúng tôi đã làm việc trên một giải pháp. Xin vui lòng cho chúng tôi ít nhất 24 giờ để hoàn thành một giải pháp.
+- Nếu bạn cần tạo một trang web nhóm mới không bao gồm một nhóm Office 365, 
 
 

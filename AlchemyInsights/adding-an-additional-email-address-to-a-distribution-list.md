@@ -1,9 +1,8 @@
 ---
-title: 713 thêm một địa chỉ email bổ sung vào danh sách phân phối
+title: 713 thêm địa chỉ email bổ sung vào danh sách phân phối
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/13/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,21 +12,21 @@ ms.custom:
 - "713"
 - "3"
 ms.assetid: 870f16c0-24ac-4dec-a3e3-14719e6a496a
-ms.openlocfilehash: 5bf91d9ff6824fd5ee10510c4a5f0c85edf4be7e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c51ed54fcbdf131605995b95bd0619d877e96b29
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36494801"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37766229"
 ---
-# <a name="add-an-email-address-for-a-distribution-group"></a>Thêm một địa chỉ thư điện tử cho một nhóm phân phối
+# <a name="add-an-email-address-for-a-distribution-group"></a>Thêm địa chỉ email cho một nhóm phân phối
 
 Để thêm địa chỉ email cho một nhóm phân phối hiện tại, hãy làm theo các bước sau:
 
-1. Trong [trao đổi Trung tâm](https://outlook.office365.com/ecp/), đi tới **người nhận** \> **nhóm**.
+1. Trong [Trung tâm quản trị Exchange](https://outlook.office365.com/ecp/), đi **tới người nhận** \> **nhóm**.
 
-2. Chọn Nhóm phân phối mà bạn muốn sửa đổi, và sau đó nhấp vào **chỉnh sửa**.
+2. Chọn Nhóm phân phối bạn muốn sửa đổi, và sau đó nhấp vào **chỉnh sửa**.
 
-3. Trong các thuộc tính của nhóm, hãy đi tới tab **Email lựa chọn** để thêm địa chỉ email. 
+3. Trong thuộc tính của nhóm, hãy chuyển đến tab **tùy chọn email** để thêm địa chỉ email. 
 
-Để biết thêm chi tiết, hãy xem [tuỳ chọn Email](https://technet.microsoft.com/library/bb124513.aspx#emailoptions).
+Để biết thêm thông tin, xem [tùy chọn email](https://technet.microsoft.com/library/bb124513.aspx#emailoptions).

@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: 6632bb0c09c7ce99f14cd55582025b37a846369d
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: bf8be9ffe2bfa45ed2cf149c1c4fa118b40e816d
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37654278"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768462"
 ---
 # <a name="control-lobby-settings-and-level-of-participation"></a>Kiểm soát cài đặt sảnh và mức độ tham gia
 
-Nếu bạn muốn cho phép tất cả mọi người, bao gồm cả người dùng quay số, bên ngoài và ẩn danh để bỏ qua hành lang, bạn có thể sử dụng PowerShell để làm điều đó. Dưới đây là ví dụ về sửa đổi chính sách cuộc họp toàn cầu cho tổ chức của bạn:
+Nếu bạn muốn cho phép mọi người, bao gồm cả người dùng quay số, bên ngoài và ẩn danh để bỏ qua hành lang trong Microsoft teams, bạn có thể sử dụng PowerShell để thực hiện. Dưới đây là ví dụ về sửa đổi chính sách cuộc họp toàn cầu cho tổ chức của bạn:
 
 `Set-CsTeamsMeetingPolicy -Identity Global -AutoAdmittedUsers "Everyone" -AllowPSTNUsersToBypassLobby $True`
 

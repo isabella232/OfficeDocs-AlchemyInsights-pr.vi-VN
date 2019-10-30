@@ -2,19 +2,18 @@
 title: 'Lỗi 404: không tìm thấy tệp'
 ms.author: efrene
 author: efrene
-ms.date: 9/18/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: b6d530d4438eefd509670119cd61847e525ecb22
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: d05755133bd3e335bea74c69f599b66e1c6017da
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36740235"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769289"
 ---
-# <a name="error-404-file-not-found"></a>Lỗi 404: không tìm thấy tệp
+# <a name="error-404-file-not-found-in-sharepoint-or-onedrive"></a>Lỗi 404: tệp không tìm thấy trong SharePoint hoặc OneDrive
 
 **Lỗi 404: tệp không tìm thấy** được khi người dùng đang cố gắng truy cập vào một trang web hoặc tệp trong SharePoint hoặc OneDrive. Điều này thường được gây ra bởi một trang web hoặc tập tin hoặc nhóm được đổi tên, di chuyển hoặc xóa.
 Người dùng sẽ gặp phải lỗi khi cố gắng truy cập vào bộ sưu tập trang web gốc và nó đã bị xoá.

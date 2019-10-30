@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "2663"
 - "9000660"
-ms.openlocfilehash: fc222b2ea469f4f4d5233e87f7c9fd291bb5794c
-ms.sourcegitcommit: 1e5de64e34e9ba16185b3a895b3152ca61718f4b
+ms.openlocfilehash: 39efd34a8eb163758bcb2ac9a3d45c3fac9b67d2
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37344224"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768895"
 ---
 # <a name="installing-teams-as-standalone-or-with-new-or-existing-office-installations"></a>Cài đặt teams là độc lập hoặc với cài đặt Office mới hoặc hiện tại
 
-Microsoft teams hiện được đưa vào như một phần của các *cài đặt mới* của Office 365 ProPlus, Office 365 Business và Office cho Mac. Để biết thêm thông tin, xem [khi nào Microsoft teams sẽ bắt đầu được đưa vào cài đặt Office mới?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus)
+Microsoft teams được bao gồm như một phần của *cài đặt mới* của Office 365 ProPlus, Office 365 Business và Office cho Mac. Để biết thêm thông tin, xem [khi nào Microsoft teams sẽ bắt đầu được đưa vào cài đặt Office mới?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus)
 
 Ngoài ra, bắt đầu với phiên bản 1906 trong hàng tháng kênh, nhóm sẽ được *Thêm vào cài đặt hiện tại* của Office 365 ProPlus (và Office 365 Business) trên thiết bị chạy Windows khi bạn cập nhật cài đặt hiện tại phiên bản mới nhất. Để biết thêm thông tin, xem [những gì về cài đặt hiện tại của Office?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-office-365-proplus)
 

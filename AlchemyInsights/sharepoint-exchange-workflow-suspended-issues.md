@@ -10,18 +10,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 4c0220dd2535a1ef41aeef99e2bfc3fe28bac03a
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 5e61491b626bfe75fd26a15ee54be82d9efa19a7
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36751694"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37766913"
 ---
 # <a name="workflows-in-sharepoint"></a>Luồng công việc trong SharePoint
 
 Nếu luồng công việc SharePoint không gửi email, tổ chức của bạn có thể gặp phải giới hạn người gửi Exchange Online.
 
-Thông báo lỗi ' luồng công việc bị treo ' có thể xảy ra nếu bạn có một trong các mục sau:
+Thông báo lỗi ' quy trình làm việc bị treo ' có thể xảy ra nếu bạn có một trong các mục sau:
 
 - Bạn có một công việc trong SharePoint trực tuyến sử dụng loại nền tảng công việc SharePoint 2010 hoặc SharePoint 2013.
 

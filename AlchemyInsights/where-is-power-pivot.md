@@ -1,9 +1,8 @@
 ---
-title: Điện Pivot ở đâu?
+title: Power Pivot ở đâu?
 ms.author: chrsm
 author: chrsm
 manager: jecon
-ms.date: 2/27/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -15,31 +14,31 @@ ms.custom:
 - "146"
 - "2200001"
 ms.assetid: 0d95078e-9dbf-4def-8bfc-d6532c1bff00
-ms.openlocfilehash: 5767fead9f67ad1070b3dbe65415d4c728cfd92f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1d4dc46bcb0d0448169c534581b39d37e67bfbe0
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36530981"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769865"
 ---
-# <a name="where-is-power-pivot"></a>Điện Pivot ở đâu?
+# <a name="where-is-power-pivot"></a>Power Pivot ở đâu?
 
-Có ba lý do tại sao bạn không thấy điện Pivot:
+Có ba lý do khiến bạn không thể thấy Power Pivot:
   
-**Các phiên bản của Excel không bao gồm nó**
+**Phiên bản Excel của bạn không bao gồm**
   
-Không phải tất cả các phiên bản của Excel bao gồm các điện Pivot. Bạn sẽ cần phải nâng cấp lên phiên bản Office bao gồm các điện Pivot. [Kiểm tra danh sách các phiên bản được hỗ trợ.](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)
+Không phải tất cả các phiên bản của Excel đều bao gồm Power Pivot. Bạn sẽ cần nâng cấp lên phiên bản Office bao gồm Power Pivot. [Kiểm tra danh sách các phiên bản được hỗ trợ.](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)
   
-**Bạn chưa bật điện Pivot**
+**Bạn chưa bật Power Pivot**
   
-Nếu bạn đang làm việc trong một phiên bản của Excel hỗ trợ điện Pivot, kiểm tra để thấy rằng các Add-in được kích hoạt:
+Nếu bạn đang làm việc trong một phiên bản của Excel hỗ trợ Power pivot, kiểm tra xem các Add-in được kích hoạt:
   
-1. Chọn **File** \> **tùy chọn** \> **Add-in**.
+1. Chọn **** \> **tùy chọn** \> tệp **bổ sung**.
 
-2. Trong người **quản lý** hộp thả xuống, chọn **COM Add-in** và bấm vào **đi**.
+2. Trong hộp thả xuống **quản lý** , chọn **com Add-in** và bấm **đi**.
 
-3. Trong hộp thoại **Com Add-ins** , chọn hộp kiểm bên cạnh **Microsoft điện Pivot cho Excel**, và sau đó nhấp vào **OK**.
+3. Trong hộp thoại com trình bổ **sung** , chọn hộp kiểm bên cạnh **Microsoft Power Pivot cho Excel**, và sau đó bấm **OK**.
 
-**Bạn có nhiều các mục đăng ký hoặc các tài khoản**
+**Bạn có nhiều đăng ký hoặc tài khoản**
   
-Bạn có thể có khác nhau mục đăng ký Office 365 được gán cho tài khoản người dùng khác nhau. Đảm bảo rằng bạn đã đăng nhập vào tài khoản với một phiên bản của Excel hỗ trợ điện Pivot. Kiểm tra danh sách [hỗ trợ phiên bản](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx), và thực hiện theo các hướng dẫn để [chuyển đổi giữa các tài khoản Office khác nhau](https://support.office.com/article/b9582171-fd1f-4284-9846-bdd72bb28426.aspx#BKMK_WebSwitchAccounts).
+Bạn có thể có các đăng ký Office 365 được gán cho tài khoản người dùng khác nhau. Đảm bảo bạn đã đăng nhập vào tài khoản có phiên bản Excel hỗ trợ Power Pivot. Kiểm tra danh sách các [Phiên bản được hỗ trợ](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)và làm theo hướng dẫn để [chuyển đổi giữa các tài khoản Office khác nhau](https://support.office.com/article/b9582171-fd1f-4284-9846-bdd72bb28426.aspx#BKMK_WebSwitchAccounts).

@@ -9,13 +9,13 @@ localization_priority: Normal
 ms.custom:
 - "1467"
 - "6200018"
-ms.openlocfilehash: 95c51f61f9f5ac61d77bf3286f4e4602d47e4801
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: 66911e4f87d54f635b397d02fefdcaadb68d0ecc
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36528980"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769397"
 ---
 # <a name="business-rule-not-firing-for-a-form"></a>Quy tắc kinh doanh không bắn cho biểu mẫu
 
-* [Là quy tắc kinh doanh của bạn không bắn cho một hình thức?](https://docs.microsoft.com/powerapps/maker/model-driven-apps/create-business-rules-recommendations-apply-logic-form#is-your-business-rule-not-firing-for-a-form)
+Quy tắc kinh doanh có thể không thực hiện do trường tham chiếu trong quy tắc kinh doanh không được bao gồm trong biểu mẫu. Để biết thêm thông tin, xem [là quy tắc kinh doanh của bạn không bắn cho một biểu mẫu?](https://docs.microsoft.com/powerapps/maker/model-driven-apps/create-business-rules-recommendations-apply-logic-form#is-your-business-rule-not-firing-for-a-form).

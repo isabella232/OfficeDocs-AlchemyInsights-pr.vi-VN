@@ -13,15 +13,15 @@ ms.custom:
 - "726"
 - "1200004"
 ms.assetid: 8865c68e-7e8a-4135-a254-d7f69f1ded30
-ms.openlocfilehash: 70cc2529361766c92e9167162b13e06796a9c4b0
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: e9f5143edeb71ac69c71ecbbcecde35252994ac1
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36737751"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768426"
 ---
 # <a name="block-email-forwarding"></a>Chặn chuyển tiếp email
 
-Để vô hiệu hóa chuyển tiếp email cho một hộp thư cụ thể, xem [cấu hình chuyển tiếp email](https://docs.microsoft.com/office365/admin/email/configure-email-forwarding).
+Để vô hiệu hoá chuyển tiếp email cho một hộp thư cụ thể, xem [cấu hình chuyển tiếp email trong Office 365](https://docs.microsoft.com/office365/admin/email/configure-email-forwarding).
 
 Để chặn chuyển tiếp email cho toàn bộ tổ chức, [nhiều cách để chặn chuyển tiếp email tự động trong Exchange Online](https://blogs.technet.microsoft.com/exchange/2017/12/22/the-many-ways-to-block-automatic-email-forwarding-in-exchange-online/).

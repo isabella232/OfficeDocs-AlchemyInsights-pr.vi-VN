@@ -1,5 +1,5 @@
 ---
-title: Office 365 URL và IP địa chỉ
+title: Văn phòng 365 URL và địa chỉ IP
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -14,13 +14,16 @@ ms.custom:
 - "827"
 - "1600028"
 ms.assetid: 6056169e-6e69-4b5f-bb67-15b5ef39ec59
-ms.openlocfilehash: d4cb6e1b2db4fa44305600163cc6bb173972c0a6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 31d32b007e478afe74554f96529248ccb709f570
+ms.sourcegitcommit: 0fb0a4c9ac5aa2b9d0d9dcce2dba2d2f343b5847
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36522057"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37775337"
 ---
-# <a name="office-365-urls-and-ip-address-ranges"></a>Office 365 URL và IP phạm vi địa chỉ.
+# <a name="office-365-urls-and-ip-address-ranges"></a>Văn phòng 365 URL và dải địa chỉ IP
 
-Office 365 đòi hỏi kết nối với Internet. Là hai điểm cuối trong bài viết này, [Office 365 URL và dải địa chỉ IP](https://docs.microsoft.com/office365/enterprise/office-365-ip-web-service), cần để có thể truy cập cho người dùng để truy cập vào Office 365.
+Office 365 yêu cầu kết nối Internet qua địa chỉ IP cụ thể được gọi là điểm *cuối*.
+Để biết danh sách các điểm cuối cần có thể truy cập, hãy xem [Office 365 URL và dải địa chỉ IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges) 
+
+Dịch vụ web Office 365 địa chỉ IP và URL giúp bạn xác định tốt hơn và phân biệt lưu lượng mạng Office 365, giúp bạn đánh giá, cấu hình và Cập Nhật dễ dàng hơn với các thay đổi. Xem [văn phòng 365 địa chỉ IP và URL dịch vụ web](https://docs.microsoft.com/office365/enterprise/office-365-ip-web-service).

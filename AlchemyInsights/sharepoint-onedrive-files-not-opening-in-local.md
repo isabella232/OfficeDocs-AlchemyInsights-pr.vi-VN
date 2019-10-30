@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: 8f6179e75f076fb452baf79cac71262a87595c93
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 6ae4ce4d48f136b9c9befbabacbcb554cf436b44
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36750866"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37766805"
 ---
 # <a name="problems-opening-office-files-from-sharepoint"></a>Sự cố mở tệp Office từ SharePoint
 
@@ -29,5 +29,5 @@ Nếu bạn gặp sự cố mở tệp Office và tài liệu từ SharePoint tr
 
 Để biết thêm thông tin hoặc chi tiết, vui lòng tham khảo bài viết, [khắc phục sự cố mở tài liệu trong thư viện SharePoint](https://support.office.com/article/Fix-problems-opening-documents-in-SharePoint-libraries-31329FA1-4AD0-47FC-95D8-BB0C5B12A536).
 
-**Lưu ý**: nếu bạn đang gặp vấn đề với các tài liệu mở trong trình duyệt hoặc khách hàng theo mặc định, bạn có thể cần phải thay đổi cài đặt thư viện. Để thực hiện việc này, điều hướng đến thư viện có vấn đề > biểu tượng bánh răng ở góc trên bên phải > cài đặt thư viện > cài đặt nâng cao > mở tài liệu trong trình duyệt.
+**Lưu ý:** Nếu bạn đang gặp vấn đề với các tài liệu mở trong trình duyệt hoặc khách hàng theo mặc định, bạn có thể cần phải thay đổi cài đặt thư viện. Để thực hiện việc này, điều hướng đến thư viện có vấn đề > biểu tượng bánh răng ở góc trên bên phải > >  thiết **đặt thư viện** > cài**đặt nâng cao****mở tài liệu trong trình duyệt**.
 

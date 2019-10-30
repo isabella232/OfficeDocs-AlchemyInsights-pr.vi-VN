@@ -11,15 +11,15 @@ ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
 ms.custom:
 - "2417"
 - "9000557"
-ms.openlocfilehash: 276f6b2212c9d85df726cb46a46dee7828b34c89
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: a415116b9ba437cb13426896119cd1b40d9ab491
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36545208"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768859"
 ---
-# <a name="issues-with-mfa"></a>Các vấn đề về MFA
-Có một vài điều cần kiểm tra nếu người dùng không thể đăng nhập bằng cách sử dụng nhiều yếu tố xác thực (MFA)
+# <a name="issues-with-azure-mfa"></a>Vấn đề với Azure MFA
+Có một vài điều cần kiểm tra xem người dùng không thể đăng nhập bằng cách sử dụng xác thực đa yếu tố (MFA)
 
 1. Người dùng bị ảnh hưởng có thể bị chặn trong cổng Azure Active Directory. Nếu đó là trường hợp, các nỗ lực xác thực cho người dùng cụ thể đó sẽ tự động bị từ chối. [Vui lòng làm theo các bước trong bài viết này để bỏ chặn chúng.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#block-and-unblock-users)
 

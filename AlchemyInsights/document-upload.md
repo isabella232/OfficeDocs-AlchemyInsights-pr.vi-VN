@@ -3,7 +3,6 @@ title: Tải lên tài liệu
 ms.author: toresing
 author: tomresing
 manager: scotv
-ms.date: 2/28/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ace29990-1bf3-4378-833d-22e418f0fba7
-ms.openlocfilehash: 6a2559521b4160dc337796ed8d4721ec49acf703
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: ff7000773a628001c71debf1c4365f1f551a91df
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36529473"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769433"
 ---
 # <a name="upload-files-to-onedrive-or-sharepoint"></a>Tải tệp lên OneDrive hoặc SharePoint
 
@@ -26,7 +25,10 @@ ms.locfileid: "36529473"
     
 3. Chọn tệp và kéo chúng vào vị trí trong OneDrive hoặc SharePoint. Lưu ý: nếu bạn sử dụng Microsoft Edge, Mozilla FireFox hoặc Google Chrome, bạn cũng có thể tải lên một thư mục và tất cả các tệp trong đó.
     
-> [!NOTE]
->  Bạn có thể tải lên các tập tin có kích thước lên đến 15 GB. > đường dẫn đầy đủ cho tệp (bao gồm tên tệp) không thể nhiều hơn 400 ký tự. > nếu bạn cần tải lên hơn 100 tệp, [hãy sử dụng máy khách đồng bộ OneDrive](https://go.microsoft.com/fwlink/?linkid=866427). 
+**Ghi chú:**
+
+- Bạn có thể tải lên các tập tin có kích thước lên đến 15 GB. 
+- Đường dẫn đầy đủ cho tệp (bao gồm tên tệp) không thể nhiều hơn 400 ký tự. 
+- Nếu bạn cần tải lên hơn 100 tệp, [hãy sử dụng máy khách đồng bộ OneDrive](https://go.microsoft.com/fwlink/?linkid=866427). 
   
 
