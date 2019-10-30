@@ -1,5 +1,5 @@
 ---
-title: Tải tập tin lên OneDrive hoặc SharePoint
+title: Tải tệp lên OneDrive hoặc SharePoint
 ms.author: matteva
 author: pebaum
 manager: scotv
@@ -11,22 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a016fa63-4d87-4f3d-99eb-ee134cb27dc0
-ms.openlocfilehash: 90a67243716eb66357ffa362df31f7b064170918
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9af01456f453c0d0cffc7c2d89f11eba2beda4ec
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36532533"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769901"
 ---
-# <a name="upload-files-to-onedrive-or-sharepoint"></a><span data-ttu-id="fa9f2-102">Tải tập tin lên OneDrive hoặc SharePoint</span><span class="sxs-lookup"><span data-stu-id="fa9f2-102">Upload files to OneDrive or SharePoint</span></span>
+# <a name="upload-files-to-onedrive-or-sharepoint"></a><span data-ttu-id="f0806-102">Tải tệp lên OneDrive hoặc SharePoint</span><span class="sxs-lookup"><span data-stu-id="f0806-102">Upload files to OneDrive or SharePoint</span></span>
 
-1. <span data-ttu-id="fa9f2-103">Trong trình duyệt của bạn, đi đến vị trí mà bạn muốn tải lên tập tin.</span><span class="sxs-lookup"><span data-stu-id="fa9f2-103">In your web browser, go to the location where you want to upload files.</span></span>
+1. <span data-ttu-id="f0806-103">Trong trình duyệt web của bạn, hãy chuyển đến vị trí bạn muốn tải tệp lên.</span><span class="sxs-lookup"><span data-stu-id="f0806-103">In your web browser, go to the location where you want to upload files.</span></span>
     
-2. <span data-ttu-id="fa9f2-104">Mở File Explorer và duyệt đến tập tin bạn muốn tải lên.</span><span class="sxs-lookup"><span data-stu-id="fa9f2-104">Open File Explorer and browse to the files you want to upload.</span></span>
+2. <span data-ttu-id="f0806-104">Mở file Explorer và duyệt đến các tập tin bạn muốn tải lên.</span><span class="sxs-lookup"><span data-stu-id="f0806-104">Open File Explorer and browse to the files you want to upload.</span></span>
     
-3. <span data-ttu-id="fa9f2-105">Chọn các tập tin và kéo chúng đến vị trí trong OneDrive hoặc SharePoint.</span><span class="sxs-lookup"><span data-stu-id="fa9f2-105">Select the files and drag them to the location in OneDrive or SharePoint.</span></span> <span data-ttu-id="fa9f2-106">Lưu ý: Nếu bạn dùng Microsoft Edge, Mozilla FireFox hoặc Google Chrome, bạn có thể cũng tải lên một thư mục và tất cả các file trong đó.</span><span class="sxs-lookup"><span data-stu-id="fa9f2-106">Note: If you use Microsoft Edge, Mozilla FireFox, or Google Chrome, you can also upload a folder and all the files in it.</span></span>
+3. <span data-ttu-id="f0806-105">Chọn tệp và kéo chúng vào vị trí trong OneDrive hoặc SharePoint.</span><span class="sxs-lookup"><span data-stu-id="f0806-105">Select the files and drag them to the location in OneDrive or SharePoint.</span></span> <span data-ttu-id="f0806-106">Lưu ý: nếu bạn sử dụng Microsoft Edge, Mozilla FireFox hoặc Google Chrome, bạn cũng có thể tải lên một thư mục và tất cả các tệp trong đó.</span><span class="sxs-lookup"><span data-stu-id="f0806-106">Note: If you use Microsoft Edge, Mozilla FireFox, or Google Chrome, you can also upload a folder and all the files in it.</span></span>
     
-> [!NOTE]
->  <span data-ttu-id="fa9f2-107">Bạn có thể tải tập tin lên đến 15 GB trong kích thước.</span><span class="sxs-lookup"><span data-stu-id="fa9f2-107">You can upload files up to 15 GB in size.</span></span> <span data-ttu-id="fa9f2-108">> đường dẫn đầy đủ cho một tập tin (bao gồm cả tên tập tin) không thể là hơn 400 ký tự.</span><span class="sxs-lookup"><span data-stu-id="fa9f2-108">>  The full path for a file (including the file name) can't be more than 400 characters in length.</span></span> <span data-ttu-id="fa9f2-109">> nếu bạn cần để tải lên tập tin hơn 100, [sử dụng các khách hàng đồng bộ OneDrive](https://go.microsoft.com/fwlink/?linkid=866427).</span><span class="sxs-lookup"><span data-stu-id="fa9f2-109">>  If you need to upload more than 100 files, [use the OneDrive sync client](https://go.microsoft.com/fwlink/?linkid=866427).</span></span> 
+<span data-ttu-id="f0806-107">**Ghi chú:**</span><span class="sxs-lookup"><span data-stu-id="f0806-107">**Notes:**</span></span>
+- <span data-ttu-id="f0806-108">Bạn có thể tải lên các tập tin có kích thước lên đến 15 GB.</span><span class="sxs-lookup"><span data-stu-id="f0806-108">You can upload files up to 15 GB in size.</span></span> 
+- <span data-ttu-id="f0806-109">Đường dẫn đầy đủ cho tệp (bao gồm tên tệp) không thể nhiều hơn 400 ký tự.</span><span class="sxs-lookup"><span data-stu-id="f0806-109">The full path for a file (including the file name) can't be more than 400 characters in length.</span></span> 
+- <span data-ttu-id="f0806-110">Nếu bạn cần tải lên hơn 100 tệp, [hãy sử dụng máy khách đồng bộ OneDrive](https://go.microsoft.com/fwlink/?linkid=866427).</span><span class="sxs-lookup"><span data-stu-id="f0806-110">If you need to upload more than 100 files, [use the OneDrive sync client](https://go.microsoft.com/fwlink/?linkid=866427).</span></span> 
   
 

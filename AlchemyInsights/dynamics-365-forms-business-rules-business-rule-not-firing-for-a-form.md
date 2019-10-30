@@ -9,13 +9,13 @@ localization_priority: Normal
 ms.custom:
 - "1467"
 - "6200018"
-ms.openlocfilehash: 95c51f61f9f5ac61d77bf3286f4e4602d47e4801
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: 66911e4f87d54f635b397d02fefdcaadb68d0ecc
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36528980"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769397"
 ---
-# <a name="business-rule-not-firing-for-a-form"></a><span data-ttu-id="6253e-102">Quy tắc kinh doanh không bắn cho biểu mẫu</span><span class="sxs-lookup"><span data-stu-id="6253e-102">Business rule not firing for a form</span></span>
+# <a name="business-rule-not-firing-for-a-form"></a><span data-ttu-id="3c2c8-102">Quy tắc kinh doanh không bắn cho biểu mẫu</span><span class="sxs-lookup"><span data-stu-id="3c2c8-102">Business rule not firing for a form</span></span>
 
-* [<span data-ttu-id="6253e-103">Là quy tắc kinh doanh của bạn không bắn cho một hình thức?</span><span class="sxs-lookup"><span data-stu-id="6253e-103">Is your business rule not firing for a form?</span></span>](https://docs.microsoft.com/powerapps/maker/model-driven-apps/create-business-rules-recommendations-apply-logic-form#is-your-business-rule-not-firing-for-a-form)
+<span data-ttu-id="3c2c8-103">Quy tắc kinh doanh có thể không thực hiện do trường tham chiếu trong quy tắc kinh doanh không được bao gồm trong biểu mẫu.</span><span class="sxs-lookup"><span data-stu-id="3c2c8-103">A business rule may not execute because the field referenced in the business rule isn’t included with the form.</span></span> <span data-ttu-id="3c2c8-104">Để biết thêm thông tin, xem [là quy tắc kinh doanh của bạn không bắn cho một biểu mẫu?](https://docs.microsoft.com/powerapps/maker/model-driven-apps/create-business-rules-recommendations-apply-logic-form#is-your-business-rule-not-firing-for-a-form).</span><span class="sxs-lookup"><span data-stu-id="3c2c8-104">For more information, see [Is your business rule not firing for a form?](https://docs.microsoft.com/powerapps/maker/model-driven-apps/create-business-rules-recommendations-apply-logic-form#is-your-business-rule-not-firing-for-a-form).</span></span>
