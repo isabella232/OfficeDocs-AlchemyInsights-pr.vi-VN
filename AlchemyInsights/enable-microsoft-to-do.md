@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 339f925f-91c8-4a1d-902b-f920e58999df
 ms.openlocfilehash: 09c80696c75189dbfc0b810f55cefa4a92b97392
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36527565"
 ---
-# <a name="how-to-enable-microsoft-to-do"></a><span data-ttu-id="573ba-102">Làm thế nào để kích hoạt Microsoft to-do</span><span class="sxs-lookup"><span data-stu-id="573ba-102">How to enable Microsoft To-Do</span></span>
+# <a name="how-to-enable-microsoft-to-do"></a><span data-ttu-id="cce09-102">Làm thế nào để kích hoạt Microsoft to-do</span><span class="sxs-lookup"><span data-stu-id="cce09-102">How to enable Microsoft To-Do</span></span>
 
-<span data-ttu-id="573ba-103">Để sử dụng Microsoft to-do, quản trị viên phải bật ứng dụng trên tài khoản của từng người dùng.</span><span class="sxs-lookup"><span data-stu-id="573ba-103">In order to use Microsoft To-Do, an admin must enable the app on each user's account.</span></span> <span data-ttu-id="573ba-104">Truy cập [trang dịch &amp; vụ bổ sung](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns) của trang cài đặt quản trị Office 365 để kích hoạt công việc cho mỗi người dùng.</span><span class="sxs-lookup"><span data-stu-id="573ba-104">Go to the [Services &amp; Add-ins page](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns) of the Office 365 admin settings page to enable To-Do for each user.</span></span> 
+<span data-ttu-id="cce09-103">Để sử dụng Microsoft to-do, quản trị viên phải bật ứng dụng trên tài khoản của từng người dùng.</span><span class="sxs-lookup"><span data-stu-id="cce09-103">In order to use Microsoft To-Do, an admin must enable the app on each user's account.</span></span> <span data-ttu-id="cce09-104">Truy cập [trang dịch &amp; vụ bổ sung](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns) của trang cài đặt quản trị Office 365 để kích hoạt công việc cho mỗi người dùng.</span><span class="sxs-lookup"><span data-stu-id="cce09-104">Go to the [Services &amp; Add-ins page](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns) of the Office 365 admin settings page to enable To-Do for each user.</span></span> 
   
-<span data-ttu-id="573ba-105">Microsoft to-do sử dụng các tính năng trong Exchange Online để đồng bộ hoá và lưu trữ các mục công việc của người dùng.</span><span class="sxs-lookup"><span data-stu-id="573ba-105">Microsoft To-Do uses features in Exchange Online to sync and store users' to-do items.</span></span> <span data-ttu-id="573ba-106">Để sử dụng Microsoft to-do, người dùng cần một hộp thư Exchange Online hợp lệ.</span><span class="sxs-lookup"><span data-stu-id="573ba-106">In order to use Microsoft To-Do, a user needs a valid Exchange Online mailbox.</span></span>
+<span data-ttu-id="cce09-105">Microsoft to-do sử dụng các tính năng trong Exchange Online để đồng bộ hoá và lưu trữ các mục công việc của người dùng.</span><span class="sxs-lookup"><span data-stu-id="cce09-105">Microsoft To-Do uses features in Exchange Online to sync and store users' to-do items.</span></span> <span data-ttu-id="cce09-106">Để sử dụng Microsoft to-do, người dùng cần một hộp thư Exchange Online hợp lệ.</span><span class="sxs-lookup"><span data-stu-id="cce09-106">In order to use Microsoft To-Do, a user needs a valid Exchange Online mailbox.</span></span>
   
-<span data-ttu-id="573ba-107">Để biết thêm thông tin, hãy xem [quản trị Microsoft to-do Preview](https://support.office.com/article/490c1a8c-2333-4952-8125-841afadb9620.aspx).</span><span class="sxs-lookup"><span data-stu-id="573ba-107">For additional information, see [Microsoft To-Do Preview administration](https://support.office.com/article/490c1a8c-2333-4952-8125-841afadb9620.aspx).</span></span>
+<span data-ttu-id="cce09-107">Để biết thêm thông tin, hãy xem [quản trị Microsoft to-do Preview](https://support.office.com/article/490c1a8c-2333-4952-8125-841afadb9620.aspx).</span><span class="sxs-lookup"><span data-stu-id="cce09-107">For additional information, see [Microsoft To-Do Preview administration](https://support.office.com/article/490c1a8c-2333-4952-8125-841afadb9620.aspx).</span></span>
   
- <span data-ttu-id="573ba-108">**Lưu ý**: nếu bạn nhận được lỗi 501 khi cố gắng đăng [http://todo.microsoft.com](http://todo.microsoft.com)nhập, [https://to-do.microsoft.com](https://to-do.microsoft.com)Hãy thử.</span><span class="sxs-lookup"><span data-stu-id="573ba-108">**Note**: If you receive a 501 error when trying to log into [http://todo.microsoft.com](http://todo.microsoft.com), try [https://to-do.microsoft.com](https://to-do.microsoft.com).</span></span>
+ <span data-ttu-id="cce09-108">**Lưu ý**: nếu bạn nhận được lỗi 501 khi cố gắng đăng [http://todo.microsoft.com](http://todo.microsoft.com)nhập, [https://to-do.microsoft.com](https://to-do.microsoft.com)Hãy thử.</span><span class="sxs-lookup"><span data-stu-id="cce09-108">**Note**: If you receive a 501 error when trying to log into [http://todo.microsoft.com](http://todo.microsoft.com), try [https://to-do.microsoft.com](https://to-do.microsoft.com).</span></span>
   
 

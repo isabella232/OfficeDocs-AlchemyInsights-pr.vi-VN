@@ -14,12 +14,12 @@ ms.custom:
 - "3"
 ms.assetid: a54600a0-e150-4a1a-8d67-ed77624bb928
 ms.openlocfilehash: 9af4f8772be25c5d3de0489cd24b9cdbac199daa
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36738363"
 ---
-# <a name="convert-a-distribution-group-to-an-office-365-group"></a><span data-ttu-id="6f7e1-102">Chuyển đổi nhóm phân phối sang một nhóm Office 365</span><span class="sxs-lookup"><span data-stu-id="6f7e1-102">Convert a distribution group to an Office 365 Group</span></span>
+# <a name="convert-a-distribution-group-to-an-office-365-group"></a><span data-ttu-id="5bfd6-102">Chuyển đổi nhóm phân phối sang một nhóm Office 365</span><span class="sxs-lookup"><span data-stu-id="5bfd6-102">Convert a distribution group to an Office 365 Group</span></span>
 
-<span data-ttu-id="6f7e1-103">Bạn có thể chuyển đổi nhóm phân phối cho Office 365 nhóm nếu họ đáp ứng các tiêu chí nhất định.</span><span class="sxs-lookup"><span data-stu-id="6f7e1-103">You can convert distribution groups to Office 365 Groups if they satisfy certain criteria.</span></span> <span data-ttu-id="6f7e1-104">Để chuyển đổi một nhóm hoặc khắc phục sự cố chuyển đổi, xem [nâng cấp danh sách phân phối cho Office 365 nhóm trong Outlook](https://docs.microsoft.com/office365/admin/manage/upgrade-distribution-lists).</span><span class="sxs-lookup"><span data-stu-id="6f7e1-104">To convert a group or troubleshoot conversion issues, see [Upgrade distribution lists to Office 365 Groups in Outlook](https://docs.microsoft.com/office365/admin/manage/upgrade-distribution-lists).</span></span>
+<span data-ttu-id="5bfd6-103">Bạn có thể chuyển đổi nhóm phân phối cho Office 365 nhóm nếu họ đáp ứng các tiêu chí nhất định.</span><span class="sxs-lookup"><span data-stu-id="5bfd6-103">You can convert distribution groups to Office 365 Groups if they satisfy certain criteria.</span></span> <span data-ttu-id="5bfd6-104">Để chuyển đổi một nhóm hoặc khắc phục sự cố chuyển đổi, xem [nâng cấp danh sách phân phối cho Office 365 nhóm trong Outlook](https://docs.microsoft.com/office365/admin/manage/upgrade-distribution-lists).</span><span class="sxs-lookup"><span data-stu-id="5bfd6-104">To convert a group or troubleshoot conversion issues, see [Upgrade distribution lists to Office 365 Groups in Outlook](https://docs.microsoft.com/office365/admin/manage/upgrade-distribution-lists).</span></span>

@@ -10,16 +10,16 @@ ms.custom:
 - "1473"
 - "6200020"
 ms.openlocfilehash: d3b8dd968b3b4a5f774336b529718bc20870f955
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36528537"
 ---
-# <a name="webpage-html-web-resources-limitations"></a><span data-ttu-id="14d2d-102">Giới hạn tài nguyên web của trang web (HTML)</span><span class="sxs-lookup"><span data-stu-id="14d2d-102">Webpage (HTML) web resources limitations</span></span>
+# <a name="webpage-html-web-resources-limitations"></a><span data-ttu-id="f7159-102">Giới hạn tài nguyên web của trang web (HTML)</span><span class="sxs-lookup"><span data-stu-id="f7159-102">Webpage (HTML) web resources limitations</span></span>
 
-* <span data-ttu-id="14d2d-103">Tài nguyên web HTML không thể chứa bất kỳ mã nào phải được thực hiện trên máy chủ.</span><span class="sxs-lookup"><span data-stu-id="14d2d-103">An HTML web resource can’t contain any code that must be executed on the server.</span></span> <span data-ttu-id="14d2d-104">ASP.NET trang không thể tải lên dưới dạng tài nguyên web HTML.</span><span class="sxs-lookup"><span data-stu-id="14d2d-104">ASP.NET pages can’t be uploaded as HTML web resources.</span></span>
+* <span data-ttu-id="f7159-103">Tài nguyên web HTML không thể chứa bất kỳ mã nào phải được thực hiện trên máy chủ.</span><span class="sxs-lookup"><span data-stu-id="f7159-103">An HTML web resource can’t contain any code that must be executed on the server.</span></span> <span data-ttu-id="f7159-104">ASP.NET trang không thể tải lên dưới dạng tài nguyên web HTML.</span><span class="sxs-lookup"><span data-stu-id="f7159-104">ASP.NET pages can’t be uploaded as HTML web resources.</span></span>
 
-* <span data-ttu-id="14d2d-105">Tài nguyên web HTML chỉ có thể chấp nhận một số giới hạn các tham số chuỗi truy vấn.</span><span class="sxs-lookup"><span data-stu-id="14d2d-105">HTML web resources can only accept a limited number of query string parameters.</span></span> <span data-ttu-id="14d2d-106">Thông tin thêm: [chuyển tham số cho tài nguyên web HTML](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources#BKMK_PassingParametersToWebResources)</span><span class="sxs-lookup"><span data-stu-id="14d2d-106">More information: [Pass parameters to HTML web resources](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources#BKMK_PassingParametersToWebResources)</span></span>
+* <span data-ttu-id="f7159-105">Tài nguyên web HTML chỉ có thể chấp nhận một số giới hạn các tham số chuỗi truy vấn.</span><span class="sxs-lookup"><span data-stu-id="f7159-105">HTML web resources can only accept a limited number of query string parameters.</span></span> <span data-ttu-id="f7159-106">Thông tin thêm: [chuyển tham số cho tài nguyên web HTML](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources#BKMK_PassingParametersToWebResources)</span><span class="sxs-lookup"><span data-stu-id="f7159-106">More information: [Pass parameters to HTML web resources](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources#BKMK_PassingParametersToWebResources)</span></span>
 
-[<span data-ttu-id="14d2d-107">Tài nguyên web của trang web (HTML)</span><span class="sxs-lookup"><span data-stu-id="14d2d-107">Webpage (HTML) web resources</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources)
+[<span data-ttu-id="f7159-107">Tài nguyên web của trang web (HTML)</span><span class="sxs-lookup"><span data-stu-id="f7159-107">Webpage (HTML) web resources</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources)

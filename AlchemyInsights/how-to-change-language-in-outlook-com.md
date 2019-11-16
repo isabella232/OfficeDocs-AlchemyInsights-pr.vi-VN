@@ -14,18 +14,18 @@ ms.custom:
 - "269"
 ms.assetid: 6b5e5d32-d247-4dd9-b2d4-c4805a2f5e2d
 ms.openlocfilehash: 81d7272729c9770d4476f3c880b1a8ac3b6f90cd
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36541688"
 ---
-# <a name="change-your-language"></a><span data-ttu-id="26e8a-102">Thay đổi ngôn ngữ của bạn</span><span class="sxs-lookup"><span data-stu-id="26e8a-102">Change your language</span></span>
+# <a name="change-your-language"></a><span data-ttu-id="37bb9-102">Thay đổi ngôn ngữ của bạn</span><span class="sxs-lookup"><span data-stu-id="37bb9-102">Change your language</span></span>
 
-1. <span data-ttu-id="26e8a-103">Để Chang ngôn ngữ trong Outlook, đi đến cài đặt [**ngôn ngữ và thời gian**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) (**cài đặt** \> **xem tất cả các cài đặt** > Outlook**chung** > **ngôn ngữ và thời gian**).</span><span class="sxs-lookup"><span data-stu-id="26e8a-103">To chang the language in Outlook, go to [**Language and time**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) settings (**Settings** \> **View all Outlook settings** > **General** > **Language and time**).</span></span>
+1. <span data-ttu-id="37bb9-103">Để Chang ngôn ngữ trong Outlook, đi đến cài đặt [**ngôn ngữ và thời gian**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) (**cài đặt** \> **xem tất cả các cài đặt** > Outlook**chung** > **ngôn ngữ và thời gian**).</span><span class="sxs-lookup"><span data-stu-id="37bb9-103">To chang the language in Outlook, go to [**Language and time**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) settings (**Settings** \> **View all Outlook settings** > **General** > **Language and time**).</span></span>
 
-2. <span data-ttu-id="26e8a-104">Chọn ngôn ngữ của bạn.</span><span class="sxs-lookup"><span data-stu-id="26e8a-104">Choose your language.</span></span>
+2. <span data-ttu-id="37bb9-104">Chọn ngôn ngữ của bạn.</span><span class="sxs-lookup"><span data-stu-id="37bb9-104">Choose your language.</span></span>
 
-3. <span data-ttu-id="26e8a-105">Chọn **lưu**.</span><span class="sxs-lookup"><span data-stu-id="26e8a-105">Select **Save**.</span></span>
+3. <span data-ttu-id="37bb9-105">Chọn **lưu**.</span><span class="sxs-lookup"><span data-stu-id="37bb9-105">Select **Save**.</span></span>
 
-<span data-ttu-id="26e8a-106">Để tìm hiểu thêm, hãy xem [thay đổi cài đặt múi giờ và ngôn ngữ trong Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873132).</span><span class="sxs-lookup"><span data-stu-id="26e8a-106">To learn more, see [Change the time zone and language settings in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873132).</span></span>
+<span data-ttu-id="37bb9-106">Để tìm hiểu thêm, hãy xem [thay đổi cài đặt múi giờ và ngôn ngữ trong Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873132).</span><span class="sxs-lookup"><span data-stu-id="37bb9-106">To learn more, see [Change the time zone and language settings in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873132).</span></span>
