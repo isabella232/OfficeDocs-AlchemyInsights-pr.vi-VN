@@ -13,10 +13,10 @@ ms.custom:
 - "1800021"
 ms.assetid: 469de984-cec1-45ca-94ab-f70bc6b28fff
 ms.openlocfilehash: cebeea438ac881d9930eecb9bcb031f9a6e92977
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36499661"
 ---
 # <a name="inbox-rules"></a>Quy tắc hộp thư đến
@@ -27,4 +27,4 @@ ms.locfileid: "36499661"
 
 - [Quản lý thư của bạn bằng cách sử dụng quy tắc hộp thư đến trong Outlook trên web](https://support.office.com/article/8400435c-f14e-4272-9004-1548bb1848f2.aspx)
 
-Bạn cũng có thể quản lý quy tắc hộp thư đến trong Exchange Online PowerShell. Để biết thêm thông tin, [hãy xem Get-inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-inboxrule) (xem), [New-inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/new-inboxrule) (tạo), [loại bỏ-Inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/remove-inboxrule) (xóa), [thiết lập inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/set-inboxrule) (sửa đổi hiện tại), [vô hiệu hoá-inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/disable-inboxrule) (vô hiệu hoá hiện tại), và [kích hoạt-inboxrule ](https://docs.microsoft.com/powershell/module/exchange/mailboxes/enable-inboxrule)(kích hoạt sẵn có).
+Bạn cũng có thể quản lý quy tắc hộp thư đến trong Exchange Online PowerShell. Để biết thêm thông tin, [hãy xem Get-inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-inboxrule) (xem), [New-inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/new-inboxrule) (tạo), [loại bỏ-Inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/remove-inboxrule) (xóa), [thiết lập inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/set-inboxrule) (sửa đổi hiện tại), [vô hiệu hóa-inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/disable-inboxrule) (vô hiệu hoá hiện tại), và [kích hoạt-inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/enable-inboxrule) (kích hoạt sẵn có).
