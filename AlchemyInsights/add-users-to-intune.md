@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000664"
 - "2535"
-ms.openlocfilehash: f1caff9ef112042b2bd39e47ec03c587cc87e421
-ms.sourcegitcommit: ee719f011f766fc20d23e935e98d7e33c326183b
+ms.openlocfilehash: ba30c8c65dab430c58b720708bd838dd45a0444f
+ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 10/24/2019
-ms.locfileid: "37654688"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39625830"
 ---
 # <a name="add-users-to-intune"></a>Thêm người dùng vào InTune
 
@@ -26,4 +26,4 @@ Quản trị viên có thể chỉnh sửa tài khoản người dùng để gá
 
 Để biết thêm thông tin về cách sử dụng trung tâm quản trị Microsoft 365, hãy xem [Thêm người dùng riêng lẻ hoặc hàng loạt vào Trung tâm quản trị microsoft 365](https://support.office.com/article/Add-users-individually-or-in-bulk-to-Office-365-Admin-Help-1970f7d6-03b5-442f-b385-5880b9c256ec).
 
-Để biết thêm thông tin về cách sử dụng cổng InTune, hãy xem [Thêm người dùng và cấp quyền quản trị để InTune](https://docs.microsoft.com/en-us/intune/fundamentals/users-add).
+Để biết thêm thông tin về cách sử dụng cổng InTune, hãy xem [Thêm người dùng và cấp quyền quản trị để InTune](https://docs.microsoft.com/intune/fundamentals/users-add).

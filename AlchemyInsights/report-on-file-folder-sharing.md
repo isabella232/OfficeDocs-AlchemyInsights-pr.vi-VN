@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3049"
-ms.openlocfilehash: bd64ba291732568c3a5f1a107e88884220e200f8
-ms.sourcegitcommit: 8e1fa99a781674a79ae5d0385a48be2e209a2386
+ms.openlocfilehash: 8dbad3df0c53a1167d5399efcfd9c0f7a71f928a
+ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 10/16/2019
-ms.locfileid: "37554350"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39627380"
 ---
 # <a name="report-on-file-and-folder-sharing-in-a-sharepoint-site"></a>Báo cáo chia sẻ tệp và cặp trong một trang web SharePoint
 
 Bạn có thể tạo tệp CSV chi tiết mọi tệp, người dùng, quyền và liên kết duy nhất trên một trang web SharePoint hoặc thư viện OneDrive đã cho. Điều này có thể giúp bạn hiểu cách chia sẻ đang được sử dụng và liệu bất kỳ tệp hoặc thư mục nào đang được chia sẻ với khách.
 
-Để biết thêm thông tin, [báo cáo chia sẻ tệp và cặp trong một trang web SharePoint](https://docs.microsoft.com/en-us/sharepoint/sharing-reports).
+Để biết thêm thông tin, [báo cáo chia sẻ tệp và cặp trong một trang web SharePoint](https://docs.microsoft.com/sharepoint/sharing-reports).
 
 > [!NOTE]
 > Tính năng này hiện đang triển khai cho thuê đầu tiên và sẽ dần ra mắt cho tất cả người thuê sản xuất.

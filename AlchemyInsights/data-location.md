@@ -10,12 +10,12 @@ ms.custom:
 - "945"
 - "5300023"
 ms.assetid: 3bab036c-dbaa-406a-8b73-1e5f31993436
-ms.openlocfilehash: 0e683c8266d425be95e87c590d4cb5d56108721a
-ms.sourcegitcommit: 71978e2bb779b5955fd113f84512b83321b26912
+ms.openlocfilehash: ec8fb91dfe77cb251579ce23eb0579b114b101d9
+ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "37207283"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39627868"
 ---
 # <a name="data-location"></a>Vị trí dữ liệu
 
@@ -30,7 +30,7 @@ Bạn có thể xem vị trí của người thuê văn phòng 365 trong Trung t
 
 **Powershell:**
 1. Kết nối với Exchange Online bằng cách sử dụng Windows PowerShell.
-2. Thực hiện lệnh [Get-OrganizationalUnit](https://docs.microsoft.com/en-us/powershell/module/exchange/active-directory/get-organizationalunit) để hiển thị danh sách các thuộc tính của người thuê. 
+2. Thực hiện lệnh [Get-OrganizationalUnit](https://docs.microsoft.com/powershell/module/exchange/active-directory/get-organizationalunit) để hiển thị danh sách các thuộc tính của người thuê. 
 3. Xem thuộc tính OrganizationId.
 
 Khi bạn có vị trí dữ liệu cho EXO và SPO, bạn có thể xác định vị trí dữ liệu cho các dịch vụ khác mà bạn có thể sử dụng từ [nơi dữ liệu của bạn nằm ở đâu](https://products.office.com/where-is-your-data-located).

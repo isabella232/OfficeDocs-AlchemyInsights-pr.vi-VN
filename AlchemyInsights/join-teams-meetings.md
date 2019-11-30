@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2667"
 - "9000735"
-ms.openlocfilehash: d85206cd0fc4844187665369191839da54f49d84
-ms.sourcegitcommit: 0495112ad4fd0e695140ec66d190e62f03030584
+ms.openlocfilehash: 005e2ce7b0aa8711b6d8073e2a771ca415918715
+ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 10/02/2019
-ms.locfileid: "37376906"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39627632"
 ---
 # <a name="join-a-meeting-in-teams"></a>Tham gia cuộc họp trong teams
 
@@ -24,6 +24,6 @@ ms.locfileid: "37376906"
 
 - Đặt chính sách cuộc họp kiểm soát ai sẽ có thể tham gia cuộc họp với tư cách là [người tham gia hoặc khách](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#meeting-policy-settings---participants--guests). 
 
-- Sử dụng [lệnh ghép ngắn](https://docs.microsoft.com/en-us/microsoftteams/teams-powershell-overview) Microsoft teams PowerShell để thực hiện thay đổi chính sách.    
+- Sử dụng [lệnh ghép ngắn](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) Microsoft teams PowerShell để thực hiện thay đổi chính sách.    
 
 **Lưu ý:** Có thể mất đến 24 giờ để thay đổi chính sách có hiệu lực.

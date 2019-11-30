@@ -1,5 +1,5 @@
 ---
-title: Microsoft đội - khôi phục lại một trang web đã xóa nhóm
+title: Microsoft teams-khôi phục trang web nhóm đã xóa
 ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
@@ -10,14 +10,13 @@ ms.custom:
 - "404"
 - "6500002"
 ms.assetid: b26be13f-7b8f-4393-9083-2b4d97b6cd80
-ms.openlocfilehash: 84aaa331fdd4d4e10fcbebe41800c86b3a457649
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 38eaf578b1b1bdd4df7217b2f0e57433640ee8e0
+ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666970"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39627488"
 ---
-# <a name="restoring-a-deleted-team-in-microsoft-teams"></a>Khôi phục lại một đội bóng đã bị xóa trong Microsoft Teams
+# <a name="restoring-a-deleted-team-in-microsoft-teams"></a>Khôi phục nhóm đã xóa trong Microsoft teams
 
-Bạn vô tình xoá một nhóm? Nếu nó đã là ít hơn 30 ngày kể từ khi bạn đã xoá nhóm, bạn đang ở may mắn; bạn có thể khôi phục lại nó. Để làm như vậy, hãy làm theo các bước dưới đây: [khôi phục lại một đội bóng đã xóa](https://blogs.technet.microsoft.com/skypehybridguy/2017/07/23/restoring-a-deleted-team-in-microsoft-teams/)
-  
+Bạn đã vô tình xóa một nhóm? Nếu nó được ít hơn 30 ngày kể từ khi bạn đã xóa các đội, bạn đang ở may mắn; bạn có thể khôi phục nó. Để làm như vậy, hãy làm theo các bước ở đây: [khôi phục nhóm đã xóa](https://docs.microsoft.com/microsoftteams/archive-or-delete-a-team#restore-a-deleted-team).

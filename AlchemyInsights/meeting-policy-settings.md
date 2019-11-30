@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2657"
 - "9000734"
-ms.openlocfilehash: dac06690b51459ca166c15a5ef0f4c7e7a6d36f0
-ms.sourcegitcommit: 0495112ad4fd0e695140ec66d190e62f03030584
+ms.openlocfilehash: b5599c9974eb1c112835a9f42e4ebdc926071ea2
+ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 10/02/2019
-ms.locfileid: "37376904"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39627596"
 ---
 # <a name="manage-meeting-policies-in-microsoft-teams"></a>Quản lý chính sách cuộc họp trong Microsoft teams
 
@@ -24,7 +24,7 @@ Chính sách cuộc họp được sử dụng để kiểm soát các tính nă
 
 Để biết thêm thông tin về chính sách cuộc họp, hãy xem các tài nguyên sau:
 
-- Để tìm hiểu về cách tạo chính sách, thực hiện thay đổi và gán người dùng cho chính sách, hãy xem [quản lý chính sách cuộc họp trong teams](https://docs.microsoft.com/en-us/microsoftteams/meeting-policies-in-teams).
+- Để tìm hiểu về cách tạo chính sách, thực hiện thay đổi và gán người dùng cho chính sách, hãy xem [quản lý chính sách cuộc họp trong teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams).
 
 - Để thực hiện thay đổi chính sách bằng cách sử dụng lệnh ghép ngắn PowerShell, hãy xem [tổng quan về nhóm PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview). 
     - Bạn cần sử dụng [Skype dành cho doanh nghiệp PowerShell mô-đun](https://www.microsoft.com/download/details.aspx?id=39366) cho các chính sách cuộc họp teams. 
