@@ -1,7 +1,7 @@
 ---
-title: Quản lý một nhóm mà không có một giấy phép trao đổi
-ms.author: dianef
-author: dianef77
+title: Quản lý nhóm không có giấy phép Exchange
+ms.author: pebaum
+author: pebaum
 ms.date: 5/23/2018
 ms.audience: ITPro
 ms.topic: article
@@ -11,18 +11,18 @@ ms.assetid: edef2e23-72cf-4a76-8a51-0b26182187cc
 ms.custom:
 - "79"
 - "1200018"
-ms.openlocfilehash: b974217fa53efe943f8e2e44313c5679c0faa9b3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f117cc1dc55e1786a9f6bc500314877e97df3f5e
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36497482"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40049287"
 ---
-# <a name="manage-a-group-without-an-exchange-license"></a>Quản lý một nhóm mà không có một giấy phép trao đổi
+# <a name="manage-a-group-without-an-exchange-license"></a>Quản lý nhóm không có giấy phép Exchange
 
-Nếu tài khoản admin Office 365 của bạn không có một hộp thư, bạn có thể nhận được một lỗi về một giấy phép sản phẩm thiếu khi bạn cố gắng chỉnh sửa một nhóm Office 365.
+Nếu tài khoản quản trị Office 365 không có hộp thư, bạn có thể nhận được lỗi về một giấy phép sản phẩm bị thiếu khi bạn cố gắng chỉnh sửa một nhóm Office 365.
   
-Bởi vì bạn là người thuê nhà quản trị, nó có thể cho bạn để chỉnh sửa một nhóm, ngay cả khi bạn không có một giấy phép trao đổi. Chỉ cần đi đến [Trung tâm quản trị Exchange](https://outlook.office365.com/ecp.aspx) \> **nhóm** quản lý nhóm 365 của văn phòng.
+Bởi vì bạn là quản trị viên người thuê nhà, bạn có thể chỉnh sửa nhóm ngay cả khi bạn không có giấy phép Exchange. Chỉ cần đi tới \> **nhóm** [Trung tâm quản trị Exchange](https://outlook.office365.com/ecp.aspx) để quản lý nhóm Office 365.
   
-Nếu bạn muốn chỉnh sửa nhóm trong Trung tâm quản trị, thêm một giấy phép trao đổi tài khoản admin của bạn. Bạn cần phải đợi cho đến khi hộp thư được tạo ra đầy đủ trước khi bạn có thể chỉnh sửa một nhóm.
+Nếu bạn muốn chỉnh sửa nhóm trong Trung tâm quản trị, hãy thêm một giấy phép Exchange vào tài khoản quản trị của bạn. Bạn cần phải đợi cho đến khi hộp thư được tạo đầy đủ trước khi bạn có thể chỉnh sửa một nhóm.
   

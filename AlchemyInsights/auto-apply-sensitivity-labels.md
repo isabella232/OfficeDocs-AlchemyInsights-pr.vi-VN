@@ -1,7 +1,7 @@
 ---
 title: Tự động áp dụng nhãn nhạy cảm
-ms.author: stephow
-author: stephow-MSFT
+ms.author: pebaum
+author: pebaum
 manager: laurawi
 ms.date: ''
 ms.audience: admin
@@ -12,29 +12,29 @@ localization_priority: Normal
 ms.custom:
 - "1737"
 - "9000181"
-ms.openlocfilehash: b095426d780033f6c1c7eeb320d923f6c484b078
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 95de9df224d3450678b56d04e6d823f4874abcd5
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36517413"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40050331"
 ---
 # <a name="auto-apply-sensitivity-labels"></a>Tự động áp dụng nhãn nhạy cảm
 
-Độ nhạy nhãn có thể áp dụng theo cách thủ công với nội dung người dùng, hoặc bạn có thể cấu hình để tự động áp dụng cho nội dung.
+Nhãn độ nhạy có thể được áp dụng theo cách thủ công cho nội dung của người dùng hoặc bạn có thể định cấu hình chúng để tự động áp dụng cho nội dung.
 
-Tự động áp dụng nhãn nhạy cảm loại bỏ sự cần thiết để đào tạo người dùng trên làm thế nào để phân loại nội dung và sự cần thiết phải thông báo cho họ về cấu hình chính sách.
+Tự động áp dụng nhãn nhạy cảm sẽ loại bỏ nhu cần đào tạo người dùng về cách phân loại nội dung và cần phải thông báo cho họ về cấu hình chính sách.
 
-Để áp dụng nhãn tự động, sau đây là cần thiết:
+Để áp dụng nhãn tự động, sau đây là yêu cầu:
 
-- Đăng ký thông tin bảo vệ P2 Azure
-- [Tải về và cài đặt khách hàng ghi nhãn thống nhất bảo vệ thông tin Azure](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
+- Bảo vệ thông tin Azure P2 đăng ký
+- [Tải xuống và cài đặt máy khách ghi nhãn hợp nhất bảo vệ thông tin Azure](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
 
-Chúng tôi đang làm việc trên bản hỗ trợ sẽ không yêu cầu khách hàng ghi nhãn thống nhất bảo vệ thông tin Azure trong tương lai.
+Chúng tôi đang làm việc trên hỗ trợ tự nhiên mà không yêu cầu Azure bảo vệ thông tin hợp nhất khách hàng dán nhãn trong tương lai.
 
-Hiện nay, chỉ Windows hỗ trợ các khách hàng đặt nhãn vẫn thống nhất.  Các tính năng không được hỗ trợ trên Mac, iOS và Android.
+Hiện tại, chỉ Windows hỗ trợ khách hàng dán nhãn thống nhất.  Tính năng này chưa được hỗ trợ trên Mac, iOS và Android.
 
-Để biết thêm chi tiết về độ nhạy nhãn và áp dụng chúng một cách tự động đến nội dung, hãy xem:
+Để biết thêm thông tin về các nhãn nhạy cảm và áp dụng chúng tự động cho nội dung, hãy xem:
 
-- [Tổng quan về độ nhạy nhãn](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
-- [Áp dụng một nhãn hiệu nhạy cảm với nội dung tự động](https://docs.microsoft.com/office365/securitycompliance/apply_sensitivity_label_automatically)
+- [Tổng quan về các nhãn nhạy cảm](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
+- [Áp dụng nhãn nhạy cảm cho nội dung tự động](https://docs.microsoft.com/office365/securitycompliance/apply_sensitivity_label_automatically)
