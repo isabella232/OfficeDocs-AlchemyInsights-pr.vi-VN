@@ -1,36 +1,36 @@
 ---
-title: Quản lý các lược đồ tìm trong SharePoint Online
-ms.author: efrene
-author: efrene
+title: Quản lý sơ đồ tìm kiếm trong SharePoint trực tuyến
+ms.author: pebaum
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: 704fb3b682d23220d61192e383d7d80f59f27933
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9836cf139e97fc556995a8f0ad38c51c5c2392ac
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36502829"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40042985"
 ---
-# <a name="manage-search-schema-in-sharepoint-online"></a>Quản lý các lược đồ tìm trong SharePoint Online
+# <a name="manage-search-schema-in-sharepoint-online"></a>Quản lý sơ đồ tìm kiếm trong SharePoint trực tuyến
 
-Lược đồ tìm kiểm soát những gì người dùng có thể tìm kiếm, làm thế nào người dùng có thể tìm kiếm nó và làm thế nào bạn có thể trình bày các kết quả trên trang web tìm kiếm của bạn. 
+Sơ đồ tìm kiếm kiểm soát những gì người dùng có thể tìm kiếm, cách người dùng có thể tìm kiếm và cách bạn có thể trình bày kết quả trên các trang web tìm kiếm của mình. 
 
-Hãy xem [quản lý giản đồ tìm trong SharePoint Online](https://docs.microsoft.com/sharepoint/manage-search-schema) để tìm hiểu làm thế nào để: 
-- Thay đổi lược đồ tìm kiếm.
-- Tạo quản lý tài sản.
-- Bản đồ thu thập thông tin bản đồ thu thập thông tin thuộc tính để quản lý tài sản.
+Xem [quản lý sơ đồ tìm kiếm trong SharePoint Online](https://docs.microsoft.com/sharepoint/manage-search-schema) để tìm hiểu cách: 
+- Thay đổi sơ đồ tìm kiếm.
+- Tạo các tính được quản lý.
+- Bản đồ thu thập dữ liệu bản đồ cho các sản được quản lý.
 
-Lưu ý sau đây liên quan đến việc quản lý lược đồ tìm kiếm của bạn:
+Lưu ý như sau liên quan đến quản lý lược đồ tìm kiếm của bạn:
 
-- Nếu bạn nhận được một cảnh báo nói rõ **ứng dụng bị tạm dừng** khi thực hiện một thay đổi lược đồ, điều này chỉ là tạm thời như là dịch vụ bảo trì xảy ra. 
+- Nếu bạn nhận được một cảnh báo nói rằng **ứng dụng tạm dừng** khi thực hiện thay đổi sơ đồ, điều này chỉ là tạm thời là có dịch vụ bảo trì xảy ra. 
 
-    Nếu nhiều hơn 24 giờ đã trôi qua và bạn vẫn còn gặp các cảnh báo, xin vui lòng đăng nhập một trường hợp hỗ trợ.
-- Khi bạn thay đổi các thuộc tính được quản lý hoặc thêm những cái mới, những thay đổi có hiệu lực chỉ sau khi nội dung đã được tái crawled. Trong SharePoint Online, thu thập dữ liệu xảy ra tự động dựa trên lịch trình thu thập dữ liệu được xác định.
-- Để đảm bảo rằng những thay đổi của bạn được thu thập thông tin, bạn có thể cụ thể [yêu cầu một tái lập chỉ mục các danh sách hoặc thư viện](https://docs.microsoft.com/sharepoint/manage-search-schema#request-re-indexing-of-a-document-library-or-list) 
+    Nếu hơn 24 giờ đã trôi qua và bạn vẫn gặp phải cảnh báo, vui lòng đăng nhập một trường hợp hỗ trợ.
+- Khi bạn thay đổi thuộc tính được quản lý hoặc thêm mới, các thay đổi có hiệu lực chỉ sau khi nội dung đã được thu thập lại. Trong SharePoint trực tuyến, thu thập dữ liệu sẽ tự động dựa trên lịch trình crawl được xác định.
+- Để đảm bảo rằng các thay đổi của bạn được thu thập dữ liệu, bạn có thể [yêu cầu lập chỉ mục lại danh sách hoặc thư viện một cách](https://docs.microsoft.com/sharepoint/manage-search-schema#request-re-indexing-of-a-document-library-or-list) đặc biệt 
 
-Để hoàn thành nhìn của giản đồ tìm kiếm, hãy xem [Giới thiệu tìm Schema](https://blogs.technet.microsoft.com/tothesharepoint/2012/11/25/introducing-search-schema-for-sharepoint-2013/) 
+Để biết tổng quan đầy đủ về sơ đồ tìm kiếm, hãy xem [giới thiệu sơ đồ tìm kiếm](https://blogs.technet.microsoft.com/tothesharepoint/2012/11/25/introducing-search-schema-for-sharepoint-2013/) 
 
 

@@ -1,7 +1,7 @@
 ---
 title: Outlook.com cài đặt
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 manager: pamgreen
 ms.date: 3/21/2019
 ms.audience: Admin
@@ -9,16 +9,16 @@ ms.topic: article
 ms.custom: 9000302
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: d1b6eb0846796a484cd60335737a3ecc373266dd
-ms.sourcegitcommit: 582c8868e948e39db1e8d0bd8986f8087c4a1319
+ms.openlocfilehash: 915d2ea36b7e1dcb4b9c5b6c57559b295f0b2f06
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 10/03/2019
-ms.locfileid: "37386387"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053283"
 ---
 # <a name="settings-in-outlookcom"></a>Cài đặt trong Outlook.com
 
-Nếu người nhận nội bộ hoặc bên ngoài tổ chức của bạn và nếu họ đang sử dụng tài khoản email Office 365 hoặc Outlook.com, các khách hàng không phải làm bất cứ điều gì đặc biệt để mở thư: **outlook 2016, Outlook trên web/Outlook Web App, Ứng dụng di động Outlook**
+Nếu người nhận nội bộ hoặc bên ngoài tổ chức của bạn và nếu họ đang sử dụng tài khoản email Office 365 hoặc Outlook.com, các khách hàng không phải làm bất cứ điều gì đặc biệt để mở thư: **outlook 2016, Outlook trên web/Outlook Web App, Outlook ứng dụng di động**
 
 **Đại diện** của người dùng đã bảo vệ email được gửi đến, không thể mở thư bảo vệ. Chỉ những người nhận ban đầu (người được gửi email bảo vệ) có thể xem thông tin trong email.
 

@@ -1,7 +1,7 @@
 ---
-title: Các vấn đề trong khi di chuyển dữ liệu SharePoint Online
-ms.author: efrene
-author: efrene
+title: Vấn đề trong khi di chuyển dữ liệu sang SharePoint trực tuyến
+ms.author: pebaum
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,24 +11,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "1885"
-ms.openlocfilehash: d8bdf0ac6c3a65b72e8c92a3f5960cb72b6cfd99
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 63fcfdd1c807be393f1052123d92d2cf7ce6a2b4
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504377"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40051771"
 ---
-# <a name="issues-while-migrating-data-to-sharepoint-online"></a>Các vấn đề trong khi di chuyển dữ liệu SharePoint Online
+# <a name="issues-while-migrating-data-to-sharepoint-online"></a>Vấn đề trong khi di chuyển dữ liệu sang SharePoint trực tuyến
 
-Dường như bạn đang di chuyển hơn 100TB dữ liệu SharePoint Online. Xin vui lòng làm theo các bước dưới đây để chúng tôi có thể hỗ trợ bạn càng sớm càng tốt. 
+Nó xuất hiện bạn đang di chuyển qua 100TB dữ liệu sang SharePoint Online. Vui lòng làm theo các bước dưới đây để chúng tôi có thể hỗ trợ bạn sớm nhất có thể. 
 
 1. Chọn **yêu cầu dịch vụ mới**, và sau đó **yêu cầu dịch vụ mới**. 
-2. Để lại các tiêu đề và mô tả như **SharePoint di chuyển hơn 100 TB**.
-3. Khi vé được gửi đi, xin vui lòng cập nhật nó với các thông tin sau: 
+2. Để tiêu đề và mô tả là **di chuyển SharePoint qua 100TB**.
+3. Sau khi đã gửi vé, vui lòng cập nhật thông tin sau: 
 
-    - Ước tính kích thước của di chuyển của bạn.
-    - Ước tính khi nào bạn muốn bắt đầu và hoàn thành di chuyển của bạn.
-    - Mô tả nơi bạn đang di chuyển nội dung của bạn từ, chẳng hạn như máy chủ SharePoint, hộp, GDrive, chia sẻ tập tin, vv...
+    - Ước tính kích thước di chuyển của bạn.
+    - Ước tính khi nào bạn muốn bắt đầu và hoàn tất di chuyển của mình.
+    - Mô tả nơi bạn đang di chuyển nội dung của mình từ đó, chẳng hạn như SharePoint Server, Box, GDrive, chia sẻ tệp, v.v...
 
 
   

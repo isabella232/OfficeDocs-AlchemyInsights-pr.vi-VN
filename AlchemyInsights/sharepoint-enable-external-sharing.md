@@ -1,23 +1,23 @@
 ---
 title: Bật chia sẻ bên ngoài trong SharePoint Online
-ms.author: efrene
-author: efrene
+ms.author: pebaum
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: f4c74f11b2b74f2de4b7e1c831012b5f92600917
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 131ed77f8cb38610ff21b97dd1b6eb3ec575d510
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36744447"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40051699"
 ---
 # <a name="enable-external-sharing-in-sharepoint-online"></a>Bật chia sẻ bên ngoài trong SharePoint Online
 
-Nếu tổ chức của bạn thực hiện công việc có liên quan đến chia sẻ tài liệu hoặc cộng tác trực tiếp với nhà cung cấp, khách hàng hoặc khách hàng, thì bạn có thể sử dụng các [tính năng chia sẻ bên ngoài của SharePoint Online](https://docs.microsoft.com/sharepoint/external-sharing-overview) để chia sẻ nội dung với những người ở bên ngoài Tổ chức.
+Nếu tổ chức của bạn thực hiện công việc có liên quan đến chia sẻ tài liệu hoặc cộng tác trực tiếp với nhà cung cấp, khách hàng hoặc khách hàng, thì bạn có thể sử dụng các [tính năng chia sẻ bên ngoài của SharePoint Online](https://docs.microsoft.com/sharepoint/external-sharing-overview) để chia sẻ nội dung với những người bên ngoài tổ chức của bạn.
 
 Để biết thêm thông tin về chia sẻ bên ngoài (khách) vui lòng truy cập vào các liên kết dưới đây.
 

@@ -1,7 +1,7 @@
 ---
-title: Vấn đề kết nối SharePoint Designer
-ms.author: efrene
-author: efrene
+title: Sự cố kết nối SharePoint Designer
+ms.author: pebaum
+author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
@@ -10,35 +10,35 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f2b1b6b4-10c9-4e83-b9cb-529a0b8a3c55
-ms.openlocfilehash: a4aeaeaea5743c276b907c78317ff30f5610be81
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9730bd66afd494385db3de605f5fe68d0f274ed3
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36508445"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40051735"
 ---
-# <a name="sharepoint-designer-connection-issues"></a>Vấn đề kết nối SharePoint Designer 
+# <a name="sharepoint-designer-connection-issues"></a>Sự cố kết nối SharePoint Designer 
 
-Nếu SharePoint Designer gặp phải vấn đề kết nối với các trang web SharePoint, vui lòng thử các giải pháp phổ biến sau.
+Nếu SharePoint Designer đang gặp sự cố kết nối với các trang web SharePoint, hãy thử các giải pháp phổ biến sau.
 
-Bước 1: Xác minh rằng SharePoint Designer 2013 được Cập Nhật với [SharePoint Designer Service Pack 1](https://support.microsoft.com/help/2817441/description-of-microsoft-sharepoint-designer-2013-service-pack-1-sp1) và [2 tháng tám năm 2016 Cập Nhật cho SharePoint Designer 2013](https://support.microsoft.com/help/3114721/august-2-2016-update-for-sharepoint-designer-2013-kb3114721).
+Bước 1: xác minh rằng SharePoint Designer 2013 được Cập Nhật với [SharePoint Designer gói dịch vụ 1](https://support.microsoft.com/help/2817441/description-of-microsoft-sharepoint-designer-2013-service-pack-1-sp1) và [ngày 2, 2016 Cập Nhật cho SharePoint Designer 2013](https://support.microsoft.com/help/3114721/august-2-2016-update-for-sharepoint-designer-2013-kb3114721).
 
 
 
-Bước 2: Xóa các tập tin bộ đệm ẩn cục bộ:
+Bước 2: xóa các tệp bộ đệm ẩn cục bộ:
 
 1. Đóng SharePoint Designer 2013.
 
-2. Trên máy tính, loại bỏ tất cả các file trong mỗi thư mục sau đây được tìm thấy.
+2. Trên máy tính cục bộ, loại bỏ tất cả các tệp được tìm thấy trong mỗi thư mục sau đây.
 
-    - %AppData%\Microsoft\Web server Extensions\Cache
-    - %AppData%\Microsoft\SharePoint Designer\ProxyAssemblyCache
+    - %APPDATA%\Microsoft\Web Server Extensions\Cache
+    - %APPDATA%\Microsoft\SharePoint Designer\ProxyAssemblyCache
     - %USERPROFILE%\AppData\Local\Microsoft\WebsiteCache
 
-3. Mở SharePoint Designer 2013 và nhập vào tài khoản một lần nữa để xem nếu nó hoạt động.
+3. Mở SharePoint Designer 2013 và nhập lại tài khoản để xem nếu nó hoạt động.
 
-Bước 3: Cho [phép xác thực hiện đại cho Office 2013 trên thiết bị Windows](https://docs.microsoft.com/office365/admin/security-and-compliance/enable-modern-authentication?redirectSourcePath=/article/Enable-Modern-Authentication-for-Office-2013-on-Windows-devices-7dc1c01a-090f-4971-9677-f1b192d6c910&view=o365-worldwide).
+Bước 3: [kích hoạt xác thực hiện đại cho Office 2013 trên thiết bị Windows](https://docs.microsoft.com/office365/admin/security-and-compliance/enable-modern-authentication?redirectSourcePath=/article/Enable-Modern-Authentication-for-Office-2013-on-Windows-devices-7dc1c01a-090f-4971-9677-f1b192d6c910&view=o365-worldwide).
 
-Bước 4: Quản trị viên sẽ cần phải **Cho phép tuỳ chỉnh Script** trong các thiết lập Trung tâm quản trị SharePoint cho phép kết nối SharePoint Designer. Xem [cho phép hoặc ngăn chặn các tuỳ chỉnh script](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script) cho biết thêm thông tin.
+Bước 4: quản trị viên sẽ cần phải **cho phép tuỳ chỉnh tập lệnh** trong cài đặt Trung tâm quản trị SharePoint cho phép kết nối SharePoint Designer. Xem cho [phép hoặc ngăn chặn tập lệnh tùy chỉnh](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script) để biết thêm thông tin.
 
 

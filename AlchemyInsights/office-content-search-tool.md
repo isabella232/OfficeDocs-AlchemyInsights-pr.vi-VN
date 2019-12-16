@@ -1,7 +1,7 @@
 ---
 title: 1491-tìm kiếm-không-trở lại-dự kiến-kết quả
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
@@ -10,19 +10,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1491
 ms.assetid: ''
-ms.openlocfilehash: 9432ba267e423ea5bbcfbc40f4ea914901207140
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 7bbc6a5819b7d7bb879dd730637b90bbe458724d
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36753890"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053499"
 ---
 # <a name="content-search-tool-to-find-relevant-info"></a>Công cụ tìm kiếm nội dung để tìm thông tin có liên quan
 
-Sử dụng công cụ tìm kiếm nội dung trong Trung tâm bảo mật _ Amp_ tuân thủ để nhanh chóng tìm thấy email trong hộp thư Exchange, tài liệu trong các trang web SharePoint và vị trí OneDrive và cuộc hội thoại nhắn tin tức thời trong Skype dành cho doanh nghiệp. Bạn có thể sử dụng công cụ tìm kiếm nội dung để tìm kiếm email, tài liệu và cuộc hội thoại nhắn tin tức thời trong các công cụ cộng tác Office 365 như Microsoft teams và Office 365 Groups.
+Sử dụng công cụ tìm kiếm nội dung trong Trung tâm bảo mật & tuân thủ để nhanh chóng tìm email trong hộp thư Exchange, tài liệu trong các trang web SharePoint và vị trí OneDrive và cuộc hội thoại nhắn tin tức thời trong Skype dành cho doanh nghiệp. Bạn có thể sử dụng công cụ tìm kiếm nội dung để tìm kiếm email, tài liệu và cuộc hội thoại nhắn tin tức thời trong các công cụ cộng tác Office 365 như Microsoft teams và Office 365 Groups.
 
 
-Trước khi sử dụng [Tìm kiếm nội dung](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) từ [Trung tâm tuân thủ _-_ bảo mật](https://sip.protection.office.com/homepage), bạn sẽ muốn hoàn tất cài đặt cấu hình bao gồm [cấu hình quyền](https://docs.microsoft.com/office365/securitycompliance/permissions-filtering-for-content-search), [thiết lập tốc độ tải xuống](https://docs.microsoft.com/office365/securitycompliance/increase-download-speeds-when-exporting-ediscovery-results) và [cài đặt xuất](https://docs.microsoft.com/office365/securitycompliance/disable-reports-when-you-export-content-search-results).
+Trước khi sử dụng [Tìm kiếm nội dung](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) từ [Trung tâm tuân thủ & bảo mật](https://sip.protection.office.com/homepage), bạn sẽ muốn hoàn tất cài đặt cấu hình bao gồm [quyền cấu hình](https://docs.microsoft.com/office365/securitycompliance/permissions-filtering-for-content-search), [thiết lập tốc độ tải xuống](https://docs.microsoft.com/office365/securitycompliance/increase-download-speeds-when-exporting-ediscovery-results) và [cài đặt xuất](https://docs.microsoft.com/office365/securitycompliance/disable-reports-when-you-export-content-search-results).
 
 Tìm hiểu thêm về tìm kiếm nội dung bằng việc xem xét các [yêu cầu và giới hạn](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search), điều [tra các mục được lập chỉ mục một phần](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) và các kết quả khác cần lưu ý.
 

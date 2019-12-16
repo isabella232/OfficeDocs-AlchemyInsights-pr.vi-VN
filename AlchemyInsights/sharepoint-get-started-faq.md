@@ -1,7 +1,7 @@
 ---
 title: SharePoint trực tuyến phổ biến các vấn đề và nghị quyết
-ms.author: efrene
-author: efrene
+ms.author: pebaum
+author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 32657303d7f2176eb6840269daffe5825d24478c
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 03b450640ba5ca62bf05e7365d1759ed478648f8
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36744087"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40051555"
 ---
 # <a name="sharepoint-online-common-issues-and-resolutions"></a>SharePoint trực tuyến phổ biến các vấn đề và nghị quyết
 
@@ -31,6 +31,6 @@ Dưới đây là một số chủ đề thường xuyên được yêu cầu ch
 
 - Người **thuê nhà đổi tên**: xem [thay đổi tên miền SharePoint của bạn](https://docs.microsoft.com/sharepoint/change-your-sharepoint-domain-name) để biết thêm thông tin.
 
-- Hiện đại hóa **SharePoint**: đánh giá các [hướng dẫn về trải nghiệm Modern trong SharePoint](https://docs.microsoft.com/sharepoint/guide-to-sharepoint-modern-experience) và làm [cho trang web SharePoint cổ điển của bạn](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites) để bắt đầu di chuyển.
+- Hiện đại hóa **SharePoint**: đánh giá [hướng dẫn về trải nghiệm Modern trong SharePoint](https://docs.microsoft.com/sharepoint/guide-to-sharepoint-modern-experience) và theo các [trang web cổ điển SharePoint của bạn](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites) để bắt đầu di chuyển.
 
 - Bắt **đầu**: tìm hiểu cách [bắt đầu với SharePoint Online](https://docs.microsoft.com/sharepoint/introduction) với các chiến lược quản lý trang web.
