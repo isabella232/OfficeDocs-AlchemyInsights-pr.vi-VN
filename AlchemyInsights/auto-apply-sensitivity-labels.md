@@ -1,7 +1,7 @@
 ---
 title: Tự động áp dụng nhãn nhạy cảm
-ms.author: stephow
-author: stephow-MSFT
+ms.author: pebaum
+author: pebaum
 manager: laurawi
 ms.date: ''
 ms.audience: admin
@@ -12,29 +12,29 @@ localization_priority: Normal
 ms.custom:
 - "1737"
 - "9000181"
-ms.openlocfilehash: b095426d780033f6c1c7eeb320d923f6c484b078
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 95de9df224d3450678b56d04e6d823f4874abcd5
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36517413"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40050331"
 ---
-# <a name="auto-apply-sensitivity-labels"></a><span data-ttu-id="67938-102">Tự động áp dụng nhãn nhạy cảm</span><span class="sxs-lookup"><span data-stu-id="67938-102">Auto-apply sensitivity labels</span></span>
+# <a name="auto-apply-sensitivity-labels"></a><span data-ttu-id="cb393-102">Tự động áp dụng nhãn nhạy cảm</span><span class="sxs-lookup"><span data-stu-id="cb393-102">Auto-apply sensitivity labels</span></span>
 
-<span data-ttu-id="67938-103">Độ nhạy nhãn có thể áp dụng theo cách thủ công với nội dung người dùng, hoặc bạn có thể cấu hình để tự động áp dụng cho nội dung.</span><span class="sxs-lookup"><span data-stu-id="67938-103">Sensitivity labels can be manually applied to content by users, or you can configure them to be automatically applied to content.</span></span>
+<span data-ttu-id="cb393-103">Nhãn độ nhạy có thể được áp dụng theo cách thủ công cho nội dung của người dùng hoặc bạn có thể định cấu hình chúng để tự động áp dụng cho nội dung.</span><span class="sxs-lookup"><span data-stu-id="cb393-103">Sensitivity labels can be manually applied to content by users, or you can configure them to be automatically applied to content.</span></span>
 
-<span data-ttu-id="67938-104">Tự động áp dụng nhãn nhạy cảm loại bỏ sự cần thiết để đào tạo người dùng trên làm thế nào để phân loại nội dung và sự cần thiết phải thông báo cho họ về cấu hình chính sách.</span><span class="sxs-lookup"><span data-stu-id="67938-104">Automatically applying sensitivity labels removes the need to train users on how to classify content and the need to notify them of policy configurations.</span></span>
+<span data-ttu-id="cb393-104">Tự động áp dụng nhãn nhạy cảm sẽ loại bỏ nhu cần đào tạo người dùng về cách phân loại nội dung và cần phải thông báo cho họ về cấu hình chính sách.</span><span class="sxs-lookup"><span data-stu-id="cb393-104">Automatically applying sensitivity labels removes the need to train users on how to classify content and the need to notify them of policy configurations.</span></span>
 
-<span data-ttu-id="67938-105">Để áp dụng nhãn tự động, sau đây là cần thiết:</span><span class="sxs-lookup"><span data-stu-id="67938-105">To apply labels automatically, the following is required:</span></span>
+<span data-ttu-id="cb393-105">Để áp dụng nhãn tự động, sau đây là yêu cầu:</span><span class="sxs-lookup"><span data-stu-id="cb393-105">To apply labels automatically, the following is required:</span></span>
 
-- <span data-ttu-id="67938-106">Đăng ký thông tin bảo vệ P2 Azure</span><span class="sxs-lookup"><span data-stu-id="67938-106">Azure Information Protection P2 subscription</span></span>
-- [<span data-ttu-id="67938-107">Tải về và cài đặt khách hàng ghi nhãn thống nhất bảo vệ thông tin Azure</span><span class="sxs-lookup"><span data-stu-id="67938-107">Download and install the Azure Information Protection unified labeling client</span></span>](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
+- <span data-ttu-id="cb393-106">Bảo vệ thông tin Azure P2 đăng ký</span><span class="sxs-lookup"><span data-stu-id="cb393-106">Azure Information Protection P2 subscription</span></span>
+- [<span data-ttu-id="cb393-107">Tải xuống và cài đặt máy khách ghi nhãn hợp nhất bảo vệ thông tin Azure</span><span class="sxs-lookup"><span data-stu-id="cb393-107">Download and install the Azure Information Protection unified labeling client</span></span>](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
 
-<span data-ttu-id="67938-108">Chúng tôi đang làm việc trên bản hỗ trợ sẽ không yêu cầu khách hàng ghi nhãn thống nhất bảo vệ thông tin Azure trong tương lai.</span><span class="sxs-lookup"><span data-stu-id="67938-108">We're working on native support that won't require the Azure Information Protection unified labeling client in the future.</span></span>
+<span data-ttu-id="cb393-108">Chúng tôi đang làm việc trên hỗ trợ tự nhiên mà không yêu cầu Azure bảo vệ thông tin hợp nhất khách hàng dán nhãn trong tương lai.</span><span class="sxs-lookup"><span data-stu-id="cb393-108">We're working on native support that won't require the Azure Information Protection unified labeling client in the future.</span></span>
 
-<span data-ttu-id="67938-109">Hiện nay, chỉ Windows hỗ trợ các khách hàng đặt nhãn vẫn thống nhất.</span><span class="sxs-lookup"><span data-stu-id="67938-109">Currently, only Windows supports the unified labeling client.</span></span>  <span data-ttu-id="67938-110">Các tính năng không được hỗ trợ trên Mac, iOS và Android.</span><span class="sxs-lookup"><span data-stu-id="67938-110">The feature is not yet supported on Mac, iOS and Android.</span></span>
+<span data-ttu-id="cb393-109">Hiện tại, chỉ Windows hỗ trợ khách hàng dán nhãn thống nhất.</span><span class="sxs-lookup"><span data-stu-id="cb393-109">Currently, only Windows supports the unified labeling client.</span></span>  <span data-ttu-id="cb393-110">Tính năng này chưa được hỗ trợ trên Mac, iOS và Android.</span><span class="sxs-lookup"><span data-stu-id="cb393-110">The feature is not yet supported on Mac, iOS and Android.</span></span>
 
-<span data-ttu-id="67938-111">Để biết thêm chi tiết về độ nhạy nhãn và áp dụng chúng một cách tự động đến nội dung, hãy xem:</span><span class="sxs-lookup"><span data-stu-id="67938-111">For more information on sensitivity labels and applying them automatically to content,  see:</span></span>
+<span data-ttu-id="cb393-111">Để biết thêm thông tin về các nhãn nhạy cảm và áp dụng chúng tự động cho nội dung, hãy xem:</span><span class="sxs-lookup"><span data-stu-id="cb393-111">For more information on sensitivity labels and applying them automatically to content,  see:</span></span>
 
-- [<span data-ttu-id="67938-112">Tổng quan về độ nhạy nhãn</span><span class="sxs-lookup"><span data-stu-id="67938-112">Overview of sensitivity labels</span></span>](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
-- [<span data-ttu-id="67938-113">Áp dụng một nhãn hiệu nhạy cảm với nội dung tự động</span><span class="sxs-lookup"><span data-stu-id="67938-113">Apply a sensitivity label to content automatically</span></span>](https://docs.microsoft.com/office365/securitycompliance/apply_sensitivity_label_automatically)
+- [<span data-ttu-id="cb393-112">Tổng quan về các nhãn nhạy cảm</span><span class="sxs-lookup"><span data-stu-id="cb393-112">Overview of sensitivity labels</span></span>](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
+- [<span data-ttu-id="cb393-113">Áp dụng nhãn nhạy cảm cho nội dung tự động</span><span class="sxs-lookup"><span data-stu-id="cb393-113">Apply a sensitivity label to content automatically</span></span>](https://docs.microsoft.com/office365/securitycompliance/apply_sensitivity_label_automatically)

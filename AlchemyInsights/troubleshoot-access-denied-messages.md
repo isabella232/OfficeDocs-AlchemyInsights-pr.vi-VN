@@ -1,34 +1,34 @@
 ---
-title: Khắc phục sự cố truy cập từ chối các thư
-ms.author: kaarins
-author: kaarins
+title: Khắc phục sự cố truy cập từ chối thư
+ms.author: pebaum
+author: pebaum
 ms.date: 6/29/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d678b57a-53ad-4414-9423-d8726a0c532f
-ms.openlocfilehash: e4fea7188bd77ba876e2a245414372c3ff836059
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 05d12aee49b449e8a29e84021b41298fb9983859
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36500453"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40050727"
 ---
-# <a name="troubleshoot-access-denied-messages"></a><span data-ttu-id="bde5d-102">Khắc phục sự cố truy cập từ chối các thư</span><span class="sxs-lookup"><span data-stu-id="bde5d-102">Troubleshoot Access Denied messages</span></span>
+# <a name="troubleshoot-access-denied-messages"></a><span data-ttu-id="4c790-102">Khắc phục sự cố truy cập từ chối thư</span><span class="sxs-lookup"><span data-stu-id="4c790-102">Troubleshoot Access Denied messages</span></span>
 
-<span data-ttu-id="bde5d-103">Nếu ai đó đã thông báo "Truy cập từ chối" đến một thư mục được chia sẻ trong SharePoint, bộ sưu tập trang web quản trị có thể đã kích hoạt "truy cập giới hạn cho phép khoá chế độ người dùng."</span><span class="sxs-lookup"><span data-stu-id="bde5d-103">If someone got an "Access Denied" message to a shared folder in SharePoint, the site collection administrator might have enabled "Limited-access user permission lockdown mode."</span></span> <span data-ttu-id="bde5d-104">Để tắt này:</span><span class="sxs-lookup"><span data-stu-id="bde5d-104">To turn this off:</span></span> 
+<span data-ttu-id="4c790-103">Nếu ai đó nhận được thông báo "truy cập từ chối" vào một thư mục được chia sẻ trong SharePoint, quản trị viên bộ sưu tập trang web có thể đã kích hoạt "chế độ khoá quyền truy cập người dùng giới hạn."</span><span class="sxs-lookup"><span data-stu-id="4c790-103">If someone got an "Access Denied" message to a shared folder in SharePoint, the site collection administrator might have enabled "Limited-access user permission lockdown mode."</span></span> <span data-ttu-id="4c790-104">Để tắt tính năng này:</span><span class="sxs-lookup"><span data-stu-id="4c790-104">To turn this off:</span></span> 
   
-1. <span data-ttu-id="bde5d-105">Duyệt đến trang web, hãy nhấp vào biểu tượng cài đặt và sau đó nhấp vào **Thiết lập trang web**.</span><span class="sxs-lookup"><span data-stu-id="bde5d-105">Browse to the site, click the Settings icon, and then click **Site Settings**.</span></span>
+1. <span data-ttu-id="4c790-105">Duyệt trang web, bấm vào biểu tượng cài đặt, và sau đó bấm **thiết đặt trang web**.</span><span class="sxs-lookup"><span data-stu-id="4c790-105">Browse to the site, click the Settings icon, and then click **Site Settings**.</span></span>
     
-2. <span data-ttu-id="bde5d-106">Theo **Cục quản lý bộ sưu tập trang web**, nhấp vào **tính năng bộ sưu tập trang web**.</span><span class="sxs-lookup"><span data-stu-id="bde5d-106">Under **Site Collection Administration**, click **Site collection features**.</span></span>
+2. <span data-ttu-id="4c790-106">Trong **bộ sưu tập trang web quản trị**, bấm vào **tính năng thu thập trang web**.</span><span class="sxs-lookup"><span data-stu-id="4c790-106">Under **Site Collection Administration**, click **Site collection features**.</span></span>
     
-3. <span data-ttu-id="bde5d-107">Bên cạnh **chế độ khoá cứng cho phép hạn chế truy cập người dùng**, nhấp vào **vô hiệu hóa**.</span><span class="sxs-lookup"><span data-stu-id="bde5d-107">Next to **Limited-access user permission lockdown mode**, click **Deactivate**.</span></span>
+3. <span data-ttu-id="4c790-107">Cạnh **chế độ khóa cấp phép người dùng truy cập hạn chế**, nhấp vào **hủy**kích hoạt.</span><span class="sxs-lookup"><span data-stu-id="4c790-107">Next to **Limited-access user permission lockdown mode**, click **Deactivate**.</span></span>
     
-<span data-ttu-id="bde5d-108">Thông báo truy cập từ chối cũng có thể xảy ra cho cặp chia sẻ nếu các trang web là một trang web xuất bản.</span><span class="sxs-lookup"><span data-stu-id="bde5d-108">An Access Denied message can also occur for shared folders if the site is a publishing site.</span></span> <span data-ttu-id="bde5d-109">Để thông tin, hãy xem [Truy cập từ chối khi truy cập vào một thư mục được chia sẻ](https://go.microsoft.com/fwlink/?linkid=2004317).</span><span class="sxs-lookup"><span data-stu-id="bde5d-109">For info, see [Access Denied when accessing a shared folder](https://go.microsoft.com/fwlink/?linkid=2004317).</span></span>
+<span data-ttu-id="4c790-108">Thông báo truy cập từ chối cũng có thể xảy ra cho cặp chia sẻ nếu trang web xuất bản.</span><span class="sxs-lookup"><span data-stu-id="4c790-108">An Access Denied message can also occur for shared folders if the site is a publishing site.</span></span> <span data-ttu-id="4c790-109">Để biết thông tin, xem [truy cập bị từ chối khi truy cập vào cặp chia sẻ](https://go.microsoft.com/fwlink/?linkid=2004317).</span><span class="sxs-lookup"><span data-stu-id="4c790-109">For info, see [Access Denied when accessing a shared folder](https://go.microsoft.com/fwlink/?linkid=2004317).</span></span>
   
-<span data-ttu-id="bde5d-110">Nếu một ai đó nhận một tin nhắn "Truy cập từ chối" khi cố gắng để xem yêu cầu truy cập, người dùng cần phải được thêm vào như là một quản trị viên bộ sưu tập trang web hay một thành viên của nhóm chủ sở hữu cho các trang web.</span><span class="sxs-lookup"><span data-stu-id="bde5d-110">If a someone got an "Access Denied" message when trying to view access requests, the user needs to be added as either a site collection administrator or a member of the Owners group for the site.</span></span> <span data-ttu-id="bde5d-111">Để biết thêm chi tiết, hãy xem [Truy cập từ chối yêu cầu truy cập danh sách](https://go.microsoft.com/fwlink/?linkid=2004220).</span><span class="sxs-lookup"><span data-stu-id="bde5d-111">For more info, see [Access Denied to Access Requests list](https://go.microsoft.com/fwlink/?linkid=2004220).</span></span>
+<span data-ttu-id="4c790-110">Nếu một người có thông báo "truy cập từ chối" khi cố gắng để xem yêu cầu truy cập, người dùng cần phải được thêm vào như là một quản trị viên bộ sưu tập trang web hoặc thành viên của nhóm chủ sở hữu trang web.</span><span class="sxs-lookup"><span data-stu-id="4c790-110">If a someone got an "Access Denied" message when trying to view access requests, the user needs to be added as either a site collection administrator or a member of the Owners group for the site.</span></span> <span data-ttu-id="4c790-111">Để biết thêm thông tin, xem [truy cập từ chối truy cập yêu cầu danh sách](https://go.microsoft.com/fwlink/?linkid=2004220).</span><span class="sxs-lookup"><span data-stu-id="4c790-111">For more info, see [Access Denied to Access Requests list](https://go.microsoft.com/fwlink/?linkid=2004220).</span></span>
   
-<span data-ttu-id="bde5d-112">Nếu người dùng nhận một tin nhắn "Truy cập từ chối" sau khi họ đã được gỡ bỏ từ Active Directory tại chỗ và sau đó thêm vào lại, hãy xem [Truy cập từ chối khi trương mục người dùng đồng bộ hóa với Office 365](https://go.microsoft.com/fwlink/?linkid=2004318).</span><span class="sxs-lookup"><span data-stu-id="bde5d-112">If a user got an "Access Denied" message after they were removed from Active Directory on-premises and then added back, see [Access Denied when a user account is synced to Office 365](https://go.microsoft.com/fwlink/?linkid=2004318).</span></span>
+<span data-ttu-id="4c790-112">Nếu người dùng có thông báo "truy cập từ chối" sau khi họ đã bị xoá khỏi Active Directory tại chỗ và sau đó thêm trở lại, hãy xem [truy cập bị từ chối khi tài khoản người dùng được đồng bộ hóa với Office 365](https://go.microsoft.com/fwlink/?linkid=2004318).</span><span class="sxs-lookup"><span data-stu-id="4c790-112">If a user got an "Access Denied" message after they were removed from Active Directory on-premises and then added back, see [Access Denied when a user account is synced to Office 365](https://go.microsoft.com/fwlink/?linkid=2004318).</span></span>
   
 
