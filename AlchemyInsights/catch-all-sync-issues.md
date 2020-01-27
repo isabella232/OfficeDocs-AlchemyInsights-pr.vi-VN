@@ -11,19 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000037"
 - "1674"
-ms.openlocfilehash: 73d944622953fa3486816b4d8a8fbf53a8f7c0a6
-ms.sourcegitcommit: e02ecb762949c13af66b734eab962882e0a2ec11
+ms.openlocfilehash: 80ae27c88793211e5b2be3a3f6a26273cbd87a6e
+ms.sourcegitcommit: 3530e3818d5bac438ed8e402b394a7ef3b4c72de
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 12/02/2019
-ms.locfileid: "39663379"
+ms.lasthandoff: 01/24/2020
+ms.locfileid: "41551019"
 ---
 # <a name="basic-outlook-sync-troubleshooting"></a>Khắc phục sự cố đồng bộ hoá Outlook cơ bản
 
 Nếu bạn gặp sự cố đồng bộ hoá, hãy thử các mục sau:
 
 - Chạy [công cụ chẩn đoán này](https://aka.ms/sara-outlooksendreceive) trên máy bị ảnh hưởng.
-- [Tạo hồ sơ Outlook mới](https://support.office.com/article/f544c1ba-3352-4b3b-be0b-8d42a540459d) và đặt làm mặc định. Bạn có thể [chạy hồ sơ Outlook](https://aka.ms/SaRA-OutlookSetupProfile) trên máy tính bị ảnh hưởng.
+- Giảm số lượng các thư mục trong hộp thư chính hoặc chia sẻ. Xem [vấn đề hiệu suất Outlook khi có quá nhiều mục hoặc thư mục trong chế độ đệm ẩn. OST hoặc. PST tệp cặp.](https://support.microsoft.com/help/2768656/outlook-performance-issues-when-there-are-too-many-items-or-folders-in)
 - Đảm bảo rằng người dùng có thể kết nối Internet. 
 - [Xác minh rằng bạn đang trực tuyến](https://support.office.com/article/2460e4a8-16c7-47fc-b204-b1549275aac9).
 - [Xác định xem một quy tắc được áp dụng](https://support.office.com/article/C24F5DEA-9465-4DF4-AD17-A50704D66C59).
