@@ -11,20 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000037"
 - "1674"
-ms.openlocfilehash: 73d944622953fa3486816b4d8a8fbf53a8f7c0a6
-ms.sourcegitcommit: e02ecb762949c13af66b734eab962882e0a2ec11
+ms.openlocfilehash: 80ae27c88793211e5b2be3a3f6a26273cbd87a6e
+ms.sourcegitcommit: 3530e3818d5bac438ed8e402b394a7ef3b4c72de
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 12/02/2019
-ms.locfileid: "39663379"
+ms.lasthandoff: 01/24/2020
+ms.locfileid: "41551019"
 ---
-# <a name="basic-outlook-sync-troubleshooting"></a><span data-ttu-id="4f1cf-102">Khắc phục sự cố đồng bộ hoá Outlook cơ bản</span><span class="sxs-lookup"><span data-stu-id="4f1cf-102">Basic Outlook sync troubleshooting</span></span>
+# <a name="basic-outlook-sync-troubleshooting"></a><span data-ttu-id="4e98b-102">Khắc phục sự cố đồng bộ hoá Outlook cơ bản</span><span class="sxs-lookup"><span data-stu-id="4e98b-102">Basic Outlook sync troubleshooting</span></span>
 
-<span data-ttu-id="4f1cf-103">Nếu bạn gặp sự cố đồng bộ hoá, hãy thử các mục sau:</span><span class="sxs-lookup"><span data-stu-id="4f1cf-103">If you're having sync issues, try the following:</span></span>
+<span data-ttu-id="4e98b-103">Nếu bạn gặp sự cố đồng bộ hoá, hãy thử các mục sau:</span><span class="sxs-lookup"><span data-stu-id="4e98b-103">If you're having sync issues, try the following:</span></span>
 
-- <span data-ttu-id="4f1cf-104">Chạy [công cụ chẩn đoán này](https://aka.ms/sara-outlooksendreceive) trên máy bị ảnh hưởng.</span><span class="sxs-lookup"><span data-stu-id="4f1cf-104">Run [this diagnostic tool](https://aka.ms/sara-outlooksendreceive) on the affected machine.</span></span>
-- <span data-ttu-id="4f1cf-105">[Tạo hồ sơ Outlook mới](https://support.office.com/article/f544c1ba-3352-4b3b-be0b-8d42a540459d) và đặt làm mặc định.</span><span class="sxs-lookup"><span data-stu-id="4f1cf-105">[Create a new Outlook profile](https://support.office.com/article/f544c1ba-3352-4b3b-be0b-8d42a540459d) and set it as the default.</span></span> <span data-ttu-id="4f1cf-106">Bạn có thể [chạy hồ sơ Outlook](https://aka.ms/SaRA-OutlookSetupProfile) trên máy tính bị ảnh hưởng.</span><span class="sxs-lookup"><span data-stu-id="4f1cf-106">You can [run the Outlook profile](https://aka.ms/SaRA-OutlookSetupProfile) on the affected computer.</span></span>
-- <span data-ttu-id="4f1cf-107">Đảm bảo rằng người dùng có thể kết nối Internet.</span><span class="sxs-lookup"><span data-stu-id="4f1cf-107">Make sure the user can connect to the Internet.</span></span> 
-- <span data-ttu-id="4f1cf-108">[Xác minh rằng bạn đang trực tuyến](https://support.office.com/article/2460e4a8-16c7-47fc-b204-b1549275aac9).</span><span class="sxs-lookup"><span data-stu-id="4f1cf-108">[Verify that you are online](https://support.office.com/article/2460e4a8-16c7-47fc-b204-b1549275aac9).</span></span>
-- <span data-ttu-id="4f1cf-109">[Xác định xem một quy tắc được áp dụng](https://support.office.com/article/C24F5DEA-9465-4DF4-AD17-A50704D66C59).</span><span class="sxs-lookup"><span data-stu-id="4f1cf-109">[Determine whether a rule is applied](https://support.office.com/article/C24F5DEA-9465-4DF4-AD17-A50704D66C59).</span></span>
-- <span data-ttu-id="4f1cf-110">Xác minh **rằng tải xuống cặp chia sẻ** được bật bằng cách **đi tới** > cài đặt**tài** > khoản cài đặt tài**khoản** > thiết lập**nhiều cài đặt** > **nâng cao**.</span><span class="sxs-lookup"><span data-stu-id="4f1cf-110">Verify that **Download Shared Folders** is enabled by going to **File** > **Account Settings** > **Account Settings** > **More Settings** > **Advanced**.</span></span>
+- <span data-ttu-id="4e98b-104">Chạy [công cụ chẩn đoán này](https://aka.ms/sara-outlooksendreceive) trên máy bị ảnh hưởng.</span><span class="sxs-lookup"><span data-stu-id="4e98b-104">Run [this diagnostic tool](https://aka.ms/sara-outlooksendreceive) on the affected machine.</span></span>
+- <span data-ttu-id="4e98b-105">Giảm số lượng các thư mục trong hộp thư chính hoặc chia sẻ.</span><span class="sxs-lookup"><span data-stu-id="4e98b-105">Reduce the number of folders in the primary or shared mailbox.</span></span> <span data-ttu-id="4e98b-106">Xem [vấn đề hiệu suất Outlook khi có quá nhiều mục hoặc thư mục trong chế độ đệm ẩn. OST hoặc. PST tệp cặp.](https://support.microsoft.com/help/2768656/outlook-performance-issues-when-there-are-too-many-items-or-folders-in)</span><span class="sxs-lookup"><span data-stu-id="4e98b-106">See [Outlook performance issues when there are too many items or folders in a Cached mode .ost or .pst file folder.](https://support.microsoft.com/help/2768656/outlook-performance-issues-when-there-are-too-many-items-or-folders-in)</span></span>
+- <span data-ttu-id="4e98b-107">Đảm bảo rằng người dùng có thể kết nối Internet.</span><span class="sxs-lookup"><span data-stu-id="4e98b-107">Make sure the user can connect to the Internet.</span></span> 
+- <span data-ttu-id="4e98b-108">[Xác minh rằng bạn đang trực tuyến](https://support.office.com/article/2460e4a8-16c7-47fc-b204-b1549275aac9).</span><span class="sxs-lookup"><span data-stu-id="4e98b-108">[Verify that you are online](https://support.office.com/article/2460e4a8-16c7-47fc-b204-b1549275aac9).</span></span>
+- <span data-ttu-id="4e98b-109">[Xác định xem một quy tắc được áp dụng](https://support.office.com/article/C24F5DEA-9465-4DF4-AD17-A50704D66C59).</span><span class="sxs-lookup"><span data-stu-id="4e98b-109">[Determine whether a rule is applied](https://support.office.com/article/C24F5DEA-9465-4DF4-AD17-A50704D66C59).</span></span>
+- <span data-ttu-id="4e98b-110">Xác minh **rằng tải xuống cặp chia sẻ** được bật bằng cách **đi tới** > cài đặt**tài** > khoản cài đặt tài**khoản** > thiết lập**nhiều cài đặt** > **nâng cao**.</span><span class="sxs-lookup"><span data-stu-id="4e98b-110">Verify that **Download Shared Folders** is enabled by going to **File** > **Account Settings** > **Account Settings** > **More Settings** > **Advanced**.</span></span>
