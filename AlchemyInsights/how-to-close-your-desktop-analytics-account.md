@@ -1,5 +1,5 @@
 ---
-title: Làm thế nào để đóng tài khoản Analytics máy tính để bàn
+title: Cách đóng tài khoản Analytics trên máy tính
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000655"
 - "2499"
-ms.openlocfilehash: 8ca9b323800a43d968192cef39b2b84d4c38e762
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: db22c9f8fd073825eb4d6901d9110e778e469936
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36541751"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41771057"
 ---
-# <a name="how-to-close-your-desktop-analytics-account"></a>Làm thế nào để đóng tài khoản Analytics máy tính để bàn
+# <a name="how-to-close-your-desktop-analytics-account"></a>Cách đóng tài khoản Analytics trên máy tính
 
-Nếu bạn thiết lập máy tính để bàn phân tích trong môi trường của bạn, và sau đó quyết định bạn cần phải loại bỏ nó, sử dụng quá trình này trong các liên kết sau đây:
+Nếu bạn thiết lập phân tích màn hình nền trong môi trường của bạn, và sau đó quyết định bạn cần loại bỏ nó, sử dụng quá trình trong liên kết sau:
 
-[Làm thế nào để đóng tài khoản của bạn](https://docs.microsoft.com/sccm/desktop-analytics/account-close)
+[Cách đóng tài khoản của bạn](https://docs.microsoft.com/configmgr/desktop-analytics/account-close)
 
-Bước đầu tiên là để liên hệ với Microsoft Support. Mở một trường hợp hỗ trợ để đóng tài khoản Analytics máy tính để bàn của bạn. Không tiếp tục với các bước bổ sung cho đến khi bạn nhận được xác nhận rằng Microsoft đóng tài khoản của bạn.
+Bước đầu tiên là liên hệ với Microsoft support. Mở một trường hợp hỗ trợ để đóng tài khoản Analytics trên Desktop của bạn. Không tiếp tục với các bước bổ sung cho đến khi bạn nhận được xác nhận rằng Microsoft đóng tài khoản của bạn.

@@ -10,16 +10,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 84f2b70e-2b23-4039-8305-85783798feed
-ms.openlocfilehash: 458990889d3c074820527982cbfa6e2d198d3e66
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: b9009fdbdc2a5e7443151446daade1685d2f5d45
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40052491"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770445"
 ---
 # <a name="create-sharepoint-sites-using-templates"></a>Tạo các trang web SharePoint bằng cách sử dụng mẫu
 
-Mẫu trang web SharePoint được xây dựng sẵn định nghĩa được thiết kế xung quanh một nhu cần kinh doanh cụ thể. Để biết thêm thông tin, xem [sử dụng mẫu để tạo các loại trang web SharePoint](https://support.office.com/article/using-templates-to-create-different-kinds-of-sharepoint-sites-449eccec-ff99-4cf3-b62e-dcfee37e8da4).
+Khả năng lưu một trang web như là một mẫu không được hỗ trợ với giao tiếp hiện đại hoặc nhóm Sites. Để biết thêm thông tin về cách sử dụng mẫu [, xem lưu, tải xuống và tải lên trang web SharePoint làm mẫu](https://docs.microsoft.com/sharepoint/dev/general-development/save-download-and-upload-a-sharepoint-site-as-a-template).
 
 Dưới đây là một số vấn đề thường gặp/giải pháp liên quan đến lưu một trang web hoặc danh sách như một mẫu trong SharePoint Online. 
 

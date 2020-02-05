@@ -13,16 +13,16 @@ ms.custom:
 - "9000123"
 - "1622"
 - "1713"
-ms.openlocfilehash: 3ac4abe4d48e2feb887dc0945434ec26c19a2cf6
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 8fd1ab642b205ddabeaab9da52f8b41f594753f4
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049431"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41771165"
 ---
 # <a name="why-cant-i-edit-files"></a>Tại sao tôi không thể chỉnh sửa tệp?
 
-Nếu một tài liệu, bảng tính, hoặc bản trình bày bị khóa để chỉnh sửa và không thể mở được trong các ứng dụng máy tính để bàn Windows, có thể là các tập tin đã được sửa đổi bởi một người nào khác, hoặc họ có các tập tin kiểm tra ra. Chúng ta hãy xem nhanh một số lý do [tại sao bạn không thể chỉnh sửa tệp](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).
+Hãy xem nhanh một số lý do [tại sao bạn không thể chỉnh sửa tệp](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).
 
 Nếu bạn có thư viện với **thanh toán, cột yêu cầu** hoặc **xác** thực hoặc siêu dữ liệu hoặc khi bản **nháp mục bảo mật** được đặt thành hoặc **chỉ người dùng có thể chỉnh sửa** hoặc **chỉ người dùng có thể phê duyệt các mục** trong cài đặt phiên bản của thư viện:
 

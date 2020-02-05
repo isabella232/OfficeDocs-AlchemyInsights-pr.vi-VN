@@ -1,5 +1,5 @@
 ---
-title: Làm thế nào để đóng tài khoản Analytics máy tính để bàn
+title: Cách đóng tài khoản Analytics trên máy tính
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000655"
 - "2498"
-ms.openlocfilehash: d074024ee40f9a06a59f8c4f650f2092c39413d1
-ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
+ms.openlocfilehash: cf5588cfd6892e3215fc9c0ad50732e0d5847f7e
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35800700"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41771129"
 ---
-# <a name="working-with-desktop-analytics"></a>Làm việc với máy tính để bàn phân tích
+# <a name="working-with-desktop-analytics"></a>Làm việc với Desktop Analytics
 
-Chỗ ở này có vẻ như bạn đang hỏi về máy tính để bàn phân tích. Chúng tôi có thể giúp đỡ với một câu trả lời chính xác hơn nếu bạn nói lại câu hỏi của bạn.
+Có vẻ như bạn đang hỏi về Desktop Analytics. Chúng tôi có thể giúp đỡ với một câu trả lời chính xác hơn nếu bạn recụm câu hỏi của bạn.
 
-- [Máy tính để bàn Analytics là gì?](https://docs.microsoft.com/sccm/desktop-analytics/overview)
-- [Làm thế nào để thiết lập máy tính để bàn Analytics](https://docs.microsoft.com/sccm/desktop-analytics/set-up)
-- [Câu hỏi Thường gặp](https://docs.microsoft.com/sccm/desktop-analytics/faq)
-- [Khắc phục sự cố máy tính để bàn phân tích](https://docs.microsoft.com/sccm/desktop-analytics/troubleshooting)
+- [Desktop Analytics là gì?](https://docs.microsoft.com/configmgr/desktop-analytics/overview)
+- [Cách thiết lập phân tích màn hình](https://docs.microsoft.com/configmgr/desktop-analytics/set-up)
+- [Câu hỏi Thường gặp](https://docs.microsoft.com/configmgr/desktop-analytics/faq)
+- [Gỡ rối phân tích màn hình](https://docs.microsoft.com/configmgr/desktop-analytics/troubleshooting)
