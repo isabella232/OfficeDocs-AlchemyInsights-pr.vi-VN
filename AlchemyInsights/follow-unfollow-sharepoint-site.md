@@ -8,19 +8,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 9213645dfeeb856e700a3387adfc3b40c538c52e
-ms.sourcegitcommit: 9cc8a2f5bb73f0e8951d317e51b4cd3253027733
+ms.openlocfilehash: 5da73df5e7b09faf13fcf911dcc11a6e11540497
+ms.sourcegitcommit: 1e66f4850b0f06db1d1be82dc97f849abca80d38
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 10/21/2019
-ms.locfileid: "37611719"
+ms.lasthandoff: 02/07/2020
+ms.locfileid: "41855573"
 ---
 # <a name="follow-or-un-follow-a-sharepoint-site"></a>Theo dõi hoặc bỏ theo dõi trang web SharePoint
 
-Có nhiều cách để tìm và theo dõi các trang web, tin tức và nội dung mà bạn quan tâm trong SharePoint. Điều này sẽ cho phép bạn tìm thấy thông tin một cách dễ dàng trong danh sách của bạn và cho phép bạn xem hoạt động từ SharePoint.
+Nếu người dùng đang gặp sự cố sau hoặc hủy sau tài nguyên SharePoint, hoàn thành các bước sau:
 
-Xem video để [Tìm và làm theo các trang web và tin tức](https://support.office.com/article/Video-Find-and-follow-sites-news-and-content-4411e38f-9bc5-4ecc-bd33-3dbe939ac84c).
-
-Nếu bạn không thể theo dõi hoặc bỏ theo dõi trang web, tin tức hoặc nội dung và cảm thấy kết quả không phải là những gì được mong đợi, hãy xem nếu vấn đề có liên quan đến một người dùng duy nhất hoặc tất cả người dùng trong tổ chức của bạn. Nếu sự cố xảy ra bởi tất cả người dùng, có thể có một vấn đề dịch vụ tạm thời.
-
-Kiểm tra [bảng điều khiển tình trạng dịch vụ](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) để xem liệu tổ chức của bạn có bị ảnh hưởng hay không.
+* Yêu cầu người dùng đăng xuất và đăng nhập lại vào SharePoint và thử các bước tương tự để theo dõi/bỏ theo dõi tài nguyên SharePoint.
+* Xác định nếu vấn đề với một trang web cụ thể hoặc tất cả các trang web. Nếu sự cố xảy ra với các trang web cụ thể, đảm bảo tính năng "nội dung sau" đang hoạt động cho các trang web bằng cách đi tới **cài đặt trang web > quản lý tính năng trang web > nội dung sau**. Nếu tính năng được đặt thành hoạt động, hãy thử tắt và kích hoạt lại tính năng cho trang web.
+* Yêu cầu người dùng thử trình duyệt Internet khác để xem sự cố có cụ thể cho trình duyệt của người dùng hay không.
+* Nếu tất cả người dùng và tất cả các trang web đang gặp sự cố tương tự, hãy kiểm tra [bảng điều khiển dịch vụ y tế](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) để xem nếu tổ chức của bạn bị ảnh hưởng.
