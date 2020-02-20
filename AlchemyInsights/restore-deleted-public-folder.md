@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3488"
-ms.openlocfilehash: 7b04612daca61650d162c1dde240e25c1b185b04
-ms.sourcegitcommit: 8ba12eff67e405f5922ea4cc35155e3036447859
+ms.openlocfilehash: cd85dd3c0eb14f6e02ac4f912e733468403387aa
+ms.sourcegitcommit: 2a9d059262c07c33f9a740b3da4e6e3366b2f925
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42063784"
+ms.lasthandoff: 02/20/2020
+ms.locfileid: "42158552"
 ---
 # <a name="restore-a-deleted-public-folder"></a>Khôi phục thư mục công cộng đã xóa
 
@@ -30,10 +30,10 @@ ms.locfileid: "42063784"
 
     Cú pháp:
 
-    >$pf = Get-PublicFolder \ NON_IPM_SUBTREE \ DUMPSTER_ROOT-recurse |? {$_. Tên-EQ "\<name_of_deleted_public_Folder"}; Set-PublicFolder $pf. Identity- \<đường dẫn nơi thư mục sẽ được khôi phục>
+     `$pf=Get-PublicFolder \NON_IPM_SUBTREE\DUMPSTER_ROOT -Recurse  | ?{$_.Name -eq "\<name_of_deleted_public_Folder"};Set-PublicFolder $pf.identity -Path \<path where the folder will be restored>`
 
     Ví dụ: lệnh sau sẽ khôi phục Subfolder1 và nơi nó dưới \Parent1:
 
-    >$pf = Get-PublicFolder \ NON_IPM_SUBTREE \ DUMPSTER_ROOT-recurse |? {$_. Tên-EQ "Subfolder1"}; Thiết lập PublicFolder $pf. Identity-đường dẫn \Parent1
+    `$pf=Get-PublicFolder \NON_IPM_SUBTREE\DUMPSTER_ROOT -Recurse | ?{$_.Name -eq "Subfolder1"};Set-PublicFolder $pf.identity -Path \Parent1`
 
 Xem [khôi phục thư mục công cộng đã xóa](https://docs.microsoft.com/exchange/collaboration-exo/public-folders/restore-deleted-public-folder) để biết thêm chi tiết.

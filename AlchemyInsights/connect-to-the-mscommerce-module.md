@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3528"
-ms.openlocfilehash: 95721f9bb554dcf1c45c1e444b59ec431a7e27b2
-ms.sourcegitcommit: 9db3be25d088b8d4b2d476aeace79e653ca0a421
+ms.openlocfilehash: 0589f698958d4e26bba92f4feca455cf2fd7ecb5
+ms.sourcegitcommit: 2a9d059262c07c33f9a740b3da4e6e3366b2f925
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 02/17/2020
-ms.locfileid: "42093655"
+ms.lasthandoff: 02/20/2020
+ms.locfileid: "42158655"
 ---
 # <a name="connect-to-the-mscommerce-module"></a>Kết nối với mô-đun MSCommerce
 
@@ -24,7 +24,7 @@ Bạn phải kết nối với mô-đun MSCommerce trước khi bạn có thể 
 
 Để kết nối với mô-đun MSCommerce, tại dấu nhắc PowerShell (PS\)C:, nhập lệnh sau:
 
-    Connect-MSCommerce
+`Connect-MSCommerce`
 
 Điều này sẽ mở một hộp thoại đăng nhập. Nhập tên người dùng và mật khẩu của bạn để đăng nhập.
 
