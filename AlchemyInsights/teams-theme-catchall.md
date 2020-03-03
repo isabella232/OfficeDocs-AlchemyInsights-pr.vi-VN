@@ -11,16 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: 88e139e9d1179dd1afb14686a4c4e3ee5e211ebc
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: b5394249037e1ccfffa42206940369040eec273a
+ms.sourcegitcommit: 221cec50b7026a8d48a743034658460b17115061
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39626406"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42371544"
 ---
 # <a name="teams-common-issues-and-resolutions"></a>Nhóm các vấn đề và giải pháp phổ biến
 
 Để có câu trả lời cụ thể hơn về sự cố Microsoft teams, hãy tóm tắt lại câu hỏi của bạn và bao gồm bất kỳ lỗi nào bạn đang xem hoặc các tính năng mà bạn đang sử dụng.
+
+Nếu bạn cần trợ giúp hỗ trợ người lao động từ xa (WFH) với teams, vui lòng đánh giá người [lao động từ xa sử dụng Microsoft teams](https://docs.microsoft.com/microsoftteams/support-remote-work-with-teams)
 
 Dưới đây là một số tài nguyên bổ sung:
 
