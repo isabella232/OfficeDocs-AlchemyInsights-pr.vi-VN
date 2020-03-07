@@ -1,5 +1,5 @@
 ---
-title: Đội Freemium
+title: Đội freemium
 ms.author: heidip
 author: heidip
 ms.date: 3/6/2019
@@ -11,17 +11,19 @@ ms.custom:
 - "997"
 - "6500005"
 ms.assetid: d3fcac43-f659-47ba-a45e-f32863680685yeah
-ms.openlocfilehash: 3df8cb761c3a9a64cc1d249f44707b0bdeefebea
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: bac77a9b65dbcd57ee14a533e63ef95719356291
+ms.sourcegitcommit: 8a423159bb9bb8259357bbfa4ebc6e56a2c8ecb1
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35354027"
+ms.lasthandoff: 03/07/2020
+ms.locfileid: "42556696"
 ---
-# <a name="id-like-to-sign-up-for-teams-free-but-i-cant"></a>Tôi muốn đăng ký cho đội bóng miễn phí, nhưng tôi không thể.
+# <a name="id-like-to-sign-up-for-teams-for-free"></a>Tôi muốn đăng ký teams miễn phí
 
-- Nếu bạn đang sử dụng Office 365 một công việc hay trường học tài khoản, cung cấp miễn phí này không có sẵn. Org của bạn, mặc dù, có thể đã sử dụng các đội. Nếu không, đi đến [Microsoft đội](https://products.office.com/microsoft-teams/group-chat-software) để xem nếu nó là đủ điều kiện cho một thử nghiệm miễn phí.
+Các đội có sẵn miễn phí thông qua một vài chương trình khác nhau. Vì bạn đang liên hệ với hỗ trợ với yêu cầu này, bạn đã có đối tượng thuê Microsoft 365 hiện có, nghĩa là bạn đã có Microsoft teams.
 
-- Học viện không đủ điều kiện để cung cấp miễn phí này. Giáo viên và học sinh, mặc dù, có thể nhận được một phiên bản miễn phí của Office 365, bao gồm một phiên bản đầy đủ của Microsoft Teams. Thấy [cấp phép Office 365 Beta dành cho Microsoft đội](https://docs.microsoft.com/microsoftteams/office-365-licensing).
+Trong hầu hết các trường hợp, nhóm được bật theo mặc định cho tất cả người dùng của bạn. Khi đã bật, người dùng của bạn có thể chạy các nhóm bằng cách cài đặt [máy tính để bàn](https://office.visualstudio.com/MAX/_workitems/edit/desktop) và khách hàng [di động](https://office.visualstudio.com/MAX/_workitems/edit/desktop) hoặc [từ trình duyệt](https://docs.microsoft.com/en-us/MicrosoftTeams/get-clients#mobile-clients)  https://teams.microsoft.com.
 
-- Cơ quan chính phủ Hoa Kỳ không đủ điều kiện để cung cấp miễn phí này. Để tìm hiểu về các kế hoạch Office 365 Beta dành cho các tổ chức chính phủ (bao gồm cả bản dùng thử miễn phí), đọc [cấp phép Office 365 Beta dành cho Microsoft đội](https://docs.microsoft.com/microsoftteams/office-365-licensing).
+Ngoại lệ là Microsoft teams cho giáo dục (EDU). Nếu bạn có giấy phép EDU, bạn cần bật Microsoft teams theo cách thủ công. Để thực hiện việc này, hãy truy cập Trung tâm quản trị Microsoft 365 **> dịch vụ và trình bổ sung > Microsoft teams**. Nếu bạn đang sử dụng trung tâm quản trị teams mới, bạn sẽ phải tắt **thử Trung tâm quản trị mới**để tìm **dịch vụ và**trình bổ sung. QUAN trọng: bạn có thể phải đợi tối đa 24 giờ để các thay đổi có hiệu lực.
+
+Đừng bỏ lỡ tất cả hướng dẫn của chúng tôi để [hỗ trợ nhân viên từ xa với teams](https://docs.microsoft.com/en-us/MicrosoftTeams/support-remote-work-with-teams).
