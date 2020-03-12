@@ -11,18 +11,18 @@ ms.collection: ''
 ms.custom:
 - "3549"
 - "9001496"
-ms.openlocfilehash: 92da79ff6f5fe3bdb7810abae35482c8ecfc5efe
-ms.sourcegitcommit: 3da9d729256b978a95034fcf64b868fcc0e8012b
+ms.openlocfilehash: e727f40b725cefa8a09c15fe2d65ab3307d4e3e1
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "42322776"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42600586"
 ---
 # <a name="modernize-the-classic-home-page"></a>Hiện đại hoá Trang chủ cổ điển
 
 Bản cập nhật gần đây cho trang chủ trang web nhóm SharePoint cổ điển ảnh hưởng đến trang chủ của các trang web nhóm cổ điển (STS # 0) khi một trang chủ có *chỉ out-of-ô mặc định phần web* như bắt đầu, tài liệu thư viện và newsfeed.
 
-Xem một đi bộ qua các thay đổi [ở đây](https://docs.microsoft.com/en-us/sharepoint/sharepointonline/media/homepage-upgrade-gif.gif). 
+Xem một đi bộ qua các thay đổi [ở đây](https://docs.microsoft.com/sharepoint/sharepointonline/media/homepage-upgrade-gif.gif). 
 
 **Lưu ý: các trang web nhóm cổ điển có chứa nội dung tùy chỉnh sẽ không được cập nhật tự động.**
 

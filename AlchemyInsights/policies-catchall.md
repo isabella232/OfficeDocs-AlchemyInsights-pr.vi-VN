@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000734"
 - "3207"
-ms.openlocfilehash: c4694399b9ae5aa459357ed1610cccae762c0374
-ms.sourcegitcommit: 01c4ee1339ea5303de48d51d22da5ce6073549f3
+ms.openlocfilehash: 7c0c5becb7cd3182357e1a9c83e76215c3ab6b44
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38275015"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42599974"
 ---
 # <a name="teams-policies"></a>Chính sách đội
 
@@ -27,7 +27,7 @@ Cài đặt Microsoft teams được kiểm soát bởi chính sách. Để th�
 Các chính sách của teams được chia thành các lĩnh vực sau:
 
 - [Chính sách Nhóm](https://docs.microsoft.com/MicrosoftTeams/teams-policies) kiểm soát việc khám phá người dùng của các nhóm riêng tư trong tìm kiếm và tạo kênh riêng tư.  
-- [Chính sách cuộc họp](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) kiểm soát việc người dùng có thể làm gì với các cuộc họp teams, bao gồm kiểm soát hành lang. Để nhận trợ giúp về các vấn đề về tiền sảnh, như đặt cấu hình teams phải nhận tất cả mọi người, xem [thiết lập tiền sảnh và mức độ tham gia của kiểm soát](https://docs.microsoft.com/en-us/alchemyinsights/bypass-lobby).
+- [Chính sách cuộc họp](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) kiểm soát việc người dùng có thể làm gì với các cuộc họp teams, bao gồm kiểm soát hành lang. Để nhận trợ giúp về các vấn đề về tiền sảnh, như đặt cấu hình teams phải nhận tất cả mọi người, xem [thiết lập tiền sảnh và mức độ tham gia của kiểm soát](https://docs.microsoft.com/alchemyinsights/bypass-lobby).
 - [Chính sách nhắn tin](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams) kiểm soát những gì người dùng có thể làm với trò chuyện và tin nhắn, bao gồm bật hoặc tắt trò chuyện, xóa cuộc trò chuyện, yêu cầu biên lai đã đọc, sử dụng giphys và nhãn dán, và hơn thế nữa.
 - [Chính sách thiết lập ứng dụng](https://docs.microsoft.com/MicrosoftTeams/teams-app-setup-policies) kiểm soát các ứng dụng có sẵn cho người dùng, bao gồm các ứng dụng tùy chỉnh và bên thứ ba và thứ tự xuất hiện.  
 - [Chính sách lưu giữ](https://docs.microsoft.com/microsoftteams/retention-policies) dữ liệu cho teams được tìm thấy trong Trung tâm bảo mật và tuân thủ Office 365.

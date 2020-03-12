@@ -13,12 +13,12 @@ ms.custom:
 - "9000140"
 - "9000660"
 - "2509"
-ms.openlocfilehash: d523ab51852cf771fb260d0050fbe92d4578ff76
-ms.sourcegitcommit: 123e9fe46e99719dd271e75a66555861e968f4a2
+ms.openlocfilehash: 6f45dbdbfa89711fa2472a1f0b9f8e630faeb91e
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 12/30/2019
-ms.locfileid: "40908766"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42599506"
 ---
 # <a name="microsoft-teams-installed-with-office-updates"></a>Microsoft teams cài đặt với bản Cập Nhật Office
 
@@ -32,6 +32,6 @@ Nếu tổ chức của bạn chưa sẵn sàng triển khai teams, bạn có th
 
 Để ***gỡ cài đặt teams*** khỏi thiết bị chạy Windows, xem [dỡ cài đặt Microsoft teams](https://support.office.com/article/uninstall-microsoft-teams-3b159754-3c26-4952-abe7-57d27f5f4c81). Để làm sạch Microsoft teams từ nhiều máy mục tiêu hoặc người dùng, xem [dọn dẹp triển khai Microsoft teams](https://docs.microsoft.com/microsoftteams/scripts/powershell-script-teams-deployment-clean-up).
 
-Nếu bạn đang sử dụng máy tính dùng chung, Dịch vụ máy tính để bàn từ xa (RDS) hoặc cơ sở hạ tầng máy tính ảo (VDI), hãy xem [máy tính dùng chung và môi trường VDI với Microsoft teams](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams). Nếu bạn đang sử dụng Office cho Mac, hãy xem [cài đặt Microsoft teams trên máy Mac](https://docs.microsoft.com/en-us/deployoffice/teams-install#microsoft-teams-installations-on-a-mac).
+Nếu bạn đang sử dụng máy tính dùng chung, Dịch vụ máy tính để bàn từ xa (RDS) hoặc cơ sở hạ tầng máy tính ảo (VDI), hãy xem [máy tính dùng chung và môi trường VDI với Microsoft teams](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams). Nếu bạn đang sử dụng Office cho Mac, hãy xem [cài đặt Microsoft teams trên máy Mac](https://docs.microsoft.com/deployoffice/teams-install#microsoft-teams-installations-on-a-mac).
 
 **Lưu ý:** Sau khi teams được cài đặt, nó [tự động Cập Nhật](https://docs.microsoft.com/deployoffice/teams-install#feature-and-quality-updates-for-microsoft-teams) khoảng mỗi hai tuần với các tính năng và Cập Nhật chất lượng mới. 

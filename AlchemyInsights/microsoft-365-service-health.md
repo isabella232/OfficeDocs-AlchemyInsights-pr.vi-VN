@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001682"
 - "3747"
-ms.openlocfilehash: 14de391dd1f020e29beb4b432e288b46bee3dd9a
-ms.sourcegitcommit: fa4a92ddd5c8bb695441fe16f2ffa4562382f900
+ms.openlocfilehash: 93b8c19afb7efb9dc3901e5b51217179a4e9e731
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42558855"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42600514"
 ---
 # <a name="microsoft-365-service-health"></a>Microsoft 365 dịch vụ y tế
 
@@ -29,4 +29,4 @@ Kiểm tra tình trạng dịch vụ của bất kỳ dịch vụ nào từ [b�
 
 - Chọn **lịch sử** để đánh giá lịch sử sức khỏe dịch vụ của tổ chức bạn. 
 
-Để biết thêm thông tin, [hãy xem cách kiểm tra Office 365 dịch vụ y tế](https://docs.microsoft.com/en-us/office365/enterprise/view-service-health). 
+Để biết thêm thông tin, [hãy xem cách kiểm tra Office 365 dịch vụ y tế](https://docs.microsoft.com/office365/enterprise/view-service-health). 
