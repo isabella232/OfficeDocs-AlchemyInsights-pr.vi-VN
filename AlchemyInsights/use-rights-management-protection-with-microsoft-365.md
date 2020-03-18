@@ -6,17 +6,18 @@ manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001670"
 - "3737"
-ms.openlocfilehash: 9b0764e6315dba48ad7634a0668468fcff8408f4
-ms.sourcegitcommit: 2561248cfa1a562504183d84e2252deb60e6588a
+- "3820"
+ms.openlocfilehash: e7c28230c90f61dd61b48941786c9218e06b6495
+ms.sourcegitcommit: 09a46448411022829e4b83879c113c0ccfc29625
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42632689"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42707394"
 ---
 # <a name="use-rights-management-protection-with-microsoft-365"></a>Sử dụng bảo vệ quản lý quyền với Microsoft 365
 
@@ -25,6 +26,5 @@ Bạn phải kích hoạt [dịch vụ quản lý quyền (RMS)](https://docs.mi
 1. Đối với yêu cầu giấy phép và kích hoạt từ **Trung tâm quản trị microsoft 365**, hãy xem [cách kích hoạt bảo vệ quản lý quyền từ Trung tâm quản trị Microsoft 365](https://docs.microsoft.com/azure/information-protection/activate-office365). **Lưu ý**: yêu cầu tài khoản quản trị toàn cầu.
 
 2. Để yêu cầu giấy phép và kích hoạt từ **cổng thông tin Azure**, [hãy xem cách kích hoạt dịch vụ bảo vệ quyền quản lý từ cổng thông tin Azure](https://docs.microsoft.com/azure/information-protection/activate-azure). **Lưu ý**: không yêu cầu tài khoản quản trị viên toàn cầu.
- 
 
 Để biết thêm thông tin, hãy xem [con trỏ đến thông tin về quản lý quyền trong Trung tâm quản trị](https://docs.microsoft.com/office365/enterprise/activate-rms-in-office-365).
