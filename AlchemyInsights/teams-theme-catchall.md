@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: c7f7e14b17b51b916b7acb4a485eaed07f5be53b
-ms.sourcegitcommit: 45b50760c00b5639b7199cb3812e44404ba04695
+ms.openlocfilehash: e1d5f07a10fc014ac8b983bd6dd426c13fc7b807
+ms.sourcegitcommit: 7d787b8c5af223e2711b4c2a2ca55ce2bdc25aea
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/18/2020
-ms.locfileid: "42745026"
+ms.lasthandoff: 03/19/2020
+ms.locfileid: "42856489"
 ---
 # <a name="teams-common-issues-and-resolutions"></a>Nhóm các vấn đề và giải pháp phổ biến
 
@@ -36,11 +36,11 @@ Nếu bạn cần trợ giúp triển khai teams để hỗ trợ Remote Worker 
 
     Để xác minh rằng người dùng được cấp phép cho hội thảo âm thanh và có số điện thoại mặc định:
     1.    Đi tới người dùng đang hoạt động và sau đó chọn người dùng trong câu hỏi.
-    2.    Tùy thuộc vào phiên bản Trung tâm quản trị, hãy chọn giấy phép và ứng dụng hoặc nhấp vào chỉnh sửa trên giấy phép sản phẩm.
+    2.    Tùy thuộc vào phiên bản Trung tâm quản trị, hãy chọn **giấy phép và ứng dụng** hoặc nhấp vào **chỉnh sửa** trên **giấy phép sản phẩm**.
     3.    Xác nhận rằng người dùng có giấy phép được chọn cho hội nghị âm thanh, Microsoft teams và Skype dành cho doanh nghiệp trực tuyến (kế hoạch 2).
-    4.    Trung tâm quản trị người dùng bấm vào Hiển thị tất cả và sau đó teams.
-    5.    Trong Trung tâm quản trị Microsoft teams, nhấp vào cổng thông tin kế thừa.
-    6.    Trong Skype cho Trung tâm quản trị kinh doanh, bấm hội nghị âm thanh và sau đó người dùng.
+    4.    Trung tâm quản trị người dùng nhấp vào **Hiển thị tất cả** và sau đó **nhóm**.
+    5.    Trong Trung tâm quản trị Microsoft teams, nhấp vào **cổng thông tin cũ**.
+    6.    Trong Skype cho Trung tâm quản trị kinh doanh, bấm **hội nghị âm thanh** và sau đó **người dùng**.
     7.    Chọn người dùng trong câu hỏi và xác minh người dùng có số điện thoại mặc định.
     
     Để biết thêm thông tin, hãy tham khảo [gói gọi điện cho Office 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) hoặc gọi cho nhóm thanh toán thương mại của Microsoft để được trợ giúp về các câu hỏi liên quan đến cấp phép.
