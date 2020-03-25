@@ -1,41 +1,37 @@
 ---
-title: SharePoint di chuyển điều chỉnh với 503 lỗi
+title: Hiệu suất di chuyển SharePoint
 ms.author: pebaum
 author: pebaum
-ms.date: 8/8/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+localization_priority: Priority
+ms.assetid: 686e8f18-b871-4dd2-864f-8562947ab583
 ms.collection: Adm_O365
-ms.assetid: ''
 ms.custom:
-- "9000136"
-- "2541"
-ms.openlocfilehash: 7e12c74d33e3cee7c626ad899a4e7f2f0a409bca
+- "5300030"
+- "2700"
+ms.openlocfilehash: 812444589d5a5bf766bbc6f466077d4ca829d79f
 ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
 ms.translationtype: MT
 ms.contentlocale: vi-VN
 ms.lasthandoff: 03/24/2020
-ms.locfileid: "42931680"
+ms.locfileid: "42932410"
 ---
-# <a name="sharepoint-migration-throttling-with-503-errors"></a>SharePoint di chuyển điều chỉnh với 503 lỗi
+# <a name="sharepoint-migration-performance"></a>Hiệu suất di chuyển SharePoint
 
 **Quan trọng**: nhiều SharePoint trực tuyến và OneDrive khách hàng chạy ứng dụng kinh doanh quan trọng đối với các dịch vụ chạy trong nền. Chúng bao gồm di chuyển nội dung, ngăn chặn mất dữ liệu (DLP) và giải pháp sao lưu. Trong những lần chưa từng có, chúng tôi đang thực hiện các bước để đảm bảo rằng các dịch vụ SharePoint Online và OneDrive vẫn có hiệu quả cao và đáng tin cậy cho người dùng của bạn phụ thuộc vào dịch vụ hơn bao giờ hết trong các tình huống làm việc từ xa.
 
 Để hỗ trợ cho mục tiêu này, chúng tôi đã thực hiện các giới hạn điều chỉnh chặt chẽ hơn trên các ứng dụng nền (di chuyển, DLP và các giải pháp sao lưu) trong giờ ban ngày trong tuần. Bạn nên mong đợi rằng các ứng dụng này sẽ đạt được thông lượng rất hạn chế trong những thời gian này. Tuy nhiên, trong giờ tối và cuối tuần cho khu vực, Dịch vụ sẽ sẵn sàng xử lý số lượng yêu cầu cao hơn đáng kể từ ứng dụng nền.
 
-**503 lỗi khi di chuyển sang SharePoint trực tuyến**
+**Hiệu suất di chuyển**
 
-Nó xuất hiện bạn đang di chuyển sang SharePoint trực tuyến và nhận được lỗi 503. Vui lòng làm theo các bước dưới đây để chúng tôi có thể hỗ trợ bạn sớm nhất có thể. 
+Hiệu suất di chuyển có thể bị ảnh hưởng bởi cơ sở hạ tầng mạng, kích thước tệp, thời gian di chuyển và điều chỉnh. Sự hiểu biết này sẽ giúp bạn lập kế hoạch và tối đa hóa hiệu quả di chuyển của bạn.
 
-1. Bấm vào **hỗ trợ liên hệ**, và sau đó **yêu cầu dịch vụ mới**.
-2. Tiêu đề và mô tả, nhập **SharePoint Migration throttling với 503**.
-3. Sau khi đã gửi vé, vui lòng cập nhật thông tin sau:
-    - Bao nhiêu trái của di cư (ví dụ, bao nhiêu TBs?).
-    - Ngày bắt đầu và kết thúc di chuyển.
-    - Mô tả nơi bạn đang di chuyển nội dung của mình từ đó, chẳng hạn như SharePoint Server, Box, GDrive, chia sẻ tệp, v.v...
-    - Ước tính số điều chỉnh lỗi (ví dụ: x throttle mỗi giờ?) và khi điều chỉnh xảy ra.
-    - Bạn đang sử dụng công cụ di chuyển nào (ví dụ: SPMT hoặc ShareGate).
+Để biết thêm thông tin, xin vui lòng truy cập vào các liên kết dưới đây.
 
+- [SharePoint Online và tốc độ di chuyển ODB](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
 
+- [Tránh bị điều chỉnh hoặc chặn trong SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
+
+- [Tải xuống và cài đặt công cụ di chuyển SharePoint](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)

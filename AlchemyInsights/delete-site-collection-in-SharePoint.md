@@ -8,18 +8,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 8915d97852c5aa3be55a55ea008040e136e6016e
-ms.sourcegitcommit: 9aaa61d717e0fd475d2e9f0507c42aa40d073b5f
+ms.openlocfilehash: 01290defa0c12ba92707bf7368b371c14f2eae56
+ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42042902"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "42931320"
 ---
 # <a name="delete-a-site"></a>Xóa trang web
 
-Khi bạn xoá một trang web, nó được chuyển đến các [trang web đã xóa](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true) và giữ lại trong 93 ngày. Để xóa một trang web, hãy truy cập trang web hiện [hoạt](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true). 
+Khi bạn xoá một trang web, nó được chuyển đến các trang web đã xóa và giữ lại trong 93 ngày. Để xóa một trang web, hãy truy cập trang web hiện [hoạt](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true). 
 
-Khi bạn xóa một trang web, tất cả mọi thứ bên trong nó sẽ bị xóa bao gồm:
+Khi bạn xóa một trang web, tất cả mọi thứ bên trong nó sẽ bị xóa, bao gồm:
 
 - Thư viện tài liệu và tệp.
 - Danh sách và dữ liệu danh sách.
