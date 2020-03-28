@@ -11,14 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: e1d5f07a10fc014ac8b983bd6dd426c13fc7b807
-ms.sourcegitcommit: 7d787b8c5af223e2711b4c2a2ca55ce2bdc25aea
+ms.openlocfilehash: 47e9aa76f8624ce3ddf4cfd03637b5b2714eb435
+ms.sourcegitcommit: d02e2b73aa7d0453d7baca1ea5a186cf6081d022
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/19/2020
-ms.locfileid: "42856489"
+ms.lasthandoff: 03/27/2020
+ms.locfileid: "43030422"
 ---
 # <a name="teams-common-issues-and-resolutions"></a>Nhóm các vấn đề và giải pháp phổ biến
+
+**Quan trọng**: do sự gia tăng gần đây trong việc sử dụng teams, khi bạn chỉ định giấy phép teams cho một người dùng, có thể mất khoảng 24 giờ trước khi chúng được thiết lập đầy đủ. Cho đến lúc đó, bạn sẽ không thể chỉ định chính sách teams cho họ và họ có thể không có quyền truy cập vào một số tính năng của teams như gọi điện và hội thảo âm thanh.
+
+**Các vấn đề thường gặp và nghị quyết**
 
 Để có câu trả lời cụ thể hơn, hãy thử đề xuất câu hỏi của bạn để bao gồm bất kỳ lỗi nào bạn đang xem hoặc các tính năng của teams mà bạn đang sử dụng.
 
