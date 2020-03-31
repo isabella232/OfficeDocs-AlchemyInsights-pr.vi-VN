@@ -1,0 +1,31 @@
+---
+title: Đặt lại mật khẩu quản trị
+ms.author: pebaum
+author: pebaum
+manager: mnirkhe
+ms.audience: Admin
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom:
+- "9002340"
+- "4553"
+ms.openlocfilehash: 4286da1d56fb21821f8a9e3f044b7b3954ba498b
+ms.sourcegitcommit: f6b4bcb6b9dcb3dd17595d503d78b6ee36881a33
+ms.translationtype: MT
+ms.contentlocale: vi-VN
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43054133"
+---
+# <a name="admin-password-reset"></a><span data-ttu-id="90049-102">Đặt lại mật khẩu quản trị</span><span class="sxs-lookup"><span data-stu-id="90049-102">Admin Password Reset</span></span>
+
+- <span data-ttu-id="90049-103">Sử dụng [đặt lại mật khẩu tự dịch vụ](https://passwordreset.microsoftonline.com/) (sspr) để đặt lại mật khẩu quản trị của bạn.</span><span class="sxs-lookup"><span data-stu-id="90049-103">Use [Self Service password Reset](https://passwordreset.microsoftonline.com/) (SSPR) to reset your admin password.</span></span>
+
+- <span data-ttu-id="90049-104">Nếu bạn quên mật khẩu của bạn nhưng đăng nhập bằng thông tin lưu trữ, [Cập Nhật SSPR thông tin liên hệ](https://go.microsoft.com/fwlink/?linkid=849451) và sau đó đặt lại mật khẩu của bạn bằng cách sử dụng [sspr](https://passwordreset.microsoftonline.com/).</span><span class="sxs-lookup"><span data-stu-id="90049-104">If you forgot your password but are logged in with cached credentials, [Update SSPR contact info](https://go.microsoft.com/fwlink/?linkid=849451) and then reset your password using [SSPR](https://passwordreset.microsoftonline.com/).</span></span>  <span data-ttu-id="90049-105">(Hầu hết các tài khoản yêu cầu một email thay thế và số điện thoại để hoàn tất việc đặt lại).</span><span class="sxs-lookup"><span data-stu-id="90049-105">(Most accounts require an alternate email and phone number to complete the reset).</span></span>
+
+- <span data-ttu-id="90049-106">Nếu bạn quên tên người dùng của mình, hãy tìm kiếm email thay thế/cá nhân cho ". onmicrosoft.com" để tìm email có thể có.</span><span class="sxs-lookup"><span data-stu-id="90049-106">If you forgot your user name, search your alternate/personal email for ".onmicrosoft.com" to find an email that might have it.</span></span>  <span data-ttu-id="90049-107">Tên người dùng cũng có thể được tìm thấy trong các ứng dụng Office 365 trong ruy băng phía trên bên phải hoặc bằng cách đi tới **tập tin > tài khoản**.</span><span class="sxs-lookup"><span data-stu-id="90049-107">Username can also be found in Office 365 apps in the upper right ribbon or by going to **File > Account**.</span></span>
+
+- <span data-ttu-id="90049-108">Quản trị viên khác có thể đặt lại mật khẩu của bạn từ **người dùng > [người dùng đang hoạt động](https://portal.office.com/adminportal/home#/users)**; chọn tài khoản sau đó bấm vào biểu tượng khóa.</span><span class="sxs-lookup"><span data-stu-id="90049-108">Another admin can reset your password from **Users > [Active users](https://portal.office.com/adminportal/home#/users)**; select the account then click the key icon.</span></span>  <span data-ttu-id="90049-109">Hoặc nếu ủy nhiệm của bạn được lưu trữ, bạn có thể [tạo một tài khoản quản trị mới](https://portal.office.com/adminportal/home#/users), đăng nhập bằng tài khoản đó, và sau đó đặt lại mật khẩu quản trị của riêng bạn.</span><span class="sxs-lookup"><span data-stu-id="90049-109">Or if your credentials are cached, you can [create a new admin account](https://portal.office.com/adminportal/home#/users), logon with that account, and then reset your own admin password.</span></span>
+
+<span data-ttu-id="90049-110">Để có thêm các kịch bản còn lại mật khẩu, hãy thử [đặt lại mật khẩu kinh doanh Office 365](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords) hoặc mở một trường hợp hỗ trợ để được hỗ trợ.</span><span class="sxs-lookup"><span data-stu-id="90049-110">For more password rest scenarios, try [Reset Office 365 business passwords](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords) or open a support case for assistance.</span></span>
