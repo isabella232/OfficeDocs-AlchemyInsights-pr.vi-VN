@@ -12,20 +12,24 @@ ms.custom:
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: ff4471727b38b6d43b9639b551f92b87e9e9360c
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: e19d680f5688fe9c5e263019c20f10c678d7f7e5
+ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664342"
+ms.lasthandoff: 03/31/2020
+ms.locfileid: "43059758"
 ---
 # <a name="how-to-add-or-edit-a-vatid"></a>Làm thế nào để thêm hoặc chỉnh sửa một VatID
 
-1. Trong Trung tâm quản trị Microsoft 365, hãy chuyển đến trang [dịch vụ của các sản phẩm](https://go.microsoft.com/fwlink/p/?linkid=842054) **thanh toán** \> _-_.
+**Lưu ý**: nếu bạn đang ở trong một quốc gia sử dụng thuế có giá trị (VAT), chẳng hạn như Vương Quốc Anh, Microsoft lập hoá đơn tính VAT cho bạn và áp dụng số tiền cho hóa đơn của bạn. Để biết thêm thông tin, xem [vies từ chối trách nhiệm](https://go.microsoft.com/fwlink/?LinkID=841741) xuất bản bởi các ủy ban châu Âu.
+
+**Thêm hoặc chỉnh sửa một VatID**
+
+1. Trong Trung tâm quản trị Microsoft 365, hãy truy cập trang sản phẩm **thanh toán** \> [& dịch vụ](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
 2. Tìm thẻ đăng ký cho đăng ký mà bạn muốn Cập Nhật.
 
-3. Trong phần **cài đặt _ Amp_ hành động** , chọn **chỉnh sửa địa chỉ sử dụng dịch vụ**.
+3. Trong phần **cài đặt & hành động** , chọn **chỉnh sửa địa chỉ sử dụng dịch vụ**.
 
 4. Trên trang **chỉnh sửa địa chỉ sử dụng dịch vụ của bạn** , hãy nhập ID VAT của bạn vào hộp **số VAT** , sau đó chọn **lưu**.
 
