@@ -1,5 +1,5 @@
 ---
-title: 126 nhận được một hộp thư không thể được tìm thấy lỗi trong OWA?
+title: 126 nhận một hộp thư không thể tìm thấy lỗi trong OWA?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,19 +13,17 @@ ms.custom:
 - "126"
 - "1600020"
 ms.assetid: e85bffec-e5ad-418a-8561-dab6257e1864
-ms.openlocfilehash: 136337c2791c69bf97ffd6a1498917015d348f8d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e061ad6b74b27e3f0d597586cb2c8e31b8fa5d23
+ms.sourcegitcommit: 83c644c35c2700dc515f091c8f41f9c283b89967
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523893"
+ms.lasthandoff: 04/02/2020
+ms.locfileid: "43105261"
 ---
 # <a name="getting-a-mailbox-not-found-error-in-outlook-on-the-web"></a>Nhận được một hộp thư không tìm thấy lỗi trong Outlook trên web?
 
-Nếu bạn đang sử dụng Outlook trên web và bạn nhận được một **hộp thư không thể được tìm thấy cho** lỗi, tài khoản mà bạn đã sử dụng để kết nối với Outlook trên web không có một giấy phép Exchange Online và do đó, không có hộp thư là liên kết với tài khoản. Quản trị của bạn có thể gán một giấy phép cho tài khoản của bạn bằng cách làm theo các bước sau:
+Nếu bạn đang sử dụng Outlook trên web và bạn nhận được **hộp thư không thể tìm thấy** lỗi, tài khoản mà bạn đã sử dụng để kết nối với Outlook trên web không có giấy phép Exchange Online và do đó, không có hộp thư được liên kết với tài khoản. Quản trị viên của bạn có thể gán giấy phép cho tài khoản của bạn bằng cách làm theo các bước sau:
 
-1. Mở [Trung tâm quản trị Microsoft 365](https://portal.office.com/adminportal/home#/homepage) và trong **người dùng hoạt động**, hãy chọn **chỉnh sửa người dùng**.
+1. Mở [Trung tâm quản trị Microsoft 365](https://portal.office.com/adminportal/home#/homepage) và đi tới **người dùng đang hoạt động** trong phần **người dùng** và chọn người dùng đang gặp lỗi.
 
-2. **Chỉnh sửa người dùng** trên trang mở ra, chọn người dùng. Người sử dụng thuộc tính trên trang mở ra, nhấp vào **chỉnh sửa** cho các **sản phẩm giấy phép**.
-
-3. **Giấy phép sản phẩm** trên trang mở ra, chọn giá trị **vị trí** thích hợp và gán một giấy phép có chứa Exchange Online (mở rộng cho phép xem thông tin chi tiết của nó). Khi bạn hoàn tất, bấm **Lưu**.
+2. Trong trang người dùng mở ra, hãy đi tới phần **giấy phép và ứng dụng** , chọn giá trị **vị trí** thích hợp và gán giấy phép có chứa Exchange Online (mở rộng giấy phép để xem chi tiết). Khi bạn hoàn tất, hãy nhấp vào **lưu thay đổi**.

@@ -1,5 +1,5 @@
 ---
-title: Làm thế nào để thêm một thẻ tín dụng?
+title: Làm cách nào để thêm thẻ tín dụng?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,21 +13,21 @@ ms.custom:
 - "432"
 - "1500001"
 ms.assetid: fbce8401-1a2c-4372-af0b-d855c1cd5f31
-ms.openlocfilehash: b12540bbd7e7e3524f259736fec440b712289754
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 14c1c3af556eff16abbc4d1e0f8046ce1aa8343f
+ms.sourcegitcommit: 9923ce61344e22c4490549b12f65fa2896490b1f
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664486"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43100313"
 ---
-# <a name="how-do-i-add-a-credit-card"></a>Làm thế nào để thêm một thẻ tín dụng?
+# <a name="how-do-i-add-a-credit-card"></a>Làm cách nào để thêm thẻ tín dụng?
 
-1. Trong Trung tâm quản trị Microsoft 365, đi đến **thanh toán** \> [phương thức thanh toán](https://go.microsoft.com/fwlink/p/?linkid=2018806) trang.
+1. Trong Trung tâm quản trị Microsoft 365, hãy đi tới trang [phương thức thanh toán](https://go.microsoft.com/fwlink/p/?linkid=2018806) **hóa đơn** \> .
 
-2. Chọn **Thêm phương thức thanh toán**.
+2. Nhấp vào **Thêm phương thức thanh toán**.
 
-3. Trên trang **phương thức thanh toán** , chọn phương thức thanh toán từ trình đơn thả xuống.
+3. Trên trang **phương thức thanh toán** , hãy chọn một phương thức thanh toán từ menu thả xuống.
 
-4. Nhập thông tin thẻ tín dụng mới hoặc tài khoản ngân hàng, sau đó chọn **Save**.
+4. Nhập thông tin cho thẻ tín dụng hoặc tài khoản ngân hàng mới, sau đó nhấp vào **lưu**.
 
-Để tìm hiểu thêm, hãy xem [Thêm, Cập Nhật, hoặc loại bỏ một thẻ tín dụng hoặc tài khoản ngân hàng trong Office 365 Beta dành cho doanh nghiệp](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
+Để tìm hiểu thêm, hãy xem [Thêm, Cập Nhật hoặc xóa thẻ tín dụng hoặc tài khoản ngân hàng trong Office 365 dành cho doanh nghiệp](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
