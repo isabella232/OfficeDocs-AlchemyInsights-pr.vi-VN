@@ -10,16 +10,16 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: 5ee3bcc9ea1c4734958d5c404ce89e2bda6f5e63
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: da1f12678dd1a508a24f02e73acb6d599eaff628
+ms.sourcegitcommit: f1e9db2f762a4197c2922a0c8eaa77a3f482e38a
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36736311"
+ms.lasthandoff: 04/03/2020
+ms.locfileid: "43132633"
 ---
 # <a name="enable-an-archive-mailbox"></a>Kích hoạt hộp thư lưu trữ
 
-Lưu trữ hộp thư trong Office 365 (còn được gọi là *lưu trữ trực tuyến*) cung cấp cho người dùng với bộ nhớ email bổ sung. Người dùng có thể di chuyển hoặc sao chép các mục vào hộp thư lưu trữ của họ và quản trị viên có thể tạo một chính sách lưu trữ tự động di chuyển các mục vào hộp thư lưu trữ.
+Lưu trữ hộp thư trong Office 365 (còn được gọi là lưu trữ *trực tuyến* hoặc *tại chỗ lưu trữ*) cung cấp cho người dùng với bộ nhớ email bổ sung. Người dùng có thể di chuyển hoặc sao chép các mục vào hộp thư lưu trữ của họ và quản trị viên có thể tạo một chính sách lưu trữ tự động di chuyển các mục vào hộp thư lưu trữ.
   
 Dưới đây là cách tạo hộp thư lưu trữ:
   
@@ -27,14 +27,28 @@ Dưới đây là cách tạo hộp thư lưu trữ:
 
 2. Đăng nhập vào Office 365 bằng tài khoản quản trị của bạn.
 
-3. Trong ngăn bên trái của Trung tâm &amp; tuân thủ bảo mật, chọn \> **lưu trữ** **quản trị dữ liệu** .
+3. Trong ngăn bên trái của Trung tâm &amp; tuân thủ bảo mật, chọn **thông tin quản trị** \> **lưu trữ**.
 
 4. Chọn người dùng có hộp thư lưu trữ mà bạn muốn bật.
 
-5. Trong ngăn chi tiết ở bên phải, chọn **kích hoạt** và sau đó chọn **có** trong thông báo cảnh báo để kích hoạt hộp thư lưu trữ.
+5. Trong ngăn chi tiết ở bên phải, bấm **kích hoạt** và sau đó bấm **có** trong thông báo cảnh báo để kích hoạt hộp thư lưu trữ.
 
-Bạn cũng có thể bật hàng loạt hộp thư lưu trữ bằng cách chọn nhiều người dùng (sử dụng phím **Shift** hoặc **Ctrl** ) và sau đó chọn **bật** trong ngăn chi tiết.
+Bạn cũng có thể bật hàng loạt hộp thư lưu trữ bằng cách chọn nhiều người dùng (sử dụng phím **Shift** hoặc **Ctrl** ) và sau đó bấm **kích hoạt** trong ngăn chi tiết.
   
+### <a name="shared-mailboxes"></a>Hộp thư dùng chung
+
+Để kích hoạt lưu trữ cho hộp thư dùng chung, giấy phép Exchange Online gói 2 hoặc giấy phép Exchange Online gói 1 với một giấy phép Exchange Online lưu trữ được yêu cầu.  
+
+Để kích hoạt lưu trữ cho hộp thư dùng chung:
+
+1. Đi tới [Trung tâm quản trị Exchange](https://outlook.office365.com/ecp) và đăng nhập bằng tài khoản quản trị của bạn.
+
+2. Đi tới **người nhận** > **chia sẻ**.
+
+3. Chọn hộp thư dùng chung.
+
+4. Trong ngăn chi tiết ở bên phải, dưới **tại chỗ lưu trữ**, bấm **kích hoạt**, và sau đó bấm **có** để kích hoạt hộp thư lưu trữ.
+
 Để biết thêm thông tin, hãy xem:
   
 - [Kích hoạt hộp thư lưu trữ trong Office 365](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)
