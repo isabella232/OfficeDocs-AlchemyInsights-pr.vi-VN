@@ -1,24 +1,24 @@
 ---
-title: Thanh toán bị từ chối
-ms.author: cmcatee
-author: cmcatee-MSFT
+title: Thanh toán của bạn bị từ chối
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-- "3564"
 - "9001506"
-ms.openlocfilehash: 3fadef232adfbb71769c089bb5a0d3ae9c70711d
+- "4732"
+ms.openlocfilehash: 88b754a45fe80804bfd4784bc0552499fb0371e7
 ms.sourcegitcommit: 18df9a170f6a0bda191c0ae763d2a5069dd22efa
 ms.translationtype: MT
 ms.contentlocale: vi-VN
 ms.lasthandoff: 04/07/2020
-ms.locfileid: "43160838"
+ms.locfileid: "43161076"
 ---
-# <a name="payment-declined"></a>Thanh toán bị từ chối
+# <a name="your-payment-was-declined"></a>Thanh toán của bạn bị từ chối
 
 Microsoft sẽ cố gắng tính phí thẻ của bạn nhiều lần trong 3-4 tuần sau ngày hóa đơn.  Nếu bạn chỉ nhận được một hoặc hai thông báo từ chối cho thời hạn thanh toán này, Microsoft sẽ tự động cố gắng tính phí lại công cụ thanh toán của bạn.  
 
