@@ -13,10 +13,10 @@ ms.custom:
 - "2712"
 - "9000766"
 ms.openlocfilehash: 98dbb9049b3dad42237598ad86572164ebefd1d0
-ms.sourcegitcommit: a5c7bbf1ee499bdcbfed9a677daab19772eeae05
+ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/17/2020
+ms.lasthandoff: 04/08/2020
 ms.locfileid: "42692417"
 ---
 # <a name="microsoft-teams--audio-conferencing"></a>Microsoft teams – hội thảo âm thanh

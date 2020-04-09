@@ -13,10 +13,10 @@ ms.custom:
 - "3746"
 - "3821"
 ms.openlocfilehash: 5c1e43e6c49eda244dfdefedcd99a0cb17f74d67
-ms.sourcegitcommit: 09a46448411022829e4b83879c113c0ccfc29625
+ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/17/2020
+ms.lasthandoff: 04/08/2020
 ms.locfileid: "42707465"
 ---
 # <a name="increase-microsoft-365-security"></a>Tăng Microsoft 365 bảo mật

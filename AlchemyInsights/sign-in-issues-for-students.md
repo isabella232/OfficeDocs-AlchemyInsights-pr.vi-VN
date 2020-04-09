@@ -13,10 +13,10 @@ ms.custom:
 - "3813"
 - "3818"
 ms.openlocfilehash: d071c44c3c23dbb3a167c30e486f39cb86fd1dca
-ms.sourcegitcommit: 09a46448411022829e4b83879c113c0ccfc29625
+ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/17/2020
+ms.lasthandoff: 04/08/2020
 ms.locfileid: "42707557"
 ---
 # <a name="sign-in-issues-for-students"></a>Các vấn đề đăng nhập cho học sinh

@@ -13,10 +13,10 @@ ms.custom:
 - "3500002"
 ms.assetid: 8282bd76-79f7-4f8a-ae2b-dc8f9ac1aa62
 ms.openlocfilehash: 8aa9ab5e6db0d434c13ed9e2d325d28552b7caeb
-ms.sourcegitcommit: a66b37557baafe35d39134105dc604c326191a48
+ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 12/27/2019
+ms.lasthandoff: 04/08/2020
 ms.locfileid: "40886423"
 ---
 # <a name="account-is-blocked-for-sending-too-much-spam"></a>Tài khoản bị chặn để gửi quá nhiều thư rác
