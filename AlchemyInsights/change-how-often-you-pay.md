@@ -12,13 +12,14 @@ ms.collection: Adm_O365
 ms.assetid: 81423cec-8c9e-408d-bd26-a46f37ef75c1
 ms.custom:
 - "469"
+- "4552"
 - "1500025"
-ms.openlocfilehash: ed85b1053635a565ac2a00b1758c0df6ce5d7e63
-ms.sourcegitcommit: cad7ec134efdac7130911bfee6cb4a59ad882e39
+ms.openlocfilehash: ce85f413bab2725d82f7597ec46c5796374bc5d1
+ms.sourcegitcommit: 797f78c27f50485edcf9854552d9dcab175227bf
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43195040"
+ms.lasthandoff: 04/10/2020
+ms.locfileid: "43217886"
 ---
 # <a name="change-how-often-you-pay"></a>Thay đổi tần suất bạn thanh toán
 
@@ -28,4 +29,4 @@ Khi bạn mua một thuê bao, bạn chọn thanh toán hàng tháng hoặc hàn
 
 2. Tìm gói đăng ký bạn muốn thay đổi. Trong phần **lập hóa đơn** , bên cạnh tính **phí hàng tháng** hoặc bị tính phí **mỗi**năm, hãy nhấp vào **chỉnh sửa**.
 
-3. Chọn tùy chọn cho tần suất bạn muốn được lập hóa đơn, sau đó chọn **thay đổi**.
+3. Chọn tùy chọn cho tần suất bạn muốn được lập hóa đơn, sau đó nhấp vào **thay đổi**.

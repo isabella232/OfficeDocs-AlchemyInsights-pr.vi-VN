@@ -1,5 +1,5 @@
 ---
-title: Làm thế nào để thêm hoặc giảm bớt các giấy phép
+title: Cách thêm hoặc giảm giấy phép
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,38 +12,35 @@ ms.custom:
 - "319"
 - "1500007"
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
-ms.openlocfilehash: a478162fcdcad2e588436dd834063f9e07f4c69f
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 863fdad0b5259e5d327181f1fb3f7b1039602586
+ms.sourcegitcommit: 0776c450a6279d8cf6386942e3844f14c4d2aa55
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664306"
+ms.lasthandoff: 04/09/2020
+ms.locfileid: "43207395"
 ---
-# <a name="how-to-add-or-reduce-licenses"></a>Làm thế nào để thêm hoặc giảm bớt các giấy phép
+# <a name="how-to-add-or-reduce-licenses"></a>Cách thêm hoặc giảm giấy phép
 
-Dưới đây là làm thế nào để loại bỏ giấy phép Office 365 hoặc mua thêm giấy phép.
+Dưới đây là cách thêm/xóa giấy phép.
   
-1. Trong Trung tâm quản trị, đi đến **thanh toán** \> trang [sản phẩm & dịch vụ](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. Điều hướng đến **thanh toán > [đăng ký](https://portal.office.com/adminportal/home#/subscriptions)**.
 
-2. Chọn đăng ký mà bạn muốn thêm/loại bỏ giấy phép.
+2. Chọn đăng ký mà bạn muốn thêm/xóa giấy phép.
 
-3. Chọn **giấy phép Add/Remove**.
+3. Nhấp vào **thêm/loại bỏ giấy phép**.
 
-4. Nhập tổng số người dùng cần thiết.
+4. Nhập tổng số người dùng cần thiết. Ví dụ: nếu bạn hiện có 25 giấy phép và bạn muốn loại bỏ 5, hãy nhập 20 vào trường này.
 
-    Ví dụ, nếu bạn đang có 25 giấy phép và bạn muốn loại bỏ 5, nhập 20 trong lĩnh vực này.
+5. Nhấp vào **gửi thay đổi**.
 
-5. Chọn **gửi thay đổi**.
+**Lưu ý**: bất kỳ khoản phí mới nào (tăng giấy phép) hoặc tín dụng (giảm giấy phép) sẽ hiển thị trên hóa đơn tiếp theo của bạn.
 
-> [!NOTE]
-> Bất kỳ cước mới (giấy phép tăng) hoặc tín dụng (giấy phép giảm) sẽ xuất hiện trên hóa đơn tiếp theo của bạn.
+Để biết thông tin về cách gán giấy phép, xem [gán giấy phép cho người dùng](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 
-Để tìm hiểu thêm, hãy xem [mua giấy phép cho của bạn-Office 365 Beta dành cho doanh nghiệp đăng ký](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).
-
- **Tài nguyên bổ sung**
+ **Tài nguyên**
   
-- [Loại bỏ giấy phép khỏi thuê bao Office 365 dành cho doanh nghiệp của bạn](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription)
+- [Quản lý giấy phép đăng ký-mua hoặc xóa](https://docs.microsoft.com/en-us/microsoft-365/commerce/licenses/buy-licenses)
 
-- [Hủy bỏ Office 365 Beta dành cho doanh nghiệp](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
+- [Hủy bỏ Office 365 cho doanh nghiệp](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a)
 
-- [Mua một Office 365 Beta dành cho doanh nghiệp đăng ký](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription)
+- [Mua một văn phòng 365 cho đăng ký kinh doanh](https://support.office.com/article/Buy-another-Office-365-for-business-subscription-fab3b86c-3359-4042-8692-5d4dc7550b7c)

@@ -1,5 +1,5 @@
 ---
-title: Mở rộng các thử nghiệm của bạn cho Office 365 Beta dành cho doanh nghiệp
+title: Mở rộng bản dùng thử cho Office 365 dành cho doanh nghiệp
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,23 +12,23 @@ ms.custom:
 - "95"
 - "1400006"
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: d407b8ce254590802f0839d2186beadde2619efb
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: ad9b06d5a14e48b4a03963b0e8fe606a58269623
+ms.sourcegitcommit: 0776c450a6279d8cf6386942e3844f14c4d2aa55
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665026"
+ms.lasthandoff: 04/09/2020
+ms.locfileid: "43207359"
 ---
-# <a name="extend-your-trial-for-office-365-for-business"></a>Mở rộng các thử nghiệm của bạn cho Office 365 Beta dành cho doanh nghiệp
+# <a name="extend-your-trial-for-office-365-for-business"></a>Mở rộng bản dùng thử cho Office 365 cho doanh nghiệp
 
-Nếu đăng ký dùng thử của bạn trong vòng 15 ngày kể từ ngày hết hạn và thử nghiệm đã không được mở rộng trước khi, bạn có thể kéo dài thử nghiệm của bạn cho một khoảng thời gian 30 ngày. Bạn chỉ có thể làm điều này một lần.
+Bạn có thể kéo dài thời gian dùng thử trong 30 ngày khác. Bạn chỉ có thể làm điều này một lần.
   
-1. Trong Trung tâm quản trị, đi đến **thanh toán** \> trang [sản phẩm & dịch vụ](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. Trong Trung tâm quản trị, hãy chuyển đến các sản phẩm **thanh toán** \> [& dịch vụ](https://portal.office.com/adminportal/home#/subscriptions).
 
-2. Chọn đăng ký thử nghiệm mà bạn muốn mở rộng.
+2. Chọn đăng ký dùng thử mà bạn muốn mở rộng.
 
-3. Trong phần **& phần hành động** , chọn **mở rộng thử nghiệm** và hoàn tất các bước còn lại.
+3. Nhấp vào **mở rộng thử nghiệm** và hoàn tất các bước trong thuật sĩ.
 
-4. Bạn cần phải cung cấp thông tin thẻ tín dụng để mở rộng các thử nghiệm của bạn. Chúng tôi sẽ không tính phí thẻ tín dụng của bạn cho phần mở rộng thử nghiệm.
+4. Bạn cần cung cấp thông tin thẻ tín dụng để mở rộng bản dùng thử. Chúng tôi sẽ không tính phí thẻ tín dụng của bạn cho phần mở rộng dùng thử.
 
-Để tìm hiểu thêm, hãy xem [mở rộng thử nghiệm của bạn cho Office 365 Beta dành cho doanh nghiệp](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/extend-your-trial).
+Để tìm hiểu thêm về việc mở rộng bản dùng thử của bạn hoặc hướng dẫn từng bước, hãy xem [mở rộng bản dùng thử cho Office 365 cho doanh nghiệp](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial).
