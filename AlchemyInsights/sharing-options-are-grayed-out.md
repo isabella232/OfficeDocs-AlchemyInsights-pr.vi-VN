@@ -1,5 +1,5 @@
 ---
-title: Các tùy chọn chia sẻ được chuyển sang màu xám
+title: Chia sẻ các liên kết được chuyển sang màu xám
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,13 +11,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "2591"
-ms.openlocfilehash: df9158f314ca32bdd5ade827caaa43e619f1e550
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: d0b080e853c59802da20982db948bb825f240239
+ms.sourcegitcommit: 6ecb6fcbd738b8896c5d616130074438a1a6e357
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43183336"
+ms.lasthandoff: 04/16/2020
+ms.locfileid: "43529698"
 ---
-# <a name="sharing-options-are-grayed-out"></a>Các tùy chọn chia sẻ được chuyển sang màu xám
+# <a name="sharing-links-are-grayed-out"></a>Chia sẻ các liên kết được chuyển sang màu xám
 
 Nếu các tùy chọn chia sẻ cụ thể được tô xám khi cố gắng chia sẻ từ SharePoint Online hoặc OneDrive, vui lòng đánh giá [các tùy chọn chia sẻ được chuyển sang màu xám khi chia sẻ từ SharePoint Online hoặc OneDrive](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive).
