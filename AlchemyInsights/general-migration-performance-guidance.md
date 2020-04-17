@@ -11,19 +11,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "3179"
-ms.openlocfilehash: 4f8e20090521ebe1808bb66717108e479cf68892
-ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
+ms.openlocfilehash: 6c56f07e986ca776600120560e53587371341185
+ms.sourcegitcommit: e6e9340a19ea7ac0a54fa941507904b4859b9ef7
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42958560"
+ms.lasthandoff: 04/16/2020
+ms.locfileid: "43537763"
 ---
 # <a name="general-migration-performance-guidance"></a>Hướng dẫn hiệu suất di chuyển chung
 
+
 **Quan trọng**: trong những lần chưa từng thấy, chúng tôi đang thực hiện các bước để đảm bảo rằng dịch vụ SharePoint Online và OneDrive vẫn có sẵn cao-vui lòng truy cập [điều chỉnh tính năng tạm thời của SharePoint Online](https://aka.ms/ODSPAdjustments) để biết thêm thông tin.
 
-**Hướng dẫn hiệu suất di chuyển**
+**Tùy chọn di chuyển**
 
-Hiệu suất di chuyển có thể bị ảnh hưởng bởi cơ sở hạ tầng mạng, kích thước tệp, thời gian di chuyển và điều chỉnh. Sự hiểu biết này sẽ giúp bạn lập kế hoạch và tối đa hóa hiệu quả di chuyển của bạn.
+Có các tùy chọn khác nhau có sẵn để di chuyển nội dung sang SharePoint Online, tùy thuộc vào kích thước và số lượng tệp bạn cần di chuyển, vui lòng xem danh sách các tùy chọn [nằm ở đây](https://docs.microsoft.com/sharepointmigration/migrate-to-sharepoint-online).
 
-- [Hướng dẫn hiệu suất di chuyển chung](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
+Để biết thêm thông tin về di chuyển nội dung, vui lòng truy cập vào các liên kết bên dưới.
+
+- [Công cụ di chuyển SharePoint](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
+
+- [Bắt đầu với trình quản lý di chuyển](https://docs.microsoft.com/sharepointmigration/mm-get-started)
+
+- [Mover](https://mover.io/)

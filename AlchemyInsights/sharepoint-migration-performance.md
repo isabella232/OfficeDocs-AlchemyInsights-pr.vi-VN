@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "2700"
-ms.openlocfilehash: ae62607bf5991eb8fd8764ebad64da040389df6b
-ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
+ms.openlocfilehash: fd37cee73e799a849dd94a1f042d2dd9a9c3f0c7
+ms.sourcegitcommit: e6e9340a19ea7ac0a54fa941507904b4859b9ef7
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42958776"
+ms.lasthandoff: 04/16/2020
+ms.locfileid: "43537799"
 ---
 # <a name="sharepoint-migration-performance"></a>Hiệu suất di chuyển SharePoint
 
@@ -28,7 +28,7 @@ Hiệu suất di chuyển có thể bị ảnh hưởng bởi cơ sở hạ tầ
 
 Để biết thêm thông tin, xin vui lòng truy cập vào các liên kết dưới đây.
 
-- [SharePoint Online và tốc độ di chuyển ODB](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
+- [Hướng dẫn hiệu suất di chuyển chung](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
 
 - [Tránh bị điều chỉnh hoặc chặn trong SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
 
