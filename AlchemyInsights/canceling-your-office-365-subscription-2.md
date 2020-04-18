@@ -1,5 +1,5 @@
 ---
-title: Huỷ đăng ký Office 365 của bạn?
+title: Hủy đăng ký Office 365 của bạn?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,19 +13,23 @@ ms.custom:
 - "87"
 - "1400001"
 ms.assetid: ec57734d-073d-4aee-8c7c-f4aa9e7130ae
-ms.openlocfilehash: 7bf1ae4696576155ac3df3356ebf5d32ec779dbb
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: a3416ec86908d529fd5f2750344763de36363a08
+ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665494"
+ms.lasthandoff: 04/18/2020
+ms.locfileid: "43552619"
 ---
-# <a name="canceling-your-office-365-subscription"></a>Huỷ đăng ký Office 365 của bạn?
+# <a name="canceling-your-office-365-subscription"></a>Hủy đăng ký Office 365 của bạn?
 
-Chúng tôi rất tiếc khi thấy bạn rời đi!
+Chúng tôi rất tiếc khi thấy bạn đi!
   
-Dựa trên các dữ liệu tổ chức của bạn, chúng tôi tin rằng tất cả các đăng ký hiện tại của bạn có hơn 25 giấy phép gán. Bạn có thể loại bỏ người dùng cho đến khi bạn có ít hơn 25, sau đó đi đến **thanh toán** \> trang [sản phẩm & dịch vụ](https://go.microsoft.com/fwlink/p/?linkid=842054) . Trong phần **cài đặt & hành động** , hãy chọn **hủy đăng ký**.
+Dựa trên dữ liệu tổ chức của bạn, chúng tôi tin rằng tất cả các đăng ký hiện tại của bạn có hơn 25 giấy phép được chỉ định. Bạn có thể xóa người dùng cho đến khi bạn có ít hơn 25, sau đó chuyển đến trang sản phẩm **thanh toán** \> [& dịch vụ](https://go.microsoft.com/fwlink/p/?linkid=842054) . Trong phần **cài đặt & hành động** , chọn **hủy đăng ký**.
   
 Ngoài ra, chọn **cần giúp đỡ** để nói chuyện với một kỹ sư hỗ trợ.
   
-Để tìm hiểu thêm, hãy xem [huỷ đăng ký của bạn](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+**Hoàn lại tiền: bất kỳ khoản tín dụng theo tỷ lệ nào sẽ được trả lại cho bạn trong chu kỳ thanh toán kế tiếp.** 
+
+**Lưu ý**: nếu bạn không thấy tùy chọn để hủy bỏ, hãy nhấp vào đăng ký để xem chi tiết và bạn sẽ thấy tùy chọn **hủy đăng ký** trong **cài đặt & hành động**. 
+
+Để tìm hiểu thêm, hãy xem [hủy đăng ký của bạn](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).

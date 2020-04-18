@@ -12,17 +12,19 @@ ms.custom:
 - "9002447"
 - "4760"
 - "4761"
-ms.openlocfilehash: 83ac66ddd2f5dac25aaa0b2ac3fe855c2e29f988
-ms.sourcegitcommit: ff4b89d630597a044441e56d415b5b566a821f28
+ms.openlocfilehash: e1dd2bd37be42de74701b11864841e876cf5a2a6
+ms.sourcegitcommit: 3281e61d3dfca02a01cd6ad208a987cda66f4afa
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "43154429"
+ms.lasthandoff: 04/18/2020
+ms.locfileid: "43557036"
 ---
 # <a name="pstn-calling-plans"></a>Kế hoạch gọi PSTN
 
-Các cuộc gọi đến những người dùng Skype for Business và Microsoft teams khác đều miễn phí, nhưng nếu bạn muốn người dùng của mình có thể gọi điện thoại thông thường và bạn chưa có nhà cung cấp dịch vụ để thực hiện cuộc gọi thoại, bạn cần mua gói gọi điện. 
+Nếu bạn muốn người dùng của mình có thể gọi điện thoại thông thường và bạn chưa có nhà cung cấp dịch vụ để thực hiện cuộc gọi thoại, bạn cần mua gói gọi điện.
 
-- Để bắt đầu quá trình mua, hãy xem [cách mua gói gọi điện](https://docs.microsoft.com/MicrosoftTeams/calling-plans-for-office-365). 
+- Xem [cách mua gói gọi điện](https://docs.microsoft.com/MicrosoftTeams/calling-plans-for-office-365) để bắt đầu quy trình mua.
 
-- Để biết thêm thông tin, xem [hệ thống điện thoại và kế hoạch gọi](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page). 
+- Thiết lập [tín dụng truyền thông](https://docs.microsoft.com/microsoftteams/set-up-communications-credits-for-your-organization) để ngăn người dùng **chạy ra khỏi phút**. Xem giá [ở đây](https://products.office.com/microsoft-teams/voice-calling). 
+
+- Để biết thêm thông tin, xem [hệ thống điện thoại và gọi kế hoạch](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) hoặc [tín dụng truyền thông là gì?](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)
