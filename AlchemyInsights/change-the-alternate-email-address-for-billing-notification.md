@@ -3,7 +3,7 @@ title: Thay đổi địa chỉ email thay thế để thông báo thanh toán
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 2/25/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +13,12 @@ ms.custom:
 - "64"
 - "1200012"
 ms.assetid: efa5316c-42c7-461c-b2ab-53d23e0a6d22
-ms.openlocfilehash: 4cb14da2358c4c97814b881de63214fe97f0c2ee
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 63cdc58d6c0474c66295cc5c4547dd04b0f50ad7
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36738759"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706547"
 ---
 # <a name="change-the-alternate-email-address-for-billing-notification"></a>Thay đổi địa chỉ email thay thế để thông báo thanh toán
 
@@ -32,5 +32,5 @@ Việc thay đổi địa chỉ email thay thế để thông báo thanh toán r
 
 4. Chọn **lưu** và bạn đã hoàn tất!
 
-Để biết thêm chi tiết và các bước với ảnh chụp màn hình, hãy xem [thay đổi địa chỉ thanh toán của bạn cho Office 365](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-your-billing-addresses).
+Để biết thêm chi tiết và các bước có ảnh chụp màn hình, hãy xem [thay đổi địa chỉ thanh toán của bạn](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-your-billing-addresses).
   

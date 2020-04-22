@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002490"
 - "4832"
-ms.openlocfilehash: 4453a9d62a63e980a9f9f56eb6ff2551c58e3e2b
-ms.sourcegitcommit: c061f1dfa6f557a9ec083dd030b73b121d9864ea
+ms.openlocfilehash: 555f633601672084f0e3d56b674be4e425455749
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/14/2020
-ms.locfileid: "43286921"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706223"
 ---
 # <a name="common-issues-and-resolutions-for-adfs"></a>Vấn đề thường gặp và giải pháp cho ADFS
 
@@ -28,4 +28,4 @@ Cấu hình của vùng liên kết có thể được Cập Nhật như đượ
 
 - [2647020](https://support.microsoft.com/help/2647020) "xin lỗi, nhưng chúng tôi đang gặp sự cố khi bạn đăng nhập" và "80041317" hoặc "80043431" lỗi nếu người dùng liên kết để đăng nhập vào Office 365, Azure hoặc InTune.
 
-Để biết thêm thông tin, hãy xem [Cập Nhật hoặc sửa chữa cài đặt của một liên kết miền trong Office 365, Azure hoặc InTune](https://docs.microsoft.com/en-us/office365/troubleshoot/active-directory/update-federated-domain-office-365).
+Để biết thêm thông tin, hãy xem [Cập Nhật hoặc sửa chữa cài đặt của một liên kết miền trong Office 365, Azure hoặc InTune](https://docs.microsoft.com/office365/troubleshoot/active-directory/update-federated-domain-office-365).

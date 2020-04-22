@@ -1,9 +1,9 @@
 ---
-title: 127 nhận được một lỗi TenantAccessBlockedException khi truy cập vào email?
+title: 127 nhận được một TenantAccessBlockedException lỗi khi truy cập vào email?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/9/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: 3727c037d323a042b8ba97e0fd01ca1481a76669
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5249783915d125703c1c5d4b650e99b0f0a7c909
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36524001"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708925"
 ---
-# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>Nhận được một lỗi TenantAccessBlockedException khi truy cập vào email?
+# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>Nhận được một TenantAccessBlockedException lỗi khi truy cập vào email?
 
-Không có một vài lý do khác nhau, tại sao bạn có thể nhận được lỗi này. Ví dụ:
+Có một vài lý do khác nhau khiến bạn có thể nhận được lỗi này. Ví dụ:
 
-- Xác minh rằng đăng ký của bạn là hợp lệ trên **thanh toán** \> [sản phẩm & dịch vụ](https://portal.office.com/adminportal/home#/subscriptions) trang tại Trung tâm quản trị Microsoft 365.
+- Xác minh rằng đăng ký của bạn có hiệu lực trên trang sản phẩm **thanh toán** \> [& dịch vụ](https://portal.office.com/adminportal/home#/subscriptions) trong Trung tâm quản trị Microsoft 365.
 
-- Kiểm tra bất kỳ trong quá khứ do thông báo trên **thanh toán** \> [thanh toán hóa đơn &](https://portal.office.com/adminportal/home#/billoverview) trang trong Trung tâm quản trị Microsoft 365.
+- Kiểm tra bất kỳ thông báo do quá hạn nào trên hóa đơn **thanh toán** \> [& trang thanh toán](https://portal.office.com/adminportal/home#/billoverview) trong Trung tâm quản trị Microsoft 365.
 
-- Nếu thanh toán và đăng ký cho tài khoản của bạn đã được cập nhật mới, nó có thể mất thời gian cho những thay đổi để tuyên truyền. Hãy thử một lần nữa trong một vài phút, và nếu vấn đề vẫn còn, liên hệ với chúng tôi.
+- Nếu thanh toán và đăng ký cho tài khoản của bạn đã được cập nhật gần đây, thì có thể mất thời gian để các thay đổi phát sinh. Thử lại trong vài phút và nếu sự cố vẫn tiếp diễn, hãy liên hệ với chúng tôi.

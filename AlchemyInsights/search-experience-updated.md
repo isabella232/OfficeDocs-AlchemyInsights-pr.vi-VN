@@ -1,8 +1,8 @@
 ---
-title: 414 trải nghiệm tìm kiếm Cập Nhật
+title: 414 kinh nghiệm tìm kiếm Cập Nhật
 ms.author: chrisda
 author: chrisda
-ms.date: 2/9/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,13 +13,13 @@ ms.custom:
 - "414"
 - "1600043"
 ms.assetid: bd328fee-8ea1-4b0b-930c-cc3d3765f1b9
-ms.openlocfilehash: a4ecb6fcdd33b871f971a788ffe2afa8e7c50ba6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8602a1e0c9374e8c772d91b4721c1435fec4bea1
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551509"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709321"
 ---
-# <a name="search-experience-updated"></a>Kinh nghiệm tìm kiếm Cập Nhật
+# <a name="search-experience-updated"></a>Tìm kiếm trải nghiệm Cập Nhật
 
-Tìm kiếm là bây giờ nằm ở dưới cùng của ứng dụng. Khai thác vào nó cung cấp cho bạn truy cập trực tiếp đến đầu trang địa chỉ liên hệ, chương trình tham quan du lịch sắp tới, gói giao hàng và tại file đính kèm. Bạn có thể tìm kiếm các tin nhắn email, tập tin, và địa chỉ liên lạc trong bất kỳ tài khoản của bạn từ một hộp duy nhất tìm kiếm hoặc sử dụng các bộ lọc mới của chúng tôi để thu hẹp tìm kiếm của bạn.
+Tìm kiếm hiện đang nằm ở dưới cùng của ứng dụng. Nhấn vào nó cho phép bạn truy cập trực tiếp vào danh bạ hàng đầu của bạn, hành trình du lịch sắp tới, giao hàng trọn gói và các tệp đính kèm gần đây. Bạn có thể tìm kiếm email, tệp và danh bạ trong bất kỳ tài khoản nào của bạn từ một hộp tìm kiếm duy nhất hoặc sử dụng bộ lọc mới để thu hẹp tìm kiếm của bạn.

@@ -1,9 +1,9 @@
 ---
-title: Làm thế nào để loại bỏ các thông tin thẻ tín dụng của tôi?
+title: Làm cách nào để xóa thông tin thẻ tín dụng của tôi?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,24 +13,24 @@ ms.custom:
 - "431"
 - "1500001"
 ms.assetid: 9d465c0b-d262-4c84-a0ee-76d0f18a24dc
-ms.openlocfilehash: 4f71ec857cb77a1146dcb060007594b0f115b6a5
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: f8b44773767aa28750a7c444b22091359030c93f
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664450"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709997"
 ---
-# <a name="how-do-i-remove-my-credit-card-information"></a>Làm thế nào để loại bỏ các thông tin thẻ tín dụng của tôi?
+# <a name="how-do-i-remove-my-credit-card-information"></a>Làm cách nào để xóa thông tin thẻ tín dụng của tôi?
 
-1. Trong Trung tâm quản trị Microsoft 365, đi đến **thanh toán** \> [phương thức thanh toán](https://go.microsoft.com/fwlink/p/?linkid=2018806) trang.
+1. Trong Trung tâm quản trị Microsoft 365, hãy đi tới trang [phương thức thanh toán](https://go.microsoft.com/fwlink/p/?linkid=2018806) **hóa đơn** \> .
 
-2. Trên trang **phương thức thanh toán** , nhận thẻ tín dụng hoặc tài khoản ngân hàng để xóa.
+2. Trên trang **phương thức thanh toán** , hãy chọn thẻ tín dụng hoặc tài khoản ngân hàng để xóa.
 
-3. Để loại bỏ các thẻ tín dụng hoặc tài khoản ngân hàng, chọn **xóa hình thức thanh toán.**
+3. Để xóa thẻ tín dụng hoặc tài khoản ngân hàng, hãy chọn **xóa phương thức thanh toán.**
 
 > [!NOTE]
-> Bạn không thể loại bỏ một thẻ tín dụng hoặc tài khoản ngân hàng nếu nó hiện đang được sử dụng để trả cho một thuê bao.
+> Bạn sẽ không thể xóa thẻ tín dụng hoặc tài khoản ngân hàng nếu hiện tại đang được sử dụng để thanh toán cho đăng ký.
 
-4. Trong cửa sổ **xóa hình thức thanh toán** , hãy chọn **xóa**.
+4. Trong ngăn **xoá thanh toán phương thức** , chọn **xoá**.
 
-Để tìm hiểu thêm, hãy xem [Thêm, Cập Nhật, hoặc loại bỏ một thẻ tín dụng hoặc tài khoản ngân hàng trong Office 365 Beta dành cho doanh nghiệp](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
+Để tìm hiểu thêm, hãy xem thêm [, Cập Nhật hoặc xóa thẻ tín dụng hoặc tài khoản ngân hàng](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).

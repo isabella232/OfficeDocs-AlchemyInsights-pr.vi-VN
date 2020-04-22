@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2558"
 - "9000571"
-ms.openlocfilehash: b28865ff1da434a254c9051183074be35cdd0252
-ms.sourcegitcommit: 9b2b162ad651e2c3d9d0c746f67a78334592f076
+ms.openlocfilehash: ac760b417ad98b9d5bb6be4b92e60074ab93ceb3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/17/2020
-ms.locfileid: "43547984"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708709"
 ---
 # <a name="fixing-the-office-apps-your-account-is-in-a-bad-state-error"></a>Sửa chữa các ứng dụng Office "tài khoản của bạn đang ở trạng thái xấu" lỗi
 
@@ -27,5 +27,5 @@ ms.locfileid: "43547984"
   **Lưu ý:** Đường dẫn đăng ký cho Office 2016 đã thay đổi để 16,0. Ví dụ: \Software\Microsoft\Office\16.0\Common\Identity\
 - Nếu xảy ra lỗi khi kết nối với Office 365 bằng cách sử dụng Office 2013, [kích hoạt xác thực hiện đại](https://docs.microsoft.com/office365/admin/security-and-compliance/enable-modern-authentication) cho khách hàng Office.
 
-Để biết thêm thông tin, hãy xem [cách khắc phục sự cố ứng dụng không có trình duyệt không thể đăng nhập vào Office 365, Azure hoặc InTune](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1).
+Để biết thêm thông tin, hãy xem [cách khắc phục sự cố ứng dụng không có trình duyệt không thể đăng nhập vào Microsoft 365, Azure hoặc InTune](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1).
 

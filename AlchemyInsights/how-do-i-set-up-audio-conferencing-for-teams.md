@@ -12,16 +12,16 @@ ms.custom:
 - "2711"
 - "2712"
 - "9000766"
-ms.openlocfilehash: 98dbb9049b3dad42237598ad86572164ebefd1d0
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: f43149ff7cf420dd046fa8adadbb2048ba7af410
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "42692417"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709961"
 ---
 # <a name="microsoft-teams--audio-conferencing"></a>Microsoft teams – hội thảo âm thanh
 
-Bạn cần trợ giúp bật hoặc thiết lập hội thảo âm thanh trong Microsoft teams? Có người dùng này được tạo ra gần đây?  Nếu vậy bạn sẽ cần phải đợi 2-24 giờ để cài đặt có hiệu lực.    
+Bạn cần trợ giúp bật hoặc thiết lập hội thảo âm thanh trong Microsoft teams? Có người dùng này được tạo ra gần đây?  Nếu vậy bạn sẽ cần phải đợi 2-24 giờ để cài đặt có hiệu lực.
 
 Để xác minh rằng người dùng được cấp phép cho hội thảo âm thanh và có số điện thoại mặc định:
 
@@ -39,4 +39,4 @@ Bạn cần trợ giúp bật hoặc thiết lập hội thảo âm thanh trong 
 
 7. Chọn người dùng trong câu hỏi và xác minh người dùng có **số điện thoại mặc định**.
 
-Để biết thêm thông tin, hãy tham khảo [gói gọi điện cho Office 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) hoặc gọi nhóm thanh toán thương mại của Microsoft để trợ giúp về các câu hỏi liên quan đến cấp phép.
+Để biết thêm thông tin, hãy tham khảo [gói gọi điện](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) hoặc gọi nhóm thanh toán thương mại của Microsoft để trợ giúp về các câu hỏi liên quan đến cấp phép.

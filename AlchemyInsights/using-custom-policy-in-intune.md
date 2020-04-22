@@ -1,9 +1,9 @@
 ---
-title: Sử dụng tùy chỉnh hồ sơ trong dành
+title: Sử dụng cấu hình tùy chỉnh trong InTune
 ms.author: mandia
 author: mandia
 manager: dougeby
-ms.date: 05/07/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "1566"
 - "6700005"
-ms.openlocfilehash: def82b1a49afebd89e9b3cdca163f4159faf7972
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9c7908ef11a26fd83ca83e8c134708687f6d750f
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36531777"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710501"
 ---
-# <a name="using-custom-policy-in-intune"></a>Sử dụng chính sách tùy chỉnh trong dành
+# <a name="using-custom-policy-in-intune"></a>Sử dụng chính sách tùy chỉnh trong InTune
 
-Dành có nhiều cài đặt sẵn cho các thiết bị Android, iOS, macOS và Windows. Bạn có thể cũng tạo ra một hồ sơ tùy chỉnh, và sau đó triển khai các thiết đặt tùy chỉnh cho các thiết bị của bạn bằng cách sử dụng dành. Tùy chỉnh các cấu hình được thiết kế để thêm các thiết đặt và các tính năng không được xây dựng để dành.
+InTune có nhiều cài đặt được tích hợp cho các thiết bị Android, iOS, macOS và Windows. Bạn cũng có thể tạo hồ sơ tùy chỉnh và sau đó triển khai các cài đặt tùy chỉnh này cho thiết bị của mình bằng InTune. Cấu hình tùy chỉnh được thiết kế để thêm cài đặt thiết bị và tính năng không được tích hợp vào InTune.
 
-[Các thiết lập tùy biến cho điện thoại Android trong dành](https://docs.microsoft.com/intune/custom-settings-android)
+[Cài đặt tùy chỉnh cho thiết bị Android trong InTune](https://docs.microsoft.com/intune/custom-settings-android)
 
-[Tuỳ chỉnh cài đặt cho thiết bị Android Enterprise dành](https://docs.microsoft.com/intune/custom-settings-android-for-work)
+[Cài đặt tùy chỉnh cho các thiết bị Android Enterprise trong InTune](https://docs.microsoft.com/intune/custom-settings-android-for-work)
 
-[Tuỳ chỉnh cài đặt cho thiết bị iOS trong dành](https://docs.microsoft.com/intune/custom-settings-ios)
+[Cài đặt tuỳ chỉnh cho thiết bị iOS trong InTune](https://docs.microsoft.com/intune/custom-settings-ios)
 
-[Các thiết đặt tùy chỉnh cho macOS thiết bị trong dành](https://docs.microsoft.com/intune/custom-settings-macos)
+[Cài đặt tùy chỉnh cho các thiết bị macOS trong InTune](https://docs.microsoft.com/intune/custom-settings-macos)
 
-[Các thiết đặt tùy chỉnh cho các thiết bị Windows 10 trong dành](https://docs.microsoft.com/intune/custom-settings-windows-10)
+[Thiết đặt tùy chỉnh cho thiết bị Windows 10 trong InTune](https://docs.microsoft.com/intune/custom-settings-windows-10)
 
-[Tuỳ chỉnh cài đặt cho Windows Holographic cho kinh doanh các thiết bị trong dành](https://docs.microsoft.com/intune/custom-settings-windows-holographic)
+[Cài đặt tuỳ chỉnh cho Windows Holographic cho doanh nghiệp thiết bị trong InTune](https://docs.microsoft.com/intune/custom-settings-windows-holographic)

@@ -11,22 +11,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "3208"
-ms.openlocfilehash: e612c1fb9c0a1b1f6e9a53a2b9eefeed0583dc9e
-ms.sourcegitcommit: 01c4ee1339ea5303de48d51d22da5ce6073549f3
+ms.openlocfilehash: a10d6ce44ab205087669b3f2152351a949030b02
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38275016"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706187"
 ---
 # <a name="communication-compliance-in-microsoft-365"></a>Tuân thủ truyền thông trong Microsoft 365
 
-Tuân thủ truyền thông là một giải pháp Microsoft 365 tuân thủ mới giúp các tổ chức đáp ứng yêu cầu tuân thủ giám sát và giảm thiểu rủi ro giao tiếp. Nó dựa trên tính năng giám sát trong Office 365 và có những cải tiến mới, bao gồm:
+Tuân thủ truyền thông là một giải pháp Microsoft 365 tuân thủ mới giúp các tổ chức đáp ứng yêu cầu tuân thủ giám sát và giảm thiểu rủi ro giao tiếp. Nó dựa trên tính năng giám sát và chứa các cải tiến mới, bao gồm:
 
 - Các mẫu tùy chỉnh thông minh
 - Quy trình khắc phục linh hoạt
 - Thông tin chi tiết hữu ích
 
-Nếu bạn hiện đang sử dụng [chính sách giám sát trong Office 365](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies), chúng tôi khuyên bạn bây giờ sử dụng các nhu cầu quản lý liên lạc mới để tuân thủ địa chỉ.
+Nếu bạn hiện đang sử dụng [chính sách giám sát](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies), chúng tôi khuyên bạn nên sử dụng các nhu cầu quản lý liên lạc mới để tuân thủ địa chỉ.
 
 Để thiết lập tuân thủ giao tiếp, xem [cấu hình tuân thủ truyền thông](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-configure).
 

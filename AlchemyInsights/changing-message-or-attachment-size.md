@@ -10,16 +10,16 @@ ms.custom:
 - "895"
 - "8000036"
 ms.assetid: c2016465-a57b-40da-b938-412467fea205
-ms.openlocfilehash: bbb8741fcb394d0951a1fb40400a7534737d3a7a
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 18d136f1fdd67b4af89b0f81da19e052f5ea3ff8
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37769685"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706450"
 ---
 # <a name="changing-message-or-attachment-size"></a>Thay đổi kích thước thư hoặc tệp đính kèm
 
-Là một quản trị Office 365, bạn có thể thay đổi kích thước tối đa/tối thiểu của thư (bao gồm phần đính kèm) mà người dùng gửi. Bạn có thể thực hiện việc này cho người dùng cá nhân hoặc tất cả người dùng (tổ chức mặc định). Sau khi bạn thay đổi cài đặt này, mất khoảng 30 phút để có hiệu lực.
+Là một quản trị viên Microsoft 365, bạn có thể thay đổi kích thước tối đa/tối thiểu của thư (bao gồm các tệp đính kèm) mà người dùng gửi. Bạn có thể thực hiện việc này cho người dùng cá nhân hoặc tất cả người dùng (tổ chức mặc định). Sau khi bạn thay đổi cài đặt này, mất khoảng 30 phút để có hiệu lực.
   
 - Để thay đổi kích thước thư cho một người dùng cụ thể, hãy chuyển đến **hộp thư** **người nhận** \> \> **trao đổi** \> **Trung tâm quản trị** . Chọn hộp thư của người dùng. Chọn biểu tượng chỉnh sửa, chọn **tính năng hộp thư**, sau đó trong **giới hạn kích thước thư**, chọn **xem chi tiết** và chỉ định kích thước thư tối đa mới.
 

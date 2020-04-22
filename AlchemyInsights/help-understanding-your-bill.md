@@ -1,9 +1,9 @@
 ---
-title: Trợ giúp tìm hiểu về hóa đơn của bạn
+title: Giúp hiểu hóa đơn của bạn
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,23 +13,23 @@ ms.custom:
 - "267"
 - "1500005"
 ms.assetid: bdcd1344-7a01-4a3f-90ad-3e7bc0f684a9
-ms.openlocfilehash: b58ec93be19f42bf0fe04c71d615c7b680a599e6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 97b26cb0843233bea281cac2363ff4ccf1bec58e
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523101"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710105"
 ---
-# <a name="help-understanding-your-bill"></a>Trợ giúp tìm hiểu về hóa đơn của bạn
+# <a name="help-understanding-your-bill"></a>Giúp hiểu hóa đơn của bạn
 
-Số tiền được lập hoá đơn cho bạn-Office 365 Beta dành cho doanh nghiệp đăng ký phản ánh giá giấy phép nhân với số lượng giấy phép mua và bất kỳ loại thuế/phí bắt buộc.
+Số tiền được lập hóa đơn cho đăng ký của bạn phản ánh giá giấy phép nhân với lượng giấy phép đã mua và bất kỳ khoản thuế/phí cần thiết nào.
   
-Nếu số tiền hóa đơn khác nhau sau đó mong đợi, có một vài lý do có thể xảy ra:
+Nếu số tiền hóa đơn là khác nhau thì dự kiến, có một vài lý do điều này có thể xảy ra:
   
-- Giấy phép đã được thêm vào hoặc gỡ bỏ từ đăng ký của bạn. Khi giấy phép thay đổi giữa kỳ, điều này được phản ánh trên hóa đơn sau đây. Bạn có thể thấy một thẻ tín dụng và tái lập hoá đơn cho khoảng thời gian dịch vụ trước đó để giải thích cho sự thay đổi này.
+- Giấy phép đã được thêm hoặc loại bỏ khỏi đăng ký của bạn. Khi giấy phép được thay đổi giữa kỳ, điều này được phản ánh trên hóa đơn sau. Bạn có thể thấy một khoản tín dụng và hóa đơn lại cho thời gian dịch vụ trước đó để thay đổi này.
 
-- Các thuê bao đã bị hủy bỏ. Bạn sẽ nhận được hóa đơn sau khi hủy bỏ với bất kỳ số dư chưa trừ bất kỳ khoản tín dụng.
+- Đăng ký đã bị hủy bỏ. Bạn sẽ nhận được hóa đơn sau khi hủy với bất kỳ số dư chưa thanh toán nào trừ đi bất kỳ khoản tín dụng nào.
 
-- Gia hạn đăng ký của bạn cho một thuật ngữ mới và mức giá giấy phép thay đổi.
+- Đăng ký của bạn gia hạn cho một thuật ngữ mới và giá giấy phép thay đổi.
 
-Để biết thêm chi tiết về hoá đơn của bạn, hãy xem: [hiểu hóa đơn của bạn](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/understand-your-invoice)
+Để biết thêm thông tin về hóa đơn của bạn, xem: [hiểu hóa đơn của bạn](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/understand-your-invoice)

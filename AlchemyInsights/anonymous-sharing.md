@@ -2,18 +2,18 @@
 title: Chia sẻ ẩn danh
 ms.author: pebaum
 author: pebaum
-ms.date: 9/18/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d57ca274-af16-4cc1-8c67-8c499f5c1d37
-ms.openlocfilehash: 8a007821fb44544512ae5b9bf22ee9aba16e618c
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: f503564af9ccdd3e27f328a3f94a52eb9871d17d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050403"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708077"
 ---
 # <a name="anonymous-sharing"></a>Chia sẻ ẩn danh
 
@@ -31,6 +31,6 @@ Trong Trung tâm quản trị SharePoint mới, bấm vào **chia sẻ** trong n
     
 - Ai bạn muốn liên kết này để làm việc cho? nhấp vào **bất cứ ai.**
   
- **Lưu ý**: **bất cứ ai** tạo một liên kết mà bất cứ ai có thể sử dụng để truy cập vào tài liệu hoặc thư mục, ngay cả khi họ không đăng nhập vào văn phòng 365 hoặc OneDrive. Sử dụng điều này để chia sẻ với bất kỳ ai, bên trong hoặc bên ngoài công ty của bạn. Liên kết này cũng có thể được chuyển tiếp xung quanh cho bất cứ ai. 
+ **Lưu ý**: **bất cứ ai** tạo một liên kết mà bất cứ ai có thể sử dụng để truy cập vào tài liệu hoặc thư mục, ngay cả khi họ không đăng nhập vào Microsoft 365 hoặc OneDrive. Sử dụng điều này để chia sẻ với bất kỳ ai, bên trong hoặc bên ngoài công ty của bạn. Liên kết này cũng có thể được chuyển tiếp xung quanh cho bất cứ ai. 
     
 

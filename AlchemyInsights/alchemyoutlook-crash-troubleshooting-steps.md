@@ -13,16 +13,16 @@ ms.custom:
 - "1800016"
 ROBOTS: NOINDEX, NOFOLLOW
 ms.assetid: dbd710ec-cdeb-473f-aab4-bdf99de29610
-ms.openlocfilehash: 0d35793c5222c89828133e6ace98d8b53860107b
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 03b9c57f8254aea779929135ae45857c799f50de
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36737144"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708377"
 ---
 # <a name="outlook-crash-troubleshooting-steps"></a>Bước khắc phục sự cố Outlook
 
-Nếu bạn gặp sự cố sập máy tính để bàn Outlook, hãy bắt đầu bằng cách làm theo ba bước dưới đây, tất cả được liệt kê chi tiết trong bài viết này: [làm thế nào để khắc phục sự cố gây ra Outlook sập hoặc ngừng đáp ứng khi sử dụng với Office 365.](https://docs.microsoft.com/exchange/troubleshoot/outlook-crashes/crash-issues)
+Nếu bạn gặp sự cố sập máy tính để bàn Outlook, bắt đầu bằng cách làm theo ba bước dưới đây, tất cả được liệt kê chi tiết trong bài viết này: [làm thế nào để khắc phục sự cố gây ra Outlook sập hoặc ngừng đáp ứng.](https://docs.microsoft.com/exchange/troubleshoot/outlook-crashes/crash-issues)
   
 Bước 1: điều tra các vấn đề có thể xảy ra với trình bổ sung.
   

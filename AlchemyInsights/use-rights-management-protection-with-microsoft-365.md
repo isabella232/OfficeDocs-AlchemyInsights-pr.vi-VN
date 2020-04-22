@@ -12,16 +12,16 @@ ms.custom:
 - "9001670"
 - "3737"
 - "3820"
-ms.openlocfilehash: e7c28230c90f61dd61b48941786c9218e06b6495
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: 149d349deed9dd698f94adb64fcc429f8e8d2afc
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "42707394"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710717"
 ---
 # <a name="use-rights-management-protection-with-microsoft-365"></a>Sử dụng bảo vệ quản lý quyền với Microsoft 365
 
-Bạn phải kích hoạt [dịch vụ quản lý quyền (RMS)](https://docs.microsoft.com/azure/information-protection/what-is-azure-rms) trước khi bạn có thể sử dụng các tính năng quản lý quyền thông tin (IRM) của các ứng dụng Office 365 và dịch vụ.
+Bạn phải kích hoạt [dịch vụ quản lý quyền (RMS)](https://docs.microsoft.com/azure/information-protection/what-is-azure-rms) trước khi bạn có thể sử dụng các tính năng quản lý quyền thông tin (IRM) của các ứng dụng và dịch vụ của Microsoft.
 
 1. Đối với yêu cầu giấy phép và kích hoạt từ **Trung tâm quản trị microsoft 365**, hãy xem [cách kích hoạt bảo vệ quản lý quyền từ Trung tâm quản trị Microsoft 365](https://docs.microsoft.com/azure/information-protection/activate-office365). **Lưu ý**: yêu cầu tài khoản quản trị toàn cầu.
 

@@ -1,9 +1,9 @@
 ---
-title: Làm thế nào để mua giấy phép cho đăng ký Office 365 doanh nghiệp của bạn
+title: Cách mua giấy phép cho Microsoft 365 Apps dành cho đăng ký kinh doanh
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 4/26/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,21 +12,21 @@ ms.assetid: 4ece4b95-0d06-4658-af45-28de859bdc9d
 ms.custom:
 - "652"
 - "2000017"
-ms.openlocfilehash: 5e0c500d9c537efd91cdbed1dfe914ec91821b82
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: d202ab1ad27c886473793dd1bde77409bff6939a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664234"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709537"
 ---
-# <a name="how-to-buy-licenses-for-your-office-365-business-subscription"></a>Làm thế nào để mua giấy phép cho đăng ký Office 365 doanh nghiệp của bạn
+# <a name="how-to-buy-licenses-for-your-microsoft-365-apps-for-business-subscription"></a>Cách mua giấy phép cho Microsoft 365 Apps dành cho đăng ký kinh doanh
 
-Khi việc gán giấy phép Office 365 cho người dùng của bạn, bạn có thể tìm thấy bạn có cần phải mua giấy phép bổ sung. Để làm điều này:
+Khi gán giấy phép cho người dùng của bạn, bạn có thể thấy mình cần phải mua thêm giấy phép. Để làm điều này:
   
-1. Trong Trung tâm quản trị, đi đến **thanh toán** \> trang [sản phẩm & dịch vụ](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. Trong Trung tâm quản trị, hãy chuyển đến trang sản phẩm **thanh toán** \> [& dịch vụ](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. Tìm các thuê bao mà bạn muốn thêm giấy phép, và sau đó chọn **thêm/loại bỏ giấy phép**.
+2. Tìm đăng ký mà bạn muốn thêm giấy phép, sau đó chọn **thêm/loại bỏ giấy phép**.
 
-3. Trong **tất cả các giấy phép** hộp, nhập tổng số giấy phép mà bạn cần cho các thuê bao này và sau đó chọn **gửi thay đổi**. Ví dụ, nếu bạn có 100 cấp phép và bạn cần phải thêm 5 thêm, nhập 105.
+3. Trong **tổng giấy phép** hộp, nhập tổng số giấy phép mà bạn cần cho đăng ký này và sau đó chọn **gửi thay đổi**. Ví dụ: nếu bạn có giấy phép 100 và bạn cần thêm 5 thêm, hãy nhập 105.
 
-Để tìm hiểu thêm, hãy xem [mua giấy phép cho của bạn-Office 365 Beta dành cho doanh nghiệp đăng ký](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).
+Để tìm hiểu thêm, hãy xem [mua giấy phép cho Microsoft 365 Apps dành cho đăng ký kinh doanh](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).

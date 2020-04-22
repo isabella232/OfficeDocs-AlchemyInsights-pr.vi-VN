@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002357"
 - "4583"
-ms.openlocfilehash: 8ce41d007988f2a45f1ded385ae50ac3def97c1b
-ms.sourcegitcommit: 9923ce61344e22c4490549b12f65fa2896490b1f
+ms.openlocfilehash: 569507318b499cdbcf2a1cd75e84046953f62212
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43100642"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706079"
 ---
 # <a name="conditional-access-policies"></a>Chính sách truy cập có điều kiện
 
@@ -24,7 +24,7 @@ Truy cập có điều kiện là một khả năng của Azure AD cho phép b�
 
 Tìm hiểu thêm về [truy cập có điều kiện AZURE AD](https://docs.microsoft.com/azure/active-directory/conditional-access/).  
 
-**Lưu ý**: nếu đối tượng thuê của bạn được tạo sau ngày 21 tháng 10, 2019 và bạn đang bất ngờ nhận được nhắc về MFA, bạn có thể có [mặc định bảo mật](http://aka.ms/securitydefaults) được kích hoạt trong đối tượng thuê của bạn.
+**Lưu ý**: nếu đối tượng thuê của bạn được tạo sau ngày 21 tháng 10, 2019 và bạn đang bất ngờ nhận được nhắc về MFA, bạn có thể có [mặc định bảo mật](https://aka.ms/securitydefaults) được kích hoạt trong đối tượng thuê của bạn.
 
 **Để quản lý mặc định bảo mật**
 

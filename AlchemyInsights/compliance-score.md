@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001483"
 - "3519"
-ms.openlocfilehash: 304b50b9be50d42a4d54a1898773b458fca7eb4d
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: e77bb9a93325b49cf0f45cc74109432badc481c5
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42600398"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706115"
 ---
 # <a name="compliance-score"></a>Điểm tuân thủ
 
@@ -33,7 +33,7 @@ Quản trị viên toàn cầu sẽ cần thiết lập các [quyền thích h�
 
 Để biết **thêm thông tin về**:
 
-- Thiết lập quyền truy cập cho điểm tuân thủ, xem [cấp cho người dùng quyền truy cập vào Trung tâm tuân thủ & bảo mật Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/grant-access-to-the-security-and-compliance-center).
+- Thiết lập quyền truy cập cho điểm tuân thủ, [hãy xem cấp cho người dùng quyền truy cập vào các trung tâm tuân thủ & bảo mật của Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/grant-access-to-the-security-and-compliance-center).
 - Làm việc với các hành động cải thiện trong điểm tuân thủ, xem [làm việc với điểm phù](https://docs.microsoft.com/microsoft-365/compliance/working-with-compliance-score)hợp.
 - Cách tính điểm tuân thủ, xem [phương pháp điểm tuân thủ](https://docs.microsoft.com/microsoft-365/compliance/compliance-score-methodology).
 - Điểm tuân thủ so với trình quản lý tuân thủ, xem [mối quan hệ với người quản lý tuân thủ](https://docs.microsoft.com/microsoft-365/compliance/compliance-score#relationship-to-compliance-manager).

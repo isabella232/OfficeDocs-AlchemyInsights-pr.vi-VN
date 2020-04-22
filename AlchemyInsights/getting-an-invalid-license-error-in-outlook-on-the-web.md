@@ -1,9 +1,9 @@
 ---
-title: 125 nhận được một lỗi không hợp lệ giấy phép trong Outlook trên web?
+title: 125 nhận một lỗi giấy phép không hợp lệ trong Outlook trên web?
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 4/9/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "125"
 - "1600021"
 ms.assetid: 6d9947d9-6c92-4ada-b655-8ab2a0c2b66d
-ms.openlocfilehash: d0f3fa354eb63c5a5f92d017694623c36fc6df30
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9324726709423aeb290fcc1866ade5517f71c1ef
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523821"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708853"
 ---
-# <a name="getting-an-invalid-license-error-in-outlook-on-the-web"></a>Nhận được một lỗi không hợp lệ giấy phép trong Outlook trên web?
+# <a name="getting-an-invalid-license-error-in-outlook-on-the-web"></a>Nhận được một lỗi giấy phép không hợp lệ trong Outlook trên web?
 
-Nếu bạn đang sử dụng Outlook trên web và bạn nhận được một **cái gì đó đã đi sai** lỗi chứa **X-OWA-lỗi: Microsoft.Exchange.Data.Storage.InvalidLicenseException**, giấy phép Exchange Online của bạn không được gán một cách chính xác hoặc có mới hết hạn. Quản trị của bạn có thể gán một giấy phép cho bạn bằng cách làm theo các bước sau:
+Nếu bạn đang sử dụng Outlook trên web và bạn nhận được một **cái gì đó không đúng** lỗi chứa **X-OWA lỗi: Microsoft. Exchange. Data. Storage. InvalidLicenseException**, giấy phép Exchange Online của bạn không được chỉ định đúng hoặc gần đây đã hết hạn. Quản trị viên của bạn có thể gán giấy phép cho bạn bằng cách làm theo các bước sau:
   
-1. Mở [Trung tâm quản trị Microsoft 365](https://portal.office.com/adminportal/home#/homepage) và trong **người dùng hoạt động**, hãy chọn **chỉnh sửa người dùng**.
+1. Mở [Trung tâm quản trị Microsoft 365](https://portal.office.com/adminportal/home#/homepage) và trong **người dùng đang hoạt động**, chọn **chỉnh sửa người dùng**.
 
-2. **Chỉnh sửa người dùng** trên trang mở ra, chọn người dùng. Người sử dụng thuộc tính trên trang mở ra, nhấp vào **chỉnh sửa** cho các **sản phẩm giấy phép**.
+2. Trong trang **chỉnh sửa người dùng** mở ra, chọn người dùng. Trong trang thuộc tính người dùng mở ra, hãy nhấp vào **chỉnh sửa** đối với **giấy phép sản phẩm**.
 
-3. **Giấy phép sản phẩm** trên trang mở ra, chọn giá trị **vị trí** thích hợp và gán một giấy phép có chứa Exchange Online (mở rộng cho phép xem thông tin chi tiết của nó). Khi bạn hoàn tất, bấm **Lưu**.
+3. Trong trang **giấy phép sản phẩm** mở ra, chọn giá trị **vị trí** phù hợp và gán giấy phép có chứa Exchange Online (mở rộng giấy phép để xem chi tiết). Khi bạn hoàn tất, bấm **Lưu**.
