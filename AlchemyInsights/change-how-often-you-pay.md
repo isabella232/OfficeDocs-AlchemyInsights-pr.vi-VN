@@ -3,7 +3,7 @@ title: Thay đổi tần suất bạn thanh toán
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,19 +14,13 @@ ms.custom:
 - "469"
 - "4552"
 - "1500025"
-ms.openlocfilehash: ce85f413bab2725d82f7597ec46c5796374bc5d1
-ms.sourcegitcommit: 797f78c27f50485edcf9854552d9dcab175227bf
+ms.openlocfilehash: bbea5f043c7a6575029fc5bd40fc1788177284f4
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/10/2020
-ms.locfileid: "43217886"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706849"
 ---
-# <a name="change-how-often-you-pay"></a><span data-ttu-id="608ab-102">Thay đổi tần suất bạn thanh toán</span><span class="sxs-lookup"><span data-stu-id="608ab-102">Change how often you pay</span></span>
+# <a name="change-how-often-you-pay"></a><span data-ttu-id="85f76-102">Thay đổi tần suất bạn thanh toán</span><span class="sxs-lookup"><span data-stu-id="85f76-102">Change how often you pay</span></span>
 
-<span data-ttu-id="608ab-103">Khi bạn mua một thuê bao, bạn chọn thanh toán hàng tháng hoặc hàng năm.</span><span class="sxs-lookup"><span data-stu-id="608ab-103">When you buy a subscription, you choose monthly or annual billing.</span></span> <span data-ttu-id="608ab-104">Để thay đổi tần suất bạn bị tính phí cho một đăng ký, hãy sử dụng các bước sau.</span><span class="sxs-lookup"><span data-stu-id="608ab-104">To change how often you are billed for a subscription, use the following steps.</span></span>
-
-1. <span data-ttu-id="608ab-105">Trong Trung tâm quản trị, hãy truy cập vào trang \*\*thanh toán> [sản phẩm & dịch vụ](https://go.microsoft.com/fwlink/p/?linkid=842054) \*\* .</span><span class="sxs-lookup"><span data-stu-id="608ab-105">In the admin center, go to the **Billing> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
-
-2. <span data-ttu-id="608ab-106">Tìm gói đăng ký bạn muốn thay đổi.</span><span class="sxs-lookup"><span data-stu-id="608ab-106">Find the subscription you want to change.</span></span> <span data-ttu-id="608ab-107">Trong phần **lập hóa đơn** , bên cạnh tính **phí hàng tháng** hoặc bị tính phí **mỗi**năm, hãy nhấp vào **chỉnh sửa**.</span><span class="sxs-lookup"><span data-stu-id="608ab-107">In the **Billing** section, next to either **Billed monthly** or **Billed annually**, click **Edit**.</span></span>
-
-3. <span data-ttu-id="608ab-108">Chọn tùy chọn cho tần suất bạn muốn được lập hóa đơn, sau đó nhấp vào **thay đổi**.</span><span class="sxs-lookup"><span data-stu-id="608ab-108">Choose the option for how often you want to be billed, then click **Change**.</span></span>
+ <span data-ttu-id="85f76-103">**Bạn muốn thay đổi tần suất thanh toán của mình?**</span><span class="sxs-lookup"><span data-stu-id="85f76-103">**Want to change your payment frequency?**</span></span> <span data-ttu-id="85f76-104">Nếu bạn muốn thay đổi tần suất bạn thanh toán cho Microsoft 365 cho đăng ký kinh doanh, từ hàng năm đến hàng tháng hoặc hàng tháng đến hàng năm, chúng tôi có thể giúp bạn với điều đó.</span><span class="sxs-lookup"><span data-stu-id="85f76-104">If you want to change how frequently you pay for your Microsoft 365 for business subscription, either from annual to monthly or monthly to annual, we can help you with that.</span></span> <span data-ttu-id="85f76-105">Bạn sẽ cần phải mua cùng một gói đăng ký với tần suất thanh toán mới và hủy đăng ký cũ.</span><span class="sxs-lookup"><span data-stu-id="85f76-105">You'll need to purchase the same subscription with the new payment frequency and cancel the old subscription.</span></span> <span data-ttu-id="85f76-106">Vui lòng sử dụng tùy chọn "chúng tôi gọi cho bạn" để nói chuyện với một kỹ sư hỗ trợ.</span><span class="sxs-lookup"><span data-stu-id="85f76-106">Please use the "Let us call you" option to talk to a support engineer.</span></span>
