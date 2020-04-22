@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001724"
 - "3823"
-ms.openlocfilehash: d1625793baf17749415abc304d16e885ffffeeea
-ms.sourcegitcommit: 5aa4a4f40cf064f0cdb944ef35054719e87eeda3
+ms.openlocfilehash: 08a6cb319b3aea720178a8ef988482140fc44856
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42699817"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703340"
 ---
 # <a name="enabling-teams-and-office-365-a1"></a>Cho phép teams và Office 365 a1
 
@@ -25,6 +25,3 @@ Nếu bạn có người thuê EDU, bạn cần bật Microsoft teams theo cách
 **Quan trọng**: bạn có thể phải đợi tối đa 24 giờ để các thay đổi có hiệu lực. 
 
 Tìm hiểu thêm về [giảng dạy và học tập từ xa trong văn phòng 365 giáo dục](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4), hướng dẫn CNTT trong bắt [đầu với Microsoft teams để học từ xa](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu)và [thực hiện quá trình chuyển đổi sang học từ xa](https://www.microsoft.com/education/remote-learning).
-
- 
-

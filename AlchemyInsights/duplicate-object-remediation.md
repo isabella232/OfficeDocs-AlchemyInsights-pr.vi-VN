@@ -1,9 +1,9 @@
 ---
-title: 1314 lặp lại đối tượng khắc phục
+title: 1314 khắc phục đối tượng trùng lặp
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 12/8/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,19 +12,19 @@ ms.custom:
 - "1314"
 - "1300024"
 ms.assetid: b8543b7e-fd00-4b3c-be68-a1758b8caf78
-ms.openlocfilehash: a37114097dbe7e3a3c8c13e9ddc53dc5c6b24a78
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 138ba305b872e8c0508ba673fb59324672d14997
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36529470"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703989"
 ---
-# <a name="duplicate-object-synchronization-errors"></a>Lỗi đồng bộ hoá đối tượng trùng lặp
+# <a name="duplicate-object-synchronization-errors"></a>Trùng lặp đối tượng đồng bộ hóa lỗi
 
-Nếu bạn nhận được một trong các lỗi sau đây trong quá trình đồng bộ hoá:
+Nếu bạn nhận được một trong các lỗi sau trong quá trình đồng bộ hoá:
 
-- Một đối tượng được đồng bộ hoá với cùng một địa chỉ proxy đã tồn tại trong thư mục Microsoft dịch vụ trực tuyến của bạn.
+- Đối tượng được đồng bộ hoá với cùng một địa chỉ proxy đã tồn tại trong thư mục Dịch vụ Microsoft Online của bạn.
 
-- Một tin nhắn tương tự cho UserPrincipalName.
+- Thông báo tương tự cho UserPrincipalName.
 
-Sử dụng y tế AADConnect mới chẩn đoán để giải quyết các đối tượng lặp lại lỗi. Để biết thêm thông tin, hãy xem [Diagnose và remediate trùng lặp tính đồng bộ lỗi](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-diagnose-sync-errors).
+Sử dụng chẩn đoán AADConnect y tế mới để giải quyết các lỗi đối tượng trùng lặp. Để biết thêm thông tin, xem [chẩn đoán và khắc phục lỗi đồng bộ hoá thuộc tính trùng lặp](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-diagnose-sync-errors).

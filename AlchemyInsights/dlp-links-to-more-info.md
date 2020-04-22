@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "2447"
 - "3200001"
-ms.openlocfilehash: a171c30d9e58aeafc270e60a5a4fa4cd7db4135f
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: 804ed86b45d73d17931c18ee23c7fb120c68723e
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "42977496"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43704547"
 ---
 # <a name="information-about-dlp-issues"></a>Thông tin về vấn đề DLP
 
@@ -24,7 +24,7 @@ ms.locfileid: "42977496"
 
 **Thông tin về chính sách DLP**
 
-Với chính sách DLP, bạn có thể xác định, theo dõi và tự động bảo vệ thông tin nhạy cảm trên Office 365.
+Với chính sách DLP, bạn có thể xác định, theo dõi và tự động bảo vệ thông tin nhạy cảm trên Microsoft 365.
 
 Vui lòng truy cập các liên kết này để biết thêm thông tin:
 

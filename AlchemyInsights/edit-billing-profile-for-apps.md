@@ -3,7 +3,7 @@ title: Chỉnh sửa hồ sơ thanh toán cho ứng dụng
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 07/09/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000564"
 - "2423"
-ms.openlocfilehash: 6edfe19d9b4f75f93e80fac3f36d6b94b40f661a
-ms.sourcegitcommit: f507896c3909cfd02395d3214ab49f7a08f021e3
+ms.openlocfilehash: f20bba47e9618a2fca656917cfaf45600a1f496c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "35607021"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703917"
 ---
 # <a name="edit-billing-profile-for-apps"></a>Chỉnh sửa hồ sơ thanh toán cho ứng dụng
 
-## <a name="to-change-the-billing-profile-on-apps"></a>Để thay đổi các hồ sơ thanh toán trên ứng dụng
+## <a name="to-change-the-billing-profile-on-apps"></a>Để thay đổi hồ sơ thanh toán trên các ứng dụng
 
-1. Chuyển đến **thanh toán** > [sản phẩm & dịch vụ](https://go.microsoft.com/fwlink/p/?linkid=842054) trang, sau đó chọn **Apps** tab.
+1. Chuyển đến trang sản phẩm **thanh toán** > [& dịch vụ](https://go.microsoft.com/fwlink/p/?linkid=842054) , sau đó chọn tab **ứng dụng** .
 
 2. Tìm và chọn ứng dụng bạn muốn quản lý.  
 
-3. Bên cạnh **hồ sơ thanh toán**, chọn **chỉnh sửa** và chọn hồ sơ thanh toán bạn muốn liên kết với các ứng dụng.
+3. Bên cạnh **hồ sơ thanh toán**, hãy chọn **chỉnh sửa** và chọn hồ sơ thanh toán mà bạn muốn liên kết với ứng dụng.
 
 ## <a name="edit-billing-profiles"></a>Chỉnh sửa hồ sơ thanh toán
 
-1. Chuyển đến **thanh toán** > [thanh toán hóa đơn &](https://go.microsoft.com/fwlink/p/?linkid=848039) trang, sau đó chọn **thanh toán cấu hình**.
+1. Chuyển đến > thanh **toán**[hóa đơn & trang thanh toán](https://go.microsoft.com/fwlink/p/?linkid=848039) , sau đó chọn **hồ sơ thanh toán**.
 
-2. Lựa chọn hồ sơ thanh toán từ danh sách để chỉnh sửa.
+2. Chọn hồ sơ thanh toán từ danh sách để chỉnh sửa.

@@ -1,8 +1,8 @@
 ---
-title: Sử Multifactor xác thực
+title: Kích hoạt xác thực đa yếu tố
 ms.author: pebaum
 author: pebaum
-ms.date: 12/5/2017
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -16,27 +16,27 @@ search.appverid:
 - MOP150
 - MBS150
 ms.assetid: 785fc94f-fa62-461b-ba00-cf875e45d48f
-ms.openlocfilehash: 7c49f63632f89696165136d823123c599acecc21
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 098f129b068eb6cb3847bb18d15b417a3fde4602
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527493"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703484"
 ---
-# <a name="enable-multi-factor-authentication"></a>Sử nhiều yếu tố xác thực
+# <a name="enable-multi-factor-authentication"></a>Bật xác thực nhiều yếu tố
 
-Để cho phép nhiều yếu tố xác thực trong Trung tâm quản trị Microsoft 365:
+Để bật xác thực nhiều yếu tố trong Trung tâm quản trị Microsoft 365:
 
-1. Hãy để **người dùng** \> **người dùng hoạt động** trang.
+1. Truy cập trang **người dùng** **đang hoạt động.** \>
     
-2. Ở đầu trang, chọn **nhiều yếu tố xác thực**. 
+2. Ở đầu trang, hãy chọn **xác thực đa yếu tố**. 
     
-3. Tìm người dùng hoặc người sử dụng bạn muốn cho phép đối với nhiều yếu tố xác thực. Để xem tất cả các người dùng, bạn có thể cần phải thay đổi bộ lọc **đa nhân tố Auth trạng thái** ở phía trên.
+3. Tìm người dùng hoặc người dùng bạn muốn bật cho xác thực nhiều yếu tố. Để xem tất cả người dùng, bạn có thể cần phải thay đổi bộ lọc **trạng thái nhiều yếu tố Auth** ở trên cùng.
     
-4. Chọn hộp kiểm cạnh người dùng bạn muốn bật.
+4. Chọn hộp kiểm bên cạnh người dùng bạn muốn bật.
     
-5.  Trong cửa sổ thông tin người sử dụng đúng, theo **bước nhanh**, chọn **Enable**. 
+5.  Trong ngăn thông tin người dùng phù hợp, trong **các bước nhanh**, hãy chọn **bật**. 
     
-6. Trong hộp thoại mở ra, chọn **enable auth nhiều yếu tố**. 
+6. Trong hộp thoại mở ra, chọn bật xác thực **nhiều yếu tố**. 
     
 

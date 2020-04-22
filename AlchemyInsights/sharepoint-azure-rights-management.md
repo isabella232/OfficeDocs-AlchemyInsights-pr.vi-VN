@@ -7,17 +7,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
-ms.openlocfilehash: 4a04134c1e2e6569302756f3b6be213283638a0d
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 8b5f22269cab0ed0984bcb33703b49e943ef2446
+ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40046765"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43642274"
 ---
 # <a name="irm-protection-to-sharepoint-files"></a>Bảo vệ IRM cho các tệp SharePoint
 
 
-Trong SharePoint Online, bảo vệ IRM được áp dụng cho các tệp ở cấp danh sách và thư viện. Trước khi tổ chức của bạn có thể sử dụng bảo vệ IRM, trước tiên bạn phải thiết lập quản lý quyền. IRM dựa trên dịch vụ quản lý quyền Azure từ bảo vệ thông tin Azure để mã hóa và chỉ định hạn chế sử dụng. Một số gói Office 365 bao gồm quản lý quyền Azure, nhưng không phải tất cả. 
+Trong SharePoint Online, bảo vệ IRM được áp dụng cho các tệp ở cấp danh sách và thư viện. Trước khi tổ chức của bạn có thể sử dụng bảo vệ IRM, trước tiên bạn phải thiết lập quản lý quyền. IRM dựa trên dịch vụ quản lý quyền Azure từ bảo vệ thông tin Azure để mã hóa và chỉ định hạn chế sử dụng. Một số đăng ký Microsoft 365 bao gồm quản lý quyền Azure, nhưng không phải tất cả. 
 
 Để tìm hiểu thêm, hãy xem:
 

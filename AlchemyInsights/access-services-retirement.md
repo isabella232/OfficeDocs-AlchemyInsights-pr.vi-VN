@@ -10,16 +10,16 @@ ms.custom:
 - "9000356"
 - "2009"
 ms.assetid: ''
-ms.openlocfilehash: cb8123583b68e945ef878fdbaf211fd1d8205bb3
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 977bd5887ef58b328463a9befcd6b47ac55f5a85
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050511"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43687280"
 ---
 # <a name="access-services-retirement"></a>Truy cập Dịch vụ nghỉ hưu
 
-Như chúng tôi ban đầu được công bố trong MC97576, vào tháng ba 2017, và tiếp tục giao tiếp trong năm qua truy cập Dịch vụ đang được nghỉ hưu từ văn phòng 365. Giai đoạn tiếp theo trong quá trình này sẽ là loại bỏ truy cập web cơ sở dữ liệu sử dụng danh sách SharePoint như lưu trữ dữ liệu cơ bản của họ.
+Như chúng tôi ban đầu được công bố trong MC97576, vào tháng ba 2017, và tiếp tục giao tiếp trong năm qua truy cập Dịch vụ đang được nghỉ hưu. Giai đoạn tiếp theo trong quá trình này sẽ là loại bỏ truy cập web cơ sở dữ liệu sử dụng danh sách SharePoint như lưu trữ dữ liệu cơ bản của họ.
 
 **Điều này ảnh hưởng đến tôi như thế nào?**
 

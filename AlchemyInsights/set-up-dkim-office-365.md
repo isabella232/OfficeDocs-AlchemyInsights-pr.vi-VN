@@ -1,5 +1,5 @@
 ---
-title: Thiết lập DKIM trong Office 365
+title: Thiết lập DKIM
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -9,20 +9,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1388
 ms.assetid: ''
-ms.openlocfilehash: dd908db6a4bc1739b3c1cff059387034d67e093d
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: d23a816d4eef065f800eaee60829d57dc1e7177f
+ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666286"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43645694"
 ---
-# <a name="setup-dkim-in-office-365"></a>Thiết lập DKIM trong Office 365
+# <a name="setup-dkim"></a>Thiết lập DKIM
 
-Hướng dẫn đầy đủ cho các cấu hình DKIM cho các lĩnh vực tùy chỉnh trong Office 365 là [ở đây](https://docs.microsoft.com/office365/SecurityCompliance/use-dkim-to-validate-outbound-email#what-you-need-to-do-to-manually-set-up-dkim-in-office-365).
+Hướng dẫn đầy đủ để cấu hình DKIM cho tuỳ chỉnh miền trong Microsoft 365 đang [ở đây](https://docs.microsoft.com/office365/SecurityCompliance/use-dkim-to-validate-outbound-email#what-you-need-to-do-to-manually-set-up-dkim-in-office-365).
 
-1. Cho **mỗi** tên miền tuỳ chỉnh, bạn cần để tạo ra **hai** DKIM bản ghi CNAME tại tên miền của bạn dịch vụ lưu trữ DNS (thông thường, nhà cung cấp miền). Ví dụ: contoso.com và fourthcoffee.com yêu cầu bốn ghi DKIM CNAME: hai cho contoso.com và hai cho fourthcoffee.com.
+1. Đối với **mỗi** miền tùy chỉnh, bạn cần tạo **hai** bản ghi DKIM CNAME tại dịch vụ lưu trữ DNS của miền (thông thường là công ty đăng ký tên miền). Ví dụ, contoso.com và fourthcoffee.com yêu cầu bốn bản ghi DKIM CNAME: hai cho contoso.com và hai cho fourthcoffee.com.
 
-   Bản ghi DKIM CNAME cho **mỗi** tên miền tuỳ chỉnh sử dụng định dạng sau:
+   Bản ghi DKIM CNAME cho **mỗi** miền tùy chỉnh sử dụng các định dạng sau:
 
    - **Tên máy chủ**:`selector1._domainkey.<CustomDomain>`
 
@@ -36,16 +36,16 @@ Hướng dẫn đầy đủ cho các cấu hình DKIM cho các lĩnh vực tùy 
 
      **TTL**: 3600
 
-   \<DomainGUID\> văn bản bên trái của `.mail.protection.outlook.com` trong bản ghi MX tùy chỉnh tùy chỉnh tên miền (ví dụ, `contoso-com` cho miền contoso.com). \<InitialDomain\> là tên miền bạn đã sử dụng khi đăng ký Office 365 (ví dụ, contoso.onmicrosoft.com).
+   \<DomainGUID\> là văn bản bên trái `.mail.protection.outlook.com` trong bản ghi MX tùy chỉnh cho miền tùy chỉnh (ví dụ: `contoso-com` đối với miền contoso.com). \<InitialDomain\> là tên miền bạn sử dụng khi bạn đăng ký Microsoft 365 (ví dụ: contoso.onmicrosoft.com).
 
-2. Sau khi bạn đã tạo bản ghi CNAME cho miền của bạn tùy chỉnh, đầy đủ các hướng dẫn sau:
+2. Sau khi bạn đã tạo bản ghi CNAME cho miền tùy chỉnh của mình, hãy hoàn tất các hướng dẫn sau:
 
-   một. [Đăng nhập Office 365](https://support.office.microsoft.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4) với tài khoản của bạn làm việc hoặc trường học.
+   A. [đăng nhập vào Microsoft 365](https://support.office.microsoft.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4) bằng tài khoản nơi làm việc hoặc trường học của bạn.
 
-   b. Chọn biểu tượng phóng ứng dụng ở trên bên trái và chọn **Admin**.
+   B. Chọn biểu tượng trình khởi chạy ứng dụng ở góc trên bên trái và chọn **quản trị viên**.
 
-   c. Điều hướng dưới bên trái, mở rộng các **Admin** và chọn **Exchange**.
+   C. Ở phía dưới bên trái điều hướng, mở rộng **quản trị** và chọn **Exchange**.
 
-   d. Đi để **bảo vệ** > **DKIM**.
+   D. Đi đến **bảo vệ** > **DKIM**.
 
-   e. Chọn tên miền và sau đó chọn **sử** **ký**thư cho miền này với DKIM chữ ký. Lặp lại bước này cho mỗi tên miền tuỳ chỉnh.
+   E. Chọn miền và sau đó chọn **bật** để **ký thư cho miền này bằng chữ ký DKIM**. Lặp lại bước này cho mỗi miền tùy chỉnh.

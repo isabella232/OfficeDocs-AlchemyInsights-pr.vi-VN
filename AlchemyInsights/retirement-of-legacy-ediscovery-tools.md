@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001487"
 - "3523"
-ms.openlocfilehash: af9a0bd8ff4294575ac68f37d4997bb50b132ce7
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: 262cca0feee17d1f929a5a94a4dd6c1ec317f6ec
+ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42600406"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43650590"
 ---
 # <a name="retirement-of-legacy-ediscovery-tools"></a>Nghỉ hưu của Legacy eDiscovery công cụ
 
@@ -37,7 +37,7 @@ Là kết quả mới và cải tiến eDiscovery chức năng trong Microsoft 3
     - [Setholdonhộp thư](https://docs.microsoft.com/exchange/client-developer/web-service-reference/setholdonmailboxes-operation)
     - [Getholdonhộp thư](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getholdonmailboxes-operation)
 
-- [Văn phòng 365 nâng cao eDiscovery v 1.0](https://docs.microsoft.com/microsoft-365/compliance/office-365-advanced-ediscovery)
+- [Nâng cao eDiscovery v 1.0](https://docs.microsoft.com/microsoft-365/compliance/office-365-advanced-ediscovery)
 
 **Thời gian cho quỹ hưu**trí:
 - Ngày 1 tháng 4 năm 2020: bạn sẽ không thể tạo các tìm kiếm mới và giữ, nhưng bạn vẫn có thể chạy, chỉnh sửa và xóa các tìm kiếm hiện có có nguy cơ của riêng bạn. Microsoft support sẽ không còn hỗ trợ tại chỗ eDiscovery & giữ trong EAC.

@@ -12,16 +12,16 @@ ms.custom:
 - "1385"
 - "3200002"
 ms.assetid: ''
-ms.openlocfilehash: edff5a265cf31ce9a242f73ae7121ccb8b591d5f
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 1209e59668bbe69fe88408933ae11b357b8d4f1a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36661318"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43687640"
 ---
-# <a name="office-365-alert-policies"></a>Văn phòng 365 chính sách cảnh báo
+# <a name="alert-policies"></a>Chính sách cảnh báo
 
-Trung tâm tuân thủ & bảo mật của Office 365 cung cấp các [chính sách cảnh báo mặc định](https://docs.microsoft.com/office365/securitycompliance/alert-policies#default-alert-policies) kích hoạt cảnh báo cho các tổ chức có Office 365 Enterprise hoặc Office 365 chính phủ Mỹ E1/G1, E3/G3, hoặc đăng ký E5/G5. Do đó, quản trị viên có thể nhận được thông báo email cảnh báo được gửi bởi Office365Alerts@microsoft.com với dòng chủ đề như "cảnh báo mức độ nghiêm trọng thấp: *tên của chính sách cảnh báo*". Thông báo cảnh báo được gửi khi cảnh báo được kích hoạt cho các hoạt động phổ biến, chẳng hạn như khi người dùng:
+Microsoft 365 bảo mật & Trung tâm tuân thủ cung cấp các [chính sách cảnh báo mặc định](https://docs.microsoft.com/office365/securitycompliance/alert-policies#default-alert-policies) kích hoạt cảnh báo cho các tổ chức có Office 365 Enterprise hoặc Office 365 chính phủ Mỹ E1/G1, E3/G3, hoặc đăng ký E5/G5. Do đó, quản trị viên có thể nhận được thông báo email cảnh báo được gửi bởi Office365Alerts@microsoft.com với dòng chủ đề như "cảnh báo mức độ nghiêm trọng thấp: *tên của chính sách cảnh báo*". Thông báo cảnh báo được gửi khi cảnh báo được kích hoạt cho các hoạt động phổ biến, chẳng hạn như khi người dùng:
 
 - Tạo quy tắc hộp thư đến chuyển tiếp email.
 - Gán quyền hộp thư của họ.

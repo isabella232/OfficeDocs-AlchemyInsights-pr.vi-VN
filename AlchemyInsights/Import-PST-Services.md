@@ -1,9 +1,9 @@
 ---
-title: 1245-nhập khẩu-PST-dịch vụ
+title: 1245-nhập PST-dịch vụ
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,27 +13,27 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: bab1a842d3c9c8ec32c066e7615e175c2e1d7a7e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bac2f919f65d318fd669f97690a4543717ffc884
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36496385"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43687784"
 ---
-# <a name="office-365-import-service"></a>Office 365 nhập khẩu dịch vụ
+# <a name="microsoft-365-import-service"></a>Microsoft 365 dịch vụ nhập khẩu
 
-Dịch vụ Office 365 nhập khẩu cho phép bạn nhập khẩu số lượng lớn nhiều tập tin PST hộp thư Exchange Online.
+Dịch vụ Microsoft 365 nhập cho phép bạn nhập hàng loạt PST nhiều tệp vào hộp thư Exchange Online.
 
-Để truy cập các dịch vụ nhập khẩu và bắt đầu quá trình nhập khẩu:
+Để truy cập vào dịch vụ nhập và bắt đầu quá trình nhập:
 
-1. Đi đến [an ninh & tuân thủ trung tâm](https://protection.office.com) và đăng nhập bằng cách sử dụng các thông tin đăng nhập cho tài khoản người quản trị trong tổ chức Office 365.
+1. Truy cập vào [Trung tâm bảo mật & tuân thủ](https://protection.office.com) và đăng nhập bằng thông tin đăng nhập cho tài khoản quản trị viên trong tổ chức của bạn.
 
-2. Trong ngăn bên trái của **an ninh & Trung tâm phù hợp**, bấm vào **dữ liệu quản lý > nhập khẩu**.
+2. Trong ngăn bên trái của **Trung tâm bảo mật & tuân thủ**, bấm **quản trị dữ liệu > nhập**.
 
-3. Trên trang **nhập** , bấm vào **mới nhập công việc**.
+3. Trên trang **nhập** , bấm vào **công việc nhập mới**.
 
-4. Để hoàn tất các bước trong thuật sĩ, hãy làm theo [bước hướng dẫn](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files).
+4. Để hoàn tất các bước trong thuật sĩ, hãy làm theo các [hướng dẫn](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files)từng bước này.
 
-**Chú ý**: để truy cập trang **nhập khẩu** trong an ninh & tuân thủ trung tâm, bạn có thể gán [quyền thích hợp](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files#before-you-begin).
+**Quan trọng**: để truy cập vào trang **nhập khẩu** trong trung tâm bảo mật & tuân thủ, bạn đã được gán [các quyền thích hợp](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files#before-you-begin).
 
-Nếu bạn muốn nhập khẩu một PST hộp thư của bạn, hãy xem [bài viết này](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac).
+Nếu bạn chỉ muốn nhập một PST vào hộp thư của bạn, hãy xem [bài viết này](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac).

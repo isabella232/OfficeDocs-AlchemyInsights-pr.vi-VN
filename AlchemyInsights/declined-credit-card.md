@@ -3,7 +3,7 @@ title: Thẻ tín dụng bị từ chối
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/28/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "443"
 - "1500018"
 ms.assetid: 4e6d34b3-e3e5-4fcd-a52e-34b54746feeb
-ms.openlocfilehash: d02f2cfdc867e54896945a8c9efd119a9b87a5d3
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 6664bb1b3c34c7bc78c516d7437711e2ac05673d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665240"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705107"
 ---
 # <a name="declined-credit-card"></a>Thẻ tín dụng bị từ chối
 
-Nếu bạn trả bằng thẻ tín dụng và thẻ tín dụng của bạn bị từ chối, bạn sẽ nhận được một email cho bạn biết rằng chúng tôi đã không thể xử lý các khoản thanh toán. Kiểm tra [chi tiết thẻ tín dụng](https://go.microsoft.com/fwlink/p/?linkid=842054) - số thẻ, ngày hết hạn, tên trên thẻ tín dụng và địa chỉ, bao gồm cả thành phố, tiểu bang và mã ZIP - xuất hiện chính xác như họ làm trên thẻ tín dụng và tuyên bố thẻ tín dụng của bạn. Bạn có thể cập nhật thông tin thẻ tín dụng của bạn và ngay lập tức gửi các khoản thanh toán bằng cách sử dụng lựa chọn **giải quyết số dư** trên trang [sản phẩm & dịch vụ](https://go.microsoft.com/fwlink/p/?linkid=842054) . 
+Nếu bạn thanh toán bằng thẻ tín dụng và thẻ tín dụng của bạn bị từ chối, bạn sẽ nhận được email cho bạn biết rằng chúng tôi không thể xử lý thanh toán. Kiểm tra lại rằng [chi tiết thẻ tín dụng](https://go.microsoft.com/fwlink/p/?linkid=842054) -số thẻ, ngày hết hạn, tên trên thẻ tín dụng và địa chỉ, bao gồm thành phố, tiểu bang và mã zip-xuất hiện chính xác như trên thẻ tín dụng và bảng sao kê thẻ tín dụng của bạn. Bạn có thể cập nhật thông tin thẻ tín dụng của mình và ngay lập tức gửi thanh toán bằng cách sử dụng tùy chọn giải **quyết số dư** trên trang [sản phẩm & dịch vụ](https://go.microsoft.com/fwlink/p/?linkid=842054) . 
 
-Để tìm hiểu thêm, hãy xem "nếu thẻ tín dụng của tôi đã hết hạn và thanh toán của tôi là trong quá khứ do?" trong [thanh toán cho bạn-Office 365 Beta dành cho doanh nghiệp đăng ký](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription#what-if-my-credit-card-was-declined-and-my-payment-is-past-due).
+Để tìm hiểu thêm, xem "điều gì nếu thẻ tín dụng của tôi đã hết hạn và khoản thanh toán của tôi quá hạn?" trong [thanh toán cho Microsoft 365 của bạn cho đăng ký kinh doanh](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription#what-if-my-credit-card-was-declined-and-my-payment-is-past-due).
   
-Nếu bạn tiếp tục thấy thông báo "bị từ chối", liên hệ với ngân hàng của bạn. Có thể rằng thẻ tín dụng của bạn không hoạt động-ví dụ: nếu bạn mới nhận được thẻ tín dụng trong thư với một Cập Nhật ngày hết hạn, bạn có thể vẫn cần phải kích hoạt nó. Ngân hàng của bạn cũng có thể cho bạn nếu thẻ tín dụng của bạn không được chấp thuận cho các giao dịch trực tuyến, quốc tế, hoặc định kỳ.
+Nếu bạn tiếp tục thấy thông báo "bị từ chối", hãy liên hệ với ngân hàng của bạn. Thẻ tín dụng của bạn có thể không hoạt động — ví dụ: nếu gần đây bạn đã nhận được thẻ tín dụng trong thư có ngày hết hạn Cập Nhật, bạn vẫn có thể cần kích hoạt. Ngân hàng của bạn cũng có thể cho bạn biết nếu thẻ tín dụng của bạn không được chấp thuận cho các giao dịch trực tuyến, quốc tế hoặc định kỳ.
   
-Để biết thêm thông tin xem [gỡ rối thẻ tín dụng và tài khoản ngân hàng](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
+Để biết thêm thông tin, xem [khắc phục sự cố thẻ tín dụng và tài khoản ngân hàng](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).

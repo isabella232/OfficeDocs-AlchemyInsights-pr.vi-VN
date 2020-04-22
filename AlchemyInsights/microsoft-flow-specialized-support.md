@@ -1,9 +1,9 @@
 ---
-title: Microsoft chảy chuyên hỗ trợ
+title: Microsoft Flow hỗ trợ chuyên biệt
 ms.author: pebaum
 author: pebaum
 manager: mnirke
-ms.date: 3/23/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2464"
 - "9000627"
-ms.openlocfilehash: 59cfe196492f90ff18902b8678b4322a0135533c
-ms.sourcegitcommit: f856d46a325c517fc29d935c27f21b77c4219e66
+ms.openlocfilehash: 6d40629c1259a78803302d6a23a96b50236561b5
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/24/2019
-ms.locfileid: "35199259"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43698584"
 ---
-# <a name="microsoft-flow-specialized-support"></a>Microsoft chảy chuyên hỗ trợ
+# <a name="microsoft-flow-specialized-support"></a>Microsoft Flow hỗ trợ chuyên biệt
 
-Hỗ trợ Microsoft Flow chuyên đi mới [Trung tâm quản trị nền tảng của quyền lực](https://aka.ms/flowadminsupport). Cổng mới cung cấp một đường dẫn trực tiếp hơn để hỗ trợ với sự hỗ trợ là tối ưu cho Microsoft Flow và các sản phẩm nền tảng quyền lực khác.
+Đối với hỗ trợ Microsoft Flow chuyên biệt, vui lòng truy cập [Trung tâm quản trị nền tảng nguồn điện](https://aka.ms/flowadminsupport)mới. Cổng mới cung cấp đường dẫn trực tiếp hơn để hỗ trợ giúp được tối ưu hóa cho Microsoft Flow và các sản phẩm nền tảng điện khác.
 
 Tìm hiểu thêm:
-- [Thông tin về giấy phép Microsoft chảy tự do](https://go.microsoft.com/fwlink/?linkid=2095610)
-- [Dòng chảy trong tổ chức của bạn đáp FAQ](https://go.microsoft.com/fwlink/?linkid=2072608)
-- [Office 365 và Dynamics 365 kế hoạch bao gồm Microsoft Flow](https://go.microsoft.com/fwlink/?linkid=2072406)
-- [Microsoft Flow lập hóa đơn và đo câu hỏi](https://go.microsoft.com/fwlink/?linkid=2072612)
+- [Thông tin về giấy phép Microsoft Flow free](https://go.microsoft.com/fwlink/?linkid=2095610)
+- [Lưu lượng trong câu hỏi thường gặp về tổ chức](https://go.microsoft.com/fwlink/?linkid=2072608)
+- [Microsoft 365 và Dynamics 365 kế hoạch bao gồm Microsoft Flow](https://go.microsoft.com/fwlink/?linkid=2072406)
+- [Câu hỏi về thanh toán và đo sáng của Microsoft Flow](https://go.microsoft.com/fwlink/?linkid=2072612)

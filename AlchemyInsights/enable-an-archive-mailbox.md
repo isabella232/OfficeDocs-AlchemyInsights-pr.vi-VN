@@ -10,12 +10,12 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: da1f12678dd1a508a24f02e73acb6d599eaff628
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: bf2526460ed8b2684ea3ad210f451180a6ca8014
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43132633"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703701"
 ---
 # <a name="enable-an-archive-mailbox"></a>Kích hoạt hộp thư lưu trữ
 
@@ -25,7 +25,7 @@ Dưới đây là cách tạo hộp thư lưu trữ:
   
 1. Đi thôi [https://protection.office.com](https://protection.office.com).
 
-2. Đăng nhập vào Office 365 bằng tài khoản quản trị của bạn.
+2. Đăng nhập vào Microsoft 365 bằng tài khoản quản trị của bạn.
 
 3. Trong ngăn bên trái của Trung tâm &amp; tuân thủ bảo mật, chọn **thông tin quản trị** \> **lưu trữ**.
 
@@ -51,6 +51,6 @@ Bạn cũng có thể bật hàng loạt hộp thư lưu trữ bằng cách ch�
 
 Để biết thêm thông tin, hãy xem:
   
-- [Kích hoạt hộp thư lưu trữ trong Office 365](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)
+- [Bật hộp thư lưu trữ](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)
 
-- [Thiết lập chính sách lưu trữ và xóa trong Office 365](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)
+- [Thiết lập chính sách lưu trữ và xóa](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)

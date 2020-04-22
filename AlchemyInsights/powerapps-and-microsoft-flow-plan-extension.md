@@ -1,9 +1,9 @@
 ---
-title: 1575-PowerApps và Microsoft Flow kế hoạch mở rộng
+title: 1575-PowerApps và phần mở rộng kế hoạch Microsoft Flow
 ms.author: toresing
 author: tomresing
 manager: scotv
-ms.date: 03/04/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "1575"
 - "9000087"
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: fbb0088756590e73d3236a46051e489b35e0ced5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 18a73855a31cb1a701a3f3559156793ee5a80ecf
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36554751"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43667051"
 ---
-# <a name="powerapps-and-microsoft-flow-plan-extension"></a>PowerApps và Microsoft Flow kế hoạch mở rộng
+# <a name="powerapps-and-microsoft-flow-plan-extension"></a>Phần mở rộng kế hoạch PowerApps và Microsoft Flow
 
-Nếu bạn có ý định yêu cầu một kế hoạch mở rộng cho **Microsoft Flow** hay **PowerApps** và người thuê nhà của bạn đã có người dùng hoạt động của một trong những tính năng sau đây, đó là không cần phải nộp một yêu cầu hỗ trợ.
+Nếu bạn dự định yêu cầu phần mở rộng kế hoạch cho **Microsoft Flow** hoặc **PowerApps** và đối tượng thuê của bạn đã có người dùng hoạt động của một trong các tính năng sau, không cần phải gửi yêu cầu hỗ trợ.
 
-- Sáng tạo và xuất bản các tùy chỉnh kết nối trong PowerApps và Microsoft Flow
-- Hành động tùy chỉnh HTTP được tích hợp vào các dòng chảy bên ngoài SharePoint và OneDrive
-- Tích hợp vào cơ sở dữ liệu thông qua cửa ngõ vào cơ sở dữ liệu
+- Tạo và xuất bản kết nối tùy chỉnh trong PowerApps và Microsoft Flow
+- Hành động tùy chỉnh HTTP tích hợp vào dòng bên ngoài SharePoint và OneDrive
+- Tích hợp dữ liệu tại chỗ thông qua cổng dữ liệu tại chỗ
 
-Khách hàng với người dùng các tính năng này sẽ nhận được một phần mở rộng tự động cho đến khi 31 tháng một năm 2020, hoặc hết hạn của thời hạn đăng ký Office 365 sẵn có, naøo daøi hôn.
+Khách hàng có người dùng hoạt động của các tính năng này sẽ nhận được phần mở rộng tự động cho đến ngày 31 tháng 1 năm 2020 hoặc hết hạn thời hạn đăng ký Microsoft 365 hiện tại của họ, tùy theo thời gian nào dài hơn.
