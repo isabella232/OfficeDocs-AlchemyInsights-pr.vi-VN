@@ -1,9 +1,9 @@
 ---
-title: 1800019 tập trung vào hộp thư đến trong Outlook mobile
+title: 1800019 hộp thư đến tập trung trong Outlook Mobile
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 6/5/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,24 +12,24 @@ ms.custom:
 - "910"
 - "1800019"
 ms.assetid: 88b55558-3c45-47d1-8b34-f297c0e344f5
-ms.openlocfilehash: 2102db16fb58cc7e3668dfe2fd6a296fef8a67eb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 11e9d636abc82e7f65291c196c9684d697c6c8e1
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36524937"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720984"
 ---
-# <a name="focused-inbox-for-outlook-mobile"></a><span data-ttu-id="8fb10-102">Tập trung vào các hộp thư cho Outlook mobile</span><span class="sxs-lookup"><span data-stu-id="8fb10-102">Focused Inbox for Outlook mobile</span></span>
+# <a name="focused-inbox-for-outlook-mobile"></a><span data-ttu-id="57faa-102">Hộp thư đến tập trung cho Outlook Mobile</span><span class="sxs-lookup"><span data-stu-id="57faa-102">Focused Inbox for Outlook mobile</span></span>
 
-[<span data-ttu-id="8fb10-103">Hộp thư đến tập trung là gì?</span><span class="sxs-lookup"><span data-stu-id="8fb10-103">What is Focused Inbox?</span></span>](https://go.microsoft.com/fwlink/p/?linkid=2001915&amp;clcid=0x409)
+[<span data-ttu-id="57faa-103">Hộp thư đến tập trung là gì?</span><span class="sxs-lookup"><span data-stu-id="57faa-103">What is Focused Inbox?</span></span>](https://go.microsoft.com/fwlink/p/?linkid=2001915&amp;clcid=0x409)
   
-[<span data-ttu-id="8fb10-104">Làm thế nào để chỉnh sửa các quy tắc mà di chuyển email của tôi vào và ra khỏi hộp thư đến tập trung?</span><span class="sxs-lookup"><span data-stu-id="8fb10-104">How do I edit the rules that move my email in and out of Focused Inbox?</span></span>](https://go.microsoft.com/fwlink/p/?linkid=2002210&amp;clcid=0x409)
+[<span data-ttu-id="57faa-104">Làm cách nào để chỉnh sửa các quy tắc di chuyển email của tôi vào và ra khỏi hộp thư đến tập trung?</span><span class="sxs-lookup"><span data-stu-id="57faa-104">How do I edit the rules that move my email in and out of Focused Inbox?</span></span>](https://go.microsoft.com/fwlink/p/?linkid=2002210&amp;clcid=0x409)
   
-[<span data-ttu-id="8fb10-105">Làm thế nào làm tắt vào hộp thư đến tập trung hoặc thay đổi cho dù tôi huy hiệu xuất hiện và thông báo đồng bộ với hộp thư đến tập trung?</span><span class="sxs-lookup"><span data-stu-id="8fb10-105">How do I turn off Focused Inbox or change whether my badge count and notifications sync to Focused Inbox?</span></span>](https://go.microsoft.com/fwlink/p/?linkid=2001916&amp;clcid=0x409)
+[<span data-ttu-id="57faa-105">Làm cách nào để tắt hộp thư đến tập trung hoặc thay đổi xem số lượng huy hiệu và thông báo của tôi có đồng bộ với hộp thư đến tập trung không?</span><span class="sxs-lookup"><span data-stu-id="57faa-105">How do I turn off Focused Inbox or change whether my badge count and notifications sync to Focused Inbox?</span></span>](https://go.microsoft.com/fwlink/p/?linkid=2001916&amp;clcid=0x409)
   
-[<span data-ttu-id="8fb10-106">Làm thế nào để tắt vào hộp thư đến tập trung hoặc thay đổi cho dù thông báo đồng bộ với hộp thư đến tập trung?</span><span class="sxs-lookup"><span data-stu-id="8fb10-106">How do I turn off Focused Inbox or change whether notifications sync to Focused Inbox?</span></span>](https://go.microsoft.com/fwlink/p/?linkid=2001917&amp;clcid=0x409)
+[<span data-ttu-id="57faa-106">Làm cách nào để tắt hộp thư đến tập trung hoặc thay đổi xem thông báo có đồng bộ với hộp thư đến tập trung không?</span><span class="sxs-lookup"><span data-stu-id="57faa-106">How do I turn off Focused Inbox or change whether notifications sync to Focused Inbox?</span></span>](https://go.microsoft.com/fwlink/p/?linkid=2001917&amp;clcid=0x409)
   
-[<span data-ttu-id="8fb10-107">Làm thế nào để chuyển đổi giữa tập trung và khác?</span><span class="sxs-lookup"><span data-stu-id="8fb10-107">How do I toggle between Focused and Other?</span></span>](https://go.microsoft.com/fwlink/p/?linkid=2002211&amp;clcid=0x409)
+[<span data-ttu-id="57faa-107">Làm thế nào để chuyển đổi giữa tập trung và khác?</span><span class="sxs-lookup"><span data-stu-id="57faa-107">How do I toggle between Focused and Other?</span></span>](https://go.microsoft.com/fwlink/p/?linkid=2002211&amp;clcid=0x409)
   
-<span data-ttu-id="8fb10-108">Tìm hiểu thêm: [Trợ giúp trong ứng dụng Outlook cho iOS và Android](https://go.microsoft.com/fwlink/p/?linkid=2001918&amp;clcid=0x409)</span><span class="sxs-lookup"><span data-stu-id="8fb10-108">Learn more: [Get in-app help for Outlook for iOS and Android](https://go.microsoft.com/fwlink/p/?linkid=2001918&amp;clcid=0x409)</span></span>
+<span data-ttu-id="57faa-108">Tìm hiểu thêm: [tải trợ giúp trong ứng dụng cho Outlook for iOS và Android](https://go.microsoft.com/fwlink/p/?linkid=2001918&amp;clcid=0x409)</span><span class="sxs-lookup"><span data-stu-id="57faa-108">Learn more: [Get in-app help for Outlook for iOS and Android](https://go.microsoft.com/fwlink/p/?linkid=2001918&amp;clcid=0x409)</span></span>
   

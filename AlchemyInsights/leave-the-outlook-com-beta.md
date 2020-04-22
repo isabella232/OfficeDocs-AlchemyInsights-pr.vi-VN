@@ -1,9 +1,9 @@
 ---
-title: 8000035 lại các phiên bản beta Outlook.com
+title: 8000035 rời khỏi phiên bản beta Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 11/2/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -18,18 +18,18 @@ ms.custom:
 - "1422"
 - "8000035"
 ms.assetid: 039b6814-0af4-4385-9fdf-bbc53ab2e161
-ms.openlocfilehash: 8ee26da8360626165d120b592dec9d32b3d48dce
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 97dd5e889cacfe73e0b81dcdee35f37dc12de9d7
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36542903"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762771"
 ---
-# <a name="the-new-outlookcom"></a><span data-ttu-id="68d1c-102">Outlook.com mới</span><span class="sxs-lookup"><span data-stu-id="68d1c-102">The new Outlook.com</span></span>
+# <a name="the-new-outlookcom"></a><span data-ttu-id="4c879-102">Các Outlook.com mới</span><span class="sxs-lookup"><span data-stu-id="4c879-102">The new Outlook.com</span></span>
 
-<span data-ttu-id="68d1c-103">Nó không còn có thể để lại các phiên bản beta Outlook.com và quay trở lại phiên bản cổ điển của Outlook.com.</span><span class="sxs-lookup"><span data-stu-id="68d1c-103">It's no longer possible to leave the Outlook.com beta and return to the classic version of Outlook.com.</span></span>
+<span data-ttu-id="4c879-103">Nó không còn có thể để lại Outlook.com beta và trở về phiên bản cổ điển của Outlook.com.</span><span class="sxs-lookup"><span data-stu-id="4c879-103">It's no longer possible to leave the Outlook.com beta and return to the classic version of Outlook.com.</span></span>
   
-<span data-ttu-id="68d1c-104">Nếu bạn muốn cung cấp phản hồi về Outlook.com mới, đi đến [UserVoice diễn đàn](https://go.microsoft.com/fwlink/p/?linkid=851599).</span><span class="sxs-lookup"><span data-stu-id="68d1c-104">If you'd like to give feedback about the new Outlook.com, go to the [UserVoice forum](https://go.microsoft.com/fwlink/p/?linkid=851599).</span></span> <span data-ttu-id="68d1c-105">Bạn có thể bình chọn về những ý tưởng hoặc bạn muốn xem các vấn đề địa chỉ, và chúng tôi sẽ trả lời trực tiếp trên các ý kiến và đề xuất.</span><span class="sxs-lookup"><span data-stu-id="68d1c-105">You can vote on the ideas or issues you'd like to see addressed, and we'll respond directly to the top comments and suggestions.</span></span>
+<span data-ttu-id="4c879-104">Nếu bạn muốn đưa ra phản hồi về Outlook.com mới, hãy truy cập [diễn đàn Uservoice](https://go.microsoft.com/fwlink/p/?linkid=851599).</span><span class="sxs-lookup"><span data-stu-id="4c879-104">If you'd like to give feedback about the new Outlook.com, go to the [UserVoice forum](https://go.microsoft.com/fwlink/p/?linkid=851599).</span></span> <span data-ttu-id="4c879-105">Bạn có thể bỏ phiếu về những ý tưởng hoặc vấn đề mà bạn muốn xem và chúng tôi sẽ trả lời trực tiếp các nhận xét và đề xuất hàng đầu.</span><span class="sxs-lookup"><span data-stu-id="4c879-105">You can vote on the ideas or issues you'd like to see addressed, and we'll respond directly to the top comments and suggestions.</span></span>
   
-[<span data-ttu-id="68d1c-106">Tìm hiểu thêm về Outlook.com mới.</span><span class="sxs-lookup"><span data-stu-id="68d1c-106">Learn more about the new Outlook.com.</span></span>](https://go.microsoft.com/fwlink/p/?linkid=874356)
+[<span data-ttu-id="4c879-106">Tìm hiểu thêm về Outlook.com mới.</span><span class="sxs-lookup"><span data-stu-id="4c879-106">Learn more about the new Outlook.com.</span></span>](https://go.microsoft.com/fwlink/p/?linkid=874356)
   

@@ -2,7 +2,7 @@
 title: Có lỗi ' tham số không thể tìm thấy '?
 ms.author: pebaum
 author: pebaum
-ms.date: 5/8/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,21 +11,21 @@ ms.custom:
 - "683"
 - "3500008"
 ms.assetid: 5070ca31-9ccf-4408-865c-d36912450196
-ms.openlocfilehash: 5549801bfd0fd84c232f483f8d9fbd250c389aec
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 8f07a2dc92315e5466ea126243adf46cff192934
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36739875"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722254"
 ---
-# <a name="migrating-email-from-imap-email-system-to-office-365"></a><span data-ttu-id="19d52-102">Di chuyển email từ hệ thống email IMAP sang Office 365</span><span class="sxs-lookup"><span data-stu-id="19d52-102">Migrating email from IMAP email system to Office 365</span></span>
+# <a name="migrating-email-from-imap-email-system-to-microsoft-365"></a><span data-ttu-id="64cf1-102">Di chuyển email từ hệ thống email IMAP sang Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="64cf1-102">Migrating email from IMAP email system to Microsoft 365</span></span>
 
-<span data-ttu-id="19d52-103">Để di chuyển email từ hệ thống thư IMAP, vui lòng thực hiện theo quy trình này: [di chuyển IMAP trong Trung tâm quản trị Microsoft 365](https://docs.microsoft.com/Exchange/mailbox-migration/migrating-imap-mailboxes/imap-migration-in-the-admin-center)</span><span class="sxs-lookup"><span data-stu-id="19d52-103">To migrate email from an IMAP mail system, please follow this process: [IMAP migration in the Microsoft 365 admin center](https://docs.microsoft.com/Exchange/mailbox-migration/migrating-imap-mailboxes/imap-migration-in-the-admin-center)</span></span>
+<span data-ttu-id="64cf1-103">Để di chuyển email từ hệ thống thư IMAP, vui lòng thực hiện theo quy trình này: [di chuyển IMAP trong Trung tâm quản trị Microsoft 365](https://docs.microsoft.com/Exchange/mailbox-migration/migrating-imap-mailboxes/imap-migration-in-the-admin-center)</span><span class="sxs-lookup"><span data-stu-id="64cf1-103">To migrate email from an IMAP mail system, please follow this process: [IMAP migration in the Microsoft 365 admin center](https://docs.microsoft.com/Exchange/mailbox-migration/migrating-imap-mailboxes/imap-migration-in-the-admin-center)</span></span>
   
-<span data-ttu-id="19d52-104">Nhiều tổ chức lớn sẽ cần phải lập kế hoạch cẩn thận để quản lý kỳ vọng của người dùng.</span><span class="sxs-lookup"><span data-stu-id="19d52-104">Many large organizations will need to plan carefully to manage user expectations.</span></span> <span data-ttu-id="19d52-105">[Những gì bạn cần biết về di chuyển hộp thư IMAP của bạn vào Office 365](https://docs.microsoft.com/Exchange/mailbox-migration/migrating-imap-mailboxes/migrating-imap-mailboxes) bài viết sẽ giúp bạn quản lý thay đổi.</span><span class="sxs-lookup"><span data-stu-id="19d52-105">The [What you need to know about migrating your IMAP mailboxes to Office 365](https://docs.microsoft.com/Exchange/mailbox-migration/migrating-imap-mailboxes/migrating-imap-mailboxes) article will help you manage the change.</span></span>
+<span data-ttu-id="64cf1-104">Nhiều tổ chức lớn sẽ cần phải lập kế hoạch cẩn thận để quản lý kỳ vọng của người dùng.</span><span class="sxs-lookup"><span data-stu-id="64cf1-104">Many large organizations will need to plan carefully to manage user expectations.</span></span> <span data-ttu-id="64cf1-105">[Những gì bạn cần biết về việc di chuyển hộp thư IMAP của bạn sang Microsoft 365](https://docs.microsoft.com/Exchange/mailbox-migration/migrating-imap-mailboxes/migrating-imap-mailboxes) bài viết sẽ giúp bạn quản lý thay đổi.</span><span class="sxs-lookup"><span data-stu-id="64cf1-105">The [What you need to know about migrating your IMAP mailboxes to Microsoft 365](https://docs.microsoft.com/Exchange/mailbox-migration/migrating-imap-mailboxes/migrating-imap-mailboxes) article will help you manage the change.</span></span>
 
-<span data-ttu-id="19d52-106">Xin vui lòng kiểm tra các thông qua [văn phòng 365 với FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365) trang để được hỗ trợ giúp đỡ di chuyển, nếu đủ điều kiện.</span><span class="sxs-lookup"><span data-stu-id="19d52-106">Please also check the [Adopt Office 365 with FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365) page for assisted help with migration, if eligible.</span></span>
+<span data-ttu-id="64cf1-106">Cũng vui lòng kiểm tra thông qua [Microsoft 365 với FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365) trang để được hỗ trợ giúp đỡ di chuyển, nếu đủ điều kiện.</span><span class="sxs-lookup"><span data-stu-id="64cf1-106">Please also check the [Adopt Microsoft 365 with FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365) page for assisted help with migration, if eligible.</span></span>
   
 
-<span data-ttu-id="19d52-107">Xin vui lòng kiểm tra các thông qua [văn phòng 365 với FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365) trang để được hỗ trợ giúp đỡ di chuyển, nếu đủ điều kiện.</span><span class="sxs-lookup"><span data-stu-id="19d52-107">Please also check the [Adopt Office 365 with FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365) page for assisted help with migration, if eligible.</span></span>
+<span data-ttu-id="64cf1-107">Cũng vui lòng kiểm tra thông qua [Microsoft 365 với FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365) trang để được hỗ trợ giúp đỡ di chuyển, nếu đủ điều kiện.</span><span class="sxs-lookup"><span data-stu-id="64cf1-107">Please also check the [Adopt Microsoft 365 with FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365) page for assisted help with migration, if eligible.</span></span>
   
