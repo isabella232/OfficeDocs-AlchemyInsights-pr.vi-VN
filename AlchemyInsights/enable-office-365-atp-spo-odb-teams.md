@@ -1,29 +1,29 @@
 ---
-title: Kích hoạt Office 365 ATP cho SharePoint, OneDrive và Microsoft đội
+title: Cho phép Office 365 ATP dành cho SharePoint, OneDrive và Microsoft teams
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
-ms.date: 04/01/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: ae2f574663ae3233a056589c2d5a578171f3b2f4
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: fdfdc97a198898051a3388672d01994d96dd5e97
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32403055"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703448"
 ---
-# <a name="enable-office-365-advanced-threat-protection-for-sharepoint-online-onedrive-and-microsoft-teams"></a><span data-ttu-id="51e57-102">Sử Office 365 nâng cao mối đe dọa bảo vệ cho SharePoint trực tuyến, OneDrive và Microsoft đội</span><span class="sxs-lookup"><span data-stu-id="51e57-102">Enable Office 365 Advanced Threat Protection for SharePoint Online, OneDrive, and Microsoft Teams</span></span>
+# <a name="enable-office-365-advanced-threat-protection-for-sharepoint-online-onedrive-and-microsoft-teams"></a><span data-ttu-id="420ce-102">Cho phép Office 365 nâng cao mối đe dọa bảo vệ cho SharePoint trực tuyến, OneDrive và Microsoft teams</span><span class="sxs-lookup"><span data-stu-id="420ce-102">Enable Office 365 Advanced Threat Protection for SharePoint Online, OneDrive, and Microsoft Teams</span></span>
 
-1. <span data-ttu-id="51e57-103">Đi đến https://protection.office.com và đăng nhập.</span><span class="sxs-lookup"><span data-stu-id="51e57-103">Go to https://protection.office.com and sign in.</span></span>
-2. <span data-ttu-id="51e57-104">Chọn **quản lý mối đe dọa** > **chính sách** > **Tập tin đính kèm an toàn**.</span><span class="sxs-lookup"><span data-stu-id="51e57-104">Choose **Threat management** > **Policy** > **Safe Attachments**.</span></span>
-3. <span data-ttu-id="51e57-105">Chọn **bật ATP cho Microsoft đội, SharePoint và OneDrive,** và sau đó nhấp vào **lưu**.</span><span class="sxs-lookup"><span data-stu-id="51e57-105">Select **Turn on ATP for SharePoint, OneDrive, and Microsoft Teams**, and then click **Save**.</span></span>
-4. <span data-ttu-id="51e57-106">(Khuyến cáo) Như là một quản trị toàn cầu hoặc quản trị viên SharePoint Online, chạy lệnh ghép ngắn [Set-SPOTenant](https://docs.microsoft.com/powershell/module/sharepoint-online/Set-SPOTenant?view=sharepoint-ps) với tham số **DisallowInfectedFileDownload** được đặt thành *true*.</span><span class="sxs-lookup"><span data-stu-id="51e57-106">(Recommended) As a global administrator or a SharePoint Online administrator, run the [Set-SPOTenant](https://docs.microsoft.com/powershell/module/sharepoint-online/Set-SPOTenant?view=sharepoint-ps) cmdlet with the **DisallowInfectedFileDownload** parameter set to *true*.</span></span>
-5. <span data-ttu-id="51e57-107">(Khuyến cáo) [Thiết lập cảnh báo](https://docs.microsoft.com/office365/securitycompliance/turn-on-atp-for-spo-odb-and-teams#set-up-alerts-for-detected-files) cho các tập tin được phát hiện.</span><span class="sxs-lookup"><span data-stu-id="51e57-107">(Recommended) [Set up alerts](https://docs.microsoft.com/office365/securitycompliance/turn-on-atp-for-spo-odb-and-teams#set-up-alerts-for-detected-files) for detected files.</span></span>
+1. <span data-ttu-id="420ce-103">Đi tới https://protection.office.com và đăng nhập.</span><span class="sxs-lookup"><span data-stu-id="420ce-103">Go to https://protection.office.com and sign in.</span></span>
+2. <span data-ttu-id="420ce-104">Chọn **mối đe dọa quản lý** > **chính sách** > **đính kèm an toàn**.</span><span class="sxs-lookup"><span data-stu-id="420ce-104">Choose **Threat management** > **Policy** > **Safe Attachments**.</span></span>
+3. <span data-ttu-id="420ce-105">Chọn **bật ATP cho SharePoint, OneDrive và Microsoft teams**, sau đó bấm vào **lưu**.</span><span class="sxs-lookup"><span data-stu-id="420ce-105">Select **Turn on ATP for SharePoint, OneDrive, and Microsoft Teams**, and then click **Save**.</span></span>
+4. <span data-ttu-id="420ce-106">Khuyến cáo Là quản trị viên toàn cầu hoặc quản trị viên SharePoint trực tuyến, chạy lệnh ghép ngắn [Set-Spothuê](https://docs.microsoft.com/powershell/module/sharepoint-online/Set-SPOTenant?view=sharepoint-ps) với tham số **Disallowinfectedfiledownload** đặt *đúng*.</span><span class="sxs-lookup"><span data-stu-id="420ce-106">(Recommended) As a global administrator or a SharePoint Online administrator, run the [Set-SPOTenant](https://docs.microsoft.com/powershell/module/sharepoint-online/Set-SPOTenant?view=sharepoint-ps) cmdlet with the **DisallowInfectedFileDownload** parameter set to *true*.</span></span>
+5. <span data-ttu-id="420ce-107">Khuyến cáo [Thiết lập cảnh báo](https://docs.microsoft.com/office365/securitycompliance/turn-on-atp-for-spo-odb-and-teams#set-up-alerts-for-detected-files) cho các tệp được phát hiện.</span><span class="sxs-lookup"><span data-stu-id="420ce-107">(Recommended) [Set up alerts](https://docs.microsoft.com/office365/securitycompliance/turn-on-atp-for-spo-odb-and-teams#set-up-alerts-for-detected-files) for detected files.</span></span>
 
 > [!NOTE]
-> <span data-ttu-id="51e57-108">ATP sẽ nto quét mỗi tập tin trong SharePoint Online, OneDrive hoặc Microsoft Teams.</span><span class="sxs-lookup"><span data-stu-id="51e57-108">ATP will nto scan every single file in SharePoint Online, OneDrive, or Microsoft Teams.</span></span> <span data-ttu-id="51e57-109">Tập tin được quét không đồng bộ, thông qua một quá trình sử dụng chia sẻ và khách hoạt động sự kiện, cùng với các chẩn đoán thông minh và mối đe dọa tín hiệu để xác định các tập tin độc hại.</span><span class="sxs-lookup"><span data-stu-id="51e57-109">Files are scanned asynchronously, through a process that uses sharing and guest activity events, along with smart heuristics and threat signals to identify malicious files.</span></span> <span data-ttu-id="51e57-110">Xem [https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams).</span><span class="sxs-lookup"><span data-stu-id="51e57-110">See [https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams).</span></span>
+> <span data-ttu-id="420ce-108">ATP sẽ NTO quét mọi tệp duy nhất trong SharePoint Online, OneDrive hoặc Microsoft teams.</span><span class="sxs-lookup"><span data-stu-id="420ce-108">ATP will nto scan every single file in SharePoint Online, OneDrive, or Microsoft Teams.</span></span> <span data-ttu-id="420ce-109">Tập tin được quét không đồng bộ, thông qua một quá trình sử dụng chia sẻ và các sự kiện hoạt động khách, cùng với thông minh chẩn đoán và mối đe dọa tín hiệu để xác định các tập tin độc hại.</span><span class="sxs-lookup"><span data-stu-id="420ce-109">Files are scanned asynchronously, through a process that uses sharing and guest activity events, along with smart heuristics and threat signals to identify malicious files.</span></span> <span data-ttu-id="420ce-110">Xem [https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams)nào.</span><span class="sxs-lookup"><span data-stu-id="420ce-110">See [https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams).</span></span>

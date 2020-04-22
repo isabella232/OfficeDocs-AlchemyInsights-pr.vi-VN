@@ -1,8 +1,8 @@
 ---
-title: Sử Multifactor xác thực
+title: Kích hoạt xác thực đa yếu tố
 ms.author: pebaum
 author: pebaum
-ms.date: 12/5/2017
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -16,27 +16,27 @@ search.appverid:
 - MOP150
 - MBS150
 ms.assetid: 785fc94f-fa62-461b-ba00-cf875e45d48f
-ms.openlocfilehash: 7c49f63632f89696165136d823123c599acecc21
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 098f129b068eb6cb3847bb18d15b417a3fde4602
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527493"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703484"
 ---
-# <a name="enable-multi-factor-authentication"></a><span data-ttu-id="0ad17-102">Sử nhiều yếu tố xác thực</span><span class="sxs-lookup"><span data-stu-id="0ad17-102">Enable multi-factor authentication</span></span>
+# <a name="enable-multi-factor-authentication"></a><span data-ttu-id="8f6e5-102">Bật xác thực nhiều yếu tố</span><span class="sxs-lookup"><span data-stu-id="8f6e5-102">Enable multi-factor authentication</span></span>
 
-<span data-ttu-id="0ad17-103">Để cho phép nhiều yếu tố xác thực trong Trung tâm quản trị Microsoft 365:</span><span class="sxs-lookup"><span data-stu-id="0ad17-103">To enable multi-factor authentication in the Microsoft 365 admin center:</span></span>
+<span data-ttu-id="8f6e5-103">Để bật xác thực nhiều yếu tố trong Trung tâm quản trị Microsoft 365:</span><span class="sxs-lookup"><span data-stu-id="8f6e5-103">To enable multi-factor authentication in the Microsoft 365 admin center:</span></span>
 
-1. <span data-ttu-id="0ad17-104">Hãy để **người dùng** \> **người dùng hoạt động** trang.</span><span class="sxs-lookup"><span data-stu-id="0ad17-104">Go to the **Users** \> **Active users** page.</span></span>
+1. <span data-ttu-id="8f6e5-104">Truy cập trang **người dùng** **đang hoạt động.** \></span><span class="sxs-lookup"><span data-stu-id="8f6e5-104">Go to the **Users** \> **Active users** page.</span></span>
     
-2. <span data-ttu-id="0ad17-105">Ở đầu trang, chọn **nhiều yếu tố xác thực**.</span><span class="sxs-lookup"><span data-stu-id="0ad17-105">At the top of the page, select **Multi-factor authentication**.</span></span> 
+2. <span data-ttu-id="8f6e5-105">Ở đầu trang, hãy chọn **xác thực đa yếu tố**.</span><span class="sxs-lookup"><span data-stu-id="8f6e5-105">At the top of the page, select **Multi-factor authentication**.</span></span> 
     
-3. <span data-ttu-id="0ad17-106">Tìm người dùng hoặc người sử dụng bạn muốn cho phép đối với nhiều yếu tố xác thực.</span><span class="sxs-lookup"><span data-stu-id="0ad17-106">Find the user or users who you want to enable for multi-factor authentication.</span></span> <span data-ttu-id="0ad17-107">Để xem tất cả các người dùng, bạn có thể cần phải thay đổi bộ lọc **đa nhân tố Auth trạng thái** ở phía trên.</span><span class="sxs-lookup"><span data-stu-id="0ad17-107">To see all the users, you might need to change the **Multi-Factor Auth status** filter at the top.</span></span>
+3. <span data-ttu-id="8f6e5-106">Tìm người dùng hoặc người dùng bạn muốn bật cho xác thực nhiều yếu tố.</span><span class="sxs-lookup"><span data-stu-id="8f6e5-106">Find the user or users who you want to enable for multi-factor authentication.</span></span> <span data-ttu-id="8f6e5-107">Để xem tất cả người dùng, bạn có thể cần phải thay đổi bộ lọc **trạng thái nhiều yếu tố Auth** ở trên cùng.</span><span class="sxs-lookup"><span data-stu-id="8f6e5-107">To see all the users, you might need to change the **Multi-Factor Auth status** filter at the top.</span></span>
     
-4. <span data-ttu-id="0ad17-108">Chọn hộp kiểm cạnh người dùng bạn muốn bật.</span><span class="sxs-lookup"><span data-stu-id="0ad17-108">Select the check box next to the users you want to enable.</span></span>
+4. <span data-ttu-id="8f6e5-108">Chọn hộp kiểm bên cạnh người dùng bạn muốn bật.</span><span class="sxs-lookup"><span data-stu-id="8f6e5-108">Select the check box next to the users you want to enable.</span></span>
     
-5.  <span data-ttu-id="0ad17-109">Trong cửa sổ thông tin người sử dụng đúng, theo **bước nhanh**, chọn **Enable**.</span><span class="sxs-lookup"><span data-stu-id="0ad17-109">In the right user info pane, under **quick steps**, select **Enable**.</span></span> 
+5.  <span data-ttu-id="8f6e5-109">Trong ngăn thông tin người dùng phù hợp, trong **các bước nhanh**, hãy chọn **bật**.</span><span class="sxs-lookup"><span data-stu-id="8f6e5-109">In the right user info pane, under **quick steps**, select **Enable**.</span></span> 
     
-6. <span data-ttu-id="0ad17-110">Trong hộp thoại mở ra, chọn **enable auth nhiều yếu tố**.</span><span class="sxs-lookup"><span data-stu-id="0ad17-110">In the dialog box that opens, select **enable multi-factor auth**.</span></span> 
+6. <span data-ttu-id="8f6e5-110">Trong hộp thoại mở ra, chọn bật xác thực **nhiều yếu tố**.</span><span class="sxs-lookup"><span data-stu-id="8f6e5-110">In the dialog box that opens, select **enable multi-factor auth**.</span></span> 
     
 
