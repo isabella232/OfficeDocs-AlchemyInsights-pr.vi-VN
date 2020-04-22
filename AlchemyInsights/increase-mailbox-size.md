@@ -12,18 +12,18 @@ ms.custom:
 - "556"
 - "3500006"
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: c6a2030eb7aa1cc47ce70725cbb07c8fac6a7175
-ms.sourcegitcommit: 0fb89d8106fe409ab1b78e50f5357ffc2252f7c7
+ms.openlocfilehash: 13c9448e19f11490182612ff627e72e38809752a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 12/17/2019
-ms.locfileid: "40068335"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714064"
 ---
-# <a name="switch-plans-to-increase-mailbox-size"></a>Chuyển đổi kế hoạch để tăng kích thước hộp thư
+# <a name="switch-subscriptions-to-increase-mailbox-size"></a>Chuyển đổi đăng ký để tăng kích thước hộp thư
 
-Nếu kích thước hộp thư Office 365 của bạn đã 100 GB, không có cách nào để tăng nó.
+Nếu kích thước hộp thư của bạn đã được 100 GB, không có cách nào để tăng nó.
   
-Nếu kích thước hộp thư là 50 GB, bạn có thể tăng lên 100 GB bằng cách chuyển sang [office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) hoặc [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software). Dưới đây là các bước để chuyển sang một gói Office 365 khác:
+Nếu kích thước hộp thư là 50 GB, bạn có thể tăng lên 100 GB bằng cách chuyển sang [office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) hoặc [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software). Dưới đây là các bước để chuyển sang đăng ký khác:
   
 1. Trong Trung tâm quản trị Microsoft 365, hãy truy cập trang sản phẩm **thanh toán** \> [& dịch vụ](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
@@ -37,4 +37,4 @@ Nếu kích thước hộp thư là 50 GB, bạn có thể tăng lên 100 GB b�
 
 Để biết thêm chi tiết, xem [nâng cấp lên một kế hoạch khác](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).
 
-Nếu bạn có một [gói Office 365 hỗ trợ lưu trữ tại chỗ](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description), bạn cũng có thể nhận được bộ nhớ email bổ sung bằng cách kích hoạt hộp thư lưu trữ. Hộp thư lưu trữ cung cấp cho bạn dung lượng lưu trữ bổ sung và cho phép bạn di chuyển, sao chép và tìm kiếm thư trong cả hộp thư chính và lưu trữ. Để biết các bước về cách kích hoạt hộp thư lưu trữ, xem [kích hoạt hộp thư lưu trữ](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes).
+Nếu bạn có [đăng ký hỗ trợ lưu trữ tại chỗ](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description), bạn cũng có thể nhận được bộ nhớ email bổ sung bằng cách kích hoạt hộp thư lưu trữ. Hộp thư lưu trữ cung cấp cho bạn dung lượng lưu trữ bổ sung và cho phép bạn di chuyển, sao chép và tìm kiếm thư trong cả hộp thư chính và lưu trữ. Để biết các bước về cách kích hoạt hộp thư lưu trữ, xem [kích hoạt hộp thư lưu trữ](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes).

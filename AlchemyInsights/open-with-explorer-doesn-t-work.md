@@ -1,9 +1,9 @@
 ---
-title: Open Explorer không hoạt động
+title: Mở bằng Explorer không hoạt động
 ms.author: toresing
 author: tomresing
 manager: scotv
-ms.date: 12/10/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,22 +11,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: b8f07022-69fe-4112-a2f6-d3a6cedb966c
-ms.openlocfilehash: 7680766b53bd5e85789375d3f9e9ab635780ec6c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: dc939a3451ff4fe95e4aa5a999839a2c532b398c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36538511"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713056"
 ---
-# <a name="open-with-explorer-isnt-working"></a>Open Explorer không hoạt động
+# <a name="open-with-explorer-isnt-working"></a>Mở bằng Explorer không hoạt động
 
-Nếu **nhìn trong File Explorer** **mở Explorer** hoặc không làm việc đảm bảo rằng các dịch vụ WebClient được thiết lập để **chạy** bằng cách làm theo các bước dưới đây. Ví dụ, nó có thể mất một thời gian dài để mở một thư viện SharePoint hoặc OneDrive khi các dịch vụ không chạy. 
+Nếu **mở với Explorer** hoặc **xem trong file Explorer** không hoạt động đảm bảo rằng dịch vụ webclient được thiết lập để **chạy** bằng cách làm theo các bước dưới đây. Ví dụ: có thể mất nhiều thời gian để mở thư viện SharePoint hoặc OneDrive khi dịch vụ không chạy. 
   
-1. Trong cửa sổ tìm kiếm hộp, loại chạy, chọn các ứng dụng máy tính để bàn chạy, gõ services.msc, và sau đó chọn **nhập**.
+1. Trong hộp tìm kiếm của Windows, nhập chạy, chọn ứng dụng chạy trên máy tính, gõ Services. msc, và sau đó chọn **Enter**.
     
-2. Di chuyển xuống các dịch vụ WebClient và kiểm tra cột **trạng thái** . Nếu tình trạng dịch vụ WebClient không phải là **chạy**, bấm đúp vào dịch vụ, bấm vào **bắt đầu**, và sau đó nhấp vào **OK**. Kích hoạt dịch vụ, nếu cần thiết, bằng cách chọn hoặc **bằng tay** hoặc **tự động** trong hộp **loại khởi động** . 
+2. Cuộn xuống dịch vụ WebClient và kiểm tra cột **trạng thái** . Nếu trạng thái dịch vụ WebClient không **chạy**, bấm đúp vào dịch vụ, bấm **bắt đầu**, và sau đó bấm **OK**. Kích hoạt dịch vụ, nếu cần thiết, bằng cách chọn bằng **tay** hoặc **tự động** trong hộp **loại khởi động** . 
     
 > [!NOTE]
-> Để khắc phục vấn đề mở File Explorer, nhìn thấy [mở trong Explorer](https://go.microsoft.com/fwlink/?linkid=871665). Khám phá đồng bộ như là một thay thế tốt hơn: [Sync SharePoint các tập tin với các khách hàng mới đồng bộ OneDrive](https://go.microsoft.com/fwlink/?linkid=871666). 
+> Để khắc phục sự cố mở trong file Explorer, hãy xem [mở trong Explorer](https://go.microsoft.com/fwlink/?linkid=871665). Khám phá đồng bộ để thay thế tốt hơn: [đồng bộ hóa SharePoint tệp với khách hàng đồng bộ OneDrive mới](https://go.microsoft.com/fwlink/?linkid=871666). 
   
 

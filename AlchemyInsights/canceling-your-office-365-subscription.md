@@ -1,5 +1,5 @@
 ---
-title: Hủy đăng ký Office 365 của bạn?
+title: Hủy đăng ký của bạn?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,14 +12,14 @@ ms.custom:
 - "4"
 - "1400001"
 ms.assetid: e0ba53f0-3b0a-4082-a42f-40f2b45ad91a
-ms.openlocfilehash: 05a20f539fbff1018b2869bc10fe597ff91187ce
-ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
+ms.openlocfilehash: 210510bf13ef3838d8f005b51222034039876426
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/18/2020
-ms.locfileid: "43552583"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711437"
 ---
-# <a name="canceling-your-office-365-subscription"></a>Hủy đăng ký Office 365 của bạn?
+# <a name="canceling-your-subscription"></a>Hủy đăng ký của bạn?
 
 Chúng tôi sẽ xin lỗi để xem bạn đi, nhưng nếu bạn muốn hủy bỏ đăng ký của bạn, đây là lựa chọn của bạn:
   

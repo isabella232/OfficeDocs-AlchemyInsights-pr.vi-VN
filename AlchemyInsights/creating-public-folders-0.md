@@ -3,7 +3,6 @@ title: Tạo thư mục công cộng
 ms.author: dmaguire
 author: msdmaguire
 manager: dansimp
-ms.date: 5/9/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,24 +11,24 @@ ms.custom:
 - "632"
 - "3500007"
 ms.assetid: a53e3a0a-db1c-410e-8340-e93c06155f60
-ms.openlocfilehash: 6535ee5e133c6674e460de3b54fe35602bc80915
-ms.sourcegitcommit: 7101e29c3c890ee23dc10a10d608f90f4de13b3a
+ms.openlocfilehash: c1bd1733530cec42a3403a330fe4688cd8b9c6ae
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/26/2019
-ms.locfileid: "36631865"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715382"
 ---
 # <a name="creating-public-folders"></a>Tạo thư mục công cộng
 
-Trước khi người dùng của bạn có thể sử dụng các thư mục công cộng trong Office 365, bạn sẽ cần phải tạo một thư mục chung hộp thư. Để tạo ra:
+Trước khi người dùng của bạn có thể sử dụng thư mục công cộng, bạn sẽ cần phải tạo ít nhất một thư mục công cộng. Để tạo:
   
-1. Trong Trung tâm quản trị Microsoft 365, đi tới **Trung tâm quản trị** \> **trao đổi**.
+1. Trong Trung tâm quản trị Microsoft 365, hãy truy cập **trao đổi**Trung tâm **quản trị** \> .
 
-2. Điều hướng đến **thư mục công cộng** \> **thư mục chung hộp thư**và sau đó bấm vào **Thêm**.
+2. Chuyển đến thư mục **công** \> cộng thư **mục hộp thư**, và sau đó bấm **Thêm**.
 
-3. Trong **Khu vực thư mục hộp thư**, hãy cung cấp tên cho hộp thư của thư mục chung.
+3. Trong thư **mục công cộng**, cung cấp tên cho hộp thư mục công cộng.
 
 4. Bấm vào **Lưu**.
 
-Khi một hộp thư đã được tạo ra, bạn có thể bắt đầu tạo thư mục cá nhân hoặc cho người dùng của bạn để [bắt đầu việc tạo ra và sử dụng các thư mục công cộng trong Outlook](https://support.office.com/article/Create-and-share-a-public-folder-in-Outlook-a2835011-d524-4a5c-a207-05c159bb2a97).
+Khi hộp thư đã được tạo, bạn có thể bắt đầu tạo thư mục riêng lẻ hoặc cho người dùng của mình [bắt đầu tạo và sử dụng thư mục công cộng trong Outlook](https://support.office.com/article/Create-and-share-a-public-folder-in-Outlook-a2835011-d524-4a5c-a207-05c159bb2a97).
   

@@ -1,5 +1,5 @@
 ---
-title: Di chuyển email vào Office 365
+title: Di chuyển email đến Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,18 +12,18 @@ ms.custom:
 - "640"
 - "3500008"
 ms.assetid: c360a785-bfff-4f8a-9a91-44e40f696799
-ms.openlocfilehash: bd0453307e39f4eeddf666e9a1b7f56adec89bec
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: b8117d10f4e2062a3313488d626be9cb92654bd6
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666898"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713632"
 ---
-# <a name="move-email-to-office-365"></a>Di chuyển email vào Office 365
+# <a name="move-email-to-microsoft-365"></a>Di chuyển email đến Microsoft 365
 
-Bạn có một số tùy chọn di chuyển email vào Office 365. [Cố vấn di chuyển thư Office 365](https://aka.ms/alchemyinsight-mailmigrationadvisor) giúp bạn lựa chọn tốt nhất cho môi trường của bạn và cũng hướng dẫn bạn qua quá trình di chuyển thư.
+Bạn có một số tùy chọn để di chuyển email đến Microsoft 365. [Cố vấn di chuyển thư Microsoft 365](https://aka.ms/alchemyinsight-mailmigrationadvisor) giúp bạn chọn một trong những tốt nhất cho môi trường của bạn và cũng có hướng dẫn bạn qua di chuyển thư.
   
-Để đọc về lựa chọn của bạn mà không cần bắt đầu quá trình di chuyển, hãy xem [quyết định trên một con đường di chuyển](https://docs.microsoft.com/Exchange/mailbox-migration/decide-on-a-migration-path).
+Để đọc về các tùy chọn của bạn mà không cần bắt đầu di chuyển, vui lòng xem [quyết định về đường dẫn di chuyển](https://docs.microsoft.com/Exchange/mailbox-migration/decide-on-a-migration-path).
 
-Xin vui lòng cũng kiểm tra [áp dụng Office 365 với FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365) trang để được trợ giúp hỗ trợ di dân, nếu đủ điều kiện.
+Cũng vui lòng kiểm tra thông qua [Microsoft 365 với FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365) trang để được hỗ trợ giúp đỡ di chuyển, nếu đủ điều kiện.
   

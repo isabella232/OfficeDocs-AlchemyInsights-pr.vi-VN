@@ -1,9 +1,9 @@
 ---
-title: Xác định bên ngoài email chuyển tiếp vào hộp thư trong Nhật ký kiểm tra
+title: Xác định chuyển tiếp email bên ngoài trên hộp thư trong Nhật ký kiểm tra
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,31 +12,31 @@ ms.custom:
 - "1369"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 7defd0902e8c8bebae9c7bfee72c3199cbc1909f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 156fd0044cdc42230ace0a5db16f49af572bb6fa
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539123"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716482"
 ---
 # <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Xác định khi chuyển tiếp email bên ngoài được cấu hình trên hộp thư
 
-Khi một người dùng Office 365 cấu hình chuyển tiếp thư điện tử bên ngoài một hộp thư, các hoạt động kiểm toán là một phần của lệnh ghép ngắn **Set-Mailbox** . Bạn có thể xem các hoạt động bằng cách sử dụng kiểm toán đăng nhập tìm kiếm trong an ninh & Trung tâm phù hợp.
+Khi người dùng Microsoft 365 cấu hình chuyển tiếp email bên ngoài vào hộp thư, hoạt động được kiểm toán là một phần của lệnh ghép ngắn **Set-Mailbox** . Bạn có thể xem hoạt động bằng cách sử dụng tìm kiếm Nhật ký kiểm tra trong Trung tâm tuân thủ & bảo mật.
 
-1. Đăng nhập [Office 365 an ninh & tuân thủ trung tâm](https://protection.office.com/).
+1. Đăng nhập vào [Trung tâm tuân thủ & bảo mật của Microsoft 365](https://protection.office.com/).
 
-2. Đi **Tìm** > trang**kiểm toán đăng nhập tìm kiếm** .
+2. Đi tới trang**Tìm kiếm Nhật ký kiểm tra** **Tìm kiếm** > .
 
-3. Chọn phạm vi ngày trong các **ngày bắt đầu** và **ngày kết thúc** . Bạn không cần phải chỉ định một tên người dùng. Xác minh các lĩnh vực **hoạt động** được đặt để **Hiển thị kết quả cho tất cả các hoạt động**.
+3. Chọn phạm vi ngày trong ngày **bắt đầu** và **ngày kết thúc** trường. Bạn không cần phải chỉ định tên người dùng. Kiểm tra trường **hoạt động** được đặt để **Hiển thị kết quả cho tất cả các hoạt động**.
 
 4. Nhấp vào **Tìm kiếm**.
 
-Trong kết quả, hãy nhấp vào **Bộ lọc kết quả** và loại **Set-Mailbox** trong hộp lọc hoạt động. Hãy chọn một hồ sơ kiểm toán trong các kết quả. Trong flyout **chi tiết** , bấm vào **thêm thông tin**. Bạn cần phải xem xét các chi tiết của mỗi hồ sơ kiểm toán để xác định nếu các hoạt động có liên quan đến email chuyển tiếp.
+Trong kết quả, bấm **lọc kết quả** và loại **bộ hộp thư** trong hộp lọc hoạt động. Chọn bản ghi kiểm tra trong kết quả. Trong hộp thả xuống **chi tiết** , hãy nhấp vào **thêm thông tin**. Bạn phải xem chi tiết của mỗi bản ghi kiểm tra để xác định nếu hoạt động liên quan đến chuyển tiếp email.
 
-- **ObjectId**: giá trị bí danh của hộp thư đã được thay đổi.
+- **ObjectID**: bí danh giá trị của hộp thư được thay đổi.
 
-- **Thông số**: _ForwardingSmtpAddress_ địa chỉ email mục tiêu cho biết.
+- **Tham số**: giao nhận _dingsmtpaddress_ chỉ email địa chỉ đích.
 
-- **User**: người dùng đã đặt cấu hình chuyển tiếp email trong hộp thư trong lĩnh vực **ObjectId** .
+- **Userid**: người dùng đã định cấu hình chuyển tiếp email trên hộp thư trong trường **ObjectID** .
 
-Để biết thêm chi tiết, hãy xem [Determining người thiết lập email chuyển tiếp cho một hộp thư](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-who-set-up-email-forwarding-for-a-mailbox).
+Để biết thêm thông tin, xem [xác định người thiết lập chuyển tiếp email cho một hộp thư](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-who-set-up-email-forwarding-for-a-mailbox).

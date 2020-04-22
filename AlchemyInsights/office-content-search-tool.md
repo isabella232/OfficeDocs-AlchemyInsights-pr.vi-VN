@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1491
 ms.assetid: ''
-ms.openlocfilehash: 7bbc6a5819b7d7bb879dd730637b90bbe458724d
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 24bd59fde3373382edfd1a79066368e064d0bfc5
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053499"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713308"
 ---
 # <a name="content-search-tool-to-find-relevant-info"></a>Công cụ tìm kiếm nội dung để tìm thông tin có liên quan
 
@@ -26,6 +26,6 @@ Trước khi sử dụng [Tìm kiếm nội dung](https://sip.protection.office.
 
 Tìm hiểu thêm về tìm kiếm nội dung bằng việc xem xét các [yêu cầu và giới hạn](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search), điều [tra các mục được lập chỉ mục một phần](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) và các kết quả khác cần lưu ý.
 
-Sau khi xem xét cài đặt cấu hình và hạn chế của tìm kiếm nội dung, hãy tham khảo [sử dụng tìm kiếm</a> nội dung để tìm kiếm các mục tại chỗ như email, tài liệu và cuộc hội thoại nhắn tin tức thời trong tổ chức Office 365 của bạn](https://docs.microsoft.com/office365/securitycompliance/content-search).
+Sau khi xem xét cài đặt cấu hình và hạn chế của tìm kiếm nội dung, hãy tham khảo [sử dụng tìm kiếm</a> nội dung để tìm kiếm các mục tại chỗ, chẳng hạn như email, tài liệu và cuộc hội thoại nhắn tin tức thời trong tổ chức của bạn](https://docs.microsoft.com/office365/securitycompliance/content-search).
 
 Để biết đầy đủ từng bước tìm kiếm nội dung, xem [Tìm kiếm nội dung trong Office 365](https://docs.microsoft.com/office365/securitycompliance/search-for-content) để biết thêm thông tin.

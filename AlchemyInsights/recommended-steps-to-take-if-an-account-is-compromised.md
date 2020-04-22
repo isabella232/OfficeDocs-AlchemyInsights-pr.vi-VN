@@ -9,16 +9,16 @@ localization_priority: Priority
 ms.custom:
 - "957"
 - "3100016"
-ms.openlocfilehash: 08904708dd19104179c3f97f6734d8af725a4512
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: 616107f1a5297b38637118e93ee6bfb918640ab3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36745455"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43719326"
 ---
 # <a name="recommended-steps-to-take-if-an-account-is-compromised"></a>Các bước được đề xuất để thực hiện nếu tài khoản bị xâm phạm
 
-[VIDEO: sửa tài khoản Office 365 bị xâm phạm](https://www.microsoft.com/videoplayer/embed/RE2jvOb?pid=ocpVideo0-innerdiv-oneplayer&amp;postJsllMsg=true&amp;maskLevel=20&amp;autoplay=true)
+[VIDEO: sửa tài khoản bị xâm phạm](https://www.microsoft.com/videoplayer/embed/RE2jvOb?pid=ocpVideo0-innerdiv-oneplayer&amp;postJsllMsg=true&amp;maskLevel=20&amp;autoplay=true)
   
 1. [Đặt lại mật khẩu của người dùng](https://docs.microsoft.com/office365/admin/add-users/reset-passwords) ngay lập tức. Không truyền đạt mật khẩu mới thông qua email đến người dùng cuối.
 
@@ -30,5 +30,5 @@ ms.locfileid: "36745455"
 
 5. Xoá tài khoản người dùng khỏi bất kỳ [nhóm vai trò quản trị](https://docs.microsoft.com//office365/admin/add-users/assign-admin-roles) cho đến khi bạn tự tin rằng tài khoản không còn bị xâm phạm.
 
-Để giảm thiểu tiềm năng vi phạm dữ liệu hoặc tài khoản bị xâm phạm trong tương lai, chúng tôi khuyên bạn nên đọc [lộ trình bảo mật Office 365 ](https://docs.microsoft.com//office365/securitycompliance/security-roadmap)của chúng tôi.
+Để giảm thiểu tiềm năng vi phạm dữ liệu hoặc tài khoản bị xâm phạm trong tương lai, chúng tôi khuyên bạn nên đọc [lộ trình bảo mật Microsoft 365 ](https://docs.microsoft.com//office365/securitycompliance/security-roadmap)của chúng tôi.
   

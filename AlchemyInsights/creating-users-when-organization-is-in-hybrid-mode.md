@@ -1,9 +1,9 @@
 ---
-title: 744 người dùng tạo khi tổ chức ở chế độ Hybrid
+title: 744 tạo người dùng khi tổ chức trong chế độ kết hợp
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/26/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,13 +13,13 @@ ms.custom:
 - "744"
 - "1200022"
 ms.assetid: ed17197d-cee9-4539-b3dc-de5ac04efc79
-ms.openlocfilehash: 3300b746e60158db4feac5b1df9f9f95a30c0d9f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2ccad7ce9f2cdfa2c11dc020a0bcb84eec1cf096
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514929"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715290"
 ---
-# <a name="create-users-in-hybrid-deployments"></a>Tạo người dùng trong quá trình triển khai kết hợp
+# <a name="create-users-in-hybrid-deployments"></a>Tạo người dùng trong triển khai kết hợp
 
-Khi tổ chức của bạn là triển khai kết hợp giữa một môi trường tại chỗ và Office 365, bạn cần để tạo ra tất cả các đối tượng người dùng trong Active Directory tại chỗ của bạn. Bạn tạo các đối tượng người dùng ở các đơn vị tổ chức phù hợp (OU) vì vậy họ đang đồng bộ hoá vào các tổ chức Office 365 của mình.
+Khi tổ chức của bạn là một kết hợp triển khai giữa một môi trường tại chỗ và Microsoft 365, bạn cần phải tạo tất cả các đối tượng người dùng trong Active Directory tại chỗ của bạn. Bạn tạo đối tượng người dùng trong đơn vị tổ chức phù hợp (OU) để chúng được đồng bộ hoá vào tổ chức của bạn.

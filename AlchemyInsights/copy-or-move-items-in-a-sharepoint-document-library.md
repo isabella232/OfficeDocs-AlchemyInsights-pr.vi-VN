@@ -3,7 +3,7 @@ title: Sao chép hoặc di chuyển các mục trong thư viện tài liệu Sha
 ms.author: toresing
 author: tomresing
 manager: scotv
-ms.date: 5/24/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +13,12 @@ ms.custom:
 - "454"
 - "5300013"
 ms.assetid: 592f502a-493f-4bf4-adc3-5bc8aea87bb5
-ms.openlocfilehash: 6e14260d3670eb15f73e92dc5b0c86e0e842974a
-ms.sourcegitcommit: efdde3c24a0c1adfb8b6f5f59dcae435fb5c53a8
+ms.openlocfilehash: b8324f596b6830998bb7e659d561a015a7ba2b1a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38711778"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715690"
 ---
 # <a name="copy-or-move-items-in-a-sharepoint-document-library"></a>Sao chép hoặc di chuyển các mục trong thư viện tài liệu SharePoint
 
@@ -46,4 +46,4 @@ Bạn có thể sao chép và di chuyển tệp, thư mục và liên kết đ�
 Để biết thêm thông tin, hãy xem:
 
  - [Di chuyển hoặc sao chép tệp trong SharePoint](https://support.office.com/article/move-or-copy-files-in-sharepoint-00e2f483-4df3-46be-a861-1f5f0c1a87bc) (bài viết hỗ trợ Office)
- - [Di chuyển các tệp từ bất kỳ thư mục nào trong Office 365](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Now-move-files-anywhere-in-Office-365-SharePoint-and-OneDrive/ba-p/146973) (bài viết trên blog của cộng đồng kỹ thuật Microsoft)  
+ - [Di chuyển các tập tin từ bất kỳ thư mục](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Now-move-files-anywhere-in-Office-365-SharePoint-and-OneDrive/ba-p/146973) (Microsoft Tech Community Blog bài viết)  

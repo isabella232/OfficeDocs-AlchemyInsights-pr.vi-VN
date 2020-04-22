@@ -1,9 +1,9 @@
 ---
-title: Làm thế nào để xem và quản lý ứng dụng
+title: Cách xem và quản lý ứng dụng
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 07/09/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000561"
 - "2420"
-ms.openlocfilehash: 5f337a9c4b40c13dcda79eb567c0e287d300dfb1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 63c3b42c046efbcae0f509045a8f3e45e49002ac
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539519"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43717146"
 ---
-# <a name="how-to-view-and-manage-apps"></a>Làm thế nào để xem và quản lý ứng dụng
+# <a name="how-to-view-and-manage-apps"></a>Cách xem và quản lý ứng dụng
 
-Bạn có thể xem các ứng dụng của bạn trong Trung tâm quản trị Microsoft 365. 
+Bạn có thể xem các ứng dụng của mình trong Trung tâm quản trị Microsoft 365. 
 
-1. Trong Trung tâm quản trị, đi đến **thanh toán** > trang[sản phẩm & dịch vụ](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. Trong Trung tâm quản trị, hãy chuyển đến trang sản phẩm **thanh toán** > [& dịch vụ](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. Trên trang **sản phẩm & dịch vụ** , chọn **Apps** tab.
+2. Trên trang **sản phẩm & dịch vụ** , chọn tab **ứng dụng** .

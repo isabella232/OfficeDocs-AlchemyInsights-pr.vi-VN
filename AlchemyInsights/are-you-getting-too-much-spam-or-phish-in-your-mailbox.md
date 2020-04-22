@@ -1,5 +1,5 @@
 ---
-title: Bạn nhận quá nhiều thư rác hoặc phish trong hộp thư của bạn?
+title: Bạn nhận được quá nhiều thư rác hoặc phish trong hộp thư của bạn?
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,19 +10,19 @@ localization_priority: Priority
 ms.custom:
 - "595"
 - "3100017"
-ms.openlocfilehash: 394fb3f3ddb432f45f7410f69627c80f66adb7d8
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 74581bcadf668d5d40c7dcc6d9ac2635875c29fe
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664846"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712624"
 ---
-# <a name="are-you-getting-too-much-spam-or-phish-in-your-mailbox"></a>Bạn nhận quá nhiều thư rác hoặc phish trong hộp thư của bạn?
+# <a name="are-you-getting-too-much-spam-or-phish-in-your-mailbox"></a>Bạn nhận được quá nhiều thư rác hoặc phish trong hộp thư của bạn?
 
-Hãy xem [làm thế nào để giảm thư rác trong Office 365](https://docs.microsoft.com/office365/securitycompliance/reduce-spam-email) cho xử lý sự cố thư rác.
+Xem [cách giảm spam email để](https://docs.microsoft.com/office365/securitycompliance/reduce-spam-email) khắc phục sự cố spam.
   
-Cách tốt nhất để báo cáo các loại vấn đề là:
+Cách tốt nhất để báo cáo các loại vấn đề này là:
   
-1. [Sử các báo cáo add-in](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in) cho người dùng.
+1. [Kích hoạt các báo cáo Add-in](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in) cho người dùng.
 
-2. Có [người dùng báo cáo thư](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) là rác.
+2. Có [người dùng báo cáo thư](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) rác.

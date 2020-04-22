@@ -1,5 +1,5 @@
 ---
-title: Mua một thuê bao cho văn phòng 365 cho doanh nghiệp
+title: Mua một thuê bao cho Microsoft 365 cho doanh nghiệp từ dùng thử miễn phí của bạn
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.custom:
 - "257"
 - "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: a8f44428363a2e507003b524b98a94748bdf5505
-ms.sourcegitcommit: 797f78c27f50485edcf9854552d9dcab175227bf
+ms.openlocfilehash: 6ca30bdc399c4e0bda82f9d53a1a0b482284aa1f
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/10/2020
-ms.locfileid: "43218317"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712229"
 ---
-# <a name="buy-a-subscription-to-office-365-for-business"></a>Mua một thuê bao cho văn phòng 365 cho doanh nghiệp
+# <a name="buy-a-subscription-to-microsoft-365-from-your-free-trial"></a>Mua một thuê bao cho Microsoft 365 từ dùng thử miễn phí của bạn
 
-Bạn đã thử Office 365, và bây giờ bạn đã sẵn sàng để mua. Bạn có hai lựa chọn khi mua Office 365 từ phiên bản dùng thử của bạn:
+Bạn đã thử Microsoft 365, và bây giờ bạn đã sẵn sàng để mua. Bạn có hai lựa chọn khi mua Microsoft 365 từ phiên bản dùng thử của bạn:
   
  **Mua kế hoạch tương tự như phiên tòa của bạn**
   
@@ -35,7 +35,7 @@ Bạn đã thử Office 365, và bây giờ bạn đã sẵn sàng để mua. B�
 
 3. Tìm gói đăng ký mà bạn muốn mua, chọn **mua**và làm theo các bước để kiểm tra.
 
-Để tìm hiểu thêm, hãy xem [mua gói đăng ký Office 365 cho doanh nghiệp từ bản dùng thử miễn phí của bạn](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial).
+Để tìm hiểu thêm, hãy xem [mua gói đăng ký Microsoft 365 dành cho doanh nghiệp từ bản dùng thử miễn phí của bạn](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial).
 
 **Troubleshooting**
 

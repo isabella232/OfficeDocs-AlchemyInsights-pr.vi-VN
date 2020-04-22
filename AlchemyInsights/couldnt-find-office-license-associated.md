@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3421"
 - "9001426"
-ms.openlocfilehash: 1820cdb83a1adf36b4e7d0898ecdf8097eb6f0f3
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 565df0a05baa974a6cbac58ac6be8d78470dbc5d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39627940"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715654"
 ---
 # <a name="fixing-the-office-apps-couldnt-find-office-licenses-associated-message"></a>Khắc phục các ứng dụng Office "không thể tìm thấy giấy phép văn phòng liên kết" thông báo
 
 Nếu bạn nhận được thông báo này, hãy thử như sau:
 
-1. Kiểm tra tường lửa, phần mềm chống vi-rút và cài đặt proxy để xác nhận rằng chúng không chặn truy cập Internet vào các ứng dụng Office. Xem [văn phòng 365 URL và dải địa chỉ IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+1. Kiểm tra tường lửa, phần mềm chống vi-rút và cài đặt proxy để xác nhận rằng chúng không chặn truy cập Internet vào các ứng dụng Office. Xem [Microsoft 365 URL và phạm vi địa chỉ IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 2. Loại bỏ và [gán giấy phép Office](https://docs.microsoft.com/office365/admin/manage/assign-licenses-to-users) cho người dùng bị ảnh hưởng. 
 3. Mở ứng dụng Office và [đăng](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071) xuất khỏi bất kỳ tài khoản người dùng hiện có nào.
 4. Đi tới cài đặt Windows > **tài** > khoản**email & tài khoản**và xóa tất cả tài khoản công việc ngoại trừ tài khoản bị ảnh hưởng.

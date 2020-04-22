@@ -7,22 +7,22 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cd7196af-3ed9-42e6-b594-f51ad265fd63
-ms.openlocfilehash: 216e3606c57af9a7855b154d58d03b4aacc331fc
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: f2f1950f3f0f7b307b0adf50a3cc873f04b66883
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053463"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713236"
 ---
 # <a name="sync-a-users-profile-picture"></a>Đồng bộ hóa ảnh đại diện của người dùng
 
-Bạn có thể thêm hoặc thay đổi ảnh hồ sơ của mình trong Office 365 từ [Office.com](http://www.office.com)hoặc khi sử dụng các ứng dụng Office 365 trên máy tính hoặc trong trình duyệt trên điện thoại của bạn. Ảnh của bạn sẽ xuất hiện ở khắp mọi nơi có vòng tròn ảnh hồ sơ trong Office 365.
+Bạn có thể thêm hoặc thay đổi ảnh hồ sơ của mình trong Microsoft 365 từ [Office.com](https://www.office.com)hoặc trong khi sử dụng các ứng dụng Microsoft trên máy tính hoặc trong trình duyệt trên điện thoại của bạn. Ảnh của bạn sẽ xuất hiện ở khắp mọi nơi có vòng tròn ảnh hồ sơ trong Microsoft 365.
 
-Để thêm ảnh hồ sơ của bạn vào Office 365 cho doanh nghiệp
+Để thêm ảnh hồ sơ của bạn vào Microsoft 365 cho doanh nghiệp
 
 - Tìm ảnh bạn muốn sử dụng và lưu nó trên máy tính, OneDrive hoặc vị trí khác mà bạn có thể nhận được để
 
-- Đăng nhập vào Office 365 với tài khoản làm việc hoặc trường học của bạn tại [Office.com](http://www.office.com).
+- Đăng nhập vào Microsoft 365 với tài khoản của bạn làm việc hoặc trường học tại [Office.com](https://www.office.com).
 
 - Chọn vòng tròn ở góc trên bên phải của trang hiển thị tên viết tắt của bạn hoặc biểu tượng của một người.
 
@@ -30,4 +30,4 @@ Bạn có thể thêm hoặc thay đổi ảnh hồ sơ của mình trong Office
 
 Lưu ý: nếu bạn đã tải lên ảnh mà bạn có thể muốn thử nhấp vào ngăn xếp SharePoint hoặc OneDrive để đồng bộ lại hình ảnh đó.
 
-Để biết thêm thông tin, vui lòng truy cập [thông tin về đồng bộ hóa ảnh hồ sơ trong Office 365](https://support.office.com/article/information-about-profile-picture-synchronization-in-office-365-20594d76-d054-4af4-a660-401133e3d48a).
+Để biết thêm thông tin, vui lòng truy cập [thông tin về đồng bộ hóa ảnh hồ sơ trong Microsoft 365](https://support.office.com/article/information-about-profile-picture-synchronization-in-office-365-20594d76-d054-4af4-a660-401133e3d48a).

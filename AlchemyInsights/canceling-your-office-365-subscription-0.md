@@ -1,9 +1,9 @@
 ---
-title: Hủy đăng ký Office 365 của bạn?
+title: Hủy đăng ký Microsoft 365 của bạn?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,14 +13,14 @@ ms.custom:
 - "86"
 - "1400001"
 ms.assetid: dc0504f1-00ad-4769-be87-492ad98e42f0
-ms.openlocfilehash: 83a0cdcfbdad6a3cb6b6b647613534845c55e75b
-ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
+ms.openlocfilehash: 386d399ddddc553862649b548a58ff42abd0923d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/18/2020
-ms.locfileid: "43552691"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711545"
 ---
-# <a name="canceling-your-office-365-subscription"></a>Hủy đăng ký Office 365 của bạn?
+# <a name="canceling-your-microsoft-365-subscription"></a>Hủy đăng ký Microsoft 365 của bạn?
 
 Chúng tôi rất tiếc khi thấy bạn đi!
   
