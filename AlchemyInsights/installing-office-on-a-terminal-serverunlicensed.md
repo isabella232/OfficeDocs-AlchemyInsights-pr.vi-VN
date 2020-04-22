@@ -10,33 +10,33 @@ ms.custom:
 - "917"
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
-ms.openlocfilehash: 51d1a66fdf9774bbe58bfdbe89317bc93834be09
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 7252efdc0f55b8923e685ec89f9b3c63882aa6b0
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37205431"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763239"
 ---
 # <a name="installing-office-on-a-terminal-server"></a>Cài đặt Office trên máy chủ đầu cuối
 
-Để triển khai Office 365 ProPlus trên Windows Server sử dụng dịch vụ máy tính để bàn từ xa (RDS), trước đây có tên dịch vụ đầu cuối:
+Để triển khai Microsoft 365 ứng dụng dành cho doanh nghiệp trên Windows Server sử dụng dịch vụ máy tính để bàn từ xa (RDS), trước đây có tên dịch vụ đầu cuối:
   
-- Bạn phải có một gói Office 365 bao gồm Office 365 ProPlus, chẳng hạn như Office 365 Enterprise E3 hoặc Enterprise E5. Các gói Office 365 Business và Office 365 Business Premium không bao gồm Office 365 ProPlus.
+- Bạn phải đăng ký Microsoft 365 bao gồm Microsoft 365 ứng dụng dành cho doanh nghiệp, chẳng hạn như Office 365 Enterprise E3 hoặc Enterprise E5. Các ứng dụng Microsoft 365 dành cho doanh nghiệp và Microsoft 365 ứng dụng dành cho doanh nghiệp Premium gói không bao gồm Microsoft 365 ứng dụng dành cho doanh nghiệp.
 
 - Bạn cần bật [kích hoạt máy tính dùng chung](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus).
 
-Nếu bạn muốn cài đặt Office 365 ProPlus trên RDS từ Trung tâm quản trị Microsoft 365, sử ***dụng cài đặt mặc định***, sử dụng các bước sau.
+Nếu bạn muốn cài đặt Microsoft 365 Apps dành cho doanh nghiệp trên RDS từ Trung tâm quản trị Microsoft 365, sử dụng ***cài đặt mặc định***, sử dụng các bước sau.
 
 > [!TIP]
-> Bạn cũng có thể tải xuống và chạy [Microsoft support và Recovery Assistant](https://aka.ms/SaRA_OfficeSCA_M365Portal) để cài đặt Office 365 ProPlus trong chế độ kích hoạt máy tính dùng chung.
+> Bạn cũng có thể tải xuống và chạy [Microsoft support và Recovery Assistant](https://aka.ms/SaRA_OfficeSCA_M365Portal) để cài đặt Microsoft 365 Apps dành cho doanh nghiệp ở chế độ kích hoạt máy tính dùng chung.
   
-1. Kiểm tra những gì Office 365 kế hoạch bạn có. [Tìm hiểu cách](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
+1. Kiểm tra những gì Microsoft 365 đăng ký bạn có. [Tìm hiểu cách](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
 
-2. Nếu cần thiết, chuyển sang một gói Office 365 khác. [Tìm hiểu cách](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)
+2. Nếu cần, chuyển sang đăng ký Microsoft 365 khác. [Tìm hiểu cách](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)
 
-3. Nếu Office đã được cài đặt trên máy chủ RDS sử dụng bất kỳ kế hoạch Office 365 khác, dỡ cài đặt. Ví dụ: bằng cách đi tới Pa \> -nen điều khiển gỡ cài đặt chương trình. Dỡ cài đặt bằng cách sử dụng [Microsoft support và phục hồi](https://aka.ms/SARA-OfficeUninstall-Alchemy) hỗ trợ nếu bạn đang chạy vào vấn đề.
+3. Nếu Office đã được cài đặt trên máy chủ RDS sử dụng bất kỳ đăng ký Microsoft 365 khác, dỡ cài đặt. Ví dụ: bằng cách đi tới Pa \> -nen điều khiển gỡ cài đặt chương trình. Dỡ cài đặt bằng cách sử dụng [Microsoft support và phục hồi](https://aka.ms/SARA-OfficeUninstall-Alchemy) hỗ trợ nếu bạn đang chạy vào vấn đề.
 
-4. Trên máy chủ RDS, đăng nhập vào Trung tâm quản trị Microsoft 365 với tài khoản quản trị viên của bạn và [cài đặt Office 365 ProPlus](https://portal.office.com/OLS/MySoftware.aspx).
+4. Trên máy chủ RDS, đăng nhập vào Trung tâm quản trị Microsoft 365 với tài khoản quản trị viên của bạn và [cài đặt microsoft 365 Apps dành cho doanh nghiệp](https://portal.office.com/OLS/MySoftware.aspx).
 
 5. Sau khi Office được cài đặt, ***không mở hoặc đăng nhập*** vào bất kỳ ứng dụng Office.
 
@@ -48,9 +48,9 @@ Nếu bạn muốn cài đặt Office 365 ProPlus trên RDS từ Trung tâm qu�
 
 3. Trong Registry Editor, thêm một giá trị chuỗi **Sharedcomputerlicensing** với thiết đặt 1 trong HKEY_LOCAL_MACHINE \SOFTWARE\Microsoft \Office\ClickToRun\Configuration.
 
-7. Trên máy chủ RDS, ***đăng nhập là người dùng cuối*** và [xác minh rằng kích hoạt máy tính dùng chung được kích hoạt cho Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded).
+7. Trên máy chủ RDS, ***đăng nhập như người dùng cuối*** và [xác minh rằng kích hoạt chia sẻ máy tính được kích hoạt cho Microsoft 365 ứng dụng dành cho doanh nghiệp](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded).
 
-Để biết thêm chi tiết về điều kiện tiên quyết, hướng dẫn thiết lập và hướng dẫn cài đặt tuỳ chỉnh bằng cách sử dụng công cụ triển khai Office, hãy xem [triển khai Office 365 ProPlus bằng cách sử dụng dịch vụ máy tính để bàn từ xa](https://docs.microsoft.com/DeployOffice/deploy-office-365-proplus-by-using-remote-desktop-services).
+Để biết thêm chi tiết về điều kiện tiên quyết, hướng dẫn thiết lập và hướng dẫn cài đặt tuỳ chỉnh bằng cách sử dụng công cụ triển khai Office, hãy xem [triển khai Microsoft 365 ứng dụng dành cho doanh nghiệp bằng cách sử dụng dịch vụ máy tính để bàn từ xa](https://docs.microsoft.com/DeployOffice/deploy-office-365-proplus-by-using-remote-desktop-services).
   
-Để khắc phục lỗi liên quan đến kích hoạt máy tính dùng chung, vui lòng xem [khắc phục sự cố với kích hoạt máy tính dùng chung cho Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus).
+Để khắc phục lỗi liên quan đến kích hoạt máy tính dùng chung, hãy xem [khắc phục sự cố với kích hoạt máy tính dùng chung cho Microsoft 365 ứng dụng dành cho doanh nghiệp](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus).
   

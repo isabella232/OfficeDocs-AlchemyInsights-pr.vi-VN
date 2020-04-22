@@ -2,7 +2,7 @@
 title: Di chuyển mạng
 ms.author: pebaum
 author: pebaum
-ms.date: 7/27/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,18 +11,18 @@ ms.custom:
 - "716"
 - "6000002"
 ms.assetid: b5ab885c-3803-4cc8-adab-94848e226ffb
-ms.openlocfilehash: 2fb66d68e131d22bc44f0fd878717d5e5e776dac
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: aada8e90d168a4c621dd81ee8d306b934c20d119
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36734727"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761836"
 ---
 # <a name="network-migration"></a>Di chuyển mạng
 
-O365 thuê của bạn có thể kết hợp với nhiều yammer mạng trong một thuê 1: nhiều mạng cấu hình. Bắt đầu từ ngày 16 tháng 2018, yammer sẽ không hỗ trợ nhiều mạng yammer liên kết với một thuê Office 365. Bạn có thể thực hiện một di chuyển mạng để có được một cấu hình 1:1 ưa thích.
+O365 thuê của bạn có thể kết hợp với nhiều yammer mạng trong một thuê 1: nhiều mạng cấu hình. Bắt đầu từ ngày 16 tháng 2018, yammer sẽ không hỗ trợ nhiều mạng yammer liên kết với một đối tượng thuê. Bạn có thể thực hiện một di chuyển mạng để có được một cấu hình 1:1 ưa thích.
   
-- Để xem danh sách các mạng liên kết với đối tượng thuê của bạn, đăng nhập vào yammer như một Office 365 quản trị viên toàn cầu và duyệt **mạng quản trị**, sau đó **di chuyển mạng**. Chọn **tiếp theo**.
+- Để xem danh sách các mạng liên kết với đối tượng thuê của bạn, đăng nhập vào yammer như một quản trị viên toàn cầu và duyệt **mạng quản trị**, sau đó **di chuyển mạng**. Chọn **tiếp theo**.
 
 - Nếu bạn thấy nhiều mạng được liệt kê trên bước 2 của 3, sau đó bạn có nhiều mạng yammer liên kết với người thuê O365 của bạn.
 

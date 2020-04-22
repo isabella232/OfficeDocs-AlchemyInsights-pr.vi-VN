@@ -1,9 +1,9 @@
 ---
-title: Minecraft bản với Office 365 Beta dành cho miễn phí
+title: Minecraft Phiên bản với văn phòng 365 giáo dục miễn phí
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 11/6/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,27 +12,27 @@ ms.custom:
 - "1427"
 - "1500009"
 ms.assetid: 7cf69a77-2212-43a7-bd68-122afd876e59
-ms.openlocfilehash: e4e88f315b94e4b1318fada8abde8413233c41a6
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: aa65e494dce09d4cb54fea29b5b37d6f54c4a089
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36389670"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762087"
 ---
-# <a name="minecraft-edition-with-office-365-education-for-free"></a>Minecraft bản với Office 365 Beta dành cho miễn phí
+# <a name="minecraft-edition-with-office-365-education-for-free"></a>Minecraft Phiên bản với văn phòng 365 giáo dục miễn phí
 
-[Minecraft bản với Office 365 Beta dành cho miễn phí](https://docs.microsoft.com/education/windows/get-minecraft-for-education)
+[Minecraft Phiên bản với văn phòng 365 giáo dục miễn phí](https://docs.microsoft.com/education/windows/get-minecraft-for-education)
   
-- **Minecraft: Education Edition** đòi hỏi Windows 10
+- **Minecraft: Education Edition** yêu cầu Windows 10
 
-- Thử nghiệm hoặc đăng ký của **Minecraft: Education Edition** được cung cấp cho người thuê nhà giáo dục được quản lý bởi Azure Active Directory (Azure AD)
+- Thử nghiệm hoặc đăng ký **Minecraft: Education Edition** được cung cấp cho người thuê giáo dục được quản lý bởi Azure Active Directory (Azure AD)
 
-  - Nếu trường học của bạn không có một người thuê nhà Azure quảng cáo, các [quản trị viên CNTT có thể lập một](https://docs.microsoft.com/education/windows/school-get-minecraft) như một phần của quá trình nhận được **Minecraft: Education Edition**.
+  - Nếu trường của bạn không có đối tượng thuê Azure AD, [quản trị viên CNTT có thể thiết lập một](https://docs.microsoft.com/education/windows/school-get-minecraft) phần của quá trình nhận **Minecraft: Education Edition**.
 
-  - Office 365 giáo dục, trong đó bao gồm các phiên bản trực tuyến của các ứng dụng văn phòng cộng với 1 TB lưu trữ trực tuyến là miễn phí cho giáo viên và học sinh. [Đăng ký trường của bạn cho Office 365 giáo dục](https://products.office.com/academic/office-365-education-plan).
+  - Office 365 Education, bao gồm các phiên bản trực tuyến của các ứng dụng Office cộng với dung lượng trực tuyến 1 TB miễn phí cho giáo viên và học sinh. [Đăng ký trường của bạn cho văn phòng 365 giáo dục](https://products.office.com/academic/office-365-education-plan).
 
-  - Nếu trường học của bạn có một thuê bao Office 365 giáo dục, nó bao gồm một miễn phí đăng ký quảng cáo Azure. [Đăng ký quảng cáo Azure miễn phí đăng ký](https://msdn.microsoft.com/library/windows/hardware/mt703369%28v=vs.85%29.aspx).
+  - Nếu trường của bạn có đăng ký Office 365 Education, gói này bao gồm đăng ký Azure AD miễn phí. [Đăng ký AZURE AD miễn phí của bạn](https://msdn.microsoft.com/library/windows/hardware/mt703369%28v=vs.85%29.aspx).
 
-[Tìm hiểu làm thế nào giáo viên có thể nhận được và phân phối Minecraft: Education Edition](https://docs.microsoft.com/education/windows/teacher-get-minecraft).
+[Tìm hiểu cách giáo viên có thể nhận và phân phối Minecraft: Education Edition](https://docs.microsoft.com/education/windows/teacher-get-minecraft).
   
-[Tìm hiểu cách người quản trị CNTT có thể nhận được và phân phối Minecraft: Education Edition](https://docs.microsoft.com/education/windows/school-get-minecraft), và làm thế nào để quản lý quyền truy cập cho Minecraft.
+[Tìm hiểu cách quản trị viên CNTT có thể nhận và phân phối Minecraft: Education Edition](https://docs.microsoft.com/education/windows/school-get-minecraft)và cách quản lý quyền cho Minecraft.

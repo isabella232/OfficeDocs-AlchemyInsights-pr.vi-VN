@@ -1,9 +1,9 @@
 ---
-title: Tập tin SharePoint Sync với khách hàng mới đồng bộ OneDrive
+title: Đồng bộ hóa tệp SharePoint với khách hàng đồng bộ OneDrive mới
 ms.author: matteva
 author: pebaum
 manager: scotv
-ms.date: 5/17/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,26 +11,26 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: 1e622e675b55edbd2a3b381ba3aa529bd84902f7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bfb3910115067823bec7e9f000511b785eb7ba41
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36534225"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767019"
 ---
-# <a name="sync-sharepoint-files-with-the-new-onedrive-sync-client"></a>Tập tin SharePoint Sync với khách hàng mới đồng bộ OneDrive
+# <a name="sync-sharepoint-files-with-the-new-onedrive-sync-client"></a>Đồng bộ hóa tệp SharePoint với khách hàng đồng bộ OneDrive mới
 
-1. Trong Trung tâm quản trị mới SharePoint, chọn **cài đặt**.
+1. Trong Trung tâm quản trị SharePoint mới, chọn **cài đặt**.
     
-2. Đảm bảo rằng "Nút đồng bộ OneDrive" được thiết lập để "Hiển thị nút Sync".
+2. Đảm bảo rằng "nút đồng bộ OneDrive" được đặt thành "Hiển thị nút đồng bộ hóa."
     
-3. Đối với "Sync Client cho SharePoint," chọn **bắt đầu khách hàng mới**.
+3. Đối với "khách hàng đồng bộ hoá cho SharePoint", **hãy chọn khởi động máy khách mới**.
     
     > [!NOTE]
-    > Nếu tùy chọn này không xuất hiện, tổ chức của bạn đã thiết lập để sử dụng khách hàng mới đồng bộ OneDrive để đồng bộ hóa tập tin SharePoint. 
+    > Nếu tuỳ chọn này không xuất hiện, tổ chức của bạn đã được thiết lập để sử dụng máy khách đồng bộ OneDrive mới để đồng bộ hóa tệp SharePoint. 
   
 4. Bấm **OK**.
     
-Để biết thêm chi tiết, hãy xem [cho phép người dùng đồng bộ tập tin SharePoint với khách hàng mới đồng bộ OneDrive](https://go.microsoft.com/fwlink/?linkid=866433). Để được hướng dẫn để cung cấp cho người dùng của bạn, xem [Sync SharePoint các tập tin với các khách hàng mới đồng bộ OneDrive](https://go.microsoft.com/fwlink/?linkid=866427).
+Để biết thêm thông tin, hãy xem cho [phép người dùng đồng bộ hoá tệp SharePoint với khách hàng đồng bộ OneDrive mới](https://go.microsoft.com/fwlink/?linkid=866433). Để biết hướng dẫn cung cấp cho người dùng của bạn, hãy xem [đồng bộ hóa tệp SharePoint với khách hàng đồng bộ OneDrive mới](https://go.microsoft.com/fwlink/?linkid=866427).
   
 

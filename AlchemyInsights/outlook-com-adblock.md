@@ -3,7 +3,7 @@ title: Outlook.com AdBlock
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/6/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.custom:
 - "9000594"
 - "2438"
-ms.openlocfilehash: 4f0eb41b63d7654ea793952c7d7eac6e16856310
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a2755867c118f4ced86add738e8de11c7364d25a
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36538294"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761082"
 ---
-# <a name="adblock"></a>AdBlock
+# <a name="adblock"></a>Adblock
 
-Một số người dùng hiện nay đang gặp vấn đề khi đọc hoặc soạn email khi sử dụng Google Chrome với tiện ích mở rộng AdBlock. Để làm việc xung quanh vấn đề này:
+Một số người dùng hiện đang gặp sự cố khi đọc hoặc soạn email khi sử dụng Google Chrome với phần mở rộng AdBlock. Để khắc phục sự cố này:
 
-1. Sử dụng [Microsoft Edge](https://www.microsoft.com/windows/microsoft-edge) hoặc một trình duyệt web.
-1. Loại trừ Outlook.com từ cài đặt AdBlock.Ở góc trên bên phải của Google Chrome, chọn **AdBlock** và sau đó chọn **không chạy trên các trang web trên tên miền này**.Làm mới trình duyệt của bạn để tải Outlook.com một lần nữa.
+1. Sử dụng [Microsoft Edge](https://www.microsoft.com/windows/microsoft-edge) hoặc trình duyệt web khác.
+1. Loại trừ Outlook.com từ cài đặt AdBlock.Ở góc trên cùng bên phải của Google Chrome, chọn **Adblock** rồi chọn **không chạy trên các trang trên tên miền này**.Làm mới trình duyệt của bạn để tải lại Outlook.com.
