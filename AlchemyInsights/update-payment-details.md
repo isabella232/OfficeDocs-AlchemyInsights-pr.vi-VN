@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "428"
 - "1500016"
-ms.openlocfilehash: b5f22ebd28afb742e483576009a7844c0058e918
-ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
+ms.openlocfilehash: 560228d28399db175615126fca50d3578d79a83a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/31/2020
-ms.locfileid: "43059902"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720087"
 ---
 # <a name="update-credit-card-information"></a>Cập nhật thông tin thẻ tín dụng
 
@@ -40,4 +40,4 @@ ms.locfileid: "43059902"
 
 Nếu bạn gặp sự cố khi tải trang, hãy thử mở trang web trong một trình duyệt khác hoặc thử mở trang một cửa sổ trình duyệt riêng, chẳng hạn như cửa sổ InPrivate trong Microsoft Edge hoặc cửa sổ ẩn danh trong Google Chrome. 
 
-Để biết thêm thông tin, xem [Thêm, Cập Nhật hoặc xóa thẻ tín dụng hoặc tài khoản ngân hàng trong Office 365 dành cho doanh nghiệp](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) và [khắc phục sự cố thẻ tín dụng và tài khoản ngân hàng](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
+Để biết thêm thông tin, xem [Thêm, Cập Nhật hoặc xóa thẻ tín dụng hoặc tài khoản ngân hàng trong Microsoft 365 cho doanh nghiệp](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) và [khắc phục sự cố thẻ tín dụng và tài khoản ngân hàng](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).

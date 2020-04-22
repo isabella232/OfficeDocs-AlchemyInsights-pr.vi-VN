@@ -1,9 +1,9 @@
 ---
-title: Gia hạn thuê bao
+title: Gia hạn đăng ký
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 6/6/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,21 +13,21 @@ ms.custom:
 - "493"
 - "1500032"
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
-ms.openlocfilehash: 74d558db780958ea5d5fa56382e852b8684e550a
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 0ac7d1077319ab8b9aeef281b880a766b3cd98f2
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666034"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43741849"
 ---
-# <a name="subscription-recurring-billing"></a>Đăng ký theo định kỳ thanh toán
+# <a name="subscription-recurring-billing"></a>Đăng ký thanh toán định kỳ
 
-Nếu bạn muốn biết khi của bạn hàng tháng hoặc hàng năm đăng ký Office 365 sẽ được lập hoá đơn (nếu **thanh toán Recurring** được bật) hoặc hết hạn (nếu **thanh toán Recurring** tắt):
+Nếu bạn muốn biết khi nào đăng ký hàng tháng hoặc năm của bạn sẽ được **lập hóa đơn** (nếu tính năng thanh toán định kỳ được bật) hoặc hết hạn (nếu **thanh toán định kỳ** bị tắt):
   
-1. Trong Trung tâm quản trị, đi đến **thanh toán** \> trang [sản phẩm & dịch vụ](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. Trong Trung tâm quản trị, hãy chuyển đến trang sản phẩm **thanh toán** \> [& dịch vụ](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. Cho các thuê bao mà bạn muốn biết thêm về, theo **thanh toán**, xem **Renews trên** hoặc **Expiring trên** ngày.
+2. Đối với đăng ký mà bạn muốn biết thêm về, dưới **thanh toán**, xem **renews trên** hoặc hết hạn **vào** ngày.
 
-4. Để làm cho một sự thay đổi, hãy chọn **chỉnh sửa** và sau đó, trong cửa sổ cài đặt **thanh toán Recurring** , chọn **Turn OFF** để tắt nó đi. Nếu thanh toán định kỳ đã tắt, hãy chọn **hàng tháng** hoặc **một lần** để biến nó trên.
+4. Để thực hiện thay đổi, hãy chọn **chỉnh sửa** và sau đó trong ngăn cài đặt **thanh toán định kỳ** , chọn **tắt** để tắt. Nếu thanh toán định kỳ đã bị tắt, hãy chọn **hàng tháng** hoặc **một lần** để bật tính năng này.
 
-Để tìm hiểu thêm, hãy xem [bật định kỳ thanh toán hết hoặc trên](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription).
+Để tìm hiểu thêm, [hãy xem bật hoặc tắt tính năng thanh toán định kỳ](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription).

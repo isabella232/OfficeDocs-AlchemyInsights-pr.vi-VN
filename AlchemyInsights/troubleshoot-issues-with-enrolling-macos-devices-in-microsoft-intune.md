@@ -1,9 +1,9 @@
 ---
-title: Gỡ rối các vấn đề với đăng ký thiết bị macOS trong Microsoft Intune
+title: Khắc phục sự cố đăng ký thiết bị macOS trong Microsoft InTune
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 10/24/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,22 +12,22 @@ ms.assetid: 71174bae-870a-4d5b-856b-891a054cf61e
 ms.custom:
 - "781"
 - "6200002"
-ms.openlocfilehash: 6c2293852554ce9be066975c4b8937444e544779
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b5322a6054294ff475323ade91a052e2dd678a37
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36500021"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43736144"
 ---
-# <a name="troubleshoot-issues-with-enrolling-macos-devices-in-microsoft-intune"></a>Gỡ rối các vấn đề với đăng ký thiết bị macOS trong Microsoft Intune
+# <a name="troubleshoot-issues-with-enrolling-macos-devices-in-microsoft-intune"></a>Khắc phục sự cố đăng ký thiết bị macOS trong Microsoft InTune
 
-Xem xét các nguồn tài nguyên được liệt kê dưới đây để giải quyết vấn đề của bạn bây giờ.
+Hãy đánh giá các tài nguyên được liệt kê bên dưới để giải quyết vấn đề của bạn ngay bây giờ.
   
-1. Sử dụng [Cổng thông tin khắc phục sự cố dành](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) để chẩn đoán và giải quyết chung đăng ký thất bại. Xem lại [tài liệu này](https://docs.microsoft.com/intune/help-desk-operators) cho biết thêm chi tiết.
+1. Sử dụng [InTune khắc phục sự cố cổng](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) để chẩn đoán và giải quyết lỗi đăng ký chung. Đánh giá [tài liệu này](https://docs.microsoft.com/intune/help-desk-operators) để biết thêm chi tiết.
 
-2. Xem lại [tài liệu này](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune) cho một danh sách các lỗi phổ biến mà ngăn chặn ghi danh và độ phân giải cho mỗi.
+2. Đánh giá [tài liệu này](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune) để biết danh sách các lỗi phổ biến ngăn chặn đăng ký và giải pháp cho mỗi.
 
-3. [Tìm hiểu làm thế nào để ghi danh macOS thiết bị trong Microsoft dành](https://docs.microsoft.com/intune/macos-enroll).
+3. [Tìm hiểu cách đăng ký thiết bị macOS trong Microsoft InTune](https://docs.microsoft.com/intune/macos-enroll).
 
-[Kiểm tra người dùng cuối hướng dẫn để đăng ký thiết bị macOS trong Microsoft Intune](https://docs.microsoft.com/intune-user-help/enroll-your-device-in-intune-macos-cp)
+[Kiểm tra hướng dẫn sử dụng cuối để đăng ký thiết bị macOS trong Microsoft InTune](https://docs.microsoft.com/intune-user-help/enroll-your-device-in-intune-macos-cp)
   

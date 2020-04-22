@@ -1,8 +1,8 @@
 ---
-title: Câu hỏi liên quan đến văn phòng 2019
+title: Các câu hỏi liên quan đến Office 2019
 ms.author: janellem
 author: janellem
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -12,26 +12,26 @@ ms.custom:
 - "1251"
 - "2000023"
 ms.assetid: 7fc322ce-08fa-4b87-98ac-c8a35bd6c8ee
-ms.openlocfilehash: f00109e467c5ef853f9312f57a7f966288a0bb0c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b4f02dcd8415414068b62497d647474c4b8f8d4d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36553634"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43719825"
 ---
 # <a name="about-office-2019"></a>Về Office 2019
 
-Office 2019 là dành cho khách hàng những người chưa sẵn sàng cho các đám mây hoặc có một nhu cầu cụ thể cho chỗ hoặc kết hợp triển khai văn phòng. Nó bao gồm một tập hợp con có ý nghĩa của các tính năng đã có được thêm vào Office 365 trong ba năm qua, nhưng nó không phải là một phần của Office 365.
+Office 2019 dành cho khách hàng chưa sẵn sàng cho đám mây chưa hoặc có nhu cần cụ thể về triển khai Office tại chỗ hoặc kết hợp. Nó bao gồm một tập hợp con có ý nghĩa các tính năng đã được thêm vào Microsoft 365 trong ba năm qua, nhưng nó không phải là một phần của Microsoft 365.
   
-Office 365 ProPlus, phiên bản cloud kết nối của văn phòng, mang lại những kinh nghiệm văn phòng hiệu quả nhất và an toàn nhất. Cung cấp quyền truy cập vào một bộ các dịch vụ vượt ra ngoài những gì phiên bản chỗ có hoàn toàn làm chủ và nhận được bản cập nhật tính năng mới trên cơ sở liên tục.
+Microsoft 365 ứng dụng dành cho doanh nghiệp, phiên bản Office được kết nối với đám mây, mang đến trải nghiệm Office hiệu quả nhất và an toàn nhất. Nó cung cấp quyền truy cập vào một bộ dịch vụ ngoài những gì các phiên bản tại chỗ có và nhận được cập nhật tính năng mới trên cơ sở liên tục.
   
-Vì vậy, nếu bạn có các ứng dụng máy tính để bàn văn phòng như một phần của đăng ký Office 365 của bạn bạn đã có phiên bản mới nhất của Office.
+Vì vậy, nếu bạn có các ứng dụng Office trên máy tính như một phần của gói đăng ký Microsoft 365 của bạn, bạn đã có phiên bản mới nhất của Office.
   
 Để biết thêm thông tin, hãy xem:
   
-[Office 2019 thương mại cho Windows và Mac câu hỏi thường gặp](https://support.microsoft.com/help/4133312)
+[Các câu hỏi thường gặp về Office 2019 Commercial dành cho Windows và Mac](https://support.microsoft.com/help/4133312)
   
-[Số phiên bản của Office 2019 tạm trú tại 16.0](https://docs.microsoft.com/deployoffice/office2019/overview)
+[Số phiên bản chính của Office 2019 đang ở tại 16,0](https://docs.microsoft.com/deployoffice/office2019/overview)
   
-[Năm tên gọi Office 2016 và Office 365 khách hàng ứng dụng sẽ được gỡ bỏ từ mục menu bắt đầu](https://support.office.com/article/8fe5e052-76d2-49de-af30-2e84ed3da907?wt.mc_id=Alchemy_ClientDIA)
+[Tên năm trong Office 2016 và Microsoft 365 ứng dụng khách hàng sẽ bị xoá khỏi menu bắt đầu mục](https://support.office.com/article/8fe5e052-76d2-49de-af30-2e84ed3da907?wt.mc_id=Alchemy_ClientDIA)
   

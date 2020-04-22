@@ -3,7 +3,7 @@ title: Người thuê nhà đang thí thác trong ứng dụng hỗ trợ cho Ou
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 2/24/2020
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "3441"
 - "9001442"
-ms.openlocfilehash: b21174ceefb4a9222854f450ddef91f06e39157e
-ms.sourcegitcommit: 1e624fbebbe70f064cd24e3347d70a75caedf840
+ms.openlocfilehash: 646a65a4cb068b1c91c52c42d55fe09e62421f9d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 02/24/2020
-ms.locfileid: "42260581"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720454"
 ---
 # <a name="your-tenant-is-piloting-in-app-support-for-outlook"></a>Người thuê của bạn đang kiểm tra hỗ trợ trong ứng dụng cho Outlook
 

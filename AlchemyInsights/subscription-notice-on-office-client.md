@@ -1,9 +1,9 @@
 ---
-title: Thông báo đăng ký trên văn phòng khách hàng
+title: Thông báo đăng ký trên máy khách Office
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 2/24/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,18 +13,17 @@ ms.custom:
 - "56"
 - "1600007"
 ms.assetid: 07b5e37e-c6f5-47fc-bd6f-9419a77d2320
-ms.openlocfilehash: 03bd18b0ca7af8f3102041c4f6fd604bb29737f8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 661ac7b7c7a6556ab22d08e9fc0e8d6e25d7133c
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559791"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43741885"
 ---
-# <a name="subscription-notice-in-your-office-client"></a>Đăng ký các thông báo trong ứng dụng văn phòng của bạn?
+# <a name="subscription-notice-in-your-office-client"></a>Thông báo đăng ký trong ứng dụng Office của bạn?
 
-Chỗ ở này có vẻ như bạn đang nhìn thấy một thông báo trong ứng dụng văn phòng của bạn liên quan đến trạng thái của bạn đăng ký Office 365. Bạn có thể tìm thấy thông tin về làm thế nào để sửa chữa các vấn đề trong bài viết này: [một thông báo đăng ký sẽ xuất hiện khi tôi mở một ứng dụng Office 365](https://support.office.com/article/A-subscription-notice-appears-when-I-open-an-Office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb.aspx)
+Có vẻ như bạn đang nhìn thấy một thông báo trong ứng dụng khách Office liên quan đến trạng thái đăng ký của bạn. Bạn có thể tìm thông tin về cách khắc phục sự cố trong bài viết này: [một thông báo đăng ký xuất hiện khi tôi mở một ứng dụng Microsoft 365](https://support.office.com/article/A-subscription-notice-appears-when-I-open-an-Office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb.aspx)
   
-Nếu bạn đăng ký Office 365 là thông tin mới nhất, bạn có thể đã đánh trúng một vấn đề tạm thời mà gây ra của bạn kích hoạt Office để thất bại. Có những bước đơn giản bạn có thể làm để tránh các thư này, như kiểm tra thời gian máy tính của bạn, hoạt động văn phòng như quản trị và đăng nhập để kích hoạt. Bạn có thể tìm thấy chi tiết các bước để sửa chữa những vấn đề trong bài viết này: [không có giấy phép sản phẩm và kích hoạt lỗi trong văn phòng](https://support.office.com/article/Unlicensed-Product-and-activation-errors-in-Office-0d23d3c0-c19c-4b2f-9845-5344fedc4380.aspx).
+Nếu đăng ký của bạn được Cập Nhật, bạn có thể đã nhấn một vấn đề tạm thời khiến kích hoạt Office của bạn không thành công. Có các bước đơn giản bạn có thể thực hiện để tránh những thông báo này, như kiểm tra thời gian máy tính của bạn, chạy Office làm quản trị viên và đăng nhập để kích hoạt. Bạn có thể tìm thấy các bước chi tiết để khắc phục các sự cố trong bài viết này: [không có giấy phép sản phẩm và kích hoạt lỗi](https://support.office.com/article/Unlicensed-Product-and-activation-errors-in-Office-0d23d3c0-c19c-4b2f-9845-5344fedc4380.aspx).
   
-Nếu chúng không làm việc cho bạn, xin vui lòng liên hệ với các liên kết dưới đây và chúng tôi sẽ được vui để giúp đỡ.
-  
+Nếu những không làm việc cho bạn, xin vui lòng liên hệ với chúng tôi với các liên kết dưới đây và chúng tôi sẽ được vui để giúp đỡ.

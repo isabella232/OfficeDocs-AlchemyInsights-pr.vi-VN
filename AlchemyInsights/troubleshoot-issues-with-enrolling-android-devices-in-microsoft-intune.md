@@ -1,9 +1,9 @@
 ---
-title: Gỡ rối các vấn đề với đăng ký các thiết bị Android trong Microsoft Intune
+title: Khắc phục sự cố với ghi danh thiết bị Android trong Microsoft InTune
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 10/24/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,35 +12,35 @@ ms.assetid: d0269461-20a8-4c9e-83b2-8fcf608dc0a5
 ms.custom:
 - "787"
 - "6200002"
-ms.openlocfilehash: 1e1d50c31df588a3416d758d40fbd7bde3f73b21
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bd6d278ebf6cca7fb6e4ac1049deae600b516707
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36500093"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759642"
 ---
-# <a name="troubleshoot-issues-with-enrolling-android-devices-in-microsoft-intune"></a>Gỡ rối các vấn đề với đăng ký các thiết bị Android trong Microsoft Intune
+# <a name="troubleshoot-issues-with-enrolling-android-devices-in-microsoft-intune"></a>Khắc phục sự cố với ghi danh thiết bị Android trong Microsoft InTune
 
-Xem xét các nguồn tài nguyên được liệt kê dưới đây để giải quyết vấn đề của bạn bây giờ.
+Hãy đánh giá các tài nguyên được liệt kê bên dưới để giải quyết vấn đề của bạn ngay bây giờ.
   
 Một số vấn đề thường gặp và các bước giải quyết:
   
- **Thiết bị không mã hóa lỗi vào cổng thông tin công ty:** Các phiên bản mới hơn của Android, đặc biệt là bắt đầu với v7.0, yêu cầu mã khóa khởi động để đảm bảo rằng thiết bị của bạn đã được mã hóa hoàn toàn. Giải pháp phổ biến là để kích hoạt một pin khởi động hoặc đầy đủ mã hóa thiết bị. Xem lại [tài liệu này](https://docs.microsoft.com/intune-user-help/your-device-appears-encrypted-but-cp-says-otherwise-android) cho biết thêm thông tin.
+ **Thiết bị không được mã hoá lỗi trong cổng công ty:** Các phiên bản Android mới hơn, đặc biệt bắt đầu với v 7.0, yêu cầu mật mã khởi động để đảm bảo rằng thiết bị của bạn được mã hóa hoàn toàn. Các giải pháp phổ biến là kích hoạt pin khởi động hoặc mã hóa đầy đủ thiết bị. Đánh giá [tài liệu này](https://docs.microsoft.com/intune-user-help/your-device-appears-encrypted-but-cp-says-otherwise-android) để biết thêm thông tin.
   
- **Thiết bị không kiểm tra tại với các dịch vụ dành hoặc hiển thị là "Không lành mạnh" trong giao diện điều khiển admin dành:** Một số 4,4 Samsung và các thiết bị 5.5 có thể không đánh dấu vào dịch vụ. 3 các giải pháp cho vấn đề này có:
+ **Thiết bị không thể kiểm tra với dịch vụ InTune hoặc hiển thị là "không lành mạnh" trong bảng điều khiển quản trị InTune:** Một số thiết bị Samsung 4,4 và 5,5 có thể không kiểm tra vào dịch vụ. Có 3 giải pháp có thể cho vấn đề này:
   
-1. Tự mở ứng dụng cổng thông tin công ty dành, sẽ tự động bắt đầu một đồng bộ thiết bị.
+1. Mở thủ công ứng dụng cổng thông tin công ty InTune, sẽ tự động khởi tạo đồng bộ hóa thiết bị.
 
-2. Cập nhật các thiết bị Android 6.0 hoặc cao hơn.
+2. Cập Nhật thiết bị lên Android 6,0 trở lên.
 
-3. Vô hiệu hóa Samsung Smart Manager quản lý cổng thông tin công ty dành. Xem lại [tài liệu này](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune#devices-fail-to-check-in-with-the-intune-service-and-display-as-unhealthy-in-the-intune-admin-console) cho biết thêm chi tiết về các vấn đề và độ phân giải.
+3. Vô hiệu hoá Samsung Smart Manager từ quản lý cổng thông tin công ty InTune. Xem lại [tài liệu này](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune#devices-fail-to-check-in-with-the-intune-service-and-display-as-unhealthy-in-the-intune-admin-console) để biết thêm chi tiết về các vấn đề và nghị quyết.
 
- **Không hợp người dùng giấy phép loại lệ** hoặc **dùng tên không công nhận lỗi:** người sử dụng cần phải được gán một giấy phép dành hoặc EMS. Xem xét các tài liệu này để gán một giấy phép thông qua: Cổng thông tin Trung tâm quản trị văn phòng hoặc Azure.
+ **Người dùng loại giấy phép không hợp lệ** hoặc **tên người dùng không được nhận dạng lỗi:** người dùng cần được gán một giấy phép InTune hoặc EMS. Đánh giá các tài liệu này để gán giấy phép thông qua: Trung tâm quản trị văn phòng hoặc cổng thông tin Azure.
   
 Tài nguyên bổ sung để giúp giải quyết vấn đề của bạn:
   
-1. Sử dụng [Cổng thông tin khắc phục sự cố dành](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) để chẩn đoán và giải quyết chung đăng ký thất bại. Xem lại [tài liệu này](https://docs.microsoft.com/intune/help-desk-operators) cho biết thêm chi tiết.
+1. Sử dụng [InTune khắc phục sự cố cổng](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) để chẩn đoán và giải quyết lỗi đăng ký chung. Đánh giá [tài liệu này](https://docs.microsoft.com/intune/help-desk-operators) để biết thêm chi tiết.
 
-2. Xem lại [tài liệu này](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) cho một danh sách các lỗi phổ biến mà ngăn chặn ghi danh và độ phân giải cho mỗi.
+2. Đánh giá [tài liệu này](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) để biết danh sách các lỗi phổ biến ngăn chặn đăng ký và giải pháp cho mỗi.
 
-3. [Tìm hiểu làm thế nào để đăng ký các thiết bị Android trong Microsoft dành](https://docs.microsoft.com/intune/android-enroll).
+3. [Tìm hiểu cách đăng ký thiết bị Android trong Microsoft InTune](https://docs.microsoft.com/intune/android-enroll).

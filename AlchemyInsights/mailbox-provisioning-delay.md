@@ -1,25 +1,25 @@
 ---
-title: Trì hoãn cung cấp hộp thư
+title: Trễ cung cấp hộp thư
 ms.author: dmaguire
 author: msdmaguire
 manager: dansimp
-ms.date: 2/8/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a994658a-08e1-400e-9ae9-2663edd0d11e
-ms.openlocfilehash: ef9b7663b8230366764e5ff7bfa176d5cea3f4a9
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 03d5f0e5cf8bf0d74dcef488de2c1fbc12d82cf0
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36542487"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762699"
 ---
-# <a name="your-users-mailbox-is-being-created"></a>Hộp thư của người dùng của bạn đang được tạo ra
+# <a name="your-users-mailbox-is-being-created"></a>Hộp thư người dùng của bạn đang được tạo
 
-Nó có thể mất đến một giờ trước khi một hộp thư mới đã sẵn sàng để sử dụng.
+Có thể mất đến một giờ trước khi hộp thư mới sẵn sàng sử dụng.
   
-Nếu hộp thư người dùng đã "chuẩn bị" cho hơn một giờ, bạn có thể thử xóa và sau đó tạo lại cho người dùng, hoặc sử dụng tùy chọn "Hãy để chúng tôi gọi bạn" nói chuyện với một kỹ sư hỗ trợ.
+Nếu hộp thư của người dùng đã "chuẩn bị" trong hơn một giờ, bạn có thể thử xóa và sau đó tạo lại người dùng hoặc sử dụng tùy chọn "để chúng tôi gọi cho bạn" để nói chuyện với một kỹ sư hỗ trợ.
   
 

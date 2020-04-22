@@ -3,7 +3,7 @@ title: Nhãn độ nhạy không xuất hiện
 ms.author: pebaum
 author: pebaum
 manager: laurawi
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: admin
 ms.topic: article
 ms.prod: office-online-server
@@ -12,22 +12,22 @@ localization_priority: Normal
 ms.custom:
 - "1778"
 - "9000181"
-ms.openlocfilehash: 67719380aea0481f96c03fa591542e8e5a6e6993
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 72dc88a55b55954f34c95fa5b5038f472261c5bb
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40048674"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758540"
 ---
 # <a name="sensitivity-labels-not-appearing"></a>Nhãn độ nhạy không xuất hiện
 
-Nhãn nhạy cảm cho phép bạn phân loại và giúp bảo vệ nội dung nhạy cảm của mình. Chúng có thể được tạo ra trong Trung tâm tuân thủ Microsoft 365, Trung tâm bảo mật Microsoft 365 hoặc văn phòng 365 bảo mật & Trung tâm tuân thủ phân loại > độ nhạy nhãn. Để tìm hiểu thêm về tính năng này, hãy xem [tổng quan về các nhãn nhạy cảm](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels).
+Nhãn nhạy cảm cho phép bạn phân loại và giúp bảo vệ nội dung nhạy cảm của mình. Chúng có thể được tạo ra trong Trung tâm tuân thủ Microsoft 365, Trung tâm bảo mật Microsoft 365 hoặc Microsoft 365 bảo mật & tuân thủ trung tâm trong phân loại > độ nhạy nhãn. Để tìm hiểu thêm về tính năng này, hãy xem [tổng quan về các nhãn nhạy cảm](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels).
 
 Nếu bạn đã định cấu hình nhãn nhạy cảm nhưng chúng không xuất hiện trong các ứng dụng Office, hãy kiểm tra sau:
 
 - Xác nhận rằng nhãn nhạy cảm đã được [xuất bản](https://docs.microsoft.com/Office365/SecurityCompliance/sensitivity-labels#what-label-policies-can-do) cho người dùng và nhóm mà bạn muốn.
 
-- Xác nhận rằng người dùng đang sử dụng một ứng dụng hỗ trợ nhãn nhạy cảm-xem [nhãn nhạy cảm trong tài liệu của bạn](https://support.office.com/article/apply-sensitivity-labels-to-your-documents-and-email-within-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?ad=US&ui=en-US&rs=en-US#bkmk_whereavailable).
+- Xác nhận rằng người dùng đang sử dụng một ứng dụng hỗ trợ nhãn nhạy cảm-xem [nhãn nhạy cảm trong tài liệu của bạn](https://support.office.com/article/apply-sensitivity-labels-to-your-documents-and-email-within-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?#bkmk_whereavailable).
 
 - Nếu bạn đang [di chuyển các nhãn bảo vệ thông tin Azure](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels), hãy lưu ý các cân nhắc được liệt kê [ở đây](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#considerations-for-unified-labels).
 

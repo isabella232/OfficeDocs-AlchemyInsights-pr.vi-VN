@@ -1,9 +1,9 @@
 ---
-title: Ngăn chặn đăng nhập tự động vào Outlook.com
+title: Dừng đăng nhập tự động vào Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +12,16 @@ ms.custom:
 - "853"
 - "8000008"
 ms.assetid: e7b3ce1b-9291-49ec-b6a6-4dad0f4d6880
-ms.openlocfilehash: 6ea25d3340c00cf05d166418470a0ca5f5490f34
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6e3ff70bb9f059790b127fa9da3265fa593f1d53
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36511905"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722362"
 ---
-# <a name="how-to-stop-signing-in-automatically"></a>Làm thế nào để ngăn chặn đăng nhập tự động
+# <a name="how-to-stop-signing-in-automatically"></a>Cách dừng đăng nhập tự động
 
-Để ngừng đăng nhập vào Outlook.com tự động, bỏ chọn hộp cho **tôi đăng nhập** vào trang mà bạn nhập mật khẩu của bạn.
+Để dừng đăng nhập vào Outlook.com tự động, hãy bỏ chọn hộp cho **tôi đăng** nhập trên trang mà bạn gõ mật khẩu.
   
-Để tìm hiểu thêm, hãy xem [làm thế nào để đăng nhập vào hoặc ra khỏi Outlook.com](https://support.office.com/article/e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy).
+Để tìm hiểu thêm, hãy xem [cách đăng nhập vào hoặc ra khỏi Outlook.com](https://support.office.com/article/e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy).
   

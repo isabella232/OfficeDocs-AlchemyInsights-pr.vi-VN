@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1870"
 - "900072"
-ms.openlocfilehash: 74151ed149c57ceebc841902796189f6638795a9
-ms.sourcegitcommit: c5e800313a6f211386a384716e5fa18e7fcc8c1c
+ms.openlocfilehash: cbf3db148e16ba6631e9077f893a18d3e1b977af
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 01/28/2020
-ms.locfileid: "41571265"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722832"
 ---
 # <a name="redirected-to-delve-after-you-click-onedrive"></a>Chuyển hướng tới delve sau khi bạn bấm OneDrive
 
 Xem [hướng dẫn khắc phục sự cố](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning)chi tiết của chúng tôi.
 
-Để khắc phục sự cố này, quản trị viên Office 365 phải cấp cho người dùng quyền tạo trang web của tôi. Điều này là do OneDrive cho doanh nghiệp trang được tạo trên trang web của tôi.
+Để khắc phục sự cố này, quản trị viên phải cấp cho người dùng quyền tạo trang web của tôi. Điều này là do OneDrive cho doanh nghiệp trang được tạo trên trang web của tôi.
 
 Để cấp quyền này, hãy làm theo các bước sau:
 

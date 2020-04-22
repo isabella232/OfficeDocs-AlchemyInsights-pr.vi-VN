@@ -3,7 +3,7 @@ title: Outlook.com MSA chứng minh
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/5/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -15,24 +15,24 @@ ms.custom:
 - "1010"
 - "8000060"
 ms.assetid: a4403b0c-6f4c-4e2f-b3bd-4e814de10aff
-ms.openlocfilehash: 7a547841700f739f59ac17969e444f781093fb2e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 79fcfdd0bd7336167b06aac5180411fede3e3607
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36535989"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43745923"
 ---
-# <a name="security-info-and-security-codes"></a>Thông tin an ninh và bảo mật mã
+# <a name="security-info-and-security-codes"></a>Thông tin bảo mật và mã bảo mật
 
-Để thêm thông tin bảo mật cho tài khoản Microsoft của bạn:
+Để thêm thông tin bảo mật vào tài khoản Microsoft của bạn:
 
-1. Đăng [an ninh](https://account.microsoft.com/security) căn bản với tài khoản Microsoft của bạn.
-1. Chọn **bảo mật thông tin liên lạc**.
-1. Chọn **thêm an ninh thông tin** và làm theo các hướng dẫn để nhập địa chỉ email hoặc số điện thoại.
-1. Bạn sẽ nhận được một mã số an ninh tại địa chỉ email hoặc số điện thoại. Nhập mã bảo mật mà bạn nhận được trong cửa sổ **Add an ninh thông tin** và chọn **tiếp theo**.
+1. Đăng nhập vào thông tin [cơ bản về bảo mật](https://account.microsoft.com/security) bằng tài khoản Microsoft của bạn.
+1. Chọn **thông tin liên hệ bảo mật**.
+1. Chọn **thêm thông tin bảo mật** và làm theo hướng dẫn để nhập số điện thoại hoặc địa chỉ email.
+1. Bạn sẽ nhận được mã bảo mật tại số điện thoại hoặc địa chỉ email đó. Nhập mã bảo mật bạn nhận được trong cửa sổ **thêm thông tin bảo mật** và chọn **tiếp theo**.
 
-Nếu bạn muốn loại bỏ một điện thoại số hoặc địa chỉ email, chọn **xoá** bên cạnh nó.
+Nếu bạn muốn loại bỏ một số điện thoại hoặc địa chỉ email, hãy chọn **xóa** cạnh đó.
 
-Nếu bạn muốn thay đổi số điện thoại hoặc địa chỉ email sẽ nhận được cảnh báo bảo mật, hãy chọn **thay đổi tùy chọn cảnh báo**.
+Nếu bạn muốn thay đổi số điện thoại hoặc địa chỉ email nhận được cảnh báo bảo mật, hãy chọn **thay đổi tùy chọn cảnh báo**.
 
-Để tìm hiểu thêm, hãy đọc [Microsoft tài khoản bảo mật thông tin và xác minh mã](https://support.microsoft.com/help/12428/).
+Để tìm hiểu thêm, hãy đọc [thông tin bảo mật tài khoản Microsoft và mã xác minh](https://support.microsoft.com/help/12428/).
