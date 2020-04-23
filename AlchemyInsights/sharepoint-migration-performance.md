@@ -12,21 +12,19 @@ ms.custom:
 - "5300030"
 - "2700"
 - "3179"
-ms.openlocfilehash: 500406e0f19610fe884df1faf3537aa7cb947e47
-ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
+ms.openlocfilehash: dd2500d970a46e95686a8eb6bf1b7fa733b353dd
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/18/2020
-ms.locfileid: "43552834"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43789324"
 ---
-# <a name="sharepoint-migration-performance-guidance"></a><span data-ttu-id="6003d-102">Hướng dẫn hiệu suất di chuyển SharePoint</span><span class="sxs-lookup"><span data-stu-id="6003d-102">SharePoint migration performance guidance</span></span>
+# <a name="sharepoint-migration-performance-guidance"></a><span data-ttu-id="5e534-102">Hướng dẫn hiệu suất di chuyển SharePoint</span><span class="sxs-lookup"><span data-stu-id="5e534-102">SharePoint migration performance guidance</span></span>
 
-<span data-ttu-id="6003d-103">Hiệu suất di chuyển có thể bị ảnh hưởng bởi cơ sở hạ tầng mạng, kích thước tệp, thời gian di chuyển và điều chỉnh.</span><span class="sxs-lookup"><span data-stu-id="6003d-103">Migration performance can be impacted by network infrastructure, file size, migration time, and throttling.</span></span> <span data-ttu-id="6003d-104">Sự hiểu biết này sẽ giúp bạn lập kế hoạch và tối đa hóa hiệu quả di chuyển của bạn.</span><span class="sxs-lookup"><span data-stu-id="6003d-104">Understanding these will help you plan and maximize the efficiency of your migration.</span></span>
+<span data-ttu-id="5e534-103">Hiệu suất di chuyển có thể bị ảnh hưởng bởi cơ sở hạ tầng mạng, kích thước tệp, thời gian di chuyển và điều chỉnh.</span><span class="sxs-lookup"><span data-stu-id="5e534-103">Migration performance can be impacted by network infrastructure, file size, migration time, and throttling.</span></span>
 
-<span data-ttu-id="6003d-105">Để biết thêm thông tin, vui lòng truy cập:</span><span class="sxs-lookup"><span data-stu-id="6003d-105">For more information, please visit:</span></span>
+<span data-ttu-id="5e534-104">Để biết thêm thông tin, vui lòng truy cập:</span><span class="sxs-lookup"><span data-stu-id="5e534-104">For more information, please visit:</span></span>
 
-- [<span data-ttu-id="6003d-106">Hướng dẫn hiệu suất di chuyển chung</span><span class="sxs-lookup"><span data-stu-id="6003d-106">General migration performance guidance</span></span>](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
+- [<span data-ttu-id="5e534-105">Hướng dẫn hiệu suất di chuyển chung</span><span class="sxs-lookup"><span data-stu-id="5e534-105">General migration performance guidance</span></span>](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
 
-- [<span data-ttu-id="6003d-107">Tránh bị điều chỉnh hoặc chặn trong SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="6003d-107">Avoid getting throttled or blocked in SharePoint Online</span></span>](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
-
-- [<span data-ttu-id="6003d-108">Tải xuống và cài đặt công cụ di chuyển SharePoint</span><span class="sxs-lookup"><span data-stu-id="6003d-108">Download and install the SharePoint Migration Tool</span></span>](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
+- [<span data-ttu-id="5e534-106">Tránh bị điều chỉnh hoặc chặn trong SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="5e534-106">Avoid getting throttled or blocked in SharePoint Online</span></span>](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
