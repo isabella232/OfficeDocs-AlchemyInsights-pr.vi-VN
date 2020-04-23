@@ -1,9 +1,9 @@
 ---
-title: '8000085: Outlook.com: không thể tải về các tập tin trong Chrome'
+title: '8000085: Outlook.com: không thể tải xuống tệp trong Chrome'
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/23/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +13,17 @@ ms.custom:
 - "8000085"
 - "1352"
 ms.assetid: ''
-ms.openlocfilehash: f8b62ce98c125360bb48c36339f9b9593fc5a55b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 67dd61fec153c2d35d62dfb9a92b7ac2550186b5
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36511617"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43719560"
 ---
-# <a name="cant-download-files-in-chrome"></a>Không thể tải về các tập tin trong Chrome
+# <a name="cant-download-files-in-chrome"></a>Không thể tải xuống tệp trong Chrome
 
-**Vấn đề** Chúng tôi nhận thức của một vấn đề mà ngăn cản một số khách hàng có thể tải về tập tin khi sử dụng trình duyệt Google Chrome. 
+**Issue** Chúng tôi biết sự cố ngăn một số khách hàng có thể tải xuống tệp khi sử dụng trình duyệt Google Chrome. 
 
-**Workaround** Sử dụng [Microsoft Edge](https://www.microsoft.com/en-gb/windows/microsoft-edge) hoặc trình duyệt web khác.
-Tìm hiểu thêm về làm thế nào để [tải các tập tin và tập tin đính kèm Outlook.com](https://support.office.com/article/8d7c1ea7-4e5f-44ce-bb6e-c5fcc92ba9ab?wt.mc_id=Office_Outlook_com_Alchemy).
+**Workaround** Sử dụng [Microsoft Edge](https://www.microsoft.com/windows/microsoft-edge) hoặc trình duyệt web khác.
+Tìm hiểu thêm về cách [tải tệp xuống và tệp đính kèm Outlook.com](https://support.office.com/article/8d7c1ea7-4e5f-44ce-bb6e-c5fcc92ba9ab?wt.mc_id=Office_Outlook_com_Alchemy).
 
