@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: ebb9dd81cadcd74c4dcd67915a409d150830b101
-ms.sourcegitcommit: 1e86dec31d92dba0f7804db9d11c47017a450579
+ms.openlocfilehash: 64c74827e28618ab08cca16c1e8ac4eb7689bb0d
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "42326571"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759426"
 ---
 # <a name="verify-your-domain-with-bluehost"></a>Xác minh tên miền của bạn với Bluehost
 
@@ -23,4 +23,4 @@ ms.locfileid: "42326571"
 
 Trước tiên, hãy làm theo [thuật sĩ Thêm tên miền](https://portal.office.com/adminportal/home#/Domains) bằng cách chọn **cài đặt** \> **miền**, và sau đó **Thêm tên miền**.
   
-Xem [tạo bản ghi DNS tại Bluehost cho Office 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-bluehost) để biết hướng dẫn từng bước.
+Xem [tạo bản ghi DNS tại Bluehost dành cho Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-bluehost) để biết hướng dẫn từng bước.

@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000766"
 - "3183"
-ms.openlocfilehash: f3af2a35c1fd4fee6458ff276a69bb551b33ac68
-ms.sourcegitcommit: 09a46448411022829e4b83879c113c0ccfc29625
+ms.openlocfilehash: e544e1d71a4aa61c1a16f2d3647050129ceb164e
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42707845"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764391"
 ---
 # <a name="setup-audio-conferencing-for-teams"></a>Thiết lập hội thảo âm thanh cho teams
 
@@ -42,4 +42,4 @@ Có người dùng này được tạo ra gần đây?  Nếu vậy, bạn sẽ 
 
 7. Chọn người dùng trong câu hỏi và xác minh người dùng có **số điện thoại mặc định**.
 
-Để biết thêm thông tin, hãy tham khảo [gói gọi điện cho Office 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) hoặc gọi cho nhóm thanh toán thương mại của Microsoft để được trợ giúp về các câu hỏi liên quan đến cấp phép.
+Để biết thêm thông tin, hãy tham khảo [gói gọi điện cho microsoft 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) hoặc gọi cho nhóm thanh toán thương mại của Microsoft để được trợ giúp về các câu hỏi liên quan đến cấp phép.

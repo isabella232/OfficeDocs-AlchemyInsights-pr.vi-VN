@@ -1,5 +1,5 @@
 ---
-title: Mua Office 365 kế hoạch giáo dục
+title: Mua Microsoft 365 giáo dục kế hoạch
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.custom:
 - "1500009"
 - "328"
 - "330"
-ms.openlocfilehash: 7773c955d8f6887f87a3c3741fa29a08e41541e0
-ms.sourcegitcommit: cad7ec134efdac7130911bfee6cb4a59ad882e39
+ms.openlocfilehash: 92ba04baad82b6c9ced2533fb67d99d0c39ab3a3
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43195338"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43789396"
 ---
-# <a name="purchase-office-365-education-plans"></a>Mua Office 365 kế hoạch giáo dục
+# <a name="purchase-microsoft-365-education-plans"></a>Mua Microsoft 365 giáo dục kế hoạch
 
-Bạn đã được chấp thuận cho văn phòng 365 giáo dục.  Để mua:
+Bạn đã được phê duyệt cho Microsoft 365 giáo dục.  Để mua:
 
 1. Điều hướng đến **[thanh toán > dịch vụ mua](https://portal.office.com/AdminPortal/Home#/catalog)**.
 
@@ -35,6 +35,6 @@ Bạn đã được chấp thuận cho văn phòng 365 giáo dục.  Để mua:
 
 **Giảng dạy và học tập từ xa**
 
-- Vui lòng xem [từ xa giảng dạy và học tập trong văn phòng 365 giáo dục](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4) để tìm hiểu các hướng dẫn nhất đến ngày về thiết lập lập kế hoạch bài học trường học của bạn, họp hầu như và chia sẻ nội dung với sinh viên.
+- Xin vui lòng xem [từ xa giảng dạy và học tập trong Microsoft 365 giáo dục](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4) để tìm hiểu các hướng dẫn nhất đến ngày thiết lập lập kế hoạch bài học trường của bạn, họp hầu như và chia sẻ nội dung với sinh viên.
 
 - Có thêm hướng dẫn CNTT trong việc [bắt đầu với Microsoft teams để học từ xa](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu) và [thực hiện quá trình chuyển đổi sang học từ xa](https://www.microsoft.com/education/remote-learning).

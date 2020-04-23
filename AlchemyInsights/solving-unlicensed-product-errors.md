@@ -11,22 +11,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "3412"
 - "9001428"
-ms.openlocfilehash: 178811c81775b22676a0106283be4e516d40a95b
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 87a0a2be6b222d35acbc862eed4f14fb3e3e36ac
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39628048"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764175"
 ---
 # <a name="suggestions-for-solving-unlicensed-product-errors"></a>Gợi ý giải quyết lỗi "không có giấy phép sản phẩm"
 
 Để giải quyết lỗi về "sản phẩm không có giấy phép", hãy thử như sau:
 
 - Kiểm tra xem trạng thái đăng ký của bạn đã hết hạn hay chưa.
-- Đảm bảo bạn có đăng ký cho phép giấy phép khách hàng, chẳng hạn như Office 365 Business hoặc Business Premium và [đảm bảo rằng người dùng có giấy phép được chỉ định](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users). 
+- Hãy chắc chắn rằng bạn có một thuê bao cho phép khách hàng giấy phép, chẳng hạn như Microsoft 365 Apps dành cho doanh nghiệp hoặc Business Premium, và [đảm bảo rằng người dùng có giấy phép được chỉ định](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users). 
 - Đảm bảo rằng người dùng đang đăng nhập vào Office với cùng một tài khoản có giấy phép được chỉ định.
-- Kiểm tra [Office 365 dịch vụ y tế trang](https://docs.microsoft.com/office365/enterprise/view-service-health) để xem nếu có bất kỳ sự cố đã biết với dịch vụ.
-- Kiểm tra tường lửa, phần mềm chống vi-rút và cài đặt proxy để xác nhận rằng chúng không chặn truy cập các ứng dụng Office vào Internet. Xem [văn phòng 365 URL và dải địa chỉ IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+- Kiểm tra [trang y tế Dịch vụ](https://docs.microsoft.com/office365/enterprise/view-service-health) để xem có bất kỳ sự cố đã biết với dịch vụ.
+- Kiểm tra tường lửa, phần mềm chống vi-rút và cài đặt proxy để xác nhận rằng chúng không chặn truy cập các ứng dụng Office vào Internet. Xem [URL và phạm vi địa chỉ IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 
 Bạn cũng có thể thử các hành động khắc phục sự cố sau: 
 

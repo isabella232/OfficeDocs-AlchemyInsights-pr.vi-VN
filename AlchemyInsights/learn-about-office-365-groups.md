@@ -1,9 +1,9 @@
 ---
-title: 610 tìm hiểu về nhóm Office 365
+title: 610 tìm hiểu về Office 365 Groups
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/9/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,13 +13,13 @@ ms.custom:
 - "610"
 - "3800008"
 ms.assetid: 6db67087-c251-49db-ad9e-d9c41da25c56
-ms.openlocfilehash: a5ad1fa51dd947baacda700d37c8ed1e5b700102
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b67781d510c582737f6f1eb3643024ae044de024
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36497717"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762879"
 ---
-# <a name="learn-about-office-365-groups"></a>Tìm hiểu về nhóm Office 365
+# <a name="learn-about-office-365-groups"></a>Tìm hiểu thêm về Office 365 Groups
 
-Văn phòng nhóm 365 là một dịch vụ mà làm việc với các công cụ Office 365, bạn sử dụng đã có, vì vậy bạn có thể cộng tác với đồng đội của bạn khi viết văn bản, tạo bảng tính, làm việc trên kế hoạch dự án, lập kế hoạch các cuộc họp hoặc gửi email. Để biết thêm chi tiết, hãy xem [Tìm hiểu về Office 365 nhóm](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2).
+Văn phòng 365 nhóm là một dịch vụ hoạt động với các công cụ Office 365 bạn sử dụng, vì vậy bạn có thể cộng tác với các đồng đội của mình khi viết tài liệu, tạo bảng tính, làm việc trên kế hoạch dự án, lập lịch trình cuộc họp hoặc gửi email. Để biết thêm thông tin, [hãy xem Tìm hiểu về Office 365 Groups](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2).

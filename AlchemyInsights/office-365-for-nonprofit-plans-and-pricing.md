@@ -1,9 +1,9 @@
 ---
-title: Office 365 Beta dành cho các phi lợi nhuận kế hoạch và giá cả
+title: Văn phòng 365 cho kế hoạch phi lợi nhuận và giá cả
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/1/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "478"
 - "1500026"
 ms.assetid: e6ec87f5-98d4-444d-b1e7-dc36cd60f064
-ms.openlocfilehash: 503ed30c3a9c1d8ab67d964a6c03a1886d9bcefd
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 3841ea04e5fac7492372adaa27258ef66b6879ee
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36390606"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761594"
 ---
-# <a name="office-365-for-nonprofit-plans-and-pricing"></a>Office 365 Beta dành cho các phi lợi nhuận kế hoạch và giá cả
+# <a name="office-365-for-nonprofit-plans-and-pricing"></a>Văn phòng 365 cho kế hoạch phi lợi nhuận và giá cả
 
-Nonprofits đủ điều kiện có thể nhận được Office 365 phi lợi nhuận như là một tài trợ hoặc nâng cấp lên các tính năng tiên tiến lúc giảm giá đáng kể. Để đủ điều kiện cho một kế hoạch Office 365 phi lợi nhuận, bạn phải giữ [được công nhận từ thiện tình trạng](https://go.microsoft.com/fwlink/p/?LinkID=330253) của đất nước và dấu hiệu của Microsoft không phân biệt chính sách. Microsoft có quyền để xác minh điều kiện bất kỳ lúc nào và đình chỉ các dịch vụ cho tổ chức không đủ điều kiện.
+Tổ chức phi lợi nhuận đủ điều kiện có thể nhận Office 365 phi lợi nhuận như một khoản quyên góp hoặc nâng cấp lên các tính năng nâng cao với mức chiết khấu đáng kể Để đủ điều kiện cho gói Office 365 phi lợi nhuận, bạn phải giữ [trạng thái từ thiện được nhận dạng](https://go.microsoft.com/fwlink/p/?LinkID=330253) ở quốc gia của mình và ký chính sách không phân biệt đối xử của Microsoft. Microsoft có quyền xác minh tính đủ điều kiện bất cứ lúc nào và tạm ngưng dịch vụ cho các tổ chức không đủ tiêu chuẩn.
   
-Xem [FAQ](https://products.office.com/nonprofit/office-365-nonprofit) để bổ sung các câu hỏi về đề nghị này.
+Xem [FAQ](https://products.office.com/nonprofit/office-365-nonprofit) để biết thêm câu hỏi về đề nghị này.
   
-- [Xem xét lại các kế hoạch phi lợi nhuận](https://products.office.com/nonprofit/office-365-nonprofit-plans-and-pricing?tab=1)
+- [Đánh giá kế hoạch phi lợi nhuận](https://products.office.com/nonprofit/office-365-nonprofit-plans-and-pricing?tab=1)
 
-- [So sánh tất cả các gói Office 365](https://products.office.com/business/compare-more-office-365-for-business-plans)
+- [So sánh tất cả các gói đăng ký Microsoft 365](https://products.office.com/business/compare-more-office-365-for-business-plans)

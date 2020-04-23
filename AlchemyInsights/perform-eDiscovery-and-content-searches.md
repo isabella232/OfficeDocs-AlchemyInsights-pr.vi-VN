@@ -1,9 +1,9 @@
 ---
-title: 1488-perform-eDiscovery-and-Content-Searches
+title: 1488-thực hiện-eDiscovery-và-nội dung-tìm kiếm
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,25 +13,25 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 15f5a26c34e32d1f77b73d57e9518b1bb1e68320
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 561a27cc71b6eec918acc2fac911f8b3b18fd097
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36555255"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764750"
 ---
-# <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Làm thế nào để thực hiện các nội dung tìm kiếm và tìm kiếm eDiscovery
+# <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Cách thực hiện tìm kiếm nội dung và tìm kiếm eDiscovery
 
-Sử dụng công cụ tìm kiếm nội dung trong & bảo mật tuân thủ trung tâm nhanh chóng tìm thấy email trong hộp thư Exchange, các tài liệu tại các trang web SharePoint, tài khoản OneDrive và instant messaging conversations trong Skype cho doanh nghiệp. Bạn cũng có thể sử dụng công cụ tìm kiếm nội dung để tìm kiếm các email, tài liệu, và các cuộc hội thoại nhắn tin tức thì trong Office 365 công cụ cộng tác như Microsoft Teams và Office 365 nhóm.
+Sử dụng công cụ tìm kiếm nội dung trong Trung tâm bảo mật & tuân thủ để nhanh chóng tìm email trong hộp thư Exchange, tài liệu trong các trang web SharePoint và tài khoản OneDrive và cuộc hội thoại nhắn tin tức thời trong Skype dành cho doanh nghiệp. Bạn cũng có thể sử dụng công cụ tìm kiếm nội dung để tìm kiếm email, tài liệu và cuộc hội thoại nhắn tin tức thời trong Microsoft 365 công cụ cộng tác như Microsoft teams và Office 365 Groups.
 
-**Để thực hiện một tìm kiếm nội dung**
+**Để thực hiện tìm kiếm nội dung**
 
-1. Đi đến [an ninh & tuân thủ trung tâm](https://protection.office.com) và đăng nhập.
-2. Nhấp vào **Tìm kiếm tìm kiếm nội dung >**.
-3. Nhấp vào **Tìm kiếm mới** để tạo ra một tìm kiếm mới.
-4. Nhập các điều kiện cần tìm kiếm bao gồm từ khóa và vị trí nội dung.  
-5. Nhấp vào **lưu & chạy** tên tìm kiếm, bắt đầu nó và sau đó xem trước kết quả.
+1. Truy cập vào [Trung tâm bảo mật & tuân thủ](https://protection.office.com) và đăng nhập.
+2. Nhấp vào **Tìm kiếm > tìm kiếm nội dung**.
+3. Nhấp vào **Tìm kiếm mới** để tạo tìm kiếm mới.
+4. Nhập các điều kiện tìm kiếm bắt buộc bao gồm từ khóa và vị trí nội dung.  
+5. Bấm vào **lưu & chạy** để tìm kiếm, bắt đầu và sau đó xem trước kết quả.
 
-Để hướng dẫn chi tiết về nội dung tìm kiếm, xuất kết quả, và tạo ra các trường hợp eDiscovery để chứa dữ liệu, hãy xem [Tìm kiếm nội dung](https://docs.microsoft.com/office365/securitycompliance/content-search) và các [trường hợp eDiscovery](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases).
+Để biết hướng dẫn chi tiết về tìm kiếm nội dung, xuất kết quả và tạo trường hợp eDiscovery để giữ dữ liệu, xem [Tìm kiếm nội dung](https://docs.microsoft.com/office365/securitycompliance/content-search) và [trường hợp eDiscovery](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases).
 
-Hiểu thêm về tìm kiếm nội dung bằng cách xem xét các [yêu cầu và các giới hạn](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search) và [một phần điều tra lập chỉ mục các mục](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) và các kết quả để được nhận thức của.
+Tìm hiểu thêm về tìm kiếm nội dung bằng việc xem xét các [yêu cầu và giới hạn](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search) và điều [tra các mục được lập chỉ mục một phần](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) và các kết quả khác cần lưu ý.

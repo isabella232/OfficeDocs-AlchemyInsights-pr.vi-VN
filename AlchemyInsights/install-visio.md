@@ -3,7 +3,7 @@ title: Cài đặt Visio
 ms.author: janellem
 author: janellemcintosh-msft
 manager: eliree
-ms.date: 6/11/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,26 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "1764"
 - "9000201"
-ms.openlocfilehash: 8279c58300c1c7ed18ca54d10c3b92e45728e856
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ec9820f693cd40a6f724e5c244fb1b028cde1eea
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36498616"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766011"
 ---
 # <a name="install-visio"></a>Cài đặt Visio
 
-Visio được bán như là một ứng dụng đứng một mình vì vậy nếu bạn không có nó được nêu ra, [mua hoặc cố gắng Visio](https://products.office.com/visio). 
+Visio được bán dưới dạng ứng dụng độc lập vì vậy nếu bạn chưa có, [Hãy mua hoặc dùng thử Visio](https://products.office.com/visio). 
 
-**Lưu ý**: Visio Online kế hoạch 1 không bao gồm một phiên bản máy tính để bàn của Visio, do đó, không có cài đặt là có thể.
+**Lưu ý**: Visio Online Plan 1 không bao gồm phiên bản Visio trên máy tính để bàn, vì vậy bạn không thể cài đặt.
 
-Nếu bạn có một thuê bao để Visio trực tuyến kế hoạch 2, bạn phải [gán giấy phép](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) cho người dùng hoặc họ sẽ không có một tùy chọn để cài đặt Visio từ **cài đặt của tôi** tại [cổng thông tin tài khoản của tôi](https://portal.office.com/account#installs). 
+Nếu bạn có đăng ký Visio Online Plan 2, bạn phải [gán giấy phép](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) cho người dùng hoặc họ sẽ không có tùy chọn cài đặt Visio từ số **lượt cài đặt của tôi** trong [cổng thông tin tài khoản của tôi](https://portal.office.com/account#installs). 
 
-Phòng Không-khối lượng giấy phép phiên bản của Visio Standard hoặc Visio Professional được liên kết với tài khoản Microsoft và không thể được quản lý trong Trung tâm quản trị. Để cài đặt các phiên bản này, người dùng phải đăng nhập để [account.microsoft.com](https://account.microsoft.com) bằng tài khoản Microsoft, kết hợp với phiên bản này của Visio.
+Phiên bản giấy phép không có khối lượng của Visio Standard hoặc Visio Professional được liên kết với tài khoản Microsoft và không thể quản lý trong Trung tâm quản trị. Để cài đặt các phiên bản này, người dùng phải đăng nhập vào [Account.Microsoft.com](https://account.microsoft.com) bằng tài khoản Microsoft liên kết với phiên bản Visio này.
 
-Để được trợ giúp chi tiết hơn xem [Cài đặt Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) và làm theo các bước cho các phiên bản của Visio.
+Để được trợ giúp chi tiết hơn, hãy xem [cài đặt Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) và làm theo các bước cho phiên bản Visio của bạn.
 
 Để biết thêm thông tin, xem:<br>
-[Hướng dẫn triển khai cho Visio](https://docs.microsoft.com/deployoffice/deployment-guide-for-visio)<br>
-[Hỗ trợ kịch bản để cài đặt các phiên bản khác nhau của văn phòng, dự án và Visio trên cùng một máy tính](https://docs.microsoft.com/deployoffice/install-different-office-visio-and-project-versions-on-the-same-computer)<br>
-[Visio cấp phép](https://products.office.com/visio/microsoft-visio-volume-licensing-visio-for-multiple-users)
+[Hướng dẫn triển khai Visio](https://docs.microsoft.com/deployoffice/deployment-guide-for-visio)<br>
+[Các trường hợp được hỗ trợ để cài đặt các phiên bản khác nhau của Office, Project và Visio trên cùng một máy tính](https://docs.microsoft.com/deployoffice/install-different-office-visio-and-project-versions-on-the-same-computer)<br>
+[Cấp phép Visio](https://products.office.com/visio/microsoft-visio-volume-licensing-visio-for-multiple-users)

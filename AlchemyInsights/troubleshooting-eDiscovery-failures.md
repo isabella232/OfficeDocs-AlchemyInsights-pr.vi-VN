@@ -1,9 +1,9 @@
 ---
-title: 1490-xử lý sự cố-eDiscovery-thất bại
+title: 1490-khắc phục sự cố-eDiscovery-thất bại
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,25 +13,25 @@ ms.custom:
 - "1490"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 88122d778f7def962ee0f574e3c14f602387ae0c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fbca97d06508c316612139ca42c04fb7ee5445f7
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559395"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759606"
 ---
-# <a name="troubleshoot-content-search-errors"></a>Khắc phục sự cố lỗi tìm kiếm nội dung
+# <a name="troubleshoot-content-search-errors"></a>Khắc phục lỗi tìm kiếm nội dung
 
-Là bạn gặp vấn đề với các tìm kiếm nội dung trong Office 365 hay nhận thất bại khi bạn xuất các kết quả tìm kiếm?
+Bạn có gặp vấn đề với tìm kiếm nội dung hoặc nhận được lỗi khi bạn xuất kết quả tìm kiếm?
 
-Ví dụ, bạn nhận được sau khi chạy tìm kiếm?
+Ví dụ: bạn nhận được sau khi chạy tìm kiếm?
 
 - Lỗi CS008 hoặc CS012
 
-- Hệ phục vụ bận, timeout lỗi
+- Lỗi máy chủ bận/thời gian chờ
 
-- Ứng dụng lỗi xảy ra
+- Đã xảy ra lỗi ứng dụng
 
-Hoặc khi tìm kiếm hoặc xuất kết quả từ một số lượng lớn các hộp thư (hộp thư trên 100.000), bạn nhận được lỗi xuất khẩu?
+Hoặc khi tìm kiếm hoặc xuất kết quả từ một số lượng lớn các hộp thư (trên 100.000 hộp thư), bạn có nhận được lỗi xuất khẩu không?
 
-Đối với các loại lỗi, thử lại việc tìm kiếm các vị trí nội dung đã thất bại. Xem [bài viết này](https://docs.microsoft.com/office365/securitycompliance/retry-failed-content-search) để biết thêm thông tin.
+Đối với các loại lỗi này, hãy thử tìm kiếm các vị trí nội dung đã thất bại. Xem [bài viết này](https://docs.microsoft.com/office365/securitycompliance/retry-failed-content-search) để biết thêm thông tin.
