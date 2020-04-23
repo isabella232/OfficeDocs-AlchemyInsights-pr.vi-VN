@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002570"
 - "4985"
-ms.openlocfilehash: 4508c70331f8d83f9f3569c64d49e963af801eb9
-ms.sourcegitcommit: 6ecb6fcbd738b8896c5d616130074438a1a6e357
+ms.openlocfilehash: e78b560329254f7035869c076db5ff31427dc7ae
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43530561"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43783993"
 ---
 # <a name="domain-transfers"></a>Chuyển tên miền
 
@@ -24,9 +24,9 @@ ms.locfileid: "43530561"
 
     - Mặc dù Microsoft đã mua miền không hỗ trợ thay đổi bản ghi NS, hãy xem xét [Cập Nhật bản ghi DNS cho trang web của bạn](https://docs.microsoft.com/microsoft-365/admin/dns/update-dns-records-to-retain-current-hosting-provider?view=o365-worldwide) thay vì chuyển đăng ký miền của bạn lên web hoster.
 
-- Microsoft mua miền không được chuyển từ Office 365 thuê. 
+- Microsoft mua miền không được chuyển từ Microsoft 365 thuê. 
 
-    - Tuy nhiên, bạn có thể chuyển tên miền của bên thứ ba giữa Office 365 thuê bằng cách [loại bỏ miền từ một](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain?view=o365-worldwide) đối tượng thuê và sau đó xác nhận tên miền trong một đối tượng thuê.
+    - Tuy nhiên, bạn có thể chuyển miền của bên thứ ba giữa Microsoft 365 thuê bằng cách [loại bỏ miền từ một](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain?view=o365-worldwide) đối tượng thuê và sau đó xác nhận tên miền trong một đối tượng thuê.
 
 - Không thể chuyển khoản đăng ký hoặc thanh toán trên các tên miền của bên thứ ba cho Microsoft.
 

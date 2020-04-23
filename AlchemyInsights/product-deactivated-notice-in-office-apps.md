@@ -11,20 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1906"
-ms.openlocfilehash: 3b0e69434fb612737a9dedbbf4582e103b92c637
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: d9e036b2b2157b4283992389a1fb741fddc15755
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43183342"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43785397"
 ---
 # <a name="product-deactivated-notice-in-office-apps"></a>Thông báo "sản phẩm ngừng hoạt động" trong ứng dụng Office
 
-- Kiểm tra [trang Office 365 dịch vụ y tế](https://docs.microsoft.com/office365/enterprise/view-service-health) để xem nếu có bất kỳ sự cố đã biết với dịch vụ.
+- Kiểm tra [trang dịch vụ y tế](https://docs.microsoft.com/office365/enterprise/view-service-health) để xem nếu có bất kỳ sự cố đã biết với dịch vụ.
 
-- Xác minh rằng [trạng thái đăng ký](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checksubscription) của bạn hợp lệ, người dùng bị ảnh hưởng có [giấy phép hợp lệ được chỉ định](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA)và kết nối Internet. Nếu bạn đã chuyển sang đăng ký Office 365/kế hoạch mới gần đây, hãy thử gỡ cài đặt Office và cài đặt lại trên máy bị ảnh hưởng.
+- Xác minh rằng [trạng thái đăng ký](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checksubscription) của bạn hợp lệ, người dùng bị ảnh hưởng có [giấy phép hợp lệ được chỉ định](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA)và kết nối Internet. Nếu bạn đã chuyển sang đăng ký mới/kế hoạch gần đây, hãy thử gỡ cài đặt Office và cài đặt lại trên máy bị ảnh hưởng.
 
-- Mở ứng dụng Office, đi tới **tệp > tài khoản** và đăng xuất khỏi tất cả tài khoản. Đăng nhập lại bằng tài khoản người dùng có giấy phép hợp lệ. Để biết thông tin chi tiết, xem [tài khoản trong Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9?ui=en-US&rs=en-GB&ad=GB).
+- Mở ứng dụng Office, đi tới **tệp > tài khoản** và đăng xuất khỏi tất cả tài khoản. Đăng nhập lại bằng tài khoản người dùng có giấy phép hợp lệ. Để biết thông tin chi tiết, xem [tài khoản trong Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).
 
 - Mở ứng dụng Office và đi tới **tệp > tài khoản > Cập nhật tùy chọn > Cập Nhật ngay** để Cập Nhật Office trên máy bị ảnh hưởng. Để biết các bước chi tiết, xem [cài đặt bản Cập Nhật Office](https://support.office.com/article/install-office-updates-2ab296f3-7f03-43a2-8e50-46de917611c5).
 
@@ -34,6 +34,6 @@ ms.locfileid: "43183342"
 
 Để biết hướng dẫn chi tiết, xem: 
 
-[Thông báo đăng ký xuất hiện khi tôi mở ứng dụng Office 365](https://support.office.com/article/a-subscription-notice-appears-when-i-open-an-office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb)
+[Thông báo đăng ký xuất hiện khi tôi mở một ứng dụng Microsoft 365](https://support.office.com/article/a-subscription-notice-appears-when-i-open-an-office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb)
 
 [Khắc phục sự cố kích hoạt Office](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380)

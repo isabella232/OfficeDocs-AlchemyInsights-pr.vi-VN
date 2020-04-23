@@ -1,5 +1,5 @@
 ---
-title: Kích hoạt đăng ký Office 365 của bạn
+title: Kích hoạt đăng ký Microsoft 365 của bạn
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500028"
 - "4744"
-ms.openlocfilehash: a2ecbb8c3f0acd59156695e36ee62b2416111ba4
-ms.sourcegitcommit: 843146bbf5de98126acb5808598dd533f40bea6a
+ms.openlocfilehash: 4a7bf12b7fe895d6aa930a7e1fb679b05a52c704
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43191087"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43784029"
 ---
-# <a name="activate-your-office-365-subscription"></a>Kích hoạt đăng ký Office 365 của bạn
+# <a name="activate-your-subscription"></a>Kích hoạt đăng ký của bạn
 
 **Kích hoạt đăng ký**
 
@@ -30,9 +30,9 @@ ms.locfileid: "43191087"
 
 **Kích hoạt lại đăng ký**
 
-Nếu đăng ký của bạn hết hạn hoặc đã bị vô hiệu hoá bởi Microsoft, hoặc nếu bạn hủy nó ở giữa một thời hạn đăng ký, bạn có thể kích hoạt lại nó trong Trung tâm quản trị Office 365.
+Nếu đăng ký của bạn hết hạn hoặc đã bị tắt bởi Microsoft, hoặc nếu bạn hủy nó ở giữa thời hạn đăng ký, bạn có thể kích hoạt lại nó trong Trung tâm quản trị Microsoft 365.
 
-- Trong Trung tâm quản trị Office 365, đi tới trang [đăng ký](https://go.microsoft.com/fwlink/p/?linkid=842054) (hoặc bấm vào **đăng ký > thanh toán**).
+- Trong Trung tâm quản trị Microsoft 365, đi tới trang [đăng ký](https://go.microsoft.com/fwlink/p/?linkid=842054) (hoặc bấm vào **thanh toán > đăng ký**).
 
 - Chọn đăng ký mà bạn muốn kích hoạt lại, sau đó nhấp vào **kích**hoạt lại. Nếu bạn không thấy **kích** hoạt lại như một hành động có sẵn, hãy [gọi hỗ trợ](https://support.office.com/article/call-support-32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b) để đăng ký thuê bao của bạn.
 
@@ -42,6 +42,6 @@ Nếu đăng ký của bạn hết hạn hoặc đã bị vô hiệu hoá bởi 
 
 **Kích hoạt đăng ký mới với khóa sản phẩm**
 
-- Để kích hoạt đăng ký Office 365 mới với khóa sản phẩm của bạn, hãy bắt đầu tại [đây](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db).
+- Để kích hoạt đăng ký Microsoft 365 mới với khóa sản phẩm của bạn, hãy bắt đầu tại [đây](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db).
 
-- Nhập khóa sản phẩm Office 365 của bạn và làm theo lời nhắc để kích hoạt đăng ký của bạn. Nếu bạn gặp sự cố với việc kích hoạt, hãy xem danh sách các [lỗi và giải pháp khóa sản phẩm phổ biến](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions)này.
+- Nhập khóa sản phẩm Microsoft 365 của bạn và làm theo lời nhắc để kích hoạt đăng ký của bạn. Nếu bạn gặp sự cố với việc kích hoạt, hãy xem danh sách các [lỗi và giải pháp khóa sản phẩm phổ biến](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions)này.

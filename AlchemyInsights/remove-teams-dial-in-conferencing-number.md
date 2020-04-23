@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002248"
 - "4540"
-ms.openlocfilehash: cfc87c49ccb1198341f0e49f409db454a5837ba9
-ms.sourcegitcommit: ce5264af70dfc92aa35ea10d1b2df49a6820b4e5
+ms.openlocfilehash: 7a44c443fa6c469e10a6ac9253567c2266c2db7f
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/27/2020
-ms.locfileid: "43028142"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43784821"
 ---
 # <a name="remove-teams-dial-in-conferencing-number"></a>Loại bỏ số hội nghị Nhóm
 
@@ -24,7 +24,7 @@ Bạn có cần trợ giúp loại bỏ số hội nghị từ cầu hội ngh�
 
 Số điện thoại mặc định của cầu hội nghị xác định ID người gọi sẽ được sử dụng khi cuộc gọi đi được đặt bởi người tham gia hoặc người tổ chức từ trong một cuộc họp.
 
-1. Đăng nhập vào Office 365 bằng tài khoản công việc của bạn.
+1. Đăng nhập bằng tài khoản công việc của bạn.
 
 2. Đi tới **Trung tâm quản trị Microsoft 365**.
 

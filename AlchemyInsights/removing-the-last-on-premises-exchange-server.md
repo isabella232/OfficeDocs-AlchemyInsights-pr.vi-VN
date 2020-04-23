@@ -1,9 +1,9 @@
 ---
-title: Loại bỏ các máy chủ Exchange tại chỗ cuối
+title: Loại bỏ máy chủ Exchange tại chỗ cuối cùng
 ms.author: pebaum
 author: pebaum
 manager: dansimp
-ms.date: 5/3/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,14 +12,14 @@ ms.custom:
 - "692"
 - "3500010"
 ms.assetid: 2e0be4a5-ece8-461d-a80c-202c5ede5ecf
-ms.openlocfilehash: 8f40c050d7e29c152f982d73e2204a52c350c293
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1cc66e8ca2da1ac8cc4a2f31b92f094307b956f3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36552841"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43718222"
 ---
-# <a name="removing-the-last-on-premises-exchange-server"></a>Loại bỏ các máy chủ Exchange tại chỗ cuối
+# <a name="removing-the-last-on-premises-exchange-server"></a>Loại bỏ máy chủ Exchange tại chỗ cuối cùng
 
-Trước khi loại bỏ các máy chủ Exchange cuối từ tổ chức tại chỗ của bạn, bạn nên chắc chắn bạn hiểu ý nghĩa của việc làm này giúp bạn quyết định nếu bạn cần máy chủ đó cuối cùng cho bất cứ mục đích nào khác. Để biết thêm chi tiết, hãy kiểm tra [như thế nào và khi nào để vô hiệu hoá máy chủ Exchange tại chỗ của bạn tồn tại](https://technet.microsoft.com/library/dn931280%28v=exchg.150%29.aspx).
+Trước khi xóa máy chủ Exchange cuối cùng khỏi tổ chức tại chỗ của bạn, bạn nên chắc chắn rằng bạn hiểu những tác động của việc này để giúp bạn quyết định nếu bạn cần máy chủ cuối cùng cho bất kỳ mục đích nào khác. Để biết thêm thông tin, hãy kiểm tra [làm thế nào và khi nào để vô hiệu hoá tại chỗ máy chủ Exchange tồn tại](https://technet.microsoft.com/library/dn931280%28v=exchg.150%29.aspx).
   

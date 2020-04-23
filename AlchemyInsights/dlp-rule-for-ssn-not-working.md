@@ -12,12 +12,12 @@ ms.custom:
 - "1242"
 - "3200001"
 ms.assetid: ac265ee6-c946-476e-9bf0-0ea0e8adc98a
-ms.openlocfilehash: cfe884a207490a19325ce059652de158c16dc801
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5af843c2b70b5b2e1aaf82c9f01356546929d840
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
 ms.lasthandoff: 04/22/2020
-ms.locfileid: "43704107"
+ms.locfileid: "43788724"
 ---
 # <a name="dlp-issues-with-social-security-numbers"></a>Các vấn đề DLP với số an ninh xã hội
 
@@ -25,7 +25,7 @@ ms.locfileid: "43704107"
 
 **Vấn đề DLP với SSNs**
 
-Bạn có vấn đề với **ngăn ngừa mất dữ liệu (DLP)** không làm việc cho nội dung có chứa **số an ninh xã hội (SSN)** khi sử dụng một loại thông tin nhạy cảm trong Office 365? Nếu vậy, hãy đảm bảo nội dung của bạn chứa thông tin cần thiết cho chính sách DLP đang tìm kiếm. 
+Bạn có vấn đề với **ngăn mất dữ liệu (DLP)** không hoạt động cho nội dung có chứa **số an ninh xã hội (SSN)** khi sử dụng loại thông tin nhạy cảm trong Microsoft 365? Nếu vậy, hãy đảm bảo nội dung của bạn chứa thông tin cần thiết cho chính sách DLP đang tìm kiếm. 
   
 Ví dụ: đối với một chính sách SSN được cấu hình với mức độ tin cậy là 85%, sau đây là đánh giá và phải được phát hiện để quy tắc kích hoạt:
   

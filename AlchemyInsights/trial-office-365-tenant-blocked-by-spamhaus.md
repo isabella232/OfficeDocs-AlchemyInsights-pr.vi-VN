@@ -1,8 +1,8 @@
 ---
-title: Dùng thử Office 365 người thuê nhà bị chặn bởi Spamhaus
+title: Thử nghiệm Microsoft 365 người thuê nhà bị chặn bởi SpamHaus
 ms.author: chrisda
 author: chrisda
-ms.date: 11/4/2017
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,13 +11,13 @@ ms.assetid: 5cba50a0-257f-45de-9f68-df9250838eba
 ms.custom:
 - "255"
 - "3100003"
-ms.openlocfilehash: 6bf10d68da8ba582ff0288b1f824ffc2505d4365
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ca948d0f1d5ded8969198ccddc67d743f77a1734
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36500452"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759894"
 ---
-# <a name="error-when-an-office-365-trial-user-sends-email-client-host-blocked-using-spamhaus"></a>Lỗi khi người dùng thử Office 365 gửi thư điện tử: khách hàng lưu trữ bị chặn bằng cách sử dụng Spamhaus
+# <a name="error-when-a-microsoft-365-trial-user-sends-email-client-host-blocked-using-spamhaus"></a>Lỗi khi người dùng dùng thử Microsoft 365 gửi email: máy khách lưu trữ bị chặn bằng cách sử dụng SpamHaus
 
-Nó xuất hiện rằng bạn đang gửi thư điện tử từ một tổ chức thử nghiệm mới của Office 365. Để ngăn chặn lạm dụng, chúng tôi chặn địa chỉ IP mà được biết là đã bị tổn hại trước đó. Kiểm tra cụ thể này không còn được áp dụng sau khi bạn bắt đầu sử dụng trả tiền giấy phép. Bạn có thể nhận được cứu trợ tạm thời bằng cách yêu cầu một địa chỉ IP mới của bạn nhà cung cấp dịch vụ internet (ISP), hoặc bằng cách loại bỏ các khối từ trang web của [Spamhaus](https://go.microsoft.com/fwlink/p/?linkid=123245) .
+Có vẻ như bạn đang gửi email từ một mới Microsoft 365 dùng thử tổ chức. Để giúp ngăn chặn lạm dụng, chúng tôi chặn các địa chỉ IP được biết là đã bị xâm phạm trước đó. Kiểm tra cụ thể này không còn được thực thi sau khi bạn bắt đầu sử dụng giấy phép trả phí. Bạn có thể có được cứu trợ tạm thời bằng cách yêu cầu một địa chỉ IP mới từ nhà cung cấp dịch vụ Internet của bạn (ISP), hoặc bằng cách loại bỏ các khối từ trang web [SpamHaus](https://go.microsoft.com/fwlink/p/?linkid=123245) .

@@ -1,9 +1,9 @@
 ---
-title: Giấy phép quá nhiều?
+title: Quá nhiều giấy phép?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/2/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,23 +13,23 @@ ms.custom:
 - "540"
 - "1500027"
 ms.assetid: 73aa19fa-9334-4499-be2c-b6f9fe7b7b2b
-ms.openlocfilehash: 4ee87eacd784acee9f4e1a34012076f907e4d46a
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 0974b856aa79d0377ed350e5ece3d2be30991772
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665962"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759930"
 ---
-# <a name="too-many-licenses"></a>Giấy phép quá nhiều?
+# <a name="too-many-licenses"></a>Quá nhiều giấy phép?
 
-Nếu bạn nghĩ rằng bạn đang được lập hoá đơn cho Office 365 Beta dành quá nhiều giấy phép, điều này thường là do có mua thêm giấy phép thì bạn cần.
+Nếu bạn nghĩ rằng bạn đang bị tính phí cho quá nhiều giấy phép, điều này thường là do đã mua thêm giấy phép thì bạn cần.
   
-**Giảm số lượng giấy phép mua**
+**Giảm số lượng giấy phép đã mua**
   
-1. Trong Trung tâm quản trị, đi đến **thanh toán** \> trang [sản phẩm & dịch vụ](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. Trong Trung tâm quản trị, hãy chuyển đến trang sản phẩm **thanh toán** \> [& dịch vụ](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. Tìm các thuê bao mà bạn muốn loại bỏ giấy phép, sau đó chọn **thêm/loại bỏ giấy phép**.
+2. Tìm gói đăng ký mà bạn muốn xóa giấy phép, sau đó chọn **thêm/loại bỏ giấy phép**.
 
-3. Trong **tất cả các giấy phép** hộp, nhập tổng số giấy phép mà bạn cần cho các thuê bao này, và sau đó chọn **gửi thay đổi**. Ví dụ, nếu bạn có 110 giấy phép và bạn muốn loại bỏ 5 số, nhập 105.
+3. Trong **tổng giấy phép** hộp, nhập tổng số giấy phép mà bạn cần cho đăng ký này, và sau đó chọn **gửi thay đổi**. Ví dụ: nếu bạn có giấy phép 110 và bạn muốn loại bỏ 5 trong số đó, hãy nhập 105.
 
-Để tìm hiểu thêm, hãy xem [loại bỏ giấy phép từ của bạn-Office 365 Beta dành cho doanh nghiệp đăng ký](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription).
+Để tìm hiểu thêm, hãy xem [xóa giấy phép từ Microsoft 365 cho đăng ký doanh nghiệp](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription).

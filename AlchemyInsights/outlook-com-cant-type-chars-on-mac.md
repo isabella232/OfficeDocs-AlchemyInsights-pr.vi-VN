@@ -1,24 +1,24 @@
 ---
-title: 9000071 không thể nhập các biểu tượng trên Mac @
+title: 9000071 không thể nhập @ Symbol trên máy Mac
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 2/28/19
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000071
-ms.openlocfilehash: 3bc9915516b268ba8175907bec3a8530351f9f40
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0d252d547757b3bf25dc4f71cf478119f32883be
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36537501"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43746505"
 ---
-# <a name="how-to-type-special-characters-on-a-mac"></a>Làm thế nào để nhập các ký tự đặc biệt trên máy Mac
+# <a name="how-to-type-special-characters-on-a-mac"></a>Cách nhập các ký tự đặc biệt trên máy Mac
 
-Nhập ký tự đặc biệt trên máy Mac của bạn, mở trình đơn **ký tự đặc biệt** với bàn phím phím tắt ⌘ **lệnh** + **Control** + **Space**.
+Để nhập các ký tự đặc biệt trên máy Mac của bạn, hãy mở menu **ký tự đặc biệt** bằng phím tắt ⌘**không gian****điều khiển** +  **lệnh** + .
 
-Một phím tắt nhanh chóng cho @ cũng là **ALT** + **64**.
+Một phím tắt nhanh cho @ cũng là **Alt** + **64**.

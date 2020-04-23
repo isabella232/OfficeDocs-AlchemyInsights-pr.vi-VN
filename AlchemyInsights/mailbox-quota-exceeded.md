@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001106"
 - "3067"
-ms.openlocfilehash: 7e1108cb4c9f2c5deecb32dc669800c5d23cc975
-ms.sourcegitcommit: 67015549afcbe05f3b77ea314e2ef7e0e439f9f2
+ms.openlocfilehash: 898c80d915ba24d9977b1f96063fa09f99c006fc
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42286278"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43784713"
 ---
 # <a name="mailbox-quota-exceeded"></a>Vượt quá dung lượng hộp thư
 
@@ -30,4 +30,4 @@ Bạn đã vượt quá dung lượng hộp thư cho tài khoản của mình. C
 
 4. Lưu tệp đính kèm của bạn vào OneDrive để chúng không được lưu trữ trong hộp thư của bạn. Xem [giới hạn lưu trữ trong Outlook.com](https://support.office.com/article/storage-limits-in-outlook-com-7ac99134-69e5-4619-ac0b-2d313bba5e9e) để biết thêm thông tin. 
 
-Nếu bạn là người dùng Office 365, bạn cũng có thể yêu cầu tăng hộp thư từ quản trị viên CNTT của bạn.
+Nếu bạn là người dùng Microsoft 365, bạn cũng có thể yêu cầu tăng hộp thư từ quản trị viên CNTT của bạn.

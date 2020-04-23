@@ -1,9 +1,9 @@
 ---
-title: 1489-permissions-required-for-eDiscovery-Searches
+title: 1489-quyền-bắt buộc-cho-eDiscovery-tìm kiếm
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1489
 ms.assetid: ''
-ms.openlocfilehash: 4e937861381ba5ba00c7ffb544dc4f6cb3502bc7
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 412466d1366527dc319191cd88915e36519fec7e
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32372150"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758949"
 ---
-# <a name="permissions-required-for-ediscovery-searches"></a>Quyền cần thiết cho các tìm kiếm eDiscovery
+# <a name="permissions-required-for-ediscovery-searches"></a>Quyền cần thiết cho tìm kiếm eDiscovery
 
-Thực hiện tìm kiếm nội dung trong & an ninh Trung tâm phù hợp, người dùng phải có ít thành viên của eDiscovery quản lý nhóm vai trò, mà cho phép họ thực hiện tìm kiếm và nơi giữ trên hộp thư, các trang web SharePoint và OneDrive địa điểm. Thành viên có thể cũng tạo và quản lý trường hợp eDiscovery, thêm và loại bỏ các thành viên trong một trường hợp, tạo và chỉnh sửa nội dung tìm kiếm và truy cập các dữ liệu case trong eDiscovery nâng cao.
+Để thực hiện tìm kiếm nội dung trong Trung tâm bảo mật & tuân thủ, người dùng phải có ít nhất là thành viên của nhóm vai trò quản lý eDiscovery, cho phép họ thực hiện tìm kiếm và địa điểm giữ trên hộp thư, trang web SharePoint và vị trí OneDrive. Thành viên cũng có thể tạo và quản lý các trường hợp eDiscovery, thêm và xóa thành viên vào trường hợp, tạo và chỉnh sửa tìm kiếm nội dung và truy cập dữ liệu trường hợp trong eDiscovery nâng cao.
 
-Thực hiện tại chỗ eDiscovery tìm kiếm trong Trung tâm quản trị Exchange (EAC), người dùng phải là thành viên của nhóm vai trò quản lý khám phá trong Exchange Online.
+Để thực hiện tại chỗ eDiscovery tìm kiếm trong Trung tâm quản trị Exchange (EAC), người dùng phải là thành viên của nhóm vai trò quản lý khám phá trong Exchange Online.
 
-Để biết thêm chi tiết về cấp phép eDiscovery, hãy xem: 
+Để biết thêm thông tin về quyền eDiscovery, xem: 
 
-- [Gán quyền eDiscovery trong an ninh & tuân thủ trung tâm](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions)
+- [Gán quyền eDiscovery trong Trung tâm bảo mật & tuân thủ](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions)
 
-- [Gán quyền eDiscovery trong trao đổi](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/assign-ediscovery-permissions)
+- [Gán quyền eDiscovery trong Exchange](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/assign-ediscovery-permissions)
 
-**Lưu ý**: sau khi gán eDiscovery quyền, bạn có thể phải chờ một vài phút cho quyền để truyền bá.
+**Lưu ý**: sau khi gán quyền eDiscovery, bạn có thể cần phải chờ một vài phút cho phép để truyền.

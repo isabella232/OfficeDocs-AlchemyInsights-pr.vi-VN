@@ -3,7 +3,7 @@ title: Khôi phục người dùng đã xóa
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 2/25/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +13,16 @@ ms.custom:
 - "73"
 - "1200013"
 ms.assetid: dae7b5b0-1003-40bd-b59f-8c5009fc8d82
-ms.openlocfilehash: 0ec30e3560eb0a9ccceae101f692aa1969450f5b
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 558ebba836d114a3d04848aae3c0ef598d8ea120
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36745095"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43784210"
 ---
-# <a name="restore-a-user-in-office-365"></a>Khôi phục người dùng trong Office 365
+# <a name="restore-a-user"></a>Khôi phục người dùng
 
-Khôi phục người dùng trong Office 365 bằng cách sử dụng các bước sau:
+Khôi phục người dùng bằng các bước sau:
   
 1. Đi tới [người \> dùng đã xóa người dùng](https://admin.microsoft.com/adminportal/home#/deletedusers).
 
@@ -32,4 +32,4 @@ Khôi phục người dùng trong Office 365 bằng cách sử dụng các bư�
 
 4. Nhấp vào **gửi email và đóng**, và bạn đã hoàn tất!
 
-Không phải là dễ dàng? Để biết thêm chi tiết và các bước với ảnh chụp màn hình, hãy xem bài viết này: [khôi phục người dùng trong Office 365](https://docs.microsoft.com/office365/admin/add-users/restore-user). Nếu bạn nhận ra bạn thay vì cần khôi phục hộp thư của người dùng, hãy xem: [xóa hoặc khôi phục hộp thư người dùng trong Exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes).
+Không phải là dễ dàng? Để biết thêm chi tiết và các bước với ảnh chụp màn hình, hãy xem bài viết này: [khôi phục người dùng](https://docs.microsoft.com/office365/admin/add-users/restore-user). Nếu bạn nhận ra bạn thay vì cần khôi phục hộp thư của người dùng, hãy xem: [xóa hoặc khôi phục hộp thư người dùng trong Exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes).
