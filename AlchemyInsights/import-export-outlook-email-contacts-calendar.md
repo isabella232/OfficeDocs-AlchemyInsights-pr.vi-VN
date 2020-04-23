@@ -1,9 +1,9 @@
 ---
-title: 1221-Import-Export-Outlook-email-Contacts-Calendar
+title: 1221-xuất nhập khẩu-Outlook-email-danh bạ-lịch
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,21 +13,21 @@ ms.custom:
 - "1221"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 14bfc62c75e0bb2eb22ffb7052762c6350ad73e0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c795bdd5bd294be8a1415fc0d2fd1e97e02db7ab
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36545209"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43724686"
 ---
-# <a name="import-and-export-outlook-email-contacts-and-calendar-items"></a>Nhập khẩu và xuất khẩu Outlook email, địa chỉ liên lạc và các mục lịch
+# <a name="import-and-export-outlook-email-contacts-and-calendar-items"></a>Nhập và xuất email Outlook, danh bạ và các mục lịch
 
 1. Trong Outlook, bấm vào **tệp**.
 
-2. Nhấp vào **mở & xuất khẩu**, và sau đó nhấp vào **Nhập khẩu**.
+2. Bấm **mở & xuất**, và sau đó nhấp vào **nhập/xuất**.
 
-    Điều này bắt đầu thuật sĩ nhập và xuất khẩu.
+    Điều này bắt đầu thuật sĩ nhập và xuất.
 
-Cho một hoàn thành thiết lập nhập khẩu và xuất khẩu các hướng dẫn cho Outlook, xem [bài viết này](https://support.office.com/article/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef).
+Để có một bộ đầy đủ các hướng dẫn nhập và xuất cho Outlook, xem [bài viết này](https://support.office.com/article/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef).
 
-Nếu bạn là người quản trị và muốn nhập khẩu số lượng lớn nhiều tập tin PST hộp thư Office 365, hãy xem [bài viết này](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files).
+Nếu bạn là quản trị viên và muốn nhập hàng loạt PST nhiều tệp vào hộp thư Microsoft 365, hãy xem [bài viết này](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files).

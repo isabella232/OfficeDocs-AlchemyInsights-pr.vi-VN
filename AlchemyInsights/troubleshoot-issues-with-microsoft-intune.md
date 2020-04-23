@@ -1,25 +1,25 @@
 ---
-title: Khắc phục sự cố với Microsoft Intune
+title: Khắc phục sự cố với Microsoft InTune
 ms.author: pebaum
 author: pebaum
-ms.date: 10/23/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: bc1d971d-84b0-447f-971e-7dc37ebeb5af
-ms.openlocfilehash: 0875105a99b5c85caaef96a61d6d6f23ae294116
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 916ce1fa20f8f12483b76a53eac4234849d48ce3
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36506609"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43733472"
 ---
-# <a name="troubleshoot-issues-with-microsoft-intune"></a>Khắc phục sự cố với Microsoft Intune
+# <a name="troubleshoot-issues-with-microsoft-intune"></a>Khắc phục sự cố với Microsoft InTune
 
-Xem xét các nguồn tài nguyên được liệt kê dưới đây để giải quyết vấn đề của bạn bây giờ.
+Đánh giá tài nguyên được liệt kê dưới đây để giải quyết vấn đề của bạn ngay bây giờ.
   
-1. Sử dụng [Cổng thông tin khắc phục sự cố dành](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) để chẩn đoán và giải quyết một số thất bại thường gặp. Xem lại tài liệu [này](https://docs.microsoft.com/intune/help-desk-operators) cho biết thêm chi tiết.  
-2. Xem lại [Dành TechNet ](https://social.technet.microsoft.com/forums/home?forum=microsoftintuneprod)để tìm câu trả lời và giải pháp cho các vấn đề phổ biến.  
-3. Kiểm tra [Dịch vụ y tế](https://portal.office.com/AdminPortal/Home#/servicehealth) để xem trạng thái của dịch vụ.   
-4. Xem lại [dành tài liệu](https://docs.microsoft.com/intune/) lập kế hoạch, hướng dẫn, xử lý sự cố bài viết và nhiều hơn nữa. 
+1. Sử dụng [InTune khắc phục sự cố cổng](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) để chẩn đoán và giải quyết một số lỗi phổ biến. Đánh giá tài liệu [này](https://docs.microsoft.com/intune/help-desk-operators) để biết thêm chi tiết.  
+2. Đánh giá dành cho [TechNet ](https://social.technet.microsoft.com/forums/home?forum=microsoftintuneprod)để tìm câu trả lời và giải pháp cho các vấn đề phổ biến.  
+3. Kiểm tra [dịch vụ y tế](https://portal.office.com/AdminPortal/Home#/servicehealth) để xem tình trạng của dịch vụ.   
+4. Đánh giá [tài liệu InTune](https://docs.microsoft.com/intune/) để lập kế hoạch, cách khắc phục sự cố và các bài viết khác. 

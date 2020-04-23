@@ -3,28 +3,28 @@ title: Khắc phục sự cố với Office 365 nâng cao mối đe dọa bảo 
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
-ms.date: 04/01/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: dbdfe2ddcc4afd4477f66ffd060ddb7093af8fd6
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 99bc985f2d66693aca45f0833ab47c043acc1324
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32420326"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766767"
 ---
 # <a name="troubleshoot-issues-with-office-365-atp"></a>Khắc phục sự cố với Office 365 ATP
 
-- **Thông báo chậm trễ với các email gửi tin nhắn**? Hãy thử sử dụng tùy chọn giao hàng năng động cho chính sách ATP an toàn tập tin đính kèm của bạn. Điều này sẽ tránh email thông báo giao hàng chậm trễ trong khi bảo vệ người nhận từ các tập tin độc hại.
-- **Bạn có muốn báo cáo sai tích cực hoặc tiêu cực sai**? Sử dụng liên kết này để gửi các tập tin của bạn để phân tích:[https://microsoft.com/wdsi/filesubmission](https://microsoft.com/wdsi/filesubmission)
-- **Bạn có biết rằng bạn có thể sử ATP liên kết an toàn bảo vệ cho các email được gửi giữa những người trong tổ chức của bạn**? Hãy làm theo các bước sau:
+- **Thông báo chậm trễ với gửi tin nhắn email**? Thử sử dụng tùy chọn phân phối động cho chính sách ATP an toàn đính kèm của bạn. Điều này sẽ tránh sự chậm trễ gửi thư email trong khi bảo vệ người nhận khỏi tệp độc hại.
+- **Bạn có muốn báo cáo sai tích cực hoặc sai**âm? Sử dụng liên kết này để gửi tệp của bạn để phân tích:[https://microsoft.com/wdsi/filesubmission](https://microsoft.com/wdsi/filesubmission)
+- **Bạn có biết rằng bạn có thể kích hoạt bảo vệ liên kết an toàn ATP cho email được gửi giữa những người trong tổ chức của bạn**? Hãy làm theo các bước sau:
     1. Đi đến https://protection.office.com, và đăng nhập.
-    2. Chuyển đến **quản lý mối đe dọa** > **chính sách** > **Liên kết an toàn**.
-    3. Theo **chính sách áp dụng cho người nhận cụ thể**, chỉnh sửa (hoặc thêm) một chính sách.
-    4. Chọn **Apply an toàn liên kết đến các tin nhắn được gửi trong tổ chức**.
-    5. Tiết kiệm chính sách của bạn, và cho phép khoảng 30 phút để các thay đổi để làm việc theo cách của họ thông qua các trung tâm dữ liệu của bạn.
-- Để nhận được trợ giúp thêm với ATP, hãy xem [Bảo vệ mối đe dọa nâng cao của Office 365](https://docs.microsoft.com/office365/securitycompliance/office-365-atp).
+    2. Truy cập**liên kết an toàn**trong > **chính sách** >  **quản lý mối đe dọa**.
+    3. Trong **chính sách áp dụng cho người nhận cụ thể**, chỉnh sửa (hoặc thêm) chính sách.
+    4. Chọn **áp dụng liên kết an toàn cho thư được gửi trong tổ chức**.
+    5. Lưu chính sách của bạn và cho phép khoảng 30 phút để các thay đổi của bạn hoạt động theo cách của bạn thông qua Trung tâm dữ liệu.
+- Để nhận thêm trợ giúp với ATP, hãy xem [Office 365 Advanced Threat Protection](https://docs.microsoft.com/office365/securitycompliance/office-365-atp).

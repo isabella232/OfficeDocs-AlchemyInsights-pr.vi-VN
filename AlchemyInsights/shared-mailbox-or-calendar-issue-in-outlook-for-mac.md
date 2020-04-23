@@ -1,25 +1,25 @@
 ---
-title: Chia sẻ vấn đề hộp thư hoặc lịch trong Outlook cho máy Mac?
+title: Sự cố chia sẻ hộp thư hoặc lịch trong Outlook dành cho Mac?
 ms.author: supravee
 author: supravee
 manager: jackiesm
-ms.date: 8/22/2017
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 77d6f7c0-4a3b-49c6-8def-a18f4a120443
-ms.openlocfilehash: 9ec02849481dfbe65873722214cd00c3796c67af
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a66de94cdb4b66167650addfe7739957cfc8547b
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36548989"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742297"
 ---
-# <a name="shared-mailbox-or-calendar-issue-in-outlook-for-mac"></a>Chia sẻ vấn đề hộp thư hoặc lịch trong Outlook cho máy Mac?
+# <a name="shared-mailbox-or-calendar-issue-in-outlook-for-mac"></a>Sự cố chia sẻ hộp thư hoặc lịch trong Outlook dành cho Mac?
 
-Chúng tôi có thể giúp nhanh hơn nếu bạn liên hệ với chúng tôi trực tiếp từ ứng dụng. **Xin vui lòng đi đến của người dùng bị ảnh hưởng của Mac, mở Outlook, và nhấp vào trợ giúp \> liên hệ hỗ trợ**. 
+Chúng tôi có thể giúp bạn nhanh hơn nếu bạn liên hệ trực tiếp với chúng tôi từ ứng dụng. **Vui lòng truy cập vào Mac của người dùng bị ảnh hưởng, mở Outlook và \> bấm vào trợ giúp liên hệ bộ**. 
   
-Để tìm hiểu thêm về cách sử dụng Outlook cho Mac trong ứng dụng hỗ trợ, hãy xem bài viết: [tính năng mới liên hệ hỗ trợ trong Outlook 2016 cho Mac](https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac-mso_mac2016/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517.aspx)
+Để tìm hiểu thêm về cách sử dụng hỗ trợ Outlook for Mac trong ứng dụng, hãy xem bài viết này: [tính năng hỗ trợ liên hệ mới trong Outlook 2016 dành cho Mac](https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac-mso_mac2016/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517.aspx)
   
 

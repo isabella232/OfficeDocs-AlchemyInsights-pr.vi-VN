@@ -13,18 +13,18 @@ ms.custom:
 - "9000140"
 - "9000660"
 - "2509"
-ms.openlocfilehash: 6f45dbdbfa89711fa2472a1f0b9f8e630faeb91e
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: 40bbb44876600dcc6d0269363a36eacecc337870
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42599506"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43737674"
 ---
 # <a name="microsoft-teams-installed-with-office-updates"></a>Microsoft teams cài đặt với bản Cập Nhật Office
 
-Microsoft teams được bao gồm như một phần của ***cài đặt mới*** của Office 365 ProPlus, Office 365 Business và Office cho Mac. Để biết thêm thông tin, xem [khi nào Microsoft teams sẽ bắt đầu được đưa vào cài đặt Office mới?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus)
+Microsoft teams được đưa vào như một phần của các ***cài đặt mới*** của Microsoft 365 ứng dụng dành cho doanh nghiệp, Microsoft 365 ứng dụng dành cho doanh nghiệp và Office cho Mac. Để biết thêm thông tin, xem [khi nào Microsoft teams sẽ bắt đầu được đưa vào cài đặt Office mới?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus)
 
-Ngoài ra, bắt đầu với phiên bản 1906 trong hàng tháng kênh, teams sẽ dần được thêm vào các ***cài đặt hiện tại*** của Office 365 ProPlus (và Office 365 Business) trên các thiết bị chạy Windows khi bạn cập nhật cài đặt hiện có lên phiên bản mới nhất. Để biết thêm thông tin, xem [những gì về cài đặt hiện tại của Office?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-office-365-proplus)
+Ngoài ra, bắt đầu với phiên bản 1906 trong hàng tháng kênh, teams sẽ dần được thêm vào ***cài đặt hiện tại*** của Microsoft 365 Apps dành cho doanh nghiệp (và Microsoft 365 Apps for Business) trên các thiết bị chạy Windows khi bạn cập nhật cài đặt hiện có lên phiên bản mới nhất. Để biết thêm thông tin, xem [những gì về cài đặt hiện tại của Office?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-office-365-proplus)
 
 **Lưu ý:** Nếu bạn không muốn chờ đợi lịch trình triển khai này, bạn có thể sử dụng teams là độc lập cho người dùng bằng cách https://teams.microsoft.com/downloadslàm [theo các hướng dẫn này](https://docs.microsoft.com/MicrosoftTeams/msi-deployment)hoặc bạn có thể tự cài đặt teams.
 

@@ -12,12 +12,12 @@ ms.custom:
 - "9000701"
 - "3831"
 - "3832"
-ms.openlocfilehash: 81b80d76530327767bc58adf2e06e5b7ae265f18
-ms.sourcegitcommit: 7d787b8c5af223e2711b4c2a2ca55ce2bdc25aea
+ms.openlocfilehash: d61d4484c720db51e7377201067008192940d1f8
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/19/2020
-ms.locfileid: "42856835"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43739458"
 ---
 # <a name="teams-common-issues-for-education-customers"></a>Nhóm các vấn đề phổ biến cho khách hàng giáo dục
 
@@ -45,12 +45,12 @@ Nếu bạn cần trợ giúp triển khai teams để hỗ trợ học tập t�
     6. Trong Skype cho Trung tâm quản trị kinh doanh, bấm **hội nghị âm thanh** và sau đó **người dùng**.
     7. Chọn người dùng trong câu hỏi và xác minh người dùng có số điện thoại mặc định.
 
-    Để biết thêm thông tin, hãy tham khảo [gói gọi điện cho Office 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) hoặc gọi cho nhóm thanh toán thương mại của Microsoft để được trợ giúp về các câu hỏi liên quan đến cấp phép.
+    Để biết thêm thông tin, hãy tham khảo [gói gọi điện](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) hoặc gọi cho nhóm thanh toán thương mại của Microsoft để được trợ giúp về các câu hỏi liên quan đến cấp phép.
 
     Tài nguyên bổ sung
 
     - [Cuộc họp và hội nghị trong Microsoft teams](https://docs.microsoft.com/microsoftteams/deploy-meetings-microsoft-teams-landing-page)
-    - [Hội thảo âm thanh trong Office 365](https://docs.microsoft.com/microsoftteams/audio-conferencing-in-office-365)
+    - [Hội thảo âm thanh](https://docs.microsoft.com/microsoftteams/audio-conferencing-in-office-365)
 
 - **Chính sách cuộc họp**: chính sách cuộc họp được sử dụng để kiểm soát các tính năng khả dụng đối với những người tham gia cuộc họp theo lịch trình của người dùng trong tổ chức của bạn. Sau khi tạo chính sách và thực hiện thay đổi, bạn có thể gán người dùng cho chính sách.
 

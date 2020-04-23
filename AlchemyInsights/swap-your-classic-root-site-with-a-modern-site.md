@@ -2,7 +2,7 @@
 title: Hoán đổi trang web gốc cổ điển của bạn với một trang web hiện đại
 ms.author: pebaum
 author: pebaum
-ms.date: 8/6/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.assetid: ''
 ms.custom:
 - "9000687"
 - "2579"
-ms.openlocfilehash: fe1f0f662c49de2bd0b5b997697c98309cb7983f
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: f4831c6a232a4dee0f8f5ac0c83e4307221cfe2d
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40042949"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43741566"
 ---
 # <a name="swap-your-classic-root-site-with-a-modern-site"></a>Hoán đổi trang web gốc cổ điển của bạn với một trang web hiện đại
 
@@ -28,7 +28,7 @@ Nếu môi trường của bạn đã được thiết lập trước ngày 2019
 
 - Khả năng bổ sung sẽ được giới thiệu sớm mà sẽ cho phép bạn tiếp tục sử dụng các nội dung trên trang web, nhưng chuyển đổi các trang web hiện có đến một trang web liên lạc. 
 >[!Important]
->Những khả năng này sẽ được cuộn dần. Tiếp tục kiểm tra Office 365 Message Center để cập nhật. 
+>Những khả năng này sẽ được cuộn dần. Tiếp tục kiểm tra Trung tâm thông báo cho các bản Cập Nhật. 
 
 ## <a name="known-issues-with-swapping-sites"></a>Các vấn đề với trao đổi trang web
 
@@ -37,8 +37,3 @@ Nếu môi trường của bạn đã được thiết lập trước ngày 2019
 - Bất cứ điều gì phụ thuộc vào "tĩnh" liên kết (chẳng hạn như tập tin Sync và OneNote tập tin) sẽ cần phải được sửa chữa thủ công.
 - Nếu trang web nguồn là một trang web tin tức tổ chức, Cập Nhật URL.Nhận danh sách tất cả các trang web tin tức tổ chức.
 - Trang web máy chủ dự án có thể cần phải được xác nhận để đảm bảo rằng chúng vẫn được liên kết chính xác.
-
-
-
-
-

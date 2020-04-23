@@ -1,9 +1,9 @@
 ---
-title: Khôi phục mục đã xoá từ OneDrive hoặc SharePoint
+title: Khôi phục các mục đã xóa từ SharePoint hoặc OneDrive
 ms.author: stevhord
 author: bentoncity
 manager: scotv
-ms.date: 5/24/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,29 +11,29 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ab29939b-37fe-4007-aae3-26fa6d2f57fa
-ms.openlocfilehash: 588c774d56ab092e7d50321ca6be9e2dd4f03f16
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a8438d6ac489abfdbe49bc8541b9abdd5e799713
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551905"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742537"
 ---
-# <a name="restore-deleted-items-from-sharepoint-or-onedrive"></a>Khôi phục mục đã xoá từ OneDrive hoặc SharePoint
+# <a name="restore-deleted-items-from-sharepoint-or-onedrive"></a>Khôi phục các mục đã xóa từ SharePoint hoặc OneDrive
 
-1. Đi đến OneDrive của bạn hoặc các trang web SharePoint.
+1. Truy cập OneDrive hoặc trang web SharePoint.
     
-2. Nhấp vào **Thùng rác** trong khung bên trái. 
+2. Nhấp vào **thùng** rác trong ngăn bên trái. 
     
-3. Nhấp vào bên trái của các mục hoặc tập tin mà bạn muốn khôi phục.
+3. Nhấp vào bên trái của các mục hoặc tệp bạn muốn khôi phục.
     
 4. Nhấp vào **khôi phục**. 
     
-Khi tập tin, thư mục, thư viện, danh sách và các danh mục được xóa khỏi trang web SharePoint, họ đi vào thùng rác, nơi họ đang giữ 93 ngày trừ khi ai đó xoá chúng khỏi thùng rác này. Nếu họ đang bị xóa từ này Recycle Bin (gọi là các trang web thùng rác), họ đi đến bộ sưu tập trang web thùng rác cho thời gian còn lại, và sau đó được xoá vĩnh viễn. Các trang web đã bị xóa và các bộ sưu tập trang web đi trực tiếp đến các bộ sưu tập trang web thùng rác trong ngày 93.
+Khi tệp, thư mục, thư viện, danh sách và mục danh sách sẽ bị xoá khỏi một trang web SharePoint, họ đi đến thùng rác, nơi chúng được lưu giữ trong 93 ngày trừ khi ai đó xoá chúng khỏi thùng rác này. Nếu họ bị xóa khỏi Recycle Bin này (được gọi là trang web Recycle Bin), họ đi đến bộ sưu tập trang web Recycle Bin cho thời gian còn lại, và sau đó sẽ bị xóa vĩnh viễn. Các trang web bị xóa và bộ sưu tập trang web đi trực tiếp vào bộ sưu tập trang web Recycle Bin cho 93 ngày.
   
-[Khôi phục các khoản mục trong bộ sưu tập trang web thùng rác](https://go.microsoft.com/fwlink/?linkid=867800) (quản trị viên bộ sưu tập trang web) 
+[Khôi phục các mục trong bộ sưu tập trang web Recycle Bin](https://go.microsoft.com/fwlink/?linkid=867800) (quản trị viên bộ sưu tập trang web) 
   
-[Khôi phục xóa các bộ sưu tập trang web](https://go.microsoft.com/fwlink/?linkid=867660) (toàn cầu hoặc quản trị viên SharePoint trong Office 365) 
+[Khôi phục bộ sưu tập trang web bị xóa](https://go.microsoft.com/fwlink/?linkid=867660) (toàn cầu hoặc quản trị viên SharePoint trong Microsoft 365) 
   
-Cho các trang web thuộc về một nhóm Office 365, bạn cần phải khôi phục lại các nhóm để khôi phục lại các trang web. Hãy xem [khôi phục một Office 365 đã xóa nhóm](https://go.microsoft.com/fwlink/?linkid=867802) (quản trị toàn cầu) 
+Đối với các trang web thuộc nhóm Office 365, bạn cần khôi phục nhóm để khôi phục trang web. Xem [khôi phục nhóm Office 365 đã xóa](https://go.microsoft.com/fwlink/?linkid=867802) (quản trị toàn cầu) 
   
 

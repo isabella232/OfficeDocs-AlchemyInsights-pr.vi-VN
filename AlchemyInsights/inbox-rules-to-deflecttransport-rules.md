@@ -1,9 +1,9 @@
 ---
-title: 929 các quy tắc hộp thư đến để quy tắc deflectTransport
+title: 929 quy tắc hộp thư đến để deflectTransport quy tắc
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 6/15/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,21 +12,21 @@ ms.custom:
 - "929"
 - "1800021"
 ms.assetid: 9733ef4e-db8d-4345-a072-c251480875a1
-ms.openlocfilehash: 140cb6e85d0f08393439b023578457998a84dc62
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6b6e64c0332a579e8f6132b08f2f89b15eb4de27
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36499625"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43724614"
 ---
-# <a name="mail-flow-rules-also-known-as-transport-rules"></a>Quy tắc dòng chảy thư (còn được gọi là quy tắc truyền tải)
+# <a name="mail-flow-rules-also-known-as-transport-rules"></a>Quy tắc luồng thư (còn được gọi là quy tắc truyền tải)
 
-- Tổng quan của quy tắc dòng chảy thư: [thư chảy nội quy (quy tắc truyền tải) trong Exchange Online](https://technet.microsoft.com/library/jj919238.aspx)
+- Tổng quan chung về quy tắc luồng thư: [quy tắc luồng thư (quy tắc truyền tải) trong Exchange Online](https://technet.microsoft.com/library/jj919238.aspx)
 
-- Thiết lập quy tắc dòng chảy thư: [thư lưu quy tắc thủ tục trong Exchange Online](https://technet.microsoft.com/library/dn600436.aspx)
+- Thiết lập quy tắc luồng thư: quy [trình quy tắc luồng thư trong Exchange Online](https://technet.microsoft.com/library/dn600436.aspx)
 
-- Tạo, chỉnh sửa và xóa quy tắc dòng chảy thư: [quản lý thư quy tắc dòng chảy](https://technet.microsoft.com/library/jj657505.aspx)
+- Tạo, sửa đổi và xóa quy tắc luồng thư: [quản lý quy tắc luồng thư](https://technet.microsoft.com/library/jj657505.aspx)
 
-Bạn cũng có thể quản lý các quy tắc dòng chảy thư trong Exchange Online PowerShell. Để biết thêm thông tin, hãy xem [Get-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportrule) (xem), [New-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/new-transportrule) (tạo), [Remove-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/remove-transportrule) (delete), [Thiết lập-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/set-transportrule) (sửa đổi hiện có), [Vô hiệu hoá-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/disable-transportrule) (vô hiệu hóa hiện có), và [Kích hoạt-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/enable-transportrule) (cho phép tồn tại).
+Bạn cũng có thể quản lý quy tắc luồng thư trong Exchange Online PowerShell. Để biết thêm thông tin, xem [Get-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportrule) (xem), [New-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/new-transportrule) (tạo), [Remove-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/remove-transportrule) (xóa), [Set-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/set-transportrule) (sửa đổi hiện có), [vô hiệu hóa-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/disable-transportrule) (vô hiệu hóa hiện có), và [kích hoạt-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/enable-transportrule) (kích hoạt sẵn có).
 
-Lệnh ghép ngắn quy tắc dòng chảy bổ sung thư: [Get-TransportRuleAction](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportruleaction) (danh sách có sẵn hành động), [Get-TransportRulePredicate](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportrulepredicate) (danh sách có điều kiện và ngoại lệ), [Xuất khẩu-TransportRuleCollection](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/export-transportrulecollection) (xuất khẩu nội quy) và [ Nhập khẩu-TransportRuleCollection](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/import-transportrulecollection) (nhập khẩu quy định).
+Các lệnh ghép ngắn quy tắc luồng thư bổ sung: [Get-TransportRuleAction](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportruleaction) (danh sách các hành động có sẵn), [Get-TransportRulePredicate](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportrulepredicate) (danh sách các điều kiện có sẵn và ngoại lệ), [transportrulecollection xuất](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/export-transportrulecollection) khẩu (quy tắc xuất khẩu), và [transportrulecollection nhập](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/import-transportrulecollection) khẩu (quy tắc nhập).

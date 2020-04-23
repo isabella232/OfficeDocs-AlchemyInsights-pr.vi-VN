@@ -1,9 +1,9 @@
 ---
-title: Trang web công cộng đang bị ngưng SharePoint Online
+title: SharePoint Online trang web công cộng đang được ngưng
 ms.author: clake
-author: spowriter
+author: pebaum
 manager: scotv
-ms.date: 1/2/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +13,16 @@ ms.custom:
 - "99"
 - "5200001"
 ms.assetid: 4b8b89f8-bfd8-4a60-812a-daf5d519788e
-ms.openlocfilehash: db37089c11842c070b6bfbbb6f668aa392fd9b2c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f9327b7ba506790549ae3215cd84606d3645703a
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36507617"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764319"
 ---
-# <a name="sharepoint-online-public-websites-are-being-discontinued"></a>Trang web công cộng đang bị ngưng SharePoint Online
+# <a name="sharepoint-online-public-websites-are-being-discontinued"></a>SharePoint Online trang web công cộng đang được ngưng
 
-Nếu bạn tạo một trang web công cộng SharePoint Online, bạn có thể tiếp tục sử dụng nó cho đến khi 31 tháng 3 năm 2018. Nếu bạn muốn tiếp tục có một trang web công cộng, bạn cần để tạo ra một hình mới với một nhà cung cấp mới. Nội dung trên trang web công cộng SharePoint Online của bạn sẽ bị xóa, do đó, bạn cần phải sao chép bất kỳ nội dung nào bạn muốn giữ lại.
+Nếu bạn đã tạo một trang web công khai SharePoint Online, bạn có thể tiếp tục sử dụng website này cho đến ngày 31 tháng 3 năm 2018. Nếu bạn muốn tiếp tục có một trang web công cộng, bạn cần phải tạo một hình mới với một nhà cung cấp mới. Nội dung trên trang web công khai SharePoint Online của bạn sẽ bị xóa, vì vậy bạn cần phải sao chép bất kỳ nội dung nào bạn muốn giữ lại.
   
-Một biểu ngữ bây giờ xuất hiện ở phía trên của trang web công cộng SharePoint Online như thông báo rằng các trang web sẽ được gỡ bỏ. Bạn không thể tắt biểu ngữ này. Để xem thông tin về tiết kiệm và sao chép nội dung vào một trang web đối tác, xem [thông tin chi tiết về quá trình tính năng ngưng](https://go.microsoft.com/fwlink/?linkid=866980).
+Một biểu ngữ bây giờ xuất hiện ở đầu trang web công cộng trực tuyến SharePoint của bạn như thông báo rằng trang web sẽ bị xóa. Bạn không thể tắt biểu ngữ này. Để biết thông tin về cách lưu và sao chép nội dung vào một trang web đối tác, [hãy xem chi tiết về quá trình ngưng tính năng](https://go.microsoft.com/fwlink/?linkid=866980).
   

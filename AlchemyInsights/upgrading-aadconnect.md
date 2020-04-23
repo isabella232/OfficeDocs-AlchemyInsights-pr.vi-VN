@@ -3,7 +3,7 @@ title: 932 nâng cấp AADConnect
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 6/8/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,23 +12,23 @@ ms.custom:
 - "932"
 - "1300025"
 ms.assetid: 8f43f36c-9722-43a4-b0de-c5341c06dac5
-ms.openlocfilehash: ff3f74348599788edd8ce0991fe49bb6a54b55af
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fcc5fddb5cfd15407d0533449035317d187931ed
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36506105"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766515"
 ---
-# <a name="upgrade-azure-ad-connect"></a>Nâng cấp Azure quảng cáo kết nối
+# <a name="upgrade-azure-ad-connect"></a>Nâng cấp Azure AD kết nối
 
-Theo mặc định, nâng cấp tự động được kích hoạt cho Azure quảng cáo kết nối, giúp đảm bảo rằng bạn đang chạy phiên bản mới nhất. Để xác minh các cài đặt nâng cấp tự động, sử dụng lệnh ghép ngắn **Get-ADSyncAutoUpgrade** Azure quảng cáo PowerShell. Lệnh ghép ngắn sẽ trả về một giá trị sau:
+Theo mặc định, tính năng nâng cấp tự động được bật cho Azure AD Connect, giúp đảm bảo bạn đang chạy phiên bản mới nhất. Để xác minh cài đặt tự động nâng cấp, sử dụng lệnh **Get-ADSyncAutoUpgrade** Azure AD PowerShell. Lệnh này sẽ trả về một trong các giá trị sau:
 
-- **Enabled**: nâng cấp tự động được kích hoạt.
+- **Kích hoạt**: tự động nâng cấp được kích hoạt.
 
-- **Vô hiệu hóa**: nâng cấp tự động bị vô hiệu hóa.
+- **Vô hiệu hoá**: tự động nâng cấp bị vô hiệu hoá.
 
-- **Bị treo**: Hệ thống không còn đủ điều kiện để nhận được tự động nâng cấp. Bạn không thể đặt cấu hình các giá trị này; khách sạn nằm trong hệ thống.
+- Bị **tạm ngưng**: Hệ thống không còn đủ điều kiện để nhận các nâng cấp tự động. Bạn không thể cấu hình giá trị này; nó được thiết lập bởi hệ thống.
 
-Để biết thêm thông tin, hãy xem [nâng cấp tự động](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade).
+Để biết thêm thông tin, xem [nâng cấp tự động](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade).
 
-Để tải xuống phiên bản mới nhất của Azure quảng cáo kết nối, đi đến [https://www.microsoft.com/download/details.aspx?id=47594](https://www.microsoft.com/download/details.aspx?id=47594).
+Để tải xuống phiên bản mới nhất của Azure AD kết nối [https://www.microsoft.com/download/details.aspx?id=47594](https://www.microsoft.com/download/details.aspx?id=47594), hãy chuyển đến.

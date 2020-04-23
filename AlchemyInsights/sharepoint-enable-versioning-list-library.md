@@ -2,7 +2,7 @@
 title: Versioning trong SharePoint và OneDrive
 ms.author: pebaum
 author: pebaum
-ms.date: 8/07/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.assetid: a84868ba-7657-4f34-8a57-df9c6f9732dc
 ms.custom:
 - "5300025"
 - "1702"
-ms.openlocfilehash: 167c0fde2f09d4ba2f2f2b583eea849670fdb8c5
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: e578dc3b19c573335c0e90cc0f84d5c6c1b1c889
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40044245"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767415"
 ---
 # <a name="versioning-in-sharepoint-and-onedrive"></a>Versioning trong SharePoint và OneDrive 
 
@@ -39,6 +39,6 @@ Khi phiên bản được bật trong danh sách SharePoint hoặc thư viện c
 - [Giới hạn versioning](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)
 
 >[!Note] 
->Nếu bạn là khách hàng Office 365, phiên bản bây giờ được bật theo mặc định khi bạn tạo OneDrive mới cho thư viện doanh nghiệp và nó sẽ tự động lưu các phiên bản 500 cuối cùng của tài liệu. Điều này sẽ giúp bạn ngăn mất tài liệu hoặc dữ liệu quan trọng. Nếu bạn có thư viện hiện có trên OneDrive cho trang web doanh nghiệp hoặc trên trang nhóm của bạn không có phiên bản kích hoạt, bạn có thể bật Phiên bản cho họ bất cứ lúc nào.
+>Nếu bạn là khách hàng Microsoft 365, phiên bản hiện được bật theo mặc định khi bạn tạo thư viện OneDrive cho doanh nghiệp mới và nó sẽ tự động lưu các phiên bản 500 cuối cùng của tài liệu. Điều này sẽ giúp bạn ngăn mất tài liệu hoặc dữ liệu quan trọng. Nếu bạn có thư viện hiện có trên OneDrive cho trang web doanh nghiệp hoặc trên trang nhóm của bạn không có phiên bản kích hoạt, bạn có thể bật Phiên bản cho họ bất cứ lúc nào.
 
 

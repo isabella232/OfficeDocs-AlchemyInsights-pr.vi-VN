@@ -3,22 +3,22 @@ ms.author: pebaum
 title: Outlook vấn đề với Exchange 2007
 author: pebaum
 manager: mnirkhe
-ms.date: 4/26/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 0123668d-e18b-4186-9c58-4325168d8aec
-ms.openlocfilehash: 1ebcbc27f1a508f56c82c7706be9209c22baa1c6
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 5fea63cad08955d340a0382145c433bbc48b40ea
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32372834"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743331"
 ---
 # <a name="solution-for-error-you-wont-be-able-to-receive-mail-from-a-current-mailbox"></a>Giải pháp cho lỗi "bạn sẽ không thể nhận được thư từ hộp thư hiện tại"
-Bạn sẽ nhận được các lỗi sau đây nếu bạn cố gắng sử dụng Outlook 365/2016 với một máy chủ Exchange 2007:
+Bạn sẽ nhận được lỗi sau nếu bạn cố gắng sử dụng Outlook 365/2016 với máy chủ Exchange 2007:
 
-*Dừng lại, bạn nên chờ đợi để cài đặt Office 2016. Bạn không thể nhận thư từ hộp thư hiện tại. Outlook 2016 là không tương thích với Exchange 2007. Bạn có thể muốn liên hệ với nhà cung cấp hộp thư của bạn hoặc hệ thống quản trị viên về vấn đề này. Các nguồn tài nguyên mà bạn đang cố gắng sử dụng này tọa lạc trên một phiên bản không được hỗ trợ của Microsoft Exchange. Liên hệ với người quản trị e-mail của bạn để được trợ giúp.*
+*Dừng lại, bạn nên chờ đợi để cài đặt Office 2016. Bạn sẽ không thể nhận thư từ hộp thư hiện tại. Outlook 2016 không tương thích với Exchange 2007. Bạn có thể muốn liên hệ với nhà cung cấp hộp thư hoặc quản trị hệ thống về vấn đề này. Tài nguyên mà bạn đang cố gắng sử dụng nằm trên phiên bản Microsoft Exchange không được hỗ trợ. Liên hệ với người quản trị e-mail để nhận trợ giúp.*
 
-Để sử dụng Outlook với Exchange 2007, bạn có thể cài đặt Outlook 2013 nếu bạn nâng cấp từ một phiên bản trước của Outlook. Để biết thêm thông tin, hãy xem [làm thế nào để cài đặt Office 2013 sau khi nâng cấp Office 2016?](https://support.office.com/article/a6ca92f4-cbb4-4609-9fdb-f8d3dd6812f3)
+Sử dụng Outlook với Exchange 2007, bạn có thể cài đặt Outlook 2013 nếu bạn nâng cấp từ phiên bản trước của Outlook. Để biết thêm thông tin, hãy xem [làm thế nào để cài đặt lại office 2013 sau khi nâng cấp office 2016?](https://support.office.com/article/a6ca92f4-cbb4-4609-9fdb-f8d3dd6812f3)

@@ -11,16 +11,16 @@ ms.custom:
 - "913"
 - "2000023"
 ms.assetid: caf090c7-4270-4a75-a873-cb8d094dcd82
-ms.openlocfilehash: f920a41f3a6030263a7162d0ba060d9fe4e30f7b
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: f525cd085d3691c100df6ed6c3c1a06685fcc6b9
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36659554"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765183"
 ---
 # <a name="install-office"></a>Cài đặt Office
 
-Để cài đặt Office, người dùng phải có một [sản phẩm office 365 kinh doanh](https://support.office.com/article/f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=Alchemy_ClientDIA) bao gồm các ứng dụng máy tính và một [giấy phép được chỉ định](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users).
+Để cài đặt Office, người dùng phải có một [Microsoft 365 cho sản phẩm kinh doanh](https://support.office.com/article/f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=Alchemy_ClientDIA) bao gồm các ứng dụng máy tính và một [giấy phép được chỉ định](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users).
   
 Văn phòng sau đó có thể được cài đặt theo các bước dưới đây:
   

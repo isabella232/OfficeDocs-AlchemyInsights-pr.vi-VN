@@ -1,9 +1,9 @@
 ---
-title: Nhận được bản sao của báo cáo thanh toán của bạn trong email
+title: Nhận bản sao của báo cáo thanh toán trong email
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 1/9/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -13,23 +13,23 @@ ms.custom:
 - "1643"
 - "9000137"
 ms.assetid: fe76166c-afd2-4c99-b565-bc93ed6b84e3
-ms.openlocfilehash: 128f7c3b962d35934e14b80262ac9b2989967bc6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2af1c5374c0cb08891f42f83e2a5e54ef17e914a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36510105"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43724972"
 ---
-# <a name="receive-copy-of-your-office-365-billing-statement-in-email"></a>Nhận được bản sao của báo cáo thanh toán của bạn Office 365 trong email
+# <a name="receive-copy-of-your-billing-statement-in-email"></a>Nhận bản sao của báo cáo thanh toán trong email
 
-Bạn có thể chọn để nhận được một bản sao của báo cáo thanh toán của bạn như phần đính kèm thư điện tử. Nếu bạn, phải nhận thức được rằng:
+Bạn có thể chọn nhận bản sao tuyên bố thanh toán dưới dạng tệp đính kèm email. Nếu bạn làm thế, hãy lưu ý rằng:
   
-- Một email sẽ được gửi đến cả địa chỉ email chính và thay thế cho mọi người được liệt kê như là một người nhận được thông báo.
+- Một email sẽ được gửi đến cả địa chỉ email chính và thay thế cho mọi người liệt kê dưới dạng người nhận thông báo.
 
-- Bạn sẽ nhận được hai email riêng biệt: một cho phép bạn biết rằng hóa đơn của bạn đã sẵn sàng, với các hướng dẫn để đăng nhập vào Trung tâm quản trị để xem nó, và một lần thứ hai email mà bao gồm báo cáo thanh toán như bản đính kèm.
+- Bạn sẽ nhận được hai email riêng: cho phép bạn biết rằng hóa đơn của bạn đã sẵn sàng, với các hướng dẫn đăng nhập vào Trung tâm quản trị để xem và email thứ hai có chứa bảng sao kê thanh toán dưới dạng tệp đính kèm.
 
-Để nhận được báo cáo thanh toán của bạn trong thư điện tử:
+Để nhận được báo cáo thanh toán của bạn trong email:
   
-1. Trong Trung tâm quản trị, đi đến **thanh toán** \> [thanh toán thông báo](https://go.microsoft.com/fwlink/p/?linkid=853212) trang.
+1. Trong Trung tâm quản trị, hãy chuyển đến trang [thông báo thanh](https://go.microsoft.com/fwlink/p/?linkid=853212) toán **thanh** \> toán.
 
-2. Theo **nhận được báo cáo thanh toán như file đính kèm email?**, chuyển chuyển đổi **trên**. Bạn có thể ngừng nhận email báo cáo thanh toán bất kỳ lúc nào bằng cách chuyển chuyển đổi để **tắt**.
+2. Trong **nhận được báo cáo thanh toán như tập tin đính kèm email?**, chuyển đổi chuyển sang **bật**. Bạn có thể ngừng nhận email báo cáo thanh toán bất kỳ lúc nào bằng cách chuyển nút gạt sang **tắt**.
