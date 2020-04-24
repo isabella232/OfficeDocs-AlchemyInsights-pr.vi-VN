@@ -13,13 +13,13 @@ ms.custom:
 - "445"
 - "1500018"
 ms.assetid: 29635602-3521-4663-9d85-d111f85b3a19
-ms.openlocfilehash: 970963f5aca1d5c281e4d887733a53c8bd1eb0b8
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 596be276cf7df2d8e451350c0833b2c410153252
+ms.sourcegitcommit: cead49883943b0eb413f8cf4be617a32b5099cb6
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762016"
+ms.lasthandoff: 04/24/2020
+ms.locfileid: "43799145"
 ---
 # <a name="multiple-attempts-to-charge-online-payment-instruments"></a>Nhiều nỗ lực để tính phí công cụ thanh toán trực tuyến
 
-Chúng tôi có nhiều nỗ lực để tính phí công cụ thanh toán trực tuyến trước khi thực hiện bất kỳ hành động nào trên dịch vụ. Sau khi một phương thức thanh toán được chọn, tất cả các số tiền do quá hạn phải được trả bằng phương thức thanh toán đã chọn. Để cập nhật thông tin thanh toán hiện tại cho đăng ký của bạn, hãy làm theo các bước trong phần [Thêm, Cập Nhật hoặc xóa thẻ tín dụng hoặc tài khoản ngân hàng trong Microsoft 365 cho doanh nghiệp](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
+Nếu khoản phí không thành công, Hệ thống sẽ tiếp tục cố gắng giải quyết sự cân bằng trong vài tuần tới. Bạn có thể thực hiện cập nhật thông tin thanh toán của mình bất kỳ lúc nào để đảm bảo nỗ lực tiếp theo là thành công. Để biết thêm thông tin, xem [Thêm, Cập Nhật hoặc xoá thẻ tín dụng hoặc tài khoản ngân hàng trong Microsoft 365 cho doanh nghiệp](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
