@@ -3,7 +3,7 @@ title: Chặn hoặc bỏ chặn người gửi trong Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 04/21/2020
+ms.date: 04/23/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -15,21 +15,20 @@ ms.custom:
 - "8000015"
 - "8000017"
 ms.assetid: 2ef840ec-7e1a-4df2-944b-d643fe08bd8f
-ms.openlocfilehash: 67bd05e8d2effa325e152ca568748d4cd92930cf
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: b6a80faa0542f3f68ac431e4ccd7b59894e8eeb9
+ms.sourcegitcommit: 86881d80c859e68bdf9d301a2df6ca9d75e086a0
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43717786"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43793977"
 ---
 # <a name="block-or-unblock-senders"></a>Chặn hoặc bỏ chặn người gửi
 
-Tin nhắn từ địa chỉ email hoặc miền trên người gửi bị chặn của bạn đi trực tiếp vào thư mục Outlook Junk Email của bạn. Email được tự động loại bỏ khỏi thư mục email rác sau 30 ngày và không thể khôi phục. Chọn một mục để xem khi nào nó sẽ bị xóa.
+Thư từ địa chỉ email hoặc miền trên danh sách người gửi bị chặn sẽ không đến hộp thư Outlook.com của bạn.
 
 **Từ hộp thư đến của bạn:**
 
 - Trong danh sách thư, chọn thư và sau đó chọn **Junk** > **khối**rác.
-- **Lưu ý:** Chặn một mục đã có trong thư mục Junk Email của bạn sẽ không xóa nó.
 
 **Từ cài đặt:**
 
@@ -40,4 +39,4 @@ Tin nhắn từ địa chỉ email hoặc miền trên người gửi bị chặ
 
 Để bỏ chặn người gửi, hãy chọn biểu tượng thùng rác bên cạnh địa chỉ email hoặc miền bạn muốn bỏ chặn.
 
-Để tìm hiểu thêm, hãy xem đánh [dấu email là người gửi thư rác hoặc chặn trong Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
+Để tìm hiểu thêm, hãy xem [chặn người gửi hoặc đánh dấu email là thư rác](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
