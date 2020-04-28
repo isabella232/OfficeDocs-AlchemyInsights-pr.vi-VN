@@ -8,24 +8,24 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ba35d814-55b8-44e6-a70e-011b91d2bbcb
-ms.openlocfilehash: 7778ce6afd7dd92d62bda85a978637608b187107
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: c3165ccf5aee9edbb147a5e34f2680a4f0ed04b1
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43715546"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911674"
 ---
-# <a name="create-an-office-365-group-connected-team-site"></a><span data-ttu-id="5d95c-102">Tạo một trang web nhóm Office 365 kết nối</span><span class="sxs-lookup"><span data-stu-id="5d95c-102">Create an Office 365 group-connected team site</span></span>
+# <a name="create-an-microsoft-365-group-connected-team-site"></a><span data-ttu-id="29305-102">Tạo một trang web nhóm Microsoft 365 kết nối</span><span class="sxs-lookup"><span data-stu-id="29305-102">Create an Microsoft 365 group-connected team site</span></span>
 
-1. <span data-ttu-id="5d95c-103">Nhấp vào trình khởi chạy ứng dụng ở góc trên bên trái và chọn **SharePoint**.</span><span class="sxs-lookup"><span data-stu-id="5d95c-103">Click the app launcher in the upper-left corner and select **SharePoint**.</span></span> <span data-ttu-id="5d95c-104">Nếu bạn không thấy ngăn xếp SharePoint, hãy nhấp vào **tất cả ứng dụng**.</span><span class="sxs-lookup"><span data-stu-id="5d95c-104">If you don't see the SharePoint tile, click **All apps**.</span></span>
+1. <span data-ttu-id="29305-103">Nhấp vào trình khởi chạy ứng dụng ở góc trên bên trái và chọn **SharePoint**.</span><span class="sxs-lookup"><span data-stu-id="29305-103">Click the app launcher in the upper-left corner and select **SharePoint**.</span></span> <span data-ttu-id="29305-104">Nếu bạn không thấy ngăn xếp SharePoint, hãy nhấp vào **tất cả ứng dụng**.</span><span class="sxs-lookup"><span data-stu-id="29305-104">If you don't see the SharePoint tile, click **All apps**.</span></span>
     
-2. <span data-ttu-id="5d95c-105">Ở đầu trang chủ SharePoint, nhấp vào **tạo trang web** và chọn tùy chọn **trang web nhóm** .</span><span class="sxs-lookup"><span data-stu-id="5d95c-105">At the top of the SharePoint home page, click **Create site** and choose the **Team site** option.</span></span> 
+2. <span data-ttu-id="29305-105">Ở đầu trang chủ SharePoint, nhấp vào **tạo trang web** và chọn tùy chọn **trang web nhóm** .</span><span class="sxs-lookup"><span data-stu-id="29305-105">At the top of the SharePoint home page, click **Create site** and choose the **Team site** option.</span></span> 
     
     > [!NOTE]
-    > <span data-ttu-id="5d95c-106">Nếu bạn không thấy lệnh tạo trang web, tạo trang web có thể không được kích hoạt trong tổ chức của bạn.</span><span class="sxs-lookup"><span data-stu-id="5d95c-106">If you don't see the Create site command, site creation may not be enabled in your organization.</span></span> <span data-ttu-id="5d95c-107">Để kích hoạt nó, xem [quản lý tạo trang web](https://go.microsoft.com/fwlink/?linkid=2009644).</span><span class="sxs-lookup"><span data-stu-id="5d95c-107">To enable it, see [Manage site creation](https://go.microsoft.com/fwlink/?linkid=2009644).</span></span> 
+    > <span data-ttu-id="29305-106">Nếu bạn không thấy lệnh tạo trang web, tạo trang web có thể không được kích hoạt trong tổ chức của bạn.</span><span class="sxs-lookup"><span data-stu-id="29305-106">If you don't see the Create site command, site creation may not be enabled in your organization.</span></span> <span data-ttu-id="29305-107">Để kích hoạt nó, xem [quản lý tạo trang web](https://go.microsoft.com/fwlink/?linkid=2009644).</span><span class="sxs-lookup"><span data-stu-id="29305-107">To enable it, see [Manage site creation](https://go.microsoft.com/fwlink/?linkid=2009644).</span></span> 
   
-3. <span data-ttu-id="5d95c-108">Làm theo các bước trên màn hình để tên trang web và tạo một địa chỉ email cho nhóm Office 365, và sau đó nhấp vào **tiếp theo**.</span><span class="sxs-lookup"><span data-stu-id="5d95c-108">Follow the steps on the screen to name the site and create an email address for the Office 365 group, and then click **Next**.</span></span> <span data-ttu-id="5d95c-109">Bạn cũng có thể thêm các chủ sở hữu và thành viên nhóm khác.</span><span class="sxs-lookup"><span data-stu-id="5d95c-109">You can also add other group owners and members.</span></span> <span data-ttu-id="5d95c-110">Nhấp vào **hoàn tất**.</span><span class="sxs-lookup"><span data-stu-id="5d95c-110">Click **Finish**.</span></span>
+3. <span data-ttu-id="29305-108">Làm theo các bước trên màn hình để tên trang web và tạo một địa chỉ email cho nhóm Microsoft 365, và sau đó nhấp vào **tiếp theo**.</span><span class="sxs-lookup"><span data-stu-id="29305-108">Follow the steps on the screen to name the site and create an email address for the Microsoft 365 group, and then click **Next**.</span></span> <span data-ttu-id="29305-109">Bạn cũng có thể thêm các chủ sở hữu và thành viên nhóm khác.</span><span class="sxs-lookup"><span data-stu-id="29305-109">You can also add other group owners and members.</span></span> <span data-ttu-id="29305-110">Nhấp vào **hoàn tất**.</span><span class="sxs-lookup"><span data-stu-id="29305-110">Click **Finish**.</span></span>
   
- <span data-ttu-id="5d95c-111">**Lưu ý:** Để tạo một nhóm trang web mà không có một nhóm được kết nối, hãy làm theo các bước trên, nhưng thay vì chọn Nhóm trang web trong bước 2.</span><span class="sxs-lookup"><span data-stu-id="5d95c-111">**Note:** To create a Team Site without a group connected, follow the steps above, but instead of selecting Team Site in Step 2.</span></span> <span data-ttu-id="5d95c-112">chọn các tùy chọn khác.</span><span class="sxs-lookup"><span data-stu-id="5d95c-112">select Other options.</span></span> <span data-ttu-id="5d95c-113">Điều này sẽ hướng dẫn bạn tạo một site nhóm mà không có một nhóm.</span><span class="sxs-lookup"><span data-stu-id="5d95c-113">This will guide you through creating a Team Site without a group.</span></span> 
+ <span data-ttu-id="29305-111">**Lưu ý:** Để tạo một nhóm trang web mà không có một nhóm được kết nối, hãy làm theo các bước trên, nhưng thay vì chọn Nhóm trang web trong bước 2.</span><span class="sxs-lookup"><span data-stu-id="29305-111">**Note:** To create a Team Site without a group connected, follow the steps above, but instead of selecting Team Site in Step 2.</span></span> <span data-ttu-id="29305-112">chọn các tùy chọn khác.</span><span class="sxs-lookup"><span data-stu-id="29305-112">select Other options.</span></span> <span data-ttu-id="29305-113">Điều này sẽ hướng dẫn bạn tạo một site nhóm mà không có một nhóm.</span><span class="sxs-lookup"><span data-stu-id="29305-113">This will guide you through creating a Team Site without a group.</span></span> 
     
 
