@@ -7,12 +7,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: caa0f310-0bb7-48e3-8ad2-cb358b53bbba
-ms.openlocfilehash: e84a5b04d6fc805deaa47cb10c91081f37411e5b
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 7dbc69bced9ca800d3f95081b77dda5e49662579
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36737931"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43910954"
 ---
 # <a name="add-external-users-to-a-distribution-group"></a>Thêm người dùng bên ngoài vào nhóm phân phối
 
@@ -28,7 +28,7 @@ Thêm một liên hệ bên ngoài vào một nhóm phân phối (DG) là một 
     
 2. Thêm liên hệ thư vào DG của bạn:
     
-    1. Trong Trung tâm quản trị, hãy chuyển **** > [đến trang nhóm](https://admin.microsoft.com/adminportal/home#/groups) nhóm. 
+    1. Trong Trung tâm quản trị, hãy chuyển đến[Groups](https://admin.microsoft.com/adminportal/home#/groups) **Groups** > trang nhóm nhóm. 
     
     2. Tìm DG bạn muốn thêm người dùng bên ngoài vào, và chọn nó để mở hộp thoại chỉnh sửa.
     
@@ -40,5 +40,5 @@ Thêm một liên hệ bên ngoài vào một nhóm phân phối (DG) là một 
     
 Nếu sau khi làm theo các bước này người dùng bên ngoài không thể gửi email đến DG hoặc không nhận được email từ nó, có thể là DG được đánh dấu để chỉ cho phép email từ người dùng nội bộ. Bạn có thể kiểm tra cấu hình này và sửa chữa nó theo các hướng dẫn [ở đây](https://docs.microsoft.com/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/fix-error-code-5-7-133-in-exchange-online).
   
- **Lưu ý:** Các hướng dẫn này không áp dụng nếu loại nhóm của bạn là "Office 365 nhóm" thay vì "nhóm phân phối". Nếu đó là trường hợp, bạn có thể thêm người dùng bên ngoài trực tiếp vào nhóm từ Outlook. Thông tin chi tiết về văn phòng 365 nhóm khách cũng như hướng dẫn Thêm khách bên ngoài có thể được tìm thấy trong [bài viết này](https://support.office.com/article/Guest-access-in-Office-365-Groups-bfc7a840-868f-4fd6-a390-f347bf51aff6.aspx).
+ **Lưu ý:** Các hướng dẫn này không áp dụng nếu loại nhóm của bạn là "Microsoft 365 nhóm" thay vì "nhóm phân phối". Nếu đó là trường hợp, bạn có thể thêm người dùng bên ngoài trực tiếp vào nhóm từ Outlook. Thông tin chi tiết về Microsoft 365 nhóm khách cũng như hướng dẫn Thêm khách bên ngoài có thể được tìm thấy trong [bài viết này](https://support.office.com/article/Guest-access-in-Office-365-Groups-bfc7a840-868f-4fd6-a390-f347bf51aff6.aspx).
   

@@ -11,14 +11,16 @@ ms.custom:
 - "982"
 - "4000006"
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
-ms.openlocfilehash: b35cb349aadf146079331370bb872ab24f4a8fef
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 045ea1814c0b6189ec25195202bf0f1def255f23
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39626334"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43908831"
 ---
 # <a name="microsoft-teams-upgrade"></a>Nâng cấp Microsoft teams
+
+**Quan trọng**: chúng tôi có thể giúp bạn khắc phục sự cố này cho bạn bằng cách sử dụng chẩn đoán hỗ trợ, nhưng có vẻ như bạn không sử dụng trung tâm quản trị mới. Để sử dụng trung tâm quản trị mới, hãy trượt nút gạt ở trên cùng bên phải cho biết **Trung tâm quản trị mới** ở bên phải. Sử dụng trung tâm quản trị mới, bấm vào **cần giúp đỡ?** widget, nhập "teams nâng cấp", sau đó làm theo các lời nhắc để chạy chẩn đoán.
 
 Cho dù bạn chỉ bắt đầu với teams, đã sử dụng teams cùng với Skype for Business hay đã sẵn sàng nâng cấp, chúng tôi muốn đảm bảo bạn có mọi thứ bạn cần để điều hướng cuộc hành trình thành công đến teams. Để biết thêm thông tin xin vui lòng truy cập vào các liên kết dưới đây.
 

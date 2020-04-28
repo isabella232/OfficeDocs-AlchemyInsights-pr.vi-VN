@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d3d0b69b-214e-4859-8957-621fd6306b30
-ms.openlocfilehash: 285535d6144825f0935bf72579a483260c2f2bd6
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 37da77c73b3abbdcf9cb2b9c4c43f31eea3c0a49
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767271"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43913024"
 ---
 # <a name="fix-problems-sharing-sharepoint-content-with-external-users"></a>Khắc phục sự cố chia sẻ nội dung SharePoint với người dùng bên ngoài
 
@@ -32,7 +32,7 @@ Hãy chắc chắn rằng chia sẻ bên ngoài nó bật cho trang web. Đối 
     
 2. Chọn trang web hoặc trang web và trên ruy băng, bấm vào **chia sẻ**.
     
-Trang web nhóm thuộc một nhóm Office 365 hoặc một trang web liên lạc:
+Trang web nhóm thuộc một nhóm Microsoft 365 hoặc một trang web liên lạc:
   
 - Các loại trang web mới này có cài đặt chia sẻ tương tự như cài đặt trên toàn tổ chức, trừ khi cài đặt trên toàn tổ chức cho phép chia sẻ tệp bằng cách sử dụng liên kết không yêu cầu đăng nhập. Trong trường hợp này, các trang web cho phép chia sẻ với người dùng bên ngoài mới và hiện có đăng nhập. Để thay đổi cài đặt cho các trang web cụ thể, sử dụng trung tâm quản trị SharePoint mới hoặc PowerShell. Tìm hiểu [Thêm](https://go.microsoft.com/fwlink/?linkid=871863).
     

@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "1902"
 - "9000294"
-ms.openlocfilehash: 467dc14be08410397e08d6d0a4c33bffc7aea80e
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 255629468a896ebf10917e4738e6aaf8c2d26826
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36745167"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912641"
 ---
 # <a name="restore-a-deleted-yammer-group"></a>Khôi phục nhóm yammer đã xoá
 
-Các [nhóm kết nối Office 365 trong yammer](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups) có thể được khôi phục trong vòng 30 ngày sau khi xóa bằng cách làm theo các bước để [khôi phục nhóm Office 365 đã xóa](https://docs.microsoft.com/office365/admin/create-groups/restore-deleted-group).
-Trong một số trường hợp, yammer nhóm có thể không được kết nối với một nhóm Office 365. Nếu trường hợp này xảy ra, không thể tự động khôi phục nhóm, nhưng có thể truy cập dữ liệu đã xóa trong [dữ liệu yammer xuất](https://docs.microsoft.com/yammer/manage-security-and-compliance/export-yammer-enterprise-data) nếu [chính sách lưu giữ dữ liệu](https://docs.microsoft.com/yammer/manage-security-and-compliance/manage-data-compliance) mạng được đặt thành *xoá mềm*. Liên hệ với người [quản trị đã xác minh](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-admins) cho mạng yammer của bạn để kiểm tra chính sách lưu giữ dữ liệu hoặc để thực hiện xuất dữ liệu.
+Các [nhóm kết nối Office 365 trong yammer](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups) có thể được khôi phục trong vòng 30 ngày sau khi xóa bằng cách làm theo các bước để [khôi phục nhóm Microsoft 365 đã xóa](https://docs.microsoft.com/office365/admin/create-groups/restore-deleted-group).
+Trong một số trường hợp, nhóm yammer có thể không được kết nối với một nhóm Microsoft 365. Nếu trường hợp này xảy ra, không thể tự động khôi phục nhóm, nhưng có thể truy cập dữ liệu đã xóa trong [dữ liệu yammer xuất](https://docs.microsoft.com/yammer/manage-security-and-compliance/export-yammer-enterprise-data) nếu [chính sách lưu giữ dữ liệu](https://docs.microsoft.com/yammer/manage-security-and-compliance/manage-data-compliance) mạng được đặt thành *xoá mềm*. Liên hệ với người [quản trị đã xác minh](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-admins) cho mạng yammer của bạn để kiểm tra chính sách lưu giữ dữ liệu hoặc để thực hiện xuất dữ liệu.

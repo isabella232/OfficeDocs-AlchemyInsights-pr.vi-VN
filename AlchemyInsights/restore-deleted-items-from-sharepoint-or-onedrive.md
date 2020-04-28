@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ab29939b-37fe-4007-aae3-26fa6d2f57fa
-ms.openlocfilehash: a8438d6ac489abfdbe49bc8541b9abdd5e799713
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 1a1c72078f6357332f48d369e482ab20cb82f868
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43742537"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912569"
 ---
 # <a name="restore-deleted-items-from-sharepoint-or-onedrive"></a>Khôi phục các mục đã xóa từ SharePoint hoặc OneDrive
 
@@ -34,6 +34,6 @@ Khi tệp, thư mục, thư viện, danh sách và mục danh sách sẽ bị xo
   
 [Khôi phục bộ sưu tập trang web bị xóa](https://go.microsoft.com/fwlink/?linkid=867660) (toàn cầu hoặc quản trị viên SharePoint trong Microsoft 365) 
   
-Đối với các trang web thuộc nhóm Office 365, bạn cần khôi phục nhóm để khôi phục trang web. Xem [khôi phục nhóm Office 365 đã xóa](https://go.microsoft.com/fwlink/?linkid=867802) (quản trị toàn cầu) 
+Đối với các trang web thuộc nhóm Microsoft 365, bạn cần khôi phục nhóm để khôi phục trang web. Xem [khôi phục nhóm Microsoft 365 đã xóa](https://go.microsoft.com/fwlink/?linkid=867802) (quản trị toàn cầu) 
   
 

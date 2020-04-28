@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 6c1a4b19-5915-428f-bc57-40ee2af62178
-ms.openlocfilehash: 696cbf7524c4f866fd12d67699e828fce49341cb
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 66b00625190bddfc2b060895c9b864f6a839adb2
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43721858"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912425"
 ---
 # <a name="manage-access-requests"></a>Quản lý yêu cầu truy cập
 
@@ -26,7 +26,7 @@ Khi người dùng cố gắng truy cập vào một mục trong SharePoint và 
     
 2. Trong **người dùng và quyền**, nhấp vào **yêu cầu truy cập và lời mời**. (Nếu điều này không xuất hiện, không có yêu cầu truy cập nào được thực hiện.)
     
-3. Để cấp cho người dùng quyền riêng lẻ, hãy nhấp vào **phê duyệt** hoặc **từ chối**. Để chọn cấp quyền cụ thể, trước tiên hãy nhấp vào dấu chấm lửng (...) bên cạnh tên của người đó. Ngoài ra, thêm người dùng vào một nhóm có quyền cho trang web. Đối với các trang web liên lạc và các trang web nhóm cổ điển, bạn có thể thực hiện việc này trên trang cài đặt trang web. Đối với các trang web thuộc nhóm Office 365, bạn có thể thêm người dùng vào nhóm.
+3. Để cấp cho người dùng quyền riêng lẻ, hãy nhấp vào **phê duyệt** hoặc **từ chối**. Để chọn cấp quyền cụ thể, trước tiên hãy nhấp vào dấu chấm lửng (...) bên cạnh tên của người đó. Ngoài ra, thêm người dùng vào một nhóm có quyền cho trang web. Đối với các trang web liên lạc và các trang web nhóm cổ điển, bạn có thể thực hiện việc này trên trang cài đặt trang web. Đối với các trang web thuộc nhóm Microsoft 365, bạn có thể thêm người dùng vào nhóm.
     
     [Quản lý yêu cầu truy cập](https://go.microsoft.com/fwlink/?linkid=2008747)
     

@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2587"
-ms.openlocfilehash: e40d4b866d4a2d70e83b5addf8de2690c04eaffc
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 730346beebb248e5f1e1200e73bf20931f8b2309
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709429"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43908870"
 ---
 # <a name="adding-an-overlay-to-a-sharepoint-calendar"></a>Thêm lớp phủ vào lịch SharePoint
 
-Lịch SharePoint là loại danh sách cổ điển đôi khi bị nhầm lẫn với Office 365 lịch nhóm.
+Lịch SharePoint là loại danh sách cổ điển đôi khi bị nhầm lẫn với Microsoft 365 lịch nhóm.
  
 Nếu bạn sử dụng lịch SharePoint trên trang web của mình, bạn có thể che phủ lịch Exchange của riêng mình lên đó để tạo dạng xem lịch kết hợp. Ngoài ra, bạn có thể lớp khác SharePoint lịch miễn là cả SharePoint lịch trong bộ sưu tập trang web tương tự.
  

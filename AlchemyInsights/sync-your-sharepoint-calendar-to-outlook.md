@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2586"
-ms.openlocfilehash: f997fa106f00d3c5598e955aea9c8e4e79a54f6e
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 4120c30c27ea404419eaf4485d137b513314c467
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43766983"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912880"
 ---
 # <a name="issues-synchronizing-your-calendar-to-devices"></a>Các vấn đề đồng bộ hoá lịch của bạn với thiết bị
 
-Lịch SharePoint là loại danh sách cổ điển đôi khi bị nhầm lẫn với Office 365 lịch nhóm.
+Lịch SharePoint là loại danh sách cổ điển đôi khi bị nhầm lẫn với Microsoft 365 lịch nhóm.
 
 Để đồng bộ hoá lịch SharePoint với Outlook, hãy làm theo các bước sau:
 
@@ -33,4 +33,4 @@ Lịch SharePoint là loại danh sách cổ điển đôi khi bị nhầm lẫn
 >[!Note]
 > Khi bạn thực hiện thay đổi trong lịch Outlook đồng bộ hóa, nó sẽ xuất hiện trong lịch SharePoint và ngược lại.
 
-Để biết thêm thông tin về Office 365 nhóm, xem [bài viết](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2)này.
+Để biết thêm thông tin về Microsoft 365 nhóm, xem [bài viết](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2)này.

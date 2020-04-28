@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: aa881dd6618f6912b854929db625f4cbaeb048d7
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 612410700b00f02e524ada86d505883fb0f2d0fe
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705035"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911602"
 ---
-# <a name="delete-sites-that-belong-to-an-office-365-group"></a>Xoá các trang web thuộc nhóm Office 365
+# <a name="delete-sites-that-belong-to-an-microsoft-365-group"></a>Xóa các trang web thuộc nhóm Microsoft 365
 
-Khi người dùng tạo một trang web nhóm mới từ SharePoint Home hoặc bạn tạo một trang web nhóm mới từ Trung tâm quản trị SharePoint mới, nhóm Office 365 tương ứng được tạo tự động. Office 365 nhóm kết nối site nhóm cũng được tạo ra khi bạn tạo một nhóm Office 365 hoặc nhóm trong Microsoft teams. Để xoá một trang web SharePoint thuộc một nhóm Office 365, bạn phải xoá nhóm Office 365 chính nó. 
+Khi người dùng tạo một trang web nhóm mới từ SharePoint Home hoặc bạn tạo một trang web nhóm mới từ Trung tâm quản trị SharePoint mới, nhóm Microsoft 365 tương ứng được tạo tự động. Microsoft 365 nhóm kết nối site nhóm cũng được tạo ra khi bạn tạo một nhóm Microsoft 365 hoặc một nhóm trong Microsoft teams. Để xoá một trang web SharePoint thuộc một nhóm Microsoft 365, bạn phải xoá nhóm Microsoft 365. 
   
 1. Đi tới [trang nhóm của Trung tâm quản trị Microsoft 365](https://portal.office.com/adminportal/home#/groups).
     

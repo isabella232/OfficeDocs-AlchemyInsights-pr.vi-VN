@@ -11,12 +11,12 @@ ms.custom:
 - "639"
 - "3500007"
 ms.assetid: 6e536c7d-ab36-413e-9702-63e51adb3452
-ms.openlocfilehash: b9659f657555411ffd87a63bc099708b49d46300
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: ab54d84f921f9cd2aa895e8a9684c638bde69838
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762159"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912244"
 ---
 # <a name="migrate-public-folder-data-to-microsoft-365"></a>Di chuyển dữ liệu thư mục chung sang Microsoft 365
 
@@ -28,5 +28,5 @@ Nếu bạn không có nhiều thư mục công cộng để đưa vào Microsof
 
 - [Di chuyển Exchange 2013, Exchange 2016 hoặc Exchange 2019 thư mục công cộng](https://docs.microsoft.com/Exchange/collaboration/public-folders/migrate-to-exchange-online)
 
-Bạn cũng có tùy chọn để [di chuyển thư mục công cộng cho Office 365 nhóm](https://docs.microsoft.com/Exchange/collaboration/public-folders/migrate-to-office-365-groups).
+Bạn cũng có tùy chọn để [di chuyển thư mục công cộng cho Microsoft 365 nhóm](https://docs.microsoft.com/Exchange/collaboration/public-folders/migrate-to-office-365-groups).
   

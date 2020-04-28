@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
-ms.openlocfilehash: e397923c13f01f436667d488523c8bc1641c2b37
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 71c36191b4310cf573059dd85a0a8471ecc30c52
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710537"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912916"
 ---
 # <a name="user-permissions-in-sharepoint-and-onedrive"></a>Quyền của người dùng trong SharePoint và OneDrive
 
@@ -27,7 +27,7 @@ Nếu người dùng trong tổ chức của bạn không thể truy cập Share
   
 1. Mở trang web trong trình duyệt web.
     
-2. Nếu trang web thuộc một nhóm Office 365, bấm vào biểu tượng cài đặt ở phía trên bên phải, và sau đó nhấp vào **quyền trang web**. Nhấp vào **mời người**rồi chọn thêm thành viên vào nhóm Office 365 hoặc chỉ chia sẻ trang web. 
+2. Nếu trang web thuộc nhóm Microsoft 365, bấm vào biểu tượng cài đặt ở phía trên bên phải, và sau đó nhấp vào **quyền trang web**. Nhấp vào **mời người**rồi chọn thêm thành viên vào nhóm Microsoft 365 hoặc chỉ chia sẻ trang web. 
     
     Đối với một trang web liên lạc, bấm vào **trang web chia sẻ** ở phía trên bên phải, nhập tên của người đó và sau đó chọn cấp quyền (đọc, chỉnh sửa hoặc kiểm soát hoàn toàn). 
     

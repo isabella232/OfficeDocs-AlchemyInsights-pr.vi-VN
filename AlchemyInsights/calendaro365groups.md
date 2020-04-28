@@ -10,13 +10,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 402
 ms.assetid: 3f6b7230-28a3-40d9-b30a-c7f252b91d37
-ms.openlocfilehash: 84268236862797049b47228ef59abedf19312152
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 76c984f08c4aac4879b3117129b405b69c9d21af
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43711797"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911387"
 ---
-# <a name="calenders-in-office-365-groups"></a>Calenders trong văn phòng 365 nhóm
+# <a name="calenders-in-microsoft-365-groups"></a>Calenders trong Microsoft 365 nhóm
 
-Để biết thêm thông tin về lịch trong Office 365 nhóm, [hãy xem Tìm hiểu thêm về office 365 nhóm](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2.aspx).
+Để biết thêm thông tin về lịch trong Microsoft 365 nhóm, [hãy xem Tìm hiểu về microsoft 365 Groups](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2.aspx).

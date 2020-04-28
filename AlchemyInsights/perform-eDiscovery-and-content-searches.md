@@ -13,16 +13,16 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 561a27cc71b6eec918acc2fac911f8b3b18fd097
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 42b80a798ca05831a3cdfa15130ab2751bc1d152
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43764750"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911853"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Cách thực hiện tìm kiếm nội dung và tìm kiếm eDiscovery
 
-Sử dụng công cụ tìm kiếm nội dung trong Trung tâm bảo mật & tuân thủ để nhanh chóng tìm email trong hộp thư Exchange, tài liệu trong các trang web SharePoint và tài khoản OneDrive và cuộc hội thoại nhắn tin tức thời trong Skype dành cho doanh nghiệp. Bạn cũng có thể sử dụng công cụ tìm kiếm nội dung để tìm kiếm email, tài liệu và cuộc hội thoại nhắn tin tức thời trong Microsoft 365 công cụ cộng tác như Microsoft teams và Office 365 Groups.
+Sử dụng công cụ tìm kiếm nội dung trong Trung tâm bảo mật & tuân thủ để nhanh chóng tìm email trong hộp thư Exchange, tài liệu trong các trang web SharePoint và tài khoản OneDrive và cuộc hội thoại nhắn tin tức thời trong Skype dành cho doanh nghiệp. Bạn cũng có thể sử dụng công cụ tìm kiếm nội dung để tìm kiếm email, tài liệu và cuộc hội thoại nhắn tin tức thời trong Microsoft 365 công cụ cộng tác như Microsoft teams và Microsoft 365 Groups.
 
 **Để thực hiện tìm kiếm nội dung**
 
