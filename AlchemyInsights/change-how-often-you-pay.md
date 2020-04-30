@@ -14,13 +14,20 @@ ms.custom:
 - "469"
 - "4552"
 - "1500025"
-ms.openlocfilehash: bbea5f043c7a6575029fc5bd40fc1788177284f4
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: d58e23d1174097af6a6a8b548a89c382cce2a012
+ms.sourcegitcommit: 7755f288fcc718571367cf1960962b19a82bac4f
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706849"
+ms.lasthandoff: 04/29/2020
+ms.locfileid: "43939677"
 ---
 # <a name="change-how-often-you-pay"></a>Thay đổi tần suất bạn thanh toán
 
- **Bạn muốn thay đổi tần suất thanh toán của mình?** Nếu bạn muốn thay đổi tần suất bạn thanh toán cho Microsoft 365 cho đăng ký kinh doanh, từ hàng năm đến hàng tháng hoặc hàng tháng đến hàng năm, chúng tôi có thể giúp bạn với điều đó. Bạn sẽ cần phải mua cùng một gói đăng ký với tần suất thanh toán mới và hủy đăng ký cũ. Vui lòng sử dụng tùy chọn "chúng tôi gọi cho bạn" để nói chuyện với một kỹ sư hỗ trợ.
+Để thay đổi tần suất bạn được lập hóa đơn và thanh toán cho đăng ký, hãy hoàn tất các bước sau trong Trung tâm quản trị Microsoft 365. 
+1. Chuyển đến ** [các sản phẩm > thanh toán & dịch vụ](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+2. Tìm gói đăng ký bạn muốn thay đổi. Trong phần **lập hóa đơn** , bên cạnh tính **phí hàng tháng** hoặc bị tính **phí mỗi**năm, hãy nhấp vào **chỉnh sửa**. 
+3. Chọn tùy chọn cho tần suất bạn muốn được lập hóa đơn, sau đó nhấp vào **thay đổi**.
+
+**Lưu ý**: thanh toán hàng tháng hoặc hàng năm là các tùy chọn duy
+
+Để biết thêm thông tin, hãy xem [thay đổi tần suất thanh toán của bạn](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency?view=o365-worldwide).

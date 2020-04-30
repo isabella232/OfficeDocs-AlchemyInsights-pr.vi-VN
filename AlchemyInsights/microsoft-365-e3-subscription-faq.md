@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002554"
 - "5392"
-ms.openlocfilehash: 0a34f3a449313325adac1907af952dbe0c68f1f4
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 56968133f06444badfdf2d0d7823e374a08302d5
+ms.sourcegitcommit: 821c0d7cd1937f0a8f54d0210f71b1d3ea374e82
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912066"
+ms.lasthandoff: 04/29/2020
+ms.locfileid: "43944001"
 ---
 # <a name="microsoft-365-e3-subscription-and-license-management-faq"></a>Microsoft 365 E3 đăng ký và quản lý giấy phép FAQ
 
@@ -28,6 +28,6 @@ ms.locfileid: "43912066"
 - Để **hủy** giấy phép E3, hãy chuyển đến các **sản phẩm > thanh toán [& dịch vụ](https://go.microsoft.com/fwlink/p/?linkid=842054)**, bấm vào **cài đặt & hành động**và bấm **hủy đăng ký**. Để biết thêm thông tin, hãy xem [hủy đăng ký của bạn](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
 - Để **kích hoạt** đăng ký E3, [hãy xem kích hoạt đăng ký của bạn](https://docs.microsoft.com/alchemyinsights/activate-your-office-365-subscription).
 - Để **kích** hoạt lại đăng ký E3, xem [kích hoạt lại đăng ký của bạn](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription).
-- Để mở rộng phiên tòa E3, [hãy xem mở rộng bản dùng thử của bạn](https://docs.microsoft.com/alchemyinsights/extend-your-trial-for-office-365-for-business).
+- Để **mở rộng** phiên tòa E3, [hãy xem mở rộng bản dùng thử của bạn](https://docs.microsoft.com/alchemyinsights/extend-your-trial-for-office-365-for-business).
 
 Để biết thêm thông tin, xem [quản lý giấy phép đăng ký](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).

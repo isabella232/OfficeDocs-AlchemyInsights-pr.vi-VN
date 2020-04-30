@@ -12,17 +12,19 @@ ms.custom:
 - "437"
 - "1500005"
 ms.assetid: 464d32fd-2487-4885-af0f-d4096b694861
-ms.openlocfilehash: 10a38a78db566642e723c9068631df4dafd06cc1
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: ecd676c586d177146f8a833146c384fcf549eb38
+ms.sourcegitcommit: fbaa2ce2cfb4d56d8c4cf2fa2d95489bdfcb7ff0
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665710"
+ms.lasthandoff: 04/30/2020
+ms.locfileid: "43947742"
 ---
 # <a name="view-my-bill"></a>Xem hóa đơn của tôi
 
-1. Trong Trung tâm quản trị Microsoft 365, đi đến **thanh toán** \> [thanh toán hóa đơn &](https://go.microsoft.com/fwlink/p/?linkid=848039) trang.
+1. Trong Trung tâm quản trị Microsoft 365, hãy truy cập vào hóa đơn **thanh toán** \> [& trang thanh toán](https://go.microsoft.com/fwlink/p/?linkid=848039) .
 
-2. Chọn một phạm vi ngày từ danh sách thả xuống, và sau đó chọn thứ tự mà bạn muốn xem.
+2. Chọn phạm vi ngày từ danh sách thả xuống, sau đó chọn đơn đặt hàng bạn muốn xem.
 
-Để biết thêm thông tin xem [hóa đơn hoặc hóa đơn của bạn](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).
+3. Để in hóa đơn, tải xuống hóa đơn dưới dạng tệp PDF và nhấp vào **in**.
+
+Để biết thêm thông tin, hãy xem xem [hóa đơn hoặc hóa đơn của bạn](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).
