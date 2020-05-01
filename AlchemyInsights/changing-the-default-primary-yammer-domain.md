@@ -1,0 +1,43 @@
+---
+title: Thay đổi miền yammer mặc định
+ms.author: pebaum
+author: pebaum
+manager: mnirkhe
+ms.audience: Admin
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom:
+- "9002662"
+- "5162"
+ms.openlocfilehash: 099feb5c58a2b1068a2ec501ff966c6ac73d804d
+ms.sourcegitcommit: 87aa36e3ff4835efb120a320c5169bfa77199ec4
+ms.translationtype: MT
+ms.contentlocale: vi-VN
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43991333"
+---
+# <a name="changing-the-defaultprimary-yammer-domain"></a><span data-ttu-id="ba459-102">Thay đổi miền yammer mặc định/chính</span><span class="sxs-lookup"><span data-stu-id="ba459-102">Changing the default/primary Yammer domain</span></span>
+
+<span data-ttu-id="ba459-103">Yammer URL chứa tên miền chính hiện tại cho mạng yammer của bạn.</span><span class="sxs-lookup"><span data-stu-id="ba459-103">The Yammer URL contains the current primary domain name for your Yammer network.</span></span> <span data-ttu-id="ba459-104">Tên miền này có thể không khớp với tên miền chính trong Office 365 hoặc Azure AD.</span><span class="sxs-lookup"><span data-stu-id="ba459-104">This domain name may not match the primary domain name set in Office 365 or Azure AD.</span></span> <span data-ttu-id="ba459-105">Có sự khác biệt về hành vi dựa trên số miền tuỳ chỉnh được thêm vào đối tượng thuê và liệu yammer có cấu hình được hỗ trợ (1 người thuê: 1 mạng hoặc 1:1).</span><span class="sxs-lookup"><span data-stu-id="ba459-105">There are differences in behavior based on the number of custom domains added to the tenant, and whether Yammer is in a supported configuration (1 Tenant: 1 Network, or 1:1).</span></span> <span data-ttu-id="ba459-106">Tài liệu về [miền yammer và Office 365](https://docs.microsoft.com/yammer/configure-your-yammer-network/manage-yammer-domains) có sẵn.</span><span class="sxs-lookup"><span data-stu-id="ba459-106">Documentation on [Yammer domains and Office 365](https://docs.microsoft.com/yammer/configure-your-yammer-network/manage-yammer-domains) is available.</span></span>
+
+<span data-ttu-id="ba459-107">Lý do phổ biến nhất mà bạn thấy một tên miền không chính xác là nhiều yammer mạng tồn tại và cần phải được hợp nhất.</span><span class="sxs-lookup"><span data-stu-id="ba459-107">The most common reason that you see an incorrect domain is that multiple Yammer networks exist and need to be consolidated.</span></span> <span data-ttu-id="ba459-108">[Củng cố xuống một mạng duy nhất](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks) bằng cách sử dụng công cụ di chuyển mạng là một bước quan trọng đầu tiên.</span><span class="sxs-lookup"><span data-stu-id="ba459-108">[Consolidating down to a single network](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks) using the network migration tool is an important first step.</span></span> <span data-ttu-id="ba459-109">Hoàn thành điều này trước khi cố gắng đặt tên miền chính của bạn.</span><span class="sxs-lookup"><span data-stu-id="ba459-109">Complete this before attempting to set your primary domain.</span></span>
+
+<span data-ttu-id="ba459-110">**Không có miền tùy chỉnh**</span><span class="sxs-lookup"><span data-stu-id="ba459-110">**No custom domains**</span></span>
+
+<span data-ttu-id="ba459-111">Đối với người thuê nhà mới, tên miền mặc định (ví dụ: fabrikam.onmicrosoft.com) từ đối tượng thuê sẽ được sử dụng cho yammer.</span><span class="sxs-lookup"><span data-stu-id="ba459-111">For new tenants, the default domain (e.g. fabrikam.onmicrosoft.com) from the tenant will be used for Yammer.</span></span> <span data-ttu-id="ba459-112">Tên miền chính được đặt thành yammer.com/fabrikam.onmicrosoft.com.</span><span class="sxs-lookup"><span data-stu-id="ba459-112">The primary domain is set to yammer.com/fabrikam.onmicrosoft.com.</span></span>
+
+<span data-ttu-id="ba459-113">**Miền tùy chỉnh duy nhất**</span><span class="sxs-lookup"><span data-stu-id="ba459-113">**Single custom domain**</span></span>
+
+<span data-ttu-id="ba459-114">Yammer sẽ tự động chọn miền tùy chỉnh (ví dụ: fabrikam.com) từ đối tượng thuê làm miền chính trong yammer.</span><span class="sxs-lookup"><span data-stu-id="ba459-114">Yammer will automatically select the custom domain (e.g. fabrikam.com) from the tenant as the primary domain in Yammer.</span></span> <span data-ttu-id="ba459-115">Nó được thiết lập để yammer.com/fabrikam.com.</span><span class="sxs-lookup"><span data-stu-id="ba459-115">It is set to yammer.com/fabrikam.com.</span></span> <span data-ttu-id="ba459-116">Thay đổi này được thực hiện bởi dịch vụ đồng bộ hoá miền và có thể mất đến 24 giờ để có hiệu lực.</span><span class="sxs-lookup"><span data-stu-id="ba459-116">This change is made by the domain sync service, and can take up to 24 hours to take effect.</span></span>
+
+<span data-ttu-id="ba459-117">**Nhiều miền tùy chỉnh**</span><span class="sxs-lookup"><span data-stu-id="ba459-117">**Multiple custom domains**</span></span>
+
+<span data-ttu-id="ba459-118">Yammer có thể có một tên miền chính khác với miền thuê mặc định.</span><span class="sxs-lookup"><span data-stu-id="ba459-118">Yammer can have a primary domain that is different from the default tenant domain.</span></span> <span data-ttu-id="ba459-119">Vì có nhiều miền tuỳ chỉnh, yammer không cố gắng đoán tên miền chính xác từ những người có sẵn.</span><span class="sxs-lookup"><span data-stu-id="ba459-119">Since there are multiple custom domains, Yammer does not attempt to guess the correct domain from those available.</span></span> <span data-ttu-id="ba459-120">Bạn cần phải mở một trường hợp hỗ trợ để yêu cầu tên miền chính được thay đổi thành tên miền chính mà bạn chọn.</span><span class="sxs-lookup"><span data-stu-id="ba459-120">You need to open a support case to request that the primary domain name is changed to the primary domain of your choice.</span></span>
+
+<span data-ttu-id="ba459-121">**Thông tin khắc phục sự cố bổ sung**</span><span class="sxs-lookup"><span data-stu-id="ba459-121">**Additional troubleshooting information**</span></span>
+
+<span data-ttu-id="ba459-122">Trong một số trường hợp tên miền có thể đã được di chuyển giữa các thuê và dịch vụ đồng bộ hoá miền đã không thể chạy thành công.</span><span class="sxs-lookup"><span data-stu-id="ba459-122">In some cases domains may have been moved between tenants and the domain sync service has not been able to run successfully.</span></span> <span data-ttu-id="ba459-123">Bạn có thể gặp phải đăng nhập hoặc các vấn đề khác, ngoài miền chính không chính xác.</span><span class="sxs-lookup"><span data-stu-id="ba459-123">You may experience sign-in or other issues, in addition to an incorrect primary domain.</span></span> <span data-ttu-id="ba459-124">Để giải quyết vấn đề này, tên miền có thể cần phải được di chuyển đến mạng đúng với sự trợ giúp từ Microsoft support.</span><span class="sxs-lookup"><span data-stu-id="ba459-124">To resolve this problem, domains may need to be moved to the correct network with help from Microsoft Support.</span></span> <span data-ttu-id="ba459-125">Tình trạng này yêu cầu hỗ trợ trực tiếp và có thể mất một thời gian để giải quyết, đặc biệt là nếu có một danh sách rất dài các tên miền.</span><span class="sxs-lookup"><span data-stu-id="ba459-125">This situation requires direct assistance and can take some time to resolve, especially if there is a very long list of domain names.</span></span> <span data-ttu-id="ba459-126">Mở một trường hợp hỗ trợ để nhận trợ giúp giải quyết các loại vấn đề này.</span><span class="sxs-lookup"><span data-stu-id="ba459-126">Open a support case to get assistance with resolving these types of issues.</span></span>
+
+<span data-ttu-id="ba459-127">Khi làm việc với một nhân viên hỗ trợ, họ sẽ kiểm tra xem các miền được xác minh trên một đối tượng thuê dưới sự kiểm soát của bạn.</span><span class="sxs-lookup"><span data-stu-id="ba459-127">When working with a support agent, they will check that domains are verified on a tenant under your control.</span></span> <span data-ttu-id="ba459-128">Họ có thể hỏi các câu hỏi xác minh bổ sung về miền của bạn nếu chúng được thêm vào đối tượng thuê của bạn nhưng không được xác minh bằng DNS.</span><span class="sxs-lookup"><span data-stu-id="ba459-128">They may ask additional verification questions about your domains if they are added to your tenant but not verified by DNS.</span></span> <span data-ttu-id="ba459-129">Hãy đảm bảo rằng các miền được xác minh bằng DNS để tăng tốc quá trình.</span><span class="sxs-lookup"><span data-stu-id="ba459-129">Please ensure that domains are verified by DNS to speed up the process.</span></span>
