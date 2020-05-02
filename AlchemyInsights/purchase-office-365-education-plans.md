@@ -1,5 +1,5 @@
 ---
-title: Mua Microsoft 365 giáo dục kế hoạch
+title: Microsoft 365 cho giáo dục-được chấp thuận
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,14 +12,14 @@ ms.custom:
 - "1500009"
 - "328"
 - "330"
-ms.openlocfilehash: 92ba04baad82b6c9ced2533fb67d99d0c39ab3a3
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: 915d625dbf8726787e9bcd45e0cf7b025e90ead9
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43789396"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005424"
 ---
-# <a name="purchase-microsoft-365-education-plans"></a>Mua Microsoft 365 giáo dục kế hoạch
+# <a name="microsoft-365-for-education---approved"></a>Microsoft 365 cho giáo dục-được chấp thuận
 
 Bạn đã được phê duyệt cho Microsoft 365 giáo dục.  Để mua:
 
@@ -28,6 +28,8 @@ Bạn đã được phê duyệt cho Microsoft 365 giáo dục.  Để mua:
 2. Chọn từ danh sách theo **kế hoạch giáo dục**.
 
 3. Di chuột qua đăng ký mà bạn muốn mua và nhấp vào **mua ngay bây giờ**.
+
+4. [Thiết lập Microsoft 365 giáo dục](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/set-up-office365-edu-tenant)đối tượng thuê.
 
 **Bật teams**
 

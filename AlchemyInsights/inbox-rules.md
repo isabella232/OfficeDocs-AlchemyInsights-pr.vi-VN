@@ -12,19 +12,19 @@ ms.custom:
 - "922"
 - "1800021"
 ms.assetid: 469de984-cec1-45ca-94ab-f70bc6b28fff
-ms.openlocfilehash: a03c0f7f3d456e56896df2153305186252e9508f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: b940edc8911a02c5084091d70cf1d9f27081717f
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43724578"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005280"
 ---
-# <a name="inbox-rules"></a>Quy tắc hộp thư đến
+# <a name="inbox-rules-in-outlook-desktop"></a>Quy tắc hộp thư đến trong Outlook Desktop
 
-Để biết thêm thông tin về cách sử dụng quy tắc hộp thư đến trong hộp thư của bạn, hãy xem:
+1. Đi tới **tệp > quản lý quy tắc & cảnh báo** để mở hộp thoại **quy tắc và cảnh báo** .
+2. Trên tab **quy tắc email** , bấm vào **quy tắc mới**.
+3. Chọn một trong các mẫu từ **bước 1**. Để bắt đầu từ một quy tắc trống, chọn **áp dụng quy tắc về thư tôi nhận được hoặc áp dụng quy tắc về thư tôi gửi**.
+4. Trong **bước 2: chỉnh sửa hộp Mô tả quy tắc**, nhấp vào bất kỳ tùy chọn gạch dưới nào để đặt chúng. Ví dụ: nếu bạn đã chọn **gắn cờ thư từ một người nào đó để theo dõi** trong bước 1, hãy nhấp vào **người hoặc nhóm công khai** để chọn thư bạn muốn gắn cờ; sau đó nhấp vào **theo dõi tại thời gian này** để chọn một lá cờ và ngày theo dõi.
+5. Bấm vào **Tiếp theo**.
 
-- [Quản lý thư điện tử bằng cách sử dụng quy tắc trong Outlook dành cho PC](https://support.office.com/article/c24f5dea-9465-4df4-ad17-a50704d66c59.aspx)
-
-- [Quản lý thư của bạn bằng cách sử dụng quy tắc hộp thư đến trong Outlook trên web](https://support.office.com/article/8400435c-f14e-4272-9004-1548bb1848f2.aspx)
-
-Bạn cũng có thể quản lý quy tắc hộp thư đến trong Exchange Online PowerShell. Để biết thêm thông tin, [hãy xem Get-inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-inboxrule) (xem), [New-inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/new-inboxrule) (tạo), [loại bỏ-Inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/remove-inboxrule) (xóa), [thiết lập inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/set-inboxrule) (sửa đổi hiện tại), [vô hiệu hóa-inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/disable-inboxrule) (vô hiệu hoá hiện tại), và [kích hoạt-inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/enable-inboxrule) (kích hoạt sẵn có).
+Để biết thêm thông tin về cách làm việc với quy tắc hộp thư đến, hãy xem [quản lý thư điện tử bằng cách sử dụng quy tắc](https://support.office.com/article/manage-email-messages-by-using-rules-c24f5dea-9465-4df4-ad17-a50704d66c59).

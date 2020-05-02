@@ -1,5 +1,5 @@
 ---
-title: Làm thế nào để mua Office 365 cho phi lợi nhuận
+title: Microsoft 365 cho tổ chức phi lợi nhuận-đang xem xét
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,13 +13,15 @@ ms.custom:
 - "341"
 - "1500010"
 ms.assetid: aaeb8a90-8265-410f-a495-734ae5e75a76
-ms.openlocfilehash: 5cf2d792c3884b3121ba6dd42d3ec1fb96615aba
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: d09512a707b3c3c500d5908cebef932c6e62f921
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763563"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005244"
 ---
-# <a name="how-to-purchase-office-365-for-non-profits"></a>Làm thế nào để mua Office 365 cho phi lợi nhuận
+# <a name="microsoft-365-for-nonprofits---under-review"></a>Microsoft 365 cho tổ chức phi lợi nhuận-đang xem xét
 
-Hội đủ điều kiện của bạn như một tổ chức phi lợi nhuận đủ điều kiện của Microsoft đang được xem xét. Bạn có thể mong đợi nhận được thông báo về việc xác định tính đủ điều kiện của bạn trước khi phiên tòa hết hạn. Bạn có thể theo dõi tình trạng của ứng dụng của bạn tại [đây](https://eligibilityweb.azurewebsites.net/).
+Đủ điều kiện của bạn như là một tổ chức phi lợi nhuận đủ điều kiện của Microsoft đang **xem xét**. Bạn có thể mong đợi nhận được thông báo về việc xác định đủ điều kiện **48 giờ** từ thời gian nộp hồ sơ của bạn. Vui lòng cho phép ít nhất **48 giờ** để nhận thông báo này trước khi mở một yêu cầu dịch vụ. 
+
+Để biết thêm thông tin, xem [Microsoft 365 cho tổ chức phi lợi nhuận](https://www.microsoft.com/nonprofits/microsoft-365). 

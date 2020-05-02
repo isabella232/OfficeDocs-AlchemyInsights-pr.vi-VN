@@ -12,16 +12,16 @@ ms.custom:
 - "95"
 - "1400006"
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: 46dd8532d920c33d2bd82c1cea752944b3a99866
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: e39bfd064d5a1a712e87cb026851b6a4cc4ff8a5
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43702904"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005352"
 ---
 # <a name="extend-your-trial-for-microsoft-365-for-business"></a>Mở rộng bản dùng thử cho Microsoft 365 cho doanh nghiệp
 
-Bạn có thể kéo dài thời gian dùng thử trong 30 ngày khác. Bạn chỉ có thể làm điều này một lần.
+Bạn có thể mở rộng thời gian dùng thử trong 30 ngày. Sau đó thử nghiệm của bạn đi vào một bổ sung 30-Day [thời gian ân hạn](https://docs.microsoft.com/alchemyinsights/grace-period-for-microsoft-365-free-trial). Thực hiện theo các bước sau để mở rộng bản dùng thử:
   
 1. Trong Trung tâm quản trị, hãy chuyển đến các sản phẩm **thanh toán** \> [& dịch vụ](https://portal.office.com/adminportal/home#/subscriptions).
 
