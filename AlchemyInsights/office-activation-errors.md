@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002310"
 - "4489"
-ms.openlocfilehash: 6dfd3a767b09f647a615ed24300377169b93f105
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: e69a9e32a713b859f8110ec66d4b3b53be1bb450
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713344"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010816"
 ---
 # <a name="office-activation-errors"></a>Lỗi kích hoạt Office
 
-1. Trong **Pa-nen điều khiển > chương trình và tính năng**, tìm kiếm **Office**. Bạn sẽ thấy **microsoft office 365 ProPlus** hoặc **Microsoft Office 365 Business**. Nếu bạn thấy nhiều phiên bản Office được liệt kê, hãy gỡ cài đặt phiên bản bạn không sử dụng. Nếu bạn không thể dỡ cài đặt thành công bằng cách sử dụng bảng điều khiển, sử dụng hỗ trợ và phục hồi trợ lý (SaRA) để [dỡ cài đặt](https://aka.ms/SARA-OfficeUninstall-Alchemy) Phiên bản bạn không sử dụng. Sau đó, khởi động lại Office và đăng nhập bằng tài khoản nơi làm việc hoặc trường học của bạn, nếu được nhắc. 
+1. Trong **Pa-nen điều khiển > chương trình và tính năng**, tìm kiếm **Office**. Bạn sẽ thấy **microsoft 365 cho doanh nghiệp** hoặc **Microsoft 365 cho doanh nghiệp**. Nếu bạn thấy nhiều phiên bản Office được liệt kê, hãy gỡ cài đặt phiên bản bạn không sử dụng. Nếu bạn không thể dỡ cài đặt thành công bằng cách sử dụng bảng điều khiển, sử dụng hỗ trợ và phục hồi trợ lý (SaRA) để [dỡ cài đặt](https://aka.ms/SARA-OfficeUninstall-Alchemy) Phiên bản bạn không sử dụng. Sau đó, khởi động lại Office và đăng nhập bằng tài khoản nơi làm việc hoặc trường học của bạn, nếu được nhắc. 
 
 2. Nếu Office vẫn không được cấp phép, quay lại **bảng điều khiển > chương trình và tính năng**, bấm chuột phải vào cài đặt Office còn lại, bấm **sửa đổi** (hoặc **thay đổi**), và sau đó nhấp vào **sửa chữa trực tuyến**. Việc sửa chữa trực tuyến có thể mất một lúc. Sau đó, khởi động lại Office và đăng nhập bằng tài khoản nơi làm việc hoặc trường học của bạn, nếu được nhắc. 
 

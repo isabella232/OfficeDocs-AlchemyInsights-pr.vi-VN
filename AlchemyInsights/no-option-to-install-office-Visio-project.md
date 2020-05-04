@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002414"
 - "4799"
-ms.openlocfilehash: fa35e26afe716167237f12ec8cabaab7ff7b4609
-ms.sourcegitcommit: 797f78c27f50485edcf9854552d9dcab175227bf
+ms.openlocfilehash: ff7a5bb95c5400b8985850b73b5e934d0c5fb9f1
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/10/2020
-ms.locfileid: "43218336"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010168"
 ---
 # <a name="no-option-to-install-office-visio-or-project"></a>Không có tùy chọn cài đặt Office, Visio hoặc Project
 
-Để cài đặt ứng dụng khách Office, đảm bảo bạn có gói đăng ký Office 365 hoặc Microsoft 365 [bao gồm ứng dụng khách Office](https://support.office.com/article/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e), ví dụ: Office 365 Business Premium, Office 365 Business hoặc Office 365 ProPlus.
+Để cài đặt ứng dụng khách Office, đảm bảo bạn có một gói đăng ký Office 365 hoặc Microsoft 365 [bao gồm ứng dụng khách Office](https://support.office.com/article/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e), ví dụ: Microsoft 365 Business Premium, Microsoft 365 Apps for Business hoặc Microsoft 365 Apps dành cho doanh nghiệp.
 
 **Lưu ý**: [văn phòng nhà và doanh nghiệp](https://products.office.com/home-and-business) là một [văn phòng cho](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) sản phẩm nhà và không phải là một phần của một đăng ký kinh doanh. Project Online Essentials không bao gồm phiên bản Project dành cho máy tính để bàn để không cần cài đặt. Visio Plan 1 người dùng có thể truy cập Visio trên web, vì gói này không bao gồm ứng dụng Visio trên máy tính. Dự án và ứng dụng Visio trên máy tính không khả dụng trên Mac
 

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001419"
 - "3411"
-ms.openlocfilehash: ddd44d40e9430ee31b8b734450dde0defef229d7
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 51512b29f8d37ce6c39ece5bb704cb01e88e463d
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43704727"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010276"
 ---
 # <a name="deploying-microsoft-365-apps-for-enterprise-for-shared-use-on-rds-terminal-server-or-vdi"></a>Triển khai Microsoft 365 ứng dụng dành cho doanh nghiệp để sử dụng chung trên RDS, Terminal Server hoặc VDI
 
@@ -25,15 +25,15 @@ Triển khai Microsoft 365 ứng dụng dành cho doanh nghiệp sử dụng d�
 - Bạn phải có Microsoft 365 cho kế hoạch kinh doanh hoặc gói Office 365 bao gồm Microsoft 365 ứng dụng dành cho doanh nghiệp, chẳng hạn như Office 365 Enterprise E3 hoặc Enterprise E5.
    > [!NOTE] 
    > Microsoft 365 ứng dụng dành cho doanh nghiệp và Microsoft 365 Business Premium Standard gói không bao gồm Microsoft 365 ứng dụng dành cho doanh nghiệp.
-- Bạn phải kích [hoạt máy tính dùng chung](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus).
+- Bạn phải kích [hoạt máy tính dùng chung](https://docs.microsoft.com/DeployOffice/overview-shared-computer-activation).
 
 > [!NOTE]
 > Bạn cũng có thể tải xuống và chạy [Microsoft support và Recovery Assistant](https://aka.ms/SaRA_OfficeSCA_M365Portal) để cài đặt Microsoft 365 Apps dành cho doanh nghiệp ở chế độ kích hoạt máy tính dùng chung.
 
-Để biết thêm thông tin về điều kiện tiên quyết, hướng dẫn thiết lập và hướng dẫn cài đặt tuỳ chỉnh bằng cách sử dụng công cụ triển khai Office, hãy xem [triển khai Microsoft 365 ứng dụng dành cho doanh nghiệp bằng cách sử dụng dịch vụ máy tính để bàn từ xa](https://docs.microsoft.com/DeployOffice/deploy-office-365-proplus-by-using-remote-desktop-services).
+Để biết thêm thông tin về điều kiện tiên quyết, hướng dẫn thiết lập và hướng dẫn cài đặt tuỳ chỉnh bằng cách sử dụng công cụ triển khai Office, hãy xem [triển khai Microsoft 365 ứng dụng dành cho doanh nghiệp bằng cách sử dụng dịch vụ máy tính để bàn từ xa](https://docs.microsoft.com/DeployOffice/deploy-microsoft-365-apps-remote-desktop-services).
 
 Để khắc phục lỗi liên quan đến kích hoạt máy tính dùng chung:
-- Xem [khắc phục sự cố với kích hoạt máy tính dùng chung cho Microsoft 365 ứng dụng dành cho doanh nghiệp](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus).
+- Xem [khắc phục sự cố với kích hoạt máy tính dùng chung cho Microsoft 365 ứng dụng dành cho doanh nghiệp](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation).
 - Xem [đặt lại Microsoft 365 ứng dụng cho trạng thái kích hoạt doanh nghiệp](https://go.microsoft.com/fwlink/?linkid=2109218).
 
 Nếu bạn muốn cài đặt Microsoft 365 Apps dành cho doanh nghiệp trên RDS từ Trung tâm quản trị Microsoft 365, sử dụng ***cài đặt mặc định***, sử dụng các bước sau:
@@ -47,5 +47,5 @@ Nếu bạn muốn cài đặt Microsoft 365 Apps dành cho doanh nghiệp trên
    1. Bấm chuột phải vào nút Windows ở góc dưới bên trái của màn hình và chọn **chạy**. Trong ô mở, gõ **regedit**, và sau đó chọn **OK**.
    2. Chọn **có** khi được nhắc để cho phép Registry Editor thay đổi thiết bị của bạn.
    3. Trong Registry Editor, thêm một giá trị chuỗi **Sharedcomputerlicensing** với thiết đặt 1 trong HKEY_LOCAL_MACHINE \SOFTWARE\Microsoft \Office\ClickToRun\Configuration.
-   4. Trên máy chủ RDS, ***đăng nhập như người dùng cuối*** và [xác minh rằng kích hoạt chia sẻ máy tính được kích hoạt cho Microsoft 365 ứng dụng dành cho doanh nghiệp](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded).
+   4. Trên máy chủ RDS, ***đăng nhập như người dùng cuối*** và [xác minh rằng kích hoạt chia sẻ máy tính được kích hoạt cho Microsoft 365 ứng dụng dành cho doanh nghiệp](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation#verify-that-activation-for-microsoft-365-apps-succeeded).
 

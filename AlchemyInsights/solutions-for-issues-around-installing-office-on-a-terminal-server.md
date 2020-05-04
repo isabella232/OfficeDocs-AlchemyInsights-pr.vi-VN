@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 85f24284-af6f-4624-b6be-901a4a9206eb
-ms.openlocfilehash: da69592fd0f55a4bfce45d271aeca5cde1f659b2
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: cc2d2b1a5c73e729a67b1e6f36fdcff2125541ca
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43712696"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010924"
 ---
 # <a name="solutions-for-issues-around-installing-office-on-a-terminal-server"></a>Giải pháp cho các vấn đề xung quanh cài đặt Office trên máy chủ đầu cuối
 
@@ -33,4 +33,4 @@ Lỗi này có nghĩa là bạn không có đăng ký bao gồm Microsoft 365 Ap
 - Kiểm tra xem người dùng có đăng ký bằng tài khoản người dùng của họ hay không.
 - Kiểm tra xem có kết nối giữa máy tính được chia sẻ và Internet không.
 
-Đối với các mẹo khắc phục sự cố khác, hãy xem: [khắc phục sự cố với kích hoạt máy tính dùng chung](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus)
+Đối với các mẹo khắc phục sự cố khác, hãy xem: [khắc phục sự cố với kích hoạt máy tính dùng chung](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation)

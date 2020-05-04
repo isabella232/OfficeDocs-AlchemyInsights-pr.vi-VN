@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3e88e0f3-c86d-4ab8-b076-59d0552318f9
-ms.openlocfilehash: 96d3f70f554f71c43d6458ec8debc099cd9fb040
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 4aef42df4dde17d15863fca67e41f0ff23e506dc
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43698080"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010780"
 ---
 # <a name="questions-about-how-to-use-the-office-deployment-tool-odt"></a>Câu hỏi về cách sử dụng công cụ triển khai Office (ODT)
 
@@ -35,6 +35,6 @@ Khi cài đặt Microsoft 365 Apps dành cho doanh nghiệp, bạn có thể lo�
 </Add>
 ```
 
-[Tổng quan về công cụ triển khai Office](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool)
+[Tổng quan về công cụ triển khai Office](https://docs.microsoft.com/deployoffice/overview-office-deployment-tool)
   
 

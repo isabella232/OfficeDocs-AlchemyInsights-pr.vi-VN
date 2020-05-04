@@ -11,12 +11,12 @@ ms.custom:
 - "918"
 - "2000022"
 ms.assetid: 7ff7cc06-76d0-468f-bd66-3f2760750d04
-ms.openlocfilehash: fa40fef0de9b2e0e1fc329269c24e8bca9ed4146
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: d941bce524dc797d5dcbb7213bded6919fd01b7d
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43726270"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010895"
 ---
 # <a name="using-the-office-deployment-tool-odt"></a>Sử dụng công cụ triển khai Office (ODT)
 
@@ -42,4 +42,4 @@ Bạn sử dụng công cụ triển khai Office (ODT) để triển khai Office
 
     **Lưu ý:** Bạn phải chạy bước này từ máy khách mà bạn muốn cài đặt Office và bạn phải có quyền quản trị viên cục bộ trên máy tính.
 
-Để tìm hiểu thêm về cách sử dụng công cụ triển khai Office cho Microsoft 365 ứng dụng cho các trường hợp triển khai doanh nghiệp, hãy xem [tổng quan về công cụ triển khai Office](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool). Để biết thêm chi tiết về cách sử dụng công cụ Tuỳ chỉnh Office, hãy xem [tổng quan về công cụ Tuỳ chỉnh Office](https://docs.microsoft.com/DeployOffice/overview-of-the-office-customization-tool-for-click-to-run).
+Để tìm hiểu thêm về cách sử dụng công cụ triển khai Office cho Microsoft 365 ứng dụng cho các trường hợp triển khai doanh nghiệp, hãy xem [tổng quan về công cụ triển khai Office](https://docs.microsoft.com/deployoffice/overview-office-deployment-tool). Để biết thêm chi tiết về cách sử dụng công cụ Tuỳ chỉnh Office, hãy xem [tổng quan về công cụ Tuỳ chỉnh Office](https://docs.microsoft.com/DeployOffice/overview-of-the-office-customization-tool-for-click-to-run).
