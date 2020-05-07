@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002632"
 - "5054"
-ms.openlocfilehash: 91026438d65a10ef3e4e9e7ed20b5936d349acf4
-ms.sourcegitcommit: 312ed19d236006962f1b891d2961014959ab1898
+ms.openlocfilehash: d3a3e6c89f326e6348ff9e46710975ee2a373056
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/25/2020
-ms.locfileid: "43812853"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062378"
 ---
 # <a name="microsoft-365-learning-pathways"></a>Microsoft 365 con đường học tập
 
 [Microsoft 365 con đường học tập](https://docs.microsoft.com/office365/customlearning/) là một dự án mã nguồn mở được thiết kế để tăng sử dụng và nhận con nuôi của Microsoft 365 dịch vụ trong tổ chức của bạn.
 
-- Bạn sẽ cần phải đăng ký [tài khoản GitHub](http://aka.ms/joingithub) để sử dụng các giải pháp.
+- Bạn sẽ cần phải đăng ký [tài khoản GitHub](https://aka.ms/joingithub) để sử dụng các giải pháp.
 - Dự án được hỗ trợ thông qua [danh sách các vấn đề trực tuyến](https://aka.ms/CustomLearningHelp)GitHub.
 - Hãy đánh giá [câu hỏi thường gặp](https://docs.microsoft.com/office365/customlearning/faq) về con đường học tập-ghi lại các vấn đề hàng đầu và cập nhật thông tin phản hồi thường xuyên
 

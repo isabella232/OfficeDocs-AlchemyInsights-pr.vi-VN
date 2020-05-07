@@ -12,12 +12,12 @@ ms.custom:
 - "531"
 - "1400007"
 ms.assetid: c45da4c9-ba12-4ceb-8eda-94331a6a97e4
-ms.openlocfilehash: b7436583f6aa8e0fe22c1bff71271a94b3de583c
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.openlocfilehash: 4fc934fcf9c1af0cd68aa20d5dc31d3d82264965
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43787896"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44063567"
 ---
 # <a name="how-to-make-a-microsoft-365-purchase"></a>Làm thế nào để thực hiện mua Microsoft 365
 
@@ -25,13 +25,13 @@ Mua hàng trong Microsoft 365 có thể được thực hiện trong Trung tâm 
   
 - Để mua gói, hãy chuyển đến trang [dịch vụ mua](https://go.microsoft.com/fwlink/p/?linkid=868433) **thanh toán** \> .
 
-- Để mua giấy phép bổ sung, hãy truy cập trang sản phẩm **thanh toán** \> [& dịch vụ](https://go.microsoft.com/fwlink/p/?linkid=842054) . Chọn đăng ký mà bạn muốn thêm giấy phép vào, sau đó chọn **thêm/loại bỏ giấy phép**.
+- Để mua giấy phép bổ sung, hãy chuyển đến trang **thanh toán** \> **[sản phẩm của bạn](https://go.microsoft.com/fwlink/p/?linkid=842054)** . Chọn đăng ký mà bạn muốn thêm giấy phép vào, sau đó chọn **thêm/loại bỏ giấy phép**.
   
 Để tìm hiểu thêm, hãy xem [mua giấy phép cho Microsoft 365 của bạn cho đăng ký kinh doanh](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).
 
 **Troubleshooting**
 
-Nếu bạn gặp sự cố khi tải trang, hãy thử mở trang web trong một trình duyệt khác hoặc thử mở trang một cửa sổ trình duyệt riêng, chẳng hạn như cửa sổ InPrivate trong Microsoft Edge hoặc cửa sổ ẩn danh trong Google Chrome. 
+Nếu bạn gặp sự cố khi tải trang, hãy thử mở trang web trong một trình duyệt khác hoặc thử mở trang một cửa sổ trình duyệt riêng, chẳng hạn như cửa sổ InPrivate trong Microsoft Edge hoặc cửa sổ ẩn danh trong Google Chrome.
 
 **Tài nguyên bổ sung**
   
