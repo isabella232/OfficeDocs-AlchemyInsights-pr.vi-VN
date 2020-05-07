@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002484"
 - "4825"
-ms.openlocfilehash: 433aa9606347be69a070077d376771396fb12f30
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: c15b9f094efae4cfb062c5db659ef261fe7c6b6d
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43722606"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44063963"
 ---
 # <a name="visio-common-issues-and-resolutions"></a>Các vấn đề và giải pháp phổ biến của Visio
 

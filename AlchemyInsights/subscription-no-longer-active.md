@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002453"
 - "4763"
-ms.openlocfilehash: 8f9b9a06d12c289f40f9be8247621a01c619f21e
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: 65b56ad1fbcce98fac42becc9fc4f060c17e9e5f
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43789252"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44063315"
 ---
 # <a name="subscription-no-longer-active"></a>Đăng ký không còn hoạt động
 
@@ -24,12 +24,14 @@ Nếu một [thông báo đăng ký xuất hiện khi một ứng dụng Microso
 
 **Kích hoạt lại đăng ký**
 
-1. Trong Trung tâm quản trị, hãy chuyển đến trang **sản phẩm > thanh toán [& dịch vụ](https://go.microsoft.com/fwlink/p/?linkid=842054) ** .
+1. Trong Trung tâm quản trị, hãy chuyển đến trang **thanh toán** > **[sản phẩm của bạn](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
 
-2. Trên trang sản phẩm & dịch vụ, tìm đăng ký mà bạn muốn kích hoạt lại.
+2. Tìm gói đăng ký bạn muốn kích hoạt lại.
 
-3. Trong phần lập hóa đơn, nhấp vào kích hoạt lại **ngay bây giờ**.  Nếu bạn đang ở trong giao diện thẻ, hãy nhấp vào dấu chấm lửng giữa tên và số lượng có sẵn và chọn kích hoạt lại từ trình đơn. **Lưu ý**: nếu bạn không thấy gói đăng ký bạn đang tìm kiếm, bạn có thể cần điều chỉnh bộ lọc trạng thái đăng ký ở gần đầu trang cho **tất cả**.
+3. Trong phần **lập hóa đơn** , nhấp vào kích hoạt lại **ngay**.  Nếu bạn đang ở trong giao diện **thẻ** , hãy nhấp vào dấu chấm lửng giữa **tên** và **số lượng có sẵn** và chọn **kích** hoạt lại từ trình đơn.
+
+**Lưu ý**: nếu bạn không thấy gói đăng ký bạn đang tìm kiếm, bạn có thể cần điều chỉnh bộ lọc **trạng thái đăng ký** ở gần đầu trang cho **tất cả**.
 
 4. Xác nhận chi tiết thanh toán của bạn để cập nhật thông tin thanh toán hiện tại. Khi bạn đã hoàn tất việc nhập phương thức thanh toán, hãy nhấp vào **kích**hoạt lại.
 
-Để biết thêm thông tin, [hãy xem kích hoạt lại đăng ký của bạn](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
+Để biết thêm thông tin, [hãy xem kích hoạt lại đăng ký của bạn](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
