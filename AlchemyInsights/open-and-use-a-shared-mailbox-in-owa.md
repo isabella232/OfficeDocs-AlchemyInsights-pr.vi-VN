@@ -13,15 +13,25 @@ ms.custom:
 - "1581"
 - "9000089"
 ms.assetid: ''
-ms.openlocfilehash: 91777a95b705b64799627be6602757381f128ea1
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 2342ef1c2b00ff8e22e05faaf45f0dcc2cebbe41
+ms.sourcegitcommit: a3f07a022f492281ef5a8e485347cd60beee5a71
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43682098"
+ms.lasthandoff: 05/08/2020
+ms.locfileid: "44163839"
 ---
-# <a name="open-and-use-a-shared-mailbox-in-outlook-on-the-web"></a>Mở và sử dụng hộp thư dùng chung trong Outlook trên web
+# <a name="open-and-use-a-shared-mailbox-in-outlook"></a>Mở và sử dụng hộp thư dùng chung trong Outlook
 
-Hộp thư dùng chung mà bạn có quyền truy cập không tự động hiển thị trong Outlook trên web (trước đây được gọi là Outlook Web App).
+Hộp thư dùng chung cho phép một nhóm người theo dõi và gửi email từ một địa chỉ email phổ biến. 
 
-Bạn có thể hiển thị hộp thư dùng chung và hộp thư chính của bạn với nhau hoặc mở hộp thư dùng chung trong một cửa sổ trình duyệt riêng. Để nhận được thông báo tin nhắn mới cho hộp thư dùng chung, bạn cần mở hộp thư dùng chung trong một cửa sổ trình duyệt riêng. Để biết thêm thông tin, hãy xem [mở và sử dụng hộp thư dùng chung trong Outlook Web App](https://support.office.com/article/Add-a-shared-mailbox-to-Outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207).
+**Lưu ý**: quản trị Microsoft 365 của bạn cần tạo hộp thư dùng chung và thêm bạn làm thành viên.
+
+Xem phần sau để tìm hiểu cách mở và sử dụng hộp thư dùng chung:
+
+- [Thêm hộp thư dùng chung cho Outlook trên web](https://support.office.com/article/Add-a-shared-mailbox-to-Outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207)
+
+- [Mở và sử dụng hộp thư dùng chung trong Outlook dành cho Windows](https://support.office.com/article/open-and-use-a-shared-mailbox-in-outlook-d94a8e9e-21f1-4240-808b-de9c9c088afd)
+
+- [Mở thư mục hoặc hộp thư dùng chung trong Outlook dành cho Mac](https://support.office.com/article/Open-a-shared-folder-or-mailbox-in-Outlook-for-Mac-6ecc39c5-5577-4a1d-b18c-bbdc92972cb2)
+
+- [Thêm hộp thư dùng chung vào Outlook Mobile (Outlook dành cho iOS & Android)](https://support.office.com/article/Add-a-shared-mailbox-to-Outlook-mobile-f866242c-81b2-472e-8776-6c49c5473c9f)

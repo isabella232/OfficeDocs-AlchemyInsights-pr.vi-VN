@@ -10,22 +10,22 @@ ms.custom: ''
 ms.assetid:
 - "1500009"
 - "4495"
-ms.openlocfilehash: e2ca0e13aa569536d9d529aaa1eef05bb0fa49d2
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 8d1a8cf65ccbf4cb6d1549ec58593bccc31feb01
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43764714"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062738"
 ---
 # <a name="microsoft-qualified-academic-institution-and-remote-teaching-and-learning"></a>Tổ chức giáo dục chuyên môn của Microsoft và giảng dạy và học tập từ xa
 
-Để bắt đầu với Microsoft cho giáo dục, hãy truy cập [trang web](https://www.microsoft.com/microsoft-365/academic/compare-office-365-education-plans) này và đăng ký.
+Để bắt đầu với Office 365 cho giáo dục, hãy truy cập [trang web](https://www.microsoft.com/microsoft-365/academic/compare-office-365-education-plans) này và đăng ký.
 
-Bạn sẽ có văn phòng 365 A1 cho thử nghiệm khoa và văn phòng 365 A1 cho học sinh dùng thử trong khi chờ đợi để đủ điều kiện của tổ chức của bạn để được xét.  Hãy chắc chắn để thêm một tên miền, vì có thể giúp đẩy nhanh quá trình phê duyệt.
+Bạn sẽ có văn phòng 365 A1 cho thử nghiệm khoa và văn phòng 365 A1 cho học sinh dùng thử trong khi chờ đợi để đủ điều kiện của tổ chức của bạn để được xét. Hãy chắc chắn để thêm một tên miền, vì có thể giúp đẩy nhanh quá trình phê duyệt.
 
 Bạn sẽ nhận được email cho biết liệu đủ điều kiện của tổ chức của bạn đã được phê duyệt hay chưa.  
 
-Khi được phê duyệt, bạn có thể chuyển đến tab [dịch vụ mua](https://admin.microsoft.com/Adminportal/Home#/catalog) hàng của Trung tâm quản trị Microsoft để mua đăng ký.
+Khi bạn được chấp thuận, bạn có thể đi đến tab [dịch vụ mua](https://admin.microsoft.com/Adminportal/Home#/catalog) hàng của Trung tâm quản trị Microsoft 365 để mua đăng ký.
 
 **Giảng dạy và học tập từ xa**
 
