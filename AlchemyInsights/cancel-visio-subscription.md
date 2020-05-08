@@ -12,27 +12,25 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "1400001"
 - "4721"
-ms.openlocfilehash: 0e38edf7f3e10486b0ce3313dfcb004d848ed1bf
-ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
+ms.openlocfilehash: bad7c8b3503800101d758fbcdd0429fc097bd2a0
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/18/2020
-ms.locfileid: "43552853"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44061620"
 ---
 # <a name="cancel-visio-subscription"></a>Hủy đăng ký Visio
 
-Quản trị viên có thể hủy đăng ký Visio cho tổ chức của họ từ **Trung tâm quản trị Microsoft 365**. 
+Quản trị viên có thể hủy đăng ký Visio cho tổ chức của họ từ **Trung tâm quản trị Microsoft 365**.
 
-1. Chọn tùy chọn **thanh toán** .
+1. Chuyển đến trang **> thanh toán [sản phẩm của bạn](https://go.microsoft.com/fwlink/p/?linkid=842054) ** .
 
-2. Nhấp vào [sản phẩm & dịch vụ](https://admin.microsoft.com/AdminPortal/Home?adminportal=1&msCV=%2BbOQtMNsz0ei8f5z.0.36#/subscriptions) để xem tất cả các đăng ký cho tổ chức của bạn.
+2. Định vị kế hoạch Visio để huỷ.
 
-3. Định vị kế hoạch Visio để huỷ.
+3. Nhấp vào **hủy đăng ký**.
 
-4. Nhấp vào **hủy đăng ký**.
+**Hoàn lại tiền: bất kỳ khoản tín dụng theo tỷ lệ nào sẽ được trả lại cho bạn trong chu kỳ thanh toán kế tiếp.**
 
-**Hoàn lại tiền: bất kỳ khoản tín dụng theo tỷ lệ nào sẽ được trả lại cho bạn trong chu kỳ thanh toán kế tiếp.** 
+**Lưu ý**: nếu bạn không thấy tùy chọn để hủy bỏ, hãy nhấp vào đăng ký để xem chi tiết và bạn sẽ thấy tùy chọn **hủy đăng ký** trong **cài đặt & hành động**.
 
-**Lưu ý**: nếu bạn không thấy tùy chọn để hủy bỏ, hãy nhấp vào đăng ký để xem chi tiết và bạn sẽ thấy tùy chọn **hủy đăng ký** trong **cài đặt & hành động**. 
-
-Để tìm hiểu thêm, hãy xem [hủy đăng ký của bạn](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription). 
+Để tìm hiểu thêm, hãy xem [hủy đăng ký của bạn](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).

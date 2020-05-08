@@ -13,18 +13,18 @@ ms.custom:
 - "441"
 - "1500017"
 ms.assetid: 7dc125f8-491d-4bc2-a2f2-b73c7bda3035
-ms.openlocfilehash: 3754bc626264cf8eefe116bccaa0fac60384f55d
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 288cb29c463da776ccbce9d6a3302bfdc786702f
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763527"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44064143"
 ---
 # <a name="how-to-reactivate-a-subscription"></a>Làm thế nào để kích hoạt lại một thuê bao
 
 Nếu đăng ký của bạn đã hết hạn, bị hủy bỏ hoặc vô hiệu hoá bởi Microsoft, bạn có thể kích hoạt lại nó trong Trung tâm quản trị Microsoft 365.
   
-1. Trong Trung tâm quản trị, hãy chuyển đến trang sản phẩm **thanh toán** \> [& dịch vụ](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. Trong Trung tâm quản trị, hãy chuyển đến trang **thanh toán** \> **[sản phẩm của bạn](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
 
 2. Tìm gói đăng ký bạn muốn kích hoạt lại. Trong phần **lập hóa đơn** , chọn **kích**hoạt lại.
 

@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001519"
 - "3586"
-ms.openlocfilehash: b9ced670e412949b67a114c54f6ccf9b8e56656b
-ms.sourcegitcommit: 1b674201a5460ed27da6331fa6b777ea787a4dc1
+ms.openlocfilehash: cc0a7c708aafc7c6c9680deefd6cbf65991a4d18
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42417775"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44063243"
 ---
 # <a name="subscription-status"></a>Trạng thái đăng ký
 
-Trạng thái đăng ký có thể được tìm thấy trên trang sản phẩm và dịch vụ của Trung tâm quản trị Microsoft 365.
+Trạng thái đăng ký có thể được tìm thấy trên trang **sản phẩm** của Trung tâm quản trị Microsoft 365.
 
-1. Đi tới sản phẩm **thanh toán** > [& dịch vụ](https://go.microsoft.com/fwlink/p/?linkid=842054).
+1. Chuyển đến **thanh toán** > **[sản phẩm của bạn](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 
 2. Nếu có vấn đề với trạng thái của bất kỳ mục đăng ký nào, bạn sẽ thấy biểu tượng cảnh báo màu đỏ bên cạnh đăng ký hoặc trạng thái "đã hết hạn" hoặc "đã tắt" trong phần lập hóa đơn của chi tiết đăng ký.
 
@@ -30,11 +30,11 @@ Trạng thái đăng ký có thể được tìm thấy trên trang sản phẩm
 
 **Ngày hết hạn**
 
-1. Đi tới sản phẩm **thanh toán** > [& dịch vụ](https://go.microsoft.com/fwlink/p/?linkid=842054).
+1. Chuyển đến **thanh toán** > **[sản phẩm của bạn](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 
 2. Tùy thuộc vào lượt xem, ngày hết hạn sẽ xuất hiện ở cột bên phải được gắn nhãn **ngày** hoặc trong phần **lập hóa đơn** của chi tiết đăng **ký bên cạnh.**
 
 **Giấy phép**
 
-Số lượng giấy phép mua và sử dụng được liệt kê theo đăng ký trên trang [sản phẩm & dịch vụ](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+Số lượng giấy phép đã mua và sử dụng được liệt kê theo đăng ký trên trang **sản phẩm của bạn** .
 

@@ -1,5 +1,5 @@
 ---
-title: Sản phẩm & dịch vụ
+title: Sản phẩm của bạn
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "3736"
-ms.openlocfilehash: d2d1599809c3c36c9a46e47a3caf3ccf32c38c8c
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 19acf6d8ab01c0599c088eb44ddea45377e36567
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43758812"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062883"
 ---
-# <a name="products--services"></a>Sản phẩm & dịch vụ
+# <a name="your-products"></a>Sản phẩm của bạn
 
-Bạn có thể tìm thấy các đăng ký thuộc sở hữu của tổ chức trên trang **thanh toán** > [**sản phẩm & dịch vụ**](https://go.microsoft.com/fwlink/p/?linkid=842054) . Dưới đây là một số điểm nổi bật của trang này cùng với các liên kết để biết thêm thông tin về từng tính năng:
+Bạn có thể tìm thấy các đăng ký thuộc sở hữu của tổ chức trên trang **thanh toán** > **[sản phẩm của bạn](https://go.microsoft.com/fwlink/p/?linkid=842054)** . Dưới đây là một số điểm nổi bật của trang này cùng với các liên kết để biết thêm thông tin về từng tính năng:
 
 1. Quản lý số lượng giấy phép đã được mua cho mỗi đăng ký cùng với bao nhiêu người đang sử dụng.  **Lưu ý**: giấy phép không được sử dụng (không được gán cho người dùng) vẫn bị tính phí.  Để không bị tính phí cho các giấy phép chưa sử dụng, hãy giảm số lượng giấy phép đã mua. Để biết thông tin về cách thêm hoặc xóa giấy phép khỏi đăng ký, xem [cách thêm hoặc giảm giấy phép](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses).
 

@@ -13,16 +13,16 @@ ms.custom:
 - "443"
 - "1500018"
 ms.assetid: 4e6d34b3-e3e5-4fcd-a52e-34b54746feeb
-ms.openlocfilehash: 6664bb1b3c34c7bc78c516d7437711e2ac05673d
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 47b5fb62d613dca665c0151baa31c2fea08db610
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705107"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062306"
 ---
 # <a name="declined-credit-card"></a>Thẻ tín dụng bị từ chối
 
-Nếu bạn thanh toán bằng thẻ tín dụng và thẻ tín dụng của bạn bị từ chối, bạn sẽ nhận được email cho bạn biết rằng chúng tôi không thể xử lý thanh toán. Kiểm tra lại rằng [chi tiết thẻ tín dụng](https://go.microsoft.com/fwlink/p/?linkid=842054) -số thẻ, ngày hết hạn, tên trên thẻ tín dụng và địa chỉ, bao gồm thành phố, tiểu bang và mã zip-xuất hiện chính xác như trên thẻ tín dụng và bảng sao kê thẻ tín dụng của bạn. Bạn có thể cập nhật thông tin thẻ tín dụng của mình và ngay lập tức gửi thanh toán bằng cách sử dụng tùy chọn giải **quyết số dư** trên trang [sản phẩm & dịch vụ](https://go.microsoft.com/fwlink/p/?linkid=842054) . 
+Nếu bạn thanh toán bằng thẻ tín dụng và thẻ tín dụng của bạn bị từ chối, bạn sẽ nhận được email cho bạn biết rằng chúng tôi không thể xử lý thanh toán. Kiểm tra lại rằng [chi tiết thẻ tín dụng](https://go.microsoft.com/fwlink/p/?linkid=842054) -số thẻ, ngày hết hạn, tên trên thẻ tín dụng và địa chỉ, bao gồm thành phố, tiểu bang và mã zip-xuất hiện chính xác như trên thẻ tín dụng và bảng sao kê thẻ tín dụng của bạn. Bạn có thể cập nhật thông tin thẻ tín dụng của mình và ngay lập tức gửi thanh toán bằng cách sử dụng tùy chọn giải **quyết số dư** trên trang **[sản phẩm của bạn](https://go.microsoft.com/fwlink/p/?linkid=842054)** . 
 
 Để tìm hiểu thêm, xem "điều gì nếu thẻ tín dụng của tôi đã hết hạn và khoản thanh toán của tôi quá hạn?" trong [thanh toán cho Microsoft 365 của bạn cho đăng ký kinh doanh](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription#what-if-my-credit-card-was-declined-and-my-payment-is-past-due).
   

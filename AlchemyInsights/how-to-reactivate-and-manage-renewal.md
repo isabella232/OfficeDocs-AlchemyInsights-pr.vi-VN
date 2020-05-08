@@ -13,18 +13,18 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: a0e06904289b026b498aadf09c426473b11e9662
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: e4877ccf3b476d099bacf24040419bc6bb6900a4
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763466"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44064107"
 ---
 # <a name="how-to-reactivate-and-manage-recurring-billing"></a>Cách kích hoạt lại và quản lý thanh toán định kỳ
 
 Có vẻ như bạn có một thuê bao đã hết hạn. Nếu bạn muốn kích hoạt lại nó, đây là cách.
   
-1. Trong Trung tâm quản trị, hãy chuyển đến trang sản phẩm **thanh toán** \> [& dịch vụ](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. Trong Trung tâm quản trị, hãy chuyển đến trang **thanh toán** \> **[sản phẩm của bạn](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
 
 2. Tìm gói đăng ký bạn muốn kích hoạt lại. Trong phần **lập hóa đơn** , chọn **kích**hoạt lại.
 
@@ -36,7 +36,7 @@ Có vẻ như bạn có một thuê bao đã hết hạn. Nếu bạn muốn kí
 
 Để quản lý thanh toán theo tháng hoặc hàng năm, bạn có thể bật hoặc tắt tính phí định **kỳ** .
   
-1. Trong Trung tâm quản trị, hãy chuyển đến trang sản phẩm **thanh toán** \> [& dịch vụ](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. Trong Trung tâm quản trị, hãy chuyển đến trang **thanh toán** \> **[sản phẩm của bạn](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
 
 2. Chọn đăng ký mà bạn muốn quản lý thanh toán định kỳ.
 

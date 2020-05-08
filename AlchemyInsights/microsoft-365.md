@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002644"
 - "5085"
-ms.openlocfilehash: eb9f16fb8a7b799a384398b656090491fe8a1f29
-ms.sourcegitcommit: 821c0d7cd1937f0a8f54d0210f71b1d3ea374e82
+ms.openlocfilehash: ba889da8aca8a8e01035a3824fe71d75a562f261
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/29/2020
-ms.locfileid: "43944521"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062342"
 ---
 # <a name="microsoft-365"></a>Microsoft 365
 
@@ -26,4 +26,4 @@ Văn phòng 365 đã trở thành Microsoft 365 vào ngày 21 tháng 4: tên m�
 
 Nếu bạn đã có một đăng ký Office 365, nó sẽ tự động được đổi tên thành Microsoft 365-không cần hành động.
 
-- Tìm hiểu thêm tại [www.Microsoft.com/Microsoft-365/](http://www.microsoft.com/microsoft-365/).
+- Tìm hiểu thêm tại [www.Microsoft.com/Microsoft-365/](https://www.microsoft.com/microsoft-365/).

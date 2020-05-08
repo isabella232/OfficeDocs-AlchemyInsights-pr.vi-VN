@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500028"
 - "4744"
-ms.openlocfilehash: 4a7bf12b7fe895d6aa930a7e1fb679b05a52c704
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.openlocfilehash: 5d28c6d0c73804e71a01514fdc8c561b1ba1b176
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43784029"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062090"
 ---
 # <a name="activate-your-subscription"></a>Kích hoạt đăng ký của bạn
 
 **Kích hoạt đăng ký**
 
-- Để cấp cho người dùng quyền truy cập vào một dịch vụ, hãy gán cho họ giấy phép. Để biết hướng dẫn về cách gán giấy phép, xem [chỉ định giấy phép cho người dùng](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
+- Để cấp cho người dùng quyền truy cập vào một dịch vụ, hãy gán cho họ giấy phép. Để biết hướng dẫn về cách gán giấy phép, xem [chỉ định giấy phép cho người dùng](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 
 - Nếu bạn đã có giấy phép được chỉ định, bạn có thể tìm thấy các ứng dụng bạn có thể tải xuống từ [trang tài khoản của tôi](https://portal.office.com/account/#installs). Trang này cung cấp danh sách các ứng dụng có sẵn để bạn tải xuống dựa trên giấy phép đã được chỉ định.
 
@@ -32,13 +32,13 @@ ms.locfileid: "43784029"
 
 Nếu đăng ký của bạn hết hạn hoặc đã bị tắt bởi Microsoft, hoặc nếu bạn hủy nó ở giữa thời hạn đăng ký, bạn có thể kích hoạt lại nó trong Trung tâm quản trị Microsoft 365.
 
-- Trong Trung tâm quản trị Microsoft 365, đi tới trang [đăng ký](https://go.microsoft.com/fwlink/p/?linkid=842054) (hoặc bấm vào **thanh toán > đăng ký**).
+- Trong Trung tâm quản trị Microsoft 365, hãy đi tới trang **thanh toán** > **[sản phẩm của bạn](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
 
-- Chọn đăng ký mà bạn muốn kích hoạt lại, sau đó nhấp vào **kích**hoạt lại. Nếu bạn không thấy **kích** hoạt lại như một hành động có sẵn, hãy [gọi hỗ trợ](https://support.office.com/article/call-support-32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b) để đăng ký thuê bao của bạn.
+- Chọn đăng ký mà bạn muốn kích hoạt lại, sau đó nhấp vào **kích**hoạt lại. Nếu bạn không thấy **kích** hoạt lại như một hành động có sẵn, hãy [gọi hỗ trợ](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products) để đăng ký thuê bao của bạn.
 
-- Nhập chi tiết thanh toán của bạn. Bạn cũng có thể [Cập nhật thông tin thanh toán hiện tại của mình tại](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide) đây.
+- Nhập chi tiết thanh toán của bạn. Bạn cũng có thể [Cập nhật thông tin thanh toán hiện tại của mình tại](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account) đây.
 
-Để biết thêm thông tin, [hãy xem kích hoạt lại đăng ký của bạn](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
+Để biết thêm thông tin, [hãy xem kích hoạt lại đăng ký của bạn](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 **Kích hoạt đăng ký mới với khóa sản phẩm**
 
