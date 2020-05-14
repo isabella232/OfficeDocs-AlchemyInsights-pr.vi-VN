@@ -18,10 +18,10 @@ ms.custom:
 - "9002663"
 - "5168"
 ms.openlocfilehash: 21475c335e30bcaf5b08557c793a62fbf9b5fdf3
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44064343"
 ---
 # <a name="switch-to-a-different-microsoft-365-for-business-plan"></a>Chuyển sang Microsoft 365 khác nhau cho kế hoạch kinh doanh

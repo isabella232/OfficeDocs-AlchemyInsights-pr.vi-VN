@@ -14,10 +14,10 @@ ms.custom:
 - "1500028"
 ms.assetid: 7a6919fc-afe4-40c7-8ada-d8ce523ad8a8
 ms.openlocfilehash: 73c8a56623bb55926d7df995bad43ff734bfceef
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44062054"
 ---
 # <a name="activating-a-microsoft-volume-license-subscription"></a>Kích hoạt đăng ký giấy phép khối lượng Microsoft
@@ -30,6 +30,6 @@ ms.locfileid: "44062054"
 
 4. Email kích hoạt sẽ cung cấp cho bạn hai tùy chọn: **đăng**ký hoặc **đăng**nhập. Nếu trước đó bạn đã tạo bản dùng thử, **hãy chọn đăng nhập**. Nếu bạn chưa có người thuê Microsoft 365, hãy chọn **đăng ký**.
 
-5. Đăng nhập vào Trung tâm quản trị Microsoft 365[https://admin.microsoft.com](https://admin.microsoft.com)() bằng cách sử dụng thông tin đăng nhập quản trị viên hiện tại của bạn. Sau khi đăng nhập thành công, bạn sẽ nhận được email khác xác nhận mua.
+5. Đăng nhập vào Trung tâm quản trị Microsoft 365 ( [https://admin.microsoft.com](https://admin.microsoft.com) ) bằng cách sử dụng thông tin đăng nhập quản trị viên hiện tại của bạn. Sau khi đăng nhập thành công, bạn sẽ nhận được email khác xác nhận mua.
 
 6. Sau khi đăng nhập, bạn có thể chuyển đến trang **thanh toán** \> [sản phẩm của mình](https://go.microsoft.com/fwlink/p/?linkid=842054) để xác minh rằng đăng ký đã mua của bạn được kích hoạt trong đối tượng thuê của bạn. (Bạn cũng có thể chọn tab **đăng ký** trong VLSC để xem chi tiết xác minh rằng đăng ký của bạn đã được gửi.)

@@ -13,21 +13,25 @@ ms.custom:
 - "277"
 - "4852"
 ms.assetid: a67d2fcf-0faa-4796-a6a4-f7ffefd89e9c
-ms.openlocfilehash: 036b6f94efda76db35b2b7966bac0299db348c86
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.openlocfilehash: a0bbc046c28ec246090dbc275f6acb3ccbce8622
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/06/2020
-ms.locfileid: "44058702"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44221967"
 ---
 # <a name="change-payment-method"></a>Thay đổi phương thức thanh toán
 
 Bạn có thể thay đổi phương thức thanh toán từ **Trung tâm quản trị Microsoft 365**.
   
-1. Trong Trung tâm quản trị, hãy chuyển đến trang **thanh toán** \> **[sản phẩm của bạn](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
+1. Trong Trung tâm quản trị, hãy chuyển **Billing**đến  >  **hóa đơn thanh toán &**  >  trang[phương thức thanh](https://go.microsoft.com/fwlink/p/?linkid=2018806) toán thanh toán.
+2. Chọn hàng của phương thức thanh toán để thay thế. Ngăn bên phải liệt kê tất cả hồ sơ thanh toán và đăng ký riêng lẻ sử dụng phương thức thanh toán đã chọn.
+3. Trong ngăn bên phải, chọn **thay thế phương thức thanh toán cho tất cả các mục**.
+4. Để sử dụng phương thức thanh toán hiện tại, hãy chọn một trong các từ danh sách thả xuống, sau đó chọn **thay thế**.
+    > [!NOTE]
+    > Nếu bạn có đăng ký được liên kết với hồ sơ thanh toán, bạn chỉ có thể sử dụng thẻ tín dụng hoặc ghi nợ để thanh toán cho họ. Nếu bạn có tài khoản ngân hàng được liệt kê trên trang **phương thức thanh toán** , họ không có sẵn để chọn trong danh sách thả xuống.
+5. Để thêm phương thức thanh toán mới, hãy chọn **Thêm phương thức thanh toán**.
+6. Trong ngăn **Thêm phương thức thanh toán** , nhập thông tin tài khoản, sau đó chọn **lưu**. Bạn phải sử dụng phương thức thanh toán từ cùng một quốc gia với đối tượng thuê của mình.
+7. Phương thức thanh toán mới đã được chọn trong danh sách thả xuống. Chọn **thay thế**.
 
-2. Tìm gói đăng ký bạn muốn thay đổi phương thức thanh toán. Bên cạnh phương thức thanh toán, hãy nhấp vào **chỉnh sửa**.
-
-3. Làm theo các bước trên màn hình để hoàn thành thay đổi.
-
-Để tìm hiểu thêm, hãy xem [thay đổi phương thức thanh toán của bạn cho Microsoft 365 dành cho doanh nghiệp](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method).
+Để tìm hiểu thêm, hãy xem [quản lý phương thức thanh toán](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).

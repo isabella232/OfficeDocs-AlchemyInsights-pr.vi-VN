@@ -12,10 +12,10 @@ ms.custom:
 - "1500028"
 - "4744"
 ms.openlocfilehash: 5d28c6d0c73804e71a01514fdc8c561b1ba1b176
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44062090"
 ---
 # <a name="activate-your-subscription"></a>Kích hoạt đăng ký của bạn
@@ -32,7 +32,7 @@ ms.locfileid: "44062090"
 
 Nếu đăng ký của bạn hết hạn hoặc đã bị tắt bởi Microsoft, hoặc nếu bạn hủy nó ở giữa thời hạn đăng ký, bạn có thể kích hoạt lại nó trong Trung tâm quản trị Microsoft 365.
 
-- Trong Trung tâm quản trị Microsoft 365, hãy đi tới trang **thanh toán** > **[sản phẩm của bạn](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
+- Trong Trung tâm quản trị Microsoft 365, hãy đi tới trang **thanh toán**  >  **[sản phẩm của bạn](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
 
 - Chọn đăng ký mà bạn muốn kích hoạt lại, sau đó nhấp vào **kích**hoạt lại. Nếu bạn không thấy **kích** hoạt lại như một hành động có sẵn, hãy [gọi hỗ trợ](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products) để đăng ký thuê bao của bạn.
 

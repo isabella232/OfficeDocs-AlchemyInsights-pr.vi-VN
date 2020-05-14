@@ -12,10 +12,10 @@ ms.custom:
 - "9001519"
 - "3576"
 ms.openlocfilehash: 5c1ee37397981e70d141b5bc5a7880209b236a61
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44062486"
 ---
 # <a name="find-and-activate-my-product-key"></a>Tìm và kích hoạt khóa sản phẩm của tôi
@@ -32,7 +32,7 @@ Nếu bạn đã mua Microsoft 365 Business Premium Standard từ một cửa h�
 
 **Lưu ý**: để sử dụng khóa sản phẩm để kéo dài ngày hết hạn hoặc thêm giấy phép vào gói đăng ký Microsoft 365 Business Premium Standard hiện tại của bạn, bạn cần có khóa mới và không sử dụng cho cùng một gói đăng ký Microsoft 365.  Việc nhập khóa sản phẩm Microsoft 365 gốc của bạn sẽ không hoạt động vì một khóa đã được đổi không thể sử dụng lại.
 
-1. Trong Trung tâm quản trị, hãy chuyển đến trang **thanh toán** > **[sản phẩm của bạn](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
+1. Trong Trung tâm quản trị, hãy chuyển đến trang **thanh toán**  >  **[sản phẩm của bạn](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
 
 2. Tìm đăng ký mà bạn muốn mở rộng ngày hết hạn hoặc thêm giấy phép.  Nhấp vào [ngày kết thúc mở rộng](https://go.microsoft.com/fwlink/p/?linkid=842054) hoặc thêm [giấy phép](https://go.microsoft.com/fwlink/p/?linkid=842054)khác.
 

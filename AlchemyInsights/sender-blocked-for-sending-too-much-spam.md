@@ -1,5 +1,5 @@
 ---
-title: Người gửi bị chặn để gửi quá nhiều thư rác
+title: Người gửi bị hạn chế để gửi quá nhiều thư rác
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,14 +12,14 @@ ms.custom:
 - "254"
 - "3500002"
 ms.assetid: 8282bd76-79f7-4f8a-ae2b-dc8f9ac1aa62
-ms.openlocfilehash: ab49df06697f45e23e80e18b56257c45140722aa
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: ff93b67a6a6b3eae9e94061d968c72064dd42afb
+ms.sourcegitcommit: 0cf8d133d6feade6df8b1082444ce73faa91e145
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709177"
+ms.lasthandoff: 05/12/2020
+ms.locfileid: "44209901"
 ---
-# <a name="account-is-blocked-for-sending-too-much-spam"></a>Tài khoản bị chặn để gửi quá nhiều thư rác
+# <a name="account-is-restricted-for-sending-too-much-spam"></a>Tài khoản bị hạn chế để gửi quá nhiều thư rác
 
 Là quản trị viên, nếu một trong những người dùng của bạn bị hạn chế gửi email, bạn có thể [bỏ chặn tài khoản](https://protection.office.com/?hash=/restrictedusers) **mà không cần mở một trường hợp hỗ trợ**. Người dùng sẽ có thể gửi email trong vòng một giờ sau khi loại bỏ các hạn chế.
 

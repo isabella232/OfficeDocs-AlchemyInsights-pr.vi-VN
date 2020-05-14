@@ -14,10 +14,10 @@ ms.custom:
 - "1500017"
 ms.assetid: 7dc125f8-491d-4bc2-a2f2-b73c7bda3035
 ms.openlocfilehash: 288cb29c463da776ccbce9d6a3302bfdc786702f
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44064143"
 ---
 # <a name="how-to-reactivate-a-subscription"></a>Làm thế nào để kích hoạt lại một thuê bao

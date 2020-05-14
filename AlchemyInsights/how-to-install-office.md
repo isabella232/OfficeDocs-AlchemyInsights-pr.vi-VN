@@ -13,10 +13,10 @@ ms.custom:
 - "904"
 - "2000023"
 ms.openlocfilehash: 623222ee0cfe9cd5798e341149b439e887a998e4
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/22/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "43759174"
 ---
 # <a name="how-to-install-office"></a>Cách cài đặt Office
@@ -29,7 +29,7 @@ Tạo tài khoản người dùng và thêm tên miền của bạn. Đảm bả
 
 Có mỗi người dùng:
 
-1. Đi tới trang cổng thông tin [https://portal.office.com/OLS/MySoftware.aspx](https://portal.office.com/OLS/MySoftware.aspx):.
+1. Đi tới trang cổng thông tin: [https://portal.office.com/OLS/MySoftware.aspx](https://portal.office.com/OLS/MySoftware.aspx) .
 2. Đăng nhập bằng tài khoản nơi làm việc hoặc trường học nếu chưa đăng nhập.
 3. Trong phần Office, chọn ngôn ngữ. Chọn **nâng cao** để chọn phiên bản 32-bit hoặc phiên bản 64-bit.
 4. Chọn **cài đặt**.

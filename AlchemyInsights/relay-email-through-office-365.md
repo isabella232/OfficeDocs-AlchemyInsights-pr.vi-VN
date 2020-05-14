@@ -13,10 +13,10 @@ ms.custom:
 - "3000003"
 ms.assetid: 84191e23-496c-495a-a2ec-28c5ae0d4c0b
 ms.openlocfilehash: 4b36caf1841c5292d269812f4ab5ca16a46fbc81
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/22/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "43785217"
 ---
 # <a name="set-up-a-multifunction-device-or-application-to-send-email"></a>Thiết lập thiết bị hoặc ứng dụng đa chức năng để gửi email

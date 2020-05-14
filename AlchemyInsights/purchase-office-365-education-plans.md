@@ -13,17 +13,17 @@ ms.custom:
 - "328"
 - "330"
 ms.openlocfilehash: a4b079ceb87e87fd50f04f6edbd5d2cb23a27429
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44062847"
 ---
 # <a name="microsoft-365-for-education---approved"></a>Microsoft 365 cho giáo dục-được chấp thuận
 
 Bạn đã được chấp thuận cho văn phòng 365 giáo dục.  Để mua:
 
-1. Điều hướng đến **thanh toán** > [mua dịch vụ](https://portal.office.com/AdminPortal/Home#/catalog).
+1. Điều hướng **Billing**đến  >  [dịch vụ mua](https://portal.office.com/AdminPortal/Home#/catalog)thanh toán.
 
 2. Chọn từ danh sách theo **kế hoạch giáo dục**.
 
@@ -33,7 +33,7 @@ Bạn đã được chấp thuận cho văn phòng 365 giáo dục.  Để mua:
 
 **Bật teams**
 
-- Để > **bật Microsoft teams** > cho tất cả người dùng, hãy **đi tới cài đặt**[Microsoft teams](https://admin.microsoft.com/Adminportal/Home#/SettingsMultiPivot/:/Settings/L1/SkypeTeams) và nhấp vào hộp kiểm **bật Microsoft teams cho tất cả người dùng** . Nhấp vào **lưu thay đổi**.
+- Để bật Microsoft teams cho tất cả người dùng, hãy **đi tới cài đặt**  >  **Settings**  >  [Microsoft teams](https://admin.microsoft.com/Adminportal/Home#/SettingsMultiPivot/:/Settings/L1/SkypeTeams) và nhấp vào hộp kiểm **bật Microsoft teams cho tất cả người dùng** . Nhấp vào **lưu thay đổi**.
 
 **Giảng dạy và học tập từ xa**
 

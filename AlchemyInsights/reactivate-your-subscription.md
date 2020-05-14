@@ -15,17 +15,17 @@ ms.custom:
 - "4736"
 - "3551"
 ms.openlocfilehash: 7066d4f4ad7fbf1bad92c754d9a61f23f9863148
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44062630"
 ---
 # <a name="reactivate-your-subscription"></a>Kích hoạt lại đăng ký của bạn
 
 Nếu đăng ký của bạn hết hạn hoặc đã bị tắt bởi Microsoft, hoặc nếu bạn hủy nó ở giữa thời hạn đăng ký, bạn có thể kích hoạt lại nó trong Trung tâm quản trị.
 
-1. Trong Trung tâm quản trị, hãy chuyển đến trang **thanh toán** > **[sản phẩm của bạn](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
+1. Trong Trung tâm quản trị, hãy chuyển đến trang **thanh toán**  >  **[sản phẩm của bạn](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
 
 2. Tìm gói đăng ký bạn muốn kích hoạt lại.
 
@@ -41,7 +41,7 @@ Nếu đăng ký của bạn hết hạn hoặc đã bị tắt bởi Microsoft,
 
 Để quản lý thanh toán theo tháng hoặc hàng năm, bạn có thể bật hoặc tắt tính phí định kỳ.
 
-1. Trong Trung tâm quản trị, hãy chuyển đến trang **thanh toán** > **[sản phẩm của bạn](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
+1. Trong Trung tâm quản trị, hãy chuyển đến trang **thanh toán**  >  **[sản phẩm của bạn](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
 
 2. Chọn đăng ký mà bạn muốn quản lý thanh toán định kỳ.
 

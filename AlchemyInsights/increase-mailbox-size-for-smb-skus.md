@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7a82ec04-fdf6-43e9-924c-66157b180890
 ms.openlocfilehash: 74bbfc03335ece92c09805f419a5d9544e8c7506
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44064307"
 ---
 # <a name="upgrade-plans-to-increase-mailbox-size"></a>Nâng cấp kế hoạch tăng kích thước hộp thư
 
 Nếu kích thước hộp thư là 50 GB, bạn có thể tăng kích thước hộp thư 100 GB bằng cách chuyển sang [office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) hoặc [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software). Dưới đây là các bước để chuyển sang đăng ký khác:
   
-1. Trong Trung tâm quản trị Microsoft 365, hãy đi tới trang **thanh toán** > [sản phẩm của bạn](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. Trong Trung tâm quản trị Microsoft 365, hãy đi tới trang **thanh toán**  >  [sản phẩm của bạn](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
 2. Chọn đăng ký để nâng cấp, sau đó chọn tab **nâng cấp** để xem danh sách các kế hoạch mới có sẵn.
 

@@ -13,24 +13,30 @@ ms.custom:
 - "433"
 - "1500001"
 ms.assetid: c8f2a1a1-9704-4d08-ba60-d836b9a5f981
-ms.openlocfilehash: 05ba3bb421cedf94352d5bbb6c5daf1417eca609
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.openlocfilehash: 5d118036398d8d9f9a56e8a96e44d81ceccf6573
+ms.sourcegitcommit: e3a1f96200bc58dc8a5b3597cc2600e71c4bd266
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/06/2020
-ms.locfileid: "44062450"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44225218"
 ---
 # <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>Làm cách nào để thay đổi từ thanh toán bằng thẻ tín dụng sang hóa đơn?
 
 > [!NOTE]
 > Tùy chọn thanh toán bằng hóa đơn chỉ có sẵn nếu chi phí đăng ký của bạn trên một số tiền nhất định (thay đổi theo vị trí dịch vụ). Có thể yêu cầu kiểm tra tín dụng cho các khoản thanh toán hóa đơn lớn hơn. Để tìm hiểu thêm, hãy xem [thanh toán cho gói đăng ký của bạn](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription).
-  
-1. Trong Trung tâm quản trị, hãy chuyển đến trang **thanh toán** \> **[sản phẩm của bạn](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
 
-2. Chọn đăng ký mà bạn muốn thay đổi. Trong phần **lập hóa đơn** , chọn tùy chọn **chỉnh sửa** cho phương thức thanh toán hiện tại của bạn.
+1. Trong Trung tâm quản trị, hãy chuyển đến trang **thanh toán**  >  [sản phẩm của bạn](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-3. Trong **thay đổi cách bạn thanh toán cho hộp đăng ký này** , chọn **thay đổi**, chọn hoặc thêm phương thức thanh toán khác, sau đó chọn **lưu**.
+2. Tìm gói đăng ký bạn muốn thay đổi. Trong **thanh toán**, bên cạnh phương thức thanh toán, hãy chọn **chỉnh sửa**.
 
-   > [!NOTE]
-   > Nếu tùy chọn này không được hiển thị, điều đó có nghĩa là việc chuyển đổi từ thẻ tín dụng hoặc tài khoản ngân hàng sang hóa đơn không có sẵn cho đăng ký vì đăng ký không đáp đối số tiền chi phí tối thiểu để thanh toán bằng hóa đơn. Mức chi phí tối thiểu cần được tính bằng hóa đơn thay đổi theo vị trí địa lý.
-  
+3. Cạnh phương thức thanh toán hiện tại của bạn, chọn **thay đổi**.
+
+4. Từ menu thả xuống, chọn **hóa đơn hoặc chuyển khoản ngân khoản**.
+
+5. Nhập tên, địa chỉ và số điện thoại của bạn. Bạn cũng có thể thêm số PO để hiển thị trên hóa đơn.
+
+6. Khi bạn hoàn tất, hãy chọn **lưu**.
+
+7. Xác minh rằng phương thức thanh toán đã chọn là chính xác, sau đó chọn **lưu**.
+
+Để tìm hiểu thêm, hãy xem [thay đổi phương thức thanh toán của bạn](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method).

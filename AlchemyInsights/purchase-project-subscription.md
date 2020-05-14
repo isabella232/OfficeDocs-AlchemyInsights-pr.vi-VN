@@ -12,17 +12,17 @@ ms.custom:
 - "9002424"
 - "4708"
 ms.openlocfilehash: c33d696ef4993f7c4ce304e2e7209c3860299275
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44062810"
 ---
 # <a name="purchase-project-subscription"></a>Đăng ký dự án mua
 
 Quản trị viên có thể mua đăng ký dự án cho tổ chức của họ từ **Trung tâm quản trị Microsoft 365**.
 
-1. Chuyển đến trang**[dịch vụ mua](https://admin.microsoft.com/AdminPortal/Home?adminportal=1&msCV=%2BbOQtMNsz0ei8f5z.0.36#/catalog)** **thanh toán** > để xem các đăng ký có sẵn để mua cho tổ chức của bạn.
+1. Chuyển đến trang **Billing**  >  **[dịch vụ mua](https://admin.microsoft.com/AdminPortal/Home?adminportal=1&msCV=%2BbOQtMNsz0ei8f5z.0.36#/catalog)** thanh toán để xem các đăng ký có sẵn để mua cho tổ chức của bạn.
 
 2. Định vị kế hoạch dự án bằng tìm kiếm trên "dự án".
 

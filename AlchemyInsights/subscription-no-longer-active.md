@@ -12,10 +12,10 @@ ms.custom:
 - "9002453"
 - "4763"
 ms.openlocfilehash: 65b56ad1fbcce98fac42becc9fc4f060c17e9e5f
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44063315"
 ---
 # <a name="subscription-no-longer-active"></a>Đăng ký không còn hoạt động
@@ -24,7 +24,7 @@ Nếu một [thông báo đăng ký xuất hiện khi một ứng dụng Microso
 
 **Kích hoạt lại đăng ký**
 
-1. Trong Trung tâm quản trị, hãy chuyển đến trang **thanh toán** > **[sản phẩm của bạn](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
+1. Trong Trung tâm quản trị, hãy chuyển đến trang **thanh toán**  >  **[sản phẩm của bạn](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
 
 2. Tìm gói đăng ký bạn muốn kích hoạt lại.
 
