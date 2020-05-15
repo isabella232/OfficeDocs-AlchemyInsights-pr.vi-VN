@@ -11,13 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "3155"
 - "9001195"
-ms.openlocfilehash: 377e7d3164f7732246e1c1980bc1d0b0ccc8ebbb
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: bc554215f0fd50c8b0a1788715bcb44c17ee51ab
+ms.sourcegitcommit: 1697031e86a07e44b8937ffaca809229ba2be754
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43712660"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44232351"
 ---
 # <a name="banned-sending-ip"></a>Cấm gửi IP
 
-Khi gửi thư đến Microsoft 365, người gửi có thể gặp phải lỗi này. Người gửi cần truy cập https://sender.office.com và làm theo hướng dẫn.  Nếu họ không nhận được email xác minh từ cổng thông tin, hãy để họ kiểm tra thư mục spam và/hoặc thử với một địa chỉ email khác.
+Khi gửi đến một Office 365 người nhận, người gửi có thể gặp phải lỗi này. Người gửi cần phải truy cập vào [văn phòng 365 chống thư rác IP Delist cổng](https://sender.office.com/) và cung cấp địa chỉ email của họ và địa chỉ IP mà cần phải được delisted. Nếu họ không nhận được email xác minh từ cổng thông tin, hãy để họ kiểm tra thư mục spam và/hoặc thử với một địa chỉ email khác. 
+
+- Để biết hướng dẫn chi tiết, hãy xem [sử dụng cổng xóa để xóa chính mình khỏi danh sách người gửi bị chặn](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-the-delist-portal-to-remove-yourself-from-the-office-365-blocked-senders-lis?view=o365-worldwide).
