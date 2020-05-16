@@ -11,16 +11,16 @@ ms.custom:
 - "982"
 - "4000006"
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
-ms.openlocfilehash: 045ea1814c0b6189ec25195202bf0f1def255f23
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 39986b670948cdccb8a2d2652403a2e0376d71ec
+ms.sourcegitcommit: a61f9b7721701b20efade33a3293089761932905
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43908831"
+ms.lasthandoff: 05/15/2020
+ms.locfileid: "44254771"
 ---
 # <a name="microsoft-teams-upgrade"></a>Nâng cấp Microsoft teams
 
-**Quan trọng**: chúng tôi có thể giúp bạn khắc phục sự cố này cho bạn bằng cách sử dụng chẩn đoán hỗ trợ, nhưng có vẻ như bạn không sử dụng trung tâm quản trị mới. Để sử dụng trung tâm quản trị mới, hãy trượt nút gạt ở trên cùng bên phải cho biết **Trung tâm quản trị mới** ở bên phải. Sử dụng trung tâm quản trị mới, bấm vào **cần giúp đỡ?** widget, nhập "teams nâng cấp", sau đó làm theo các lời nhắc để chạy chẩn đoán.
+**Quan trọng**: nếu bạn đã được nâng cấp từ Skype dành cho doanh nghiệp trực tuyến cho Microsoft teams trong chế độ chỉ teams, nhưng tìm thấy bạn chưa sẵn sàng, chúng tôi có thể giúp khắc phục điều này cho bạn bằng cách sử dụng chẩn đoán hỗ trợ. Đảm bảo rằng bạn đang sử dụng trung tâm quản trị mới bằng cách trượt nút gạt ở trên cùng bên phải cho biết **Trung tâm quản trị mới**ở bên phải. Sử dụng trung tâm quản trị mới, bấm vào **cần giúp đỡ?** widget, nhập "**teams nâng cấp**", sau đó làm theo các lời nhắc để chạy chẩn đoán.
 
 Cho dù bạn chỉ bắt đầu với teams, đã sử dụng teams cùng với Skype for Business hay đã sẵn sàng nâng cấp, chúng tôi muốn đảm bảo bạn có mọi thứ bạn cần để điều hướng cuộc hành trình thành công đến teams. Để biết thêm thông tin xin vui lòng truy cập vào các liên kết dưới đây.
 

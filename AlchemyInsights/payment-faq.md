@@ -11,21 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "5128"
-ms.openlocfilehash: 08125121083a3ddc7b84ea27a6262247c7ef3e0f
-ms.sourcegitcommit: 87aa36e3ff4835efb120a320c5169bfa77199ec4
+ms.openlocfilehash: 59698324fc21dcf49b96363d61145e17364f9e01
+ms.sourcegitcommit: 0e43e19448705f151846e9e9e1e0f47e12938fdf
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43991361"
+ms.lasthandoff: 05/15/2020
+ms.locfileid: "44263970"
 ---
 # <a name="payment-faq"></a>Câu hỏi thường gặp về thanh toán
 
 Quản lý thanh toán trong **Trung tâm quản trị Microsoft 365**. 
 
-1. Chuyển đến ** [các sản phẩm > thanh toán & dịch vụ](https://go.microsoft.com/fwlink/p/?linkid=842054) ** để chỉ định hoặc thay đổi phương thức thanh toán đăng ký.
-2. Chuyển đến thanh toán **> các [phương thức trả](https://go.microsoft.com/fwlink/p/?linkid=2018806) ** tiền để Thêm/Cập Nhật/xóa phương thức thanh toán.
-
-**Vấn đề thường gặp và nghị quyết**
+- Chuyển đến **thanh toán > [sản phẩm của bạn](https://go.microsoft.com/fwlink/p/?linkid=842054) ** để chỉ định hoặc thay đổi phương thức thanh toán đăng ký.
+- Chuyển đến thanh toán **> các [phương thức trả](https://go.microsoft.com/fwlink/p/?linkid=2018806) ** tiền để Thêm/Cập Nhật/xóa phương thức thanh toán.
 
 - **Phương thức thanh toán** -nếu trả bằng thẻ tín dụng hoặc tài khoản ngân hàng, phương thức thanh toán được liên kết với (các) đăng ký của bạn bị tính phí trong vòng vài ngày sau khi hóa đơn được tạo. Nếu thanh toán không thành công, hãy Cập Nhật phương thức thanh toán của bạn. Để biết thêm thông tin, xem [Thêm, Cập Nhật hoặc xóa phương thức thanh toán](https://go.microsoft.com/fwlink/?linkid=2118133).
 

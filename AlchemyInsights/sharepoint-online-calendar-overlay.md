@@ -1,5 +1,5 @@
 ---
-title: Giới hạn chia sẻ trong Microsoft teams
+title: Lớp phủ lịch SharePoint trực tuyến
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2587"
-ms.openlocfilehash: 23912ed30ed73257afe9346a82e3a1996a9399c6
-ms.sourcegitcommit: ed65b545ea3abf05fdc71a5167aaaab033063209
+ms.openlocfilehash: 046e9230b162a402c06e432b2b1501490b45161b
+ms.sourcegitcommit: 1beed1afb13dd512249db1ea918b1ddb00b0c1ed
 ms.translationtype: MT
 ms.contentlocale: vi-VN
 ms.lasthandoff: 05/15/2020
-ms.locfileid: "44250524"
+ms.locfileid: "44267563"
 ---
-# <a name="limit-sharing-in-microsoft-teams"></a>Giới hạn chia sẻ trong Microsoft teams
+# <a name="sharepoint-online-calendar-overlay"></a>Lớp phủ lịch SharePoint trực tuyến
 
 Bạn có thể lớp một SharePoint lịch miễn là cả SharePoint lịch trong bộ sưu tập trang web tương tự. Khả năng sử dụng lớp phủ lịch trong SharePoint trực tuyến hoặc SharePoint Server lịch được lấy từ Exchange Online không được hỗ trợ.
 

@@ -1,5 +1,5 @@
 ---
-title: Đó là một vấn đề với bảng tạm
+title: Có một vấn đề với clipboard
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,19 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000688"
 - "2580"
-ms.openlocfilehash: d82f7922bc0fe68e76af23949ecaafff771ac221
-ms.sourcegitcommit: a53157190ed2c4bdade088afa45dd942a559fb95
+ms.openlocfilehash: dc086f0c43cf307215d8d97a87fdf21d61611d36
+ms.sourcegitcommit: 0e43e19448705f151846e9e9e1e0f47e12938fdf
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 07/31/2019
-ms.locfileid: "36045600"
+ms.lasthandoff: 05/15/2020
+ms.locfileid: "44263899"
 ---
-# <a name="disable-excel-live-preview"></a>Vô hiệu hóa Excel xem trước trực tiếp
+# <a name="resolving-excel-clipboard-error"></a>Giải quyết lỗi clipboard Excel
 
-Nếu bạn nhận được một lỗi trong Excel mà nói, "có một vấn đề với bảng tạm, nhưng vẫn còn, bạn có thể dán nội dung của bạn trong bảng tính này", hãy thử vô hiệu hoá tính năng xem trước sống bằng cách làm theo các bước sau:
+Nếu bạn nhận được lỗi trong Excel cho biết, "có sự cố với bộ nhớ tạm, nhưng bạn vẫn có thể dán nội dung của mình trong bảng tính này", hãy thử tắt tính năng xem trước trực tiếp bằng cách làm theo các bước sau:
 
-1. Trong Excel, hãy nhấp vào **tập tin** > **tùy chọn**.
-3. Trong hộp thoại **Excel Options** , chọn **General**.
-4. Dưới **tùy chọn giao diện người dùng**, rõ ràng **Sử xem trước sống**.
+1. Trong Excel, bấm **File**vào  >  **tuỳ chọn**tệp.
+3. Trong **tùy chọn Excel** hộp thoại, chọn **chung**.
+4. Trong **tùy chọn giao diện người dùng**, xóa **bật xem trước trực tiếp**.
 5. Bấm **OK**.
 6. Khởi động lại Excel.

@@ -11,16 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "3192"
-ms.openlocfilehash: 54f3e3a396334b7c1640b078e2efed4d6b463ba3
-ms.sourcegitcommit: e6d73d240669342fde9d4d25b0ee2838b7e43965
+ms.openlocfilehash: 0f4386d7981217143806c557ecac6bc40f973105
+ms.sourcegitcommit: b398afd92d4259f893c25b48aec65921e6cc68d6
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "44235391"
+ms.lasthandoff: 05/16/2020
+ms.locfileid: "44268758"
 ---
 # <a name="migrating-to-sharepoint-online-via-migration-manager"></a>Di chuyển sang SharePoint trực tuyến qua trình quản lý di trú
-
-**Quản lý di chuyển**
 
 Nằm trong Trung tâm quản trị SharePoint hiện đại, trình quản lý di chuyển hướng dẫn bạn thiết lập các khách hàng của bạn và tạo các tác vụ của bạn. Bạn có thể chỉ định cài đặt chung hoặc cấp tác vụ, xem tiến trình công việc tất cả-lên và tải xuống tóm tắt tổng hợp và báo cáo cấp tác vụ.
 
