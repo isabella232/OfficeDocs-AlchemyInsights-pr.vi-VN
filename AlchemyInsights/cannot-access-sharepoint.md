@@ -12,16 +12,14 @@ ms.assetid: ''
 ms.custom:
 - "9000158"
 - "1676"
-ms.openlocfilehash: b288c3e7b29265dbb7a68055298a695accaf19c9
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5317518d0a27dfdd4d38b4e536d8bd0662b976fe
+ms.sourcegitcommit: f5a3b2f436b00e18cbf337044ea8818726517651
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43711401"
+ms.lasthandoff: 05/18/2020
+ms.locfileid: "44278842"
 ---
 # <a name="cannot-access-sharepoint"></a>Không thể truy cập SharePoint
-
-**Quan trọng**: trong những lần chưa từng thấy, chúng tôi đang thực hiện các bước để đảm bảo rằng dịch vụ SharePoint Online và OneDrive vẫn có sẵn cao-vui lòng truy cập [điều chỉnh tính năng tạm thời của SharePoint Online](https://aka.ms/ODSPAdjustments) để biết thêm thông tin.
 
 Có một số lý do tại sao Microsoft SharePoint hoặc Microsoft OneDrive có thể không truy nhập được. Nếu bạn không thể truy cập SharePoint trực tuyến, sử dụng hướng dẫn sau để khắc phục sự cố này.
 
