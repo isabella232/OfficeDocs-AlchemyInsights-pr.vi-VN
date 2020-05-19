@@ -12,17 +12,15 @@ ms.assetid: ''
 ms.custom:
 - "9000158"
 - "1676"
-ms.openlocfilehash: b288c3e7b29265dbb7a68055298a695accaf19c9
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5317518d0a27dfdd4d38b4e536d8bd0662b976fe
+ms.sourcegitcommit: f5a3b2f436b00e18cbf337044ea8818726517651
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43711401"
+ms.lasthandoff: 05/18/2020
+ms.locfileid: "44278842"
 ---
-# <a name="cannot-access-sharepoint"></a><span data-ttu-id="4a4c7-102">Không thể truy cập SharePoint</span><span class="sxs-lookup"><span data-stu-id="4a4c7-102">Cannot access SharePoint</span></span>
+# <a name="cannot-access-sharepoint"></a><span data-ttu-id="f6a8d-102">Không thể truy cập SharePoint</span><span class="sxs-lookup"><span data-stu-id="f6a8d-102">Cannot access SharePoint</span></span>
 
-<span data-ttu-id="4a4c7-103">**Quan trọng**: trong những lần chưa từng thấy, chúng tôi đang thực hiện các bước để đảm bảo rằng dịch vụ SharePoint Online và OneDrive vẫn có sẵn cao-vui lòng truy cập [điều chỉnh tính năng tạm thời của SharePoint Online](https://aka.ms/ODSPAdjustments) để biết thêm thông tin.</span><span class="sxs-lookup"><span data-stu-id="4a4c7-103">**Important**: During these unprecedented times, we are taking steps to ensure that SharePoint Online and OneDrive services remain highly available – Please visit [SharePoint Online Temporary Feature Adjustments](https://aka.ms/ODSPAdjustments) for more information.</span></span>
+<span data-ttu-id="f6a8d-103">Có một số lý do tại sao Microsoft SharePoint hoặc Microsoft OneDrive có thể không truy nhập được.</span><span class="sxs-lookup"><span data-stu-id="f6a8d-103">There are several reasons why Microsoft SharePoint or Microsoft OneDrive might become inaccessible.</span></span> <span data-ttu-id="f6a8d-104">Nếu bạn không thể truy cập SharePoint trực tuyến, sử dụng hướng dẫn sau để khắc phục sự cố này.</span><span class="sxs-lookup"><span data-stu-id="f6a8d-104">If you can't access SharePoint Online, use the following guide to troubleshoot this issue.</span></span>
 
-<span data-ttu-id="4a4c7-104">Có một số lý do tại sao Microsoft SharePoint hoặc Microsoft OneDrive có thể không truy nhập được.</span><span class="sxs-lookup"><span data-stu-id="4a4c7-104">There are several reasons why Microsoft SharePoint or Microsoft OneDrive might become inaccessible.</span></span> <span data-ttu-id="4a4c7-105">Nếu bạn không thể truy cập SharePoint trực tuyến, sử dụng hướng dẫn sau để khắc phục sự cố này.</span><span class="sxs-lookup"><span data-stu-id="4a4c7-105">If you can't access SharePoint Online, use the following guide to troubleshoot this issue.</span></span>
-
-- [<span data-ttu-id="4a4c7-106">Không thể truy cập SharePoint trực tuyến</span><span class="sxs-lookup"><span data-stu-id="4a4c7-106">Unable to access SharePoint Online</span></span>](https://docs.microsoft.com/sharepoint/troubleshoot/sharing-and-permissions/sharepoint-online-inaccessible)
+- [<span data-ttu-id="f6a8d-105">Không thể truy cập SharePoint trực tuyến</span><span class="sxs-lookup"><span data-stu-id="f6a8d-105">Unable to access SharePoint Online</span></span>](https://docs.microsoft.com/sharepoint/troubleshoot/sharing-and-permissions/sharepoint-online-inaccessible)
