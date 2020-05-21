@@ -12,14 +12,14 @@ ms.custom:
 - "9000136"
 - "2968"
 ms.assetid: ''
-ms.openlocfilehash: a357e538c8fafee36bf7b05348c1d9445052f978
-ms.sourcegitcommit: e6d73d240669342fde9d4d25b0ee2838b7e43965
+ms.openlocfilehash: 10f18044f999a9d30969221f65012fdce445d94a
+ms.sourcegitcommit: bd7c03d4e994abb45c43510adca20b7600a87091
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "44235247"
+ms.lasthandoff: 05/20/2020
+ms.locfileid: "44331375"
 ---
-# <a name="sharepoint-throttling"></a>Điều chỉnh SharePoint
+# <a name="sharepoint-migration-throttling"></a>SharePoint di chuyển điều chỉnh
 
 SharePoint Online sử dụng điều chỉnh để duy trì hiệu suất tối ưu và độ tin cậy của dịch vụ SharePoint trực tuyến. Điều tiết giới hạn số hành động của người dùng hoặc các cuộc gọi đồng thời (theo tập lệnh hoặc mã) để tránh sử dụng quá nhiều tài nguyên. Để biết thêm thông tin, vui lòng xem:
 

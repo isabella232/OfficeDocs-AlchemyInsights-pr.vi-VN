@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002316"
 - "5665"
-ms.openlocfilehash: 46353dfaa79f2133c6c141f9afcf2ac38b9ea45a
-ms.sourcegitcommit: 1beed1afb13dd512249db1ea918b1ddb00b0c1ed
+ms.openlocfilehash: cd47bf829511312e583122d128a03261d5d85839
+ms.sourcegitcommit: bd7c03d4e994abb45c43510adca20b7600a87091
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/15/2020
-ms.locfileid: "44267705"
+ms.lasthandoff: 05/20/2020
+ms.locfileid: "44331333"
 ---
 # <a name="using-onenote-in-teams"></a>Sử dụng OneNote trong teams
 
@@ -27,3 +27,4 @@ ms.locfileid: "44267705"
 - **Quản lý quyền truy cập vào OneNote**: bạn có thể quản lý quyền truy cập của người dùng vào OneNote trong Trung tâm quản trị Microsoft teams. Đọc [quản lý ứng dụng của bạn trong Trung tâm quản trị Microsoft teams để](https://docs.microsoft.com/MicrosoftTeams/manage-apps) biết thêm thông tin.
 - **Khôi phục máy tính xách tay từ nhóm đã xóa**: làm theo các bước trong [khôi phục nhóm đã xoá](https://docs.microsoft.com/microsoftteams/archive-or-delete-a-team#restore-a-deleted-team) và nội dung của nó bằng cách khôi phục các nhóm Office 365.
 - **Vấn đề lớp máy tính xách tay**: vui lòng tham khảo [bản Cập Nhật OneNote và thực tiễn tốt nhất cho các nhà giáo dục và học sinh](https://support.office.com/article/onenote-update-and-best-practices-for-educators-and-students-dde775f0-8b06-4263-8b54-1e9ddc3dd146) và [Cập Nhật OneNote và các phương pháp hay nhất cho quản trị viên CNTT trong giáo dục](https://support.office.com/article/onenote-update-and-best-practices-for-it-admins-in-education-9d78f2b2-5e25-4288-b597-b4ba463c7b46?ui=en-US&rs=en-US&ad=US).
+- Nếu bạn **không thể sử dụng tab OneNote trong teams**hoặc nếu máy **tính xách tay của bạn có sự cố đồng bộ hóa**, hãy đăng nhập bằng tài khoản quản trị viên của bạn và kiểm tra trang [tổng quan y tế Dịch vụ](https://docs.microsoft.com/office365/enterprise/view-service-health) để xác minh rằng không có sự cố hỏng hóc hoặc dịch vụ nào tồn tại.
