@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: 2023593e281170cea0b055c54d18ef307c4c7ea7
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: be1136f7fd4575d482d38ee70163e5252d4ffbca
+ms.sourcegitcommit: 5296874062b16f945d9a7a7a9ab29ec53686310b
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "43767055"
+ms.lasthandoff: 05/21/2020
+ms.locfileid: "44343205"
 ---
 # <a name="troubleshoot-open-with-explorer-issues-in-sharepoint-online"></a>Khắc phục sự cố "mở với Explorer" trong SharePoint trực tuyến
 
@@ -28,9 +28,6 @@ Chúng tôi khuyên bạn nên [đồng bộ hoá tệp SharePoint với khách 
 - [Sao chép hoặc di chuyển tệp thư viện bằng cách sử dụng mở với Explorer](https://support.office.com/article/copy-or-move-library-files-by-using-open-with-explorer-aaee7bfb-e2a1-42ee-8fc0-bcc0754f04d2)
 
 > **Lưu ý:**
+>- Mở bằng Explorer chỉ được hỗ trợ trong Internet Explorer 10 hoặc 11. Mở bằng Explorer không hoạt động trong Windows với Microsoft Edge, Google Chrome, Mozilla Firefox hoặc trên nền tảng Mac. Vì lý do này, tùy chọn Explorer View có thể được chuyển sang màu xám.
 >
 >- Nút mở Explorer không xuất hiện trong trải nghiệm thư viện mới. Chọn menu thả xuống dạng **xem** ở phía trên bên phải (tên của các thay đổi thả xuống tùy thuộc vào dạng xem hiện tại của bạn), sau đó chọn **xem trong file Explorer**.
->
->- Mở bằng Explorer chỉ được hỗ trợ trong Internet Explorer 10 hoặc 11. Mở bằng Explorer không hoạt động trong Windows với Microsoft Edge, Google Chrome, Mozilla Firefox hoặc trên nền tảng Mac. Vì lý do này, tùy chọn Explorer View có thể được chuyển sang màu xám.
-
-

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "1655"
-ms.openlocfilehash: a422805d11a128909e1be7bf5d08b24efc132e23
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 363f3c79a3b62f3017e6c873f1be3dd195cab883
+ms.sourcegitcommit: 5296874062b16f945d9a7a7a9ab29ec53686310b
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43742069"
+ms.lasthandoff: 05/21/2020
+ms.locfileid: "44343086"
 ---
 # <a name="sharepoint-alert-notifications-not-delivered"></a>Thông báo cảnh báo SharePoint không được gửi
 
@@ -33,15 +33,6 @@ Câu hỏi thường gặp về cảnh báo:
 
 - Không thể gửi cảnh báo đến nhóm phân phối, chỉ bảo mật và nhóm O365 được hỗ trợ.
 - Bạn không thể tùy chỉnh các mẫu email cảnh báo; bạn cần phải sử dụng Microsoft FLOW hoặc SharePoint Designer Workflow để đạt được những.
-
-Thông tin thêm:
-
-- **Thiết lập cảnh báo**: để biết thêm thông tin về cách thiết lập cảnh báo, hãy xem [tạo cảnh báo để nhận thông báo khi tệp hoặc thư mục thay đổi trong SharePoint](https://support.office.com/article/create-an-alert-to-get-notified-when-a-file-or-folder-changes-in-sharepoint-e5a79e7b-a146-46da-a9ef-d65409ba8918).
-- **Khắc phục sự cố cảnh báo**: để biết thêm thông tin về khắc phục sự cố cảnh báo, xem [người dùng không nhận được thông báo cảnh báo SharePoint trực tuyến](https://docs.microsoft.com/sharepoint/support/sites/no-alert-notifications).
-- **Chính sách cảnh báo tuân thủ O365 nâng cao**: để biết thêm thông tin về cách thiết lập các cảnh báo này, xem [chính sách cảnh báo tuân thủ](https://docs.microsoft.com/office365/securitycompliance/alert-policies).
-- **Nhật ký kiểm tra SharePoint và OneDrive**: để biết thêm thông tin về cách lấy các sự kiện, [hãy xem tìm kiếm Nhật ký kiểm tra](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
-- **Cảnh báo được gửi bởi nâng cao mối đe dọa bảo vệ**: xem [ATP cho SharePoint và OneDrive](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams).
-- **Cảnh báo được gửi bởi chính sách ngăn ngừa mất dữ liệu**: xem [thông báo email cho DLP](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips).
 
 ## <a name="related-topics"></a>Các chủ đề liên quan
 
