@@ -11,13 +11,19 @@ ms.custom:
 - "898"
 - "3800014"
 ms.assetid: 70bff353-d2e9-47ee-bccc-d59758efe8eb
-ms.openlocfilehash: 46a114987abc185d1ca5f390fc212fd6873b01e2
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: ed86cba4427e900074f37ebbb524fa657f73570f
+ms.sourcegitcommit: 2afad0b107d03cd8c4de0b85b5bee38a13a7960d
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762915"
+ms.lasthandoff: 05/26/2020
+ms.locfileid: "44373057"
 ---
-# <a name="learn-about-external-calendar-sharing-options"></a><span data-ttu-id="e40ae-102">Tìm hiểu về tùy chọn chia sẻ lịch bên ngoài</span><span class="sxs-lookup"><span data-stu-id="e40ae-102">Learn about external calendar sharing options</span></span>
+# <a name="exchange-online-collaboration-options"></a><span data-ttu-id="fc805-102">Tuỳ chọn cộng tác Exchange Online</span><span class="sxs-lookup"><span data-stu-id="fc805-102">Exchange Online collaboration options</span></span>
 
-<span data-ttu-id="e40ae-103">Nếu bạn cần lập lịch cuộc họp với những người bên ngoài tổ chức của bạn, Microsoft 365 cho phép bạn thực hiện lịch có sẵn cho "người dùng bên ngoài", những người cần xem thời gian rảnh/bận nhưng không có tài khoản người dùng cho môi trường Microsoft 365 của bạn.</span><span class="sxs-lookup"><span data-stu-id="e40ae-103">If you need to schedule meetings with people outside your organization, Microsoft 365 enables you to make calendars available to "external users," those who need to see free/busy time but don't have user accounts for your Microsoft 365 environment.</span></span> <span data-ttu-id="e40ae-104">Để biết thêm thông tin, xem [chia sẻ lịch với người dùng bên ngoài](https://docs.microsoft.com/office365/admin/manage/share-calendars-with-external-users).</span><span class="sxs-lookup"><span data-stu-id="e40ae-104">For more information, see [Share calendars with external users](https://docs.microsoft.com/office365/admin/manage/share-calendars-with-external-users).</span></span>
+- <span data-ttu-id="fc805-103">Để có **tổng quan về chia sẻ lịch bên ngoài**, hãy xem [chia sẻ trong Exchange Online](https://technet.microsoft.com/library/jj916670%28v=exchg.150%29.aspx).</span><span class="sxs-lookup"><span data-stu-id="fc805-103">To get an **overview of external calendar sharing**, see [Sharing in Exchange Online](https://technet.microsoft.com/library/jj916670%28v=exchg.150%29.aspx).</span></span>
+
+- <span data-ttu-id="fc805-104">**Chia sẻ lịch với một tổ chức Office 365**, xem [mối quan hệ tổ chức trong Exchange Online](https://technet.microsoft.com/library/jj916658%28v=exchg.150%29.aspx).</span><span class="sxs-lookup"><span data-stu-id="fc805-104">To **share calendars with another Office 365 organization**, see [Organization relationships in Exchange Online](https://technet.microsoft.com/library/jj916658%28v=exchg.150%29.aspx).</span></span>
+
+- <span data-ttu-id="fc805-105">Để **kiểm soát cách người dùng chia sẻ lịch của họ với những người bên ngoài tổ chức của**bạn, hãy xem [chính sách chia sẻ trong Exchange Online](https://technet.microsoft.com/library/jj916673%28v=exchg.150%29.aspx).</span><span class="sxs-lookup"><span data-stu-id="fc805-105">To **control how your users share their calendars with people outside your organization**, see [Sharing policies in Exchange Online](https://technet.microsoft.com/library/jj916673%28v=exchg.150%29.aspx).</span></span>
+
+- <span data-ttu-id="fc805-106">Để xem **cải tiến** được thực hiện trong chia sẻ lịch, xem [lịch chia sẻ trong Microsoft 365](https://support.office.com/article/calendar-sharing-in-microsoft-365-b576ecc3-0945-4d75-85f1-5efafb8a37b4).</span><span class="sxs-lookup"><span data-stu-id="fc805-106">To see **improvements** being made in calendar sharing, see [Calendar sharing in Microsoft 365](https://support.office.com/article/calendar-sharing-in-microsoft-365-b576ecc3-0945-4d75-85f1-5efafb8a37b4).</span></span>
