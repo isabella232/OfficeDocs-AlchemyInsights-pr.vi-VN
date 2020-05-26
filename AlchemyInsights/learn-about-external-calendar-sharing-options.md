@@ -11,13 +11,19 @@ ms.custom:
 - "898"
 - "3800014"
 ms.assetid: 70bff353-d2e9-47ee-bccc-d59758efe8eb
-ms.openlocfilehash: 46a114987abc185d1ca5f390fc212fd6873b01e2
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: ed86cba4427e900074f37ebbb524fa657f73570f
+ms.sourcegitcommit: 2afad0b107d03cd8c4de0b85b5bee38a13a7960d
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762915"
+ms.lasthandoff: 05/26/2020
+ms.locfileid: "44373057"
 ---
-# <a name="learn-about-external-calendar-sharing-options"></a>Tìm hiểu về tùy chọn chia sẻ lịch bên ngoài
+# <a name="exchange-online-collaboration-options"></a>Tuỳ chọn cộng tác Exchange Online
 
-Nếu bạn cần lập lịch cuộc họp với những người bên ngoài tổ chức của bạn, Microsoft 365 cho phép bạn thực hiện lịch có sẵn cho "người dùng bên ngoài", những người cần xem thời gian rảnh/bận nhưng không có tài khoản người dùng cho môi trường Microsoft 365 của bạn. Để biết thêm thông tin, xem [chia sẻ lịch với người dùng bên ngoài](https://docs.microsoft.com/office365/admin/manage/share-calendars-with-external-users).
+- Để có **tổng quan về chia sẻ lịch bên ngoài**, hãy xem [chia sẻ trong Exchange Online](https://technet.microsoft.com/library/jj916670%28v=exchg.150%29.aspx).
+
+- **Chia sẻ lịch với một tổ chức Office 365**, xem [mối quan hệ tổ chức trong Exchange Online](https://technet.microsoft.com/library/jj916658%28v=exchg.150%29.aspx).
+
+- Để **kiểm soát cách người dùng chia sẻ lịch của họ với những người bên ngoài tổ chức của**bạn, hãy xem [chính sách chia sẻ trong Exchange Online](https://technet.microsoft.com/library/jj916673%28v=exchg.150%29.aspx).
+
+- Để xem **cải tiến** được thực hiện trong chia sẻ lịch, xem [lịch chia sẻ trong Microsoft 365](https://support.office.com/article/calendar-sharing-in-microsoft-365-b576ecc3-0945-4d75-85f1-5efafb8a37b4).
