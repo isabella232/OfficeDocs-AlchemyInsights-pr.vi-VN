@@ -12,12 +12,12 @@ ms.custom:
 - "1639"
 - "9000134"
 ms.assetid: 352a02d7-1368-4e3f-a8cf-bac207e414b0
-ms.openlocfilehash: a03eea367de2d13f6f20e0b98396c2b8b9934007
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: c4780aec32a51f6e7a5b4a1436745af58e1978b2
+ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44063171"
+ms.lasthandoff: 05/29/2020
+ms.locfileid: "44418274"
 ---
 # <a name="payment-options-for-microsoft-365-for-business-subscriptions"></a>Tùy chọn thanh toán cho Microsoft 365 cho đăng ký doanh nghiệp
   
@@ -25,7 +25,7 @@ Thẻ tín dụng, tài khoản ngân hàng (ghi nợ trực tiếp) và hóa đ
   
 **Thanh toán bằng thẻ tín dụng và tài khoản ngân hàng**
   
-Khi bạn thanh toán bằng thẻ tín dụng hoặc tài khoản ngân hàng, bạn sẽ tự động bị tính phí cho đăng ký của mình vào ngày sau ngày hóa đơn, cho đến khi kết thúc thời hạn đăng ký của bạn. Bạn có thể [Cập nhật thông tin thẻ tín dụng hoặc tài khoản ngân hàng](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) bất cứ khi nào bạn cần. Bạn cũng có thể chọn [nhận bản sao của báo cáo thanh toán trong email](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription#receive-a-copy-of-your-billing-statement-in-email).
+Khi bạn thanh toán bằng thẻ tín dụng hoặc tài khoản ngân hàng, bạn sẽ tự động bị tính phí cho đăng ký của mình vào ngày sau ngày hóa đơn, cho đến khi kết thúc thời hạn đăng ký của bạn. Bạn có thể [quản lý phương thức thanh toán](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods) bất cứ khi nào bạn cần. Bạn cũng có thể chọn [nhận bản sao của báo cáo thanh toán trong email](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription#receive-a-copy-of-your-billing-statement-in-email).
   
 Nếu thẻ tín dụng của bạn bị từ chối hoặc có số dư do quá hạn, bạn có thể chọn tùy chọn giải **quyết số dư** trên trang **thanh toán** \> **[sản phẩm của bạn](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
   

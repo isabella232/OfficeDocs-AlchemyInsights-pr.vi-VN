@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "4560"
-ms.openlocfilehash: 8d7ca90f7ed2a5c11f4133e6ec35ec282e3cbd2b
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: cc48ba0409eedd4e00cdc18de710663c85efa0cd
+ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44063027"
+ms.lasthandoff: 05/29/2020
+ms.locfileid: "44418130"
 ---
 # <a name="manage-your-account-and-subscriptions"></a>Quản lý tài khoản và đăng ký của bạn
 
@@ -39,7 +39,7 @@ ms.locfileid: "44063027"
 
 - [Hiểu hóa đơn của bạn](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice)
 
-- [Thêm, Cập Nhật hoặc xóa phương thức thanh toán của bạn](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account)
+- [Quản lý phương thức thanh toán](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
 
 **Quản lý đăng ký và giấy phép** 
 

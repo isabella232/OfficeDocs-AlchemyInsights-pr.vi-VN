@@ -10,14 +10,19 @@ ms.assetid: 94f6d41e-8cbc-4ec1-a44f-453b2a59206a
 ms.custom:
 - "248"
 - "4000003"
-ms.openlocfilehash: feedd3e1433f9c8232a6ab9577473e4dbed03b31
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 1e6ad5908b56f76fa41cf9fbdfad0f50c1a6f552
+ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714936"
+ms.lasthandoff: 05/29/2020
+ms.locfileid: "44417410"
 ---
-# <a name="move-a-phone-number-from-another-provider-to-microsoft"></a>Di chuyển số điện thoại từ một nhà cung cấp khác sang Microsoft
+# <a name="port-existing-numbers-to-teams"></a>Số cổng hiện có cho teams
 
-Bạn có cần di chuyển số điện thoại từ nhà cung cấp khác sang Microsoft không? Bạn có thể tìm thấy số điện thoại cho các quốc gia và khu vực khác nhau trong [quản lý số điện thoại cho tổ chức của bạn](https://docs.microsoft.com/SkypeForBusiness/what-are-calling-plans-in-office-365/manage-phone-numbers-for-your-organization/manage-phone-numbers-for-your-organization). Chọn quốc gia hoặc khu vực của bạn để tìm thông tin về chuyển số. 
-  
+Nếu bạn hiện có nhà cung cấp dịch vụ điện thoại hoặc hãng vận chuyển và đã có số điện thoại cho người dùng hoặc dịch vụ của bạn, bạn cần phải tạo "lệnh cổng" để truyền các số điện thoại đó cho Microsoft teams.
+
+- Xem [chuyển số điện thoại vào teams](https://docs.microsoft.com/microsoftteams/phone-number-calling-plans/transfer-phone-numbers-to-teams) để tìm hiểu cách hoàn thành cổng. 
+
+- Xem [quản lý số điện thoại cho tổ chức của bạn](https://docs.microsoft.com/microsoftteams/manage-phone-numbers-for-your-organization/manage-phone-numbers-for-your-organization) để hướng dẫn xung quanh quản lý số điện thoại. 
+
+Để biết thêm thông tin, hãy xem [tổng quan về thứ tự cổng](https://docs.microsoft.com/MicrosoftTeams/phone-number-calling-plans/port-order-overview).  

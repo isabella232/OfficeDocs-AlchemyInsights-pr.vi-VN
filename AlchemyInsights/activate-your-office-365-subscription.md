@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500028"
 - "4744"
-ms.openlocfilehash: 5d28c6d0c73804e71a01514fdc8c561b1ba1b176
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 10d57dea43a08dcdec334b7c8e37dce05e6460fc
+ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44062090"
+ms.lasthandoff: 05/29/2020
+ms.locfileid: "44418022"
 ---
 # <a name="activate-your-subscription"></a>Kích hoạt đăng ký của bạn
 
@@ -36,7 +36,7 @@ Nếu đăng ký của bạn hết hạn hoặc đã bị tắt bởi Microsoft,
 
 - Chọn đăng ký mà bạn muốn kích hoạt lại, sau đó nhấp vào **kích**hoạt lại. Nếu bạn không thấy **kích** hoạt lại như một hành động có sẵn, hãy [gọi hỗ trợ](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products) để đăng ký thuê bao của bạn.
 
-- Nhập chi tiết thanh toán của bạn. Bạn cũng có thể [Cập nhật thông tin thanh toán hiện tại của mình tại](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account) đây.
+- Nhập chi tiết thanh toán của bạn. Bạn cũng có thể [Cập nhật thông tin thanh toán hiện tại của mình tại](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods) đây.
 
 Để biết thêm thông tin, [hãy xem kích hoạt lại đăng ký của bạn](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
