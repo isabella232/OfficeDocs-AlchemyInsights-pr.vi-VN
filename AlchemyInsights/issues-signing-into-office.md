@@ -11,26 +11,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2574"
-ms.openlocfilehash: 695d449a876c22ff441da2367ef67aaea470eb66
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 11d44e7f6616f936723f7609e9219fd529ee68e6
+ms.sourcegitcommit: bf87d91fa60bd961bc6c887c4a4be7a3c7665b38
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763023"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "44474447"
 ---
-# <a name="issues-signing-in-to-office-apps"></a>Sự cố khi đăng nhập vào ứng dụng Office
+# <a name="issues-signing-into-microsoft-365-apps"></a>Sự cố đăng nhập vào Microsoft 365 Apps
 
-Để khắc phục sự cố đăng nhập với ứng dụng Office, hãy thử như sau:
+Để khắc phục sự cố đăng nhập với Microsoft 365 ứng dụng, hãy thử các tùy chọn sau trên máy bị ảnh hưởng:  
 
-- Xóa tất cả tài khoản công việc, ngoại trừ tài khoản bị ảnh hưởng, sử dụng cài đặt Windows > **truy cập công việc hoặc trường học**.
-- [Thông tin đăng nhập văn phòng rõ ràng](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) bằng cách sử dụng trình quản lý ủy nhiệm Windows.<br/>
-    **Lưu ý:** Đường dẫn đăng ký cho Office 2016 đã thay đổi để 16,0. (Ví dụ: \Software\Microsoft\Office\16.0\Common\Identity\)
-- Mở ứng dụng Office, chọn**đăng**xuất**tài khoản** >  **tệp** > . Sau đó đăng nhập bằng tài khoản người dùng có giấy phép hợp lệ. Để biết thông tin chi tiết, xem [tài khoản trong Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).
-- Đối với Mac, xem [không thể đăng nhập vào một Office 2016 cho Mac ứng dụng](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail).
-- Nếu lỗi xảy ra khi kết nối với Microsoft 365 bằng cách sử dụng Office 2013, cho phép xác thực hiện đại cho khách hàng Office.
+- Đối với Windows, hãy xem [đề xuất về giải quyết các vấn đề đăng nhập phổ biến](https://docs.microsoft.com/office365/troubleshoot/administration/disabling-adal-wam-not-recommended#recommendations-on-resolving-common-sign-in-issues)
+- Đối với Mac, xem [không thể đăng nhập vào một Office 2016 cho Mac ứng dụng](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail)
 
-Để biết thêm thông tin, hãy xem:
-- [Bạn không thể đăng nhập vào Microsoft 365, Azure hoặc InTune](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-365-azure-intune)
-- [Sự cố kết nối trong đăng nhập sau khi Cập Nhật Office 2016 xây dựng 16.0.7967 trên Windows 10](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016)
-- ["Xin lỗi, một tài khoản khác từ tổ chức của bạn đã đăng nhập vào máy tính này" trong Office](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in)
-- [Khắc phục sự cố đăng nhập với Office hiện đại xác thực khi bạn sử dụng ADFS](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-issue-with-modern-auth)
+**Lưu ý:** Vô hiệu hoá xác thực hiện đại (ADAL) hoặc quản lý tài khoản web (WAM) để khắc phục sự cố đăng nhập hoặc kích hoạt **không được khuyến nghị**. Nếu lỗi xảy ra khi kết nối với Microsoft 365 bằng cách sử dụng Office 2013, đảm bảo rằng bạn [kích hoạt xác thực hiện đại](https://docs.microsoft.com/office365/admin/security-and-compliance/enable-modern-authentication) cho Office client.
+
+Đối với hành động khắc phục sự cố cụ thể, xem:
+
+[Sự cố kết nối trong đăng nhập sau khi Cập Nhật Office 2016 xây dựng 16.0.7967 trên Windows 10](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016)  
+
+[Bạn không thể đăng nhập vào tài khoản tổ chức của bạn như Office 365, Azure hoặc InTune](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-365-azure-intune)
+
+[Cách khắc phục các ứng dụng không có trình duyệt không thể đăng nhập vào Office 365, Azure hoặc InTune](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1?ui=en-US&rs=en-US&ad=US)
+
+[Liên tục được nhắc nhập uỷ nhiệm trong Office](https://docs.microsoft.com/office365/troubleshoot/authentication/access-denied-when-connect-to-office-365)
