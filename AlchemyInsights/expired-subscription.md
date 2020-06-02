@@ -13,12 +13,12 @@ ms.custom:
 - "456"
 - "1500020"
 ms.assetid: 713d37dd-a34c-469f-b96b-99d63e793fe9
-ms.openlocfilehash: a55889770340946adf88916b2cf2ab44cf4959ef
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 22c90680fbd6b3959f23512d12d84180c142ab90
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44063495"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44505601"
 ---
 # <a name="expired-subscription"></a>Đăng ký hết hạn
 
@@ -34,7 +34,7 @@ Nếu bạn không nhìn thấy **kích** hoạt lại dưới dạng hành đ�
 
 3. Xác nhận chi tiết thanh toán của bạn. Bạn có thể cập nhật thông tin thanh toán hiện tại của mình tại đây. Khi bạn đã hoàn tất việc nhập phương thức thanh toán của mình, hãy chọn **kích**hoạt lại.
 
-Để tìm hiểu thêm, hãy xem kích hoạt lại [đăng ký của bạn](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
+Để tìm hiểu thêm, hãy xem kích hoạt lại [đăng ký của bạn](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 **Thực hiện mua mới**
   
@@ -46,4 +46,4 @@ Nếu bạn không nhìn thấy **kích** hoạt lại dưới dạng hành đ�
 
 4. Làm theo các bước còn lại để hoàn tất việc kiểm tra.
 
-Để tìm hiểu thêm, hãy xem [mua gói đăng ký khác](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription).
+Để tìm hiểu thêm, hãy xem [mua gói đăng ký khác](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription).

@@ -12,12 +12,12 @@ ms.custom:
 - "530"
 - "1400007"
 ms.assetid: 75fdfd6d-cae7-40fd-bc50-8674bcd3a771
-ms.openlocfilehash: a9cb53a5ae33e075c00f5405873dd3137e89d75b
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 6950efae6aef72a3c8198fee97596f640f5968c2
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44061729"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506249"
 ---
 # <a name="buy-additional-licenses"></a>Mua giấy phép bổ sung
 
@@ -25,15 +25,15 @@ ms.locfileid: "44061729"
 
 2. Tìm đăng ký mà bạn muốn thêm giấy phép vào, sau đó chọn **thêm/loại bỏ giấy phép**.
 
-    [Điều gì nếu tôi không thấy liên kết Thêm/xóa?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses#what-if-i-dont-see-the-addremove-licenses-link)
+    [Điều gì nếu tôi không thấy liên kết Thêm/xóa?](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
 
 3. Trong **tổng giấy phép** hộp, nhập tổng số giấy phép mà bạn cần cho đăng ký này, và sau đó chọn **gửi thay đổi**. Ví dụ: nếu bạn có giấy phép 100 và bạn cần thêm 5 thêm, hãy nhập 105.
 
     > [!NOTE]
     > Nếu bạn trả tiền cho đăng ký của bạn bằng thẻ tín dụng hoặc tài khoản ngân hàng, bất kỳ giấy phép mới mà bạn mua có sẵn ngay sau khi bạn nhận được xác nhận đơn đặt hàng. Nếu bạn thanh toán bằng hóa đơn, bạn có thể phải đợi kiểm tra tín dụng trước khi có giấy phép mới để sử dụng.
 
-Để tìm hiểu thêm, hãy xem [mua giấy phép cho Microsoft 365 của bạn cho đăng ký kinh doanh](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).  
+Để tìm hiểu thêm, hãy xem [mua giấy phép cho Microsoft 365 của bạn cho đăng ký kinh doanh](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).  
 
 **Tài nguyên bổ sung**
 
-- [Gán giấy phép cho người dùng trong Microsoft 365 cho doanh nghiệp](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
+- [Gán giấy phép cho người dùng trong Microsoft 365 cho doanh nghiệp](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)

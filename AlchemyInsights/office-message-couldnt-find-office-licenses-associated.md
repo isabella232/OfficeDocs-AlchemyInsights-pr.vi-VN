@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001426"
 - "3421"
-ms.openlocfilehash: ead72a182c65999258ac628b92d14a958c849bc4
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: 28b8c977979c9174fc5fabd7a5c7376bb2109c03
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43183324"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44505113"
 ---
 # <a name="office-apps-message---couldnt-find-office-licenses-associated"></a>Thông báo ứng dụng Office-không thể tìm thấy giấy phép Office liên quan
 
 Để khắc phục lỗi này, hãy thử như sau:
 
-- Loại bỏ và [gán giấy phép Office](https://docs.microsoft.com/office365/admin/manage/assign-licenses-to-users?view=o365-worldwide) cho người dùng bị ảnh hưởng.
+- Loại bỏ và [gán giấy phép Office](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users) cho người dùng bị ảnh hưởng.
 
 - Mở ứng dụng Office và [đăng](https://support.office.com/article/sign-out-of-office-5a20dc11-47e9-4b6f-945d-478cb6d92071) xuất khỏi bất kỳ tài khoản người dùng hiện có nào.
 
@@ -44,4 +44,4 @@ Nếu sự cố vẫn tiếp diễn, hãy thử các bước sau:
 
 [Lỗi sản phẩm và kích hoạt không được cấp phép trong Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA)
 
-[Văn phòng 365 URL và dải địa chỉ IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
+[Microsoft 365 URL và dải địa chỉ IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)

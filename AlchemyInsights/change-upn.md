@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f61d1335-2b63-4eaf-91f6-3a773c0fd610
-ms.openlocfilehash: 4ea3c9e8cd2e90aa8dc5a3ec00b19245627398c3
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 1bc503732b8aba2b509dc48e97434c2d4bc55c65
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706478"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506033"
 ---
 # <a name="change-a-users-email-address"></a>Thay đổi địa chỉ email của người dùng
 
 Thay đổi địa chỉ email của một người thật dễ dàng! Chỉ cần làm theo các bước sau:
   
-1. Trong Trung tâm quản trị Microsoft 365, truy cập trang [người dùng](https://go.microsoft.com/fwlink/p/?linkid=834822) **hoặc chọn** \> người dùng **đang hoạt động**.
+1. Trong Trung tâm quản trị Microsoft 365, truy cập trang [người dùng](https://go.microsoft.com/fwlink/p/?linkid=834822) **hoặc chọn người dùng** \> **đang hoạt động**.
     
 2. Chọn người dùng.
     
@@ -38,6 +38,6 @@ Thay đổi địa chỉ email của một người thật dễ dàng! Chỉ c�
     
 6. Chọn **lưu**, sau đó **đóng**, và bạn đã hoàn tất!
     
-Không phải là dễ dàng? Để biết thêm chi tiết và các bước với ảnh chụp màn hình, hãy xem bài viết này: [thay đổi tên người dùng và địa chỉ email](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address)
+Không phải là dễ dàng? Để biết thêm chi tiết và các bước với ảnh chụp màn hình, hãy xem bài viết này: [thay đổi tên người dùng và địa chỉ email](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address)
   
 

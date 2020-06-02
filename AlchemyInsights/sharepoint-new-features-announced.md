@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3e0c8c7f-261a-41d1-9ca3-be4a1d4ebd9a
-ms.openlocfilehash: 3ad14c42bdca8984c00d44c222dd242f0e00a9ca
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 4bebb7c88308772fe93d1b8ecd16954871d03f8c
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767703"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44505437"
 ---
 # <a name="sharepoint-new-features-announced"></a>SharePoint tính năng mới công bố
 
@@ -21,4 +21,4 @@ Tại hội nghị Ignite 2018, Microsoft đã công bố những cải tiến m
   
 Để biết thêm thông tin về các tính năng này, hãy xem blog đăng [cải tiến mới trong SharePoint &amp; Microsoft 365 cung cấp điện và đơn giản cho cộng tác nội dung.](https://go.microsoft.com/fwlink/?linkid=2026502)
   
-Tổ chức của bạn có thể tham gia chương trình phát hành nhắm mục tiêu để có quyền truy cập sớm vào các tính năng mới. Xem [thiết lập tùy chọn phát hành tiêu chuẩn hoặc nhắm mục tiêu trong Microsoft 365](https://docs.microsoft.com/office365/admin/manage/release-options-in-office-365).
+Tổ chức của bạn có thể tham gia chương trình phát hành nhắm mục tiêu để có quyền truy cập sớm vào các tính năng mới. Xem [thiết lập tùy chọn phát hành tiêu chuẩn hoặc nhắm mục tiêu trong Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/manage/release-options-in-office-365).
