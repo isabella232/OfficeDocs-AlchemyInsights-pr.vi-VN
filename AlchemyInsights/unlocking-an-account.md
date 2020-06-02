@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002449"
 - "4748"
-ms.openlocfilehash: 3d32123f757a727e1f6ef04270152e276cf803fa
-ms.sourcegitcommit: cead49883943b0eb413f8cf4be617a32b5099cb6
+ms.openlocfilehash: 11321789ee6bd7568fda0d530b9b60eb382c83b9
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/24/2020
-ms.locfileid: "43799073"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508614"
 ---
 # <a name="unlocking-an-account"></a>Mở khóa tài khoản
 
@@ -40,4 +40,4 @@ Là quản trị viên, nếu một trong những người dùng của bạn b�
 
 Đối với nhiều kịch bản đặt lại mật khẩu, bao gồm đặt lại mật khẩu tự dịch vụ, xem [đặt lại Microsoft 365 cho nhiều lần để tính phí-Online-thanh toán-instrumentsbusiness mật khẩu](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords?view=o365-worldwide).
 
-Dịch vụ ngăn người dùng gửi email sau khi phát hiện bằng chứng về tài khoản bị xâm phạm và/hoặc thư rác bên ngoài. Để đề ra, hãy làm theo các bước trong [trả lời tài khoản email bị xâm phạm trong Microsoft 365](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account) cho người dùng.
+Dịch vụ ngăn người dùng gửi email sau khi phát hiện bằng chứng về tài khoản bị xâm phạm và/hoặc thư rác bên ngoài. Để đề ra, hãy làm theo các bước trong [trả lời tài khoản email bị xâm phạm trong Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account) cho người dùng.

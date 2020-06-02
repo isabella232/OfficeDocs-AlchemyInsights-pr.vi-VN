@@ -12,12 +12,12 @@ ms.assetid: a371aee9-9c76-4951-89c5-e9e48811eded
 ms.custom:
 - "904"
 - "2000023"
-ms.openlocfilehash: 623222ee0cfe9cd5798e341149b439e887a998e4
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: bee23ad0d8d6324937b2b0dd7bda08410ddbfa25
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "43759174"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509262"
 ---
 # <a name="how-to-install-office"></a>Cách cài đặt Office
 
@@ -25,7 +25,7 @@ ms.locfileid: "43759174"
   
 *Lưu ý: [văn phòng nhà và kinh doanh](https://products.office.com/home-and-business) là một [văn phòng cho](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) sản phẩm nhà và không phải là một phần của một thuê bao kinh doanh. Để biết hướng dẫn cụ thể về Visio hoặc dự án, xem [cài đặt Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) hoặc [cài đặt dự án](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281)*.
 
-Tạo tài khoản người dùng và thêm tên miền của bạn. Đảm bảo rằng người dùng có [giấy phép được chỉ định](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users).
+Tạo tài khoản người dùng và thêm tên miền của bạn. Đảm bảo rằng người dùng có [giấy phép được chỉ định](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).
 
 Có mỗi người dùng:
 

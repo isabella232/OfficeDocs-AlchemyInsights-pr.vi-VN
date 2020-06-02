@@ -10,12 +10,12 @@ ms.custom:
 - "917"
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
-ms.openlocfilehash: 6e952513679c9ac66f8de2b43d6d243cf17ff789
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
+ms.openlocfilehash: c781e9fd492ff97bc80667956e6609b3d40b28b4
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010636"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508650"
 ---
 # <a name="installing-office-on-a-terminal-server"></a>Cài đặt Office trên máy chủ đầu cuối
 
@@ -30,11 +30,11 @@ Nếu bạn muốn cài đặt Microsoft 365 Apps dành cho doanh nghiệp trên
 > [!TIP]
 > Bạn cũng có thể tải xuống và chạy [Microsoft support và Recovery Assistant](https://aka.ms/SaRA_OfficeSCA_M365Portal) để cài đặt Microsoft 365 Apps dành cho doanh nghiệp ở chế độ kích hoạt máy tính dùng chung.
   
-1. Kiểm tra những gì Microsoft 365 đăng ký bạn có. [Tìm hiểu cách](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
+1. Kiểm tra những gì Microsoft 365 đăng ký bạn có. [Tìm hiểu cách](https://docs.microsoft.com/microsoft-365/admin/admin-overview/what-subscription-do-i-have)
 
-2. Nếu cần, chuyển sang đăng ký Microsoft 365 khác. [Tìm hiểu cách](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)
+2. Nếu cần, chuyển sang đăng ký Microsoft 365 khác. [Tìm hiểu cách](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)
 
-3. Nếu Office đã được cài đặt trên máy chủ RDS sử dụng bất kỳ đăng ký Microsoft 365 khác, dỡ cài đặt. Ví dụ: bằng cách đi tới Pa \> -nen điều khiển gỡ cài đặt chương trình. Dỡ cài đặt bằng cách sử dụng [Microsoft support và phục hồi](https://aka.ms/SARA-OfficeUninstall-Alchemy) hỗ trợ nếu bạn đang chạy vào vấn đề.
+3. Nếu Office đã được cài đặt trên máy chủ RDS sử dụng bất kỳ đăng ký Microsoft 365 khác, dỡ cài đặt. Ví dụ: bằng cách đi tới Pa-nen điều khiển \> gỡ cài đặt chương trình. Dỡ cài đặt bằng cách sử dụng [Microsoft support và phục hồi](https://aka.ms/SARA-OfficeUninstall-Alchemy) hỗ trợ nếu bạn đang chạy vào vấn đề.
 
 4. Trên máy chủ RDS, đăng nhập vào Trung tâm quản trị Microsoft 365 với tài khoản quản trị viên của bạn và [cài đặt microsoft 365 Apps dành cho doanh nghiệp](https://portal.office.com/OLS/MySoftware.aspx).
 

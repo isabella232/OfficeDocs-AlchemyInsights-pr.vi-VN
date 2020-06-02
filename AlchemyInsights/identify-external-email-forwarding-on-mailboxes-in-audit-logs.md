@@ -12,12 +12,12 @@ ms.custom:
 - "1369"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 156fd0044cdc42230ace0a5db16f49af572bb6fa
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 592eb92e4b0fe0f9da2fa20bb93ffa4fbbb76662
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716482"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508974"
 ---
 # <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Xác định khi chuyển tiếp email bên ngoài được cấu hình trên hộp thư
 
@@ -25,7 +25,7 @@ Khi người dùng Microsoft 365 cấu hình chuyển tiếp email bên ngoài v
 
 1. Đăng nhập vào [Trung tâm tuân thủ & bảo mật của Microsoft 365](https://protection.office.com/).
 
-2. Đi tới trang**Tìm kiếm Nhật ký kiểm tra** **Tìm kiếm** > .
+2. Đi tới trang **Search**  >  **Tìm kiếm Nhật ký kiểm tra** tìm kiếm.
 
 3. Chọn phạm vi ngày trong ngày **bắt đầu** và **ngày kết thúc** trường. Bạn không cần phải chỉ định tên người dùng. Kiểm tra trường **hoạt động** được đặt để **Hiển thị kết quả cho tất cả các hoạt động**.
 
@@ -39,4 +39,4 @@ Trong kết quả, bấm **lọc kết quả** và loại **bộ hộp thư** tr
 
 - **Userid**: người dùng đã định cấu hình chuyển tiếp email trên hộp thư trong trường **ObjectID** .
 
-Để biết thêm thông tin, xem [xác định người thiết lập chuyển tiếp email cho một hộp thư](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-who-set-up-email-forwarding-for-a-mailbox).
+Để biết thêm thông tin, xem [xác định người thiết lập chuyển tiếp email cho một hộp thư](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-who-set-up-email-forwarding-for-a-mailbox).

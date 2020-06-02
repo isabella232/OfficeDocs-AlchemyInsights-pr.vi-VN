@@ -12,12 +12,12 @@ ms.custom:
 - "531"
 - "1400007"
 ms.assetid: c45da4c9-ba12-4ceb-8eda-94331a6a97e4
-ms.openlocfilehash: 4fc934fcf9c1af0cd68aa20d5dc31d3d82264965
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: eae0ffdadf9f43b70c35992a03fce764b9299300
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44063567"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509226"
 ---
 # <a name="how-to-make-a-microsoft-365-purchase"></a>Làm thế nào để thực hiện mua Microsoft 365
 
@@ -27,7 +27,7 @@ Mua hàng trong Microsoft 365 có thể được thực hiện trong Trung tâm 
 
 - Để mua giấy phép bổ sung, hãy chuyển đến trang **thanh toán** \> **[sản phẩm của bạn](https://go.microsoft.com/fwlink/p/?linkid=842054)** . Chọn đăng ký mà bạn muốn thêm giấy phép vào, sau đó chọn **thêm/loại bỏ giấy phép**.
   
-Để tìm hiểu thêm, hãy xem [mua giấy phép cho Microsoft 365 của bạn cho đăng ký kinh doanh](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).
+Để tìm hiểu thêm, hãy xem [mua giấy phép cho Microsoft 365 của bạn cho đăng ký kinh doanh](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
 
 **Troubleshooting**
 
@@ -35,6 +35,6 @@ Nếu bạn gặp sự cố khi tải trang, hãy thử mở trang web trong m�
 
 **Tài nguyên bổ sung**
   
-- [Gán giấy phép cho người dùng trong Microsoft 365 cho doanh nghiệp](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
+- [Gán giấy phép cho người dùng trong Microsoft 365 cho doanh nghiệp](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
 
-- [Hủy bỏ Microsoft 365 cho doanh nghiệp](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
+- [Hủy bỏ Microsoft 365 cho doanh nghiệp](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)

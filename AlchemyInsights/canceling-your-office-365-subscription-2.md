@@ -13,12 +13,12 @@ ms.custom:
 - "87"
 - "1400001"
 ms.assetid: ec57734d-073d-4aee-8c7c-f4aa9e7130ae
-ms.openlocfilehash: 77b24f9bf3777c2f2085a72f089017201cd8f928
-ms.sourcegitcommit: cc7b6f00275adaab90f702d48e65500434f11e83
+ms.openlocfilehash: 746cfe6e929a0584a10569bfb0ee8d7e7df0a857
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/06/2020
-ms.locfileid: "44086802"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508218"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>Hủy đăng ký Microsoft 365 của bạn?
 
@@ -30,4 +30,4 @@ Dựa trên dữ liệu tổ chức của bạn, chúng tôi tin rằng tất c�
 
 **Lưu ý**: nếu bạn không thấy tùy chọn để hủy bỏ, hãy nhấp vào đăng ký để xem chi tiết và bạn sẽ thấy tùy chọn **hủy đăng ký** trong **cài đặt & hành động**. 
 
-Để tìm hiểu thêm, hãy xem [hủy đăng ký của bạn](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+Để tìm hiểu thêm, hãy xem [hủy đăng ký của bạn](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).

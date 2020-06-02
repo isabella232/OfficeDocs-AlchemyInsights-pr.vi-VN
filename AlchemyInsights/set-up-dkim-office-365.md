@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1388
 ms.assetid: ''
-ms.openlocfilehash: d23a816d4eef065f800eaee60829d57dc1e7177f
-ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
+ms.openlocfilehash: 0acaed476dbd06bc933bf466f9bf6116413a44bb
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43645694"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509406"
 ---
 # <a name="setup-dkim"></a>Thiết lập DKIM
 
-Hướng dẫn đầy đủ để cấu hình DKIM cho tuỳ chỉnh miền trong Microsoft 365 đang [ở đây](https://docs.microsoft.com/office365/SecurityCompliance/use-dkim-to-validate-outbound-email#what-you-need-to-do-to-manually-set-up-dkim-in-office-365).
+Hướng dẫn đầy đủ để cấu hình DKIM cho tuỳ chỉnh miền trong Microsoft 365 đang [ở đây](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email#steps-you-need-to-do-to-manually-set-up-dkim).
 
 1. Đối với **mỗi** miền tùy chỉnh, bạn cần tạo **hai** bản ghi DKIM CNAME tại dịch vụ lưu trữ DNS của miền (thông thường là công ty đăng ký tên miền). Ví dụ, contoso.com và fourthcoffee.com yêu cầu bốn bản ghi DKIM CNAME: hai cho contoso.com và hai cho fourthcoffee.com.
 
@@ -36,7 +36,7 @@ Hướng dẫn đầy đủ để cấu hình DKIM cho tuỳ chỉnh miền tron
 
      **TTL**: 3600
 
-   \<DomainGUID\> là văn bản bên trái `.mail.protection.outlook.com` trong bản ghi MX tùy chỉnh cho miền tùy chỉnh (ví dụ: `contoso-com` đối với miền contoso.com). \<InitialDomain\> là tên miền bạn sử dụng khi bạn đăng ký Microsoft 365 (ví dụ: contoso.onmicrosoft.com).
+   \<DomainGUID\>là văn bản bên trái `.mail.protection.outlook.com` trong bản ghi MX tùy chỉnh cho miền tùy biến (ví dụ: `contoso-com` đối với miền contoso.com). \<InitialDomain\>là tên miền bạn đã sử dụng khi đăng ký Microsoft 365 (ví dụ: contoso.onmicrosoft.com).
 
 2. Sau khi bạn đã tạo bản ghi CNAME cho miền tùy chỉnh của mình, hãy hoàn tất các hướng dẫn sau:
 
@@ -46,6 +46,6 @@ Hướng dẫn đầy đủ để cấu hình DKIM cho tuỳ chỉnh miền tron
 
    C. Ở phía dưới bên trái điều hướng, mở rộng **quản trị** và chọn **Exchange**.
 
-   D. Đi đến **bảo vệ** > **DKIM**.
+   D. Đi đến **bảo vệ**  >  **DKIM**.
 
    E. Chọn miền và sau đó chọn **bật** để **ký thư cho miền này bằng chữ ký DKIM**. Lặp lại bước này cho mỗi miền tùy chỉnh.

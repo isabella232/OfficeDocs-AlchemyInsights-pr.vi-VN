@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: df781750-3d27-4077-ab0f-b9ea764ad5fa
-ms.openlocfilehash: 271d067fc44da56e0de60634c31cfbdff24b6020
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: f49272fb05e3d251a55851d0f7e8ac32111899e6
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767811"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509370"
 ---
 # <a name="setting-up-your-o365-business-essentials-subscription"></a>Thiết lập đăng ký O365 Business Essentials của bạn
 
@@ -23,11 +23,11 @@ Tạo tài khoản Microsoft 365 và thêm tên miền của bạn
     
 - Đi tới [Trung tâm quản trị Microsoft 365](https://login.partner.microsoftonline.cn/).
     
-- Để khởi động thuật sĩ, chọn **đi tới thiết lập**. Để tìm hiểu thêm, hãy xem [Thêm miền vào Microsoft 365](https://docs.microsoft.com/office365/admin/setup/add-domain).
+- Để khởi động thuật sĩ, chọn **đi tới thiết lập**. Để tìm hiểu thêm, hãy xem [Thêm miền vào Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain).
     
 Nhập email
   
-- Di chuyển email và danh bạ hiện có của bạn từ các hệ thống email khác đến hộp thư Microsoft 365 của bạn để bạn có thể xem tất cả ở một nơi. Đối với các tùy chọn di chuyển, [di chuyển email và danh bạ tới Microsoft 365](https://docs.microsoft.com/office365/admin/setup/migrate-email-and-contacts-admin).
+- Di chuyển email và danh bạ hiện có của bạn từ các hệ thống email khác đến hộp thư Microsoft 365 của bạn để bạn có thể xem tất cả ở một nơi. Đối với các tùy chọn di chuyển, [di chuyển email và danh bạ tới Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/setup/migrate-email-and-contacts-admin).
     
 - Kết nối tài khoản email
     
@@ -41,6 +41,6 @@ Lưu trữ tệp trực tuyến
   
 - Để tìm hiểu vị trí lưu trữ nào tốt nhất cho doanh nghiệp của bạn, hãy xem [nơi bạn có thể lưu trữ tệp trong Microsoft 365](https://support.office.com/article/c7c20284-bc94-47f4-9728-d28e9daf0790.aspx). Mọi người đều nhận được một vị trí lưu trữ đám mây **OneDrive** tự động khi bạn tạo tài khoản Microsoft 365 cho họ. Với OneDrive, bạn có thể truy cập các tệp trên máy tính, điện thoại và máy tính bảng của mình. 
     
-Các bước chi tiết cho việc thiết lập có thể được tìm thấy trong [bài viết này](https://docs.microsoft.com/office365/admin/setup/setup).
+Các bước chi tiết cho việc thiết lập có thể được tìm thấy trong [bài viết này](https://docs.microsoft.com/microsoft-365/admin/setup/setup).
   
 

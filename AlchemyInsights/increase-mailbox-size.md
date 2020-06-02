@@ -12,12 +12,12 @@ ms.custom:
 - "556"
 - "3500006"
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: 1da70e15c3d777a316ddb79c4dfe9739a8285923
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: d1c7e79b0ba00db87ac0fc3cecd54a6b12721325
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44064251"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508758"
 ---
 # <a name="switch-subscriptions-to-increase-mailbox-size"></a>Chuyển đổi đăng ký để tăng kích thước hộp thư
 
@@ -35,6 +35,6 @@ Nếu kích thước hộp thư là 50 GB, bạn có thể tăng lên 100 GB b�
 
 5. Nhập số giấy phép bạn cần, chọn xem phải thanh toán mỗi tháng hoặc cả năm, sau đó chọn **thanh toán**.
 
-Để biết thêm chi tiết, xem [nâng cấp lên một kế hoạch khác](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).
+Để biết thêm chi tiết, xem [nâng cấp lên một kế hoạch khác](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
 
-Nếu bạn có [đăng ký hỗ trợ lưu trữ tại chỗ](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description), bạn cũng có thể nhận được bộ nhớ email bổ sung bằng cách kích hoạt hộp thư lưu trữ. Hộp thư lưu trữ cung cấp cho bạn dung lượng lưu trữ bổ sung và cho phép bạn di chuyển, sao chép và tìm kiếm thư trong cả hộp thư chính và lưu trữ. Để biết các bước về cách kích hoạt hộp thư lưu trữ, xem [kích hoạt hộp thư lưu trữ](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes).
+Nếu bạn có [đăng ký hỗ trợ lưu trữ tại chỗ](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description), bạn cũng có thể nhận được bộ nhớ email bổ sung bằng cách kích hoạt hộp thư lưu trữ. Hộp thư lưu trữ cung cấp cho bạn dung lượng lưu trữ bổ sung và cho phép bạn di chuyển, sao chép và tìm kiếm thư trong cả hộp thư chính và lưu trữ. Để biết các bước về cách kích hoạt hộp thư lưu trữ, xem [kích hoạt hộp thư lưu trữ](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes).

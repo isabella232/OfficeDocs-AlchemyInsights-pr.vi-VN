@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1764"
 - "9000201"
-ms.openlocfilehash: ec9820f693cd40a6f724e5c244fb1b028cde1eea
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: f4d79613a48b789b601124ce8db57479e3cd62cc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43766011"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508686"
 ---
 # <a name="install-visio"></a>Cài đặt Visio
 
@@ -25,7 +25,7 @@ Visio được bán dưới dạng ứng dụng độc lập vì vậy nếu b�
 
 **Lưu ý**: Visio Online Plan 1 không bao gồm phiên bản Visio trên máy tính để bàn, vì vậy bạn không thể cài đặt.
 
-Nếu bạn có đăng ký Visio Online Plan 2, bạn phải [gán giấy phép](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) cho người dùng hoặc họ sẽ không có tùy chọn cài đặt Visio từ số **lượt cài đặt của tôi** trong [cổng thông tin tài khoản của tôi](https://portal.office.com/account#installs). 
+Nếu bạn có đăng ký Visio Online Plan 2, bạn phải [gán giấy phép](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) cho người dùng hoặc họ sẽ không có tùy chọn cài đặt Visio từ số **lượt cài đặt của tôi** trong [cổng thông tin tài khoản của tôi](https://portal.office.com/account#installs). 
 
 Phiên bản giấy phép không có khối lượng của Visio Standard hoặc Visio Professional được liên kết với tài khoản Microsoft và không thể quản lý trong Trung tâm quản trị. Để cài đặt các phiên bản này, người dùng phải đăng nhập vào [Account.Microsoft.com](https://account.microsoft.com) bằng tài khoản Microsoft liên kết với phiên bản Visio này.
 
