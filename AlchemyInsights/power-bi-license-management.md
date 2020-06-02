@@ -12,10 +12,10 @@ ms.custom:
 - "9002564"
 - "4969"
 ms.openlocfilehash: 5e91cb56b4a4459bf640b2465019ad144052322a
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/13/2020
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "44062955"
 ---
 # <a name="power-bi-license-management"></a>Quản lý giấy phép Power BI

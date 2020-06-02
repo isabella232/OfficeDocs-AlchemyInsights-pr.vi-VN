@@ -12,10 +12,10 @@ ms.custom:
 - "9002403"
 - "4676"
 ms.openlocfilehash: 050ed651a77b8cb68665de1c162f4dab385fa40c
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/13/2020
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "43761800"
 ---
 # <a name="new-to-teams"></a>Mới cho teams?

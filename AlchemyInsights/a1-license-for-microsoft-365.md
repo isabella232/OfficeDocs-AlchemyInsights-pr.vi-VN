@@ -12,10 +12,10 @@ ms.custom:
 - "9002568"
 - "4981"
 ms.openlocfilehash: 93a208d749b4bcf44fe75b3df45d3440419c5f07
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/13/2020
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "44062198"
 ---
 # <a name="a1-license-for-office-365"></a>A1 giấy phép cho văn phòng 365

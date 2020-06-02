@@ -12,10 +12,10 @@ ms.custom:
 - "9002287"
 - "4420"
 ms.openlocfilehash: 45f7c4c14287125fd928f13c08d459dd204409cc
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/13/2020
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "43784281"
 ---
 # <a name="cancel-microsoft-subscription"></a>Hủy gói đăng ký Microsoft

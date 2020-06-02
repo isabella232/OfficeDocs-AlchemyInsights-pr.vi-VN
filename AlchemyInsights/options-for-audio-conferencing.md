@@ -12,10 +12,10 @@ ms.custom:
 - "9002334"
 - "4542"
 ms.openlocfilehash: 7686c134052dfcc4e69260d965e035c5f1b09717
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/13/2020
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "44064035"
 ---
 # <a name="options-for-audio-conferencing"></a>Tùy chọn cho hội nghị âm thanh

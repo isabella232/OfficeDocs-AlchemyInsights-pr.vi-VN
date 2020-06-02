@@ -12,10 +12,10 @@ ms.custom:
 - "9002453"
 - "4763"
 ms.openlocfilehash: 65b56ad1fbcce98fac42becc9fc4f060c17e9e5f
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/13/2020
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "44063315"
 ---
 # <a name="subscription-no-longer-active"></a>Đăng ký không còn hoạt động

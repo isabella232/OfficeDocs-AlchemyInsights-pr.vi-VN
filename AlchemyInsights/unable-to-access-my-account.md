@@ -12,10 +12,10 @@ ms.custom:
 - "9002449"
 - "4748"
 ms.openlocfilehash: f463e6da68f728f02bedc5e9613857d9f53f0cbd
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/13/2020
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "44064215"
 ---
 # <a name="unable-to-access-my-account"></a>Không thể truy cập tài khoản của tôi

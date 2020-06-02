@@ -13,12 +13,12 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: bac2f919f65d318fd669f97690a4543717ffc884
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 054203a196fc9ea7157a3eb2c99efc6f98a191aa
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43687784"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44502557"
 ---
 # <a name="microsoft-365-import-service"></a>Microsoft 365 dịch vụ nhập khẩu
 
@@ -32,8 +32,8 @@ Dịch vụ Microsoft 365 nhập cho phép bạn nhập hàng loạt PST nhiều
 
 3. Trên trang **nhập** , bấm vào **công việc nhập mới**.
 
-4. Để hoàn tất các bước trong thuật sĩ, hãy làm theo các [hướng dẫn](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files)từng bước này.
+4. Để hoàn tất các bước trong thuật sĩ, hãy làm theo các [hướng dẫn](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email)từng bước này.
 
-**Quan trọng**: để truy cập vào trang **nhập khẩu** trong trung tâm bảo mật & tuân thủ, bạn đã được gán [các quyền thích hợp](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files#before-you-begin).
+**Quan trọng**: để truy cập vào trang **nhập khẩu** trong trung tâm bảo mật & tuân thủ, bạn đã được gán [các quyền thích hợp](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email).
 
 Nếu bạn chỉ muốn nhập một PST vào hộp thư của bạn, hãy xem [bài viết này](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac).

@@ -12,10 +12,10 @@ ms.custom:
 - "1500034"
 - "4895"
 ms.openlocfilehash: ee5f1ea743de64d5c367753a1ab1b5e058c13076
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/13/2020
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "44061874"
 ---
 # <a name="apply-for-tax-exempt-status"></a>Áp dụng cho tình trạng miễn thuế

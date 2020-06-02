@@ -11,10 +11,10 @@ ms.assetid:
 - "1500009"
 - "4495"
 ms.openlocfilehash: 8d1a8cf65ccbf4cb6d1549ec58593bccc31feb01
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/13/2020
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "44062738"
 ---
 # <a name="microsoft-qualified-academic-institution-and-remote-teaching-and-learning"></a>Tổ chức giáo dục chuyên môn của Microsoft và giảng dạy và học tập từ xa

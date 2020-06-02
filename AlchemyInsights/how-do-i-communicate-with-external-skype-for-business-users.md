@@ -12,18 +12,18 @@ ms.custom:
 - "4000008"
 - "2646"
 - "1432"
-ms.openlocfilehash: 46da02a7a2ae1be92698f376be404a76bd4f23e6
-ms.sourcegitcommit: d87a6ac6ee77375d1d750100359b4dc7b2871691
+ms.openlocfilehash: 3bdd3fc028e0cd3cd6ec5692e11c303dcd7ace6b
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 02/25/2020
-ms.locfileid: "42265110"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44496297"
 ---
 # <a name="allow-external-communications-with-skype-for-business"></a>Cho phép liên lạc bên ngoài với Skype for Business 
 
 Bạn có muốn cho phép người dùng Skype for Business của bạn liên hệ với người dùng bên ngoài tổ chức của bạn không? Xem [cho phép người dùng liên hệ với Skype bên ngoài cho người dùng doanh nghiệp](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/allow-users-to-contact-external-skype-for-business-users).
 
-Bản ghi DNS của bạn phải được thiết lập chính xác cho các thông tin bên ngoài hoạt động đúng. Kiểm tra tại [đây](https://docs.microsoft.com/office365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions?view=o365-worldwide) để xem liệu chúng tôi có hướng dẫn cụ thể về cách thiết lập bản ghi DNS với nhà cung cấp của bạn hay không. 
+Bản ghi DNS của bạn phải được thiết lập chính xác cho các thông tin bên ngoài hoạt động đúng. Kiểm tra tại [đây](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions) để xem liệu chúng tôi có hướng dẫn cụ thể về cách thiết lập bản ghi DNS với nhà cung cấp của bạn hay không. 
 
 Bạn chỉ muốn cho phép người dùng Skype for Business của bạn liên hệ với người dùng Skype? Xem:
 

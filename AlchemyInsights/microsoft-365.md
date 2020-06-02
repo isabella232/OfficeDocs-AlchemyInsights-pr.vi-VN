@@ -12,10 +12,10 @@ ms.custom:
 - "9002644"
 - "5085"
 ms.openlocfilehash: ba889da8aca8a8e01035a3824fe71d75a562f261
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/13/2020
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "44062342"
 ---
 # <a name="microsoft-365"></a>Microsoft 365
