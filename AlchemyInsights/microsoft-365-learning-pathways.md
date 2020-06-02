@@ -12,18 +12,18 @@ ms.custom:
 - "9002632"
 - "5054"
 ms.openlocfilehash: d3a3e6c89f326e6348ff9e46710975ee2a373056
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/13/2020
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "44062378"
 ---
-# <a name="microsoft-365-learning-pathways"></a><span data-ttu-id="58617-102">Microsoft 365 con đường học tập</span><span class="sxs-lookup"><span data-stu-id="58617-102">Microsoft 365 learning pathways</span></span>
+# <a name="microsoft-365-learning-pathways"></a><span data-ttu-id="05e0c-102">Microsoft 365 con đường học tập</span><span class="sxs-lookup"><span data-stu-id="05e0c-102">Microsoft 365 learning pathways</span></span>
 
-<span data-ttu-id="58617-103">[Microsoft 365 con đường học tập](https://docs.microsoft.com/office365/customlearning/) là một dự án mã nguồn mở được thiết kế để tăng sử dụng và nhận con nuôi của Microsoft 365 dịch vụ trong tổ chức của bạn.</span><span class="sxs-lookup"><span data-stu-id="58617-103">[Microsoft 365 learning pathways](https://docs.microsoft.com/office365/customlearning/) is an open source project designed to increase usage and adoption of Microsoft 365 services in your organization.</span></span>
+<span data-ttu-id="05e0c-103">[Microsoft 365 con đường học tập](https://docs.microsoft.com/office365/customlearning/) là một dự án mã nguồn mở được thiết kế để tăng sử dụng và nhận con nuôi của Microsoft 365 dịch vụ trong tổ chức của bạn.</span><span class="sxs-lookup"><span data-stu-id="05e0c-103">[Microsoft 365 learning pathways](https://docs.microsoft.com/office365/customlearning/) is an open source project designed to increase usage and adoption of Microsoft 365 services in your organization.</span></span>
 
-- <span data-ttu-id="58617-104">Bạn sẽ cần phải đăng ký [tài khoản GitHub](https://aka.ms/joingithub) để sử dụng các giải pháp.</span><span class="sxs-lookup"><span data-stu-id="58617-104">You'll need to sign-up for a [GitHub account](https://aka.ms/joingithub) to use the solutions.</span></span>
-- <span data-ttu-id="58617-105">Dự án được hỗ trợ thông qua [danh sách các vấn đề trực tuyến](https://aka.ms/CustomLearningHelp)GitHub.</span><span class="sxs-lookup"><span data-stu-id="58617-105">The project is supported through the GitHub [online issues list](https://aka.ms/CustomLearningHelp).</span></span>
-- <span data-ttu-id="58617-106">Hãy đánh giá [câu hỏi thường gặp](https://docs.microsoft.com/office365/customlearning/faq) về con đường học tập-ghi lại các vấn đề hàng đầu và cập nhật thông tin phản hồi thường xuyên</span><span class="sxs-lookup"><span data-stu-id="58617-106">Review the [learning pathways FAQ](https://docs.microsoft.com/office365/customlearning/faq) - documented top issues and updated frequently based off feedback.</span></span>
+- <span data-ttu-id="05e0c-104">Bạn sẽ cần phải đăng ký [tài khoản GitHub](https://aka.ms/joingithub) để sử dụng các giải pháp.</span><span class="sxs-lookup"><span data-stu-id="05e0c-104">You'll need to sign-up for a [GitHub account](https://aka.ms/joingithub) to use the solutions.</span></span>
+- <span data-ttu-id="05e0c-105">Dự án được hỗ trợ thông qua [danh sách các vấn đề trực tuyến](https://aka.ms/CustomLearningHelp)GitHub.</span><span class="sxs-lookup"><span data-stu-id="05e0c-105">The project is supported through the GitHub [online issues list](https://aka.ms/CustomLearningHelp).</span></span>
+- <span data-ttu-id="05e0c-106">Hãy đánh giá [câu hỏi thường gặp](https://docs.microsoft.com/office365/customlearning/faq) về con đường học tập-ghi lại các vấn đề hàng đầu và cập nhật thông tin phản hồi thường xuyên</span><span class="sxs-lookup"><span data-stu-id="05e0c-106">Review the [learning pathways FAQ](https://docs.microsoft.com/office365/customlearning/faq) - documented top issues and updated frequently based off feedback.</span></span>
 
-<span data-ttu-id="58617-107">**Lưu ý**: giải pháp con đường học tập và các thành phần của nó **không được** bao gồm bởi bất kỳ hợp đồng hỗ trợ của Microsoft.</span><span class="sxs-lookup"><span data-stu-id="58617-107">**Note**: The learning pathways solution and it's components **are not** covered by any Microsoft support contract.</span></span>
+<span data-ttu-id="05e0c-107">**Lưu ý**: giải pháp con đường học tập và các thành phần của nó **không được** bao gồm bởi bất kỳ hợp đồng hỗ trợ của Microsoft.</span><span class="sxs-lookup"><span data-stu-id="05e0c-107">**Note**: The learning pathways solution and it's components **are not** covered by any Microsoft support contract.</span></span>
