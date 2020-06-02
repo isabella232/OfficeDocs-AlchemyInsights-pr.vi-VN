@@ -12,12 +12,12 @@ ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
 ms.custom:
 - "1428"
 - "3200001"
-ms.openlocfilehash: 7d31f6bcbd464b7428092b6fd6ff9f9582db2a8b
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 9369878b62a5abe79bd215487bea6cabb0e80f06
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43704399"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507464"
 ---
 # <a name="dlp-policy-tip-issues"></a>DLP chính sách Mẹo vấn đề
 
@@ -29,11 +29,11 @@ Khi sử dụng **chính sách DLP**, người dùng có thể được thông b
   
 Cấu hình chính sách Mẹo trên chính sách DLP của bạn trong Trung tâm bảo mật và tuân thủ trong chế độ thực thi đầy đủ, hãy làm như sau:
   
-- Đảm bảo chính sách Mẹo đã được **kích hoạt** trên quy tắc DLP bằng cách sử dụng các bước tại [đây](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips).
+- Đảm bảo chính sách Mẹo đã được **kích hoạt** trên quy tắc DLP bằng cách sử dụng các bước tại [đây](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips).
 
-- Đảm bảo **nội dung** của bạn phù hợp với những gì **cần thiết** để kích hoạt quy tắc được nêu trong bài viết này ở [đây](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for).
+- Đảm bảo **nội dung** của bạn phù hợp với những gì **cần thiết** để kích hoạt quy tắc được nêu trong bài viết này ở [đây](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions).
 
-- Chính sách Mẹo Hiển thị trong OWA và Outlook. Tuy nhiên, khi sử dụng **Outlook 2013 hoặc mới**hơn, Mẹo chính sách chỉ hiển thị trong một số điều kiện. Các điều kiện được liệt kê ở đây: [điều kiện được hỗ trợ cho Outlook 2013 hoặc mới hơn để hiển thị Mẹo chính sách](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips#outlook-2013-and-later-supports-showing-policy-tips-for-only-some-conditions)
+- Chính sách Mẹo Hiển thị trong OWA và Outlook. Tuy nhiên, khi sử dụng **Outlook 2013 hoặc mới**hơn, Mẹo chính sách chỉ hiển thị trong một số điều kiện. Các điều kiện được liệt kê ở đây: [điều kiện được hỗ trợ cho Outlook 2013 hoặc mới hơn để hiển thị Mẹo chính sách](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
 
-Để biết thêm thông tin về chính sách DLP Mẹo, xem: [Hiển thị chính sách Mẹo DLP chính](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips) sách
+Để biết thêm thông tin về chính sách DLP Mẹo, xem: [Hiển thị chính sách Mẹo DLP chính](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips) sách
   

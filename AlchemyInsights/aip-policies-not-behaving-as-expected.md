@@ -11,19 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002266"
 - "4780"
-ms.openlocfilehash: 7926ff9ebbd54969fb5b3ae5d909baffe96a4292
-ms.sourcegitcommit: 2afad0b107d03cd8c4de0b85b5bee38a13a7960d
+ms.openlocfilehash: 527556fcb02525eb88ea992c38a2ddfcba6f9453
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/26/2020
-ms.locfileid: "44493423"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506580"
 ---
 # <a name="aip-policies-not-behaving-as-expected"></a>AIP: chính sách không phản bội như mong đợi
 
 Azure bảo vệ thông tin: chính sách không có như mong đợi, xem các hướng dẫn được khuyến nghị cho các vấn đề chính sách:
 
 1. Nếu bạn đang gặp vấn đề với các dấu hiệu trực quan, vui lòng đánh giá [khi áp dụng](https://docs.microsoft.com/azure/information-protection/configure-policy-markings#when-visual-markings-are-applied)dấu hiệu hình ảnh.
-2. Nếu bạn gặp sự cố với ghi nhãn tự động, vui lòng xem lại [cách cấu hình điều kiện để phân loại tự động và được đề xuất để bảo vệ thông tin Azure](https://docs.microsoft.com/azure/information-protection/configure-policy-classification) và [các loại thông tin nhạy cảm tìm](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)kiếm.
+2. Nếu bạn gặp sự cố với ghi nhãn tự động, vui lòng xem lại [cách cấu hình điều kiện để phân loại tự động và được đề xuất để bảo vệ thông tin Azure](https://docs.microsoft.com/azure/information-protection/configure-policy-classification) và [các loại thông tin nhạy cảm tìm](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)kiếm.
 3. Nếu bạn gặp vấn đề với Native/Pfile bảo vệ, hãy xem [tập tin cấu hình API](https://docs.microsoft.com/azure/information-protection/develop/file-api-configuration).
 4. Kiểm tra nếu bạn đang sử dụng chính sách scoped không được cấu hình đúng: [làm thế nào để cấu hình chính sách bảo vệ thông tin Azure cho người dùng cụ thể bằng cách sử dụng scoped chính sách](https://docs.microsoft.com/azure/information-protection/configure-policy-scope).
 5. Nếu ghi nhãn tự động không hoạt động cho Outlook khi đính kèm một tài liệu có nhãn, xác minh rằng DRMEncryptProperty không được xác định như mô tả ở đây: [cài đặt đăng ký IRM cho bảo mật](https://docs.microsoft.com/deployoffice/security/protect-sensitive-messages-and-documents-by-using-irm-in-office#office-2016-irm-registry-key-options).

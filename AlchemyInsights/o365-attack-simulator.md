@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: 74bd2dd62b24aaf6c9d7b387ab1d97ddab31e902
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3dae4768ca62757ce7f92dfc527078c963d72742
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713488"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506760"
 ---
 # <a name="attack-simulator-in-microsoft-365"></a>Attack Simulator trong Microsoft 365
 
 - Bạn có thiếu Attack Simulator? Attack Simulator yêu cầu **office 365 Advanced Threat Protection Plan 2 (ATP Plan 2)** hoặc **Office 365 Enterprise E5**. Tấn công mô phỏng **không** được bao gồm trong Office 365 nâng cao mối đe dọa bảo vệ kế hoạch 1 (ATP kế hoạch 1), Office 365 Enterprise E3 hoặc bất kỳ Microsoft 365 ứng dụng cho đăng ký kinh doanh.
 
-- Tài khoản bạn sử dụng để khởi chạy các cuộc tấn công mô phỏng yêu cầu quản trị viên toàn cầu hoặc quyền quản trị viên bảo mật và xác thực đa yếu tố (MFA). Để biết thêm thông tin về yêu cầu Attack Simulator, xem [chủ đề này](https://docs.microsoft.com/office365/securitycompliance/attack-simulator#before-you-begin).
+- Tài khoản bạn sử dụng để khởi chạy các cuộc tấn công mô phỏng yêu cầu quản trị viên toàn cầu hoặc quyền quản trị viên bảo mật và xác thực đa yếu tố (MFA). Để biết thêm thông tin về yêu cầu Attack Simulator, xem [chủ đề này](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).
 
 - Những điều quan trọng cần biết về mô phỏng tấn công **Brute Force mật khẩu** :
 

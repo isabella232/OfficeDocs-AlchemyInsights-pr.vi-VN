@@ -12,24 +12,24 @@ ms.custom:
 - "286"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 858228acdd884257fc68ceb99799a08e9cc0a0f8
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: d6f1f96220a44247d217f6e82e76fb38875578e8
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43908438"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507012"
 ---
 # <a name="enable-and-search-the-audit-log"></a>Bật và tìm kiếm Nhật ký kiểm tra
 
 **Microsoft 365**
 
-Để tìm kiếm Nhật ký kiểm tra Microsoft 365, hãy làm theo [các bước sau](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
+Để tìm kiếm Nhật ký kiểm tra Microsoft 365, hãy làm theo [các bước sau](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
 
 **Exchange**
 
 - Hoạt động quản trị Exchange được kiểm toán theo mặc định.
 
-- Kiểm tra hộp thư được bật theo mặc định trong Microsoft 365. Để biết thêm thông tin, xem [bài viết này](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing).
+- Kiểm tra hộp thư được bật theo mặc định trong Microsoft 365. Để biết thêm thông tin, xem [bài viết này](https://docs.microsoft.com/microsoft-365/compliance/enable-mailbox-auditing).
 
 - Microsoft 365 hộp thư nhóm và thư mục công cộng hộp thư trong Exchange Online không hỗ trợ ghi nhật ký kiểm tra.
 
@@ -44,6 +44,6 @@ ms.locfileid: "43908438"
     - Hoạt động quản trị trang web
     - Hoạt động đồng bộ hóa tệp
 
-- Để biết thông tin về các hoạt động đã kiểm toán trong các dịch vụ khác, [hãy xem bảng trong bài viết này](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#audited-activities).
+- Để biết thông tin về các hoạt động đã kiểm toán trong các dịch vụ khác, [hãy xem bảng trong bài viết này](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#audited-activities).
 
-- Dưới đây là danh sách các câu hỏi thường gặp [câu hỏi thường](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#frequently-asked-questions) gặp về tìm kiếm Nhật ký kiểm tra.
+- Dưới đây là danh sách các câu hỏi thường gặp [câu hỏi thường](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#frequently-asked-questions) gặp về tìm kiếm Nhật ký kiểm tra.

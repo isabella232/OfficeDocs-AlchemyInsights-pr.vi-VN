@@ -10,12 +10,12 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: 5f5fea1e442b489bc81d9f6c4213e302c80f4ea7
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.openlocfilehash: 2eecb51a2a6bf2e0741b7ee14dca16f8e0ad4c61
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43788688"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507048"
 ---
 # <a name="enable-an-archive-mailbox"></a>Kích hoạt hộp thư lưu trữ
 
@@ -23,11 +23,11 @@ Lưu trữ hộp thư trong Microsoft 365 (còn được gọi là lưu trữ *t
   
 Dưới đây là cách tạo hộp thư lưu trữ:
   
-1. Đi thôi [https://protection.office.com](https://protection.office.com).
+1. Đi thôi [https://protection.office.com](https://protection.office.com) .
 
 2. Đăng nhập vào Microsoft 365 bằng tài khoản quản trị của bạn.
 
-3. Trong ngăn bên trái của Trung tâm &amp; tuân thủ bảo mật, chọn **thông tin quản trị** \> **lưu trữ**.
+3. Trong ngăn bên trái của &amp; Trung tâm bảo mật tuân thủ, chọn **thông tin quản trị** \> **lưu trữ**.
 
 4. Chọn người dùng có hộp thư lưu trữ mà bạn muốn bật.
 
@@ -43,7 +43,7 @@ Bạn cũng có thể bật hàng loạt hộp thư lưu trữ bằng cách ch�
 
 1. Đi tới [Trung tâm quản trị Exchange](https://outlook.office365.com/ecp) và đăng nhập bằng tài khoản quản trị của bạn.
 
-2. Đi tới **người nhận** > **chia sẻ**.
+2. Chuyển đến **người nhận**đã  >  **chia sẻ**.
 
 3. Chọn hộp thư dùng chung.
 
@@ -51,6 +51,6 @@ Bạn cũng có thể bật hàng loạt hộp thư lưu trữ bằng cách ch�
 
 Để biết thêm thông tin, hãy xem:
   
-- [Bật hộp thư lưu trữ](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)
+- [Bật hộp thư lưu trữ](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes)
 
 - [Thiết lập chính sách lưu trữ và xóa](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)
