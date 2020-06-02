@@ -9,12 +9,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000329
-ms.openlocfilehash: 7184ffd68f56639a8bcb87e9c6cab88388868103
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 6bbbf8722dacb8b7d5191d57ce1055a48dcb4dd0
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43764894"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511530"
 ---
 # <a name="encrypt-email-messages-in-outlook"></a>Mã hóa thư email trong Outlook
 
@@ -24,7 +24,7 @@ Dựa trên phản hồi của khách hàng, chúng tôi sẽ không còn kích 
 
 - Nếu sử dụng Outlook trên web (trước đây là **OWA**): khi soạn thư email, chỉ cần bấm **bảo vệ** trong OWA. Điều này sẽ áp dụng cho phép "không chuyển tiếp". Nhấp vào **thay đổi quyền** và chọn **mã hóa** chỉ để mã hóa thư.
 
-- Nếu sử dụng **máy khách Outlook**: để gửi một tin nhắn được mã hóa từ Outlook 2013 hoặc 2016, hoặc Outlook 2016 cho Mac, chọn **tùy chọn** > **quyền**, sau đó chọn tùy chọn bảo vệ bạn cần.
+- Nếu sử dụng **máy khách Outlook**: để gửi một thư được mã hóa từ Outlook 2013 hoặc 2016, hoặc Outlook 2016 cho Mac, chọn quyền **cho**  >  **phép**, sau đó chọn tùy chọn bảo vệ bạn cần.
 
-- Để **tự động mã hóa tất cả email** được gửi đến người nhận nhất định hoặc các tổ chức đối tác bên ngoài, bạn cần tạo quy tắc truyền tải luồng thư trong Trung tâm quản trị Exchange. Hướng dẫn chi tiết được cung cấp trong [bài viết hỗ trợ này](https://docs.microsoft.com/office365/securitycompliance/define-mail-flow-rules-to-encrypt-email#create-a-mail-flow-rule-to-encrypt-email-messages-with-the-new-ome-capabilities).
+- Để **tự động mã hóa tất cả email** được gửi đến người nhận nhất định hoặc các tổ chức đối tác bên ngoài, bạn cần tạo quy tắc truyền tải luồng thư trong Trung tâm quản trị Exchange. Hướng dẫn chi tiết được cung cấp trong [bài viết hỗ trợ này](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email#create-mail-flow-rules-to-encrypt-email-messages-with-the-new-ome-capabilities).
 

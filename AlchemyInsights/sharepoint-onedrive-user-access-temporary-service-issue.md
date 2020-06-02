@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
-ms.openlocfilehash: ec378981d4f24837b037e18214cbeba2f2b657c5
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 2dc0cd5f1641298853443d364eb9434ec1d9cd5a
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43692715"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511170"
 ---
 # <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>SharePoint hoặc OneDrive chậm, không thể truy nhập hoặc không khả dụng cho nhiều người dùng
 
@@ -21,7 +21,7 @@ Nếu một trang web OneDrive hoặc SharePoint không có sẵn cho nhiều ng
 
 **Thêm và giấy phép người dùng**
 
-Đảm bảo rằng bạn [gán giấy phép cho người dùng trong Microsoft 365 cho doanh nghiệp](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide&amp;tabs=One).
+Đảm bảo rằng bạn [gán giấy phép cho người dùng trong Microsoft 365 cho doanh nghiệp](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).
 
 
 **Gán quyền**

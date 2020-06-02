@@ -15,22 +15,22 @@ ms.custom:
 - "1800014"
 - "1800018"
 ms.assetid: d2b46122-b59a-4b94-9cae-5e42be819022
-ms.openlocfilehash: c11537636e276fe9997566bcd0f799bb3ee57282
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 6cd6d3c36b8c9c50b5ea98aafa2145c502960f89
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767595"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44512504"
 ---
 # <a name="set-up-email-in-the-outlook-mobile-app"></a>Thiết lập email trong ứng dụng Outlook dành cho thiết bị di động
 
-1. Chọn **bắt đầu** nếu đó là lần đầu tiên bạn thiết lập email trong ứng dụng dành cho thiết bị di động. Nếu không, hãy nhấn vào **menu** rồi nhấn vào **cài đặt** \> **Thêm tài** \> khoản **Add email**.
+1. Chọn **bắt đầu** nếu đó là lần đầu tiên bạn thiết lập email trong ứng dụng dành cho thiết bị di động. Nếu không, hãy nhấn vào **menu** rồi nhấn vào **cài đặt** \> **Thêm tài** khoản \> **Add email**.
 
 2. Nhập địa chỉ email đầy đủ của bạn và nhấn vào **tiếp tục** hoặc **Thêm tài khoản**.
 
 3. Nhập mật khẩu tài khoản email của bạn và nhấn vào **đăng nhập** hoặc **tiếp theo**.
 
-4. Nếu [xác thực nhiều yếu tố](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication) được bật, hãy xác minh bằng cách sử dụng phương pháp bạn thiết lập (mã 6 chữ số, cuộc gọi điện thoại hoặc ứng dụng Microsoft Authenticator).
+4. Nếu [xác thực nhiều yếu tố](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication) được bật, hãy xác minh bằng cách sử dụng phương pháp bạn thiết lập (mã 6 chữ số, cuộc gọi điện thoại hoặc ứng dụng Microsoft Authenticator).
 
 5. Nếu có các chính sách quản trị viên CNTT bổ sung, hãy nhấn vào **kích hoạt** để bật chúng.
 

@@ -12,20 +12,20 @@ localization_priority: Normal
 ms.custom:
 - "1778"
 - "9000181"
-ms.openlocfilehash: 72dc88a55b55954f34c95fa5b5038f472261c5bb
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 1326eca02044014a8e9c072fcc3e4cd3a41c7a9f
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43758540"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511674"
 ---
 # <a name="sensitivity-labels-not-appearing"></a>Nhãn độ nhạy không xuất hiện
 
-Nhãn nhạy cảm cho phép bạn phân loại và giúp bảo vệ nội dung nhạy cảm của mình. Chúng có thể được tạo ra trong Trung tâm tuân thủ Microsoft 365, Trung tâm bảo mật Microsoft 365 hoặc Microsoft 365 bảo mật & tuân thủ trung tâm trong phân loại > độ nhạy nhãn. Để tìm hiểu thêm về tính năng này, hãy xem [tổng quan về các nhãn nhạy cảm](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels).
+Nhãn nhạy cảm cho phép bạn phân loại và giúp bảo vệ nội dung nhạy cảm của mình. Chúng có thể được tạo ra trong Trung tâm tuân thủ Microsoft 365, Trung tâm bảo mật Microsoft 365 hoặc Microsoft 365 bảo mật & tuân thủ trung tâm trong phân loại > độ nhạy nhãn. Để tìm hiểu thêm về tính năng này, hãy xem [tổng quan về các nhãn nhạy cảm](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels).
 
 Nếu bạn đã định cấu hình nhãn nhạy cảm nhưng chúng không xuất hiện trong các ứng dụng Office, hãy kiểm tra sau:
 
-- Xác nhận rằng nhãn nhạy cảm đã được [xuất bản](https://docs.microsoft.com/Office365/SecurityCompliance/sensitivity-labels#what-label-policies-can-do) cho người dùng và nhóm mà bạn muốn.
+- Xác nhận rằng nhãn nhạy cảm đã được [xuất bản](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels#what-label-policies-can-do) cho người dùng và nhóm mà bạn muốn.
 
 - Xác nhận rằng người dùng đang sử dụng một ứng dụng hỗ trợ nhãn nhạy cảm-xem [nhãn nhạy cảm trong tài liệu của bạn](https://support.office.com/article/apply-sensitivity-labels-to-your-documents-and-email-within-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?#bkmk_whereavailable).
 

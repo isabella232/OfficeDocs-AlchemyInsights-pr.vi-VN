@@ -15,17 +15,17 @@ ms.custom:
 - "1100004"
 - "735"
 - "826"
-ms.openlocfilehash: 67195ab9a52342647659162045cc4f536d001ab4
-ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
+ms.openlocfilehash: 715918b88a8340ea722ffe75999e6afaa48dbc31
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/31/2020
-ms.locfileid: "43059866"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511458"
 ---
 # <a name="reset-or-change-passwords"></a>Đặt lại hoặc thay đổi mật khẩu
 
-Người dùng có thể thay đổi mật khẩu của họ từ[bảo mật](https://portal.office.com/account/#security) >  **tài khoản của tôi**& bảo mật.
+Người dùng có thể thay đổi mật khẩu của họ từ bảo mật **tài khoản của tôi**  >  [& bảo](https://portal.office.com/account/#security)mật.
   
-Nếu người dùng quên mật khẩu của họ, quản trị viên có thể đặt lại mật khẩu **bằng cách đi tới** > người dùng[đang hoạt động](https://portal.office.com/adminportal/home#/users), chọn người dùng (s) và bấm vào **đặt lại mật khẩu**.
+Nếu người dùng quên mật khẩu của họ, quản trị viên có thể đặt lại mật khẩu **bằng cách đi tới người**dùng  >  [đang hoạt động](https://portal.office.com/adminportal/home#/users), chọn người dùng (s) và bấm vào **đặt lại mật khẩu**.
   
-[Bấm vào đây để tìm hiểu thêm](https://docs.microsoft.com/office365/admin/add-users/reset-passwords), hoặc để cho người dùng đặt lại mật khẩu quên của riêng họ.
+[Bấm vào đây để tìm hiểu thêm](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords), hoặc để cho người dùng đặt lại mật khẩu quên của riêng họ.

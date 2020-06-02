@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001427"
 - "3419"
-ms.openlocfilehash: ae503796623c2d6d08a09f719109c3d23b34a26b
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: 6b370dd647bbe93c435b2c1853c16906c4c910f0
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43787752"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44512468"
 ---
 # <a name="office-apps-message---weve-run-into-a-problem-with-your-subscription"></a>Tin nhắn ứng dụng Office-chúng tôi đã gặp sự cố với đăng ký của bạn
 
@@ -24,7 +24,7 @@ ms.locfileid: "43787752"
 
 - Xem [lỗi Office "thông báo tài khoản: chúng tôi đã chạy vào một vấn đề với đăng ký của bạn"](https://support.office.com/article/office-error-account-notice-we-ve-run-into-a-problem-with-your-office-365-subscription-17f71ecb-f53c-4f3d-ae18-7230ca1594c1)
 
-- Loại bỏ và gán [giấy phép văn phòng](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide#assign-licenses-to-one-user) cho người dùng bị ảnh hưởng. 
+- Loại bỏ và gán [giấy phép văn phòng](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) cho người dùng bị ảnh hưởng. 
 
 - Mở ứng dụng Office, đi tới **tệp > tài khoản** và đăng xuất khỏi tất cả tài khoản. Đăng nhập lại bằng tài khoản người dùng có giấy phép hợp lệ. Để biết thông tin chi tiết, xem [tài khoản trong Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).
 
