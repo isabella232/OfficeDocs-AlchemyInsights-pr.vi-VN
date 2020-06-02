@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2574"
-ms.openlocfilehash: 11d44e7f6616f936723f7609e9219fd529ee68e6
-ms.sourcegitcommit: bf87d91fa60bd961bc6c887c4a4be7a3c7665b38
+ms.openlocfilehash: bb2e5218f9dc2b6bbdcdad6a6c63fde08c8ea098
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44474447"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509658"
 ---
 # <a name="issues-signing-into-microsoft-365-apps"></a>Sự cố đăng nhập vào Microsoft 365 Apps
 
@@ -25,7 +25,7 @@ ms.locfileid: "44474447"
 - Đối với Windows, hãy xem [đề xuất về giải quyết các vấn đề đăng nhập phổ biến](https://docs.microsoft.com/office365/troubleshoot/administration/disabling-adal-wam-not-recommended#recommendations-on-resolving-common-sign-in-issues)
 - Đối với Mac, xem [không thể đăng nhập vào một Office 2016 cho Mac ứng dụng](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail)
 
-**Lưu ý:** Vô hiệu hoá xác thực hiện đại (ADAL) hoặc quản lý tài khoản web (WAM) để khắc phục sự cố đăng nhập hoặc kích hoạt **không được khuyến nghị**. Nếu lỗi xảy ra khi kết nối với Microsoft 365 bằng cách sử dụng Office 2013, đảm bảo rằng bạn [kích hoạt xác thực hiện đại](https://docs.microsoft.com/office365/admin/security-and-compliance/enable-modern-authentication) cho Office client.
+**Lưu ý:** Vô hiệu hoá xác thực hiện đại (ADAL) hoặc quản lý tài khoản web (WAM) để khắc phục sự cố đăng nhập hoặc kích hoạt **không được khuyến nghị**. Nếu lỗi xảy ra khi kết nối với Microsoft 365 bằng cách sử dụng Office 2013, đảm bảo rằng bạn [kích hoạt xác thực hiện đại](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication) cho Office client.
 
 Đối với hành động khắc phục sự cố cụ thể, xem:
 

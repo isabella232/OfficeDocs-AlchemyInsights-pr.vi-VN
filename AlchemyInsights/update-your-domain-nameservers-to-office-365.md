@@ -11,12 +11,12 @@ ms.assetid: 5d38b331-a0e8-4937-8bda-4f8f715e1976
 ms.custom:
 - "6"
 - "14"
-ms.openlocfilehash: b49ca9422f582f906fc6c108c85cc26150474548
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 9dd52c60b2d15d66c1c3f2a96c9db08ea2a010c6
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720015"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510306"
 ---
 # <a name="update-your-domain-nameservers-to-point-to-microsoft"></a>Cập Nhật máy máy chủ tên miền của bạn để trỏ tới Microsoft
 
@@ -34,5 +34,5 @@ Lưu ý: thay đổi nameserver đôi khi có thể mất đến 48 giờ để 
 
 3. Lưu thay đổi.
 
-Bạn cũng có thể tìm thấy hướng dẫn chi tiết trong bài viết này: [thay đổi máy chủ tên để thiết lập Microsoft 365 với bất kỳ công ty đăng ký tên miền](https://docs.microsoft.com/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar)
+Bạn cũng có thể tìm thấy hướng dẫn chi tiết trong bài viết này: [thay đổi máy chủ tên để thiết lập Microsoft 365 với bất kỳ công ty đăng ký tên miền](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar)
   

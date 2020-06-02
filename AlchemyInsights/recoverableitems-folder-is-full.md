@@ -12,12 +12,12 @@ ms.custom:
 - "1336"
 - "3700003"
 ms.assetid: a3a923e8-fece-4a26-b8b6-00970d75275e
-ms.openlocfilehash: fb10b792981040bdcf4661b8aff30733c2438212
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 4f0cba480fcc05114abd8f370b84e9a37e5f2804
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720274"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510774"
 ---
 # <a name="the-recoverable-items-folder-is-full"></a>Thư mục mục có thể phục hồi đầy đủ
 
@@ -33,12 +33,12 @@ Khi thư mục mục có thể phục hồi đến giới hạn lưu trữ, ch�
 
 - Đối với hộp thư có hộp kiểm tra đăng nhập kích hoạt, không có mục nhập Nhật ký kiểm tra hộp thư có thể được lưu trong thư mục con kiểm toán trong cặp mục phục hồi.
 
-Đối với hộp thư không tạm giữ, quản trị viên `Search-Mailbox -SearchDumpsterOnly -DeleteContent` có thể sử dụng lệnh trong Exchange Online PowerShell để xoá mục trong thư mục mục có thể phục hồi. Để biết thêm thông tin, hãy xem các chủ đề sau:
+Đối với hộp thư không tạm giữ, quản trị viên có thể sử dụng `Search-Mailbox -SearchDumpsterOnly -DeleteContent` lệnh trong Exchange Online PowerShell để xoá các mục trong thư mục mục phục hồi. Để biết thêm thông tin, hãy xem các chủ đề sau:
 
-- [Tìm kiếm và xóa thư](https://docs.microsoft.com/office365/securitycompliance/search-for-and-delete-messagesadmin-help)
+- [Tìm kiếm và xóa thư](https://docs.microsoft.com/microsoft-365/compliance/search-for-and-delete-messagesadmin-help)
 
 - [Hộp thư tìm kiếm](https://docs.microsoft.com/powershell/module/exchange/mailboxes/Search-Mailbox)
 
-Đối với hộp thư đang tạm giữ, quản trị viên phải loại bỏ việc giữ trước khi họ có thể xoá các mục khỏi thư mục mục phục hồi. Để biết thêm thông tin, hãy xem [xóa các mục trong thư mục mục có thể phục hồi của hộp thư dựa trên ứng dụng web qua Internet trên giữ](https://docs.microsoft.com/office365/securitycompliance/delete-items-in-the-recoverable-items-folder-of-mailboxes-on-hold).
+Đối với hộp thư đang tạm giữ, quản trị viên phải loại bỏ việc giữ trước khi họ có thể xoá các mục khỏi thư mục mục phục hồi. Để biết thêm thông tin, hãy xem [xóa các mục trong thư mục mục có thể phục hồi của hộp thư dựa trên ứng dụng web qua Internet trên giữ](https://docs.microsoft.com/microsoft-365/compliance/delete-items-in-the-recoverable-items-folder-of-mailboxes-on-hold).
 
-Để giúp ngăn không cho thư mục mục có thể phục hồi trở nên đầy đủ, quản trị viên sẽ tăng giới hạn lưu trữ của thư mục mục phục hồi cho hộp thư khi giữ và thiết lập chính sách lưu giữ hộp thư di chuyển các mục từ thư mục mục có thể phục hồi cho hộp thư lưu trữ của người dùng. Xem [tăng dung lượng mục có thể phục hồi cho hộp thư đang giữ](https://docs.microsoft.com/office365/securitycompliance/increase-the-recoverable-quota-for-mailboxes-on-hold).
+Để giúp ngăn không cho thư mục mục có thể phục hồi trở nên đầy đủ, quản trị viên sẽ tăng giới hạn lưu trữ của thư mục mục phục hồi cho hộp thư khi giữ và thiết lập chính sách lưu giữ hộp thư di chuyển các mục từ thư mục mục có thể phục hồi cho hộp thư lưu trữ của người dùng. Xem [tăng dung lượng mục có thể phục hồi cho hộp thư đang giữ](https://docs.microsoft.com/microsoft-365/compliance/increase-the-recoverable-quota-for-mailboxes-on-hold).

@@ -10,12 +10,12 @@ ms.assetid: db38c1dd-e61b-48cd-8f52-40add3dc5632
 ms.custom:
 - "66"
 - "4000001"
-ms.openlocfilehash: 9f72e8d263c0cef611e2fe19964141d68633e8a3
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 320879e2654062e66e44481946869350bc6454eb
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "43765867"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509514"
 ---
 # <a name="issue-with-skype-for-business"></a>Vấn đề với Skype for Business?
 
@@ -23,7 +23,7 @@ Chúng tôi đã phát hiện ra rằng (các) miền sau có vấn đề có th
   
 {HealthCheckString}
   
-Các bản ghi NS, CNAME hoặc SRV của miền (DNS) cài đặt không được cấu hình đúng cho Skype dành cho doanh nghiệp. Bạn có thể tham khảo [tạo bản ghi DNS tại bất kỳ nhà cung cấp lưu trữ DNS nào](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) để được hướng dẫn chi tiết.
+Các bản ghi NS, CNAME hoặc SRV của miền (DNS) cài đặt không được cấu hình đúng cho Skype dành cho doanh nghiệp. Bạn có thể tham khảo [tạo bản ghi DNS tại bất kỳ nhà cung cấp lưu trữ DNS nào](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) để được hướng dẫn chi tiết.
   
 Để khắc phục sự cố, hãy đi tới trang [miền](https://admin.microsoft.com/adminportal/home#/Domains) trong Trung tâm quản trị Microsoft 365 và chúng tôi sẽ giúp bạn.
   

@@ -12,12 +12,12 @@ ms.custom:
 - "1372"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 3270f1ab03bacb235cbdc3d710053c858f0a5183
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 0aedb549f11db54d3cd480671fb0767c60680ad3
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43741987"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509622"
 ---
 # <a name="sharepoint-and-onedrive-audit-logs"></a>Nhật ký kiểm tra SharePoint và OneDrive
 
@@ -28,7 +28,7 @@ Kiểm tra kế thừa SPO được di chuyển sang Nhật ký kiểm tra hợp
 Thay đổi chính:
 
 * Trimming là không có sẵn như là một khả năng.
-* Chọn các sự kiện cụ thể để kiểm tra không có sẵn. Tham khảo [tài liệu này](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance) để biết danh sách đầy đủ các sự kiện được kiểm toán có sẵn theo mặc định.
+* Chọn các sự kiện cụ thể để kiểm tra không có sẵn. Tham khảo [tài liệu này](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance) để biết danh sách đầy đủ các sự kiện được kiểm toán có sẵn theo mặc định.
 * Tùy chọn **vị trí** trong **báo cáo tùy chỉnh** không có sẵn.
 * Tùy chọn **mở hoặc tải xuống** các sự kiện tài liệu không khả dụng.
 
@@ -36,16 +36,16 @@ Thay đổi chính:
 
 ## <a name="sharepoint-and-onedrive-modern-unified-audit-logs-from-compliance"></a>SharePoint và OneDrive hiện đại thống nhất kiểm tra Nhật ký từ tuân thủ
 
-* [Bật/tắt ghi nhật ký kiểm tra hợp nhất](https://docs.microsoft.com/office365/securitycompliance/turn-audit-log-search-on-or-off) 
+* [Bật/tắt ghi nhật ký kiểm tra hợp nhất](https://docs.microsoft.com/microsoft-365/compliance/turn-audit-log-search-on-or-off) 
 
 Không có cấu hình bổ sung được yêu cầu trong SharePoint hoặc OneDrive.
 
 Sử dụng kiểm tra ghi nhật ký tìm kiếm để kiểm tra hoạt động của tệp (s), cặp (s), người dùng (s), quyền:
 
-* [Hoạt động tập tin và trang](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)
-* [Hoạt động thư mục](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#folder-activities)
-* [Chia sẻ và truy cập các hoạt động yêu cầu](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#sharing-and-access-request-activities)
-* [Hoạt động đồng bộ hóa](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#synchronization-activities)
-* [Hoạt động quản trị trang web](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#site-administration-activities)
+* [Hoạt động tập tin và trang](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance)
+* [Hoạt động thư mục](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#folder-activities)
+* [Chia sẻ và truy cập các hoạt động yêu cầu](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#sharing-and-access-request-activities)
+* [Hoạt động đồng bộ hóa](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#synchronization-activities)
+* [Hoạt động quản trị trang web](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#site-administration-activities)
 
-Để biết thêm thông tin về cách lấy các sự kiện, [hãy xem tìm kiếm Nhật ký kiểm tra](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
+Để biết thêm thông tin về cách lấy các sự kiện, [hãy xem tìm kiếm Nhật ký kiểm tra](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).

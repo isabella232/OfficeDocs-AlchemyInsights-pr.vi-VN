@@ -11,12 +11,12 @@ ms.collection: Admin_O365
 ms.custom:
 - "9000293"
 - "1901"
-ms.openlocfilehash: 48e479de381dc5bd969002a6257416fdd5b3cac4
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 244630d2e9cd619ff8802be5c653ec7b2c40486e
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054652"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510954"
 ---
 # <a name="onedrive-common-issues-and-resolutions"></a>Vấn đề và giải pháp phổ biến OneDrive
 
@@ -27,4 +27,4 @@ Dưới đây là một số chủ đề thường xuyên được yêu cầu li
 - **Khắc phục sự cố Sync onedrive**: nếu Onedrive không đồng bộ hóa tệp theo cách bạn muốn, bạn có thể [khắc phục sự cố đồng bộ OneDrive](https://go.microsoft.com/fwlink/?linkid=866431) cho Windows. Sử dụng máy Mac? Bạn cũng có thể [khắc phục sự cố đồng bộ hóa](https://support.office.com/article/fix-onedrive-sync-problems-on-a-mac-af3012d7-13ec-4ac9-bbb1-ebcd2a0cd756) cho nó.
 - **Giới hạn OneDrive**: tìm hiểu về các [hạn chế và giới hạn](https://support.office.com/article/Invalid-file-names-and-file-types-in-OneDrive-OneDrive-for-Business-and-SharePoint-64883a5d-228e-48f5-b3d2-eb39e07630fa) áp dụng cho tên tệp và loại tệp khi đồng bộ hoá với OneDrive.
 - **Lưu trữ onedrive**: xem cách [thay đổi không gian lưu trữ onedrive của người dùng cụ thể](https://docs.microsoft.com/onedrive/change-user-storage) hoặc [quản lý lưu trữ onedrive cho doanh nghiệp của bạn](https://support.office.com/article/Manage-your-OneDrive-for-Business-storage-31519161-059C-4764-B6F8-F5CD29F7FE68).
-- **Nhật ký kiểm**tra: xem cách bạn có thể [sử dụng tìm kiếm Nhật ký kiểm](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log) tra để kiểm tra hoạt động của (các) tệp, cặp (s), người dùng (s) hoặc quyền. 
+- **Nhật ký kiểm**tra: xem cách bạn có thể [sử dụng tìm kiếm Nhật ký kiểm](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log) tra để kiểm tra hoạt động của (các) tệp, cặp (s), người dùng (s) hoặc quyền. 

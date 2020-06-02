@@ -13,12 +13,12 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 42b80a798ca05831a3cdfa15130ab2751bc1d152
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 76e14abce4e493cec4869279ff9a8d2ce4debf0f
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43911853"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510198"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Cách thực hiện tìm kiếm nội dung và tìm kiếm eDiscovery
 
@@ -32,6 +32,6 @@ Sử dụng công cụ tìm kiếm nội dung trong Trung tâm bảo mật & tu�
 4. Nhập các điều kiện tìm kiếm bắt buộc bao gồm từ khóa và vị trí nội dung.  
 5. Bấm vào **lưu & chạy** để tìm kiếm, bắt đầu và sau đó xem trước kết quả.
 
-Để biết hướng dẫn chi tiết về tìm kiếm nội dung, xuất kết quả và tạo trường hợp eDiscovery để giữ dữ liệu, xem [Tìm kiếm nội dung](https://docs.microsoft.com/office365/securitycompliance/content-search) và [trường hợp eDiscovery](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases).
+Để biết hướng dẫn chi tiết về tìm kiếm nội dung, xuất kết quả và tạo trường hợp eDiscovery để giữ dữ liệu, xem [Tìm kiếm nội dung](https://docs.microsoft.com/microsoft-365/compliance/content-search) và [trường hợp eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases).
 
-Tìm hiểu thêm về tìm kiếm nội dung bằng việc xem xét các [yêu cầu và giới hạn](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search) và điều [tra các mục được lập chỉ mục một phần](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) và các kết quả khác cần lưu ý.
+Tìm hiểu thêm về tìm kiếm nội dung bằng việc xem xét các [yêu cầu và giới hạn](https://docs.microsoft.com/microsoft-365/compliance/limits-for-content-search) và điều [tra các mục được lập chỉ mục một phần](https://docs.microsoft.com/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery) và các kết quả khác cần lưu ý.

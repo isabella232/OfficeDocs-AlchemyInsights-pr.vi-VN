@@ -12,12 +12,12 @@ ms.custom:
 - "437"
 - "1500005"
 ms.assetid: 464d32fd-2487-4885-af0f-d4096b694861
-ms.openlocfilehash: 3c74953118f248c79186e54bd6728e2c6e083226
-ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
+ms.openlocfilehash: 37ab3aef2e6aeaef4a8b8d89ec4b9417b2067b69
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/02/2020
-ms.locfileid: "44005496"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510342"
 ---
 # <a name="view-my-bill-or-invoice"></a>Xem hóa đơn hoặc hóa đơn của tôi
 
@@ -27,4 +27,4 @@ ms.locfileid: "44005496"
 
 3. Để in hóa đơn, tải xuống hóa đơn dưới dạng tệp PDF và nhấp vào **in**.
 
-Để biết thêm thông tin, hãy xem xem [hóa đơn hoặc hóa đơn của bạn](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).
+Để biết thêm thông tin, hãy xem xem [hóa đơn hoặc hóa đơn của bạn](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice).
