@@ -1,9 +1,8 @@
 ---
-title: Sản phẩm văn phòng không có sẵn cho nền tảng máy Mac
+title: Các sản phẩm Office không có sẵn cho nền tảng Mac
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 4/26/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,15 +10,18 @@ localization_priority: Normal
 ms.assetid: 9233f862-ebbb-4913-a83a-52cc3b99a644
 ms.custom:
 - "648"
+- "758"
+- "756"
+- "755"
 - "2000016"
-ms.openlocfilehash: 7c0d80222e2ccfe42a46cb06f191a0d3e2fdfdea
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1ea94c7a341dc47bbf40754132965563826813bb
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36522093"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "36818844"
 ---
-# <a name="office-products-not-available-for-the-mac-platform"></a><span data-ttu-id="95468-102">Sản phẩm văn phòng không có sẵn cho nền tảng máy Mac</span><span class="sxs-lookup"><span data-stu-id="95468-102">Office products not available for the Mac platform</span></span>
+# <a name="office-products-not-available-for-the-mac-platform"></a><span data-ttu-id="825b5-102">Các sản phẩm Office không có sẵn cho nền tảng Mac</span><span class="sxs-lookup"><span data-stu-id="825b5-102">Office products not available for the Mac platform</span></span>
 
-<span data-ttu-id="95468-103">Visio, dự án, nhà xuất bản, và truy cập không có sẵn cho các nền tảng Mac, Tuy nhiên, Visio trực tuyến và dự án trực tuyến có sẵn và làm việc trên tất cả các nền tảng.</span><span class="sxs-lookup"><span data-stu-id="95468-103">Visio, Project, Publisher, and Access are not available for the Mac platform, however, Visio Online and Project Online are available and work on all platforms.</span></span>
+<span data-ttu-id="825b5-103">Visio, dự án, nhà xuất bản và truy cập không có sẵn cho nền tảng Mac, Tuy nhiên, Visio Online và Project Online có sẵn và hoạt động trên tất cả các nền tảng.</span><span class="sxs-lookup"><span data-stu-id="825b5-103">Visio, Project, Publisher, and Access are not available for the Mac platform, however, Visio Online and Project Online are available and work on all platforms.</span></span>
   
