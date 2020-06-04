@@ -14,10 +14,10 @@ ms.custom:
 - "1500005"
 - "5523"
 ms.openlocfilehash: 359dd7efeb858654f28a1f575c7680c50ebc381c
-ms.sourcegitcommit: 0cf8d133d6feade6df8b1082444ce73faa91e145
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/13/2020
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "44204295"
 ---
 # <a name="billing-or-invoice-faq"></a>Câu hỏi thường gặp về thanh toán hoặc hóa đơn

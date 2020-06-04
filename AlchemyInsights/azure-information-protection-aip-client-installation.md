@@ -12,10 +12,10 @@ ms.custom:
 - "9002278"
 - "5027"
 ms.openlocfilehash: 45b4e7d420ed7a69d5be8e86852292b00a5f2ef2
-ms.sourcegitcommit: 0cf8d133d6feade6df8b1082444ce73faa91e145
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/13/2020
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "44204331"
 ---
 # <a name="azure-information-protection-aip-client-installation"></a>Azure bảo vệ thông tin: cài đặt máy khách AIP

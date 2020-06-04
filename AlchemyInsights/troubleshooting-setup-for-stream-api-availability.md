@@ -1,5 +1,5 @@
 ---
-title: Khắc phục sự cố cài đặt cho luồng - API sẵn có
+title: Cài đặt khắc phục sự cố cho luồng-tính khả dụng của API
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,13 +12,13 @@ ms.custom:
 - "2800001"
 - "1338"
 ms.openlocfilehash: bd08dce9f6b037478e653bd61ad8cfa0a334bc5e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36559323"
 ---
-# <a name="api-availability"></a>Tính khả dụng API
+# <a name="api-availability"></a>Tính khả dụng của API
 
-API cho các dòng không có sẵn ngày hôm nay.
-Để biết thêm chi tiết:https://stream.microsoft.com/support/
+API cho Stream không có sẵn ngày hôm nay.
+Để biết thêm thông tin:https://stream.microsoft.com/support/
