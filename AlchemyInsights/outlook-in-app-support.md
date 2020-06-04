@@ -3,7 +3,7 @@ title: Người thuê nhà đang thí thác trong ứng dụng hỗ trợ cho Ou
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 04/21/2020
+ms.date: 6/3/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,15 +11,13 @@ localization_priority: Normal
 ms.custom:
 - "3441"
 - "9001442"
-ms.openlocfilehash: 646a65a4cb068b1c91c52c42d55fe09e62421f9d
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3d723c11c24460291e9ced9dc87cf1258f1f41d9
+ms.sourcegitcommit: 8fdcd2acd31e8a4b9a8a0b91674f397d2f7889c1
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720454"
+ms.lasthandoff: 06/03/2020
+ms.locfileid: "44542066"
 ---
-# <a name="your-tenant-is-piloting-in-app-support-for-outlook"></a>Người thuê của bạn đang kiểm tra hỗ trợ trong ứng dụng cho Outlook
+# <a name="in-app-support-in-outlook-for-windows"></a>Trong ứng dụng hỗ trợ trong Outlook dành cho Windows
 
-Bạn có thể đủ điều kiện nhận hỗ trợ trực tiếp trong Outlook. Nếu bạn đang chạy bản dựng kênh hàng tháng mới nhất, hãy mở Outlook và chọn trợ **giúp** > **liên hệ**. Nhập câu hỏi của bạn và thành viên của nhóm hỗ trợ Outlook sẽ liên hệ với bạn.
-
-Nếu bạn không chắc chắn nếu bạn đang chạy bản xây dựng kênh hàng tháng mới nhất, hãy xem bạn [sử dụng phiên bản Office nào?](https://support.office.com/article/932788B8-A3CE-44BF-BB09-E334518B8B19)
+Là quản trị viên đối tượng thuê, bạn có thể nhận được hỗ trợ trong ứng dụng cho các vấn đề trong Outlook dành cho Windows. Trong Outlook, chọn **Help**  >  **Trợ giúp liên hệ support**. Nhập câu hỏi của bạn và một thành viên của nhóm hỗ trợ Outlook for Windows sẽ trả lời thư của bạn.
