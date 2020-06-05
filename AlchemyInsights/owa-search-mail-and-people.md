@@ -1,9 +1,9 @@
 ---
-title: 8000003 tìm kiếm thư và những người trong Outlook trên web
+title: 8000003 tìm kiếm thư và người trong Outlook trên web
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 4/26/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1565"
 - "8000003"
-ms.openlocfilehash: 1b4cde0ccfce5c1607c57a5fab4253c7923b6b0f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 09a7db3224011f3268a655d6b56a7dfe699dd34f
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36556191"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581969"
 ---
-# <a name="search-mail-and-people-on-outlook-on-the-web"></a>Tìm kiếm thư và những người trên Outlook trên Web
+# <a name="search-mail-and-people-on-outlook-on-the-web"></a>Tìm kiếm thư và người trên Outlook trên web
 
 1. Trong các <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVBAMAAABbObilAAAAKlBMVEX///+WqL7l6u8vUn8iR3azwNDCzNlObJFAYIkDLWNeeZuks8d7ka1thaRtSbf+AAAAS0lEQVQI12MgFjAdmVkKY6csYxK5AGUbAqWsIUzGBiARAmGzCwAJlgQwmyMARiDEEeoxzWEyQZivLAS3l8kQ4RplkDF4hRkWEvQSABbdDSdqA/J0AAAAAElFTkSuQmCC' />
- Hộp **Tìm kiếm** ở đầu trang, gõ những gì bạn muốn tìm kiếm (một số liên lạc, thư điện tử chủ đề hoặc một phần của một tin nhắn) và nhấn Enter.
+ Hộp **Tìm kiếm** ở đầu trang, nhập nội dung bạn muốn tìm kiếm (số liên lạc, chủ đề email hoặc một phần của thư) và nhấn Enter.
 
-2. Khi bạn đang thực hiện với việc tìm kiếm, chọn mũi tên trở lại <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAAQCAYAAADwMZRfAAAACXBIWXMAABJ0AAASdAHeZh94AAAAB3RJTUUH4wgFEhguGsWa9wAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAs0lEQVQ4jaXUsQ2FIBQF0IsyADWNYQcbExezo3YVB3ADgkvY6AIu4P2VP1/lhwC3InnJKR43T5AkAiGJ4ziglAqNb6n+Ad57jOOIfd+jCPjIeZ50znEYBq7r+hwHc0NygBuSC3yREoAkUQqQpHDOcZomaK3RNE38J35S1zX6vkfFcE2SIruug5QS8zyjbVsYY9KVa7HLstBam7fY61ECvcqWAwVrnwq9kCe0bVsUEWT5KfgAOVW28oYTSmkAAAAASUVORK5CYII=' /> trong việc **Tìm kiếm** hộp hoặc chọn bất kỳ thư mục trong ngăn bên trái để thoát khỏi tìm kiếm.
+2. Khi bạn đã hoàn tất việc tìm kiếm, hãy chọn mũi tên quay lại <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAAQCAYAAADwMZRfAAAACXBIWXMAABJ0AAASdAHeZh94AAAAB3RJTUUH4wgFEhguGsWa9wAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAs0lEQVQ4jaXUsQ2FIBQF0IsyADWNYQcbExezo3YVB3ADgkvY6AIu4P2VP1/lhwC3InnJKR43T5AkAiGJ4ziglAqNb6n+Ad57jOOIfd+jCPjIeZ50znEYBq7r+hwHc0NygBuSC3yREoAkUQqQpHDOcZomaK3RNE38J35S1zX6vkfFcE2SIruug5QS8zyjbVsYY9KVa7HLstBam7fY61ECvcqWAwVrnwq9kCe0bVsUEWT5KfgAOVW28oYTSmkAAAAASUVORK5CYII=' /> trong hộp **Tìm kiếm** hoặc chọn bất kỳ thư mục nào trong ngăn bên trái để thoát khỏi tìm kiếm.
 
-Để biết thêm chi tiết, đọc [Tìm thư và những người trong Outlook trên web](https://support.office.com/article/b27e5eb7-3255-4c61-bf16-1c6a16bc2e6b).
+Để biết thêm thông tin, hãy đọc [Tìm kiếm thư và người trong Outlook trên web](https://support.office.com/article/b27e5eb7-3255-4c61-bf16-1c6a16bc2e6b).

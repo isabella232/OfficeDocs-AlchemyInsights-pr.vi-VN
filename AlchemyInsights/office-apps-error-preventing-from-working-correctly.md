@@ -1,5 +1,5 @@
 ---
-title: 'Lỗi ứng dụng Office: ứng dụng đã chạy vào một lỗi ngăn cản nó hoạt động bình thường'
+title: 'Microsoft 365 ứng dụng lỗi: ứng dụng đã chạy vào một lỗi ngăn cản nó hoạt động bình thường'
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "2534"
 - "9000572"
-ms.openlocfilehash: 136dc4285d7aaa12289c2af0e515e0feab0466e9
-ms.sourcegitcommit: a66b37557baafe35d39134105dc604c326191a48
+ms.openlocfilehash: 42d499b584f896a73cd94f3a3eaa60a1220ea420
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 12/27/2019
-ms.locfileid: "40886629"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44576834"
 ---
-# <a name="office-apps-error-app-has-run-into-an-error-that-is-preventing-it-from-working-correctly"></a>Lỗi ứng dụng Office: ứng dụng đã chạy vào một lỗi ngăn cản nó hoạt động bình thường
+# <a name="microsoft-365-apps-error-app-has-run-into-an-error-that-is-preventing-it-from-working-correctly"></a>Lỗi ứng dụng Microsoft 365: ứng dụng đã chạy vào một lỗi ngăn cản nó hoạt động bình thường
 
 Để khắc phục lỗi này, hãy thử các tuỳ chọn sau:
 
@@ -31,6 +31,6 @@ ms.locfileid: "40886629"
 
 Để biết thêm thông tin, hãy xem: 
 
-- [Lỗi khi mở ứng dụng Microsoft Office](https://support.office.com/article/error-when-opening-microsoft-office-apps-b84b6a63-4b8c-46ec-ae9a-ad91d6160d72)
+- [Lỗi khi mở ứng dụng Microsoft Microsoft 365](https://support.office.com/article/error-when-opening-microsoft-office-apps-b84b6a63-4b8c-46ec-ae9a-ad91d6160d72)
 - [Tôi nhận được một "ngừng làm việc" lỗi khi tôi bắt đầu các ứng dụng Office trên máy tính của tôi](https://support.office.com/article/i-get-a-stopped-working-error-when-i-start-office-applications-on-my-pc-52bd7985-4e99-4a35-84c8-2d9b8301a2fa)
-- [Khắc phục sự cố xảy ra khi bạn khởi động hoặc sử dụng ứng dụng Office](https://docs.microsoft.com/office/troubleshoot/word/issues-when-start-or-use-word)
+- [Khắc phục sự cố xảy ra khi bạn khởi động hoặc sử dụng ứng dụng Microsoft 365](https://docs.microsoft.com/office/troubleshoot/word/issues-when-start-or-use-word)

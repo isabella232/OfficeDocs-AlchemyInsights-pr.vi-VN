@@ -1,5 +1,5 @@
 ---
-title: Ứng dụng Office không khởi chạy/khởi động
+title: Ứng dụng Microsoft 365 không khởi chạy/bắt đầu
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,19 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2531"
 - "9000572"
-ms.openlocfilehash: bed29ce271df96afe229275a079b9769591924a1
-ms.sourcegitcommit: 123e9fe46e99719dd271e75a66555861e968f4a2
+ms.openlocfilehash: d30030995bbc495c21537620c9b4a3d5b8c34804
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 12/30/2019
-ms.locfileid: "40908801"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44576870"
 ---
-# <a name="office-apps-crash-stop-responding-or-dont-launch"></a>Lỗi ứng dụng Office, ngừng đáp ứng hoặc không khởi chạy
+# <a name="microsoft-365-apps-crash-stop-responding-or-dont-launch"></a>Microsoft 365 ứng dụng lỗi, ngừng đáp ứng hoặc không khởi chạy
 
-Để khắc phục các ứng dụng Office treo hoặc sập, hãy thử các tuỳ chọn sau:
+Để khắc phục các ứng dụng Microsoft 365 treo hoặc sập, hãy thử các tuỳ chọn sau:
 
 - Điều [tra các vấn đề với](https://support.office.com/article/powerpoint-isn-t-responding-hangs-or-freezes-652ede6e-e3d2-449a-a07f-8c800dfb948d#bkmk_addins) trình bổ sung cài đặt Office
-- Kiểm tra xem [phần mềm chống vi-rút xung đột](https://support.office.com/article/powerpoint-isn-t-responding-hangs-or-freezes-652ede6e-e3d2-449a-a07f-8c800dfb948d?ocmsassetID#bkmk_conflict) với ứng dụng Office
+- Kiểm tra xem [phần mềm chống vi-rút xung đột](https://support.office.com/article/powerpoint-isn-t-responding-hangs-or-freezes-652ede6e-e3d2-449a-a07f-8c800dfb948d?ocmsassetID#bkmk_conflict) với Microsoft 365 ứng dụng
 - Xác minh hoặc [cài đặt các bản cập nhật mới nhất cho Office](https://support.office.com/article/update-office-and-your-computer-with-microsoft-update-2ab296f3-7f03-43a2-8e50-46de917611c5)
 - [Sửa chữa văn phòng](https://support.office.com/article/repair-an-office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b) sử dụng bảng điều khiển
 - [Dỡ cài đặt](https://support.office.com/article/uninstall-office-from-a-pc-9dd49b83-264a-477a-8fcc-2fdf5dbf61d8) và cài đặt lại Office

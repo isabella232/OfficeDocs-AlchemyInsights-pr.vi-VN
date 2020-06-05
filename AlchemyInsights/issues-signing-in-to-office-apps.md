@@ -1,5 +1,5 @@
 ---
-title: Vấn đề đăng nhập vào ứng dụng văn phòng
+title: Sự cố khi đăng nhập vào ứng dụng Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,21 +11,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2560"
-ms.openlocfilehash: de0a1b78724db9a8e93d8d599ce3b503abcb86e2
-ms.sourcegitcommit: 699ac3b0d66e0640f8e933eba3c2a4ba1cfcf3c7
+ms.openlocfilehash: e4f2fea5c2f368ae240614ee1f7bc729338dd75d
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "35938389"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44579959"
 ---
-# <a name="fixing-the-office-apps-sorry-another-account-from-your-organization-is-already-signed-in-message"></a>Sửa chữa văn phòng ứng dụng thông báo "Sorry, các tài khoản khác từ tổ chức của bạn đã được đăng"
+# <a name="fixing-the-microsoft-365-apps-sorry-another-account-from-your-organization-is-already-signed-in-message"></a>Khắc phục các ứng dụng Microsoft 365 "xin lỗi, một tài khoản khác từ tổ chức của bạn đã được đăng nhập" tin nhắn
 
 Để khắc phục lỗi này, hãy thử như sau:
 
-- Loại bỏ tất cả các tài khoản công việc, trừ các tài khoản bị ảnh hưởng, bằng cách sử dụng thiết đặt Windows > **truy cập làm việc hay trường học**.
-- [Rõ ràng văn phòng thông tin đăng nhập](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) bằng cách sử dụng trình quản lý ủy nhiệm của Windows.<br/>
-    **Lưu ý:** Các đường dẫn đăng ký đối với Office 2016 đã thay đổi để 16.0. (Ví dụ: \Software\Microsoft\Office\16.0\Common\Identity\)
-- Mở một ứng dụng văn phòng, chọn **File** > **tài khoản** > **Đăng xuất**. Sau đó đăng nhập bằng tài khoản người dùng với một giấy phép hợp lệ. Thông tin chi tiết, hãy xem [các tài khoản trong văn phòng](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).
-- Dành cho Mac, hãy xem [không thể đăng nhập vào một Office 2016 cho Mac app](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail).
+- Xóa tất cả tài khoản công việc, ngoại trừ tài khoản bị ảnh hưởng, sử dụng cài đặt Windows > **truy cập công việc hoặc trường học**.
+- [Thông tin đăng nhập văn phòng rõ ràng](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) bằng cách sử dụng trình quản lý ủy nhiệm Windows.<br/>
+    **Lưu ý:** Đường dẫn đăng ký cho Office 2016 đã thay đổi để 16,0. (Ví dụ: \Software\Microsoft\Office\16.0\Common\Identity\)
+- Mở ứng dụng Office, chọn **File**  >  đăng xuất**tài khoản**tệp  >  **Sign Out**. Sau đó đăng nhập bằng tài khoản người dùng có giấy phép hợp lệ. Để biết thông tin chi tiết, xem [tài khoản trong Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).
+- Đối với Mac, xem [không thể đăng nhập vào một Office 2016 cho Mac ứng dụng](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail).
 
-Để biết thêm thông tin, hãy xem ["Xin lỗi, các tài khoản khác từ tổ chức của bạn đã được đăng nhập trên máy tính này" trong văn phòng](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in).
+Để biết thêm thông tin, hãy xem ["xin lỗi, một tài khoản khác từ tổ chức của bạn đã đăng nhập vào máy tính này" trong Office](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in).

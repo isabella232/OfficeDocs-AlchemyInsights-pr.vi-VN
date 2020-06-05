@@ -1,5 +1,5 @@
 ---
-title: Thông báo đăng ký hết hạn trong ứng dụng Office
+title: Đăng ký hết hạn thông báo trong Microsoft 365 ứng dụng
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1905"
-ms.openlocfilehash: 19ec94291497cd6cf3758e1ee2bb3c7c3631f001
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.openlocfilehash: be5fece97854e4967133f74cfb51728dab853b5f
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43789288"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44576726"
 ---
-# <a name="subscription-expired-notice-in-office-apps"></a>Thông báo "đăng ký hết hạn" trong ứng dụng Office
+# <a name="subscription-expired-notice-in-microsoft-365-apps"></a>Thông báo "đăng ký hết hạn" trong ứng dụng Microsoft 365
 
 - Kiểm tra [trang dịch vụ y tế](https://docs.microsoft.com/office365/enterprise/view-service-health) để xem nếu có bất kỳ sự cố đã biết với dịch vụ.
 
@@ -30,7 +30,7 @@ ms.locfileid: "43789288"
 
 - Chạy trình [khắc phục sự cố kích hoạt](https://aka.ms/SARA-OfficeActivation-Alchemy) và khởi động lại máy tính.
 
-- Trên máy bị ảnh hưởng, [đặt lại trạng thái kích hoạt Office](https://techcommunity.microsoft.com/t5/Office-365-ProPlus/Reset-Office-365-ProPlus-activation-state/td-p/331632).
+- Trên máy bị ảnh hưởng, [đặt lại trạng thái kích hoạt Office](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
 Để biết hướng dẫn chi tiết, xem: 
 
