@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002266"
 - "4780"
-ms.openlocfilehash: 527556fcb02525eb88ea992c38a2ddfcba6f9453
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 91308850c06485bdd11e81bd130770aefb247118
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44506580"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580787"
 ---
 # <a name="aip-policies-not-behaving-as-expected"></a>AIP: chính sách không phản bội như mong đợi
 
@@ -39,5 +39,5 @@ Tài nguyên bổ sung:
 
 - [Làm thế nào để cấu hình nhãn cho dấu hiệu trực quan để bảo vệ thông tin Azure](https://docs.microsoft.com/azure/information-protection/configure-policy-markings)
 - [Đánh giá tài liệu về bảo vệ thông tin Azure](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)
-- [Sử dụng nhãn nhạy cảm trong ứng dụng Office](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-office-apps)
+- [Sử dụng nhãn nhạy cảm trong ứng dụng Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-office-apps)
 

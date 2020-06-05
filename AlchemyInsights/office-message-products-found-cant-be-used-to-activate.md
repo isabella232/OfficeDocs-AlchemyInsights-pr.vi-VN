@@ -1,5 +1,5 @@
 ---
-title: Thông báo ứng dụng Office-các sản phẩm chúng tôi tìm thấy trong tài khoản của bạn không thể sử dụng để kích hoạt
+title: Thông báo ứng dụng Microsoft 365-các sản phẩm chúng tôi tìm thấy trong tài khoản của bạn không thể sử dụng để kích hoạt
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002311"
 - "4490"
-ms.openlocfilehash: f373666f51eabc6b141497475445800799296b4d
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
+ms.openlocfilehash: 7eb169dd74d647f196ca2dd93652bf5d970d68d1
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010771"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581637"
 ---
-# <a name="office-apps-message---the-products-we-found-in-your-account-cant-be-used-to-activate"></a>Thông báo ứng dụng Office-các sản phẩm chúng tôi tìm thấy trong tài khoản của bạn không thể sử dụng để kích hoạt
+# <a name="microsoft-365-apps-message---the-products-we-found-in-your-account-cant-be-used-to-activate"></a>Thông báo ứng dụng Microsoft 365-các sản phẩm chúng tôi tìm thấy trong tài khoản của bạn không thể sử dụng để kích hoạt
 
 - Xác minh rằng [trạng thái đăng ký](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checksubscription) của bạn hợp lệ và người dùng bị ảnh hưởng có [giấy phép hợp lệ được gán](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA) và kết nối Internet. 
 
@@ -26,7 +26,7 @@ ms.locfileid: "44010771"
 
 - Chạy trình [khắc phục sự cố kích hoạt](https://aka.ms/SARA-OfficeActivation-Alchemy) và khởi động lại máy tính.
 
-- Trên máy bị ảnh hưởng, [đặt lại trạng thái kích hoạt Office](https://techcommunity.microsoft.com/t5/Office-365-ProPlus/Reset-Office-365-ProPlus-activation-state/td-p/331632).
+- Trên máy bị ảnh hưởng, [đặt lại trạng thái kích hoạt Office](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
 Đối với trường hợp máy tính dùng chung, xem [khắc phục sự cố với kích hoạt máy tính dùng chung cho Microsoft 365 ứng dụng](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation)
 

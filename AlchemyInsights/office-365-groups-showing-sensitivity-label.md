@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200024"
 - "4803"
-ms.openlocfilehash: 9aea00b8239ed126cd56385cc6265fc15466db30
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: d8cd49eae557536d67a7d3a0798984b35c5be40e
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43911889"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581749"
 ---
 # <a name="microsoft-365-groups-showing-sensitivity-label"></a>Microsoft 365 nhóm Hiển thị độ nhạy nhãn
 

@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002266"
 - "4373"
-ms.openlocfilehash: 22eeb6ba32e4e943efa2495a477ff394f3c135db
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 8c79ab50e7ddbda0cf61eb9a95279f6c42cc515c
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44508398"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581217"
 ---
 # <a name="automatic-classification-not-behaving-as-expected-with-the-aip-client"></a>Tự động phân loại không cư xử như mong đợi với khách hàng AIP
 
@@ -26,7 +26,7 @@ Phân loại tự động không có như mong đợi, sử dụng các hướng
 2. Kiểm tra nếu bạn đang sử dụng chính sách scoped không được cấu hình đúng: [làm thế nào để cấu hình chính sách bảo vệ thông tin Azure cho người dùng cụ thể bằng cách sử dụng scoped chính sách](https://docs.microsoft.com/azure/information-protection/configure-policy-scope).
 3. Nếu ghi nhãn tự động không hoạt động cho Outlook khi đính kèm một tài liệu có nhãn, xác minh rằng `DRMEncryptProperty` không được xác định như mô tả ở đây: [cài đặt đăng ký IRM cho bảo mật](https://docs.microsoft.com/deployoffice/security/protect-sensitive-messages-and-documents-by-using-irm-in-office#office-2016-irm-registry-key-options).
 4. Nếu bạn đã sử dụng các [loại thông tin tích hợp](https://support.office.com/article/What-the-sensitive-information-types-look-for-fd505979-76be-4d9f-b459-abef3fc9e86b) cho chính sách bảo vệ thông tin Azure của bạn, hãy xác minh rằng nội dung của bạn phù hợp với định dạng mong muốn.
-5. Xác minh rằng nhãn được cấu hình phù hợp cho **tự động** hoặc **khuyến nghị**. (Ghi nhãn**tự động** có sẵn cho tất cả các ứng dụng Office, trong khi **đề xuất** có sẵn cho tất cả các ứng dụng Office ngoại trừ Outlook.)
+5. Xác minh rằng nhãn được cấu hình phù hợp cho **tự động** hoặc **khuyến nghị**. (Ghi nhãn**tự động** có sẵn cho tất cả các ứng dụng Microsoft 365, trong khi **đề xuất** có sẵn cho tất cả các ứng dụng Microsoft 365 ngoại trừ Outlook.)
 6. Bạn không thể sử dụng phân loại tự động cho các tài liệu và email trước đây được gắn nhãn theo cách thủ công hoặc trước đây tự động gắn nhãn với phân loại cao hơn.  Để biết thêm thông tin, xem: [làm thế nào tự động hoặc khuyến cáo nhãn được áp dụng](https://docs.microsoft.com/azure/information-protection/configure-policy-classification#how-automatic-or-recommended-labels-are-applied).
 7. Nếu bạn vẫn gặp sự cố, hãy thu thập Nhật ký khách hàng bảo vệ thông tin Azure và đính kèm Nhật ký xuất vé hỗ trợ của bạn. Xuất Nhật ký Azure thông tin bảo vệ:
     - Mở tài liệu Office hoặc tạo một email mới trong Outlook.

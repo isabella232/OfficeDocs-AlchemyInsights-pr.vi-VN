@@ -1,5 +1,5 @@
 ---
-title: Thông báo đăng ký trong ứng dụng Office
+title: Thông báo đăng ký trong ứng dụng Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1907"
-ms.openlocfilehash: 12ffe590e9ca6326a48fce94d685b10f63d51b2f
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.openlocfilehash: 1e70dc0f8b4ba420c09936cf440d619ccebd2c20
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43789216"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582329"
 ---
-# <a name="subscription-notice-messages-in-office-apps"></a>Thông báo đăng ký trong ứng dụng Office
+# <a name="subscription-notice-messages-in-microsoft-365-apps"></a>Thông báo đăng ký trong ứng dụng Microsoft 365
 
 - Nếu Office được cài đặt sẵn trên thiết bị mới của bạn, hãy xem [kích hoạt Office](https://support.office.com/article/activate-office-5bd38f38-db92-448b-a982-ad170b1e187e) để trợ giúp kích hoạt Office trên thiết bị mới của bạn.
 
@@ -32,7 +32,7 @@ ms.locfileid: "43789216"
 
 - Chạy trình [khắc phục sự cố kích hoạt](https://aka.ms/SARA-OfficeActivation-Alchemy) và khởi động lại máy tính.
 
-- Trên máy bị ảnh hưởng, [đặt lại trạng thái kích hoạt Office](https://techcommunity.microsoft.com/t5/Office-365-ProPlus/Reset-Office-365-ProPlus-activation-state/td-p/331632).
+- Trên máy bị ảnh hưởng, [đặt lại trạng thái kích hoạt Office](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
 Để biết hướng dẫn chi tiết, xem: 
 

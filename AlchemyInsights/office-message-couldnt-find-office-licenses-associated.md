@@ -1,5 +1,5 @@
 ---
-title: Thông báo ứng dụng Office-không thể tìm thấy giấy phép Office liên quan
+title: Microsoft 365 ứng dụng thông báo-không thể tìm thấy giấy phép Office liên quan
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001426"
 - "3421"
-ms.openlocfilehash: 28b8c977979c9174fc5fabd7a5c7376bb2109c03
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 08996a2e78e098fa6415d2b65dd609d0fdee5232
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505113"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581673"
 ---
-# <a name="office-apps-message---couldnt-find-office-licenses-associated"></a>Thông báo ứng dụng Office-không thể tìm thấy giấy phép Office liên quan
+# <a name="microsoft-365-apps-message---couldnt-find-office-licenses-associated"></a>Microsoft 365 ứng dụng thông báo-không thể tìm thấy giấy phép Office liên quan
 
 Để khắc phục lỗi này, hãy thử như sau:
 
@@ -38,7 +38,7 @@ Nếu sự cố vẫn tiếp diễn, hãy thử các bước sau:
 
 - Đặt lại trạng thái kích hoạt Office. Xem [đặt lại Microsoft 365 ứng dụng cho trạng thái kích hoạt doanh nghiệp](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
-- Kiểm tra tường lửa, phần mềm chống vi-rút và cài đặt proxy để xác nhận họ không chặn truy cập các ứng dụng Office vào Internet. 
+- Kiểm tra tường lửa, phần mềm chống vi-rút và cài đặt proxy để xác nhận họ không chặn Microsoft 365 ứng dụng truy cập Internet. 
 
 Để biết thêm giải pháp khắc phục sự cố, xem:
 

@@ -1,5 +1,5 @@
 ---
-title: Sửa ứng dụng Office không thể tìm thấy giấy phép văn phòng liên quan đến tin nhắn
+title: Sửa chữa Microsoft 365 ứng dụng không thể tìm thấy giấy phép văn phòng liên quan đến tin nhắn
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3421"
 - "9001426"
-ms.openlocfilehash: 887be4bee2bd1562bdc3b29783e9deafe47d8d57
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 65ffae1a784f841cb08a5df52b02671a4526d9d4
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505889"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580463"
 ---
-# <a name="fixing-the-office-apps-couldnt-find-office-licenses-associated-message"></a>Khắc phục các ứng dụng Office "không thể tìm thấy giấy phép văn phòng liên kết" thông báo
+# <a name="fixing-the-microsoft-365-apps-couldnt-find-office-licenses-associated-message"></a>Khắc phục thông báo Microsoft 365 ứng dụng "không thể tìm thấy giấy phép Office liên kết"
 
 Nếu bạn nhận được thông báo này, hãy thử như sau:
 
-1. Kiểm tra tường lửa, phần mềm chống vi-rút và cài đặt proxy để xác nhận rằng chúng không chặn truy cập Internet vào các ứng dụng Office. Xem [Microsoft 365 URL và phạm vi địa chỉ IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+1. Kiểm tra tường lửa, phần mềm chống vi-rút và cài đặt proxy để xác nhận rằng chúng không chặn truy cập Internet tới các ứng dụng Microsoft 365. Xem [Microsoft 365 URL và phạm vi địa chỉ IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 2. Loại bỏ và [gán giấy phép Office](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users) cho người dùng bị ảnh hưởng. 
 3. Mở ứng dụng Office và [đăng](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071) xuất khỏi bất kỳ tài khoản người dùng hiện có nào.
 4. Đi tới cài đặt Windows > **tài**khoản  >  **email & tài khoản**và xóa tất cả tài khoản công việc ngoại trừ tài khoản bị ảnh hưởng.

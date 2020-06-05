@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom:
 - "1778"
 - "9000181"
-ms.openlocfilehash: 1326eca02044014a8e9c072fcc3e4cd3a41c7a9f
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: df64022f6ad684e2af3eac080068536b7a167b74
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44511674"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581037"
 ---
 # <a name="sensitivity-labels-not-appearing"></a>Nhãn độ nhạy không xuất hiện
 
 Nhãn nhạy cảm cho phép bạn phân loại và giúp bảo vệ nội dung nhạy cảm của mình. Chúng có thể được tạo ra trong Trung tâm tuân thủ Microsoft 365, Trung tâm bảo mật Microsoft 365 hoặc Microsoft 365 bảo mật & tuân thủ trung tâm trong phân loại > độ nhạy nhãn. Để tìm hiểu thêm về tính năng này, hãy xem [tổng quan về các nhãn nhạy cảm](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels).
 
-Nếu bạn đã định cấu hình nhãn nhạy cảm nhưng chúng không xuất hiện trong các ứng dụng Office, hãy kiểm tra sau:
+Nếu bạn đã định cấu hình nhãn nhạy cảm nhưng chúng không xuất hiện trong các ứng dụng Microsoft 365, hãy kiểm tra sau:
 
 - Xác nhận rằng nhãn nhạy cảm đã được [xuất bản](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels#what-label-policies-can-do) cho người dùng và nhóm mà bạn muốn.
 

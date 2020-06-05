@@ -1,5 +1,5 @@
 ---
-title: 'Lỗi ứng dụng Office: ứng dụng không thể khởi động đúng cách'
+title: 'Microsoft 365 ứng dụng lỗi: ứng dụng không thể khởi động đúng cách'
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "2533"
 - "9000572"
-ms.openlocfilehash: a096fbb25daf341a3a66294782c33e20d29d8322
-ms.sourcegitcommit: a66b37557baafe35d39134105dc604c326191a48
+ms.openlocfilehash: bc860a2e5debed1de33b7269e699ccd034181602
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 12/27/2019
-ms.locfileid: "40886628"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581181"
 ---
-# <a name="office-apps-error-the-application-was-unable-to-start-correctly"></a>Lỗi ứng dụng Office: ứng dụng không thể khởi động đúng cách
+# <a name="microsoft-365-apps-error-the-application-was-unable-to-start-correctly"></a>Lỗi ứng dụng Microsoft 365: ứng dụng không thể khởi động đúng cách
 
 Để khắc phục lỗi này, hãy thử các tuỳ chọn sau:
 
@@ -30,6 +30,6 @@ ms.locfileid: "40886628"
 
 Để biết thêm thông tin, hãy xem: 
 
-- [Lỗi khi mở ứng dụng Microsoft Office](https://support.office.com/article/error-when-opening-microsoft-office-apps-b84b6a63-4b8c-46ec-ae9a-ad91d6160d72)
+- [Lỗi khi mở ứng dụng Microsoft Microsoft 365](https://support.office.com/article/error-when-opening-microsoft-office-apps-b84b6a63-4b8c-46ec-ae9a-ad91d6160d72)
 - [Tôi nhận được một "ngừng làm việc" lỗi khi tôi bắt đầu các ứng dụng Office trên máy tính của tôi](https://support.office.com/article/i-get-a-stopped-working-error-when-i-start-office-applications-on-my-pc-52bd7985-4e99-4a35-84c8-2d9b8301a2fa)
-- [Khắc phục sự cố xảy ra khi bạn khởi động hoặc sử dụng ứng dụng Office](https://docs.microsoft.com/office/troubleshoot/word/issues-when-start-or-use-word)
+- [Khắc phục sự cố xảy ra khi bạn khởi động hoặc sử dụng ứng dụng Microsoft 365](https://docs.microsoft.com/office/troubleshoot/word/issues-when-start-or-use-word)
