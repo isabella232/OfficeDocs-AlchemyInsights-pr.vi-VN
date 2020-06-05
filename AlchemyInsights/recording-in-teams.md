@@ -11,17 +11,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "5037"
-ms.openlocfilehash: 5cc160eb3d78f92ffb82cab79db2685fa9aef88f
-ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
+ms.openlocfilehash: c536c966daa054618a6b30fdc6f9ffdb993eba81
+ms.sourcegitcommit: 8e093114cd31141664e267a7c7b779398d5fdfa8
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/18/2020
-ms.locfileid: "43553544"
+ms.lasthandoff: 06/04/2020
+ms.locfileid: "44563487"
 ---
 # <a name="recording-in-teams"></a>Ghi âm trong teams
 
 Nếu bạn không thể ghi lại trong teams hoặc cần phải hiểu cách ghi lại trong teams, hãy thử một trong các bài viết sau.
 
-- Để tìm hiểu cách bắt đầu ghi âm trong teams hoặc loại người dùng có thể bắt đầu hoặc dừng ghi trong teams, vui lòng đánh giá [ghi lại cuộc họp trong teams](https://support.office.com/client/34dfbe7f-b07d-4a27-b4c6-de62f1348c24).
+Khả năng ghi âm cuộc họp của teams dựa vào tính khả dụng của khu vực và quốc gia.  Nếu bạn không thể ghi lại một cuộc họp kiểm tra để đảm bảo rằng [dòng có sẵn ở quốc gia hoặc khu vực của bạn](https://docs.microsoft.com/stream/faq#which-regions-does-microsoft-stream-host-my-data-in).  Để biết thêm thông tin chắc chắn để đánh giá sau Trung tâm thông báo bài viết trong Cổng quản trị:
 
-- Để tìm hiểu cách bật và đặt cấu hình tính năng ghi trong teams cho tổ chức của bạn, vui lòng đánh giá [ghi âm cuộc họp đám mây của teams](https://docs.microsoft.com/microsoftteams/cloud-recording).
+- [Tính năng Cập Nhật: Microsoft Stream đám mây ghi khu vực kiểm soát lưu trữ](https://admin.microsoft.com/AdminPortal/Home#/MessageCenter?id=MC214327)
+
+Ghi âm cuộc họp trong teams [yêu cầu chỉ định các giấy phép và chính sách cụ thể](https://docs.microsoft.com/microsoftteams/cloud-recording#prerequisites-for-teams-cloud-meeting-recording), bao gồm cả các giấy phép Stream để tải lên hoặc tải xuống bản ghi cuộc họp cho Microsoft Stream.
+
+Để tìm hiểu cách bật và đặt cấu hình tính năng ghi trong teams cho tổ chức của bạn, bao gồm cả các biện pháp kiểm soát để bật hoặc tắt ghi cuộc họp cho người dùng cụ thể, vui lòng kiểm lại [ghi âm cuộc họp đám mây của teams](https://docs.microsoft.com/microsoftteams/cloud-recording).
+
+Khi bạn đã xác nhận tất cả các yêu cầu được đáp ứng, bao gồm cấp phép, chính sách và tính khả dụng của khu vực của Stream, đánh giá [ghi lại một cuộc họp trong teams](https://support.office.com/article/34dfbe7f-b07d-4a27-b4c6-de62f1348c24).

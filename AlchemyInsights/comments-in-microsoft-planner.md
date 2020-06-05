@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001717"
 - "3810"
-ms.openlocfilehash: 98246b52e21c7a24d04e18ce77d96b28c65e7909
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 5895b1f94325946ab165b97b68848068df1a81c2
+ms.sourcegitcommit: 8e093114cd31141664e267a7c7b779398d5fdfa8
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43911242"
+ms.lasthandoff: 06/04/2020
+ms.locfileid: "44563343"
 ---
 # <a name="comments-in-microsoft-planner"></a>Nhận xét trong Microsoft Planner
 
@@ -32,4 +32,4 @@ Dưới đây là một số câu trả lời cho các vấn đề phổ biến 
 
 - **Xóa người dùng đang nhận được email** -nếu người dùng nhận xét về một tác vụ trước khi bị xóa khỏi kế hoạch, Chuỗi email bao gồm người dùng cho mỗi nhận xét được thực hiện trên tác vụ.
 
-Để biết thông tin chi tiết về nhận xét với Microsoft Planner, xem [cách Microsoft Planner hoạt động](https://techcommunity.microsoft.com/t5/planner-blog/how-microsoft-planner-works/ba-p/1214736) và [nhận xét về các tác vụ trong Microsoft Planner](https://support.microsoft.com/office/comment-on-tasks-in-microsoft-planner-fd4aedde-7785-4cd0-96ee-122fbc9140e1).
+Để biết thông tin chi tiết về nhận xét với Microsoft Planner, xem [cách Microsoft Planner hoạt động](https://techcommunity.microsoft.com/t5/planner-blog/how-microsoft-planner-works/ba-p/1214736) và [nhận xét về các tác vụ trong Microsoft Planner](https://support.microsoft.com/office/fd4aedde-7785-4cd0-96ee-122fbc9140e1).

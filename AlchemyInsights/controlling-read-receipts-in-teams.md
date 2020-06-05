@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002246"
 - "4369"
-ms.openlocfilehash: 2568ce2eb911b75915fde69ca97ca1c09fb051aa
-ms.sourcegitcommit: 497705a43e9317bf1d7519223f90a4d6a8c1c5db
+ms.openlocfilehash: d03a9aa5eae0c6e8e7f279442e0dd53b3e9d2700
+ms.sourcegitcommit: 8e093114cd31141664e267a7c7b779398d5fdfa8
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "44534787"
+ms.lasthandoff: 06/04/2020
+ms.locfileid: "44563451"
 ---
 # <a name="controlling-read-receipts-in-teams"></a>Kiểm soát biên lai đọc trong teams
 
@@ -28,4 +28,4 @@ Bạn có thể kiểm soát xác nhận **đọc** cho tổ chức bằng cách
 
 - Nếu bạn cho phép người dùng kiểm soát cài đặt xác nhận đọc của riêng họ, [đây là cách họ có thể sửa đổi chúng](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams#messaging-policy-settings). 
 
-**Lưu ý**: quản trị viên phải bật xác nhận đọc để người dùng có thể thực hiện sửa đổi.
+**Lưu ý**: quản trị viên phải bật xác nhận đọc để người dùng có thể thực hiện sửa đổi. Để kiểm tra hoặc sửa đổi cài đặt này, hãy đi tới chính sách nhắn tin của **Trung tâm quản trị đội nhóm**đã >  **Messaging policies**  >  **đọc biên** nhận
