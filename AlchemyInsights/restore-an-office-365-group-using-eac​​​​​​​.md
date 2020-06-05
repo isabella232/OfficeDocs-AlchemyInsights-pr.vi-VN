@@ -1,5 +1,5 @@
 ---
-title: Khôi phục nhóm Microsoft 365 bằng cách sử dụng trung tâm quản trị Exchange
+title: Khôi phục Microsoft 365 nhóm bằng cách sử dụng trung tâm quản trị Exchange
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -10,14 +10,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: c73ad2a3-39ed-4acb-9872-6a38eda11464
-ms.openlocfilehash: b40d216bce2f88c7ed48a470537c69e8589159f3
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 221f075669f5f0e35ae5df11a4a59845ea81b5cd
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912605"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582401"
 ---
-# <a name="restore-an-microsoft-365-group-using-the-exchange-admin-center"></a>Khôi phục nhóm Microsoft 365 bằng cách sử dụng trung tâm quản trị Exchange
+# <a name="restore-a-microsoft-365-group-using-the-exchange-admin-center"></a>Khôi phục Microsoft 365 nhóm bằng cách sử dụng trung tâm quản trị Exchange
 
 1. Trong điều hướng bên trái của Trung tâm quản trị Microsoft 365, mở rộng **Trung tâm quản trị**, và sau đó chọn **Exchange**.
     

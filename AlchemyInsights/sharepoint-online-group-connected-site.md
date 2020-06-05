@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: b54457427ffa563b6a6323d85e1c8800191eca11
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 5dab9fce935936898927afd55f8f6e9260249157
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44064415"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582833"
 ---
 # <a name="issues-when-creating-a-group-connected-site-in-sharepoint"></a>Vấn đề khi tạo một nhóm kết nối trang web trong SharePoint
 
@@ -30,5 +30,5 @@ Nếu bạn đã xóa một nhóm và trang web được kết nối của nó v
 
 1. Có nhiều cách khác nhau để tạo và sử dụng các nhóm hiện đại với SharePoint.
 
-   - Bạn có thể kết nối các trang web hiện có với một nhóm Microsoft 365. Để biết thêm thông tin, hãy xem [kết nối nhóm Microsoft 365 bằng cách sử dụng giao diện người dùng SharePoint](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group#connect-an-office-365-group-using-the-sharepoint-user-interface).
+   - Bạn có thể kết nối các trang web hiện có với nhóm Microsoft 365. Để biết thêm thông tin, hãy xem [kết nối nhóm Microsoft 365 bằng cách sử dụng giao diện người dùng SharePoint](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group#connect-an-office-365-group-using-the-sharepoint-user-interface).
    - Để tạo một trang web được kết nối với nhóm Microsoft 365, bạn cần tạo một [site nhóm](https://admin.microsoft.com/sharepoint).

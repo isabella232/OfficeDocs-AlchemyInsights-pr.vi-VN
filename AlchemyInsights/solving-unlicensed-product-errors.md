@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3412"
 - "9001428"
-ms.openlocfilehash: b629f24014a789b1f9847f62e725f726d4199027
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 89d0e589329d40f17c36baa54868154be0f5b887
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44512034"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582761"
 ---
 # <a name="suggestions-for-solving-unlicensed-product-errors"></a>Gợi ý giải quyết lỗi "không có giấy phép sản phẩm"
 
@@ -26,7 +26,7 @@ ms.locfileid: "44512034"
 - Hãy chắc chắn rằng bạn có một thuê bao cho phép khách hàng giấy phép, chẳng hạn như Microsoft 365 Apps dành cho doanh nghiệp hoặc Business Premium, và [đảm bảo rằng người dùng có giấy phép được chỉ định](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users). 
 - Đảm bảo rằng người dùng đang đăng nhập vào Office với cùng một tài khoản có giấy phép được chỉ định.
 - Kiểm tra [trang y tế Dịch vụ](https://docs.microsoft.com/office365/enterprise/view-service-health) để xem có bất kỳ sự cố đã biết với dịch vụ.
-- Kiểm tra tường lửa, phần mềm chống vi-rút và cài đặt proxy để xác nhận rằng chúng không chặn truy cập các ứng dụng Office vào Internet. Xem [URL và phạm vi địa chỉ IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+- Kiểm tra tường lửa, phần mềm chống vi-rút và cài đặt proxy để xác nhận rằng chúng không chặn các ứng dụng Microsoft 365 truy cập Internet. Xem [URL và phạm vi địa chỉ IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 
 Bạn cũng có thể thử các hành động khắc phục sự cố sau: 
 
