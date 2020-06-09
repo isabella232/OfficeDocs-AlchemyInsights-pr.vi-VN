@@ -13,20 +13,20 @@ ms.custom:
 - "9000140"
 - "9000660"
 - "2509"
-ms.openlocfilehash: ddb9ffb2f6545e99a593ee830854f986438950cd
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
+ms.openlocfilehash: 34593fbe80f11c9b4e1d10d3e1dbe5ff79602299
+ms.sourcegitcommit: 9816ac4d0fef20558383a491e0e76b79c56323f5
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010862"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "44618005"
 ---
 # <a name="microsoft-teams-installed-with-office-updates"></a>Microsoft teams cài đặt với bản Cập Nhật Office
 
 Microsoft teams được đưa vào như một phần của các ***cài đặt mới*** của Microsoft 365 ứng dụng dành cho doanh nghiệp, Microsoft 365 ứng dụng dành cho doanh nghiệp và Office cho Mac. Để biết thêm thông tin, xem [khi nào Microsoft teams sẽ bắt đầu được đưa vào cài đặt Office mới?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-microsoft-365-apps)
 
-Ngoài ra, bắt đầu với phiên bản 1906 trong hàng tháng kênh, teams sẽ dần được thêm vào ***cài đặt hiện tại*** của Microsoft 365 Apps dành cho doanh nghiệp (và Microsoft 365 Apps for Business) trên các thiết bị chạy Windows khi bạn cập nhật cài đặt hiện có lên phiên bản mới nhất. Để biết thêm thông tin, xem [những gì về cài đặt hiện tại của Office?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-microsoft-365-apps)
+Ngoài ra, bắt đầu với phiên bản 1906 trong kênh hiện tại, teams sẽ dần được thêm vào các ***cài đặt hiện*** tại của Microsoft 365 Apps dành cho doanh nghiệp (và Microsoft 365 Apps for Business) trên các thiết bị chạy Windows khi bạn cập nhật cài đặt hiện có lên phiên bản mới nhất. Để biết thêm thông tin, xem [những gì về cài đặt hiện tại của Office?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-microsoft-365-apps)
 
-**Lưu ý:** Nếu bạn không muốn chờ đợi lịch trình triển khai này, bạn có thể sử dụng teams là độc lập cho người dùng bằng cách https://teams.microsoft.com/downloadslàm [theo các hướng dẫn này](https://docs.microsoft.com/MicrosoftTeams/msi-deployment)hoặc bạn có thể tự cài đặt teams.
+**Lưu ý:** Nếu bạn không muốn chờ đợi lịch trình triển khai này, bạn có thể sử dụng teams là độc lập cho người dùng bằng cách làm [theo các hướng dẫn này](https://docs.microsoft.com/MicrosoftTeams/msi-deployment)hoặc bạn có thể tự cài đặt teams https://teams.microsoft.com/downloads .
 
 Nếu tổ chức của bạn chưa sẵn sàng triển khai teams, bạn có thể ***loại trừ teams*** khỏi các cài đặt Office [mới](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-microsoft-365-apps) hoặc [hiện tại](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams) . Nếu bạn muốn cài đặt teams, nhưng không muốn teams tự động bắt đầu cho người dùng sau khi cài đặt, hãy xem [ngăn Microsoft teams tự động bắt đầu sau khi cài đặt](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation).
 
