@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom:
 - "3518"
 - "1800021"
-ms.openlocfilehash: ecc1e5ec741cc90c58698991c3a3135f87c39938
-ms.sourcegitcommit: 9816ac4d0fef20558383a491e0e76b79c56323f5
+ms.openlocfilehash: c0982da82826d1644f437b19e0d343a59d7ac473
+ms.sourcegitcommit: e09af4285c6b81ca0a5320fdb811713ac25748c3
 ms.translationtype: MT
 ms.contentlocale: vi-VN
 ms.lasthandoff: 06/09/2020
-ms.locfileid: "44618035"
+ms.locfileid: "44664268"
 ---
 # <a name="error-the-rules-on-this-computer-do-not-match"></a>Lỗi: các quy tắc trên máy tính này không khớp
 
@@ -28,3 +28,4 @@ Cho đến khi sửa chữa có sẵn vui lòng sử dụng giải pháp sau:
 Cách **giải quyết**: trong báo cáo gần đây, sự cố đã xảy ra đối với những người đã chỉ tạo ra các quy tắc khách hàng trong màn hình Outlook. Nếu bạn tiếp tục chạy vào sự cố, hãy xem xét xoá các quy tắc và sau đó tạo và chỉnh sửa quy tắc chỉ trong OWA (Outlook Web App) cho đến khi vấn đề được giải quyết.
 
 Nếu bạn không thể xoá các quy tắc theo cách thủ công, bạn có thể chạy lệnh Outlook khi bạn khởi động Outlook bằng Outlook. exe/cleanrules. Điều này sẽ xóa cả quy tắc máy khách và máy chủ. Nó sẽ xóa tất cả các quy tắc cho tất cả các tài khoản trong hồ sơ Outlook. Lệnh này là thêm tài liệu trong bài viết chuyển dòng lệnh.
+
