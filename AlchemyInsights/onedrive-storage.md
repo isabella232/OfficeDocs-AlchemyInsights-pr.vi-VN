@@ -14,26 +14,17 @@ ms.custom:
 - "2398"
 - "9000354"
 ms.assetid: 71fc8106-d11f-46e7-9af0-81708546c437
-ms.openlocfilehash: 625040199ad94749870efd3654af1525dd9c3bca
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: de352e3576665cd3a758ecd488b48f625308ad3d
+ms.sourcegitcommit: 4aa64fe36c18654ebeadf8f34d7a3ff24c3aa230
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049071"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "44667870"
 ---
-# <a name="manage-your-onedrive-storage"></a><span data-ttu-id="dbd98-102">Quản lý bộ nhớ OneDrive của bạn</span><span class="sxs-lookup"><span data-stu-id="dbd98-102">Manage your OneDrive storage</span></span>
+# <a name="manage-your-onedrive-storage"></a><span data-ttu-id="8b53f-102">Quản lý bộ nhớ OneDrive của bạn</span><span class="sxs-lookup"><span data-stu-id="8b53f-102">Manage your OneDrive storage</span></span>
 
-<span data-ttu-id="dbd98-103">Không gian lưu trữ OneDrive không tính vào dung lượng đối tượng thuê chung.</span><span class="sxs-lookup"><span data-stu-id="dbd98-103">OneDrive Storage space does not count toward overall Tenant Quota.</span></span> 
+<span data-ttu-id="8b53f-103">Bạn có thể quản lý OneDrive dành cho doanh nghiệp để xem bạn đang sử dụng dung lượng bao nhiêu và không gian trống.</span><span class="sxs-lookup"><span data-stu-id="8b53f-103">You can manage your OneDrive for Business to see how much space you’re using and free up space.</span></span>  <span data-ttu-id="8b53f-104">Để biết thêm thông tin, hãy truy cập vào các liên kết dưới đây.</span><span class="sxs-lookup"><span data-stu-id="8b53f-104">For more information visit the links below.</span></span>
 
-<span data-ttu-id="dbd98-104">Tìm hiểu [cách phân bổ dung lượng bộ nhớ OneDrive cho mỗi người dùng/gói](https://docs.microsoft.com/office365/servicedescriptions/onedrive-for-business-service-description?redirectedfrom=MSDN#storage-space-per-user).</span><span class="sxs-lookup"><span data-stu-id="dbd98-104">Learn [how OneDrive storage space is allocated per user/plan](https://docs.microsoft.com/office365/servicedescriptions/onedrive-for-business-service-description?redirectedfrom=MSDN#storage-space-per-user).</span></span>
-
-<span data-ttu-id="dbd98-105">Tìm hiểu [dung lượng lưu trữ bạn đang sử dụng trong OneDrive](https://support.office.com/article/manage-your-onedrive-for-business-storage-31519161-059c-4764-b6f8-f5cd29f7fe68).</span><span class="sxs-lookup"><span data-stu-id="dbd98-105">Learn [how much storage you are using in your OneDrive](https://support.office.com/article/manage-your-onedrive-for-business-storage-31519161-059c-4764-b6f8-f5cd29f7fe68).</span></span>
-
-<span data-ttu-id="dbd98-106">Tìm hiểu [cách nhận dung lượng lưu trữ OneDrive bằng PowerShell](https://gallery.technet.microsoft.com/scriptcenter/OneDrive-for-Business-0cb45614).</span><span class="sxs-lookup"><span data-stu-id="dbd98-106">Learn [how to get OneDrive Storage Quota using PowerShell](https://gallery.technet.microsoft.com/scriptcenter/OneDrive-for-Business-0cb45614).</span></span>
-
-<span data-ttu-id="dbd98-107">Microsoft ban đầu sẽ cung cấp 1 TB cho mỗi người dùng, mà quản trị viên có thể tăng lên đến 5 TB cho mỗi người dùng.</span><span class="sxs-lookup"><span data-stu-id="dbd98-107">Microsoft will initially provide 1 TB per user, which admins can increase to up to 5 TB per user.</span></span> <span data-ttu-id="dbd98-108">Tìm hiểu cách [đặt không gian lưu trữ mặc định cho người dùng OneDrive](https://docs.microsoft.com/onedrive/set-default-storage-space).</span><span class="sxs-lookup"><span data-stu-id="dbd98-108">Learn how to [set the default storage space for OneDrive users](https://docs.microsoft.com/onedrive/set-default-storage-space).</span></span>
-
-<span data-ttu-id="dbd98-109">Tìm hiểu [cách thay đổi không gian lưu trữ OneDrive của người dùng cụ thể](https://docs.microsoft.com/onedrive/change-user-storage).</span><span class="sxs-lookup"><span data-stu-id="dbd98-109">Learn [how to change a specific user's OneDrive storage space](https://docs.microsoft.com/onedrive/change-user-storage).</span></span>
-
-<span data-ttu-id="dbd98-110">Tìm hiểu [cách quản trị viên toàn cầu có thể đặt hạn ngạch lưu trữ OneDrive cho tất cả người dùng bằng PowerShell](https://gallery.technet.microsoft.com/office/How-to-set-OneDrive-for-8b61365b).</span><span class="sxs-lookup"><span data-stu-id="dbd98-110">Learn [how Global Admins can set OneDrive Storage Quota for all users using PowerShell](https://gallery.technet.microsoft.com/office/How-to-set-OneDrive-for-8b61365b).</span></span>
-  
+- [<span data-ttu-id="8b53f-105">Quản lý lưu trữ OneDrive cho doanh nghiệp của bạn</span><span class="sxs-lookup"><span data-stu-id="8b53f-105">Manage your OneDrive for Business storage</span></span>](https://support.microsoft.com/office/31519161-059c-4764-b6f8-f5cd29f7fe68)
+- [<span data-ttu-id="8b53f-106">Thay đổi không gian lưu trữ OneDrive của người dùng cụ thể</span><span class="sxs-lookup"><span data-stu-id="8b53f-106">Change a specific user's OneDrive storage space</span></span>](https://docs.microsoft.com/onedrive/change-user-storage)
+- [<span data-ttu-id="8b53f-107">Đặt không gian lưu trữ mặc định cho người dùng OneDrive</span><span class="sxs-lookup"><span data-stu-id="8b53f-107">Set the default storage space for OneDrive users</span></span>](https://docs.microsoft.com/onedrive/set-default-storage-space)
