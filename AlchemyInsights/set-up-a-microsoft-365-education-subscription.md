@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002444"
 - "5493"
-ms.openlocfilehash: 1759240afe18342bd5af205eb36d747803808134
-ms.sourcegitcommit: 07725fcaf073f0ac145f98653b989afdb34c5ad0
+ms.openlocfilehash: 3d2cb4689a0281e0184f2a02ec153208a997e8f7
+ms.sourcegitcommit: 981880f6141278b87da22924a39bb1bb5892bb83
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "43915264"
+ms.lasthandoff: 06/22/2020
+ms.locfileid: "44841021"
 ---
 # <a name="set-up-a-microsoft-365-education-subscription"></a>Thiết lập đăng ký Microsoft 365 Education
 
@@ -24,6 +24,5 @@ ms.locfileid: "43915264"
 
 **Tài nguyên tuyệt vời hơn**
 
-- Xem [thiết lập một người thuê văn phòng 365 giáo dục để](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/set-up-office365-edu-tenant) biết tổng quan.
-- Xem bắt [đầu với Microsoft 365 giáo dục](https://docs.microsoft.com/education/) cho quản trị viên CNTT, nhà phát triển và đối tác. 
-- [Liên kết tài khoản Microsoft Store của bạn với InTune for Education](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/configure-microsoft-store-for-education). 
+- Xem [tạo tài khoản người thuê Office 365](https://docs.microsoft.com/microsoft-365/education/deploy/create-your-office-365-tenant) để biết tổng quan.
+- Xem bắt [đầu với Microsoft 365 giáo dục](https://docs.microsoft.com/education/) dành cho quản trị viên CNTT, nhà phát triển và đối tác.

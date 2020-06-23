@@ -13,15 +13,19 @@ ms.custom:
 - "613"
 - "3800011"
 ms.assetid: 5372dfc5-e4d8-4e65-a7ad-aaaabccb758e
-ms.openlocfilehash: 0fcb5552bc072cf3647e32e663ec7681212dc599
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 0ed8826ec8b6d867f22abbc2cd33776e8db271ab
+ms.sourcegitcommit: 981880f6141278b87da22924a39bb1bb5892bb83
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44506177"
+ms.lasthandoff: 06/22/2020
+ms.locfileid: "44840949"
 ---
-# <a name="calendar-publishing-information"></a>Lịch xuất bản thông tin
+# <a name="enable-calendar-sharing-using-the-microsoft-365-admin-center"></a>Bật chia sẻ lịch bằng Trung tâm quản trị Microsoft 365
 
-- Quản trị viên Microsoft 365 có thể kích hoạt hoặc vô hiệu hoá lịch xuất bản và chia sẻ lịch cho một tổ chức. Để biết thêm thông tin, [hãy xem bật xuất bản lịch để những người có thể chia sẻ thông tin](https://support.office.com/article/EB432E21-AAF0-466B-BF85-CEFEC0C7C4FC) và [chia sẻ lịch với người dùng bên ngoài](https://docs.microsoft.com/microsoft-365/admin/manage/share-calendars-with-external-users).
+1. Trong Trung tâm quản trị, hãy truy cập cài đặt tổ chức **cài**đặt   >   **Org Settings**.
+2. Trên tab **dịch vụ** , chọn **lịch**.
+3. Trên trang **lịch** mở ra, hãy chọn xem bạn muốn cho phép người dùng chia sẻ lịch của họ với những người bên ngoài tổ chức của bạn có Microsoft 365 hoặc Exchange.
+4. Chọn xem bạn có muốn cho phép người dùng ẩn danh (người dùng không có thông tin đăng nhập) để truy cập lịch qua thư mời email hay không.
+5. Chọn loại thông tin lịch để cung cấp cho người dùng. Bạn có thể cho phép tất cả thông tin hoặc chỉ giới hạn thời gian hoặc thời gian, chủ đề và vị trí.
 
-- Người dùng Outlook có thể chia sẻ lịch riêng của họ. Để biết thêm thông tin, xem [chia sẻ lịch Outlook với người khác](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88).
+Thông tin thêm: [chia sẻ lịch với người dùng bên ngoài](https://docs.microsoft.com/microsoft-365/admin/manage/share-calendars-with-external-users)
