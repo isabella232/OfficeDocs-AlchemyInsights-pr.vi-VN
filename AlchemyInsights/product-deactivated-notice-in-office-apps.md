@@ -1,5 +1,5 @@
 ---
-title: Sản phẩm đã ngừng hoạt động thông báo trong ứng dụng Microsoft 365
+title: Sản phẩm đã ngừng hoạt động thông báo trong ứng dụng Office
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1906"
-ms.openlocfilehash: efc63ebbd585e7eb78f6ba41db79883671b2e779
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: d9e036b2b2157b4283992389a1fb741fddc15755
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44581825"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "43785397"
 ---
-# <a name="product-deactivated-notice-in-microsoft-365-apps"></a>Thông báo "sản phẩm ngừng hoạt động" trong ứng dụng Microsoft 365
+# <a name="product-deactivated-notice-in-office-apps"></a>Thông báo "sản phẩm ngừng hoạt động" trong ứng dụng Office
 
 - Kiểm tra [trang dịch vụ y tế](https://docs.microsoft.com/office365/enterprise/view-service-health) để xem nếu có bất kỳ sự cố đã biết với dịch vụ.
 
@@ -30,7 +30,7 @@ ms.locfileid: "44581825"
 
 - Chạy trình [khắc phục sự cố kích hoạt](https://aka.ms/SARA-OfficeActivation-Alchemy) và khởi động lại máy tính.
 
-- Trên máy bị ảnh hưởng, [đặt lại trạng thái kích hoạt Office](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state).
+- Trên máy bị ảnh hưởng, [đặt lại trạng thái kích hoạt Office](https://techcommunity.microsoft.com/t5/Office-365-ProPlus/Reset-Office-365-ProPlus-activation-state/td-p/331632).
 
 Để biết hướng dẫn chi tiết, xem: 
 
