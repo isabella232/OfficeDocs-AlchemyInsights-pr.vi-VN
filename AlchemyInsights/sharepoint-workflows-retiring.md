@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "5900"
 - "9003071"
-ms.openlocfilehash: a1b792bcb2a73ed89f8cfe74c0b56461dfa465ce
-ms.sourcegitcommit: 45c2aaeee58c0be466b76c7f0cd71e796d3c8f76
+ms.openlocfilehash: ce4c6319de89ef0fa5cae4cf37f4552db7508ddb
+ms.sourcegitcommit: b677b85395b7244b2bf2b753468b696b4cf27c8d
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45141860"
+ms.lasthandoff: 07/16/2020
+ms.locfileid: "45146613"
 ---
 # <a name="sharepoint-workflows-retiring"></a>Luồng công việc SharePoint hưu
 
-SharePoint 2010 và SharePoint 2013 luồng công việc đang được nghỉ hưu. Chúng tôi khuyên bạn nên di chuyển sang [điện tự](https://docs.microsoft.com/power-automate/getting-started) động hoặc một giải pháp được hỗ trợ. 
+Luồng công việc SharePoint 2010 đang được nghỉ hưu. Chúng tôi khuyên bạn nên di chuyển sang [điện tự](https://docs.microsoft.com/power-automate/getting-started) động hoặc một giải pháp được hỗ trợ. 
 
 Ngày chính:
 
