@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000755"
 - "2695"
-ms.openlocfilehash: 703aa6ba1c8175b76e445a261a4081bbf0103478
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 58159ec61c9ee10e340e5f88a478d378339be3a5
+ms.sourcegitcommit: 8e093114cd31141664e267a7c7b779398d5fdfa8
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44064071"
+ms.lasthandoff: 06/04/2020
+ms.locfileid: "44563604"
 ---
 # <a name="common-issues-and-resolutions-with-onenote"></a>Các vấn đề và giải pháp phổ biến với OneNote
 
@@ -24,7 +24,7 @@ Dưới đây là một số chủ đề thường xuyên được yêu cầu On
 
 - [Khắc phục sự cố đồng bộ hoá](https://support.office.com/article/299495ef-66d1-448f-90c1-b785a6968d45) -để địa chỉ các vấn đề phổ biến nhất liên quan đến OneNote đồng bộ, hãy sử dụng các bước trong [khắc phục sự cố khi bạn không thể đồng bộ hóa OneNote](https://support.office.com/article/Fix-issues-when-you-can-t-sync-OneNote-299495ef-66d1-448f-90c1-b785a6968d45).
 
-- Sử dụng [OneNote trong teams](https://support.microsoft.com/office/add-a-onenote-notebook-to-teams-0ec78cc3-ba3b-4279-a88e-aa40af9865c2) **lưu ý**: hiện tại, OneNote trong teams là chỉ đọc cho người thuê thương mại và giáo dục. Để chỉnh sửa, vui lòng sử dụng OneNote cho web hoặc ứng dụng OneNote trên máy tính.
+- Sử dụng [OneNote trong teams](https://support.microsoft.com/office/0ec78cc3-ba3b-4279-a88e-aa40af9865c2) **lưu ý**: hiện tại, OneNote trong teams là chỉ đọc cho người thuê thương mại và giáo dục. Để chỉnh sửa, vui lòng sử dụng OneNote cho web hoặc ứng dụng OneNote trên máy tính.
 
 - [Sử dụng OneNote Class Notebook trong teams](https://support.office.com/article/bd77f11f-27cd-4d41-bfbd-2b11799f1440) trả lời các câu hỏi về cách thiết lập Notebook Class trong teams.
 
