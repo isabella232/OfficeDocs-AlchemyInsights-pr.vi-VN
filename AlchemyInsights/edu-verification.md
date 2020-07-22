@@ -11,17 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500009"
 - "5578"
-ms.openlocfilehash: 7bb3a74137fd6c08165a882923087aac750c6fe4
-ms.sourcegitcommit: f573e83f6eddff471449c1c3f292ba23d139b972
+ms.openlocfilehash: 1889eb9b18f312da00196d575376960bc6b028fd
+ms.sourcegitcommit: 9e44b852d18a2816acac0aacb78cb99b4c114368
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "44138980"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "45205289"
 ---
 # <a name="edu-verification"></a>EDU xác minh
 
-Bạn sẽ nhận được email cho biết liệu đủ điều kiện của tổ chức của bạn đã được phê duyệt hay chưa.
+Trong hầu hết các trường hợp, yêu cầu đủ điều kiện học tập được xử lý trong vòng 24-48 giờ. Một số yêu cầu có thể cần được đánh giá kỹ lưỡng hơn và có thể mất tối đa 10 ngày làm việc để xử lý. Sau khi hoàn tất, chúng tôi sẽ gửi email với tình trạng hội đủ điều kiện của trường.
 
-Trong một số trường hợp, bạn có thể cần phải đợi tối đa 48 giờ để xác minh DNS hoàn tất. Bạn có thể nhấp vào "tôi sẽ xác minh sau" và trở lại sau đó và đăng nhập vào cổng Office 365; sau đó đi đến ** [Trung tâm quản trị](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/homepage) > cài đặt** và nhấp vào [tên](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/Domains) miền để kiểm tra nhập trạng thái cho tên miền của bạn.
+**Quan trọng** Nếu bạn đã thoát trình hướng dẫn xác minh trước khi nhập miền, bạn có thể [tiếp tục trình hướng dẫn xác minh học tập](https://go.microsoft.com/fwlink/p/?linkid=2135255) bất cứ lúc nào trong thời gian dùng thử miễn phí của bạn.
 
-Khi được phê duyệt, bạn có thể chuyển đến tab **[dịch vụ mua](https://go.microsoft.com/fwlink/p/?linkid=868433)** hàng của Trung tâm quản trị Microsoft để mua đăng ký.
+Nếu bạn muốn kiểm tra trạng thái của miền của mình, hãy truy cập [Trung tâm quản trị Microsoft 365](https://go.microsoft.com/fwlink/p/?linkid=2024339). Trên trang chủ, cuộn xuống cuối và tìm thẻ **thanh toán** . Thẻ **thanh toán** cho biết trạng thái của quy trình xác minh (được phê duyệt, đang chờ xử lý, từ chối hoặc thêm miền của bạn).
+
+Nếu yêu cầu của bạn bị từ chối, hãy xem [trường học của tôi không đủ điều kiện. Tôi phải làm gì bây giờ?](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/verify-academic-eligibility#my-school-isnt-eligible-what-do-i-do-now)
