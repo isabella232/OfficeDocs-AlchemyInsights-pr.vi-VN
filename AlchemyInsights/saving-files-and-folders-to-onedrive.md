@@ -11,23 +11,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003073"
 - "5903"
-ms.openlocfilehash: 7b9d56bf2b95b534a4936b7f1a1544c40e75f450
-ms.sourcegitcommit: 981880f6141278b87da22924a39bb1bb5892bb83
+ms.openlocfilehash: 3bce20c922e3beceb29f06e97184826a3d05fd8c
+ms.sourcegitcommit: fceb55831ea461d2ae2988e30ec0bbb0a705ceb8
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/22/2020
-ms.locfileid: "44847134"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "45375030"
 ---
 # <a name="saving-files-and-folders-to-onedrive"></a>Lưu tệp và thư mục vào OneDrive
 
-Có nhiều phương pháp khác nhau để lưu tệp và lưu tệp vào OneDrive.
+Có các phương pháp khác nhau để lưu tệp và lưu tệp vào OneDrive. Nếu bạn đang gặp sự cố khi lưu tệp vào OneDrive, hãy thử các mục sau:
 
-- Nếu bạn đang gặp sự cố khi lưu tệp vào OneDrive, bạn có thể thử các cách sau:
-
-- Nhấp vào đám mây màu xanh trong thanh tác vụ của bạn và xem có bất kỳ lỗi nào mà bạn có thể sửa trong cửa sổ bật lên hay không.
-- Lưu tệp ở đâu đó khác với thư mục OneDrive của bạn, sau đó cố gắng di chuyển các tệp trở lại thư mục OneDrive của bạn.
-- Khởi động lại máy của bạn và cố gắng để tiết kiệm. Nếu một ứng dụng có một tập tin đang mở, trong nhiều trường hợp, OneDrive không thể đồng bộ hóa tệp cho đến khi ứng dụng không còn sử dụng nó nữa.
-- Thử hủy liên kết và liên kết lại OneDrive. Để làm như vậy, hãy chuyển đến biểu tượng OneDrive trên thanh tác vụ của bạn > nhấp chuột phải vào > tài khoản > hủy liên kết PC này. Nhấp vào biểu tượng OneDrive trong thanh tác vụ một lần nữa và đăng nhập.
-- Nếu bạn đang gặp sự cố lưu trữ, [hãy xem quản lý OneDrive cho việc lưu trữ của bạn](https://support.microsoft.com/office/31519161-059c-4764-b6f8-f5cd29f7fe68).
+- Chọn đám mây màu xanh lam trong thanh tác vụ của bạn và sửa bất kỳ lỗi nào xuất hiện trong cửa sổ bật lên.
+- Lưu tệp ở đâu đó khác với thư mục OneDrive của bạn, và sau đó cố gắng di chuyển các tệp trở lại thư mục OneDrive của bạn.
+- Khởi động lại máy của bạn và cố gắng để tiết kiệm. Trong nhiều trường hợp, nếu một ứng dụng có một tập tin mở, OneDrive không thể đồng bộ hóa các tập tin cho đến khi ứng dụng không còn sử dụng nó.    
+- Hãy thử hủy liên kết và liên kết lại onedrive bằng cách chọn biểu tượng onedrive màu xanh lam trên thanh tác vụ của bạn > **Trợ giúp tài khoản cài đặt &**  >  **Account**  >  **hủy kích động PC này**. Chọn biểu tượng OneDrive màu xanh lam trong thanh tác vụ một lần nữa và đăng nhập.
+- Nếu bạn đang gặp sự cố lưu trữ, [hãy xem quản lý OneDrive của bạn cho bộ nhớ công việc hoặc trường học](https://support.microsoft.com/office/manage-your-onedrive-for-work-or-school-storage-31519161-059c-4764-b6f8-f5cd29f7fe68).
 - Để biết thêm thông tin khắc phục sự cố, xem [khắc phục sự cố đồng bộ OneDrive](https://docs.microsoft.com/alchemyinsights/fix-onedrive-sync-issues).  
-- Nếu bạn đang tìm kiếm tùy chỉnh trải nghiệm lưu của mình bằng Office và OneDrive, hãy xem [tùy chỉnh trải nghiệm lưu trong Office](https://support.microsoft.com/office/786200a7-f5f2-4d26-a3ae-b78c60dd5d3b).
+
+Nếu bạn muốn tùy chỉnh trải nghiệm lưu của mình bằng Office và OneDrive, hãy xem [tùy chỉnh trải nghiệm lưu trong Office](https://support.microsoft.com/office/customize-the-save-experience-in-office-786200a7-f5f2-4d26-a3ae-b78c60dd5d3b).
