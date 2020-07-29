@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5677"
 - "9002964"
-ms.openlocfilehash: 2485374a9cd7082698245af913d0e2463b03b809
-ms.sourcegitcommit: 45c2aaeee58c0be466b76c7f0cd71e796d3c8f76
+ms.openlocfilehash: 682b437962b2192ef57cf48d4eae775bf2a4fcc7
+ms.sourcegitcommit: e90b918f02102cd9764881c2d8c914567c6b070e
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45141861"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "46509034"
 ---
 # <a name="microsoft-lists"></a>Danh sách Microsoft
 
@@ -25,7 +25,7 @@ Microsoft đang khởi chạy giai đoạn đầu tiên của Microsoft Lists, m
   
 **Thời gian**  
 
-- Nhắm mục tiêu phát hành để cho phép các tổ chức vào cuối tháng 2020.
+- Lăn ra đã bắt đầu cho các tổ chức kích hoạt cho mục tiêu phát hành.
 - Phát hành cho tất cả các tổ chức vào giữa tháng mười 2020.
 
 Bất kỳ người dùng nào có giấy phép SharePoint đều có thể truy cập biểu tượng danh sách và bắt đầu sử dụng danh sách Microsoft. Quản trị viên hiện không thể tắt tính năng này.
