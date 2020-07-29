@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000722"
 - "4812"
-ms.openlocfilehash: f3e8fc56e0eaf47e946ecf039aa49467689fd8e0
-ms.sourcegitcommit: 6010e6b55f6d3057f9038979cda3987df12aae93
+ms.openlocfilehash: 0f64207ac9ea2c25106f0339ed2b8080361e8ce4
+ms.sourcegitcommit: 5af184ed3c0f9491e7fcf927e9c78e366f26b540
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/11/2020
-ms.locfileid: "43231771"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "46514996"
 ---
 # <a name="compliance-common-issues-and-resolutions"></a>Tuân thủ các vấn đề thường gặp và nghị quyết
 
@@ -31,5 +31,7 @@ Dưới đây là một số chủ đề thường được yêu cầu tuân th�
 - Kiểm tra trong O365: [Tìm kiếm Nhật ký kiểm tra trong O365](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance?view=o365-worldwide).
 
 - Ngăn mất dữ liệu (DLP): xem [tổng quan về ngăn ngừa mất dữ liệu (DLP)](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies?view=o365-worldwide) để biết thêm thông tin.
+ 
+- Nhãn nhạy cảm: để tìm hiểu thêm, hãy xem [tạo và đặt cấu hình nhãn độ nhạy và chính sách của](https://docs.microsoft.com/microsoft-365/compliance/create-sensitivity-labels)chúng.
 
 **Lưu ý**: để có câu trả lời cụ thể hơn về vấn đề tuân thủ, hãy tóm tắt lại câu hỏi của bạn và bao gồm bất kỳ lỗi nào bạn đang xem hoặc tính năng bạn đang sử dụng.
