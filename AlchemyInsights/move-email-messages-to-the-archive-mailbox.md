@@ -12,14 +12,16 @@ ms.custom:
 - "1083"
 - "3100008"
 ms.assetid: 59cd8630-6196-4680-ad92-1ce0e479f924
-ms.openlocfilehash: 35c11f1bfb7c61b28a64f0128c29ddf7b4fce939
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 9af8a4d3ce72fd901ff2f3a1aae0654c7213dd7e
+ms.sourcegitcommit: ffbed67c0a16ec423fa1d79b71e48ea4e2d320e1
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44511062"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "46522793"
 ---
 # <a name="move-email-to-the-archive-mailbox"></a>Di chuyển email đến hộp thư lưu trữ
+
+Nếu bạn muốn chúng tôi chạy kiểm tra tự động cho các thiết lập được đề cập dưới đây, chọn nút quay lại <--ở đầu trang này, và sau đó nhập địa chỉ email của người dùng có vấn đề di chuyển email đến hộp thư lưu trữ của họ.
 
 1. Xác nhận rằng **hộp thư lưu trữ** đã được bật. Nếu không, sử dụng các bước trong [bài viết này](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes) để kích hoạt hộp thư lưu trữ.
 

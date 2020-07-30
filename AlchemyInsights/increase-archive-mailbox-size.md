@@ -9,14 +9,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 305
 ms.assetid: ''
-ms.openlocfilehash: f80b2a10ebc17cd98ed1d29b0e6ba3ca01eb1d62
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: c43f8e32acad7937a03a45aab1e14e0e69edc1b2
+ms.sourcegitcommit: ffbed67c0a16ec423fa1d79b71e48ea4e2d320e1
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44508830"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "46522865"
 ---
 # <a name="increase-the-archive-mailbox-size"></a>Tăng kích thước hộp thư lưu trữ
+
+
+Nếu bạn muốn chúng tôi chạy kiểm tra tự động cho các thiết lập được đề cập dưới đây, chọn nút quay lại <--ở đầu trang này, và sau đó nhập địa chỉ email của người dùng cần kích thước hộp thư lưu trữ của họ tăng lên.
 
 Microsoft 365 [giới hạn](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#mailbox-storage-limits) kích thước của hộp thư lưu trữ dựa trên giấy phép được gán cho tài khoản người dùng. Khi hộp thư lưu trữ đạt 90% kích thước cho phép, người dùng nhận được thông báo email. Khi hộp thư lưu trữ đạt đến giới hạn kích thước của nó, người dùng không thể di chuyển nhiều mục vào hộp thư lưu trữ. Microsoft 365 sẽ không tăng kích thước của hộp thư lưu trữ khi đạt đến giới hạn kích thước. Thay vào đó, người dùng có thể thực hiện thao tác sau để thêm dung lượng trong hộp thư lưu trữ:
 
