@@ -1,5 +1,5 @@
 ---
-title: Thay đổi cài đặt điều chỉnh EWS
+title: Thay đổi thiết đặt điều chỉnh
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,13 +12,15 @@ ms.custom:
 - "9000752"
 - "5653"
 - "5760"
-ms.openlocfilehash: 4b4be7041ce432b52c61578b3e4d7d49106763bc
-ms.sourcegitcommit: bf87d91fa60bd961bc6c887c4a4be7a3c7665b38
+ms.openlocfilehash: 415990669bafb2262c558749b64385a91d159226
+ms.sourcegitcommit: 61308045a58252764f6378bbeb8802b6d2ff6c0b
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44493585"
+ms.lasthandoff: 08/08/2020
+ms.locfileid: "46596805"
 ---
-# <a name="changing-ews-throttling-settings"></a><span data-ttu-id="23a53-102">Thay đổi cài đặt điều chỉnh EWS</span><span class="sxs-lookup"><span data-stu-id="23a53-102">Changing EWS throttling settings</span></span>
+# <a name="changing-ews-throttling-settings"></a><span data-ttu-id="8222b-102">Thay đổi thiết đặt điều chỉnh</span><span class="sxs-lookup"><span data-stu-id="8222b-102">Changing EWS throttling settings</span></span>
 
-<span data-ttu-id="23a53-103">Hãy chạy thử nghiệm tự động của chúng tôi mà sẽ cho phép bạn thay đổi chính sách điều chỉnh EWS trong thời gian di chuyển của bạn.</span><span class="sxs-lookup"><span data-stu-id="23a53-103">Please run our automated test which will allow you to modify the EWS throttling policy for the duration of your migration.</span></span>
+<span data-ttu-id="8222b-103">Vui lòng chạy thử nghiệm tự động cho phép bạn sửa đổi chính sách kiểm tra EWS trong khoảng thời gian di chuyển của bạn.</span><span class="sxs-lookup"><span data-stu-id="8222b-103">Please run our automated test which will allow you to modify the EWS throttling policy for the duration of your migration.</span></span>
+
+<span data-ttu-id="8222b-104">Vui lòng lưu ý rằng những thay đổi chính sách đối với các kiểu di chuyển sau đây không có hiệu lực trong các kiểu di chuyển sau (sử dụng công cụ Microsoft): kết hợp, chuyển giao/theo giai đoạn (RPC/HTTP), IMAP, G Suite, thư mục công cộng hoặc dịch vụ nhập PST.</span><span class="sxs-lookup"><span data-stu-id="8222b-104">Please note that EWS throttling policy changes have no effect on the following migration types (using Microsoft tools): Hybrid, Cutover/Staged (RPC/HTTP), IMAP, G Suite, Public Folder or PST Import Service.</span></span>
