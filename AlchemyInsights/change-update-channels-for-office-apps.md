@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1740"
 - "9000140"
-ms.openlocfilehash: fb69bce40ab56b162c715af6a0647c8219c5564f
-ms.sourcegitcommit: dab885f2cb99057e959fb9be334f5a3a26a64058
+ms.openlocfilehash: 3e1042a38d2289b9ef2396e8300d32f20ddaa703
+ms.sourcegitcommit: b5e5f560bf6ef92b4475bd3d91b7df38b5a4b036
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/13/2020
-ms.locfileid: "46665484"
+ms.lasthandoff: 08/14/2020
+ms.locfileid: "46739849"
 ---
 # <a name="change-update-channels-for-office-apps"></a>Thay đổi các kênh Cập Nhật cho các ứng dụng Office
 
@@ -30,9 +30,11 @@ ms.locfileid: "46665484"
 1. Tải xuống phiên bản mới nhất của công cụ triển khai Office (setup.exe) từ [Trung tâm tải xuống của Microsoft](https://go.microsoft.com/fwlink/p/?LinkID=626065).
 2. Xác định tên kênh mà bạn muốn chuyển sang. Để biết thêm thông tin, hãy xem [tùy chọn cấu hình cho công cụ triển khai Office](https://docs.microsoft.com/DeployOffice/configuration-options-for-the-office-2016-deployment-tool#channel-attribute-part-of-add-element).
 3. Tạo một tệp XML cấu hình xác định tên kênh thích hợp, ví dụ, update.xml.  
-    `<Configuration> 
-    <Updates **Channel="Monthly"** />  
-    </Configuration>`
+
+`<Configuration>`<br>
+`<Updates Channel="Monthly"/>`<br>
+`</Configuration>`<br>
+
 4. Từ dấu nhắc lệnh nâng cao, hãy chuyển đến vị trí thư mục nơi setup.exe cư trú và chạy lệnh sau đây:  
     một. setup.exe/Configure update.xml
 5. Khởi động một ứng dụng Office (chẳng hạn như Excel), **File**rồi chọn  >  **tài khoản**tệp. Trong phần thông tin sản phẩm, chọn Cập Nhật **tùy chọn cập**Nhật  >  **ngay bây giờ**.
