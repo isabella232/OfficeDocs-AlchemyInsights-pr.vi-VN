@@ -1,7 +1,7 @@
 ---
-title: Tùy chọn chia sẻ xuất hiện mờ hoặc không có sẵn
-ms.author: v-todmc
-author: todmccoy
+title: Các tùy chọn chia sẻ xuất hiện mờ hoặc không sẵn dùng
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "2591"
-ms.openlocfilehash: e4aebd8ffaa1169cb27dcf551f72ab7bc7b1210d
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 905c8f103acdb1f57dd0a1dd941841622220e93a
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43758621"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46787415"
 ---
-# <a name="sharing-options-appear-dim-or-are-not-available"></a>Tùy chọn chia sẻ xuất hiện mờ hoặc không khả dụng
+# <a name="sharing-options-appear-dim-or-are-not-available"></a>Các tùy chọn chia sẻ xuất hiện mờ hoặc không sẵn dùng
 
-Nếu một số tùy chọn chia sẻ hoặc không có sẵn khi cố gắng chia sẻ từ SharePoint Online hoặc OneDrive, [hãy xem tùy chọn chia sẻ được tô xám khi chia sẻ từ SharePoint Online hoặc onedrive](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive).
+Nếu một số tùy chọn chia sẻ hoặc không sẵn dùng khi cố gắng chia sẻ từ SharePoint Online hoặc OneDrive, hãy xem [các tùy chọn chia sẻ có màu xám khi chia sẻ từ SharePoint Online hoặc onedrive](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive).

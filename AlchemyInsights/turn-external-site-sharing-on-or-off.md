@@ -1,7 +1,7 @@
 ---
-title: Làm thế nào để tuỳ chỉnh quyền cho một danh sách SharePoint hoặc thư viện
-ms.author: v-todmc
-author: todmccoy
+title: Bật hoặc tắt tính năng chia sẻ với bên ngoài cho một trang
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000191"
 - "2734"
-ms.openlocfilehash: 0959e0bd31a7e38da08120749a29cd41910eecb1
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: ea013e81a7d7be47b5e062794b8fee88d299478d
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43731720"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46786803"
 ---
-# <a name="turn-external-sharing-on-or-off-for-a-site"></a>Bật hoặc tắt chia sẻ bên ngoài cho một trang web
+# <a name="turn-external-sharing-on-or-off-for-a-site"></a>Bật hoặc tắt tính năng chia sẻ với bên ngoài cho một trang
 
-Bạn phải là quản trị viên toàn cầu hoặc SharePoint để thay đổi thiết đặt chia sẻ bên ngoài cho một trang web (trước đây được gọi là "bộ sưu tập trang web"). Chủ sở hữu trang web không được phép thay đổi cài đặt này. 
+Bạn phải là người quản trị toàn cầu hoặc SharePoint để thay đổi thiết đặt chia sẻ bên ngoài cho một site (trước đây gọi là "tuyển tập trang"). Người sở hữu trang không được phép thay đổi thiết đặt này. 
 
-Để biết thêm thông tin, [hãy xem bật hoặc tắt chia sẻ bên ngoài cho một trang web](https://docs.microsoft.com/sharepoint/change-external-sharing-site).
+Để biết thêm thông tin, hãy xem mục [bật hoặc tắt tính năng chia sẻ bên ngoài cho một trang](https://docs.microsoft.com/sharepoint/change-external-sharing-site).

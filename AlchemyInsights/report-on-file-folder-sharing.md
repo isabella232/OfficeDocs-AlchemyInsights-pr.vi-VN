@@ -1,7 +1,7 @@
 ---
-title: Báo cáo chia sẻ tệp và cặp trong một trang web SharePoint
-ms.author: v-todmc
-author: todmccoy
+title: Báo cáo về chia sẻ tệp và thư mục trong site SharePoint
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3049"
-ms.openlocfilehash: 5c01595eab45b4f4e67e741c884066d0d21a9472
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: a0223666ba8cd3edde9eed05d86a49907fd07a37
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43693184"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46787235"
 ---
-# <a name="report-on-file-and-folder-sharing-in-a-sharepoint-site"></a>Báo cáo chia sẻ tệp và cặp trong một trang web SharePoint
+# <a name="report-on-file-and-folder-sharing-in-sharepoint-sites"></a>Báo cáo về chia sẻ tệp và thư mục trong site SharePoint
 
-Bạn có thể tạo tệp CSV chi tiết mọi tệp, người dùng, quyền và liên kết duy nhất trên một trang web SharePoint hoặc thư viện OneDrive đã cho. Điều này có thể giúp bạn hiểu cách chia sẻ đang được sử dụng và liệu bất kỳ tệp hoặc thư mục nào đang được chia sẻ với khách.
+Bạn có thể tạo một tệp CSV chi tiết mọi tệp, người dùng, quyền và liên kết trên trang SharePoint đã cho hoặc thư viện OneDrive. Điều này có thể giúp bạn hiểu cách thức chia sẻ đang được sử dụng và liệu mọi tệp hay thư mục đang được chia sẻ với khách.
 
-Để biết thêm thông tin, [báo cáo chia sẻ tệp và cặp trong một trang web SharePoint](https://docs.microsoft.com/sharepoint/sharing-reports).
+Để biết thêm thông tin, hãy [báo cáo về chia sẻ tệp và thư mục trong site SharePoint](https://docs.microsoft.com/sharepoint/sharing-reports).
 
 > [!NOTE]
-> Tính năng này hiện đang triển khai cho thuê đầu tiên và sẽ dần ra mắt cho tất cả người thuê sản xuất.
+> Tính năng này hiện đang được triển khai cho các đối tượng thuê bản phát hành đầu tiên và sẽ dần chuyển sang tất cả các thuê mướn sản xuất.

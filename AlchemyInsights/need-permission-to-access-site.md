@@ -1,7 +1,7 @@
 ---
-title: Cần quyền truy cập trang web
-ms.author: v-todmc
-author: todmccoy
+title: Cần quyền truy nhập vào site
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000156"
 - "2595"
-ms.openlocfilehash: b8043dfff5ac85566135753ce9f44855f81357fd
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: dd736884922a299a10523a5aa6c17feed35b29fb
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43761944"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46787451"
 ---
-# <a name="you-need-permission-to-access-this-site"></a>Bạn cần quyền truy cập trang web này
+# <a name="you-need-permission-to-access-this-site"></a>Bạn cần quyền truy nhập vào site này
 
-["Truy cập từ chối", "bạn cần quyền truy cập vào trang web này", hoặc "người dùng không tìm thấy trong thư mục" lỗi trong SharePoint trực tuyến và OneDrive dành cho doanh nghiệp](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
+["Access bị từ chối", "bạn cần quyền truy nhập vào trang web này" hoặc "không tìm thấy người dùng trong thư mục" lỗi trong SharePoint Online và OneDrive for Business](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)

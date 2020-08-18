@@ -1,5 +1,5 @@
 ---
-title: Tạo một trang web SharePoint
+title: Tạo kiểu nội dung tùy chỉnh
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,18 +11,18 @@ ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
 ms.custom:
 - "5792"
 - "9003050"
-ms.openlocfilehash: 0c04ef44f7c2c783d61fd234413263b250481604
-ms.sourcegitcommit: 8e093114cd31141664e267a7c7b779398d5fdfa8
+ms.openlocfilehash: 2b21f95ddf6e27ed113d9f45ecfad99487095d96
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "44569745"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46786263"
 ---
-# <a name="create-custom-content-types"></a>Tạo các loại nội dung tùy chỉnh
+# <a name="create-custom-content-types"></a>Tạo kiểu nội dung tùy chỉnh
 
-1. Chọn danh sách bạn muốn làm việc với trên khởi chạy nhanh hoặc nhấp vào **cài đặt** (biểu tượng bánh răng) và sau đó nhấp vào **cài đặt trang web**.
-2. Nhấp vào loại **nội dung trang web** trong **phòng trưng bày thiết kế web**.
-3. Trên trang loại nội dung trang web, hãy nhấp vào tạo.
-4. Trên trang loại nội dung trang web mới, điền thông tin cho loại nội dung tùy chỉnh của bạn.
+1. Chọn danh sách bạn muốn làm việc với trên khởi động nhanh, hoặc bấm **thiết đặt**  (biểu tượng bánh răng), rồi bấm  **thiết đặt trang**.
+2. Bấm kiểu **nội dung trang**  bên dưới bộ sưu tập trình  **thiết kế web**.
+3. Trên trang kiểu nội dung trang, hãy bấm tạo.
+4. Trên trang kiểu nội dung trang mới, hãy điền thông tin cho kiểu nội dung tùy chỉnh của bạn.
 
-Để biết thêm thông tin, xem [loại nội dung tùy chỉnh](https://support.microsoft.com/office/e1277a2e-a1e8-4473-9126-91a0647766e5#__toc323548991).
+Để biết thêm thông tin, hãy xem  [các kiểu nội dung tùy chỉnh](https://support.microsoft.com/office/e1277a2e-a1e8-4473-9126-91a0647766e5#__toc323548991).

@@ -1,5 +1,5 @@
 ---
-title: Bật hoặc tắt chia sẻ bên ngoài cho một trang web
+title: Bật hoặc tắt chia sẻ với bên ngoài cho site SharePoint
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -11,24 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 500eec97-a508-4a9a-8373-47b758209a1f
-ms.openlocfilehash: 733f470e606bb6bf4b4efbfa863b1258699fc311
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 501f41d458a863dc542520ccfbb7322913d4fdfc
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912952"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46785759"
 ---
-# <a name="turn-external-sharing-on-or-off-for-a-sharepoint-site"></a>Bật hoặc tắt chia sẻ bên ngoài cho một trang web SharePoint
+# <a name="turn-external-sharing-on-or-off-for-a-sharepoint-site"></a>Bật hoặc tắt chia sẻ với bên ngoài cho site SharePoint
 
-Đối với một trang web:
+Đối với một site:
   
-1. Trong Trung tâm quản trị SharePoint mới, trong ngăn bên trái, bấm vào **các trang web**.
+1. Trong Trung tâm quản trị SharePoint mới, trong ngăn bên trái, hãy bấm **site**.
     
-2. Chọn trang web hoặc trang web và trên ruy băng, bấm vào **chia sẻ**.
+2. Chọn trang hoặc site và trên Ribbon, bấm **chia sẻ**.
     
-Theo mặc định, các trang web mới mà người dùng tạo (cả hai trang web nhóm thuộc về Microsoft 365 nhóm và trang web liên lạc) có cài đặt chia sẻ tương tự như cài đặt trên toàn tổ chức, trừ khi cài đặt trên toàn tổ chức cho phép chia sẻ tệp bằng cách sử dụng các liên kết không yêu cầu đăng nhập. Trong trường hợp này, các trang web cho phép chia sẻ với người dùng bên ngoài mới và hiện có đăng nhập. Để thay đổi cài đặt cho các trang web cụ thể, sử dụng trung tâm quản trị SharePoint mới.
+Theo mặc định, các trang mới mà người dùng tạo (cả hai site nhóm thuộc nhóm Microsoft 365 và các site liên lạc) đều có thiết đặt chia sẻ giống như thiết đặt toàn bộ tổ chức của bạn, trừ khi thiết đặt phạm vi tổ chức cho phép chia sẻ tệp bằng các liên kết không yêu cầu đăng nhập. Trong trường hợp này, các site cho phép chia sẻ với những người dùng bên ngoài mới và hiện có đăng nhập. Để thay đổi thiết đặt cho các site cụ thể, hãy sử dụng trung tâm quản trị SharePoint mới.
   
 > [!NOTE]
-> Cài đặt chia sẻ bên ngoài cho bất kỳ trang web nào có thể hạn chế hơn so với cài đặt trong phạm vi tổ chức của bạn, nhưng không có sự cho phép hơn so với cài đặt trên toàn tổ chức. 
+> Thiết đặt chia sẻ bên ngoài cho bất kỳ trang nào có thể được thêm hạn chế so với cài đặt phạm vi tổ chức của bạn, nhưng không được nhiều hơn so với cài đặt phạm vi tổ chức. 
   
 

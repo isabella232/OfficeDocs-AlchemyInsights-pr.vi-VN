@@ -1,7 +1,7 @@
 ---
-title: Chậm trễ trong nhận cảnh báo SharePoint và OneDrive
-ms.author: v-todmc
-author: todmccoy
+title: Sự chậm trễ khi nhận được các cảnh báo SharePoint và OneDrive
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "2642"
-ms.openlocfilehash: 7f1033cec3abec782d1eee3b32128c4c60778913
-ms.sourcegitcommit: 8e093114cd31141664e267a7c7b779398d5fdfa8
+ms.openlocfilehash: 92e517ae6e83aa91b9838047ec77759dc893bc57
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "44563532"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46785687"
 ---
-# <a name="delays-in-receiving-sharepoint-and-onedrive-alerts"></a>Chậm trễ trong nhận cảnh báo SharePoint và OneDrive
+# <a name="delays-in-receiving-sharepoint-and-onedrive-alerts"></a>Sự chậm trễ khi nhận được các cảnh báo SharePoint và OneDrive
 
-- Trước tiên hãy kiểm tra thư mục Junk hoặc spam trong email của bạn.
-- Nếu **tất cả các cảnh báo từ nhiều tệp hoặc thư viện bị trì hoãn**, hãy truy cập bảng thông tin [trạng thái dịch vụ](https://portal.office.com/adminportal/home?ref=/servicehealth) để kiểm tra bất kỳ lời khuyên/sự cố nào có thể xảy ra với SharePoint hoặc Exchange. Vấn đề có thể với khả năng cảnh báo SharePoint hoặc sự chậm trễ trong email thông qua Exchange. Cũng lưu ý liệu email khác đang được gửi-nếu không, vấn đề có khả năng Exchange chậm trễ.
-- Nếu **một cảnh báo cá nhân từ một tập tin cụ thể hoặc thư viện không được gửi**, cố gắng để xóa và tạo lại nó. Xem [quản lý, xem hoặc xoá cảnh báo SharePoint](https://support.microsoft.com/office/99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) để tạo cảnh báo.
+- Trước tiên, hãy kiểm tra thư mục thư rác hoặc thư rác trong email của bạn.
+- Nếu **tất cả cảnh báo từ nhiều tệp hoặc thư viện bị trì hoãn**, hãy truy nhập bảng điều khiển trạng thái [dịch vụ](https://portal.office.com/adminportal/home?ref=/servicehealth) để kiểm tra bất kỳ sự cố nào/sự cố có thể xảy ra với SharePoint hoặc Exchange. Vấn đề có thể với khả năng hoặc sự chậm trễ của SharePoint Alert trong email thông qua Exchange. Cũng nên lưu ý rằng việc gửi email khác — nếu không, vấn đề có thể xảy ra sự chậm trễ của Exchange.
+- Nếu một **cảnh báo riêng lẻ từ một tệp hoặc thư viện cụ thể không được chuyển**phát, hãy tìm cách xóa bỏ và tạo lại nó. Xem mục [quản lý, xem hoặc xóa bỏ cảnh báo SharePoint](https://support.microsoft.com/office/99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) để tạo lại cảnh báo.
 
 > [!NOTE]
-> - Cảnh báo không thể được gửi đến một nhóm phân phối. Chỉ bảo mật và nhóm O365 được hỗ trợ.
-> - Bạn không thể tùy chỉnh mẫu email cảnh báo. Bạn phải sử dụng Microsoft Flow hoặc SharePoint Designer Workflow để đạt được những.
+> - Không thể gửi cảnh báo đến một nhóm phân phối. Chỉ các nhóm bảo mật và O365 được hỗ trợ.
+> - Bạn không thể tùy chỉnh các mẫu email cảnh báo. Bạn phải sử dụng dòng công việc trình thiết kế Microsoft hoặc SharePoint để đạt được những nội dung đó.
