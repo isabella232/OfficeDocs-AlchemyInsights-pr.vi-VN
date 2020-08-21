@@ -12,25 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "6131"
 - "9002530"
-ms.openlocfilehash: d7b56237cb287f619643303fb31c627e258c332d
-ms.sourcegitcommit: c32ccdd6e87964f01a56d9a36070e4571ebf1ab1
+ms.openlocfilehash: 3ec340b6a2ee1a3671f72f64b17e46d991d8e0a1
+ms.sourcegitcommit: 5a76ffd17b09b1f4daf041fbc08a6512172198a6
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "46556099"
+ms.lasthandoff: 08/20/2020
+ms.locfileid: "46844582"
 ---
 # <a name="manage-meeting-recordings-for-education"></a>Quản lý bản ghi cuộc họp cho giáo dục
 
-Chúng tôi khuyên quản trị viên cho các tổ chức giáo dục xem xét việc sử dụng các gói chính sách cho học sinh và an toàn giáo dục. Để biết thêm thông tin, xem:
+Bắt đầu từ  **ngày 20 tháng 8, 2020**, khi người dùng có A1 (bao gồm A1 Plus), giấy phép bắt đầu ghi một cuộc họp nhóm, bản ghi sẽ sẵn dùng trong 21 ngày.
 
-- [Gói chính sách trong Microsoft teams](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policy-packages-in-microsoft-teams).  
+Để biết thêm thông tin, bao gồm cách lưu cuộc họp vào một vị trí khác, hãy xem [tải lên bản ghi cuộc họp của Microsoft nhóm sang dòng](https://docs.microsoft.com/stream/portal-upload-teams-meeting-recording).
+
+Chúng tôi khuyên người quản trị cho các tổ chức giáo dục cân nhắc sử dụng các gói chính sách dành cho học viên và an toàn giáo dục. Để biết thêm thông tin, hãy xem:
+
+- Các [gói chính sách trong Microsoft nhóm](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policy-packages-in-microsoft-teams).  
     
-- [Chính sách cần được chỉ định để an toàn cho học sinh](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-student-safety).
+- [Các chính sách cần được giao cho an toàn cho sinh viên](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-student-safety).
 
-- [Chính sách cần được chỉ định cho các nhà giáo dục](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-educators).
+- [Các chính sách phải được giao cho các nhà giáo dục](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-educators).
 
-Nếu bạn chỉ muốn quản lý khả năng ghi lại các cuộc họp, hãy xem [bật hoặc tắt ghi âm đám mây](https://docs.microsoft.com/microsoftteams/cloud-recording#turn-on-or-turn-off-cloud-recording).  
+Nếu bạn chỉ muốn quản lý khả năng ghi lại cuộc họp, hãy xem [bật hoặc tắt ghi âm đám mây](https://docs.microsoft.com/microsoftteams/cloud-recording#turn-on-or-turn-off-cloud-recording).  
 
-**Lưu ý** Khả năng ghi âm cuộc họp của teams dựa vào tính khả dụng của khu vực và quốc gia. Nếu bạn không thể ghi lại cuộc họp, xem [Microsoft Stream lưu trữ dữ liệu của tôi trong khu vực nào?](https://docs.microsoft.com/stream/faq#which-regions-does-microsoft-stream-host-my-data-in). 
+**Ghi chú** Các chức năng ghi âm cuộc họp các nhóm dựa vào trạng thái sẵn sàng của khu vực và quốc gia. Nếu bạn không thể ghi lại cuộc họp, hãy xem mục [khu vực nào đang lưu trữ dữ liệu của tôi trong đó?](https://docs.microsoft.com/stream/faq#which-regions-does-microsoft-stream-host-my-data-in). 
 
-Để biết thêm thông tin, xem [Cập Nhật tính năng: Microsoft Stream đám mây ghi kiểm soát vùng lưu trữ](https://admin.microsoft.com/AdminPortal/Home#/MessageCenter?id=MC214327).
+Để biết thêm thông tin, hãy xem [tính năng đã Cập Nhật: Microsoft Stream Cloud Recordings điều khiển lưu trữ khu vực](https://admin.microsoft.com/AdminPortal/Home#/MessageCenter?id=MC214327).
