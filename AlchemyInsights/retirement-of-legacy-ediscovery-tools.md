@@ -1,5 +1,5 @@
 ---
-title: Nghỉ hưu của Legacy eDiscovery công cụ
+title: Hưu trí của công cụ eDiscovery kế thừa
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,44 +11,44 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001487"
 - "3523"
-ms.openlocfilehash: 262cca0feee17d1f929a5a94a4dd6c1ec317f6ec
-ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
+ms.openlocfilehash: 94cd2127240be5faacd397ba6255fdb16e364308
+ms.sourcegitcommit: d4fc2a03af69e28e96075812d040fdd34d2e23f0
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43650590"
+ms.lasthandoff: 08/26/2020
+ms.locfileid: "46902642"
 ---
-# <a name="retirement-of-legacy-ediscovery-tools"></a>Nghỉ hưu của Legacy eDiscovery công cụ
+# <a name="retirement-of-legacy-ediscovery-tools"></a>Hưu trí của công cụ eDiscovery kế thừa
 
-Là kết quả mới và cải tiến eDiscovery chức năng trong Microsoft 365 Trung tâm tuân thủ, hợp lệ eDiscovery công cụ và Commandlets sẽ được nghỉ hưu trong tháng tới:
+Là kết quả của chức năng khám phá điện tử mới và được cải tiến trong Trung tâm tuân thủ Microsoft 365, các công cụ và lệnh ghép ngắn sau đây được thiết kế lại sau đó sẽ được ngừng hoạt động trong những tháng sắp tới:
 
-- [Tại chỗ eDiscovery](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/in-place-ediscovery) và [tại chỗ](https://docs.microsoft.com/exchange/security-and-compliance/create-or-remove-in-place-holds) giữ trong Trung tâm quản trị Exchange.
+- [Khám phá điện tử tại chỗ](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/in-place-ediscovery) và [tại chỗ giữ](https://docs.microsoft.com/exchange/security-and-compliance/create-or-remove-in-place-holds) trong Trung tâm quản trị Exchange.
 
-- Các lệnh ghép ngắn Exchange Online PowerShell hỗ trợ tại chỗ eDiscovery và tại chỗ giữ. (Các lệnh ghép ngắn được định dạng chung là *-MailboxSearch lệnh ghép ngắn.) Điều này bao gồm các lệnh ghép ngắn sau đây:
+- Các lệnh ghép ngắn Exchange Online PowerShell hỗ trợ khám phá điện tử tại chỗ và giữ tại chỗ. (Các lệnh ghép ngắn này được xác định chung là lệnh ghép ngắn *-MailboxSearch.) Điều này bao gồm các lệnh ghép ngắn sau đây:
 
     - [Mới-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/new-mailboxsearch)
-    - [Bắt đầu-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/start-mailboxsearch)
-    - [Dừng-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/stop-mailboxsearch)
-    - [Thiết lập MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/set-mailboxsearch)
+    - [Khởi động-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/start-mailboxsearch)
+    - [Ngăn chặn-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/stop-mailboxsearch)
+    - [Thiết đặt-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/set-mailboxsearch)
 
 - Lệnh ghép ngắn [Search-Mailbox](https://docs.microsoft.com/powershell/module/exchange/mailboxes/search-mailbox?view=exchange-ps) trong Exchange Online PowerShell.
-- Các thao tác sau trong Exchange Web Services API:
-    - [Getsearchablehộp thư](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getsearchablemailboxes-operation)
+- Các thao tác sau trong API Exchange Web Services:
+    - [Tìm kiếm hộp thư](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getsearchablemailboxes-operation)
     - [Setholdonhộp thư](https://docs.microsoft.com/exchange/client-developer/web-service-reference/setholdonmailboxes-operation)
     - [Getholdonhộp thư](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getholdonmailboxes-operation)
 
 - [Nâng cao eDiscovery v 1.0](https://docs.microsoft.com/microsoft-365/compliance/office-365-advanced-ediscovery)
 
-**Thời gian cho quỹ hưu**trí:
-- Ngày 1 tháng 4 năm 2020: bạn sẽ không thể tạo các tìm kiếm mới và giữ, nhưng bạn vẫn có thể chạy, chỉnh sửa và xóa các tìm kiếm hiện có có nguy cơ của riêng bạn. Microsoft support sẽ không còn hỗ trợ tại chỗ eDiscovery & giữ trong EAC.
+**Đường thời gian cho quỹ hưu trí**:
+- **Ngày 1 tháng 7, 2020** Bạn không còn có thể tạo các tìm kiếm mới và giữ, nhưng bạn có thể chạy, chỉnh sửa và xóa bỏ các tìm kiếm hiện có theo rủi ro của riêng bạn. Hỗ trợ của Microsoft không còn hỗ trợ trong khám phá điện tử tại chỗ & giữ trong EAC.
+    
+- **Ngày 1 tháng 10, 2020** Khám phá điện tử tại chỗ & giữ chức năng trong EAC sẽ được đặt ở chế độ chỉ đọc, vì vậy bạn chỉ có thể loại bỏ các tìm kiếm hiện có và giữ.
 
-- Ngày 1 tháng 7 năm 2020: tại chỗ eDiscovery & giữ chức năng trong EAC sẽ được đặt ở chế độ chỉ đọc. Điều này có nghĩa là bạn chỉ có thể xóa các tìm kiếm hiện có và giữ.
+**Để biết thêm thông tin, hãy xem**:
 
-Để biết **thêm thông tin, xem**:
-
- - [Di chuyển tìm kiếm eDiscovery hợp lệ và giữ cho Trung tâm tuân thủ Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/migrate-legacy-ediscovery-searches-and-holds)
- - [Nghỉ hưu của công cụ eDiscovery di sản](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement)
- - [Câu hỏi thường gặp về tại chỗ eDiscovery và tại chỗ giữ](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement#faqs-about-in-place-ediscovery-and-in-place-holds)
+ - [Di chuyển các tìm kiếm khám phá điện tử và giữ lại Trung tâm tuân thủ Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/migrate-legacy-ediscovery-searches-and-holds)
+ - [Hưu trí của công cụ eDiscovery kế thừa](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement)
+ - [Các câu hỏi thường gặp về khám phá điện tử tại chỗ và giữ tại chỗ](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement#faqs-about-in-place-ediscovery-and-in-place-holds)
 
 
 
