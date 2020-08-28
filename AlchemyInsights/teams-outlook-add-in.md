@@ -1,5 +1,5 @@
 ---
-title: Nhóm Outlook Add-in
+title: Bổ trợ Outlook nhóm
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,15 +13,22 @@ ms.custom:
 - "3536"
 - "9002573"
 - "4990"
-ms.openlocfilehash: e4645f5d589333817d65adffa6d02de9e9bac255
-ms.sourcegitcommit: 3ca312535d950105ee829e037f0ff8f1ddbbae72
+ms.openlocfilehash: a8b548da6390391fd36de9cf848cf3a4801c9d92
+ms.sourcegitcommit: 282933087112fe8ec989e47b400ce589c0351c16
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/11/2020
-ms.locfileid: "44702228"
+ms.lasthandoff: 08/27/2020
+ms.locfileid: "47290041"
 ---
-# <a name="teams-outlook-add-in"></a>Nhóm Outlook Add-in
+# <a name="teams-outlook-add-in"></a>Bổ trợ Outlook nhóm
 
-Để khắc phục sự cố thiếu nhóm Outlook Add-in, trước tiên hãy chắc chắn chạy dịch vụ chẩn đoán ở đây trong Cổng quản trị.  Nếu dịch vụ chẩn đoán cho biết không có vấn đề, hãy tiến hành để tải xuống và chạy [Microsoft support và phục hồi hỗ trợ](https://aka.ms/SaRA-TeamsAddInScenario) **đội Outlook thêm trong tình huống** trên máy người dùng bị ảnh hưởng để chẩn đoán và sửa chữa bất kỳ vấn đề khách hàng.
+## <a name="to-troubleshoot-a-missing-teams-outlook-add-in"></a>Để khắc phục sự cố bổ trợ Outlook nhóm thiếu
 
-Để khắc phục sự cố theo cách thủ công, hãy đánh giá danh sách các yếu tố tiềm năng có thể khiến teams của bạn thêm vào không xuất hiện được liệt kê [ở đây](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show).
+1. Chạy chẩn đoán dịch vụ trong cổng thông tin quản trị. 
+2. Nếu dịch vụ chẩn đoán cho biết không có vấn đề, hãy chẩn đoán và sửa bất kỳ sự cố của máy khách trên máy người dùng bị ảnh hưởng bằng cách tải xuống và chạy các phần trợ [giúp phục hồi và hỗ trợ của Microsoft](https://aka.ms/SaRA-TeamsAddInScenario)  >  **Teams Outlook Add-in Scenario**.
+
+Để khắc phục sự cố thủ công một phần bổ trợ Outlook nhóm, hãy xem lại danh sách các yếu tố tiềm tàng có thể làm cho bổ trợ nhóm của bạn không xuất hiện được liệt kê. Để biết thêm thông tin, hãy xem [bổ trợ cuộc họp nhóm trong Outlook for Windows không hiển thị](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show).
+
+## <a name="to-troubleshoot-scheduling-a-teams-meeting-on-behalf-of-someone-else-delegate"></a>Để khắc phục sự cố lên lịch một cuộc họp nhóm thay mặt cho người khác (đại diện)
+
+Để lên lịch một cuộc họp nhóm thay mặt cho người khác, hãy xem khắc phục sự cố các [vấn đề tương tác của Microsoft nhóm và Exchange Server](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue).

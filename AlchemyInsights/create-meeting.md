@@ -1,5 +1,5 @@
 ---
-title: Tạo cuộc họp
+title: Lên lịch một cuộc họp trong nhóm
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,26 +11,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "2678"
 - "9000736"
-ms.openlocfilehash: 6936138804ad8f09caccce7c3673475851f765ae
-ms.sourcegitcommit: 83c644c35c2700dc515f091c8f41f9c283b89967
+ms.openlocfilehash: 185024e40391b8a03d3cde5540eb1c18a950163c
+ms.sourcegitcommit: 282933087112fe8ec989e47b400ce589c0351c16
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/02/2020
-ms.locfileid: "43105369"
+ms.lasthandoff: 08/27/2020
+ms.locfileid: "47290077"
 ---
-# <a name="schedule-a-meeting-in-teams"></a>Lên lịch cuộc họp trong teams
+# <a name="schedule-a-meeting-in-teams"></a>Lên lịch một cuộc họp trong nhóm
 
-**Quan trọng**: nếu bạn gặp sự cố khi tạo cuộc họp hoặc không thể tìm thấy tuỳ chọn cuộc họp trong teams, hãy đảm bảo người dùng bị ảnh hưởng (s) [được cấp phép cho hộp thư Exchange Online và hộp thư được bật](https://docs.microsoft.com/exchange/recipients-in-exchange-online/create-user-mailboxes).
+**Quan trọng** Nếu bạn gặp sự cố khi tạo cuộc họp hoặc không thể tìm thấy tùy chọn cuộc họp trong nhóm, hãy đảm bảo rằng (các) người dùng bị ảnh hưởng đã kích hoạt trên một phiên bản được hỗ trợ cho các nhóm Microsoft. Trong khi Exchange Online được đề xuất, các hộp thư tại chỗ được hỗ trợ trên Exchange Server 2016 CU3 hoặc mới hơn với OAuth được cấu hình thành công giữa trực tuyến và tại cơ sở. Để biết thêm thông tin, hãy xem [tạo hộp thư người dùng trong Exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/create-user-mailboxes) và [yêu cầu đối với hộp thư được lưu trữ tại chỗ](https://docs.microsoft.com/microsoftteams/exchange-teams-interact#requirements-for-mailboxes-hosted-on-premises). 
 
-Bạn có thể lên lịch cuộc họp theo hai cách: 
+1. Bạn có thể lên lịch một cuộc họp bằng cách chọn:
 
-- Chọn **lịch trình một biểu tượng cuộc họp** trong một cuộc trò chuyện (dưới đây là hộp soạn) để đặt một cuộc họp với những người trong cuộc trò chuyện.
-- Chọn biểu tượng **lịch** ở bên trái của ứng dụng và chọn **cuộc họp mới** ở trên cùng bên phải hoặc chọn một khoảng thời gian trong lịch của bạn để mở biểu mẫu lập lịch trình.
+    - Lên lịch biểu tượng **cuộc họp** trong cuộc trò chuyện bên dưới hộp soạn thảo để đặt cuộc họp với mọi người trong cuộc trò chuyện.
 
-Tương tự như lên lịch cuộc họp trong Outlook, bạn sẽ cung cấp cho cuộc họp của bạn một tiêu đề, mời người và thêm chi tiết cuộc họp.
+    - Biểu tượng **lịch** ở bên trái của ứng dụng. Chọn **cuộc họp mới** ở trên cùng bên phải hoặc chọn một khoảng thời gian trong lịch của bạn để mở biểu mẫu lên lịch.
 
-Ở phía bên phải của biểu mẫu lập lịch, bạn có thể thêm kênh hoặc cá nhân người hoặc để trống cả hai để lên lịch cho một cuộc hẹn riêng.
+2. Tương tự như lập lịch cuộc họp trong Outlook, bạn sẽ cung cấp cho cuộc họp của bạn một tiêu đề, mời mọi người, và thêm chi tiết cuộc họp.
 
-- Để biết thêm thông tin về cách tạo và lập lịch cuộc họp trong Microsoft teams, xem [lên lịch cuộc họp trong teams](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5).
+3. Ở bên phải của biểu mẫu lập lịch bạn có thể thêm kênh hoặc người cá nhân hoặc rời khỏi cả hai trống để lên lịch một cuộc hẹn riêng tư.
 
-- Giới hạn và thông số kỹ thuật cho các cuộc họp, xem [giới hạn và thông số kỹ thuật cho Microsoft teams](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#meetings-and-calls).
+Để biết thêm thông tin về việc tạo và lập lịch cuộc họp trong Microsoft nhóm, hãy xem lên [lịch cuộc họp trong nhóm](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5).
+
+Để biết thêm thông tin về giới hạn và đặc tính đối với cuộc họp, hãy xem [giới hạn và đặc tính đối với nhóm Microsoft](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#meetings-and-calls).
+
+Để được trợ giúp khắc phục sự cố các nhóm và tương tác của Exchange, đặc biệt là đối với các vấn đề về lập lịch biểu, hãy xem [khắc phục sự cố về Microsoft nhóm và Exchange Server](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue).
