@@ -1,5 +1,5 @@
 ---
-title: Kênh riêng
+title: Kênh riêng tư
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,32 +11,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001223"
 - "3205"
-ms.openlocfilehash: be518df0d40123c1f0da6596bd6e2e91a0c2c8fa
-ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
+ms.openlocfilehash: 418cedd25f040cc6ed296a0e8ea8a80579dec6a1
+ms.sourcegitcommit: a09884e7169f9aa290f60a4c8fa4eeb80d53ee49
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/02/2020
-ms.locfileid: "44005460"
+ms.lasthandoff: 08/31/2020
+ms.locfileid: "47316221"
 ---
-# <a name="private-channels-in-microsoft-teams"></a>Kênh riêng tư trong Microsoft teams
+# <a name="private-channels-in-microsoft-teams"></a>Các kênh riêng trong nhóm Microsoft
 
-Các kênh riêng tư là một tính năng mới trong Microsoft teams. Lưu ý rằng các kênh riêng tư không thể chuyển đổi từ các kênh tiêu chuẩn hoặc ngược lại.
+Các kênh riêng tư trong nhóm Microsoft tạo ra các không gian tập trung để cộng tác trong nhóm của bạn. Chỉ những người dùng trong nhóm là người sở hữu hoặc thành viên của kênh riêng tư có thể truy nhập vào kênh. Bất kỳ ai, bao gồm cả khách, có thể được thêm vào như là một thành viên của một kênh riêng tư miễn là họ đã là thành viên của nhóm.
 
-Để biết chi tiết về các kênh riêng tư, chẳng hạn như thông tin về [việc tạo kênh riêng và](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership) [các trang web SharePoint](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites)riêng tư và kênh tư nhân, xem [các kênh riêng tư trong Microsoft teams](https://docs.microsoft.com/MicrosoftTeams/private-channels). 
+Để tìm hiểu thêm, hãy bắt đầu với các [kênh riêng tư trong nhóm Microsoft](https://docs.microsoft.com/MicrosoftTeams/private-channels). Điều này bao gồm các thông tin như [tạo kênh riêng tư và](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership) [các trang SharePoint kênh riêng](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites)tư.
 
-**Lưu ý:** Vì cấu hình để lưu giữ các thư riêng tư không được hỗ trợ, người thuê với chính sách lưu giữ cho phép sẽ không có kênh riêng được kích hoạt theo mặc định. Bạn có thể bật các kênh riêng tư trong Trung tâm quản trị teams. Ngoài ra, lưu ý rằng mặc dù không hỗ trợ lưu trữ các tin nhắn kênh riêng tư, việc lưu giữ các tệp được chia sẻ trong các kênh riêng tư có hỗ trợ.
+**Bạn cần chủ sở hữu nhóm mới?**
 
-**Bạn cần một chủ sở hữu nhóm mới?**
+Nếu chủ sở hữu kênh riêng của bạn rời khỏi tổ chức của bạn hoặc bị loại bỏ khỏi nhóm, một thành viên của kênh riêng tư sẽ tự động được tăng lên là chủ sở hữu kênh riêng tư.
 
-Nếu chủ sở hữu kênh riêng của bạn rời khỏi, bạn có thể thêm chủ sở hữu nhóm mới qua teams PowerShell.
-
-
-- Truy cập vào [đây](https://www.powershellgallery.com/packages/MicrosoftTeams/1.0.6) để cài đặt đội PowerShell.
-
-Đây là lệnh bạn sẽ cần:
-
-`
-    Add-TeamChannelUser -GroupId <group_id> -DisplayName "<channel_name>" -User <UPN> -Role Owner
-`
-
-Để biết thêm thông tin về teams PowerShell, xem [tổng quan về nhóm PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview).
+Người quản trị cũng có thể xem [quản lý vòng đời của các kênh riêng tư trong nhóm Microsoft](https://docs.microsoft.com/MicrosoftTeams/private-channels-life-cycle-management) để tìm hiểu thêm về chính sách để quản lý những người có thể tạo các kênh riêng tư, cũng như các cách giúp xây dựng truy vấn cho khám phá điện tử hoặc giữ hợp lệ.
