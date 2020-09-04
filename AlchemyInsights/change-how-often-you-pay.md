@@ -1,8 +1,8 @@
 ---
-title: Thay đổi tần suất bạn thanh toán
+title: Thay đổi mức độ thường xuyên bạn thanh toán
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,20 +14,22 @@ ms.custom:
 - "469"
 - "4552"
 - "1500025"
-ms.openlocfilehash: d58e23d1174097af6a6a8b548a89c382cce2a012
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: c07867d1eb448c89e30dc499bc1fcb19a63a823b
+ms.sourcegitcommit: de5f2e8527202ff04f1587f1289ab81e8c804bb2
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "43939677"
+ms.lasthandoff: 09/03/2020
+ms.locfileid: "47364609"
 ---
-# <a name="change-how-often-you-pay"></a>Thay đổi tần suất bạn thanh toán
+# <a name="change-how-often-you-pay"></a>Thay đổi mức độ thường xuyên bạn thanh toán
 
-Để thay đổi tần suất bạn được lập hóa đơn và thanh toán cho đăng ký, hãy hoàn tất các bước sau trong Trung tâm quản trị Microsoft 365. 
-1. Chuyển đến ** [các sản phẩm > thanh toán & dịch vụ](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
-2. Tìm gói đăng ký bạn muốn thay đổi. Trong phần **lập hóa đơn** , bên cạnh tính **phí hàng tháng** hoặc bị tính **phí mỗi**năm, hãy nhấp vào **chỉnh sửa**. 
-3. Chọn tùy chọn cho tần suất bạn muốn được lập hóa đơn, sau đó nhấp vào **thay đổi**.
+Để thay đổi mức độ thường xuyên bạn đang lập hóa đơn và thanh toán cho một thuê bao, hãy hoàn thành các bước sau đây trong Trung tâm quản trị Microsoft 365.
 
-**Lưu ý**: thanh toán hàng tháng hoặc hàng năm là các tùy chọn duy
+1. Đi tới **thanh toán hóa**  >  trang[sản phẩm của bạn](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+2. Trên tab **sản phẩm** , hãy chọn thuê bao mà bạn muốn thay đổi. 
+3. Trên trang chi tiết gói đăng ký, trong phần **thiết đặt thuê bao và thanh toán** , hãy chọn **chỉnh sửa tần suất thanh toán**.
+4. Trong ngăn **chỉnh sửa tần suất thanh toán** , hãy shoose tùy chọn thường xuyên bạn muốn được lập hóa đơn, sau đó chọn **thay đổi**.
 
-Để biết thêm thông tin, hãy xem [thay đổi tần suất thanh toán của bạn](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency?view=o365-worldwide).
+**Lưu ý**: thanh toán hàng tháng hoặc hàng năm là các tùy chọn duy nhất.
+
+Để biết thêm thông tin, hãy xem [thay đổi tần suất thanh toán của bạn](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).
