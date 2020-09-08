@@ -1,5 +1,5 @@
 ---
-title: Làm cách nào để thiết lập hội thảo âm thanh cho teams
+title: Làm thế nào để tôi thiết lập hội thảo âm thanh cho các nhóm
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,31 +12,31 @@ ms.custom:
 - "2711"
 - "2712"
 - "9000766"
-ms.openlocfilehash: f43149ff7cf420dd046fa8adadbb2048ba7af410
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: d93d598643422f83931ed13d7a002901bd555cfe
+ms.sourcegitcommit: b7bbe4c5419668ce8e84196db382032ca09cd176
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709961"
+ms.lasthandoff: 09/08/2020
+ms.locfileid: "47406397"
 ---
-# <a name="microsoft-teams--audio-conferencing"></a>Microsoft teams – hội thảo âm thanh
+# <a name="microsoft-teams--audio-conferencing"></a>Nhóm Microsoft – hội thảo âm thanh
 
-Bạn cần trợ giúp bật hoặc thiết lập hội thảo âm thanh trong Microsoft teams? Có người dùng này được tạo ra gần đây?  Nếu vậy bạn sẽ cần phải đợi 2-24 giờ để cài đặt có hiệu lực.
+Bạn cần trợ giúp về việc bật hoặc thiết lập hội [thảo âm thanh cho các nhóm Microsoft](https://docs.microsoft.com/microsoftteams/set-up-audio-conferencing-in-teams)?  Đã tạo gần đây cho người dùng? Nếu vậy, bạn sẽ cần vài giờ để cài đặt có hiệu lực.
 
-Để xác minh rằng người dùng được cấp phép cho hội thảo âm thanh và có số điện thoại mặc định:
+Nếu [giấy phép đã được mua](https://docs.microsoft.com/microsoftteams/set-up-audio-conferencing-in-teams#step-2-get-and-assign-licenses), hãy xác nhận rằng người dùng được cấp phép cho hội thảo âm thanh Microsoft 365 và có một số điện thoại mặc định.
 
-1. Đi tới [người dùng đang hoạt động](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) và sau đó chọn người dùng trong câu hỏi.
+1. Đi tới [người dùng hiện hoạt](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) , rồi chọn người dùng trong câu hỏi.
 
-2. Tùy thuộc vào phiên bản Trung tâm quản trị, hãy chọn **giấy phép và ứng dụng** hoặc nhấp vào **chỉnh sửa** trên **giấy phép sản phẩm**.
+2. Tùy thuộc vào phiên bản Trung tâm quản trị, hãy chọn **giấy phép và ứng dụng** hoặc bấm **sửa** trên **giấy phép sản phẩm**.
 
-3. Xác nhận rằng người dùng có giấy phép được chọn cho **hội nghị âm thanh, Microsoft teams**và **Skype dành cho doanh nghiệp trực tuyến (kế hoạch 2)**.
+3. Xác nhận rằng người dùng có giấy phép được chọn cho hội **thảo âm thanh microsoft 365, nhóm Microsoft**và **Skype for Business Online (gói 2)**. Nếu giấy phép hội **thảo âm thanh Microsoft 365** không có mặt, bạn sẽ cần phải [mua thêm vào giấy phép](https://docs.microsoft.com/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing?tabs=small-business) trước tiên.
 
-4. **Trung tâm quản trị** người dùng nhấp vào **Hiển thị tất cả** sau đó bấm vào **nhóm**.
+4. **Trung tâm quản trị** người dùng bấm vào **hiện tất cả** và sau đó chọn **nhóm**.
 
-5. Trong **Trung tâm quản trị Microsoft teams**, nhấp vào **cổng thông tin cũ**.
+5. Trong **Trung tâm quản trị nhóm Microsoft**, bấm vào **cổng thông tin kế thừa**.
 
-6. Trong **Skype cho Trung tâm quản trị kinh doanh**, bấm **hội nghị âm thanh** và sau đó **người dùng**.
+6. Trong **Trung tâm quản trị Skype for Business**, hãy bấm hội **thảo âm thanh** , rồi **người dùng**.
 
-7. Chọn người dùng trong câu hỏi và xác minh người dùng có **số điện thoại mặc định**.
+7. Chọn người dùng trong câu hỏi và xác nhận người dùng có **số điện thoại mặc định**.
 
-Để biết thêm thông tin, hãy tham khảo [gói gọi điện](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) hoặc gọi nhóm thanh toán thương mại của Microsoft để trợ giúp về các câu hỏi liên quan đến cấp phép.
+Nếu bạn cần thêm trợ giúp về việc mua giấy phép cho hội **thảo âm thanh Microsoft**, hãy gọi cho bộ [phận hỗ trợ thanh toán của Microsoft](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide#phone-support).

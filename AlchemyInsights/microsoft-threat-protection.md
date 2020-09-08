@@ -1,5 +1,5 @@
 ---
-title: Bảo vệ mối đe dọa của Microsoft
+title: Bảo vệ chống đe dọa của Microsoft
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -9,19 +9,19 @@ localization_priority: Normal
 ms.custom:
 - "9000760"
 - "3500"
-ms.openlocfilehash: 062dd51724ec6c36775f7f962241bac5807dd660
-ms.sourcegitcommit: ad8b990f0eb9274e68ef599e857ac6c452d3919a
+ms.openlocfilehash: 96562996569a75353a7d4c37b3c16c66d8d65489
+ms.sourcegitcommit: b7bbe4c5419668ce8e84196db382032ca09cd176
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 01/23/2020
-ms.locfileid: "41277961"
+ms.lasthandoff: 09/08/2020
+ms.locfileid: "47406456"
 ---
-# <a name="microsoft-threat-protection"></a>Bảo vệ mối đe dọa của Microsoft
+# <a name="microsoft-threat-protection"></a>Bảo vệ chống đe dọa của Microsoft
 
-- [Tổng quan về MTP](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-threat-protection)
-- [Kiện tiên quyết](https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites)
-- [Yêu cầu giấy phép](https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites#licensing-requirements)
-- [Làm thế nào để kích hoạt MTP](https://docs.microsoft.com/microsoft-365/security/mtp/mtp-enable)
-- [MTP khắc phục sự cố](https://docs.microsoft.com/microsoft-365/security/mtp/troubleshoot)
+- [Tổng quan MTP](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-threat-protection)
+- [OLSync](https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites)
+- [Yêu cầu cấp phép](https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites#licensing-requirements)
+- [Cách để bật MTP](https://docs.microsoft.com/microsoft-365/security/mtp/mtp-enable)
+- [Khắc phục sự cố MTP](https://docs.microsoft.com/microsoft-365/security/mtp/troubleshoot)
 
-Cách kiểm tra cấp phép: bạn cần phải được chỉ định là quản trị viên thanh toán hoặc vai trò người đọc toàn cầu trong Azure AD để xem giấy phép của bạn. Chuyển đến [Trung tâm quản trị](https://admin.microsoft.com/) và điều hướng đến**giấy phép** **thanh toán** > để xem giấy phép hiện có của bạn.
+Cách kiểm tra cấp phép: bạn cần được gán hoặc là người quản trị thanh toán hoặc vai trò bộ đọc toàn cầu trong Azure AD để xem giấy phép của bạn. Đi đến [Trung tâm quản trị](https://admin.microsoft.com/) và dẫn hướng đến giấy phép **thanh toán**  >  **Licenses** để xem các giấy phép hiện có của bạn.

@@ -1,5 +1,5 @@
 ---
-title: Lập kế hoạch, triển khai và quản lý các phòng teams
+title: Lập kế hoạch, triển khai và quản lý phòng nhóm
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,21 +10,17 @@ ms.assetid: ''
 ms.custom:
 - "9002255"
 - "4366"
-ms.openlocfilehash: a3e3a3d4a9de183826f51be1c10cf9d0ac687cbd
-ms.sourcegitcommit: 4f7ff981bbb3a98663cd164d0a10bb082cdf7ec9
+ms.openlocfilehash: f11abae1a804fcda412ca2e0d1dfa8d899e2d31d
+ms.sourcegitcommit: b7bbe4c5419668ce8e84196db382032ca09cd176
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42946866"
+ms.lasthandoff: 09/08/2020
+ms.locfileid: "47406420"
 ---
-# <a name="plan-deploy-and-manage-teams-rooms"></a>Lập kế hoạch, triển khai và quản lý các phòng teams
+# <a name="plan-deploy-and-manage-teams-rooms"></a>Lập kế hoạch, triển khai và quản lý phòng nhóm
 
-Thiết lập và sử dụng Microsoft teams phòng trong tổ chức của bạn bằng cách làm theo các bước sau: 
+- [Lập kế hoạch](https://docs.microsoft.com/MicrosoftTeams/rooms/rooms-plan)  cho phòng Microsoft nhóm. Điều này bao gồm[bản Cập Nhật cấp phép](https://docs.microsoft.com/MicrosoftTeams/rooms/rooms-licensing), [yêu cầu phần cứng và hệ thống phòng Microsoft nhóm hỗ trợ](https://docs.microsoft.com/MicrosoftTeams/rooms/requirements#hardware-requirements).
+- [Đặt cấu hình tài khoản](https://docs.microsoft.com/MicrosoftTeams/rooms/rooms-configure-accounts)  cho phòng Microsoft nhóm.
+- [Quản lý các thiết bị](https://docs.microsoft.com/microsoftteams/rooms/rooms-manage)  bằng cách dùng Trung tâm quản trị nhóm (bạn cần có người quản trị dịch vụ nhóm hoặc vai trò người quản trị toàn cầu) và xem lại [danh sách các vấn đề đã biết](https://docs.microsoft.com/microsoftteams/rooms/known-issues).
 
-- [Lập kế hoạch cho môi trường và các yêu cầu xét](https://docs.microsoft.com/microsoftteams/rooms/rooms-plan).
-
-- [Đặt cấu hình tài khoản và triển khai với môi trường của bạn](https://docs.microsoft.com/microsoftteams/rooms/rooms-deploy).
-
-- [Quản lý, khắc phục sự](https://docs.microsoft.com/microsoftteams/rooms/rooms-manage#troubleshooting)cố và [biết vấn đề](https://docs.microsoft.com/microsoftteams/rooms/known-issues). 
-
-Để biết thêm thông tin, xem [Microsoft teams Rooms](https://docs.microsoft.com/microsoftteams/rooms/).
+Để biết thêm thông tin về việc lập kế hoạch, triển khai và quản lý phòng Microsoft nhóm, hãy xem [phòng Microsoft nhóm](https://docs.microsoft.com/microsoftteams/rooms/).
