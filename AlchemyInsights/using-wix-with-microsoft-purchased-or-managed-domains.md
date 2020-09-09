@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5855"
 - "9003096"
-ms.openlocfilehash: f6845c56f05e9cef11362ce601a974b73a154c9a
-ms.sourcegitcommit: 28a319e482e6a8644e87726e1b0e599819df52d0
+ms.openlocfilehash: d0684393b089ff37eb88649a04be77dd53bdb629
+ms.sourcegitcommit: dc77de3f18f942101a623be82b51ebd4d815daba
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "46630032"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "47420826"
 ---
 # <a name="using-a-wix-website-with-microsoft-purchased-or-managed-domains"></a>Sử dụng trang web Wix với tên miền đã mua hoặc được quản lý của Microsoft
 
@@ -29,4 +29,4 @@ ms.locfileid: "46630032"
 
 - Nếu bạn chọn thay đổi máy chủ tên thành Wix, bạn phải tạo bản ghi DNS tại Wix for Microsoft. Để biết thêm thông tin, hãy xem [tạo bản ghi DNS tại Wix for Microsoft](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-wix).
 
-- Nếu tên miền của bạn đã được mua từ Microsoft không thể thay đổi máy chủ tên. Nếu bạn phải thay đổi tên máy chủ, tên miền đã mua Microsoft phải được chuyển đến nhà cung cấp lưu trữ khác sau 60 ngày. Để biết thêm thông tin, hãy xem [câu hỏi thường gặp về tên miền](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq#can-i-transfer-a-domain-i-purchased-from-microsoft-to-another-provider).
+- Nếu tên miền của bạn đã được mua từ Microsoft không thể thay đổi máy chủ tên. Nếu bạn phải thay đổi tên máy chủ, tên miền đã mua Microsoft phải được chuyển đến nhà cung cấp lưu trữ khác sau 60 ngày. Để biết thêm thông tin, hãy xem [chuyển tên miền từ Microsoft sang máy chủ khác](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host).
