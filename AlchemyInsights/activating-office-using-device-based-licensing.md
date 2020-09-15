@@ -1,34 +1,35 @@
 ---
-title: Kích hoạt Office bằng cách sử dụng cấp phép dựa trên thiết bị
+title: Kích hoạt Office bằng cách dùng cấp phép dựa trên thiết bị
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001420"
 - "3433"
-ms.openlocfilehash: d0ebc7901efb19a433a0c8d6e8f22e5ff969d336
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: ae39e70780607c55dac1d3fac13b41910397d2e7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44504465"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47697903"
 ---
-# <a name="activating-office-using-device-based-licensing"></a>Kích hoạt Office bằng cách sử dụng cấp phép dựa trên thiết bị
+# <a name="activating-office-using-device-based-licensing"></a>Kích hoạt Office bằng cách dùng cấp phép dựa trên thiết bị
 
 > [!NOTE]
-> [Thiết bị văn phòng kích hoạt dựa](https://aka.ms/officedba) cho khách hàng giáo dục Hoa Kỳ bây giờ không được chấp nhận. Chúng tôi khuyến khích các tổ chức lập kế hoạch cho giấy phép Microsoft 365 ứng dụng dành cho giáo dục (thiết bị) mới cho khách hàng giáo dục.
+> [Kích hoạt dựa trên thiết bị](https://aka.ms/officedba) Office cho khách hàng giáo dục Hoa Kỳ hiện đã bị hủy. Chúng tôi khuyến khích các tổ chức lên kế hoạch cho các ứng dụng Microsoft 365 dành cho giáo dục (thiết bị) cho khách hàng của giáo dục.
 
-Để kích hoạt Office bằng cách sử dụng cấp phép dựa trên thiết bị, bạn cần có giấy phép bổ trợ Microsoft 365 ứng dụng dành cho giáo dục (thiết bị) chỉ có sẵn cho khách hàng giáo dục và chỉ có sẵn thông qua đăng ký cho các giải pháp giáo dục (EES). Vui lòng xem [yêu cầu sử dụng cấp phép dựa trên thiết bị cho Microsoft 365 ứng dụng dành cho doanh nghiệp](https://docs.microsoft.com/deployoffice/device-based-licensing#requirements-for-using-device-based-licensing-for-microsoft-365-apps-for-enterprise).
+Để kích hoạt Office bằng cách sử dụng cấp phép dựa trên thiết bị, bạn cần có giấy phép bổ trợ Microsoft 365 dành cho giáo dục (thiết bị) chỉ sẵn dùng cho khách hàng giáo dục và chỉ sẵn dùng thông qua việc đăng ký cho các giải pháp giáo dục (EES). Vui lòng xem các [yêu cầu để sử dụng cấp phép dựa trên thiết bị cho ứng dụng Microsoft 365 dành cho doanh nghiệp](https://docs.microsoft.com/deployoffice/device-based-licensing#requirements-for-using-device-based-licensing-for-microsoft-365-apps-for-enterprise).
 
 
-Để biết thông tin chi tiết về thiết lập, xem:
+Để biết thông tin chi tiết về thiết lập, hãy xem:
 
-- [Các bước cấu hình cấp phép dựa trên thiết bị cho Microsoft 365 ứng dụng dành cho doanh nghiệp](https://docs.microsoft.com/deployoffice/device-based-licensing#steps-to-configure-device-based-licensing-for-microsoft-365-apps-for-enterprise)
+- [Các bước để cấu hình cấp phép dựa trên thiết bị cho các ứng dụng Microsoft 365 dành cho doanh nghiệp](https://docs.microsoft.com/deployoffice/device-based-licensing#steps-to-configure-device-based-licensing-for-microsoft-365-apps-for-enterprise)
 - [Quản lý giấy phép cho thiết bị](https://docs.microsoft.com/microsoft-365/admin/misc/manage-licenses-for-devices)
 
-Để khắc phục sự cố hướng dẫn, xem [khắc phục sự cố dựa trên thiết bị cấp phép cho Microsoft 365 ứng dụng dành cho doanh nghiệp](https://docs.microsoft.com/deployoffice/device-based-licensing#troubleshoot-device-based-licensing-for-microsoft-365-apps-for-enterprise).
+Để biết hướng dẫn khắc phục sự cố, hãy xem [khắc phục sự cố cấp phép dựa trên thiết bị cho ứng dụng Microsoft 365 dành cho doanh nghiệp](https://docs.microsoft.com/deployoffice/device-based-licensing#troubleshoot-device-based-licensing-for-microsoft-365-apps-for-enterprise).
