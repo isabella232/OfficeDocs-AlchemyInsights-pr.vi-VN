@@ -1,23 +1,24 @@
 ---
-title: Câu hỏi thường gặp có thể chỉnh sửa lưới Dynamics 365
+title: Các câu hỏi thường gặp về động lực 365 được sửa
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1464"
 - "6200013"
-ms.openlocfilehash: 35cfe1da0cbf191bb47af95c2fb63161994cc16b
-ms.sourcegitcommit: e17e7d17fdb638349bb320b318085138d18f284c
+ms.openlocfilehash: 8f2876a10ac09d9ba293b14aa818dc8024179129
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35752958"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47678274"
 ---
-# <a name="dynamics-365-editable-grid-faqs"></a><span data-ttu-id="d9a55-102">Hệ thống lưới điện có thể chỉnh sửa Dynamics 365 câu hỏi thường gặp</span><span class="sxs-lookup"><span data-stu-id="d9a55-102">Dynamics 365 editable grid FAQs</span></span>
+# <a name="dynamics-365-editable-grid-faqs"></a><span data-ttu-id="81a91-102">Các câu hỏi thường gặp về động lực 365 được sửa</span><span class="sxs-lookup"><span data-stu-id="81a91-102">Dynamics 365 editable grid FAQs</span></span>
 
-* [<span data-ttu-id="d9a55-103">Lưới có thể chỉnh sửa những câu hỏi thường gặp</span><span class="sxs-lookup"><span data-stu-id="d9a55-103">Editable grid frequently asked questions</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/customize/make-grids-lists-editable-custom-control#frequently-asked-questions-faqs)
+* [<span data-ttu-id="81a91-103">Các câu hỏi thường gặp về lưới lưới có thể sửa</span><span class="sxs-lookup"><span data-stu-id="81a91-103">Editable grid frequently asked questions</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/customize/make-grids-lists-editable-custom-control#frequently-asked-questions-faqs)
 
-* [<span data-ttu-id="d9a55-104">Lưới có thể chỉnh sửa phím tắt</span><span class="sxs-lookup"><span data-stu-id="d9a55-104">Editable grid keyboard shortcuts</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/basics/keyboard-shortcuts#editable-grids-views)
+* [<span data-ttu-id="81a91-104">Các lối tắt bàn phím lưới có thể chỉnh sửa</span><span class="sxs-lookup"><span data-stu-id="81a91-104">Editable grid keyboard shortcuts</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/basics/keyboard-shortcuts#editable-grids-views)
