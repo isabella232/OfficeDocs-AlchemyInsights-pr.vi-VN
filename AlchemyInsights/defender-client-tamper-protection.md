@@ -1,32 +1,33 @@
 ---
-title: 'Defender khách Tamper bảo vệ '
+title: 'Bảo vệ chống xáo trộn máy khách Defender '
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3479"
 - "9001464"
-ms.openlocfilehash: 909874d06e74e7df9c2eec9b47c89c25a30ac58c
-ms.sourcegitcommit: 42463e8d8869f36225a27388d83d37629c6b149e
+ms.openlocfilehash: 2c03e43bb8a669fcc8ff22e6c6df319a9a548be7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "40738520"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47680526"
 ---
-# <a name="defender-tamper-protection"></a>Bảo vệ Tamper Defender 
+# <a name="defender-tamper-protection"></a>Bảo vệ chống xáo trộn 
 
-Với bảo vệ Tamper, các ứng dụng độc hại sẽ ngăn cản việc thực hiện các hành động như:
+Với tính năng bảo vệ chống xáo trộn, các ứng dụng độc hại bị ngăn không cho thực hiện các hành động như sau:
 
-- Vô hiệu hóa vi rút và bảo vệ khỏi mối đe dọa
-- Tắt bảo vệ thời gian thực
+- Tắt tính năng bảo vệ vi-rút và đe dọa
+- Tắt tính năng bảo vệ thời gian thực
 - Tắt giám sát hành vi
-- Vô hiệu hoá chống vi-rút (chẳng hạn như IOfficeAntivirus (IOAV))
-- Vô hiệu hóa bảo vệ giao điện toán đám mây
-- Loại bỏ Cập nhật thông tin bảo mật
+- Tắt diệt vi-rút (chẳng hạn như IOfficeAntivirus (IOAV))
+- Tắt tính năng bảo vệ điện toán đám mây
+- Loại bỏ các bản cập nhật tình báo an ninh
 
-Để biết thêm chi tiết, xem [bảo vệ thiết đặt bảo mật với Tamper Protection](https://docs.microsoft.com/windows/security/threat-protection/windows-defender-antivirus/prevent-changes-to-security-settings-with-tamper-protection).
+Để biết thêm chi tiết, hãy xem [bảo vệ thiết đặt bảo mật với tính năng bảo vệ chống xáo trộn](https://docs.microsoft.com/windows/security/threat-protection/windows-defender-antivirus/prevent-changes-to-security-settings-with-tamper-protection).

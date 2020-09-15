@@ -5,25 +5,26 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001495"
 - "4386"
-ms.openlocfilehash: 277afc59705e6040f0f9ae0c8cad965bd7d3ef65
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: e32486236a318ae820538cf87c2019e05470211d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43790179"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47678526"
 ---
 # <a name="duplicate-device-record-in-the-portal"></a>Bản ghi thiết bị trùng lặp trong cổng thông tin
 
-Bạn có thể thấy 2 hồ sơ cho một thiết bị trong cổng nếu thiết bị không đúng cách báo cáo trạng thái đồng quản lý trang web quản lý cấu hình. Để kiểm tra tình trạng đồng quản lý của thiết bị, xem cột **đồng quản lý** thiết bị trong bảng điều khiển quản lý cấu hình. Nếu cột không hiển thị, bạn có thể thêm nó bằng cách bấm chuột phải vào bất kỳ tiêu đề cột nào và chọn nó từ danh sách.
+Bạn có thể thấy 2 bản ghi cho một thiết bị trong cổng thông tin nếu thiết bị không chính xác báo cáo trạng thái quản lý đồng bộ với site trình quản lý cấu hình. Để kiểm tra trạng thái đồng quản lý của một thiết bị, hãy xem lại cột **đồng quản lý** cho thiết bị trong bảng điều khiển trình quản lý cấu hình. Nếu cột không hiển thị, bạn có thể thêm nó bằng cách bấm chuột phải vào bất kỳ tiêu đề cột nào, rồi chọn nó từ danh sách.
 
-Giá trị đồng quản lý phải **có**. Nếu giá trị là **không**, mở cấu hình quản lý khách hàng applet trên thiết bị khách hàng và kiểm tra thuộc tính **đồng quản lý** trong tab chung.
+Giá trị đồng quản lý phải **có**. Nếu giá trị là **không**, hãy mở applet máy khách trình quản lý cấu hình trên thiết bị khách và kiểm tra thuộc tính **đồng quản lý** trong tab chung.
 
-- Nếu giá trị được **kích hoạt**, điều này cho biết vấn đề với giao tiếp khách hàng quản lý điểm. Vui lòng đánh giá **Ccmmessaging. log** trên thiết bị để điều tra vấn đề kết nối tiềm năng.
+- Nếu giá trị được **bật**, điều này cho biết sự cố với giao tiếp khách hàng với điểm quản lý. Vui lòng xem **CcmMessaging. log** trên thiết bị để điều tra các vấn đề kết nối tiềm ẩn.
 
-- Nếu giá trị bị **vô hiệu hoá** và thiết bị được đăng ký trong InTune, hãy đảm bảo rằng thiết bị đã nhận được chính sách đồng quản lý bằng cách xem **Comanagementhandler. log** trên thiết bị.
+- Nếu giá trị bị **vô hiệu hóa** và thiết bị được đăng ký trong InTune, vui lòng đảm bảo rằng thiết bị đã nhận được chính sách đồng quản lý bằng cách xem lại **Comanagementhandler. đăng nhập** vào thiết bị.

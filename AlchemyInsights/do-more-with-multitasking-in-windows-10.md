@@ -1,35 +1,36 @@
 ---
-title: Làm được nhiều việc hơn với đa nhiệm trong Windows 10
+title: Thực hiện nhiều việc hơn với đa nhiệm trong Windows 10
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002958"
 - "5660"
-ms.openlocfilehash: 8d8e73f4d9c5466badae1688981b8a968f6b010a
-ms.sourcegitcommit: b398afd92d4259f893c25b48aec65921e6cc68d6
+ms.openlocfilehash: 3efdd790d40dcf76b9815bcc63c150db9ab9a177
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/16/2020
-ms.locfileid: "44269365"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47679138"
 ---
-# <a name="do-more-with-multitasking-in-windows-10"></a>Làm được nhiều việc hơn với đa nhiệm trong Windows 10
+# <a name="do-more-with-multitasking-in-windows-10"></a>Thực hiện nhiều việc hơn với đa nhiệm trong Windows 10
 
-Để xem hoặc chuyển đổi giữa các ứng dụng: bạn có thể nhấp vào nút chế **cảnh nhiệm vụ** trong thanh tác vụ hoặc nhấn **Alt-Tab** trên bàn phím của bạn. Nút xem tác vụ trông như thế này:
+Để xem hoặc chuyển đổi giữa các ứng dụng: bạn có thể bấm vào nút **dạng xem tác vụ** trong thanh tác vụ hoặc nhấn **Alt-Tab** trên bàn phím của bạn. Nút dạng xem tác vụ trông như thế này:
 
-![Nút xem tác vụ](media/task-view.png)
+![Nút dạng xem tác vụ](media/task-view.png)
 
-Để dễ dàng sắp xếp hai ứng dụng cạnh nhau, hãy sử dụng snap Assist: lấy phần trên cùng của cửa sổ ứng dụng và kéo nó vào một bên để "chụp" nó vào một nửa của màn hình. Sau đó chọn một ứng dụng khác và nó sẽ tự động đính vào vị thế trong nửa khác của màn hình.
+Để dễ dàng sắp xếp hai ứng dụng cạnh nhau, hãy sử dụng snap Assist: lấy đầu cửa sổ ứng dụng và kéo nó sang một bên để "đính" nó vào một nửa của màn hình. Sau đó, chọn một ứng dụng khác và nó sẽ tự động đính vào vị trí trong nửa kia của màn hình.
 
-**Để tạo các máy tính để bàn ảo khác nhau cho nhà và công việc**:
+**Để tạo máy tính bàn ảo khác nhau cho gia đình và công việc**:
 
-1. Nhấp vào nút **xem tác vụ** trong thanh tác vụ hoặc nhấn **Alt-Tab** trên bàn phím của bạn.
-2. Nhấp vào **+ máy tính mới** (nằm ở trên cùng bên trái màn hình của bạn trong khi đang xem trong công việc).
+1. Bấm vào nút **dạng xem tác vụ** trong thanh tác vụ hoặc nhấn **Alt-Tab** trên bàn phím của bạn.
+2. Bấm **+ máy tính để bàn mới** (nằm ở góc trên bên trái màn hình của bạn khi ở trong dạng xem tác vụ).
 3. Mở ứng dụng bạn muốn sử dụng. 
 
-Quay lại chế **xem tác vụ** để xem máy tính để bàn của bạn và chuyển đổi giữa chúng.
+Quay lại **dạng xem tác vụ** để xem máy tính để bàn của bạn và chuyển đổi giữa chúng.

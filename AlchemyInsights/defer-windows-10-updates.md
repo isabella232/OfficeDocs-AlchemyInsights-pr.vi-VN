@@ -1,32 +1,33 @@
 ---
-title: Defer Windows 10 Cập Nhật
+title: Gỡ các bản cập nhật Windows 10
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/23/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1128"
 - "6700007"
-ms.openlocfilehash: 880ff7be68ecb55549582c601aade9d47a5ccaf1
-ms.sourcegitcommit: 07e56267dedfc4cec1143072c791670cbf81186b
+ms.openlocfilehash: 233354386eb319860f25b3929b6be528438cc865
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 07/24/2020
-ms.locfileid: "45424370"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47680445"
 ---
-# <a name="defer-windows-10-updates"></a>Defer Windows 10 Cập Nhật
+# <a name="defer-windows-10-updates"></a>Gỡ các bản cập nhật Windows 10
 
-Để hoãn các bản cập nhật Windows 10 đẩy người dùng, hãy làm theo các bước sau:
+Để trì hoãn Cập nhật Windows 10 đã đẩy cho người dùng, hãy làm theo các bước sau đây:
 
 1. Đăng nhập vào cổng thông tin Azure.
-2. Chọn **phần mềm cập**Nhật   >   **Windows 10 Cập Nhật nhẫn**.
-3. Nếu bạn không có một vòng Cập Nhật, hãy chọn tùy chọn tạo hình mới.
-4. Nhập tên và mô tả tùy chọn, sau đó chọn **cài đặt cấu hình**.
-5. Tùy chỉnh khung thời gian để hoãn Cập Nhật khác nhau. Thời gian hoãn tối đa dựa trên loại Cập Nhật:
-    - **Cập Nhật chất lượng** có thể được hoãn lại tối đa 30 ngày từ khi phát hành.
-    - **Tính năng Cập Nhật** có thể được hoãn lại lên đến 180 ngày từ phát hành của họ.
+2. Chọn **Cập nhật phần mềm**   >   **Windows 10 Update Rings**.
+3. Nếu bạn không có chuông Cập Nhật, hãy chọn tùy chọn để tạo mới.
+4. Nhập tên và mô tả tùy chọn, rồi chọn  **thiết đặt cấu hình**.
+5. Tùy chỉnh khung thời gian để có được các bản Cập Nhật khác nhau. Thời gian trả chậm tối đa là dựa trên loại bản Cập Nhật:
+    - **Bản Cập Nhật chất lượng**  có thể được hoãn tối đa 30 ngày kể từ khi phát hành.
+    - Các **bản cập nhật tính năng** có thể được trả chậm đến 180 ngày kể từ khi phát hành.
