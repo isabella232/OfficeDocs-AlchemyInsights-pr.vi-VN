@@ -1,24 +1,25 @@
 ---
-title: Khả năng Multi-Geo trong OneDrive và SharePoint Online
+title: Các chức năng đa địa lý trong OneDrive và SharePoint Online
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001088"
 - "5694"
-ms.openlocfilehash: e0b22710e4a6924deacea4a624ffeb3188d0629f
-ms.sourcegitcommit: bd7c03d4e994abb45c43510adca20b7600a87091
+ms.openlocfilehash: c6d3818171d010f6cc3f0870b8390e42974aea86
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/20/2020
-ms.locfileid: "44358395"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47702421"
 ---
-# <a name="multi-geo-capabilities-in-onedrive-and-sharepoint-online"></a>Khả năng Multi-Geo trong OneDrive và SharePoint Online
+# <a name="multi-geo-capabilities-in-onedrive-and-sharepoint-online"></a>Các chức năng đa địa lý trong OneDrive và SharePoint Online
 
-Khả năng Multi-Geo trong OneDrive và SharePoint trực tuyến cho phép kiểm soát quốc gia hoặc khu vực mà các tài nguyên được chia sẻ như SharePoint nhóm và các hộp thư nhóm Microsoft 365 lưu trữ ở phần còn lại.
-- [Khả năng Multi-Geo trong OneDrive và SharePoint Online](https://docs.microsoft.com/office365/enterprise/multi-geo-capabilities-in-onedrive-and-sharepoint-online-in-office-365)
+Các chức năng đa địa lý trong OneDrive và SharePoint Online cho phép quyền kiểm soát quốc gia hoặc khu vực mà các tài nguyên được chia sẻ như site nhóm SharePoint và hộp thư nhóm 365 của Microsoft được lưu trữ tại phần còn lại.
+- [Các chức năng đa địa lý trong OneDrive và SharePoint Online](https://docs.microsoft.com/office365/enterprise/multi-geo-capabilities-in-onedrive-and-sharepoint-online-in-office-365)
