@@ -1,29 +1,30 @@
 ---
-title: Nhận số điện thoại
+title: Lấy số điện thoại
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002342"
 - "5613"
-ms.openlocfilehash: 84dc3cb525ef9695d8cd7caa6007d21dcf663b4e
-ms.sourcegitcommit: 0cf8d133d6feade6df8b1082444ce73faa91e145
+ms.openlocfilehash: a7b8c6eb170c809b616abf63e2bf3fcd56ebee25
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44204576"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47707373"
 ---
-# <a name="get-phone-numbers"></a><span data-ttu-id="d18cc-102">Nhận số điện thoại</span><span class="sxs-lookup"><span data-stu-id="d18cc-102">Get phone numbers</span></span>
+# <a name="get-phone-numbers"></a><span data-ttu-id="2d6a6-102">Lấy số điện thoại</span><span class="sxs-lookup"><span data-stu-id="2d6a6-102">Get phone numbers</span></span>
 
-<span data-ttu-id="d18cc-103">Sau khi bạn đã mua các [giấy phép hệ thống điện thoại và gọi kế hoạch](https://docs.microsoft.com/MicrosoftTeams/setting-up-your-phone-system#step-2-buy-and-assign-phone-system-and-calling-plan-licenses), bạn sẽ cần phải nhận được số điện thoại cho người dùng của bạn.</span><span class="sxs-lookup"><span data-stu-id="d18cc-103">After you have purchased the [Phone System and Calling Plan licenses](https://docs.microsoft.com/MicrosoftTeams/setting-up-your-phone-system#step-2-buy-and-assign-phone-system-and-calling-plan-licenses), you will need to get phone numbers for your users.</span></span> <span data-ttu-id="d18cc-104">Bạn có 3 cách để có được số điện thoại.</span><span class="sxs-lookup"><span data-stu-id="d18cc-104">You have 3 ways to get phone numbers.</span></span>
+<span data-ttu-id="2d6a6-103">Sau khi bạn mua [hệ thống điện thoại và giấy phép gọi kế hoạch](https://docs.microsoft.com/MicrosoftTeams/setting-up-your-phone-system#step-2-buy-and-assign-phone-system-and-calling-plan-licenses), bạn sẽ cần có số điện thoại cho người dùng của bạn.</span><span class="sxs-lookup"><span data-stu-id="2d6a6-103">After you have purchased the [Phone System and Calling Plan licenses](https://docs.microsoft.com/MicrosoftTeams/setting-up-your-phone-system#step-2-buy-and-assign-phone-system-and-calling-plan-licenses), you will need to get phone numbers for your users.</span></span> <span data-ttu-id="2d6a6-104">Bạn có 3 cách để lấy số điện thoại.</span><span class="sxs-lookup"><span data-stu-id="2d6a6-104">You have 3 ways to get phone numbers.</span></span>
 
-1. <span data-ttu-id="d18cc-105">[Nhận số mới bằng cách sử dụng trung tâm quản trị teams](https://docs.microsoft.com/MicrosoftTeams/setting-up-your-phone-system#get-new-user-phone-numbers-using-the-teams-admin-center).</span><span class="sxs-lookup"><span data-stu-id="d18cc-105">[Get new numbers using the Teams admin center](https://docs.microsoft.com/MicrosoftTeams/setting-up-your-phone-system#get-new-user-phone-numbers-using-the-teams-admin-center).</span></span>
-2. <span data-ttu-id="d18cc-106">[Nhận số mới không có sẵn trong Trung tâm quản trị teams](https://docs.microsoft.com/MicrosoftTeams/setting-up-your-phone-system#get-new-numbers-that-arent-available-in-the-teams-admin-center).</span><span class="sxs-lookup"><span data-stu-id="d18cc-106">[Get new numbers that aren't available in the Teams admin center](https://docs.microsoft.com/MicrosoftTeams/setting-up-your-phone-system#get-new-numbers-that-arent-available-in-the-teams-admin-center).</span></span>
-3. <span data-ttu-id="d18cc-107">[Hoặc chuyển số điện thoại từ nhà cung cấp dịch vụ hoặc hãng điện thoại của bạn](https://docs.microsoft.com/MicrosoftTeams/setting-up-your-phone-system#port-or-transfer-phone-numbers-from-your-service-provider-or-phone-carrier).</span><span class="sxs-lookup"><span data-stu-id="d18cc-107">[Port or transfer phone numbers from your service provider or phone carrier](https://docs.microsoft.com/MicrosoftTeams/setting-up-your-phone-system#port-or-transfer-phone-numbers-from-your-service-provider-or-phone-carrier).</span></span>
+1. <span data-ttu-id="2d6a6-105">[Lấy số mới bằng cách sử dụng trung tâm quản trị nhóm](https://docs.microsoft.com/MicrosoftTeams/setting-up-your-phone-system#get-new-user-phone-numbers-using-the-teams-admin-center).</span><span class="sxs-lookup"><span data-stu-id="2d6a6-105">[Get new numbers using the Teams admin center](https://docs.microsoft.com/MicrosoftTeams/setting-up-your-phone-system#get-new-user-phone-numbers-using-the-teams-admin-center).</span></span>
+2. <span data-ttu-id="2d6a6-106">[Lấy các số mới không sẵn dùng trong Trung tâm quản trị nhóm](https://docs.microsoft.com/MicrosoftTeams/setting-up-your-phone-system#get-new-numbers-that-arent-available-in-the-teams-admin-center).</span><span class="sxs-lookup"><span data-stu-id="2d6a6-106">[Get new numbers that aren't available in the Teams admin center](https://docs.microsoft.com/MicrosoftTeams/setting-up-your-phone-system#get-new-numbers-that-arent-available-in-the-teams-admin-center).</span></span>
+3. <span data-ttu-id="2d6a6-107">[Cổng hoặc chuyển các số điện thoại từ nhà cung cấp dịch vụ hoặc nhà mạng điện thoại của bạn](https://docs.microsoft.com/MicrosoftTeams/setting-up-your-phone-system#port-or-transfer-phone-numbers-from-your-service-provider-or-phone-carrier).</span><span class="sxs-lookup"><span data-stu-id="2d6a6-107">[Port or transfer phone numbers from your service provider or phone carrier](https://docs.microsoft.com/MicrosoftTeams/setting-up-your-phone-system#port-or-transfer-phone-numbers-from-your-service-provider-or-phone-carrier).</span></span>
 
-<span data-ttu-id="d18cc-108">Để biết thêm thông tin, [hãy xem nhận số điện thoại cho người dùng của bạn](https://docs.microsoft.com/MicrosoftTeams/setting-up-your-phone-system#port-or-transfer-phone-numbers-from-your-service-provider-or-phone-carrier).</span><span class="sxs-lookup"><span data-stu-id="d18cc-108">For more info, see [Get phone numbers for your users](https://docs.microsoft.com/MicrosoftTeams/setting-up-your-phone-system#port-or-transfer-phone-numbers-from-your-service-provider-or-phone-carrier).</span></span>
+<span data-ttu-id="2d6a6-108">Để biết thêm thông tin, hãy xem [lấy số điện thoại cho người dùng của bạn](https://docs.microsoft.com/MicrosoftTeams/setting-up-your-phone-system#port-or-transfer-phone-numbers-from-your-service-provider-or-phone-carrier).</span><span class="sxs-lookup"><span data-stu-id="2d6a6-108">For more info, see [Get phone numbers for your users](https://docs.microsoft.com/MicrosoftTeams/setting-up-your-phone-system#port-or-transfer-phone-numbers-from-your-service-provider-or-phone-carrier).</span></span>
