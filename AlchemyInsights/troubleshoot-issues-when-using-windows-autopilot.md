@@ -5,22 +5,23 @@ author: erikje
 manager: dougeby
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000221"
 - "2490"
-ms.openlocfilehash: 3ae85d61e85bd5ebe39241c8906692f82976b81c
-ms.sourcegitcommit: ee719f011f766fc20d23e935e98d7e33c326183b
+ms.openlocfilehash: 2e5128c19427928eee773a92a57dc71ee756aab1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 10/24/2019
-ms.locfileid: "37654690"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47690120"
 ---
 # <a name="troubleshoot-issues-when-using-windows-autopilot"></a>Khắc phục sự cố khi sử dụng Windows AutoPilot
 
-Nếu bạn đang gặp vấn đề với AutoPilot, xem [Autopilot khắc phục](https://docs.microsoft.com/windows/deployment/windows-autopilot/troubleshooting) sự cố và [các vấn đề đã biết](https://docs.microsoft.com/windows/deployment/windows-autopilot/known-issues) trang.
+Nếu bạn đang gặp vấn đề với AutoPilot, hãy xem trang các [vấn đề về](https://docs.microsoft.com/windows/deployment/windows-autopilot/known-issues) [khắc phục sự cố Autopilot](https://docs.microsoft.com/windows/deployment/windows-autopilot/troubleshooting) và đã biết.
 
-Để biết thêm thông tin về thiết lập Windows Autopilot, xem [đăng ký thiết bị Windows trong InTune bằng cách sử dụng Windows Autopilot](https://docs.microsoft.com/intune/enrollment/enrollment-autopilot).
+Để biết thêm thông tin về việc thiết lập bộ điều Autopilot Windows, hãy xem mục [đăng ký thiết bị Windows trong InTune bằng cách dùng Windows Autopilot](https://docs.microsoft.com/intune/enrollment/enrollment-autopilot).
 

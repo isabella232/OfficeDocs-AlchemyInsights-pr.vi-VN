@@ -1,10 +1,11 @@
 ---
-title: Microsoft 365 cho giáo dục-được chấp thuận
+title: Microsoft 365 dành cho giáo dục-được phê duyệt
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -12,31 +13,31 @@ ms.custom:
 - "1500009"
 - "328"
 - "330"
-ms.openlocfilehash: a4b079ceb87e87fd50f04f6edbd5d2cb23a27429
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 324b941f3814876ac28b37aa09737c861e68fe99
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44062847"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47693433"
 ---
-# <a name="microsoft-365-for-education---approved"></a>Microsoft 365 cho giáo dục-được chấp thuận
+# <a name="microsoft-365-for-education---approved"></a>Microsoft 365 dành cho giáo dục-được phê duyệt
 
-Bạn đã được chấp thuận cho văn phòng 365 giáo dục.  Để mua:
+Bạn đã được phê duyệt cho Office 365 Education.  Để mua:
 
-1. Điều hướng **Billing**đến  >  [dịch vụ mua](https://portal.office.com/AdminPortal/Home#/catalog)thanh toán.
+1. Dẫn hướng **Billing**đến  >  [dịch vụ mua](https://portal.office.com/AdminPortal/Home#/catalog)thông tin thanh toán.
 
-2. Chọn từ danh sách theo **kế hoạch giáo dục**.
+2. Chọn từ danh sách bên dưới các **gói giáo dục**.
 
-3. Di chuột qua đăng ký mà bạn muốn mua và nhấp vào **mua ngay bây giờ**.
+3. Di chuột qua đăng ký mà bạn muốn mua và bấm **mua ngay**.
 
-4. [Thiết lập Microsoft 365 giáo dục](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/set-up-office365-edu-tenant)đối tượng thuê.
+4. [Thiết lập đối tượng thuê giáo dục Microsoft 365 của bạn](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/set-up-office365-edu-tenant).
 
-**Bật teams**
+**Bật các nhóm**
 
-- Để bật Microsoft teams cho tất cả người dùng, hãy **đi tới cài đặt**  >  **Settings**  >  [Microsoft teams](https://admin.microsoft.com/Adminportal/Home#/SettingsMultiPivot/:/Settings/L1/SkypeTeams) và nhấp vào hộp kiểm **bật Microsoft teams cho tất cả người dùng** . Nhấp vào **lưu thay đổi**.
+- Để bật Microsoft các nhóm cho tất cả người dùng, hãy **đi đến thiết đặt thiết**  >  **đặt**  >  [nhóm Microsoft](https://admin.microsoft.com/Adminportal/Home#/SettingsMultiPivot/:/Settings/L1/SkypeTeams) và bấm vào hộp kiểm **bật nhóm Microsoft cho tất cả người dùng** . Bấm **lưu thay đổi**.
 
-**Giảng dạy và học tập từ xa**
+**Dạy và tìm hiểu từ xa**
 
-- Vui lòng xem [từ xa giảng dạy và học tập trong văn phòng 365 giáo dục](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4) để tìm hiểu các hướng dẫn nhất đến ngày về thiết lập lập kế hoạch bài học trường học của bạn, họp hầu như và chia sẻ nội dung với sinh viên.
+- Vui lòng xem [giảng dạy từ xa và tìm hiểu trong Office 365 Education](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4) để tìm hiểu về hướng dẫn Cập Nhật nhất về việc thiết lập lập kế hoạch bài học trường học của bạn, cuộc họp hầu như và chia sẻ nội dung với học viên.
 
-- Có thêm hướng dẫn CNTT trong việc [bắt đầu với Microsoft teams để học từ xa](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu) và [thực hiện quá trình chuyển đổi sang học từ xa](https://www.microsoft.com/education/remote-learning).
+- Có hướng dẫn bổ sung về nó trong [bắt đầu với Microsoft các nhóm để tìm hiểu từ xa](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu) và [chuyển đổi sang việc học tập từ xa](https://www.microsoft.com/education/remote-learning).

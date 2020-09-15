@@ -5,6 +5,7 @@ author: cmcatee-MSFT
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,15 +13,15 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9002650"
 - "5101"
-ms.openlocfilehash: ccfacd6ea910937d3474cf94b9ff8e19c456832c
-ms.sourcegitcommit: f7f25506191d0656a7637340df806b82c4232bc4
+ms.openlocfilehash: 5059f9ed565df5c97157371fe17e9bde7a384d1b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43599410"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47692029"
 ---
 # <a name="restrict-default-video-upload-permissions"></a>Hạn chế quyền tải lên video mặc định
 
-Khi người dùng tải video lên Microsoft Stream qua cổng thông tin luồng bên ngoài ngữ cảnh của nhóm hoặc kênh nhóm, hộp kiểm "cho phép mọi người trong công ty của bạn xem video này" được kiểm tra theo mặc định. Điều này làm cho video có thể được xem bởi tất cả mọi người trong công ty của bạn.
+Khi người dùng tải video lên Microsoft Stream thông qua cổng thông tin dòng bên ngoài ngữ cảnh của một kênh nhóm hoặc nhóm, "cho phép mọi người trong công ty của bạn để xem video này" được kiểm tra theo mặc định. Điều này làm cho video có thể xem được tất cả mọi người trong công ty của bạn.
 
 - [Đặt quyền tải lên video mặc định](https://docs.microsoft.com/stream/default-video-permissions)

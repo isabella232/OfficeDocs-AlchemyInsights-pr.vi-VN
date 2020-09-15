@@ -5,6 +5,7 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -15,17 +16,17 @@ ms.custom:
 - "1100004"
 - "735"
 - "826"
-ms.openlocfilehash: 715918b88a8340ea722ffe75999e6afaa48dbc31
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 459f1ae3ab26abbdb57c5b4b627f78c8091f5171
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44511458"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47692173"
 ---
 # <a name="reset-or-change-passwords"></a>Đặt lại hoặc thay đổi mật khẩu
 
-Người dùng có thể thay đổi mật khẩu của họ từ bảo mật **tài khoản của tôi**  >  [& bảo](https://portal.office.com/account/#security)mật.
+Người dùng có thể thay đổi mật khẩu của riêng mình từ bảo mật **tài khoản của tôi**  >  [& quyền riêng tư](https://portal.office.com/account/#security).
   
-Nếu người dùng quên mật khẩu của họ, quản trị viên có thể đặt lại mật khẩu **bằng cách đi tới người**dùng  >  [đang hoạt động](https://portal.office.com/adminportal/home#/users), chọn người dùng (s) và bấm vào **đặt lại mật khẩu**.
+Nếu người dùng đã quên mật khẩu, người quản trị có thể đặt lại mật khẩu bằng cách đi tới **người**dùng hiện  >  [hoạt](https://portal.office.com/adminportal/home#/users), hãy chọn (các) người dùng, rồi bấm **đặt lại mật khẩu**.
   
-[Bấm vào đây để tìm hiểu thêm](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords), hoặc để cho người dùng đặt lại mật khẩu quên của riêng họ.
+[Bấm vào đây để tìm hiểu thêm](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords), hoặc để cho phép người dùng đặt lại mật khẩu đã quên của riêng họ.
