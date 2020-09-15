@@ -1,32 +1,33 @@
 ---
-title: Tùy chọn cho hội nghị âm thanh
+title: Các tùy chọn cho hội thảo âm thanh
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002334"
 - "4542"
-ms.openlocfilehash: 7686c134052dfcc4e69260d965e035c5f1b09717
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 673aab41c2c3ad3c50ea1cca7656c28f61fcbe80
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44064035"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47694369"
 ---
-# <a name="options-for-audio-conferencing"></a>Tùy chọn cho hội nghị âm thanh
+# <a name="options-for-audio-conferencing"></a>Các tùy chọn cho hội thảo âm thanh
 
-Hội nghị âm thanh cho phép mọi người tham gia cuộc họp trên đi với số điện thoại toàn cầu hoặc liên hệ trực tiếp với nhau.  Tất cả những gì họ cần là một thiết bị di động và teams.
+Hội thảo âm thanh cho phép mọi người gia nhập cuộc họp trên đường đi với một số quay số vào toàn cầu hoặc liên hệ trực tiếp với nhau.  Tất cả họ cần là một thiết bị di động và nhóm.
 
-**Văn phòng 365 E5**
+**Office 365 E5**
 
-Nếu bạn có Office 365 E5, và hội thảo âm thanh có sẵn trong khu vực của bạn, bạn đã có hội nghị âm thanh có sẵn như một phần của đăng ký của bạn.   [Xem tính khả dụng quốc tế hiện tại](https://go.microsoft.com/fwlink/p/?LinkID=839556).  Để giúp gán giấy phép cho người dùng, xem bài viết trợ giúp này, [chỉ định giấy phép cho người dùng](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
+Nếu bạn có Office 365 E5 và hội thảo âm thanh sẵn dùng trong khu vực của bạn, bạn đã có hội thảo âm thanh sẵn dùng như một phần của đăng ký của bạn.   [Xem trạng thái sẵn sàng của quốc tế hiện tại](https://go.microsoft.com/fwlink/p/?LinkID=839556).  Để được trợ giúp việc gán giấy phép cho người dùng, hãy xem bài viết trợ giúp này, [gán giấy phép cho người dùng](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 
-**Văn phòng 365 E1 hoặc office 365 E3** 
- [Hội nghị âm thanh](https://products.office.com/microsoft-teams/online-meeting-solutions#customerstoryregion2) có sẵn như là một add-on cho [văn phòng 365 E1](https://www.microsoft.com/microsoft-365/business/office-365-enterprise-e1-business-software) hoặc [Office 365 E3](https://www.microsoft.com/microsoft-365/business/office-365-enterprise-e3-business-software).  Nếu bạn đã có một trong các đăng ký này, bạn có thể thêm hội thảo âm thanh bằng cách đi tới [sản phẩm của bạn](https://go.microsoft.com/fwlink/p/?linkid=842054), xem chi tiết đăng ký và thêm hội thảo âm thanh từ phần tiện ích gần phía dưới.
+**Office 365 E1 hoặc office 365 E3** 
+ Hội [thảo âm thanh](https://products.office.com/microsoft-teams/online-meeting-solutions#customerstoryregion2) sẵn dùng dưới dạng phần bổ trợ vào [Office 365 E1](https://www.microsoft.com/microsoft-365/business/office-365-enterprise-e1-business-software) hoặc [Office 365 E3](https://www.microsoft.com/microsoft-365/business/office-365-enterprise-e3-business-software).  Nếu bạn đã có một trong các đăng ký này, bạn có thể thêm hội thảo âm thanh bằng cách đi tới [sản phẩm của mình](https://go.microsoft.com/fwlink/p/?linkid=842054), xem chi tiết đăng ký và thêm hội thảo âm thanh từ phần bổ trợ gần dưới cùng.
 
-Nếu bạn muốn mua Office 365 E1 hoặc Office 365 E3, hãy truy cập trang [dịch vụ mua](https://go.microsoft.com/fwlink/p/?linkid=868433) , tìm đăng ký và nhấp vào nó.  Khi thanh toán hoàn tất, hãy chuyển đến trang [dịch vụ mua](https://go.microsoft.com/fwlink/p/?linkid=868433) và làm theo các bước ở trên để thêm hội thảo âm thanh.
+Nếu bạn muốn mua Office 365 E1 hoặc Office 365 E3, đi tới trang [mua dịch vụ](https://go.microsoft.com/fwlink/p/?linkid=868433) , tìm thuê bao và bấm vào nó.  Khi hoàn tất kiểm xuất, hãy đi đến trang [mua dịch vụ](https://go.microsoft.com/fwlink/p/?linkid=868433) và làm theo các bước trên để thêm hội thảo âm thanh.
