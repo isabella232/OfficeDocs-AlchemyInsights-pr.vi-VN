@@ -5,34 +5,35 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1556"
 - "9000080"
-ms.openlocfilehash: bd19ae3bfdf5005fe4e495e78749a393128a2184
-ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
+ms.openlocfilehash: 0f7c5d647e133b092b778c39fddc3c3ae3e7c7fc
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41770913"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47681282"
 ---
 # <a name="co-management"></a>Đồng quản lý
 
-**Điều kiện tiên quyết để di chuyển từ config Manager Hybrid InTune**
+**Điều kiện tiên quyết cho việc di chuyển từ hỗn hợp trình quản lý cấu hình sang InTune**
 
-- Đánh giá [bài viết này](https://docs.microsoft.com/configmgr/mdm/deploy-use/migrate-hybridmdm-to-intunesa).
-- [Thêm một giấy phép InTune cho người dùng của bạn](https://docs.microsoft.com/intune/licenses-assign).
+- Xem lại [bài viết này](https://docs.microsoft.com/configmgr/mdm/deploy-use/migrate-hybridmdm-to-intunesa).
+- [Thêm giấy phép InTune cho người dùng của bạn](https://docs.microsoft.com/intune/licenses-assign).
 - Sử dụng [trình duyệt Edge](https://www.microsoft.com/windows/microsoft-edge) khi cấu hình đồng quản lý.
 
-**Làm thế nào để cài đặt máy khách quản lý cấu hình trên thiết bị quản lý InTune**
+**Làm thế nào để tôi cài đặt ứng dụng khách trình quản lý cấu hình trên thiết bị được quản lý InTune**
 
-Xem [các thiết bị Windows quản lý MDM](https://docs.microsoft.com/configmgr/core/clients/deploy/deploy-clients-to-windows-computers#bkmk_mdm).
+Xem [InTune MDM-các thiết bị chạy Windows được quản lý](https://docs.microsoft.com/configmgr/core/clients/deploy/deploy-clients-to-windows-computers#bkmk_mdm).
 
-**Điều gì nếu tôi chỉ muốn thay đổi quyền MDM?**
+**Cần phải làm gì nếu tôi muốn thay đổi cơ quan MDM?**
 
-Cơ quan MDM có thể thay đổi mà không cần mở một trường hợp hỗ trợ. Vui lòng đánh giá các tài liệu sau để hỗ trợ thay đổi quyền MDM:
+Có thể thay đổi cơ quan MDM mà không cần mở một trường hợp hỗ trợ. Vui lòng xem lại các tài liệu hướng dẫn sau đây để hỗ trợ thay đổi cơ quan MDM của bạn:
 
-- [Thay đổi cơ quan MDM từ quản lý cấu hình để InTune độc lập](https://docs.microsoft.com/configmgr/mdm/deploy-use/migrate-change-mdm-authority)
-- [Thay đổi cơ quan MDM từ InTune độc lập để quản lý cấu hình](https://docs.microsoft.com/configmgr/mdm/deploy-use/change-mdm-authority)
+- [Thay đổi cơ quan MDM từ trình quản lý cấu hình để InTune độc lập](https://docs.microsoft.com/configmgr/mdm/deploy-use/migrate-change-mdm-authority)
+- [Thay đổi cơ quan MDM từ InTune độc lập với trình quản lý cấu hình](https://docs.microsoft.com/configmgr/mdm/deploy-use/change-mdm-authority)

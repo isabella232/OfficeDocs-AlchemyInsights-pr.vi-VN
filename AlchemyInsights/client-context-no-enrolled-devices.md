@@ -1,23 +1,24 @@
 ---
-title: Ngữ cảnh khách hàng-không đăng ký thiết bị
+title: Ngữ cảnh máy khách-không có thiết bị đã đăng ký
 ms.author: erikje
 author: erikje
 manager: dougeby
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "6700004"
 - "2630"
-ms.openlocfilehash: b863fe236d00c05e4c619a6864c6d1f4e2d04890
-ms.sourcegitcommit: ffbeb72c9199ab4ebcb0f1ad443ed3e2f4950efc
+ms.openlocfilehash: 99e882467bdfceab4226399d3bea3950192817d2
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 10/23/2019
-ms.locfileid: "37638270"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47681354"
 ---
-# <a name="client-context---no-enrolled-devices"></a>Ngữ cảnh khách hàng-không đăng ký thiết bị
+# <a name="client-context---no-enrolled-devices"></a>Ngữ cảnh máy khách-không có thiết bị đã đăng ký
 
-Thuê của bạn đã không quản lý thiết bị di động (MDM) đăng ký thiết bị với InTune. Nếu bạn muốn đăng ký và quản lý thiết bị của mình thông qua InTune MDM, vui lòng kiểm lại tài liệu [ở đây](https://docs.microsoft.com/intune/device-enrollment) cho nền tảng mong muốn. Nếu bạn đang sử dụng một bên thứ ba MDM hoặc chỉ ứng dụng bảo vệ tính năng không có hành động có thể cần thiết. 
+Đối tượng thuê của bạn không có thiết bị quản lý từ thiết bị di động (MDM) được đăng ký bằng InTune. Nếu bạn muốn đăng ký và quản lý các thiết bị của mình thông qua InTune MDM, vui lòng xem lại tài liệu [ở đây](https://docs.microsoft.com/intune/device-enrollment) cho nền tảng mong muốn. Nếu bạn đang sử dụng một MDM bên thứ ba hoặc các tính năng bảo vệ ứng dụng chỉ có hành động không cần thiết. 
