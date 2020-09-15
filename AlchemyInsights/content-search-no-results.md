@@ -1,29 +1,30 @@
 ---
-title: Nội dung tìm kiếm không có kết quả
+title: Tìm kiếm nội dung không có kết quả
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000661"
 - "2527"
-ms.openlocfilehash: 09cdbc3cb0465e0e0bc08872c49e283081ad3e92
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1e90c403556a317ff810971ccfa4a91694fb1171
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36516801"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47680669"
 ---
-# <a name="no-results-from-content-searchexports"></a>Không có kết quả từ nội dung tìm kiếm/xuất khẩu
+# <a name="no-results-from-content-searchexports"></a>Không có kết quả nào từ tìm kiếm nội dung/xuất
 
-Vấn đề với nội dung tìm kiếm/xuất khẩu không trả lại bất kỳ dữ liệu có thể là do một số bộ lọc bảo mật tuân thủ đã là thiết lập bởi một quản trị viên cụ thể và không giao tiếp với tất cả các quản trị viên.
+Các sự cố với tìm kiếm nội dung/xuất không trả về bất kỳ dữ liệu nào có thể là do bộ lọc bảo mật nhất định được thiết lập bởi một người quản trị cụ thể và không liên lạc với tất cả người quản trị.
 
-Để giải quyết điều này, hãy kiểm tra xem nếu có bất kỳ bộ lọc bảo mật tuân thủ có thể gây ra điều này:
-1. Kết nối bảo mật và tuân thủ trung tâm Powershell
-2. Chạy commandlets sau đây:
-<br>$org = "Tenmiencuaban.com"
+Để giải quyết vấn đề này, hãy kiểm tra xem có bất kỳ bộ lọc bảo mật tuân thủ nào có thể gây ra điều này:
+1. Kết nối với Trung tâm bảo mật và tuân thủ PowerShell
+2. Chạy các commandlet sau đây:
+<br>$org = "yourdomain.com"
 <br>Get-ComplianceSecurityFilter-tổ chức $org
