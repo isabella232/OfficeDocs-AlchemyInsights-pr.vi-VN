@@ -1,27 +1,28 @@
 ---
-title: Máy tính xách tay mất tích
+title: Thiếu sổ ghi chép
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000559"
 - "2502"
-ms.openlocfilehash: 8556f2a7398792d39e82b554435649ba69fa59e5
-ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
+ms.openlocfilehash: e47ea1dbc69d686fc5a2624ec6ee06171ceaa508
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35800708"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47667180"
 ---
-# <a name="recover-missing-notebook"></a>Khôi phục máy tính xách tay mất tích
+# <a name="recover-missing-notebook"></a>Khôi phục sổ ghi chép bị thiếu
 
-Nếu máy tính xách tay trên OneDrive đã vô tình xóa, bạn có thể khôi phục lại nó bằng cách làm theo các bước trong [phục hồi xóa các tập tin hoặc thư mục trong OneDrive](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f)
+Nếu sổ ghi chép trên OneDrive vô tình bị xóa, bạn có thể khôi phục tài liệu này bằng cách thực hiện theo các bước trong [khôi phục tệp hoặc thư mục đã xóa trong OneDrive](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f)
 
-Bạn có thể khôi phục máy tính xách tay trên OneDrive đã xoá trong vòng 30 ngày theo mặc định bởi sau những bước [khôi phục đã bị xóa OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
+Bạn có thể khôi phục sổ ghi chép trên OneDrive đã xóa trong vòng 30 ngày theo mặc định bằng cách theo các bước trong [khôi phục onedrive đã xóa](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
 
-OneNote có thể sử dụng một tài khoản khác nhau hơn bạn mong đợi. Nếu bạn có một công việc hay trường học cung cấp tài khoản ngoài các cá nhân tài khoản Microsoft của bạn, bạn sẽ cần phải thêm tài khoản của bạn để xem tất cả các máy tính xách tay của bạn (tham khảo các hướng dẫn trên làm thế nào để [Thêm các tài khoản trong OneNote](https://support.office.com/article/5afff855-54ee-47e4-a773-db048d4ac299).
+OneNote có thể sử dụng một tài khoản khác với bạn mong đợi. Nếu bạn có tài khoản cơ quan hoặc trường học, hãy thêm vào tài khoản Microsoft cá nhân của mình, bạn sẽ cần thêm tài khoản khác để xem tất cả các sổ ghi chép của mình (tham khảo các hướng dẫn về cách [Thêm tài khoản trong OneNote](https://support.office.com/article/5afff855-54ee-47e4-a773-db048d4ac299).

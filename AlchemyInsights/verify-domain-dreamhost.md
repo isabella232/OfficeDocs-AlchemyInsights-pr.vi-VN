@@ -1,26 +1,27 @@
 ---
-title: Xác minh tên miền của bạn với Dreamhost
+title: Xác nhận tên miền của bạn với Dreamhost
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: c6ebac44d800483bfb03fe5997dfb17844ac2f15
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: d44d0bd3eefe0c50e05bff0dab1f3515a1e6ffc2
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43766263"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47669053"
 ---
-# <a name="verify-your-domain-with-dreamhost"></a>Xác minh tên miền của bạn với Dreamhost
+# <a name="verify-your-domain-with-dreamhost"></a>Xác nhận tên miền của bạn với Dreamhost
 
-Để xác minh miền của bạn, bạn sẽ cần phải thêm bản ghi TXT vào công ty đăng ký tên miền của mình để xác minh rằng bạn sở hữu miền của mình. 
+Để xác minh miền của bạn, bạn sẽ cần phải thêm bản ghi TXT vào cơ quan đăng ký tên miền của bạn để xác nhận rằng bạn sở hữu tên miền của bạn. 
 
-Trước tiên, hãy làm theo [thuật sĩ Thêm tên miền](https://portal.office.com/adminportal/home#/Domains) bằng cách chọn **cài đặt** \> **miền**, và sau đó **Thêm tên miền**.
+Trước tiên, hãy làm theo trình [hướng dẫn thêm tên](https://portal.office.com/adminportal/home#/Domains) miền bằng cách chọn tên miền **thiết đặt** \> **Domains**, rồi **Thêm tên miền**.
   
-Xem [tạo bản ghi DNS tại DreamHost cho Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-dreamhost) để biết hướng dẫn từng bước.
+Xem mục [tạo bản ghi DNS tại Dreamhost for Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-dreamhost) để biết hướng dẫn từng bước.

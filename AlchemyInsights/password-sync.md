@@ -1,5 +1,5 @@
 ---
-title: Làm thế nào để kiểm tra trạng thái đồng bộ hóa mật khẩu
+title: Cách kiểm tra trạng thái đồng bộ mật khẩu
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -14,25 +14,25 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: 7aa9628f-c551-4d73-b966-29f47c2b3f43
-ms.openlocfilehash: 7ddb515b3c4820e2c904124fa96049eade4cbd2b
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 3b8a7f1ef0910214d297436b69c3699264c39b1d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765615"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47665668"
 ---
 # <a name="enable-password-sync"></a>Bật đồng bộ hóa mật khẩu
 
-1.  Chọn **Dirsync trạng thái** trên trang chủ Trung tâm quản trị Microsoft 365. 
+1.  Chọn **trạng thái Dirsync** trên trang chủ Trung tâm quản trị của Microsoft 365. 
     
-     *Thay phiên, bạn có thể đi **đến** \> người dùng **đang hoạt động**, và trên trang người dùng đang hoạt động **, chọn** \> **đồng bộ hóa thư mục khác.*** 
+     *Bạn có thể đi tới **người** dùng hiện \> **hoạt**và trên trang người dùng hiện hoạt, hãy chọn **Thêm** \> **đồng bộ hóa thư mục.*** 
     
-2. Trên cửa sổ đồng bộ hóa thư mục, chọn **đi tới Dirsync quản lý**. 
+2. Trên ngăn đồng bộ hóa thư mục, chọn **đi tới quản lý DirSync**. 
     
-3. Bây giờ bạn sẽ thấy trạng thái của mình và thực hiện thay đổi:
+3. Bây giờ, bạn sẽ thấy trạng thái của mình và thực hiện thay đổi:
     
-    **Đồng bộ hóa mật khẩu được kích hoạt:** (đúng hay sai). Xác định xem bạn có bật đồng bộ hóa mật khẩu giữa tại chỗ và đối tượng thuê của bạn hay không. 
+    Đã **bật đồng bộ mật khẩu:** (True hoặc false). Xác định xem bạn có đồng bộ hóa mật khẩu được kích hoạt giữa tại cơ sở và đối tượng thuê của bạn hay không. 
     
-    **Đồng bộ hóa mật khẩu cuối cùng:** (thời gian cuối cùng đồng bộ hóa mật khẩu chạy). Điều này sẽ hiển thị một cảnh báo và một liên kết đến một công cụ khắc phục sự cố nếu đồng bộ cuối cùng là hơn ba ngày trước. 
+    **Đồng bộ hóa mật khẩu cuối cùng:** (đồng bộ hóa mật khẩu lần cuối cùng khi chạy). Thao tác này sẽ hiển thị cảnh báo và nối kết đến công cụ khắc phục sự cố nếu đồng bộ cuối cùng đã quá ba ngày trước. 
     
 

@@ -1,36 +1,37 @@
 ---
-title: Giảm thiểu các ứng dụng không được phát hiện lỗi
+title: Giảm nhẹ ứng dụng không được phát hiện lỗi
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000171"
 - "1712"
-ms.openlocfilehash: e07c6b128a39f1fb1c998d051aafe72205d8cbee
-ms.sourcegitcommit: 82155846ce771c18050e6113d6c199b34a1504ff
+ms.openlocfilehash: 498c2ec78bc9f4a7bc7d77d12b488be2cf0bf79a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/24/2020
-ms.locfileid: "43810505"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47667000"
 ---
-# <a name="mitigate-the-application-was-not-detected-error"></a>Giảm thiểu lỗi "ứng dụng không được phát hiện"
+# <a name="mitigate-the-application-was-not-detected-error"></a>Lỗi giảm thiểu "ứng dụng không được phát hiện"
 
-Lỗi cài đặt ứng dụng, "ứng dụng không được phát hiện sau khi cài đặt hoàn tất thành công," báo cáo của InTune, có thể xảy ra trên tất cả các nền tảng hệ điều hành chính (Windows, iOS và Android).
+Lỗi cài đặt ứng dụng, "ứng dụng không được phát hiện sau khi cài đặt đã hoàn tất thành công", được báo cáo bởi InTune, có thể xảy ra trên tất cả các nền tảng hệ điều hành chính (Windows, iOS và Android).
 
-Các trường hợp phổ biến nhất tạo ra lỗi này bao gồm:
+Các kịch bản phổ biến nhất tạo ra lỗi này bao gồm:
 
-- Ứng dụng đã được cập nhật bên ngoài InTune (từ cửa hàng ứng dụng của bên thứ ba) sau khi triển khai ban đầu. Ví dụ một số ứng dụng như Google Chrome có thể thực hiện cập nhật tự động.
-- Một người dùng đã gỡ cài đặt các ứng dụng sau khi cài đặt ban đầu.
+- Ứng dụng này đã được cập nhật bên ngoài InTune (từ App Store của bên thứ ba) sau khi triển khai ban đầu. Ví dụ một số ứng dụng chẳng hạn như Google Chrome có thể thực hiện cập nhật tự động.
+- Người dùng đã gỡ cài đặt ứng dụng sau khi cài đặt ban đầu.
 
-Để giảm thiểu vấn đề này, đầu tiên thực hiện đánh giá các thiết bị bị ảnh hưởng để xác định tình huống trong đó lỗi xảy ra.
+Để giảm thiểu sự cố này, trước tiên hãy thực hiện xem xét các thiết bị bị ảnh hưởng để xác định kịch bản có lỗi xảy ra.
 
-- Nếu ứng dụng đã được cập nhật bên ngoài InTune, việc triển khai ứng dụng có thể được đặt để bỏ qua phiên bản ứng dụng. Để làm như vậy, trong **ứng dụng cấu hình > thông tin ứng dụng**, thiết lập **bỏ qua phiên bản ứng dụng** **có**.
-- Khi nhắm mục tiêu khách hàng, có thể thích hợp để triển khai ứng dụng là "bắt buộc" và để đảm bảo rằng phiên bản mới nhất được triển khai.
-- Ngoài ra, trên nền tảng iOS, có thể sử dụng chức năng **AutoUpdate** liên quan đến chương trình mua ổ đĩa của Apple, có thể được cấu hình để tự động cập nhật phiên bản ứng dụng mới khi chúng trở nên có sẵn.
+- Nếu ứng dụng này đã được cập nhật bên ngoài InTune, triển khai ứng dụng có thể được thiết lập để bỏ qua phiên bản ứng dụng. Để thực hiện như vậy, bên dưới **thông tin ứng dụng cấu hình ứng dụng >**, hãy đặt **bỏ qua phiên bản ứng dụng** thành **có**.
+- Khi mục tiêu của máy khách, có thể là phù hợp để triển khai ứng dụng là "bắt buộc" và để đảm bảo rằng phiên bản mới nhất được triển khai.
+- Ngoài ra, trên nền tảng iOS, có thể sử dụng các chức năng **AutoUpdate** liên kết với chương trình mua âm lượng của Apple, có thể được cấu hình để tự động cập nhật các phiên bản ứng dụng mới khi chúng trở nên sẵn dùng.
 
 Để biết thêm thông tin về khắc phục sự cố cài đặt ứng dụng, vui lòng xem [khắc phục sự cố cài đặt ứng dụng](https://docs.microsoft.com/intune/troubleshoot-app-install).

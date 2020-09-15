@@ -1,11 +1,12 @@
 ---
-title: xuất nhập khẩu-trong-Outlook-cho-Mac
+title: nhập-xuất-in-Outlook-for-Mac
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,27 +14,27 @@ ms.custom:
 - "1800027"
 - "1222"
 ms.assetid: ''
-ms.openlocfilehash: 524053a53a8390253259c3edae71a7a60995c8ce
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 7ce37e2ea3efbc762d5298311eac6054d238224c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43724752"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47667936"
 ---
-# <a name="importexport-in-outlook-for-mac"></a>Nhập/xuất trong Outlook dành cho Mac 
+# <a name="importexport-in-outlook-for-mac"></a>Nhập/xuất trong Outlook for Mac 
 
-Xuất khẩu:
+Ngạch
 1. Trên tab **công cụ** , chọn **xuất**.
-2. Trong hộp **lưu dưới dạng** , trong **mục yêu thích**, chọn thư mục **tải xuống** và chọn **lưu**.
-3. Khi bạn nhìn thấy thông báo xuất xong, chọn **hoàn tất**.
+2. Trong hộp **lưu như** , bên dưới **mục yêu thích**, hãy chọn thư mục **tải xuống** , rồi chọn **lưu**.
+3. Khi bạn thấy thông báo xuất đã hoàn tất, hãy chọn **hoàn tất**.
 
-Nhập khẩu:
+Xuất
 1. Trên tab **công cụ** , chọn **nhập**.
-2. Chọn **Outlook cho tệp lưu trữ Windows (. PST)** > **tiếp tục**.
-3. Định vị tệp. PST trên máy Mac của bạn, sau đó chọn **nhập**.
-4. Khi quá trình nhập hoàn tất, chọn **hoàn**tất.
-5. Các mục nhập xuất hiện trong ngăn điều hướng bên dưới **trên máy tính của tôi**.
+2. Chọn **tệp lưu trữ Outlook cho Windows (. PST)**  >  **Continue**.
+3. Xác định vị trí tệp. PST trên máy Mac của bạn, rồi chọn **nhập**.
+4. Khi hoàn thành quá trình nhập, hãy chọn **kết thúc**.
+5. Các mục đã nhập xuất hiện trong ngăn dẫn hướng bên dưới **máy tính của tôi**.
 
-Để có toàn bộ hướng dẫn nhập và xuất cho Outlook dành cho Mac [, xem nhập và xuất email Outlook, danh bạ và lịch](https://support.office.com/article/92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=Mac). 
+Để có tập hợp đầy đủ các hướng dẫn nhập và xuất cho Outlook for Mac, hãy xem [nhập và xuất email Outlook, danh bạ và lịch](https://support.office.com/article/92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=Mac). 
 
-Nhận hỗ trợ trong ứng dụng cho Outlook dành cho Mac vấn đề, mở Outlook và chọn trợ **giúp** > **liên hệ**. Nhập câu hỏi của bạn và một thành viên của nhóm hỗ trợ Outlook for Mac sẽ liên lạc với bạn. [Liên hệ với hỗ trợ trong Outlook dành cho Mac](https://go.microsoft.com/fwlink/?linkid=2002400&clcid=0x409)
+Để nhận các sự cố trong ứng dụng trong Outlook for Mac, hãy mở Outlook và chọn **Trợ giúp**  >  **liên hệ với bộ phận hỗ trợ**. Nhập câu hỏi của bạn và là thành viên trong nhóm hỗ trợ Outlook for Mac sẽ liên hệ với bạn. [Liên hệ với bộ phận hỗ trợ trong Outlook for Mac](https://go.microsoft.com/fwlink/?linkid=2002400&clcid=0x409)

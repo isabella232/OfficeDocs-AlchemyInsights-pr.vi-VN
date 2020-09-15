@@ -1,31 +1,32 @@
 ---
-title: Giấy phép Action Pack
+title: Giấy phép gói hành động
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002542"
 - "4909"
-ms.openlocfilehash: c44a491cec3d69bf933ba913648fbfaa904526d1
-ms.sourcegitcommit: c061f1dfa6f557a9ec083dd030b73b121d9864ea
+ms.openlocfilehash: 04f5efdd423f0495f1846a0ec5677cd0cbe312c9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/14/2020
-ms.locfileid: "43286922"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47668621"
 ---
-# <a name="action-pack-licenses"></a>Giấy phép Action Pack
+# <a name="action-pack-licenses"></a>Giấy phép gói hành động
 
-Bắt đầu với các công cụ và tài nguyên để xây dựng thực hành đám mây của bạn từ [mạng đối tác](https://aka.ms/MPNActionPack).
+Bắt đầu với các công cụ và tài nguyên để xây dựng các thực hành trên đám mây của bạn từ [mạng đối tác](https://aka.ms/MPNActionPack).
 
-- Nếu bạn là một đối tác Microsoft **mới** , hãy nhấp vào [đăng ký ngay](https://aka.ms/MPNActionPackNew) để **ghi danh** vào gói hành động.
+- Nếu bạn là đối tác Microsoft **mới** , hãy bấm [đăng ký ngay](https://aka.ms/MPNActionPackNew) để đăng **ký** trong gói hành động.
 
-- Nếu bạn là đối tác Microsoft **hiện tại** , hãy chọn [đã là đối tác?](https://aka.ms/MPNActionPackExisting) để gia **hạn/kích hoạt** gói hành động. 
+- Nếu bạn là đối tác Microsoft **hiện có** , hãy chọn [là đối tác?](https://aka.ms/MPNActionPackExisting) để gia **hạn/kích hoạt** gói hành động. 
 
-- Xem [hướng dẫn giấy phép](https://aka.ms/MPNActionPackGuide) để **Tìm hiểu các lợi ích** của Action Pack. 
+- Xem [hướng dẫn giấy phép](https://aka.ms/MPNActionPackGuide) để **Tìm hiểu các lợi ích** của gói hành động. 
 
-Khi bạn hoàn tất quá trình, tài khoản của bạn sẽ đi qua xác minh. Chúng tôi sẽ mất tối đa **3 ngày** làm việc để hoàn tất quá trình xác minh tài khoản. Nếu truy cập vào tài khoản của bạn không được kích hoạt sau 3 ngày làm việc, vui lòng liên hệ với [hỗ trợ đối tác của Microsoft](https://aka.ms/MPNActionPackSupport). 
+Sau khi hoàn tất quy trình, tài khoản của bạn sẽ đi qua xác minh. Nó sẽ mất đến **3 ngày làm việc** để chúng tôi hoàn tất việc xác minh tài khoản. Nếu quyền truy nhập vào tài khoản của bạn không được kích hoạt sau 3 ngày làm việc, vui lòng liên hệ với bộ [phận hỗ trợ đối tác của Microsoft](https://aka.ms/MPNActionPackSupport). 
