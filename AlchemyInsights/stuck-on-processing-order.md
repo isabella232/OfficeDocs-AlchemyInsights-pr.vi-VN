@@ -1,23 +1,24 @@
 ---
-title: Khó khăn về xử lý trật tự
+title: Bị kẹt khi xử lý thứ tự
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002358"
 - "4584"
-ms.openlocfilehash: 60abad9281ab440cd19b7cd7c9caa51151170bfa
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: a231519cf480bc8bc7f4b178c170aa9b34d57e68
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "43286372"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47719363"
 ---
-# <a name="stuck-on-processing-order"></a>Khó khăn về xử lý trật tự
+# <a name="stuck-on-processing-order"></a>Bị kẹt khi xử lý thứ tự
 
-Nếu bạn đã chọn để nâng cấp đăng ký Microsoft 365 của bạn, nhưng thứ tự đã bị mắc kẹt vào "xử lý đơn đặt hàng của bạn" trong một khoảng thời gian, xin vui lòng kiên nhẫn. Quá trình nâng cấp người thuê nhà của bạn sẽ yêu cầu cung cấp, có thể bị trì hoãn. Trong thời gian này, bạn sẽ không thể truy cập vào Trung tâm quản trị, nhưng tất cả các khu vực khác của Microsoft 365 sẽ được tiếp cận. Chúng tôi hy vọng quá trình này **hoàn thành trong vòng 24 giờ**; Tuy nhiên, chúng tôi đã thấy những trường hợp hiếm hoi khi những yêu cầu này **chiếm tới 48 giờ**. Vui lòng mở một yêu cầu dịch vụ nếu xử lý đơn hàng mất **nhiều thời gian hơn 48 giờ**.
+Nếu bạn đã chọn nâng cấp đăng ký Microsoft 365 của mình, nhưng đơn hàng đã bị kẹt trên "đang xử lý đơn hàng của bạn" trong một khoảng thời gian, vui lòng kiên nhẫn. Quá trình nâng cấp đối tượng thuê của bạn sẽ yêu cầu cung cấp, có thể bị trì hoãn. Trong thời gian này, bạn sẽ không thể truy nhập trung tâm quản trị nhưng tất cả các khu vực khác của Microsoft 365 sẽ có thể truy nhập. Chúng tôi mong đợi quá trình **hoàn thành trong vòng 24 giờ**; Tuy nhiên, chúng tôi đã nhìn thấy các trường hợp hiếm hoi mà những yêu cầu này sẽ **mất tới 48 giờ**. Vui lòng mở một yêu cầu dịch vụ nếu việc xử lý đơn hàng mất **nhiều thời gian hơn 48 giờ**.
