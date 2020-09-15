@@ -1,10 +1,11 @@
 ---
-title: Thêm Đặt phòng vào teams
+title: Thêm đặt chỗ vào nhóm
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -13,15 +14,15 @@ ms.custom:
 - "5041"
 - "9002238"
 - "4344"
-ms.openlocfilehash: 89d57ff01873ae18db8046588df731d8923bbf78
-ms.sourcegitcommit: 312ed19d236006962f1b891d2961014959ab1898
+ms.openlocfilehash: a189e8d74efb869b1068accbe6e065a0aebd0b1c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/25/2020
-ms.locfileid: "43812678"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47697111"
 ---
-# <a name="adding-bookings-to-teams"></a>Thêm Đặt phòng vào teams
+# <a name="adding-bookings-to-teams"></a>Thêm đặt chỗ vào nhóm
 
-Microsoft Booking là một ứng dụng lên lịch cuộc hẹn giúp bạn theo dõi các Đặt phòng, nhân viên và khách hàng của bạn. Quản trị viên có thể thêm các đặt trước dưới dạng ứng dụng vào thanh ứng dụng Microsoft teams của người dùng bằng cách [quản lý chính sách thiết lập ứng dụng trong Microsoft teams](https://docs.microsoft.com/microsoftteams/teams-app-setup-policies).
+Đặt chỗ của Microsoft là một ứng dụng lập lịch cuộc hẹn giúp bạn theo dõi các đặt chỗ, nhân viên của bạn và khách hàng của bạn. Người quản trị có thể thêm các đặt chỗ với tư cách là một ứng dụng vào thanh ứng dụng Microsoft nhóm của người dùng bằng cách [quản lý các chính sách thiết lập ứng dụng trong Microsoft nhóm](https://docs.microsoft.com/microsoftteams/teams-app-setup-policies).
 
-Để biết thông tin hoặc khắc phục sự cố trong ứng dụng Đặt phòng, hãy xem [bài viết Đặt phòng](https://support.office.com/article/b9c9295c-c654-4b10-b5cc-f739825fc092).
+Để biết thông tin hoặc khắc phục sự cố trong ứng dụng đặt chỗ, hãy xem [bài viết đặt chỗ](https://support.office.com/article/b9c9295c-c654-4b10-b5cc-f739825fc092).

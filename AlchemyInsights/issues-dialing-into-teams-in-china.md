@@ -1,29 +1,30 @@
 ---
-title: Các vấn đề quay số vào teams ở Trung Quốc
+title: Các vấn đề quay số vào nhóm ở Trung Quốc
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/24/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "3787"
 - "9001707"
-ms.openlocfilehash: 08625fe710da7f8e24c10c414d97fed7b6ffc355
-ms.sourcegitcommit: b10cea11b4975354b91193327b58aa4740d34833
+ms.openlocfilehash: 42064703c997cdbda007bc07734c7453a54cbf21
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "45439792"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47695563"
 ---
-# <a name="issues-dialing-into-teams-in-china"></a>Các vấn đề quay số vào teams ở Trung Quốc
+# <a name="issues-dialing-into-teams-in-china"></a>Các vấn đề quay số vào nhóm ở Trung Quốc
 
-Microsoft biết rằng một số người dùng trong khu vực Trung Quốc đang gặp sự cố gọi vào Skype dành cho doanh nghiệp hoặc nhóm hội nghị ID. Trong hầu hết các trường hợp, những vấn đề này bên ngoài hệ thống dưới sự kiểm soát của chúng tôi. Thường thì vấn đề là với các hãng điện thoại di động và điện thoại địa phương.
+Microsoft biết rằng một số người dùng trong khu vực Trung Quốc đang gặp sự cố khi quay số vào Skype for Business hoặc ID hội thảo nhóm. Trong hầu hết các trường hợp, những vấn đề này là các hệ thống bên ngoài dưới phần điều khiển của chúng tôi. Thông thường, vấn đề này là các mạng di động và điện thoại cục bộ.
 
-Chúng tôi khuyên bạn nên làm như sau nếu bạn gặp sự cố về hội nghị âm thanh:
+Chúng tôi khuyên bạn nên làm như sau nếu bạn đang gặp sự cố về hội thảo âm thanh:
 
--   Yêu cầu người gọi hoặc tổ chức cuộc họp gọi PSTN hoặc số di động của bạn.
--   Tham gia cuộc gọi hoặc cuộc họp từ máy tính để bàn hoặc điện thoại di động khách hàng, sử dụng VoIP.
+-   Hỏi người gọi hoặc người tổ chức cuộc họp để gọi PSTN hoặc số điện thoại di động của bạn.
+-   Tham gia cuộc gọi hoặc cuộc họp từ máy tính để bàn hoặc máy khách di động, sử dụng VoIP.

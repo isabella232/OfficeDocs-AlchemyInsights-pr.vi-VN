@@ -1,44 +1,45 @@
 ---
-title: 'AIP: header và chân trang không hiển thị như mong đợi'
+title: 'AIP: đầu trang và chân trang không hiển thị như mong đợi'
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002266"
 - "4541"
-ms.openlocfilehash: 418362beea221a7cb9d8fd4be6cfc0f28022093d
-ms.sourcegitcommit: 2afad0b107d03cd8c4de0b85b5bee38a13a7960d
+ms.openlocfilehash: 811a48587272776c8ece5e654a921c15cf52af5f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/26/2020
-ms.locfileid: "44493406"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47696570"
 ---
-# <a name="aip-headers-and-footers-not-displaying-as-expected"></a>AIP: header và chân trang không hiển thị như mong đợi
+# <a name="aip-headers-and-footers-not-displaying-as-expected"></a>AIP: đầu trang và chân trang không hiển thị như mong đợi
 
-Nếu bạn đang gặp sự cố với hình ảnh không hiển thị như mong đợi, xem các hướng dẫn sau:
+Nếu bạn đang gặp sự cố với dấu hiệu trực quan không hiển thị như mong muốn, hãy xem các hướng dẫn sau đây:
 
-1. Đảm bảo rằng bạn đã đánh giá [khi áp dụng dấu hiệu trực quan](https://docs.microsoft.com/azure/information-protection/configure-policy-markings#when-visual-markings-are-applied).
-2. Đối với văn phòng ghi nhãn, xét [khi office 365 áp dụng nội dung đánh dấu và mã hóa](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-office-apps#when-office-apps-apply-content-marking-and-encryption).
-3. Nếu bạn muốn loại bỏ các tiêu đề/chân trang hiện có, đánh giá [xóa tiêu đề và chân trang khỏi các giải pháp ghi nhãn khác](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-customizations#remove-headers-and-footers-from-other-labeling-solutions).
+1. Hãy đảm bảo bạn đã xem lại [khi có dấu hiệu trực quan được áp dụng](https://docs.microsoft.com/azure/information-protection/configure-policy-markings#when-visual-markings-are-applied).
+2. Đối với ghi nhãn Office, hãy xem lại [khi Office 365 áp dụng đánh dấu nội dung và mã hóa](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-office-apps#when-office-apps-apply-content-marking-and-encryption).
+3. Nếu bạn muốn loại bỏ đầu trang/chân trang hiện có, hãy xem lại [loại bỏ đầu trang và chân trang khỏi các giải pháp ghi nhãn khác](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-customizations#remove-headers-and-footers-from-other-labeling-solutions).
 
-Nếu bạn vẫn gặp sự cố, hãy thu thập Nhật ký khách hàng bảo vệ thông tin Azure và đính kèm Nhật ký xuất vé này.
+Nếu bạn vẫn gặp sự cố này, hãy thu thập Nhật ký máy khách bảo vệ thông tin Azure và đính kèm các Nhật ký đã xuất vào vé này.
 
 **Xuất Nhật ký bảo vệ thông tin Azure**
 
-1. Mở tài liệu Office hoặc tạo một email mới trong Outlook.
-2. Nhấp vào **bảo vệ/**  >  **Trợ giúp độ nhạy và phản hồi**.
-3. Nhấp vào **xuất Nhật ký**.
-4. Lưu các bản ghi để lựa chọn vị trí của bạn, và đính kèm chúng vào yêu cầu dịch vụ này.
+1. Mở tài liệu Office hoặc tạo email mới trong Outlook.
+2. Bấm vào **bảo vệ/**  >  **Trợ giúp và phản hồi**nhạy cảm.
+3. Bấm **xuất Nhật ký**.
+4. Lưu Nhật ký vào lựa chọn vị trí của bạn và đính kèm chúng vào yêu cầu dịch vụ này.
 
-Để biết thêm thông tin, xem:
+Để biết thêm thông tin, hãy xem:
 
-- [Làm thế nào để cấu hình nhãn cho dấu hiệu trực quan để bảo vệ thông tin Azure](https://docs.microsoft.com/azure/information-protection/configure-policy-markings)
-- [Đánh giá tài liệu về bảo vệ thông tin Azure](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)
-- [Yêu cầu đối với bảo vệ thông tin Azure](https://docs.microsoft.com/azure/information-protection/get-started/requirements)
-- [Hướng dẫn bắt đầu nhanh để bảo vệ thông tin Azure](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)
-- [Tải về Azure bảo vệ thông tin khách hàng](https://www.microsoft.com/download/details.aspx?id=53018)
+- [Cách đặt cấu hình nhãn cho các dấu hiệu trực quan cho bảo vệ thông tin Azure](https://docs.microsoft.com/azure/information-protection/configure-policy-markings)
+- [Xem lại tài liệu bảo vệ thông tin Azure](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)
+- [Các yêu cầu về bảo vệ thông tin Azure](https://docs.microsoft.com/azure/information-protection/get-started/requirements)
+- [Hướng dẫn nhanh về bảo vệ thông tin Azure](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)
+- [Tải xuống máy khách bảo vệ thông tin về Azure](https://www.microsoft.com/download/details.aspx?id=53018)

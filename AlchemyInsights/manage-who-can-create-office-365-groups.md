@@ -1,29 +1,30 @@
 ---
-title: Quản lý người có thể tạo Microsoft 365 Groups
+title: Quản lý những người có thể tạo nhóm Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f68aada0-7700-4e61-b822-6ce203afd145
-ms.openlocfilehash: 220438f71568229c72c9c29117d6f575b03b2c3d
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: eb2018389b995460d60f955c8294807e9e17516b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44509334"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47694767"
 ---
-# <a name="manage-who-can-create-microsoft-365-groups"></a>Quản lý người có thể tạo Microsoft 365 Groups
+# <a name="manage-who-can-create-microsoft-365-groups"></a>Quản lý những người có thể tạo nhóm Microsoft 365
 
 Theo mặc định, bất kỳ ai trong tổ chức của bạn có thể tạo nhóm O365.
   
-Nếu bạn muốn thay đổi điều đó, bạn có thể tạo một nhóm bảo mật với PowerShell giới hạn tạo nhóm cho một tập hợp con người dùng.
+Nếu bạn muốn thay đổi điều đó, bạn có thể tạo một nhóm bảo mật với PowerShell giới hạn tạo nhóm cho một tập hợp con của người dùng.
   
-Thực hiện theo hướng dẫn từng bước ở đây: [quản lý người có thể tạo Microsoft 365 nhóm](https://docs.microsoft.com/microsoft-365/admin/create-groups/manage-creation-of-groups)
+Làm theo các hướng dẫn từng bước ở đây: [quản lý những người có thể tạo nhóm Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/create-groups/manage-creation-of-groups)
   
 

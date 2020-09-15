@@ -5,21 +5,22 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2701"
 - "6700003"
-ms.openlocfilehash: df1b3dfc471c6b7644e90d27b8079fc95e034375
-ms.sourcegitcommit: 4ed431b2e1aed26d07bd7eba282531537d29ad0e
+ms.openlocfilehash: 747c24250b911f30176ff03ed623ae38488ab57f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 12/30/2019
-ms.locfileid: "40910502"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47695959"
 ---
-# <a name="ios-13--ipados-updates-for-conditional-access-policy"></a>iOS 13 +/iPadOS Cập Nhật chính sách truy cập có điều kiện
+# <a name="ios-13--ipados-updates-for-conditional-access-policy"></a>iOS 13 +/iPadOS Cập Nhật cho chính sách truy nhập có điều kiện
 
-Nếu bạn đang gặp sự cố liên quan đến điều kiện truy cập vào iPads đã được nâng cấp lên iPadOS (iOS 13 hoặc cao hơn), hãy đánh giá bài viết sau từ nhóm AAD về thay đổi bạn có thể cần thực hiện để đảm bảo rằng truy cập có điều kiện tiếp tục hoạt Mong muốn:
+Nếu bạn đang gặp các vấn đề liên quan đến quyền truy nhập có điều kiện trên iPads đã được nâng cấp lên iPadOS (iOS 13 trở lên), hãy xem lại bài viết sau từ nhóm nghiên cứu về những thay đổi mà bạn có thể cần phải thực hiện để đảm bảo rằng truy nhập có điều kiện vẫn tiếp tục hoạt động như mong muốn:
 
-[Hành động bắt buộc: đánh giá và Cập Nhật điều kiện truy cập chính sách chuẩn bị cho iPadOS phát hành](https://support.microsoft.com/help/4521038/action-required-update-conditional-access-policies-for-ipados)
+[Hành động bắt buộc: đánh giá và cập nhật các chính sách truy nhập có điều kiện để chuẩn bị cho bản phát hành iPadOS](https://support.microsoft.com/help/4521038/action-required-update-conditional-access-policies-for-ipados)

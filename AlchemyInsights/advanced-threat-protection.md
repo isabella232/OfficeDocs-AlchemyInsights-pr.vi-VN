@@ -1,32 +1,33 @@
 ---
-title: Văn phòng 365 nâng cao mối đe dọa bảo vệ
+title: Bảo vệ mối đe dọa nâng cao của Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1036
 ms.assetid: ''
-ms.openlocfilehash: 5fc3f30e1f08764393dcced94be541b1c6bcc84d
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: c6b552a11b2eee647e2e5dc7b93523b03c0e7ea3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44506616"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47696643"
 ---
-# <a name="office-365-advanced-threat-protection"></a>Văn phòng 365 nâng cao mối đe dọa bảo vệ
+# <a name="office-365-advanced-threat-protection"></a>Bảo vệ mối đe dọa nâng cao của Office 365
 
-- An toàn đính kèm, liên kết an toàn và chống lừa đảo là một phần của văn phòng 365 nâng cao mối đe dọa bảo vệ (ATP). Doanh nghiệp E5, giáo dục A5 và Microsoft 365 Business Premium bao gồm ATP. Tất cả các gói khác yêu cầu đăng ký ATP bổ-
+- Các tệp đính kèm an toàn, liên kết an toàn và chống lừa đảo là một phần trong bảo vệ mối đe dọa nâng cao của Office 365 (ATP). Enterprise E5, A5 giáo dục và Microsoft 365 Business Premium bao gồm ATP. Tất cả các gói khác yêu cầu đăng ký ATP bổ trợ.
 
-- Bạn cần phải chỉ định các giấy phép thích hợp để bảo vệ người dùng của bạn bằng văn phòng 365 ATP. Xem [chủ đề này](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) để biết hướng dẫn về cách hàng loạt áp dụng giấy phép cho người dùng của bạn.
+- Bạn cần gán giấy phép thích hợp để bảo vệ người dùng của bạn bằng Office 365 ATP. Xem [chủ đề này](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) để biết hướng dẫn về cách hàng loạt áp dụng giấy phép cho người dùng của bạn.
 
-- Quản trị viên toàn cầu hoặc quản trị viên bảo mật có thể truy cập Office 365 ATP tính năng trong Trung tâm bảo mật & tuân thủ tại **mối đe dọa managmeent** \> **chính sách**.
+- Người quản trị toàn cầu hoặc người quản trị bảo mật có thể truy nhập các tính năng Office 365 ATP trong Trung tâm tuân thủ bảo mật & tại chính sách **quản lý mối đe dọa** \> **Policy**.
 
-- Các chính sách đính kèm an toàn và liên kết an toàn có thể được scoped bạn toàn bộ tổ chức, tên miền cụ thể hoặc nhóm người dùng nhỏ hơn.
+- Các tệp đính kèm an toàn và các chính sách liên kết an toàn có thể được phạm vi cho bạn toàn bộ tổ chức, tên miền cụ thể hoặc các nhóm người dùng nhỏ hơn.
 
-- Không có chính sách mặc định ATP an toàn đính kèm. Bạn cần phải [tạo một chính sách](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies) và áp dụng nó cho người dùng của bạn.
+- Không có chính sách phần đính kèm an toàn trong ATP mặc định. Bạn cần [tạo chính sách](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies) và áp dụng cho người dùng của bạn.
 
-- Có một mặc định ATP liên kết an toàn chính sách áp dụng cho tất cả mọi người trong tổ chức của bạn. Để chỉnh sửa chính sách này hoặc để tạo chính sách tùy chỉnh, xem [chủ đề này](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies).
+- Có một chính sách liên kết ATP an toàn mặc định áp dụng cho mọi người trong tổ chức của bạn. Để sửa chính sách này hoặc để tạo chính sách tùy chỉnh, hãy xem [chủ đề này](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies).
