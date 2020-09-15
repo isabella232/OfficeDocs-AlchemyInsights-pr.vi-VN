@@ -1,43 +1,44 @@
 ---
-title: Dynamics 365-bảng điều khiển hiển thị sai trong Dynamics 365 giao diện hợp nhất
+title: Dynamics 365-không hiển thị bảng điều khiển sai trong giao diện hợp nhất trong Dynamics 365
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1484"
 - "6200024"
-ms.openlocfilehash: 3d7258bdd7366f679b048e93926ab7dfe0b956d9
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 02e33c7dbdfe9b7d2ad7a04f154cf067fba0aab2
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36528573"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47711297"
 ---
-# <a name="wrong-dashboard-shows-in-dynamics-365-unified-interface"></a>Bảng điều khiển không đúng Hiển thị trong Dynamics 365 giao diện hợp nhất
+# <a name="wrong-dashboard-shows-in-dynamics-365-unified-interface"></a>Không hiển thị bảng điều khiển sai trong giao diện hợp nhất trong Dynamics 365
 
-Có một số lý do khiến bạn có thể thấy một bảng thông tin khác với trang bạn mong muốn:
+Có một số lý do khiến bạn có thể thấy một bảng điều khiển khác với một bảng điều bạn mong đợi:
 
-## <a name="the-user-has-set-a-user-default-dashboard"></a>Người dùng đã đặt bảng điều khiển mặc định của người dùng 
+## <a name="the-user-has-set-a-user-default-dashboard"></a>Người dùng đã thiết lập bảng điều khiển mặc định của người dùng 
 
-Thông thường, bạn có thể xác định một bảng điều khiển mặc định người dùng được thiết lập nếu nút **đặt làm mặc định** không hiển thị trong thanh lệnh bảng điều khiển. Bảng điều khiển mặc định người dùng sẽ ghi đè tất cả các bảng thông tin mặc định khác, ngay cả khi bảng điều khiển mặc định của người dùng không có trong ứng dụng hiện tại.
+Thông thường, bạn có thể xác định bảng điều khiển mặc định của người dùng được đặt nếu nút **đặt làm mặc định** không hiển thị trong thanh lệnh bảng điều khiển. Bảng điều khiển mặc định của người dùng sẽ ghi đè lên tất cả các bảng điều khiển mặc định khác, ngay cả khi bảng điều khiển mặc định của người dùng không có trong ứng dụng hiện tại.
 
-Sử dụng giải pháp sau để unset bảng điều khiển mặc định của họ.
+Sử dụng giải pháp thay thế sau đây để bỏ đặt bảng điều khiển mặc định của họ.
 
-1. Tạo bảng thông tin cá nhân mới.
+1. Tạo bảng điều khiển cá nhân mới.
 
-2. Đặt bảng thông tin mới là mặc định của người dùng.
+2. Đặt bảng điều khiển mới làm mặc định của người dùng.
 
-3. Xóa bảng thông tin đó.
+3. Xóa bảng điều khiển đó.
 
-## <a name="the-dashboard-is-set-in-the-sitemap"></a>Bảng điều khiển được đặt trong sơ đồ trang web
+## <a name="the-dashboard-is-set-in-the-sitemap"></a>Bảng điều khiển được đặt trong sơ đồ trang
 
-Bạn có thể đã đặt một bảng điều khiển mặc định của tổ chức bằng cách chọn một bảng thông tin và chọn ' đặt làm mặc định ' trong ' tùy chỉnh hệ thống '. Tuy nhiên, bảng điều khiển được xác định trong thiết kế sơ đồ trang web sẽ được ưu tiên hơn bảng điều khiển này, nếu người dùng có quyền truy cập vào nó.
+Bạn có thể đã thiết lập một bảng điều khiển mặc định của tổ chức bằng cách chọn một bảng điều khiển và chọn ' đặt làm mặc định ' dưới ' tùy chỉnh hệ thống '. Nhưng bảng điều khiển được xác định trong trình thiết kế trang web sẽ được ưu tiên trên bảng điều khiển này, nếu người dùng có quyền truy nhập vào đó.
 
-Để có người dùng xem bảng thông tin bạn đã đặt làm mặc định của tổ chức, bạn có thể:
+Để người dùng nhìn thấy bảng điều khiển bạn đã đặt làm mặc định của tổ chức, bạn có thể:
 
-* Đặt bảng thông tin đó trong sơ đồ trang web
+* Đặt bảng điều khiển đó trong sơ đồ trang
 
-* Xóa quyền truy cập vào bảng điều khiển được xác định bởi Sơ đồ trang web cho những người dùng đó
+* Loại bỏ quyền truy nhập vào bảng điều khiển được xác định trong sitemap cho những người dùng đó

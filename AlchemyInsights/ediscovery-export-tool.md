@@ -1,10 +1,11 @@
 ---
-title: công cụ xuất eDiscovery
+title: công cụ xuất khám phá điện tử
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -14,36 +15,36 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: 6352603a391ddcb44d2728c7587bf15a6cd97ebb
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 55f29fae0878917eaf2972ba1dfd3c5b8a26ce54
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44507192"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47711117"
 ---
-# <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Không thể cài đặt hoặc chạy công cụ xuất eDiscovery?
+# <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Bạn không thể cài đặt hoặc chạy công cụ xuất khám phá điện tử?
 
-Nếu bạn không thể cài đặt hoặc chạy công cụ xuất eDiscovery để tải xuống kết quả tìm kiếm, hãy kiểm tra những điều sau:
+Nếu bạn không thể cài đặt hoặc chạy công cụ xuất khám phá điện tử để tải xuống kết quả tìm kiếm, hãy kiểm tra những điều sau đây:
   
-- Máy tính bạn đang sử dụng đáp ứng các pre-requisites:
+- Máy tính bạn đang sử dụng đáp ứng các trang trước:
 
-  - 32-hoặc phiên bản 64-bit của Windows 7 và phiên bản mới hơn
+  - 32-hoặc 64-bit phiên bản Windows 7 và các phiên bản mới hơn
 
-  - Microsoft .NET Framework 4,7
+  - Microsoft .NET Framework 4.7.
 
   - Một trình duyệt được hỗ trợ:
 
   - Microsoft Edge
 
-    Hoặc
+    Hay
 
   - Internet Explorer 10 và các phiên bản mới hơn
 
     Các trình duyệt khác, chẳng hạn như Google Chrome và Mozilla Firefox không được hỗ trợ.
 
-- Tổ chức của bạn có thể kết nối với điểm cuối trong Azure, là ** \* . blob.Core.Windows.net** (ký tự đại diện cho một mã định danh duy nhất cho công việc xuất của bạn).
+- Tổ chức của bạn có thể kết nối với điểm cuối trong Azure, là ** \* . blob.Core.Windows.net** (ký tự đại diện trình bày một mã định danh duy nhất cho công việc xuất khẩu của bạn).
 
-- Bạn đang gán vai trò xuất trong &amp; Trung tâm tuân thủ bảo mật của Microsoft 365. Theo mặc định, vai trò này chỉ được gán cho nhóm vai trò quản lý eDiscovery. Xem [gán quyền eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions).
+- Bạn đã gán vai trò xuất trong &amp; Trung tâm tuân thủ bảo mật của Microsoft 365. Theo mặc định, vai trò này chỉ được gán cho nhóm vai trò trình quản lý khám phá điện tử. Xem mục [gán quyền khám phá](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)điện tử.
 
-Để biết thêm thông tin, xem [xuất kết quả tìm kiếm nội dung](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).
+Để biết thêm thông tin, hãy xem [xuất kết quả tìm kiếm nội dung](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).
   

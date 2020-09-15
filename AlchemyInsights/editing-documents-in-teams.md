@@ -1,26 +1,27 @@
 ---
-title: Chỉnh sửa tài liệu trong teams
+title: Chỉnh sửa tài liệu trong nhóm
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.custom: ''
 ms.assetid:
 - "9002312"
 - "4497"
-ms.openlocfilehash: 33c537ee96285ebff1877fd7fe95e33113ade98c
-ms.sourcegitcommit: 183dc4c002c151474628b6d7c4571a5264dc5257
+ms.openlocfilehash: 1259bb936e7789b784c5d7c5dc715801bf860a58
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42954202"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47710613"
 ---
-# <a name="editing-documents-in-teams"></a>Chỉnh sửa tài liệu trong teams
+# <a name="editing-documents-in-teams"></a>Chỉnh sửa tài liệu trong nhóm
 
-**Quan trọng**: Hãy tham khảo [thông báo Trung tâm ID: 207443](https://admin.microsoft.com/Adminportal/Home?source=applauncher#MessageCenter?id=MC207443) để cập nhật thông tin. 
+**Quan trọng**: Hãy tham khảo mục [Trung tâm thông báo ID: 207443](https://admin.microsoft.com/Adminportal/Home?source=applauncher#MessageCenter?id=MC207443) để biết thông tin Cập Nhật. 
 
-Đối với sinh viên và giáo viên làm việc với tài liệu Office trong Microsoft teams, chúng tôi đang bắt đầu triển khai một thay đổi tạm thời, nơi sẽ có một bước bổ sung để chỉnh sửa một tài liệu. Đây là một thay đổi từ hành vi hiện tại cho phép người dùng đi thẳng vào chế độ chỉnh sửa khi nhấp vào một tài liệu trong tab "Files" của một kênh, một cuộc trò chuyện, hoặc từ bên trong một nhiệm vụ.
+Đối với học viên và giáo viên làm việc với các tài liệu Office trong Microsoft nhóm, chúng tôi đang bắt đầu thực hiện thay đổi tạm thời, nơi sẽ có một bước bổ sung để sửa tài liệu. Đây là một thay đổi từ hành vi hiện tại cho phép người dùng đi thẳng đến chế độ chỉnh sửa khi bấm vào một tài liệu trong tab "tệp" của một kênh, một cuộc hội thoại hoặc từ bên trong một giao nhiệm vụ.
 
-Trong mọi trường hợp, khi nhấp vào tài liệu, người dùng đầu tiên sẽ thấy tài liệu ở chế độ xem-họ sẽ có thể xem nội dung tài liệu, nhưng họ sẽ không thể thực hiện thay đổi. Để chỉnh sửa tài liệu, người dùng cần phải bấm vào **tùy chọn** ở trên cùng bên phải của thanh màu trắng phía trên nội dung tài liệu và nhấp vào **mở trong trình duyệt** hoặc (đối với người dùng có Office cho Windows cài đặt trên thiết bị của họ) **mở trong ứng dụng máy tính để bàn**. Điều này sẽ mở tài liệu trong Office trong một cửa sổ riêng biệt từ teams và cho phép người dùng thực hiện thay đổi.
+Trong tất cả các trường hợp, khi bạn bấm vào tài liệu, người dùng trước tiên sẽ nhìn thấy tài liệu ở chế độ xem-họ sẽ có thể xem nội dung tài liệu, nhưng họ sẽ không thể thực hiện thay đổi. Để chỉnh sửa tài liệu, người dùng cần phải bấm vào **tùy chọn** ở phía trên bên phải thanh màu trắng phía trên nội dung tài liệu và bấm **mở trong trình duyệt** hoặc (cho người dùng có Office cho Windows được cài đặt trên thiết bị của họ) **mở trong ứng dụng trên máy tính**. Thao chiếu này sẽ mở tài liệu trong Office trong một cửa sổ riêng biệt từ các nhóm và cho phép người dùng thực hiện thay đổi.

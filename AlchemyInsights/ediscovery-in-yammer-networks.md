@@ -1,33 +1,34 @@
 ---
-title: eDiscovery trong mạng yammer
+title: Khám phá điện tử trong mạng yammer
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "3533"
-ms.openlocfilehash: 237121fa451fb9a05ca5ca496b92e743730656ce
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 4bba92d5756186923b103f7b945155c3cb972b35
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714756"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47710938"
 ---
-# <a name="ediscovery-in-yammer-networks"></a>eDiscovery trong mạng yammer
+# <a name="ediscovery-in-yammer-networks"></a>Khám phá điện tử trong mạng yammer
 
-Bây giờ bạn có thể thực hiện tìm kiếm eDiscovery cho nội dung yammer.  Thực hiện tìm kiếm eDiscovery hoặc xuất trên nội dung yammer yêu cầu sau:
+Giờ đây, bạn có thể thực hiện tìm kiếm khám phá điện tử cho nội dung yammer.  Thực hiện tìm kiếm khám phá điện tử hoặc xuất trên nội dung yammer yêu cầu như sau:
 
-1. Trước tiên, bạn phải di chuyển mạng doanh nghiệp yammer sang chế độ riêng để làm cho thư và tệp yammer của bạn có thể phát hiện. **Lưu ý: nếu bạn là khách hàng mới tính đến ngày 9 tháng 1 2020 và mạng yammer của bạn đã ở chế độ riêng, dữ liệu của bạn bây giờ có thể phát hiện với eDiscovery**.
+1. Trước tiên, bạn phải di chuyển mạng yammer Enterprise sang chế độ bản địa để giúp thư và các tệp yammer của bạn phát hiện. **Lưu ý: nếu bạn là một khách hàng mới với số thứ 2020 của ngày 9 tháng 1 và mạng yammer của bạn đang ở chế độ gốc, dữ liệu của bạn hiện đã được phát hiện với khám phá điện**tử.
 
-2. Để thoát khỏi khách hàng, eDiscovery cho yammer sẽ có sẵn khi công cụ liên kết chế độ riêng được phát hành và di chuyển chế độ riêng hoàn tất cho yammer trong đối tượng thuê.
+2. Đối với các khách hàng thoát, khám phá điện tử cho yammer sẽ sẵn dùng một lần công cụ căn chỉnh chế độ gốc được phát hành và di chuyển chế độ gốc đã hoàn thành cho yammer trong đối tượng thuê.
 
 Để biết thêm thông tin về:
 
-- Chế độ riêng trong yammer, xem: [tổng quan về chế độ riêng](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode).
-- eDiscovery trong mạng yammer, xem: [tổng quan về eDiscovery trong mạng yammer](https://docs.microsoft.com/yammer/manage-security-and-compliance/overview-of-ediscovery).
-- eDiscovery trong Microsoft 365, xem [eDiscovery trong microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).
+- Chế độ bản địa trong yammer, hãy xem: [tổng quan về chế độ gốc](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode).
+- Khám phá điện tử trong mạng yammer, hãy xem: [tổng quan về khám phá điện tử trong mạng yammer](https://docs.microsoft.com/yammer/manage-security-and-compliance/overview-of-ediscovery).
+- Khám phá điện tử trong Microsoft 365, hãy xem [khám phá điện tử trong microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).
