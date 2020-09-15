@@ -1,54 +1,55 @@
 ---
-title: Khắc phục sự cố triển khai chứng chỉ xác thực máy khách
+title: Khắc phục sự cố triển khai chứng chỉ xác thực khách
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/28/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1546"
 - "9000076"
-ms.openlocfilehash: 698329d7705af320c9f679b92532b58ac84e6624
-ms.sourcegitcommit: e90b918f02102cd9764881c2d8c914567c6b070e
+ms.openlocfilehash: cecbd091447e63f2d5012ceaf96e050c92a171e6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "46555804"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47659008"
 ---
-# <a name="troubleshooting-client-authentication-certificate-deployment"></a>Khắc phục sự cố triển khai chứng chỉ xác thực máy khách
+# <a name="troubleshooting-client-authentication-certificate-deployment"></a>Khắc phục sự cố triển khai chứng chỉ xác thực khách
 
-InTune NDES/SCEP và PKCS/PFX hồ sơ chứng chỉ máy khách thường được sử dụng kết hợp với các loại hồ sơ khác như WiFi, VPN và email cho phép người dùng xác thực với tài nguyên của công ty. Khi các loại hồ sơ được liên kết với hồ sơ chứng chỉ máy khách phụ thuộc vào việc triển khai thành công hồ sơ đó.
+InTune NDES/SCEP và PKCS/PFX Client, Hồ sơ chứng chỉ được sử dụng thường xuyên cùng với các kiểu hồ sơ khác chẳng hạn như WiFi, VPN và email để cho phép người dùng xác thực đối với tài nguyên của công ty. Khi các kiểu hồ sơ này được nối kết với hồ sơ chứng chỉ máy khách sẽ phụ thuộc vào việc triển khai thành công hồ sơ đó.
 
-Thiết lập cơ sở hạ tầng ban đầu và cấu hình liên quan của hồ sơ chứng chỉ máy khách thường yêu cầu khắc phục sự cố. Để có hướng dẫn từng bước để thiết lập thành công kết nối NDES và khắc phục sự cố hướng dẫn để tách các vấn đề với triển khai chứng chỉ, hãy xem: 
+Thiết lập cơ sở hạ tầng ban đầu và cấu hình liên kết của hồ sơ chứng chỉ máy khách thường bắt buộc khắc phục sự cố. Để có hướng dẫn từng bước để thiết lập thành công của trình kết nối NDES và hướng dẫn khắc phục sự cố để tách biệt các vấn đề với triển khai chứng chỉ, hãy xem: 
 
-- [Cấu hình cơ sở hạ tầng để hỗ trợ SCEP với InTune](https://support.microsoft.com/help/4459540/troubleshoot-ndes-configuration-for-use-with-intune)
-- [Tổng quan về khắc phục sự cố cấu hình chứng chỉ SCEP với Microsoft InTune](https://support.microsoft.com/help/4457481/troubleshooting-scep-certificate-profile-deployment-in-intune)
+- [Cấu hình cơ sở hạ tầng để hỗ trợ SCEP bằng InTune](https://support.microsoft.com/help/4459540/troubleshoot-ndes-configuration-for-use-with-intune)
+- [Tổng quan về khắc phục sự cố các hồ sơ chứng chỉ SCEP với Microsoft InTune](https://support.microsoft.com/help/4457481/troubleshooting-scep-certificate-profile-deployment-in-intune)
 
-Sử dụng tập lệnh PowerShell tham chiếu để giúp xác minh cấu hình của bạn. Để biết thêm thông tin, xem [tập lệnh xác minh kết nối chứng chỉ InTune](https://github.com/microsoftgraph/powershell-intune-samples/tree/master/CertificationAuthority).
+Sử dụng các tập lệnh PowerShell được tham chiếu để giúp xác minh cấu hình của bạn. Để biết thêm thông tin, hãy xem [script xác minh trình kết nối InTune](https://github.com/microsoftgraph/powershell-intune-samples/tree/master/CertificationAuthority).
 
   
-**Các vấn đề thường gặp khác**
+**Các vấn đề phổ biến khác**
 
-**Khi tôi cố gắng cài đặt kết nối InTune chứng chỉ trên máy chủ kết nối NDES, tôi nhận được thông báo "mật khẩu trong yêu cầu chứng chỉ không được xác minh. Nó có thể đã được sử dụng rồi. Lấy mật khẩu mới để gửi với yêu cầu này. "**  
+**Khi tôi tìm cách cài đặt trình kết nối chứng chỉ InTune trên máy chủ kết nối NDES, tôi nhận được thông báo, "mật khẩu trong yêu cầu chứng chỉ không thể được xác nhận. Có thể nó đã được sử dụng. Lấy mật khẩu mới để gửi yêu cầu này. "**  
 
-Thông báo này có nghĩa là bạn cần chạy cài đặt kết nối chứng chỉ là quản trị viên.
+Thông báo này có nghĩa là bạn cần chạy cài đặt trình kết nối chứng chỉ với tư cách là người quản trị.
 
-Trong một số môi trường, các máy chủ có chạy chứng chỉ InTune phải sử dụng máy chủ proxy để kết nối với InTune, và để kết nối chứng chỉ phải sử dụng proxy. Trong một số trường hợp, kết nối NDES bỏ qua cài đặt proxy được cấu hình và có thể cần thiết để cấu hình thiết đặt ủy quyền trong khi chạy trong ngữ cảnh bảo mật của LocalSystem. 
+Trong một số môi trường, các máy chủ có chứng chỉ InTune chạy phải sử dụng máy chủ proxy để kết nối với InTune, và vì vậy trình kết nối chứng chỉ phải sử dụng proxy. Trong một số trường hợp, đường kết nối NDES bỏ qua thiết đặt proxy được cấu hình và có thể là cần thiết để cấu hình các thiết đặt proxy trong khi đang chạy trong ngữ cảnh bảo mật của LocalSystem. 
  
-Giải pháp là để chạy Internet Explorer như hệ thống và cấu hình một proxy trong IE. Sau khi khởi động lại dịch vụ InTune Connector, kết nối NDES kết nối với InTune.
+Giải pháp là chạy Internet Explorer dưới dạng hệ thống và đặt cấu hình proxy trong IE. Sau khi khởi động lại dịch vụ kết nối InTune, đường kết nối NDES sẽ kết nối đến InTune.
 
 **Thiết bị người dùng không còn nhận được chứng chỉ SCEP từ NDES.**
 
-Có thể chứng chỉ xác thực máy khách phát hành cho máy chủ NDES và được chỉ định trong quá trình cài đặt kết nối NDES, đã hết hạn hoặc bị thiếu. Để giải quyết: 
+Có thể là chứng chỉ xác thực máy khách đã phát hành với máy chủ NDES và đã xác định trong quá trình cài đặt kết nối NDES, đã hết hạn hoặc bị thiếu. Để giải quyết: 
  
-1. Dỡ cài đặt kết nối NDES.  
-2. Sử dụng các chi tiết để yêu cầu xác thực máy khách mới hoặc chứng chỉ xác thực máy chủ: 
+1. Gỡ cài đặt trình kết nối NDES.  
+2. Sử dụng các chi tiết này để yêu cầu chứng chỉ xác thực máy khách mới hoặc chứng thực máy chủ: 
  
-    - Tên chủ đề: CN = FQDN bên ngoài  
-    - Tên thay thế tiêu đề (cả hai đều bắt buộc): DNS = FQDN bên ngoài, DNS = FQDN nội bộ 
+    - Tên chủ đề: CN = bên ngoài FQDN  
+    - Chủ đề tên thay thế (cả hai đều bắt buộc): DNS = bên ngoài FQDN, DNS = FQDN nội bộ 
  
-3. Cài đặt lại kết nối NDES với chứng chỉ mới.
+3. Cài đặt lại trình kết nối NDES với chứng chỉ mới.

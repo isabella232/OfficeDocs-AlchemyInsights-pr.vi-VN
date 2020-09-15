@@ -1,34 +1,35 @@
 ---
-title: Khắc phục sự cố Office 365 nâng cao mối đe dọa bảo vệ
+title: Khắc phục sự cố bảo vệ mối đe dọa nâng cao của 365 Office
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1039
 ms.assetid: ''
-ms.openlocfilehash: 7391b3c126d55213881f6b71cb6b5fc72bc68d0f
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 5a13653ba08d8c6b822354ff70f6d276d31cd816
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44512612"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47658936"
 ---
-# <a name="troubleshooting-office-365-advanced-threat-protection"></a>Khắc phục sự cố Office 365 nâng cao mối đe dọa bảo vệ
+# <a name="troubleshooting-office-365-advanced-threat-protection"></a>Khắc phục sự cố bảo vệ mối đe dọa nâng cao của 365 Office
 
-- Bạn có nhận thấy sự chậm trễ trong việc gửi tin nhắn không? Sử dụng tùy chọn [phân phối động](https://docs.microsoft.com/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) trong chính sách ATP an toàn đính kèm của bạn. Điều này sẽ giúp tránh sự chậm trễ tin nhắn trong khi bảo vệ người nhận khỏi các tệp độc hại.
+- Bạn có thấy sự chậm trễ trong việc chuyển phát thư không? Sử dụng tùy chọn chuyển phát [động](https://docs.microsoft.com/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) trong chính sách tệp đính kèm an toàn trong ATP của bạn. Điều này sẽ giúp tránh sự chậm trễ của thư khi bảo vệ người nhận khỏi các tệp độc hại.
 
-- Bạn có muốn báo cáo sai tích cực hoặc sai phủ định cho Microsoft không? Sử dụng [liên kết](https://www.microsoft.com/wdsi/filesubmission/) này để gửi tệp để phân tích.
+- Bạn có muốn báo cáo dương tính false hoặc âm sai đối với Microsoft không? Sử dụng [liên kết](https://www.microsoft.com/wdsi/filesubmission/) này để gửi các tệp để phân tích.
 
-- Bạn có biết rằng bạn có thể bật bảo vệ liên kết an toàn cho email nội bộ được gửi giữa người nhận trong tổ chức của bạn? Hãy làm theo các bước sau:
+- Bạn có biết rằng bạn có thể cho phép bảo vệ liên kết an toàn cho email nội bộ được gửi giữa những người nhận trong tổ chức của mình không? Làm theo các bước sau đây:
 
-  1. Truy [https://protection.office.com](https://protection.office.com) cập và đăng nhập bằng tài khoản quản trị viên hoặc bảo mật toàn cầu.
+  1. Đi đến [https://protection.office.com](https://protection.office.com) và đăng nhập bằng tài khoản người quản trị toàn cầu hoặc người quản trị bảo mật.
 
-  2. Trong ngăn điều hướng bên trái trong **quản lý mối đe dọa**, hãy chọn **Policy** \> **liên kết an toàn**chính sách.
+  2. Trong ngăn dẫn hướng bên trái bên dưới **quản lý mối đe dọa**, chọn **Policy** \> **nối kết an toàn**chính sách.
 
-  3. Trong **chính sách áp dụng cho toàn bộ phần tổ chức** , chọn chính sách và nhấp vào **chỉnh sửa**.
+  3. Trong phần **chính sách áp dụng cho toàn bộ tổ chức** , hãy chọn chính sách và bấm **sửa**.
 
-  4. Trong **cài đặt**, **cho phép áp dụng liên kết an toàn cho thư được gửi trong tổ chức**.
+  4. Bên dưới **thiết đặt**, **cho phép áp dụng nối kết an toàn cho thư được gửi trong tổ chức**.

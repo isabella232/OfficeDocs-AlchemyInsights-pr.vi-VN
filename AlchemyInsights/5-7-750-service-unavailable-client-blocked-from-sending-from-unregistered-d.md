@@ -1,26 +1,27 @@
 ---
-title: 1048 5.7.750 dịch vụ không khả dụng. Khách hàng bị chặn gửi từ tên miền chưa đăng ký
+title: Dịch vụ 1048 5.7.750 không khả dụng. Máy khách bị chặn gửi từ các tên miền chưa đăng ký
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 8cf6d70b-9a78-4f04-ac59-7ffcf44ffd22
 ms.custom:
 - "1048"
 - "3100026"
-ms.openlocfilehash: 48b9c2de27f8d7f52215c3a3d547bdf746a3a4cd
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 731aa2e155ba3fdaaca7fed9dd51b3e4a3f20f29
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43676735"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47664264"
 ---
-# <a name="57750-client-blocked-from-sending-from-unregistered-domain"></a>5.7.750 khách hàng bị chặn gửi từ tên miền chưa đăng ký
+# <a name="57750-client-blocked-from-sending-from-unregistered-domain"></a>máy khách 5.7.750 bị chặn không cho gửi từ tên miền chưa đăng ký
 
-Lỗi xảy ra khi một số lượng lớn thư được gửi từ miền không cung cấp trong đối tượng thuê (được chấp nhận tên miền và xác thực).
+Lỗi xảy ra khi một lượng lớn các thư được gửi từ các tên miền không được cung cấp trong đối tượng thuê của bạn (Thêm tên miền được chấp nhận và xác thực).
 
-Để tránh lỗi này, bạn có thể sử dụng kết nối dòng thư dựa trên chứng chỉ mà tên miền của chứng chỉ là một miền được cung cấp, hoặc bạn có thể điều khoản tất cả các miền gửi.
+Để tránh lỗi này, bạn có thể sử dụng đường kết nối dòng thư dựa trên chứng chỉ trong đó tên miền của chứng chỉ là miền được cung cấp, hoặc bạn có thể cung cấp tất cả các tên miền gửi.

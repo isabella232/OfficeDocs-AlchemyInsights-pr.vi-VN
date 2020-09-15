@@ -1,10 +1,11 @@
 ---
-title: Kế hoạch gọi PSTN
+title: Gói gọi PSTN
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -12,19 +13,19 @@ ms.custom:
 - "9002447"
 - "4760"
 - "4761"
-ms.openlocfilehash: e1dd2bd37be42de74701b11864841e876cf5a2a6
-ms.sourcegitcommit: 3281e61d3dfca02a01cd6ad208a987cda66f4afa
+ms.openlocfilehash: ecfdc59afeb8cd3dae8ae1b2cfba4618bbffe126
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/18/2020
-ms.locfileid: "43557036"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47662527"
 ---
-# <a name="pstn-calling-plans"></a>Kế hoạch gọi PSTN
+# <a name="pstn-calling-plans"></a>Gói gọi PSTN
 
-Nếu bạn muốn người dùng của mình có thể gọi điện thoại thông thường và bạn chưa có nhà cung cấp dịch vụ để thực hiện cuộc gọi thoại, bạn cần mua gói gọi điện.
+Nếu bạn muốn người dùng của bạn có thể gọi điện thoại thông thường và bạn chưa có nhà cung cấp dịch vụ để thực hiện các cuộc gọi thoại, bạn cần mua một gói gọi.
 
-- Xem [cách mua gói gọi điện](https://docs.microsoft.com/MicrosoftTeams/calling-plans-for-office-365) để bắt đầu quy trình mua.
+- Xem [cách mua gói gọi](https://docs.microsoft.com/MicrosoftTeams/calling-plans-for-office-365) để bắt đầu quy trình mua.
 
-- Thiết lập [tín dụng truyền thông](https://docs.microsoft.com/microsoftteams/set-up-communications-credits-for-your-organization) để ngăn người dùng **chạy ra khỏi phút**. Xem giá [ở đây](https://products.office.com/microsoft-teams/voice-calling). 
+- Thiết lập các [tín dụng liên lạc](https://docs.microsoft.com/microsoftteams/set-up-communications-credits-for-your-organization) để ngăn người dùng không ngừng **hoạt**động. Xem cước phí [ở đây](https://products.office.com/microsoft-teams/voice-calling). 
 
-- Để biết thêm thông tin, xem [hệ thống điện thoại và gọi kế hoạch](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) hoặc [tín dụng truyền thông là gì?](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)
+- Để biết thêm thông tin, hãy xem [hệ thống điện thoại và gọi các gói](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) hoặc [các tín dụng liên lạc là gì?](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)

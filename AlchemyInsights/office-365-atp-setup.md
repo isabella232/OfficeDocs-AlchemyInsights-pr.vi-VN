@@ -1,29 +1,30 @@
 ---
-title: Thiết lập văn phòng 365 nâng cao mối đe dọa bảo vệ (ATP)
+title: Thiết lập bảo vệ mối đe dọa nâng cao của Office 365 (ATP)
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: d7d983e1a39034345283c5b084e84e5147c17645
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: c6905238c8ee209dc443bf82022108401e0370ac
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44502773"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47662743"
 ---
-# <a name="office-365-advanced-threat-protection-atp"></a>Văn phòng 365 nâng cao mối đe dọa bảo vệ (ATP)
+# <a name="office-365-advanced-threat-protection-atp"></a>Bảo vệ mối đe dọa nâng cao của Office 365 (ATP)
 
-Văn phòng 365 ATP bao gồm phần [đính kèm an toàn](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-attachments), [liên kết an toàn](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links), [nâng cao chống Phishing](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-anti-phishing), và nhiều hơn nữa. 
+Office 365 ATP bao gồm phần [đính kèm an toàn](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-attachments), [liên kết an toàn](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links), [nâng cao tính năng chống lừa đảo](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-anti-phishing)và nhiều hơn nữa. 
 
-ATP được bao gồm trong các gói đăng ký, chẳng hạn như Office 365 Enterprise E5, Office 365 Education A5 và Microsoft 365 Business Premium. Nếu đăng ký của bạn không bao gồm ATP, bạn có thể có khả năng mua ATP như là một add-on. Để tìm hiểu thêm, hãy xem [Office 365 ATP dịch vụ mô tả](https://docs.microsoft.com/office365/servicedescriptions/office-365-advanced-threat-protection-service-description).
+ATP được bao gồm trong các đăng ký, chẳng hạn như Office 365 Enterprise E5, Office 365 Education A5 và Microsoft 365 Business Premium. Nếu thuê bao của bạn không bao gồm ATP, bạn có thể mua ATP như một phần bổ trợ. Để tìm hiểu thêm, hãy xem [mô tả Dịch vụ Office 365 ATP](https://docs.microsoft.com/office365/servicedescriptions/office-365-advanced-threat-protection-service-description).
 
-## <a name="set-up-office-365-atp"></a>Thiết lập văn phòng 365 ATP
+## <a name="set-up-office-365-atp"></a>Thiết lập ATP trong Office 365
 
-Để bảo vệ ATP có hiệu lực, bạn phải cấu hình chính sách. Xem [hướng dẫn bắt đầu nhanh: thiết lập Office 365 bảo vệ mối đe dọa nâng cao](https://docs.microsoft.com/office365/securitycompliance/checklist-atp-setup).
+Để bảo vệ ATP có hiệu lực, bạn phải cấu hình chính sách. Xem [hướng dẫn bắt đầu nhanh: thiết lập bảo vệ mối đe dọa nâng cao của Office 365](https://docs.microsoft.com/office365/securitycompliance/checklist-atp-setup).
 

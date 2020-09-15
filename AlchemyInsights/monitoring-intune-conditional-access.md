@@ -1,31 +1,31 @@
 ---
-title: Truy cập có điều kiện InTune
+title: Giám sát quyền truy nhập InTune có điều kiện
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: bc1d971d-84b0-447f-971e-7dc37ebeb5af
-ms.openlocfilehash: 924dc9cc741697b3784203d5f441769f7601b8d1
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: a3e84e32eac09d8788bbec56185f3cfc714cfb4d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713704"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47694876"
 ---
 # <a name="troubleshoot-issues-with-microsoft-intune"></a>Khắc phục sự cố với Microsoft InTune
 
-Đánh giá tài nguyên được liệt kê dưới đây để giải quyết vấn đề của bạn ngay bây giờ.
+Xem lại các tài nguyên được liệt kê dưới đây để giải quyết vấn đề của bạn ngay.
   
-1. Sử dụng [InTune khắc phục sự cố cổng](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) để chẩn đoán và giải quyết một số lỗi phổ biến. Đánh giá [tài liệu này ](https://docs.microsoft.com/intune/help-desk-operators)để biết thêm chi tiết.
+1. Sử dụng [cổng thông tin khắc phục sự cố InTune](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) để chẩn đoán và giải quyết một số lỗi phổ biến. Xem lại [tài liệu này ](https://docs.microsoft.com/intune/help-desk-operators)để biết thêm chi tiết.
     
-2. Đánh giá dành cho [TechNet ](https://social.technet.microsoft.com/forums/home?forum=microsoftintuneprod)để tìm câu trả lời và giải pháp cho các vấn đề phổ biến.
+2. Xem lại điều [chỉnh TechNet ](https://social.technet.microsoft.com/forums/home?forum=microsoftintuneprod)để tìm câu trả lời và giải pháp cho các sự cố phổ biến.
     
-3. Kiểm tra [dịch vụ y tế](https://portal.office.com/AdminPortal/Home#/servicehealth) để xem tình trạng của dịch vụ. 
+3. Kiểm tra trạng thái [dịch vụ](https://portal.office.com/AdminPortal/Home#/servicehealth) để xem trạng thái dịch vụ. 
     
-4. Đánh giá [tài liệu InTune](https://docs.microsoft.com/intune/) để lập kế hoạch, cách khắc phục sự cố và các bài viết khác. 
+4. Xem lại [tài liệu hướng dẫn InTune](https://docs.microsoft.com/intune/) để lên kế hoạch, làm thế nào để khắc phục sự cố các bài viết và nhiều hơn nữa. 
     
 

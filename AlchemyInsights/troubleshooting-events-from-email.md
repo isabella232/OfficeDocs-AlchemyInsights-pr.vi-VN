@@ -5,43 +5,44 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000301"
 - "5765"
-ms.openlocfilehash: e27589b7f6730036040b948b6275cef072fd8235
-ms.sourcegitcommit: dc149ab45fbc2c974b54fb81156d2bc1b07017bb
+ms.openlocfilehash: 9efd969e3e639c2679b0768c4a0fd045916b00d1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44569398"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47658756"
 ---
 # <a name="troubleshooting-events-from-email"></a>Khắc phục sự kiện từ email
 
-1. Kiểm tra tính năng được kích hoạt cho hộp thư: **nhận-EventsFromEmailConfiguration <mailbox> -Identity**
+1. Xác nhận tính năng được kích hoạt cho hộp thư: **Get-Eventsfroconfiguration-danh <mailbox> tính**
 
-2. Sau đó nhìn vào các ' sự kiện từ email ' Nhật ký **xuất khẩu-Mailboxchẩn Sticlogs <mailbox> -cấu phần timeprofile**
+2. Sau đó, hãy xem mục các sự kiện ' từ xuất Nhật ký của email **-MailboxDiagnosticLogs <mailbox> -khung hồ sơ thành phần**
 
-3. Trong Nhật ký "sự kiện từ email", tìm InternetMessageId phù hợp với mục trong hộp thư.  
+3. Trong Nhật ký ' các sự kiện từ email, hãy tìm InternetMessageId khớp với mục đó trong hộp thư.  
 
-4. TrustScore xác định nếu mục được thêm vào hay không. Sự kiện sẽ chỉ được thêm vào nếu TrustScore = "tin cậy".
+4. Trustđiểm sẽ xác định nếu mục được thêm vào hay không. Sự kiện sẽ chỉ được thêm vào nếu Trust= = "tin cậy".
 
-TrustScore được xác định bởi SPF, DKIM hoặc dMarc thuộc tính, trong tiêu đề thư.
+Trustđiểm được xác định bởi SPF, các thuộc tính Mkim hoặc Nhmarc, nằm trong phần đầu thư.
 
-Để xem các tính này:
+Để xem các thuộc tính sau:
 
-**Máy tính để bàn Outlook**
+**Outlook trên máy tính**
 
 - Mở mục
-- Tệp-> Properties-> tiêu đề Internet
+- Thuộc tính > tệp-> tiêu đề Internet
 
-Hoặc
+hay
 
 **MFCMapi**
 
-- Điều hướng đến mục trong hộp thư đến
-- Tìm kiếm PR_TRANSPORT_MESSAGE_HEADERS_W
+- Dẫn hướng đến mục trong hộp thư đến
+- Tìm PR_TRANSPORT_MESSAGE_HEADERS_W
 
-Các tính này được xác định và ghi lại trong quá trình vận chuyển và định tuyến. Để khắc phục sự cố thêm, bạn có thể cần phải theo dõi hỗ trợ truyền tải về các lỗi trong SPF, DKIM và. hoặc DMARC.
+Những thuộc tính này được xác định và ghi lại trong quá trình vận chuyển và định tuyến. Để khắc phục sự cố thêm, bạn có thể cần phải theo dõi với hỗ trợ truyền tải về các lỗi trong SPF, MKIM và. hoặc TMARC.

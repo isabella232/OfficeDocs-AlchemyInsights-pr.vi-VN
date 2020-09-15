@@ -5,27 +5,28 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2547"
 - "9000672"
-ms.openlocfilehash: 246c3b50df856c16ea5237adc43d2126bb5b48b9
-ms.sourcegitcommit: b677b85395b7244b2bf2b753468b696b4cf27c8d
+ms.openlocfilehash: 6923c15c3cce90c98ae79181e978fba273ab6059
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 07/16/2020
-ms.locfileid: "45148059"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47662455"
 ---
 # <a name="restore-a-deleted-form"></a>Khôi phục biểu mẫu đã xóa
 
-Nếu bạn đã xóa một biểu mẫu trong Microsoft Forms do tai nạn, bạn có thể phục hồi. Đăng nhập vào Microsoft Forms là chủ sở hữu của biểu mẫu đã xóa. Chọn **thùng rác**, sau đó chọn biểu mẫu bạn muốn khôi phục và chọn **khôi phục**. Sau khi được khôi phục, chọn mũi tên **trang biểu mẫu của tôi** .
+Nếu bạn đã xóa một biểu mẫu trong Microsoft Forms theo tai nạn, bạn có thể khôi phục biểu mẫu đó. Đăng nhập vào các biểu mẫu Microsoft là chủ sở hữu của biểu mẫu đã xóa. Chọn **thùng rác**, rồi chọn biểu mẫu bạn muốn khôi phục, rồi chọn **khôi phục**. Sau khi khôi phục, hãy chọn mũi tên **trở lại trang biểu mẫu của tôi** .
 
-Chỉ có chủ sở hữu của biểu mẫu có thể khôi phục nó. Nếu tài khoản của chủ sở hữu biểu mẫu bị vô hiệu hoá hoặc loại bỏ khỏi đối tượng thuê, chỉ quản trị viên toàn cầu có thể khôi phục biểu mẫu. Quản trị viên toàn cầu phải có giấy phép biểu mẫu để thực hiện khôi phục. Chỉ các biểu mẫu được tạo trong vòng 30 ngày của tài khoản người dùng bị vô hiệu hoá hoặc loại bỏ khỏi đối tượng thuê có thể được khôi phục.
+Chỉ chủ sở hữu của biểu mẫu có thể khôi phục. Nếu tài khoản của chủ sở hữu biểu mẫu bị vô hiệu hóa hoặc loại bỏ khỏi đối tượng thuê, chỉ có người quản trị toàn cầu có thể khôi phục biểu mẫu đó. Người quản trị toàn cầu phải có giấy phép biểu mẫu để thực hiện khôi phục. Chỉ các biểu mẫu được tạo trong vòng 30 ngày trong tài khoản người dùng bị vô hiệu hóa hoặc loại bỏ khỏi đối tượng thuê có thể được khôi phục.
 
-Nếu bạn là quản trị viên toàn cầu của người thuê nhà, và bạn muốn khôi phục biểu mẫu từ tài khoản đã bị xoá hoặc vô hiệu hoá, thay thế [địa chỉ email] với địa chỉ email của người dùng bị xóa hoặc bị vô hiệu hoá trong URL sau: ** https://forms.office.com/Pages/delegatepage.aspx?originalowner= [địa chỉ email]** ví dụ: nếu địa chỉ email của bạn là JOHNDOE@CONTOSO.COM, thì URL sẽ là **https://forms.office.com/Pages/delegatepage.aspx?originalowner=johndoe@contoso.com** . 
+Nếu bạn là người quản trị toàn cầu của đối tượng thuê và bạn muốn khôi phục một biểu mẫu từ một tài khoản đã bị xóa hoặc vô hiệu hóa, hãy thay thế [địa chỉ email] với địa chỉ email của người dùng bị xóa hoặc vô hiệu hóa trong URL sau: ** https://forms.office.com/Pages/delegatepage.aspx?originalowner= [địa chỉ email]** ví dụ, nếu địa chỉ email của bạn là johndoe@contoso.com, URL sẽ là: **https://forms.office.com/Pages/delegatepage.aspx?originalowner=johndoe@contoso.com** . 
 
-Sau khi bạn có quyền truy cập vào biểu mẫu đã xóa của người dùng, hãy chọn biểu mẫu bạn muốn di chuyển, sau đó chọn **Thêm hành động biểu mẫu**  >  **Move**.
+Sau khi bạn có quyền truy nhập vào biểu mẫu đã xóa của người dùng, hãy chọn biểu mẫu bạn muốn di chuyển, rồi chọn di chuyển **hành động biểu mẫu khác**  >  **Move**.
 
-Nếu bạn muốn khôi phục biểu mẫu mà nó đã bị xoá và người dùng đã bị xoá khỏi tổ chức, quản trị viên toàn cầu có thể chọn khôi phục người dùng, đặt lại mật khẩu cho người dùng đó, và sau đó trong khi đăng nhập như người dùng, truy cập vào biểu mẫu để di chuyển người dùng hoạt động khác. 
+Nếu bạn muốn khôi phục một biểu mẫu nơi nó đã bị xóa và người dùng đã bị loại bỏ khỏi tổ chức, người quản trị toàn cầu có thể chọn phục hồi người dùng, đặt lại mật khẩu cho người dùng đó, sau đó trong khi đăng nhập là người dùng đó, hãy truy nhập biểu mẫu để di chuyển nó đến một người dùng hiện hoạt khác. 

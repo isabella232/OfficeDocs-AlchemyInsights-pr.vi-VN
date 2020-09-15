@@ -1,41 +1,42 @@
 ---
-title: Giải quyết thiếu dữ liệu trong OneNote
+title: Giải quyết dữ liệu bị thiếu trong OneNote
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000559"
 - "2500"
-ms.openlocfilehash: 4fe4574786674add89040fd530b931c1fd4e38de
-ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
+ms.openlocfilehash: 6d458e3b2318b47be971be9a3c6f4d323d9ad740
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35800709"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47662338"
 ---
-# <a name="resolving-missing-data-in-onenote"></a>Giải quyết thiếu dữ liệu trong OneNote
+# <a name="resolving-missing-data-in-onenote"></a>Giải quyết dữ liệu bị thiếu trong OneNote
 
-**Máy tính xách tay mất tích**
+**Thiếu sổ ghi chép**
 
-- Nếu máy tính xách tay trên OneDrive đã vô tình xóa, bạn có thể khôi phục lại nó bằng cách làm theo các bước trong [phục hồi xóa các tập tin hoặc thư mục trong OneDrive](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f)
-- Bạn có thể khôi phục máy tính xách tay trên OneDrive đã xoá trong vòng 30 ngày theo mặc định bởi sau những bước [khôi phục đã bị xóa OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
-- OneNote có thể sử dụng một tài khoản khác nhau hơn bạn mong đợi. Nếu bạn có một công việc hay trường học cung cấp tài khoản ngoài các cá nhân tài khoản Microsoft của bạn, bạn sẽ cần phải thêm tài khoản của bạn để xem tất cả các máy tính xách tay của bạn (tham khảo các hướng dẫn trên làm thế nào để [Thêm các tài khoản trong OneNote](https://support.office.com/article/5afff855-54ee-47e4-a773-db048d4ac299).
+- Nếu sổ ghi chép trên OneDrive bị xóa vô tình, bạn có thể khôi phục tài liệu này bằng cách thực hiện theo các bước trong [khôi phục tệp hoặc thư mục đã xóa trong OneDrive](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f)
+- Bạn có thể khôi phục sổ ghi chép trên OneDrive đã xóa trong vòng 30 ngày theo mặc định bằng cách theo các bước trong [khôi phục onedrive đã xóa](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
+- OneNote có thể sử dụng một tài khoản khác với bạn mong đợi. Nếu bạn có tài khoản cơ quan hoặc trường học, hãy thêm vào tài khoản Microsoft cá nhân của mình, bạn sẽ cần thêm tài khoản khác để xem tất cả các sổ ghi chép của mình (tham khảo các hướng dẫn về cách [Thêm tài khoản trong OneNote](https://support.office.com/article/5afff855-54ee-47e4-a773-db048d4ac299).
 
-**Các ghi chú bị thiếu trong máy tính xách tay**
+**Thiếu ghi chú trong sổ tay**
 
-Một trong những nguyên nhân phổ biến nhất của thiếu trang hoặc các phần trong một máy tính xách tay là một lỗi đồng bộ hóa. Trong trường hợp này, dữ liệu sẽ không bị mất và có thể được phục hồi một khi việc đồng bộ đang làm việc. Kiểm tra mỗi OneNote người dùng khách hàng đã sử dụng để xác định nếu bất kỳ của họ cho thấy một lỗi cho máy tính xách tay, và nếu có một lỗi, hãy xem [khắc phục sự cố khi bạn không thể đồng bộ OneNote](https://support.office.com/article/299495ef-66d1-448f-90c1-b785a6968d45).
+Một trong những nguyên nhân phổ biến nhất trong các trang bị thiếu hoặc các phần trong sổ ghi chép là lỗi đồng bộ. Trong trường hợp này, dữ liệu không bị mất và có thể được khôi phục khi đồng bộ đang hoạt động. Hãy kiểm tra mọi người dùng máy khách OneNote đã sử dụng để xác định xem bất kỳ ai trong số chúng Hiển thị lỗi cho sổ tay và nếu có lỗi, hãy xem [khắc phục sự cố khi bạn không thể đồng bộ OneNote](https://support.office.com/article/299495ef-66d1-448f-90c1-b785a6968d45).
 
-- Trong OneNote cho Windows 10, một biểu tượng cảnh báo hình tam giác màu vàng có nhiều khả năng sẽ được hiển thị bên cạnh máy tính xách tay.
-- Trong OneNote năm 2016, nhấp chuột phải vào tên máy tính xách tay dưới các ribbon và bấm vào "Trạng thái đồng bộ của máy tính xách tay"
-- Trong OneNOte cho Mac, hãy kiểm tra cho một dấu chấm than màu vàng gần biểu tượng máy tính xách tay
-- Trong OneNote cho iPhone, điều hướng đến máy tính xách tay của bạn và nhấp vào nút hành động trong góc trên bên phải
-- Trong OneNote cho Android, điều hướng đến nhiều lỗi đồng bộ hóa máy tính xách tay->View
+- Trong OneNote for Windows 10, một biểu tượng cảnh báo hình tam giác màu vàng sẽ có thể được hiển thị bên cạnh sổ ghi chép.
+- Trong OneNote 2016, bấm chuột phải vào tên sổ tay bên dưới dải băng, rồi bấm "trạng thái đồng bộ sổ ghi chép"
+- Trong OneNOte for Mac, hãy kiểm tra dấu chấm than màu vàng gần biểu tượng sổ ghi chép
+- Trong OneNote for iPhone, dẫn hướng đến sổ ghi chép của bạn, rồi bấm vào nút hành động ở góc trên bên phải
+- Trong OneNote for Android, dẫn hướng đến thêm sổ tay->xem lỗi đồng bộ
 
-Làm theo các bước trong [tìm thấy ghi chú của tôi bị mất](https://support.office.com/article/32cb2bd7-afe7-44d2-a711-398a88421287) để tìm kiếm, đồng bộ tập tin của bạn, hoặc phục hồi các ghi chú của bạn.
+Làm theo các bước trong mục [Tìm các ghi chú bị mất của tôi](https://support.office.com/article/32cb2bd7-afe7-44d2-a711-398a88421287) để tìm kiếm, đồng bộ tệp của bạn, hoặc khôi phục ghi chú của tôi.
 
-Nếu bạn đang sử dụng OneNote 2016, bạn có thể [khôi phục](https://support.office.com/article/32ed1036-74fd-4c21-bc28-033a486e6b14) đã bị xóa ghi chú từ bản sao lưu.
+Nếu bạn đang sử dụng OneNote 2016, bạn có thể [khôi phục các ghi chú đã xóa](https://support.office.com/article/32ed1036-74fd-4c21-bc28-033a486e6b14) khỏi các bản sao lưu.

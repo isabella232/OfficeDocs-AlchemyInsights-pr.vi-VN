@@ -1,11 +1,12 @@
 ---
-title: 1245-nhập PST-dịch vụ
+title: 1245-nhập-PST-dịch vụ
 ms.author: markjjo
 author: markjjo
 manager: lauraw
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,27 +14,27 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 054203a196fc9ea7157a3eb2c99efc6f98a191aa
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: a4c7ed707853cd4d99db4b5a3d630df343a1ffe0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44502557"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47664084"
 ---
-# <a name="microsoft-365-import-service"></a>Microsoft 365 dịch vụ nhập khẩu
+# <a name="microsoft-365-import-service"></a>Dịch vụ nhập Microsoft 365
 
-Dịch vụ Microsoft 365 nhập cho phép bạn nhập hàng loạt PST nhiều tệp vào hộp thư Exchange Online.
+Dịch vụ nhập Microsoft 365 cho phép bạn nhập nhiều tệp PST vào hộp thư Exchange Online.
 
-Để truy cập vào dịch vụ nhập và bắt đầu quá trình nhập:
+Để truy nhập vào dịch vụ nhập và bắt đầu quy trình nhập:
 
-1. Truy cập vào [Trung tâm bảo mật & tuân thủ](https://protection.office.com) và đăng nhập bằng thông tin đăng nhập cho tài khoản quản trị viên trong tổ chức của bạn.
+1. Đi đến [Trung tâm tuân thủ bảo mật &](https://protection.office.com) và đăng nhập bằng thông tin xác thực cho tài khoản người quản trị trong tổ chức của bạn.
 
-2. Trong ngăn bên trái của **Trung tâm bảo mật & tuân thủ**, bấm **quản trị dữ liệu > nhập**.
+2. Trong ngăn bên trái của **Trung tâm tuân thủ & bảo mật**, hãy bấm vào **quản trị dữ liệu > nhập**.
 
-3. Trên trang **nhập** , bấm vào **công việc nhập mới**.
+3. Trên trang **nhập** , hãy bấm vào **công việc nhập mới**.
 
-4. Để hoàn tất các bước trong thuật sĩ, hãy làm theo các [hướng dẫn](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email)từng bước này.
+4. Để hoàn tất các bước trong trình hướng dẫn, vui lòng làm theo các [hướng dẫn từng bước](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email)này.
 
-**Quan trọng**: để truy cập vào trang **nhập khẩu** trong trung tâm bảo mật & tuân thủ, bạn đã được gán [các quyền thích hợp](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email).
+**Quan trọng**: để truy nhập trang **nhập** trong trung tâm tuân thủ & bảo mật, bạn được gán  [quyền phù hợp](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email).
 
-Nếu bạn chỉ muốn nhập một PST vào hộp thư của bạn, hãy xem [bài viết này](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac).
+Nếu bạn chỉ muốn nhập một PST vào hộp thư của mình, hãy xem [bài viết này](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac).
