@@ -1,11 +1,12 @@
 ---
-title: 763 chặn truy cập Exchange Online PowerShell cho người dùng
+title: 763 chặn truy nhập vào Exchange Online PowerShell cho người dùng
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,18 +14,18 @@ ms.custom:
 - "763"
 - "3500011"
 ms.assetid: fcaafe9d-80ee-404b-9a70-00bc4aa5e28a
-ms.openlocfilehash: a9d967032c0b2f13f8c33b989077897c0f3ae20d
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 8ac61cb2c1e055c67538e39e8459b3eb56c95592
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43712265"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47685548"
 ---
-# <a name="blocking-exchange-online-powershell-access-for-users"></a><span data-ttu-id="7a1e3-102">Chặn truy cập Exchange Online PowerShell cho người dùng</span><span class="sxs-lookup"><span data-stu-id="7a1e3-102">Blocking Exchange Online PowerShell access for users</span></span>
-<span data-ttu-id="7a1e3-103">Là quản trị viên, bạn có khả năng chặn truy cập vào Exchange Online PowerShell cho người dùng của bạn.</span><span class="sxs-lookup"><span data-stu-id="7a1e3-103">As an admin, you have the ability to block access to Exchange Online PowerShell for your users.</span></span> <span data-ttu-id="7a1e3-104">Để biết thêm thông tin, xem các chủ đề:</span><span class="sxs-lookup"><span data-stu-id="7a1e3-104">For more information, see these topics:</span></span>
+# <a name="blocking-exchange-online-powershell-access-for-users"></a><span data-ttu-id="68a1a-102">Chặn truy nhập vào Exchange Online PowerShell cho người dùng</span><span class="sxs-lookup"><span data-stu-id="68a1a-102">Blocking Exchange Online PowerShell access for users</span></span>
+<span data-ttu-id="68a1a-103">Với tư cách là người quản trị, bạn có thể chặn quyền truy nhập vào Exchange Online PowerShell cho người dùng của mình.</span><span class="sxs-lookup"><span data-stu-id="68a1a-103">As an admin, you have the ability to block access to Exchange Online PowerShell for your users.</span></span> <span data-ttu-id="68a1a-104">Để biết thêm thông tin, hãy xem các chủ đề sau:</span><span class="sxs-lookup"><span data-stu-id="68a1a-104">For more information, see these topics:</span></span>
 
-- [<span data-ttu-id="7a1e3-105">Bật hoặc tắt quyền truy cập vào Exchange Online PowerShell</span><span class="sxs-lookup"><span data-stu-id="7a1e3-105">Enable or disable access to Exchange Online PowerShell</span></span>](https://docs.microsoft.com/powershell/exchange/exchange-online/disable-access-to-exchange-online-powershell)
+- [<span data-ttu-id="68a1a-105">Bật hoặc tắt quyền truy nhập vào Exchange Online PowerShell</span><span class="sxs-lookup"><span data-stu-id="68a1a-105">Enable or disable access to Exchange Online PowerShell</span></span>](https://docs.microsoft.com/powershell/exchange/exchange-online/disable-access-to-exchange-online-powershell)
 
-- <span data-ttu-id="7a1e3-106">[Quy tắc truy cập máy khách trong Exchange Online](https://technet.microsoft.com/library/mt842508.aspx) (tìm giao thức **remotepowershell** )</span><span class="sxs-lookup"><span data-stu-id="7a1e3-106">[Client Access Rules in Exchange Online](https://technet.microsoft.com/library/mt842508.aspx) (look for the **RemotePowerShell** protocol)</span></span> 
+- <span data-ttu-id="68a1a-106">[Quy tắc truy nhập máy khách trong Exchange Online](https://technet.microsoft.com/library/mt842508.aspx) (tìm kiếm giao thức **remotepowershell** )</span><span class="sxs-lookup"><span data-stu-id="68a1a-106">[Client Access Rules in Exchange Online](https://technet.microsoft.com/library/mt842508.aspx) (look for the **RemotePowerShell** protocol)</span></span> 
 
-<span data-ttu-id="7a1e3-107">**Lưu ý**: như mô tả trong chủ đề, hãy cẩn thận không chặn truy cập vào Exchange Online PowerShell cho quản trị viên.</span><span class="sxs-lookup"><span data-stu-id="7a1e3-107">**Note**: As the described in the topic, be careful not to block access to Exchange Online PowerShell for admins.</span></span>
+<span data-ttu-id="68a1a-107">**Lưu ý**: khi được mô tả trong chủ đề, hãy cẩn thận không chặn quyền truy nhập vào Exchange Online PowerShell dành cho người quản trị.</span><span class="sxs-lookup"><span data-stu-id="68a1a-107">**Note**: As the described in the topic, be careful not to block access to Exchange Online PowerShell for admins.</span></span>
