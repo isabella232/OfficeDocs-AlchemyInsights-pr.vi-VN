@@ -1,34 +1,35 @@
 ---
-title: Liên kết trang web trung tâm
+title: Liên kết site Hub
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "5300012"
 - "1012"
-ms.openlocfilehash: 99a48d68c7ef6bcd21ef2a063f28532617bc2d5f
-ms.sourcegitcommit: 82af227ac6d075e748e27c4ce6bdcf56628559cb
+ms.openlocfilehash: dc81648caee1d824e525c73c9d7a90b9e1490e21
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/28/2020
-ms.locfileid: "44407300"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47715763"
 ---
-# <a name="associate-existing-site-with-a-hub-site"></a>Liên kết trang web hiện có với trang web trung tâm
+# <a name="associate-existing-site-with-a-hub-site"></a>Liên kết site hiện có với site Hub
 
-Để liên kết một trang web hiện có với trang web trung tâm của bạn, hãy làm như sau:
+Để liên kết site hiện có với site Hub của bạn, hãy làm như sau:
   
-1. Trên trang web của bạn, chọn **cài đặt** (biểu tượng bánh răng ở góc trên cùng bên phải), sau đó chọn **thông tin trang web**.
+1. Trên trang của bạn, hãy chọn **thiết đặt** (biểu tượng bánh răng ở góc trên bên phải), rồi chọn **thông tin site**.
 
-2. Trong bảng **chỉnh sửa thông tin trang web** , trong menu liên kết **trang web trung tâm** , chọn trang web trung tâm mà bạn muốn liên kết với trang web của mình, sau đó bấm vào **lưu**. Giao diện trang web của bạn sẽ thay đổi để phù hợp với trang web trung tâm và thanh điều hướng trang web trung tâm sẽ xuất hiện ở trên cùng.
+2. Trong Pa-nen **sửa thông tin site** , trong menu **Hub site Association** , chọn site Hub mà bạn muốn liên kết với site của bạn, rồi bấm **lưu**. Giao diện trang web của bạn sẽ thay đổi thành khớp với site Hub và thanh dẫn hướng site Hub sẽ xuất hiện ở trên cùng.
 
->**Lưu ý**
+>**Yù**
 >
->Nếu tùy chọn liên kết trang web trung tâm không có hoặc không có trang web được liệt kê ở đó, các trang web trung tâm có thể không được kích hoạt hoặc bạn có thể không có quyền liên kết các trang web với một trang web trung tâm. Liên hệ với quản trị viên của bạn để biết thêm thông tin.
+>Nếu tùy chọn Hub site Association không hiện diện hoặc không có site nào được liệt kê ở đó, thì site Hub có thể không được bật hoặc bạn có thể không có quyền liên kết các site với site Hub. Liên hệ với người quản trị của bạn để biết thêm thông tin.
 >
->Không có giới hạn về số lượng trang web có thể được liên kết với một trang web trung tâm.
+>Không có giới hạn số lượng site có thể được liên kết với site Hub.
   

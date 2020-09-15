@@ -1,25 +1,26 @@
 ---
-title: Gán quản trị viên Microsoft Stream
+title: Gán người quản trị của Microsoft Stream
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002469"
 - "4805"
-ms.openlocfilehash: 44fcd9d4d7b51df93ec87de447d5a7279471b547
-ms.sourcegitcommit: c22283bf54a23cc3989e9a77271e725980eec9e0
+ms.openlocfilehash: 2d9e47be71d36e7cfa036fe9d158e555329863d5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43796003"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47716051"
 ---
-# <a name="assign-microsoft-stream-admins"></a>Gán quản trị viên Microsoft Stream
+# <a name="assign-microsoft-stream-admins"></a>Gán người quản trị của Microsoft Stream
 
-Để gán vai trò quản trị viên luồng, bạn phải có vai trò quản trị viên toàn cầu Office 365. Để biết thêm thông tin, hãy xem:
+Để gán cho người dùng vai trò quản trị Stream, bạn phải có vai trò quản trị toàn cầu của Office 365. Để biết thêm thông tin, hãy xem:
 
-- [Gán quản trị viên Microsoft Stream](https://docs.microsoft.com/stream/assign-administrator-user-role)
+- [Gán người quản trị của Microsoft Stream](https://docs.microsoft.com/stream/assign-administrator-user-role)

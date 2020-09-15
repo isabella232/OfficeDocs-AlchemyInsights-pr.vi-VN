@@ -1,25 +1,26 @@
 ---
-title: Sao lưu các thư mục tài liệu, ảnh và máy tính để bàn bằng OneDrive
+title: Sao lưu tài liệu, ảnh và thư mục trên máy tính của bạn bằng OneDrive
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003078"
 - "5853"
-ms.openlocfilehash: 9c092f729bbd36f5b34aa983edb2d18583e4a04c
-ms.sourcegitcommit: 3ca312535d950105ee829e037f0ff8f1ddbbae72
+ms.openlocfilehash: 16b8d889017025eaaa0ce2474442354418f24801
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/11/2020
-ms.locfileid: "44708483"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47714854"
 ---
-# <a name="back-up-your-documents-pictures-and-desktop-folders-with-onedrive"></a>Sao lưu các thư mục tài liệu, ảnh và máy tính để bàn bằng OneDrive
+# <a name="back-up-your-documents-pictures-and-desktop-folders-with-onedrive"></a>Sao lưu tài liệu, ảnh và thư mục trên máy tính của bạn bằng OneDrive
 
-Bạn có thể sao lưu các [thư mục quan trọng của](https://support.office.com/article/d61a7930-a6fb-4b95-b28a-6552e77c3057) mình (các thư mục máy tính để bàn, tài liệu và ảnh) trên PC chạy Windows với tính Tính năng này chưa có sẵn cho Mac.  
+Bạn có thể [sao lưu các thư mục quan trọng](https://support.office.com/article/d61a7930-a6fb-4b95-b28a-6552e77c3057)  (máy tính, tài liệu và thư mục hình ảnh) trên PC chạy Windows của bạn với bản sao lưu thư mục OneDrive trên máy tính, để chúng được bảo vệ và sẵn dùng trên các thiết bị khác. Tính năng này chưa khả dụng cho máy Mac.  
 
-Nếu bạn là quản trị viên CNTT muốn quản lý sao lưu các thư mục quan trọng cho một tổ chức, có hướng dẫn cho triển [khai di chuyển thư mục đã biết OneDrive](https://docs.microsoft.com/onedrive/redirect-known-folders).
+Nếu bạn là người quản trị CNTT muốn quản lý sao lưu các thư mục quan trọng cho một tổ chức, có hướng dẫn cho việc [di chuyển thư mục đã biết trong OneDrive](https://docs.microsoft.com/onedrive/redirect-known-folders).

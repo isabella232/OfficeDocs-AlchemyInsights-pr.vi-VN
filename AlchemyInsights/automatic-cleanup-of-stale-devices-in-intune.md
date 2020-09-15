@@ -6,37 +6,38 @@ manager: scotv
 ms.date: 07/28/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1285"
 - "6700008"
-ms.openlocfilehash: 874ee290c59df3b5de1421369484a1a5a0ff7be4
-ms.sourcegitcommit: 0e50dfcdb3f6aa72368279e23b83efecb9dc9c3f
+ms.openlocfilehash: 49a15132253c59189e343aeaa1c11d450b344896
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "46555739"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47715043"
 ---
 # <a name="automatic-cleanup-of-stale-devices-in-intune"></a>Tự động dọn dẹp các thiết bị cũ trong InTune
 
-InTune cho phép quản trị viên để cấu hình một khoảng thời gian giữa 90 và 270 ngày, sau đó các thiết bị cũ được loại bỏ khỏi Dịch vụ. Thiết lập này là tổ chức rộng và một khi kích hoạt đi vào hiệu lực ngay lập tức. Bất kỳ thiết bị nào không được kiểm tra vào máy chủ InTune trong một khoảng thời gian vượt quá cài đặt sẽ bị xóa vĩnh viễn.
+InTune cho phép người quản trị cấu hình khoảng thời gian giữa 90 và 270 ngày, sau khi các thiết bị cũ được loại bỏ khỏi Dịch vụ. Thiết đặt này là tổ chức rộng và đã kích hoạt một lần sẽ có hiệu lực ngay lập tức. Mọi thiết bị không được kiểm nhập vào máy chủ InTune trong một khoảng thời gian vượt quá thiết đặt sẽ bị xóa vĩnh viễn.
 
-**Lưu ý** Chỉ MDM thiết bị đối tượng đủ điều kiện cho hành động dọn dẹp này. EAS chỉ đối tượng thiết bị được loại trừ.
+**Ghi chú** Chỉ các đối tượng thiết bị MDM đủ điều kiện cho hành động dọn dẹp này. Chỉ các đối tượng của thiết bị EAS được loại trừ.
 
-Để biết thêm thông tin về khi thiết bị đủ điều kiện để xóa dựa trên cài đặt thiết bị dọn dẹp và "trạng thái":
+Để biết thêm thông tin về khi thiết bị trở nên đủ điều kiện để xóa căn cứ theo thiết đặt thiết bị dọn dẹp và trạng thái "của bạn":
 
-Cài đặt: **xóa thiết bị sau ngày Check-in cuối cùng: có (một số giá trị (N) trong ngày đã chỉ định)**
+Thiết đặt: **xóa các thiết bị sau ngày kiểm nhập lần cuối: có (một số giá trị (N) trong các ngày đã xác định)**
 
-- Dựa trên giá trị (N) được cấu hình trong cài đặt, Dịch vụ InTune xoá thiết bị trong những ngày được chỉ định sau khi nó cuối cùng kiểm tra thành công.
+- Dựa trên giá trị (N) được đặt cấu hình trong thiết đặt, Dịch vụ InTune sẽ xóa thiết bị trong những ngày cụ thể sau khi kiểm tra thành công lần cuối.
 
-Cài đặt: **xóa thiết bị sau ngày nhận phòng cuối cùng: không**
+Thiết đặt:  **xóa các thiết bị sau ngày kiểm nhập lần cuối: không có**
 
 - 180 ngày sau khi chứng chỉ thiết bị hết hạn và không được gia hạn, thiết bị sẽ bị xóa.
 
-**Lưu ý** Trong cả hai trường hợp, thiết bị phải được đăng ký thành công trong InTune. Đăng ký xảy ra trong thiết bị đầu tiên checkin với dịch vụ InTune.
+**Ghi chú** Trong cả hai trường hợp, thiết bị phải được đăng ký thành công trong InTune. Đăng ký xảy ra trong trình kiểm tra thiết bị đầu tiên với dịch vụ InTune.
 
-Nếu thiết bị ghi thành công để InTune nhưng không trở thành InTune đăng ký, thiết bị sẽ bị xóa 270 ngày sau khi đăng ký. (90 ngày để đánh dấu thiết bị như thu hồi, và sau đó một 180 ngày để xóa hồ sơ.)
+Nếu thiết bị đã được thực hiện thành công với InTune nhưng không trở thành InTune đã đăng ký, thiết bị sẽ bị xóa 270 ngày sau khi ghi danh. (90 ngày để đánh dấu thiết bị là thu hồi, rồi sau đó 180 ngày khác để xóa bản ghi.)
 
-Không có cơ chế nào tồn tại trong bảng điều khiển InTune để thiết lập ngày hết hạn của chứng nhận thiết bị cho bất kỳ thiết bị nào.
+Không có cơ chế hiện tại trong giao diện điều khiển InTune để thiết lập ngày hết hạn của chứng chỉ thiết bị cho bất kỳ thiết bị nào đã cho.
