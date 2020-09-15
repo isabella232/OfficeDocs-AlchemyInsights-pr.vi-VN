@@ -5,32 +5,33 @@ author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 6ecd33e81f9918c5b4baac8da264ad79773a20f9
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: d3af1cd3d4b22bf62c5748b16b605eaff225a5b4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40044225"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47670710"
 ---
-# <a name="site-and-page-navigation-in-sharepoint-sites"></a>Trang web và chuyển hướng trang trong các trang web SharePoint
+# <a name="site-and-page-navigation-in-sharepoint-sites"></a>Site và dẫn hướng trang trong site SharePoint
 
-Các nguyên tắc cơ bản và thực hành tốt cho trang web và điều hướng trang được áp dụng như nhau cho cả hai kiến trúc SharePoint cổ điển và hiện đại. Tuy nhiên, các tùy chọn để thực hiện điều hướng khác nhau dựa trên khuôn khổ cho trang web và mạng nội bộ của bạn. Ví dụ, kinh nghiệm điều hướng được thừa kế có sẵn trong cổ điển trang web SharePoint phân cấp (các trang web với các trang web nhỏ) không có sẵn trong kinh nghiệm hiện đại, nhưng [các trang web trung tâm](https://support.office.com/article/fe26ae84-14b7-45b6-a6d1-948b3966427f) mang đến một cách tuyệt vời để đạt được các tính năng điều hướng qua các trang web trước đây có sẵn trong quản lý điều hướng
+Các nguyên tắc cơ bản và các cách thực hành tốt cho trang web và dẫn hướng trang đều được áp dụng bằng nhau cho cả những kiến trúc SharePoint và hiện đại cổ điển. Tuy nhiên, các tùy chọn của bạn để thực hiện dẫn hướng khác nhau dựa trên khuôn khổ cho site và mạng nội bộ của bạn. Ví dụ: những trải nghiệm dẫn hướng kế thừa sẵn dùng trong cấu trúc phân cấp site SharePoint cổ điển (các site có site con) không sẵn dùng trong trải nghiệm hiện đại, nhưng [các site Hub](https://support.office.com/article/fe26ae84-14b7-45b6-a6d1-948b3966427f) cung cấp cách thức tuyệt vời để đạt được các tính năng dẫn hướng chéo trang sẵn dùng trong dẫn hướng và phân cấp site được quản lý trong Classic SharePoint.
 
- Để biết thêm thông tin về các tùy chọn điều hướng, vui lòng truy cập các liên kết dưới đây.
+ Để biết thêm thông tin về tùy chọn dẫn hướng, vui lòng truy cập các liên kết bên dưới.
 
- - [Lập kế hoạch điều hướng cho trải nghiệm SharePoint hiện đại](https://docs.microsoft.com/sharepoint/plan-navigation-modern-experience)
+ - [Lập kế hoạch dẫn hướng cho trải nghiệm SharePoint hiện đại](https://docs.microsoft.com/sharepoint/plan-navigation-modern-experience)
 
-- [Tùy chỉnh điều hướng trên trang web SharePoint của bạn](https://support.office.com/article/customize-the-navigation-on-your-sharepoint-site-3cd61ae7-a9ed-4e1e-bf6d-4655f0bf25ca)
+- [Tùy chỉnh dẫn hướng trên site SharePoint của bạn](https://support.office.com/article/customize-the-navigation-on-your-sharepoint-site-3cd61ae7-a9ed-4e1e-bf6d-4655f0bf25ca)
 
-- [Tùy chọn điều hướng cho SharePoint trực tuyến](https://docs.microsoft.com/office365/enterprise/navigation-options-for-sharepoint-online)
+- [Tùy chọn dẫn hướng cho SharePoint Online](https://docs.microsoft.com/office365/enterprise/navigation-options-for-sharepoint-online)
  
-- [Sắp xếp các trang web SharePoint của bạn với điều hướng megamenu](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Organize-your-SharePoint-sites-with-megamenu-navigation-and-new/ba-p/328068)
+- [Sắp xếp site SharePoint của bạn với dẫn hướng megamenu](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Organize-your-SharePoint-sites-with-megamenu-navigation-and-new/ba-p/328068)
 
-- [Siêu dữ liệu và điều hướng được quản lý trong SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/managed-metadata-and-navigation-in-sharepoint)
+- [Siêu dữ liệu và dẫn hướng được quản lý trong SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/managed-metadata-and-navigation-in-sharepoint)
 
 

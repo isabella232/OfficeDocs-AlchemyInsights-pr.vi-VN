@@ -1,10 +1,11 @@
 ---
-title: Chỉ đọc cho thông báo bảo trì khi cố gắng sử dụng SharePoint hoặc OneDrive
+title: Chỉ đọc cho thư bảo trì khi tìm cách dùng SharePoint hoặc OneDrive
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,33 +13,33 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: 02cf1aa7abae365a3d317af9e785648d1c1517e1
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: a3d313816beefcefa4d93528d3ad9a684e60390e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051303"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47670854"
 ---
-# <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>Chỉ đọc cho thông báo bảo trì khi cố gắng sử dụng SharePoint hoặc OneDrive
+# <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>Chỉ đọc cho thư bảo trì khi tìm cách dùng SharePoint hoặc OneDrive
 
-Người dùng có thể nhận được thông báo **bảo trì chỉ đọc** khi cố gắng sử dụng SharePoint hoặc OneDrive cho một trong các trường hợp sau. 
+Người dùng có thể nhận được thông báo **chỉ đọc để bảo trì** khi tìm cách sử dụng SharePoint hoặc OneDrive cho một trong các kịch bản sau đây. 
 
--   Một hoạt động bảo trì kế hoạch hoặc hoạt động.  Kiểm tra chúng bằng điều hướng đến [Trung tâm thông báo](https://portal.office.com/adminportal/home#/messagecenter).
--   Một sự cố dịch vụ ưu tiên cao, hoạt động có thể xảy ra. Kiểm tra bất kỳ lời khuyên/sự cố nào bằng việc điều hướng đến [dịch vụ y tế](https://portal.office.com/adminportal/home#/servicehealth).
--   Một tình huống khôi phục tự động chữa bệnh nhỏ có thể xảy ra do bất kỳ sự kiện bất ngờ trên các máy chủ có thể kéo ít hơn 30 phút hoặc lâu hơn. 
+-   Hoạt động bảo trì có lên kế hoạch hoặc hoạt động.  Kiểm tra chúng bằng cách dẫn hướng đến [Trung tâm thông báo](https://portal.office.com/adminportal/home#/messagecenter).
+-   Một sự cố dịch vụ có ưu tiên cao, hiện hoạt có thể xảy ra. Kiểm tra bất kỳ sự cố nào/sự cố bằng cách dẫn hướng đến trạng thái [dịch vụ](https://portal.office.com/adminportal/home#/servicehealth).
+-   Một kịch bản phục hồi tự động nhỏ có thể xảy ra do bất kỳ sự kiện bất ngờ nào trên các máy chủ có thể kéo dưới 30 phút trở lên. 
     
-    Không có trung tâm thông báo hoặc dịch vụ y tế bài viết cho các phục hồi nhỏ nhưng bạn nên trở lại bình thường rất sớm.
+    Không có trung tâm thông báo hoặc bài đăng trạng thái dịch vụ cho những recoback nhỏ nhưng bạn nên trở lại bình thường rất sớm.
 
-Trong những dịp rất ít chúng tôi quan sát thấy rằng một trong ba kịch bản được liệt kê ở trên đã được nguyên nhân, và dịch vụ đã được khôi phục, nhưng bộ nhớ cache của trình duyệt người dùng đã không được xóa.
+Trong những dịp mà chúng tôi quan sát thấy rằng một trong ba tình huống được liệt kê ở trên là nguyên nhân và dịch vụ đã được khôi phục, nhưng bộ đệm ẩn trình duyệt người dùng chưa được dọn dẹp.
 
-Hãy cố gắng xóa bộ nhớ cache của trình duyệt trước khi điều hướng đến trang web.
+Vui lòng tìm cách xóa bộ đệm ẩn của trình duyệt trước khi dẫn hướng đến trang.
 
-1. Trong trình duyệt Microsoft Edge, chọn **cài đặt**, sau đó chọn **quyền riêng tư và bảo mật**.
-2. Trong **xóa duyệt**, chọn **chọn nội dung cần xóa**.
-3. Chọn **cookie và dữ liệu trang web đã lưu**và chọn **xóa**.
-
->[!Note] 
-> Các bước này có thể khác nhau khi sử dụng các trình duyệt khác như Mozilla Firefox hoặc Google Chrome.
+1. Trong trình duyệt Microsoft Edge của bạn, chọn **thiết đặt**, rồi chọn **quyền riêng tư và bảo mật**.
+2. Trong phần **xóa bỏ duyệt**, chọn **chọn những điều cần xóa**.
+3. Chọn **cookie và dữ liệu website đã lưu**, rồi chọn **xóa**.
 
 >[!Note] 
-> Một tùy chọn khác sẽ là mở trang web SharePoint của bạn hoặc OneDrive trong một cửa sổ InPrivate mới.
+> Các bước này có thể khác nhau khi sử dụng các trình duyệt khác chẳng hạn như Mozilla Firefox hoặc Google Chrome.
+
+>[!Note] 
+> Một tùy chọn khác sẽ là mở site SharePoint hoặc OneDrive của bạn trong cửa sổ InPrivate mới.

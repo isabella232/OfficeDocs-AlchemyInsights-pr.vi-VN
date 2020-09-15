@@ -5,29 +5,30 @@ author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: 42435d6970a71b57f16188ce6c92b0471e7121f3
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 0d2d73fd425e213289b627703c987c2e9a987e55
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051339"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47670926"
 ---
-# <a name="problems-opening-office-files-from-sharepoint"></a>Sự cố mở tệp Office từ SharePoint
+# <a name="problems-opening-office-files-from-sharepoint"></a>Các sự cố khi mở tệp Office từ SharePoint
 
-Nếu bạn gặp sự cố mở tệp Office và tài liệu từ SharePoint trong máy khách Office cục bộ của bạn, vui lòng đánh giá các liên kết bên dưới. 
+Nếu bạn gặp sự cố khi mở tệp và tài liệu Office từ SharePoint trong máy khách Office cục bộ của bạn, vui lòng xem lại các nối kết dưới đây. 
 
-- [Kiểm tra các giới hạn tệp để đảm bảo tệp được hỗ trợ](https://support.office.com/article/Invalid-file-names-and-file-types-in-OneDrive-OneDrive-for-Business-and-SharePoint-64883a5d-228e-48f5-b3d2-eb39e07630fa).
+- [Kiểm tra các hạn chế tệp để đảm bảo tệp được hỗ trợ](https://support.office.com/article/Invalid-file-names-and-file-types-in-OneDrive-OneDrive-for-Business-and-SharePoint-64883a5d-228e-48f5-b3d2-eb39e07630fa).
 
-- [Xóa bộ nhớ cache tài liệu văn phòng của bạn](https://support.office.com/article/Delete-your-Office-Document-Cache-b1d3765e-d71b-4bb8-99ca-acd22c42995d).
+- [Xóa bộ đệm ẩn tài liệu Office của bạn](https://support.office.com/article/Delete-your-Office-Document-Cache-b1d3765e-d71b-4bb8-99ca-acd22c42995d).
 
-- [Chạy một sửa chữa trên Office](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).
+- [Chạy sửa chữa trên Office](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).
 
-Để biết thêm thông tin hoặc chi tiết, vui lòng tham khảo bài viết, [khắc phục sự cố mở tài liệu trong thư viện SharePoint](https://support.office.com/article/Fix-problems-opening-documents-in-SharePoint-libraries-31329FA1-4AD0-47FC-95D8-BB0C5B12A536).
+Để biết thêm thông tin hoặc chi tiết, vui lòng tham khảo bài viết, [khắc phục sự cố khi mở tài liệu trong thư viện SharePoint](https://support.office.com/article/Fix-problems-opening-documents-in-SharePoint-libraries-31329FA1-4AD0-47FC-95D8-BB0C5B12A536).
 
-**Lưu ý:** Nếu bạn đang gặp vấn đề với các tài liệu mở trong trình duyệt hoặc khách hàng theo mặc định, bạn có thể cần phải thay đổi cài đặt thư viện. Để thực hiện việc này, điều hướng đến thư viện có vấn đề > biểu tượng bánh răng ở góc trên bên phải > >  thiết **đặt thư viện** > cài**đặt nâng cao****mở tài liệu trong trình duyệt**.
+**Lưu ý:** Nếu bạn đang gặp sự cố với tài liệu đang mở trong trình duyệt hoặc máy khách theo mặc định, bạn có thể cần thay đổi thiết đặt thư viện. Để thực hiện điều này, hãy dẫn hướng đến thư viện gặp vấn đề > biểu tượng bánh răng ở góc trên bên phải > thiết đặt **Thư viện**  >   **nâng cao thiết đặt**  >  **mở tài liệu trong trình duyệt**.
 
