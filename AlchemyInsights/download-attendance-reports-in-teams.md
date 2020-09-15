@@ -1,27 +1,28 @@
 ---
-title: Tải xuống báo cáo tham gia trong teams
+title: Tải xuống báo cáo về khán giả trong nhóm
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002973"
 - "5687"
-ms.openlocfilehash: d11f8114595b8201cfdd1bdf6c925097aee185cb
-ms.sourcegitcommit: dc149ab45fbc2c974b54fb81156d2bc1b07017bb
+ms.openlocfilehash: cf2f1852112fa28d209e2929bda23318e9b545af
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44569421"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47712134"
 ---
-# <a name="download-attendance-reports-in-teams"></a>Tải xuống báo cáo tham gia trong teams
+# <a name="download-attendance-reports-in-teams"></a>Tải xuống báo cáo về khán giả trong nhóm
 
-Tổ chức cuộc họp có thể tải xuống báo cáo tham gia trong cuộc họp. Là quản trị viên, bạn kiểm soát xem người tổ chức cuộc họp có thể tải xuống báo cáo tham dự cuộc họp bằng cách đặt chính sách cuộc họp teams. Theo mặc định, khả năng tải xuống báo cáo bị tắt. Để biết các bước về cách bật tính năng này, hãy xem [cài đặt chính sách cuộc họp-báo cáo tham dự cuộc họp](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#meeting-policy-settings---meeting-attendance-report).
+Người tổ chức cuộc họp có thể tải xuống báo cáo người dự trong các cuộc họp. Với tư cách là người quản trị, bạn kiểm soát việc người tổ chức cuộc họp có thể tải xuống báo cáo dự cuộc họp bằng cách đặt chính sách cuộc họp nhóm. Theo mặc định, khả năng tải xuống báo cáo đã bị tắt. Để biết các bước về cách bật tính năng này, hãy xem  [thiết đặt chính sách cuộc họp-báo cáo tham gia cuộc](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#meeting-policy-settings---meeting-attendance-report)họp.
 
-Một khi điều này được kích hoạt, trong cuộc họp, tổ chức cuộc họp có thể chọn **Hiển thị người tham gia** và chọn **tải xuống danh sách**khách. Để biết thêm thông tin, vui lòng xem báo cáo [tham gia tải xuống trong teams](https://support.office.com/article/download-attendance-reports-in-teams-ae7cf170-530c-47d3-84c1-3aedac74d310) và [Microsoft teams cuộc họp](https://docs.microsoft.com/microsoftteams/teams-analytics-and-reports/meeting-attendance-report).
+Sau khi tính năng này được bật, trong cuộc họp, người tổ chức cuộc họp có thể chọn  **Hiển thị người tham gia**  và chọn  **danh sách người dự tải xuống**. Để biết thêm thông tin vui lòng xem [tải xuống báo cáo về khán giả trong nhóm](https://support.office.com/article/download-attendance-reports-in-teams-ae7cf170-530c-47d3-84c1-3aedac74d310) và [báo cáo dự cuộc họp nhóm Microsoft](https://docs.microsoft.com/microsoftteams/teams-analytics-and-reports/meeting-attendance-report).
 
-**Quan trọng**: bạn sẽ chỉ có thể tải xuống báo cáo tham dự trong khi cuộc họp đang diễn ra và người tham gia vẫn có mặt.
+**Quan trọng**: bạn sẽ chỉ có thể tải xuống báo cáo người dự trong khi cuộc họp đang diễn ra và người dự vẫn đang trình bày.

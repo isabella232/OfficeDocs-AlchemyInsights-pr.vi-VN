@@ -1,42 +1,43 @@
 ---
-title: Como Pagar com boleto
+title: Bộ boleto com
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001213"
 - "3187"
-ms.openlocfilehash: a2199bfa7cf419fccb2951c0471c84e2a6683aa0
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: 58c7e52d9e81d3e7e98479d868b8c6bcdd0f7ed7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43183301"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47713765"
 ---
-# <a name="como-pagar-com-boleto"></a>Como Pagar com boleto
+# <a name="como-pagar-com-boleto"></a>Bộ boleto com
 
 **Como Pagar Minha fatura**
 
-Você Pode Pagar Sua fatura com boleto bancário ou transferência bancária Eletrônica.
+Từ điển Pode Pagar Sua fatura com boleto bancário ou transferência bancária Eletrônica.
 
-**Como Pagar com boleto**
+**Bộ boleto com**
 
-Ao escolher esta opção de pagamento, você receberá o boleto em Seu e-mail em até 10 Dias úteis após một dữ liệu làm pedido. Esse boleto terá vencimento de 30 Dias após một dữ liệu làm pedido e Pode Ser Pago em Umm Banco, Correios, Casa lotérica e alguns supermercados.
+Hàm escolher esta opção de pagamento, você receberá o boleto em Seu email em até 10 Dias úteis após a data do pedido. Esse boleto terá vencimento de 30 Dias após một dữ liệu do pedido e Pode Ser Pago em UM Banco, Correios, Casa lotérica e alguns supermercados.
 
-- Escolha một FORMA de pagamento "Fatura-pagamento com Boleto Bancário."
+- Escolha a FORMA de pagamento "Fatura-pagamento com Boleto Bancário."
 
-- Você receberá UM e-mail com informacões sobre Sua Fatura.
+- Thông tin về danh bơn, thông tin UM email về informacões sobre Sua Fatura.
 
-- Você receberá Sua Fatura Por e-mail.
+- Từ bỏ qua các cuộc gọi qua email của Sua Fatura Por.
 
 - Em até 10 Dias úteis após Sua Compra, você receberá o Boleto para pagamento.
 
-- O vencimento do Boleto Será em 30 Dias da dữ liệu da Compra.
+- O vencimento do Boleto Será em 30 Dias da dữ liệu Compra.
 
-- Caso não receba o boleto em até 10 Dias, Entre em voadores com Nosso suporte.
+- Caso não receba o Boleto em até 10 Dias, Entre em contato com Nosso Suporte.
 

@@ -1,10 +1,11 @@
 ---
-title: Kết nối trang web SharePoint với nhóm
+title: Kết nối site SharePoint với nhóm
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -13,21 +14,21 @@ ms.custom:
 - "5747"
 - "5200004"
 - "5767"
-ms.openlocfilehash: 1c724a131d42aa2e217b7018ed6b414cb3440a99
-ms.sourcegitcommit: dc149ab45fbc2c974b54fb81156d2bc1b07017bb
+ms.openlocfilehash: f2276ad3dcdc0426bbd255b7d07f2b9a74927bec
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44515651"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47713332"
 ---
-# <a name="connect-a-sharepoint-site-to-a-group"></a>Kết nối trang web SharePoint với nhóm
+# <a name="connect-a-sharepoint-site-to-a-group"></a>Kết nối site SharePoint với nhóm
 
-Sử dụng thuật sĩ nhóm kết nối để kết nối một trang web SharePoint nhóm Microsoft 365.
+Sử dụng trình hướng dẫn kết nối nhóm để kết nối một site SharePoint với nhóm Microsoft 365.
 
-1. Từ trang web mà bạn muốn kết nối với một nhóm, hãy chọn **cài đặt (biểu tượng bánh răng)**.
-2. Chọn **kết nối với nhóm Microsoft 365 mới**.
-3. Làm theo hướng dẫn để hoàn tất kết nối.
+1. Từ trang bạn muốn kết nối với một nhóm, hãy chọn  **thiết đặt (biểu tượng bánh răng)**.
+2. Chọn  **kết nối với nhóm Microsoft 365 mới**.
+3. Làm theo trình hướng dẫn để hoàn tất việc kết nối.
 
-**Lưu ý:**  Nếu kết nối với Microsoft 365 nhóm mới không khả dụng, trang web sẽ không hỗ trợ kết nối nhóm.
+**Lưu ý:**  Nếu kết nối với nhóm Microsoft 365 mới không sẵn dùng, site sẽ không hỗ trợ kết nối nhóm.
 
-Để biết thêm thông tin, xem [kết nối với một nhóm Office 365](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group).
+Để biết thêm thông tin, hãy xem  [kết nối với một nhóm Office 365](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group).
