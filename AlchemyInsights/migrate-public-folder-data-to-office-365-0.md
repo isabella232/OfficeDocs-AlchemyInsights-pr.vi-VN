@@ -1,32 +1,33 @@
 ---
-title: Di chuyển dữ liệu thư mục chung sang Microsoft 365
+title: Di chuyển dữ liệu thư mục công cộng sang Microsoft 365
 ms.author: dmaguire
 author: msdmaguire
 manager: dansimp
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "639"
 - "3500007"
 ms.assetid: 6e536c7d-ab36-413e-9702-63e51adb3452
-ms.openlocfilehash: ab54d84f921f9cd2aa895e8a9684c638bde69838
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 778caff63db2c61c07f510309754681c3cab2c56
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912244"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47674636"
 ---
-# <a name="migrate-public-folder-data-to-microsoft-365"></a>Di chuyển dữ liệu thư mục chung sang Microsoft 365
+# <a name="migrate-public-folder-data-to-microsoft-365"></a>Di chuyển dữ liệu thư mục công cộng sang Microsoft 365
 
-Nếu bạn không có nhiều thư mục công cộng để đưa vào Microsoft 365, cách dễ nhất để mang lại cho họ sẽ được sao chép dữ liệu vào. PST tập tin và sau đó nhập chúng vào Microsoft 365. Đối với một lượng nhỏ dữ liệu, một đơn giản kéo và thả thư mục công cộng vào một. PST tập tin có thể là đủ. Nếu bạn có nhiều dữ liệu hơn (lên đến 30GB), chúng tôi đã [ghi lại một quá trình](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) mà bạn có thể sử dụng để xuất khẩu thư mục để PST tập tin.
+Nếu bạn không có nhiều thư mục công cộng để đưa vào Microsoft 365, cách dễ dàng nhất để mang lại sẽ sao chép dữ liệu vào đó. Tệp PST và sau đó nhập chúng vào Microsoft 365. Đối với một lượng nhỏ dữ liệu, một cách đơn giản, kéo và thả thư mục công cộng thành a. Tệp PST có thể đủ. Nếu bạn có nhiều dữ liệu hơn (lên đến 30GB), chúng tôi đã [ghi lại một quy trình](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) mà bạn có thể dùng để xuất các thư mục vào các tệp PST.
   
-Đối với các tổ chức lớn đang di chuyển thư mục công cộng vào Microsoft 365, chúng tôi có hướng dẫn sẵn:
+Đối với các tổ chức lớn hơn, những người đang di chuyển các thư mục công cộng vào Microsoft 365, chúng tôi có các hướng dẫn sẵn dùng:
   
-- [Di chuyển thư mục công cộng hợp lệ](https://docs.microsoft.com/exchange/collaboration-exo/public-folders/batch-migration-of-legacy-public-folders) (Exchange 2010)
+- [Di chuyển các thư mục công cộng kế thừa](https://docs.microsoft.com/exchange/collaboration-exo/public-folders/batch-migration-of-legacy-public-folders) (Exchange 2010)
 
-- [Di chuyển Exchange 2013, Exchange 2016 hoặc Exchange 2019 thư mục công cộng](https://docs.microsoft.com/Exchange/collaboration/public-folders/migrate-to-exchange-online)
+- [Di chuyển Exchange 2013, Exchange 2016 hoặc các thư mục công cộng trong Exchange 2019](https://docs.microsoft.com/Exchange/collaboration/public-folders/migrate-to-exchange-online)
 
-Bạn cũng có tùy chọn để [di chuyển thư mục công cộng cho Microsoft 365 nhóm](https://docs.microsoft.com/Exchange/collaboration/public-folders/migrate-to-office-365-groups).
+Bạn cũng có thể tùy chọn [di chuyển các thư mục công cộng sang nhóm Microsoft 365](https://docs.microsoft.com/Exchange/collaboration/public-folders/migrate-to-office-365-groups).
   

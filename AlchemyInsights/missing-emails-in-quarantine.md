@@ -5,37 +5,38 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "5668"
 - "9002625"
-ms.openlocfilehash: 61a926c363c62bc7acb5efefe42b834f33c78eb6
-ms.sourcegitcommit: 8fdcd2acd31e8a4b9a8a0b91674f397d2f7889c1
+ms.openlocfilehash: 55ed9a92675939c05477fbf6d12bbedd6eb931d6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "44569565"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47673736"
 ---
-# <a name="missing-emails-in-quarantine"></a>Thiếu email trong kiểm dịch "
+# <a name="missing-emails-in-quarantine"></a>Thiếu email trong cách ly "
 
-Quản trị viên có thể [xem, phát hành hoặc xoá các thư này.](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files?view=o365-worldwide)
+Người quản trị có thể [xem, phát hành hoặc xóa các thư này.](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files?view=o365-worldwide)
 
-Để mở Trung tâm tuân thủ & bảo mật, hãy chuyển đến [https://protection.office.com](https://protection.office.com/) . Để mở trực tiếp trang cách ly, hãy chuyển đến [https://protection.office.com/quarantine](https://protection.office.com/quarantine) .  
+Để mở Trung tâm tuân thủ & bảo mật, hãy đi tới [https://protection.office.com](https://protection.office.com/) . Để mở trực tiếp trang cách ly, hãy đi đến [https://protection.office.com/quarantine](https://protection.office.com/quarantine) .  
 
 Bạn có thể tìm kiếm theo các giá trị sau:  
 
-- **Message ID**: mã định danh duy nhất toàn cầu của thư. Nếu bạn chọn một thư trong danh sách, giá trị **ID thư** sẽ xuất hiện trong ngăn hộp thả xuống **chi tiết** xuất hiện. Quản trị viên có thể sử dụng [theo dõi thư](https://docs.microsoft.com/microsoft-365/security/office-365-security/message-trace-scc?view=o365-worldwide) để tìm thư và các giá trị Message ID tương ứng.
-- **Địa chỉ email người gửi**: một địa chỉ email của người gửi duy nhất.
+- **ID thông báo: mã**định danh duy nhất trên toàn cầu của thư. Nếu bạn chọn một thư trong danh sách, giá trị  **ID thông báo**  sẽ xuất hiện trong ngăn  **thông tin chi tiết**  xuất hiện. Người quản trị có thể sử dụng theo [dõi thư](https://docs.microsoft.com/microsoft-365/security/office-365-security/message-trace-scc?view=o365-worldwide) để tìm thư và các giá trị ID thông báo tương ứng của chúng.
+- **Địa chỉ email người gửi**: địa chỉ email của một người gửi.
 - **Địa chỉ email người nhận**: địa chỉ email của một người nhận.
-- **Chủ**đề: sử dụng toàn bộ chủ đề của tin nhắn. Tìm kiếm không phải là chữ.
+- **Subject**: dùng toàn bộ chủ đề của thư. Tìm kiếm không phân biệt chữ hoa/thường.
 
-Sau khi bạn đã nhập tiêu chí tìm kiếm, hãy nhấp vào Refresh ![ nút ](https://docs.microsoft.com/microsoft-365/media/scc-quarantine-refresh.png?view=o365-worldwide) **Refresh** để lọc kết quả.  
+Sau khi bạn đã nhập tiêu chí tìm kiếm, bấm làm mới nút làm mới ![ ](https://docs.microsoft.com/microsoft-365/media/scc-quarantine-refresh.png?view=o365-worldwide) **Refresh** để lọc kết quả.  
 
-Các lệnh ghép ngắn bạn sử dụng để xem và quản lý thư và tệp cách ly là:
+Các lệnh ghép ngắn mà bạn sử dụng để xem và quản lý các thư và tệp trong cách ly:
 - [Xóa-QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/delete-quarantinemessage)
-- [Xuất-QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/export-quarantinemessage)
+- [Export-QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/export-quarantinemessage)
 - [Get-QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/get-quarantinemessage)
-- [Xem trước-QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/preview-quarantinemessage): lưu ý rằng lệnh này chỉ dành cho các thư, không phải tệp phần mềm độc hại từ ATP cho SharePoint Online, OneDrive for Business hoặc teams.
-- [Phát hành-QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/release-quarantinemessage)
+- Bản [xem trước-QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/preview-quarantinemessage): lưu ý rằng lệnh ghép ngắn này chỉ dành cho các thư, không phải tệp phần mềm độc hại từ ATP cho SharePoint Online, OneDrive for Business hoặc nhóm.
+- [Bản phát hành-QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/release-quarantinemessage)

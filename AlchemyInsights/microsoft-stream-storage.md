@@ -1,28 +1,29 @@
 ---
-title: Microsoft Stream lưu trữ
+title: Lưu trữ Microsoft Stream
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001510"
 - "3570"
-ms.openlocfilehash: 862a8e9968103a285088d99eff7709cc66b8c545
-ms.sourcegitcommit: a92e2bad1e89367307e78a514b8c4e456640daff
+ms.openlocfilehash: 448052dba14e42d21ec965c9b38d85a498ac4b82
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "42564581"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47675320"
 ---
-# <a name="microsoft-stream-storage"></a>Microsoft Stream lưu trữ
+# <a name="microsoft-stream-storage"></a>Lưu trữ Microsoft Stream
 
-Microsoft Stream thuê nhận được cố định phân bổ 500 GB dung lượng lưu trữ và thêm 0,5 GB dung lượng lưu trữ cho người dùng được cấp phép.
-Để biết thêm chi tiết về lưu trữ, xem:
+Đối tượng thuê Microsoft Stream nhận được phân bổ cố định của 500 GB dung lượng lưu trữ và bổ sung 0,5 GB dung lượng lưu trữ cho mỗi người dùng được cấp phép.
+Để biết thêm chi tiết về dung lượng lưu trữ, hãy xem:
 
-- [Tổng quan về lưu trữ dòng Microsoft](https://docs.microsoft.com/stream/license-overview#storage)
-- [Thêm bộ nhớ vào Microsoft Stream](https://docs.microsoft.com/stream/storage-add-on)
-- [Dung lượng và hạn chế trong Microsoft Stream](https://docs.microsoft.com/stream/quotas-and-limitations)
+- [Tổng quan về Microsoft Stream Storage](https://docs.microsoft.com/stream/license-overview#storage)
+- [Thêm dung lượng lưu trữ vào Microsoft Stream](https://docs.microsoft.com/stream/storage-add-on)
+- [Hạn ngạch và giới hạn trong Microsoft Stream](https://docs.microsoft.com/stream/quotas-and-limitations)

@@ -1,29 +1,30 @@
 ---
-title: Giới hạn chia sẻ trong Microsoft teams
+title: Giới hạn chia sẻ trong nhóm Microsoft
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002461"
 - "5577"
-ms.openlocfilehash: b7dc02a0298f8a6843925544a80a1c725365afc6
-ms.sourcegitcommit: e6d73d240669342fde9d4d25b0ee2838b7e43965
+ms.openlocfilehash: 819323c7a5bfc135c3e382887e3ec3e924c559f2
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "44235427"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47675968"
 ---
-# <a name="limit-sharing-in-microsoft-teams"></a>Giới hạn chia sẻ trong Microsoft teams
+# <a name="limit-sharing-in-microsoft-teams"></a>Giới hạn chia sẻ trong nhóm Microsoft
 
-Để hiểu làm thế nào để hạn chế chia sẻ trong teams và Microsoft 365 nói chung, đánh giá [giới hạn chia sẻ trong Microsoft 365](https://docs.microsoft.com/microsoft-365/solutions/microsoft-365-limit-sharing?view=o365-worldwide).
+Để tìm hiểu cách hạn chế chia sẻ trong nhóm và Microsoft 365 nói chung, hãy xem lại tính năng [chia sẻ giới hạn trong microsoft 365](https://docs.microsoft.com/microsoft-365/solutions/microsoft-365-limit-sharing?view=o365-worldwide).
 
-Để hiểu cách kiểm soát truy cập thông qua chính sách truy cập có điều kiện, xem:
+Để tìm hiểu cách kiểm soát quyền truy nhập thông qua các chính sách truy nhập có điều kiện, hãy xem:
 
-- [Kiểm soát truy cập từ các thiết bị không quản lý](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
-- [Hướng dẫn: chặn tải về các thông tin nhạy cảm](https://docs.microsoft.com/cloud-app-security/use-case-proxy-block-session-aad)
-- [Thiết lập chính sách truy cập có điều kiện](https://docs.microsoft.com/microsoft-365/business/set-up-conditional-access-policies?view=o365-worldwide)
+- [Kiểm soát truy nhập từ thiết bị không được quản lý](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
+- [Hướng dẫn: chặn tải xuống thông tin nhạy cảm](https://docs.microsoft.com/cloud-app-security/use-case-proxy-block-session-aad)
+- [Thiết lập chính sách truy nhập có điều kiện](https://docs.microsoft.com/microsoft-365/business/set-up-conditional-access-policies?view=o365-worldwide)

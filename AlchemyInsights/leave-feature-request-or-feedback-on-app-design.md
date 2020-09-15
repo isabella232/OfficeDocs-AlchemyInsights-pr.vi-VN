@@ -1,35 +1,36 @@
 ---
-title: Để lại yêu cầu tính năng hoặc phản hồi về thiết kế ứng dụng
+title: Để lại yêu cầu về tính năng hoặc phản hồi trên thiết kế ứng dụng
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001108"
 - "3069"
-ms.openlocfilehash: a23f285d62915ab69c301390d800c1a91fd56a4a
-ms.sourcegitcommit: d87a6ac6ee77375d1d750100359b4dc7b2871691
+ms.openlocfilehash: 6ff5a05f3e8f2f2637248915a4fefe92b7b086f9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 02/25/2020
-ms.locfileid: "42265250"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47676544"
 ---
-# <a name="leave-a-feature-request-or-feedback-on-app-design"></a>Để lại yêu cầu tính năng hoặc phản hồi về thiết kế ứng dụng
+# <a name="leave-a-feature-request-or-feedback-on-app-design"></a>Để lại yêu cầu về tính năng hoặc phản hồi trên thiết kế ứng dụng
 
-Chúng tôi đánh giá cao bạn chia sẻ suy nghĩ của bạn khi chúng tôi tiếp tục làm việc trên Outlook. *Uservoice* là một diễn đàn nơi bạn có thể để lại phản hồi và bỏ phiếu về những ý tưởng của người khác.  
+Chúng tôi đánh giá cao bạn chia sẻ những suy nghĩ của bạn khi chúng tôi tiếp tục làm việc trên Outlook. *Uservoice* là diễn đàn mà bạn có thể để lại phản hồi và bỏ phiếu cho những ý tưởng của người khác.  
 
-Để lại cho chúng tôi một ý tưởng: 
+Để rời khỏi chúng tôi một ý tưởng: 
 
-**Cài đặt > trợ giúp & phản hồi > đề xuất một tính năng > đăng một ý tưởng** 
+**Thiết đặt > trợ giúp & phản hồi > đề xuất một tính năng > đăng một ý tưởng** 
 
-**Chăm sóc như thế nào tên của bạn/email Hiển thị?**
+**Chăm sóc cách hiển thị tên/email của bạn?**
 
-Khi bạn thêm một bình luận vào một yêu cầu tính năng hiện có, ứng dụng sẽ tự động điền tên hoặc địa chỉ email của bạn từ tài khoản chính của bạn được thiết lập trong ứng dụng. Để chọn tên hiển thị, bạn cần phải gửi yêu cầu tính năng **mới** . 
+Khi bạn thêm chú thích vào yêu cầu tính năng hiện có, ứng dụng sẽ tự động đặt tên hoặc địa chỉ email của bạn từ tài khoản chính của bạn thiết lập trong ứng dụng. Để chọn tên nào Hiển thị, bạn cần gửi một yêu cầu tính năng **mới** . 
 
-Gửi yêu cầu là quy trình 3 bước đơn giản. Trên trang thứ ba và cuối cùng, bạn sẽ thấy một dòng cho địa chỉ email của bạn (bắt buộc) và một dòng cho tên của bạn. Ở đây bạn có thể chọn cách tên của bạn sẽ hiển thị, hoặc bạn có thể gửi ý tưởng nặc danh. 
+Gửi yêu cầu là một quy trình 3 bước đơn giản. Trên trang thứ ba và cuối cùng, bạn sẽ thấy một đường cho địa chỉ email của bạn (bắt buộc) và một dòng cho tên của bạn. Tại đây bạn có thể chọn cách tên của bạn sẽ hiển thị, hoặc bạn có thể gửi ý tưởng nặc danh. 
 
-**Lưu ý:** Bạn cũng có thể cần phải thay đổi địa chỉ email được tự động điền trên Trang này. Nếu tên của bạn được thiết lập một cách nhất định trong cài đặt của ứng dụng email của bạn, việc thay đổi thông tin phản hồi để ẩn danh có thể bị ghi đè bởi các thiết lập của bạn. 
+**Lưu ý:** Bạn cũng có thể cần thay đổi địa chỉ email nào được tự động điền vào trang này. Nếu tên bạn được thiết lập một cách nhất định trong thiết đặt của ứng dụng khách email của bạn, hãy thay đổi trình gửi phản hồi thành ẩn danh có thể bị đè lên bởi thiết đặt của bạn. 

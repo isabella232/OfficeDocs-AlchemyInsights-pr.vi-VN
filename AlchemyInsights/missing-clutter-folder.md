@@ -1,23 +1,24 @@
 ---
-title: Thiếu thư mục lộn xộn
+title: Thiếu thư mục thư không quan trọng
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002504"
 - "4855"
-ms.openlocfilehash: 3fa3f5c97ee1d3e96a5b7f6070d794916200907d
-ms.sourcegitcommit: 6ecb6fcbd738b8896c5d616130074438a1a6e357
+ms.openlocfilehash: 98c6050c03fa86fd04ab1d04dabc45e8fd1afec6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43530681"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47674059"
 ---
-# <a name="missing-clutter-folder"></a>Thiếu thư mục lộn xộn
+# <a name="missing-clutter-folder"></a>Thiếu thư mục thư không quan trọng
 
-Nếu bạn không thấy thư mục lộn xộn trong hộp thư của mình, bạn có thể có tùy chọn hộp thư đến tập trung. Xem [hộp thư đến tập trung cho Outlook](https://support.office.com/article/focused-inbox-for-outlook-f445ad7f-02f4-4294-a82e-71d8964e3978) để biết thêm thông tin.
+Nếu bạn không nhìn thấy thư mục lộn xộn trong hộp thư của mình, bạn có thể có tùy chọn hộp thư đến ưu tiên. Xem [hộp thư đến ưu tiên dành cho Outlook](https://support.office.com/article/focused-inbox-for-outlook-f445ad7f-02f4-4294-a82e-71d8964e3978) để biết thêm thông tin.

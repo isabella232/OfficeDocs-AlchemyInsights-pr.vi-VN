@@ -1,5 +1,5 @@
 ---
-title: Bạn muốn mua một thuê bao mới?
+title: Bạn đang tìm mua một thuê bao mới?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -11,29 +11,29 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d2a9331d-12e3-4c35-b216-4bdddf6c92c3
-ms.openlocfilehash: 8d76d8908919459d8f8de7bb0ac39b6a8237d739
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 7ad6b96485d098be76b98c1bb53c67c885978fce
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505565"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47675222"
 ---
-# <a name="looking-to-buy-a-new-subscription"></a>Bạn muốn mua một thuê bao mới?
+# <a name="looking-to-buy-a-new-subscription"></a>Bạn đang tìm mua một thuê bao mới?
 
-Nếu bạn đã có Microsoft 365 cho đăng ký kinh doanh và bạn muốn mua một đăng ký khác cho tổ chức của mình **Billing** , hãy chuyển đến \> trang [dịch vụ mua](https://go.microsoft.com/fwlink/p/?linkid=868433) thanh toán để xem danh sách các đăng ký có sẵn cho tổ chức của bạn.
+Nếu bạn đã có đăng ký Microsoft 365 dành cho doanh nghiệp và muốn mua một gói đăng ký khác cho tổ chức của **Billing** mình, hãy đi đến \> trang [dịch vụ thông báo mua hàng](https://go.microsoft.com/fwlink/p/?linkid=868433) để xem danh sách đăng ký sẵn dùng cho tổ chức của bạn.
  
-1. Chọn gói đăng ký bạn muốn, sau đó chọn **mua**.
+1. Chọn thuê bao mà bạn muốn, rồi chọn **mua**.
 
-2. Chọn cách bạn muốn thanh toán và số lượng giấy phép người dùng cần thiết.
+2. Chọn cách bạn muốn thanh toán và số giấy phép người dùng cần thiết.
 
-3. Chọn **kiểm tra ngay bây giờ**. Trên trang tiếp theo, bạn có thể đánh giá đơn hàng và hoàn tất giao dịch mua.
+3. Chọn **kiểm xuất ngay bây giờ**. Trên trang tiếp theo, bạn có thể xem lại thứ tự và hoàn tất việc mua.
 
-4. Khi mua xong, bạn có thể cần phải gán lại giấy phép hoặc hủy đăng ký. Để biết trợ giúp về điều này, vui lòng xem phần tài nguyên bổ sung bên dưới.
+4. Khi quá trình mua của bạn hoàn tất, bạn có thể cần gán lại giấy phép hoặc hủy bỏ đăng ký. Để được trợ giúp về điều này, vui lòng xem phần tài nguyên bổ sung dưới đây.
 
  **Tài nguyên bổ sung:**
   
-- [Gán giấy phép cho người dùng trong Microsoft 365 cho doanh nghiệp](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
+- [Gán giấy phép cho người dùng trong Microsoft 365 dành cho doanh nghiệp](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
     
-- [Hủy đăng ký của bạn](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+- [Hủy bỏ đăng ký của bạn](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
     
-- Nếu bạn quan tâm đến chuyển đổi đăng ký, xem [chuyển sang Microsoft 365 khác nhau cho kế hoạch kinh doanh.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)
+- Nếu bạn quan tâm đến việc chuyển đổi đăng ký, hãy xem mục [chuyển sang gói Microsoft 365 dành cho doanh nghiệp khác nhau.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)
