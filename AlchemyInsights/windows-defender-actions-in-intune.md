@@ -1,30 +1,31 @@
 ---
-title: Hành động của Windows Defender trong InTune
+title: Các hành động của Windows Defender trong InTune
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/27/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1282"
 - "6700008"
-ms.openlocfilehash: 61a2411ce7c4578ecf2c32943c6a21edbf63eeee
-ms.sourcegitcommit: e34bb95fb93250f1dc7aec6a13578bb3bb355935
+ms.openlocfilehash: 732b7450121f85416bb0f1868b3722899bee8194
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "45440437"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47699109"
 ---
-# <a name="windows-defender-actions-in-intune"></a>Hành động của Windows Defender trong InTune
+# <a name="windows-defender-actions-in-intune"></a>Các hành động của Windows Defender trong InTune
 
-InTune có thể được sử dụng để kích hoạt quét theo yêu cầu và Cập Nhật chữ ký vi rút cho Windows Defender trên các thiết bị riêng lẻ.
+InTune có thể được dùng để kích hoạt bản Cập Nhật chữ ký quét và vi-rút theo yêu cầu cho Windows Defender trên các thiết bị riêng lẻ.
 
-Sau khi một hành động từ xa được kích hoạt thành công hoạt động được phản ánh trong Nhật ký sự kiện Windows Defender.
+Sau khi hành động từ xa được kích hoạt thành công hoạt động này sẽ được phản ánh trong Nhật ký sự kiện bảo vệ Windows.
 
-Chính sách bảo vệ điểm cuối của Windows cho phép các thiết đặt bổ sung cho các tính năng của Windows Defender được tạo ra trong InTune và áp dụng cho bộ thiết bị.
+Chính sách bảo vệ Windows Endpoint cho phép các thiết đặt bổ sung cho các tính năng của Windows Defender sẽ được tạo ra trong InTune và áp dụng cho bộ thiết bị.
 
-Để biết thêm chi tiết về kích hoạt các hành động của bộ bảo vệ Windows, xem [cấu hình và chạy quét chống vi-rút Microsoft Defender theo yêu cầu](https://docs.microsoft.com/windows/security/threat-protection/windows-defender-antivirus/run-scan-windows-defender-antivirus).
+Để biết thêm chi tiết về kích hoạt hành động của Windows Defender, hãy xem [cấu hình và chạy theo yêu cầu của Microsoft Defender quét chống virus](https://docs.microsoft.com/windows/security/threat-protection/windows-defender-antivirus/run-scan-windows-defender-antivirus).
