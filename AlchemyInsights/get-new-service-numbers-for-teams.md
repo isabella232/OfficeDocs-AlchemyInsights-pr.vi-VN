@@ -1,38 +1,39 @@
 ---
-title: Nhận số dịch vụ mới cho teams
+title: Tải các số dịch vụ mới cho các nhóm
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002532"
 - "5140"
-ms.openlocfilehash: 8b2965f723b77740b2dc134612387ef045f0360a
-ms.sourcegitcommit: 8b50994a2979778ce8474ce83bd86b60e7d2cb2f
+ms.openlocfilehash: c777669405ac9d4ba4b4b5afbd15345b65aedd72
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44022611"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47707517"
 ---
-# <a name="get-new-service-numbers-for-teams"></a>Nhận số dịch vụ mới cho teams
+# <a name="get-new-service-numbers-for-teams"></a>Tải các số dịch vụ mới cho các nhóm
 
-Sử dụng trung tâm quản trị Microsoft teams:
+Sử dụng trung tâm quản trị nhóm Microsoft:
 
-1. Trong điều hướng bên trái, hãy chuyển đến **số điện thoại > giọng nói**, sau đó bấm vào **Thêm**.
-2. Nhập tên cho đơn đặt hàng và nếu bạn muốn, hãy thêm mô tả.
+1. Trong dẫn hướng bên trái, đi đến **số điện thoại >** thoại, rồi bấm **Thêm**.
+2. Nhập tên cho đơn hàng và nếu bạn muốn, hãy thêm mô tả.
 3. Trên trang **vị trí và số lượng** :
 
-    - Trong **quốc gia hoặc khu vực**, hãy chọn quốc gia hoặc khu vực.
-    - Trong **loại số**, chọn loại số dịch vụ mà bạn muốn.
-    - Trong **vị trí**, hãy chọn một vị trí. Nếu bạn cần tạo vị trí mới, hãy nhấp vào **Thêm vị trí**.
-    - Trong **mã vùng**, chọn mã vùng.
-    - Trong số **lượng**, nhập số lượng các số mà bạn muốn cho tổ chức của bạn, và sau đó nhấp vào **tiếp** theo để chọn số của bạn.
+    - Bên dưới **quốc gia hoặc khu vực**, chọn quốc gia hoặc khu vực.
+    - Bên dưới **loại số**, hãy chọn loại số dịch vụ mà bạn muốn.
+    - Bên dưới **vị trí**, hãy chọn một vị trí. Nếu bạn cần tạo một vị trí mới, hãy bấm **Thêm một vị trí**.
+    - Bên dưới **mã vùng**, hãy chọn một mã vùng.
+    - Bên dưới **số lượng**, hãy nhập số lượng bạn muốn cho tổ chức của mình, rồi bấm vào **tiếp theo** để chọn số của bạn.
     
-4. Chọn số bạn muốn. Bạn có 10 phút để lựa chọn số điện thoại của bạn và đặt hàng của bạn. Nếu bạn mất nhiều hơn 10 phút, các số điện thoại sẽ được trả lại cho các hồ bơi của số.
-5. Khi bạn đã sẵn sàng đặt hàng, hãy nhấp vào **đặt hàng**.
+4. Chọn các số mà bạn muốn. Bạn có 10 phút để chọn số điện thoại của bạn và đặt đơn hàng của bạn. Nếu bạn mất hơn 10 phút, các số điện thoại sẽ được trả về các số.
+5. Khi bạn đã sẵn sàng để đặt đơn hàng của mình, hãy bấm **đặt hàng**.
 
-Để biết thêm thông tin, xem [nhận số điện thoại Dịch vụ](https://docs.microsoft.com/microsoftteams/getting-service-phone-numbers).
+Để biết thêm thông tin, hãy xem mục [nhận số điện thoại Dịch vụ](https://docs.microsoft.com/microsoftteams/getting-service-phone-numbers).
