@@ -1,26 +1,27 @@
 ---
-title: Khách truy cập tệp teams
+title: Khách truy nhập vào các tệp nhóm
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.custom:
 - "6500001"
 - "4353"
 ms.assetid: ''
-ms.openlocfilehash: 9912219bc9adccc04919c25d278553ea76d2335b
-ms.sourcegitcommit: 018aadd53eac92248bc6d5ad63b739216103090a
+ms.openlocfilehash: 1acb7b2510f2134911b5429eee9637e95848d05c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "42940605"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47706077"
 ---
-# <a name="guest-access-to-teams-files"></a>Khách truy cập tệp teams
+# <a name="guest-access-to-teams-files"></a>Khách truy nhập vào các tệp nhóm
 
-Bởi vì teams dựa trên SharePoint Online và OneDrive for Business để lưu trữ tệp và tài liệu cho các kênh và cuộc hội thoại trò chuyện, quản trị viên cần phải cấu hình như sau:
+Vì các nhóm dựa trên SharePoint Online và OneDrive for Business để lưu trữ các tệp và tài liệu cho các kênh và hội thoại trò chuyện, người quản trị cần đặt cấu hình như sau:
 
-- Chọn **khách hiện có**, người **mới và khách hiện tại**hoặc **bất kỳ ai** từ [Trung tâm quản trị SharePoint](https://admin.microsoft.com/sharepoint?page=sharing&modern=true). Để biết thêm thông tin, [hãy xem bật hoặc tắt tính năng chia sẻ bên ngoài](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off).
+- Chọn **khách hiện có**, **khách mới và hiện có**, hoặc **bất kỳ ai** từ [Trung tâm quản trị SharePoint](https://admin.microsoft.com/sharepoint?page=sharing&modern=true). Để biết thêm thông tin, hãy xem mục [bật hoặc tắt chia sẻ với bên ngoài](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off).
 
-- Bật cho phép chủ sở hữu nhóm thêm người bên ngoài tổ chức vào nhóm từ [cài đặt nhóm](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/SettingsMultiPivot/:/Settings/L1/O365Groups). Để biết thêm thông tin, xem [kiểm soát khách truy cập trong Microsoft Groups](https://docs.microsoft.com/microsoftteams/teams-dependencies#control-guest-access-in-office-365-groups).
+- Bật cho phép người sở hữu nhóm thêm người bên ngoài tổ chức của bạn từ [thiết đặt nhóm](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/SettingsMultiPivot/:/Settings/L1/O365Groups). Để biết thêm thông tin, hãy xem [kiểm soát quyền truy nhập của khách trong Microsoft Groups](https://docs.microsoft.com/microsoftteams/teams-dependencies#control-guest-access-in-office-365-groups).
