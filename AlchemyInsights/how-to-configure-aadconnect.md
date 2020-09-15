@@ -1,36 +1,37 @@
 ---
-title: 646 làm thế nào để cấu hình AADConnect
+title: 646 cách đặt cấu hình cho kết nối
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "646"
 - "1300023"
 ms.assetid: 599698ac-6709-477a-a66f-169b3165064e
-ms.openlocfilehash: 713cda26e55f07f0438cb9ebe5aa9da86c4ebb3a
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 6327e42b74283d732247c9a847c68db72082c56a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43722588"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47704511"
 ---
-# <a name="configure-sync-features"></a>Cấu hình tính năng đồng bộ
+# <a name="configure-sync-features"></a>Đặt cấu hình các tính năng đồng bộ
 
-Azure AD kết nối bao gồm một số tính năng được kích hoạt theo mặc định, hoặc bạn có thể kích hoạt sau. Một số tính năng yêu cầu cấu hình bổ sung trong môi trường cụ thể.
+Azure AD Connect bao gồm một số tính năng được bật theo mặc định, hoặc bạn có thể bật sau này. Một số tính năng yêu cầu cấu hình bổ sung trong các môi trường cụ thể.
 
-- [Lọc](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-configure-filtering) giới hạn các đối tượng được đồng bộ hoá Azure AD. Theo mặc định, tất cả người dùng, danh bạ, nhóm và tài khoản máy tính Windows 10 được đồng bộ hoá. Bạn có thể bao gồm hoặc loại trừ các đối tượng dựa trên miền, OUs hoặc các thuộc tính khác.
+- [Lọc](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-configure-filtering) giới hạn đối tượng được đồng bộ hóa với Azure AD. Theo mặc định, tất cả người dùng, liên hệ, nhóm và tài khoản máy tính chạy Windows 10 đều được đồng bộ. Bạn có thể bao gồm hoặc loại trừ các đối tượng dựa trên tên miền, dữ hoặc thuộc tính khác.
 
-- [Mật khẩu băm đồng bộ hóa](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-implement-password-hash-synchronization) mật khẩu băm từ Active Directory tại chỗ sang Azure AD. Điều này cho phép quản lý mật khẩu tại một địa chỉ, nhưng sử dụng cùng một mật khẩu trong môi trường tại chỗ và đám mây. Vì Active Directory là nguồn có thẩm quyền, bạn có thể sử dụng chính sách mật khẩu của riêng bạn.
+- [Đồng bộ hóa hash mật khẩu đồng bộ hóa](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-implement-password-hash-synchronization) băm mật khẩu từ Active Directory tại chỗ vào Azure AD. Điều này cho phép quản lý mật khẩu ở một vị trí, nhưng sử dụng cùng một mật khẩu trong cả môi trường trên nền tảng tại cơ sở và điện toán đám mây. Vì Active Directory là nguồn có thẩm quyền, bạn có thể sử dụng chính sách mật khẩu của riêng bạn.
 
-- [Tự dịch vụ đặt lại mật khẩu (SSPR)](https://docs.microsoft.com/azure/active-directory/authentication/quickstart-sspr) cho phép người dùng đặt lại mật khẩu của riêng mình trong đám mây trong khi vẫn áp dụng chính sách mật khẩu tại chỗ của bạn.
+- [Đặt lại mật khẩu tự phục vụ (SSPR)](https://docs.microsoft.com/azure/active-directory/authentication/quickstart-sspr) cho phép người dùng đặt lại mật khẩu của riêng mình trong nền tảng điện toán đám mây trong khi vẫn áp dụng chính sách mật khẩu tại cơ sở của bạn.
 
-- [Thiết bị](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-device-writeback) ghi lại cho phép các thiết bị đăng ký trong Azure AD được viết trở lại Active Directory tại chỗ để họ có thể được sử dụng để truy cập có điều kiện.
+- [Writeback thiết bị](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-device-writeback) cho phép các thiết bị đã đăng ký trong Azure AD được ghi lại vào Active Directory tại chỗ để chúng có thể sử dụng cho Access có điều kiện.
 
-- [Ngăn chặn tình cờ xóa](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-feature-prevent-accidental-deletes) được kích hoạt theo mặc định để giúp ngăn chặn quá nhiều xoá đối tượng đồng thời (hơn 500 đối tượng cho mỗi đồng bộ hóa). Bạn có thể thay đổi cài đặt này để đáp ứng nhu cầu của tổ chức của bạn.
+- [Tránh xóa bỏ tình cờ](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-feature-prevent-accidental-deletes) được bật theo mặc định để giúp ngăn không cho quá nhiều đối tượng đồng thời (hơn 500 đối tượng đồng bộ). Bạn có thể thay đổi thiết đặt này để đáp ứng nhu cầu của tổ chức của mình.
 
-- [Tự động nâng cấp](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade) được bật theo mặc định cho các cài đặt nhanh và giúp đảm bảo Phiên bản Azure AD kết nối luôn là hiện tại.
+- Tính năng [nâng cấp tự động](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade) được bật theo mặc định cho việc cài đặt hiện tại và giúp đảm bảo Phiên bản của bạn kết nối Azure AD luôn là hiện tại.
