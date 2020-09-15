@@ -1,23 +1,24 @@
 ---
-title: Thiếu-trùng lặp
+title: Thiếu trùng lặp
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3414"
 - "9001433"
-ms.openlocfilehash: 0987a5c66e6853f457624f251a53a9c4a842e4b9
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 1267f80c1e4d632a3627a97fbfccf86b482adb5d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39627452"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47673772"
 ---
-# <a name="troubleshooting-missing-and-duplicate-calendar-items"></a><span data-ttu-id="7aecb-102">Khắc phục sự cố thiếu và trùng lặp mục lịch</span><span class="sxs-lookup"><span data-stu-id="7aecb-102">Troubleshooting missing and duplicate calendar items</span></span>
+# <a name="troubleshooting-missing-and-duplicate-calendar-items"></a><span data-ttu-id="eb6e7-102">Khắc phục sự cố các mục lịch bị thiếu và trùng lặp</span><span class="sxs-lookup"><span data-stu-id="eb6e7-102">Troubleshooting missing and duplicate calendar items</span></span>
 
-<span data-ttu-id="7aecb-103">Để biết thông tin về cách khắc phục sự cố với cuộc hẹn bị thiếu và lặp lại khi bạn sử dụng Microsoft Outlook và Microsoft Exchange Server, xem [cách khắc phục sự cố thiếu và lặp lại cuộc hẹn trong Outlook](https://support.microsoft.com/help/890436/how-to-troubleshoot-missing-and-duplicate-appointments-in-outlook).</span><span class="sxs-lookup"><span data-stu-id="7aecb-103">For information on how to troubleshoot problems with missing and duplicate appointments when you use Microsoft Outlook and Microsoft Exchange Server, see [How to troubleshoot missing and duplicate appointments in Outlook](https://support.microsoft.com/help/890436/how-to-troubleshoot-missing-and-duplicate-appointments-in-outlook).</span></span>
+<span data-ttu-id="eb6e7-103">Để biết thông tin về cách khắc phục sự cố với các cuộc hẹn bị thiếu và trùng lặp khi bạn sử dụng Microsoft Outlook và Microsoft Exchange Server, hãy xem [cách khắc phục sự cố các cuộc hẹn bị thiếu và trùng lặp trong Outlook](https://support.microsoft.com/help/890436/how-to-troubleshoot-missing-and-duplicate-appointments-in-outlook).</span><span class="sxs-lookup"><span data-stu-id="eb6e7-103">For information on how to troubleshoot problems with missing and duplicate appointments when you use Microsoft Outlook and Microsoft Exchange Server, see [How to troubleshoot missing and duplicate appointments in Outlook](https://support.microsoft.com/help/890436/how-to-troubleshoot-missing-and-duplicate-appointments-in-outlook).</span></span>

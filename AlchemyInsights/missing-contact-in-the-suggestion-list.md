@@ -1,27 +1,28 @@
 ---
-title: Thiếu liên hệ trong danh sách gợi ý khi soạn thư
+title: Thiếu liên hệ trong danh sách đề xuất trong khi soạn thư
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/22/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3700001"
 - "1060"
-ms.openlocfilehash: 325bdc133c9a8458ad8a65b3d1ca2276a558bfbf
-ms.sourcegitcommit: 6f7cbf1dc28c0693009ddf03d9768c1c65018964
+ms.openlocfilehash: 7a1b99ff336a50619c9560833c05785546634e27
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "45423928"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47673987"
 ---
-# <a name="missing-contact-in-suggestion-list-while-composing-mail"></a><span data-ttu-id="40c0e-102">Thiếu liên hệ trong danh sách gợi ý khi soạn thư</span><span class="sxs-lookup"><span data-stu-id="40c0e-102">Missing contact in suggestion list while composing mail</span></span>
+# <a name="missing-contact-in-suggestion-list-while-composing-mail"></a><span data-ttu-id="f0747-102">Thiếu liên hệ trong danh sách đề xuất trong khi soạn thư</span><span class="sxs-lookup"><span data-stu-id="f0747-102">Missing contact in suggestion list while composing mail</span></span>
 
-1. <span data-ttu-id="40c0e-103">Chọn **để:**, và sau đó chọn một liên lạc từ danh sách.</span><span class="sxs-lookup"><span data-stu-id="40c0e-103">Select **To:**, and then select a contact from the list.</span></span>
-2. <span data-ttu-id="40c0e-104">Chọn **gửi**.</span><span class="sxs-lookup"><span data-stu-id="40c0e-104">Select **Send**.</span></span>
+1. <span data-ttu-id="f0747-103">Chọn **đến:**, rồi chọn một liên hệ từ danh sách.</span><span class="sxs-lookup"><span data-stu-id="f0747-103">Select **To:**, and then select a contact from the list.</span></span>
+2. <span data-ttu-id="f0747-104">Chọn **gửi**.</span><span class="sxs-lookup"><span data-stu-id="f0747-104">Select **Send**.</span></span>
 
-    <span data-ttu-id="40c0e-105">Liên hệ xuất hiện trong danh sách gợi ý.</span><span class="sxs-lookup"><span data-stu-id="40c0e-105">The contact appears in the suggestion list.</span></span>
+    <span data-ttu-id="f0747-105">Liên hệ xuất hiện trong danh sách gợi ý.</span><span class="sxs-lookup"><span data-stu-id="f0747-105">The contact appears in the suggestion list.</span></span>
