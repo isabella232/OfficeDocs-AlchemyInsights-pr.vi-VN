@@ -1,30 +1,31 @@
 ---
-title: Kiểm tra tài khoản Dịch vụ AADConnect
+title: Kiểm tra các tài khoản Dịch vụ của Badconnect
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/24/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1726"
 - "9000180"
-ms.openlocfilehash: 49498a50f9bb0c26bef1959c3d1eff6dd8f0e2bc
-ms.sourcegitcommit: b10cea11b4975354b91193327b58aa4740d34833
+ms.openlocfilehash: 4c18ddc19c60075cbea4edce95ebbf6491778b41
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "45439933"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47714053"
 ---
-# <a name="check-the-aadconnect-service-accounts"></a><span data-ttu-id="1b98f-102">Kiểm tra tài khoản Dịch vụ AADConnect</span><span class="sxs-lookup"><span data-stu-id="1b98f-102">Check the AADConnect service accounts</span></span>
+# <a name="check-the-aadconnect-service-accounts"></a><span data-ttu-id="cb536-102">Kiểm tra các tài khoản Dịch vụ của Badconnect</span><span class="sxs-lookup"><span data-stu-id="cb536-102">Check the AADConnect service accounts</span></span>
 
-<span data-ttu-id="1b98f-103">Nếu bạn nhận được lỗi đồng bộ hoá như "không có đồng bộ hóa gần đây" hoặc thông báo trạng thái đồng bộ hóa thư mục trong Cổng quản trị Office cho biết "cuối cùng hơn 3 ngày trước," AADConnect có thể có cài đặt không đúng hoặc không đủ quyền để thực hiện đồng bộ hoá.</span><span class="sxs-lookup"><span data-stu-id="1b98f-103">If you receive synchronization errors such as "No recent synchronization," or notice the directory synchronization status in the Office admin portal says "Last synced more than 3 days ago," AADConnect might have incorrect settings or insufficient permissions to perform a synchronization.</span></span> <span data-ttu-id="1b98f-104">Cài đặt lại AADConnect bằng cách sử dụng thiết lập nhanh có thể giải quyết vấn đề.</span><span class="sxs-lookup"><span data-stu-id="1b98f-104">Reinstalling AADConnect using express settings might resolve the issue.</span></span>
+<span data-ttu-id="cb536-103">Nếu bạn nhận được các lỗi đồng bộ hóa chẳng hạn như "không đồng bộ hóa gần đây", hoặc thông báo trạng thái đồng bộ hóa thư mục trong cổng thông tin quản trị Office cho biết "đã đồng bộ lần cuối nhiều hơn 3 ngày trước," không thể đọc được thiết đặt không chính xác hoặc không đủ điều khoản để thực hiện đồng bộ.</span><span class="sxs-lookup"><span data-stu-id="cb536-103">If you receive synchronization errors such as "No recent synchronization," or notice the directory synchronization status in the Office admin portal says "Last synced more than 3 days ago," AADConnect might have incorrect settings or insufficient permissions to perform a synchronization.</span></span> <span data-ttu-id="cb536-104">Cài đặt lại liên kết sử dụng các thiết đặt hiện có thể giải quyết được sự cố.</span><span class="sxs-lookup"><span data-stu-id="cb536-104">Reinstalling AADConnect using express settings might resolve the issue.</span></span>
 
-<span data-ttu-id="1b98f-105">Để tải xuống phiên bản AADConnect mới nhất, hãy xem [Microsoft Azure Active Directory kết nối](https://go.microsoft.com/fwlink/?LinkId=615771).</span><span class="sxs-lookup"><span data-stu-id="1b98f-105">To download the latest version of AADConnect, see [Microsoft Azure Active Directory Connect](https://go.microsoft.com/fwlink/?LinkId=615771).</span></span>
+<span data-ttu-id="cb536-105">Để tải xuống phiên bản mới nhất của liên kết, hãy xem [Microsoft Azure Active Directory Connect](https://go.microsoft.com/fwlink/?LinkId=615771).</span><span class="sxs-lookup"><span data-stu-id="cb536-105">To download the latest version of AADConnect, see [Microsoft Azure Active Directory Connect](https://go.microsoft.com/fwlink/?LinkId=615771).</span></span>
 
-<span data-ttu-id="1b98f-106">Để biết hướng dẫn về cài đặt nhanh, xem bắt [đầu với AZURE AD kết nối bằng cách sử dụng cài đặt nhanh](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-express).</span><span class="sxs-lookup"><span data-stu-id="1b98f-106">For instructions for express installation, see [Getting started with Azure AD Connect using express settings](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-express).</span></span>
+<span data-ttu-id="cb536-106">Để biết hướng dẫn về cài đặt Express, hãy xem [bắt đầu với AZURE AD Connect bằng cách sử dụng các thiết đặt nhanh](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-express).</span><span class="sxs-lookup"><span data-stu-id="cb536-106">For instructions for express installation, see [Getting started with Azure AD Connect using express settings](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-express).</span></span>
 
-<span data-ttu-id="1b98f-107">Để biết thêm thông tin về tài khoản Dịch vụ AADConnect, xem [AZURE AD kết nối: tài khoản và quyền](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-accounts-permissions).</span><span class="sxs-lookup"><span data-stu-id="1b98f-107">For more information about AADConnect service accounts, see [Azure AD Connect: Accounts and permissions](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-accounts-permissions).</span></span>
+<span data-ttu-id="cb536-107">Để biết thêm thông tin về các tài khoản Dịch vụ của Badconnect, hãy xem [AZURE AD Connect: tài khoản và quyền](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-accounts-permissions).</span><span class="sxs-lookup"><span data-stu-id="cb536-107">For more information about AADConnect service accounts, see [Azure AD Connect: Accounts and permissions](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-accounts-permissions).</span></span>
