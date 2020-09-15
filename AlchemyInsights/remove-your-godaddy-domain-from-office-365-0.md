@@ -1,24 +1,25 @@
 ---
-title: Xóa miền GoDaddy của bạn khỏi Microsoft 365
-ms.author: v-crytho
+title: Loại bỏ tên miền GoDaddy của bạn từ Microsoft 365
+ms.author: pebaum
 author: CrystalThomasMS
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1b858223-22ec-4c9d-9cda-5f4418060c5e
 ms.custom:
 - "27"
 - "11"
-ms.openlocfilehash: 13b3bfaf1af9fb26c721e6d9c637b85d7da2332d
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.openlocfilehash: 91bb74e9bcc53217e698afd523f0affd71157ebf
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43789108"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47701521"
 ---
-# <a name="remove-your-godaddy-domain-from-microsoft-365"></a><span data-ttu-id="c9504-102">Xóa miền GoDaddy của bạn khỏi Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="c9504-102">Remove your GoDaddy domain from Microsoft 365</span></span>
+# <a name="remove-your-godaddy-domain-from-microsoft-365"></a><span data-ttu-id="6771e-102">Loại bỏ tên miền GoDaddy của bạn từ Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="6771e-102">Remove your GoDaddy domain from Microsoft 365</span></span>
 
-<span data-ttu-id="c9504-103">Chúng tôi không thể xóa miền GoDaddy của bạn khỏi Microsoft 365 cho bạn.</span><span class="sxs-lookup"><span data-stu-id="c9504-103">We can't remove your GoDaddy domain from Microsoft 365 for you.</span></span> <span data-ttu-id="c9504-104">Gọi [dịch vụ khách hàng GoDaddy](https://aka.ms/contact-godaddy) để nhận trợ giúp.</span><span class="sxs-lookup"><span data-stu-id="c9504-104">Call [GoDaddy customer service](https://aka.ms/contact-godaddy) for help.</span></span>
+<span data-ttu-id="6771e-103">Chúng tôi không thể loại bỏ tên miền GoDaddy của bạn từ Microsoft 365 cho bạn.</span><span class="sxs-lookup"><span data-stu-id="6771e-103">We can't remove your GoDaddy domain from Microsoft 365 for you.</span></span> <span data-ttu-id="6771e-104">Gọi [dịch vụ khách hàng GoDaddy](https://aka.ms/contact-godaddy) để được trợ giúp.</span><span class="sxs-lookup"><span data-stu-id="6771e-104">Call [GoDaddy customer service](https://aka.ms/contact-godaddy) for help.</span></span>
   
