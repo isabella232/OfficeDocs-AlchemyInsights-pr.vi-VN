@@ -1,32 +1,33 @@
 ---
-title: Mua một tên miền trong Microsoft 365
+title: Mua tên miền trong Microsoft 365
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.custom:
 - "9002245"
 - "4349"
 ms.assetid: ''
-ms.openlocfilehash: cf44a922bc248975ba2fcdb08aef2c2fde2416c7
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: 342c700d40a119a0103893a6e51cfa61ece41ff9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43788868"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47685044"
 ---
-# <a name="buy-a-domain-name-in-microsoft-365"></a>Mua một tên miền trong Microsoft 365
+# <a name="buy-a-domain-name-in-microsoft-365"></a>Mua tên miền trong Microsoft 365
 
-Bạn có thể mua một tên miền từ Microsoft trong Trung tâm quản trị ở đây- [lấy một tên miền](https://admin.microsoft.com/Domains/Buy).
+Bạn có thể mua một tên miền từ Microsoft trong Trung tâm quản trị ở đây- [lấy](https://admin.microsoft.com/Domains/Buy)tên miền.
 
-- Tên miền sẽ được tự động thêm và cấu hình trong tài khoản của bạn với bản ghi DNS do Microsoft quản lý (bản ghi NS không thể thay đổi).
+- Tên miền sẽ tự động được thêm vào và cấu hình trong tài khoản của bạn với các bản ghi DNS do Microsoft quản lý (không thể thay đổi bản ghi NS).
 
-- Có thể thêm bản ghi DNS bổ sung để hỗ trợ trang web của bạn.  Từ [miền](https://admin.microsoft.com/AdminPortal/Home#/Domains), nhấp vào miền của bạn, sau đó nhấp vào **quản lý DNS**.
+- Có thể thêm các bản ghi DNS bổ sung để hỗ trợ Website của bạn.  Từ [tên miền](https://admin.microsoft.com/AdminPortal/Home#/Domains), bấm vào tên miền của bạn, sau đó bấm **quản lý DNS**.
 
-- Nếu cần thiết, chuyển miền đến một công ty đăng ký khác được phép 60 ngày sau khi mua tên miền.
+- Nếu cần thiết, hãy chuyển tên miền đến một nhà đăng ký khác được cho phép 60 ngày sau khi mua tên miền.
 
-Để biết thêm thông tin, xem [mua một tên miền trong Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/buy-a-domain-name?view=o365-worldwide).
+Để biết thêm thông tin, hãy xem [mua tên miền trong Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/buy-a-domain-name?view=o365-worldwide).
 
-Cũng thấy [Cập Nhật bản ghi DNS để giữ cho trang web của bạn với nhà cung cấp lưu trữ hiện tại của bạn](https://docs.microsoft.com/alchemyinsights/update-dns-records-to-keep-your-website-with-your-current-hosting-provider-0).
+Ngoài ra, hãy xem [Cập Nhật bản ghi DNS để giữ cho trang web của bạn với nhà cung cấp lưu trữ hiện tại](https://docs.microsoft.com/alchemyinsights/update-dns-records-to-keep-your-website-with-your-current-hosting-provider-0).

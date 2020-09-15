@@ -1,24 +1,25 @@
 ---
-title: Người dùng xóa hàng loạt
+title: Xóa hàng loạt người dùng
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/27/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6112"
 - "9003231"
-ms.openlocfilehash: 0ff56830eddc8a9d12cd3cd872f69a263cc7c990
-ms.sourcegitcommit: b10cea11b4975354b91193327b58aa4740d34833
+ms.openlocfilehash: 8bec7239aa2ce31e843763ac4a2a2be955de58fb
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "45440194"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47685224"
 ---
-# <a name="bulk-delete-user"></a>Người dùng xóa hàng loạt
+# <a name="bulk-delete-user"></a>Xóa hàng loạt người dùng
 
-Bạn có thể xoá một số lượng lớn người dùng khỏi nhóm bằng cách sử dụng tệp giá trị được phân tách bằng dấu phẩy (CSV) để xóa người dùng hàng loạt. Để xóa số lượng lớn người dùng sử dụng cổng Azure AD, xem [số lượng lớn xóa người dùng trong Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/users-bulk-delete).
+Bạn có thể loại bỏ một số lượng lớn người dùng khỏi nhóm bằng cách sử dụng tệp giá trị phân tách bằng dấu phẩy (CSV) để xóa hàng loạt người dùng. Để xóa bỏ hàng loạt người dùng bằng cổng thông tin Azure AD, hãy xem [mục xóa hàng loạt người dùng trong Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/users-bulk-delete).
