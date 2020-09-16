@@ -1,31 +1,32 @@
 ---
-title: Đồng bộ hoá UPN tắt
+title: Đồng bộ UPN bị vô hiệu hóa
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 2a3489fe-c2a8-4e43-96c2-be4b3c5e978c
-ms.openlocfilehash: 33bc7e30d41ff70e2ce55d946202acf45dbcb0f2
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 31947d7c491e4116ffdb9baadf286cd4fbb50f2a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43726126"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47749536"
 ---
-# <a name="upn-sync-disabled"></a>Đồng bộ hoá UPN tắt
+# <a name="upn-sync-disabled"></a>Đồng bộ UPN bị vô hiệu hóa
 
-Nếu bạn bắt đầu đồng bộ hoá Azure AD trước ngày 30 tháng 2016, chạy lệnh Azure AD PowerShell sau để cho phép UPN mềm phù hợp cho tổ chức của bạn chỉ:
+Nếu bạn đã bắt đầu đồng bộ với Azure AD trước ngày 30 tháng 3, 2016, hãy chạy lệnh ghép ngắn Azure AD PowerShell sau đây để bật khớp với khớp mềm UPN cho tổ chức của bạn:
   
- **Thiết lập MsolDirSyncFeature-tính năng EnableSoftMatchOnUpn-kích hoạt $True**
+ **Thiết lập-MsolDirSyncFeature-tính năng EnableSoftMatchOnUpn-bật $True**
   
-UPN mềm phù hợp tự động bật cho các tổ chức bắt đầu đồng bộ hoá quảng cáo Azure vào hoặc sau ngày 30 tháng 3 năm 2016.
+Khớp mềm UPN được tự động bật cho các tổ chức bắt đầu đồng bộ với Azure AD vào hoặc sau ngày 30 tháng 3, 2016.
   
-Để tìm hiểu thêm về cho phép khớp mềm trên UPN và các tính năng đồng bộ hoá khác, vui lòng xem [tính năng dịch vụ đồng bộ hóa AZURE AD kết nối](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsyncservice-features).
+Để tìm hiểu thêm về việc bật tính năng khớp mềm trên UPN và các tính năng đồng bộ khác, vui lòng xem [AZURE AD Connect Sync Service](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsyncservice-features).
   
 
