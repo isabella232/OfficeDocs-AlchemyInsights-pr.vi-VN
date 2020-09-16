@@ -5,22 +5,23 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000210"
 - "4837"
-ms.openlocfilehash: 9a4942ae14a12e0a68a8c5bd25e46bdae326c803
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: aad373f9e196a36b68b1e7a5f53f3459b3527a1e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43183325"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47745341"
 ---
 # <a name="files-restore-feature"></a>Tính năng khôi phục tệp
 
-Nếu nhiều tệp OneDrive hoặc SharePoint của bạn bị xóa, ghi đè, bị hỏng hoặc bị nhiễm phần mềm độc hại, bạn có thể khôi phục toàn bộ thư viện OneDrive hoặc SharePoint của bạn đến một thời gian trước bằng cách sử dụng tính năng khôi phục tệp. Để biết thêm thông tin, xem:
+Nếu rất nhiều các tệp OneDrive hoặc SharePoint bị xóa, ghi đè, bị lỗi hoặc bị phần mềm độc hại, bạn có thể khôi phục toàn bộ thư viện OneDrive hoặc SharePoint của mình vào một thời gian trước đó bằng cách sử dụng tính năng khôi phục tệp. Để biết thêm thông tin, hãy xem:
 
 - [Khôi phục thư viện OneDrive](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a150)
 
