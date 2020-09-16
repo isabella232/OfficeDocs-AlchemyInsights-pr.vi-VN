@@ -1,34 +1,35 @@
 ---
-title: 2609-giữ-hoặc-eDiscovery-giữ
+title: 2609-duy trì-hoặc-khám phá điện tử-giữ
 ms.author: markjjo
 author: markjjo
 manager: lauraw
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2609"
 - "9000048"
-ms.openlocfilehash: 4d2b36fb78390f32d68f1cdd11ca1af8013424a2
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: dee208560e7576597e20aec897f42432d7973727
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44576906"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47727913"
 ---
-# <a name="unable-to-delete-items-in-sharepoint-online-or-onedrive-for-business"></a>Không thể xoá các mục trong SharePoint trực tuyến hoặc OneDrive dành cho doanh nghiệp
+# <a name="unable-to-delete-items-in-sharepoint-online-or-onedrive-for-business"></a>Không thể xóa các mục trong SharePoint Online hoặc OneDrive for Business
 
-Bạn hoặc người dùng của bạn có thể xoá các mục trong SharePoint trực tuyến hoặc OneDrive dành cho doanh nghiệp vì chính sách lưu giữ, nhãn lưu giữ hoặc eDiscovery giữ được áp dụng cho SharePoint OneDrive trang web hoặc một mục cụ thể. Điều này bao gồm không thể xoá tài liệu, phiên bản tài liệu, thư mục, thư viện tài liệu, danh sách, ứng dụng, trang web hoặc bộ sưu tập trang web. 
+Bạn hoặc người dùng của bạn có thể không thể xóa các mục trong SharePoint Online hoặc OneDrive for Business vì chính sách duy trì, nhãn duy trì hoặc trạng thái khám phá điện tử được áp dụng cho SharePoint của site OneDrive hoặc đến một mục cụ thể. Điều này bao gồm việc không thể xóa tài liệu, phiên bản tài liệu, thư mục, thư viện tài liệu, danh sách, một ứng dụng, một site hoặc một tuyển tập trang. 
 
-Để xoá các mục trong một trong các trường hợp, chính sách lưu giữ, nhãn lưu giữ hoặc eDiscovery giữ đã được loại bỏ (hoặc một trang web đã được loại trừ khỏi chính sách lưu giữ). Bạn cần tắt hoặc loại trừ việc giữ tương ứng gây ra vấn đề này. Sau khi chính sách lưu giữ hoặc giữ bị xóa, có thể mất đến 24 giờ để thay đổi có hiệu lực. 
+Để xóa bỏ các mục trong một trong những tình huống này, chính sách duy trì, nhãn duy trì hoặc trạng thái khám phá điện tử đã bị loại bỏ (hoặc một site phải được loại trừ khỏi chính sách duy trì). Bạn cần phải tắt hoặc loại trừ giữ tương ứng đang gây ra sự cố này. Sau khi một chính sách duy trì hoặc giữ được loại bỏ, có thể mất tới 24 giờ để thay đổi có hiệu lực. 
 
-Để biết thông tin về các tính năng lưu giữ và giữ khác nhau có thể được áp dụng cho các trang web SharePoint và tài khoản OneDrive, hãy xem một trong các chủ đề sau.
+Để biết thêm thông tin về các tính năng duy trì và giữ khác nhau có thể được áp dụng cho các site SharePoint và tài khoản OneDrive, hãy xem một trong các chủ đề sau đây.
 
-- [Tổng quan về chính sách lưu giữ](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
-- [Tổng quan về nhãn lưu giữ](https://docs.microsoft.com/microsoft-365/compliance/labels)
-- [Quản lý giữ trong Advanced eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/managing-holds)
-- [eDiscovery giữ](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases#step-4-place-content-locations-on-hold)
-- [Chính sách đóng và xóa trang web cũ](https://support.office.com/article/Use-policies-for-site-closure-and-deletion-A8280D82-27FD-48C5-9ADF-8A5431208BA5)
+- [Tổng quan về chính sách duy trì](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
+- [Tổng quan về nhãn duy trì](https://docs.microsoft.com/microsoft-365/compliance/labels)
+- [Quản lý giữ trong khám phá điện tử nâng cao](https://docs.microsoft.com/microsoft-365/compliance/managing-holds)
+- [Khám phá điện tử giữ](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases#step-4-place-content-locations-on-hold)
+- [Các chính sách đóng cửa và xóa site kế thừa](https://support.office.com/article/Use-policies-for-site-closure-and-deletion-A8280D82-27FD-48C5-9ADF-8A5431208BA5)
