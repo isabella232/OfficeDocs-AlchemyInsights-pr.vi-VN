@@ -1,31 +1,32 @@
 ---
-title: Bước khắc phục sự cố Outlook
+title: Các bước khắc phục sự cố trong Outlook
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 munlocking-an-account s.custom:
 - "9002371"
 - "4607"
-ms.openlocfilehash: ff68085dc5c9c26d86981ed404f23cd1f2bf63e7
-ms.sourcegitcommit: 929f8accdca2b8e5be170e0fc8edd527581453d4
+ms.openlocfilehash: 1b6a2e4c9d35108eb6a909116b28e76d98602a8b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/12/2020
-ms.locfileid: "43232793"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47722261"
 ---
-# <a name="outlook-crash-troubleshooting-steps"></a>Bước khắc phục sự cố Outlook
+# <a name="outlook-crash-troubleshooting-steps"></a>Các bước khắc phục sự cố trong Outlook
 
-Nếu bạn gặp sự cố sập máy tính để bàn Outlook, hãy thử các giải pháp sau:
+Nếu bạn đang gặp sự cố trong Outlook trên máy tính, hãy thử các giải pháp sau:
 
-1. Điều tra các vấn đề có thể với trình bổ sung.
+1. Điều tra các sự cố có thể xảy ra với các phần bổ trợ.
 
-2. Sửa chữa Outlook và chạy [công cụ hỗ trợ và phục hồi trợ lý để khắc phục lỗi khởi động Outlook](https://aka.ms/SaRA-OutlookWontStart) trên máy bị ảnh hưởng.
+2. Sửa chữa Outlook và chạy [công cụ trợ giúp phục hồi và hỗ trợ để khắc phục sự cố khởi động Outlook](https://aka.ms/SaRA-OutlookWontStart) trên máy tính bị ảnh hưởng.
 
-3. Tạo hồ sơ Outlook mới hoặc bạn có thể chạy [công cụ hồ sơ Outlook](https://aka.ms/SaRA-OutlookSetupProfile) trên máy bị ảnh hưởng.
+3. Tạo hồ sơ Outlook mới hoặc bạn có thể chạy [công cụ hồ sơ Outlook](https://aka.ms/SaRA-OutlookSetupProfile) trên máy tính bị ảnh hưởng.
 
-Nếu sự cố xảy ra sau khi Cập Nhật và các bước trên không hoạt động, bạn có thể cần quay trở lại bản dựng trước đó. Xem [cách quay trở lại phiên bản cũ hơn của office 2013 hoặc office 2016 Click-to-Run](https://support.microsoft.com/help/2770432).
+Nếu sự cố xảy ra sau khi Cập Nhật và các bước trên không hoạt động, bạn có thể cần hoàn nguyên bản dựng trước đó. Xem cách hoàn nguyên về [Phiên bản cũ hơn của office 2013 hoặc office 2016 Click-to-Run](https://support.microsoft.com/help/2770432).
