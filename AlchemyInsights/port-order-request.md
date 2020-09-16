@@ -1,29 +1,30 @@
 ---
-title: Lệnh cổng yêu cầu
+title: Yêu cầu lệnh nối cổng
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002252"
 - "4554"
-ms.openlocfilehash: 02e031703f53ea2807f0164634b1ea6ae8585e66
-ms.sourcegitcommit: 18df9a170f6a0bda191c0ae763d2a5069dd22efa
+ms.openlocfilehash: 546bfac95b9bf45ad7a11c4ec83255d0fe6a6b46
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/07/2020
-ms.locfileid: "43161077"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47741829"
 ---
-# <a name="port-order-request"></a>Lệnh cổng yêu cầu
+# <a name="port-order-request"></a>Yêu cầu lệnh nối cổng
 
-Tải [loa](https://docs.microsoft.com/microsoftteams/manage-phone-numbers-for-your-organization/manage-phone-numbers-for-your-organization#letters-of-authorization-loas-for-transferring-numbers) cho quốc gia hoặc khu vực của bạn, hoàn thành biểu mẫu, và sau đó gửi đến bàn dịch vụ PSTN cho khu vực của bạn:
+Tải về [loa](https://docs.microsoft.com/microsoftteams/manage-phone-numbers-for-your-organization/manage-phone-numbers-for-your-organization#letters-of-authorization-loas-for-transferring-numbers) cho quốc gia hoặc khu vực của bạn, hoàn thành biểu mẫu, sau đó gửi nó đến bàn PSTN dịch vụ cho khu vực của bạn:
 
-- Tại Hoa Kỳ, [gửi yêu cầu của bạn](mailto:ptn@microsoft.com).
+- Tại Hoa Kỳ, hãy [gửi yêu cầu của bạn](mailto:ptn@microsoft.com).
 
-- Ở châu Âu, [gửi yêu cầu của bạn](mailto:ptneu@microsoft.com).
+- Tại châu Âu, hãy [gửi yêu cầu của bạn](mailto:ptneu@microsoft.com).
 
-- Ở Châu á, [gửi yêu cầu của bạn](mailto:ptnapac@microsoft.com).
+- Trong Asia, hãy [gửi yêu cầu của bạn](mailto:ptnapac@microsoft.com).

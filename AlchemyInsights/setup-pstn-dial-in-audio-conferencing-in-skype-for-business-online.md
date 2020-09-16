@@ -1,10 +1,11 @@
 ---
-title: Thiết lập PSTN quay số trong hội nghị âm thanh trong Skype dành cho doanh nghiệp trực tuyến
+title: Thiết lập PSTN quay số vào hội thảo âm thanh trong Skype for Business Online
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,21 +13,21 @@ ms.custom:
 - "9001521"
 - "3577"
 - "3579"
-ms.openlocfilehash: 2df72ee353fe0ac53d98d64942beca4ea5f83659
-ms.sourcegitcommit: 23d217597369d0ca585600f9454171e7c133c30e
+ms.openlocfilehash: 809627422cd245a6b5962762ced5b524dd0f3730
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "42288386"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47739559"
 ---
-# <a name="setup-pstn-dial-in-audio-conferencing-in-skype-for-business-online"></a>Thiết lập PSTN quay số trong hội nghị âm thanh trong Skype dành cho doanh nghiệp trực tuyến
+# <a name="setup-pstn-dial-in-audio-conferencing-in-skype-for-business-online"></a>Thiết lập PSTN quay số vào hội thảo âm thanh trong Skype for Business Online
 
-Nếu bạn muốn thiết lập hội thảo âm thanh cho Skype for Business Online, bạn sẽ cần phải thực hiện một số việc. 
+Nếu bạn muốn thiết lập hội thảo âm thanh cho Skype for Business Online, bạn sẽ cần thực hiện một số điều. 
 
-- Tìm hiểu xem Hội thảo âm thanh có sẵn ở quốc gia/khu vực của bạn hay không.
+- Tìm hiểu xem Hội thảo âm thanh có sẵn tại quốc gia/khu vực của bạn hay không.
 
-- Nhận và chỉ định giấy phép cho người dùng của bạn.
+- Nhận và gán giấy phép cho người dùng của bạn.
 
-- Nhận và gán số dịch vụ.
+- Nhận và gán các số dịch vụ.
 
-- Hoàn thành danh sách kiểm tra trong [thiết lập hội nghị âm thanh cho Skype dành cho doanh nghiệp](https://docs.microsoft.com/SkypeForBusiness/audio-conferencing-in-office-365/set-up-audio-conferencing).
+- Hoàn thành danh sách kiểm tra trong [thiết lập hội thảo âm thanh cho Skype for Business](https://docs.microsoft.com/SkypeForBusiness/audio-conferencing-in-office-365/set-up-audio-conferencing).

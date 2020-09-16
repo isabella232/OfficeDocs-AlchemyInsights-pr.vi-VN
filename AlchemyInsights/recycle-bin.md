@@ -1,35 +1,36 @@
 ---
 title: Thùng rác
-ms.author: stevhord
+ms.author: pebaum
 author: bentoncity
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 456586ec-330c-41be-b2f9-65f9947eb41a
-ms.openlocfilehash: 3ba566f02cad31b6c3c8cb8ba281f66fa3c78e14
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 417f1e343b94bf0397fa7fce067317f9ccc24bab
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720231"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47741001"
 ---
 # <a name="restore-items-in-sharepoint-online"></a>Khôi phục các mục trong SharePoint Online
 
-Khi bạn xoá các mục trong SharePoint trực tuyến, họ sẽ được giữ lại trong tổng số 93 ngày. Họ ở lại trong thùng rác trang web toàn bộ thời gian, trừ khi bạn có sản phẩm nào hoặc xóa các mục từ nó. Trong trường hợp đó, các mục đi đến các bộ sưu tập trang web thùng rác, nơi họ ở lại cho đến hết trong 93 ngày. Vào cuối thời gian, các mục sẽ bị xóa vĩnh viễn. Để khôi phục các mục đã xóa từ thùng rác trang web:
+Khi bạn xóa bỏ các mục trong SharePoint Online, chúng sẽ được giữ lại trong tổng số 93 ngày. Họ luôn ở trong thùng rác site toàn thời gian, trừ khi bạn làm trống hoặc xóa các mục khỏi đó. Trong trường hợp đó, các mục sẽ đi đến thùng rác của tuyển tập site, nơi họ giữ cho phần còn lại của 93 ngày. Khi kết thúc thời gian, các mục sẽ bị xóa vĩnh viễn. Để khôi phục các mục đã xóa khỏi thùng rác của site:
   
-1. Truy cập trang web và nhấp vào **thùng rác** trong ngăn bên trái. 
+1. Đi đến site và bấm **thùng rác** ở ngăn bên trái. 
     
-    Nếu bạn không thấy **thùng rác** trong ngăn bên trái, bấm vào biểu tượng cài đặt ở phía trên bên phải, và sau đó bấm vào **nội dung trang web**. Recycle Bin nằm ở phía bên phải của thanh lệnh ở trên cùng.
+    Nếu bạn không thấy **thùng rác** ở ngăn bên trái, hãy bấm vào biểu tượng thiết đặt ở phía trên bên phải, rồi bấm **nội dung site**. Thùng rác nằm ở xa bên phải của thanh lệnh ở trên cùng.
     
-2. Trên trang **Recycle Bin** , chọn các mục bạn muốn khôi phục bằng cách trỏ vào chúng và nhấp vào biểu tượng dấu kiểm xuất hiện. 
+2. Trên trang **thùng rác** , hãy chọn các mục mà bạn muốn khôi phục bằng cách trỏ vào chúng và bấm vào biểu tượng dấu kiểm xuất hiện. 
     
-3. Nhấp vào **khôi phục**.
+3. Bấm **khôi phục**.
     
-[Khôi phục các mục đã xoá từ bộ sưu tập trang web thùng rác](https://go.microsoft.com/fwlink/?linkid=866439)
+[Khôi phục các mục đã xóa khỏi thùng rác của tuyển tập site](https://go.microsoft.com/fwlink/?linkid=866439)
   
 
