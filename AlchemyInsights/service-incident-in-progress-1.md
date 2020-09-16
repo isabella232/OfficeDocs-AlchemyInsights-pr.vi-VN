@@ -1,29 +1,30 @@
 ---
-title: Sự cố dịch vụ đang tiến triển
-ms.author: v-crytho
+title: Sự cố dịch vụ đang thực hiện
+ms.author: pebaum
 author: CrystalThomasMS
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 2ed85d10-162f-4e4a-a843-7ad20e00a077
 ms.custom:
 - "121"
 - "1600017"
-ms.openlocfilehash: 5dd353c68aeda88c9adf3264eecc40f8e84a1f3f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 9bd973c26d7decb40a97884ab241bbde7165f31a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43681810"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47767945"
 ---
-# <a name="service-incident-in-progress"></a><span data-ttu-id="c1d6c-102">Sự cố dịch vụ đang tiến triển</span><span class="sxs-lookup"><span data-stu-id="c1d6c-102">Service Incident in progress</span></span>
+# <a name="service-incident-in-progress"></a><span data-ttu-id="d9ad0-102">Sự cố dịch vụ đang thực hiện</span><span class="sxs-lookup"><span data-stu-id="d9ad0-102">Service Incident in progress</span></span>
 
-<span data-ttu-id="c1d6c-103">Bạn có thể bị ảnh hưởng bởi sự cố dịch vụ hoặc tư vấn hiện đang được điều tra.</span><span class="sxs-lookup"><span data-stu-id="c1d6c-103">You might be affected by a service incident or advisory that is currently being investigated.</span></span> <span data-ttu-id="c1d6c-104">Bạn có thể kiểm tra trạng thái mới nhất bằng cách đi tới trang [y tế Dịch vụ](https://admin.microsoft.com/adminportal/home#/servicehealth) .</span><span class="sxs-lookup"><span data-stu-id="c1d6c-104">You can check the latest status by going to the [Service Health](https://admin.microsoft.com/adminportal/home#/servicehealth) page.</span></span>
+<span data-ttu-id="d9ad0-103">Bạn có thể bị ảnh hưởng bởi sự cố dịch vụ hoặc tư vấn hiện đang được nghiên cứu.</span><span class="sxs-lookup"><span data-stu-id="d9ad0-103">You might be affected by a service incident or advisory that is currently being investigated.</span></span> <span data-ttu-id="d9ad0-104">Bạn có thể kiểm tra trạng thái mới nhất bằng cách đi đến trang trạng thái [dịch vụ](https://admin.microsoft.com/adminportal/home#/servicehealth) .</span><span class="sxs-lookup"><span data-stu-id="d9ad0-104">You can check the latest status by going to the [Service Health](https://admin.microsoft.com/adminportal/home#/servicehealth) page.</span></span>
   
-<span data-ttu-id="c1d6c-105">Để thuận tiện cho bạn, bạn có thể tìm thấy một bản tóm tắt về sự cố này dưới đây:</span><span class="sxs-lookup"><span data-stu-id="c1d6c-105">For your convenience, you can find a summary of this incident below:</span></span>
+<span data-ttu-id="d9ad0-105">Để thuận tiện cho bạn, bạn có thể tìm thấy tóm tắt về sự cố này dưới đây:</span><span class="sxs-lookup"><span data-stu-id="d9ad0-105">For your convenience, you can find a summary of this incident below:</span></span>
   
-> <span data-ttu-id="c1d6c-106">**Số sự cố:**[{incidentid}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span><span class="sxs-lookup"><span data-stu-id="c1d6c-106">**Incident number:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span></span>
+> <span data-ttu-id="d9ad0-106">**Số sự cố:**[{incidentid}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span><span class="sxs-lookup"><span data-stu-id="d9ad0-106">**Incident number:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span></span>
     
-> <span data-ttu-id="c1d6c-107">Mô tả tác động: {ImpactDescription}</span><span class="sxs-lookup"><span data-stu-id="c1d6c-107">Impact description: {ImpactDescription}</span></span>
+> <span data-ttu-id="d9ad0-107">Mô tả tác động: {ImpactDescription}</span><span class="sxs-lookup"><span data-stu-id="d9ad0-107">Impact description: {ImpactDescription}</span></span>
