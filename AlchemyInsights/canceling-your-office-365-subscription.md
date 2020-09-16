@@ -1,10 +1,11 @@
 ---
-title: Hủy đăng ký của bạn?
+title: Hủy bỏ đăng ký của bạn?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,25 +13,25 @@ ms.custom:
 - "4"
 - "1400001"
 ms.assetid: e0ba53f0-3b0a-4082-a42f-40f2b45ad91a
-ms.openlocfilehash: bf86d0f3f01221211b7759a0f874ef9c6758a276
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 429dfe3d66fb37a62e2355084cd30c5e4fe16e71
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44508182"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47757358"
 ---
-# <a name="canceling-your-subscription"></a>Hủy đăng ký của bạn?
+# <a name="canceling-your-subscription"></a>Hủy bỏ đăng ký của bạn?
 
-Chúng tôi sẽ xin lỗi để xem bạn đi, nhưng nếu bạn muốn hủy bỏ đăng ký của bạn, đây là lựa chọn của bạn:
+Chúng tôi sẽ rất tiếc để xem bạn đi, nhưng nếu bạn muốn hủy bỏ đăng ký của mình, dưới đây là các tùy chọn của bạn:
   
-- Nếu bạn là một khách hàng dùng thử, không có gì để hủy bỏ. Đăng ký dùng thử hết hạn tự động trừ khi bạn cung cấp phương thức thanh toán.
+- Nếu bạn là khách hàng dùng thử, không có gì để hủy bỏ. Các gói đăng ký dùng thử sẽ tự động hết hạn trừ khi bạn cung cấp phương thức thanh toán.
 
-- Nếu bạn có ít hơn 25 giấy phép được chỉ định, bạn có thể hủy đăng ký trực tuyến. Chuyển đến trang **thanh toán** \> **[sản phẩm của bạn](https://go.microsoft.com/fwlink/p/?linkid=842054)** . Trong phần **cài đặt & hành động** , chọn **hủy đăng ký**.
+- Nếu bạn có ít hơn 25 giấy phép đã gán, bạn có thể hủy bỏ đăng ký của mình trực tuyến. Đi tới **thanh toán hóa** \> trang **[sản phẩm của bạn](https://go.microsoft.com/fwlink/p/?linkid=842054)** . Trong phần **cài đặt & hành động** , hãy chọn **hủy bỏ đăng ký**.
 
-- Nếu bạn có nhiều hơn 25 giấy phép được chỉ định, bạn có thể xóa người dùng cho đến khi bạn có ít hơn 25.
+- Nếu bạn có hơn 25 giấy phép đã gán, bạn có thể loại bỏ người dùng cho đến khi bạn có ít hơn 25.
   
-**Hoàn lại tiền: bất kỳ khoản tín dụng theo tỷ lệ nào sẽ được trả lại cho bạn trong chu kỳ thanh toán kế tiếp.** 
+**Hoàn tiền: bất kỳ tín dụng nào sẽ được trả về cho bạn trong chu kỳ thanh toán tiếp theo.** 
 
-**Lưu ý**: nếu bạn không thấy tùy chọn để hủy bỏ, hãy nhấp vào đăng ký để xem chi tiết và bạn sẽ thấy tùy chọn **hủy đăng ký** trong **cài đặt & hành động**. 
+**Lưu ý**: nếu bạn không nhìn thấy tùy chọn hủy bỏ, hãy bấm vào thuê bao để xem chi tiết và bạn sẽ thấy tùy chọn **hủy bỏ đăng ký** trong **thiết đặt & hành động**. 
 
-Để tìm hiểu thêm, hãy xem [hủy đăng ký của bạn](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+Để tìm hiểu thêm, hãy xem [hủy bỏ đăng ký của bạn](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).

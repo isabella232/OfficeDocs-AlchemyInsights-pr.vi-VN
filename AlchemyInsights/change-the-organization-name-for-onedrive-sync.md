@@ -1,30 +1,31 @@
 ---
-title: Thay đổi tên tổ chức cho khách hàng đồng bộ OneDrive
+title: Thay đổi tên tổ chức cho máy khách đồng bộ OneDrive
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003077"
 - "5850"
-ms.openlocfilehash: 5e4531d2d2a1ca78f8bc81a9246072dd6f3bd852
-ms.sourcegitcommit: 3ca312535d950105ee829e037f0ff8f1ddbbae72
+ms.openlocfilehash: 8e474276633bba2895338fd0c0a5903df1ddf637
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/11/2020
-ms.locfileid: "44708766"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47756737"
 ---
-# <a name="change-the-organization-name-for-the-onedrive-sync-client"></a>Thay đổi tên tổ chức cho khách hàng đồng bộ OneDrive
+# <a name="change-the-organization-name-for-the-onedrive-sync-client"></a>Thay đổi tên tổ chức cho máy khách đồng bộ OneDrive
 
-OneDrive sử dụng tên tổ chức được thiết lập bởi người quản trị đối tượng thuê.  Bạn có thể [thay đổi địa chỉ của tổ chức, liên hệ kỹ thuật và hơn thế nữa](https://docs.microsoft.com/microsoft-365/admin/manage/change-address-contact-and-more). Sau khi thay đổi được thực hiện cho người thuê, khách hàng đồng bộ OneDrive sẽ không phản ánh tên mới cho đến khi người dùng hủy liên kết và relink OneDrive tài khoản của họ.
+OneDrive sử dụng tên tổ chức do người quản trị đối tượng thuê thiết lập.  Bạn có thể [thay đổi địa chỉ của tổ chức, liên hệ kỹ thuật và nhiều hơn nữa](https://docs.microsoft.com/microsoft-365/admin/manage/change-address-contact-and-more). Sau khi đã thực hiện thay đổi cho đối tượng thuê, máy khách đồng bộ OneDrive sẽ không phản ánh tên mới cho đến khi người dùng hủy liên kết và nối lại tài khoản OneDrive của họ.
 
 Để hủy liên kết tài khoản:
 
-1. Chọn biểu tượng đám mây OneDrive màu xanh lam ở phía xa bên phải của thanh tác vụ, sau đó chọn **thêm > cài đặt > tài khoản**.
-2. Tìm tài khoản bạn muốn hủy liên kết và chọn **hủy kích hoạt PC này**, sau đó hủy liên kết **tài khoản**.
+1. Chọn biểu tượng đám mây OneDrive màu lam ở ngoài cùng bên phải của thanh tác vụ, sau đó chọn  **thêm > thiết đặt > tài khoản**.
+2. Tìm tài khoản mà bạn muốn hủy liên kết và chọn hủy liên kết  **PC này**, rồi hủy liên kết  **tài khoản**.
 
-Để liên kết lại tài khoản, hãy chọn **Thêm tài khoản** từ tab **tài khoản** trong cài đặt và đăng nhập lại vào OneDrive.
+Để nối kết lại tài khoản, hãy chọn  **Thêm tài khoản** từ tab  **tài khoản** trong thiết đặt và đăng nhập lại vào onedrive.

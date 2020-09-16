@@ -1,29 +1,30 @@
 ---
-title: Khắc phục sự cố PST nhập khẩu
+title: Khắc phục sự cố PST nhập vấn đề
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1800027"
 - "1225"
-ms.openlocfilehash: 58fdd509fae5e87bf5ae72db5d8926c4367cdd64
-ms.sourcegitcommit: 87aa36e3ff4835efb120a320c5169bfa77199ec4
+ms.openlocfilehash: 5fdb713f321e5c9f67a6078739c31a90571b913d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43991388"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47757762"
 ---
-# <a name="troubleshooting-pst-import-issues"></a>Khắc phục sự cố PST nhập khẩu
+# <a name="troubleshooting-pst-import-issues"></a>Khắc phục sự cố PST nhập vấn đề
 
-- Nếu bạn đang nhập khẩu trong máy khách Outlook chính nó, hãy xem [khắc phục sự cố nhập tệp. PST Outlook](https://support.office.com/article/Fix-problems-importing-an-Outlook-pst-file-2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e).
+- Nếu bạn đang nhập trong ứng dụng khách Outlook chính nó, vui lòng xem [khắc phục sự cố khi nhập tệp Outlook. PST](https://support.office.com/article/Fix-problems-importing-an-Outlook-pst-file-2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e).
 
-- Nếu bạn đang sử dụng dịch vụ nhập và nó bị kẹt, xin lưu ý rằng mỗi tệp PST mà bạn tải lên vị trí lưu trữ Azure sẽ không lớn hơn 20 GB. PST các tập tin lớn hơn 20 GB có thể ảnh hưởng đến hiệu suất của quá trình PST nhập khẩu.
+- Nếu bạn đang sử dụng dịch vụ nhập và nó bị kẹt, vui lòng lưu ý rằng mỗi tệp PST mà bạn tải lên đến vị trí lưu trữ Azure sẽ không lớn hơn 20 GB. PST các tệp lớn hơn 20 GB có thể ảnh hưởng đến hiệu suất của quy trình nhập PST.
 
-- Nếu bạn muốn kiểm tra trạng thái của một công việc nhập cụ thể, bạn có thể sử dụng [Get-MailboxImportRequest-batchname](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-mailboximportrequest).
+- Nếu bạn muốn xác minh trạng thái của một công việc nhập cụ thể, bạn có thể dùng [Get-MailboxImportRequest-batchname](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-mailboximportrequest).
 
-- Để biết chi tiết đầy đủ về các dịch vụ nhập khẩu, xin vui lòng xem [tổng quan về nhập khẩu của tổ chức của bạn PST tập tin](https://docs.microsoft.com/microsoft-365/compliance/importing-pst-files-to-office-365?view=o365-worldwide).
+- Để biết chi tiết đầy đủ về dịch vụ nhập, vui lòng xem [tổng quan về việc nhập các TỆP PST của tổ chức của bạn](https://docs.microsoft.com/microsoft-365/compliance/importing-pst-files-to-office-365?view=o365-worldwide).
