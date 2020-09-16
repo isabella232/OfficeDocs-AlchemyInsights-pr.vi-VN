@@ -1,10 +1,11 @@
 ---
-title: COVID-19 các câu hỏi về thanh toán và giấy phép
+title: Các câu hỏi về thanh toán và giấy phép COVID-19
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -15,13 +16,13 @@ ms.custom:
 - "5113"
 - "9002647"
 - "5091"
-ms.openlocfilehash: 75251e129e71f5f9800aa8a439d09aabb7c07bdd
-ms.sourcegitcommit: 87aa36e3ff4835efb120a320c5169bfa77199ec4
+ms.openlocfilehash: 083a4047f86bf315702a90822eaefa5a5d2bf72a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43991031"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47747573"
 ---
-# <a name="covid-19-billing-and-license-questions"></a><span data-ttu-id="8bab6-102">COVID-19 các câu hỏi về thanh toán và giấy phép</span><span class="sxs-lookup"><span data-stu-id="8bab6-102">COVID-19 billing and license questions</span></span>
+# <a name="covid-19-billing-and-license-questions"></a><span data-ttu-id="4406c-102">Các câu hỏi về thanh toán và giấy phép COVID-19</span><span class="sxs-lookup"><span data-stu-id="4406c-102">COVID-19 billing and license questions</span></span>
 
-<span data-ttu-id="8bab6-103">Tham khảo [cam kết của chúng tôi đối với khách hàng trong thời gian COVID-19](https://www.microsoft.com/microsoft-365/blog/2020/03/05/our-commitment-to-customers-during-covid-19/) blog đăng bài cho các bản cập nhật mới nhất.</span><span class="sxs-lookup"><span data-stu-id="8bab6-103">Refer to [Our commitment to customers during COVID-19](https://www.microsoft.com/microsoft-365/blog/2020/03/05/our-commitment-to-customers-during-covid-19/) blog post for the latest updates.</span></span>  <span data-ttu-id="8bab6-104">Nếu bạn có các câu hỏi về việc thanh toán hoặc cấp phép cụ thể liên quan đến khủng hoảng Covid-19, vui lòng nhấp vào **hỗ trợ liên hệ** ở cuối trang này.</span><span class="sxs-lookup"><span data-stu-id="8bab6-104">If you have specific billing or license questions related to the Covid-19 crisis, please click **Contact support** at the bottom of this page.</span></span>
+<span data-ttu-id="4406c-103">Tham khảo các [cam kết của chúng tôi đối với khách hàng trong COVID-19](https://www.microsoft.com/microsoft-365/blog/2020/03/05/our-commitment-to-customers-during-covid-19/) Blog Post cho các bản cập nhật mới nhất.</span><span class="sxs-lookup"><span data-stu-id="4406c-103">Refer to [Our commitment to customers during COVID-19](https://www.microsoft.com/microsoft-365/blog/2020/03/05/our-commitment-to-customers-during-covid-19/) blog post for the latest updates.</span></span>  <span data-ttu-id="4406c-104">Nếu bạn có các câu hỏi về thanh toán hoặc giấy phép cụ thể liên quan đến cuộc khủng hoảng Covid-19, vui lòng bấm **liên hệ với bộ phận hỗ trợ** ở cuối trang này.</span><span class="sxs-lookup"><span data-stu-id="4406c-104">If you have specific billing or license questions related to the Covid-19 crisis, please click **Contact support** at the bottom of this page.</span></span>
