@@ -5,21 +5,22 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002552"
 - "5146"
-ms.openlocfilehash: c40606df4a79fed1e526440f7f27f8f15dbd2032
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 6bc87783375a206a84c96eb7ddd58db5bfd31728
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44058882"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47756989"
 ---
-# <a name="cdn-used-for-video-playback"></a><span data-ttu-id="623f5-102">CDN được sử dụng để phát lại video</span><span class="sxs-lookup"><span data-stu-id="623f5-102">CDN used for video playback</span></span>
+# <a name="cdn-used-for-video-playback"></a><span data-ttu-id="4472b-102">CDN được sử dụng để phát lại video</span><span class="sxs-lookup"><span data-stu-id="4472b-102">CDN used for video playback</span></span>
 
-<span data-ttu-id="623f5-103">Sự kiện trực tiếp từ Stream và ứng dụng bên ngoài hoặc sự kiện trực tiếp của thiết bị từ yammer/teams sẽ tự động sử dụng Azure CDN.</span><span class="sxs-lookup"><span data-stu-id="623f5-103">Live events from Stream and External app or device live events from Yammer/Teams will automatically use Azure CDN.</span></span> <span data-ttu-id="623f5-104">Video theo yêu cầu được tải lên Stream chưa sử dụng Azure CDN để phát lại.</span><span class="sxs-lookup"><span data-stu-id="623f5-104">On-demand videos uploaded to Stream don't yet use Azure CDN for playback.</span></span> <span data-ttu-id="623f5-105">Các video không phát trực tiếp trong Stream được phát lại từ máy chủ nguồn gốc của dịch vụ phương tiện Azure liên kết với đối tượng thuê của bạn trong vùng địa lý của đối tượng thuê.</span><span class="sxs-lookup"><span data-stu-id="623f5-105">Non-live videos in Stream are played back from the Azure Media Services origin server associated with your tenant in your tenant's geographic region.</span></span> <span data-ttu-id="623f5-106">Để biết thêm thông tin, hãy xem:</span><span class="sxs-lookup"><span data-stu-id="623f5-106">For more information, see:</span></span>
+<span data-ttu-id="4472b-103">Các sự kiện trực tiếp từ các sự kiện trong dòng và ứng dụng bên ngoài hoặc thiết bị trực tiếp từ yammer/nhóm sẽ tự động sử dụng Azure CDN.</span><span class="sxs-lookup"><span data-stu-id="4472b-103">Live events from Stream and External app or device live events from Yammer/Teams will automatically use Azure CDN.</span></span> <span data-ttu-id="4472b-104">Video theo yêu cầu được tải lên Stream chưa sử dụng Azure CDN để phát lại.</span><span class="sxs-lookup"><span data-stu-id="4472b-104">On-demand videos uploaded to Stream don't yet use Azure CDN for playback.</span></span> <span data-ttu-id="4472b-105">Video không trực tiếp trong Stream được phát lại từ máy chủ nguồn gốc Azure Media Services được liên kết với đối tượng thuê của bạn trong khu vực địa lý của đối tượng thuê.</span><span class="sxs-lookup"><span data-stu-id="4472b-105">Non-live videos in Stream are played back from the Azure Media Services origin server associated with your tenant in your tenant's geographic region.</span></span> <span data-ttu-id="4472b-106">Để biết thêm thông tin, hãy xem:</span><span class="sxs-lookup"><span data-stu-id="4472b-106">For more information, see:</span></span>
 
-- [<span data-ttu-id="623f5-107">CDN được sử dụng để phát lại video</span><span class="sxs-lookup"><span data-stu-id="623f5-107">CDN used for video playback</span></span>](https://docs.microsoft.com/stream/network-overview#cdn-used-for-video-playback)
+- [<span data-ttu-id="4472b-107">CDN được sử dụng để phát lại video</span><span class="sxs-lookup"><span data-stu-id="4472b-107">CDN used for video playback</span></span>](https://docs.microsoft.com/stream/network-overview#cdn-used-for-video-playback)

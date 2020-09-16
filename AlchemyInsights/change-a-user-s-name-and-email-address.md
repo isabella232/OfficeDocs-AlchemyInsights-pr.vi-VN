@@ -5,6 +5,7 @@ author: cmcatee-MSFT
 manager: mnirkhe
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,17 +13,17 @@ ms.assetid: 9e00841d-fda2-4610-95a6-c99a4b1e891a
 ms.custom:
 - "17"
 - "4"
-ms.openlocfilehash: c918567be57fa16317f3a0f516510ecea772bb67
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 3ef63bd59683eed105b8391188b8c8bbd99ed984
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44508146"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47756953"
 ---
-# <a name="change-a-users-name-and-email-address"></a><span data-ttu-id="a62ce-102">Thay đổi tên và địa chỉ email của người dùng</span><span class="sxs-lookup"><span data-stu-id="a62ce-102">Change a user's name and email address</span></span>
+# <a name="change-a-users-name-and-email-address"></a><span data-ttu-id="3970a-102">Thay đổi tên và địa chỉ email của người dùng</span><span class="sxs-lookup"><span data-stu-id="3970a-102">Change a user's name and email address</span></span>
 
-<span data-ttu-id="a62ce-103">Thay đổi tên và địa chỉ email của người dùng trong Microsoft 365 rất dễ dàng.</span><span class="sxs-lookup"><span data-stu-id="a62ce-103">Changing a user's name and email address in Microsoft 365 is easy.</span></span> <span data-ttu-id="a62ce-104">Truy cập trang **Users** người dùng \> [đang hoạt động](https://go.microsoft.com/fwlink/p/?linkid=834822) của người dùng và chọn người dùng để chỉnh sửa thông tin của họ.</span><span class="sxs-lookup"><span data-stu-id="a62ce-104">Go to the **Users** \> [Active Users](https://go.microsoft.com/fwlink/p/?linkid=834822) page and select the user to edit their information.</span></span> <span data-ttu-id="a62ce-105">Bạn cũng có thể sử dụng bài viết này để biết hướng dẫn từng bước:</span><span class="sxs-lookup"><span data-stu-id="a62ce-105">You can also use this article for step-by-step instructions:</span></span>
+<span data-ttu-id="3970a-103">Thay đổi tên và địa chỉ email của người dùng trong Microsoft 365 là dễ dàng.</span><span class="sxs-lookup"><span data-stu-id="3970a-103">Changing a user's name and email address in Microsoft 365 is easy.</span></span> <span data-ttu-id="3970a-104">Đi đến trang **người** \> [dùng hiện hoạt](https://go.microsoft.com/fwlink/p/?linkid=834822) và chọn người dùng để chỉnh sửa thông tin của họ.</span><span class="sxs-lookup"><span data-stu-id="3970a-104">Go to the **Users** \> [Active Users](https://go.microsoft.com/fwlink/p/?linkid=834822) page and select the user to edit their information.</span></span> <span data-ttu-id="3970a-105">Bạn cũng có thể dùng bài viết này để biết hướng dẫn từng bước:</span><span class="sxs-lookup"><span data-stu-id="3970a-105">You can also use this article for step-by-step instructions:</span></span>
   
-[<span data-ttu-id="a62ce-106">Thay đổi tên người dùng và địa chỉ email trong Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="a62ce-106">Change a user name and email address in Microsoft 365</span></span>](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address)
+[<span data-ttu-id="3970a-106">Thay đổi tên người dùng và địa chỉ email trong Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="3970a-106">Change a user name and email address in Microsoft 365</span></span>](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address)
   
- <span data-ttu-id="a62ce-107">**Lưu ý**: nếu bạn thay đổi địa chỉ email chính của người dùng, địa chỉ email cũ của họ sẽ vẫn có hiệu lực để nhận email (điều này xảy ra tự động).</span><span class="sxs-lookup"><span data-stu-id="a62ce-107">**Note**: If you change the user's main email address, their old email address will still be valid for receiving email (this happens automatically).</span></span> <span data-ttu-id="a62ce-108">Ngoài ra, nếu tổ chức của bạn ở trạng thái lai, tất cả các thay đổi tên người dùng và email cần phải được thực hiện trong Active Directory tại chỗ và sau đó đồng bộ hóa với đám mây.</span><span class="sxs-lookup"><span data-stu-id="a62ce-108">Also, if your organization is in Hybrid state, all email and user name changes need to be done in on-premises Active Directory and then synced to the cloud.</span></span>
+ <span data-ttu-id="3970a-107">**Lưu ý**: nếu bạn thay đổi địa chỉ email chính của người dùng, địa chỉ email cũ của họ sẽ vẫn có hiệu lực để nhận email (điều này sẽ xảy ra tự động).</span><span class="sxs-lookup"><span data-stu-id="3970a-107">**Note**: If you change the user's main email address, their old email address will still be valid for receiving email (this happens automatically).</span></span> <span data-ttu-id="3970a-108">Ngoài ra, nếu tổ chức của bạn đang ở trạng thái hỗn hợp, tất cả các thay đổi về tên email và người dùng cần phải được thực hiện trong Active Directory tại chỗ và sau đó đồng bộ hóa với đám mây.</span><span class="sxs-lookup"><span data-stu-id="3970a-108">Also, if your organization is in Hybrid state, all email and user name changes need to be done in on-premises Active Directory and then synced to the cloud.</span></span>
