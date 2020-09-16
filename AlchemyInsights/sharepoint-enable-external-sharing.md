@@ -1,50 +1,51 @@
 ---
-title: Bật chia sẻ bên ngoài trong SharePoint Online
+title: Bật chia sẻ với bên ngoài trong SharePoint Online
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: bdd9d9fc1c0cd51d78a02a50a7c4aba4672c3482
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: fdcc6d81411e231ba18ad296508fef6c4ca648b3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44495649"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47727229"
 ---
-# <a name="enable-external-sharing-in-sharepoint-online"></a><span data-ttu-id="778fc-102">Bật chia sẻ bên ngoài trong SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="778fc-102">Enable external sharing in SharePoint Online</span></span>
+# <a name="enable-external-sharing-in-sharepoint-online"></a><span data-ttu-id="8d285-102">Bật chia sẻ với bên ngoài trong SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="8d285-102">Enable external sharing in SharePoint Online</span></span>
 
-<span data-ttu-id="778fc-103">Nếu tổ chức của bạn thực hiện công việc có liên quan đến chia sẻ tài liệu hoặc cộng tác trực tiếp với nhà cung cấp, khách hàng hoặc khách hàng, thì bạn có thể sử dụng các [tính năng chia sẻ bên ngoài của SharePoint Online](https://docs.microsoft.com/sharepoint/external-sharing-overview) để chia sẻ nội dung với những người bên ngoài tổ chức của bạn.</span><span class="sxs-lookup"><span data-stu-id="778fc-103">If your organization performs work that involves sharing documents or collaborating directly with vendors, clients, or customers, then you can use the [external sharing features of SharePoint Online](https://docs.microsoft.com/sharepoint/external-sharing-overview) to share content with people outside your organization.</span></span>
+<span data-ttu-id="8d285-103">Nếu tổ chức của bạn thực hiện hoạt động liên quan đến việc chia sẻ tài liệu hoặc cộng tác trực tiếp với nhà cung cấp, khách hàng hoặc khách hàng, thì bạn có thể sử dụng các [tính năng chia sẻ bên ngoài của SharePoint Online](https://docs.microsoft.com/sharepoint/external-sharing-overview) để chia sẻ nội dung với những người bên ngoài tổ chức của bạn.</span><span class="sxs-lookup"><span data-stu-id="8d285-103">If your organization performs work that involves sharing documents or collaborating directly with vendors, clients, or customers, then you can use the [external sharing features of SharePoint Online](https://docs.microsoft.com/sharepoint/external-sharing-overview) to share content with people outside your organization.</span></span>
 
-<span data-ttu-id="778fc-104">Để biết thêm thông tin về chia sẻ bên ngoài (khách) vui lòng truy cập vào các liên kết dưới đây.</span><span class="sxs-lookup"><span data-stu-id="778fc-104">For more information on External Sharing (Guests) please visit the links below.</span></span>
+<span data-ttu-id="8d285-104">Để biết thêm thông tin về chia sẻ bên ngoài (khách) vui lòng truy cập vào các nối kết bên dưới.</span><span class="sxs-lookup"><span data-stu-id="8d285-104">For more information on External Sharing (Guests) please visit the links below.</span></span>
 
-- [<span data-ttu-id="778fc-105">Người dùng bên ngoài là gì?</span><span class="sxs-lookup"><span data-stu-id="778fc-105">What is an external user?</span></span>](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-is-an-external-user)
+- [<span data-ttu-id="8d285-105">Người dùng bên ngoài là gì?</span><span class="sxs-lookup"><span data-stu-id="8d285-105">What is an external user?</span></span>](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-is-an-external-user)
 
-- [<span data-ttu-id="778fc-106">Điều gì sẽ xảy ra khi tôi chia sẻ một trang web hoặc tài liệu?</span><span class="sxs-lookup"><span data-stu-id="778fc-106">What happens when I share a site or document?</span></span>](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document)
+- [<span data-ttu-id="8d285-106">Điều gì xảy ra khi tôi chia sẻ site hoặc tài liệu?</span><span class="sxs-lookup"><span data-stu-id="8d285-106">What happens when I share a site or document?</span></span>](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document)
 
-- [<span data-ttu-id="778fc-107">Bật hoặc tắt chia sẻ bên ngoài cho SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="778fc-107">Turn external sharing on or off for SharePoint Online</span></span>](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
+- [<span data-ttu-id="8d285-107">Bật hoặc tắt tính năng chia sẻ bên ngoài cho SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="8d285-107">Turn external sharing on or off for SharePoint Online</span></span>](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
 
-- [<span data-ttu-id="778fc-108">Bật hoặc tắt chia sẻ bên ngoài cho một trang web</span><span class="sxs-lookup"><span data-stu-id="778fc-108">Turn external sharing on or off for a site</span></span>](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
+- [<span data-ttu-id="8d285-108">Bật hoặc tắt tính năng chia sẻ với bên ngoài cho một trang</span><span class="sxs-lookup"><span data-stu-id="8d285-108">Turn external sharing on or off for a site</span></span>](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
 
-- [<span data-ttu-id="778fc-109">Quản lý khách truy cập trong Microsoft 365 Groups</span><span class="sxs-lookup"><span data-stu-id="778fc-109">Manage guest access in Microsoft 365 Groups</span></span>](https://docs.microsoft.com/microsoft-365/admin/create-groups/manage-guest-access-in-groups)
+- [<span data-ttu-id="8d285-109">Quản lý quyền truy nhập của khách trong nhóm Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="8d285-109">Manage guest access in Microsoft 365 Groups</span></span>](https://docs.microsoft.com/microsoft-365/admin/create-groups/manage-guest-access-in-groups)
 
-- [<span data-ttu-id="778fc-110">Sử dụng SharePoint trực tuyến như một giải pháp extranet doanh nghiệp đến doanh nghiệp (B2B)</span><span class="sxs-lookup"><span data-stu-id="778fc-110">Use Sharepoint Online as a business-to-business (B2B) extranet solution</span></span>](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
+- [<span data-ttu-id="8d285-110">Sử dụng SharePoint Online làm giải pháp bên ngoài nơi Business-to-Business (B2B)</span><span class="sxs-lookup"><span data-stu-id="8d285-110">Use Sharepoint Online as a business-to-business (B2B) extranet solution</span></span>](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
 
-- [<span data-ttu-id="778fc-111">Chia sẻ tệp hoặc cặp SharePoint</span><span class="sxs-lookup"><span data-stu-id="778fc-111">Share SharePoint files or folder</span></span>](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
+- [<span data-ttu-id="8d285-111">Chia sẻ tệp hoặc thư mục SharePoint</span><span class="sxs-lookup"><span data-stu-id="8d285-111">Share SharePoint files or folder</span></span>](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
 
-- [<span data-ttu-id="778fc-112">Dừng chia sẻ tệp hoặc thư mục OneDrive hoặc SharePoint hoặc thay đổi quyền</span><span class="sxs-lookup"><span data-stu-id="778fc-112">Stop sharing OneDrive or SharePoint files or folders, or change permissions</span></span>](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323)
+- [<span data-ttu-id="8d285-112">Ngừng chia sẻ các tệp hoặc thư mục trong OneDrive hoặc SharePoint, hoặc thay đổi quyền</span><span class="sxs-lookup"><span data-stu-id="8d285-112">Stop sharing OneDrive or SharePoint files or folders, or change permissions</span></span>](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323)
 
-- [<span data-ttu-id="778fc-113">Xóa người dùng bên ngoài</span><span class="sxs-lookup"><span data-stu-id="778fc-113">Delete an external user</span></span>](https://docs.microsoft.com/sharepoint/remove-users#delete-a-guest-from-the-microsoft-365-admin-center)
+- [<span data-ttu-id="8d285-113">Xóa người dùng bên ngoài</span><span class="sxs-lookup"><span data-stu-id="8d285-113">Delete an external user</span></span>](https://docs.microsoft.com/sharepoint/remove-users#delete-a-guest-from-the-microsoft-365-admin-center)
 
-<span data-ttu-id="778fc-114">**Nhận được lỗi với người dùng bên ngoài (khách)?**</span><span class="sxs-lookup"><span data-stu-id="778fc-114">**Receiving an error with an external user (guest)?**</span></span>
+<span data-ttu-id="8d285-114">**Nhận được lỗi với người dùng bên ngoài (khách)?**</span><span class="sxs-lookup"><span data-stu-id="8d285-114">**Receiving an error with an external user (guest)?**</span></span>
 
-<span data-ttu-id="778fc-115">Kiểm tra các liên kết dưới đây.</span><span class="sxs-lookup"><span data-stu-id="778fc-115">Check the links below.</span></span> 
+<span data-ttu-id="8d285-115">Kiểm tra các nối kết bên dưới.</span><span class="sxs-lookup"><span data-stu-id="8d285-115">Check the links below.</span></span> 
 
-- [<span data-ttu-id="778fc-116">Lỗi chia sẻ OSE trong SharePoint hoặc OneDrive</span><span class="sxs-lookup"><span data-stu-id="778fc-116">OSE Sharing errors in Sharepoint or OneDrive</span></span>](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
+- [<span data-ttu-id="8d285-116">Lỗi chia sẻ OSE trong SharePoint hoặc OneDrive</span><span class="sxs-lookup"><span data-stu-id="8d285-116">OSE Sharing errors in Sharepoint or OneDrive</span></span>](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 
-- [<span data-ttu-id="778fc-117">Thông báo lỗi khi người dùng bên ngoài chấp nhận lời mời SharePoint trực tuyến bằng cách sử dụng tài khoản khác</span><span class="sxs-lookup"><span data-stu-id="778fc-117">Error message when an external user accepts a SharePoint Online invitation by using another account</span></span>](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
+- [<span data-ttu-id="8d285-117">Thông báo lỗi khi người dùng bên ngoài chấp nhận lời mời SharePoint Online bằng cách sử dụng một tài khoản khác</span><span class="sxs-lookup"><span data-stu-id="8d285-117">Error message when an external user accepts a SharePoint Online invitation by using another account</span></span>](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
 
-- [<span data-ttu-id="778fc-118">Truy nhập bị từ chối vào cặp chia sẻ</span><span class="sxs-lookup"><span data-stu-id="778fc-118">Access denied to a shared folder</span></span>](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/cannot-access-shared-folder)
+- [<span data-ttu-id="8d285-118">Truy nhập bị từ chối đến một thư mục dùng chung</span><span class="sxs-lookup"><span data-stu-id="8d285-118">Access denied to a shared folder</span></span>](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/cannot-access-shared-folder)
