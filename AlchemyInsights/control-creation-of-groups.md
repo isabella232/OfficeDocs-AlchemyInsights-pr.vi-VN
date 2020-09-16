@@ -1,12 +1,12 @@
 ---
-title: Điều khiển tạo nhóm
+title: Kiểm soát việc tạo nhóm
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -14,15 +14,15 @@ ms.custom:
 - "168"
 - "1200029"
 ms.assetid: e06cdce9-1e43-475d-970b-e0bac0fc5446
-ms.openlocfilehash: 39eb0a09543ab55f9255a42cb1c83e91f656acb0
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: fa3dd7798eb41164ca27a2dfe2a036e53bc3db0d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44507752"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47733241"
 ---
-# <a name="control-creation-of-microsoft-365-groups"></a>Kiểm soát tạo của Microsoft 365 nhóm
+# <a name="control-creation-of-microsoft-365-groups"></a>Kiểm soát việc tạo nhóm Microsoft 365
 
-Theo mặc định, tất cả người dùng trong công ty đều có thể tạo nhóm. Nếu cần thiết, bạn có thể thay đổi điều này, và chỉ định quyền tạo nhóm cho một tập hợp những người trong công ty của bạn. Lưu ý rằng điều này sẽ ảnh hưởng đến việc tạo nhóm từ bất kỳ dịch vụ Microsoft 365 nào (chẳng hạn như Outlook, teams, Planner và như vậy).
+Theo mặc định, tất cả người dùng trong công ty đều có thể tạo nhóm. Nếu cần, bạn có thể thay đổi điều này và gán quyền tạo nhóm cho một tập hợp mọi người trong công ty của mình. Lưu ý rằng điều này sẽ ảnh hưởng đến việc tạo nhóm từ bất kỳ dịch vụ Microsoft 365 nào (chẳng hạn như Outlook, nhóm, Planner v.v.).
   
-Hướng dẫn: [quản lý người có thể tạo nhóm Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/create-groups/manage-creation-of-groups)
+Hướng dẫn: [quản lý những người có thể tạo nhóm Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/create-groups/manage-creation-of-groups)

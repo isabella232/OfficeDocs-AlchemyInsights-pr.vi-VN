@@ -1,29 +1,30 @@
 ---
-title: Tín dụng truyền thông
+title: Tín dụng liên lạc
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002395"
 - "4683"
-ms.openlocfilehash: a4f9b04ed0fc51d9c5a79c12162ca57a75ea7eb3
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: e35454836320c5aee23f80aa6f6c04414fb127ef
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44204274"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47733425"
 ---
-# <a name="communication-credits"></a>Tín dụng truyền thông
+# <a name="communication-credits"></a>Tín dụng liên lạc
 
-Tín dụng truyền thông là một cách thuận tiện để thanh toán cho hội nghị âm thanh và số phút kế hoạch cuộc gọi. Bạn sẽ cần thiết lập tín dụng truyền thông nếu bạn muốn sử dụng số điện thoại miễn phí với Skype for Business và Microsoft teams.
+Tín dụng giao tiếp là cách thuận tiện để thanh toán cho hội thảo âm thanh và số phút gọi kế hoạch. Bạn sẽ cần phải thiết lập các khoản tín dụng liên lạc nếu bạn muốn sử dụng số điện thoại miễn phí với Skype for Business và Microsoft nhóm.
 
-- Để thiết lập tín dụng truyền thông, [hãy xem thiết lập tín dụng truyền thông cho tổ chức của bạn](https://docs.microsoft.com/microsoftteams/set-up-communications-credits-for-your-organization). 
+- Để thiết lập các tín dụng liên lạc, hãy xem [thiết lập các khoản tín dụng liên lạc cho tổ chức của bạn](https://docs.microsoft.com/microsoftteams/set-up-communications-credits-for-your-organization). 
 
-- Để thêm và quản lý các quỹ tín dụng truyền thông, xem [thêm tiền và quản lý tín dụng truyền thông](https://docs.microsoft.com/microsoftteams/add-funds-and-manage-communications-credits). 
+- Để thêm và quản lý các quỹ tín dụng liên lạc, hãy xem [Thêm các quỹ và quản lý tín dụng liên lạc](https://docs.microsoft.com/microsoftteams/add-funds-and-manage-communications-credits). 
 
-Để biết thêm thông tin, xem [tín dụng truyền thông là gì?](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)
+Để biết thêm thông tin, hãy xem mục [các tín dụng liên lạc là gì?](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)

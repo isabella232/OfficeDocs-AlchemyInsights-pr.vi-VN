@@ -1,26 +1,27 @@
 ---
-title: Bảng điều khiển không phản ánh thay đổi sau khi làm mới
+title: Bảng điều khiển không phản ánh các thay đổi sau khi làm mới
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/20/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1318"
 - "2500002"
-ms.openlocfilehash: 14a22250a86496bd8377f2c42cef6b486251bea8
-ms.sourcegitcommit: 9e44b852d18a2816acac0aacb78cb99b4c114368
+ms.openlocfilehash: 11ce68469a095ae3f42d2231c3732e8c04051fc7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "45423772"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47731549"
 ---
-# <a name="dashboard-doesnt-reflect-changes-after-refresh"></a>Bảng điều khiển không phản ánh thay đổi sau khi làm mới
+# <a name="dashboard-doesnt-reflect-changes-after-refresh"></a>Bảng điều khiển không phản ánh các thay đổi sau khi làm mới
 
-Nếu bảng điều khiển không phản ánh thay đổi sau khi làm mới, đợi khoảng 10-15 phút để làm mới được phản ánh trong bảng điều khiển. Nếu nó vẫn không hiển thị, hãy ghim lại hình ảnh vào bảng thông tin.
+Nếu bảng điều khiển không phản ánh các thay đổi sau khi làm mới, hãy chờ khoảng 10-15 phút để làm mới được phản ánh trong lát xếp bảng điều khiển. Nếu nó vẫn không hiển thị, hãy bật lại mã hóa trực quan hóa vào bảng điều khiển.
 
-Để biết thêm thông tin, xem [khắc phục sự cố làm mới tình huống](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios).
+Để biết thêm thông tin, hãy xem [khắc phục sự cố làm mới kịch](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)bản.
