@@ -1,11 +1,12 @@
 ---
-title: Thông báo cảnh báo SharePoint không được gửi
+title: Thông báo cảnh báo SharePoint không được chuyển phát
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
@@ -13,31 +14,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "1655"
-ms.openlocfilehash: 363f3c79a3b62f3017e6c873f1be3dd195cab883
-ms.sourcegitcommit: 5296874062b16f945d9a7a7a9ab29ec53686310b
+ms.openlocfilehash: f4002dc865fb7a03b07a9256709b947d6d774cb0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/21/2020
-ms.locfileid: "44343086"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47751265"
 ---
-# <a name="sharepoint-alert-notifications-not-delivered"></a>Thông báo cảnh báo SharePoint không được gửi
+# <a name="sharepoint-alert-notifications-not-delivered"></a>Thông báo cảnh báo SharePoint không được chuyển phát
 
-Vui lòng kiểm tra thư mục JUNK trong email của bạn, vì đôi khi cảnh báo có thể đi đến đó.
+Vui lòng kiểm tra thư mục thư rác trong email của bạn, như đôi khi cảnh báo có thể đến đó.
 
-Xác định nếu **tất cả các cảnh báo không được gửi** hoặc nếu **một cảnh báo cá nhân** từ một tập tin cụ thể hoặc thư viện không được gửi.
+Xác định xem **tất cả cảnh báo không được chuyển** phát hay nếu **một cảnh báo riêng lẻ** từ một tệp hoặc thư viện cụ thể không được chuyển phát.
 
-- **Cảnh báo cá nhân không được gửi**: nếu một cảnh báo cá nhân từ một tập tin cụ thể hoặc thư viện không được gửi, bạn có thể cố gắng để xóa và tạo lại nó. Xem [quản lý, xem hoặc xoá cảnh báo SharePoint](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) để tạo cảnh báo.
-- **Tất cả các cảnh báo không được gửi**đi: nếu tất cả các cảnh báo từ nhiều tệp hoặc thư viện không được gửi, hãy truy cập bảng thông tin [trạng thái dịch vụ](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) để kiểm tra bất kỳ lời khuyên/sự cố nào có thể xảy ra với SharePoint hoặc Exchange. Vấn đề có thể với khả năng cảnh báo SharePoint hoặc sự chậm trễ trong email thông qua Exchange. Nó cũng sẽ quan trọng cần lưu ý liệu email khác đang được phân phối, và nếu không, vấn đề có khả năng với Exchange chậm trễ.
+- **Cảnh báo cá nhân không được chuyển**phát: nếu một cảnh báo riêng lẻ từ một tệp hoặc thư viện cụ thể không được chuyển phát, bạn có thể tìm cách xóa bỏ và tạo lại nó. Xem mục [quản lý, xem hoặc xóa bỏ cảnh báo SharePoint](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) để tạo lại cảnh báo.
+- **Tất cả cảnh báo không được chuyển**phát: nếu tất cả các cảnh báo từ nhiều tệp hoặc thư viện sẽ không được chuyển phát, hãy truy nhập bảng điều khiển trạng thái [dịch vụ](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) để kiểm tra bất kỳ sự cố nào có thể xảy ra với SharePoint hoặc Exchange. Vấn đề có thể với khả năng hoặc sự chậm trễ của SharePoint Alert trong email thông qua Exchange. Điều này cũng sẽ quan trọng cần lưu ý xem email khác đang được chuyển phát và nếu không, vấn đề có thể xảy ra sự chậm trễ của Exchange.
 
 Câu hỏi thường gặp về cảnh báo:
 
-- Không thể gửi cảnh báo đến nhóm phân phối, chỉ bảo mật và nhóm O365 được hỗ trợ.
-- Bạn không thể tùy chỉnh các mẫu email cảnh báo; bạn cần phải sử dụng Microsoft FLOW hoặc SharePoint Designer Workflow để đạt được những.
+- Bạn không thể gửi cảnh báo cho nhóm phân phối, chỉ bảo mật và các nhóm O365 được hỗ trợ.
+- Bạn không thể tùy chỉnh các mẫu email cảnh báo; bạn cần sử dụng dòng công việc trình thiết kế Microsoft hoặc SharePoint để đạt được những nội dung đó.
 
-## <a name="related-topics"></a>Các chủ đề liên quan
+## <a name="related-topics"></a>Chủ đề liên quan
 
 Bạn muốn thử Microsoft Flow trong SharePoint Online?
 
-- [Tạo Flow](https://support.office.com/article/a9c3e03b-0654-46af-a254-20252e580d01)
+- [Tạo dòng](https://support.office.com/article/a9c3e03b-0654-46af-a254-20252e580d01)
 
-- [SharePoint và Flow](https://flow.microsoft.com//blog/sharepoint-and-flow/)
+- [SharePoint và dòng](https://flow.microsoft.com//blog/sharepoint-and-flow/)
