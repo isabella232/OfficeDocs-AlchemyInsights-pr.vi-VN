@@ -1,10 +1,11 @@
 ---
-title: Quản lý gia hạn đăng ký
+title: Quản lý gia hạn thuê bao
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -12,25 +13,25 @@ ms.custom:
 - "1500012"
 - "4568"
 - "4730"
-ms.openlocfilehash: d6b6f52a454744ecc8f77b180ae697cb7a830f5c
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 0c85962d4c1f07a14cea0ef8896359c802fa499d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44062991"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47777885"
 ---
-# <a name="manage-subscription-renewal"></a>Quản lý gia hạn đăng ký
+# <a name="manage-subscription-renewal"></a>Quản lý gia hạn thuê bao
 
-Để quản lý thanh toán hàng tháng hoặc năm, bạn có thể bật hoặc tắt tính phí **thanh toán định kỳ** .
+Để quản lý thanh toán hàng tháng hoặc hàng năm, bạn có thể bật hoặc tắt **thanh toán định kỳ** .
 
-1. Trong Trung tâm quản trị, hãy chuyển đến trang **thanh toán**  >  **[sản phẩm của bạn](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
+1. Trong Trung tâm quản trị, hãy đi đến trang **thanh toán**  >  **[sản phẩm của bạn](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
 
 2. Chọn đăng ký mà bạn muốn quản lý thanh toán định kỳ.
 
-3. Trong **thanh toán**, bên cạnh **renews trên** hoặc hết hạn **trên**, nhấp vào **chỉnh sửa**.
+3. Bên dưới **thanh toán**, bên cạnh **renews bật** hoặc **hết**hạn, hãy bấm **sửa**.
 
-4. Trong ngăn **cài đặt thanh toán định kỳ** , hãy nhấp vào **tắt** để tắt. Nếu thanh toán định kỳ đã bị tắt, hãy nhấp vào **hàng tháng** hoặc **một lần** để bật tính năng này.
+4. Trong ngăn **thiết đặt thanh toán định kỳ** , **Bấm tắt để** tắt tính năng này. Nếu đã tắt tính năng thanh toán định kỳ, hãy bấm vào **hàng tháng** hoặc **một lần** để bật tính năng này.
 
-5. Nhấp vào **gửi thay đổi**.
+5. Bấm vào **gửi thay đổi**.
 
-Để tìm hiểu thêm, [hãy xem bật hoặc tắt tính năng thanh toán định kỳ](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).
+Để tìm hiểu thêm, hãy xem mục bật tính năng [thanh toán định kỳ tắt hoặc](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on)bật.
