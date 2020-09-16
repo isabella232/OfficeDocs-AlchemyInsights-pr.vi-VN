@@ -5,19 +5,20 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003121"
 - "5901"
-ms.openlocfilehash: 80736dc1e6ee5e18dbec0ddb816fbf0e5f34c588
-ms.sourcegitcommit: 981880f6141278b87da22924a39bb1bb5892bb83
+ms.openlocfilehash: 033363705cba1426339feda4eaf7441762fdaf93
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/22/2020
-ms.locfileid: "44847095"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47749463"
 ---
-# <a name="unable-to-add-an-attachment-to-an-externally-facing-form"></a><span data-ttu-id="7000b-102">Không thể thêm phần đính kèm vào biểu mẫu bên ngoài</span><span class="sxs-lookup"><span data-stu-id="7000b-102">Unable to add an attachment to an externally-facing form</span></span>
+# <a name="unable-to-add-an-attachment-to-an-externally-facing-form"></a><span data-ttu-id="802be-102">Không thể thêm phần đính kèm vào biểu mẫu bên ngoài</span><span class="sxs-lookup"><span data-stu-id="802be-102">Unable to add an attachment to an externally-facing form</span></span>
 
-<span data-ttu-id="7000b-103">Nếu bạn đang cố gắng thêm phần đính kèm vào một khảo sát Microsoft Forms bên ngoài, tính năng đó chưa có sẵn.</span><span class="sxs-lookup"><span data-stu-id="7000b-103">If you are trying to add an attachment to an external Microsoft Forms survey, that feature is not yet available.</span></span> <span data-ttu-id="7000b-104">Để theo dõi trạng thái của yêu cầu tính năng đó, hãy chuyển đến [mục UserVoice này](https://go.microsoft.com/fwlink/?linkid=2133069)và thêm biểu quyết của bạn.</span><span class="sxs-lookup"><span data-stu-id="7000b-104">To track the status of that feature request, go to [this UserVoice entry](https://go.microsoft.com/fwlink/?linkid=2133069), and add your vote.</span></span>
+<span data-ttu-id="802be-103">Nếu bạn đang cố gắng thêm phần đính kèm vào khảo sát biểu mẫu Microsoft bên ngoài, tính năng đó chưa sẵn dùng.</span><span class="sxs-lookup"><span data-stu-id="802be-103">If you are trying to add an attachment to an external Microsoft Forms survey, that feature is not yet available.</span></span> <span data-ttu-id="802be-104">Để theo dõi trạng thái của yêu cầu tính năng đó, hãy đi đến [mục nhập UserVoice này](https://go.microsoft.com/fwlink/?linkid=2133069)và thêm phiếu bầu của bạn.</span><span class="sxs-lookup"><span data-stu-id="802be-104">To track the status of that feature request, go to [this UserVoice entry](https://go.microsoft.com/fwlink/?linkid=2133069), and add your vote.</span></span>
