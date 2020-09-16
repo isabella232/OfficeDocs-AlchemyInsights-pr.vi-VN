@@ -1,26 +1,27 @@
 ---
-title: Vi trì hoãn hoặc điều chỉnh trong Exchange Online PowerShell
+title: Vi độ chậm trễ hoặc điều chỉnh trong Exchange Online PowerShell
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "3500011"
 - "5106"
-ms.openlocfilehash: 7ab4e7f18b7b8edf08098af8fe9674f66b1b81f4
-ms.sourcegitcommit: fbaa2ce2cfb4d56d8c4cf2fa2d95489bdfcb7ff0
+ms.openlocfilehash: 55844747be27ea4ff8f538492e576195b3a5f0bb
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/30/2020
-ms.locfileid: "43948025"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47743936"
 ---
-# <a name="micro-delays-or-throttling-in-exchange-online-powershell"></a>Vi trì hoãn hoặc điều chỉnh trong Exchange Online PowerShell
+# <a name="micro-delays-or-throttling-in-exchange-online-powershell"></a>Vi độ chậm trễ hoặc điều chỉnh trong Exchange Online PowerShell
 
-Bạn có thể thấy cảnh báo "vi trì hoãn áp dụng" hoặc chậm trễ khi bạn chạy tập lệnh và lệnh ghép ngắn trong Exchange Online. Dưới đây là hai đề xuất liên quan đến điều này:
+Bạn có thể thấy "Micro Delay đã áp dụng" cảnh báo hoặc sự chậm trễ khi bạn chạy các script và lệnh ghép ngắn trong Exchange Online. Dưới đây là hai đề xuất liên quan đến điều này:
 
-- Bạn có thể muốn thử sử dụng [mô-đun Exchange Online v2 PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/exchange-online-powershell-v2/exchange-online-powershell-v2?view=exchange-ps), bao gồm các lệnh ghép ngắn dựa trên Rest API và performant đáng kể hơn. Điều này có thể là một giải pháp tuyệt vời cho rất nhiều Get-lệnh ghép ngắn mà thường được sử dụng.
-- Nếu bạn cần sử dụng lệnh ghép ngắn không được bao gồm trong mô-đun v2, hãy xem [chạy lệnh ghép ngắn PowerShell cho số lượng lớn của người dùng trong Office 365](https://techcommunity.microsoft.com/t5/exchange-team-blog/updated-running-powershell-cmdlets-for-large-numbers-of-users-in/ba-p/1000628#), mà nói về làm thế nào để có được khoảng dự kiến PowerShell điều chỉnh giới hạn trong Exchange Online.
+- Bạn có thể muốn thử sử dụng [mô-đun Exchange Online v2 PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/exchange-online-powershell-v2/exchange-online-powershell-v2?view=exchange-ps), trong đó bao gồm các lệnh ghép ngắn dựa trên API còn lại và được xem là một cách khác đáng kể. Điều này có thể là một giải pháp tuyệt vời cho nhiều lệnh ghép ngắn được sử dụng thường xuyên.
+- Nếu bạn cần sử dụng các lệnh ghép ngắn không được bảo vệ trong mô-đun v2, vui lòng xem mục [chạy lệnh ghép ngắn PowerShell với số lượng lớn người dùng trong Office 365](https://techcommunity.microsoft.com/t5/exchange-team-blog/updated-running-powershell-cmdlets-for-large-numbers-of-users-in/ba-p/1000628#), mà nói về cách thức để có được khoảng giới hạn điều chỉnh của PowerShell dự kiến trong Exchange Online.
