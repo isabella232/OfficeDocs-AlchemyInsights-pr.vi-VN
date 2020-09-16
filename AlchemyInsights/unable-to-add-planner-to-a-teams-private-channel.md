@@ -1,23 +1,24 @@
 ---
-title: Không thể thêm Planner vào kênh riêng của teams
+title: Không thể thêm Planner vào kênh riêng của nhóm
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000727"
 - "4976"
-ms.openlocfilehash: 441410399e5fa73f5855a5cf7268d7b3dc80b566
-ms.sourcegitcommit: 6ecb6fcbd738b8896c5d616130074438a1a6e357
+ms.openlocfilehash: 63786ebf9ad8c595acfab86e08bb52b0605bae39
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43530585"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47735438"
 ---
-# <a name="unable-to-add-planner-to-a-teams-private-channel"></a><span data-ttu-id="5f9ca-102">Không thể thêm Planner vào kênh riêng của teams</span><span class="sxs-lookup"><span data-stu-id="5f9ca-102">Unable to add Planner to a Teams private channel</span></span>
+# <a name="unable-to-add-planner-to-a-teams-private-channel"></a><span data-ttu-id="aea03-102">Không thể thêm Planner vào kênh riêng của nhóm</span><span class="sxs-lookup"><span data-stu-id="aea03-102">Unable to add Planner to a Teams private channel</span></span>
 
-<span data-ttu-id="5f9ca-103">Hiện tại, các kênh riêng tư của Microsoft teams không hỗ trợ thêm công cụ lập kế hoạch.</span><span class="sxs-lookup"><span data-stu-id="5f9ca-103">Currently, Microsoft Teams private channels do not support adding Planner.</span></span>  <span data-ttu-id="5f9ca-104">Chúng tôi đang làm việc trên các ứng dụng đầy đủ hỗ trợ cho các kênh riêng, bao gồm các tiện ích nhắn tin và bot.</span><span class="sxs-lookup"><span data-stu-id="5f9ca-104">We're working on full apps support for private channels, including messaging extensions and bots.</span></span> <span data-ttu-id="5f9ca-105">Xem [các kênh riêng trong Microsoft teams](https://docs.microsoft.com/microsoftteams/private-channels#what-you-need-to-know-about-private-channels) để biết thêm thông tin.</span><span class="sxs-lookup"><span data-stu-id="5f9ca-105">See [Private channels in Microsoft Teams](https://docs.microsoft.com/microsoftteams/private-channels#what-you-need-to-know-about-private-channels) for more information.</span></span>
+<span data-ttu-id="aea03-103">Hiện tại, các kênh riêng của Microsoft nhóm không hỗ trợ việc thêm Planner.</span><span class="sxs-lookup"><span data-stu-id="aea03-103">Currently, Microsoft Teams private channels do not support adding Planner.</span></span>  <span data-ttu-id="aea03-104">Chúng tôi đang làm việc hỗ trợ đầy đủ các ứng dụng cho các kênh riêng tư, bao gồm các phần mở rộng và chương trình gửi tin nhắn.</span><span class="sxs-lookup"><span data-stu-id="aea03-104">We're working on full apps support for private channels, including messaging extensions and bots.</span></span> <span data-ttu-id="aea03-105">Xem các [kênh riêng tư trong nhóm Microsoft](https://docs.microsoft.com/microsoftteams/private-channels#what-you-need-to-know-about-private-channels) để biết thêm thông tin.</span><span class="sxs-lookup"><span data-stu-id="aea03-105">See [Private channels in Microsoft Teams](https://docs.microsoft.com/microsoftteams/private-channels#what-you-need-to-know-about-private-channels) for more information.</span></span>
