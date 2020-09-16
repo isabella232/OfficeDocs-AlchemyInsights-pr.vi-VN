@@ -1,23 +1,24 @@
 ---
-title: Chất lượng cuộc gọi hoặc cuộc gọi bị bỏ
+title: Gọi chất lượng hoặc bỏ cuộc gọi
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000675"
 - "5987"
-ms.openlocfilehash: cc4750b204d70ce7284a94a045633791f416fbbc
-ms.sourcegitcommit: 7a1ff0314df06e386f32a2439fe060baa480e8f8
+ms.openlocfilehash: b5bd7544dd219b32d563c0c375de70122297fb47
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/30/2020
-ms.locfileid: "44932134"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47734465"
 ---
-# <a name="call-quality-or-dropped-calls"></a>Chất lượng cuộc gọi hoặc cuộc gọi bị bỏ
+# <a name="call-quality-or-dropped-calls"></a>Gọi chất lượng hoặc bỏ cuộc gọi
 
-Nếu bạn gặp vấn đề về chất lượng cuộc gọi như âm thanh kém hoặc cuộc gọi bị bỏ, hãy tham khảo: [khắc phục sự cố về chất lượng cuộc gọi bằng cách sử dụng phân tích cuộc gọi](https://docs.microsoft.com/microsoftteams/use-call-analytics-to-troubleshoot-poor-call-quality#troubleshoot-call-quality-problems-using-call-analytics)
+Nếu bạn đang gặp sự cố về chất lượng cuộc gọi như các cuộc gọi âm thanh kém hoặc bị bỏ, vui lòng tham khảo: [khắc phục sự cố về chất lượng cuộc gọi bằng cách dùng phân tích cuộc gọi](https://docs.microsoft.com/microsoftteams/use-call-analytics-to-troubleshoot-poor-call-quality#troubleshoot-call-quality-problems-using-call-analytics)

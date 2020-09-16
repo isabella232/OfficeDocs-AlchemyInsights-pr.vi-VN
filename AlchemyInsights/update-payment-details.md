@@ -5,39 +5,40 @@ author: cmcatee-MSFT
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "428"
 - "1500016"
-ms.openlocfilehash: 5d7ee20edb0a9d298b657c14d7a75034245427a8
-ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
+ms.openlocfilehash: 514bd6a448333c72776b387869c08915b637a3f7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/29/2020
-ms.locfileid: "44418202"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47735077"
 ---
 # <a name="update-credit-card-information"></a>Cập nhật thông tin thẻ tín dụng
 
-1. Trong Trung tâm quản trị Microsoft 365, hãy đi **Billing** tới \> trang [phương thức thanh toán](https://go.microsoft.com/fwlink/p/?linkid=2018806) hóa đơn.
+1. Trong Trung tâm quản trị Microsoft 365, hãy đi **Billing** đến \> trang [phương thức thanh toán](https://go.microsoft.com/fwlink/p/?linkid=2018806) thanh toán.
 
     > [!NOTE]
-    > Nếu bạn gặp một vòng lặp gửi bạn trở lại trang chủ quản trị trước khi cập nhật của bạn hoàn tất, hãy thử chế độ InPrivate hoặc ẩn danh.
+    > Nếu bạn gặp phải một vòng lặp gửi lại cho bạn về trang chủ quản trị trước khi hoàn tất Cập Nhật, hãy thử chế độ InPrivate hoặc ẩn danh.
   
-2. Chọn thẻ tín dụng bạn muốn Cập Nhật.
+2. Chọn thẻ tín dụng mà bạn muốn Cập Nhật.
 
     > [!NOTE]
-    > Nếu một quản trị viên khác thêm phương thức thanh toán, bạn sẽ không thể cập nhật thông tin thẻ tín dụng hoặc tài khoản ngân hàng. Nếu thẻ tín dụng là hết hạn và người quản trị khác không thể Cập Nhật, bạn có thể ngăn chặn dịch vụ gián đoạn bằng cách thêm một thẻ tín dụng khác hoặc tài khoản ngân hàng mới cho đăng ký bằng cách chọn **Thêm phương thức thanh toán**.
+    > Nếu người quản trị khác đã thêm phương thức thanh toán, bạn sẽ không thể cập nhật thông tin thẻ tín dụng hoặc tài khoản ngân hàng cho nó. Nếu thẻ tín dụng sắp hết hạn và người quản trị khác không thể cập nhật nó, bạn có thể ngăn không bị gián đoạn dịch vụ bằng cách thêm thẻ tín dụng khác hoặc tài khoản ngân hàng mới cho đăng ký bằng cách chọn **Thêm phương thức thanh toán**.
   
 3. Trong ngăn **chi tiết phương thức thanh toán** , chọn **chỉnh sửa**.
 
-4. Thực hiện các bản Cập Nhật, và sau đó chọn **lưu**.
+4. Làm cho các bản Cập Nhật, rồi chọn **lưu**.
 
-5. Để xóa phương thức thanh toán này, chọn **xóa**.
+5. Để loại bỏ phương thức thanh toán này, chọn **Delete**.
 
-**Troubleshooting**
+**Giải**
 
-Nếu bạn gặp sự cố khi tải trang, hãy thử mở trang web trong một trình duyệt khác hoặc thử mở trang một cửa sổ trình duyệt riêng, chẳng hạn như cửa sổ InPrivate trong Microsoft Edge hoặc cửa sổ ẩn danh trong Google Chrome. 
+Nếu bạn gặp vấn đề với việc tải trang, hãy thử mở trang web trong một trình duyệt khác, hoặc thử mở trang một cửa sổ trình duyệt riêng tư, chẳng hạn như cửa sổ InPrivate trong Microsoft Edge hoặc một cửa sổ ẩn danh trong Google Chrome. 
 
-Để biết thêm thông tin, xem [quản lý phương thức thanh toán](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Để biết thêm thông tin, hãy xem mục [quản lý các phương thức thanh toán](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).

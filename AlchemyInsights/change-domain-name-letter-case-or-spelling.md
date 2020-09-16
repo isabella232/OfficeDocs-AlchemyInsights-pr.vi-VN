@@ -1,32 +1,33 @@
 ---
-title: Thay đổi trường hợp chữ cái tên miền hoặc chính tả
+title: Thay đổi chữ hoa/chữ cái tên miền hoặc chính tả
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/13/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5996"
 - "9003201"
-ms.openlocfilehash: 7a8efc6ee5dddc17bbd697055ff7c5d79c89864c
-ms.sourcegitcommit: 45c2aaeee58c0be466b76c7f0cd71e796d3c8f76
+ms.openlocfilehash: 8568cb52121d14e1f9fd242365ba4be0694fea53
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45138957"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47733745"
 ---
-# <a name="change-a-domain-name-letter-case-or-spelling"></a>Thay đổi trường hợp chữ cái tên miền hoặc chính tả
+# <a name="change-a-domain-name-letter-case-or-spelling"></a>Thay đổi chữ hoa/chữ cái tên miền hoặc chính tả
 
-Để thay đổi chính tả của một tên miền tùy chỉnh, ví dụ như tất cả các chữ thường hoặc một kết hợp của các chữ cái dưới và trên, tên miền phải được loại bỏ và sau đó thêm lại với trường hợp thư mong muốn hoặc chính tả.
+Để thay đổi chính tả của tên miền tùy chỉnh, ví dụ như tất cả các chữ cái viết hoa hoặc kết hợp các chữ cái viết hoa, tên miền phải được loại bỏ và sau đó được thêm lại bằng chữ cái mong muốn hoặc chính tả.
 
-1. Trên [trang miền](https://portal.office.com/adminportal/home#/Domains), chọn tên miền, sau đó chọn **xoá miền**.</br>
+1. Trên [trang Domains](https://portal.office.com/adminportal/home#/Domains), chọn tên miền, rồi chọn  **loại bỏ tên miền**.</br>
 
-    Để biết hướng dẫn chi tiết hơn, xem [cách xóa miền](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain?view=o365-worldwide).
+    Để biết thêm hướng dẫn chi tiết, hãy xem [làm thế nào để loại bỏ tên miền](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain?view=o365-worldwide).
 
-2. Thêm lại tên miền với đúng chính tả và thư trường hợp bằng cách sử dụng [thuật sĩ Thêm tên miền](https://portal.office.com/adminportal/home#/Domains/Wizard).
+2. Thêm lại tên miền bằng cách sử dụng trình [hướng dẫn thêm tên miền](https://portal.office.com/adminportal/home#/Domains/Wizard).
 
-Bạn không thể thay đổi trường hợp thư hoặc đổi tên miền onmicrosoft.com hoặc miền được mua thông qua Microsoft, sau khi đăng ký.
+Bạn không thể thay đổi hộp thư hoặc đổi tên miền onmicrosoft.com, hoặc tên miền được mua thông qua Microsoft, sau khi đăng ký.
