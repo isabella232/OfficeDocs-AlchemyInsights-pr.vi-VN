@@ -1,27 +1,28 @@
 ---
-title: Giải quyết vấn đề xác thực SMTP
+title: Giải quyết các sự cố xác thực SMTP
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "3000003"
 - "5652"
-ms.openlocfilehash: 814c49e8e65966a0c9f927b1f7bfb03d3dc3d637
-ms.sourcegitcommit: 0e43e19448705f151846e9e9e1e0f47e12938fdf
+ms.openlocfilehash: 3eaab2c601f78e20f2ee67bc21a9598cb45a24f9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/15/2020
-ms.locfileid: "44264567"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47738011"
 ---
-# <a name="solving-smtp-authentication-issues"></a>Giải quyết vấn đề xác thực SMTP
+# <a name="solving-smtp-authentication-issues"></a>Giải quyết các sự cố xác thực SMTP
 
-Nếu bạn đang nhận được lỗi 5.7.57 hoặc 5.7.3 khi cố gắng để gửi email SMTP và xác thực với một khách hàng hoặc ứng dụng, có một vài điều bạn nên kiểm tra:
+Nếu bạn đang gặp phải lỗi 5.7.57 hoặc 5.7.3 khi tìm cách gửi email SMTP và xác thực bằng một máy khách hoặc ứng dụng, có một vài điều bạn nên kiểm tra:
 
-- Xác thực SMTP gửi có thể bị vô hiệu hoá trong thuê của bạn hoặc trên hộp thư mà bạn đang sử dụng (kiểm tra cả hai cài đặt). Để đọc thêm, xem [kích hoạt hoặc vô hiệu hoá xác thực khách SMTP gửi](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/authenticated-client-smtp-submission).
+- Việc gửi SMTP được xác thực có thể bị vô hiệu hóa trong đối tượng thuê của bạn hoặc trên hộp thư mà bạn đang cố gắng sử dụng (kiểm tra cả hai thiết đặt). Để đọc thêm, hãy xem [bật hoặc tắt trình gửi SMTP](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/authenticated-client-smtp-submission)được xác thực.
 
-- Kiểm tra xem [mặc định bảo mật Azure](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) được kích hoạt cho đối tượng thuê của bạn; Nếu bật, xác thực SMTP bằng cách sử dụng xác thực cơ bản (còn được gọi là di sản; điều này sẽ sử dụng tên người dùng và mật khẩu) sẽ thất bại.
+- Kiểm tra xem [mặc định bảo mật Azure](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) được bật cho đối tượng thuê của bạn hay không; Nếu được kích hoạt, xác thực SMTP bằng cách dùng xác thực cơ bản (còn được gọi là di sản; điều này sẽ sử dụng tên người dùng và mật khẩu) sẽ không thành công.

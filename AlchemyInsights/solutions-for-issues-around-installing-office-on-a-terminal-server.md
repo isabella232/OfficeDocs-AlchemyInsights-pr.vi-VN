@@ -1,36 +1,37 @@
 ---
-title: Giải pháp cho các vấn đề xung quanh cài đặt Office trên máy chủ đầu cuối
+title: Giải pháp cho các sự cố trong khi cài đặt Office trên máy chủ đầu cuối
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 85f24284-af6f-4624-b6be-901a4a9206eb
-ms.openlocfilehash: cc2d2b1a5c73e729a67b1e6f36fdcff2125541ca
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
+ms.openlocfilehash: df1a50031196fbd79662cee620fc41c7be14e179
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010924"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47738479"
 ---
-# <a name="solutions-for-issues-around-installing-office-on-a-terminal-server"></a>Giải pháp cho các vấn đề xung quanh cài đặt Office trên máy chủ đầu cuối
+# <a name="solutions-for-issues-around-installing-office-on-a-terminal-server"></a>Giải pháp cho các sự cố trong khi cài đặt Office trên máy chủ đầu cuối
 
-Để sử dụng kích hoạt máy tính dùng chung, bạn phải đăng ký bao gồm Microsoft 365 Apps dành cho doanh nghiệp.
+Để dùng kích hoạt máy tính được chia sẻ, bạn phải có đăng ký bao gồm các ứng dụng Microsoft 365 dành cho doanh nghiệp.
   
-- Xác minh rằng kích hoạt máy tính dùng chung được kích hoạt
-- Xác minh rằng kích hoạt thành công
-- Đánh giá thông báo lỗi cho kích hoạt máy tính dùng chung:
-- "Sản phẩm chúng tôi tìm thấy trong tài khoản của bạn không thể sử dụng để kích hoạt Office trong tình huống máy tính được chia sẻ"
+- Xác minh đã bật kích hoạt máy tính được chia sẻ
+- Xác minh rằng kích hoạt đã thành công
+- Xem lại các thông báo lỗi về kích hoạt máy tính được chia sẻ:
+- "Những sản phẩm mà chúng tôi tìm thấy trong tài khoản của bạn không thể dùng để kích hoạt Office trong các tình huống máy tính dùng chung"
   
-Lỗi này có nghĩa là bạn không có đăng ký bao gồm Microsoft 365 Apps dành cho doanh nghiệp.
+Lỗi này có nghĩa là bạn không có đăng ký bao gồm các ứng dụng Microsoft 365 dành cho doanh nghiệp.
 
-"Sản phẩm không có giấy phép"
+"Sản phẩm chưa được cấp phép"
 
-- Kiểm tra xem người dùng được gán giấy phép cho Microsoft 365 ứng dụng dành cho doanh nghiệp.
-- Kiểm tra xem người dùng có đăng ký bằng tài khoản người dùng của họ hay không.
-- Kiểm tra xem có kết nối giữa máy tính được chia sẻ và Internet không.
+- Kiểm tra xem người dùng được gán giấy phép cho ứng dụng Microsoft 365 dành cho doanh nghiệp hay không.
+- Kiểm tra xem người dùng có các dấu hiệu với tài khoản người dùng của họ hay không.
+- Kiểm tra xem có kết nối giữa máy tính được chia sẻ và Internet hay không.
 
-Đối với các mẹo khắc phục sự cố khác, hãy xem: [khắc phục sự cố với kích hoạt máy tính dùng chung](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation)
+Đối với các mẹo khắc phục sự cố khác, vui lòng xem: [khắc phục sự cố với kích hoạt máy tính dùng chung](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation)

@@ -1,41 +1,42 @@
 ---
-title: Giải quyết lỗi sản phẩm không có giấy phép
+title: Giải quyết lỗi sản phẩm chưa được cấp phép
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3412"
 - "9001428"
-ms.openlocfilehash: 89d0e589329d40f17c36baa54868154be0f5b887
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: bd2e8cb204edd7135fc34ef0d42ac8259434d37d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44582761"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47737975"
 ---
-# <a name="suggestions-for-solving-unlicensed-product-errors"></a>Gợi ý giải quyết lỗi "không có giấy phép sản phẩm"
+# <a name="suggestions-for-solving-unlicensed-product-errors"></a>Các gợi ý về việc giải quyết lỗi "sản phẩm chưa được cấp phép"
 
-Để giải quyết lỗi về "sản phẩm không có giấy phép", hãy thử như sau:
+Để giải quyết các lỗi về "sản phẩm chưa được cấp phép", hãy thử làm như sau:
 
-- Kiểm tra xem trạng thái đăng ký của bạn đã hết hạn hay chưa.
-- Hãy chắc chắn rằng bạn có một thuê bao cho phép khách hàng giấy phép, chẳng hạn như Microsoft 365 Apps dành cho doanh nghiệp hoặc Business Premium, và [đảm bảo rằng người dùng có giấy phép được chỉ định](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users). 
-- Đảm bảo rằng người dùng đang đăng nhập vào Office với cùng một tài khoản có giấy phép được chỉ định.
-- Kiểm tra [trang y tế Dịch vụ](https://docs.microsoft.com/office365/enterprise/view-service-health) để xem có bất kỳ sự cố đã biết với dịch vụ.
-- Kiểm tra tường lửa, phần mềm chống vi-rút và cài đặt proxy để xác nhận rằng chúng không chặn các ứng dụng Microsoft 365 truy cập Internet. Xem [URL và phạm vi địa chỉ IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+- Kiểm tra xem liệu trạng thái đăng ký của bạn đã hết hạn chưa.
+- Hãy đảm bảo rằng bạn có thuê bao cho phép các giấy phép máy khách, chẳng hạn như ứng dụng Microsoft 365 dành cho doanh nghiệp hoặc doanh nghiệp, đồng [thời, đảm bảo rằng người dùng có giấy phép được gán](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users). 
+- Đảm bảo rằng người dùng đang đăng nhập vào Office bằng cùng tài khoản có giấy phép được gán.
+- Hãy kiểm tra trang trạng thái [dịch vụ](https://docs.microsoft.com/office365/enterprise/view-service-health) để xem liệu có bất kỳ vấn đề nào đã biết nào với dịch vụ hay không.
+- Kiểm tra tường lửa, phần mềm chống vi-rút và thiết đặt proxy để xác nhận rằng họ không ngăn chặn việc truy nhập ứng dụng Microsoft 365 vào Internet. Xem [dải URL và dải địa chỉ IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 
-Bạn cũng có thể thử các hành động khắc phục sự cố sau: 
+Bạn cũng có thể thử các hành động khắc phục sự cố sau đây: 
 
-- Mở ứng dụng Office và [đăng](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071) xuất khỏi bất kỳ tài khoản người dùng hiện có nào. [Loại bỏ](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users) và [gán lại](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users) giấy phép Office, và sau đó [đăng nhập vào Office](https://support.office.com/article/628ea040-f265-49de-b986-be09c3ebf8a9) bằng cách sử dụng tài khoản người dùng bị ảnh hưởng.
-- Chạy bộ hướng dẫn giải quyết [trục trặc kích hoạt](https://aka.ms/SARA-OfficeActivation-Alchemy).
+- Mở một ứng dụng Office và [đăng xuất khỏi](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071) mọi tài khoản người dùng hiện có. [Loại bỏ](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users) và [gán lại](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users) giấy phép Office, sau đó [đăng nhập vào Office](https://support.office.com/article/628ea040-f265-49de-b986-be09c3ebf8a9) bằng tài khoản người dùng bị ảnh hưởng.
+- Chạy trình khắc phục sự cố [kích hoạt](https://aka.ms/SARA-OfficeActivation-Alchemy).
 - [Đặt lại trạng thái kích hoạt Office](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state). 
-- [Thực hiện một sửa chữa trực tuyến của văn phòng](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).
+- [Thực hiện sửa chữa trực tuyến của Office](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).
 
-Để biết thêm giải pháp khắc phục sự cố, xem: 
+Để biết thêm giải pháp khắc phục sự cố, hãy xem: 
 
-- [Lỗi sản phẩm và kích hoạt không được cấp phép trong Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380)
-- ["Rất tiếc, chúng tôi không thể kết nối với tài khoản của bạn. Vui lòng thử lại sau "lỗi khi bạn kích hoạt Office](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365)
+- [Lỗi sản phẩm chưa được cấp phép và kích hoạt trong Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380)
+- ["Rất tiếc, chúng tôi không thể kết nối với tài khoản của bạn. Xin vui lòng thử lại sau "lỗi" khi bạn kích hoạt Office](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365)
