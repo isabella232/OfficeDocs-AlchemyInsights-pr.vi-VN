@@ -1,29 +1,30 @@
 ---
-title: Outlook.com Cập Nhật
+title: Cập Nhật Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1840"
 - "9000250"
-ms.openlocfilehash: 1c60c12be4a9c63c9a077498ef68672d5466dd36
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 1285a90e651d915cdff292d102669020ee738a3c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43719362"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47722513"
 ---
-# <a name="outlookcom-updates"></a>Outlook.com Cập Nhật
+# <a name="outlookcom-updates"></a>Cập Nhật Outlook.com
 
-**Cập Nhật mới nhất**
+**Các bản cập nhật mới nhất**
 
-- Nhận được nhiều hơn từ email của bạn với Outlook.com mới. Chúng tôi đã sắp xếp hợp lý tìm kiếm để làm cho nó dễ dàng hơn bao giờ hết để tìm thấy những gì bạn đang tìm kiếm. Các tính năng mới như ảnh và xem trước tệp đính kèm cho phép bạn nhìn thấy hình ảnh và tệp mà không cần rời khỏi hộp thư đến. Và bây giờ bạn có thể thêm các biểu tượng cảm xúc và GIF vào thư của mình.  [Tìm hiểu thêm về Outlook.com mới.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
+- Tìm hiểu thêm từ email của bạn bằng Outlook.com mới. Chúng tôi đã tìm kiếm sắp xếp hợp lý để giúp bạn tìm thấy những gì bạn đang tìm kiếm. Các tính năng mới như ảnh và phần xem trước tệp đính kèm cho phép bạn xem ảnh và tệp của mình mà không cần rời khỏi hộp thư đến của bạn. Và bây giờ, bạn có thể thêm Emoji và GIFs vào thư của mình.  [Tìm hiểu thêm về Outlook.com mới.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
 
 **Cập nhật email**
 
-- Nếu hộp thư Outlook.com không Cập Nhật, hãy xem [khắc phục sự cố đồng bộ hoá email Outlook.com](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642?wt.mc_id=Office_Outlook_com_Alchemy).
+- Nếu hộp thư Outlook.com của bạn không được Cập Nhật, hãy xem mục [khắc phục sự cố đồng bộ email Outlook.com](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642?wt.mc_id=Office_Outlook_com_Alchemy).
