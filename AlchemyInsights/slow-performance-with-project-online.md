@@ -1,31 +1,32 @@
 ---
-title: Hiệu suất chậm với Project Online
+title: Hiệu năng chậm với Project Online
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/24/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "2588"
 - "9000668"
-ms.openlocfilehash: 86fac80dfdff48b8aa09e6bb8557f1787e9387e6
-ms.sourcegitcommit: b10cea11b4975354b91193327b58aa4740d34833
+ms.openlocfilehash: 2333dcfb13083157e7752901755b6715fee52a47
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "45440362"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47770521"
 ---
-# <a name="slow-performance-with-project-online"></a>Hiệu suất chậm với Project Online
+# <a name="slow-performance-with-project-online"></a>Hiệu năng chậm với Project Online
 
-Dự án trực tuyến có thể chậm, không thể tiếp cận hoặc không khả dụng vì nhiều lý do. Để biết thêm thông tin, hãy xem:
+Dự án trực tuyến có thể chậm, không thể truy nhập hoặc không có sẵn vì một số lý do. Để biết thêm thông tin, hãy xem:
 
-- Bảng thông tin tình trạng dịch vụ để xem liệu tổ chức của bạn có bị ảnh hưởng bởi một vấn đề dịch vụ tạm thời mà người dùng gặp phải sự chậm trễ liên tục hoặc lỗi điều hướng khi truy cập dự án. Để truy cập bảng điều khiển tình trạng dịch vụ, hãy xem [bảng thông tin tình trạng dịch vụ](https://admin.microsoft.com/AdminPortal/Home#/servicehealth).</br>
-    **Lưu ý**  Vấn đề sức khỏe dịch vụ có thể được đăng cho SharePoint hoặc dự án, hoặc cả hai, tùy thuộc vào nơi mà vấn đề nằm.
-- Điều [chỉnh hiệu suất dự án Web App (PWA) trong Project Online](https://docs.microsoft.com/projectonline/tune-project-online-performance).
-- [Thực tiễn tốt nhất để cải thiện hiệu suất tương tác tài nguyên](https://docs.microsoft.com/projectonline/best-practices-to-improve-resource-engagements-performance).
+- Bảng điều khiển trạng thái dịch vụ để xem liệu tổ chức của bạn có bị ảnh hưởng bởi sự cố dịch vụ tạm thời mà người dùng gặp phải sự chậm trễ hoặc dẫn hướng lỗi khi truy nhập dự án hay không. Để truy nhập bảng điều khiển trạng thái dịch vụ, hãy xem bảng điều khiển trạng thái [dịch vụ](https://admin.microsoft.com/AdminPortal/Home#/servicehealth).</br>
+    **Ghi chú**  Vấn đề về trạng thái dịch vụ có thể được đăng cho SharePoint hoặc Project, hoặc cả hai, tùy thuộc vào vấn đề này nằm ở đâu.
+- Điều [chỉnh hiệu suất Project Web App (PWA) trong Project Online](https://docs.microsoft.com/projectonline/tune-project-online-performance).
+- Cách [thực hành tốt nhất để cải thiện hiệu suất của tài nguyên](https://docs.microsoft.com/projectonline/best-practices-to-improve-resource-engagements-performance).
 
-Để tìm hiểu thêm về các giới hạn, hãy xem giới [hạn và phần mềm dự án trực tuyến](https://docs.microsoft.com/projectonline/project-online-software-boundaries-and-limits).
+Để tìm hiểu thêm về các giới hạn, hãy xem các [ranh giới và giới hạn phần mềm trực tuyến của Project](https://docs.microsoft.com/projectonline/project-online-software-boundaries-and-limits).
