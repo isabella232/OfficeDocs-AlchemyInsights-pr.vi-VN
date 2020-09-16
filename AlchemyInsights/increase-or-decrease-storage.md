@@ -1,33 +1,34 @@
 ---
-title: Tăng hoặc giảm lưu trữ
+title: Tăng hoặc giảm dung lượng lưu trữ
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002330"
 - "4543"
-ms.openlocfilehash: 8581ce129956a4b711d568ddf37c788841f3f9f9
-ms.sourcegitcommit: f6b4bcb6b9dcb3dd17595d503d78b6ee36881a33
+ms.openlocfilehash: deebbace12a281c5b56c8736f812fb0e107bd2e9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "43054127"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47755945"
 ---
-# <a name="increase-or-decrease-storage"></a>Tăng hoặc giảm lưu trữ
+# <a name="increase-or-decrease-storage"></a>Tăng hoặc giảm dung lượng lưu trữ
 
-Nếu bạn bắt đầu hết bộ nhớ cho bộ sưu tập trang web SharePoint Online của mình, bạn có thể thêm bộ nhớ vào đăng ký của mình nếu kế hoạch của bạn đủ điều kiện. 
+Nếu bạn bắt đầu hết dung lượng lưu trữ cho các tuyển tập site SharePoint Online của bạn, bạn có thể thêm dung lượng lưu trữ vào thuê bao của mình nếu gói đăng ký của bạn đủ điều kiện. 
 
-- [Xem bộ nhớ có sẵn](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space?view=o365-worldwide#view-available-storage). 
+- [Xem dung lượng lưu trữ sẵn dùng](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space?view=o365-worldwide#view-available-storage). 
 
-- [Thêm bộ nhớ vào đăng ký của bạn](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space?view=o365-worldwide#add-storage-to-your-subscription). 
+- [Thêm dung lượng lưu trữ vào thuê bao của bạn](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space?view=o365-worldwide#add-storage-to-your-subscription). 
 
-- [Tăng hoặc giảm lưu trữ](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space?view=o365-worldwide#increase-or-decrease-storage). 
+- [Tăng hoặc giảm dung lượng lưu trữ](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space?view=o365-worldwide#increase-or-decrease-storage). 
 
-- [Giúp đỡ với sự hiểu biết hóa đơn của bạn](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice?view=o365-worldwide).
+- [Trợ giúp tìm hiểu về hóa đơn của bạn](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice?view=o365-worldwide).
 
-Để biết thêm thông tin, hãy xem [thêm không gian lưu trữ cho đăng ký của bạn](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space?view=o365-worldwide). 
+Để biết thêm thông tin, hãy xem [thêm dung lượng lưu trữ cho thuê bao của bạn](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space?view=o365-worldwide). 

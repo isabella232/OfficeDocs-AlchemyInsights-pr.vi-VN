@@ -1,33 +1,34 @@
 ---
-title: Hành vi của các mâu thuẫn/sourceAnchor
+title: Hành vi Cyguid/Sourceneo nhất quán
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 6a44f797-acc7-4cbe-aa5a-47e2581fabf5
-ms.openlocfilehash: 8527e7c2404742a999041f85ed12d78c48cc0d8c
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: adac469328485696d1ee1532aa3d6828af0642eb
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705755"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47756305"
 ---
-# <a name="consistencyguid--sourceanchor-behavior"></a>Hành vi của các mâu thuẫn/sourceAnchor
+# <a name="consistencyguid--sourceanchor-behavior"></a>Hành vi Cyguid/Sourceneo nhất quán
 
-Azure AD kết nối (Phiên bản 1.1.524.0 và sau) bây giờ tạo điều kiện cho việc sử dụng msDS, Cyguid là sourceAnchor thuộc tính. Khi sử dụng tính năng này, Azure AD kết nối tự động cấu hình các quy tắc đồng bộ hóa để:
+Azure AD Connect (Phiên bản 1.1.524.0 và sau) bây giờ tạo điều kiện sử dụng các Cyguid gắn kết với tên thuộc tính sourceAnchor. Khi sử dụng tính năng này, Azure AD kết nối sẽ tự động cấu hình các quy tắc đồng bộ hóa để:
   
-- Sử dụng msDS sự nhất quán Cyguid là thuộc tính sourceAnchor đối tượng người dùng. ObjectGUID được sử dụng cho các loại đối tượng.
+- Sử dụng msDS-chỗ phân vị là thuộc tính sourceAnchor cho đối tượng người dùng. ObjectGUID được dùng cho các kiểu đối tượng khác.
     
-- Đối tượng cho bất kỳ chỗ AD người dùng trên cơ sở có msDS-sự nhất quán thuộc tính không được xác định, Azure AD kết nối ghi giá trị objectGUID về thuộc tính msDS-sự nhất quán trong Active Directory tại chỗ. Sau khi msDS-thuộc tính chính xác Cyguid được điền, Azure AD kết nối sau đó xuất đối tượng Azure AD.
+- Đối với bất kỳ đối tượng người dùng quảng cáo tại cơ sở nào có thuộc tính Cyds-mâu thuẫn không có hàm, Azure AD kết nối sẽ viết giá trị objectGUID của nó trở về thuộc tính Cyguid nhất quán trong Active Directory tại chỗ. Sau đó thuộc tính Cyds-mâu thuẫn, hãy kết nối Azure AD sau đó xuất ra đối tượng Azure AD.
     
- **Lưu ý:** Khi một đối tượng AD tại chỗ được nhập vào Azure AD kết nối (tức là, nhập vào không gian kết nối quảng cáo và dự kiến vào metaverse), bạn không thể thay đổi giá trị sourceAnchor nữa. Để xác định giá trị sourceAnchor cho một đối tượng quảng cáo tại chỗ, cấu hình thuộc tính msDS của các Cyguid trước khi nó được nhập vào Azure AD kết nối. 
+ **Lưu ý:** Sau khi đối tượng quảng cáo tại cơ sở được nhập vào Azure AD Connect (tức là, được nhập vào không gian kết nối quảng cáo và dự kiến vào metaverse), bạn không thể thay đổi giá trị Sourceneo của nó nữa. Để xác định giá trị sourceAnchor cho đối tượng quảng cáo tại cơ sở đã cho, hãy đặt cấu hình thuộc tính người dùng đồng bộ của msDS trước khi nó được nhập vào Azure AD Connect. 
   
-Để biết thêm thông tin về SourceAnchor và sự nhất quán Cyguid, hãy tham khảo sau: [AZURE AD kết nối: thiết kế khái niệm](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-design-concepts)
+Để biết thêm thông tin về phần giới thiệu về SourceAnchor và mâu thuẫn, hãy tham khảo các thao tác sau: [AZURE AD Connect: khái niệm thiết kế](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-design-concepts)
   
 
