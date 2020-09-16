@@ -1,28 +1,29 @@
 ---
-title: Sự cố dịch vụ đang tiến triển
-ms.author: v-crytho
+title: Sự cố dịch vụ đang thực hiện
+ms.author: pebaum
 author: CrystalThomasMS
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e63fd594-347a-4a07-8dbd-a7074d6398bf
 ms.custom:
 - "114"
 - "1600013"
-ms.openlocfilehash: 539ed1bdbfbea60124d8fe05885b00900a597e83
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: ab386dee925dcd942e8bfd8913cc04c3ebfa2393
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43681666"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47767801"
 ---
-# <a name="service-incident-in-progress"></a>Sự cố dịch vụ đang tiến triển
+# <a name="service-incident-in-progress"></a>Sự cố dịch vụ đang thực hiện
 
-Bạn có thể bị ảnh hưởng bởi sự cố dịch vụ hoặc tư vấn hiện đang được điều tra. Bạn có thể kiểm tra trạng thái mới nhất bằng cách đi tới trang [y tế Dịch vụ](https://admin.microsoft.com/adminportal/home#/servicehealth) .
+Bạn có thể bị ảnh hưởng bởi sự cố dịch vụ hoặc tư vấn hiện đang được nghiên cứu. Bạn có thể kiểm tra trạng thái mới nhất bằng cách đi đến trang trạng thái [dịch vụ](https://admin.microsoft.com/adminportal/home#/servicehealth) .
   
-Để thuận tiện cho bạn, bạn có thể tìm thấy một bản tóm tắt về sự cố này dưới đây:
+Để thuận tiện cho bạn, bạn có thể tìm thấy tóm tắt về sự cố này dưới đây:
   
 > **Số sự cố:**[{incidentid}](https://admin.microsoft.com/adminportal/home#/servicehealth)
     
