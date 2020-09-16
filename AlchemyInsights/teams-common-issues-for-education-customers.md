@@ -1,10 +1,11 @@
 ---
-title: Nhóm các vấn đề phổ biến cho khách hàng giáo dục
+title: Các nhóm các vấn đề chung dành cho khách hàng giáo dục
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -12,80 +13,80 @@ ms.custom:
 - "9000701"
 - "3831"
 - "3832"
-ms.openlocfilehash: d61d4484c720db51e7377201067008192940d1f8
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 023bb40e54a1f1a87f0b618d49a812fc9dfda971
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43739458"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47737039"
 ---
-# <a name="teams-common-issues-for-education-customers"></a>Nhóm các vấn đề phổ biến cho khách hàng giáo dục
+# <a name="teams-common-issues-for-education-customers"></a>Các nhóm các vấn đề chung dành cho khách hàng giáo dục
 
-**Cho khách hàng giáo dục**:
+**Đối với khách hàng của giáo dục**:
 
-Nếu bạn cần trợ giúp triển khai teams để hỗ trợ học tập từ xa, vui lòng truy cập [Trung tâm FastTrack](https://www.microsoft.com/fasttrack) để gửi yêu cầu. Xem các vấn đề phổ biến sau cho khách hàng giáo dục teams:
+Nếu bạn cần trợ giúp triển khai nhóm để hỗ trợ việc học từ xa, vui lòng truy nhập [Trung tâm Fasttrack](https://www.microsoft.com/fasttrack) để gửi yêu cầu. Xem các vấn đề phổ biến sau cho các nhóm khách hàng giáo dục:
 
-- Nhìn thấy thông báo "**bạn đang bỏ lỡ!**"? Đảm bảo [bật Microsoft teams cho trường học của bạn](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/enable-microsoft-teams). Trong các thuê EDU, Microsoft teams không được bật theo mặc định; bạn sẽ phải bật đầu tiên.
+- Nhìn thấy thông báo "**bạn đang bỏ lỡ!**"? Đảm bảo [bạn cho phép Microsoft nhóm cho trường học của mình](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/enable-microsoft-teams). Trong EDU đối tượng thuê, nhóm Microsoft không được bật theo mặc định; trước tiên, bạn sẽ phải bật tính năng này.
 
-- **Mới cho teams?** Đánh giá [giảng dạy và học tập từ xa trong văn phòng 365 giáo dục](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4) để tìm hiểu các hướng dẫn up-to-date nhất về việc thiết lập trường học, lập kế hoạch bài học, họp hầu như, và chia sẻ nội dung với học sinh.
+- **Mới cho các nhóm?** Xem lại [việc giảng dạy từ xa và tìm hiểu trong Office 365 Education](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4) để tìm hiểu hướng dẫn Cập Nhật nhất về việc thiết lập các trường học, lập kế hoạch bài học, cuộc họp và chia sẻ nội dung với học viên.
 
-- Sau khi đã bật, người dùng của bạn có thể chạy teams bằng cách cài đặt [máy tính để bàn](https://docs.microsoft.com/MicrosoftTeams/get-clients#desktop-client) và [khách hàng di động](https://docs.microsoft.com/MicrosoftTeams/get-clients#mobile-clients) hoặc từ trình duyệt https://teams.microsoft.com.
+- Sau khi bật, người dùng của bạn có thể chạy nhóm, bằng cách cài đặt máy khách trên [máy tính](https://docs.microsoft.com/MicrosoftTeams/get-clients#desktop-client) và [điện thoại di động](https://docs.microsoft.com/MicrosoftTeams/get-clients#mobile-clients) hoặc từ trình duyệt https://teams.microsoft.com .
 
-- **Kích hoạt truy cập của teams**: [kiểm tra danh sách truy cập khách của teams](https://docs.microsoft.com/microsoftteams/guest-access-checklist) và đảm bảo tất cả các bước đã được hoàn tất.
-    - [Hiểu quyền truy cập của khách trong Microsoft teams](https://docs.microsoft.com/microsoftteams/guest-access)
-    - [Thiết lập-Microsoft teams khách truy cập danh sách kiểm tra](https://docs.microsoft.com/microsoftteams/guest-access-checklist)
-    - [Làm thế nào một khách tham gia một đội](https://docs.microsoft.com/microsoftteams/guest-joins)
+- Cho **phép truy nhập các nhóm khách**: xem lại [danh sách truy nhập khách mời](https://docs.microsoft.com/microsoftteams/guest-access-checklist) và đảm bảo tất cả các bước đã được hoàn tất.
+    - [Tìm hiểu về quyền truy nhập của khách trong Microsoft nhóm](https://docs.microsoft.com/microsoftteams/guest-access)
+    - [Thiết lập – danh sách khách truy nhập của nhóm Microsoft](https://docs.microsoft.com/microsoftteams/guest-access-checklist)
+    - [Làm thế nào để khách tham gia một nhóm](https://docs.microsoft.com/microsoftteams/guest-joins)
 
-- **Các cuộc họp nhóm và quay số**: cần trợ giúp bật hoặc thiết lập hội thảo âm thanh trong Microsoft teams? Có người dùng này được tạo ra gần đây? Nếu vậy, bạn sẽ cần phải đợi 2 – 24 giờ để cài đặt có hiệu lực. Để xác minh rằng người dùng được cấp phép cho hội thảo âm thanh và có số điện thoại mặc định:
-    1. Đi tới người dùng đang hoạt động và chọn người dùng trong câu hỏi.
-    2. Tùy thuộc vào phiên bản Trung tâm quản trị, hãy chọn **giấy phép và ứng dụng** hoặc nhấp vào **chỉnh sửa** trên **giấy phép sản phẩm**.
-    3. Xác nhận rằng người dùng có giấy phép được chọn cho hội nghị âm thanh, Microsoft teams và Skype dành cho doanh nghiệp trực tuyến (kế hoạch 2).
-    4. Trung tâm quản trị người dùng nhấp vào **Hiển thị tất cả** và sau đó **nhóm**.
-    5. Trong Trung tâm quản trị Microsoft teams, nhấp vào **cổng thông tin cũ**.
-    6. Trong Skype cho Trung tâm quản trị kinh doanh, bấm **hội nghị âm thanh** và sau đó **người dùng**.
-    7. Chọn người dùng trong câu hỏi và xác minh người dùng có số điện thoại mặc định.
+- Các **cuộc họp nhóm và quay số vào**: cần trợ giúp bật hoặc thiết lập hội thảo âm thanh trong nhóm Microsoft? Đã tạo gần đây cho người dùng này? Nếu vậy, bạn sẽ cần chờ 2 – 24 giờ để cài đặt có hiệu lực. Để xác nhận rằng người dùng được cấp phép cho hội thảo âm thanh và có số điện thoại mặc định:
+    1. Đi tới người dùng hiện hoạt, rồi chọn người dùng trong câu hỏi.
+    2. Tùy thuộc vào phiên bản Trung tâm quản trị, hãy chọn **giấy phép và ứng dụng** hoặc bấm **sửa** trên **giấy phép sản phẩm**.
+    3. Xác nhận rằng người dùng có giấy phép được chọn cho hội thảo âm thanh, nhóm Microsoft và Skype for Business Online (gói 2).
+    4. Trung tâm quản trị người dùng bấm vào **hiện tất cả** và sau đó chọn **nhóm**.
+    5. Trong Trung tâm quản trị nhóm Microsoft, bấm vào **cổng thông tin kế thừa**.
+    6. Trong Trung tâm quản trị Skype for Business, hãy bấm hội **thảo âm thanh** , rồi **người dùng**.
+    7. Chọn người dùng trong câu hỏi và xác nhận người dùng có số điện thoại mặc định.
 
-    Để biết thêm thông tin, hãy tham khảo [gói gọi điện](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) hoặc gọi cho nhóm thanh toán thương mại của Microsoft để được trợ giúp về các câu hỏi liên quan đến cấp phép.
+    Để biết thêm thông tin, hãy tham khảo mục [gọi các gói](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) hoặc gọi cho nhóm thanh toán Microsoft Commerce để được trợ giúp với các câu hỏi về cấp phép có liên quan.
 
     Tài nguyên bổ sung
 
-    - [Cuộc họp và hội nghị trong Microsoft teams](https://docs.microsoft.com/microsoftteams/deploy-meetings-microsoft-teams-landing-page)
+    - [Các cuộc họp và hội thảo trong Microsoft nhóm](https://docs.microsoft.com/microsoftteams/deploy-meetings-microsoft-teams-landing-page)
     - [Hội thảo âm thanh](https://docs.microsoft.com/microsoftteams/audio-conferencing-in-office-365)
 
-- **Chính sách cuộc họp**: chính sách cuộc họp được sử dụng để kiểm soát các tính năng khả dụng đối với những người tham gia cuộc họp theo lịch trình của người dùng trong tổ chức của bạn. Sau khi tạo chính sách và thực hiện thay đổi, bạn có thể gán người dùng cho chính sách.
+- **Chính sách cuộc họp**: chính sách cuộc họp được dùng để điều khiển các tính năng sẵn có cho người dự cuộc họp cho các cuộc họp được lên lịch bởi người dùng trong tổ chức của bạn. Sau khi bạn tạo chính sách và thực hiện thay đổi, bạn có thể gán người dùng cho chính sách.
 
-    - **Thay đổi hoặc tạo chính sách cuộc họp**: để thay đổi hoặc tạo chính sách cuộc họp, hãy truy cập **Trung tâm quản trị Microsoft teams > cuộc họp > chính sách cuộc họp**. Chọn một chính sách từ danh sách hoặc bấm vào **Thêm**. Nếu bạn đang tạo một chính sách mới, hãy thêm tên và mô tả. Tên không được chứa ký tự đặc biệt hoặc dài hơn 64 ký tự. Chọn cài đặt của bạn, sau đó bấm vào **lưu**. 
+    - **Thay đổi hoặc tạo chính sách cuộc họp**: để thay đổi hoặc tạo chính sách cuộc họp, hãy đi đến **Trung tâm quản trị nhóm Microsoft > cuộc họp > chính sách cuộc họp**. Chọn một chính sách từ danh sách hoặc bấm vào **Thêm**. Nếu bạn đang tạo chính sách mới, hãy thêm tên và mô tả. Tên không thể chứa các ký tự đặc biệt hoặc dài hơn 64 ký tự. Chọn thiết đặt của bạn, rồi bấm **lưu**. 
     
-        Ví dụ: giả sử bạn có một bó người dùng và bạn muốn giới hạn băng thông mà cuộc họp của họ sẽ yêu cầu. Bạn tạo một chính sách tùy chỉnh mới có tên "băng thông giới hạn" và vô hiệu hoá các thiết đặt sau:
+        Ví dụ, giả sử bạn có một bó người dùng và bạn muốn giới hạn băng thông mà cuộc họp của họ sẽ yêu cầu. Bạn sẽ tạo một chính sách tùy chỉnh mới có tên là "bị hạn chế băng thông" và vô hiệu hóa các thiết đặt sau đây:
 
-        Trong **video & âm thanh**:
-        - Tắt **cho phép ghi âm đám mây**.
-        - Tắt **cho phép video IP**.
+        Bên dưới **video & âm thanh**:
+        - Tắt **cho phép ghi đám mây**.
+        - Tắt **cho phép IP Video**.
 
-        **Nội dung chia sẻ**:
+        Bên dưới **chia sẻ nội dung**:
 
         - Tắt chế độ chia sẻ màn hình.
         - Tắt **cho phép bảng trắng**.
-        - Tắt **cho phép ghi chú đã chia sẻ**.
+        - Tắt **cho phép ghi chú được chia sẻ**.
 
         Sau đó, **gán chính sách cho người dùng**:
 
-    1. Trong điều hướng bên trái của Trung tâm quản trị Microsoft teams, hãy chuyển đến **người dùng**, sau đó nhấp vào người dùng.
-    2. Chọn người dùng bằng cách bấm vào bên trái của tên người dùng, và sau đó nhấp vào **chỉnh sửa cài đặt**.
-    3. Trong **chính sách cuộc họp**, hãy chọn chính sách bạn muốn chỉ định và nhấp vào **áp dụng**.
+    1. Trong dẫn hướng bên trái của Trung tâm quản trị nhóm Microsoft, đi tới **người dùng**, rồi bấm vào người dùng.
+    2. Chọn người dùng bằng cách bấm vào bên trái tên người dùng, rồi bấm **sửa thiết đặt**.
+    3. Bên dưới **chính sách cuộc họp**, hãy chọn chính sách bạn muốn gán, rồi bấm vào **áp dụng**.
 
-    Để chỉ định một chính sách cho nhiều người dùng cùng một lúc, xem [chỉnh sửa số lượng lớn cài đặt người dùng của teams](https://docs.microsoft.com/microsoftteams/edit-user-settings-in-bulk).
+    Để gán chính sách cho nhiều người dùng cùng lúc, hãy xem mục [chỉnh sửa thiết đặt người dùng nhóm với số lượng lớn](https://docs.microsoft.com/microsoftteams/edit-user-settings-in-bulk).
 
-    Hoặc bạn có thể làm như sau:
-    1. Trong điều hướng bên trái của Trung tâm quản trị Microsoft teams, hãy chuyển đến **cuộc họp > chính sách cuộc họp**.
-    2. Chọn chính sách bằng cách nhấp vào bên trái của tên chính sách.
-    3. Nhấp vào **quản lý người dùng**.
-    4. Trong ngăn **quản lý người dùng** , tìm kiếm người dùng theo tên hiển thị hoặc tên người dùng, chọn tên và sau đó bấm **Thêm**. Lặp lại bước này cho mỗi người dùng mà bạn muốn thêm.
-    5. Sau khi bạn hoàn tất thêm người dùng, bấm vào **lưu**.
+    Hoặc bạn có thể thực hiện các thao tác sau:
+    1. Trong dẫn hướng bên trái của Trung tâm quản trị nhóm Microsoft, hãy đi đến các **cuộc họp > chính sách cuộc họp**.
+    2. Chọn chính sách bằng cách bấm vào bên trái của tên chính sách.
+    3. Bấm **quản lý người dùng**.
+    4. Trong ngăn **quản lý người dùng** , tìm kiếm người dùng theo tên hiển thị hoặc tên người dùng, hãy chọn tên, rồi bấm **Thêm**. Lặp lại bước này cho mỗi người dùng mà bạn muốn thêm vào.
+    5. Sau khi bạn hoàn tất việc thêm người dùng, hãy bấm **lưu**.
 
-- **Khắc phục sự cố phím quay số thiếu**:
-    - Đảm bảo rằng người dùng đã được chỉ định một [giấy phép teams](https://docs.microsoft.com/MicrosoftTeams/assign-teams-licenses).
-    - Đảm bảo rằng người dùng đã gán [gói gọi điện](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) .
-    - Cho phép người dùng [Enterprise Voice](https://docs.microsoft.com/skypeforbusiness/skype-for-business-hybrid-solutions/plan-your-phone-system-cloud-pbx-solution/enable-users-for-enterprise-voice-online-and-phone-system-voicemail#to-enable-your-users-for-phone-system-in-office-365-voice-and-voicemail).
+- **Khắc phục sự cố bàn phím số bị thiếu**:
+    - Hãy đảm bảo rằng người dùng đã được gán [giấy phép nhóm](https://docs.microsoft.com/MicrosoftTeams/assign-teams-licenses).
+    - Đảm bảo rằng người dùng có [kế hoạch gọi](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) được gán.
+    - Kích hoạt người dùng cho [giọng nói Enterprise](https://docs.microsoft.com/skypeforbusiness/skype-for-business-hybrid-solutions/plan-your-phone-system-cloud-pbx-solution/enable-users-for-enterprise-voice-online-and-phone-system-voicemail#to-enable-your-users-for-phone-system-in-office-365-voice-and-voicemail).
 
-- **Khắc phục sự cố đăng nhập nhóm**: trước tiên, hãy đảm bảo [dịch vụ Microsoft teams ổn](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth)định. Sau đó, kiểm tra bất kỳ mã lỗi phổ biến nào và xem lại [lý do tại sao tôi gặp sự cố khi đăng nhập vào Microsoft teams](https://support.office.com/article/a02f683b-61a3-4008-9447-ee60c5593b0f)? Bạn cũng có thể cần phải đánh giá [mô hình nhận dạng và xác thực trong Microsoft teams](https://docs.microsoft.com/MicrosoftTeams/identify-models-authentication).
+- **Khắc phục sự cố đăng nhập nhóm**: trước tiên, hãy đảm bảo rằng [dịch vụ Microsoft nhóm được khỏe mạnh](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth). Sau đó, hãy kiểm tra bất kỳ mã lỗi nào thông thường và xem xét [tại sao tôi gặp sự cố khi đăng nhập vào Microsoft nhóm](https://support.office.com/article/a02f683b-61a3-4008-9447-ee60c5593b0f)? Bạn cũng có thể cần xem xét các [mô hình và xác thực danh tính trong Microsoft nhóm](https://docs.microsoft.com/MicrosoftTeams/identify-models-authentication).
