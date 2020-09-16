@@ -1,30 +1,31 @@
 ---
-title: Kết nối kinh nghiệm với Office bổ sung
+title: Trải nghiệm được kết nối với phần bổ trợ dành cho Office
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/16/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
-ms.openlocfilehash: 8384b947cd8a7e73ecc383cf297fe7e9224cf130
-ms.sourcegitcommit: a05276bd623466ad211e1f8d9f0c616672dd3640
+ms.openlocfilehash: ca4aa57acfa8f2ddfd5b8ddbaa6d7214cfbb9140
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 07/16/2020
-ms.locfileid: "45198248"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47748311"
 ---
-# <a name="connected-experience-with-office-add-ins"></a><span data-ttu-id="b2375-102">Kết nối kinh nghiệm với Office bổ sung</span><span class="sxs-lookup"><span data-stu-id="b2375-102">Connected experience with Office add-ins</span></span>
+# <a name="connected-experience-with-office-add-ins"></a><span data-ttu-id="6967b-102">Trải nghiệm được kết nối với phần bổ trợ dành cho Office</span><span class="sxs-lookup"><span data-stu-id="6967b-102">Connected experience with Office add-ins</span></span>
 
-<span data-ttu-id="b2375-103">Office Add-in có thể không khả dụng nếu người dùng hoặc quản trị viên đã tắt trải nghiệm được kết nối.</span><span class="sxs-lookup"><span data-stu-id="b2375-103">Office add-ins might not be available if the user or the admin turned off connected experiences.</span></span>
+<span data-ttu-id="6967b-103">Các bổ trợ dành cho Office có thể không khả dụng nếu người dùng hoặc người quản trị đã tắt trải nghiệm được kết nối.</span><span class="sxs-lookup"><span data-stu-id="6967b-103">Office add-ins might not be available if the user or the admin turned off connected experiences.</span></span>
 
-<span data-ttu-id="b2375-104">Trước khi bạn thay đổi bất kỳ cài đặt chính sách, xem [sử dụng thiết đặt chính sách để quản lý kiểm soát quyền riêng tư cho Microsoft 365 ứng dụng dành cho doanh nghiệp](https://docs.microsoft.com/deployoffice/privacy/manage-privacy-controls).</span><span class="sxs-lookup"><span data-stu-id="b2375-104">Before you change any policy settings, see [Use policy settings to manage privacy controls for Microsoft 365 Apps for enterprise](https://docs.microsoft.com/deployoffice/privacy/manage-privacy-controls).</span></span>
+<span data-ttu-id="6967b-104">Trước khi bạn thay đổi bất kỳ thiết đặt chính sách nào, hãy xem [dùng thiết đặt chính sách để quản lý các điều khiển quyền riêng tư đối với ứng dụng Microsoft 365 cho doanh nghiệp](https://docs.microsoft.com/deployoffice/privacy/manage-privacy-controls).</span><span class="sxs-lookup"><span data-stu-id="6967b-104">Before you change any policy settings, see [Use policy settings to manage privacy controls for Microsoft 365 Apps for enterprise](https://docs.microsoft.com/deployoffice/privacy/manage-privacy-controls).</span></span>
 
-<span data-ttu-id="b2375-105">Người dùng có thể bật hoặc tắt cài đặt bảo mật bằng cách làm theo các bước sau:</span><span class="sxs-lookup"><span data-stu-id="b2375-105">Users can turn on or off the Privacy setting by following these steps:</span></span>
+<span data-ttu-id="6967b-105">Người dùng có thể bật hoặc tắt thiết đặt quyền riêng tư của bạn bằng cách thực hiện theo các bước sau:</span><span class="sxs-lookup"><span data-stu-id="6967b-105">Users can turn on or off the Privacy setting by following these steps:</span></span>
 
-- <span data-ttu-id="b2375-106">**Tệp > tài khoản > quyền riêng tư của tài khoản > quản lý cài đặt**</span><span class="sxs-lookup"><span data-stu-id="b2375-106">**File > Account > Account Privacy > Manage Settings**</span></span> 
+- <span data-ttu-id="6967b-106">**Tài khoản > tệp > quyền riêng tư của tài khoản > quản lý thiết đặt**</span><span class="sxs-lookup"><span data-stu-id="6967b-106">**File > Account > Account Privacy > Manage Settings**</span></span> 
 
-    <span data-ttu-id="b2375-107">Trong trải nghiệm đã kết nối, hãy chọn xem có trải nghiệm được kết nối cụ thể hay không, chẳng hạn như trải nghiệm phân tích nội dung.</span><span class="sxs-lookup"><span data-stu-id="b2375-107">Under Connected experiences, choose whether specific connected experiences are available, such as experiences to analyze content.</span></span> <span data-ttu-id="b2375-108">Nếu bạn không chọn trải nghiệm cụ thể trong quản lý cài đặt, tất cả trải nghiệm được kết nối đều khả dụng.</span><span class="sxs-lookup"><span data-stu-id="b2375-108">If you don't select specific experiences in Manage Settings, all connected experiences are available.</span></span>
+    <span data-ttu-id="6967b-107">Bên dưới trải nghiệm được kết nối, hãy chọn có những trải nghiệm được kết nối cụ thể nào sẵn dùng, chẳng hạn như trải nghiệm để phân tích nội dung.</span><span class="sxs-lookup"><span data-stu-id="6967b-107">Under Connected experiences, choose whether specific connected experiences are available, such as experiences to analyze content.</span></span> <span data-ttu-id="6967b-108">Nếu bạn không chọn những trải nghiệm cụ thể trong quản lý thiết đặt, tất cả các trải nghiệm kết nối đều sẵn dùng.</span><span class="sxs-lookup"><span data-stu-id="6967b-108">If you don't select specific experiences in Manage Settings, all connected experiences are available.</span></span>

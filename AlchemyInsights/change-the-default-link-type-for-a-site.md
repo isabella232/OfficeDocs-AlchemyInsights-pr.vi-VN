@@ -1,25 +1,26 @@
 ---
-title: Thay đổi loại liên kết mặc định cho một trang web
+title: Thay đổi kiểu nối kết mặc định cho một site
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002578"
 - "4996"
-ms.openlocfilehash: c759e8e02b086adc2d4d7e24caba3e1684b13fcb
-ms.sourcegitcommit: 6ecb6fcbd738b8896c5d616130074438a1a6e357
+ms.openlocfilehash: 9169100cf286949fd31236f62dad3c91d6202181
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43530445"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47748383"
 ---
-# <a name="change-the-default-link-type-for-a-site"></a><span data-ttu-id="333c0-102">Thay đổi loại liên kết mặc định cho một trang web</span><span class="sxs-lookup"><span data-stu-id="333c0-102">Change the default link type for a site</span></span>
+# <a name="change-the-default-link-type-for-a-site"></a><span data-ttu-id="cf293-102">Thay đổi kiểu nối kết mặc định cho một site</span><span class="sxs-lookup"><span data-stu-id="cf293-102">Change the default link type for a site</span></span>
 
-<span data-ttu-id="333c0-103">Người dùng có thể chia sẻ tệp và thư mục trong SharePoint và OneDrive bằng cách gửi liên kết.</span><span class="sxs-lookup"><span data-stu-id="333c0-103">Users can share files and folders in SharePoint and OneDrive by sending a link.</span></span> <span data-ttu-id="333c0-104">Họ nên chọn một loại liên kết dựa trên những người mà họ muốn cho phép.</span><span class="sxs-lookup"><span data-stu-id="333c0-104">They should select a link type based on the people to whom they want to give permission.</span></span>
+<span data-ttu-id="cf293-103">Người dùng có thể chia sẻ tệp và thư mục trong SharePoint và OneDrive bằng cách gửi một nối kết.</span><span class="sxs-lookup"><span data-stu-id="cf293-103">Users can share files and folders in SharePoint and OneDrive by sending a link.</span></span> <span data-ttu-id="cf293-104">Họ phải chọn một kiểu nối kết dựa trên những người mà họ muốn trao quyền.</span><span class="sxs-lookup"><span data-stu-id="cf293-104">They should select a link type based on the people to whom they want to give permission.</span></span>
 
-- [<span data-ttu-id="333c0-105">Thay đổi loại liên kết mặc định cho một trang web</span><span class="sxs-lookup"><span data-stu-id="333c0-105">Change the default link type for a site</span></span>](https://docs.microsoft.com/sharepoint/change-default-sharing-link)
+- [<span data-ttu-id="cf293-105">Thay đổi kiểu nối kết mặc định cho một site</span><span class="sxs-lookup"><span data-stu-id="cf293-105">Change the default link type for a site</span></span>](https://docs.microsoft.com/sharepoint/change-default-sharing-link)
