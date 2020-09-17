@@ -1,33 +1,34 @@
 ---
-title: Khôi phục một nhỏ đã bị xóa
-ms.author: stevhord
+title: Khôi phục site con đã xóa
+ms.author: pebaum
 author: bentoncity
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 646fe22b-9980-4970-800b-034788de0c7f
-ms.openlocfilehash: c7da70d293730dcb5df1f13c42252bab58f41711
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 1f5db1349d2029715e9994f2872bf85cac14646b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43758704"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47795626"
 ---
-# <a name="restore-a-deleted-sharepoint-subsite"></a>Khôi phục trang web nhỏ SharePoint đã bị xóa
+# <a name="restore-a-deleted-sharepoint-subsite"></a>Khôi phục site phụ SharePoint đã xóa
 
-Xóa SubSite được gửi đến bộ sưu tập trang web Recycle Bin, nơi họ đang lưu giữ trong 93 ngày. Để khôi phục một subsite đã bị xóa:
+Các site con đã xóa được gửi đến thùng rác của tuyển tập site, nơi chúng được lưu trữ trong 93 ngày. Để khôi phục site con đã xóa:
   
-1. Trong Trung tâm quản trị SharePoint mới, hãy tìm trang web mà trong đó nhỏ đã bị xóa và đảm bảo bạn là quản trị viên bộ sưu tập trang web. 
+1. Trong Trung tâm quản trị SharePoint mới, hãy tìm site mà từ đó site con bị xóa bỏ và đảm bảo rằng bạn là người quản trị tuyển tập site. 
     
-2. Truy cập trang web. Nhấp vào **thùng** rác trong ngăn bên trái. (Nếu bạn không thấy thùng rác, bấm vào biểu tượng cài đặt, và sau đó nhấp vào **nội dung trang web**. Recycle Bin nằm ở phía bên phải của thanh lệnh ở trên cùng.)
+2. Đi đến trang. Bấm **thùng rác** trong ngăn bên trái. (Nếu bạn không nhìn thấy thùng rác, hãy bấm vào biểu tượng thiết đặt, rồi bấm **nội dung site**. Thùng rác nằm ở xa bên phải của thanh lệnh ở trên cùng.)
     
-3. Ở cuối trang, nhấp vào thùng rác **giai đoạn thứ hai**.
+3. Ở cuối trang, hãy bấm **thùng rác giai đoạn thứ nhì**.
     
-4. Bấm vào bên trái của SubSite, và sau đó bấm **khôi phục**.
+4. Bấm vào bên trái của site con, rồi bấm vào **khôi phục**.
     
 

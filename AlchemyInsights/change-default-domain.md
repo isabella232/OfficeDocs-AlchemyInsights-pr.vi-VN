@@ -6,27 +6,28 @@ manager: scotv
 ms.date: 07/8/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5993"
 - "9003196"
-ms.openlocfilehash: 3ac582f65d00753d78ed75dc2362ed9ae3ac87c0
-ms.sourcegitcommit: 4265a9e79db6c2a396aa80ec0ebd467bbaadf366
+ms.openlocfilehash: aed6d5eb7a2e3294737c517128c2023a83cfed70
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 07/08/2020
-ms.locfileid: "45088540"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47793816"
 ---
 # <a name="change-default-domain"></a>Thay đổi tên miền mặc định
 
-Sau khi thêm một miền tuỳ chỉnh bằng cách sử dụng [thuật sĩ Thêm tên](https://portal.office.com/adminportal/home#/Domains/Wizard)miền, miền tuỳ chỉnh trở thành miền mặc định cho người dùng mới nhưng người dùng hiện tại không thay đổi.
+Sau khi thêm một tên miền tùy chỉnh bằng cách sử dụng trình [hướng dẫn thêm tên miền](https://portal.office.com/adminportal/home#/Domains/Wizard), tên miền tùy chỉnh sẽ trở thành tên miền mặc định cho người dùng mới nhưng không thay đổi người dùng hiện tại.
 
-- Để thay đổi miền mặc định thành miền hiện tại, hãy chọn miền trên [trang miền](https://admin.microsoft.com/Adminportal/Home#/Domains), sau đó chọn **đặt làm mặc định**.
+- Để thay đổi tên miền mặc định thành tên miền hiện có, hãy chọn tên miền trên [trang tên miền](https://admin.microsoft.com/Adminportal/Home#/Domains), rồi chọn **đặt làm mặc định**.
 
-- Để thay đổi tên miền cho người dùng hiện tại, trên [trang người dùng đang hoạt động](https://admin.microsoft.com/Adminportal/Home#/users) , chọn nhiều người dùng, chọn **...,** và sau đó chọn **thay đổi tên miền**.
+- Để thay đổi tên miền cho người dùng hiện có, trên  [trang người dùng hiện hoạt](https://admin.microsoft.com/Adminportal/Home#/users) , chọn nhiều người dùng, chọn  **...,**, rồi chọn  **thay đổi tên miền**.
 
-- Để thay đổi tên miền hoặc thêm một bí danh cho một người dùng, trên [trang người dùng đang hoạt động](https://admin.microsoft.com/Adminportal/Home#/users) , chọn tên người dùng, sau đó chọn **quản lý tên người dùng và email**.
+- Để thay đổi tên miền hoặc thêm biệt danh cho một người dùng duy nhất, trên [trang người dùng hiện hoạt](https://admin.microsoft.com/Adminportal/Home#/users) , hãy chọn tên người dùng, rồi chọn  **quản lý tên người dùng và email**.
 
-Miền. onmicrosoft.com ban đầu không thể đổi tên hoặc loại bỏ.
+Tên miền. onmicrosoft.com ban đầu không thể đổi tên hoặc loại bỏ.

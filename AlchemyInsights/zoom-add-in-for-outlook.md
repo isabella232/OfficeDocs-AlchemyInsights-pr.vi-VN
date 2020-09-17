@@ -1,26 +1,27 @@
 ---
-title: Thu phóng Add-in cho Outlook
+title: Thu phóng bổ trợ cho Outlook
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002503"
 - "4851"
-ms.openlocfilehash: 8e0fc4b89816c57c9b2efaafa8737f454c2de6c0
-ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
+ms.openlocfilehash: ffa0ae15f1b3b52688e17f58b0725839134e9fed
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/18/2020
-ms.locfileid: "43553442"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47796238"
 ---
-# <a name="zoom-add-in-for-outlook"></a>Thu phóng Add-in cho Outlook
+# <a name="zoom-add-in-for-outlook"></a>Thu phóng bổ trợ cho Outlook
 
-Thu phóng lịch trình bổ trợ cho phép bạn dễ dàng thêm một cuộc họp thu phóng bất kỳ sự kiện lịch Outlook mới hoặc hiện tại trên web.
+Bổ trợ trình lập lịch thu phóng cho phép bạn dễ dàng thêm cuộc họp thu phóng vào bất kỳ sự kiện lịch Outlook mới hoặc hiện có nào trên web.
 
-Bạn có thể tải về Add-in ở [đây](https://go.microsoft.com/fwlink/?linkid=2126413).
+Bạn có thể tải xuống phần bổ trợ [ở đây](https://go.microsoft.com/fwlink/?linkid=2126413).
  
