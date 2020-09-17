@@ -1,41 +1,42 @@
 ---
-title: Thông báo ứng dụng Microsoft 365-xin lỗi, một tài khoản khác từ tổ chức của bạn đã đăng nhập
+title: Thông báo ứng dụng Microsoft 365-rất tiếc, một tài khoản khác từ tổ chức của bạn đã được đăng nhập
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001422"
 - "3407"
-ms.openlocfilehash: 60a51c2a45e76391b132b92bb03059864bffb2ed
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 0a9678905a58be2b68ad60d0d947483671d6b3b8
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44576942"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47802835"
 ---
-# <a name="microsoft-365-apps-message---sorry-another-account-from-your-organization-is-already-signed-in"></a>Thông báo ứng dụng Microsoft 365-xin lỗi, một tài khoản khác từ tổ chức của bạn đã đăng nhập
+# <a name="microsoft-365-apps-message---sorry-another-account-from-your-organization-is-already-signed-in"></a>Thông báo ứng dụng Microsoft 365-rất tiếc, một tài khoản khác từ tổ chức của bạn đã được đăng nhập
 
-Để khắc phục lỗi này, hãy thử như sau:
+Để khắc phục lỗi này, hãy thử làm như sau:
 
-- Mở ứng dụng Office và [đăng](https://support.office.com/article/sign-out-of-office-5a20dc11-47e9-4b6f-945d-478cb6d92071) xuất khỏi bất kỳ tài khoản người dùng hiện có nào.
+- Mở một ứng dụng Office và [đăng xuất khỏi](https://support.office.com/article/sign-out-of-office-5a20dc11-47e9-4b6f-945d-478cb6d92071) bất kỳ tài khoản người dùng hiện có nào.
 
-- Đi tới **cài đặt Windows > tài khoản > Email & tài khoản** và xóa tài khoản công việc hiện có.
+- Đi đến **thiết đặt Windows > tài khoản > Email & tài khoản** và loại bỏ tài khoản công việc hiện có.
 
-- Đi tới **cài đặt Windows > tài khoản > truy cập công việc hoặc trường học** và ngắt kết nối tài khoản hiện có. 
+- Đi đến **thiết đặt Windows > tài khoản > truy nhập công việc hoặc trường học** và ngắt kết nối các tài khoản hiện có. 
 
-- Nhấp vào **+** biểu tượng để thêm hoặc kết nối tài khoản của bạn. Nhập ủy nhiệm của bạn và chờ cho quá trình hoàn tất.
+- Bấm vào **+** biểu tượng để thêm hoặc kết nối tài khoản của bạn. Nhập thông tin đăng nhập của bạn và chờ quá trình hoàn tất.
 
-- Khởi chạy ứng dụng Office và đăng nhập lại nếu cần. 
+- Khởi động ứng dụng Office và đăng nhập lại nếu cần thiết. 
 
-Nếu sự cố vẫn tiếp diễn, hãy thử các bước sau: 
+Nếu sự cố vẫn tiếp diễn, hãy thử bước sau đây: 
 
-- Đặt lại trạng thái kích hoạt Office. Xem [đặt lại Microsoft 365 ứng dụng cho trạng thái kích hoạt doanh nghiệp](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state).
+- Đặt lại trạng thái kích hoạt Office. Xem [đặt lại ứng dụng Microsoft 365 cho trạng thái kích hoạt doanh nghiệp](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
-Để biết thêm thông tin, hãy xem [xin lỗi, một tài khoản khác từ tổ chức của bạn đã đăng nhập trên máy tính này](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in) trong Office.
+Để biết thêm thông tin, hãy xem rất [tiếc, một tài khoản khác từ tổ chức của bạn đã được đăng nhập trên máy tính này](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in) trong Office.
 
-Đối với Mac, xem [không thể đăng nhập vào một Office 2016 cho Mac ứng dụng](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail).
+Đối với máy Mac, hãy xem [không thể đăng nhập vào ứng dụng Office 2016 cho Mac](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail).

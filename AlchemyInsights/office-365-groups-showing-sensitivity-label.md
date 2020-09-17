@@ -1,29 +1,30 @@
 ---
-title: Microsoft 365 nhóm Hiển thị độ nhạy nhãn
+title: Nhóm Microsoft 365 Hiển thị nhãn nhạy cảm
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1200024"
 - "4803"
-ms.openlocfilehash: d8cd49eae557536d67a7d3a0798984b35c5be40e
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 6875076da9d1984d94cd65c9cf1e582c9e5e7e8f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44581749"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47803087"
 ---
-# <a name="microsoft-365-groups-showing-sensitivity-label"></a>Microsoft 365 nhóm Hiển thị độ nhạy nhãn
+# <a name="microsoft-365-groups-showing-sensitivity-label"></a>Nhóm Microsoft 365 Hiển thị nhãn nhạy cảm
 
-Bạn có thể thấy vấn đề sau đây với Microsoft 365 Nhóm:
+Bạn có thể thấy các sự cố sau với nhóm Microsoft 365:
 
-- Không thể tạo một nhóm Microsoft 365 từ OWA, với lỗi "trường phân loại không thể trống."
+- Không thể tạo nhóm Microsoft 365 từ OWA, với lỗi "trường phân loại không thể trống".
 
-- Thấy nhãn nhạy cảm cho Microsoft 365 nhóm ngay cả khi bạn không kích hoạt tính năng.
+- Nhìn thấy nhãn nhạy cảm cho nhóm Microsoft 365, mặc dù bạn chưa bật tính năng này.
 
-Vấn đề này đã được xác định và khắc phục. Việc triển khai khắc phục đang diễn ra và phải được hoàn thành trong một vài giờ. Trong khi đó, vui lòng sử dụng cổng quản trị Office hoặc cổng thông tin quản trị Azure để tạo nhóm Microsoft 365.  
+Sự cố này đã được xác định và khắc phục. Phát hành bản sửa lỗi đang diễn ra và cần được hoàn thành trong một vài giờ. Trong khi đó, vui lòng sử dụng cổng thông tin quản trị Office hoặc cổng thông tin quản trị Azure để tạo nhóm Microsoft 365.  
