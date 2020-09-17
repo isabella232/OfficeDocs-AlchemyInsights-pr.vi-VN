@@ -1,9 +1,10 @@
 ---
-title: Xác minh Office 365 thuê nhà giáo dục
+title: Xác nhận đối tượng thuê Office 365 Education
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 686e8f18-b871-4dd2-864f-8562947ab583
@@ -11,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002258"
 - "4360"
-ms.openlocfilehash: 0c3e012f65b245b1f7fde8f0333aa0c14ffb19d3
-ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
+ms.openlocfilehash: 783e764f4f6da4ed2ceb19f8734d4178fa362edd
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "42932347"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47796526"
 ---
-# <a name="verify-office-365-education-tenant"></a><span data-ttu-id="9a68c-102">Xác minh Office 365 thuê nhà giáo dục</span><span class="sxs-lookup"><span data-stu-id="9a68c-102">Verify Office 365 Education tenant</span></span>
+# <a name="verify-office-365-education-tenant"></a><span data-ttu-id="929af-102">Xác nhận đối tượng thuê Office 365 Education</span><span class="sxs-lookup"><span data-stu-id="929af-102">Verify Office 365 Education tenant</span></span>
 
-<span data-ttu-id="9a68c-103">Người thuê nhà của bạn có thể được xác minh là một thuê giáo dục bằng cách làm theo một vài bước đơn giản.</span><span class="sxs-lookup"><span data-stu-id="9a68c-103">Your tenant can be verified as an Education tenant by following a few easy steps.</span></span> <span data-ttu-id="9a68c-104">Đánh giá [thiết lập một Office 365 thuê để](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/set-up-office365-edu-tenant) biết thêm thông tin.</span><span class="sxs-lookup"><span data-stu-id="9a68c-104">Review [Set up an Office 365 Tenant](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/set-up-office365-edu-tenant) for more information.</span></span> 
+<span data-ttu-id="929af-103">Đối tượng thuê của bạn có thể được xác nhận là một đối tượng thuê giáo dục bằng cách làm theo một vài bước dễ dàng.</span><span class="sxs-lookup"><span data-stu-id="929af-103">Your tenant can be verified as an Education tenant by following a few easy steps.</span></span> <span data-ttu-id="929af-104">Xem lại [thiết lập một đối tượng thuê Office 365](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/set-up-office365-edu-tenant) để biết thêm thông tin.</span><span class="sxs-lookup"><span data-stu-id="929af-104">Review [Set up an Office 365 Tenant](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/set-up-office365-edu-tenant) for more information.</span></span> 
