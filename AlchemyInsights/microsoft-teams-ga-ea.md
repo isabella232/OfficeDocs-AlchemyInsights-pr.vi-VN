@@ -1,36 +1,36 @@
 ---
-title: Microsoft teams-khách truy cập
+title: Các nhóm Microsoft-truy nhập của khách
 ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "311"
 - "6500001"
-ms.openlocfilehash: 6fe5b4e1d1ef844292ccb92ff9dd792f22e47c60
-ms.sourcegitcommit: 3f825fedaf220d6c3883cdac4c56279fbaa95eec
+ms.openlocfilehash: da9ecca062bd5f1dcc169657483ba53eb201def0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 12/13/2019
-ms.locfileid: "40019120"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47798398"
 ---
-# <a name="microsoft-teams---guest-access"></a>Microsoft teams-khách truy cập
+# <a name="microsoft-teams---guest-access"></a>Các nhóm Microsoft-truy nhập của khách
 
-Nếu bạn cần trợ giúp giao tiếp với người dùng bên ngoài tổ chức của bạn trong teams, bạn cần quyết định xem có sử dụng [quyền truy cập khách hoặc truy cập bên ngoài (liên kết)](https://docs.microsoft.com/microsoftteams/manage-external-access#external-access-vs-guest-access)hay bạn có thể sử dụng cả hai.
+Nếu bạn cần trợ giúp liên lạc với người dùng bên ngoài tổ chức của bạn trong nhóm, bạn cần quyết định có nên sử dụng truy [nhập hoặc truy nhập bên ngoài (liên kết)](https://docs.microsoft.com/microsoftteams/manage-external-access#external-access-vs-guest-access)hay không, hoặc bạn có thể sử dụng cả hai.
 
-Hãy chắc chắn để [đánh giá sự khác biệt](https://docs.microsoft.com/microsoftteams/manage-external-access#external-access-vs-guest-access) để hiểu các tính năng có sẵn cho mỗi.  Ví dụ: truy cập bên ngoài (liên kết) cho phép 1:1 thông tin liên lạc, như trò chuyện và sự hiện diện.  Liên kết người dùng không thể tham gia hợp tác teams Tuy nhiên.  Nếu bạn muốn người dùng bên ngoài tham gia và tham gia vào cuộc trò chuyện kênh của teams hoặc chia sẻ tệp, bạn cần phải bật truy cập khách.
+Hãy đảm bảo bạn [xem lại sự khác biệt](https://docs.microsoft.com/microsoftteams/manage-external-access#external-access-vs-guest-access) để hiểu rõ các tính năng sẵn dùng cho từng mục.  Ví dụ, truy nhập bên ngoài (liên kết) cho phép cho 1:1 liên lạc, chẳng hạn như trò chuyện và sự hiện diện.  Tuy nhiên, người dùng liên kết không thể tham gia vào cộng tác nhóm.  Nếu bạn muốn một người dùng bên ngoài tham gia và tham gia vào các cuộc hội thoại kênh nhóm hoặc chia sẻ tệp, bạn sẽ cần phải bật truy nhập của khách.
 
-**Tùy chọn 1: bật quyền truy cập của khách**   
-Trong Trung tâm quản trị teams, đi tới [cài đặt rộng Org > quyền truy cập của khách](https://admin.teams.microsoft.com/company-wide-settings/guest-configuration) và bật "cho phép khách truy cập trong teams".  Đối với một người thuê nhà với tất cả các thiết lập mặc định khác, điều này sẽ là tất cả những gì bạn cần làm.  Để tùy chỉnh cấu hình khách truy cập của bạn, hãy đảm bảo bạn làm theo tất cả các bước trong [danh sách kiểm tra truy cập khách](https://docs.microsoft.com/microsoftteams/guest-access-checklist). Sau khi hoàn tất, bạn sẽ cần phải [đợi tối đa 24 giờ](https://docs.microsoft.com/microsoftteams/manage-guests#guest-access-latencies) để cài đặt có hiệu lực.
+**Tùy chọn 1: bật truy nhập của khách**   
+Trong Trung tâm quản trị nhóm, đi tới [cài đặt rộng của tổ chức > khách truy nhập](https://admin.teams.microsoft.com/company-wide-settings/guest-configuration) và bật "cho phép truy nhập khách trong nhóm".  Đối với một người thuê với tất cả các thiết đặt mặc định khác, điều này nên là tất cả những gì bạn cần thực hiện.  Để tùy chỉnh cấu hình truy nhập khách của bạn, hãy đảm bảo bạn làm theo tất cả các bước trong [danh sách kiểm tra truy nhập của khách](https://docs.microsoft.com/microsoftteams/guest-access-checklist). Sau khi hoàn tất, bạn sẽ cần phải [chờ đến 24 giờ](https://docs.microsoft.com/microsoftteams/manage-guests#guest-access-latencies) để cài đặt có hiệu lực.
 
-Nếu bạn tự tin rằng mình đã hoàn thành tất cả các bước trong danh sách kiểm tra và đã hơn 24 giờ, hãy tiếp tục và thử thêm [khách vào nhóm của bạn](https://support.office.com/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop).
+Nếu bạn chắc chắn rằng bạn đã hoàn thành tất cả các bước trong danh sách kiểm tra, và đã có hơn 24 giờ, hãy tiếp tục và cố gắng [Thêm một khách vào nhóm của bạn](https://support.office.com/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop).
 
-Để biết thêm thông tin, bao gồm video cách làm, xem [khách truy cập trong Microsoft teams](https://docs.microsoft.com/microsoftteams/guest-access).
+Để biết thêm thông tin, bao gồm video, hãy xem mục [truy nhập của khách trong Microsoft nhóm](https://docs.microsoft.com/microsoftteams/guest-access).
 
-**Tùy chọn 2: bật truy cập bên ngoài (liên kết)** Nếu bạn cũng muốn bật truy cập bên ngoài (liên kết), trong Trung tâm quản trị teams, hãy chuyển đến cài đặt trên toàn bộ tổ chức [> quyền truy cập bên ngoài](https://admin.teams.microsoft.com/company-wide-settings/external-communications) và bật "người dùng có thể liên lạc với Skype for Business và người dùng teams", sau đó làm theo tất cả các bước trong việc [cho phép người dùng nhóm của bạn trò](https://docs.microsoft.com/microsoftteams/manage-external-access#let-your-teams-users-chat-and-communicate-with-users-in-another-organization)
+**Tùy chọn 2: bật truy nhập bên ngoài (liên kết)** Nếu bạn cũng muốn bật truy nhập bên ngoài (liên kết), trong Trung tâm quản trị nhóm, hãy đến [cài đặt tổ chức toàn bộ > truy nhập bên ngoài](https://admin.teams.microsoft.com/company-wide-settings/external-communications) và bật "người dùng có thể liên lạc với Skype for Business và nhóm người dùng", sau đó làm theo tất cả các bước trong [cho phép người dùng trò chuyện và liên lạc với người dùng trong tổ chức khác](https://docs.microsoft.com/microsoftteams/manage-external-access#let-your-teams-users-chat-and-communicate-with-users-in-another-organization).
 
 

@@ -5,23 +5,24 @@ author: erikje
 manager: dougeby
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000662"
 - "2636"
-ms.openlocfilehash: 1cb463e0300e432c2a06fa392b3d2b6e45b2d18e
-ms.sourcegitcommit: ffbeb72c9199ab4ebcb0f1ad443ed3e2f4950efc
+ms.openlocfilehash: 435c8f50c336f6c7c34ff04cf0a3dda20f693cc3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 10/23/2019
-ms.locfileid: "37638235"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47796310"
 ---
 # <a name="your-mdm-authority-is-not-set"></a>Cơ quan MDM của bạn không được đặt
 
-Quyền quản lý thiết bị di động (MDM) của người thuê nhà này không được thiết lập. Bạn phải đặt một quyền MDM trước khi đăng ký và quản lý các thiết bị thông qua InTune MDM. Nếu không đặt cơ quan MDM bạn sẽ không thể sử dụng tính năng MDM của InTune. Thiết lập quyền MDM xác định cách bạn quản lý thiết bị của bạn.
+Cơ quan quản lý thiết bị di động (MDM) của đối tượng thuê này không được đặt. Bạn phải đặt cơ quan MDM trước khi đăng ký và quản lý các thiết bị qua InTune MDM. Nếu không đặt cơ quan MDM, bạn sẽ không thể sử dụng các tính năng MDM của InTune. Thiết đặt cơ quan MDM xác định cách bạn quản lý các thiết bị của bạn.
 
 Các bước được đề xuất:
-1. Điều hướng đến phần tổng quan về đăng ký InTune để đặt quyền MDM.
-2. Chọn cơ quan phù hợp dựa trên nhu cầu hành chính của bạn. Để biết thêm thông tin, hãy xem [bài viết cơ quan quản lý thiết bị di động](https://docs.microsoft.com/intune/mdm-authority-set).
+1. Dẫn hướng đến lưỡi dao tổng quan đăng ký InTune để đặt thẩm quyền MDM.
+2. Chọn thẩm quyền thích hợp dựa trên nhu cầu quản trị của bạn. Để biết thêm thông tin, hãy xem [mục đặt bài viết cơ quan quản lý thiết bị di động](https://docs.microsoft.com/intune/mdm-authority-set).
