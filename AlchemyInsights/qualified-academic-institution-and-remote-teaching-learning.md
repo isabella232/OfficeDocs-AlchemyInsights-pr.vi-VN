@@ -1,34 +1,35 @@
 ---
-title: Tổ chức giáo dục chuyên môn của Microsoft và giảng dạy và học tập từ xa
+title: Tổ chức học thuật có trình độ Microsoft và dạy từ xa và tìm hiểu
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.custom: ''
 ms.assetid:
 - "1500009"
 - "4495"
-ms.openlocfilehash: 8d1a8cf65ccbf4cb6d1549ec58593bccc31feb01
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 8943f2f8243d908f07823da534e16f80cd7d4903
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44062738"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47795806"
 ---
-# <a name="microsoft-qualified-academic-institution-and-remote-teaching-and-learning"></a><span data-ttu-id="86e83-102">Tổ chức giáo dục chuyên môn của Microsoft và giảng dạy và học tập từ xa</span><span class="sxs-lookup"><span data-stu-id="86e83-102">Microsoft Qualified Academic Institution and remote teaching and learning</span></span>
+# <a name="microsoft-qualified-academic-institution-and-remote-teaching-and-learning"></a><span data-ttu-id="1640f-102">Tổ chức học thuật có trình độ Microsoft và dạy từ xa và tìm hiểu</span><span class="sxs-lookup"><span data-stu-id="1640f-102">Microsoft Qualified Academic Institution and remote teaching and learning</span></span>
 
-<span data-ttu-id="86e83-103">Để bắt đầu với Office 365 cho giáo dục, hãy truy cập [trang web](https://www.microsoft.com/microsoft-365/academic/compare-office-365-education-plans) này và đăng ký.</span><span class="sxs-lookup"><span data-stu-id="86e83-103">To get started with Office 365 for Education, visit this [site](https://www.microsoft.com/microsoft-365/academic/compare-office-365-education-plans) and sign up.</span></span>
+<span data-ttu-id="1640f-103">Để bắt đầu với Office 365 dành cho giáo dục, hãy truy cập [trang web](https://www.microsoft.com/microsoft-365/academic/compare-office-365-education-plans) này và đăng ký.</span><span class="sxs-lookup"><span data-stu-id="1640f-103">To get started with Office 365 for Education, visit this [site](https://www.microsoft.com/microsoft-365/academic/compare-office-365-education-plans) and sign up.</span></span>
 
-<span data-ttu-id="86e83-104">Bạn sẽ có văn phòng 365 A1 cho thử nghiệm khoa và văn phòng 365 A1 cho học sinh dùng thử trong khi chờ đợi để đủ điều kiện của tổ chức của bạn để được xét.</span><span class="sxs-lookup"><span data-stu-id="86e83-104">You will have the Office 365 A1 for Faculty trial and Office 365 A1 for Students trial while waiting for your organization's eligibility to be reviewed.</span></span> <span data-ttu-id="86e83-105">Hãy chắc chắn để thêm một tên miền, vì có thể giúp đẩy nhanh quá trình phê duyệt.</span><span class="sxs-lookup"><span data-stu-id="86e83-105">Be sure to add a domain, as that can help expedite the approval process.</span></span>
+<span data-ttu-id="1640f-104">Bạn sẽ có Office 365 A1 dành cho giảng viên và Office 365 A1 dành cho học viên bản dùng thử trong khi đang đợi tổ chức của bạn có đủ điều kiện để được xem xét.</span><span class="sxs-lookup"><span data-stu-id="1640f-104">You will have the Office 365 A1 for Faculty trial and Office 365 A1 for Students trial while waiting for your organization's eligibility to be reviewed.</span></span> <span data-ttu-id="1640f-105">Hãy đảm bảo bạn thêm tên miền, như có thể giúp đẩy nhanh quy trình phê duyệt.</span><span class="sxs-lookup"><span data-stu-id="1640f-105">Be sure to add a domain, as that can help expedite the approval process.</span></span>
 
-<span data-ttu-id="86e83-106">Bạn sẽ nhận được email cho biết liệu đủ điều kiện của tổ chức của bạn đã được phê duyệt hay chưa.</span><span class="sxs-lookup"><span data-stu-id="86e83-106">You'll receive an email letting you know whether your organization's eligibility has been approved.</span></span>  
+<span data-ttu-id="1640f-106">Bạn sẽ nhận được một email cho biết liệu có đủ điều kiện của tổ chức bạn đã được phê duyệt hay không.</span><span class="sxs-lookup"><span data-stu-id="1640f-106">You'll receive an email letting you know whether your organization's eligibility has been approved.</span></span>  
 
-<span data-ttu-id="86e83-107">Khi bạn được chấp thuận, bạn có thể đi đến tab [dịch vụ mua](https://admin.microsoft.com/Adminportal/Home#/catalog) hàng của Trung tâm quản trị Microsoft 365 để mua đăng ký.</span><span class="sxs-lookup"><span data-stu-id="86e83-107">When you are approved, you can go to the [Purchase services](https://admin.microsoft.com/Adminportal/Home#/catalog) tab of the Microsoft 365 admin center to purchase subscriptions.</span></span>
+<span data-ttu-id="1640f-107">Khi bạn được phê duyệt, bạn có thể đi đến tab [mua dịch vụ](https://admin.microsoft.com/Adminportal/Home#/catalog) của Trung tâm quản trị Microsoft 365 để mua thuê bao.</span><span class="sxs-lookup"><span data-stu-id="1640f-107">When you are approved, you can go to the [Purchase services](https://admin.microsoft.com/Adminportal/Home#/catalog) tab of the Microsoft 365 admin center to purchase subscriptions.</span></span>
 
-<span data-ttu-id="86e83-108">**Giảng dạy và học tập từ xa**</span><span class="sxs-lookup"><span data-stu-id="86e83-108">**Remote teaching and learning**</span></span>
+<span data-ttu-id="1640f-108">**Dạy và tìm hiểu từ xa**</span><span class="sxs-lookup"><span data-stu-id="1640f-108">**Remote teaching and learning**</span></span>
 
-<span data-ttu-id="86e83-109">Vui lòng xem [từ xa giảng dạy và học tập trong văn phòng 365 giáo dục](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4) để tìm hiểu các hướng dẫn nhất đến ngày về thiết lập lập kế hoạch bài học trường học của bạn, họp hầu như và chia sẻ nội dung với sinh viên.</span><span class="sxs-lookup"><span data-stu-id="86e83-109">Please see [Remote teaching and learning in Office 365 Education](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4) to learn the most up to date guidance on setting up your school lesson planning, meeting virtually and sharing content with students.</span></span>
+<span data-ttu-id="1640f-109">Vui lòng xem [giảng dạy từ xa và tìm hiểu trong Office 365 Education](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4) để tìm hiểu về hướng dẫn Cập Nhật nhất về việc thiết lập lập kế hoạch bài học trường học của bạn, cuộc họp hầu như và chia sẻ nội dung với học viên.</span><span class="sxs-lookup"><span data-stu-id="1640f-109">Please see [Remote teaching and learning in Office 365 Education](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4) to learn the most up to date guidance on setting up your school lesson planning, meeting virtually and sharing content with students.</span></span>
 
-<span data-ttu-id="86e83-110">Có thêm hướng dẫn CNTT trong việc [bắt đầu với Microsoft teams để học từ xa](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu) và [thực hiện quá trình chuyển đổi sang học từ xa](https://www.microsoft.com/education/remote-learning).</span><span class="sxs-lookup"><span data-stu-id="86e83-110">There is additional IT guidance in [Get started with Microsoft Teams for remote learning](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu) and [Making the transition to remote learning](https://www.microsoft.com/education/remote-learning).</span></span>
+<span data-ttu-id="1640f-110">Có hướng dẫn bổ sung về nó trong [bắt đầu với Microsoft các nhóm để tìm hiểu từ xa](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu) và [chuyển đổi sang việc học tập từ xa](https://www.microsoft.com/education/remote-learning).</span><span class="sxs-lookup"><span data-stu-id="1640f-110">There is additional IT guidance in [Get started with Microsoft Teams for remote learning](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu) and [Making the transition to remote learning](https://www.microsoft.com/education/remote-learning).</span></span>

@@ -1,26 +1,27 @@
 ---
-title: Thu phóng Add-in cho Outlook
+title: Thu phóng bổ trợ cho Outlook
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002503"
 - "4851"
-ms.openlocfilehash: 8e0fc4b89816c57c9b2efaafa8737f454c2de6c0
-ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
+ms.openlocfilehash: ffa0ae15f1b3b52688e17f58b0725839134e9fed
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/18/2020
-ms.locfileid: "43553442"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47796238"
 ---
-# <a name="zoom-add-in-for-outlook"></a><span data-ttu-id="77db6-102">Thu phóng Add-in cho Outlook</span><span class="sxs-lookup"><span data-stu-id="77db6-102">Zoom add-in for Outlook</span></span>
+# <a name="zoom-add-in-for-outlook"></a><span data-ttu-id="287be-102">Thu phóng bổ trợ cho Outlook</span><span class="sxs-lookup"><span data-stu-id="287be-102">Zoom add-in for Outlook</span></span>
 
-<span data-ttu-id="77db6-103">Thu phóng lịch trình bổ trợ cho phép bạn dễ dàng thêm một cuộc họp thu phóng bất kỳ sự kiện lịch Outlook mới hoặc hiện tại trên web.</span><span class="sxs-lookup"><span data-stu-id="77db6-103">The Zoom Scheduler add-in allows you to easily add a Zoom meeting to any new or existing Outlook calendar event on the web.</span></span>
+<span data-ttu-id="287be-103">Bổ trợ trình lập lịch thu phóng cho phép bạn dễ dàng thêm cuộc họp thu phóng vào bất kỳ sự kiện lịch Outlook mới hoặc hiện có nào trên web.</span><span class="sxs-lookup"><span data-stu-id="287be-103">The Zoom Scheduler add-in allows you to easily add a Zoom meeting to any new or existing Outlook calendar event on the web.</span></span>
 
-<span data-ttu-id="77db6-104">Bạn có thể tải về Add-in ở [đây](https://go.microsoft.com/fwlink/?linkid=2126413).</span><span class="sxs-lookup"><span data-stu-id="77db6-104">You can download the add-in [here](https://go.microsoft.com/fwlink/?linkid=2126413).</span></span>
+<span data-ttu-id="287be-104">Bạn có thể tải xuống phần bổ trợ [ở đây](https://go.microsoft.com/fwlink/?linkid=2126413).</span><span class="sxs-lookup"><span data-stu-id="287be-104">You can download the add-in [here](https://go.microsoft.com/fwlink/?linkid=2126413).</span></span>
  

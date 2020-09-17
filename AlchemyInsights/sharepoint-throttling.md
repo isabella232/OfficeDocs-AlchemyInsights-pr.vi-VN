@@ -1,21 +1,22 @@
 ---
-title: Điều chỉnh SharePoint trực tuyến
+title: Điều chỉnh SharePoint Online
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: b376d8ea-50c4-47f0-9720-50d80aa3f7f1
-ms.openlocfilehash: ea7ac4eb0998d173ed91a533dd0a6b798ad87be9
-ms.sourcegitcommit: bd7c03d4e994abb45c43510adca20b7600a87091
+ms.openlocfilehash: ac49a259c1bc09710ec5f166ef47cd3f4884a4fe
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/20/2020
-ms.locfileid: "44331396"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47795446"
 ---
-# <a name="sharepoint-online-throttling"></a><span data-ttu-id="4600b-102">Điều chỉnh SharePoint trực tuyến</span><span class="sxs-lookup"><span data-stu-id="4600b-102">SharePoint Online throttling</span></span>
+# <a name="sharepoint-online-throttling"></a><span data-ttu-id="7be1c-102">Điều chỉnh SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="7be1c-102">SharePoint Online throttling</span></span>
 
-<span data-ttu-id="4600b-103">SharePoint Online sử dụng điều chỉnh để duy trì hiệu suất tối ưu và độ tin cậy của dịch vụ SharePoint trực tuyến.</span><span class="sxs-lookup"><span data-stu-id="4600b-103">SharePoint Online uses throttling to maintain optimal performance and reliability of the SharePoint Online service.</span></span> <span data-ttu-id="4600b-104">Điều tiết giới hạn số hành động của người dùng hoặc các cuộc gọi đồng thời (theo tập lệnh hoặc mã) để tránh sử dụng quá nhiều tài nguyên.</span><span class="sxs-lookup"><span data-stu-id="4600b-104">Throttling limits the number of user actions or concurrent calls (by script or code) to prevent overuse of resources.</span></span> <span data-ttu-id="4600b-105">Để biết thêm thông tin, hãy xem:</span><span class="sxs-lookup"><span data-stu-id="4600b-105">For more information, see:</span></span>
+<span data-ttu-id="7be1c-103">SharePoint Online sử dụng điều chỉnh để duy trì hiệu năng và độ tin cậy tối ưu của dịch vụ SharePoint Online.</span><span class="sxs-lookup"><span data-stu-id="7be1c-103">SharePoint Online uses throttling to maintain optimal performance and reliability of the SharePoint Online service.</span></span> <span data-ttu-id="7be1c-104">Throttling giới hạn số lượng hành động của người dùng hoặc cuộc gọi đồng thời (theo script hoặc mã) để ngăn chặn việc sử dụng tài nguyên.</span><span class="sxs-lookup"><span data-stu-id="7be1c-104">Throttling limits the number of user actions or concurrent calls (by script or code) to prevent overuse of resources.</span></span> <span data-ttu-id="7be1c-105">Để biết thêm thông tin, hãy xem:</span><span class="sxs-lookup"><span data-stu-id="7be1c-105">For more information, see:</span></span>
 
-- [<span data-ttu-id="4600b-106">Tránh bị điều chỉnh hoặc chặn trong SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="4600b-106">Avoid getting throttled or blocked in SharePoint Online</span></span>](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
+- [<span data-ttu-id="7be1c-106">Tránh dùng Throttled hoặc bị chặn trong SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="7be1c-106">Avoid getting throttled or blocked in SharePoint Online</span></span>](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
