@@ -1,25 +1,26 @@
 ---
-title: Quản lý cấu hình thiết bị thiếu trong cổng
+title: Thiết bị trình quản lý cấu hình bị thiếu trong cổng thông tin
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001495"
 - "4384"
-ms.openlocfilehash: 7a11ad3c6970be2c52a7cf0696bd3810b9bd665a
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: b6538cb6a348e194856024680a25af948152910a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43790239"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47812173"
 ---
-# <a name="configuration-manager-devices-missing-in-the-portal"></a>Quản lý cấu hình thiết bị thiếu trong cổng
+# <a name="configuration-manager-devices-missing-in-the-portal"></a>Thiết bị trình quản lý cấu hình bị thiếu trong cổng thông tin
 
-Để thiết bị đồng bộ hoá hoạt động, điểm [cuối Internet bắt buộc](https://docs.microsoft.com/configmgr/tenant-attach/device-sync-actions#internet-endpoints) phải có thể truy cập từ máy chủ tại nơi lưu trữ vai trò kết nối dịch vụ. Để khắc phục sự cố đồng bộ hoá thiết bị, vui lòng đánh giá **Cmgatewaysyncuploadworker. log** nằm trên điểm kết nối dịch vụ.
+Đối với thiết bị đồng bộ để làm việc, các [điểm cuối Internet bắt buộc](https://docs.microsoft.com/configmgr/tenant-attach/device-sync-actions#internet-endpoints) phải có thể truy nhập được từ máy chủ tại chỗ lưu trữ vai trò điểm kết nối dịch vụ. Để khắc phục sự cố đồng bộ hóa thiết bị, vui lòng xem lại **Cmgatewaysyncuploadworker. log** nằm trên điểm kết nối dịch vụ.
 
-Tìm hiểu thêm về [người thuê đính kèm trong Microsoft Endpoint Manager](https://docs.microsoft.com/configmgr/tenant-attach/).
+Tìm hiểu thêm về đối tượng [thuê đính kèm trong Microsoft Endpoint Manager](https://docs.microsoft.com/configmgr/tenant-attach/).

@@ -1,37 +1,38 @@
 ---
-title: Chính sách truy cập có điều kiện
+title: Chính sách truy nhập có điều kiện
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002357"
 - "4583"
-ms.openlocfilehash: 569507318b499cdbcf2a1cd75e84046953f62212
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 25dc98397920e4fbf28895f5961f154381e11c92
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706079"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47812281"
 ---
-# <a name="conditional-access-policies"></a>Chính sách truy cập có điều kiện
+# <a name="conditional-access-policies"></a>Chính sách truy nhập có điều kiện
 
-Truy cập có điều kiện là một khả năng của Azure AD cho phép bạn thực thi các biện pháp kiểm soát truy cập vào các ứng dụng trong môi trường của bạn, tất cả dựa trên các điều kiện cụ thể và được quản lý từ một vị trí trung tâm.
+Quyền truy nhập có điều kiện là một khả năng của Azure AD cho phép bạn thực thi các điều khiển trên quyền truy nhập vào các ứng dụng trong môi trường của mình, tất cả đều dựa trên các điều kiện cụ thể và được quản lý từ vị trí trung tâm.
 
-Tìm hiểu thêm về [truy cập có điều kiện AZURE AD](https://docs.microsoft.com/azure/active-directory/conditional-access/).  
+Tìm hiểu thêm về [AZURE AD Access](https://docs.microsoft.com/azure/active-directory/conditional-access/)có điều kiện.  
 
-**Lưu ý**: nếu đối tượng thuê của bạn được tạo sau ngày 21 tháng 10, 2019 và bạn đang bất ngờ nhận được nhắc về MFA, bạn có thể có [mặc định bảo mật](https://aka.ms/securitydefaults) được kích hoạt trong đối tượng thuê của bạn.
+**Lưu ý**: nếu đối tượng thuê của bạn đã được tạo sau ngày 21 tháng 10, 2019 và bạn đang gặp phải lời nhắc MFA, có thể bạn đã bật tính năng [mặc định bảo mật](https://aka.ms/securitydefaults) trong đối tượng thuê của mình.
 
 **Để quản lý mặc định bảo mật**
 
-1. Đăng nhập vào [Trung tâm quản trị](https://go.microsoft.com/fwlink/p/?linkid=834822) bằng thông tin đăng nhập quản trị toàn cầu của bạn.
+1. Đăng nhập vào [Trung tâm quản trị](https://go.microsoft.com/fwlink/p/?linkid=834822) bằng thông tin xác thực người quản trị toàn cầu của bạn.
 
-2. Đi tới [Azure Active Directory Properties](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Properties).
+2. Truy nhập vào [thuộc tính Azure Active Directory](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Properties).
 
-3. Ở cuối trang, nhấp vào **quản lý bảo mật mặc**định.
+3. Ở cuối trang, hãy bấm **quản lý mặc định bảo mật**.
 
-4. Bấm **có** để kích hoạt bảo mật mặc định hoặc **không** để vô hiệu hoá bảo mật mặc định.
+4. Bấm **có** để cho phép mặc định bảo mật hoặc **không** tắt tính năng mặc định bảo mật.

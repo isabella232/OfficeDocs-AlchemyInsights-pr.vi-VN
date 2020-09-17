@@ -13,16 +13,16 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: f883b0218dfa318eda633f97dbbc9b992c9d4340
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d26985b7b4e3c7389a783ab985f7bb11df7d64fe
+ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744171"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47815555"
 ---
 # <a name="how-to-verify-your-domain"></a>Cách xác minh miền của bạn
 
-Để xác nhận tên miền, hãy làm theo trình [hướng dẫn thêm tên miền](https://portal.office.com/adminportal/home#/Domains/Wizard)hoặc đi tới phần thêm tên miền **thiết lập**  >  **Domains**  >  **Add domain**.
+Để xác nhận tên miền, hãy làm theo trình [hướng dẫn thêm tên miền](https://admin.microsoft.com/Adminportal#/Domains/Wizard)hoặc đi tới phần thêm tên miền **thiết lập**  >  **Domains**  >  **Add domain**.
 
 Để biết thêm thông tin về các thay đổi DNS cần thiết để xác nhận tên miền của bạn, hãy xem hướng dẫn trong phần [Thêm bản ghi DNS để kết nối tên miền của bạn](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
 
