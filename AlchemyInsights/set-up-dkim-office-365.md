@@ -1,51 +1,52 @@
 ---
-title: Thiết lập DKIM
+title: Thiết lập TKIM
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1388
 ms.assetid: ''
-ms.openlocfilehash: 0acaed476dbd06bc933bf466f9bf6116413a44bb
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: b34bfdafcab6229a4dd2e9d9f23103fa13556482
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44509406"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47808729"
 ---
-# <a name="setup-dkim"></a>Thiết lập DKIM
+# <a name="setup-dkim"></a>Thiết lập TKIM
 
-Hướng dẫn đầy đủ để cấu hình DKIM cho tuỳ chỉnh miền trong Microsoft 365 đang [ở đây](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email#steps-you-need-to-do-to-manually-set-up-dkim).
+Hướng dẫn đầy đủ để đặt cấu hình cho các tên miền tùy chỉnh trong Microsoft 365 ở [đây](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email#steps-you-need-to-do-to-manually-set-up-dkim).
 
-1. Đối với **mỗi** miền tùy chỉnh, bạn cần tạo **hai** bản ghi DKIM CNAME tại dịch vụ lưu trữ DNS của miền (thông thường là công ty đăng ký tên miền). Ví dụ, contoso.com và fourthcoffee.com yêu cầu bốn bản ghi DKIM CNAME: hai cho contoso.com và hai cho fourthcoffee.com.
+1. Đối với **mỗi** tên miền tùy chỉnh, bạn cần phải tạo **hai** bản ghi CNAME trên máy chủ lưu trữ DNS của tên miền của bạn (thường là cơ quan đăng ký tên miền). Ví dụ, contoso.com và fourthcoffee.com yêu cầu bốn bản ghi CNAME được tạo: hai cho contoso.com và hai đối với fourthcoffee.com.
 
-   Bản ghi DKIM CNAME cho **mỗi** miền tùy chỉnh sử dụng các định dạng sau:
+   Bản ghi CNAME của **MKIM cho mỗi** tên miền tùy chỉnh sử dụng các định dạng sau:
 
-   - **Tên máy chủ**:`selector1._domainkey.<CustomDomain>`
+   - **Tên máy chủ**: `selector1._domainkey.<CustomDomain>`
 
-     **Điểm đến địa chỉ hoặc giá trị**:`selector1-<DomainGUID>._domainkey.<InitialDomain>`
-
-     **TTL**: 3600
-
-   - **Tên máy chủ**:`selector2._domainkey.<CustomDomain>`
-
-     **Điểm đến địa chỉ hoặc giá trị**:`selector2-<DomainGUID>._domainkey.<InitialDomain>`
+     **Trỏ tới địa chỉ hoặc giá trị**: `selector1-<DomainGUID>._domainkey.<InitialDomain>`
 
      **TTL**: 3600
 
-   \<DomainGUID\>là văn bản bên trái `.mail.protection.outlook.com` trong bản ghi MX tùy chỉnh cho miền tùy biến (ví dụ: `contoso-com` đối với miền contoso.com). \<InitialDomain\>là tên miền bạn đã sử dụng khi đăng ký Microsoft 365 (ví dụ: contoso.onmicrosoft.com).
+   - **Tên máy chủ**: `selector2._domainkey.<CustomDomain>`
 
-2. Sau khi bạn đã tạo bản ghi CNAME cho miền tùy chỉnh của mình, hãy hoàn tất các hướng dẫn sau:
+     **Trỏ tới địa chỉ hoặc giá trị**: `selector2-<DomainGUID>._domainkey.<InitialDomain>`
 
-   A. [đăng nhập vào Microsoft 365](https://support.office.microsoft.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4) bằng tài khoản nơi làm việc hoặc trường học của bạn.
+     **TTL**: 3600
 
-   B. Chọn biểu tượng trình khởi chạy ứng dụng ở góc trên bên trái và chọn **quản trị viên**.
+   \<DomainGUID\> là văn bản ở bên trái `.mail.protection.outlook.com` trong bản ghi MX tùy chỉnh cho tên miền tùy chỉnh (ví dụ: `contoso-com` đối với tên miền contoso.com). \<InitialDomain\> là tên miền mà bạn đã sử dụng khi đăng ký Microsoft 365 (ví dụ, contoso.onmicrosoft.com).
 
-   C. Ở phía dưới bên trái điều hướng, mở rộng **quản trị** và chọn **Exchange**.
+2. Sau khi bạn đã tạo bản ghi CNAME cho tên miền riêng của mình, hãy hoàn thành các hướng dẫn sau đây:
 
-   D. Đi đến **bảo vệ**  >  **DKIM**.
+   một. [đăng nhập vào Microsoft 365](https://support.office.microsoft.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4) bằng tài khoản cơ quan hoặc trường học của bạn.
 
-   E. Chọn miền và sau đó chọn **bật** để **ký thư cho miền này bằng chữ ký DKIM**. Lặp lại bước này cho mỗi miền tùy chỉnh.
+   b. Chọn biểu tượng công cụ khởi động ứng dụng ở phía trên bên trái, rồi chọn người **quản trị**.
+
+   c's. Trong dẫn hướng phía dưới bên trái, hãy bung rộng **quản trị** và chọn **Exchange**.
+
+   dâm. Đi đến **bảo vệ**  >  **d**.
+
+   e's. Chọn tên miền và sau đó chọn **bật** cho **tin nhắn đăng nhập cho tên miền này với chữ ký**trong dấu kim. Lặp lại bước này cho mỗi tên miền tùy chỉnh.
