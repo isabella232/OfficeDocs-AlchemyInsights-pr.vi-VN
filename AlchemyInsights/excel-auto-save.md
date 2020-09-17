@@ -1,25 +1,26 @@
 ---
-title: AutoSave là gì
-ms.author: chrsm
-author: chrsm
+title: Lưu tự động là gì
+ms.author: pebaum
+author: pebaum
 manager: jecon
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2446"
 - "9000610"
-ms.openlocfilehash: 63573912b4beb290a0289c53ccd543271c19a76a
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 36e4b57d518010c8a77bba5dd3828fe26178d20e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714244"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47783537"
 ---
-# <a name="what-is-autosave"></a>AutoSave là gì?
+# <a name="what-is-autosave"></a>Lưu tự động là gì?
 
-AutoSave là một tính năng có sẵn trong Excel, Word và PowerPoint cho Microsoft 365 người đăng ký tự động lưu tệp của bạn, mỗi vài giây, khi bạn làm việc. 
+Lưu tự động là một tính năng sẵn có trong Excel, Word và PowerPoint cho người đăng ký Microsoft 365 lưu tệp của bạn tự động, mỗi vài giây, khi bạn làm việc. 
 
-Đối với các câu hỏi thường gặp, xem [AutoSave là gì?](https://support.office.com/article/6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5)
+Đối với các câu hỏi thường gặp, hãy xem [lưu tự động là gì?](https://support.office.com/article/6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5)
