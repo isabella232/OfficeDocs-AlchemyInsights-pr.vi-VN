@@ -1,10 +1,11 @@
 ---
-title: Làm thế nào để thiết lập Skype họp Broadcast
+title: Làm thế nào để tôi thiết lập Skype Meeting Broadcast
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,15 +13,15 @@ ms.custom:
 - "9000058"
 - "2655"
 - "1563"
-ms.openlocfilehash: 94ef1f8479b0056347e632c8993ad2c6c612602d
-ms.sourcegitcommit: 7232b48bcd8bb9867d52a2f055a46ce76a58b8da
+ms.openlocfilehash: 9dd605c11278a2e9cec79784c31f7868f5936d48
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "37305248"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47781485"
 ---
-# <a name="cant-start-or-join-a-skype-meeting-broadcast"></a>Không thể khởi động hoặc tham gia cuộc họp Skype Broadcast?
+# <a name="cant-start-or-join-a-skype-meeting-broadcast"></a>Không thể bắt đầu hoặc tham gia cuộc họp Skype Meeting Broadcast?
 
-Nếu bạn đang gặp sự cố khi bắt đầu hoặc tham gia cuộc họp Skype Broadcast là một thành viên của Team (cuộc họp sản xuất), hãy đảm bảo kiểm tra lại cấu hình của bạn. Skype họp Broadcast yêu cầu một số bước thiết lập thủ công. Làm theo các bước trong bài viết này để đảm bảo rằng mạng của bạn và Skype dành cho doanh nghiệp trực tuyến cổng được cấu hình đúng và người dùng bị ảnh hưởng không bị chặn bởi một giấy phép xung đột:
+Nếu bạn đang gặp khó khăn khi bắt đầu hoặc tham gia cuộc họp Skype Meeting Broadcast với tư cách là thành viên nhóm sự kiện (nhà sản xuất cuộc họp), hãy đảm bảo kiểm tra lại cấu hình của bạn. Skype Meeting Broadcast yêu cầu một số bước thiết lập thủ công. Làm theo các bước trong bài viết này để đảm bảo rằng cổng mạng và Skype for Business Online của bạn được cấu hình chính xác và rằng người dùng bị ảnh hưởng không bị không chặn bởi giấy phép xung đột:
 
-[Thiết lập mạng của bạn cho Skype họp Broadcast](https://docs.microsoft.com/SkypeForBusiness/set-up-your-network-for-skype-meeting-broadcast/set-up-your-network-for-skype-meeting-broadcast)
+[Thiết lập mạng của bạn cho Skype Meeting Broadcast](https://docs.microsoft.com/SkypeForBusiness/set-up-your-network-for-skype-meeting-broadcast/set-up-your-network-for-skype-meeting-broadcast)
