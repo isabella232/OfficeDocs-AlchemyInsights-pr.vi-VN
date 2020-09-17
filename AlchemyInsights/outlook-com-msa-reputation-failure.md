@@ -1,28 +1,29 @@
 ---
-title: Outlook.com tài khoản bị khóa
+title: Tài khoản Outlook.com đã khóa
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1979"
 - "9000345"
-ms.openlocfilehash: e3ddebc8b73688d65c32e15383c7d654a3f1fff1
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 5ea4e9b9c25aa6c8136c7b8f9de682d6d741688a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43745777"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47802331"
 ---
-# <a name="account-locked"></a>Tài khoản bị khóa
+# <a name="account-locked"></a>Tài khoản đã khóa
 
-Nếu bạn thấy thông báo "tài khoản của bạn đã bị khóa" khi cố gắng đăng nhập vào Outlook.com, thì đó là vì chúng tôi đã nhận thấy một số hoạt động bất thường trên tài khoản của bạn. Để giúp bảo vệ bạn khỏi bị gian lận hoặc lạm dụng tiềm ẩn, chúng tôi đã tạm thời khóa tài khoản của bạn. Chúng tôi biết điều này là bực bội, nhưng chúng tôi có thể giúp bạn lấy lại vào tài khoản của bạn chỉ với một vài bước.
+Nếu bạn thấy thông báo "tài khoản của bạn đã bị khóa" khi tìm cách đăng nhập vào Outlook.com, đó là vì chúng tôi đã nhận thấy một số hoạt động bất thường trên tài khoản của bạn. Để giúp bảo vệ bạn khỏi gian lận hoặc lạm dụng tiềm ẩn, chúng tôi đã tạm thời khóa tài khoản của bạn. Chúng tôi biết điều này là bực bội, nhưng chúng tôi có thể giúp bạn trở lại tài khoản của bạn chỉ với một vài bước.
 
-1. Truy cập [Account.Microsoft.com](https://go.microsoft.com/fwlink/?linkid=2090484) và đăng nhập vào tài khoản bị khóa của bạn.Để mở khóa tài khoản của bạn, bạn phải nhập mã bảo vệ được cung cấp trong tin nhắn văn bản từ Microsoft. Để nhận tin nhắn văn bản, bạn phải có điện thoại hỗ trợ nhắn tin văn bản. Nếu điện thoại của bạn không hỗ trợ nhắn tin văn bản, bạn có thể nhờ một người bạn hoặc thành viên gia đình sử dụng điện thoại của họ. Microsoft không lưu số điện thoại này, do đó, số điện thoại bạn sử dụng để nhận được tin nhắn văn bản này không cần phải được liên kết với tài khoản của bạn.
-2. Nếu bạn thấy thông báo "vượt quá giới hạn sử dụng", hãy vào [tài khoản Reinstatement](https://go.microsoft.com/fwlink/?linkid=2090483) và một trong những đại lý của chúng tôi sẽ xem xét tài khoản của bạn.
+1. Đi tới [Account.Microsoft.com](https://go.microsoft.com/fwlink/?linkid=2090484) và đăng nhập vào tài khoản đã khóa của bạn.Để mở khóa tài khoản của bạn, bạn phải nhập mã bảo mật được cung cấp trong tin nhắn văn bản từ Microsoft. Để nhận tin nhắn văn bản, bạn phải có điện thoại hỗ trợ tin nhắn văn bản. Nếu điện thoại của bạn không hỗ trợ tin nhắn văn bản, bạn có thể yêu cầu bạn bè hoặc thành viên gia đình sử dụng điện thoại của họ. Microsoft không lưu số điện thoại này, vì vậy số điện thoại mà bạn sử dụng để nhận được thông báo văn bản này không cần được liên kết với tài khoản của bạn.
+2. Nếu bạn thấy thông báo "mức giới hạn sử dụng vượt quá", đi tới khai báo phục hồi [tài khoản](https://go.microsoft.com/fwlink/?linkid=2090483)   và một trong các đại diện của chúng tôi sẽ xem xét tài khoản của bạn.
 
 Để tìm hiểu thêm, hãy đọc [bỏ chặn tài khoản Outlook.com của tôi](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4?wt.mc_id=Office_Outlook_com_Alchemy) 
