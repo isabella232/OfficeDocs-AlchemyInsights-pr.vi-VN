@@ -1,22 +1,23 @@
 ---
-title: Câu hỏi về các tập tin Check in và out
+title: Các câu hỏi về kiểm nhập và ra các tệp
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 5a5eaebc-5818-4ce8-9d2c-e0d04f8c6f7d
-ms.openlocfilehash: 3e744c70e890e63890a0488e73dcf5bca4e4e54c
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 784b4c3e3375930a9391b4665f245f30a4567fe5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43698332"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47811957"
 ---
-# <a name="questions-about-check-in-and-out-files"></a><span data-ttu-id="ed962-102">Câu hỏi về các tập tin Check in và out</span><span class="sxs-lookup"><span data-stu-id="ed962-102">Questions about check in and out files</span></span>
+# <a name="questions-about-check-in-and-out-files"></a><span data-ttu-id="ce9a3-102">Các câu hỏi về kiểm nhập và ra các tệp</span><span class="sxs-lookup"><span data-stu-id="ce9a3-102">Questions about check in and out files</span></span>
 
-<span data-ttu-id="ed962-103">Để xem lại một số câu hỏi thường gặp bao gồm làm thế nào để kiểm tra các tập tin trong và ngoài, và làm thế nào để loại bỏ một kiểm tra trong SharePoint trực tuyến, thấy các [câu hỏi hàng đầu về kiểm tra, kiểm tra.](https://go.microsoft.com/fwlink/?linkid=2018786)</span><span class="sxs-lookup"><span data-stu-id="ed962-103">To review some frequently asked questions including how to check files in and out, and how to discard a check out in SharePoint Online, see [Top questions about check out, check in.](https://go.microsoft.com/fwlink/?linkid=2018786)</span></span>
+<span data-ttu-id="ce9a3-103">Để xem lại một số câu hỏi thường gặp bao gồm cách kiểm tra các tệp trong và ngoài, cũng như cách loại bỏ kiểm xuất trong SharePoint Online, hãy xem các [câu hỏi hàng đầu về kiểm xuất, kiểm nhập.](https://go.microsoft.com/fwlink/?linkid=2018786)</span><span class="sxs-lookup"><span data-stu-id="ce9a3-103">To review some frequently asked questions including how to check files in and out, and how to discard a check out in SharePoint Online, see [Top questions about check out, check in.](https://go.microsoft.com/fwlink/?linkid=2018786)</span></span>
   
 
