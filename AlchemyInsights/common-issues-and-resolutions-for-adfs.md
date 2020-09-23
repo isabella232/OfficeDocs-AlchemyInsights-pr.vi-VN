@@ -12,18 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002490"
 - "4832"
-ms.openlocfilehash: 313c76df6b2d2739814f481917b4314363600af5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3bcf65b93e5c5adbfa0ca275c69da882aa125c39
+ms.sourcegitcommit: aabc5178929892d532782036bfb338b4b480d4e5
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812317"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "48213049"
 ---
 # <a name="common-issues-and-resolutions-for-adfs"></a>Các sự cố thường gặp và độ phân giải cho ADFS
 
 Cấu hình của tên miền được liên kết có thể được Cập Nhật như được mô tả trong các bài viết cơ sở kiến thức Microsoft sau đây.
 
 - [Chứng chỉ liên kết ADFS được sắp hết hạn](adfs-federation-certificate-expiring.md)
+
+- [Thiết lập ADFS cho Office 365 cho đăng nhập đơn](https://docs.microsoft.com/office365/troubleshoot/active-directory/set-up-adfs-for-single-sign-on)
 
 - [2713898](https://support.microsoft.com/help/2713898)  "đã xảy ra sự cố khi truy nhập vào lỗi" site "từ AD FS khi một người dùng được liên kết đăng nhập vào Microsoft 365, Azure hoặc InTune.
 
