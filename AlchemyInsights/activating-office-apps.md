@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3495"
-ms.openlocfilehash: b6945d7e8b201cfc37900bed11bfb64ad1838efc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0e4fe5401663eaf7a332b7dac6a786a05656f63f
+ms.sourcegitcommit: 57102d7daf32f370cab84dba342819a1ad5cb261
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47698011"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48236075"
 ---
 # <a name="activating-microsoft-365-apps"></a>Kích hoạt ứng dụng Microsoft 365
 
@@ -35,6 +35,8 @@ ms.locfileid: "47698011"
 - [Lỗi sản phẩm chưa được cấp phép và kích hoạt trong Office](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380)
 
 - [Cần phải làm gì nếu bạn không thể cài đặt hoặc kích hoạt Office cho Mac](https://support.office.com/article/what-to-try-if-you-can-t-install-or-activate-office-for-mac-5efba2b4-b1e6-4e5f-bf3c-6ab945d03dea)
+
+**Mẹo** Trên máy Windows, chúng tôi có thể chẩn đoán và tự động khắc phục một số vấn đề đăng nhập Office thông thường cho bạn. Tải xuống và chạy trình trợ  **[giúp phục hồi và hỗ trợ của Microsoft](https://aka.ms/SaRA-OfficeSignInScenario)** để sử dụng công cụ tự động của chúng tôi.
 
 Nếu bạn không thể đăng nhập vào ứng dụng Microsoft 365, hãy làm theo các bước dưới đây:
 

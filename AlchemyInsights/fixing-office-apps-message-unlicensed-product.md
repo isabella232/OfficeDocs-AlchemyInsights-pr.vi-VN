@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2000023"
 - "3509"
-ms.openlocfilehash: 50939456df57920994e464db20e5da54f45f197a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e052c18eae035ff05c70a223f6d8a2eab875b2c9
+ms.sourcegitcommit: 57102d7daf32f370cab84dba342819a1ad5cb261
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744648"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48236111"
 ---
 # <a name="unable-to-activate-office"></a>Không thể kích hoạt Office
 
@@ -26,6 +26,8 @@ ms.locfileid: "47744648"
 - Đảm bảo người dùng đăng nhập vào Office bằng cùng tài khoản có giấy phép được gán.
 - Hãy kiểm tra trang trạng thái [dịch vụ của Office 365](https://docs.microsoft.com/office365/enterprise/view-service-health) để xem liệu có bất kỳ vấn đề nào đã biết với dịch vụ hay không.
 - Kiểm tra tường lửa, phần mềm chống vi-rút và thiết đặt proxy để xác nhận rằng họ không ngăn chặn việc truy nhập ứng dụng Microsoft 365 vào Internet. Vui lòng xem các [URL của Office 365 và dải địa chỉ IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges "URL và dải địa chỉ IP của Office 365").
+
+**Mẹo** Trên máy Windows, chúng tôi có thể chẩn đoán và tự động khắc phục một số vấn đề đăng nhập Office thông thường cho bạn. Tải xuống và chạy trình trợ  **[giúp phục hồi và hỗ trợ của Microsoft](https://aka.ms/SaRA-OfficeSignInScenario)** để sử dụng công cụ tự động của chúng tôi.
 
 Sử dụng các hành động khắc phục sự cố sau đây:
 

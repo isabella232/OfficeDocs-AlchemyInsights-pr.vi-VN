@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001422"
 - "3407"
-ms.openlocfilehash: 0a9678905a58be2b68ad60d0d947483671d6b3b8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c2bb894cf97c094a1648da8db83cbd459da4fda4
+ms.sourcegitcommit: 57102d7daf32f370cab84dba342819a1ad5cb261
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802835"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48236042"
 ---
 # <a name="microsoft-365-apps-message---sorry-another-account-from-your-organization-is-already-signed-in"></a>Thông báo ứng dụng Microsoft 365-rất tiếc, một tài khoản khác từ tổ chức của bạn đã được đăng nhập
 
@@ -32,6 +32,8 @@ ms.locfileid: "47802835"
 - Bấm vào **+** biểu tượng để thêm hoặc kết nối tài khoản của bạn. Nhập thông tin đăng nhập của bạn và chờ quá trình hoàn tất.
 
 - Khởi động ứng dụng Office và đăng nhập lại nếu cần thiết. 
+
+**Mẹo** Trên máy Windows, chúng tôi có thể chẩn đoán và tự động khắc phục một số vấn đề đăng nhập Office thông thường cho bạn. Tải xuống và chạy trình trợ  **[giúp phục hồi và hỗ trợ của Microsoft](https://aka.ms/SaRA-OfficeSignInScenario)** để sử dụng công cụ tự động của chúng tôi.
 
 Nếu sự cố vẫn tiếp diễn, hãy thử bước sau đây: 
 
