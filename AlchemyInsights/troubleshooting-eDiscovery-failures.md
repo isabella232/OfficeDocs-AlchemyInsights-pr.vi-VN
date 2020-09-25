@@ -14,12 +14,12 @@ ms.custom:
 - "1490"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 6e04773d9c0a5f30b613221ad59fe77096ae39a9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ff28f96d64ec14980e9a47b630246b394faf4610
+ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658972"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "48277839"
 ---
 # <a name="troubleshoot-content-search-errors"></a>Khắc phục lỗi tìm kiếm nội dung
 
@@ -36,3 +36,5 @@ Ví dụ, bạn có nhận được những thao tác sau khi tìm kiếm chạy
 Hoặc khi tìm kiếm hoặc xuất kết quả từ số lượng hộp thư lớn (trên hộp thư 100.000), thì bạn sẽ nhận được lỗi xuất hiện?
 
 Đối với các loại lỗi này, hãy thử lại việc tìm kiếm các vị trí nội dung không thành công. Xem  [bài viết này](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) để biết thêm thông tin.
+
+Nếu bạn đang xuất nhiều hơn 100K hộp thư, bạn sẽ cần sử dụng PowerShell sau đây để tải xuống các kết quả xuất:  [xuất kết quả từ hơn 100k hộp thư](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide%23exporting-results-from-more-than-100000-mailboxes).

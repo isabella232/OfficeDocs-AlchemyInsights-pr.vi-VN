@@ -15,12 +15,12 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: 55f29fae0878917eaf2972ba1dfd3c5b8a26ce54
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 67e59182a5053111a08f5fb2be814931a1aa815d
+ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47711117"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "48277928"
 ---
 # <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Bạn không thể cài đặt hoặc chạy công cụ xuất khám phá điện tử?
 
@@ -47,4 +47,5 @@ Nếu bạn không thể cài đặt hoặc chạy công cụ xuất khám phá 
 - Bạn đã gán vai trò xuất trong &amp; Trung tâm tuân thủ bảo mật của Microsoft 365. Theo mặc định, vai trò này chỉ được gán cho nhóm vai trò trình quản lý khám phá điện tử. Xem mục [gán quyền khám phá](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)điện tử.
 
 Để biết thêm thông tin, hãy xem [xuất kết quả tìm kiếm nội dung](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).
-  
+
+Nếu bạn đang xuất nhiều hơn 100K hộp thư, bạn sẽ cần sử dụng PowerShell sau đây để tải xuống các kết quả xuất:  [xuất kết quả từ hơn 100k hộp thư](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide%23exporting-results-from-more-than-100000-mailboxes).
