@@ -2,7 +2,7 @@
 title: Trạng thái đăng ký
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,30 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001519"
 - "3586"
-ms.openlocfilehash: 1dd3268044d1859b2648486717b41f7941d135b5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: edb5a78343a99196379aca052b51b0ef1f7249c5
+ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773509"
+ms.lasthandoff: 09/26/2020
+ms.locfileid: "48286980"
 ---
 # <a name="subscription-status"></a>Trạng thái đăng ký
 
-Trạng thái đăng ký có thể tìm thấy trên trang **sản phẩm** của Trung tâm quản trị Microsoft 365.
+Trạng thái đăng ký, ngày hết hạn và số lượng giấy phép có thể được tìm thấy trên trang **sản phẩm của bạn** trong Trung tâm quản trị Microsoft 365.
 
-1. Đi tới **thanh toán**  >  **[các sản phẩm của bạn](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
-
-2. Nếu có vấn đề với trạng thái của bất kỳ đăng ký nào, bạn sẽ thấy một biểu tượng cảnh báo màu đỏ bên cạnh đăng ký hoặc trạng thái "đã hết hạn" hoặc "bị vô hiệu hóa" trong phần thanh toán của chi tiết đăng ký.
-
-3. Nếu bạn muốn kích hoạt lại đăng ký đã hết hạn hoặc bị vô hiệu hóa, hãy bấm **kích hoạt lại ngay**.
-
-**Ngày hết hạn**
-
-1. Đi tới **thanh toán**  >  **[các sản phẩm của bạn](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
-
-2. Tùy theo dạng xem, ngày hết hạn sẽ xuất hiện trên cột ngoài cùng bên phải có nhãn hoặc trong phần **thanh toán** của chi tiết đăng ký bên cạnh **hết** **hạn** .
-
-**Hạn**
-
-Số lượng giấy phép đã mua và đang sử dụng được liệt kê theo đăng ký trên trang **sản phẩm của bạn** .
-
+1. Trong Trung tâm quản trị, hãy đi đến trang **thanh toán**  >  [sản phẩm của bạn](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+2. Trên tab **sản phẩm** , theo mặc định, bạn sẽ thấy tất cả các đăng ký và trạng thái của họ (hiện hoạt, đã hết hạn, bị vô hiệu hóa hoặc đã xóa). Để xem tập hợp con của tất cả các đăng ký, hãy chọn biểu tượng bộ lọc, sau đó chọn **trạng thái đăng ký** mà bạn muốn xem.
+3. Để kích hoạt lại đăng ký đã hết hạn hoặc bị vô hiệu hóa, hãy chọn **Thêm hành động** (ba chấm), rồi chọn **kích hoạt lại đăng ký này**.
+4. Trang **sản phẩm của bạn** cũng hiển thị các thông tin sau đây:
+    - Số lượng giấy phép được gán cho người dùng được hiển thị trong cột **giấy phép đã gán** .
+    - Tổng số giấy phép bao gồm trong gói đăng ký được hiển thị trong cột **số lượng đã mua** .
+    - Ngày hết hạn hoặc gia hạn trong cột **trạng thái đăng ký** .
+    - Phương thức thanh toán được sử dụng để thanh toán cho mỗi thuê bao được hiển thị trong cột được **thanh toán bằng** .
+    - Tài khoản thanh toán được liên kết với mỗi đăng ký được hiển thị trong cột **tài khoản thanh toán** .
+5. Để thêm hoặc loại bỏ cột, chọn **chọn cột**.

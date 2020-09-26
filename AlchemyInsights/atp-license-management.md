@@ -1,8 +1,8 @@
 ---
 title: Quản lý giấy phép bảo vệ mối đe dọa nâng cao
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5782"
-ms.openlocfilehash: 1c6bf3c43177da2c22bef9350ceb03081bec285e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a543deaaa0fcb229a260468d9674e5252fd07ec1
+ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47715403"
+ms.lasthandoff: 09/26/2020
+ms.locfileid: "48287124"
 ---
 # <a name="advanced-threat-protection-license-management"></a>Quản lý giấy phép bảo vệ mối đe dọa nâng cao
 
 Office 365 Advance Threat Protection (ATP) có thể hoàn thành quản lý giấy phép trong  **Trung tâm quản trị Microsoft 365**.
 
-- Để mua Office 365 Advance Threat Protection, hãy đi **Billing**tới  >  [dịch vụ mua bán](https://go.microsoft.com/fwlink/p/?linkid=868433)thanh toán, chọn trang **bổ trợ** từ **các thể loại khác mà có thể bạn quan tâm**, chọn kế hoạch bảo vệ mối đe dọa nâng cao mà bạn muốn mua, rồi chọn số lượng người dùng sẽ sử dụng bảo vệ mối đe dọa nâng cao. Để biết thêm thông tin, hãy xem mục [mua đăng ký](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
-- Để gán giấy phép bảo vệ mối đe dọa trước cho **Billing**Office 365, hãy đi đến  >  **giấy phép**thanh toán. Để biết thêm thông tin, hãy xem mục  [gán giấy phép](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).  
-- Để thêm/loại bỏ giấy phép của việc bảo vệ mối đe dọa trước của Office 365, đi tới để đi tới **thanh toán**  >  các**sản phẩm của bạn**, tìm đăng ký mà bạn muốn thêm hoặc loại bỏ giấy phép, rồi chọn **thêm/loại bỏ giấy phép**.  
-- Để biết thêm thông tin, hãy xem [Thêm hoặc loại bỏ giấy phép](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription)s khỏi đăng ký doanh nghiệp của bạn.
+- Để mua Office 365 Advance Threat Protection:
+    1. Đi tới **Billing**  >  [dịch vụ mua](https://go.microsoft.com/fwlink/p/?linkid=868433)thông tin thanh toán.
+    2. Ở cuối trang, chọn phần **bổ trợ**.
+    3. Trên trang **mua dịch vụ** , chọn gói bảo vệ mối đe dọa nâng cao mà bạn muốn mua, nhập số lượng người dùng cần có giấy phép, rồi chọn **kiểm xuất ngay bây giờ**. Để biết thêm thông tin, hãy xem [mua phần bổ](https://docs.microsoft.com/microsoft-365/commerce/buy-or-edit-an-add-on)trợ.
+- Để gán giấy phép bảo vệ mối đe dọa trước cho **Billing**Office 365, hãy đi đến  >  **giấy phép**thanh toán. Để biết thêm thông tin, hãy xem mục [gán giấy phép cho người dùng](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
+- Để thêm hoặc loại bỏ giấy phép khỏi bảo vệ mối đe dọa trước khi Office 365, hãy đi tới **thanh toán**  >  **các sản phẩm của bạn**. Chọn đăng ký mà bạn muốn Cập Nhật, sau đó chọn **mua giấy phép** hoặc**loại bỏ giấy phép**. Để biết thêm thông tin, hãy xem [mua hoặc loại bỏ giấy phép đăng ký](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).

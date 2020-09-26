@@ -2,7 +2,7 @@
 title: Hủy bỏ Power BI
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,25 +13,25 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9002564"
 - "5092"
-ms.openlocfilehash: 5619b1866041d248de7d13d0e2edaa84208a5ba0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 82fe905756030970241d0be48e5fb2d37e8386cc
+ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47683496"
+ms.lasthandoff: 09/26/2020
+ms.locfileid: "48287196"
 ---
 # <a name="cancel-power-bi"></a>Hủy bỏ Power BI
 
-Có thể hủy có Power BI trong **Trung tâm quản trị Microsoft 365**.  
+Có thể hủy có Power BI trong Trung tâm quản trị Microsoft 365.
 
-1. Đi tới **thanh toán > trang [sản phẩm của bạn](https://go.microsoft.com/fwlink/p/?linkid=842054) ** .
-
-2. Định vị gói Power BI để hủy bỏ.
-
-3. Bấm **hủy bỏ đăng ký**.
+1. Trong Trung tâm quản trị, đi tới **thanh toán > trang [sản phẩm của bạn](https://go.microsoft.com/fwlink/p/?linkid=842054) ** .
+2. Trên tab **sản phẩm** , hãy tìm đăng ký mà bạn muốn hủy bỏ. Chọn **hành động khác** (ba chấm), rồi chọn **hủy bỏ đăng ký**.
+3. Trong ngăn **hủy bỏ đăng ký** , chọn một lý do tại sao bạn hủy. Được tùy chọn cung cấp bất kỳ phản hồi nào.
+4. Chọn **lưu**.
 
 **Hoàn tiền: bất kỳ tín dụng nào sẽ được trả về cho bạn trong chu kỳ thanh toán tiếp theo.**
 
-**Lưu ý**: nếu bạn không nhìn thấy tùy chọn hủy bỏ, hãy bấm vào thuê bao để xem chi tiết và bạn sẽ thấy tùy chọn **hủy bỏ đăng ký** trong **thiết đặt & hành động**.
+> [!NOTE]
+> Nếu bạn không nhìn thấy tùy chọn hủy bỏ, hãy chọn thuê bao để xem trang chi tiết. Trong phần **đăng ký và thiết đặt thanh toán** , chọn **hủy bỏ đăng ký**.
 
 Để tìm hiểu thêm, hãy xem [hủy bỏ đăng ký của bạn](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
