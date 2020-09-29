@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6108"
 - "3200001"
-ms.openlocfilehash: 406bc40fbe8a6306a2f74506ef1daf70b37283d6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d0363d6bdecdb266a5f4a3a14bd496ede6bb9931
+ms.sourcegitcommit: 76b147af688f0dc39878a913a050c0e56af054a8
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812137"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "48305465"
 ---
 # <a name="configure-endpoint-dlp"></a>Cấu hình điểm cuối
 
@@ -32,3 +32,13 @@ Microsoft điểm cuối cho phép bạn mở rộng khả năng bảo vệ và 
 - Tạo chính sách có thể bảo vệ các mục nhạy cảm của bạn. Để biết thông tin, hãy xem các [kịch bản chính sách điểm cuối](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-using?view=o365-worldwide#endpoint-dlp-policy-scenarios).
 
 Để biết thêm thông tin về Microsoft điểm cuối, hãy xem [Tìm hiểu về ngăn chặn mất dữ liệu về microsoft 365 Endpoint (bản xem trước)](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-learn-about).
+
+**Các bước thu thập dữ liệu quan trọng, nếu cần hỗ trợ:**
+
+1. Tải xuống bản xem trước phân tích máy khách MDATP từ [http://aka.ms/betamdatpanalyzer](http://aka.ms/betamdatpanalyzer "http://aka.ms/betamdatpanalyzer")
+2. Chạy công cụ dưới dạng quản trị từ cửa sổ CMD:
+3. MDATPClientAnalyzerPreview\MDATPClientAnalyzer.cmd – t
+4. Khi được nhắc với "nhập số phút để thu thập các dấu vết:", hãy nhập số phút cần thiết để chạy kịch bản
+5. Chạy kịch bản
+
+Thu thập các đầu ra tệp ZIP để được cung cấp cho nhân viên hỗ trợ.
