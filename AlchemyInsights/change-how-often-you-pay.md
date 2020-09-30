@@ -15,22 +15,23 @@ ms.custom:
 - "469"
 - "4552"
 - "1500025"
-ms.openlocfilehash: bfad1d1eb6ceeb70ce6f0da6b5ee5e985548b937
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2ecf4987e5590708cb2c8246ca0e3a9343035811
+ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47733672"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "48307364"
 ---
 # <a name="change-how-often-you-pay"></a>Thay đổi mức độ thường xuyên bạn thanh toán
 
 Để thay đổi mức độ thường xuyên bạn đang lập hóa đơn và thanh toán cho một thuê bao, hãy hoàn thành các bước sau đây trong Trung tâm quản trị Microsoft 365.
 
 1. Đi tới **thanh toán hóa**  >  trang[sản phẩm của bạn](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. Trên tab **sản phẩm** , hãy chọn thuê bao mà bạn muốn thay đổi. 
+2. Trên tab **sản phẩm** , hãy chọn thuê bao mà bạn muốn thay đổi.
 3. Trên trang chi tiết gói đăng ký, trong phần **thiết đặt thuê bao và thanh toán** , hãy chọn **chỉnh sửa tần suất thanh toán**.
-4. Trong ngăn **chỉnh sửa tần suất thanh toán** , hãy shoose tùy chọn thường xuyên bạn muốn được lập hóa đơn, sau đó chọn **thay đổi**.
+4. Trong ngăn **chỉnh sửa tần suất thanh toán** , chọn tùy chọn thường xuyên bạn muốn được lập hóa đơn, sau đó chọn **thay đổi**.
 
-**Lưu ý**: thanh toán hàng tháng hoặc hàng năm là các tùy chọn duy nhất.
+> [!NOTE]
+> Thanh toán hàng tháng hoặc hàng năm là các tùy chọn duy nhất.
 
 Để biết thêm thông tin, hãy xem [thay đổi tần suất thanh toán của bạn](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).
