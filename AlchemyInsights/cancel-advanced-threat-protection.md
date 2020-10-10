@@ -1,8 +1,8 @@
 ---
 title: Hủy bỏ việc bảo vệ mối đe dọa nâng cao
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5777"
-ms.openlocfilehash: 2cf6e79740a4e3a4c265e2ae3a65fde3350fe747
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 610adfdce1f5cda6bd10cb635527b032ebdd7e56
+ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47683712"
+ms.lasthandoff: 10/10/2020
+ms.locfileid: "48416258"
 ---
 # <a name="cancel-advanced-threat-protection"></a>Hủy bỏ việc bảo vệ mối đe dọa nâng cao
 
-Có thể hủy bỏ bảo vệ mối đe dọa nâng cao trong **Trung tâm quản trị Microsoft 365**.
+Người quản trị có thể hủy bỏ đăng ký bảo vệ mối đe dọa nâng cao cho tổ chức của họ trong Trung tâm quản trị Microsoft 365.
 
 1. Đi tới **thanh toán hóa**  >  trang[sản phẩm của bạn](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. Xác định kế hoạch bảo vệ mối đe dọa nâng cao để hủy bỏ.
-3. Bấm **hủy bỏ đăng ký**.
+2. Trên tab **sản phẩm** , hãy tìm kế hoạch bảo vệ mối đe dọa nâng cao mà bạn muốn hủy bỏ. Chọn **hành động khác** (ba chấm), rồi chọn **hủy bỏ đăng ký**.
+3. Trong ngăn **hủy bỏ đăng ký** , chọn một lý do tại sao bạn hủy. Được tùy chọn cung cấp bất kỳ phản hồi nào.
+4. Chọn **lưu**.
 
-Hoàn tiền: bất kỳ tín dụng nào sẽ được trả về cho bạn trong chu kỳ thanh toán tiếp theo.
-
-**Lưu ý**: nếu bạn không nhìn thấy tùy chọn hủy bỏ, hãy bấm vào thuê bao để xem chi tiết và bạn sẽ thấy tùy chọn **hủy bỏ đăng ký** trong **thiết đặt & hành động**.
+**Hoàn tiền:** Bất kỳ tín dụng nào sẽ được trả về cho bạn trong chu kỳ thanh toán tiếp theo.
 
 Để tìm hiểu thêm, hãy xem [hủy bỏ đăng ký của bạn](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).

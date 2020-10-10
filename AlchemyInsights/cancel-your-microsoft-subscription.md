@@ -1,8 +1,8 @@
 ---
 title: Hủy bỏ đăng ký Microsoft của bạn
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001727"
 - "3824"
-ms.openlocfilehash: 50cac2ae491e0bea1a18a56cc78cd8d3105b3a40
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 12a2daf3cc68b85a26d29088315d1046ddf3cfb6
+ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47683280"
+ms.lasthandoff: 10/10/2020
+ms.locfileid: "48416453"
 ---
 # <a name="cancel-your-microsoft-subscription"></a>Hủy bỏ đăng ký Microsoft của bạn
 
-1. Đi đến [dịch vụ & đăng ký](https://account.microsoft.com/services/)và đăng nhập bằng tài khoản Microsoft mà bạn đã sử dụng khi mua đăng ký của mình.
+Người quản trị có thể hủy bỏ đăng ký cho tổ chức của họ trong Trung tâm quản trị Microsoft 365.
 
-2. Tìm thuê bao của bạn và bấm **quản lý**. Nếu bạn nhìn thấy **bật thanh toán định kỳ** thay vì **quản lý**, hãy bỏ qua phần khắc phục sự cố;  Nếu không, hãy tiếp tục đến bước 3.
+1. Đi tới **thanh toán hóa** \> trang [sản phẩm của bạn](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+2. Trên tab **sản phẩm** , hãy tìm đăng ký mà bạn muốn hủy bỏ. Chọn **hành động khác** (ba chấm), rồi chọn **hủy bỏ đăng ký**.
+3. Trong ngăn **hủy bỏ đăng ký** , chọn một lý do tại sao bạn hủy. Được tùy chọn cung cấp bất kỳ phản hồi nào.
+4. Chọn **lưu**.
 
-3. Trên trang tiếp theo, hãy bấm **hủy bỏ** hoặc **nâng cấp hoặc hủy bỏ**, tùy thuộc vào loại đăng ký của bạn.
-
-4. Làm theo hướng dẫn trên trang để tiếp tục hủy bỏ.
+**Hoàn tiền:** Bất kỳ tín dụng nào sẽ được trả về cho bạn trong chu kỳ thanh toán tiếp theo.
