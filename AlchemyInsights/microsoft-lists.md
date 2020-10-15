@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5677"
 - "9002964"
-ms.openlocfilehash: c5c66a4ed0891a7127bcf0730aedf6d8d125fdb5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: eb72faa902a18f14d408ccabb8fc346f3bd3085d
+ms.sourcegitcommit: abb1acc29fadfaa6927f73af4452ba2cfc452fa2
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47724601"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "48466026"
 ---
 # <a name="microsoft-lists"></a>Danh sách Microsoft
 
@@ -26,11 +26,15 @@ Microsoft đang khởi chạy giai đoạn đầu tiên của danh sách Microso
   
 **Thời**  
 
-- Lăn ra đã bắt đầu cho các tổ chức được kích hoạt cho bản phát hành mục tiêu.
-- Phát hành cho tất cả các tổ chức vào Mid-tháng mười 2020.
+- Đã bật xong đối với các tổ chức được kích hoạt cho bản phát hành mục tiêu.
+- Triển khai cho các tổ chức phát hành tiêu chuẩn đã bắt đầu và sẽ hoàn thành cuối tháng mười một 2020.
 
-Bất kỳ người dùng nào có giấy phép SharePoint có thể truy nhập vào biểu tượng danh sách và bắt đầu sử dụng danh sách Microsoft. Người quản trị hiện không thể tắt tính năng này.
- 
-Trong công cụ khởi động ứng dụng Microsoft 365, hãy chọn biểu tượng danh sách. Bắt đầu một danh sách từ đầu hoặc với các mẫu được tạo sẵn. Ngoài ra, bạn có thể tạo danh sách mới từ các danh sách hiện có hoặc bằng cách nhập dữ liệu Excel để tạo danh sách. Xem danh sách yêu thích và gần đây, bao gồm các danh sách mà bạn sở hữu hoặc đã được chia sẻ với bạn. Bạn có thể tạo cả danh sách cá nhân và danh sách nhóm.  
+Bất kỳ người dùng nào có giấy phép SharePoint có thể truy nhập vào biểu tượng danh sách và bắt đầu sử dụng danh sách Microsoft.
+
+Với tư cách là người quản trị toàn cầu hoặc SharePoint trong Microsoft 365, bạn có thể kiểm soát các thiết đặt cho các danh sách Microsoft. Bạn có thể:
+
+Tắt tính năng tạo danh sách cá nhân (ngăn người dùng lưu các danh sách mới vào "danh sách của tôi").
+Vô hiệu hóa các mẫu danh sách tích hợp sẵn không liên quan đến tổ chức của bạn.
+Xem [danh sách kiểm soát](https://docs.microsoft.com/sharepoint/control-lists)
 
 Để biết thêm thông tin, hãy xem [danh sách Microsoft](https://aka.ms/microsoftlists).
