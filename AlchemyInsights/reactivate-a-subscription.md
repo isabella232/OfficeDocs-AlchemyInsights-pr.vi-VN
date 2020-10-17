@@ -2,7 +2,7 @@
 title: Kích hoạt lại đăng ký
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,23 +13,20 @@ ms.custom:
 - "482"
 - "1500028"
 ms.assetid: 2d59f23f-7aad-4b57-9039-0bd2bbf929a3
-ms.openlocfilehash: 1e0c64e468d1d3aa12b2fb08710910e48521677a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 05ce5b6d8916db795919036aee1b3687a809bf93
+ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47751553"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "48489034"
 ---
 # <a name="reactivate-a-microsoft-365-subscription"></a>Kích hoạt lại đăng ký Microsoft 365
 
 Nếu thuê bao của bạn hết hạn, đã bị Microsoft tắt, hoặc bạn đã hủy bỏ nó ở giữa thuật ngữ đăng ký, bạn có thể kích hoạt lại nó trong Trung tâm quản trị.
   
-1. Trong Trung tâm quản trị, hãy đi đến trang **thanh toán** \> **[sản phẩm của bạn](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
-
-2. Chọn đăng ký mà bạn muốn kích hoạt lại. Trong phần thanh toán, hãy chọn **kích hoạt lại**.
-
-    Nếu bạn không nhìn thấy **kích hoạt lại** ở dạng hành động sẵn dùng, [Hãy gọi hỗ trợ](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products) để kích hoạt lại đăng ký của bạn.
-
-3. Xác nhận chi tiết thanh toán của bạn. Bạn có thể cập nhật thông tin thanh toán hiện có của bạn tại đây. Khi bạn đã nhập xong phương thức thanh toán của mình, hãy chọn kích **hoạt lại**.
+1. Trong Trung tâm quản trị, hãy đi đến trang **thanh toán**  >  [sản phẩm của bạn](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+2. Trên tab **sản phẩm** , hãy tìm đăng ký mà bạn muốn kích hoạt lại. Chọn **hành động khác** (ba chấm), rồi chọn **kích hoạt lại đăng ký này**.
+3. Trong ngăn **kích hoạt lại gói đăng ký này** , hãy chọn một phương thức thanh toán từ danh sách thả xuống, hoặc chọn **Thêm phương thức thanh toán**.
+4. Chọn **lưu**.
 
 Để tìm hiểu thêm, hãy xem [kích hoạt lại đăng ký của bạn](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).

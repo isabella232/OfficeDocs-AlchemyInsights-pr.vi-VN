@@ -1,8 +1,8 @@
 ---
 title: Tạm ngừng hoặc tạm dừng giấy phép
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002927"
 - "5605"
-ms.openlocfilehash: 7d92f1c7a03eb9eb5c195b0d3a866e1da003f45d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 355d83a5d99c079e5487a663f43b1155fa6f40b8
+ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800198"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "48488939"
 ---
 # <a name="suspend-or-pause-licenses"></a>Tạm ngừng hoặc tạm dừng giấy phép
 
-Để tạm ngừng hoặc tạm dừng giấy phép người dùng của bạn tạm thời, bạn có thể loại bỏ giấy phép từ **Trung tâm quản trị Microsoft 365** và thêm chúng trở lại sau đó.
+Để tạm ngừng hoặc tạm dừng sử dụng giấy phép của bạn tạm thời, bạn có thể loại bỏ giấy phép từ Trung tâm quản trị Microsoft 365, sau đó thêm chúng trở lại sau đó.
 
-1. Trước tiên, bạn cần phải bỏ [gán giấy phép](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users?view=o365-worldwide) của người dùng, trước khi loại bỏ chúng khỏi đăng ký của mình.
+1. Trước khi loại bỏ giấy phép khỏi đăng ký của bạn, trước tiên bạn phải bỏ [gán giấy phép từ người dùng](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users).
+2. Tiếp theo, đi tới **thanh toán hóa**  >  trang[sản phẩm của bạn](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+3. Trên tab **sản phẩm** , chọn đăng ký mà bạn muốn Cập Nhật.
+4. Trên trang chi tiết gói đăng ký, hãy chọn **loại bỏ giấy phép**.
+5. Trong ngăn **loại bỏ giấy phép** , trong hộp **tổng số giấy phép** , hãy nhập tổng số giấy phép mà bạn muốn cho thuê bao này, rồi chọn **lưu**. Ví dụ, nếu bạn có giấy phép 100 và muốn tạm ngừng hoặc tạm dừng 25, sau đó nhập 75 làm tổng giấy phép cho đăng ký của bạn.
 
-2. Sau đó, đi tới **thanh toán > [sản phẩm của bạn](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
-
-3. Trên trang **sản phẩm của bạn** , hãy tìm thuê bao mà bạn muốn loại bỏ giấy phép, rồi bấm **thêm/loại bỏ giấy phép**.
-
-4. Trong hộp tổng số giấy phép, nhập tổng số giấy phép mà bạn cần cho thuê bao này, rồi bấm vào **gửi thay đổi**. Ví dụ, nếu bạn có giấy phép 100 và muốn tạm ngừng hoặc tạm dừng 50, sau đó nhập 50 là tổng giấy phép cho đăng ký của bạn.
-
-Để biết thêm thông tin, hãy xem [quản lý giấy phép đăng ký](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide).
+Để biết thêm thông tin, hãy xem [quản lý giấy phép đăng ký](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
