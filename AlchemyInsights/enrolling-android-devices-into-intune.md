@@ -12,28 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000652"
 - "2494"
-ms.openlocfilehash: 9306f56e2f3b9ba3b06e78e07aa2eb0fe40817e4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c39fec48f791d5cc4a97688cc7b5cd93010403a2
+ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47784329"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "48791280"
 ---
 # <a name="enrolling-android-devices-into-intune"></a>Thiết bị Android đăng ký vào InTune
 
-InTune hỗ trợ việc đăng ký các thiết bị Android sau đây:
-- Samsung Knox và Zebra
-- Hồ sơ công việc Android Enterprise
-- Các doanh nghiệp Android dành riêng
-- Quản lý toàn bộ trong Android Enterprise
+Nếu bạn đang tìm cách di chuyển người dùng từ đăng ký người quản trị thiết bị Android sang Android Enterprise, vui lòng xem lại: [di chuyển thiết bị Android từ người quản trị thiết bị để làm việc quản lý hồ sơ](https://docs.microsoft.com/mem/intune/enrollment/android-move-device-admin-work-profile).
 
-Trước khi thiết lập đăng ký cho thiết bị Android, [xem lại các thiết bị pre-requisite] ( https://docs.microsoft.com/intune/enrollment/android-enroll .
+InTune hỗ trợ việc đăng ký các thiết bị Android sau đây:  
 
-Để biết thông tin về việc khắc phục sự cố đăng ký thiết bị nói chung và một số lỗi đăng ký Android, hãy xem [khắc phục sự cố đăng ký thiết bị trong Microsoft InTune](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune).
+- [Samsung Knox, Zebra, người quản trị thiết bị](https://docs.microsoft.com/mem/intune/enrollment/android-enroll-device-administrator)
+- [Hồ sơ công việc Android Enterprise](https://docs.microsoft.com/mem/intune/enrollment/android-enterprise-overview)
+- [Các doanh nghiệp Android dành riêng](https://docs.microsoft.com/mem/intune/enrollment/android-dedicated-devices-fully-managed-enroll)
+- [Quản lý toàn bộ trong Android Enterprise](https://docs.microsoft.com/mem/intune/enrollment/android-fully-managed-enroll)
 
-Bạn cũng có thể sử dụng [nội dung mô tả lưỡi khắc phục sự cố InTune](https://docs.microsoft.com/intune/fundamentals/help-desk-operators) để giúp xác định những vấn đề về đăng ký mà người dùng của bạn đang gặp phải.
+Trước khi thiết lập đăng ký cho các thiết bị chạy Android, hãy [xem lại các trang trước](https://docs.microsoft.com/intune/enrollment/android-enroll).  
 
+Để biết thông tin về việc khắc phục sự cố đăng ký thiết bị nói chung và một số lỗi đăng ký Android, hãy xem [khắc phục sự cố đăng ký thiết bị trong Microsoft InTune](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-android-enrollment).
 
-
-
-
+Bạn cũng có thể sử dụng nội dung mô tả lưỡi khắc phục sự cố InTune để giúp xác định những vấn đề về đăng ký mà người dùng của bạn đang gặp phải.

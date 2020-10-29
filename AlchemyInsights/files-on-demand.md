@@ -13,20 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "6432"
 - "9003530"
-ms.openlocfilehash: e0ba83778179abefe3ac4fe3e8ab0303d65ad929
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4e3da81ee048c6257e05b998c0f457fa433738fd
+ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47804379"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "48791316"
 ---
 # <a name="configure-files-on-demand"></a>Cấu hình các tệp theo yêu cầu
+
+Các tệp theo yêu cầu của OneDrive yêu cầu [Cập Nhật người tạo mùa thu Windows 10](https://go.microsoft.com/fwlink/p/?linkid=859040) (phiên bản 1709 trở lên) hoặc Windows Server 2019 và OneDrive bản dựng 17.3.7064.1005 trở lên.
 
 Tệp OneDrive theo yêu cầu sẽ giúp bạn truy nhập tất cả các tệp trong OneDrive mà không cần phải tải xuống tất cả chúng và sử dụng dung lượng lưu trữ trên thiết bị của bạn.
 
 Để cấu hình các tệp theo yêu cầu trên PC của bạn:
 
-1. Chọn biểu tượng đám mây **Onedrive** màu trắng hoặc màu lam trong khu vực thông báo trên thanh tác vụ Windows. Chọn **thiết đặt**> **Trợ giúp & thiết đặt** bánh răng.
+1. Chọn biểu tượng đám mây **Onedrive** màu trắng hoặc màu lam trong khu vực thông báo trên thanh tác vụ Windows. Chọn **thiết đặt** > **Trợ giúp & thiết đặt** bánh răng.
 2. Trên tab **thiết đặt** , hãy chọn **dung lượng lưu và tải xuống các tệp khi bạn sử dụng** hộp thư.  
 
 Bạn cũng có thể cấu hình các tệp theo yêu cầu bằng cách sử dụng sổ đăng ký.
