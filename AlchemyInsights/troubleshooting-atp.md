@@ -1,5 +1,5 @@
 ---
-title: Khắc phục sự cố bảo vệ mối đe dọa nâng cao của 365 Office
+title: Khắc phục sự cố Microsoft Defender cho Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,14 +11,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1039
 ms.assetid: ''
-ms.openlocfilehash: 5a13653ba08d8c6b822354ff70f6d276d31cd816
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2c9543660056ebc02b0bd297f619f20fa6820093
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658936"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801468"
 ---
-# <a name="troubleshooting-office-365-advanced-threat-protection"></a>Khắc phục sự cố bảo vệ mối đe dọa nâng cao của 365 Office
+# <a name="troubleshooting-microsoft-defender-for-office-365"></a>Khắc phục sự cố Microsoft Defender cho Office 365
 
 - Bạn có thấy sự chậm trễ trong việc chuyển phát thư không? Sử dụng tùy chọn chuyển phát [động](https://docs.microsoft.com/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) trong chính sách tệp đính kèm an toàn trong ATP của bạn. Điều này sẽ giúp tránh sự chậm trễ của thư khi bảo vệ người nhận khỏi các tệp độc hại.
 
@@ -28,8 +28,8 @@ ms.locfileid: "47658936"
 
   1. Đi đến [https://protection.office.com](https://protection.office.com) và đăng nhập bằng tài khoản người quản trị toàn cầu hoặc người quản trị bảo mật.
 
-  2. Trong ngăn dẫn hướng bên trái bên dưới **quản lý mối đe dọa**, chọn **Policy** \> **nối kết an toàn**chính sách.
+  2. Trong ngăn dẫn hướng bên trái bên dưới **quản lý mối đe dọa** , chọn **Policy** \> **nối kết an toàn** chính sách.
 
-  3. Trong phần **chính sách áp dụng cho toàn bộ tổ chức** , hãy chọn chính sách và bấm **sửa**.
+  3. Trong phần **chính sách áp dụng cho toàn bộ tổ chức** , hãy chọn chính sách và bấm **sửa** .
 
-  4. Bên dưới **thiết đặt**, **cho phép áp dụng nối kết an toàn cho thư được gửi trong tổ chức**.
+  4. Bên dưới **thiết đặt** , **cho phép áp dụng nối kết an toàn cho thư được gửi trong tổ chức** .

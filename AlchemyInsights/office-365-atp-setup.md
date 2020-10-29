@@ -1,5 +1,5 @@
 ---
-title: Thiết lập bảo vệ mối đe dọa nâng cao của Office 365 (ATP)
+title: Thiết lập Microsoft Defender cho Office 365 (ATP)
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -11,14 +11,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: c6905238c8ee209dc443bf82022108401e0370ac
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bd04535c1b740651196c0b40015a722ef0c922d5
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662743"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801105"
 ---
-# <a name="office-365-advanced-threat-protection-atp"></a>Bảo vệ mối đe dọa nâng cao của Office 365 (ATP)
+# <a name="microsoft-defender-for-office-365-atp"></a>Microsoft Defender cho Office 365 (ATP)
 
 Office 365 ATP bao gồm phần [đính kèm an toàn](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-attachments), [liên kết an toàn](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links), [nâng cao tính năng chống lừa đảo](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-anti-phishing)và nhiều hơn nữa. 
 
@@ -26,5 +26,5 @@ ATP được bao gồm trong các đăng ký, chẳng hạn như Office 365 Ente
 
 ## <a name="set-up-office-365-atp"></a>Thiết lập ATP trong Office 365
 
-Để bảo vệ ATP có hiệu lực, bạn phải cấu hình chính sách. Xem [hướng dẫn bắt đầu nhanh: thiết lập bảo vệ mối đe dọa nâng cao của Office 365](https://docs.microsoft.com/office365/securitycompliance/checklist-atp-setup).
+Để bảo vệ ATP có hiệu lực, bạn phải cấu hình chính sách. Xem [hướng dẫn bắt đầu nhanh: thiết lập Microsoft Defender cho Office 365](https://docs.microsoft.com/office365/securitycompliance/checklist-atp-setup).
 

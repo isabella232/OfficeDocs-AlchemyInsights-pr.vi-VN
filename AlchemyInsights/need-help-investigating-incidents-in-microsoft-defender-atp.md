@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "6025"
 - "9001221"
-ms.openlocfilehash: fdff256e70a63b1a7a306ea40de4f2a68e39455d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 39f563e43bf1a315768d3ef198340914142cb75d
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47803339"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801285"
 ---
 # <a name="need-help-investigating-incidents-in-microsoft-defender-atp"></a>Cần trợ giúp điều tra sự cố trong Microsoft Defender ATP
 
 Nếu bạn cần trợ giúp điều tra sự cố trong dịch vụ ATP Defender của Microsoft, hãy làm theo các bước sau.
 
-1. Chọn sự cố và xem lại các cảnh báo đã nhóm với sự cố. Chọn từng cảnh báo để xem lại thông tin chi tiết. Để biết hướng dẫn, hãy xem [điều tra cảnh báo bảo vệ mối đe dọa nâng cao của Microsoft Defender](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/investigate-alerts).
+1. Chọn sự cố và xem lại các cảnh báo đã nhóm với sự cố. Chọn từng cảnh báo để xem lại thông tin chi tiết. Để biết hướng dẫn, hãy xem [điều tra Microsoft Defender cho cảnh báo điểm cuối](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/investigate-alerts).
 2. Xem lại các thiết bị là một phần của, hoặc liên quan đến sự cố. Để biết hướng dẫn, hãy xem [mục điều tra thiết bị trong danh sách thiết bị của Microsoft Defender ATP](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/investigate-machines).<br/>
  
     Tab điều tra cho phép bạn xem tất cả các điều tra tự động được khởi động bởi hệ thống phản hồi với cảnh báo sự cố.
