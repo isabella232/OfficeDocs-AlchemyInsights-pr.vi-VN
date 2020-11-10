@@ -13,33 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "1740"
 - "9000140"
-ms.openlocfilehash: 70b416e2b572fe9b4257648e3426b4d36975681e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4f8c1eb9d67671b5b5bef59f214b17e024227757
+ms.sourcegitcommit: 847f2bfd660847440df0195258acb9253f313a69
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47756521"
+ms.lasthandoff: 11/09/2020
+ms.locfileid: "48949731"
 ---
 # <a name="change-update-channels-for-office-apps"></a>Thay đổi các kênh Cập Nhật cho các ứng dụng Office
 
-Đối với các bản cài đặt Office mới, hãy dùng thiết đặt tải xuống phần mềm Office để chọn kênh Cập Nhật mong muốn, sau đó cài đặt (hoặc cài đặt lại) các ứng dụng Office. Để biết thêm thông tin, hãy xem [quản lý các thiết đặt tải xuống phần mềm trong Office 365](https://docs.microsoft.com/deployoffice/manage-software-download-settings-office-365). 
+Nếu bạn đang quản lý các kênh Cập Nhật ứng dụng Microsoft 365 bằng cổng thông tin quản trị, hãy dùng các  **tùy chọn cài đặt Office**  để chọn kênh Cập Nhật mong muốn trước khi cài đặt các ứng dụng Office. Để biết thêm thông tin, hãy xem [quản lý các tùy chọn cài đặt Office trong Trung tâm quản trị Microsoft 365](https://docs.microsoft.com/deployoffice/manage-software-download-settings-office-365).
 
-**Ghi chú** Kênh Cập Nhật được chọn bằng cách sử dụng thiết đặt tải xuống phần mềm Office áp dụng cho tất cả người dùng thực hiện cài đặt mới bằng cách dùng cổng thông tin O365. Để biết thêm thông tin, hãy xem [tải xuống và cài đặt hoặc cài đặt lại Microsoft 365 hoặc Office 2019 trên PC hoặc máy Mac](https://support.microsoft.com/office/download-and-install-or-reinstall-microsoft-365-or-office-2019-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658).   
+**Ghi chú** Kênh Cập Nhật được chọn bằng cách sử dụng các  **tùy chọn cài đặt Office**  áp dụng cho tất cả người dùng thực hiện các bản cài đặt mới (và trong một số trường hợp, quá trình cài đặt hiện có). Nếu bạn đã sử dụng một số phương pháp khác, chẳng hạn như công cụ triển khai Office (ODT), chính sách Nhóm (GPO) hoặc trình quản lý cấu hình Microsoft Endpoint (MECM) để quản lý cách người dùng của bạn nhận được các bản cập nhật tính năng, thì các cài đặt bạn chọn trong Trung tâm quản trị Microsoft 365 sẽ không áp dụng.
 
-Đối với các bản cài đặt Office hiện có, hãy sử dụng công cụ triển khai Office (ODT) để chuyển sang kênh Cập Nhật khác:  
+Nếu bạn đang quản lý các kênh Cập Nhật ứng dụng Microsoft 365 bằng các tùy chọn quản lý khác được liệt kê ở trên, hãy xem [làm thế nào để chuyển các kênh Cập Nhật cho các ứng dụng Office hiện có](https://support.microsoft.com/help/3185078/how-to-switch-from-semi-annual-channel-to-monthly-channel).
 
-1. Tải xuống phiên bản mới nhất của công cụ triển khai Office (setup.exe) từ [Trung tâm tải xuống của Microsoft](https://go.microsoft.com/fwlink/p/?LinkID=626065).
-2. Xác định tên kênh mà bạn muốn chuyển sang. Để biết thêm thông tin, hãy xem [tùy chọn cấu hình cho công cụ triển khai Office](https://docs.microsoft.com/DeployOffice/configuration-options-for-the-office-2016-deployment-tool#channel-attribute-part-of-add-element).
-3. Tạo một tệp XML cấu hình xác định tên kênh thích hợp, ví dụ, update.xml.  
-
-`<Configuration>`<br>
-`<Updates Channel="Current"/>`<br>
-`</Configuration>`<br>
-
-4. Từ dấu nhắc lệnh nâng cao, hãy chuyển đến vị trí thư mục nơi setup.exe cư trú và chạy lệnh sau đây:  
-    một. setup.exe/Configure update.xml
-5. Khởi động một ứng dụng Office (chẳng hạn như Excel), **File**rồi chọn  >  **tài khoản**tệp. Trong phần thông tin sản phẩm, chọn Cập Nhật **tùy chọn cập**Nhật  >  **ngay bây giờ**.
-
-Để biết thêm thông tin, hãy xem [làm thế nào để chuyển các kênh Cập Nhật cho các ứng dụng Office hiện có](https://support.microsoft.com/help/3185078/how-to-switch-from-semi-annual-channel-to-monthly-channel). 
-
-Để chuyển đổi các kênh Cập Nhật cho một nhóm người dùng được chọn hoặc bằng cách sử dụng trình quản lý cấu hình (SCCM), cấu hình thiết đặt kênh Cập Nhật bằng GPO. Để biết thêm thông tin, hãy xem [tổng quan về các kênh Cập Nhật cho ứng dụng Microsoft 365](https://docs.microsoft.com/deployoffice/overview-update-channels#group-policy). Để biết chi tiết, hãy xem [làm thế nào để quản lý các kênh Office 365 ProPlus cho CNTT ưu](https://techcommunity.microsoft.com/t5/office-365-blog/how-to-manage-office-365-proplus-channels-for-it-pros/ba-p/795813) và [quản lý các bản Cập Nhật cho ứng dụng Microsoft 365 với Microsoft Endpoint Configuration Manager](https://docs.microsoft.com/deployoffice/manage-microsoft-365-apps-updates-configuration-manager).
+Để biết thông tin chi tiết, hãy xem:  
+[Làm thế nào để quản lý các kênh trong Office 365 ProPlus cho chuyên gia CNTT](https://techcommunity.microsoft.com/t5/office-365-blog/how-to-manage-office-365-proplus-channels-for-it-pros/ba-p/795813)  
+[Quản lý các bản Cập Nhật cho ứng dụng Microsoft 365 với Microsoft Endpoint Configuration Manager](https://docs.microsoft.com/deployoffice/manage-microsoft-365-apps-updates-configuration-manager)
