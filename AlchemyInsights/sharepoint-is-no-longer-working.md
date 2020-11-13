@@ -12,18 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003047"
 - "5801"
-ms.openlocfilehash: 8477e59e72ce7874ae805c21a971f431389574e6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1880ef923a1e0f2b2c8ce8eb539cba485f8601da
+ms.sourcegitcommit: 76a385e9f8a806dfd70f35bf87acb21a056407f2
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800774"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "49002723"
 ---
 # <a name="sharepoint-is-no-longer-working"></a>SharePoint không còn hoạt động nữa
 
 Có một vài lý do khiến SharePoint có thể không còn hoạt động nữa.
 
-1. Site gốc SharePoint đã bị xóa và cần được khôi phục. Để biết thêm thông tin, hãy xem [mục xóa site gốc của SharePoint](https://docs.microsoft.com/sharepoint/troubleshoot/sites/url-that-resides-under-root-site-collection-is-broken).
+1. Có thể có vấn đề về trạng thái dịch vụ xảy ra với SharePoint. Để biết thêm thông tin, hãy xem bảng điều khiển trạng thái [dịch vụ](https://admin.microsoft.com/AdminPortal/Home#/servicehealth).
 2. Quyền có thể đã thay đổi hoặc bị loại bỏ. Để biết thêm thông tin, hãy xem mục [không thể truy nhập SharePoint Online](https://docs.microsoft.com/sharepoint/troubleshoot/sharing-and-permissions/sharepoint-online-inaccessible).
-3. Có thể có vấn đề về trạng thái dịch vụ xảy ra với SharePoint. Để biết thêm thông tin, hãy xem bảng điều khiển trạng thái [dịch vụ](https://admin.microsoft.com/AdminPortal/Home#/servicehealth)của bạn.
-4. Các vấn đề về trình duyệt có thể ngăn người dùng mở SharePoint. Yêu cầu (các) (các) người dùng để thử chế độ riêng tư của trình duyệt và đăng nhập lại vào SharePoint.
+3. Các vấn đề về trình duyệt có thể ngăn người dùng mở SharePoint. Yêu cầu (các) (các) người dùng để thử chế độ riêng tư của trình duyệt và đăng nhập lại vào SharePoint.

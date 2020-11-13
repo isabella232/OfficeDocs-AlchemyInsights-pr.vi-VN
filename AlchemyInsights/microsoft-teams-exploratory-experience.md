@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001513"
 - "3572"
-ms.openlocfilehash: d6d460d90253ded2d093676f351d8250861ac0b9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "7228"
+ms.openlocfilehash: 398c3b9db7c90fe016cab56ef9d13078e4011a6f
+ms.sourcegitcommit: a9415f3ae8c7ba267b5134bcbdc1e070cea41a0f
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47674960"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "49019569"
 ---
 # <a name="microsoft-teams-exploratory-experience"></a>Trải nghiệm thăm dò nhóm Microsoft
 
-Trải nghiệm thăm dò nhóm Microsoft cho phép người dùng trong tổ chức của bạn có Azure Active Directory (LIAD) và không được cấp phép cho các nhóm bắt đầu trải nghiệm thăm dò của nhóm. Người quản trị có thể chuyển đổi tính năng này hoặc tắt cho người dùng trong tổ chức của họ. (Phiên bản điện toán đám mây Microsoft thương mại trước đây được gọi là trải nghiệm thăm dò nhóm.)
-
-Trải nghiệm tham gia của các nhóm Microsoft được cung cấp tại không có chi phí bổ sung cho đến khi kỷ niệm và gia hạn thỏa thuận doanh nghiệp tiếp theo của bạn vào hoặc sau ngày 2021 tháng một. Tại thời điểm đó, người dùng cuối trên một giấy phép trải nghiệm Microsoft exploratory sẽ cần phải di chuyển đến giấy phép trả tiền bao gồm các nhóm.
-
-Để biết thêm thông tin, vui lòng xem [quản lý giấy phép thăm dò các nhóm Microsoft](https://docs.microsoft.com/microsoftteams/teams-exploratory/).
+- Các [nhóm](https://docs.microsoft.com/microsoftteams/teams-exploratory)tham dự là gì? Trải nghiệm thăm dò nhóm Microsoft cho phép người dùng trong tổ chức của bạn không được cấp phép cho các nhóm bắt đầu trải nghiệm thăm quan về nhóm. Để biết thêm thông tin, vui lòng xem có [gì trong trải nghiệm thăm dò nhóm](https://docs.microsoft.com/microsoftteams/teams-exploratory#whats-in-the-teams-exploratory-experience).
+- [Khi nào giấy phép của tôi sẽ hết hạn](https://docs.microsoft.com/microsoftteams/teams-exploratory#how-long-does-the-teams-exploratory-experience-last)? Trải nghiệm tham gia của các nhóm Microsoft được cung cấp tại không có chi phí bổ sung cho đến khi kỷ niệm hoặc gia hạn thỏa thuận tiếp theo của bạn vào hoặc sau ngày 2021 tháng một.
+- Với tư cách là người quản trị, bạn có thể [nâng cấp người dùng từ giấy phép thăm dò nhóm](https://docs.microsoft.com/microsoftteams/teams-exploratory#upgrade-users-from-the-teams-exploratory-license) bằng cách mua đăng ký bao gồm nhóm, loại bỏ thuê bao thăm dò nhóm từ người dùng và gán giấy phép mới được mua.
+- Để biết thêm thông tin, hãy xem [quản lý giấy phép thăm dò nhóm.](https://docs.microsoft.com/microsoftteams/teams-exploratory)
