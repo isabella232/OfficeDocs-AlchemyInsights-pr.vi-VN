@@ -2,8 +2,7 @@
 title: Hủy bỏ đăng ký Microsoft 365
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8518f535-1bd3-4bf0-8e6e-e3468459bd5e
-ms.openlocfilehash: b663914963361d7a20f4b72b8a75bbdebe7e324c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e45350b88728ef803dba14900746c86e7403693e
+ms.sourcegitcommit: 7d1b9f098235000b84cd74c032861ad14bfa6fc9
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47811879"
+ms.lasthandoff: 11/18/2020
+ms.locfileid: "49348651"
 ---
-# <a name="cancelling-your-microsoft-365-subscription"></a><span data-ttu-id="9b984-102">Hủy đăng ký Microsoft 365 của bạn?</span><span class="sxs-lookup"><span data-stu-id="9b984-102">Cancelling your Microsoft 365 subscription?</span></span>
+# <a name="canceling-your-microsoft-365-subscription"></a><span data-ttu-id="0625e-102">Hủy đăng ký Microsoft 365 của bạn?</span><span class="sxs-lookup"><span data-stu-id="0625e-102">Canceling your Microsoft 365 subscription?</span></span>
 
-<span data-ttu-id="9b984-103">Chúng tôi rất tiếc khi thấy bạn đi, nhưng đây là các tùy chọn của bạn để hủy bỏ đăng ký của bạn:</span><span class="sxs-lookup"><span data-stu-id="9b984-103">We're sorry to see you go, but here are your options to cancel your subscription:</span></span>
+<span data-ttu-id="0625e-103">Chúng tôi rất tiếc khi thấy bạn đi, nhưng nếu bạn muốn hủy bỏ đăng ký của mình, dưới đây là các tùy chọn của bạn:</span><span class="sxs-lookup"><span data-stu-id="0625e-103">We're sorry to see you go, but if you want to cancel your subscription, here are your options:</span></span>
   
-- <span data-ttu-id="9b984-104">Nếu bạn là khách hàng dùng thử, không có gì để hủy bỏ.</span><span class="sxs-lookup"><span data-stu-id="9b984-104">If you are a trial customer, there is nothing to cancel.</span></span> <span data-ttu-id="9b984-105">Các gói đăng ký dùng thử sẽ tự động hết hạn trừ khi bạn cung cấp phương thức thanh toán.</span><span class="sxs-lookup"><span data-stu-id="9b984-105">Trial subscriptions expire automatically unless you provide a payment method.</span></span>
+- <span data-ttu-id="0625e-104">Nếu bạn là khách hàng dùng thử, không có gì để hủy bỏ.</span><span class="sxs-lookup"><span data-stu-id="0625e-104">If you're a trial customer, there's nothing to cancel.</span></span> <span data-ttu-id="0625e-105">Các gói đăng ký dùng thử sẽ tự động hết hạn trừ khi bạn cung cấp phương thức thanh toán.</span><span class="sxs-lookup"><span data-stu-id="0625e-105">Trial subscriptions expire automatically unless you provide a payment method.</span></span>
+- <span data-ttu-id="0625e-106">Nếu bạn có ít hơn 25 giấy phép đã gán, bạn có thể hủy bỏ đăng ký của mình trực tuyến.</span><span class="sxs-lookup"><span data-stu-id="0625e-106">If you have fewer than 25 assigned licenses, you can cancel your subscription online.</span></span> <span data-ttu-id="0625e-107">Đi tới **thanh toán hóa** \> trang [sản phẩm của bạn](https://go.microsoft.com/fwlink/p/?linkid=842054) và tìm đăng ký mà bạn muốn hủy bỏ.</span><span class="sxs-lookup"><span data-stu-id="0625e-107">Go to the **Billing** \> [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page, and find the subscription that you want to cancel.</span></span> <span data-ttu-id="0625e-108">Chọn **hành động khác** (ba chấm), rồi chọn **hủy bỏ đăng ký**.</span><span class="sxs-lookup"><span data-stu-id="0625e-108">Select **More actions** (three dots), then select **Cancel subscription**.</span></span>
+- <span data-ttu-id="0625e-109">Nếu bạn có hơn 25 giấy phép được gán cho người dùng, [Hãy gọi cho bộ phận hỗ trợ để hủy bỏ đăng ký của bạn](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide).</span><span class="sxs-lookup"><span data-stu-id="0625e-109">If you have more than 25 licenses assigned to users, [call support to cancel your subscription](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide).</span></span>
 
-- <span data-ttu-id="9b984-106">Nếu bạn có ít hơn 25 giấy phép đã gán, bạn có thể hủy bỏ đăng ký của mình trực tuyến.</span><span class="sxs-lookup"><span data-stu-id="9b984-106">If you have fewer than 25 assigned licenses, you can cancel your subscription online.</span></span> <span data-ttu-id="9b984-107">Đi tới **thanh toán** \> **[các sản phẩm của bạn](https://go.microsoft.com/fwlink/p/?linkid=842054)**.</span><span class="sxs-lookup"><span data-stu-id="9b984-107">Go to **Billing** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)**.</span></span> <span data-ttu-id="9b984-108">Trong phần **cài đặt & hành động** , hãy chọn **hủy bỏ đăng ký**.</span><span class="sxs-lookup"><span data-stu-id="9b984-108">In the **Settings & Actions** section, choose **Cancel subscription**.</span></span>
+<span data-ttu-id="0625e-110">**Hoàn tiền: bất kỳ tín dụng nào sẽ được trả về cho bạn trong chu kỳ thanh toán tiếp theo.**</span><span class="sxs-lookup"><span data-stu-id="0625e-110">**Refund: Any prorated credit will be returned to you within the next billing cycle.**</span></span>
 
-- <span data-ttu-id="9b984-109">Nếu bạn có hơn 25 giấy phép đã gán, bạn có thể loại bỏ người dùng cho đến khi bạn có ít hơn 25, hoặc dùng tùy chọn "Hãy để chúng tôi gọi cho bạn" để nói chuyện với kỹ sư hỗ trợ.</span><span class="sxs-lookup"><span data-stu-id="9b984-109">If you have more than 25 assigned licenses, you can either remove users until you have fewer than 25, or use the "Let us call you" option to talk to a support engineer.</span></span>
+> [!NOTE]
+> <span data-ttu-id="0625e-111">Nếu bạn không nhìn thấy tùy chọn hủy bỏ, hãy chọn thuê bao để xem trang chi tiết.</span><span class="sxs-lookup"><span data-stu-id="0625e-111">If you don't see the option to cancel, select the subscription to view the details page.</span></span> <span data-ttu-id="0625e-112">Trong phần **đăng ký và thiết đặt thanh toán** , chọn **hủy bỏ đăng ký**.</span><span class="sxs-lookup"><span data-stu-id="0625e-112">In the **Subscription and payment settings** section, select **Cancel subscription**.</span></span>
 
-<span data-ttu-id="9b984-110">Để tìm hiểu thêm, hãy xem [hủy bỏ đăng ký của bạn](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="9b984-110">To learn more, see [Cancel your subscription](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span></span>
+<span data-ttu-id="0625e-113">Để tìm hiểu thêm, hãy xem [hủy bỏ đăng ký của bạn](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="0625e-113">To learn more, see [Cancel your subscription](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span></span>
