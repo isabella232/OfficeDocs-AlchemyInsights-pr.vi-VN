@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002964"
 - "6213"
-ms.openlocfilehash: a268745601da13f0fe09d7ca9260056d29b821bd
-ms.sourcegitcommit: 534e9217d99336eb471166ff83231c7e408fb1d9
+ms.openlocfilehash: 4022aff4bdedb9c3589e2546f75b00d9ea275293
+ms.sourcegitcommit: 0f42d1600b6845083f0273d14c1d9e59344e4371
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48947434"
+ms.lasthandoff: 11/30/2020
+ms.locfileid: "49477501"
 ---
 # <a name="lists-app-in-teams"></a>Danh sách ứng dụng trong nhóm
 
@@ -27,10 +27,6 @@ ms.locfileid: "48947434"
 Danh sách được cài đặt sẵn cho tất cả người dùng nhóm và sẵn dùng trực tiếp trong bộ sưu tập tab của mọi nhóm và kênh.
 
 Người quản trị nhóm có thể kiểm soát tính khả dụng của ứng dụng bằng chính sách cấp phép của các nhóm Microsoft. Để biết thêm thông tin, hãy xem [quản lý chính sách cấp phép ứng dụng trong Microsoft nhóm](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies).
-
-**Thời gian:** Đầu tháng chín và hoàn tất vào Mid-tháng mười 2020  
-
-**Roll-Out:** Mức tổ chức  
 
 **Loại điều khiển:**  Điều khiển quản trị nhóm  
 
