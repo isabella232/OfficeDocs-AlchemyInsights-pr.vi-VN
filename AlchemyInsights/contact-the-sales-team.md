@@ -12,18 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003120"
 - "5898"
-ms.openlocfilehash: 5f5920c31de3da1b9fe50f4d8ad6de1794b603f3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8e76bf8f318e4fd438da182f93703a547531aa01
+ms.sourcegitcommit: 3f36012ab7d2088a708bcacf2d4c3169e9d443f3
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47733313"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49529040"
 ---
-# <a name="contact-the-sales-team"></a><span data-ttu-id="2947c-102">Liên hệ với nhóm bán hàng</span><span class="sxs-lookup"><span data-stu-id="2947c-102">Contact the Sales Team</span></span>
+# <a name="contact-the-sales-team"></a><span data-ttu-id="64d98-102">Liên hệ với nhóm bán hàng</span><span class="sxs-lookup"><span data-stu-id="64d98-102">Contact the Sales Team</span></span>
 
-<span data-ttu-id="2947c-103">Với trình kết nối của Microsoft graph, tổ chức của bạn có thể chỉ mục dữ liệu của bên thứ ba xuất hiện trong kết quả tìm kiếm của Microsoft.</span><span class="sxs-lookup"><span data-stu-id="2947c-103">With Microsoft Graph connectors, your organization can index third-party data to appear in Microsoft Search results.</span></span>
+<span data-ttu-id="64d98-103">Có một số cách để liên hệ với nhóm bán hàng của Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="64d98-103">There are a number of ways to contact the Microsoft 365 Sales Team.</span></span>
 
-- [<span data-ttu-id="2947c-104">Các đường kết nối của Microsoft</span><span class="sxs-lookup"><span data-stu-id="2947c-104">Connectors by Microsoft</span></span>](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Microsoft)
-- [<span data-ttu-id="2947c-105">Kết nối bởi các đối tác của chúng tôi</span><span class="sxs-lookup"><span data-stu-id="2947c-105">Connectors by our Partners</span></span>](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Partners)
-
-<span data-ttu-id="2947c-106">Để biết thêm thông tin, hãy xem [tổng quan về đường kết nối của Microsoft graph](https://docs.microsoft.com/microsoftsearch/connectors-overview).</span><span class="sxs-lookup"><span data-stu-id="2947c-106">For more info, see [Overview of Microsoft Graph connectors](https://docs.microsoft.com/microsoftsearch/connectors-overview).</span></span>
+- <span data-ttu-id="64d98-104">Sử dụng biểu mẫu  [liên hệ với chúng tôi](https://go.microsoft.com/fwlink/p/?LinkId=518644&clcid=0x0409)  để có một chuyên gia Microsoft 365 Sales liên hệ với bạn.</span><span class="sxs-lookup"><span data-stu-id="64d98-104">Use the  [Contact Us](https://go.microsoft.com/fwlink/p/?LinkId=518644&clcid=0x0409)  form to have a Microsoft 365 sales expert contact you.</span></span>
+- <span data-ttu-id="64d98-105">Để liên hệ với một chuyên gia cấp phép số lớn của doanh nghiệp, hãy bắt đầu với cổng thông tin  [Trung tâm dịch vụ cấp phép số lớn](https://go.microsoft.com/fwlink/p/?LinkId=329762) .</span><span class="sxs-lookup"><span data-stu-id="64d98-105">To contact an Enterprise Agreement Volume Licensing expert, start with the  [Volume Licensing Service Center](https://go.microsoft.com/fwlink/p/?LinkId=329762) portal.</span></span>
