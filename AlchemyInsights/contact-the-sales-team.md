@@ -12,18 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003120"
 - "5898"
-ms.openlocfilehash: 5f5920c31de3da1b9fe50f4d8ad6de1794b603f3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8e76bf8f318e4fd438da182f93703a547531aa01
+ms.sourcegitcommit: 3f36012ab7d2088a708bcacf2d4c3169e9d443f3
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47733313"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49529040"
 ---
 # <a name="contact-the-sales-team"></a>Liên hệ với nhóm bán hàng
 
-Với trình kết nối của Microsoft graph, tổ chức của bạn có thể chỉ mục dữ liệu của bên thứ ba xuất hiện trong kết quả tìm kiếm của Microsoft.
+Có một số cách để liên hệ với nhóm bán hàng của Microsoft 365.
 
-- [Các đường kết nối của Microsoft](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Microsoft)
-- [Kết nối bởi các đối tác của chúng tôi](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Partners)
-
-Để biết thêm thông tin, hãy xem [tổng quan về đường kết nối của Microsoft graph](https://docs.microsoft.com/microsoftsearch/connectors-overview).
+- Sử dụng biểu mẫu  [liên hệ với chúng tôi](https://go.microsoft.com/fwlink/p/?LinkId=518644&clcid=0x0409)  để có một chuyên gia Microsoft 365 Sales liên hệ với bạn.
+- Để liên hệ với một chuyên gia cấp phép số lớn của doanh nghiệp, hãy bắt đầu với cổng thông tin  [Trung tâm dịch vụ cấp phép số lớn](https://go.microsoft.com/fwlink/p/?LinkId=329762) .
