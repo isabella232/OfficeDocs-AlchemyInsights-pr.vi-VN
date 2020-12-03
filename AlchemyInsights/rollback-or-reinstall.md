@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "2584"
 - "9000691"
-ms.openlocfilehash: 43c3c97d95b271c51283fcd492597de0eccd8799
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4a5c613cecf9287ca4a7ac709fc5993a480d8bd8
+ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47727733"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "49560534"
 ---
 # <a name="reinstall-or-roll-back-office"></a>Cài đặt lại hoặc quay lại Office
 
-Nếu bạn đang gặp các vấn đề chung với Excel hoặc đang gặp một vấn đề cụ thể với Excel sau một bản cập nhật gần đây cho bộ Office, bạn có thể giải quyết được vấn đề bằng cách thực hiện cài đặt lại Office hoặc đi trở về phiên bản Office trước.
+Nếu bạn đang gặp các vấn đề chung sau một bản cập nhật gần đây về bộ Office, bạn có thể giải quyết vấn đề bằng cách thực hiện cài đặt lại Office hoặc quay lại phiên bản Office trước đó.
 
 Để thực hiện **cài** đặt lại Office, hãy xem lại [tải xuống và cài đặt hoặc cài đặt lại Office 365 hoặc Office 2019 trên PC hoặc máy Mac](https://support.office.com/article/download-and-install-or-reinstall-office-365-or-office-2019-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658).
 
-Để thực hiện một **cuộn** văn phòng, hãy xem lại cách hoàn nguyên [lên phiên bản Office cũ hơn](https://support.microsoft.com/help/2770432/how-to-revert-to-an-earlier-version-of-office-2013-or-office-2016-clic). 
+Để thực hiện một **cuộn** văn phòng, hãy xem lại cách hoàn nguyên [lên phiên bản Office cũ hơn](https://support.microsoft.com/help/2770432/how-to-revert-to-an-earlier-version-of-office-2013-or-office-2016-clic).
