@@ -1,5 +1,5 @@
 ---
-title: Mới cho nhóm Microsoft
+title: Thiết lập nhóm Microsoft
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,17 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: 65c6744b152e73310fb094bb2612dff77da82223
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b5e24c4d4cd074fcfba99147ee97254235c0a5bd
+ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750437"
+ms.lasthandoff: 12/04/2020
+ms.locfileid: "49576273"
 ---
-# <a name="new-to-microsoft-teams"></a>Mới cho nhóm Microsoft
+# <a name="set-up-microsoft-teams"></a>Thiết lập nhóm Microsoft
 
-Hãy xem [bắt đầu với Microsoft các nhóm](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start). Hãy đảm bảo kiểm tra các video đào tạo về quản trị nhóm, sàn và thông tin khác của Microsoft.
+[Hướng dẫn thiết lập nhóm Microsoft](https://aka.ms/teamsguidance) cung cấp cho tổ chức của bạn với hướng dẫn để thiết lập các không gian làm việc nhóm để lưu trữ các cuộc hội thoại theo thời gian thực thông qua tin nhắn, cuộc gọi và cuộc họp âm thanh hoặc video cho cả nhóm và liên lạc riêng tư. Bạn sẽ nhận được hướng dẫn xác định các yêu cầu mạng của tổ chức của mình bằng cách sử dụng công cụ Planner trên mạng và cố vấn nhóm trong Trung tâm quản trị nhóm. Khi quá trình triển khai của bạn hoàn tất, hướng dẫn sẽ bao gồm các tài nguyên hữu ích để bắt đầu sử dụng nhóm.
 
-Nếu bạn cần trợ giúp triển khai nhóm để hỗ trợ người lao động từ xa (WFH) do COVID-19, vui lòng xem lại  [hỗ trợ người lao động từ xa bằng Microsoft nhóm](https://docs.microsoft.com/microsoftteams/support-remote-work-with-teams). Ngoài ra, bạn có thể đủ điều kiện để được hỗ trợ triển khai từ chương trình Microsoft 365 FastTrack-vui lòng truy nhập [Trung tâm Fasttrack](https://www.microsoft.com/fasttrack) để gửi yêu cầu.
-
-**Quan trọng**: do việc sử dụng nhóm tăng gần đây, khi bạn gán giấy phép nhóm cho người dùng, có thể sẽ mất khoảng 24 giờ trước khi chúng được thiết lập đầy đủ. Cho đến lúc đó, bạn sẽ không thể gán chính sách nhóm cho họ và họ có thể không có quyền truy nhập vào một số tính năng nhóm như gọi và hội thảo âm thanh.
+Để biết thêm thông tin, vui lòng xem mục [bắt đầu với Microsoft nhóm](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start).

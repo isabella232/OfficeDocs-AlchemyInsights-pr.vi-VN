@@ -13,28 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "5677"
 - "9002964"
-ms.openlocfilehash: eb72faa902a18f14d408ccabb8fc346f3bd3085d
-ms.sourcegitcommit: abb1acc29fadfaa6927f73af4452ba2cfc452fa2
+ms.openlocfilehash: a773279a47a6e5462e9c06837513e75ce3d4f318
+ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "48466026"
+ms.lasthandoff: 12/04/2020
+ms.locfileid: "49576255"
 ---
 # <a name="microsoft-lists"></a>Danh sách Microsoft
 
 Microsoft đang khởi chạy giai đoạn đầu tiên của danh sách Microsoft, ứng dụng Microsoft 365. Danh sách Microsoft là vị trí trung tâm để xem và quản lý tất cả các danh sách của bạn.  
   
-**Thời**  
-
-- Đã bật xong đối với các tổ chức được kích hoạt cho bản phát hành mục tiêu.
-- Triển khai cho các tổ chức phát hành tiêu chuẩn đã bắt đầu và sẽ hoàn thành cuối tháng mười một 2020.
-
-Bất kỳ người dùng nào có giấy phép SharePoint có thể truy nhập vào biểu tượng danh sách và bắt đầu sử dụng danh sách Microsoft.
+Tính năng hiện là 100% có sẵn cho bất kỳ người dùng nào có giấy phép SharePoint và biểu tượng danh sách có thể truy nhập từ công cụ khởi động ứng dụng.
 
 Với tư cách là người quản trị toàn cầu hoặc SharePoint trong Microsoft 365, bạn có thể kiểm soát các thiết đặt cho các danh sách Microsoft. Bạn có thể:
 
-Tắt tính năng tạo danh sách cá nhân (ngăn người dùng lưu các danh sách mới vào "danh sách của tôi").
-Vô hiệu hóa các mẫu danh sách tích hợp sẵn không liên quan đến tổ chức của bạn.
+- Tắt tính năng tạo danh sách cá nhân (ngăn người dùng lưu các danh sách mới vào "danh sách của tôi").
+- Vô hiệu hóa các mẫu danh sách tích hợp sẵn không liên quan đến tổ chức của bạn.
 Xem [danh sách kiểm soát](https://docs.microsoft.com/sharepoint/control-lists)
 
 Để biết thêm thông tin, hãy xem [danh sách Microsoft](https://aka.ms/microsoftlists).
