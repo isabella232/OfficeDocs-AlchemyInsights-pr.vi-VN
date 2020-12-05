@@ -1,5 +1,5 @@
 ---
-title: Mới cho nhóm Microsoft
+title: Thiết lập nhóm Microsoft
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,17 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: 65c6744b152e73310fb094bb2612dff77da82223
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b5e24c4d4cd074fcfba99147ee97254235c0a5bd
+ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750437"
+ms.lasthandoff: 12/04/2020
+ms.locfileid: "49576273"
 ---
-# <a name="new-to-microsoft-teams"></a><span data-ttu-id="f499f-102">Mới cho nhóm Microsoft</span><span class="sxs-lookup"><span data-stu-id="f499f-102">New to Microsoft Teams</span></span>
+# <a name="set-up-microsoft-teams"></a><span data-ttu-id="e03a7-102">Thiết lập nhóm Microsoft</span><span class="sxs-lookup"><span data-stu-id="e03a7-102">Set up Microsoft Teams</span></span>
 
-<span data-ttu-id="f499f-103">Hãy xem [bắt đầu với Microsoft các nhóm](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start).</span><span class="sxs-lookup"><span data-stu-id="f499f-103">Check out [Get Started with Microsoft Teams](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start).</span></span> <span data-ttu-id="f499f-104">Hãy đảm bảo kiểm tra các video đào tạo về quản trị nhóm, sàn và thông tin khác của Microsoft.</span><span class="sxs-lookup"><span data-stu-id="f499f-104">Be sure to check out Microsoft Teams IT Admin Training Videos, Decks, and more information.</span></span>
+<span data-ttu-id="e03a7-103">[Hướng dẫn thiết lập nhóm Microsoft](https://aka.ms/teamsguidance) cung cấp cho tổ chức của bạn với hướng dẫn để thiết lập các không gian làm việc nhóm để lưu trữ các cuộc hội thoại theo thời gian thực thông qua tin nhắn, cuộc gọi và cuộc họp âm thanh hoặc video cho cả nhóm và liên lạc riêng tư.</span><span class="sxs-lookup"><span data-stu-id="e03a7-103">The  [Microsoft Teams setup guide](https://aka.ms/teamsguidance)  provides your organization with guidance to set up team workspaces that host real-time conversations through messaging, calls, and audio or video meetings for both team and private communication.</span></span> <span data-ttu-id="e03a7-104">Bạn sẽ nhận được hướng dẫn xác định các yêu cầu mạng của tổ chức của mình bằng cách sử dụng công cụ Planner trên mạng và cố vấn nhóm trong Trung tâm quản trị nhóm.</span><span class="sxs-lookup"><span data-stu-id="e03a7-104">You'll receive instructions for determining your organization's network requirements by using the Network Planner tool and the Teams advisor within the Teams admin center.</span></span> <span data-ttu-id="e03a7-105">Khi quá trình triển khai của bạn hoàn tất, hướng dẫn sẽ bao gồm các tài nguyên hữu ích để bắt đầu sử dụng nhóm.</span><span class="sxs-lookup"><span data-stu-id="e03a7-105">Once your deployment is complete, the guide includes helpful resources to get started using Teams.</span></span>
 
-<span data-ttu-id="f499f-105">Nếu bạn cần trợ giúp triển khai nhóm để hỗ trợ người lao động từ xa (WFH) do COVID-19, vui lòng xem lại  [hỗ trợ người lao động từ xa bằng Microsoft nhóm](https://docs.microsoft.com/microsoftteams/support-remote-work-with-teams).</span><span class="sxs-lookup"><span data-stu-id="f499f-105">If you need help deploying Teams to support Remote Workers (WFH) due to COVID-19, please review  [Support remote workers using Microsoft Teams](https://docs.microsoft.com/microsoftteams/support-remote-work-with-teams).</span></span> <span data-ttu-id="f499f-106">Ngoài ra, bạn có thể đủ điều kiện để được hỗ trợ triển khai từ chương trình Microsoft 365 FastTrack-vui lòng truy nhập [Trung tâm Fasttrack](https://www.microsoft.com/fasttrack) để gửi yêu cầu.</span><span class="sxs-lookup"><span data-stu-id="f499f-106">Also, you may be eligible for deployment assistance from the Microsoft 365 FastTrack Program - please visit the [FastTrack Center](https://www.microsoft.com/fasttrack) to submit a request.</span></span>
-
-<span data-ttu-id="f499f-107">**Quan trọng**: do việc sử dụng nhóm tăng gần đây, khi bạn gán giấy phép nhóm cho người dùng, có thể sẽ mất khoảng 24 giờ trước khi chúng được thiết lập đầy đủ.</span><span class="sxs-lookup"><span data-stu-id="f499f-107">**Important**: Due to a recent increase in Teams usage, when you assign a Teams license to a user, it may take around 24 hours before they'll be fully set up.</span></span> <span data-ttu-id="f499f-108">Cho đến lúc đó, bạn sẽ không thể gán chính sách nhóm cho họ và họ có thể không có quyền truy nhập vào một số tính năng nhóm như gọi và hội thảo âm thanh.</span><span class="sxs-lookup"><span data-stu-id="f499f-108">Until then, you won't be able to assign Teams policies to them, and they might not have access to some Teams features like calling and audio conferencing.</span></span>
+<span data-ttu-id="e03a7-106">Để biết thêm thông tin, vui lòng xem mục [bắt đầu với Microsoft nhóm](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start).</span><span class="sxs-lookup"><span data-stu-id="e03a7-106">For additional information, please see [Get Started with Microsoft Teams](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start).</span></span>
