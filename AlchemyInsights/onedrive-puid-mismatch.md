@@ -13,12 +13,12 @@ ms.assetid: ''
 ms.custom:
 - "9000700"
 - "2600"
-ms.openlocfilehash: cba8f0c4a75b383ddf53a2c033a5cb4e1d1fde84
-ms.sourcegitcommit: aa38be400401940110e43436e390477c290bdfda
+ms.openlocfilehash: 749ea49c31f9387c161e7b9f3d94c0d8d773c571
+ms.sourcegitcommit: 404d19201ab196d36e0d19f80894ac9931a7b740
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49605731"
+ms.lasthandoff: 12/11/2020
+ms.locfileid: "49653282"
 ---
 # <a name="onedrive-puid-mismatch"></a>OneDrive PUID không khớp
 
@@ -26,6 +26,6 @@ Dường như bạn đang gặp phải không [khớp với ID](https://docs.mic
 
 1. Bấm vào  **hỗ trợ liên hệ**, sau đó  **yêu cầu dịch vụ mới**.
 2. Rời khỏi tiêu đề và mô tả dưới dạng  **ID người dùng site Onedrive không khớp**.
-3. Sau khi đã được gửi vé, vui lòng cập nhật nó với các thông tin sau đây:
+3. Sau khi đã được gửi vé, hãy cập nhật nó với các thông tin sau đây:
     - URL site của OneDrive bị ảnh hưởng.
     - Tên người dùng chính (UPN) của người dùng bị ảnh hưởng.
