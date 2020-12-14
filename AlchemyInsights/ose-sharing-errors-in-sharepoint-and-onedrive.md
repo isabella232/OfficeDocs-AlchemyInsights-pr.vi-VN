@@ -10,15 +10,13 @@ localization_priority: Normal
 ms.custom:
 - "1939"
 - "9000314"
-ms.openlocfilehash: ff3b802c91afd762e33c488258fe365fb8584882
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: dd053bbff803caaa35a56ed49cecef37b9ac7f17
+ms.sourcegitcommit: 4a82381bdb22cbc8bc91d2e02c633897d45ade4b
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47769313"
+ms.lasthandoff: 12/14/2020
+ms.locfileid: "49668500"
 ---
 # <a name="ose-sharing-errors"></a>Lỗi chia sẻ OSE
-
-Bài viết này bao gồm các lỗi khác nhau mà bạn có thể gặp phải khi chia sẻ tệp hoặc thư mục từ SharePoint Online hoặc OneDrive for Business trong Microsoft 365. Bạn cần phải là người quản trị toàn cầu hoặc SharePoint trong tổ chức của bạn để khắc phục các lỗi này. Nếu bạn không phải là người quản trị, hãy liên hệ với bộ phận trợ giúp của bạn và cung cấp cho họ mã lỗi của bạn.
 
 Để biết thêm thông tin về mã lỗi OSE, hãy xem [chia sẻ lỗi trong SharePoint và OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message).
