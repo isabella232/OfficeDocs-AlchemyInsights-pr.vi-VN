@@ -1,5 +1,5 @@
 ---
-title: Thay đổi tên và địa chỉ email của người dùng
+title: Thay đổi tên và địa chỉ email
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,14 +13,14 @@ ms.assetid: 9e00841d-fda2-4610-95a6-c99a4b1e891a
 ms.custom:
 - "17"
 - "4"
-ms.openlocfilehash: 3ef63bd59683eed105b8391188b8c8bbd99ed984
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5f76ab1f3cec5cdf17cb8fa0aea179f29e271663
+ms.sourcegitcommit: dd9eb38bf9403de29f46c844cb64bc1d4c515afc
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47756953"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "49683924"
 ---
-# <a name="change-a-users-name-and-email-address"></a>Thay đổi tên và địa chỉ email của người dùng
+# <a name="change-a-name-and-email-address"></a>Thay đổi tên và địa chỉ email
 
 Thay đổi tên và địa chỉ email của người dùng trong Microsoft 365 là dễ dàng. Đi đến trang **người** \> [dùng hiện hoạt](https://go.microsoft.com/fwlink/p/?linkid=834822) và chọn người dùng để chỉnh sửa thông tin của họ. Bạn cũng có thể dùng bài viết này để biết hướng dẫn từng bước:
   
