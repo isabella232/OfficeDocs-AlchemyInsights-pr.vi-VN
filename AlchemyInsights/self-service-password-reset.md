@@ -12,23 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002464"
 - "4769"
-ms.openlocfilehash: 693b051eb5f63a9b2eea8bce9321bbf435811269
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 89bd5daa05a2466ee58b1686657e234d3c695490
+ms.sourcegitcommit: 4fbe6ac3b7c94303ab0f85807d6f49e70cf7721f
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47740208"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "49676364"
 ---
-# <a name="self-service-password-reset-sspr"></a><span data-ttu-id="ba3c3-102">Đặt lại mật khẩu tự phục vụ (SSPR)</span><span class="sxs-lookup"><span data-stu-id="ba3c3-102">Self-service password reset (SSPR)</span></span>
+# <a name="self-service-password-reset-sspr"></a><span data-ttu-id="1cf8d-102">Đặt lại mật khẩu tự phục vụ (SSPR)</span><span class="sxs-lookup"><span data-stu-id="1cf8d-102">Self-service password reset (SSPR)</span></span>
 
-- <span data-ttu-id="ba3c3-103">Bấm vào đây để [cho phép người dùng đặt lại mật khẩu của riêng họ](https://admin.microsoft.com/Adminportal/Home#/featureexplorer/security/Sspr).</span><span class="sxs-lookup"><span data-stu-id="ba3c3-103">Click here to [Let users reset their own passwords](https://admin.microsoft.com/Adminportal/Home#/featureexplorer/security/Sspr).</span></span>  <span data-ttu-id="ba3c3-104">SSPR được bật theo mặc định cho người quản trị.</span><span class="sxs-lookup"><span data-stu-id="ba3c3-104">SSPR is enabled by default for Admins.</span></span>
+- [<span data-ttu-id="1cf8d-103">Lập kế hoạch triển khai đặt lại mật khẩu tự phục vụ của bạn</span><span class="sxs-lookup"><span data-stu-id="1cf8d-103">Plan your self-service password reset deployment</span></span>](https://go.microsoft.com/fwlink/?linkid=2142944)  
 
-- <span data-ttu-id="ba3c3-105">Bấm vào đây để [đăng ký thông tin liên hệ SSPR của bạn](https://go.microsoft.com/fwlink/?linkid=849451).</span><span class="sxs-lookup"><span data-stu-id="ba3c3-105">Click here to [register your SSPR contact info](https://go.microsoft.com/fwlink/?linkid=849451).</span></span>
+    <span data-ttu-id="1cf8d-104">hay</span><span class="sxs-lookup"><span data-stu-id="1cf8d-104">or</span></span>
+- <span data-ttu-id="1cf8d-105">[Đăng ký thông tin liên hệ sspr của bạn](https://go.microsoft.com/fwlink/?linkid=849451) (sspr được bật theo mặc định cho người quản trị)</span><span class="sxs-lookup"><span data-stu-id="1cf8d-105">[Register your SSPR contact info](https://go.microsoft.com/fwlink/?linkid=849451) (SSPR is enabled by default for Admins)</span></span>
 
-<span data-ttu-id="ba3c3-106">Để biết thêm thông tin:</span><span class="sxs-lookup"><span data-stu-id="ba3c3-106">For more information:</span></span>
+    <span data-ttu-id="1cf8d-106">Để biết thêm thông tin, hãy xem:</span><span class="sxs-lookup"><span data-stu-id="1cf8d-106">For more information, see:</span></span>
 
-<span data-ttu-id="ba3c3-107">Thiết lập SSPR cơ bản- [cho phép người dùng đặt lại mật khẩu của riêng họ](https://docs.microsoft.com/microsoft-365/admin/add-users/let-users-reset-passwords?view=o365-worldwide)</span><span class="sxs-lookup"><span data-stu-id="ba3c3-107">Basic SSPR setup - [Let users reset their own passwords](https://docs.microsoft.com/microsoft-365/admin/add-users/let-users-reset-passwords?view=o365-worldwide)</span></span>
+    <span data-ttu-id="1cf8d-107">Thiết lập SSPR cơ bản- [cho phép người dùng đặt lại mật khẩu của riêng họ](https://docs.microsoft.com/microsoft-365/admin/add-users/let-users-reset-passwords)</span><span class="sxs-lookup"><span data-stu-id="1cf8d-107">Basic SSPR setup - [Let users reset their own passwords](https://docs.microsoft.com/microsoft-365/admin/add-users/let-users-reset-passwords)</span></span>
 
-[<span data-ttu-id="ba3c3-108">CÂU HỎI THƯỜNG GẶP VỀ SSPR</span><span class="sxs-lookup"><span data-stu-id="ba3c3-108">SSPR FAQ</span></span>](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-faq)
+    [<span data-ttu-id="1cf8d-108">CÂU HỎI THƯỜNG GẶP VỀ SSPR</span><span class="sxs-lookup"><span data-stu-id="1cf8d-108">SSPR FAQ</span></span>](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-faq)
 
-[<span data-ttu-id="ba3c3-109">Trình khắc phục sự cố SSPR</span><span class="sxs-lookup"><span data-stu-id="ba3c3-109">SSPR Troubleshooter</span></span>](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-troubleshoot)
+    [<span data-ttu-id="1cf8d-109">Trình khắc phục sự cố SSPR</span><span class="sxs-lookup"><span data-stu-id="1cf8d-109">SSPR Troubleshooter</span></span>](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-troubleshoot)
