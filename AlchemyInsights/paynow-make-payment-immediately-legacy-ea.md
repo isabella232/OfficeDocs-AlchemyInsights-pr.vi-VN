@@ -1,5 +1,5 @@
 ---
-title: PayNow/đặt thanh toán ngay lập tức-kế thừa EA
+title: PayNow/trả tiền ngay lập tức
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004164"
 - "7329"
-ms.openlocfilehash: 90d9341333d586d62a3932d4b8e6c7eaf277386b
-ms.sourcegitcommit: ae05e598333c08c0a73de254d3d97207c0b382e6
+ms.openlocfilehash: 3ffe4676325e2c86642cb06aaee59725759b7ed9
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 12/16/2020
-ms.locfileid: "49692483"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755713"
 ---
-# <a name="paynowmake-payment-immediately---legacy-ea"></a>PayNow/đặt thanh toán ngay lập tức-kế thừa EA
+# <a name="paynowmake-payment-immediately"></a>PayNow/trả tiền ngay lập tức
+
+Dựa trên mô tả vấn đề của bạn, chúng tôi đã tìm ra giải pháp cho bạn. Hầu hết khách hàng đều có thể giải quyết được sự cố của họ sau khi theo dõi tài liệu hướng dẫn của chúng tôi.
 
 Đối với thuê bao thỏa thuận Azure Enterprise, phần Thêm/Cập Nhật/thay đổi phương thức thanh toán không được hỗ trợ. Nếu bạn muốn thay đổi địa chỉ trên hóa đơn hiện có, vui lòng liên hệ với đại diện Microsoft của bạn.
 

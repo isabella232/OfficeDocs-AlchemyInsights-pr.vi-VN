@@ -1,5 +1,5 @@
 ---
-title: Cách thêm và quản lý các bước được đề xuất
+title: Cách thêm và quản lý các bước được đề xuất của người quản trị
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,14 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7194"
-ms.openlocfilehash: 142bf1474ac0e0eac5cecb9dddd35e28b6b6631e
-ms.sourcegitcommit: 94036315916fbc79dca2a692c2e9bc1139dd28f6
+ms.openlocfilehash: ed3aa5defabdd4f505ee4f74570023d990910dcb
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49678866"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755857"
 ---
-# <a name="how-to-add-and-manage-adminstrators---recommended-steps"></a>Cách thêm và quản lý các bước được đề xuất
+# <a name="how-to-add-and-manage-administrators---recommended-steps"></a>Cách thêm và quản lý các bước được đề xuất của người quản trị
+
+Dựa trên mô tả vấn đề của bạn, chúng tôi đã tìm ra giải pháp cho bạn. Hầu hết khách hàng đều có thể giải quyết được sự cố của họ sau khi theo dõi tài liệu hướng dẫn của chúng tôi.
 
 **Chỉnh sửa người quản trị đăng ký hoặc người quản trị**
 

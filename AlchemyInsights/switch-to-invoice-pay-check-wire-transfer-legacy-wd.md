@@ -1,5 +1,5 @@
 ---
-title: Chuyển sang thanh toán hóa đơn (chuyển Séc/dây)-WD kế thừa
+title: Chuyển sang thanh toán bằng hóa đơn (chuyển Séc/dây)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004168"
 - "7343"
-ms.openlocfilehash: 1be90771f994e832960383b1cb5e0bee8f5b08f8
-ms.sourcegitcommit: b561c339926fad609950ac92744c3cd91e0a68fa
+ms.openlocfilehash: c4c78d634cdef711423f573439c5091befedef34
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 12/21/2020
-ms.locfileid: "49726166"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755425"
 ---
-# <a name="switch-to-invoice-pay-chequewire-transfer---legacy-wd"></a>Chuyển sang thanh toán hóa đơn (chuyển Séc/dây)-WD kế thừa
+# <a name="switch-to-pay-by-invoice-chequewire-transfer"></a>Chuyển sang thanh toán bằng hóa đơn (chuyển Séc/dây)
+
+Dựa trên mô tả vấn đề của bạn, chúng tôi đã tìm ra giải pháp cho bạn. Hầu hết khách hàng đều có thể giải quyết được sự cố của họ sau khi theo dõi tài liệu hướng dẫn của chúng tôi.
 
 Nếu bạn chuyển sang thanh toán bằng hóa đơn, điều đó có nghĩa là bạn sẽ thanh toán hóa đơn trong vòng 30 ngày kể từ ngày hóa đơn. Để trở thành đủ điều kiện để thanh toán cho thuê bao Azure của bạn theo hóa đơn, hãy gửi một yêu cầu để hỗ trợ Azure. Sau khi yêu cầu của bạn được phê duyệt, bạn có thể chuyển gói đăng ký sang thanh toán hóa đơn trong [cổng thông tin Azure](https://portal.azure.com/).
 

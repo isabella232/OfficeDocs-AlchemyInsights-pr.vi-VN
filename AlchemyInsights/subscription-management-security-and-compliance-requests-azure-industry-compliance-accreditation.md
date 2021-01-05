@@ -13,14 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004112"
 - "7191"
-ms.openlocfilehash: 84c9d89161111a5a1cf9aea92f49c754ad6b7f73
-ms.sourcegitcommit: c68aeb650c74cc790c6027a91965dcaf577f7428
+ms.openlocfilehash: b29991dccd0a97115fc1dbc3191dd2e52e6b5d23
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49598841"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755605"
 ---
 # <a name="subscription-management---security-and-compliance-requests---azure-industry-compliance-accreditation"></a>Quản lý thuê bao-bảo mật và tuân thủ yêu cầu-chứng nhận tuân thủ Azure Industry
+
+Dựa trên mô tả vấn đề của bạn, chúng tôi đã tìm ra giải pháp cho bạn. Hầu hết khách hàng đều có thể giải quyết được sự cố của họ sau khi theo dõi tài liệu hướng dẫn của chúng tôi.
 
 - **Chính sách**: đối với bất kỳ câu hỏi nào về tài liệu tuân thủ Microsoft, hãy xem mục [tuân thủ trung tâm tin cậy Azure](https://docs.microsoft.com/compliance/regulatory/offering-SOC).
 

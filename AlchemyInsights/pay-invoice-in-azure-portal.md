@@ -13,14 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004164"
 - "7284"
-ms.openlocfilehash: 76171db94d905eaec0263700e5148b29d224a247
-ms.sourcegitcommit: b5f05809732ac148161ffdb7b8cb2348f101ecae
+ms.openlocfilehash: 37fb216fc4694bcaa7dddc2c56432a16c0dad555
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49715030"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755641"
 ---
 # <a name="pay-invoice-in-azure-portal---recommended-steps"></a>Thanh toán hóa đơn trong Azure Portal-các bước được đề xuất
+
+Dựa trên mô tả vấn đề của bạn, chúng tôi đã tìm ra giải pháp cho bạn. Hầu hết khách hàng đều có thể giải quyết được sự cố của họ sau khi theo dõi tài liệu hướng dẫn của chúng tôi.
 
 Bạn phải là người quản trị tài khoản thanh toán để thanh toán hóa đơn trong cổng thông tin Azure. Người quản trị tài khoản thanh toán là người dùng ban đầu đăng ký cho tài khoản thỏa thuận khách hàng của Microsoft. 
 

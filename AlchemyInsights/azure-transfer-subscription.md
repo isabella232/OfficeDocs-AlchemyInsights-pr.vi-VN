@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003560"
 - "6849"
-ms.openlocfilehash: 454ce626862bb4a2361abccd92ad0099b534388c
-ms.sourcegitcommit: 059ad2936788266ea9714ec8c66d407d7261aeb6
+ms.openlocfilehash: 74b7cc879973790b7532106c80b718856682a334
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 12/29/2020
-ms.locfileid: "49736900"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755569"
 ---
 # <a name="transfer-azure-billing-ownership"></a>Chuyển quyền sở hữu thanh toán Azure
 
 Đăng nhập vào [cổng thông tin Azure](https://portal.azure.com/) với tư cách là người quản trị của tài khoản thanh toán có đăng ký mà bạn muốn chuyển. Nếu bạn không chắc chắn nếu bạn là người quản trị, hoặc nếu bạn cần xác định ai, hãy xem [xác định người quản trị thanh toán tài khoản](https://docs.microsoft.com/azure/cost-management-billing/understand/subscription-transfer#whoisaa).
 
-1. Tìm kiếm về _quản lý chi phí + thanh toán_.
+1. Tìm kiếm _quản lý chi phí + thanh toán_.
 1. Chọn **đăng ký** từ ngăn bên trái. Tùy thuộc vào quyền truy nhập, bạn có thể cần phải chọn một phạm vi thanh toán, sau đó **thuê** bao hoặc **đăng ký Azure**.
 1. Chọn **chuyển quyền sở hữu thanh toán** cho đăng ký mà bạn muốn chuyển.
 1. Nhập địa chỉ email của người dùng là người quản trị thanh toán của tài khoản đó sẽ là chủ sở hữu mới cho đăng ký, rồi chọn **gửi yêu cầu chuyển**.
