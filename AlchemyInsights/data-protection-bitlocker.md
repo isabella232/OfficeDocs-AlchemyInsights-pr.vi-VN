@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1802"
 - "9000220"
-ms.openlocfilehash: ab28162fcdf0a37060be3bdf15a78aceca7a48b1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0b305931a7279d8f1085c411cc9b47c991e1ee44
+ms.sourcegitcommit: 9c4b4853ff53f21c0177d48821846070bb00637c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47731261"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "49768839"
 ---
 # <a name="enabling-bitlocker-encryption-with-intune"></a>Bật tính năng mã hóa BitLocker bằng InTune
 
@@ -30,10 +30,12 @@ Bạn nên lưu ý rằng nhiều thiết bị mới chạy Windows 10 hỗ tr�
  
 **DIỄN**
 
- Hỏi: Phiên bản nào của mã hóa thiết bị hỗ trợ Windows sử dụng chính sách bảo vệ điểm cuối?<br>
- A: các thiết đặt trong chính sách bảo vệ điểm cuối trong InTune được thực hiện bằng cách sử dụng [CPC BitLocker](https://docs.microsoft.com/windows/client-management/mdm/bitlocker-csp). Không phải tất cả các phiên bản hoặc bản dựng của Windows hỗ trợ CPC BitLocker. <br><br>
-      Tại thời điểm này, các phiên bản Windows sau đây được hỗ trợ: Enterprise, Education, Mobile, Enterprise và Professional (bản dựng 1809 trở lên).
- 
+Hỏi: Phiên bản nào của mã hóa thiết bị hỗ trợ Windows sử dụng chính sách bảo vệ điểm cuối?<br>
+A: các thiết đặt trong chính sách bảo vệ điểm cuối trong InTune được thực hiện bằng cách sử dụng [CPC BitLocker](https://docs.microsoft.com/windows/client-management/mdm/bitlocker-csp). Không phải tất cả các phiên bản hoặc bản dựng của Windows hỗ trợ CPC BitLocker. <br><br>
+
+Hỏi: có thể bật BitLocker trên các thiết bị mà không yêu cầu người dùng cuối tương tác?<br>
+A: miễn là các site trước cần thiết được đáp ứng có thể bật BitLocker "mã hóa im lặng" thông qua InTune. Xem chi tiết về các yêu cầu thiết bị và các thiết đặt chính sách ví dụ để bật mã hóa im lặng trong tài liệu sau đây: âm thanh cho [phép mã hóa BitLocker](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#silently-enable-bitlocker-on-devices). <br><br>
+
 Hỏi: nếu thiết bị đã được mã hóa với BitLocker bằng cách dùng thiết đặt mặc định của hệ điều hành cho phương pháp mã hóa và sức mạnh của mật độ (XTS-AES-128), sẽ áp dụng chính sách với các thiết đặt khác nhau sẽ tự động kích hoạt lại mã hóa ổ đĩa với cài đặt mới?<br>
 A: không. Để áp dụng các thiết đặt mã hóa mới, trước tiên, ổ đĩa phải được giải mã.<br><br>
 **Lưu ý:** Đối với các thiết bị đang được đăng ký với Autopilot, mã hóa tự động sẽ xảy ra trong khi OOBE không được kích hoạt cho đến khi chính sách InTune được đánh giá, cho phép các thiết đặt dựa trên chính sách sẽ được sử dụng thay cho mặc định của hệ điều hành.
