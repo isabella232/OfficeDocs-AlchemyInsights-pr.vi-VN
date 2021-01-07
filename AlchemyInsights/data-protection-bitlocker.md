@@ -12,19 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "1802"
 - "9000220"
-ms.openlocfilehash: 0b305931a7279d8f1085c411cc9b47c991e1ee44
-ms.sourcegitcommit: 9c4b4853ff53f21c0177d48821846070bb00637c
+ms.openlocfilehash: 482c08b31e4d97ca5cc9ec6e35e309cb7536036d
+ms.sourcegitcommit: 58ac31a58c956a4d74f66bd4151a2311dc361b78
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "49768839"
+ms.lasthandoff: 01/07/2021
+ms.locfileid: "49778215"
 ---
 # <a name="enabling-bitlocker-encryption-with-intune"></a>Bật tính năng mã hóa BitLocker bằng InTune
 
- Có thể sử dụng chính sách bảo vệ Endpoint trong InTune để cấu hình thiết đặt mã hóa BitLocker cho các thiết bị chạy Windows. Để biết thêm thông tin, hãy xem [thiết đặt Windows 10 (và mới hơn) để bảo vệ các thiết bị bằng cách dùng InTune](https://docs.microsoft.com/intune/endpoint-protection-windows-10#windows-encryption).
- 
+Có thể sử dụng chính sách bảo vệ Endpoint trong InTune để cấu hình thiết đặt mã hóa BitLocker cho các thiết bị chạy Windows. Để biết thêm thông tin, hãy xem [thiết đặt Windows 10 (và mới hơn) để bảo vệ các thiết bị bằng cách dùng InTune](https://docs.microsoft.com/intune/endpoint-protection-windows-10#windows-encryption).
+
+Ngoài chính sách bảo vệ điểm cuối cũng có một báo cáo mã hóa cung cấp dạng xem chi tiết hơn về trạng thái mã hóa cho các thiết bị. Báo cáo này có thể được truy nhập từ cổng thông tin MEM bên dưới **thiết bị > màn hình**, sau đó bên dưới **cấu hình** , chọn [báo cáo mã hóa](https://endpoint.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/DevicesMonitorMenu/encryptionReport).
+
+Nếu bạn thấy BitLocker không được kích hoạt như mong muốn hoặc hồ sơ được sử dụng để bật BitLocker ở trạng thái lỗi, vui lòng xem lại báo cáo mã hóa để hiểu rõ hơn về lý do tại sao hành vi xảy ra.
+
+Để tìm chi tiết về cách diễn giải báo cáo, bao gồm các giá trị trạng thái mã hóa khác nhau, hãy xem [giám sát mã hóa thiết bị với InTune](https://docs.microsoft.com/mem/intune/protect/encryption-monitor).
+
 Bạn nên lưu ý rằng nhiều thiết bị mới chạy Windows 10 hỗ trợ mã hóa BitLocker tự động, được kích hoạt mà không có ứng dụng của chính sách MDM. Điều này có thể tác động đến ứng dụng chính sách nếu thiết đặt không phải mặc định được cấu hình. Xem câu hỏi thường gặp sau đây để biết thêm chi tiết.
- 
+
 Để biết thông tin về khắc phục sự cố BitLocker, hãy xem [khắc phục sự cố chính sách BitLocker trong Microsoft InTune](https://docs.microsoft.com/intune/protect/troubleshoot-bitlocker-policies).
  
  
