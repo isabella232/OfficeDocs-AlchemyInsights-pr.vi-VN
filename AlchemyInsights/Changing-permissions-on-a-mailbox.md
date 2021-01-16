@@ -1,5 +1,5 @@
 ---
-title: Thay đổi quyền trên hộp thư
+title: Thay đổi quyền trên một hộp thư
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,20 +11,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "642"
 - "3500009"
-ms.openlocfilehash: 1e0dbe74a3b8dd25005f1eb82870efe9c4f7ccfc
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: bdcb04923b2ece136208e38b69ed7486ffcf7fb6
+ms.sourcegitcommit: 3f0abd54b4bd161bde22b9a7f86924a9dbb59684
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44502593"
+ms.lasthandoff: 01/15/2021
+ms.locfileid: "49880188"
 ---
-# <a name="changing-permissions-on-a-mailbox"></a>Thay đổi quyền trên hộp thư
+# <a name="changing-permissions-on-a-mailbox"></a>Thay đổi quyền trên một hộp thư
 
-Nếu người dùng cần truy cập vào hộp thư không phải là của riêng họ, họ cần phải được cấp quyền để làm việc với các hộp thư. Cách bạn gán các quyền đó phụ thuộc vào loại hộp thư. Nếu người dùng cần truy cập vào:
+Nếu người dùng cần truy nhập vào các hộp thư khác ngoài chính họ, họ cần được cấp quyền làm việc với những hộp thư đó. Cách bạn gán các quyền này tùy thuộc vào loại hộp thư. Nếu người dùng cần truy nhập vào:
   
-- Hộp thư của người dùng khác-hãy xem [cho phép hộp thư cho người dùng khác](https://docs.microsoft.com/microsoft-365/admin/add-users/give-mailbox-permissions-to-another-user).
+- Hộp thư của người dùng khác-xin vui lòng xem [cung cấp quyền hộp thư cho một người dùng khác](https://docs.microsoft.com/microsoft-365/admin/add-users/give-mailbox-permissions-to-another-user).
     
-- Hộp thư dùng chung-vui lòng xem [Thêm hoặc xoá thành viên khỏi hộp thư dùng chung](https://support.office.com/article/add-or-remove-members-from-a-shared-mailbox-a1cd0ae0-216c-4dc1-8171-bfacfbd4c1a7).
+- Hộp thư chung-vui lòng xem [cấu hình thiết đặt hộp thư dùng chung](https://docs.microsoft.com/microsoft-365/admin/email/configure-a-shared-mailbox#add-or-remove-members).
     
-Nếu quyền không hoạt động đúng sau khi bạn thực hiện các bước trên, hãy truy cập Trung tâm quản trị Exchange và cố gắng đặt quyền từ đó (xem [quản lý quyền cho người nhận](https://technet.microsoft.com/library/jj919240%28v=exchg.150%29.aspx)).
+Nếu quyền không hoạt động đúng sau khi bạn thực hiện các bước ở trên, hãy đi đến Trung tâm quản trị Exchange và cố gắng đặt quyền từ đó (xem [quản lý quyền đối với người nhận](https://technet.microsoft.com/library/jj919240%28v=exchg.150%29.aspx)).
   
