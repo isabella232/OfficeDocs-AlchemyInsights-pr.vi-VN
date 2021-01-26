@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7748"
 - "9004339"
-ms.openlocfilehash: 53bd0d8f8edaead519d0282239d3a6d338b297b9
-ms.sourcegitcommit: 029c4697b77ce996d41ca74c4fa86de1bb84bd99
+ms.openlocfilehash: 2f413e863e6aa23548e425de5901f8158e1d48ab
+ms.sourcegitcommit: ba3118b7ad5e02756d0e5c2113245090f54370af
 ms.translationtype: MT
 ms.contentlocale: vi-VN
 ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974786"
+ms.locfileid: "49976871"
 ---
 # <a name="authentication-issues"></a>Các vấn đề về xác thực
 
@@ -32,7 +32,7 @@ Lỗi ủy quyền có thể là kết quả của một số vấn đề khác 
 
 Để giải quyết các lỗi ủy quyền phổ biến, hãy thử các bước được cung cấp bên dưới mà hầu hết khớp với lỗi mà bạn nhận được. Có thể áp dụng nhiều hơn một bước để có lỗi mà bạn nhận được.
 
-- **401 lỗi không được phép: là mã thông báo hợp lệ của bạn?**
+**401 lỗi không được phép: là mã thông báo hợp lệ của bạn?**
 
 Đảm bảo rằng ứng dụng của bạn đang trình bày mã thông báo truy nhập hợp lệ vào Microsoft graph như một phần của yêu cầu. Lỗi này thường có nghĩa là mã thông báo Access có thể bị thiếu trong phần đầu đề yêu cầu xác thực HTTP hoặc mã thông báo không hợp lệ hoặc đã hết hạn. Chúng tôi đặc biệt khuyên bạn nên sử dụng thư viện xác thực Microsoft (MSAL) để mua lại mã bản quyền truy nhập. Ngoài ra, lỗi này có thể xảy ra nếu bạn tìm cách sử dụng mã thông báo truy nhập được ủy quyền cho tài khoản Microsoft cá nhân để truy nhập API chỉ hỗ trợ tài khoản cơ quan hoặc trường học (tài khoản tổ chức).
 
