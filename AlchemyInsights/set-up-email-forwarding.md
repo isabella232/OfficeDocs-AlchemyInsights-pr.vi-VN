@@ -13,16 +13,16 @@ ms.custom:
 - "20"
 - "1200004"
 ms.assetid: 15abf81d-5c5d-49da-ac81-1b4daa1809f6
-ms.openlocfilehash: 21b967a54e29fc7af85837a38f1efe24525a1f75
-ms.sourcegitcommit: 227a949a6ae49cc52c7fdcef2f9fd202c746169d
+ms.openlocfilehash: 4ec122967a93f707478e05ac7874cbc884a88c84
+ms.sourcegitcommit: 7e6d89f47eca1babf5aeba4995bceccd990c3963
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "49847622"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "50037207"
 ---
 # <a name="check-the-email-forwarding-settings-for-a-mailbox"></a>Kiểm tra thiết đặt chuyển tiếp email cho một hộp thư
 
-Trước hết, chuyển tiếp email phải được bật ở mức đối tượng thuê. Nếu bạn đã thiết lập chuyển tiếp email trên một hộp thư nhưng không hoạt động, vui lòng xem [điều khiển chuyển tiếp email bên ngoài tự động trong Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding?view=o365-worldwide).
+Trước hết, chuyển tiếp email phải được bật ở mức đối tượng thuê. Nếu bạn đã thiết lập chuyển tiếp email trên một hộp thư nhưng không hoạt động (bạn nhận được lỗi **"550 5.7.520 Access bị từ chối, tổ chức của bạn không cho phép chuyển tiếp bên ngoài"**), vui lòng xem [điều khiển chuyển tiếp email bên ngoài tự động trong Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding?view=o365-worldwide).
 
 Thật dễ dàng để xác minh cài đặt chuyển tiếp email trên hộp thư! Chỉ cần làm theo các bước sau.
   
