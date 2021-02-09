@@ -1,31 +1,29 @@
 ---
 title: Thay đổi phương thức thanh toán
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
-ms.collection: Adm_O365
 ms.custom:
+- commerce
 - "9002612"
 - "5073"
-ms.openlocfilehash: f1076fdb94e051bb72b719ee5c8401dd49ce44da
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3c72263cacd2f03f1970fc520ac624a280518a5f
+ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47681790"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "50152616"
 ---
 # <a name="change-payment-method-fromto"></a>Thay đổi phương thức thanh toán từ/đến
 
 1. **Thay đổi từ hóa đơn sang thẻ tín dụng hoặc tài khoản ngân hàng**
 
-    - Khi bạn thay đổi từ thanh toán bằng hóa đơn để thanh toán bằng thẻ tín dụng hoặc tài khoản ngân hàng, chúng tôi sẽ tự động tạo một đăng ký mới cho bạn, di chuyển người dùng của bạn vào thuê bao mới, rồi tắt gói đăng ký cũ của bạn. Đừng lo, người dùng của bạn sẽ không nhìn thấy sự gián đoạn trong dịch vụ và tất cả thông tin của họ sẽ sẵn dùng thông qua đăng ký mới. 
-
-    - Làm theo các bước tài liệu trong [thay đổi từ hóa đơn sang thẻ tín dụng hoặc tài khoản ngân hàng](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method?view=o365-worldwide#change-from-invoice-to-credit-card-or-bank-account).
+    - Bạn không thể tự động thay đổi từ thanh toán bằng hóa đơn để thanh toán bằng phương thức thanh toán khác. Thay vào đó, bạn phải [mua một đăng ký khác](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription) được thanh toán bằng thẻ tín dụng hoặc thẻ ghi nợ hoặc tài khoản ngân hàng, [di chuyển tất cả người dùng sang gói đăng ký mới](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/move-users-different-subscription), sau đó [hủy bỏ đăng ký cũ](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 
 2. **Thay đổi từ thẻ tín dụng hoặc tài khoản ngân hàng sang hóa đơn**
 
@@ -33,6 +31,6 @@ ms.locfileid: "47681790"
 
     - Nếu số lượng đơn hàng của bạn quá cao, hãy kiểm tra tín dụng có thể được yêu cầu. Nếu vậy, bạn sẽ thấy thông báo "không đủ điều kiện để thay đổi thành hóa đơn. Đơn hàng của bạn yêu cầu kiểm tra tín dụng. " Trong trường hợp này, bạn có thể thanh toán bằng hóa đơn theo cách thủ công.
 
-    - Làm theo các bước tài liệu trong [thay đổi từ thẻ tín dụng hoặc tài khoản ngân hàng sang hóa đơn](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method?view=o365-worldwide#change-from-credit-card-or-bank-account-to-invoice) để hoàn thành thay đổi thủ công.
+    - Làm theo các bước trong [làm cách nào để tôi thay đổi từ thanh toán bằng thẻ tín dụng sang hóa đơn?](how-do-i-change-from-credit-card-payments-to-invoice.md) để hoàn tất thay đổi theo cách thủ công.
 
-Để biết thêm thông tin, hãy xem [thay đổi phương thức thanh toán của bạn](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method).
+Để biết thêm thông tin, hãy xem [làm thế nào để thanh toán cho thuê bao của bạn](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).

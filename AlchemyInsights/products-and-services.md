@@ -8,16 +8,16 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.collection: Adm_O365
 ms.custom:
+- commerce
 - "9001669"
 - "3736"
-ms.openlocfilehash: 49f90fd3a911abaebe158e442d97f9345548ee88
-ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
+ms.openlocfilehash: 3281144fb921fecb428d918e4f2996824b71f706
+ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "48307040"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "50152534"
 ---
 # <a name="your-products"></a>Sản phẩm của bạn
 
@@ -32,4 +32,4 @@ Bạn có thể tìm thấy các đăng ký thuộc sở hữu của tổ chức
 5. [Thay đổi mức độ thường xuyên bạn thanh toán](change-how-often-you-pay.md).
 6. [Hủy bỏ đăng ký](https://go.microsoft.com/fwlink/?linkid=2119113).
 
-Bạn có thể mua thuê bao bổ **Billing**sung từ  >  trang[dịch vụ](https://go.microsoft.com/fwlink/p/?linkid=868433) thông tin thanh toán.
+Bạn có thể mua thuê bao bổ sung từ  >  trang[dịch vụ](https://go.microsoft.com/fwlink/p/?linkid=868433) thông tin thanh toán.
