@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "6253"
 - "9003349"
-ms.openlocfilehash: 50b1060b46d09276629d8a30fc3c750f9faab648
-ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
+ms.openlocfilehash: 1385d015052ccc9c056cdb9e6a45e86177031c9b
+ms.sourcegitcommit: 3c708a4a349b60b59bc623c44fb78674c685f3c2
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48277913"
+ms.lasthandoff: 02/18/2021
+ms.locfileid: "50291742"
 ---
 # <a name="help-with-presence-in-microsoft-teams"></a>Trợ giúp với hiện diện trong nhóm Microsoft
 
-Hiện diện là một phần của hồ sơ người dùng trong nhóm Microsoft (và trên toàn bộ Microsoft 365 hoặc Office 365). Tự động tìm nhóm-phát hiện trạng thái của bạn (sẵn dùng, đi vắng, bận, trong cuộc họp, không làm phiền và điều chỉnh thông tin hiện diện của bạn. Theo mặc định, bất kỳ ai trong tổ chức của bạn bằng cách sử dụng các nhóm có thể thấy (gần như thời gian thực) nếu những người dùng khác có sẵn trực tuyến.
+Hiện diện là một phần của hồ sơ người dùng trong nhóm Microsoft (và trên toàn bộ Microsoft 365 hoặc Office 365). 
 
-Trạng thái hiện diện hiện tại của bạn thay đổi thành  **đi vắng**  khi bạn khóa máy tính của mình hoặc khi đi vào chế độ nhàn rỗi hoặc ngủ. Trên thiết bị di động, trạng thái hiện diện của bạn sẽ thay đổi **ra**  bất cứ khi nào ứng dụng nhóm trong nền.
+Trạng thái hiện diện hiện tại của bạn thay đổi thành  **đi vắng**  khi bạn khóa máy tính của mình hoặc khi đi vào chế độ nhàn rỗi hoặc ngủ. Trên thiết bị di động, trạng thái hiện diện của bạn sẽ thay đổi **ra**  bất cứ khi nào ứng dụng nhóm trong nền. Nếu trạng thái hiện diện không được phản ánh trong nhóm sau khi bạn sơ yếu lý lịch từ trạng thái nhàn rỗi, hãy đảm bảo rằng bạn có phiên bản mới nhất của các nhóm và bạn chờ 3 phút cho trạng thái Cập Nhật. Để biết thêm thông tin, hãy xem [trạng thái hiện diện thực tế của bạn không được phản ánh trong nhóm](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-im-presence/presence-not-show-actual-status).
 
-Để biết thêm thông tin về trạng thái hiện diện, vui lòng xem  [sự hiện diện của người dùng trong nhóm](https://docs.microsoft.com/microsoftteams/presence-admins).
+Nếu trạng thái liên hệ Hiển thị là không xác định, hãy làm theo các bước https://docs.microsoft.com/microsoftteams/troubleshoot/teams-im-presence/contact-presence-status-unknown để giải quyết vấn đề.
+Để biết thêm thông tin về trạng thái hiện diện, hãy xem [sự hiện diện của người dùng trong nhóm](https://docs.microsoft.com/microsoftteams/presence-admins).
 
-Microsoft đang triển khai  [một bản cập nhật quan trọng](https://www.microsoft.com/microsoft-365/roadmap?filters=Microsoft%20Teams&searchterms=presence) về hiện diện đối với nhóm Microsoft. Chúng tôi đã thiết kế lại hiện diện để hỗ trợ các bản Cập Nhật thời gian thực, vốn sẽ giúp cải thiện độ tin cậy của chỉ báo hiện diện.
