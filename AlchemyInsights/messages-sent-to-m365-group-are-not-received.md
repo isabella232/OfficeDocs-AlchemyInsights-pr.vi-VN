@@ -12,21 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003200"
 - "5995"
-ms.openlocfilehash: 39a4f8115a4742947b3e6394396be5ce3b01e772
-ms.sourcegitcommit: 379e132c4d21ecf703d5506484ec96a767fdda39
+ms.openlocfilehash: d222eb92d806bad52264139a8ddba72f323b3783
+ms.sourcegitcommit: 10cfd9d552b0d8a096bcef34e82c04a4c166a13a
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50430705"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50479475"
 ---
-# <a name="messages-sent-to-a-microsoft-365-group-are-not-received-by-all-members"></a><span data-ttu-id="fd62a-102">Các thư được gửi đến một nhóm Microsoft 365 sẽ không nhận được tất cả các thành viên</span><span class="sxs-lookup"><span data-stu-id="fd62a-102">Messages sent to a Microsoft 365 group are not received by all members</span></span>
+# <a name="messages-sent-to-a-microsoft-365-group-are-not-received-by-all-members"></a><span data-ttu-id="71b83-102">Các thư được gửi đến một nhóm Microsoft 365 sẽ không nhận được tất cả các thành viên</span><span class="sxs-lookup"><span data-stu-id="71b83-102">Messages sent to a Microsoft 365 group are not received by all members</span></span>
 
-<span data-ttu-id="fd62a-103">Hãy đảm bảo rằng tất cả các thành viên nhóm đã đăng ký nhận email.</span><span class="sxs-lookup"><span data-stu-id="fd62a-103">Make sure that all group members have subscribed to receive the emails.</span></span> <span data-ttu-id="fd62a-104">Xem [theo dõi một nhóm trong Outlook](https://support.microsoft.com/office/e147fc19-f548-4cd2-834f-80c6235b7c36).</span><span class="sxs-lookup"><span data-stu-id="fd62a-104">See [Follow a group in Outlook](https://support.microsoft.com/office/e147fc19-f548-4cd2-834f-80c6235b7c36).</span></span>  
+<span data-ttu-id="71b83-103">Hãy đảm bảo rằng tất cả các thành viên nhóm đã đăng ký nhận email.</span><span class="sxs-lookup"><span data-stu-id="71b83-103">Make sure that all group members have subscribed to receive the emails.</span></span> <span data-ttu-id="71b83-104">Xem [theo dõi một nhóm trong Outlook](https://support.microsoft.com/office/e147fc19-f548-4cd2-834f-80c6235b7c36).</span><span class="sxs-lookup"><span data-stu-id="71b83-104">See [Follow a group in Outlook](https://support.microsoft.com/office/e147fc19-f548-4cd2-834f-80c6235b7c36).</span></span>  
 
-<span data-ttu-id="fd62a-105">Để kiểm tra trạng thái thư của những thành viên đã đăng ký với email nhóm, hãy chạy lệnh sau đây trên [eXo PowerShell](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell?view=exchange-ps&preserve-view=true):</span><span class="sxs-lookup"><span data-stu-id="fd62a-105">To check the message status of members who have subscribed to group emails, run the following command on [EXO PowerShell](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell?view=exchange-ps&preserve-view=true):</span></span>
+<span data-ttu-id="71b83-105">Để kiểm tra trạng thái thư của những thành viên đã đăng ký với email nhóm, hãy chạy lệnh sau đây trên [eXo PowerShell](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell?view=exchange-ps&preserve-view=true):</span><span class="sxs-lookup"><span data-stu-id="71b83-105">To check the message status of members who have subscribed to group emails, run the following command on [EXO PowerShell](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell?view=exchange-ps&preserve-view=true):</span></span>
 
 `Get-UnifiedGroup <GroupName> | Get-UnifiedGroupLinks -LinkType Subscribers`
 
-<span data-ttu-id="fd62a-106">Sử dụng lệnh EXO PowerShell sau đây để cấu hình tất cả các thành viên nhóm để nhận email được gửi đến nhóm Microsoft 365 trong hộp thư đến của họ:</span><span class="sxs-lookup"><span data-stu-id="fd62a-106">Use the following EXO PowerShell command to configure all group members to receive emails sent to Microsoft 365 group in their inbox:</span></span>
+<span data-ttu-id="71b83-106">Sử dụng lệnh EXO PowerShell sau đây để cấu hình tất cả các thành viên nhóm để nhận email được gửi đến nhóm Microsoft 365 trong hộp thư đến của họ:</span><span class="sxs-lookup"><span data-stu-id="71b83-106">Use the following EXO PowerShell command to configure all group members to receive emails sent to Microsoft 365 group in their inbox:</span></span>
 
 `$Group = "Address of [Microsoft 365 Groups]"Get-UnifiedGroupLinks $Group -LinkType Member | % {Add-UnifiedGroupLinks -Identity $Group -LinkType subscriber -Links $_.Guid.toString() -Confirm:$false}`
+
+<span data-ttu-id="71b83-107">Ví dụ:</span><span class="sxs-lookup"><span data-stu-id="71b83-107">For example:</span></span>
+
+`$Group = "testg@contoso.onmicrosoft.com"Get-UnifiedGroupLinks $Group -LinkType Member | % {Add-UnifiedGroupLinks -Identity $Group -LinkType subscriber -Links $_.Guid.toString() -Confirm:$false}`
