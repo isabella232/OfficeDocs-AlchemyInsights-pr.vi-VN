@@ -13,12 +13,12 @@ ms.assetid: d0269461-20a8-4c9e-83b2-8fcf608dc0a5
 ms.custom:
 - "787"
 - "6200002"
-ms.openlocfilehash: b5cb2e8a76e8e7d91bd9cd8789ae1623a7f96579
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cc8c68a1e838f67c4510002b2c7ff5294a4649fe
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47689976"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50709020"
 ---
 # <a name="troubleshoot-issues-with-enrolling-android-devices-in-microsoft-intune"></a>Khắc phục sự cố với các thiết bị Android đăng ký trong Microsoft InTune
 
@@ -34,7 +34,7 @@ Một số vấn đề và giải pháp thông thường:
 
 2. Cập Nhật thiết bị lên Android 6,0 trở lên.
 
-3. Tắt trình quản lý thông minh Samsung từ quản lý cổng thông tin công ty InTune. Xem lại [tài liệu này](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune#devices-fail-to-check-in-with-the-intune-service-and-display-as-unhealthy-in-the-intune-admin-console) để biết thêm chi tiết về các sự cố và độ phân giải này.
+3. Tắt trình quản lý thông minh Samsung từ quản lý cổng thông tin công ty InTune. Xem lại [tài liệu này](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune#devices-fail-to-check-in-with-the-intune-service-and-display-as-unhealthy-in-the-intune-admin-console) để biết thêm chi tiết về các sự cố và độ phân giải này.
 
  Lỗi **người dùng nhập không hợp lệ** hoặc **tên người dùng không được nhận diện:** người dùng cần phải được giao một giấy phép InTune hoặc EMS. Xem lại các tài liệu này để gán giấy phép thông qua: Trung tâm quản trị Office hoặc cổng thông tin Azure.
   
@@ -42,6 +42,6 @@ Các tài nguyên bổ sung để giúp giải quyết sự cố của bạn:
   
 1. Sử dụng [cổng thông tin khắc phục sự cố InTune](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) để chẩn đoán và giải quyết các lỗi đăng ký thường gặp. Xem lại [tài liệu này](https://docs.microsoft.com/intune/help-desk-operators) để biết thêm chi tiết.
 
-2. Xem lại [tài liệu này](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) để biết danh sách các lỗi phổ biến ngăn chặn việc đăng ký và độ phân giải cho từng người.
+2. Xem lại [tài liệu này](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune) để biết danh sách các lỗi phổ biến ngăn chặn việc đăng ký và độ phân giải cho từng người.
 
 3. [Tìm hiểu cách đăng ký thiết bị Android trong Microsoft InTune](https://docs.microsoft.com/intune/android-enroll).

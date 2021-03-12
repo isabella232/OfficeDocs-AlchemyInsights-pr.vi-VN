@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7771"
 - "9004350"
-ms.openlocfilehash: ce17fdbda093dff6706762b6753f9cac889c3098
-ms.sourcegitcommit: e378232f4c9ef4e962208100db752221e7bd2dd6
+ms.openlocfilehash: 067e26184a5de81fe824c398d13659c41ed577c1
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 01/20/2021
-ms.locfileid: "49917221"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708588"
 ---
 # <a name="myapps-portal-issues"></a>Các sự cố về cổng thông tin MyApps
 
@@ -28,9 +28,9 @@ ms.locfileid: "49917221"
 
 Để biết hướng dẫn về việc tìm hiểu lý do tại sao các ứng dụng mà bạn mong đợi không xuất hiện trên Pa-nen truy nhập ứng dụng, hãy xem:
 
-- [Tôi không biết tại sao ứng dụng tôi đã gán không xuất hiện trên Panel Access](https://docs.microsoft.com/azure/active-directory/application-access-panel-unexpected-application-not-appearing/)
+- [Tôi không biết tại sao ứng dụng tôi đã gán không xuất hiện trên Panel Access](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel)
      
-- [Tôi không biết tại sao ứng dụng xuất hiện trên Pa-nen truy nhập](https://docs.microsoft.com/azure/active-directory/application-access-panel-unexpected-application-appears/)
+- [Tôi không biết tại sao ứng dụng xuất hiện trên Pa-nen truy nhập](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel)
 
 **Tôi đang gặp sự cố khi đăng nhập vào Pa-nen truy nhập ứng dụng**
 

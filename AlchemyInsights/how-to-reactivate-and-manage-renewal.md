@@ -14,12 +14,12 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: f2d3daba78f9f33bb17219b8987689d5992dcdbe
-ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
+ms.openlocfilehash: 9d5a05387a686b4e49c9ca14c7f5c6a76913fd23
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "48307076"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50709164"
 ---
 # <a name="how-to-reactivate-a-subscription-and-manage-recurring-billing"></a>Cách kích hoạt lại thuê bao và quản lý việc thanh toán định kỳ
 
@@ -30,7 +30,7 @@ Có vẻ như bạn đã có một thuê bao đã hết hạn. Nếu bạn muố
 3. Trong ngăn **kích hoạt lại gói đăng ký này** , hãy chọn một phương thức thanh toán từ danh sách thả xuống, hoặc chọn **Thêm phương thức thanh toán**.
 4. Chọn **lưu**.
 
-Để tìm hiểu thêm, hãy xem [kích hoạt lại đăng ký của bạn](https://docs.microsoft.com/microsoft-365/commerce/subscriptions-and-billing/reactivate-your-subscription).
+Để tìm hiểu thêm, hãy xem [kích hoạt lại đăng ký của bạn](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 Để quản lý thanh toán hàng tháng hoặc hàng năm, bạn có thể bật hoặc tắt **thanh toán định kỳ** .
   

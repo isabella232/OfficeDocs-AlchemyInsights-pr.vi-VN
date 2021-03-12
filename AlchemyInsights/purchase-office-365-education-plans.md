@@ -13,24 +13,24 @@ ms.custom:
 - "1500009"
 - "328"
 - "330"
-ms.openlocfilehash: 324b941f3814876ac28b37aa09737c861e68fe99
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 422823c3cf26570facecd408af3a9b43f578e029
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693433"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708804"
 ---
 # <a name="microsoft-365-for-education---approved"></a>Microsoft 365 dành cho giáo dục-được phê duyệt
 
 Bạn đã được phê duyệt cho Office 365 Education.  Để mua:
 
-1. Dẫn hướng **Billing**đến  >  [dịch vụ mua](https://portal.office.com/AdminPortal/Home#/catalog)thông tin thanh toán.
+1. Dẫn hướng đến  >  [dịch vụ mua](https://portal.office.com/AdminPortal/Home#/catalog)thông tin thanh toán.
 
 2. Chọn từ danh sách bên dưới các **gói giáo dục**.
 
 3. Di chuột qua đăng ký mà bạn muốn mua và bấm **mua ngay**.
 
-4. [Thiết lập đối tượng thuê giáo dục Microsoft 365 của bạn](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/set-up-office365-edu-tenant).
+4. [Thiết lập đối tượng thuê giáo dục Microsoft 365 của bạn](https://docs.microsoft.com/microsoft-365/education/deploy/create-your-office-365-tenant).
 
 **Bật các nhóm**
 

@@ -13,15 +13,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "7648"
-ms.openlocfilehash: cab6f1cb79c88ca4fad53dcc8970ca37b507eae3
-ms.sourcegitcommit: 2ffdf6096de5608b117c6677d3cd7dd4c23ea024
+ms.openlocfilehash: af09e8805409446a42a62c82aa577ad27f09a17a
+ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49722121"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "50733871"
 ---
 # <a name="11-call-recording"></a>bản ghi cuộc gọi 1:1
 
-1:1 gọi thay đổi chính sách ghi lại trong nhóm sắp ra mắt. Để biết thêm thông tin, hãy xem bài đăng Trung tâm thông báo sau đây:
+Người quản trị cần thực hiện hành động để tiếp tục cho phép người dùng ghi lại cuộc gọi 1:1.
+ 
+Bắt đầu từ ngày 12/04/2018, 2021, chúng tôi sẽ bắt đầu thực thi tùy chọn chính sách gọi nhóm mới trong *Allowcloudrecordingforcalls*. 
 
-[Giới thiệu về quy trình ghi âm 1:1 cuộc gọi](https://admin.microsoft.com/AdminPortal/Home)
+Hiện tại, các chức năng ghi cuộc gọi 1:1 được điều khiển bởi tùy chọn *Allowcloudrecording* trong chính sách cuộc họp nhóm. Nếu người dùng của bạn được phép ghi lại cuộc họp nhóm, họ cũng có thể ghi lại các cuộc gọi 1:1.
+
+Nếu bạn muốn chặn tất cả người dùng ghi lại cuộc gọi 1:1, bạn không cần thực hiện bất kỳ hành động nào. Tùy chọn chính sách gọi cho *Allowcloudrecordingforcalls* sẽ được $false theo mặc định.
+
+Thay đổi này được tài liệu trong bài đăng của Trung tâm thông báo sau: [(Cập Nhật) 1:1 gọi giới thiệu chính sách ghi âm](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter/:/messages/MC238796) để đặt tùy chọn chính sách gọi nhóm, bạn phải sử dụng [nhóm PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-install).
+
+**Để bật ghi cuộc gọi trong 1:1 cuộc gọi:** Set-CsTeamsCallingPolicy-căn cước cho các cuộc gọi toàn cầu-Allowcloudrecording$True
+
+**Để tắt tính năng ghi cuộc gọi trong 1:1 cuộc gọi:** Set-CsTeamsCallingPolicy-căn cước các cuộc gọi toàn cầu-allowcloudtheo $false
+
