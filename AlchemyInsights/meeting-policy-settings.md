@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000734"
 - "2657"
-ms.openlocfilehash: 683ca12c8f6e2511311c10ab5c4599ee66c08eb8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 24a55417df0f89063fbdd9ade6d104be4f8ab49c
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794356"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50704628"
 ---
 # <a name="manage-meeting-policies-in-microsoft-teams"></a>Quản lý chính sách cuộc họp trong nhóm Microsoft
 
@@ -30,6 +30,6 @@ Các chính sách cuộc họp được dùng để điều khiển các tính n
 - Để tìm hiểu về việc tạo chính sách, thực hiện thay đổi và gán người dùng vào chính sách, hãy xem [quản lý chính sách cuộc họp trong nhóm](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams).
 
 - Để thực hiện thay đổi chính sách bằng lệnh ghép ngắn PowerShell, hãy xem [tổng quan về các nhóm PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview). 
-    - Bạn cần sử dụng [mô-đun của Skype for Business PowerShell](https://www.microsoft.com/download/details.aspx?id=39366) cho các chính sách cuộc họp nhóm. 
+    - Bạn cần sử dụng [mô-đun của Skype for Business PowerShell](https://docs.microsoft.com/skypeforbusiness/set-up-your-computer-for-windows-powershell/download-and-install-the-skype-for-business-online-connector) cho các chính sách cuộc họp nhóm. 
     - Xem lại [tài liệu ngắn lệnh ghép ngắn *-csteamsmeetingđể](https://docs.microsoft.com/search/?search=CsTeamsMeetingPolicy&view=skype-ps) biết thêm thông tin.
 

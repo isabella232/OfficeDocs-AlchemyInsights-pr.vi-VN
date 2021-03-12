@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "2000023"
 - "3509"
-ms.openlocfilehash: e052c18eae035ff05c70a223f6d8a2eab875b2c9
-ms.sourcegitcommit: 57102d7daf32f370cab84dba342819a1ad5cb261
+ms.openlocfilehash: 3a42c221047e7be6a173694cd45136baa6bff39a
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48236111"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50704952"
 ---
 # <a name="unable-to-activate-office"></a>Không thể kích hoạt Office
 
 - Kiểm tra xem trạng thái đăng ký của bạn đã hết hạn chưa.
-- Đảm bảo bạn có thuê bao cho phép các giấy phép máy khách, chẳng hạn như Office 365 Business hoặc Business Premium và [đảm bảo người dùng có giấy phép được gán](https://docs.microsoft.com/microsoft-365/admin/subscriptions-and-billing/assign-licenses-to-users).
+- Đảm bảo bạn có thuê bao cho phép các giấy phép máy khách, chẳng hạn như Office 365 Business hoặc Business Premium và [đảm bảo người dùng có giấy phép được gán](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
 - Đảm bảo người dùng đăng nhập vào Office bằng cùng tài khoản có giấy phép được gán.
 - Hãy kiểm tra trang trạng thái [dịch vụ của Office 365](https://docs.microsoft.com/office365/enterprise/view-service-health) để xem liệu có bất kỳ vấn đề nào đã biết với dịch vụ hay không.
 - Kiểm tra tường lửa, phần mềm chống vi-rút và thiết đặt proxy để xác nhận rằng họ không ngăn chặn việc truy nhập ứng dụng Microsoft 365 vào Internet. Vui lòng xem các [URL của Office 365 và dải địa chỉ IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges "URL và dải địa chỉ IP của Office 365").
