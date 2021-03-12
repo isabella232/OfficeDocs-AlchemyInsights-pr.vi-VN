@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom:
 - "1737"
 - "9000181"
-ms.openlocfilehash: 8f316ad92ff31e28c3b3ffd25f25bd03ee159380
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fb05213b7b1efecbabc3e25f6c4587b0d303f783
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47715187"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707256"
 ---
 # <a name="auto-apply-sensitivity-labels"></a>Tự động áp dụng nhãn nhạy cảm
 
@@ -37,4 +37,4 @@ Hiện tại, chỉ Windows hỗ trợ máy khách gắn nhãn hợp nhất.  T�
 Để biết thêm thông tin về nhãn nhạy cảm và áp dụng chúng tự động cho nội dung, hãy xem:
 
 - [Tổng quan về nhãn nhạy cảm](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
-- [Áp dụng nhãn nhạy cảm cho nội dung tự động](https://docs.microsoft.com/office365/securitycompliance/apply_sensitivity_label_automatically)
+- [Áp dụng nhãn nhạy cảm cho nội dung tự động](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)

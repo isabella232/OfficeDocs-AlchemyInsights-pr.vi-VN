@@ -13,12 +13,12 @@ ms.custom:
 - "1241"
 - "3200001"
 ms.assetid: f6fcf5ad-55a1-4f25-af27-1f7c1ce06409
-ms.openlocfilehash: 0ed893420b5813d5d18639c2c226c12f0306a13f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0f07e64c95675a4f6a0aeb6df110fe4e6a21d72f
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679715"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707832"
 ---
 # <a name="dlp-not-working-as-expected"></a>Không hoạt động như mong đợi
 
@@ -28,7 +28,7 @@ ms.locfileid: "47679715"
 
 Bạn gặp sự cố với việc **ngăn ngừa mất dữ liệu (** tiềm tàng) trong Office 365 không hoạt động như mong đợi? Nếu vậy, hãy đảm bảo rằng **chính sách** của bạn được thiết lập đúng cách và dữ liệu của bạn có chứa nội **dung có thể** đang tìm kiếm khi nó đang được đánh giá hay không.
   
-Các chính sách có thể cho phép bạn xác định và bảo vệ thông tin nhạy cảm trong tổ chức của bạn. Để thiết lập chính sách đã có thể, hãy sử dụng thông tin [tại đây](https://docs.microsoft.com/office365/securitycompliance/prevent-data-loss#set-up-dlp).
+Các chính sách có thể cho phép bạn xác định và bảo vệ thông tin nhạy cảm trong tổ chức của bạn. Để thiết lập chính sách đã có thể, hãy sử dụng thông tin [tại đây](https://docs.microsoft.com/microsoft-365/compliance/create-a-dlp-policy-from-a-template).
   
  **Giao diện chính sách nào cho**
   

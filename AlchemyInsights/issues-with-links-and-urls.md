@@ -3,7 +3,7 @@ title: Các vấn đề với liên kết và URL
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 01/15/2021
+ms.date: 02/25/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7720"
 - "9004329"
-ms.openlocfilehash: 24885d873d6471a72ae66581ad1ceb0a19b664f7
-ms.sourcegitcommit: 029c4697b77ce996d41ca74c4fa86de1bb84bd99
+ms.openlocfilehash: f682afc2006957a83d02973d28e2a07ee63ac888
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974759"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707904"
 ---
 # <a name="issues-with-links-and-urls"></a>Các vấn đề với liên kết và URL
 
@@ -31,7 +31,7 @@ URL chuyển hướng/trả lời (cả hai biểu thức đều có thể hoán
 
 Khi bạn đăng nhập bằng ứng dụng bạn đang phát triển, nếu hộp thoại đăng nhập Hiển thị **AADSTS50011: URL trả lời được xác định trong yêu cầu không khớp với URL trả lời được <your app ID> cấu hình cho ứng dụng**, bạn sẽ cần phải thêm vào đăng ký ứng dụng của mình, URI chuyển hướng mà mã của bạn được sử dụng trong yêu cầu mã thông báo đến nền tảng Microsoft Identity.
 
-Để thêm URL trả lời, hãy đi đến tab **xác thực** trong trang **đăng ký ứng dụng** của bạn trong cổng thông tin Azure và thêm một mục nhập trong phần **chuyển hướng URIs** . Chuyển hướng URIs được nhập (web hoặc di động/máy tính bàn). Giá trị bạn cần nhập tùy thuộc vào loại ứng dụng mà bạn đang xây dựng, như được mô tả dưới đây:
+Để thêm URL trả lời, hãy đi đến tab **xác thực** trong trang **đăng ký ứng dụng** của bạn trong cổng thông tin Azure và thêm một mục nhập trong phần **chuyển hướng URIs** . Giá trị bạn cần nhập tùy thuộc vào loại ứng dụng mà bạn đang xây dựng, như được mô tả dưới đây:
 
 - Đối với các ứng dụng trang đơn và ứng dụng web, URL trả lời là một URL trong ứng dụng của bạn. Xem [đăng ký ứng dụng trang đơn](https://docs.microsoft.com/azure/active-directory/develop/scenario-spa-app-registration#register-a-redirect-uri) hoặc [đăng ký ứng dụng Web App bằng cách dùng Azure Portal](https://docs.microsoft.com/azure/active-directory/develop/scenario-web-app-sign-user-app-registration?tabs=aspnetcore#register-an-app-using-azure-portal)
 - Đối với các ứng dụng trên máy tính, giá trị mà bạn cần chọn tùy thuộc vào:

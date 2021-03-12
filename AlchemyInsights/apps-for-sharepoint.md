@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003051"
 - "5796"
-ms.openlocfilehash: 5a8e374705d1d42bda96010e316859e801c234ed
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 19010179dd7e40139678ea3eaf7baae237d304f2
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47716483"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707364"
 ---
 # <a name="install-sharepoint-apps"></a>Cài đặt ứng dụng SharePoint
 
@@ -28,4 +28,4 @@ ms.locfileid: "47716483"
 -   [Cấu hình các thiết đặt lưu trữ SharePoint](https://docs.microsoft.com/sharepoint/configure-sharepoint-store-settings)  cho bất kỳ ứng dụng nào, hãy chỉ định xem liệu người dùng có thể nhận được ứng dụng từ SharePoint Store hay không.
 -   Nếu bạn gặp phải sự cố với ứng dụng, bạn có thể tìm cách  [loại bỏ](https://support.microsoft.com/office/03198d1b-c33b-498d-9469-af641a587d6c)  và  [thêm lại](https://support.microsoft.com/office/ef9c0dbd-7fe1-4715-a1b0-fe3bc81317cb)  các ứng dụng.
 
-Để biết thêm thông tin, hãy xem  [Thêm ứng dụng vào site](https://support.microsoft.com/office/f9c0dbd-7fe1-4715-a1b0-fe3bc81317cb).
+Để biết thêm thông tin, hãy xem  [Thêm ứng dụng vào site](https://support.microsoft.com/office/add-an-app-to-a-site-ef9c0dbd-7fe1-4715-a1b0-fe3bc81317cb).

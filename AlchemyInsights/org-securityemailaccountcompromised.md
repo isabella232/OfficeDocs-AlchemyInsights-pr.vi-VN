@@ -11,18 +11,18 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: 423
 ms.assetid: f93a7a44-0cdf-4387-b428-53e1a48f63ce
-ms.openlocfilehash: 94d8eec4f10e3df5ccdd891b7ae12c97bbb4d594
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: dd03c7549cf7669f79a84ba7227239b8e6e73103
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47724421"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707652"
 ---
 # <a name="compromised-email-accounts"></a>Tài khoản email bị xâm phạm
 
 Có một số bước bạn có thể thực hiện để giúp nâng cao tính bảo mật trong tổ chức của bạn:
 
-- **Bật xác thực đa yếu tố (MFA)**: nếu một tài khoản đã bị xâm phạm, hãy đặt lại mật khẩu theo sau khi bật MFA là một cách tốt để giúp đảm bảo nó không xảy ra lần nữa. Nếu tài khoản bị xâm đã được dùng để gửi thư rác, bạn có thể bị chặn gửi email (ngay cả sau khi bạn thực hiện các bước để bảo vệ nó). Để loại bỏ người dùng khỏi danh sách chặn, hãy xem [chủ đề này](https://technet.microsoft.com/library/ms.exch.eac.actioncenter.aspx).
+- **Bật xác thực đa yếu tố (MFA)**: nếu một tài khoản đã bị xâm phạm, hãy đặt lại mật khẩu theo sau khi bật MFA là một cách tốt để giúp đảm bảo nó không xảy ra lần nữa. Nếu tài khoản bị xâm đã được dùng để gửi thư rác, bạn có thể bị chặn gửi email (ngay cả sau khi bạn thực hiện các bước để bảo vệ nó). Để loại bỏ người dùng khỏi danh sách chặn, hãy xem [sử dụng cổng thông tin delist để loại bỏ mình khỏi danh sách người gửi bị chặn](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-the-delist-portal-to-remove-yourself-from-the-office-365-blocked-senders-lis).
 
 - **Chạy số điểm bảo mật của Office 365**: điểm bảo mật có phân tích chi tiết về các thiết đặt bảo mật trong tổ chức của bạn và cung cấp các đề xuất để giúp bảo mật hơn.
 
