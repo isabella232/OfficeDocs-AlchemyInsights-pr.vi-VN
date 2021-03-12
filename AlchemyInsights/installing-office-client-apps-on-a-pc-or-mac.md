@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002427"
 - "4711"
-ms.openlocfilehash: 38ff075c86d10cc88ab081701bf443446ba98984
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ff77c25446abf88c49bb6edaad235d909d35ed64
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667864"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708372"
 ---
 # <a name="installing-office-client-apps-on-a-pc-or-mac"></a>Cài đặt các ứng dụng máy khách Office trên PC hoặc máy MAC
 
 Để cài đặt các ứng dụng máy khách Office, hãy đảm bảo bạn có thuê bao Office 365 hoặc Microsoft 365 [bao gồm các ứng dụng máy khách Office](https://support.office.com/article/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e), ví dụ: Microsoft 365 Business Standard, Microsoft 365 Apps for Business hoặc Microsoft 365 Apps for Enterprise.
 
-**Lưu ý**: [Office Home and Business](https://products.office.com/home-and-business) là một sản phẩm [Office dành cho gia đình](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) và không phải là một phần của đăng ký kinh doanh. Project Online Essentials không bao gồm phiên bản trên máy tính của Project, do đó, không cần cài đặt. Lập kế hoạch Visio 1 người dùng có thể truy nhập Visio cho web, như kế hoạch không bao gồm ứng dụng Visio trên máy tính. Các ứng dụng của Project và Visio trên máy tính không sẵn dùng trên máy Mac.
+**Lưu ý**: [Office Home and Business](https://support.microsoft.com/office/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e) là một sản phẩm [Office dành cho gia đình](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) và không phải là một phần của đăng ký kinh doanh. Project Online Essentials không bao gồm phiên bản trên máy tính của Project, do đó, không cần cài đặt. Lập kế hoạch Visio 1 người dùng có thể truy nhập Visio cho web, như kế hoạch không bao gồm ứng dụng Visio trên máy tính. Các ứng dụng của Project và Visio trên máy tính không sẵn dùng trên máy Mac.
 
 Nếu bạn có thuê bao bao gồm các ứng dụng Microsoft 365, bạn sẽ không nhìn thấy một tùy chọn để cài đặt nó trừ khi bạn có [giấy phép đã gán](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home). Nếu bạn là người quản trị Office 365 chịu trách nhiệm gán giấy phép, hãy xem mục [gán giấy phép cho người dùng](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home). Ngoài ra, hãy sử dụng [thiết đặt tải xuống phần mềm Office](https://docs.microsoft.com/DeployOffice/manage-software-download-settings-office-365) để chọn việc người dùng có thể cài đặt các ứng dụng Office trên thiết bị của riêng họ không.
 
