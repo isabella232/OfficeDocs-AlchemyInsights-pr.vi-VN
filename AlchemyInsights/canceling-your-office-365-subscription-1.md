@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "53"
 - "1400001"
-ms.openlocfilehash: 93c427346271d9c730f0e5f03aee4736d1d07f06
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 3d02536c6f7ff4411e0f5270209924c7e38a1c13
+ms.sourcegitcommit: 67f738193433cafc83dade2ac11b125af48a28c0
 ms.translationtype: MT
 ms.contentlocale: vi-VN
 ms.lasthandoff: 03/19/2021
-ms.locfileid: "50896925"
+ms.locfileid: "50931670"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>Hủy đăng ký Microsoft 365 của bạn?
 
@@ -30,3 +30,5 @@ Chúng tôi rất tiếc khi thấy bạn đi, đây là các bước để hủ
 4. Chọn **lưu**.
 
 Để tìm hiểu thêm về việc hủy bỏ đăng ký hoặc tùy chọn, hãy xem [hủy bỏ đăng ký của bạn](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+
+Nếu bạn muốn tiếp tục sử dụng thuê bao của mình trong khoảng thời gian dùng thử của mình, bạn có thể tắt tính năng thanh toán định kỳ cho đăng ký. Để tìm hiểu cách, hãy xem gia [hạn Microsoft 365 dành cho doanh nghiệp](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription).
