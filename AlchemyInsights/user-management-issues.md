@@ -1,0 +1,57 @@
+---
+title: Các vấn đề về quản lý người dùng
+ms.author: v-smandalika
+author: v-smandalika
+manager: dansimp
+ms.date: 03/19/2021
+audience: Admin
+ms.topic: article
+ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom:
+- "9209"
+- "9005371"
+ms.openlocfilehash: 4b61686381de0cafa38857ca7a96b3a81aa191ec
+ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.translationtype: MT
+ms.contentlocale: vi-VN
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "51037514"
+---
+# <a name="user-management-issues"></a><span data-ttu-id="b4b88-102">Các vấn đề về quản lý người dùng</span><span class="sxs-lookup"><span data-stu-id="b4b88-102">User management issues</span></span>
+
+<span data-ttu-id="b4b88-103">**Điều gì xảy ra đối với người dùng hiện tại được gán cho ứng dụng nếu tôi vô hiệu hóa việc gán người dùng thuộc tính ' bắt buộc ' (đặt thuộc tính này thành không)?**</span><span class="sxs-lookup"><span data-stu-id="b4b88-103">**What happens to current assigned users to the application if I disable the property ‘User assignment required’ (set this property to No)?**</span></span>
+
+<span data-ttu-id="b4b88-104">Vô hiệu hóa việc **gán yêu cầu người dùng** không ảnh hưởng đến người dùng hiện đang được gán.</span><span class="sxs-lookup"><span data-stu-id="b4b88-104">Disabling **User assignment required** does NOT affect the currently assigned users.</span></span> <span data-ttu-id="b4b88-105">Việc vô hiệu hóa thuộc tính này sẽ chỉ cho phép tất cả người dùng truy nhập vào ứng dụng.</span><span class="sxs-lookup"><span data-stu-id="b4b88-105">Disabling this property will only allow all users to access the application.</span></span> <span data-ttu-id="b4b88-106">Tất cả người dùng được liệt kê và những người dùng đó được gán cho các nhóm trong ứng dụng sẽ vẫn có hiệu lực.</span><span class="sxs-lookup"><span data-stu-id="b4b88-106">All the listed users and those users assigned to groups in the application will still be valid.</span></span>
+
+- <span data-ttu-id="b4b88-107">Để hạn chế ứng dụng của bạn cho một tập hợp người dùng cụ thể, hãy xem- [hạn chế ứng dụng AZURE AD cho một tập hợp người dùng-nền tảng Microsoft Identity | ](https://docs.microsoft.com/azure/active-directory/develop/howto-restrict-your-app-to-a-set-of-users#:~:text=Select%20the%20application%20you%20want%2cand%20set%20it%20to%20Yes.)Tài liệu Microsoft.</span><span class="sxs-lookup"><span data-stu-id="b4b88-107">To restrict your app to specific set of users, see - [Restrict Azure AD app to a set of users - Microsoft identity platform | Microsoft Docs](https://docs.microsoft.com/azure/active-directory/develop/howto-restrict-your-app-to-a-set-of-users#:~:text=Select%20the%20application%20you%20want%2cand%20set%20it%20to%20Yes.).</span></span>
+- <span data-ttu-id="b4b88-108">Để gán người dùng và nhóm, đến các ứng dụng doanh nghiệp trong Azure Active Directory (Azure AD), từ trong cổng thông tin Azure hoặc bằng cách sử dụng PowerShell, hãy xem [quản lý việc gán người dùng cho một ứng dụng trong Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/assign-user-or-group-access-portal).</span><span class="sxs-lookup"><span data-stu-id="b4b88-108">To assign users and groups, to enterprise applications in Azure Active Directory (Azure AD), either from within the Azure portal or by using PowerShell, see [Manage user assignment for an app in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/assign-user-or-group-access-portal).</span></span>
+- <span data-ttu-id="b4b88-109">Để tạo và quyền quản lý ứng dụng đại diện, hãy xem mục [quyền quản trị ứng dụng đại diện-AZURE AD | ](https://docs.microsoft.com/azure/active-directory/roles/delegate-app-roles)Tài liệu Microsoft.</span><span class="sxs-lookup"><span data-stu-id="b4b88-109">To delegate Application creation and management permissions, see [Delegate application management administrator permissions - Azure AD | Microsoft Docs](https://docs.microsoft.com/azure/active-directory/roles/delegate-app-roles).</span></span>
+- <span data-ttu-id="b4b88-110">**Ẩn các ứng dụng doanh nghiệp cụ thể từ người dùng** -dùng các bước sau đây để ẩn tất cả các ứng dụng Microsoft 365 từ Pa-nen **Myapps** .</span><span class="sxs-lookup"><span data-stu-id="b4b88-110">**Hide specific enterprise apps from users** - Use the following steps to hide all Microsoft 365 apps from the **MyApps** panel.</span></span> <span data-ttu-id="b4b88-111">Các ứng dụng sẽ vẫn hiển thị trong cổng thông tin Office 365.</span><span class="sxs-lookup"><span data-stu-id="b4b88-111">The apps will still be visible in the Office 365 portal.</span></span>
+
+ 1. <span data-ttu-id="b4b88-112">Đăng nhập vào cổng thông tin Azure với tư cách là người quản trị toàn cầu cho thư mục của bạn.</span><span class="sxs-lookup"><span data-stu-id="b4b88-112">Sign-in to the Azure portal as a global administrator for your directory.</span></span> 
+ 2. <span data-ttu-id="b4b88-113">Chọn **Azure Active Directory**.</span><span class="sxs-lookup"><span data-stu-id="b4b88-113">Select **Azure Active Directory**.</span></span> 
+ 3. <span data-ttu-id="b4b88-114">Chọn **người dùng**.</span><span class="sxs-lookup"><span data-stu-id="b4b88-114">Select **Users**.</span></span> 
+ 4. <span data-ttu-id="b4b88-115">Chọn **thiết đặt người dùng**.</span><span class="sxs-lookup"><span data-stu-id="b4b88-115">Select **User settings**.</span></span> 
+ 5. <span data-ttu-id="b4b88-116">Bên dưới **ứng dụng doanh nghiệp**, hãy bấm **quản lý cách người dùng cuối khởi động và xem các ứng dụng của họ**.</span><span class="sxs-lookup"><span data-stu-id="b4b88-116">Under **Enterprise applications**, click **Manage how end users launch and view their applications**.</span></span> 
+ 6. <span data-ttu-id="b4b88-117">Đối với **người dùng chỉ có thể xem các ứng dụng office 365 trong cổng thông tin office 365**, bấm **có**.</span><span class="sxs-lookup"><span data-stu-id="b4b88-117">For **Users can only see Office 365 apps in the Office 365 portal**, click **Yes**.</span></span> 
+ 7. <span data-ttu-id="b4b88-118">Bấm vào **Lưu**.</span><span class="sxs-lookup"><span data-stu-id="b4b88-118">Click **Save**.</span></span> 
+ 8. <span data-ttu-id="b4b88-119">Để biết thêm chi tiết, hãy xem [ẩn ứng dụng doanh nghiệp từ trải nghiệm của người dùng trong AZURE AD | ](https://docs.microsoft.com/azure/active-directory/manage-apps/hide-application-from-user-portal#:~:text=%20Hide%20an%20application%20from%20the%20end%20user,6%20Click%20Properties.%207%20Click%20Save.%20See%20More.)Tài liệu Microsoft</span><span class="sxs-lookup"><span data-stu-id="b4b88-119">For more details, see [Hide an Enterprise application from user's experience in Azure AD | Microsoft Docs](https://docs.microsoft.com/azure/active-directory/manage-apps/hide-application-from-user-portal#:~:text=%20Hide%20an%20application%20from%20the%20end%20user,6%20Click%20Properties.%207%20Click%20Save.%20See%20More.)</span></span>
+
+- <span data-ttu-id="b4b88-120">Nếu bạn cung cấp một phần mềm như một ứng dụng dịch vụ (SaaS) cho nhiều tổ chức, bạn có thể cấu hình ứng dụng của bạn để chấp nhận đăng nhập từ bất kỳ đối tượng thuê Azure Active Directory (Azure AD).</span><span class="sxs-lookup"><span data-stu-id="b4b88-120">If you offer a Software as a Service (SaaS) app to many organizations, you can configure your app to accept sign-ins from any Azure Active Directory (Azure AD) tenant.</span></span> <span data-ttu-id="b4b88-121">Cấu hình này được gọi là "làm cho ứng dụng nhiều đối tượng thuê của bạn".</span><span class="sxs-lookup"><span data-stu-id="b4b88-121">This configuration is called "making your application multi-tenant".</span></span> <span data-ttu-id="b4b88-122">Người dùng trong mọi đối tượng thuê Azure AD sẽ có thể đăng nhập vào ứng dụng của bạn sau khi đồng ý với việc sử dụng tài khoản của bạn với ứng dụng của bạn.</span><span class="sxs-lookup"><span data-stu-id="b4b88-122">Users in any Azure AD tenant will be able to sign-in to your app after consenting to use their account with your app.</span></span> <span data-ttu-id="b4b88-123">Để biết thêm thông tin, hãy xem mục [xây dựng các ứng dụng đăng nhập vào AZURE AD users-Microsoft Identity Platform | ](https://docs.microsoft.com/azure/active-directory/develop/howto-convert-app-to-be-multi-tenant)Tài liệu Microsoft.</span><span class="sxs-lookup"><span data-stu-id="b4b88-123">For more information, see [Build apps that sign in Azure AD users - Microsoft identity platform | Microsoft Docs](https://docs.microsoft.com/azure/active-directory/develop/howto-convert-app-to-be-multi-tenant).</span></span>
+
+- <span data-ttu-id="b4b88-124">**Làm thế nào để người dùng cuối có thể truy nhập vào ứng dụng sau khi gán cho ứng dụng này?**</span><span class="sxs-lookup"><span data-stu-id="b4b88-124">**How can an end user access the application once he/she is assigned to the application?**</span></span>
+
+<span data-ttu-id="b4b88-125">Mỗi ứng dụng trong lưỡi ứng dụng Enterprise đều có liên kết cho người dùng cuối truy nhập.</span><span class="sxs-lookup"><span data-stu-id="b4b88-125">Each app in Enterprise application blade has a link for end users to access.</span></span> <span data-ttu-id="b4b88-126">Người dùng cũng có thể truy nhập ứng dụng thông qua cổng thông tin **Myapps** theo một cách dễ dàng.</span><span class="sxs-lookup"><span data-stu-id="b4b88-126">Users can also access the app through **Myapps** portal in an easy way.</span></span>
+
+- <span data-ttu-id="b4b88-127">**Bạn muốn biết những ứng dụng và loại ứng dụng nào đang được người dùng sử dụng?**</span><span class="sxs-lookup"><span data-stu-id="b4b88-127">**Want to know which applications and type of applications are being used by users?**</span></span>
+
+<span data-ttu-id="b4b88-128">Bạn có thể tải xuống các báo cáo đăng nhập trong vòng 30 ngày kể từ **portal.azure.com > Azure Active directory> đăng ký> báo cáo tải xuống**.</span><span class="sxs-lookup"><span data-stu-id="b4b88-128">You can download sign-in reports for the last 30 days from **portal.azure.com > Azure Active directory> Signins> download reports**.</span></span>
+
+- <span data-ttu-id="b4b88-129">Tìm hiểu cách [cấp sự đồng ý người quản trị toàn bộ đối tượng thuê cho một ứng dụng](https://docs.microsoft.com/azure/active-directory/manage-apps/grant-admin-consent) và [cấu hình cách người dùng cuối đồng ý với các ứng dụng](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-user-consent).</span><span class="sxs-lookup"><span data-stu-id="b4b88-129">Learn how to [Grant tenant wide admin consent to an application](https://docs.microsoft.com/azure/active-directory/manage-apps/grant-admin-consent) and [Configure how end users consent to applications](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-user-consent).</span></span>
+
+- <span data-ttu-id="b4b88-130">Hiểu [cách đồng ý công việc](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent) và [quản lý sự đồng ý với các ứng dụng](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-consent-requests).</span><span class="sxs-lookup"><span data-stu-id="b4b88-130">Understand [how consent works](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent) and [Manage consent to applications](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-consent-requests).</span></span>
+
+
