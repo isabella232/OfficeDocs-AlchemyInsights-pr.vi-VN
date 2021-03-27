@@ -13,12 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003844"
 - "6893"
-ms.openlocfilehash: c5d71c26ba3584f8ce496a28587fe75cae2d344f
-ms.sourcegitcommit: 94036315916fbc79dca2a692c2e9bc1139dd28f6
+- "8332"
+- "9004625"
+ms.openlocfilehash: f380d09dc14788205638cdee6aebe0b084ecab2f
+ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49678844"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "51398679"
 ---
 # <a name="sign-in-to-microsoft-edge-manually"></a>Đăng nhập vào Microsoft Edge theo cách thủ công
 
