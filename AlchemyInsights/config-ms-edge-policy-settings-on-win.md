@@ -12,13 +12,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003845"
+- "9004632"
 - "6894"
-ms.openlocfilehash: 7f626152c3833638436dfe05e8dcd13fc86ef594
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "8358"
+ms.openlocfilehash: e9bb489b4d8ecd76fd777ade9fb740ecad542900
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583750"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51402397"
 ---
 # <a name="configure-microsoft-edge-policy-settings-on-windows"></a>Cấu hình các thiết đặt chính sách của Microsoft Edge trên Windows
 
@@ -26,7 +28,7 @@ ms.locfileid: "49583750"
 
 Để đặt cấu hình cho Microsoft Edge bằng cách dùng GPOs, hãy làm như sau:
 
-1. Đến cửa hàng chính sách Trung tâm nhóm trong miền Active Directory của bạn hoặc đến thư mục mẫu định nghĩa chính sách trên các máy tính cá nhân, hãy cài đặt tất cả các mẫu quản trị để thêm quy tắc và thiết đặt cho Microsoft Edge.
+1. Đi tới cửa hàng chính sách Trung tâm nhóm trong miền Active Directory của bạn hoặc đến thư mục mẫu định nghĩa chính sách trên các máy tính cá nhân, cài đặt tất cả các mẫu quản trị để thêm quy tắc và thiết đặt cho Microsoft Edge.
 2. Cấu hình các chính sách cụ thể mà bạn muốn đặt.
 
 Để tìm hiểu thêm, hãy xem đặt [cấu hình thiết đặt chính sách của Microsoft Edge trên Windows](https://go.microsoft.com/fwlink/?linkid=2135024).

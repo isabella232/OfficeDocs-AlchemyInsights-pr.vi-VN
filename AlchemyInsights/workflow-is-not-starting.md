@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000144"
 - "1670"
-ms.openlocfilehash: e3b8777ed74b812b31338784999eea43a95d3456
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e69f3e529e4a2202f641cb62f42b1a20d774a398
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794789"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51403765"
 ---
 # <a name="workflow-is-not-starting"></a>Không bắt đầu dòng công việc
 
 - Dòng công việc SharePoint 2010 và dòng công việc SharePoint 2013 không bắt đầu.
 
-    - Nếu dòng công việc của bạn không bắt đầu, có thể có sự cố dịch vụ tạm thời mà người dùng có thể gặp phải sự chậm trễ với dòng công việc. Kiểm tra [bảng điều khiển trạng thái dịch vụ](https:/admin.microsoft.com/AdminPortal/Home#/servicehealth) để xem liệu tổ chức của bạn có bị ảnh hưởng không.
+    - Nếu dòng công việc của bạn không bắt đầu, có thể có sự cố dịch vụ tạm thời mà người dùng có thể gặp phải sự chậm trễ với dòng công việc. Kiểm tra [bảng điều khiển trạng thái dịch vụ](https://admin.microsoft.com/AdminPortal/Home/servicehealth) để xem liệu tổ chức của bạn có bị ảnh hưởng không.
 
     - Nếu đã trôi qua 24 giờ kể từ lần đầu tiên bạn gặp sự cố này, vui lòng đăng nhập một vé hỗ trợ. Trong nhiều trường hợp, chúng tôi đã làm việc trên một giải pháp. Xin vui lòng cho chúng tôi ít nhất 24 giờ để hoàn tất một giải pháp.
 
@@ -47,5 +47,3 @@ ms.locfileid: "47794789"
 Bạn muốn thử Microsoft Flow trong SharePoint Online?
 - [Tạo dòng](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
 - [SharePoint và dòng](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
-
-
