@@ -12,15 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "1019"
 - "6000003"
-ms.openlocfilehash: 49ea7fdadc2cc241e85f47f68f07f610b7306648
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3a7b607adba78349309d8f2ceb067f0c7493905c
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47688860"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505450"
 ---
 # <a name="all-company-group"></a>Nhóm tất cả công ty
 
-Nhóm **tất cả công ty** được tạo tự động khi bạn tạo một mạng yammer. Đây là một nhóm hệ thống mặc định mà không thể đổi tên hoặc xóa. Mọi người có thể đăng lên nhóm **tất cả công ty** , nhưng chỉ có người quản trị mạng yammer có thể đăng thông báo đến nhóm. Sử dụng **Insights**để xem thông tin về sự tham gia trong nhóm **tất cả công ty** .
+Tất cả cộng đồng công ty hiện hỗ trợ các chức năng tương tự cho các cộng đồng khác trong yammer. Điều này bao gồm các tùy chọn như bìa ảnh và đặt tên. Cũng có thể hạn chế tất cả các bài đăng của công ty trong yammer. Để biết thêm thông tin, hãy xem [tất cả công ty hiện hoạt động như các cộng đồng yammer khác](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-all-company-yammer-community).
 
-Để biết thêm thông tin, hãy xem [quản lý nhóm trong yammer](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2).
+## <a name="common-issues-and-solutions"></a>Các sự cố và giải pháp phổ biến
+
+- Tất cả các tùy chỉnh của công ty hoặc hạn chế đăng không sẵn dùng đối với người quản trị mạng. Mở một yêu cầu dịch vụ để cho phép nhóm tất cả công ty hiện đại.
+
+- Insights for Search không hiển thị dữ liệu cũ. Bây giờ, tất cả công ty đều là một cộng đồng thực sự, dữ liệu trước đó cho mạng không được hiển thị.
+
+- Tất cả công ty đều có vẻ bị xóa. Khi cộng đồng được kết nối với nhóm Microsoft 365, nhóm này có thể bị xóa. Nhóm Microsoft 365 phải được khôi phục trong đối tượng thuê.
+

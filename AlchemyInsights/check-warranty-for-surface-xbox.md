@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9756"
 - "9005679"
-ms.openlocfilehash: 495b79a9328028fd4bddb3875aab085938603ff6
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: add41d938619c5744fbd08a15cd497ff2a41a486
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51036982"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505342"
 ---
 # <a name="check-the-warranty-status-for-a-surface-or-xbox-device"></a>Kiểm tra trạng thái bảo hành cho một thiết bị Surface hoặc Xbox
 
 Nếu bạn có một thiết bị Surface hoặc Xbox, bạn có thể sử dụng tài khoản Microsoft của bạn để kiểm tra bảo hành của bạn. Sau đây là cách làm:
 
-1. Đăng nhập vào tài khoản Microsoft của bạn. 
+1. Đăng nhập vào [tài khoản Microsoft](https://account.microsoft.com/devices/)của bạn. 
 
 1. Chọn thiết bị mà bạn muốn kiểm tra bảo hành.
 

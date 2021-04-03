@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1922"
 - "9000220"
-ms.openlocfilehash: 7c56e68cf303939d8e7d4ee0a7301e367ecfe9f9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8708ed76f6abe81582823c8af89db8fffef9a3c5
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47685908"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505090"
 ---
 # <a name="accessing-bitlocker-recovery-keys"></a>Truy nhập khóa phục hồi BitLocker
 
@@ -46,5 +46,6 @@ All Key Protectors
 Nếu thiết bị đã được mã hóa trước khi đăng ký trong InTune, khóa khôi phục có thể đã được liên kết với "tài khoản Microsoft" (MSA) được sử dụng để đăng nhập vào thiết bị trong quá trình OOBE. Nếu đó là trường hợp, hãy truy cập  https://onedrive.live.com/recoverykey và đăng nhập bằng MSA nên hiển thị các thiết bị mà các khóa phục hồi được lưu trữ.
  
 Nếu thiết bị đã được mã hóa là kết quả của việc cấu hình thông qua chính sách nhóm dựa trên tên miền, thông tin phục hồi có thể được lưu trữ trong Active Directory tại chỗ.
- 
+
+Nếu bạn đã cấu hình chính sách bảo vệ Endpoint để lưu trữ khóa phục hồi trong Azure Active Directory nhưng khóa cho một thiết bị cụ thể chưa được tải lên, bạn có thể kích hoạt tải lên bằng cách xoay khóa phục hồi cho thiết bị đó từ bảng điều khiển MEM. Để biết chi tiết, hãy xem [xoay phím phục hồi BitLocker](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#view-details-for-recovery-keys).
 
