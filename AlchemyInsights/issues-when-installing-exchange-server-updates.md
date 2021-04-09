@@ -12,15 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005482"
 - "9421"
-ms.openlocfilehash: 04daad34d1097da0039ac63a13f793a550b68414
-ms.sourcegitcommit: 13d96a612b67e01c725d5c2a5a0212d824031f6e
+ms.openlocfilehash: cc05469475c469691c0f09562f8362bc6f4a638d
+ms.sourcegitcommit: a5edaaefdc56f8d5c8220a335f4e8228e2de4ee0
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50696309"
+ms.lasthandoff: 04/08/2021
+ms.locfileid: "51645189"
 ---
-# <a name="issues-when-installing-exchange-server-updates"></a><span data-ttu-id="64a1e-102">Các vấn đề khi cài đặt bản cập nhật Exchange Server</span><span class="sxs-lookup"><span data-stu-id="64a1e-102">Issues when installing Exchange Server updates</span></span>
+# <a name="issues-when-installing-exchange-server-updates"></a><span data-ttu-id="0b422-102">Các vấn đề khi cài đặt bản cập nhật Exchange Server</span><span class="sxs-lookup"><span data-stu-id="0b422-102">Issues when installing Exchange Server updates</span></span>
 
-<span data-ttu-id="64a1e-103">Trước khi cài đặt các bản Cập Nhật máy chủ Exchange, hãy xem mục ' cách thực hành tốt nhất "của [Exchange nâng cấp bài viết vào bản Cập Nhật tích lũy mới nhất](https://docs.microsoft.com/Exchange/plan-and-deploy/install-cumulative-updates).</span><span class="sxs-lookup"><span data-stu-id="64a1e-103">Before installing Exchange Server updates, see the 'Best Practices' section of the article [Upgrade Exchange to the latest Cumulative Update](https://docs.microsoft.com/Exchange/plan-and-deploy/install-cumulative-updates).</span></span> <span data-ttu-id="64a1e-104">Nó đặc biệt quan trọng để cài đặt các bản Cập Nhật bằng lời nhắc CMD nâng cao (trừ khi các bản Cập Nhật được cài đặt thông qua Microsoft Update).</span><span class="sxs-lookup"><span data-stu-id="64a1e-104">It is especially important to install updates using the elevated CMD prompt (unless updates are installed through Microsoft Update).</span></span> <span data-ttu-id="64a1e-105">Điều này áp dụng cho cả bản Cập Nhật tích lũy và bảo mật!</span><span class="sxs-lookup"><span data-stu-id="64a1e-105">This applies to both Cumulative and Security updates!</span></span>
+<span data-ttu-id="0b422-103">Nếu bạn cần cập nhật lên bản Cập Nhật tích lũy mới nhất (CU) cho Exchange Server, bạn có thể dùng [https://aka.ms/ExchangeUpdateWizard](https://aka.ms/ExchangeUpdateWizard) để lấy một tập hợp các bước chi tiết để cập nhật từ cu hiện tại của bạn đến mục tiêu cu.</span><span class="sxs-lookup"><span data-stu-id="0b422-103">If you need to update to the latest Cumulative Update (CU) for Exchange Server, you can use [https://aka.ms/ExchangeUpdateWizard](https://aka.ms/ExchangeUpdateWizard) to get a detailed set of steps to update from your current CU to the target CU.</span></span>
 
-<span data-ttu-id="64a1e-106">Nếu bạn thấy lỗi khi cài đặt các bản Cập Nhật bảo mật hoặc sau khi cài đặt bản Cập Nhật, hãy xem [bài viết này về khắc phục sự cố cài đặt không](https://aka.ms/exupdatefaq)thành công.</span><span class="sxs-lookup"><span data-stu-id="64a1e-106">If you see errors when installing security updates or after update was installed, see [this article about troubleshooting failed installations](https://aka.ms/exupdatefaq).</span></span>
+<span data-ttu-id="0b422-104">Nếu có bất kỳ lỗi nào trong hoặc sau khi cài đặt các bản Cập Nhật máy chủ Exchange, hãy xem phần ' cách thực hành tốt nhất ' của [Exchange nâng cấp bài viết vào bản Cập Nhật tích lũy mới nhất](https://docs.microsoft.com/Exchange/plan-and-deploy/install-cumulative-updates).</span><span class="sxs-lookup"><span data-stu-id="0b422-104">If there are any errors during or after installation of Exchange Server updates, see the 'Best Practices' section of the article [Upgrade Exchange to the latest Cumulative Update](https://docs.microsoft.com/Exchange/plan-and-deploy/install-cumulative-updates).</span></span> <span data-ttu-id="0b422-105">Điều này rất quan trọng khi cài đặt các bản Cập Nhật bảo mật bằng lời nhắc CMD nâng cao (nếu các bản Cập Nhật không được cài đặt thông qua Microsoft Update).</span><span class="sxs-lookup"><span data-stu-id="0b422-105">It is very important to install security updates using the elevated CMD prompt (if updates are not installed through Microsoft Update).</span></span>
+
+<span data-ttu-id="0b422-106">Nếu bạn thấy lỗi khi cài đặt các bản Cập Nhật bảo mật hoặc sau khi cài đặt bản Cập Nhật, hãy xem mục [sửa chữa cài đặt không thành công của các bản Cập Nhật tích lũy Exchange và bảo mật](https://aka.ms/exupdatefaq).</span><span class="sxs-lookup"><span data-stu-id="0b422-106">If you see errors when installing security updates or after update was installed, see [Repair failed installations of Exchange Cumulative and Security updates](https://aka.ms/exupdatefaq).</span></span>
