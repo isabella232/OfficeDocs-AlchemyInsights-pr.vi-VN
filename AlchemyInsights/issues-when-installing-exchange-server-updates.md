@@ -12,15 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005482"
 - "9421"
-ms.openlocfilehash: 04daad34d1097da0039ac63a13f793a550b68414
-ms.sourcegitcommit: 13d96a612b67e01c725d5c2a5a0212d824031f6e
+ms.openlocfilehash: cc05469475c469691c0f09562f8362bc6f4a638d
+ms.sourcegitcommit: a5edaaefdc56f8d5c8220a335f4e8228e2de4ee0
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50696309"
+ms.lasthandoff: 04/08/2021
+ms.locfileid: "51645189"
 ---
 # <a name="issues-when-installing-exchange-server-updates"></a>Các vấn đề khi cài đặt bản cập nhật Exchange Server
 
-Trước khi cài đặt các bản Cập Nhật máy chủ Exchange, hãy xem mục ' cách thực hành tốt nhất "của [Exchange nâng cấp bài viết vào bản Cập Nhật tích lũy mới nhất](https://docs.microsoft.com/Exchange/plan-and-deploy/install-cumulative-updates). Nó đặc biệt quan trọng để cài đặt các bản Cập Nhật bằng lời nhắc CMD nâng cao (trừ khi các bản Cập Nhật được cài đặt thông qua Microsoft Update). Điều này áp dụng cho cả bản Cập Nhật tích lũy và bảo mật!
+Nếu bạn cần cập nhật lên bản Cập Nhật tích lũy mới nhất (CU) cho Exchange Server, bạn có thể dùng [https://aka.ms/ExchangeUpdateWizard](https://aka.ms/ExchangeUpdateWizard) để lấy một tập hợp các bước chi tiết để cập nhật từ cu hiện tại của bạn đến mục tiêu cu.
 
-Nếu bạn thấy lỗi khi cài đặt các bản Cập Nhật bảo mật hoặc sau khi cài đặt bản Cập Nhật, hãy xem [bài viết này về khắc phục sự cố cài đặt không](https://aka.ms/exupdatefaq)thành công.
+Nếu có bất kỳ lỗi nào trong hoặc sau khi cài đặt các bản Cập Nhật máy chủ Exchange, hãy xem phần ' cách thực hành tốt nhất ' của [Exchange nâng cấp bài viết vào bản Cập Nhật tích lũy mới nhất](https://docs.microsoft.com/Exchange/plan-and-deploy/install-cumulative-updates). Điều này rất quan trọng khi cài đặt các bản Cập Nhật bảo mật bằng lời nhắc CMD nâng cao (nếu các bản Cập Nhật không được cài đặt thông qua Microsoft Update).
+
+Nếu bạn thấy lỗi khi cài đặt các bản Cập Nhật bảo mật hoặc sau khi cài đặt bản Cập Nhật, hãy xem mục [sửa chữa cài đặt không thành công của các bản Cập Nhật tích lũy Exchange và bảo mật](https://aka.ms/exupdatefaq).
