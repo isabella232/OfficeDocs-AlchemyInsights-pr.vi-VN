@@ -13,12 +13,12 @@ ms.custom:
 - "9000701"
 - "3831"
 - "3832"
-ms.openlocfilehash: 023bb40e54a1f1a87f0b618d49a812fc9dfda971
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 893c8cacaf089932014ba7a3ea6122d17da38cdd
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47737039"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692416"
 ---
 # <a name="teams-common-issues-for-education-customers"></a>Các nhóm các vấn đề chung dành cho khách hàng giáo dục
 
@@ -46,7 +46,7 @@ Nếu bạn cần trợ giúp triển khai nhóm để hỗ trợ việc học t
     6. Trong Trung tâm quản trị Skype for Business, hãy bấm hội **thảo âm thanh** , rồi **người dùng**.
     7. Chọn người dùng trong câu hỏi và xác nhận người dùng có số điện thoại mặc định.
 
-    Để biết thêm thông tin, hãy tham khảo mục [gọi các gói](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) hoặc gọi cho nhóm thanh toán Microsoft Commerce để được trợ giúp với các câu hỏi về cấp phép có liên quan.
+    Để biết thêm thông tin, hãy tham khảo các [kế hoạch gọi nhóm Microsoft](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) hoặc gọi nhóm thanh toán Microsoft Commerce để được trợ giúp với các câu hỏi về cấp phép liên quan.
 
     Tài nguyên bổ sung
 

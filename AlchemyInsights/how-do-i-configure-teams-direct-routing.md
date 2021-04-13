@@ -13,16 +13,16 @@ ms.custom:
 - "1945"
 - "2659"
 - "9000321"
-ms.openlocfilehash: 7143fda9fc744375571e8b39dc281fbac2d17d46
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c001cc394088d977e5544551a44f6f765f35ce3c
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47704916"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692164"
 ---
-# <a name="phone-system-direct-routing-for-microsoft-teams"></a>Định tuyến trực tiếp hệ thống điện thoại cho nhóm Microsoft
+# <a name="direct-routing-for-microsoft-teams"></a>Định tuyến trực tiếp cho các nhóm Microsoft
 
-Xem lại các bài viết sau đây để tìm hiểu thêm về [định tuyến trực tiếp hệ thống điện thoại cho các nhóm Microsoft](https://docs.microsoft.com/MicrosoftTeams/direct-routing-landing-page): 
+Xem lại các bài viết sau đây để tìm hiểu thêm về [định tuyến trực tiếp cho các nhóm Microsoft](https://docs.microsoft.com/MicrosoftTeams/direct-routing-landing-page): 
 
 - [Lên kế hoạch định tuyến trực tiếp](https://docs.microsoft.com/MicrosoftTeams/direct-routing-plan)
 - [Cấu hình định tuyến trực tiếp](https://docs.microsoft.com/MicrosoftTeams/direct-routing-configure) 
