@@ -3,24 +3,28 @@ title: 665 là bạn nhận được quá nhiều phish hoặc thư rác trong h
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.audience: ITPro
+ms.date: 04/14/2021
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 665,2578
 ms.assetid: ''
-ms.openlocfilehash: 17b31d712ce6fdb36da8bbc2839c2b1df1de3cb4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4422ec5ca350dbb7608f936afa708887ce509ae3
+ms.sourcegitcommit: 1070c392bb32f0f9e660d9f156c10c212b5dfb50
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47700261"
+ms.lasthandoff: 04/14/2021
+ms.locfileid: "51767959"
 ---
-# <a name="are-you-receiving-too-much-phish-or-spam-in-your-mailbox"></a><span data-ttu-id="0ce07-102">Bạn có nhận được quá nhiều phish hoặc thư rác trong hộp thư của mình không?</span><span class="sxs-lookup"><span data-stu-id="0ce07-102">Are you receiving too much phish or spam in your mailbox?</span></span>
+# <a name="are-you-receiving-too-much-phish-or-spam-in-your-mailbox"></a><span data-ttu-id="7c2f2-102">Bạn có nhận được quá nhiều phish hoặc thư rác trong hộp thư của mình không?</span><span class="sxs-lookup"><span data-stu-id="7c2f2-102">Are you receiving too much phish or spam in your mailbox?</span></span>
 
-<span data-ttu-id="0ce07-103">Với tư cách là người quản trị Microsoft 365, cách tốt nhất để xác định tại sao thư lừa đảo qua mạng hoặc thư rác sẽ được chuyển phát là gửi mẫu đến [Microsoft trong trình](https://protection.office.com/reportsubmission)khám phá bản trình duyệt.</span><span class="sxs-lookup"><span data-stu-id="0ce07-103">As a Microsoft 365 admin, the best way to determine why a phishing or spam message was delivered is to submit the sample to Microsoft in [Submissions Explorer](https://protection.office.com/reportsubmission).</span></span> <span data-ttu-id="0ce07-104">Bạn sẽ nhận được thông tin phản hồi ngay lập tức liên quan đến thư lọc và lý do tại sao có vấn đề.</span><span class="sxs-lookup"><span data-stu-id="0ce07-104">You'll get immediate feedback related to message filtering and why there are issues.</span></span>
+> [!NOTE]
+> <span data-ttu-id="7c2f2-103">Bạn có thể truy nhập trung tâm bảo mật của Microsoft 365 tại [Security.Microsoft.com](https://security.microsoft.com).</span><span class="sxs-lookup"><span data-stu-id="7c2f2-103">You can access the Microsoft 365 security center at [security.microsoft.com](https://security.microsoft.com).</span></span>
 
-<span data-ttu-id="0ce07-105">Để thực hiện điều này, bạn có thể cho phép người dùng của bạn báo cáo trực tiếp đến Microsoft thông qua phần [bổ trợ tin nhắn báo cáo](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview).</span><span class="sxs-lookup"><span data-stu-id="0ce07-105">To make it easer, you can allow your users to report directly to Microsoft via the [Report Message add-in](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview).</span></span>
+<span data-ttu-id="7c2f2-104">Với tư cách là người quản trị Microsoft 365, cách tốt nhất để xác định tại sao thư lừa đảo qua mạng hoặc thư rác sẽ được chuyển phát là gửi mẫu đến [Microsoft trong trình](https://security.microsoft.com/reportsubmission)khám phá bản trình duyệt.</span><span class="sxs-lookup"><span data-stu-id="7c2f2-104">As a Microsoft 365 admin, the best way to determine why a phishing or spam message was delivered is to submit the sample to Microsoft in [Submissions Explorer](https://security.microsoft.com/reportsubmission).</span></span> <span data-ttu-id="7c2f2-105">Bạn sẽ nhận được thông tin phản hồi ngay lập tức liên quan đến thư lọc và lý do tại sao có vấn đề.</span><span class="sxs-lookup"><span data-stu-id="7c2f2-105">You'll get immediate feedback related to message filtering and why there are issues.</span></span>
 
-<span data-ttu-id="0ce07-106">**Bạn có biết không?**: bây giờ bạn có thể gửi mẫu trực tiếp từ theo [dõi thư](https://protection.office.com/messagetrace) và E5/ATP gói 2 khách hàng có thể gửi mẫu từ [mối đe dọa Explorer](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer).</span><span class="sxs-lookup"><span data-stu-id="0ce07-106">**Did you know?**: You can now submit samples directly from [Message trace](https://protection.office.com/messagetrace) and E5/ATP Plan 2 customers can submit samples from [Threat Explorer](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer).</span></span>
+<span data-ttu-id="7c2f2-106">Để thực hiện điều này, bạn có thể cho phép người dùng của bạn báo cáo trực tiếp đến Microsoft thông qua phần [bổ trợ tin nhắn báo cáo](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview).</span><span class="sxs-lookup"><span data-stu-id="7c2f2-106">To make it easer, you can allow your users to report directly to Microsoft via the [Report Message add-in](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview).</span></span>
+
+<span data-ttu-id="7c2f2-107">**Bạn có biết không?**: bây giờ bạn có thể gửi mẫu trực tiếp từ theo [dõi thư](https://security.microsoft.com/messagetrace) và E5/ATP gói 2 khách hàng có thể gửi mẫu từ [mối đe dọa Explorer](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer).</span><span class="sxs-lookup"><span data-stu-id="7c2f2-107">**Did you know?**: You can now submit samples directly from [Message trace](https://security.microsoft.com/messagetrace) and E5/ATP Plan 2 customers can submit samples from [Threat Explorer](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer).</span></span>
