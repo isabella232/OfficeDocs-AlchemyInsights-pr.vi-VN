@@ -2,7 +2,7 @@
 title: Nhận bản sao kê thanh toán của bạn trong email
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -13,12 +13,12 @@ ms.custom:
 - "1643"
 - "9000137"
 ms.assetid: fe76166c-afd2-4c99-b565-bc93ed6b84e3
-ms.openlocfilehash: 8bd05fe4876328e22bbd614a1e6b3ee95338c0ce
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5a4b6a5b7e1cff8f109af09009ba5887e8ab38a0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693289"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51789454"
 ---
 # <a name="receive-copy-of-your-billing-statement-in-email"></a>Nhận bản sao kê thanh toán của bạn trong email
 
@@ -30,6 +30,6 @@ Bạn có thể chọn để nhận bản sao của câu lệnh thanh toán dư�
 
 Để nhận bản kê thanh toán của bạn trong email:
   
-1. Trong Trung tâm quản trị, đi đến **Billing** \> trang [thông báo thanh](https://go.microsoft.com/fwlink/p/?linkid=853212) toán thanh toán.
+1. Trong Trung tâm quản trị, đi đến  \> trang [thông báo thanh](https://go.microsoft.com/fwlink/p/?linkid=853212) toán thanh toán.
 
 2. Bên dưới **nhận bản kê thanh toán dưới dạng tệp đính kèm email?**, hãy chuyển nút bật tắt sang **bật.** Bạn có thể ngừng nhận email tuyên bố thanh toán bất cứ lúc nào bằng cách chuyển nút bật tắt sang **tắt**.

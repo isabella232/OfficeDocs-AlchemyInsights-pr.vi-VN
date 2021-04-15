@@ -2,7 +2,7 @@
 title: Tìm hiểu về hóa đơn của bạn
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003554"
 - "6819"
-ms.openlocfilehash: 83d19b73f46a3634d67b7223f01aee8c036bec95
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: 58f775b89e574b03ad8d927c0952ad1c1d66243d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48808397"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51782713"
 ---
 # <a name="understand-billing-amount"></a>Tìm hiểu số tiền thanh toán
 
@@ -70,7 +70,7 @@ Không. Khách hàng có một số lượng cố định của các dịch vụ
 
 **Làm thế nào để tôi có thể xác minh các dịch vụ miễn phí đang hoạt động hoặc khi họ hết hạn?**
 
-Trong trang web Portal Ibiza> đăng ký > trang tổng quan > cuộn xuống đến các dịch vụ miễn phí trong 12 tháng và bấm vào biểu tượng thông tin. Điều này sẽ hiển thị ngày khi dịch vụ miễn phí hết hạn **ghi chú** : không có dịch vụ v1 là một phần của dịch vụ Azure miễn phí bao gồm. Để biết danh sách các dịch vụ miễn phí được cập nhật nhất, hãy xem [sản phẩm nào miễn phí trong 12 tháng](http://www.microsoftazuresponsorships.com/)
+Trong trang web Portal Ibiza> đăng ký > trang tổng quan > cuộn xuống đến các dịch vụ miễn phí trong 12 tháng và bấm vào biểu tượng thông tin. Điều này sẽ hiển thị ngày khi dịch vụ miễn phí hết hạn **ghi chú**: không có dịch vụ v1 là một phần của dịch vụ Azure miễn phí bao gồm. Để biết danh sách các dịch vụ miễn phí được cập nhật nhất, hãy xem [sản phẩm nào miễn phí trong 12 tháng](http://www.microsoftazuresponsorships.com/)
 
 Câu hỏi thường gặp: [tài khoản miễn phí câu hỏi thường gặp](https://azure.microsoft.com/free/free-account-faq/)
 

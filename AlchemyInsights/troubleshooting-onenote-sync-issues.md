@@ -2,7 +2,7 @@
 title: Khắc phục sự cố đồng bộ OneNote
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000555"
 - "2405"
-ms.openlocfilehash: 2dba7bf8e6d8293e7447840941a063b343774a53
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b59105a5c47d7f2b119d017c2b3dc35729dbbdd7
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47749824"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51782758"
 ---
 # <a name="troubleshoot-onenote-sync-issues"></a>Khắc phục sự cố đồng bộ OneNote
 
@@ -25,7 +25,7 @@ ms.locfileid: "47749824"
 
 Nếu sổ ghi chép không đồng bộ được lưu trữ trên OneDrive hoặc trên các phiên bản mới hơn của SharePoint, hãy thử mở sổ ghi chép trong OneNote cho web (tại www.onenote.com). Điều này có thể giúp xác định xem vấn đề là do máy chủ hoặc OneNote gây ra.
 
-1. Trong OneNote, hãy **File**bấm  >  **thông tin**tệp.
+1. Trong OneNote, hãy bấm  >  **thông tin** tệp.
 
 2. Bấm chuột phải vào URL hiển thị bên dưới tên của sổ ghi chép bị ảnh hưởng, rồi bấm **sao chép**.
 
