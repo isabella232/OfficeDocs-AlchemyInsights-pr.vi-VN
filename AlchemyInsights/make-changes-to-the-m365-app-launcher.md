@@ -2,7 +2,7 @@
 title: Thực hiện thay đổi đối với công cụ khởi động ứng dụng Microsoft 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003052"
 - "5811"
-ms.openlocfilehash: 24b59a0ceace36308a9c0390bf481105129d7e7a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1894d1c9b32318fdb69c613ab94325fc19ad04f5
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794680"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51794926"
 ---
 # <a name="make-changes-to-the-microsoft-365-app-launcher"></a>Thực hiện thay đổi đối với công cụ khởi động ứng dụng Microsoft 365
 
