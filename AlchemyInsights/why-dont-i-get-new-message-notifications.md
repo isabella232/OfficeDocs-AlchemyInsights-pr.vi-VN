@@ -2,7 +2,7 @@
 title: Tại sao tôi không nhận được thông báo tin nhắn mới?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002579"
 - "4995"
-ms.openlocfilehash: 0607f9cea693e0d0775326d60e76bd867ac60c6a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6128f1f68f33b0d6070ffd6f867a65ff4a5716c7
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664552"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51805816"
 ---
 # <a name="why-dont-i-get-new-message-notifications"></a>Tại sao tôi không nhận được thông báo tin nhắn mới?
 
@@ -27,6 +27,6 @@ Theo mặc định, thông báo sẽ chỉ xuất hiện cho các thư mới tro
 
 2. Bên dưới **thư**, hãy gõ nhẹ vào **thông báo**.
 
-3. Thay đổi thông báo thư cho mỗi tài khoản cho **tất cả**, **chỉ hộp thư đến**ưu tiên hoặc **không**có.
+3. Thay đổi thông báo thư cho mỗi tài khoản cho **tất cả**, **chỉ hộp thư đến** ưu tiên hoặc **không** có.
 
 Bạn cũng có thể cần thay đổi thiết đặt của mình trong hệ thống Android để biết thông báo. Điều này khác nhau cho từng thiết bị, nhưng vui lòng kiểm tra xem thiết đặt hệ thống của bạn cho phép Outlook nhận thông báo.

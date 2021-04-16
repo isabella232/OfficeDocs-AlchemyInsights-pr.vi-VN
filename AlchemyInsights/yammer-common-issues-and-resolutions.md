@@ -2,7 +2,7 @@
 title: Các sự cố và giải pháp thông thường của yammer
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002428"
 - "4712"
-ms.openlocfilehash: 4ecd8b34830f53670145068398f28d16e820efd2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d4856271c7cdb4993dce90bdee7086e440b72ac9
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47657586"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51805492"
 ---
 # <a name="yammer-common-issues-and-resolutions"></a>Các sự cố và giải pháp thông thường của yammer
 
@@ -29,7 +29,7 @@ Dưới đây là một số chủ đề được yêu cầu thường gặp đ�
 
 - **Sự kiện trực tiếp**: đưa cộng đồng của bạn cùng với [sự kiện trực tiếp](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-live-events). Nhận [thêm trợ giúp và hướng dẫn](https://resources.techcommunity.microsoft.com/live-events/assistance/) để đảm bảo sự kiện thành công. 
 
-- **khám phá**điện tử: chạy [công cụ căn chỉnh chế độ bản địa](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode) để chuẩn bị cho [khám phá điện tử trong mạng yammer](https://docs.microsoft.com/yammer/manage-security-and-compliance/overview-of-ediscovery). 
+- **khám phá** điện tử: chạy [công cụ căn chỉnh chế độ bản địa](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode) để chuẩn bị cho [khám phá điện tử trong mạng yammer](https://docs.microsoft.com/yammer/manage-security-and-compliance/overview-of-ediscovery). 
 
 - **Tuân thủ**: thiết lập một [chính sách sử dụng](https://docs.microsoft.com/yammer/manage-security-and-compliance/set-up-a-usage-policy) cho người dùng, [xuất dữ liệu yammer](https://docs.microsoft.com/yammer/manage-security-and-compliance/export-yammer-enterprise-data), hiểu [cách xử lý các yêu cầu của gdpr](https://docs.microsoft.com/yammer/manage-security-and-compliance/gdpr-requests-in-yammer-enterprise) cho yammer và [Tìm hiểu vị trí lưu trữ dữ liệu yammer](https://docs.microsoft.com/yammer/manage-security-and-compliance/data-residency). [Tắt](https://docs.microsoft.com/yammer/manage-yammer-users/turn-off-user-access) Yammer Access, nếu được yêu cầu.
 
