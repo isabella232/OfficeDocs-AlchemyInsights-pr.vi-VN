@@ -2,7 +2,7 @@
 title: Quản lý quyền truy nhập của khách trong Microsoft 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001728"
 - "3826"
-ms.openlocfilehash: d30cead9ff4cead5efeb6bd0eda77c4bc7e20e89
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 36f8da40bfa7cffb886e25ea89a7a3772733e1f4
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47778029"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810542"
 ---
 # <a name="manage-guest-access-in-microsoft-365"></a>Quản lý quyền truy nhập của khách trong Microsoft 365
 
