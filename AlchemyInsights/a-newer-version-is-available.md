@@ -2,7 +2,7 @@
 title: Phiên bản mới hơn sẵn dùng
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000694"
 - "2597"
-ms.openlocfilehash: a9e89f4c1548cb018cbb9c8f3063634ba35effa0
-ms.sourcegitcommit: 0f26f6b23b3d48c3c6cddf98bc41df484f16cb00
+ms.openlocfilehash: aa0d233209827b387a9ee23aaf828794ed3cfc90
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49599006"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51804295"
 ---
-# <a name="delete-the-office-document-cache"></a><span data-ttu-id="05ca5-102">Xóa bộ đệm ẩn tài liệu Office</span><span class="sxs-lookup"><span data-stu-id="05ca5-102">Delete the Office Document Cache</span></span>
+# <a name="delete-the-office-document-cache"></a><span data-ttu-id="4105b-102">Xóa bộ đệm ẩn tài liệu Office</span><span class="sxs-lookup"><span data-stu-id="4105b-102">Delete the Office Document Cache</span></span>
 
-<span data-ttu-id="05ca5-103">Nếu bạn nhận được lời nhắc Excel mà **một phiên bản mới hơn của tệp sẵn dùng**, hãy thử xóa bộ đệm ẩn tài liệu Office bằng cách làm theo các hướng dẫn trong [xóa bộ đệm ẩn tài liệu Office của bạn](https://support.office.com/article/b1d3765e-d71b-4bb8-99ca-acd22c42995d).</span><span class="sxs-lookup"><span data-stu-id="05ca5-103">If you received an Excel prompt that **a newer version of the file is available**, try deleting the Office Document Cache by following the instructions in [Delete your Office Document Cache](https://support.office.com/article/b1d3765e-d71b-4bb8-99ca-acd22c42995d).</span></span> <span data-ttu-id="05ca5-104">Sau đó, thử mở lại tệp.</span><span class="sxs-lookup"><span data-stu-id="05ca5-104">Then try reopening the file.</span></span>
+<span data-ttu-id="4105b-103">Nếu bạn nhận được lời nhắc Excel mà **một phiên bản mới hơn của tệp sẵn dùng**, hãy thử xóa bộ đệm ẩn tài liệu Office bằng cách làm theo các hướng dẫn trong [xóa bộ đệm ẩn tài liệu Office của bạn](https://support.office.com/article/b1d3765e-d71b-4bb8-99ca-acd22c42995d).</span><span class="sxs-lookup"><span data-stu-id="4105b-103">If you received an Excel prompt that **a newer version of the file is available**, try deleting the Office Document Cache by following the instructions in [Delete your Office Document Cache](https://support.office.com/article/b1d3765e-d71b-4bb8-99ca-acd22c42995d).</span></span> <span data-ttu-id="4105b-104">Sau đó, thử mở lại tệp.</span><span class="sxs-lookup"><span data-stu-id="4105b-104">Then try reopening the file.</span></span>
