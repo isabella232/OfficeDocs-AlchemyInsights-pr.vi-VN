@@ -2,7 +2,7 @@
 title: Ứng dụng Microsoft 365 không khởi động/bắt đầu
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2531"
 - "9000572"
-ms.openlocfilehash: 870e5887c9b98e9716e886cab8e7d99ee6110f57
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 91440b891868fa9359a38e33c9ef2efb578a908e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47803051"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51802081"
 ---
 # <a name="microsoft-365-apps-crash-stop-responding-or-dont-launch"></a>Tai nạn ứng dụng Microsoft 365, ngừng phản hồi hoặc không khởi chạy
 

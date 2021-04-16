@@ -2,7 +2,7 @@
 title: Các chính sách về catchall
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000734"
 - "3207"
-ms.openlocfilehash: e5d08462e8662fa1651ad81235d0efd5fc4bac58
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 036c171f3c71e60c8c07000b4d0c6ede36bd435c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47721316"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51801693"
 ---
 # <a name="teams-policies"></a>Chính sách Nhóm
 
 Thiết đặt nhóm Microsoft được điều khiển bởi chính sách. Để thực hiện thay đổi, bạn phải cấu hình chính sách thích hợp, rồi áp dụng nó cho người dùng. Cách nhanh nhất để thực hiện điều này cho tất cả người dùng của bạn là sửa đổi chính sách mặc định có tên toàn cầu. 
 
-**Ghi chú** Thay đổi chính sách mất ***ít nhất là 4 đến 48 giờ để có hiệu lực***. Nếu bạn tạo chính sách tùy chỉnh, bạn cần chờ ít nhất 4 giờ trước khi bạn có thể thực hiện các thay đổi bổ sung cho nó. Sau đó, bạn có thể áp dụng chính sách đó cho người dùng. Điều này có nghĩa là các chính sách tùy chỉnh có thể mất tới 48 giờ để có hiệu lực. Các chính sách chung được đặt là mặc định cho tất cả người dùng và các thay đổi đối với chính sách toàn cầu có thể mất đến 24 giờ để có hiệu lực. Nếu bạn đã tạo chính sách tùy chỉnh, hãy áp dụng nó cho người dùng và vẫn chưa thực hiện được hiệu lực sau 48 giờ, hoặc bạn đã sửa đổi chính sách toàn cầu và chờ ít nhất 24 giờ, vui lòng mở một vụ việc hỗ trợ.
+**Ghi chú** Thay đổi chính sách mất **_ít nhất là 4 đến 48 giờ để có hiệu lực_**. Nếu bạn tạo chính sách tùy chỉnh, bạn cần chờ ít nhất 4 giờ trước khi bạn có thể thực hiện các thay đổi bổ sung cho nó. Sau đó, bạn có thể áp dụng chính sách đó cho người dùng. Điều này có nghĩa là các chính sách tùy chỉnh có thể mất tới 48 giờ để có hiệu lực. Các chính sách chung được đặt là mặc định cho tất cả người dùng và các thay đổi đối với chính sách toàn cầu có thể mất đến 24 giờ để có hiệu lực. Nếu bạn đã tạo chính sách tùy chỉnh, hãy áp dụng nó cho người dùng và vẫn chưa thực hiện được hiệu lực sau 48 giờ, hoặc bạn đã sửa đổi chính sách toàn cầu và chờ ít nhất 24 giờ, vui lòng mở một vụ việc hỗ trợ.
 
 Các chính sách nhóm được chia thành các khu vực sau đây:
 
