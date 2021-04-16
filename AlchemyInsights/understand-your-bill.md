@@ -2,7 +2,7 @@
 title: Tìm hiểu về hóa đơn của bạn
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,18 +13,18 @@ ms.custom:
 - "1500005"
 - "4728"
 - "4727"
-ms.openlocfilehash: 4b194527e48ebe0c2735b0393c9b381e77541dee
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 72f6ba61c8b898643aa967bb7c6ddaebf6c977de
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47689724"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51796879"
 ---
 # <a name="understand-your-bill"></a>Tìm hiểu về hóa đơn của bạn
 
 **Xem hóa đơn của bạn**
 
-1. Trong Trung tâm quản trị Microsoft 365, hãy đi đến trang **thanh toán > [hóa đơn & thanh toán](https://go.microsoft.com/fwlink/p/?linkid=848039) ** .
+1. Trong Trung tâm quản trị Microsoft 365, hãy đi đến trang **thanh toán > [hóa đơn & thanh toán](https://go.microsoft.com/fwlink/p/?linkid=848039)** .
 
 2. Chọn một phạm vi ngày từ danh sách thả xuống, rồi chọn thứ tự bạn muốn xem lại hoặc bấm vào liên kết **tải xuống hóa đơn PDF** để xem bản sao của hóa đơn.
 

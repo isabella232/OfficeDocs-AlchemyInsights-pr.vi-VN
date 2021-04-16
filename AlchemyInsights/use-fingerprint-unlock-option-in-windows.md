@@ -2,7 +2,7 @@
 title: Sử dụng tùy chọn mở khóa dấu vân tay trong Windows 10
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001689"
 - "3765"
-ms.openlocfilehash: 99f037f62748c06d77b526e35f67b711885c4a1e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ba1f2e7b0bb54e89178a320b8579b8d1bfdaff9a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795266"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51796699"
 ---
 # <a name="use-fingerprint-unlock-option-in-windows-10"></a>Sử dụng tùy chọn mở khóa dấu vân tay trong Windows 10
 
