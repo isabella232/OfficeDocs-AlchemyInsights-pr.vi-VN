@@ -1,8 +1,8 @@
 ---
-title: Xem mật khẩu mạng Wi-Fi trong Windows 10
+title: Xem Wi-Fi mật khẩu mạng trong Windows 10
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001467"
 - "3767"
-ms.openlocfilehash: dd4fa680b03a7f9dd29a22189b3e22b76e3f2025
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 254c192084ef7022f7bfbb146ecf8df57e6ff2a0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47689112"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51807400"
 ---
-# <a name="view-wi-fi-network-password-in-windows-10"></a>Xem mật khẩu mạng Wi-Fi trong Windows 10
+# <a name="view-wi-fi-network-password-in-windows-10"></a>Xem Wi-Fi mật khẩu mạng trong Windows 10
 
 1. Hãy đảm bảo PC chạy Windows 10 của bạn được kết nối với mạng Wi-Fi.
 
@@ -35,7 +35,7 @@ ms.locfileid: "47689112"
 
     Bấm vào tên mạng không dây để mở cửa sổ trạng thái Wi-Fi. 
 
-5. Trong cửa sổ trạng thái Wi-Fi, hãy bấm vào các **thuộc tính không dây**, bấm tab **bảo mật** , rồi chọn **Hiển thị các ký tự**.
+5. Trong cửa sổ trạng thái Wi-Fi, bấm vào **thuộc tính không dây**, bấm tab **bảo mật** , rồi chọn **Hiển thị các ký tự**.
 
-    ![Hiển thị các ký tự mật khẩu Wi-Fi.](media/show-password-characters.png)
+    ![Hiển thị Wi-Fi ký tự mật khẩu.](media/show-password-characters.png)
 

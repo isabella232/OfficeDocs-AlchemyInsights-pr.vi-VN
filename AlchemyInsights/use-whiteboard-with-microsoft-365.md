@@ -2,7 +2,7 @@
 title: Sử dụng bảng trắng với Microsoft 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002354"
 - "4581"
-ms.openlocfilehash: 3c8e944efb4f74bb2894f611e3580b9e34f5db5b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: faf454882ecc0ddff7832c10525f0c324e7c003f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796706"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51808300"
 ---
 # <a name="use-whiteboard-with-microsoft-365"></a>Sử dụng bảng trắng với Microsoft 365
 
