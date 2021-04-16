@@ -2,7 +2,7 @@
 title: Cách tắt OneDrive for Business
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000674"
 - "2552"
-ms.openlocfilehash: 69ae1222f87d385662b139649a8a416438b2a91b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4ebb1d6ae1a83176f3f5df0f14e96d41090cc27f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47730469"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815196"
 ---
 # <a name="disable-onedrive-for-business"></a>Tắt OneDrive for Business
 

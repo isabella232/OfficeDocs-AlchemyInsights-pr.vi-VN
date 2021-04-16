@@ -2,7 +2,7 @@
 title: Cho phép nhóm và Office 365 a1
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001724"
 - "3823"
-ms.openlocfilehash: 5f677c8fabb6cdb9c708ab9dc39882a8d3b0567b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e99fcc49108c9e8f87ca204b9f3dfe7fcfdae97a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47784452"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813962"
 ---
 # <a name="enabling-teams-and-office-365-a1"></a>Cho phép nhóm và Office 365 a1
 

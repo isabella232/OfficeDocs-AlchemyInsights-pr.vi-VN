@@ -2,7 +2,7 @@
 title: Bật các hộp thoại kế thừa nhúng để mở báo cáo
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002931"
 - "5612"
-ms.openlocfilehash: 285933e607ac7e58256709f0c9cf2851250ce211
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c8a5634d5d79cbd584284b675e5db4e448a0d157
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47806457"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51814286"
 ---
 # <a name="enable-embedding-legacy-dialogs-to-open-reports"></a>Bật các hộp thoại kế thừa nhúng để mở báo cáo
 

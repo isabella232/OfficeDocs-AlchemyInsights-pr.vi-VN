@@ -2,7 +2,7 @@
 title: Ngày hết hạn của nhóm và nhóm cơ bản không khớp
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6667"
 - "9003760"
-ms.openlocfilehash: 77a10d87cf725339058408ff82b3e58c0736edfd
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 7174158a73cd5c26f3ff531381e2d6c62b6a1ad3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48365217"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813458"
 ---
 # <a name="expiration-date-of-team-and-underlying-group-dont-match"></a>Ngày hết hạn của nhóm và nhóm cơ bản không khớp
 

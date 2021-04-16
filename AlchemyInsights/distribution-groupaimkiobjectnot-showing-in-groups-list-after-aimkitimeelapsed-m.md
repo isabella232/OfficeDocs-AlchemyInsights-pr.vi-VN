@@ -2,19 +2,19 @@
 title: Nhóm phân phối ' {AimKIObject} ' không hiển thị trong danh sách nhóm sau {AimKITimeElapsed} Minutes
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cdc6a166-434f-4654-8a80-2fa8ca7f5845
-ms.openlocfilehash: 5e813c7bf0fd98bc13ea1148167df1a576e363ac
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bd7e5d71dd2832e253df508fe8819c137c9411aa
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679823"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815088"
 ---
 # <a name="distribution-group-aimkiobject-not-showing-in-groups-list-after-aimkitimeelapsed-minutes"></a>Nhóm phân phối "{AimKIObject}" không hiển thị trong danh sách nhóm sau {AimKITimeElapsed} Minutes
 

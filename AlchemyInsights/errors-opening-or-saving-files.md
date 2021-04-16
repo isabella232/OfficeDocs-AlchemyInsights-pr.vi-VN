@@ -2,7 +2,7 @@
 title: Lỗi mở hoặc lưu tệp
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000583"
 - "2685"
-ms.openlocfilehash: ce9e160272d96f40a6ba30b1527bde1aed1b8d88
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 827db0139d2793a5e4d850aeb5463dab272e4d64
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47783609"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813638"
 ---
 # <a name="resolve-errors-opening-or-saving-word-files"></a>Giải quyết lỗi mở hoặc lưu tệp Word
 
