@@ -2,7 +2,7 @@
 title: Bạn cần bản sao hóa đơn hoặc cách dùng của bạn
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "6804"
-ms.openlocfilehash: 5ec935ddd9e273561886831e60c98ae1a542f9da
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: 14ba8cb6825090ec458ad919a55a77b01d9dfd38
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48808372"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812448"
 ---
 # <a name="get-a-copy-of-your-bill-or-usage"></a>Lấy bản sao hóa đơn hoặc cách dùng của bạn
 
 **Tải xuống Azure hóa đơn của bạn (. PDF)**
 
 1. Chọn đăng ký của bạn từ [trang đăng ký](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) trong Azure Portal [với tư cách là người dùng có quyền truy nhập vào](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support) các hóa đơn rồi chọn hóa **đơn**
-2. Bấm **tải xuống hóa đơn** để xem bản sao của hóa đơn PDF của bạn. Nếu thông báo **không sẵn dùng** , hãy xem [tại sao tôi không nhìn thấy hóa đơn cho thời hạn thanh toán cuối cùng?](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
+2. Bấm **tải xuống hóa đơn** để xem bản sao của hóa đơn PDF của bạn. Nếu thông báo **không sẵn dùng**, hãy xem [tại sao tôi không nhìn thấy hóa đơn cho thời hạn thanh toán cuối cùng?](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
 3. Bạn cũng có thể xem sử dụng hàng ngày của mình bằng cách bấm vào khoảng thời gian thanh toán để có được PDF hóa đơn của bạn và bản sao của tệp sử dụng hàng ngày chi tiết (. CSV): [lấy hóa đơn và dữ liệu sử dụng](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
 
 **Nhận hóa đơn của bạn trong email (. PDF)**
@@ -38,23 +38,23 @@ ms.locfileid: "48808372"
 
 **Quản lý chi phí:** [tránh chi phí không mong muốn với thanh toán và quản lý chi phí Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/getting-started?WT.mc_id=Portal-Microsoft_Azure_Support)  
 
-**Thỏa thuận khách hàng của Microsoft (MCA)** :
+**Thỏa thuận khách hàng của Microsoft (MCA)**:
 
 Tìm hiểu  [cách kiểm tra quyền truy nhập vào thỏa thuận khách hàng của Microsoft?](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)  
 Nếu bạn đang có [thỏa thuận khách hàng của Microsoft](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement), bạn có thể tải xuống các phép sử dụng trong [cổng thông tin Azure](https://portal.azure.com/)
 
-**Nhận hóa đơn thỏa thuận Microsoft customer của bạn trong email** :
+**Nhận hóa đơn thỏa thuận Microsoft customer của bạn trong email**:
 
 Nếu bạn có thỏa thuận khách hàng của Microsoft, bạn có thể chọn tham gia để lấy hóa đơn của mình trong email. Tất cả chủ sở hữu hồ sơ thanh toán, người đóng góp, bộ đọc và trình quản lý hóa đơn sẽ nhận được email. Người đọc không thể cập nhật tùy chọn hóa đơn email
 
-- Tìm kiếm **quản lý chi phí + thanh toán** . Chọn một **hồ sơ thanh toán** . Bên dưới cài đặt, chọn **thuộc tính**
-- Bên dưới hóa đơn email, chọn **Cập nhật tùy chọn hóa đơn email** . Chọn chọn tham gia. Bấm **Cập Nhật**
+- Tìm kiếm **quản lý chi phí + thanh toán**. Chọn một **hồ sơ thanh toán**. Bên dưới cài đặt, chọn **thuộc tính**
+- Bên dưới hóa đơn email, chọn **Cập nhật tùy chọn hóa đơn email**. Chọn chọn tham gia. Bấm **Cập Nhật**
 
 **Thỏa thuận doanh nghiệp (EA)**
 
 Để xem và tải xuống dữ liệu sử dụng dưới dạng một khách hàng EA, bạn phải là người quản trị doanh nghiệp, chủ sở hữu tài khoản, hoặc người quản trị bộ phận với chính sách phí xem được bật.
 
-- Đăng nhập vào cổng thông tin Azure. Tìm kiếm **quản lý chi phí + thanh toán** . Chọn hồ sơ thanh toán
+- Đăng nhập vào cổng thông tin Azure. Tìm kiếm **quản lý chi phí + thanh toán**. Chọn hồ sơ thanh toán
 - Chọn sử dụng + phí. Trong tháng bạn muốn tải xuống, chọn tải xuống
 
 **Thuê bao MOSP Azure**  

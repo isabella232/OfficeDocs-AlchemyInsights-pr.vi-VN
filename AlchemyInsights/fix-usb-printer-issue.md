@@ -2,7 +2,7 @@
 title: Khắc phục sự cố về máy in USB
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3482"
 - "9001214"
-ms.openlocfilehash: 042a8e3bb02046f41a5e81653b08058f0e6626b5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f6da7496ebce0c1d5e7b8c1b6ce6fcdaffd1512d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47677517"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812738"
 ---
 # <a name="fix-usb-printer-connection-issues"></a>Khắc phục sự cố kết nối máy in USB
 
@@ -31,10 +31,10 @@ Nếu cách này không hiệu quả, hãy thử **loại bỏ và cài đặt l
 
 1. Loại bỏ máy in trong cài đặt:
     1. Rút cáp USB của máy in ra khỏi PC của bạn.
-    2. Chọn **bắt đầu**  >  **Settings**  >  máy in**thiết bị**cài đặt  >  **& máy quét**.
+    2. Chọn **bắt đầu**  >    >  máy in **thiết bị** cài đặt  >  **& máy quét**.
     3. Bên dưới **máy in & máy quét**, hãy chọn máy in bạn đang khắc phục sự cố. Chọn **loại bỏ thiết bị**. Làm theo các hướng dẫn để loại bỏ hoàn toàn máy in.
 2. Loại bỏ bất kỳ phần mềm nhà sản xuất máy in bên thứ ba nào:
-    1. Chọn **bắt đầu**  >  **Settings**  >  **ứng dụng**cài đặt.
+    1. Chọn **bắt đầu**  >    >  **ứng dụng** cài đặt.
     2. Bên dưới các **tính năng ứng dụng &**, hãy cuộn để tìm bất kỳ phần mềm nào được cài đặt từ nhà sản xuất máy in của bạn (chẳng hạn như HP, Canon hoặc Epson).
     3. Chọn phần mềm và chọn **gỡ cài đặt**.
 3. Tắt và khởi động lại máy in của bạn.<br>

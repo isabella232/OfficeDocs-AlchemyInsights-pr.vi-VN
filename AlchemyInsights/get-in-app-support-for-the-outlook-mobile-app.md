@@ -2,7 +2,7 @@
 title: 1800014 nhận hỗ trợ trong ứng dụng cho ứng dụng Outlook dành cho thiết bị di động
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,12 +14,12 @@ ms.custom:
 - "317"
 - "1800014"
 ms.assetid: ae8140e0-1802-4387-9fcc-3e4deda115d8
-ms.openlocfilehash: fe099b2cf0a596900c4e5a9b35d5d8f8b1ac5d07
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8912f52a968ce0d406479d4f1a403fd452b7126c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47707733"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812306"
 ---
 # <a name="get-in-app-support-for-the-outlook-mobile-app"></a>Nhận hỗ trợ trong ứng dụng cho ứng dụng Outlook dành cho thiết bị di động
 

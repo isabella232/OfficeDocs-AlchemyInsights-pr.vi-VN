@@ -2,7 +2,7 @@
 title: Làm thế nào để tôi thiết lập hội thảo âm thanh cho các nhóm
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,12 +13,12 @@ ms.custom:
 - "2711"
 - "2712"
 - "9000766"
-ms.openlocfilehash: 61312e3b74e41c4474ac89eeeee8bc6e75372fa8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d5d5288dc3ea8a708e92d79adf03eb21d65d42ac
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47781557"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811082"
 ---
 # <a name="microsoft-teams--audio-conferencing"></a>Nhóm Microsoft – hội thảo âm thanh
 
@@ -30,7 +30,7 @@ Nếu [giấy phép đã được mua](https://docs.microsoft.com/microsoftteams
 
 2. Tùy thuộc vào phiên bản Trung tâm quản trị, hãy chọn **giấy phép và ứng dụng** hoặc bấm **sửa** trên **giấy phép sản phẩm**.
 
-3. Xác nhận rằng người dùng có giấy phép được chọn cho hội **thảo âm thanh microsoft 365, nhóm Microsoft**và **Skype for Business Online (gói 2)**. Nếu giấy phép hội **thảo âm thanh Microsoft 365** không có mặt, bạn sẽ cần phải [mua thêm vào giấy phép](https://docs.microsoft.com/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing?tabs=small-business) trước tiên.
+3. Xác nhận rằng người dùng có giấy phép được chọn cho hội **thảo âm thanh microsoft 365, nhóm Microsoft** và **Skype for Business Online (gói 2)**. Nếu giấy phép hội **thảo âm thanh Microsoft 365** không có mặt, bạn sẽ cần phải [mua thêm vào giấy phép](https://docs.microsoft.com/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing?tabs=small-business) trước tiên.
 
 4. **Trung tâm quản trị** người dùng bấm vào **hiện tất cả** và sau đó chọn **nhóm**.
 

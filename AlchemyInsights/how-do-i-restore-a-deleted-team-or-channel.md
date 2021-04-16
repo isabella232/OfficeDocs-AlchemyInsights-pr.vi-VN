@@ -2,7 +2,7 @@
 title: Làm thế nào để tôi khôi phục nhóm hoặc kênh đã xóa
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,12 +13,12 @@ ms.custom:
 - "6500002"
 - "2650"
 - "2603"
-ms.openlocfilehash: c343c1157bcc1ec74faf909e1595ecfac00ece80
-ms.sourcegitcommit: feb2985058f79e1c293dd191ca9ea381a6523824
+ms.openlocfilehash: e1f858cc6d42db4c165bd406ca71fdfa6ad77199
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 12/22/2020
-ms.locfileid: "49726446"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811190"
 ---
 # <a name="how-to-restore-a-deleted-team-or-channel"></a>Cách khôi phục nhóm hoặc kênh đã xóa
 
