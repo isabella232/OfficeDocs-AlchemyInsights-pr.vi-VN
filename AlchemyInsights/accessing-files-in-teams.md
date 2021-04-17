@@ -2,7 +2,7 @@
 title: Truy nhập vào các tệp trong nhóm
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2675"
 - "9000710"
-ms.openlocfilehash: a00a39954737287b4888b833b66d98e9b5e711b2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c6766c318f0058e66950dbd0ca2953b149579a5c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668549"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823377"
 ---
 # <a name="accessing-files-in-microsoft-teams"></a>Truy nhập tệp trong nhóm Microsoft
 
