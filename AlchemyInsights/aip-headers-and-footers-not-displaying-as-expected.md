@@ -2,7 +2,7 @@
 title: 'AIP: đầu trang và chân trang không hiển thị như mong đợi'
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002266"
 - "4541"
-ms.openlocfilehash: 811a48587272776c8ece5e654a921c15cf52af5f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5f50fc1d38618017bca61b4e9290d9893983534e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696570"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821721"
 ---
 # <a name="aip-headers-and-footers-not-displaying-as-expected"></a>AIP: đầu trang và chân trang không hiển thị như mong đợi
 
@@ -32,7 +32,7 @@ Nếu bạn vẫn gặp sự cố này, hãy thu thập Nhật ký máy khách b
 **Xuất Nhật ký bảo vệ thông tin Azure**
 
 1. Mở tài liệu Office hoặc tạo email mới trong Outlook.
-2. Bấm vào **bảo vệ/**  >  **Trợ giúp và phản hồi**nhạy cảm.
+2. Bấm vào **bảo vệ/**  >  **Trợ giúp và phản hồi** nhạy cảm.
 3. Bấm **xuất Nhật ký**.
 4. Lưu Nhật ký vào lựa chọn vị trí của bạn và đính kèm chúng vào yêu cầu dịch vụ này.
 
