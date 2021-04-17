@@ -2,7 +2,7 @@
 title: Tìm kiếm nội dung không có kết quả
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000661"
 - "2527"
-ms.openlocfilehash: 1e90c403556a317ff810971ccfa4a91694fb1171
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0267286ca5967ee891e65343d49adf776f0322a6
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47680669"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816870"
 ---
 # <a name="no-results-from-content-searchexports"></a>Không có kết quả nào từ tìm kiếm nội dung/xuất
 
@@ -27,4 +27,4 @@ Các sự cố với tìm kiếm nội dung/xuất không trả về bất kỳ 
 1. Kết nối với Trung tâm bảo mật và tuân thủ PowerShell
 2. Chạy các commandlet sau đây:
 <br>$org = "yourdomain.com"
-<br>Get-ComplianceSecurityFilter-tổ chức $org
+<br>$Org Get-ComplianceSecurityFilter tổ chức

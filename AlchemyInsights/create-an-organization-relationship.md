@@ -2,7 +2,7 @@
 title: Tạo một mối quan hệ tổ chức để cho phép người dùng của bạn cộng tác với một tổ chức khác
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800014"
 - "898"
-ms.openlocfilehash: a7ec7b4a8020cfe9a24d1f18af89b02400e6d45e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b595fb87e18a055a7df1ff4c782a93591dd1f024
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47712755"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816150"
 ---
 # <a name="create-an-organization-relationship-to-allow-your-users-to-collaborate-with-another-organization"></a>Tạo một mối quan hệ tổ chức để cho phép người dùng của bạn cộng tác với một tổ chức khác
 
-1. Từ bảng điều khiển trung tâm quản trị Microsoft 365, hãy đi đến Exchange **quản trị**  >  **Exchange**.
-2. Đi đến **organization**  >  **chia sẻ**tổ chức.
+1. Từ bảng điều khiển trung tâm quản trị Microsoft 365, hãy đi đến Exchange **quản trị**  >  .
+2. Đi đến   >  **chia sẻ** tổ chức.
 3. Bên dưới **chia sẻ tổ chức**, bấm **mới** .
 4. Trong **mối quan hệ tổ chức mới**, trong hộp **tên mối quan hệ** , hãy nhập tên thân thiện cho mối quan hệ tổ chức.
 5. Trong hộp **tên miền để chia sẻ với** , hãy nhập tên miền cho tổ chức bên ngoài Office 365 hoặc Exchange tại cơ sở mà bạn muốn cho phép xem lịch của bạn. Nếu bạn cần nhập nhiều hơn một tên miền, hãy tách tên miền bằng dấu phẩy. Ví dụ, contoso.com, service.contoso.com.

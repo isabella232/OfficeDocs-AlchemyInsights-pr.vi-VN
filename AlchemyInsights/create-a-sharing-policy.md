@@ -2,7 +2,7 @@
 title: Tạo chính sách chia sẻ để cho phép người dùng chia sẻ lịch của họ với những người bên ngoài tổ chức của bạn
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800014"
 - "898"
-ms.openlocfilehash: 9ece122e0905d1afeb26e50fa0a5e049eee5c09d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 016b915a9e8f7e32d5d393bc47347991866647c7
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47806745"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816294"
 ---
 # <a name="create-a-sharing-policy-to-allow-your-users-to-share-their-calendar-with-people-outside-your-organization"></a>Tạo chính sách chia sẻ để cho phép người dùng chia sẻ lịch của họ với những người bên ngoài tổ chức của bạn
 
-1. Từ bảng điều khiển trung tâm quản trị Microsoft 365, hãy đi đến Exchange **quản trị**  >  **Exchange**.
-2. Đi đến **organization**  >  **chia sẻ**tổ chức.
+1. Từ bảng điều khiển trung tâm quản trị Microsoft 365, hãy đi đến Exchange **quản trị**  >  .
+2. Đi đến   >  **chia sẻ** tổ chức.
 3. Trong dạng xem danh sách, bên dưới **chia sẻ riêng lẻ**, bấm **mới** .
 4. Trong **chính sách chia sẻ mới**, hãy nhập tên thân thiện cho chính sách chia sẻ trong hộp **tên chính sách** .
 5. Bấm **Thêm**  để xác định quy tắc chia sẻ cho chính sách.

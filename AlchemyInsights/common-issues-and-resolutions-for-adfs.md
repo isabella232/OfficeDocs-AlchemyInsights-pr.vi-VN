@@ -2,7 +2,7 @@
 title: Các sự cố thường gặp và độ phân giải cho ADFS
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002490"
 - "4832"
-ms.openlocfilehash: 3bcf65b93e5c5adbfa0ca275c69da882aa125c39
-ms.sourcegitcommit: aabc5178929892d532782036bfb338b4b480d4e5
+ms.openlocfilehash: 5e7853ea6c2a58aff6a4238e58c855a7f2071553
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "48213049"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817626"
 ---
 # <a name="common-issues-and-resolutions-for-adfs"></a>Các sự cố thường gặp và độ phân giải cho ADFS
 
