@@ -2,7 +2,7 @@
 title: Tăng kích cỡ hộp thư
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,12 +13,12 @@ ms.custom:
 - "556"
 - "3500006"
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: fb5662363a385e2fbbae852df77d80b6317698fb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 10e069f3fcd6338705a01ab9dd15574c81f88572
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47756197"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830235"
 ---
 # <a name="switch-subscriptions-to-increase-mailbox-size"></a>Chuyển đổi thuê bao để tăng kích cỡ hộp thư
 
@@ -34,7 +34,7 @@ Nếu kích cỡ hộp thư là 50 GB, bạn có thể tăng nó lên 100 GB b�
 
 4. Tìm gói mà bạn muốn nâng cấp, rồi chọn nút **nâng cấp** .
 
-5. Nhập số lượng giấy phép bạn cần, chọn có thanh toán mỗi tháng hoặc cho cả năm, rồi chọn **kiểm**xuất.
+5. Nhập số lượng giấy phép bạn cần, chọn có thanh toán mỗi tháng hoặc cho cả năm, rồi chọn **kiểm** xuất.
 
 Để biết thêm chi tiết, hãy xem mục [nâng cấp lên một gói khác](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
 

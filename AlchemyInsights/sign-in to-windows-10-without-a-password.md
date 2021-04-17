@@ -2,7 +2,7 @@
 title: Đăng nhập vào Windows 10 mà không cần dùng mật khẩu
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001690"
 - "3766"
-ms.openlocfilehash: 839b945c457cb007f13605c5b903ded75dadd1d7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1c03f00f7b41ea16d3106b19b998edeea6114603
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47719975"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830568"
 ---
 # <a name="sign-in-to-windows-10-without-using-a-password"></a>Đăng nhập vào Windows 10 mà không cần dùng mật khẩu
 

@@ -2,7 +2,7 @@
 title: Khắc phục sự cố máy in của bạn
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001214"
 - "3186"
-ms.openlocfilehash: 9fd1dc7cfd9d866950a9252f760c2808dd8b5f55
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 37bc4c1a8f39084e06b6f291c1245fa163e7b638
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47689924"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830496"
 ---
 # <a name="troubleshoot-your-printer"></a>Khắc phục sự cố máy in của bạn
 
@@ -29,7 +29,7 @@ Trước tiên, hãy thử một **vòng tròn điện của máy in**. Làm the
 
 3. Cắm máy in của bạn trở lại và tắt máy in trở lại.
 
-Nếu không giải quyết được vấn đề của bạn, hãy chạy trình khắc phục sự cố bằng cách đi đến **bắt đầu > thiết đặt > Cập nhật & bảo mật > khắc phục sự cố**. Bấm vào **máy in**, rồi bấm **chạy trình**khắc phục sự cố.
+Nếu không giải quyết được vấn đề của bạn, hãy chạy trình khắc phục sự cố bằng cách đi đến **bắt đầu > thiết đặt > Cập nhật & bảo mật > khắc phục sự cố**. Bấm vào **máy in**, rồi bấm **chạy trình** khắc phục sự cố.
 
 **Nếu máy in của bạn được kết nối với PC của bạn qua kết nối mạng** (nếu bạn đang vội vàng, bạn có thể nhận được máy in hoạt động nhanh chóng bằng cách sử dụng cáp USB để cắm máy in trực tiếp vào PC của bạn):
 
