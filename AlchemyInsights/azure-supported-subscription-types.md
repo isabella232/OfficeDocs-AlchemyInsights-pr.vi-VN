@@ -2,7 +2,7 @@
 title: Các loại đăng ký được hỗ trợ
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003560"
 - "6675"
-ms.openlocfilehash: 46bc60435c3f8477e9f274d90c39d0f1c6a523c6
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: dcf5855bff8725ea746196c1f07d689ce1797f8c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48808177"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820704"
 ---
 # <a name="supported-subscription-types"></a>Các loại đăng ký được hỗ trợ
 
@@ -29,7 +29,7 @@ Vui lòng xem lại các loại đăng ký được hỗ trợ để tiếp tụ
 
 Azure Portal là người [quản trị tài khoản](https://ms.portal.azure.com/) của tài khoản thanh toán có thuê bao mà bạn muốn chuyển
 
-- Tìm kiếm về **quản lý chi phí + thanh toán** . Chọn **thuê** bao từ ngăn bên trái. Tùy thuộc vào quyền truy nhập, bạn có thể cần phải chọn một phạm vi thanh toán, sau đó **thuê** bao hoặc **đăng ký Azure** .
+- Tìm kiếm về **quản lý chi phí + thanh toán**. Chọn **thuê** bao từ ngăn bên trái. Tùy thuộc vào quyền truy nhập, bạn có thể cần phải chọn một phạm vi thanh toán, sau đó **thuê** bao hoặc **đăng ký Azure**.
 - Chọn chuyển quyền sở hữu thanh toán cho thuê bao mà bạn muốn chuyển
 - Nhập địa chỉ email của người dùng là người quản trị thanh toán của tài khoản đó sẽ là chủ sở hữu mới cho đăng ký, rồi chọn **gửi yêu cầu chuyển**
 - Người dùng nhận được một email với các hướng dẫn để xem lại yêu cầu chuyển của bạn. Để phê duyệt yêu cầu chuyển, người dùng sẽ chọn liên kết trong email và làm theo hướng dẫn.

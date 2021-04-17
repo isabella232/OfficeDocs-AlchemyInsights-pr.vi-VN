@@ -2,7 +2,7 @@
 title: Thanh toán cho bản dùng phiên bản dự trữ
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6814"
 - "9003552"
-ms.openlocfilehash: 6cdcb5af27a475cc838eb434ff025eb18356360c
-ms.sourcegitcommit: 1ac3474897abb7c4969e222f934294e05f468536
+ms.openlocfilehash: 9d71554d2089a6d9e5d4850149d113959f3d43c0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "48823239"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820344"
 ---
 # <a name="billing-for-reserved-instance-purchase"></a>Thanh toán cho bản dùng phiên bản dự trữ
 
@@ -84,7 +84,7 @@ Một số lý do có thể có thể bạn không nhìn thấy hóa đơn:
 
 - Chọn đăng ký của bạn từ trang [đăng ký](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) trong Azure Portal [với tư cách là người dùng có quyền truy nhập vào hóa đơn](https://docs.microsoft.com/azure/billing/billing-manage-access?WT.mc_id=Portal-Microsoft_Azure_Support)
 - Chọn hóa **đơn**
-- Bấm **tải xuống hóa đơn** để xem bản sao của hóa đơn PDF của bạn. Nếu thông báo **không sẵn dùng** , hãy xem [tại sao tôi không nhìn thấy hóa đơn cho thời hạn thanh toán cuối cùng?](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
+- Bấm **tải xuống hóa đơn** để xem bản sao của hóa đơn PDF của bạn. Nếu thông báo **không sẵn dùng**, hãy xem [tại sao tôi không nhìn thấy hóa đơn cho thời hạn thanh toán cuối cùng?](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
 
 **Nhận hóa đơn của bạn trong email (. PDF)**
 

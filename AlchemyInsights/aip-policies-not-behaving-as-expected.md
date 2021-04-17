@@ -2,7 +2,7 @@
 title: 'AIP: chính sách không được điều hành như mong đợi'
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002266"
 - "4780"
-ms.openlocfilehash: 0dfaae776ec551fe12919e8a8e69f2e7a58d67d0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7baa010cc0b18b5d2a295623639fabf2bc5f88ec
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663211"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821649"
 ---
 # <a name="aip-policies-not-behaving-as-expected"></a>AIP: chính sách không được điều hành như mong đợi
 
@@ -32,7 +32,7 @@ Bảo vệ thông tin Azure: chính sách không được xử trị như mong �
 Nếu bạn vẫn đang gặp phải vấn đề, vui lòng thu thập Nhật ký máy khách bảo vệ thông tin Azure và đính kèm các Nhật ký đã xuất ra vé này.
 
 1. Mở tài liệu Office hoặc tạo email mới trong Outlook.
-2. Bấm vào **bảo vệ/**  >  **Trợ giúp và phản hồi**nhạy cảm.
+2. Bấm vào **bảo vệ/**  >  **Trợ giúp và phản hồi** nhạy cảm.
 3. Bấm **xuất Nhật ký**.
 4. Lưu Nhật ký vào lựa chọn vị trí của bạn và đính kèm chúng vào yêu cầu dịch vụ này.
 

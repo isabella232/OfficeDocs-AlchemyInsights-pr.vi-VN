@@ -2,7 +2,7 @@
 title: Pin sẽ không tính phí
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002952"
 - "5654"
-ms.openlocfilehash: b15939c264a39687b4d93874553e5af7b3f7fe8d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fab76114044f71d60dbaf812cd2cd0cc75c8169c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47686340"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820488"
 ---
 # <a name="battery-wont-charge"></a>Pin sẽ không tính phí
 
@@ -32,7 +32,7 @@ Nếu biểu tượng pin trên thanh tác vụ Hiển thị **, không tính ph
 1. Cắm bề mặt của bạn.
 2. Chọn hộp tìm kiếm trong thanh tác vụ, nhập **trình quản lý thiết bị**, rồi chọn **trình quản lý thiết bị** từ danh sách kết quả.
 3. Bấm vào mũi tên bên cạnh thể loại **pin** .
-4. Nhấn đúp hoặc bấm đúp vào **Microsoft Surface ACPI-kiểm soát phương pháp điều khiển bằng pin**, chọn tab **trình điều khiển** , rồi bấm vào **gỡ cài đặt > OK**.
+4. Gõ đúp hoặc bấm đúp vào **Microsoft Surface ACPI-Compliant phương pháp điều khiển**, chọn tab **trình điều khiển** , rồi bấm vào **gỡ cài đặt > OK**.
 5. Chọn máy tính ở phía trên cùng của tất cả các thể loại, chọn Menu **hành động** , rồi bấm vào **quét để thay đổi phần cứng**.
 6. Rời khỏi bề mặt của bạn được cắm.
 

@@ -2,7 +2,7 @@
 title: Các chính sách cấu hình ứng dụng cho Microsoft InTune
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,12 +14,12 @@ ms.custom:
 - "1030"
 - "9003770"
 - "6709"
-ms.openlocfilehash: babdff75b53c4a5cab0ae7697369304319d105af
-ms.sourcegitcommit: 9fd002ce49ad9a7e58c3eb997a8063e2e1feab55
+ms.openlocfilehash: e37485d6fecab8c0eeb513185adf71b394064744
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "48366414"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821352"
 ---
 # <a name="app-configuration-policies-for-microsoft-intune"></a>Các chính sách cấu hình ứng dụng cho Microsoft InTune
 

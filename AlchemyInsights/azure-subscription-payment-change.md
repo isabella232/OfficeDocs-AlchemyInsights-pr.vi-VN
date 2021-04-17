@@ -2,7 +2,7 @@
 title: Thay đổi thông tin thanh toán trong Azure
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003546"
 - "6813"
-ms.openlocfilehash: c46f1cd65ae5a07a4aab33c641ebfcb7ef6fd42d
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: 3366603742560817eb722bd90c04fba2935bb110
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48808189"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820740"
 ---
 # <a name="change-payment-information-in-azure"></a>Thay đổi thông tin thanh toán trong Azure
 
@@ -27,16 +27,16 @@ Trong cổng thông tin Azure, với tư cách là người quản trị tài kh
 
 1. Đăng nhập vào [cổng thông tin Azure](https://portal.azure.com/) với tư cách là người [quản trị tài khoản](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa). Tìm kiếm trên **quản lý chi phí + thanh toán**
 2. Chọn một thuê bao mà bạn muốn thêm thẻ tín dụng hoặc thẻ ghi nợ. Chọn **phương thức thanh toán**
-3. Ở góc trên cùng bên trái, chọn + để thêm thẻ. Biểu mẫu thẻ tín dụng sẽ xuất hiện ở bên phải. Nhập thông tin chi tiết thẻ tín dụng hoặc thẻ ghi nợ 4.To đặt thẻ này cho phương thức thanh toán hiện hoạt của bạn, đánh dấu chọn hộp bên cạnh giúp phương thức thanh toán hiện hoạt của tôi ở phía trên biểu mẫu. Thẻ này sẽ trở thành công cụ thanh toán hiện hoạt cho tất cả các thuê bao dùng thẻ giống như đăng ký được chọn. Chọn **tiếp** 5.to **dùng thẻ tín dụng khác** , đánh dấu kiểm vào hộp bên cạnh thẻ bạn muốn làm phương thức thanh toán hiện hoạt.
+3. Ở góc trên cùng bên trái, chọn + để thêm thẻ. Biểu mẫu thẻ tín dụng sẽ xuất hiện ở bên phải. Nhập thông tin chi tiết thẻ tín dụng hoặc thẻ ghi nợ 4.To đặt thẻ này cho phương thức thanh toán hiện hoạt của bạn, đánh dấu chọn hộp bên cạnh giúp phương thức thanh toán hiện hoạt của tôi ở phía trên biểu mẫu. Thẻ này sẽ trở thành công cụ thanh toán hiện hoạt cho tất cả các thuê bao dùng thẻ giống như đăng ký được chọn. Chọn **tiếp** 5.to **dùng thẻ tín dụng khác**, đánh dấu kiểm vào hộp bên cạnh thẻ bạn muốn làm phương thức thanh toán hiện hoạt.
 6. bấm vào **đặt hiện hoạt**
 
 **Cập Nhật/thay đổi/loại bỏ một thẻ tín dụng hoặc thẻ ghi nợ hiện có**
 
-1. đăng nhập vào [cổng thông tin Azure](https://portal.azure.com/) là người [quản trị tài khoản](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa). Tìm kiếm về **quản lý chi phí + thanh toán** .
-2. chọn **phương thức thanh toán** . Bấm vào thẻ tín dụng hoặc thẻ ghi nợ mà bạn muốn sửa. Biểu mẫu thẻ tín dụng sẽ xuất hiện ở bên phải 3. Cập nhật các chi tiết thẻ tín dụng hoặc thẻ ghi nợ. Chọn **lưu** .
-4.To **loại bỏ** , đánh dấu vào hộp bên cạnh thẻ bạn muốn loại bỏ 5. bấm **xóa**
+1. đăng nhập vào [cổng thông tin Azure](https://portal.azure.com/) là người [quản trị tài khoản](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa). Tìm kiếm về **quản lý chi phí + thanh toán**.
+2. chọn **phương thức thanh toán**. Bấm vào thẻ tín dụng hoặc thẻ ghi nợ mà bạn muốn sửa. Biểu mẫu thẻ tín dụng sẽ xuất hiện ở bên phải 3. Cập nhật các chi tiết thẻ tín dụng hoặc thẻ ghi nợ. Chọn **lưu**.
+4.To **loại bỏ**, đánh dấu vào hộp bên cạnh thẻ bạn muốn loại bỏ 5. bấm **xóa**
 
-_Lưu ý_ : bạn không thể loại bỏ thẻ tín dụng của mình nếu nó được liên kết với các đăng ký Microsoft hiện hoạt khác. Bạn sẽ cần loại bỏ thẻ tín dụng khỏi tất cả các đăng ký hiện hoạt mà bạn có với Microsoft và thử lại.
+_Lưu ý_: bạn không thể loại bỏ thẻ tín dụng của mình nếu nó được liên kết với các đăng ký Microsoft hiện hoạt khác. Bạn sẽ cần loại bỏ thẻ tín dụng khỏi tất cả các đăng ký hiện hoạt mà bạn có với Microsoft và thử lại.
 
 Tìm hiểu thêm: [Cập Nhật, thay đổi hoặc loại bỏ các phương thức thanh toán](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support)
 
