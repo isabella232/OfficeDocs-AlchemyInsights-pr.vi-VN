@@ -2,7 +2,7 @@
 title: Các sự cố khi đăng nhập vào ứng dụng Microsoft 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2574"
-ms.openlocfilehash: a1e9844094dd164ca8bd5fb2a196161a5de0282f
-ms.sourcegitcommit: 57102d7daf32f370cab84dba342819a1ad5cb261
+ms.openlocfilehash: 02841a1b4e92eec94fc6409941d91618f02518c1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48236147"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836625"
 ---
 # <a name="issues-signing-into-microsoft-365-apps"></a>Các sự cố khi đăng nhập vào ứng dụng Microsoft 365
 
@@ -28,7 +28,7 @@ ms.locfileid: "48236147"
 
 **Mẹo** Trên máy Windows, chúng tôi có thể chẩn đoán và tự động khắc phục một số vấn đề đăng nhập Office thông thường cho bạn. Tải xuống và chạy trình trợ  **[giúp phục hồi và hỗ trợ của Microsoft](https://aka.ms/SaRA-OfficeSignInScenario)** để sử dụng công cụ tự động của chúng tôi.
 
-**Lưu ý:** Tắt tính năng xác thực hiện đại (ADAL) hoặc quản lý tài khoản web (WAM) để sửa các vấn đề về đăng nhập hoặc kích hoạt  **không được đề**xuất. Nếu lỗi xảy ra trong khi kết nối với Microsoft 365 bằng Office 2013, hãy đảm bảo rằng bạn [bật xác thực hiện đại](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication)  cho máy khách Office.
+**Lưu ý:** Tắt tính năng xác thực hiện đại (ADAL) hoặc quản lý tài khoản web (WAM) để sửa các vấn đề về đăng nhập hoặc kích hoạt  **không được đề** xuất. Nếu lỗi xảy ra trong khi kết nối với Microsoft 365 bằng Office 2013, hãy đảm bảo rằng bạn [bật xác thực hiện đại](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication)  cho máy khách Office.
 
 Để có hành động khắc phục sự cố cụ thể, hãy xem:
 

@@ -2,7 +2,7 @@
 title: Bạn cần trợ giúp với giới hạn gửi email?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002938"
 - "5630"
-ms.openlocfilehash: 66ff82afd7b44ef5fd4943bfc794c2fa35bbfa9e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b5bdfbf818328c97ec93b3468aeedcbe88e03913
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47702385"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836301"
 ---
 # <a name="need-help-with-email-sending-limits"></a>Bạn cần trợ giúp với giới hạn gửi email?
 

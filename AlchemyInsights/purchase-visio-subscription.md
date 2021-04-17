@@ -2,7 +2,7 @@
 title: Mua đăng ký Visio
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002419"
 - "4694"
-ms.openlocfilehash: 04a82adef279f6c11789b8139621e1f456a6f394
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e42352ff36b5cf5e8b514cef96f84ef6c19d0240
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662374"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835905"
 ---
 # <a name="purchase-visio-subscription"></a>Mua đăng ký Visio
 
 Người quản trị có thể mua đăng ký Visio cho tổ chức của họ từ **Trung tâm quản trị Microsoft 365**.
 
-1. Truy nhập trang **Billing**  >  **[dịch vụ mua](https://go.microsoft.com/fwlink/p/?linkid=868433)** thông tin thanh toán để xem các đăng ký sẵn dùng để mua cho tổ chức của bạn.
+1. Truy nhập trang   >  **[dịch vụ mua](https://go.microsoft.com/fwlink/p/?linkid=868433)** thông tin thanh toán để xem các đăng ký sẵn dùng để mua cho tổ chức của bạn.
 
 2. Định vị các kế hoạch Visio bằng cách tìm kiếm trên "Visio".
 

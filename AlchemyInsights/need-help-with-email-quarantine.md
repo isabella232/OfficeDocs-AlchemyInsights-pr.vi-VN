@@ -2,7 +2,7 @@
 title: Bạn cần trợ giúp với việc kiểm dịch email?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "5679"
-ms.openlocfilehash: 32e587e07694af32551f23d9249ce9affc75b3db
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b824e4fe12788848ff09cd7f0c6c5a43563fd5c1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47729929"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836337"
 ---
 # <a name="need-help-with-email-quarantine"></a>Bạn cần trợ giúp với việc kiểm dịch email?
 
