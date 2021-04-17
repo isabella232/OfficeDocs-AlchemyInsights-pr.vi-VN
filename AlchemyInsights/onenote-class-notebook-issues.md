@@ -2,7 +2,7 @@
 title: Các sự cố về OneNote Class Notebook
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000676"
 - "2577"
-ms.openlocfilehash: c4f487e8c823d7b1684ff74487d2d6af03948bac
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7fb08a4621349de3ac08887ebdb37fcbe95072f9
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47729353"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832728"
 ---
 # <a name="onenote-class-notebook-issues-and-resolutions"></a>Các sự cố và độ phân giải của sổ ghi chép OneNote Class
 

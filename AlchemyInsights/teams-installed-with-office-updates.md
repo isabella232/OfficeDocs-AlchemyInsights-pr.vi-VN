@@ -2,7 +2,7 @@
 title: Các nhóm được cài đặt với các bản Cập Nhật Office
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,12 +14,12 @@ ms.custom:
 - "9000140"
 - "9000660"
 - "2509"
-ms.openlocfilehash: 9a09800fcc36876629c7d59182f20b5b16393ef8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 36b0b1a7bf37c27304b4124157dba9aba337678c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47736526"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832404"
 ---
 # <a name="microsoft-teams-installed-with-office-updates"></a>Các nhóm Microsoft được cài đặt với các bản Cập Nhật Office
 

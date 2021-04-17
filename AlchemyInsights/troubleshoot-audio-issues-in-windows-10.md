@@ -2,7 +2,7 @@
 title: Khắc phục sự cố âm thanh trong Windows 10
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3476"
 - "9001463"
-ms.openlocfilehash: 88157f9c82bc970e989d47f5cf376b7ce485cb2a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1bafc97b2ab1394087d2451d73168a29267d64ab
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750365"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833313"
 ---
 # <a name="troubleshooting-audio-issues-in-windows-10"></a>Khắc phục sự cố âm thanh trong Windows 10
 
@@ -25,13 +25,13 @@ ms.locfileid: "47750365"
 
 1.  Mở [cài đặt khắc phục sự cố](ms-settings:troubleshoot).
 
-2.  Chọn **phát âm thanh**  >  **chạy trình**khắc phục sự cố.
+2.  Chọn **phát âm thanh**  >  **chạy trình** khắc phục sự cố.
 
 **Đặt thiết bị mặc định**
 
 Nếu bạn đang kết nối với thiết bị âm thanh bằng cách dùng USB hoặc HDMI, bạn có thể cần đặt thiết bị đó làm mặc định:
 
-1. Mở **Start**  >  **âm thanh**bắt đầu, rồi chọn **âm thanh** hoặc **thay đổi âm thanh hệ thống** từ danh sách kết quả.
+1. Mở   >  **âm thanh** bắt đầu, rồi chọn **âm thanh** hoặc **thay đổi âm thanh hệ thống** từ danh sách kết quả.
 
 2.  Trên tab **phát lại** , chọn một thiết bị, chọn **đặt mặc định**, rồi chọn **OK**.
 
@@ -63,4 +63,4 @@ Nếu bạn không thể cập nhật thông qua trình quản lý thiết bị 
 
 1. Trong trình quản lý thiết bị, bấm chuột phải (hoặc nhấn và giữ) trình điều khiển âm thanh, rồi chọn **gỡ cài đặt**. Khởi động lại thiết bị và Windows sẽ cố cài đặt lại trình điều khiển.
 
-2. Nếu cài đặt lại trình điều khiển không hoạt động, hãy thử sử dụng trình điều khiển âm thanh chung đi kèm với Windows. Trong trình quản lý thiết bị, bấm chuột phải (hoặc nhấn và giữ) trình điều khiển âm thanh của bạn > **Cập nhật phần mềm trình điều khiển**  >  **duyệt máy tính của tôi**để  >  **cho tôi chọn từ danh sách trình điều khiển thiết bị trên máy tính của tôi**, chọn **thiết bị âm thanh độ nét cao**, chọn **tiếp theo**, rồi làm theo hướng dẫn để cài đặt nó.
+2. Nếu cài đặt lại trình điều khiển không hoạt động, hãy thử sử dụng trình điều khiển âm thanh chung đi kèm với Windows. Trong trình quản lý thiết bị, bấm chuột phải (hoặc nhấn và giữ) trình điều khiển âm thanh của bạn > **Cập nhật phần mềm trình điều khiển**  >  **duyệt máy tính của tôi** để  >  **cho tôi chọn từ danh sách trình điều khiển thiết bị trên máy tính của tôi**, chọn **thiết bị âm thanh độ nét cao**, chọn **tiếp theo**, rồi làm theo hướng dẫn để cài đặt nó.

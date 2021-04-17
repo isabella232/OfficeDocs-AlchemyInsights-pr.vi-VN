@@ -2,7 +2,7 @@
 title: Các gợi ý về việc giải quyết OneNote 2016 bị thiếu
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2429"
 - "9000575"
-ms.openlocfilehash: 75ba2aba181d2689a05e3315a8b362877445c80c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c900a64ab51ee97dd3e725a5aca172378d0cf4b0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47808477"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833421"
 ---
 # <a name="suggestions-for-resolving-onenote-2016-is-missing"></a>Các gợi ý về việc giải quyết OneNote 2016 bị thiếu
 

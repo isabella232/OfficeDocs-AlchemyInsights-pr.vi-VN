@@ -2,7 +2,7 @@
 title: 'Thiết đặt bàn phím trong Windows 10 '
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001692"
 - "3769"
-ms.openlocfilehash: 4edd014c733191aa493a6b63561f7073d43fc87b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bcb2f7e85b99f1b1eed5da597d26d55aaaf76be2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47772825"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832989"
 ---
 # <a name="keyboard-settings-in-windows-10"></a>Thiết đặt bàn phím trong Windows 10
 
