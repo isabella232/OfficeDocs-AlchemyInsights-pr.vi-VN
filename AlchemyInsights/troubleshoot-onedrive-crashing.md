@@ -2,7 +2,7 @@
 title: Khắc phục sự cố OneDrive
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003084"
 - "5885"
-ms.openlocfilehash: 1155d370911b28bbb1ba83a15eace66d1daea28f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4bf45e7780dcbabb95b3eecfb2df55beffde11d6
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47665020"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826221"
 ---
 # <a name="troubleshoot-onedrive-crashes"></a>Khắc phục sự cố OneDrive
 
@@ -25,7 +25,7 @@ Nếu OneDrive liên tục gặp sự cố, hãy thử các bước khắc phụ
 
 **Đảm bảo các phím registry không được đặt:**
 
-1. Sử dụng trình soạn thảo sổ đăng ký, dẫn hướng đến HKEY_LOCAL_MACHINE \SOFTWARE\Policies\Microsoft\OneDrive
+1. Sử dụng trình soạn thảo sổ đăng ký, dẫn hướng đến HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\OneDrive
 2. Nếu giải pháp thay thế là trình bày và đặt thành 1, hãy mở khóa và thay đổi giá trị thành 0.
 3. Khởi động OneDrive theo cách thủ công bằng cách đi đến bắt đầu ![Nhấn phím Windows](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAAOCAYAAADJ7fe0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAADxSURBVDhPY/wPBAx4wR+Gd6/fM7x9/ZTh9ZuXDGdPnWE4tH0rw/UHDxlaVp9kCDCSYWABKfv35wfD+/cfGV4+fcLw5uVjhlOXzzFsX/qWYebmZAZPWWOGO2DD8ACQS9Y3e4Bcg4Y9/t94fPa/CoY4Aq8/+xik/T8TkEMxGDyGgANWwSqeobvbGSyAADIM3BwCDKXd3QyfoCLoQEGAA0xTxSWjsYMJwLHjkruU4UXSJ4YnT54x3Dh/luHmjfMMmw9wMjCDlRAGBDPgjy8fGT5//8rw9P4Thge3zzNcvXmDYevmfQzXb1xlmH/0ATADyjAAAKdWkD3ZSwNeAAAAAElFTkSuQmCC), nhập OneDrive vào hộp tìm kiếm, rồi bấm vào ứng dụng OneDrive trên máy tính.
 

@@ -2,7 +2,7 @@
 title: Các sự cố và độ phân giải phổ biến của Planner
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000685"
 - "3193"
-ms.openlocfilehash: b30b47493f9b9df0f6a5fd177745cad98c2d018a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4a289c9e932c1c1724017ffd6711b8466d4cad6d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802079"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826905"
 ---
 # <a name="planner-common-issues-and-resolutions"></a>Các sự cố và độ phân giải phổ biến của Planner
 

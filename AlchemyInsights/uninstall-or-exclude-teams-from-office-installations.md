@@ -2,7 +2,7 @@
 title: Gỡ cài đặt hoặc loại trừ các nhóm khỏi các bản cài đặt Office
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2662"
 - "9000660"
-ms.openlocfilehash: 22d69db749671afdfe7a809d1bc598e2ad1891d8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2d96d54cb479f5f52cc707d4307cf9cf1e891a01
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658243"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827814"
 ---
 # <a name="uninstall-or-exclude-teams-from-new-or-existing-office-installations"></a>Gỡ cài đặt hoặc loại trừ các nhóm từ các bản cài đặt Office mới hoặc hiện có
 

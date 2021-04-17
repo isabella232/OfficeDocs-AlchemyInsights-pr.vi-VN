@@ -2,7 +2,7 @@
 title: Tìm hiểu số tiền thanh toán
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003554"
 - "6680"
-ms.openlocfilehash: f48ee1e36909515bf81df1ebeb367f91e9a1c9ca
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: e18b01e75f8c0100df39f0c35ae8fe18846db803
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48808398"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827886"
 ---
 # <a name="understand-billing-amount"></a>Tìm hiểu số tiền thanh toán
 
@@ -28,7 +28,7 @@ ms.locfileid: "48808398"
 - Tìm hiểu về các điều khoản về phí sử dụng Azure: [thuật ngữ sử dụng đã giải thích](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-usage?WT.mc_id=Portal-Microsoft_Azure_Support)
 - Để tải PDF về hóa đơn của bạn và một bản sao của tệp sử dụng hàng ngày chi tiết (. CSV): [lấy hóa đơn và dữ liệu sử dụng](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Lưu ý** : nếu bạn hủy bỏ đăng ký/tài nguyên ở giữa chu kỳ thanh toán của mình, bạn vẫn có thể nhìn thấy một khoản phí vốn sẽ cho bất kỳ cách dùng nào trong tháng trước đó. Ví dụ, nếu chu kỳ thanh toán của bạn là từ ngày 26 của mỗi tháng đến ngày 25 của tháng tiếp theo & bạn đã tạm ngừng đăng ký trên 23, là 28 ngày vào chu kỳ thanh toán cho tháng sáu, bạn có thể thấy một khoản phí trong 28 ngày sử dụng. Nếu bạn thấy một khoản phí mặc dù hủy bỏ một thuê bao, hãy đảm bảo rằng bạn không có bất kỳ gói hỗ trợ nào khác gây ra phí. Nếu bạn thực hiện việc này, vui lòng tiếp tục và hủy bỏ gói đăng ký.
+**Lưu ý**: nếu bạn hủy bỏ đăng ký/tài nguyên ở giữa chu kỳ thanh toán của mình, bạn vẫn có thể nhìn thấy một khoản phí vốn sẽ cho bất kỳ cách dùng nào trong tháng trước đó. Ví dụ, nếu chu kỳ thanh toán của bạn là từ ngày 26 của mỗi tháng đến ngày 25 của tháng tiếp theo & bạn đã tạm ngừng đăng ký trên 23, là 28 ngày vào chu kỳ thanh toán cho tháng sáu, bạn có thể thấy một khoản phí trong 28 ngày sử dụng. Nếu bạn thấy một khoản phí mặc dù hủy bỏ một thuê bao, hãy đảm bảo rằng bạn không có bất kỳ gói hỗ trợ nào khác gây ra phí. Nếu bạn thực hiện việc này, vui lòng tiếp tục và hủy bỏ gói đăng ký.
 
 **Thỏa thuận khách hàng của Microsoft (MCA):**
 
@@ -51,7 +51,7 @@ ms.locfileid: "48808398"
 
 Xem lại hóa đơn ghi đè dịch vụ:
 
-- Đăng nhập vào **cổng thông tin doanh nghiệp** . Chọn **báo cáo**
+- Đăng nhập vào **cổng thông tin doanh nghiệp**. Chọn **báo cáo**
 - Ở góc trên cùng bên phải của tab, hãy chuyển chế độ xem từ **M** sang **C** và khớp với khoảng thời gian trên hóa đơn
 - Tổng số tiền **sử dụng** phải khớp với tổng số tiền **mở rộng** trên hóa đơn ghi đè dịch vụ của bạn
 - Đi đến mục **sử dụng tải xuống > tải xuống báo cáo nâng cao** để biết thêm thông tin **về cước phí của bạn: báo** cáo này không bao gồm thuế, phí đặt phòng hoặc chi phí thị trường
@@ -64,10 +64,10 @@ Xem lại hóa đơn Marketplace:
 
 So sánh tổng Azure Marketplace của bạn trên báo cáo > tóm tắt cách dùng trong cổng thông tin doanh nghiệp với hóa đơn Marketplace của bạn. Hóa đơn Marketplace chỉ dành cho Azure Marketplace mua và sử dụng. Số tiền trên bản tóm tắt sử dụng không bao gồm thuế.
 
-- Đăng nhập vào **cổng thông tin doanh nghiệp** . Chọn **báo cáo**
+- Đăng nhập vào **cổng thông tin doanh nghiệp**. Chọn **báo cáo**
 - Ở góc trên cùng bên phải của tab, hãy chuyển chế độ xem từ **M** sang **C** và khớp với khoảng thời gian trên hóa đơn
 - Tổng **Azure Marketplace** phải khớp với **tổng doanh** thu trên hóa đơn Marketplace của bạn
-- Đi đến **sử dụng tải xuống** để biết thêm thông tin về các chi phí dựa trên mức sử dụng của bạn. Bên dưới **phí Marketplace** , chọn **tải xuống** **ghi chú** : báo cáo này không bao gồm thuế hoặc hiển thị các gói mua một lần
+- Đi đến **sử dụng tải xuống** để biết thêm thông tin về các chi phí dựa trên mức sử dụng của bạn. Bên dưới **phí Marketplace**, chọn **tải xuống** **ghi chú**: báo cáo này không bao gồm thuế hoặc hiển thị các gói mua một lần
 
 **Nhà cung cấp giải pháp điện toán đám mây (CPC)**
 

@@ -2,7 +2,7 @@
 title: Ứng dụng Word bị treo, gặp sự cố hoặc không bắt đầu
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000584"
 - "2686"
-ms.openlocfilehash: 2105984bd6a9b04762e7e9153120c8c394c0b599
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6eb8f22931c8ca0518a6f5e6219904eea01f0328
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47698848"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825897"
 ---
 # <a name="word-crashes-or-doesnt-respond"></a>Word gặp sự cố hoặc không trả lời
 
 Các sự cố thường gặp trong Word có thể do một bổ trợ bị lỗi. Bạn có thể tắt các phần bổ trợ Word bằng cách tuân theo các hướng dẫn sau:
 
-1. Đi đến **File**phần bổ trợ  >  **tùy chọn**tệp  >  **Add-ins**.
+1. Đi đến phần bổ trợ  >  **tùy chọn** tệp  >  .
 2. Trong danh sách **quản lý** , chọn **bổ trợ com**, rồi chọn **đi**.
 3. Trong hộp **bổ trợ sẵn dùng** , bỏ chọn hộp kiểm bên cạnh phần bổ trợ mà bạn muốn tắt, rồi chọn **OK**.
 

@@ -2,7 +2,7 @@
 title: Chạy chẩn đoán bộ nhớ Windows trong Windows 10
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002959"
 - "5661"
-ms.openlocfilehash: f2b8306d0cd604b144b82275243c5a84580bc609
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ff8f80b3df4e3809e844195128f4d99cbc4667be
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47720812"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826689"
 ---
 # <a name="run-windows-memory-diagnostics-in-windows-10"></a>Chạy chẩn đoán bộ nhớ Windows trong Windows 10
 
@@ -40,4 +40,4 @@ Và thông báo mẫu: ![Không có lỗi bộ nhớ](media/no-memory-errors.png
 
 Nếu bạn bị nhỡ thông báo, bạn có thể chọn biểu tượng **Trung tâm hành động** trên thanh tác vụ để hiển thị **Trung tâm hành động** và xem danh sách thông báo có thể cuộn.
 
-Để xem lại thông tin chi tiết, hãy nhập **sự kiện** vào hộp tìm kiếm trên thanh tác vụ của bạn, rồi chọn **trình xem sự kiện**. Trong ngăn bàn tay trái của **trình xem sự kiện**, dẫn hướng đến **hệ thống > Nhật ký**của bạn. Trong ngăn bên phải, hãy quét xuống danh sách trong khi đang xem cột **nguồn** , cho đến khi bạn thấy các sự kiện với **memorydiagnostics giá trị nguồn-kết quả**. Tô sáng từng sự kiện đó và xem thông tin kết quả trong hộp bên dưới tab **chung** bên dưới danh sách.
+Để xem lại thông tin chi tiết, hãy nhập **sự kiện** vào hộp tìm kiếm trên thanh tác vụ của bạn, rồi chọn **trình xem sự kiện**. Trong ngăn bàn tay trái của **trình xem sự kiện**, dẫn hướng đến **hệ thống > Nhật ký** của bạn. Trong ngăn bên phải, hãy quét xuống danh sách trong khi đang xem cột **nguồn** , cho đến khi bạn thấy các sự kiện với **memorydiagnostics giá trị nguồn-kết quả**. Tô sáng từng sự kiện đó và xem thông tin kết quả trong hộp bên dưới tab **chung** bên dưới danh sách.
