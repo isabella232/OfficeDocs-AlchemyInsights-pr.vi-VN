@@ -2,7 +2,7 @@
 title: Thay đổi mật khẩu bộ định tuyến W-Fi
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3486"
 - "9001467"
-ms.openlocfilehash: 85aa158d917521fac871fd5c6687737fd22d736c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 61de1cd3e1cab28c01aa0a2fddcd41a13a92d361
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47733457"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818230"
 ---
 # <a name="change-your-wi-fi-router-password"></a>Thay đổi mật khẩu bộ định tuyến Wi-Fi của bạn
 
@@ -40,4 +40,4 @@ ms.locfileid: "47733457"
 
    - Liên hệ với nhà sản xuất bộ định tuyến của bạn nếu bạn cần Nhật ký hỗ trợ bổ sung vào trang web này.
 
-7. Sau khi bạn đã đăng nhập, hãy tìm thiết đặt không dây. Bây giờ, bạn có thể thay đổi mật khẩu Wi-Fi của mình.
+7. Sau khi bạn đã đăng nhập, hãy tìm thiết đặt không dây. Bây giờ bạn có thể thay đổi mật khẩu Wi-Fi của bạn.

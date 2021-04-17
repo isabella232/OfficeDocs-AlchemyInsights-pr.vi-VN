@@ -2,7 +2,7 @@
 title: Hủy bỏ đăng ký trong Azure
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003797"
 - "6786"
-ms.openlocfilehash: f85608446c8b230753dccd06ee5b5ea36aed7802
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: fcb767f5e981e8e208914a76f3b88f4433e42818
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48807936"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819606"
 ---
 # <a name="cancel-subscription"></a>Hủy bỏ đăng ký
 
@@ -25,7 +25,7 @@ Chỉ người quản trị tài khoản hoặc chủ sở hữu ngay trên thu�
 
 1. Chọn đăng ký của bạn từ [trang đăng ký trong cổng thông tin Azure](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade).
 2. Chọn thuê bao mà bạn muốn hủy bỏ.
-3. Chọn **tổng quan** , rồi chọn **hủy bỏ đăng ký** .
+3. Chọn **tổng quan**, rồi chọn **hủy bỏ đăng ký**.
 
 **Điều gì xảy ra sau khi tôi hủy bỏ đăng ký của mình?**
 

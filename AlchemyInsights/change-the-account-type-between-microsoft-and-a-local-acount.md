@@ -2,7 +2,7 @@
 title: Thay đổi loại tài khoản giữa tài khoản Microsoft và tài khoản cục bộ
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3450"
 - "9001449"
-ms.openlocfilehash: 2a353d83e341119b900d900c8c4a83bfba582f6d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 488615dfb6bc1316c1d76d50e37737034b569113
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47681534"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818454"
 ---
 # <a name="change-the-account-type-that-you-sign-in-with"></a>Thay đổi loại tài khoản bạn đăng nhập bằng
 

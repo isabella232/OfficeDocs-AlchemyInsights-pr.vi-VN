@@ -2,7 +2,7 @@
 title: Không thể kết nối Internet
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3434"
 - "9001438"
-ms.openlocfilehash: 50e901a0bb6e6b4abefbb3aa8946c40fb11dfc99
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6d865aa08a5703ec5906d7f263532184fc50ed7e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794284"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819462"
 ---
 # <a name="fix-network-connection"></a>Khắc phục kết nối mạng
 
@@ -25,9 +25,9 @@ ms.locfileid: "47794284"
 
 1. [Mở cài đặt khắc phục sự cố](ms-settings:troubleshoot).
 
-2. Bên dưới **kết nối Internet**, chọn **chạy trình**khắc phục sự cố.
+2. Bên dưới **kết nối Internet**, chọn **chạy trình** khắc phục sự cố.
 
-Nếu bạn đang sử dụng kết nối Wi-Fi, hãy đảm bảo rằng Wi-Fi được bật cho thiết bị của bạn (bao gồm bất kỳ chuyển đổi Wi-Fi vật lý) và chế độ máy bay đó không được bật.
+Nếu bạn đang sử dụng kết nối Wi-Fi, hãy đảm bảo rằng Wi-Fi đã được bật cho thiết bị của bạn (bao gồm bất kỳ khóa chuyển nào về thể Wi-Fi chất nào) và chế độ máy bay đó không được bật.
 
 Nếu bạn đang sử dụng kết nối Ethernet, hãy đảm bảo rằng cáp được cắm một cách an toàn vào PC và bộ định tuyến hoặc modem của bạn.
 
@@ -39,7 +39,7 @@ Nếu thao tác này không hiệu quả, hãy thử khởi động lại PC, mo
 
 3. Cắm cáp Power cho modem và bộ định tuyến.
 
-4. Trong khi bạn chờ modem và bộ định tuyến hoàn toàn Power on, khởi động lại PC của bạn: **bắt đầu**  >  **Power**  >  **khởi động lại**Power.
+4. Trong khi bạn chờ modem và bộ định tuyến hoàn toàn Power on, khởi động lại PC của bạn: **bắt đầu**  >    >  **khởi động lại** Power.
 
 **Khắc phục sự cố nâng cao**
 

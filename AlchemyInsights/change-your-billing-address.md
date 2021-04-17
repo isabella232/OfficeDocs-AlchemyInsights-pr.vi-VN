@@ -2,7 +2,7 @@
 title: Thay đổi địa chỉ thanh toán của bạn
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,12 +14,12 @@ ms.custom:
 - "1200012"
 - "4714"
 - "4715"
-ms.openlocfilehash: 09de8ad5c7251822c7b3ad33bce991c6b4ca7883
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4addf495f0879376ee7b40e2c57ac6e72aa41455
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47714458"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818238"
 ---
 # <a name="change-your-billing-address"></a>Thay đổi địa chỉ thanh toán của bạn
 
