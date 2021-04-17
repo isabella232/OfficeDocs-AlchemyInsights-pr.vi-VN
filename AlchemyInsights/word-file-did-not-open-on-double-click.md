@@ -2,7 +2,7 @@
 title: Tệp Word không mở được khi bấm đúp
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "850"
 - "2100002"
-ms.openlocfilehash: 15ace133c344020e0056eff32d77911a9c23d376
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0b29aa150d9eead7fa97768a1cd59c1601cfce77
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794825"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834141"
 ---
 # <a name="word-document-opened-in-the-wrong-app-or-didnt-open"></a>Tài liệu Word được mở trong ứng dụng sai hoặc không mở
 

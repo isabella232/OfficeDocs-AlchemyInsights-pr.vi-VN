@@ -2,7 +2,7 @@
 title: Sử dụng Hiển thị hoặc bến cảng không dây
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001516"
 - "3582"
-ms.openlocfilehash: 5b0db5a7be944b9cf5872aa93c0a55bb1fe6b3c9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b769773206aa2be4118d655a82cb8d0703f1149b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795149"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834429"
 ---
 # <a name="use-wireless-displays-or-docks"></a>Sử dụng Hiển thị hoặc bến cảng không dây
 
@@ -37,7 +37,7 @@ ms.locfileid: "47795149"
     
     - Nhập "kết nối" rồi bấm **kết nối** từ danh sách kết quả. Trong ứng dụng kết nối, văn bản sẽ cho bạn biết liệu thiết bị chạy Windows 10 của bạn có hỗ trợ. 
 
-2. Đảm bảo đã bật Wi-Fi. 
+2. Hãy đảm bảo rằng Wi-Fi đã bật. 
 
 3. Đảm bảo rằng Hiển thị hỗ trợ Miracast và xác minh đã bật. Nếu không dây không có màn hình, bạn sẽ cần một adapter Miracast (đôi khi được gọi là dongle) mà cắm vào cổng HDMI.
 

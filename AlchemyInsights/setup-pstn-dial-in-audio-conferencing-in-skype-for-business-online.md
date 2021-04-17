@@ -2,7 +2,7 @@
 title: Thiết lập PSTN quay số vào hội thảo âm thanh trong Skype for Business Online
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,12 +13,12 @@ ms.custom:
 - "9001521"
 - "3577"
 - "3579"
-ms.openlocfilehash: 809627422cd245a6b5962762ced5b524dd0f3730
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9e401cb59d4536fb8d2def4e61017f13fc59e2c3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47739559"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835509"
 ---
 # <a name="setup-pstn-dial-in-audio-conferencing-in-skype-for-business-online"></a>Thiết lập PSTN quay số vào hội thảo âm thanh trong Skype for Business Online
 
