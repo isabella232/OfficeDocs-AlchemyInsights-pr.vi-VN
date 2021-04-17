@@ -2,7 +2,7 @@
 title: Microsoft Forms catchall
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "2549"
 - "9000672"
-ms.openlocfilehash: eac1aea5cbd0117db0555ff6b4578d7242072d11
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a5857219d88b7a6c5693940df523b6920abad4cb
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47724961"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823845"
 ---
-# <a name="get-information-about-microsoft-forms"></a><span data-ttu-id="34f49-102">Nhận thông tin về các biểu mẫu Microsoft</span><span class="sxs-lookup"><span data-stu-id="34f49-102">Get information about Microsoft Forms</span></span>
+# <a name="get-information-about-microsoft-forms"></a><span data-ttu-id="36fc3-102">Nhận thông tin về các biểu mẫu Microsoft</span><span class="sxs-lookup"><span data-stu-id="36fc3-102">Get information about Microsoft Forms</span></span>
 
-<span data-ttu-id="34f49-103">Để biết thông tin cụ thể về biểu mẫu Microsoft, hãy đặt lại thời gian ngắn câu hỏi của bạn để mô tả sự cố của bạn, bao gồm lỗi, tính năng mà bạn đang sử dụng, v.v.</span><span class="sxs-lookup"><span data-stu-id="34f49-103">For specific information about Microsoft Forms, briefly rephrase your question to describe your issue, including errors, features you're using, etc.</span></span> 
+<span data-ttu-id="36fc3-103">Để biết thông tin cụ thể về biểu mẫu Microsoft, hãy đặt lại thời gian ngắn câu hỏi của bạn để mô tả sự cố của bạn, bao gồm lỗi, tính năng mà bạn đang sử dụng, v.v.</span><span class="sxs-lookup"><span data-stu-id="36fc3-103">For specific information about Microsoft Forms, briefly rephrase your question to describe your issue, including errors, features you're using, etc.</span></span> 
 
-<span data-ttu-id="34f49-104">Dưới đây là một số tài nguyên bổ sung:</span><span class="sxs-lookup"><span data-stu-id="34f49-104">Here are some additional resources:</span></span>
+<span data-ttu-id="36fc3-104">Dưới đây là một số tài nguyên bổ sung:</span><span class="sxs-lookup"><span data-stu-id="36fc3-104">Here are some additional resources:</span></span>
 
-- [<span data-ttu-id="34f49-105">Kiểm tra kích hoạt giấy phép và trạng thái của Azure CollabDBService cho đối tượng thuê của bạn</span><span class="sxs-lookup"><span data-stu-id="34f49-105">Check license activation and the status of the Azure CollabDBService for your tenant</span></span>](https://support.office.com/article/Turn-off-or-turn-on-Microsoft-Forms-8dcbf3ab-f2d6-459a-b8be-8d9892132a43)
-- [<span data-ttu-id="34f49-106">Chia sẻ bài kiểm tra hoặc biểu mẫu trong Microsoft Forms</span><span class="sxs-lookup"><span data-stu-id="34f49-106">Share a quiz or form in Microsoft Forms</span></span>](https://support.office.com/article/Share-a-form-to-collaborate-d5bb5cf0-8401-4c15-bb8c-8e108cd7e69b)
-- [<span data-ttu-id="34f49-107">Quản lý khả năng chia sẻ biểu mẫu bên ngoài</span><span class="sxs-lookup"><span data-stu-id="34f49-107">Manage the ability to share forms externally</span></span>](https://support.office.com/article/set-up-microsoft-forms-cc52287a-4550-464d-9a1b-457bf9df2240?#PickTab=Configure)
-- [<span data-ttu-id="34f49-108">Xóa biểu mẫu hoặc khôi phục biểu mẫu đã xóa</span><span class="sxs-lookup"><span data-stu-id="34f49-108">Delete a form or recover a deleted form</span></span>](https://support.office.com/article/Delete-a-form-2207e468-ce1b-4c4a-a256-caf631d87af0)
-- [<span data-ttu-id="34f49-109">In kết quả trong biểu mẫu của một bản tóm tắt các phản hồi</span><span class="sxs-lookup"><span data-stu-id="34f49-109">Print results in the form of a summary of responses</span></span>](https://support.office.com/article/Print-a-form-22100b98-ba3c-41c1-9513-f76caca664fc)
-- [<span data-ttu-id="34f49-110">Di chuyển khảo sát, bài kiểm tra hoặc cuộc bỏ phiếu vào nhóm</span><span class="sxs-lookup"><span data-stu-id="34f49-110">Move a survey, quiz, or poll to a group</span></span>](https://support.office.com/article/Transfer-ownership-of-a-form-921a6361-a4e5-44ea-bce9-c4ed63aa54b4)
-- [<span data-ttu-id="34f49-111">Chuyển quyền sở hữu của một biểu mẫu cho người dùng khác</span><span class="sxs-lookup"><span data-stu-id="34f49-111">Transfer ownership of a form to another user</span></span>](https://support.office.com/article/Transfer-ownership-of-a-form-921a6361-a4e5-44ea-bce9-c4ed63aa54b4)
+- [<span data-ttu-id="36fc3-105">Kiểm tra kích hoạt giấy phép và trạng thái của Azure CollabDBService cho đối tượng thuê của bạn</span><span class="sxs-lookup"><span data-stu-id="36fc3-105">Check license activation and the status of the Azure CollabDBService for your tenant</span></span>](https://support.office.com/article/Turn-off-or-turn-on-Microsoft-Forms-8dcbf3ab-f2d6-459a-b8be-8d9892132a43)
+- [<span data-ttu-id="36fc3-106">Chia sẻ bài kiểm tra hoặc biểu mẫu trong Microsoft Forms</span><span class="sxs-lookup"><span data-stu-id="36fc3-106">Share a quiz or form in Microsoft Forms</span></span>](https://support.office.com/article/Share-a-form-to-collaborate-d5bb5cf0-8401-4c15-bb8c-8e108cd7e69b)
+- [<span data-ttu-id="36fc3-107">Quản lý khả năng chia sẻ biểu mẫu bên ngoài</span><span class="sxs-lookup"><span data-stu-id="36fc3-107">Manage the ability to share forms externally</span></span>](https://support.office.com/article/set-up-microsoft-forms-cc52287a-4550-464d-9a1b-457bf9df2240?#PickTab=Configure)
+- [<span data-ttu-id="36fc3-108">Xóa biểu mẫu hoặc khôi phục biểu mẫu đã xóa</span><span class="sxs-lookup"><span data-stu-id="36fc3-108">Delete a form or recover a deleted form</span></span>](https://support.office.com/article/Delete-a-form-2207e468-ce1b-4c4a-a256-caf631d87af0)
+- [<span data-ttu-id="36fc3-109">In kết quả trong biểu mẫu của một bản tóm tắt các phản hồi</span><span class="sxs-lookup"><span data-stu-id="36fc3-109">Print results in the form of a summary of responses</span></span>](https://support.office.com/article/Print-a-form-22100b98-ba3c-41c1-9513-f76caca664fc)
+- [<span data-ttu-id="36fc3-110">Di chuyển khảo sát, bài kiểm tra hoặc cuộc bỏ phiếu vào nhóm</span><span class="sxs-lookup"><span data-stu-id="36fc3-110">Move a survey, quiz, or poll to a group</span></span>](https://support.office.com/article/Transfer-ownership-of-a-form-921a6361-a4e5-44ea-bce9-c4ed63aa54b4)
+- [<span data-ttu-id="36fc3-111">Chuyển quyền sở hữu của một biểu mẫu cho người dùng khác</span><span class="sxs-lookup"><span data-stu-id="36fc3-111">Transfer ownership of a form to another user</span></span>](https://support.office.com/article/Transfer-ownership-of-a-form-921a6361-a4e5-44ea-bce9-c4ed63aa54b4)
