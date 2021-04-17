@@ -2,7 +2,7 @@
 title: Thiết đặt khởi động trong Windows 10
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001691"
 - "3768"
-ms.openlocfilehash: e49faca66785c6611dda702a381c39cdb10884f8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6dfae58a398db088ba00d9c2ea9788bab929ccc1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47751157"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51828174"
 ---
 # <a name="startup-settings-in-windows-10"></a>Thiết đặt khởi động trong Windows 10
 
@@ -25,7 +25,7 @@ ms.locfileid: "47751157"
 
 1. Đi đến [cài đặt > ứng dụng > khởi động](ms-settings:startupapps?activationSource=GetHelp).
 
-2. Hãy đảm bảo bất kỳ ứng dụng nào mà bạn muốn chạy **khi bật khởi**động.
+2. Hãy đảm bảo bất kỳ ứng dụng nào mà bạn muốn chạy **khi bật khởi** động.
 
 **Thêm ứng dụng để chạy tự động khi khởi động**
 

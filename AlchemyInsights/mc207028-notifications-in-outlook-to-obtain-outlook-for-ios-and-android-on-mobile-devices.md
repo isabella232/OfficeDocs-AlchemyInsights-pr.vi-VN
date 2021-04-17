@@ -2,7 +2,7 @@
 title: MC207028-thông báo trong Outlook để có được Outlook for iOS và Android trên các thiết bị di động
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,12 +14,12 @@ ms.custom:
 - "4992"
 - "9002628"
 - "5047"
-ms.openlocfilehash: 68dae32e63ff6b73654b0e6dccf96a7cef81e100
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f7321067edb3c0ce41dedaa00324dcae42ec7ec9
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47807429"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830091"
 ---
 # <a name="mc207028---notifications-in-outlook-to-obtain-outlook-for-ios-and-android-on-mobile-devices"></a>MC207028-thông báo trong Outlook để có được Outlook for iOS và Android trên các thiết bị di động
 

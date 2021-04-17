@@ -14,17 +14,16 @@ ms.custom:
 - "254"
 - "3500002"
 ms.assetid: 8282bd76-79f7-4f8a-ae2b-dc8f9ac1aa62
-ms.openlocfilehash: 500cd8bdf609a741c3a8653ebb27d8f6e6a5bab9
-ms.sourcegitcommit: 1070c392bb32f0f9e660d9f156c10c212b5dfb50
+ms.openlocfilehash: a35c235efc4571d465c6d6a375866e6570152164
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/14/2021
-ms.locfileid: "51767923"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829542"
 ---
 # <a name="account-is-restricted-for-sending-too-much-spam"></a>Tài khoản bị hạn chế để gửi quá nhiều thư rác
 
-> [!NOTE]
-> Bạn có thể truy nhập trung tâm bảo mật của Microsoft 365 tại [Security.Microsoft.com](https://security.microsoft.com).
+**Ghi chú** Bạn có thể truy nhập vào Trung tâm bảo mật Microsoft 365 tại [https://security.microsoft.com](https://security.microsoft.com) .
 
 Với tư cách là người quản trị, nếu một trong những người dùng của bạn bị hạn chế khi gửi email, bạn có thể [bỏ chặn tài khoản của mình](https://security.microsoft.com/?hash=/restrictedusers) **mà không cần mở một trường hợp hỗ trợ**. Người dùng sẽ có thể gửi email trong vòng một giờ sau khi loại bỏ hạn chế.
 

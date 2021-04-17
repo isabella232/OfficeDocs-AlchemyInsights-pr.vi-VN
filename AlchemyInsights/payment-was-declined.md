@@ -2,7 +2,7 @@
 title: Khoản thanh toán của bạn đã bị từ chối
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001506"
 - "4732"
-ms.openlocfilehash: 9951ca12fab132a7720a12d8cc9ea4a5695db9cd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5938b4f91d3459f5c41711566f8afd99f0dd28ea
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47742045"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829074"
 ---
 # <a name="your-payment-was-declined"></a>Khoản thanh toán của bạn đã bị từ chối
 
@@ -27,7 +27,7 @@ Microsoft sẽ cố gắng tính phí cho thẻ của bạn nhiều lần trong 
 
 **Thay thế phương thức thanh toán cho tất cả các mục**
 
-1. Trong Trung tâm quản trị, đi tới **Billing**  >  **hóa đơn thanh toán &**  >  trang[phương thức](https://go.microsoft.com/fwlink/p/?linkid=2018806) thanh toán thanh toán.
+1. Trong Trung tâm quản trị, đi tới   >  **hóa đơn thanh toán &**  >  trang [phương thức](https://go.microsoft.com/fwlink/p/?linkid=2018806) thanh toán thanh toán.
 
 2. Chọn hàng của phương thức thanh toán để thay thế. Ngăn bên phải liệt kê tất cả các hồ sơ thanh toán và đăng ký riêng lẻ sử dụng phương thức thanh toán đã chọn.
 
@@ -46,7 +46,7 @@ Microsoft sẽ cố gắng tính phí cho thẻ của bạn nhiều lần trong 
 
 **Cập Nhật chi tiết phương thức thanh toán**
 
-1. Trong Trung tâm quản trị, đi tới **Billing**  >  **hóa đơn thanh toán &**  >  trang[phương thức](https://go.microsoft.com/fwlink/p/?linkid=2018806) thanh toán thanh toán.
+1. Trong Trung tâm quản trị, đi tới   >  **hóa đơn thanh toán &**  >  trang [phương thức](https://go.microsoft.com/fwlink/p/?linkid=2018806) thanh toán thanh toán.
 
 2. Chọn hàng của phương thức thanh toán để cập nhật. Trong ngăn bên phải, chọn **chỉnh sửa**.
 
