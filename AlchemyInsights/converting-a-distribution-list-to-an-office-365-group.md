@@ -1,5 +1,5 @@
 ---
-title: 712 chuyển đổi danh sách phân phối thành nhóm Microsoft 365
+title: 712 Chuyển đổi danh sách phân phối thành nhóm Microsoft 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,15 +14,15 @@ ms.custom:
 - "712"
 - "3"
 ms.assetid: a54600a0-e150-4a1a-8d67-ed77624bb928
-ms.openlocfilehash: d184db0a82e4f10108ddad80611fc9a47483cfe7
-ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
+ms.openlocfilehash: bf67bb6cde723ceb878488a0bfbe08315a945949
+ms.sourcegitcommit: 1597d973e16aebda24421f18b911ea4c7197dfc3
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "51692344"
+ms.lasthandoff: 04/20/2021
+ms.locfileid: "51897335"
 ---
-# <a name="convert-a-distribution-group-to-a-microsoft-365-group"></a><span data-ttu-id="bd4c3-102">Chuyển đổi một nhóm phân phối thành một nhóm Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="bd4c3-102">Convert a distribution group to a Microsoft 365 Group</span></span>
+# <a name="convert-a-distribution-group-to-a-microsoft-365-group"></a><span data-ttu-id="c3b10-102">Chuyển đổi một nhóm phân phối thành Nhóm Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="c3b10-102">Convert a distribution group to a Microsoft 365 Group</span></span>
 
-<span data-ttu-id="bd4c3-103">Bạn có thể chuyển đổi nhóm phân phối thành các nhóm Microsoft 365 nếu chúng thỏa mãn các tiêu chí nhất định.</span><span class="sxs-lookup"><span data-stu-id="bd4c3-103">You can convert distribution groups to Microsoft 365 Groups if they satisfy certain criteria.</span></span> <span data-ttu-id="bd4c3-104">Để chuyển đổi một nhóm hoặc khắc phục sự cố chuyển đổi, hãy xem mục [nâng cấp danh sách phân phối cho các nhóm Microsoft 365 trong Outlook](https://docs.microsoft.com/microsoft-365/admin/manage/upgrade-distribution-lists).</span><span class="sxs-lookup"><span data-stu-id="bd4c3-104">To convert a group or troubleshoot conversion issues, see [Upgrade distribution lists to Microsoft 365 Groups in Outlook](https://docs.microsoft.com/microsoft-365/admin/manage/upgrade-distribution-lists).</span></span>
+<span data-ttu-id="c3b10-103">Bạn có thể chuyển đổi nhóm phân phối thành Nhóm Microsoft 365 nếu chúng thỏa mãn các tiêu chí nhất định.</span><span class="sxs-lookup"><span data-stu-id="c3b10-103">You can convert distribution groups to Microsoft 365 Groups if they satisfy certain criteria.</span></span> <span data-ttu-id="c3b10-104">Để chuyển đổi nhóm hoặc khắc phục sự cố chuyển đổi, hãy xem nâng cấp danh sách phân [phối lên Nhóm Microsoft 365 trong Outlook.](https://docs.microsoft.com/microsoft-365/admin/manage/upgrade-distribution-lists)</span><span class="sxs-lookup"><span data-stu-id="c3b10-104">To convert a group or troubleshoot conversion issues, see [Upgrade distribution lists to Microsoft 365 Groups in Outlook](https://docs.microsoft.com/microsoft-365/admin/manage/upgrade-distribution-lists).</span></span>
 
-<span data-ttu-id="bd4c3-105">W alsoe có một tập lệnh mà bạn có thể chạy để giúp bạn [phê chuẩn nhóm phân phối đủ điều kiện để nâng cấp lên nhóm Microsoft 365](https://aka.ms/DLToM365Group).</span><span class="sxs-lookup"><span data-stu-id="bd4c3-105">W alsoe have a script you can run to help you with [Validating Distribution Group eligibility for upgrade to Microsoft 365 Group](https://aka.ms/DLToM365Group).</span></span>
+<span data-ttu-id="c3b10-105">Chúng tôi cũng có một tập lệnh mà bạn có thể chạy để trợ giúp bạn về tính đủ điều kiện của Nhóm Phân phối Xác thực để [nâng cấp lên Nhóm Microsoft 365.](https://aka.ms/DLToM365Group)</span><span class="sxs-lookup"><span data-stu-id="c3b10-105">We also have a script you can run to help you with [Validating Distribution Group eligibility for upgrade to Microsoft 365 Group](https://aka.ms/DLToM365Group).</span></span>
