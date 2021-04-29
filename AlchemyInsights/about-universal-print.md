@@ -1,5 +1,5 @@
 ---
-title: Giới thiệu về bản in phổ quát
+title: Giới thiệu về In Chung
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,17 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005502"
 - "9434"
-ms.openlocfilehash: cd72d9e3b783d4a2e17fe5ac971e785824bc1798
-ms.sourcegitcommit: e5f261f95ffc6074cce89e62ef8c4e9fd519d3ee
+ms.openlocfilehash: 90ecb6f7656e5f4f0a8c3da3692f0892f4829d10
+ms.sourcegitcommit: c9021d873950e378c927e39e179b5da4ff17b880
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/26/2021
-ms.locfileid: "51405486"
+ms.lasthandoff: 04/29/2021
+ms.locfileid: "52080003"
 ---
-# <a name="about-universal-print"></a>Giới thiệu về bản in phổ quát
+# <a name="about-universal-print"></a>Giới thiệu về In Chung
 
-In phổ quát được bao gồm trong đăng ký Microsoft 365 và các thuê bao trên Windows 10, nhưng cũng có thể được mua với tư cách là một đăng ký độc lập.
+Universal Print được tích hợp với các đăng ký Microsoft 365 và Windows 10 thương mại và giáo dục, nhưng cũng có thể mua dưới dạng đăng ký độc lập.
 
-Tìm hiểu cách thiết lập máy in, cấp cho người dùng quyền truy nhập và hoàn thành công việc in đầu tiên của bạn trên trang Onboarding đến Universal Print.
+Để biết thêm thông tin, hãy [xem mục Giấy phép phổ biến | Microsoft Docs](https://docs.microsoft.com/universal-print/fundamentals/universal-print-license).
 
-Để biết thêm thông tin, hãy xem [giấy phép in Universal | ](https://docs.microsoft.com/universal-print/fundamentals/universal-print-license)Tài liệu Microsoft.
+**Để được hỗ trợ kỹ thuật in chung**
+
+Người đăng ký Azure có thể tạo và quản lý yêu cầu hỗ trợ cho Universal Print trong cổng thông tin Azure. Dịch vụ hỗ trợ được cung cấp cho những người đăng ký Azure có Gói Hỗ trợ Azure được liên kết với đăng ký của họ.  [Đăng nhập vào cổng thông tin Azure](https://ms.portal.azure.com/#blade/Microsoft_Azure_Support/HelpAndSupportBlade/newsupportrequest) để gửi sự cố.
