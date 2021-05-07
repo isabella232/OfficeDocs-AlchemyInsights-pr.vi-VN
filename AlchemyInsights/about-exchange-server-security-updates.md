@@ -1,5 +1,5 @@
 ---
-title: Giới thiệu về bản Cập Nhật bảo mật của Exchange Server
+title: Giới thiệu về Exchange Server cập nhật
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -15,21 +15,19 @@ ms.custom:
 - "9005483"
 - "9413"
 - "9412"
-ms.openlocfilehash: 6e902151fe06227c74413a4fd98e3211343e510b
-ms.sourcegitcommit: be246651064dfeacc866b2f69c0dbe4002a73f1c
+ms.openlocfilehash: 9f012d0f500eeec4e5a7f1152b9a3ba3bebe1b57
+ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50726549"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52233484"
 ---
-# <a name="about-exchange-server-security-updates"></a><span data-ttu-id="33b73-102">Giới thiệu về bản Cập Nhật bảo mật của Exchange Server</span><span class="sxs-lookup"><span data-stu-id="33b73-102">About Exchange Server Security updates</span></span>
+# <a name="about-exchange-server-updates"></a><span data-ttu-id="f21bf-102">Giới thiệu về Exchange Server cập nhật</span><span class="sxs-lookup"><span data-stu-id="f21bf-102">About Exchange Server updates</span></span>
 
-<span data-ttu-id="33b73-103">Microsoft đã phát hành một chuỗi các bản Cập Nhật bảo mật quan trọng dành cho Exchange Server tại chỗ.</span><span class="sxs-lookup"><span data-stu-id="33b73-103">Microsoft has released a series of critical security updates for Exchange Server on-premises.</span></span> <span data-ttu-id="33b73-104">Các phiên bản máy chủ bị ảnh hưởng là bất kỳ mức Cập Nhật của Exchange Server 2010, 2013, 2016 và 2019.</span><span class="sxs-lookup"><span data-stu-id="33b73-104">The affected server versions are any update levels of Exchange Server 2010, 2013, 2016 and 2019.</span></span> <span data-ttu-id="33b73-105">Exchange Online không bị ảnh hưởng nhưng nếu bạn có một số máy chủ Exchange tại cơ sở do cấu hình hỗn hợp, họ có khả năng dễ bị tổn thương.</span><span class="sxs-lookup"><span data-stu-id="33b73-105">Exchange Online is NOT impacted, but if you have some on-premises Exchange servers due to Hybrid configuration, they are potentially vulnerable.</span></span>
+<span data-ttu-id="f21bf-103">Microsoft thường phát hành các Exchange Server cập nhật vào Ngày Thứ Ba (Cập nhật Bảo mật) hoặc hàng quý (Cập nhật Tích lũy).</span><span class="sxs-lookup"><span data-stu-id="f21bf-103">Microsoft usually releases Exchange Server updates on Update Tuesday (Security Updates) or quarterly (Cumulative Updates).</span></span> <span data-ttu-id="f21bf-104">Để xem thông báo về các bản cập nhật phát hành mới nhất được phát hành, [hãy xem Exchange Blog của Nhóm.](https://aka.ms/ehlo)</span><span class="sxs-lookup"><span data-stu-id="f21bf-104">To see the announcements of latest released updates released, see the [Exchange Team Blog](https://aka.ms/ehlo).</span></span>
 
-<span data-ttu-id="33b73-106">Vui lòng xem thông báo sau cho vị trí của bản sửa lỗi: đã [phát hành: bản Cập Nhật bảo mật máy chủ 2021 của Exchange](https://techcommunity.microsoft.com/t5/exchange-team-blog/released-march-2021-exchange-server-security-updates/ba-p/2175901)</span><span class="sxs-lookup"><span data-stu-id="33b73-106">Please see the following announcement for location of fixes: [Released: March 2021 Exchange Server Security Updates](https://techcommunity.microsoft.com/t5/exchange-team-blog/released-march-2021-exchange-server-security-updates/ba-p/2175901)</span></span>
+- <span data-ttu-id="f21bf-105">Để kiểm kê thư mục Exchange Servers của bạn, hãy sử dụng tập lệnh Bộ kiểm tra Exchange Server trạng thái [GitHub, sử dụng bản phát hành mới nhất).](https://aka.ms/ExchangeHealthChecker)</span><span class="sxs-lookup"><span data-stu-id="f21bf-105">To inventory your Exchange Servers, use the [Exchange Server Health Checker script, (GitHub, use the latest release)](https://aka.ms/ExchangeHealthChecker).</span></span> <span data-ttu-id="f21bf-106">Việc chạy tập lệnh này sẽ cho bạn biết liệu có bất kỳ máy chủ Exchange nào của bạn không nằm trong các bản cập nhật (CUS và SUS).</span><span class="sxs-lookup"><span data-stu-id="f21bf-106">Running this script tells you if any of your Exchange Servers are behind on updates (CUs and SUs).</span></span>
 
-<span data-ttu-id="33b73-107">**Ghi chú quan trọng:**</span><span class="sxs-lookup"><span data-stu-id="33b73-107">**Important notes:**</span></span>
+- <span data-ttu-id="f21bf-107">Để cập nhật lên Bản cập nhật Tích lũy mới nhất, hãy đi [Exchange Trình](https://aka.ms/ExchangeUpdateWizard) hướng dẫn Cập nhật, rồi chọn CU hiện đang chạy và CU đích của bạn.</span><span class="sxs-lookup"><span data-stu-id="f21bf-107">To update to the latest Cumulative Update, go to [Exchange Update Wizard](https://aka.ms/ExchangeUpdateWizard) and choose your currently running CU and your target CU.</span></span> <span data-ttu-id="f21bf-108">Chọn **Cho tôi biết các bước để** nhận chỉ đường cho môi trường của bạn.</span><span class="sxs-lookup"><span data-stu-id="f21bf-108">Select **Tell me the steps** to get directions for your environment.</span></span>
 
-<span data-ttu-id="33b73-108">Nếu việc cài đặt các bản Cập Nhật theo cách thủ công, vui lòng đọc phần "vấn đề đã biết" của bản cập nhật các bài viết KB để biết thông tin quan trọng.</span><span class="sxs-lookup"><span data-stu-id="33b73-108">If installing updates manually, please read the "Known issues" section of update KB articles for important information.</span></span> <span data-ttu-id="33b73-109">Các bản Cập Nhật bảo mật phải được chạy từ dấu nhắc CMD/PowerShell nâng cao!</span><span class="sxs-lookup"><span data-stu-id="33b73-109">Security updates MUST be run from elevated CMD/PowerShell prompt!</span></span>
-
-<span data-ttu-id="33b73-110">Có thể tìm thấy thông tin khắc phục sự cố [ở đây](https://aka.ms/exupdatefaq).</span><span class="sxs-lookup"><span data-stu-id="33b73-110">Update troubleshooting information can be [found here](https://aka.ms/exupdatefaq).</span></span>
+- <span data-ttu-id="f21bf-109">Nếu bạn gặp phải lỗi trong hoặc sau khi cài đặt các bản cập nhật Exchange Server, hãy xem sửa chữa các bản cài đặt không thành công Exchange cập nhật Tích lũy [và Bảo mật](https://docs.microsoft.com/exchange/troubleshoot/client-connectivity/exchange-security-update-issues).</span><span class="sxs-lookup"><span data-stu-id="f21bf-109">If you encounter errors during or after installation of Exchange Server updates, see [Repair failed installations of Exchange Cumulative and Security updates](https://docs.microsoft.com/exchange/troubleshoot/client-connectivity/exchange-security-update-issues).</span></span>
