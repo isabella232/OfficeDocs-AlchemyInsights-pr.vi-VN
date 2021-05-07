@@ -1,5 +1,5 @@
 ---
-title: Giới thiệu về bản Cập Nhật bảo mật của Exchange Server
+title: Giới thiệu về Exchange Server cập nhật
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -15,21 +15,19 @@ ms.custom:
 - "9005483"
 - "9413"
 - "9412"
-ms.openlocfilehash: 6e902151fe06227c74413a4fd98e3211343e510b
-ms.sourcegitcommit: be246651064dfeacc866b2f69c0dbe4002a73f1c
+ms.openlocfilehash: 9f012d0f500eeec4e5a7f1152b9a3ba3bebe1b57
+ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50726549"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52233484"
 ---
-# <a name="about-exchange-server-security-updates"></a>Giới thiệu về bản Cập Nhật bảo mật của Exchange Server
+# <a name="about-exchange-server-updates"></a>Giới thiệu về Exchange Server cập nhật
 
-Microsoft đã phát hành một chuỗi các bản Cập Nhật bảo mật quan trọng dành cho Exchange Server tại chỗ. Các phiên bản máy chủ bị ảnh hưởng là bất kỳ mức Cập Nhật của Exchange Server 2010, 2013, 2016 và 2019. Exchange Online không bị ảnh hưởng nhưng nếu bạn có một số máy chủ Exchange tại cơ sở do cấu hình hỗn hợp, họ có khả năng dễ bị tổn thương.
+Microsoft thường phát hành các Exchange Server cập nhật vào Ngày Thứ Ba (Cập nhật Bảo mật) hoặc hàng quý (Cập nhật Tích lũy). Để xem thông báo về các bản cập nhật phát hành mới nhất được phát hành, [hãy xem Exchange Blog của Nhóm.](https://aka.ms/ehlo)
 
-Vui lòng xem thông báo sau cho vị trí của bản sửa lỗi: đã [phát hành: bản Cập Nhật bảo mật máy chủ 2021 của Exchange](https://techcommunity.microsoft.com/t5/exchange-team-blog/released-march-2021-exchange-server-security-updates/ba-p/2175901)
+- Để kiểm kê thư mục Exchange Servers của bạn, hãy sử dụng tập lệnh Bộ kiểm tra Exchange Server trạng thái [GitHub, sử dụng bản phát hành mới nhất).](https://aka.ms/ExchangeHealthChecker) Việc chạy tập lệnh này sẽ cho bạn biết liệu có bất kỳ máy chủ Exchange nào của bạn không nằm trong các bản cập nhật (CUS và SUS).
 
-**Ghi chú quan trọng:**
+- Để cập nhật lên Bản cập nhật Tích lũy mới nhất, hãy đi [Exchange Trình](https://aka.ms/ExchangeUpdateWizard) hướng dẫn Cập nhật, rồi chọn CU hiện đang chạy và CU đích của bạn. Chọn **Cho tôi biết các bước để** nhận chỉ đường cho môi trường của bạn.
 
-Nếu việc cài đặt các bản Cập Nhật theo cách thủ công, vui lòng đọc phần "vấn đề đã biết" của bản cập nhật các bài viết KB để biết thông tin quan trọng. Các bản Cập Nhật bảo mật phải được chạy từ dấu nhắc CMD/PowerShell nâng cao!
-
-Có thể tìm thấy thông tin khắc phục sự cố [ở đây](https://aka.ms/exupdatefaq).
+- Nếu bạn gặp phải lỗi trong hoặc sau khi cài đặt các bản cập nhật Exchange Server, hãy xem sửa chữa các bản cài đặt không thành công Exchange cập nhật Tích lũy [và Bảo mật](https://docs.microsoft.com/exchange/troubleshoot/client-connectivity/exchange-security-update-issues).

@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "11107"
 - "9005477"
-ms.openlocfilehash: e55d8e5453f60b5993500dae1eb6efce11a8aa1a
-ms.sourcegitcommit: d74039304002e526ba6f8ca02e76e4ce7e1aa743
+ms.openlocfilehash: a878a35ba9b530ce22ca7c263d20bd942d6896a8
+ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52125808"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52233556"
 ---
 # <a name="deploying-add-ins-for-microsoft-365-apps"></a>Triển khai phần bổ trợ cho mọi Ứng dụng Microsoft 365
 
 Triển khai tập trung là cách được đề xuất để triển khai Office bổ trợ cho người dùng và nhóm trong tổ chức của bạn. Để triển khai các phần bổ trợ, hãy làm theo các bước dưới đây:
 
-**Lưu ý:** Để cài đặt các phần bổ trợ dành cho Office người dùng cá nhân, hãy xem mục Xem, quản lý và cài đặt phần bổ trợ [trong Office trình.](https://support.microsoft.com/topic/view-manage-and-install-add-ins-in-office-programs-16278816-1948-4028-91e5-76dca5380f8d) Ngoài ra, hãy đảm bảo đã bật tính năng mua riêng Office Store của Store. 
+**Lưu ý:** Để cài đặt các phần bổ trợ dành cho Office người dùng cá nhân, hãy xem mục Xem, quản lý và cài đặt phần bổ trợ [trong Office trình.](https://support.microsoft.com/topic/view-manage-and-install-add-ins-in-office-programs-16278816-1948-4028-91e5-76dca5380f8d) Ngoài ra, hãy đảm bảo đã bật tính năng mua riêng Office Store của Store. Để biết chi tiết, hãy xem Ngăn tải xuống phần bổ trợ bằng cách tắt Office Store trên tất cả các máy khách [(Ngoại trừ Outlook).](https://docs.microsoft.com/microsoft-365/admin/manage/manage-addins-in-the-admin-center?view=o365-worldwide#prevent-add-in-downloads-by-turning-off-the-office-store-across-all-clients-except-outlook)
 
 1. Đảm bảo rằng môi trường của bạn đáp ứng các yêu cầu về triển khai phần bổ trợ sử dụng Triển khai Tập trung. Để biết chi tiết, hãy xem [Yêu cầu](https://docs.microsoft.com/microsoft-365/admin/manage/centralized-deployment-of-add-ins?#requirements).
 2. Đi tới Cài đặt **Tích**  >  **hợp Tải** ứng  >  **dụng** trong trung tâm quản trị Microsoft 365 để triển khai các phần bổ trợ. 

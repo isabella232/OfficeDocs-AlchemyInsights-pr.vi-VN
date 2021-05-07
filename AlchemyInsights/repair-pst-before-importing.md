@@ -1,5 +1,5 @@
 ---
-title: Sửa chữa tệp. PST trước khi nhập
+title: Sửa chữa tệp .pst hoặc .ost
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,27 +13,25 @@ ms.custom:
 - "1226"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 1ed37192a6b054b745fd48fbc01a6b00fa7074ed
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1b6f3d55d69ce0664fa6316c6879ade9849d5950
+ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799118"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52233736"
 ---
-# <a name="repair-pst-file-before-importing"></a>Sửa chữa tệp. PST trước khi nhập
+# <a name="repair-pst-or-ost-files"></a>Sửa chữa tệp .pst hoặc .ost
 
-Trước khi bạn nhập tệp. PST trong Outlook, hãy xác nhận tệp không bị lỗi bằng cách sửa tệp:
+Xác minh rằng tệp không bị hỏng bằng cách sửa chữa tệp:
 
-1. Thoát Outlook.
+1. Thoát khỏi Outlook.
 
-2. Tìm và chạy `Scanpst.exe` trong thư mục chương trình Office của bạn (tệp c: Program Files (x86) \Microsoft office\root\office \<Version\> hoặc c: \ Program Files Microsoft Office\root\Office \<Version\> ).
+2. Tìm và chạy trong thư mục chương trình Office của bạn `Scanpst.exe` (C:\Program Files (x86)\Microsoft Office\root\Office \<Version\> hoặc C:\Program Files\Microsoft Office\root\Office \<Version\> ).
 
-3. Trong **công cụ sửa chữa hộp thư đến Microsoft Outlook**, hãy bấm **duyệt** để tìm tệp. PST (ví dụ, trong C:\Users \\<username \> \Appdata\local\microsoft\outlook). Chọn tệp. pst rồi bấm **mở**.
+3. Trong công cụ Sửa **chữa Hộp** thư  đến Microsoft Outlook , bấm vào Duyệt để tìm tệp .pst hoặc .ost (ví dụ: trong C:\Người dùng<tên người dùng \\ \> \Dữ_liệu_Ứng_dụng\Cục bộ\Microsoft\Outlook). Chọn tệp rồi bấm **Mở**.
 
-4. Bấm **bắt đầu** để bắt đầu quét.
+4. Bấm **vào Bắt** đầu để bắt đầu quét.
 
-5. Nếu các lỗi được tìm thấy trong tệp, hãy bấm **sửa chữa**, rồi bấm **OK** khi hoàn tất việc sửa chữa.
+5. Nếu tìm thấy lỗi trong tệp, bấm vào **Sửa chữa**, rồi bấm **vào OK** khi việc sửa chữa hoàn tất.
 
-6. Tìm cách nhập tệp. PST trong Outlook một lần nữa.
-
-Để biết thêm thông tin, hãy xem mục [sửa chữa tệp dữ liệu Outlook](https://support.office.com/article/25663bc3-11ec-4412-86c4-60458afc5253) và [khắc phục sự cố khi nhập tệp Outlook. PST](https://support.office.com/article/2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e).
+Để biết thêm thông tin, [hãy xem Outlook](https://support.office.com/article/25663bc3-11ec-4412-86c4-60458afc5253) sửa chữa tệp dữ liệu và Khắc phục sự cố khi nhập Outlook tệp [.pst](https://support.office.com/article/2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e).

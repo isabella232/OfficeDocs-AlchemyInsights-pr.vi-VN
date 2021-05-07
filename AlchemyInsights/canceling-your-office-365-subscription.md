@@ -1,5 +1,5 @@
 ---
-title: Hủy bỏ đăng ký của bạn?
+title: Bạn đang hủy gói đăng ký của mình?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "4"
 - "1400001"
-ms.openlocfilehash: d4c5fcf5140f079bfb6ae0f76ec2d080c6befd0a
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 1c9c57be405b6bfd530cebc801671fd017df859b
+ms.sourcegitcommit: 5b0cd6ecd16798a421b9614cfd0f416d43e7ce6a
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50896889"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52261614"
 ---
-# <a name="canceling-your-subscription"></a>Hủy bỏ đăng ký của bạn?
+# <a name="canceling-your-subscription"></a>Bạn đang hủy gói đăng ký của mình?
 
-Chúng tôi rất tiếc khi thấy bạn đi, nhưng nếu bạn muốn hủy bỏ đăng ký của mình, dưới đây là các tùy chọn của bạn:
+Chúng tôi rất tiếc khi bạn ngừng sử dụng dịch vụ nhưng nếu bạn muốn hủy bỏ đăng ký, dưới đây là các tùy chọn của bạn:
   
-- Nếu bạn có ít hơn 25 giấy phép đã gán, bạn có thể hủy bỏ đăng ký của mình trực tuyến. Đi tới **thanh toán hóa** \> trang **[sản phẩm của bạn](https://go.microsoft.com/fwlink/p/?linkid=842054)** và tìm đăng ký mà bạn muốn hủy bỏ. Chọn **hành động khác** (ba chấm), rồi chọn **hủy bỏ đăng ký**.
-- Nếu bạn có hơn 25 giấy phép được gán cho người dùng, [Hãy gọi cho bộ phận hỗ trợ để hủy bỏ đăng ký của bạn](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide).
+- Nếu bạn có dưới 25 giấy phép đã gán, bạn có thể hủy bỏ đăng ký của mình trực tuyến. Đi tới trang **Thanh toán** Sản \> **[phẩm của](https://go.microsoft.com/fwlink/p/?linkid=842054)** bạn và tìm đăng ký mà bạn muốn hủy bỏ. Chọn **Xem thêm hành** động (ba dot), sau đó chọn Hủy bỏ đăng **ký**.
+- Nếu bạn có hơn 25 giấy phép được gán cho người dùng, hãy gọi cho bộ [trợ giúp để hủy bỏ đăng ký của bạn.](/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide)
   
-**Hoàn tiền: bất kỳ tín dụng nào sẽ được trả về cho bạn trong chu kỳ thanh toán tiếp theo.**
+**Hoàn tiền: Bạn sẽ được trả lại mọi khoản tín dụng theo xếp hạng trong chu kỳ thanh toán tiếp theo.**
 
 > [!NOTE]
-> Nếu bạn không nhìn thấy tùy chọn hủy bỏ, hãy chọn thuê bao để xem trang chi tiết. Trong phần **đăng ký và thiết đặt thanh toán** , chọn **hủy bỏ đăng ký**.
+> Nếu bạn không thấy tùy chọn để hủy bỏ, hãy chọn đăng ký để xem trang chi tiết. Trong mục Đăng **ký và cài đặt thanh toán,** chọn Hủy bỏ đăng **ký**.
 
-Để tìm hiểu thêm, hãy xem [hủy bỏ đăng ký của bạn](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+Để tìm hiểu thêm, xem mục [Hủy bỏ đăng ký của bạn](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).

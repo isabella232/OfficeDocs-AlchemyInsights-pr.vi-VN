@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500034"
 - "4895"
-ms.openlocfilehash: 0bc705cd595268b14a169d002859706cae404ebb
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a5cb61f750b0233a8b73a36aa35f26d4b3640e1d
+ms.sourcegitcommit: 5b0cd6ecd16798a421b9614cfd0f416d43e7ce6a
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51821316"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52261794"
 ---
 # <a name="apply-for-tax-exempt-status"></a>Áp dụng cho trạng thái miễn thuế
 
-Xin vui lòng có các tài liệu sau đây đã sẵn sàng. Bạn sẽ cần [bắt đầu một yêu cầu dịch vụ](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products) để thiết lập trạng thái miễn thuế.
+Vui lòng chuẩn bị sẵn tài liệu sau đây. Bạn cần bắt đầu một yêu [cầu dịch vụ để thiết](/microsoft-365/admin/contact-support-for-business-products) lập trạng thái miễn thuế.
 
-- **Hoa Kỳ** -vui lòng có **chứng chỉ bán hàng miễn thuế** sẵn sàng.
+- **Hoa Kỳ** - Vui lòng chuẩn **bị sẵn sàng chứng chỉ miễn Thuế Bán** hàng.
 
-- **Canada** -xin vui lòng có **chứng chỉ về miễn (hoặc thư được ủy quyền tương đương)** .
+- **Canada** - Vui lòng chuẩn **bị sẵn Giấy chứng nhận Miễn trừ (hoặc giấy ủy quyền tương đương).**
 
-- **Ai-Len** -xin vui lòng có **chứng chỉ 13b/56a miễn thuế** sẵn sàng.
+- **Ireland** - Vui lòng chuẩn bị sẵn sàng chứng chỉ miễn thuế **13B/56A.**
 
-- Các **tổ chức quốc tế giữ miễn thuế** -vui lòng **nhận chứng nhận/thư xác nhận từ cơ quan quản lý thuế cục bộ** sẵn sàng.
+- **Các tổ chức quốc tế giữ quyền miễn thuế** - Vui lòng chuẩn bị sẵn sàng xác nhận chứng **nhận/thư** từ cơ quan thuế địa phương.
 
-- **Puerto Rico** -xin vui lòng có các cấp phép xác nhận của **Compras exentas** đã sẵn sàng.
+- **Puerto Rico** - Vui lòng chuẩn **bị Certificado de Compras Exentas sẵn** sàng.
 
-Để biết thêm thông tin, hãy xem [thông tin thuế](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information).
+Để biết thêm thông tin, hãy xem [Thông tin Thuế](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information).
