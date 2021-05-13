@@ -1,5 +1,5 @@
 ---
-title: Tuân thủ các sự cố và giải pháp phổ biến
+title: Các sự cố phổ biến về tuân thủ và giải pháp
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,27 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000722"
 - "4812"
-ms.openlocfilehash: 128209e31b5697a3ab9252f339c9de3c3169e5c6
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 010d9e6b3a4bedb5b8649ece6eaa3d857883c729
+ms.sourcegitcommit: 67dbb2f157f6e83f41d9480071c1d35ac5565509
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51817374"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "52470225"
 ---
-# <a name="compliance-common-issues-and-resolutions"></a>Tuân thủ các sự cố và giải pháp phổ biến
+# <a name="compliance-common-issues-and-resolutions"></a>Các sự cố phổ biến về tuân thủ và giải pháp
 
-Dưới đây là một số chủ đề được yêu cầu thường xuyên cho việc tuân thủ:
+Để được trợ giúp về xem cảnh báo, hãy xem Chính [sách cảnh báo trong trung tâm bảo mật và tuân thủ](/microsoft-365/compliance/alert-policies.md).
 
-- Cách cấu hình lưu trữ và thư không tự động di chuyển sang lưu trữ: cần [bật lưu trữ, thiết lập chính sách lưu trữ](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes?view=o365-worldwide)và [tăng kích cỡ lưu](https://docs.microsoft.com/microsoft-365/compliance/enable-unlimited-archiving?view=o365-worldwide)trữ.
+Dưới đây là một số chủ đề thường được yêu cầu về tuân thủ:
 
-- Chính sách duy trì: các câu hỏi về [tính toán thời gian lưu giữ](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/retention-age), [Thêm hoặc loại bỏ thẻ duy trì](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags), [sử dụng các chính sách duy trì trong Trung tâm bảo mật và tuân thủ](https://docs.microsoft.com/microsoft-365/compliance/retention-policies?view=o365-worldwide) để giữ lại hoặc xóa nội dung.
+- Cách đặt cấu hình cho Lưu trữ và thư không tự động di chuyển đến lưu trữ: Cần Kích hoạt Lưu [trữ,](/microsoft-365/compliance/enable-archive-mailboxes.md)Thiết lập Chính sách Lưu trữ và Tăng [Kích cỡ Lưu trữ.](/microsoft-365/compliance/enable-unlimited-archiving.md)
 
-- Thiết lập khám phá điện tử và tìm kiếm nội dung và xuất: [Tìm kiếm nội dung](https://docs.microsoft.com/microsoft-365/compliance/search-for-content?view=o365-worldwide) và [xuất kết quả tìm kiếm](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide).
+- Chính sách duy trì: Các câu hỏi [](/microsoft-365/compliance/retention-policies.md) liên quan đến Tính toán tuổi duy [trì,](/exchange/security-and-compliance/messaging-records-management/retention-age.md)Thêm hoặc loại bỏ Thẻ Duy trì [,](/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags.md)Sử dụng Chính sách Duy trì trong Trung tâm Bảo mật và Tuân thủ để lưu giữ hoặc xóa nội dung.
 
-- Kiểm toán trong O365: [Nhật ký kiểm tra tìm kiếm trong O365](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance?view=o365-worldwide).
+- Thiết lập Khám phá Điện tử và Tìm kiếm và Xuất Nội dung: Tìm [kiếm Nội dung](/microsoft-365/compliance/search-for-content.md) và Xuất Kết quả Tìm [kiếm.](/microsoft-365/compliance/export-search-results.md)
 
-- Phòng chống mất dữ liệu (maát): xem [tổng quan về công tác phòng chống mất dữ liệu (](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies?view=o365-worldwide) đã cho) để biết thêm thông tin.
+- Kiểm tra trong O365: Tìm [kiếm Nhật ký Kiểm tra trong O365](/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance.md).
+
+- Data Loss Prevention(DLP) : Xem Tổng quan về ngăn Mất Dữ liệu [(DLP) để](/microsoft-365/compliance/data-loss-prevention-policies.md) biết thêm thông tin.
  
-- Nhãn nhạy cảm: để tìm hiểu thêm, hãy xem [tạo và cấu hình nhãn nhạy cảm và chính sách của họ](https://docs.microsoft.com/microsoft-365/compliance/create-sensitivity-labels).
+- Nhãn nhạy cảm : Để tìm hiểu thêm, hãy xem Tạo và cấu [hình nhãn nhạy cảm và chính sách của chúng.](/microsoft-365/compliance/create-sensitivity-labels.md)
 
-**Lưu ý**: để biết thêm câu trả lời cụ thể về một vấn đề tuân thủ, hãy đặt lại thời gian ngắn câu hỏi của bạn và đưa vào bất kỳ lỗi nào mà bạn đang xem hoặc các tính năng mà bạn đang sử dụng.
+**Lưu** ý: Để biết câu trả lời cụ thể hơn về vấn đề tuân thủ, hãy nếp nhanh câu hỏi của bạn và bao gồm bất kỳ lỗi nào bạn thấy hoặc tính năng bạn đang sử dụng.
