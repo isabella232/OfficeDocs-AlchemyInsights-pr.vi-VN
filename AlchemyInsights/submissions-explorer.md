@@ -1,5 +1,5 @@
 ---
-title: tính năng mới của 2554 để giúp chẩn đoán EOP và ATP
+title: Tính năng mới 2554 giúp chẩn đoán EOP và Bộ bảo vệ Microsoft cho người Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,13 +11,13 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 2554
 ms.assetid: ''
-ms.openlocfilehash: 991b51f6b304f8c9a0ad53ea8f32d70237a0919f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6a0ee90b71f54b9b440cdac227243eb64e2b3d1b
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47726544"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544924"
 ---
-# <a name="new-feature-to-help-diagnose-eop-and-atp"></a><span data-ttu-id="d0478-102">Tính năng mới để giúp chẩn đoán EOP và ATP</span><span class="sxs-lookup"><span data-stu-id="d0478-102">New feature to help diagnose EOP and ATP</span></span>
+# <a name="new-feature-to-help-diagnose-eop-and-microsoft-defender-for-office-365"></a><span data-ttu-id="13439-102">Tính năng mới giúp chẩn đoán EOP và Bộ bảo vệ Microsoft cho người Office 365</span><span class="sxs-lookup"><span data-stu-id="13439-102">New feature to help diagnose EOP and Microsoft Defender for Office 365</span></span>
 
-<span data-ttu-id="d0478-103">Với tư cách là người quản trị, giờ đây bạn có thể dễ dàng báo cáo các thư email đáng ngờ, URL và nội dung của [Microsoft trong trình](https://protection.office.com/reportsubmission)khám phá bản trình duyệt.</span><span class="sxs-lookup"><span data-stu-id="d0478-103">As an admin, you can now easily report suspicious email messages, URLs, and content to Microsoft in [Submissions Explorer](https://protection.office.com/reportsubmission).</span></span> <span data-ttu-id="d0478-104">Bạn thậm chí có thể sử dụng nó để giúp hiểu lý do tại sao thư hợp pháp được gắn cờ không đúng.</span><span class="sxs-lookup"><span data-stu-id="d0478-104">You can even use it to help understand why a legitimate message was flagged incorrectly.</span></span> <span data-ttu-id="d0478-105">Để biết thêm thông tin, hãy xem [thông báo](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Empower-security-teams-to-easily-report-suspicious-emails-amp/ba-p/752622)này.</span><span class="sxs-lookup"><span data-stu-id="d0478-105">For more information, see this [announcement](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Empower-security-teams-to-easily-report-suspicious-emails-amp/ba-p/752622).</span></span>
+<span data-ttu-id="13439-103">Với tư cách là người quản trị, giờ đây bạn có thể dễ dàng báo cáo email, URL và nội dung đáng ngờ cho Microsoft [trong Trình khám phá Bản gửi.](https://protection.office.com/reportsubmission)</span><span class="sxs-lookup"><span data-stu-id="13439-103">As an admin, you can now easily report suspicious email messages, URLs, and content to Microsoft in [Submissions Explorer](https://protection.office.com/reportsubmission).</span></span> <span data-ttu-id="13439-104">Thậm chí bạn có thể dùng thư này để giúp hiểu tại sao thư hợp pháp bị gắn cờ không đúng cách.</span><span class="sxs-lookup"><span data-stu-id="13439-104">You can even use it to help understand why a legitimate message was flagged incorrectly.</span></span> <span data-ttu-id="13439-105">Để biết thêm thông tin, hãy xem thông [báo này](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Empower-security-teams-to-easily-report-suspicious-emails-amp/ba-p/752622).</span><span class="sxs-lookup"><span data-stu-id="13439-105">For more information, see this [announcement](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Empower-security-teams-to-easily-report-suspicious-emails-amp/ba-p/752622).</span></span>
