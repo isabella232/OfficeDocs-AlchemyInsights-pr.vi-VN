@@ -1,5 +1,5 @@
 ---
-title: Mua giấy phép bổ sung
+title: Mua thêm giấy phép
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "530"
 - "1400007"
-ms.openlocfilehash: 7994f7bb94720b1929790f587a9506c5e3dea469
-ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
+ms.openlocfilehash: 2df9278e13ca497c7ab71bb458c672031313759f
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50232317"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543563"
 ---
-# <a name="buy-additional-licenses"></a>Mua giấy phép bổ sung
+# <a name="buy-additional-licenses"></a>Mua thêm giấy phép
 
-**Xem video** hướng dẫn cách thực hiện như sau: [mua giấy phép](https://go.microsoft.com/fwlink/p/?linkid=2154857)
+**XEM video hướng** dẫn cách thực hiện điều này: [Mua giấy phép](https://go.microsoft.com/fwlink/p/?linkid=2154857)
 
-1. Trong Trung tâm quản trị, hãy đi đến trang **thanh toán**  >  [sản phẩm của bạn](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. Trên tab **sản phẩm** , hãy tìm đăng ký mà bạn muốn mua giấy phép. Chọn **hành động khác** (ba chấm), rồi chọn **mua giấy phép**.
-3. Dưới **số lượng mới** trong hộp **tổng số giấy phép** , hãy nhập tổng số giấy phép mà bạn muốn cho thuê bao này. Ví dụ, nếu bạn có giấy phép 100 và bạn muốn thêm 25 thêm, hãy nhập 125.
-4. Chọn **lưu**.
+1. Trong trung tâm quản trị, đi đến trang Thanh toán  >  [Sản phẩm của](https://go.microsoft.com/fwlink/p/?linkid=842054) bạn.
+2. Trên tab **Sản** phẩm, tìm đăng ký mà bạn muốn mua giấy phép. Chọn ba dot (thao tác khác), sau đó **chọn Mua giấy phép**.
+3. Bên **dưới Số lượng** mới trong hộp Tổng **số** giấy phép, hãy nhập tổng số giấy phép mà bạn muốn cho đăng ký này. Ví dụ: nếu bạn đã có 100 giấy phép và bạn muốn thêm 25 giấy phép nữa, hãy nhập 125.
+4. Chọn **Lưu**.
 
-Để tìm hiểu thêm, hãy xem [mua hoặc loại bỏ giấy phép](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
+Để tìm hiểu thêm, hãy [xem Mua hoặc loại bỏ giấy phép](/microsoft-365/commerce/licenses/buy-licenses).
 
-**Tài nguyên bổ sung**
+**Các tài nguyên bổ sung**
 
-- [Gán giấy phép cho người dùng trong Microsoft 365 dành cho doanh nghiệp](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
+[Gán giấy phép cho người dùng trong Microsoft 365 dành cho doanh nghiệp](/microsoft-365/admin/manage/assign-licenses-to-users)

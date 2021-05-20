@@ -1,5 +1,5 @@
 ---
-title: Hủy đăng ký Microsoft 365 của bạn?
+title: Bạn đang hủy bỏ đăng Microsoft 365 của mình?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "86"
 - "1400001"
-ms.openlocfilehash: 0541c68ffc71503cccba47501f318939fc9e0a53
-ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
+ms.openlocfilehash: 85ce33aaf5fbcde6a8c32c692977647f4f44c953
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 10/10/2020
-ms.locfileid: "48416337"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543311"
 ---
-# <a name="canceling-your-microsoft-365-subscription"></a>Hủy đăng ký Microsoft 365 của bạn?
+# <a name="canceling-your-microsoft-365-subscription"></a>Bạn đang hủy bỏ đăng Microsoft 365 của mình?
 
-Chúng tôi rất tiếc khi thấy bạn đi!
+Chúng tôi rất tiếc khi bạn sử dụng thiết bị!
   
-Dựa trên dữ liệu của tổ chức của bạn, chúng tôi tin rằng tất cả các thuê bao hiện tại của bạn có dưới 25 chỗ ngồi. Để hủy thuê bao của bạn trực tuyến, hãy đi đến trang **thanh toán** \> [sản phẩm của bạn](https://go.microsoft.com/fwlink/p/?linkid=842054) . Trên tab **sản phẩm** , hãy tìm đăng ký mà bạn muốn hủy bỏ, chọn **hành động khác** (ba chấm), rồi chọn **hủy bỏ đăng ký**.
+Dựa trên dữ liệu tổ chức của bạn, chúng tôi cho rằng toàn bộ đăng ký hiện tại của bạn có dưới 25 chỗ. Để hủy bỏ trực tuyến đăng ký của bạn, hãy truy nhập **trang Thanh toán** Sản phẩm \> [của](https://go.microsoft.com/fwlink/p/?linkid=842054) bạn. Trên tab **Sản phẩm,** tìm đăng ký bạn muốn hủy bỏ, chọn ba dot (thao tác khác), rồi chọn Hủy **bỏ đăng ký**.
   
-**Hoàn tiền:** Bất kỳ tín dụng nào sẽ được trả về cho bạn trong chu kỳ thanh toán tiếp theo.
+**Hoàn tiền:** Bạn sẽ được trả lại mọi khoản tín dụng theo hệ thống trong chu kỳ thanh toán tiếp theo.
 
-Để tìm hiểu thêm, hãy xem [hủy bỏ đăng ký của bạn](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+Để tìm hiểu thêm, xem mục [Hủy bỏ đăng ký của bạn](/microsoft-365/commerce/subscriptions/cancel-your-subscription).

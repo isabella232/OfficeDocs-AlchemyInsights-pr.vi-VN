@@ -1,5 +1,5 @@
 ---
-title: Ánh xạ thư viện SharePoint vào ổ đĩa mạng
+title: Ánh xạ SharePoint thư viện với ổ đĩa mạng
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -11,23 +11,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4b8245c3-a179-4524-ae83-0c22d539c202
-ms.openlocfilehash: 9115a3ab8d1234127a95628a9a49679ef06f6d39
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6b7cb38362baa26bd39fe7478ef6dd1971b5b063
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47806205"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52542843"
 ---
-# <a name="map-a-sharepoint-library-to-a-network-drive"></a>Ánh xạ thư viện SharePoint vào ổ đĩa mạng
+# <a name="map-a-sharepoint-library-to-a-network-drive"></a>Ánh xạ SharePoint thư viện với ổ đĩa mạng
 
-Ánh xạ thư viện dưới dạng ổ đĩa mạng tạm thời và được hỗ trợ chỉ qua Internet Explorer. Đôi khi bạn phải mở site SharePoint trong Internet Explorer, rồi chọn duy **trì trạng thái đăng nhập** để ngăn không cho phiên làm việc hết hạn. Thay vào đó, [đồng bộ các tệp SharePoint với máy khách đồng bộ OneDrive mới](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88) </a> cung cấp [tệp theo yêu cầu](https://support.office.com/article/learn-about-onedrive-files-on-demand-0e6860d3-d9f3-4971-b321-7092438fb38e). Truy nhập tất cả các tệp của bạn trong OneDrive mà không sử dụng dung lượng lưu trữ cục bộ.
+Thay vì ánh xạ ổ đĩa mạng, hãy đồng bộ SharePoint của bạn với máy khách đồng bộ OneDrive mới, cung cấp tệp theo yêu cầu. Truy nhập vào tất cả các tệp của bạn trong OneDrive không sử dụng dung lượng lưu trữ cục bộ. Để biết thêm thông tin, hãy xem Đồng bộ tệp SharePoint và [Teams](https://support.microsoft.com/office/sync-sharepoint-and-teams-files-with-your-computer-6de9ede8-5b6e-4503-80b2-6190f3354a88) với máy tính của bạn và Tiết kiệm dung lượng đĩa với OneDrive Tệp Theo Yêu cầu cho máy [tính Windows 10.](https://support.microsoft.com/office/save-disk-space-with-onedrive-files-on-demand-for-windows-10-0e6860d3-d9f3-4971-b321-7092438fb38e)
 
-Nếu bạn chọn ánh xạ ổ đĩa thay vì [sử dụng máy khách đồng bộ OneDrive mới](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88), hãy đảm bảo bạn làm theo các bước trong bài viết dưới đây. 
+Nếu bạn chọn ánh xạ ổ đĩa thay vì sử dụng [máy khách đồng](https://support.microsoft.com/office/sync-sharepoint-and-teams-files-with-your-computer-6de9ede8-5b6e-4503-80b2-6190f3354a88)bộ OneDrive , hãy đảm bảo rằng bạn làm theo các bước sau:
 
+- [Khắc phục sự cố ổ đĩa mạng được ánh xạ kết nối SharePoint Online](/sharepoint/support/administration/troubleshoot-mapped-network-drives)
 
-**Cách cấu hình và khắc phục sự cố ổ đĩa mạng được ánh xạ**
+- [Lỗi xác thực xảy ra khi máy khách không có hỗ trợ TLS 1.2](/sharepoint/troubleshoot/administration/authentication-errors-tls12-support#network-drive-mapped-to-a-sharepoint-library)  
 
-
-Xem [khắc phục sự cố các ổ đĩa mạng được ánh xạ kết nối với SharePoint onlines](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives).
-
-LƯU ý: nếu bạn sử dụng Internet Explorer 10 với Windows 8 hoặc Windows 7 và nhận **quyền truy nhập bị từ chối** hoặc **đường dẫn không thể truy nhập được** khi ánh xạ một ổ đĩa, hãy cài đặt [hotfix này](https://support.microsoft.com/help/2846960) để giải quyết vấn đề này. 
+**LƯU Ý:** Nếu bạn sử dụng Internet Explorer 10 với Windows 8 hoặc Windows 7 và nhận  được **Access** từ chối hoặc Không thể truy nhập đường dẫn khi ánh xạ ổ đĩa, hãy giải quyết sự cố này bằng cách cài đặt [hotfix này.](https://support.microsoft.com/topic/error-when-you-open-a-sharepoint-document-library-in-windows-explorer-or-map-a-network-drive-to-the-library-after-you-install-internet-explorer-10-96e640ba-059f-9b09-bb91-2a0319ee8b1d)

@@ -1,5 +1,5 @@
 ---
-title: Hủy bỏ việc bảo vệ mối đe dọa nâng cao
+title: Hủy bỏ Tính năng Chống Mối đe dọa Nâng cao
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5777"
-ms.openlocfilehash: 610adfdce1f5cda6bd10cb635527b032ebdd7e56
-ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
+ms.openlocfilehash: 0919862f1954058d2d891abb35d91a19ee948933
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 10/10/2020
-ms.locfileid: "48416258"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543527"
 ---
-# <a name="cancel-advanced-threat-protection"></a>Hủy bỏ việc bảo vệ mối đe dọa nâng cao
+# <a name="cancel-advanced-threat-protection"></a>Hủy bỏ Tính năng Chống Mối đe dọa Nâng cao
 
-Người quản trị có thể hủy bỏ đăng ký bảo vệ mối đe dọa nâng cao cho tổ chức của họ trong Trung tâm quản trị Microsoft 365.
+Người quản trị có thể hủy bỏ đăng ký Chống Mối đe dọa Nâng cao cho tổ chức của mình trong trung tâm quản Microsoft 365 chính thức.
 
-1. Đi tới **thanh toán hóa**  >  trang[sản phẩm của bạn](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. Trên tab **sản phẩm** , hãy tìm kế hoạch bảo vệ mối đe dọa nâng cao mà bạn muốn hủy bỏ. Chọn **hành động khác** (ba chấm), rồi chọn **hủy bỏ đăng ký**.
-3. Trong ngăn **hủy bỏ đăng ký** , chọn một lý do tại sao bạn hủy. Được tùy chọn cung cấp bất kỳ phản hồi nào.
-4. Chọn **lưu**.
+1. Đi tới trang Thanh **toán Sản**  >  [phẩm của](https://go.microsoft.com/fwlink/p/?linkid=842054) bạn.
+2. Trên tab Sản **phẩm,** tìm gói Chống Mối đe dọa Nâng cao mà bạn muốn hủy bỏ. Chọn ba dot (thao tác khác), sau đó chọn Hủy **bỏ đăng ký**.
+3. Trong ngăn **Hủy bỏ** đăng ký, chọn lý do bạn hủy bỏ. Bạn có thể tùy chọn cung cấp bất kỳ phản hồi nào.
+4. Chọn **Lưu**.
 
-**Hoàn tiền:** Bất kỳ tín dụng nào sẽ được trả về cho bạn trong chu kỳ thanh toán tiếp theo.
+**Hoàn tiền:** Bạn sẽ được trả lại mọi khoản tín dụng theo hệ thống trong chu kỳ thanh toán tiếp theo.
 
-Để tìm hiểu thêm, hãy xem [hủy bỏ đăng ký của bạn](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+Để tìm hiểu thêm, xem mục [Hủy bỏ đăng ký của bạn](/microsoft-365/commerce/subscriptions/cancel-your-subscription).

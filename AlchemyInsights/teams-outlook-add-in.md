@@ -1,5 +1,5 @@
 ---
-title: Bổ trợ Outlook nhóm
+title: Teams Outlook trợ mới (Chia sẻ với Teams, Họp Ngay, Cuộc họp Teams mới, Gia nhập cuộc Teams bạn)
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,22 +14,23 @@ ms.custom:
 - "3536"
 - "9002573"
 - "4990"
-ms.openlocfilehash: 815a0dbfa770b811321329ee48fc27113f08c8e2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2ce65a5a5d425d41a127541ee738b6e947a41b05
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835041"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52542771"
 ---
-# <a name="teams-outlook-add-in"></a>Bổ trợ Outlook nhóm
+# <a name="teams-outlook-add-in-share-to-teams--meet-now-new-teams-meeting-join-teams-meeting"></a>Teams Outlook trợ mới (Chia sẻ với Teams , Họp ngay, Cuộc họp Teams mới, Gia nhập cuộc Teams họp)
 
-## <a name="to-troubleshoot-a-missing-teams-outlook-add-in"></a>Để khắc phục sự cố bổ trợ Outlook nhóm thiếu
+## <a name="to-troubleshoot-a-missing-teams-outlook-add-in"></a>Để khắc phục sự cố phần Teams Outlook bổ trợ bị thiếu
 
-1. Chạy chẩn đoán dịch vụ trong cổng thông tin quản trị. 
-2. Nếu dịch vụ chẩn đoán cho biết không có vấn đề, hãy chẩn đoán và sửa bất kỳ sự cố của máy khách trên máy người dùng bị ảnh hưởng bằng cách tải xuống và chạy các phần trợ [giúp phục hồi và hỗ trợ của Microsoft](https://aka.ms/SaRA-TeamsAddInScenario)  >  .
+1. Chạy chẩn đoán "Phần bổ trợ nhóm bị thiếu trong Outlook", chẩn đoán này xác thực rằng người dùng có chính sách chính xác để bật phần bổ trợ Teams Outlook nhóm. Để truy nhập chẩn đoán, nhập **Diag: Teams Bổ trợ Bị thiếu Outlook** trong hộp tìm kiếm.
 
-Để khắc phục sự cố thủ công một phần bổ trợ Outlook nhóm, hãy xem lại danh sách các yếu tố tiềm tàng có thể làm cho bổ trợ nhóm của bạn không xuất hiện được liệt kê. Để biết thêm thông tin, hãy xem [bổ trợ cuộc họp nhóm trong Outlook for Windows không hiển thị](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show).
+1. Nếu Chẩn đoán Dịch vụ cho biết không có sự cố nào, hãy chẩn đoán và khắc phục mọi sự cố máy khách trên máy người dùng bị ảnh hưởng bằng cách tải xuống và chạy Kịch bản Bổ trợ Công cụ Trợ giúp Phục hồi và Hỗ trợ Teams Outlook [của Microsoft.](https://aka.ms/SaRA-TeamsAddInScenario)  >  
 
-## <a name="to-troubleshoot-scheduling-a-teams-meeting-on-behalf-of-someone-else-delegate"></a>Để khắc phục sự cố lên lịch một cuộc họp nhóm thay mặt cho người khác (đại diện)
+Để khắc phục sự cố thủ công phần bổ trợ Teams Outlook bị thiếu, hãy xem lại danh sách các yếu tố tiềm năng có thể khiến cho bổ trợ Teams bạn không xuất hiện trong danh sách. Để biết thêm thông tin, hãy Teams bổ trợ Cuộc [Outlook cho Windows không hiển thị.](/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show)
 
-Để lên lịch một cuộc họp nhóm thay mặt cho người khác, hãy xem khắc phục sự cố các [vấn đề tương tác của Microsoft nhóm và Exchange Server](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue).
+## <a name="to-troubleshoot-scheduling-a-teams-meeting-on-behalf-of-someone-else-delegate"></a>Để khắc phục sự cố lên Teams cuộc họp thay mặt cho người khác (Đại diện)
+
+Để thay mặt người Teams lên lịch cuộc họp, hãy xem Khắc phục [sự cố về Microsoft Teams và Exchange Server tác tương tác.](/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue)

@@ -1,5 +1,5 @@
 ---
-title: Microsoft Defender cho Office 365
+title: Bộ bảo vệ Microsoft dành cho Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,23 +11,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1036
 ms.assetid: ''
-ms.openlocfilehash: a07c56c0977811e286d61f2e7c3336275c3501a2
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: c4d462c14623282a7a94a0009275c4f36c70d33b
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801249"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52542915"
 ---
-# <a name="microsoft-defender-for-office-365"></a>Microsoft Defender cho Office 365
+# <a name="microsoft-defender-for-office-365"></a>Bộ bảo vệ Microsoft dành cho Office 365
 
-- Các tệp đính kèm an toàn, liên kết an toàn và Anti-Phishing là một phần của Microsoft Defender cho Office 365 (ATP). Enterprise E5, A5 giáo dục và Microsoft 365 Business Premium bao gồm ATP. Tất cả các gói khác yêu cầu đăng ký ATP bổ trợ.
+- Két sắt Tệp đính kèm, Két sắt Kết nối và chống lừa đảo là một phần của Bộ bảo vệ Microsoft dành cho Office 365. Enterprise E5, Education A5 và các ứng dụng Microsoft 365 Business Premium bao gồm Bộ bảo vệ Microsoft dành cho Office 365. Tất cả các gói khác đều yêu cầu phần bổ trợ của Bộ bảo vệ Microsoft cho Office 365 ký.
 
-- Bạn cần gán giấy phép thích hợp để bảo vệ người dùng của bạn bằng Office 365 ATP. Xem [chủ đề này](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) để biết hướng dẫn về cách hàng loạt áp dụng giấy phép cho người dùng của bạn.
+- Bạn cần gán giấy phép thích hợp để bảo vệ người dùng bằng Bộ bảo vệ Microsoft cho người Office 365. Xem [thêm người dùng và gán giấy phép cùng một lúc để biết hướng dẫn](/microsoft-365/admin/add-users/add-users) về cách áp dụng hàng loạt giấy phép cho người dùng của bạn.
 
-- Người quản trị toàn cầu hoặc người quản trị bảo mật có thể truy nhập các tính năng Office 365 ATP trong Trung tâm tuân thủ bảo mật & tại chính sách **quản lý mối đe dọa** \> **Policy** .
+- Người quản trị toàn cầu hoặc người quản trị bảo mật có thể truy nhập vào Bộ bảo vệ Microsoft để biết các tính năng Office 365 quan trọng trong Trung tâm Tuân thủ & Bảo mật tại Chính sách Quản lý Mối **đe** \> **dọa.**
 
-- Các tệp đính kèm an toàn và các chính sách liên kết an toàn có thể được phạm vi cho bạn toàn bộ tổ chức, tên miền cụ thể hoặc các nhóm người dùng nhỏ hơn.
+- Két sắt Các chính sách đính Két sắt và nối kết có thể được giới hạn trong toàn bộ tổ chức, tên miền cụ thể hoặc nhóm người dùng nhỏ hơn của bạn.
 
-- Không có chính sách phần đính kèm an toàn trong ATP mặc định. Bạn cần [tạo chính sách](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies) và áp dụng cho người dùng của bạn.
+- Không có chính sách mặc định Két sắt kèm. Bạn cần tạo một [chính sách và áp](/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies) dụng nó cho người dùng của bạn.
 
-- Có một chính sách liên kết ATP an toàn mặc định áp dụng cho mọi người trong tổ chức của bạn. Để sửa chính sách này hoặc để tạo chính sách tùy chỉnh, hãy xem [chủ đề này](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies).
+- Có một chính sách liên kết Két sắt định áp dụng cho tất cả mọi người trong tổ chức của bạn. Để chỉnh sửa chính sách này hoặc để tạo các chính sách tùy chỉnh, hãy xem mục Thiết lập chính sách Két sắt Liên kết [trong Bộ bảo vệ Microsoft cho Office 365.](/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies)

@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000568"
 - "2425"
-ms.openlocfilehash: 6b4256c1bd466ced0ad8b9f1d8eb6ae160d9961b
-ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
+ms.openlocfilehash: 3e892e4754b959851fe82e15ee2f4c1eb355fd32
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50232298"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543167"
 ---
 # <a name="change-app-license-quantity"></a>Thay đổi số lượng giấy phép ứng dụng
 
-Bạn có thể xem hoặc thay đổi số lượng giấy phép mà bạn có và gán chúng cho người dùng trong Trung tâm quản trị Microsoft 365.
+Bạn có thể xem hoặc thay đổi số lượng giấy phép mình có và gán chúng cho người dùng trong trung tâm quản Microsoft 365 chính thức.
 
 ## <a name="to-change-license-quantity"></a>Để thay đổi số lượng giấy phép
 
-**Xem video** hướng dẫn cách thực hiện như sau: [mua giấy phép mới](https://go.microsoft.com/fwlink/p/?linkid=2154857) hoặc [loại bỏ giấy phép hiện có](https://go.microsoft.com/fwlink/p/?linkid=2154938)
+**XEM video hướng** dẫn cách thực hiện: [Mua giấy phép mới hoặc Loại](https://go.microsoft.com/fwlink/p/?linkid=2154857) bỏ giấy phép hiện [có](https://go.microsoft.com/fwlink/p/?linkid=2154938)
 
-1. Đi tới **thanh toán hóa**  >  trang **[sản phẩm của bạn](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
-2. Trên tab **sản phẩm** , trong phần **ứng dụng** , hãy tìm ứng dụng bạn muốn quản lý. Chọn **hành động khác** (ba chấm), rồi chọn **mua giấy phép**.
-3. Nếu bạn muốn giảm số lượng giấy phép, ở phía trên cùng của ngăn **mua giấy phép** , hãy chọn **loại bỏ giấy phép**.
-4. Để mua hoặc loại bỏ giấy phép, bên dưới **số lượng mới** trong hộp **tổng số giấy phép** , hãy nhập tổng số giấy phép mà bạn muốn cho thuê bao này. Ví dụ, nếu bạn có giấy phép 100 và bạn muốn thêm năm khác, hãy nhập 105. Nếu bạn muốn loại bỏ năm trong số đó, hãy nhập 95.
-5. Chọn **lưu**.
+1. Đi tới trang Thanh **toán Sản**  >  **[phẩm của](https://go.microsoft.com/fwlink/p/?linkid=842054)** bạn.
+2. Trên tab **Sản** phẩm, trong mục **Ứng** dụng, hãy tìm ứng dụng mà bạn muốn quản lý. Chọn ba dot (thao tác khác), sau đó **chọn Mua giấy phép**.
+3. Nếu bạn muốn giảm số lượng giấy phép, ở đầu ngăn Mua **giấy** phép, chọn loại **bỏ giấy phép**.
+4. Để mua hoặc loại  bỏ giấy  phép, bên dưới Số lượng mới trong hộp Tổng số giấy phép, hãy nhập tổng số lượng giấy phép mà bạn muốn cho đăng ký này. Ví dụ: nếu bạn đã có 100 giấy phép và bạn muốn thêm năm giấy phép nữa, hãy nhập 105. Nếu bạn muốn loại bỏ năm trong số đó, hãy nhập 95.
+5. Chọn **Lưu**.
 
 ## <a name="to-assign-app-licenses"></a>Để gán giấy phép ứng dụng
 
-1. Đi tới **thanh toán hóa**  >  trang **[sản phẩm của bạn](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
-2. Trên tab **sản phẩm** , trong phần **ứng dụng** , hãy tìm ứng dụng bạn muốn quản lý.
-3. Bên dưới **thiết đặt & hành động**, hãy chọn nối kết để **quản lý trong cổng thông tin của Publisher**.
+1. Đi tới trang Thanh **toán Sản**  >  **[phẩm của](https://go.microsoft.com/fwlink/p/?linkid=842054)** bạn.
+2. Trên tab **Sản** phẩm, trong mục **Ứng** dụng, hãy tìm ứng dụng mà bạn muốn quản lý.
+3. Bên **dưới Cài đặt & hành động,** chọn liên kết đến Quản lý trong cổng thông tin của **publisher.**

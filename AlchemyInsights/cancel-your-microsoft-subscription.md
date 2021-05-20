@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001727"
 - "3824"
-ms.openlocfilehash: 12a2daf3cc68b85a26d29088315d1046ddf3cfb6
-ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
+ms.openlocfilehash: 218ed088ca13c5d7964600559857f49c5dd00f19
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 10/10/2020
-ms.locfileid: "48416453"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543347"
 ---
 # <a name="cancel-your-microsoft-subscription"></a>Hủy bỏ đăng ký Microsoft của bạn
 
-Người quản trị có thể hủy bỏ đăng ký cho tổ chức của họ trong Trung tâm quản trị Microsoft 365.
+Người quản trị có thể hủy bỏ đăng ký cho tổ chức của họ trong trung Microsoft 365 trị viên chính.
 
-1. Đi tới **thanh toán hóa** \> trang [sản phẩm của bạn](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. Trên tab **sản phẩm** , hãy tìm đăng ký mà bạn muốn hủy bỏ. Chọn **hành động khác** (ba chấm), rồi chọn **hủy bỏ đăng ký**.
-3. Trong ngăn **hủy bỏ đăng ký** , chọn một lý do tại sao bạn hủy. Được tùy chọn cung cấp bất kỳ phản hồi nào.
-4. Chọn **lưu**.
+1. Đi tới trang Thanh **toán Sản** \> [phẩm của](https://go.microsoft.com/fwlink/p/?linkid=842054) bạn.
+2. Trên tab **Sản** phẩm, tìm đăng ký bạn muốn hủy bỏ. Chọn ba dot (thao tác khác), sau đó chọn Hủy **bỏ đăng ký**.
+3. Trong ngăn **Hủy bỏ** đăng ký, chọn lý do bạn hủy bỏ. Bạn có thể tùy chọn cung cấp bất kỳ phản hồi nào.
+4. Chọn **Lưu**.
 
-**Hoàn tiền:** Bất kỳ tín dụng nào sẽ được trả về cho bạn trong chu kỳ thanh toán tiếp theo.
+**Hoàn tiền:** Bạn sẽ được trả lại mọi khoản tín dụng theo hệ thống trong chu kỳ thanh toán tiếp theo.
