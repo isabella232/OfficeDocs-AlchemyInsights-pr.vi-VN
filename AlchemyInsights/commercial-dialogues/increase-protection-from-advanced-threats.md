@@ -1,5 +1,5 @@
 ---
-title: Tăng cường bảo vệ khỏi các mối đe dọa nâng cao
+title: Tăng khả năng bảo vệ khỏi các mối đe dọa nâng cao
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 49f690a08ed39e5132f9e23b514d3e353b126840
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 486ac58b9b5b88b11fe45b7ace5b084190cfcee2
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50750517"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543743"
 ---
-# <a name="increase-protection-from-advanced-threats"></a>Tăng cường bảo vệ khỏi các mối đe dọa nâng cao
+# <a name="increase-protection-from-advanced-threats"></a>Tăng khả năng bảo vệ khỏi các mối đe dọa nâng cao
 
-Để thiết lập hoặc quản lý Microsoft Defender cho Office 365:
+Cách thiết lập hoặc quản lý Bộ bảo vệ Microsoft dành cho doanh Office 365:
 
-1. Các tính năng của Microsoft Defender cho Office 365 sẵn dùng trong Enterprise E5, A5 giáo dục và Microsoft 365 Business. Tất cả các gói khác yêu cầu đăng ký ATP bổ trợ. Bạn phải có quyền *quản trị toàn cầu* hoặc người *quản trị bảo mật* quyền truy nhập Defender cho Office 365.
-2. Trong Trung tâm quản trị, hãy chọn [thiết lập](https://go.microsoft.com/fwlink/p/?linkid=2075721).
-3. Đi đến **đăng nhập và** bảo  >  **vệ tăng bảo mật từ các mối đe dọa nâng cao**, rồi chọn [xem](https://go.microsoft.com/fwlink/?linkid=2109302).
-4. Chọn **quản lý**, rồi chọn một trong các loại chính sách có sẵn mà bạn muốn thực hiện thay đổi.
-5. Trên trang chính sách, chọn việc có tạo, sửa hoặc xóa chính sách hiện có và sau đó điền vào các trường bắt buộc.
+1. Microsoft Defender for Office 365 features are available in Enterprise E5, Education A5, and Microsoft 365 Business. Tất cả các gói khác đều yêu cầu phần bổ trợ của Bộ bảo vệ Microsoft cho Office 365 ký. Bạn phải có quyền người *quản trị toàn cầu* hoặc người quản trị *bảo* mật để truy nhập vào Bộ bảo vệ Microsoft Office 365.
+2. Trong trung tâm quản trị, chọn [Thiết lập](https://go.microsoft.com/fwlink/p/?linkid=2075721).
+3. Đi tới Đăng **nhập và bảo mật Tăng cường bảo** vệ khỏi các mối đe  >  **dọa nâng cao**, sau đó chọn [Xem](https://go.microsoft.com/fwlink/?linkid=2109302).
+4. Chọn **Quản** lý , rồi chọn một trong các loại chính sách sẵn dùng mà bạn muốn thực hiện thay đổi.
+5. Trên trang chính sách, hãy chọn việc tạo, sửa hoặc xóa các chính sách hiện có, rồi điền vào các trường bắt buộc.

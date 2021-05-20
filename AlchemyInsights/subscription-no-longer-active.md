@@ -1,5 +1,5 @@
 ---
-title: Đăng ký không còn hoạt động
+title: Đăng ký không còn hiện hoạt nữa
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002453"
 - "4763"
-ms.openlocfilehash: 59db84b9068843333ee28f47b9e69cf8b805b184
-ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
+ms.openlocfilehash: 8a85768fc419829f288bbc8dcf887c2d6b0044b4
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "48489335"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544276"
 ---
-# <a name="subscription-no-longer-active"></a>Đăng ký không còn hoạt động
+# <a name="subscription-no-longer-active"></a>Đăng ký không còn hiện hoạt nữa
 
-Nếu một [thông báo đăng ký xuất hiện](https://support.microsoft.com/office/a-subscription-notice-appears-when-i-open-a-microsoft-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb) khi một ứng dụng Microsoft được mở, có thể bạn cần kích hoạt lại đăng ký của mình.
+Nếu thông [báo đăng ký xuất hiện](https://support.microsoft.com/office/a-subscription-notice-appears-when-i-open-a-microsoft-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb) khi một ứng dụng Microsoft được mở, có thể bạn cần kích hoạt lại đăng ký của mình.
 
 **Kích hoạt lại đăng ký**
 
-1. Trong Trung tâm quản trị, hãy đi đến trang **thanh toán**  >  [sản phẩm của bạn](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. Trên tab **sản phẩm** , hãy tìm đăng ký mà bạn muốn kích hoạt lại. Chọn **hành động khác** (ba chấm), rồi chọn **kích hoạt lại đăng ký này**.
-3. Trong ngăn **kích hoạt lại gói đăng ký này** , hãy chọn một phương thức thanh toán từ danh sách thả xuống, hoặc chọn **Thêm phương thức thanh toán**.
-4. Chọn **lưu**.
+1. Trong trung tâm quản trị, đi đến trang Thanh toán  >  [Sản phẩm của](https://go.microsoft.com/fwlink/p/?linkid=842054) bạn.
+2. Trên tab **Sản** phẩm, hãy tìm đăng ký mà bạn muốn kích hoạt lại. Chọn ba dot (hành động khác), sau đó chọn **Kích hoạt lại đăng ký này**.
+3. Trong ngăn **Kích hoạt lại đăng ký này,** chọn một phương thức thanh toán từ danh sách thả xuống hoặc chọn Thêm phương thức thanh **toán**.
+4. Chọn **Lưu**.
 
-Để tìm hiểu thêm, hãy xem [kích hoạt lại đăng ký của bạn](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Để tìm hiểu thêm, hãy xem [Kích hoạt lại đăng ký của bạn.](/microsoft-365/commerce/subscriptions/reactivate-your-subscription)

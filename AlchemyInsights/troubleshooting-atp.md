@@ -1,5 +1,5 @@
 ---
-title: Khắc phục sự cố Microsoft Defender cho Office 365
+title: Khắc phục sự cố về Bộ bảo vệ Microsoft Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,25 +11,25 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1039
 ms.assetid: ''
-ms.openlocfilehash: 2c9543660056ebc02b0bd297f619f20fa6820093
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: 91d73853d3ea67d6c6954fffb32dd1428e3d9976
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801468"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545290"
 ---
-# <a name="troubleshooting-microsoft-defender-for-office-365"></a>Khắc phục sự cố Microsoft Defender cho Office 365
+# <a name="troubleshooting-microsoft-defender-for-office-365"></a>Khắc phục sự cố về Bộ bảo vệ Microsoft Office 365
 
-- Bạn có thấy sự chậm trễ trong việc chuyển phát thư không? Sử dụng tùy chọn chuyển phát [động](https://docs.microsoft.com/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) trong chính sách tệp đính kèm an toàn trong ATP của bạn. Điều này sẽ giúp tránh sự chậm trễ của thư khi bảo vệ người nhận khỏi các tệp độc hại.
+- **Bạn có nhận thấy sự chậm trễ khi chuyển phát thư không?** Sử dụng tùy [chọn Chuyển phát](/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) động trong Bộ bảo vệ Microsoft để biết chính Office 365 Két sắt kèm. Điều này sẽ giúp tránh tình trạng thư bị chậm trễ trong khi bảo vệ người nhận khỏi các tệp độc hại.
 
-- Bạn có muốn báo cáo dương tính false hoặc âm sai đối với Microsoft không? Sử dụng [liên kết](https://www.microsoft.com/wdsi/filesubmission/) này để gửi các tệp để phân tích.
+- **Bạn có muốn báo cáo phủ nhận sai hay phủ nhận sai cho Microsoft không?** Sử [dụng Trình khám phá Gửi.](https://protection.office.com/reportsubmission)
 
-- Bạn có biết rằng bạn có thể cho phép bảo vệ liên kết an toàn cho email nội bộ được gửi giữa những người nhận trong tổ chức của mình không? Làm theo các bước sau đây:
+-** Bạn có biết rằng bạn có thể bật bảo vệ liên kết Két sắt cho email nội bộ được gửi giữa những người nhận trong tổ chức của bạn không?** Làm theo các bước sau:
 
-  1. Đi đến [https://protection.office.com](https://protection.office.com) và đăng nhập bằng tài khoản người quản trị toàn cầu hoặc người quản trị bảo mật.
+  1. Truy nhập và [https://protection.office.com](https://protection.office.com) đăng nhập bằng tài khoản người quản trị toàn cầu hoặc người quản trị bảo mật.
 
-  2. Trong ngăn dẫn hướng bên trái bên dưới **quản lý mối đe dọa** , chọn **Policy** \> **nối kết an toàn** chính sách.
+  2. Trong ngăn điều hướng bên trái bên dưới Quản **lý mối đe dọa,** chọn **Chính sách** Két sắt liên \> **kết**.
 
-  3. Trong phần **chính sách áp dụng cho toàn bộ tổ chức** , hãy chọn chính sách và bấm **sửa** .
+  3. Trong phần **Chính sách áp dụng cho toàn bộ tổ** chức, hãy chọn chính sách và bấm **Sửa**.
 
-  4. Bên dưới **thiết đặt** , **cho phép áp dụng nối kết an toàn cho thư được gửi trong tổ chức** .
+  4. Trong Cài đặt **,** bật Áp **dụng liên kết an toàn cho các tin nhắn đã gửi trong tổ chức**.

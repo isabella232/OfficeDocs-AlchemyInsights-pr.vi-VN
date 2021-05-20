@@ -1,5 +1,5 @@
 ---
-title: Tạm ngừng hoặc tạm dừng đăng ký
+title: Tạm ngừng hoặc tạm dừng một đăng ký
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,20 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002927"
 - "5603"
-- commerce
-ms.openlocfilehash: 1eec8f54e7fcc779dfcae73bda39efbabf533c43
-ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
+ms.openlocfilehash: 1a4c9016335bc045569ac6a17627b8cce4e78dc5
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50469108"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544528"
 ---
-# <a name="suspend-or-pause-a-subscription"></a>Tạm ngừng hoặc tạm dừng đăng ký
+# <a name="suspend-or-pause-a-subscription"></a>Tạm ngừng hoặc tạm dừng một đăng ký
 
-Để tạm ngừng hoặc tạm dừng đăng ký của bạn, bạn có thể hủy bỏ đăng ký trong Trung tâm quản trị Microsoft 365.
+Để tạm thời tạm ngừng hoặc tạm dừng đăng ký của mình, bạn có thể hủy bỏ đăng ký trong trung Microsoft 365 trị viên của bạn.
 
-1. Trong Trung tâm quản trị, hãy đi đến trang **thanh toán**  >  **[sản phẩm của bạn](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
-2. Trên tab **sản phẩm** , hãy tìm đăng ký mà bạn muốn hủy bỏ. Chọn **hành động khác** (ba chấm), rồi chọn **hủy bỏ đăng ký**.
-3. Trạng thái đăng ký Hiển thị là đã **tắt** và hiển thị ngày đăng ký đã bị hủy bỏ. Đăng ký vẫn nằm trong trạng thái vô hiệu hóa cho 90 ngày và đã giảm chức năng cho đến khi nó bị xóa bỏ hoặc [kích hoạt lại](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+1. Trong trung tâm quản trị, đi đến trang Thanh toán  >  **[Sản phẩm của](https://go.microsoft.com/fwlink/p/?linkid=842054)** bạn.
+2. Trên tab **Sản** phẩm, tìm đăng ký bạn muốn hủy bỏ. Chọn ba dot (thao tác khác), sau đó chọn Hủy **bỏ đăng ký**.
+3. Trạng thái đăng ký hiển thị là **Đã vô hiệu** hóa và hiển thị ngày đăng ký bị hủy bỏ. Đăng ký vẫn ở trạng thái vô hiệu hóa trong 90 ngày và đã giảm chức năng cho đến khi bị xóa hoặc [kích hoạt lại.](/microsoft-365/commerce/subscriptions/reactivate-your-subscription)
 
-Để biết thêm thông tin, hãy xem [điều gì sẽ xảy ra khi bạn hủy bỏ một thuê bao](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription#what-happens-when-you-cancel-a-subscription) và [lưu dữ liệu của bạn](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription#save-your-data).
+Để biết thêm thông tin, xem mục [Điều gì sẽ xảy ra khi bạn hủy bỏ đăng ký](/microsoft-365/commerce/subscriptions/cancel-your-subscription#what-happens-when-you-cancel-a-subscription) và Lưu dữ liệu của [mình](/microsoft-365/commerce/subscriptions/cancel-your-subscription#save-your-data).

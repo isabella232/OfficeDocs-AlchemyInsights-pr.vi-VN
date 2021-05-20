@@ -1,5 +1,5 @@
 ---
-title: 665 là bạn nhận được quá nhiều phish hoặc thư rác trong hộp thư của bạn?
+title: 665 Bạn đang nhận được quá nhiều thư lừa đảo qua email hoặc thư rác trong hộp thư của mình?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,19 +11,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 665,2578
 ms.assetid: ''
-ms.openlocfilehash: c2c23e815f98e130934280143bc245de0646dca4
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: ab0baac563fd4cce628eef0525c04b1613a2ea38
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51824637"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544852"
 ---
-# <a name="are-you-receiving-too-much-phish-or-spam-in-your-mailbox"></a>Bạn có nhận được quá nhiều phish hoặc thư rác trong hộp thư của mình không?
+# <a name="are-you-receiving-too-much-phish-or-spam-in-your-mailbox"></a>Bạn đang nhận quá nhiều thư lừa đảo qua web hoặc thư rác trong hộp thư của mình?
 
-**Ghi chú** Bạn có thể truy nhập vào Trung tâm bảo mật Microsoft 365 tại [https://security.microsoft.com](https://security.microsoft.com) .
+**Lưu ý** Bạn có thể truy nhập trung Microsoft 365 tâm bảo mật tại [https://security.microsoft.com](https://security.microsoft.com) .
 
-Với tư cách là người quản trị Microsoft 365, cách tốt nhất để xác định tại sao thư lừa đảo qua mạng hoặc thư rác sẽ được chuyển phát là gửi mẫu đến [Microsoft trong trình](https://security.microsoft.com/reportsubmission)khám phá bản trình duyệt. Bạn sẽ nhận được thông tin phản hồi ngay lập tức liên quan đến thư lọc và lý do tại sao có vấn đề.
+Với tư cách là người quản Microsoft 365, cách tốt nhất để xác định lý do thư lừa đảo qua mạng hoặc thư rác được gửi đến Microsoft trong Trình khám phá Bản [gửi.](https://security.microsoft.com/reportsubmission) Bạn sẽ nhận được phản hồi ngay lập tức liên quan đến việc lọc thư và lý do tại sao lại có vấn đề.
 
-Để thực hiện điều này, bạn có thể cho phép người dùng của bạn báo cáo trực tiếp đến Microsoft thông qua phần [bổ trợ tin nhắn báo cáo](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview).
+Để làm cho dễ dàng hơn, bạn có thể cho phép người dùng của mình báo cáo trực tiếp cho Microsoft thông qua [phần bổ trợ Thông báo báo cáo.](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview)
 
-**Bạn có biết không?**: bây giờ bạn có thể gửi mẫu trực tiếp từ theo [dõi thư](https://security.microsoft.com/messagetrace) và E5/ATP gói 2 khách hàng có thể gửi mẫu từ [mối đe dọa Explorer](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer).
+**Bạn có biết không?**: Giờ [](https://security.microsoft.com/messagetrace) đây, bạn có thể gửi mẫu trực tiếp từ Công cụ tìm thư và E5/Microsoft Defender cho khách hàng của Office 365 Plan 2 có thể gửi mẫu từ [Threat Explorer](/microsoft-365/security/office-365-security/threat-explorer).

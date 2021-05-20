@@ -15,32 +15,32 @@ ms.custom:
 - "9001497"
 - "4736"
 - "3551"
-ms.openlocfilehash: 9218a6611bf830341b125d331d496a52bc782553
-ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
+ms.openlocfilehash: bde53301b351359012394304a2236f526a478a32
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "48307436"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544456"
 ---
 # <a name="reactivate-your-subscription"></a>Kích hoạt lại đăng ký của bạn
 
-Nếu thuê bao của bạn hết hạn hoặc bị Microsoft vô hiệu hóa, hoặc nếu bạn đã hủy bỏ nó ở giữa thuật ngữ đăng ký, bạn có thể kích hoạt lại nó trong Trung tâm quản trị.
+Nếu đăng ký của bạn hết hạn hoặc bị Microsoft vô hiệu hóa hoặc nếu bạn đã hủy bỏ đăng ký trong thời hạn đăng ký thì bạn có thể kích hoạt lại trong trung tâm quản trị.
 
-1. Trong Trung tâm quản trị, hãy đi đến trang **thanh toán**  >  [sản phẩm của bạn](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. Trên tab **sản phẩm** , hãy tìm đăng ký mà bạn muốn kích hoạt lại. Chọn **hành động khác** (ba chấm), rồi chọn **kích hoạt lại đăng ký này**.
-3. Trong ngăn **kích hoạt lại gói đăng ký này** , hãy chọn một phương thức thanh toán từ danh sách thả xuống, hoặc chọn **Thêm phương thức thanh toán**.
-4. Chọn **lưu**.
+1. Trong trung tâm quản trị, đi đến trang Thanh toán  >  [Sản phẩm của](https://go.microsoft.com/fwlink/p/?linkid=842054) bạn.
+2. Trên tab **Sản** phẩm, hãy tìm đăng ký mà bạn muốn kích hoạt lại. Chọn ba dot (hành động khác), sau đó chọn **Kích hoạt lại đăng ký này**.
+3. Trong ngăn **Kích hoạt lại đăng ký này,** chọn một phương thức thanh toán từ danh sách thả xuống hoặc chọn Thêm phương thức thanh **toán**.
+4. Chọn **Lưu**.
 
-Để tìm hiểu thêm, hãy xem [kích hoạt lại đăng ký của bạn](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Để tìm hiểu thêm, hãy xem [Kích hoạt lại đăng ký của bạn.](/microsoft-365/commerce/subscriptions/reactivate-your-subscription)
 
-**Quản lý gia hạn thuê bao**
+**Quản lý gia hạn đăng ký**
 
-Để quản lý thanh toán hàng tháng hoặc hàng năm, bạn có thể bật hoặc tắt **thanh toán định kỳ** .
+Để quản lý thanh toán hàng tháng hoặc hàng năm, bạn có thể bật hoặc tắt **Thanh** toán định kỳ.
 
-1. Trong Trung tâm quản trị, hãy đi đến trang **thanh toán**  >  [sản phẩm của bạn](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. Trên tab **sản phẩm** , hãy chọn thuê bao mà bạn muốn thay đổi.
-3. Trên trang chi tiết gói đăng ký, bên dưới **thiết đặt thuê bao và thanh toán**, hãy chọn **chỉnh sửa thanh toán định kỳ**.
-4. Trong ngăn **chỉnh sửa thiết đặt thanh toán định kỳ** , chọn **bật**, **bật, nhưng gia hạn một lần** **, hoặc tắt**.
-5. Chọn **lưu**.
+1. Trong trung tâm quản trị, đi đến trang Thanh toán  >  [Sản phẩm của](https://go.microsoft.com/fwlink/p/?linkid=842054) bạn.
+2. Trên tab **Sản** phẩm, chọn đăng ký mà bạn muốn thay đổi.
+3. Trên trang chi tiết đăng ký, bên dưới **Cài đặt đăng ký và thanh toán,** chọn Chỉnh sửa thanh toán định **kỳ**.
+4. Trong ngăn **Chỉnh sửa cài đặt thanh toán định kỳ,** chọn **Bật**, Bật nhưng gia hạn **một lần** hoặc **Tắt**.
+5. Chọn **Lưu**.
 
-Để biết thêm thông tin, hãy xem bật tính năng [thanh toán định kỳ tắt hoặc](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on)bật.
+Để biết thêm thông tin, [hãy xem mục Tắt hoặc bật thanh toán định kỳ](/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).

@@ -12,33 +12,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002449"
 - "4748"
-ms.openlocfilehash: 532b273154a31c024825b150d9b0edd42eb6130c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: cf2431cb49902b3f7625ab96bc6d4e2121e51fdd
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51827778"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544166"
 ---
 # <a name="unlocking-an-account"></a>Mở khóa tài khoản
 
-Người dùng có thể bị khóa Microsoft 365 do cố gắng mật khẩu xấu hoặc các thỏa hiệp khác. Để giúp người dùng đăng nhập lại vào Microsoft 365, **bạn có thể thử các bước sau đây trước khi mở yêu cầu hỗ trợ**. 
+Người dùng có thể đã bị khóa truy nhập Microsoft 365 vì những lần nhập mật khẩu xấu hoặc xâm phạm khác. Để giúp người dùng đăng nhập lại vào Microsoft 365, bạn **có thể thử thực hiện các bước sau đây trước khi mở Yêu cầu Hỗ trợ.** 
 
-**Email bị hạn chế**
+**Email Bị hạn chế**
 
-Với tư cách là người quản trị, nếu một trong những người dùng của bạn bị hạn chế khi gửi email, bạn có thể [bỏ chặn tài khoản của mình](https://docs.microsoft.com/microsoft-365/security/office-365-security/removing-user-from-restricted-users-portal-after-spam). Người dùng sẽ có thể gửi email trong vòng một giờ sau khi loại bỏ hạn chế.
+Với tư cách là người quản trị, nếu một trong những người dùng của bạn bị hạn chế gửi email, bạn có thể [tự bỏ chặn tài khoản.](/microsoft-365/security/office-365-security/removing-user-from-restricted-users-portal-after-spam) Người dùng sẽ có thể gửi email trong vòng một giờ sau khi loại bỏ hạn chế.
 
-**Đặt lại mật khẩu người dùng**
+**Đặt lại Mật khẩu Người dùng**
 
-1. Trong Trung tâm quản trị, đi tới **người dùng > [người dùng hiện hoạt](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)**.
+1. Trong trung tâm quản trị, đi tới **Người dùng > hiện [hoạt.](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)**
 
-2. Chọn người dùng, rồi bấm vào **đặt lại mật khẩu**.
+2. Chọn người dùng và bấm Đặt **lại Mật khẩu**.
 
-**Đảm bảo rằng người dùng được phép đăng nhập**
+**Đảm bảo người dùng được phép đăng nhập**
 
-1. Trong Trung tâm quản trị, đi tới **người dùng > [người dùng hiện hoạt](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)**.
+1. Trong trung tâm quản trị, đi tới **Người dùng > hiện [hoạt.](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)**
 
-2. Chọn người dùng và bấm vào **hành động khác (...)**; sau đó bấm **sửa trạng thái đăng nhập**.
+2. Chọn người dùng và bấm vào dấu ba 0 (thao tác khác), rồi bấm vào **Chỉnh sửa trạng thái đăng nhập.**
 
-Để biết thêm các kịch bản đặt lại mật khẩu, bao gồm Self-Service đặt lại mật khẩu, hãy xem [đặt lại Microsoft 365 cho các mật khẩu nhiều nỗ lực-to-Charge-Payment-instrumentsbusiness](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords?view=o365-worldwide).
+Để biết thêm các kịch bản đặt lại mật khẩu, bao gồm đặt lại mật khẩu Self-Service, hãy xem Đặt lại mật Microsoft 365 cho nhiều lần [thử-to-charge-online-payment-instrumentsbusiness.](/microsoft-365/admin/add-users/reset-passwords)
 
-Dịch vụ ngăn không cho người dùng gửi email sau khi phát hiện bằng chứng của tài khoản bị xâm phạm và/hoặc thư rác. Với tư cách là một phòng ngừa, hãy làm theo các bước phản hồi [với tài khoản email bị xâm phạm trong Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account) cho người dùng.
+Dịch vụ này ngăn người dùng gửi email sau khi phát hiện bằng chứng về tài khoản bị xâm phạm và/hoặc thư rác đi. Để phòng ngừa, hãy làm theo các bước trong Phản hồi Tài [khoản Email Bị xâm phạm Microsoft 365](/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account) với người dùng.

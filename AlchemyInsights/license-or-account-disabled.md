@@ -1,5 +1,5 @@
 ---
-title: Giấy phép hoặc tài khoản đã bị vô hiệu hóa
+title: Đã vô hiệu hóa giấy phép hoặc tài khoản
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002459"
 - "3764"
-ms.openlocfilehash: 14ce58da129f0a16b280d4fd85a0bc28c2c0282f
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+ms.openlocfilehash: 045726996da5b409da9afe0e7b19e3f6675ade8c
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48286692"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544888"
 ---
-# <a name="license-or-account-disabled"></a>Giấy phép hoặc tài khoản đã bị vô hiệu hóa
+# <a name="license-or-account-disabled"></a>Đã vô hiệu hóa giấy phép hoặc tài khoản
 
-Nếu thuê bao của bạn hết hạn hoặc bị Microsoft vô hiệu hóa, hoặc nếu bạn đã hủy bỏ nó ở giữa thuật ngữ đăng ký, bạn có thể kích hoạt lại nó trong Trung tâm quản trị.
+Nếu đăng ký của bạn hết hạn hoặc bị Microsoft vô hiệu hóa hoặc nếu bạn đã hủy bỏ đăng ký trong thời hạn đăng ký thì bạn có thể kích hoạt lại trong trung tâm quản trị.
 
 **Kích hoạt lại đăng ký**
 
-1. Trong Trung tâm quản trị, hãy đi đến trang **thanh toán**  >  [sản phẩm của bạn](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. Trên tab **sản phẩm** , hãy tìm đăng ký mà bạn muốn kích hoạt lại. Chọn **hành động khác** (ba chấm), rồi chọn **kích hoạt lại đăng ký này**.
+1. Trong trung tâm quản trị, đi đến trang Thanh toán  >  [Sản phẩm của](https://go.microsoft.com/fwlink/p/?linkid=842054) bạn.
+2. Trên tab **Sản** phẩm, hãy tìm đăng ký mà bạn muốn kích hoạt lại. Chọn ba dot (hành động khác), sau đó chọn **Kích hoạt lại đăng ký này**.
     > [!NOTE]
-    > Nếu bạn không thấy **kích hoạt lại đăng ký này**, hãy liên hệ với bộ phận hỗ trợ.
-3. Trong ngăn **kích hoạt lại gói đăng ký này** , hãy chọn một phương thức thanh toán từ danh sách thả xuống, hoặc chọn **Thêm phương thức thanh toán**.
-4. Chọn **lưu**.
+    > Nếu bạn không thấy Kích hoạt lại **đăng ký này, hãy liên hệ với** bộ phận hỗ trợ.
+3. Trong ngăn **Kích hoạt lại đăng ký này,** chọn một phương thức thanh toán từ danh sách thả xuống hoặc chọn Thêm phương thức thanh **toán**.
+4. Chọn **Lưu**.
 
-Để biết thêm thông tin, hãy xem [kích hoạt lại đăng ký của bạn](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Để biết thêm thông tin, hãy [xem Kích hoạt lại đăng ký của bạn](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).

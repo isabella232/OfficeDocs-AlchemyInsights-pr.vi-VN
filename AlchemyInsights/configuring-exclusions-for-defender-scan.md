@@ -1,5 +1,5 @@
 ---
-title: Cấu hình loại trừ cho bộ quét ATP của Microsoft Defender
+title: Đặt cấu hình loại trừ để ATP của Bộ bảo vệ Microsoft quét
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,27 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "6027"
 - "9001464"
-ms.openlocfilehash: 912e77b9b1a149fef373f2d0814fb2f0671a48c6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5eb18f4133aca93c1506f4975c8d0567bede8d57
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "50714357"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543707"
 ---
-# <a name="configuring-exclusions-for-microsoft-defender-atp-scan"></a>Cấu hình loại trừ cho bộ quét ATP của Microsoft Defender
+# <a name="configuring-exclusions-for-microsoft-defender-atp-scan"></a>Đặt cấu hình loại trừ để ATP của Bộ bảo vệ Microsoft quét
 
-Nói chung, bạn có thể loại trừ các phần mở rộng tệp nhất định và các vị trí thư mục từ quét bộ ATP của Microsoft Defender. Bạn cũng có thể cấu hình loại trừ cho các tệp được mở bởi các quy trình nhất định. Để biết thêm thông tin, hãy xem, [cấu hình và xác thực các loại trừ dựa trên phần mở rộng tệp và vị trí thư mục](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-antivirus/configure-extension-file-exclusions-microsoft-defender-antivirus) và [đặt cấu hình các loại trừ cho các tệp được mở theo quy trình](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-antivirus/configure-process-opened-file-exclusions-microsoft-defender-antivirus) .
+Thông thường, bạn có thể loại trừ một số phần mở rộng tệp và vị trí thư mục ATP của Bộ bảo vệ Microsoft khi quét. Bạn cũng có thể cấu hình loại trừ cho tệp được mở bằng quy trình nhất định. Để biết thêm thông tin, hãy xem [Cấu](/windows/security/threat-protection/microsoft-defender-antivirus/configure-extension-file-exclusions-microsoft-defender-antivirus) hình và xác thực loại trừ dựa trên vị trí phần mở rộng tệp và thư mục và Đặt cấu hình loại trừ cho các tệp [được mở bằng quy trình.](/windows/security/threat-protection/microsoft-defender-antivirus/configure-process-opened-file-exclusions-microsoft-defender-antivirus)
 
-Để cấu hình loại trừ cho  **Windows server 2016 và 2019**, hãy xem [cấu hình các loại trừ chống virus của Microsoft Defender trên Windows Server](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-antivirus/configure-server-exclusions-microsoft-defender-antivirus).
+Để đặt cấu hình loại trừ **cho Windows Server 2016 và 2019,** hãy xem đặt cấu [hình loại Tính năng Chống Virut của Bộ bảo vệ Microsoft](/windows/security/threat-protection/microsoft-defender-antivirus/configure-server-exclusions-microsoft-defender-antivirus)loại trừ Windows Server .
 
-**Ana**
+**Máy Mac**
 
-Để biết chi tiết về các kiểu loại trừ được hỗ trợ và cấu hình một danh sách các loại trừ cho Mac, hãy xem các [kiểu loại trừ được hỗ trợ](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/mac-exclusions#supported-exclusion-types) và [cách cấu hình danh sách loại trừ](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/mac-exclusions#how-to-configure-the-list-of-exclusions).
+Để biết chi tiết về các loại loại trừ được hỗ trợ [](/windows/security/threat-protection/microsoft-defender-atp/mac-exclusions#supported-exclusion-types) và cấu hình danh sách loại trừ cho máy Mac, hãy xem Các loại loại trừ được hỗ trợ và Cách cấu hình danh sách loại [trừ.](/windows/security/threat-protection/microsoft-defender-atp/mac-exclusions#how-to-configure-the-list-of-exclusions)
 
-**Ghi chú** Bạn cũng có thể xác thực các danh sách loại trừ bằng cách dùng tệp kiểm tra EICAR. Để biết thêm thông tin, hãy xem [xác thực danh sách loại trừ có tệp kiểm tra EICAR](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/mac-exclusions#validate-exclusions-lists-with-the-eicar-test-file). 
+**Lưu ý** Bạn cũng có thể xác thực danh sách loại trừ bằng cách dùng tệp kiểm tra EICAR. Để biết thêm thông tin, [hãy xem Mục Xác thực danh sách loại trừ bằng tệp kiểm tra EICAR](/windows/security/threat-protection/microsoft-defender-atp/mac-exclusions#validate-exclusions-lists-with-the-eicar-test-file). 
 
-**Windows**
+**Linux**
 
-Để biết chi tiết về các kiểu loại trừ được hỗ trợ và cấu hình một danh sách các loại trừ cho Linux, hãy xem các kiểu loại trừ và cấu hình [được hỗ trợ](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/linux-exclusions#supported-exclusion-types) và xác thực các loại [trừ cho Microsoft Defender ATP for Linux](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/linux-exclusions).
+Để biết chi tiết về các loại loại trừ được hỗ trợ [](/windows/security/threat-protection/microsoft-defender-atp/linux-exclusions#supported-exclusion-types) và cấu hình danh sách loại trừ cho Linux, hãy xem Các loại loại trừ được hỗ trợ và Đặt cấu hình và xác thực loại trừ [cho ATP của Bộ bảo vệ Microsoft cho Linux](/windows/security/threat-protection/microsoft-defender-atp/linux-exclusions).
 
-**Ghi chú** Bạn cũng có thể xác thực các danh sách loại trừ bằng cách dùng tệp kiểm tra EICAR. Để biết thêm thông tin, hãy xem [xác thực danh sách loại trừ có tệp kiểm tra EICAR](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/linux-exclusions#validate-exclusions-lists-with-the-eicar-test-file). 
+**Lưu ý** Bạn cũng có thể xác thực danh sách loại trừ bằng cách dùng tệp kiểm tra EICAR. Để biết thêm thông tin, [hãy xem Mục Xác thực danh sách loại trừ bằng tệp kiểm tra EICAR](/windows/security/threat-protection/microsoft-defender-atp/linux-exclusions#validate-exclusions-lists-with-the-eicar-test-file). 

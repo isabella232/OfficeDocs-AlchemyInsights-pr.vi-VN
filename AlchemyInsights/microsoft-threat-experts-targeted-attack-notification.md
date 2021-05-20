@@ -1,5 +1,5 @@
 ---
-title: Các chuyên gia Microsoft Threat-thông báo tấn công được mục tiêu
+title: Chuyên gia về Mối đe dọa của Microsoft - Thông báo Tấn công Mục tiêu
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,29 +13,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004241"
 - "8320"
-ms.openlocfilehash: 2f93020fc3b350e1d85064e9c57de80a65814687
-ms.sourcegitcommit: 581c696ec108184adae9d4bc8f47cb9247131de8
+ms.openlocfilehash: 4cb5194e692ad64fc85d35170659c55b546fc431
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50714907"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545398"
 ---
-# <a name="microsoft-threat-experts---targeted-attack-notification"></a>Các chuyên gia Microsoft Threat-thông báo tấn công được mục tiêu
+# <a name="microsoft-threat-experts---targeted-attack-notification"></a>Chuyên gia về Mối đe dọa của Microsoft - Thông báo Tấn công Mục tiêu
 
-Thông báo tấn công được mục tiêu là một trong hai khả năng của chuyên gia đe dọa Microsoft. Đây là dịch vụ săn bắn mối đe dọa chủ động cung cấp những cái nhìn và phân tích đặc biệt giúp đảm bảo rằng các mối đe dọa quan trọng nhất được xác định và phản hồi nhanh chóng và chính xác.
+Thông báo Tấn công Mục tiêu là một trong hai khả năng Chuyên gia về Mối đe dọa của Microsoft tấn công mục tiêu. Đây là một dịch vụ bảo vệ chủ động bằng mối đe dọa cung cấp thông tin chuyên sâu và phân tích đặc biệt nhằm giúp đảm bảo xác định được các mối đe dọa quan trọng nhất và phản hồi nhanh chóng và chính xác.
 
-Nếu bạn là Microsoft Defender cho điểm cuối khách hàng, bạn cần phải áp dụng cho các chuyên gia Microsoft Threat-thông báo tấn công mục tiêu để nhận được những hiểu biết và phân tích đặc biệt giúp xác định các mối đe dọa quan trọng nhất để bạn có thể phản hồi nhanh chóng.
+Nếu bạn là Bộ bảo vệ Microsoft dành cho khách hàng Điểm cuối, bạn cần áp dụng cho Chuyên gia về Mối đe dọa của Microsoft - Thông báo Tấn công Mục tiêu để nhận thông tin chuyên sâu và phân tích đặc biệt giúp xác định những mối đe dọa quan trọng nhất để bạn có thể phản hồi nhanh chóng.
 
-Để đăng ký với các chuyên gia Microsoft Threat-lợi ích của thông báo tấn công được nhắm đến, hãy đi đến **thiết đặt**  >  **chung**  >  **nâng cao tính năng** của  >  **Microsoft Threat chuyên gia-thông báo tấn công được mục tiêu** để áp dụng. Sau khi được chấp nhận, bạn sẽ nhận được những lợi ích của thông báo tấn công mục tiêu.
+Để đăng ký nhận Chuyên gia về Mối đe dọa của Microsoft - Lợi ích của Thông báo Tấn công Mục tiêu, hãy **đi đến** mục Cài đặt tính năng Nâng cao Chung Chuyên gia về Mối đe dọa của Microsoft - Thông báo Tấn công Mục  >    >    >   tiêu để áp dụng. Sau khi chấp nhận, bạn sẽ nhận được lợi ích từ Thông báo Tấn công Mục tiêu.
 
-Bạn có thể nhận được thông báo tấn công được mục tiêu từ các chuyên gia đe dọa Microsoft thông qua các phương tiện sau:
+Bạn có thể nhận được thông báo tấn công mục tiêu Chuyên gia về Mối đe dọa của Microsoft thông qua phương tiện sau đây:
 
-- Trang sự cố của cổng thông tin điểm cuối của Defender
-- Bảng điều khiển cảnh báo Defender của cổng thông tin
-- API cảnh báo và API phần còn lại của OData
-- Bảng DeviceAlertEvents trong săn bắn nâng cao
-- Email của bạn, nếu bạn chọn cấu hình nó
+- Trang Sự cố của Bộ bảo vệ cho cổng thông tin Điểm cuối
+- Bảng điều khiển Cảnh báo của Bộ bảo vệ cho cổng thông tin Điểm cuối
+- API cảnh báo OData và API REST
+- Bảng DeviceAlertEvents trong Trò chơi mạo hiểm nâng cao
+- Email của bạn, nếu bạn chọn để cấu hình email
 
-Để nhận thông báo tấn công được nhắm đến thông qua email, hãy tạo một quy tắc thông báo email. 
+Để nhận thông báo tấn công mục tiêu qua email, hãy tạo quy tắc thông báo qua email. 
 
-Xem [cấu hình và quản lý các khả năng của chuyên gia đe dọa Microsoft](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-microsoft-threat-experts) để biết chi tiết.
+Hãy xem [đặt cấu hình và quản lý Chuyên gia về Mối đe dọa của Microsoft năng của bạn](/windows/security/threat-protection/microsoft-defender-atp/configure-microsoft-threat-experts) để biết chi tiết.
