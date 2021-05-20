@@ -1,5 +1,5 @@
 ---
-title: Bổ trợ Outlook nhóm
+title: Teams Outlook trợ mới (Chia sẻ với Teams, Họp Ngay, Cuộc họp Teams mới, Gia nhập cuộc Teams bạn)
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,22 +14,23 @@ ms.custom:
 - "3536"
 - "9002573"
 - "4990"
-ms.openlocfilehash: 815a0dbfa770b811321329ee48fc27113f08c8e2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2ce65a5a5d425d41a127541ee738b6e947a41b05
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835041"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52542771"
 ---
-# <a name="teams-outlook-add-in"></a><span data-ttu-id="27321-102">Bổ trợ Outlook nhóm</span><span class="sxs-lookup"><span data-stu-id="27321-102">Teams Outlook add-in</span></span>
+# <a name="teams-outlook-add-in-share-to-teams--meet-now-new-teams-meeting-join-teams-meeting"></a><span data-ttu-id="048b6-102">Teams Outlook trợ mới (Chia sẻ với Teams , Họp ngay, Cuộc họp Teams mới, Gia nhập cuộc Teams họp)</span><span class="sxs-lookup"><span data-stu-id="048b6-102">Teams Outlook add-in (Share to Teams , Meet now, New Teams meeting, Join Teams meeting)</span></span>
 
-## <a name="to-troubleshoot-a-missing-teams-outlook-add-in"></a><span data-ttu-id="27321-103">Để khắc phục sự cố bổ trợ Outlook nhóm thiếu</span><span class="sxs-lookup"><span data-stu-id="27321-103">To troubleshoot a missing Teams Outlook add-in</span></span>
+## <a name="to-troubleshoot-a-missing-teams-outlook-add-in"></a><span data-ttu-id="048b6-103">Để khắc phục sự cố phần Teams Outlook bổ trợ bị thiếu</span><span class="sxs-lookup"><span data-stu-id="048b6-103">To troubleshoot a missing Teams Outlook add-in</span></span>
 
-1. <span data-ttu-id="27321-104">Chạy chẩn đoán dịch vụ trong cổng thông tin quản trị.</span><span class="sxs-lookup"><span data-stu-id="27321-104">Run the Service Diagnostic in the Admin Portal.</span></span> 
-2. <span data-ttu-id="27321-105">Nếu dịch vụ chẩn đoán cho biết không có vấn đề, hãy chẩn đoán và sửa bất kỳ sự cố của máy khách trên máy người dùng bị ảnh hưởng bằng cách tải xuống và chạy các phần trợ [giúp phục hồi và hỗ trợ của Microsoft](https://aka.ms/SaRA-TeamsAddInScenario)  >  .</span><span class="sxs-lookup"><span data-stu-id="27321-105">If the Service Diagnostic indicates no issues, diagnose and correct any client issues on the affected user machines  by downloading and running the [Microsoft Support and Recovery Assistant](https://aka.ms/SaRA-TeamsAddInScenario) > **Teams Outlook Add-in Scenario**.</span></span>
+1. <span data-ttu-id="048b6-104">Chạy chẩn đoán "Phần bổ trợ nhóm bị thiếu trong Outlook", chẩn đoán này xác thực rằng người dùng có chính sách chính xác để bật phần bổ trợ Teams Outlook nhóm.</span><span class="sxs-lookup"><span data-stu-id="048b6-104">Run the diagnostic “Team Add-in is missing in Outlook,” which validates that a user has the correct policies to enable the Teams Outlook add-in.</span></span> <span data-ttu-id="048b6-105">Để truy nhập chẩn đoán, nhập **Diag: Teams Bổ trợ Bị thiếu Outlook** trong hộp tìm kiếm.</span><span class="sxs-lookup"><span data-stu-id="048b6-105">To access the diagnostic, type **Diag: Teams Add-in Missing in Outlook** in the search box.</span></span>
 
-<span data-ttu-id="27321-106">Để khắc phục sự cố thủ công một phần bổ trợ Outlook nhóm, hãy xem lại danh sách các yếu tố tiềm tàng có thể làm cho bổ trợ nhóm của bạn không xuất hiện được liệt kê.</span><span class="sxs-lookup"><span data-stu-id="27321-106">To manually troubleshoot a missing Teams Outlook add-in, review the list of potential factors that might cause your Teams add-in not to appear listed.</span></span> <span data-ttu-id="27321-107">Để biết thêm thông tin, hãy xem [bổ trợ cuộc họp nhóm trong Outlook for Windows không hiển thị](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show).</span><span class="sxs-lookup"><span data-stu-id="27321-107">For more info, see [Teams Meeting add-in in Outlook for Windows does not show](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show).</span></span>
+1. <span data-ttu-id="048b6-106">Nếu Chẩn đoán Dịch vụ cho biết không có sự cố nào, hãy chẩn đoán và khắc phục mọi sự cố máy khách trên máy người dùng bị ảnh hưởng bằng cách tải xuống và chạy Kịch bản Bổ trợ Công cụ Trợ giúp Phục hồi và Hỗ trợ Teams Outlook [của Microsoft.](https://aka.ms/SaRA-TeamsAddInScenario)  >  </span><span class="sxs-lookup"><span data-stu-id="048b6-106">If the Service Diagnostic indicates no issues, diagnose and correct any client issues on the affected user machines  by downloading and running the [Microsoft Support and Recovery Assistant](https://aka.ms/SaRA-TeamsAddInScenario) > **Teams Outlook Add-in Scenario**.</span></span>
 
-## <a name="to-troubleshoot-scheduling-a-teams-meeting-on-behalf-of-someone-else-delegate"></a><span data-ttu-id="27321-108">Để khắc phục sự cố lên lịch một cuộc họp nhóm thay mặt cho người khác (đại diện)</span><span class="sxs-lookup"><span data-stu-id="27321-108">To troubleshoot scheduling a Teams meeting on behalf of someone else (Delegate)</span></span>
+<span data-ttu-id="048b6-107">Để khắc phục sự cố thủ công phần bổ trợ Teams Outlook bị thiếu, hãy xem lại danh sách các yếu tố tiềm năng có thể khiến cho bổ trợ Teams bạn không xuất hiện trong danh sách.</span><span class="sxs-lookup"><span data-stu-id="048b6-107">To manually troubleshoot a missing Teams Outlook add-in, review the list of potential factors that might cause your Teams add-in not to appear listed.</span></span> <span data-ttu-id="048b6-108">Để biết thêm thông tin, hãy Teams bổ trợ Cuộc [Outlook cho Windows không hiển thị.](/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show)</span><span class="sxs-lookup"><span data-stu-id="048b6-108">For more info, see [Teams Meeting add-in in Outlook for Windows does not show](/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show).</span></span>
 
-<span data-ttu-id="27321-109">Để lên lịch một cuộc họp nhóm thay mặt cho người khác, hãy xem khắc phục sự cố các [vấn đề tương tác của Microsoft nhóm và Exchange Server](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue).</span><span class="sxs-lookup"><span data-stu-id="27321-109">To schedule a Teams meeting on someone else's behalf, see [Troubleshoot Microsoft Teams and Exchange Server interaction issues](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue).</span></span>
+## <a name="to-troubleshoot-scheduling-a-teams-meeting-on-behalf-of-someone-else-delegate"></a><span data-ttu-id="048b6-109">Để khắc phục sự cố lên Teams cuộc họp thay mặt cho người khác (Đại diện)</span><span class="sxs-lookup"><span data-stu-id="048b6-109">To troubleshoot scheduling a Teams meeting on behalf of someone else (Delegate)</span></span>
+
+<span data-ttu-id="048b6-110">Để thay mặt người Teams lên lịch cuộc họp, hãy xem Khắc phục [sự cố về Microsoft Teams và Exchange Server tác tương tác.](/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue)</span><span class="sxs-lookup"><span data-stu-id="048b6-110">To schedule a Teams meeting on someone else's behalf, see [Troubleshoot Microsoft Teams and Exchange Server interaction issues](/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue).</span></span>
