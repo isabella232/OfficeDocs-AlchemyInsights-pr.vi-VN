@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "93"
 - "1200022"
-ms.openlocfilehash: adc95413c269584d75e907fcdcb231a0a0f9a99e
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7009dcf86da9d8a3fc8ea2f90ecbff3487f3fc59
+ms.sourcegitcommit: 2d617ae59eed0ce8b571339ceefce6473c03b94c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822261"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52569733"
 ---
 # <a name="add-a-user"></a>Thêm người dùng
 
-1. Trong Trung tâm quản trị Microsoft 365, hãy đi đến **người** dùng hiện  >  [hoạt](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
+1. In the Microsoft 365 admin center, go to **Users**  >  [Active users](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
 
-2. Bấm **Thêm người dùng**.
+2. Bấm **Thêm người dùng.**
 
-3. Điền thông tin cho người dùng. Chọn **hoàn tất thêm** khi bạn đã thực hiện xong.
+3. Làm theo trình hướng dẫn để thêm thông tin người dùng, giấy phép pProduct, vai trò tùy chọn và thông tin hồ sơ.
 
-Để tìm hiểu thêm, hãy xem [Thêm từng người dùng hoặc số lượng lớn](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).
+Để tìm hiểu thêm, hãy [xem mục Thêm từng người dùng hoặc hàng loạt người dùng.](/microsoft-365/admin/add-users/add-users)

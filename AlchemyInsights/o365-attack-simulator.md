@@ -1,5 +1,5 @@
 ---
-title: trình mô phỏng tấn công 2681 trong Microsoft 365
+title: Tấn công Công cụ 2681 trong Microsoft 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,31 +12,31 @@ localization_priority: Normal
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: 7b48abea3400e3565f2ba33c97e24e5b9923eb3b
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: e7d71fdb77b4a047c1998e9aba75cdd469a936a8
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801573"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545748"
 ---
-# <a name="attack-simulator-in-microsoft-365"></a>Trình mô phỏng tấn công trong Microsoft 365
+# <a name="attack-simulator-in-microsoft-365"></a>Tấn công Phát hiện trong Microsoft 365
 
-- Bạn có thiếu mô phỏng tấn công không? Trình mô phỏng tấn công yêu cầu **Microsoft Defender cho office 365 Plan 2 (ATP Plan 2)** hoặc **Office 365 Enterprise E5** . Trình mô phỏng tấn công **không** được bao gồm trong Microsoft Defender cho Office 365 Plan 1 (ATP Plan 1), Office 365 Enterprise E3, hoặc bất kỳ ứng dụng Microsoft 365 dành cho doanh nghiệp.
+- Có phải bạn bỏ lỡ Tấn công Tấn công không? Tính năng Tấn công **phải có Bộ bảo vệ Microsoft Office 365 Plan 2** hoặc Office 365 Enterprise **E5.** Bảo vệ Tấn **công không** nằm trong Bộ bảo vệ Microsoft Office 365 Plan 1, Office 365 Enterprise E3 hoặc bất kỳ đăng ký Ứng dụng Microsoft 365 dành cho doanh nghiệp nào.
 
-- Tài khoản mà bạn sử dụng để khởi động các cuộc tấn công mô phỏng yêu cầu người quản trị toàn cầu hoặc các quyền của người quản trị bảo mật và xác thực đa yếu tố (MFA). Để biết thêm thông tin về các yêu cầu về mô phỏng tấn công, hãy xem [chủ đề này](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).
+- Tài khoản bạn sử dụng để khởi chạy các cuộc tấn công mô phỏng yêu cầu người quản trị toàn cầu hoặc người quản trị bảo mật phải có quyền của người quản trị bảo mật và xác thực đa yếu tố (MFA). Để biết thêm thông tin về các yêu cầu đối với Tấn công đối với Tấn công, [hãy xem chủ đề này.](/microsoft-365/security/office-365-security/attack-simulator)
 
-- Những điều quan trọng cần biết về các mô phỏng tấn công **mật khẩu Brute Force** :
+- Những điều quan trọng cần biết về **mô phỏng tấn công Brute Force Password:**
 
-  - Nếu tài khoản đích đã bật MFA và mật khẩu đã được đoán đúng, tài khoản sẽ không hiển thị là bị xâm phạm (yếu tố xác thực thứ hai sẽ không hoàn thành).
+  - Nếu tài khoản đích đã bật MFA và mật khẩu đã được đoán đúng thì tài khoản sẽ không hiển thị là bị xâm phạm (hệ số xác thực thứ hai sẽ không hoàn tất).
 
-  - Tệp mật khẩu không thể lớn hơn 10 MB. Sử dụng một mật khẩu cho mỗi dòng, và bao gồm một đường trống (giao hàng trả về) sau khi mật khẩu cuối cùng trong danh sách.
+  - Tệp mật khẩu không được lớn hơn 10 MB. Sử dụng một mật khẩu cho mỗi dòng, và thêm một dòng trống (xuống dòng) sau mật khẩu cuối cùng trong danh sách.
 
-- Những điều quan trọng cần biết về các mô phỏng về **lừa đảo** qua mạng:
+- Những điều quan trọng cần biết **về việc đính kèm mô** phỏng Lừa đảo qua hệ thống:
 
-  - Theo thiết kế, bạn không thể cung cấp giá trị tùy chỉnh cho **URL của máy chủ đăng nhập giả mạo** .
+  - Theo chủ đích, bạn không thể cung cấp giá trị tùy chỉnh cho URL máy chủ đăng nhập Lừa đảo qua **mạng.**
 
-  - Nếu người nhận sử dụng phần [bổ trợ bật thông báo báo cáo](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) để báo cáo thư là lừa đảo, bạn có thể không nhận được cảnh báo cho thư (vì đây là một cuộc tấn công mô phỏng).
+  - Nếu người nhận [](/microsoft-365/security/office-365-security/enable-the-report-message-add-in) sử dụng phần bổ trợ Bật phần bổ trợ Thông báo Báo cáo để báo cáo thư là lừa đảo qua mạng, bạn có thể không nhận được cảnh báo về thư này (vì đây là một cuộc tấn công mô phỏng).
 
-- Báo cáo: sau khi hoàn thành cuộc tấn công mô phỏng, bạn có thể bấm vào **chi tiết tấn công** để xem báo cáo.
+- Báo cáo: Sau khi cuộc tấn công mô phỏng hoàn tất, bạn có thể bấm vào Chi **tiết Tấn** công để xem báo cáo.
 
-- Để biết hướng dẫn chi tiết và các tính năng mới trong tấn công Simulator, hãy xem [tấn công Simulator trong Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).
+- Để biết hướng dẫn chi tiết và các tính năng mới trong Phát sinh Tấn công, xem [mục Tấn công Công cụ đối với Microsoft 365](/microsoft-365/security/office-365-security/attack-simulator).

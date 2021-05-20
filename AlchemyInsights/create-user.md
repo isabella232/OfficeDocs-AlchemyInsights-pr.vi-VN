@@ -13,29 +13,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003231"
 - "9403"
-ms.openlocfilehash: 742ff857141d08031302fdcff7e49b3eef90e0f7
-ms.sourcegitcommit: 186281d0b87d67f041c127d4334faa937da9a48a
+ms.openlocfilehash: 800baae2d748708d8cb7a5fb0e73fce5dcf455cb
+ms.sourcegitcommit: 2d617ae59eed0ce8b571339ceefce6473c03b94c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747032"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52569769"
 ---
 # <a name="create-user"></a>Tạo người dùng
 
-**THÔNG**
+**THÔNG BÁO:**
 
-- [Deprecation của WebView hỗ trợ đăng nhập từ Google bắt đầu từ 4 tháng 1, 2021](https://docs.microsoft.com/azure/active-directory/external-identities/google-federation#deprecation-of-webview-sign-in-support) . Kiểm tra xem các ứng dụng của bạn có thể bị ảnh hưởng bằng cách làm theo [hướng dẫn của Google](https://go.microsoft.com/fwlink/?linkid=2157323) khi kiểm tra tính tương thích.
-- Hãy đảm bảo bạn sử dụng trình duyệt hệ thống WebView hoặc hệ thống khi đăng nhập vào người dùng của bạn với tài khoản Google dành cho người dùng. Để biết thêm thông tin, hãy xem các [vấn đề đăng nhập vào (các) ứng dụng chỉ sử dụng trình duyệt Chrome](https://docs.microsoft.com/office365/troubleshoot/miscellaneous/chrome-behavior-affects-applications).
+- Không còn hỗ trợ đăng nhập WebView từ Google kể từ ngày 4 tháng [1 năm 2021.](/azure/active-directory/external-identities/google-federation#deprecation-of-webview-sign-in-support) Kiểm tra xem các ứng dụng của bạn có thể bị ảnh hưởng bởi việc làm theo [hướng dẫn của Google về](https://go.microsoft.com/fwlink/?linkid=2157323) việc kiểm tra tính tương thích hay không.
+- Đảm bảo bạn sử dụng dạng xem web hệ thống hoặc trình duyệt hệ thống khi đăng nhập người dùng bằng tài khoản Google dành cho người tiêu dùng. Để biết thêm thông tin, [hãy xem mục Sự cố đăng nhập vào (các) ứng dụng chỉ sử dụng trình duyệt Chrome.](/office365/troubleshoot/miscellaneous/chrome-behavior-affects-applications)
 
-**Tôi không thể tạo người dùng mới trong thư mục Azure AD của tôi**
+**Tôi không thể tạo người dùng mới trong thư mục Azure AD của mình**
 
-1. Đảm bảo rằng bạn được ủy quyền để tạo một người dùng tiêu chuẩn mới. Chỉ người quản trị toàn cầu hoặc vai trò người quản trị người dùng trong Azure Active Directory (AD) có thể tạo một người dùng chuẩn mới. Nếu bạn không ở trong một trong những vai trò này, hãy yêu cầu người quản trị thêm bạn vào một trong những vai trò này hoặc để tạo tài khoản người dùng mới cho bạn.
-1. Đảm bảo rằng tên người dùng đang ở trong một tên miền được xác minh trong Azure AD của bạn. Nếu bạn không có bất kỳ tên miền riêng nào được xác minh trong Azure AD, bạn có thể sử dụng tên miền Azure AD ban đầu của bạn, kết thúc bằng *. onmicrosoft.com.
-1. Đảm bảo rằng tên người dùng đang ở trong một tên miền không được liên kết với Azure AD từ quảng cáo tại cơ sở của bạn. Người dùng không thể được thêm vào điện toán đám mây có tên miền được liên kết từ tại cơ sở.
-1. Đảm bảo rằng không có người dùng hoặc liên hệ nào khác đã có tên người dùng mà bạn muốn gán cho người dùng mới. Tên người dùng phải là duy nhất trên Azure AD.
-1. Xem các [vai trò và người quản trị AZURE AD](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) cho Azure AD của bạn.
-1. Xem [tên miền](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) cho Azure AD của bạn.
-1. Xem lại [Nhật ký kiểm](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) tra để xem thông tin chi tiết hơn về một người dùng đã tạo hoặc đã xóa gần đây như những người thực hiện hành động và khi nào.
-1. Để biết thêm thông tin về cách thêm người dùng mới, hãy xem [sử dụng cổng thông tin Azure để tạo người dùng mới trong AZURE AD của bạn](/azure/active-directory/active-directory-users-create-azure-portal).
-1. Các [vai trò quản trị AZURE AD](https://docs.microsoft.com/azure/active-directory/active-directory-assign-admin-roles): quyền của vai trò người quản trị trong Azure Active Directory
-1. Bạn cũng có thể [sử dụng AZURE AD PowerShell để tạo người dùng mới](https://docs.microsoft.com/powershell/module/azuread/new-azureaduser?view=azureadps-2.0).
+1. Đảm bảo rằng bạn được phép tạo người dùng tiêu chuẩn mới. Chỉ người quản trị Toàn cục hoặc vai trò người quản trị Người dùng trong Azure Active Directory (AD) mới có thể tạo người dùng chuẩn mới. Nếu bạn không ở trong một trong những vai trò này, hãy yêu cầu người quản trị thêm bạn vào một trong những vai trò này hoặc tạo tài khoản người dùng mới cho bạn.
+1. Đảm bảo rằng tên người dùng nằm trong miền được xác minh trong Azure AD của bạn. Nếu bạn không có bất kỳ tên miền riêng đã xác minh nào trong Azure AD, bạn có thể sử dụng miền ban đầu Azure AD kết thúc bằng *.onmicrosoft.com.
+1. Đảm bảo rằng tên người dùng nằm trong miền không được liên kết với Azure AD từ AD tại chỗ của bạn. Không thể thêm người dùng vào đám mây với các tên miền được liên kết từ tại chỗ.
+1. Đảm bảo rằng không có người dùng hoặc liên hệ nào khác đã có tên người dùng mà bạn muốn gán cho người dùng mới. Tên người dùng phải là duy nhất trong Azure AD.
+1. Hãy [xem mục Vai trò và người quản trị Azure AD](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) cho Azure AD của bạn.
+1. Xem các [tên miền cho](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) Azure AD của bạn.
+1. Xem [lại Nhật ký kiểm tra](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) để xem thông tin chi tiết hơn về người dùng được tạo hoặc xóa gần đây như người đã thực hiện hành động và thời điểm thực hiện hành động.
+1. Để biết thêm thông tin về cách thêm người dùng mới, hãy [xem mục Sử dụng cổng thông tin Azure để tạo người dùng mới trong Azure AD của bạn.](/azure/active-directory/active-directory-users-create-azure-portal)
+1. [Vai trò quản trị Azure AD:](/azure/active-directory/active-directory-assign-admin-roles)Quyền vai trò người quản trị trong Azure Active Directory
+1. Bạn cũng có [thể sử dụng Azure AD PowerShell để tạo người dùng mới.](/powershell/module/azuread/new-azureaduser?view=azureadps-2.0)
