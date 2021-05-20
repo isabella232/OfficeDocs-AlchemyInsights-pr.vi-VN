@@ -13,28 +13,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "7455"
 - "9000181"
-ms.openlocfilehash: 4a5fd418e59e9aa56522e9cef17bb72e6c8b8bd8
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 0fb43292dfa446c829dd41c8513c05285fbd79e0
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748255"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52539738"
 ---
 # <a name="publish-sensitivity-labels"></a>Phát hành nhãn nhạy cảm
 
-Để phát hành các nhãn nhạy cảm, hãy thực hiện các bước sau đây:
+Để phát hành nhãn nhạy cảm, hãy thực hiện các bước sau đây:
 
-1. Chọn **Trung tâm tuân thủ & bảo mật của Office 365 > phân loại > nhãn nhạy cảm**.
-2. Trên trang **nhãn nhạy cảm** , hãy bấm tab **chính sách nhãn** .
-3. Bấm phát hành **nhãn**.
-4. Bấm vào **chọn nhãn nhạy cảm để** phát hành. 
-5. Chọn các nhãn bạn muốn sẵn dùng trong các ứng dụng và dịch vụ, rồi bấm **Thêm**.
+1. Chọn **Office 365 Tâm Bảo & Tuân thủ để > xếp > nhãn Nhạy cảm.**
+2. Trên trang **Nhãn nhạy cảm,** hãy bấm tab **Chính sách nhãn.**
+3. Bấm **phát hành nhãn.**
+4. Bấm **Chọn nhãn nhạy cảm để phát hành**. 
+5. Chọn các nhãn bạn muốn sẵn dùng trong ứng dụng và các dịch vụ, rồi bấm **Thêm.**
 > [!IMPORTANT]
-> Nếu bạn chọn một sublabel, hãy đảm bảo bạn cũng chọn nhãn mẹ của nó.
-6. Xem lại các nhãn đã chọn. Để thực hiện bất kỳ thay đổi nào, hãy bấm **sửa**; Nếu không, hãy bấm **tiếp**.
-7. Làm theo các lời nhắc để cấu hình các thiết đặt chính sách.
-8. Lặp lại các bước này nếu bạn cần các thiết đặt chính sách khác nhau cho người dùng hoặc vị trí khác nhau. Ví dụ, bạn muốn thêm nhãn cho một nhóm người dùng hoặc một nhãn mặc định khác cho một tập hợp con của người dùng.
-9. Nếu bạn tạo nhiều hơn một chính sách nhãn có thể gây ra xung đột cho người dùng hoặc vị trí, hãy xem lại thứ tự chính sách và nếu cần, hãy di chuyển chúng lên hoặc xuống dưới. Để thay đổi thứ tự của chính sách nhãn, hãy chọn **...** để **biết thêm hành động**, rồi chọn **di chuyển lên** hoặc **di chuyển xuống**.
+> Nếu bạn chọn nhãn phụ, hãy đảm bảo bạn cũng chọn cả nhãn cha mẹ.
+6. Xem lại các nhãn đã chọn. Để thực hiện bất kỳ thay đổi nào, hãy **bấm Sửa**; nếu không, hãy bấm **Tiếp**.
+7. Hãy làm theo các lời nhắc để cấu hình thiết đặt chính sách.
+8. Lặp lại các bước này nếu bạn cần các thiết đặt chính sách khác nhau cho những người dùng hoặc vị trí khác nhau. Ví dụ: bạn muốn thêm nhãn cho một nhóm người dùng hoặc một nhãn mặc định khác cho một tập hợp con của người dùng.
+9. Nếu bạn tạo nhiều chính sách nhãn có thể gây ra xung đột cho người dùng hoặc vị trí, hãy xem lại thứ tự chính sách và nếu cần thiết, di chuyển chúng lên hoặc xuống. Để thay đổi thứ tự của chính sách nhãn, hãy chọn dấu ba dấu 0 (thao tác khác), rồi chọn **Di chuyển lên hoặc** Di chuyển **xuống**.
 
-Hoàn thành trình hướng dẫn tự động phát hành chính sách nhãn.
+Khi hoàn tất trình hướng dẫn, trình hướng dẫn sẽ tự động phát hành chính sách nhãn.
 

@@ -13,20 +13,20 @@ ms.assetid: 2d59f23f-7aad-4b57-9039-0bd2bbf929a3
 ms.custom:
 - "1500028"
 - "482"
-ms.openlocfilehash: d8cba59f38760edd9ebb693bd5d5e63576966ae3
-ms.sourcegitcommit: 5b0cd6ecd16798a421b9614cfd0f416d43e7ce6a
+ms.openlocfilehash: fbf80520625322c30a41f90333ec47ee3528bee2
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52261696"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52540278"
 ---
 # <a name="activate-or-reactivate-a-subscription"></a>Kích hoạt hoặc kích hoạt lại đăng ký
 
 **Kích hoạt đăng ký**
 
-- Để cấp cho người dùng quyền truy nhập vào dịch vụ, hãy gán cho họ giấy phép. Để tìm hiểu cách thực hiện, [hãy xem mục Gán giấy phép cho người dùng.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
+- Để cấp cho người dùng quyền truy nhập vào dịch vụ, hãy gán cho họ giấy phép. Để tìm hiểu cách thực hiện, [hãy xem mục Gán giấy phép cho người dùng.](/microsoft-365/admin/manage/assign-licenses-to-users)
 - Nếu bạn đã có giấy phép được gán cho mình, bạn có thể tìm thấy các ứng dụng mà bạn có thể tải xuống từ [trang Tài khoản của Tôi.](https://portal.office.com/account/#installs) Trang này cung cấp danh sách các ứng dụng sẵn dùng để bạn tải xuống dựa trên giấy phép đã được gán.
-- Nếu bạn đã tải xuống các ứng dụng Office, bạn có thể cần đăng nhập vào các ứng dụng bằng tài khoản cơ quan hoặc trường học của mình. Bạn có thể thực hiện điều đó trong bất kỳ Office dụng nào (Word, Excel, v.v.) bằng cách bấm vào Tệp  >  **Office** khoản (gần dưới cùng). Bên dưới **Thông tin Người** dùng, chọn Chuyển đổi Tài **khoản**. Để biết thêm thông tin, hãy [xem Cài đặt Office dụng.](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications)
+- Nếu bạn đã tải xuống các ứng dụng Office, bạn có thể cần đăng nhập vào các ứng dụng bằng tài khoản cơ quan hoặc trường học của mình. Bạn có thể thực hiện điều đó trong bất kỳ Office dụng nào (Word, Excel, v.v.) bằng cách bấm vào Tệp  >  **Office** khoản (gần dưới cùng). Bên dưới **Thông tin Người** dùng, chọn Chuyển đổi Tài **khoản**. Để biết thêm thông tin, hãy [xem Cài đặt Office dụng.](/microsoft-365/admin/setup/install-applications)
 
 **Kích hoạt lại đăng ký**
 
@@ -34,15 +34,15 @@ Nếu đăng ký của bạn hết hạn, bị Microsoft vô hiệu hóa hoặc 
   
 1. Trong trung tâm quản trị, đi đến trang Thanh toán  >  [Sản phẩm của](https://go.microsoft.com/fwlink/p/?linkid=842054) bạn.
 2. Trên tab **Sản** phẩm, hãy tìm đăng ký mà bạn muốn kích hoạt lại.
-3. Chọn **Hành động khác** (ba dot), sau đó chọn Kích hoạt lại đăng ký **này**.
+3. Chọn ba dot (hành động khác), sau đó chọn **Kích hoạt lại đăng ký này**.
     > [!IMPORTANT]
-    > Nếu bạn không thấy Kích hoạt lại đăng ký này như một hành động sẵn **có,** hãy gọi cho bộ trợ giúp [để](/microsoft-365/admin/contact-support-for-business-products) kích hoạt lại đăng ký của bạn.
+    > Nếu bạn không thấy Kích hoạt lại đăng ký này như một hành động sẵn **có,** hãy gọi cho bộ trợ giúp [để](https://go.microsoft.com/fwlink/p/?linkid=518322) kích hoạt lại đăng ký của bạn.
 4. Trong ngăn **Kích hoạt lại đăng ký này,** chọn một phương thức thanh toán hiện có hoặc chọn Thêm phương thức thanh **toán**.
 5. Chọn **Kích hoạt lại**.
 
-Để biết thêm thông tin, hãy [xem Kích hoạt lại đăng ký của bạn](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Để biết thêm thông tin, hãy [xem Kích hoạt lại đăng ký của bạn](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 **Kích hoạt đăng ký mới bằng khóa sản phẩm**
 
 1. Để kích hoạt đăng ký Microsoft 365 mới bằng khóa sản phẩm của bạn, hãy [xem mục Nơi nhập khóa sản phẩm Office của bạn.](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db)
-2. Nhập khóa sản phẩm Microsoft 365 và làm theo lời nhắc để kích hoạt đăng ký của bạn. Nếu bạn gặp phải sự cố với việc kích hoạt, hãy xem danh sách các lỗi [thường gặp về khóa sản phẩm và giải pháp này.](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions)
+2. Nhập khóa sản phẩm Microsoft 365 và làm theo lời nhắc để kích hoạt đăng ký của bạn. Nếu bạn gặp phải sự cố với việc kích hoạt, hãy xem danh sách các lỗi [thường gặp về khóa sản phẩm và giải pháp này.](/microsoft-365/commerce/product-key-errors-and-solutions)

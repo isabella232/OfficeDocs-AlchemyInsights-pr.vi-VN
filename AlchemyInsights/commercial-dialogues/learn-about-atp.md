@@ -1,5 +1,5 @@
 ---
-title: Tìm hiểu về ATP
+title: Tìm hiểu về Bộ bảo vệ Microsoft dành cho Office 365
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,26 +13,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100019"
 - "7522"
-ms.openlocfilehash: 62eb0d38519292a951c69ba096503e51e31ee543
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: df341ed0c7aacaf84d3a33f223b7df44be5a78d9
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403585"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52539810"
 ---
-# <a name="learn-about-atp"></a>Tìm hiểu về ATP
+# <a name="learn-about-microsoft-defender-for-office-365"></a>Tìm hiểu về Bộ bảo vệ Microsoft dành cho Office 365
 
-Sau đây là một số thông tin về bảo vệ mối đe dọa nâng cao của Office 365 (ATP):
+Sau đây là một số thông tin về Bộ bảo vệ Microsoft cho Office 365:
 
-**ATP là gì?**
+**Bộ bảo vệ Microsoft dành cho tất cả Office 365?**
 
-ATP là một dịch vụ lọc email dựa trên nền tảng điện toán đám mây giúp bảo vệ các tổ chức chống phần mềm độc hại và vi-rút không xác định bằng cách cung cấp bảo vệ bằng không theo ngày mạnh mẽ. Nó bao gồm các tính năng để bảo vệ các tổ chức từ các nối kết có hại trong thời gian thực.
+Bộ bảo vệ Microsoft dành cho Office 365 là dịch vụ lọc email dựa trên nền tảng điện toán đám mây giúp bảo vệ các tổ chức trước các phần mềm độc hại và vi-rút không xác định bằng cách cung cấp khả năng bảo vệ mạnh mẽ theo ngày bằng không. Điều này bao gồm các tính năng bảo vệ tổ chức khỏi các liên kết có hại trong thời gian thực.
 
-**Làm thế nào để tôi kích hoạt ATP?**
+**Làm thế nào để kích hoạt Bộ bảo vệ Microsoft cho Office 365?**
 
-Các tệp đính kèm an toàn, liên kết an toàn và chống lừa đảo là một phần của tính năng ATP. Enterprise E5, A5 giáo dục và Microsoft 365 Business bao gồm các tính năng của ATP tích hợp sẵn. Tất cả các gói khác yêu cầu đăng ký ATP bổ trợ. Bạn cần gán giấy phép thích hợp cho người dùng của bạn được Office 365 ATP bảo vệ. Bạn phải có quyền quản trị toàn cầu hoặc quyền của người quản trị bảo mật để truy nhập vào tính năng này. Để tìm hiểu thêm về cách áp dụng giấy phép với số lượng lớn cho người dùng cuối của bạn, hãy xem mục [gán giấy phép cho người dùng trong Office 365 dành cho doanh nghiệp](https://go.microsoft.com/fwlink/?linkid=2093435).
+Két sắt Tệp đính kèm, Két sắt kết và chống lừa đảo là một phần của Bộ bảo vệ Microsoft để sử Office 365 năng này. Enterprise E5, Education A5 và Enterprise bao Microsoft 365 Business tích hợp sẵn Trong Microsoft Defender để sử dụng các Office 365 năng này. Tất cả các gói khác đều yêu cầu phần bổ trợ của Bộ bảo vệ Microsoft cho Office 365 ký. Bạn cần gán giấy phép thích hợp cho người dùng của mình để được Bộ bảo vệ Microsoft bảo vệ cho Office 365. Bạn phải có quyền người quản trị toàn cầu hoặc người quản trị bảo mật để truy nhập tính năng này. Để tìm hiểu thêm về cách áp dụng hàng loạt giấy phép cho người dùng cuối của bạn, hãy xem Gán giấy phép cho người dùng [trong Office 365 dành cho doanh nghiệp.](https://go.microsoft.com/fwlink/?linkid=2093435)
 
-**Làm thế nào để tôi quản lý ATP hoặc tìm hiểu thêm về điều này?**
+**Làm thế nào để tôi quản lý Bộ bảo vệ Microsoft dành Office 365 tìm hiểu thêm về tính năng này?**
 
-một. Đi tới [thiết lập](https://go.microsoft.com/fwlink/p/?linkid=2075721).
-b. Bên dưới **đăng nhập và bảo mật**, hãy tìm **tăng bảo vệ khỏi các mối đe dọa nâng cao**, rồi chọn [xem](https://go.microsoft.com/fwlink/?linkid=2109302).
+a. Đi tới Thiết [lập](https://go.microsoft.com/fwlink/p/?linkid=2075721).
+b. Trong đăng **nhập và bảo mật**, tìm Tăng bảo vệ khỏi các mối đe **dọa nâng cao**, sau đó chọn [Xem](https://go.microsoft.com/fwlink/?linkid=2109302).

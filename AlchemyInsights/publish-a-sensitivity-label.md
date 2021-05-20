@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11015"
 - "9000181"
-ms.openlocfilehash: 2f09de066bf234bcc92935f662f2d3b1077d0217
-ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
+ms.openlocfilehash: 7df40e2c747c1701c6f66a1127d484fde3e9ce60
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52233808"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52539666"
 ---
 # <a name="how-to-publish-a-sensitivity-label"></a>Cách phát hành nhãn nhạy cảm
 
@@ -36,6 +36,6 @@ ms.locfileid: "52233808"
 
 1. Lặp lại các bước này nếu bạn cần các thiết đặt chính sách khác nhau cho những người dùng hoặc vị trí khác nhau. Ví dụ: bạn muốn thêm nhãn cho một nhóm người dùng hoặc một nhãn mặc định khác cho một tập hợp con của người dùng.
 
-1. Nếu bạn tạo nhiều chính sách nhãn có thể gây ra xung đột cho người dùng hoặc vị trí, hãy xem lại thứ tự chính sách và nếu cần thiết, di chuyển chúng lên hoặc xuống. Để thay đổi thứ tự của chính sách nhãn, hãy **chọn ... để** xem Thêm **hành** động , rồi chọn Di **chuyển lên** hoặc Di **chuyển xuống**.
+1. Nếu bạn tạo nhiều chính sách nhãn có thể gây ra xung đột cho người dùng hoặc vị trí, hãy xem lại thứ tự chính sách và nếu cần thiết, di chuyển chúng lên hoặc xuống. Để thay đổi thứ tự của chính sách nhãn, hãy chọn dấu ba dấu 0 (thao tác khác), rồi chọn **Di chuyển lên hoặc** Di chuyển **xuống**.
 
 Khi hoàn tất trình hướng dẫn, trình hướng dẫn sẽ tự động phát hành chính sách nhãn.
