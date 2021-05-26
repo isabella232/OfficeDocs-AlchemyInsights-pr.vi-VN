@@ -1,5 +1,5 @@
 ---
-title: Cấu hình điểm cuối
+title: Đặt cấu hình DLP Điểm cuối
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,32 +13,34 @@ ms.collection: Adm_O365
 ms.custom:
 - "6108"
 - "3200001"
-ms.openlocfilehash: 36af769b67f8c9aa4b8d17e9f4f3f3b82c8a8534
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: b9369b2c2ca31f7d2fceac37ef1e2252b82e933b
+ms.sourcegitcommit: 0c104e2bd34ccc09bcea389e470692e92bcf1f8f
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51402467"
+ms.lasthandoff: 05/26/2021
+ms.locfileid: "52657951"
 ---
-# <a name="configure-endpoint-dlp"></a>Cấu hình điểm cuối
+# <a name="configure-endpoint-dlp"></a>Đặt cấu hình DLP Điểm cuối
 
-Microsoft điểm cuối cho phép bạn mở rộng khả năng bảo vệ và giám sát cho các thông tin nhạy cảm trên các thiết bị chạy Windows 10. Sau khi thiết bị được onchéo vào quản lý thiết bị, bạn có thể tạo chính sách có quy định thực thi hành động bảo vệ trên các mục. Có thể sử dụng trình khám phá hoạt động để theo dõi hoạt động cho các mục nhạy cảm. Để biết thêm thông tin, hãy xem [thiết bị Onboarding vào quản lý thiết bị](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#onboarding-devices-into-device-management).  
+DLP Điểm cuối của Microsoft cho phép bạn mở rộng khả năng bảo vệ và theo dõi DLP đối với thông tin nhạy cảm Windows 10 thiết bị. Sau khi thiết bị được triển lý vào quản lý thiết bị, bạn có thể tạo các chính sách DLP để thực thi các hành động bảo vệ trên các mục. Có thể dùng Activity Explorer để giám sát hoạt động cho các mục nhạy cảm. Để biết thêm thông tin, hãy xem [Mục Các thiết bị tích hợp vào quản lý thiết bị](/microsoft-365/compliance/endpoint-dlp-getting-started#onboarding-devices-into-device-management).  
 
-Để bắt đầu với điểm cuối:
+Để bắt đầu với DLP Điểm cuối:
 
-- Đảm bảo bạn có các mã bản quyền/gói đăng ký phù hợp. Để biết thêm thông tin, hãy xem [Mã sản phẩm/gói đăng ký](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#skusubscriptions-licensing).
-- Kiểm tra các quyền cần thiết để cho phép quản lý thiết bị, truy nhập trang triển khai hoặc bật/tắt giám sát thiết bị. Để biết thêm thông tin, hãy xem [quyền](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#permissions).
-- Thiết bị onboard vào quản lý thiết bị bằng cách làm theo quy trình thiết bị triển khai. Nếu bạn bị thiếu tùy chọn cài đặt Onboarding (bản xem trước) bên dưới  **thiết đặt** tuân thủ M365, hãy xác nhận bạn có giấy phép và quyền thích hợp được tham chiếu ở trên. Để biết thêm thông tin, hãy xem [thiết bị Onboarding](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#onboarding-devices). 
-- Tạo chính sách có thể bảo vệ các mục nhạy cảm của bạn. Để biết thông tin, hãy xem các [kịch bản chính sách điểm cuối](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-using?view=o365-worldwide#endpoint-dlp-policy-scenarios &preserve-view=true).
+- Ensure you have the appropriate SKU/subscriptions licensing. Để biết thêm thông tin, hãy [xem mục Cấp phép SKU/đăng ký.](/microsoft-365/compliance/endpoint-dlp-getting-started#skusubscriptions-licensing)
+- Kiểm tra các quyền cần thiết để cho phép quản lý thiết bị, truy nhập trang trình phát hoặc bật/tắt chức năng giám sát thiết bị. Để biết thêm thông tin, hãy [xem Quyền](/microsoft-365/compliance/endpoint-dlp-getting-started#permissions).
+- Đưa thiết bị vào Quản lý thiết bị bằng cách làm theo quy trình trên thiết bị. Để biết thêm thông tin, hãy [xem Mục Các thiết bị đang phát hành](/microsoft-365/compliance/endpoint-dlp-getting-started#onboarding-devices). 
+- Tạo chính sách DLP để bảo vệ các mục nhạy cảm của bạn. Để biết thông tin, hãy [xem Các kịch bản chính sách DLP điểm cuối.](/microsoft-365/compliance/endpoint-dlp-using?view=o365-worldwide#endpoint-dlp-policy-scenarios)
 
-Để biết thêm thông tin về Microsoft điểm cuối, hãy xem [Tìm hiểu về ngăn chặn mất dữ liệu về microsoft 365 Endpoint (bản xem trước)](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-learn-about).
+Để biết thêm thông tin về DLP Điểm cuối Microsoft, hãy xem Tìm hiểu về cách Microsoft 365 ngăn mất dữ liệu điểm cuối [(bản xem trước).](/microsoft-365/compliance/endpoint-dlp-learn-about)
 
-**Các bước thu thập dữ liệu quan trọng, nếu cần hỗ trợ:**
+**Các bước Thu thập Dữ liệu Quan trọng nếu cần Hỗ trợ:**
 
-1. Tải xuống bản xem trước phân tích máy khách MDATP từ [https://aka.ms/betamdatpanalyzer](https://aka.ms/betamdatpanalyzer "https://aka.ms/betamdatpanalyzer")
-2. Chạy công cụ dưới dạng quản trị từ cửa sổ CMD:
-3. MDATPClientAnalyzerPreview\MDATPClientAnalyzer.cmd – t
-4. Khi được nhắc với "nhập số phút để thu thập các dấu vết:", hãy nhập số phút cần thiết để chạy kịch bản
-5. Chạy kịch bản
+1. Tải xuống [MDATP Client Analyzer Preview](https://aka.ms/betamdatpanalyzer).
+1. Chạy công cụ với tư cách là Người quản trị từ cửa sổ cmd:
 
-Thu thập các đầu ra tệp ZIP để được cung cấp cho nhân viên hỗ trợ.
+    **MDATPClientAnalyzerPreview\MDATPClientAnalyzer.cmd –t**
+
+1. Khi được nhắc nhập số phút để thu thập dấu **vết:**, hãy nhập số phút cần thiết để chạy kịch bản.
+1. Chạy kịch bản.
+
+Thu thập đầu ra tệp Zip để tặng cho nhân viên Hỗ trợ.
