@@ -1,5 +1,5 @@
 ---
-title: Lưu trữ SharePoint
+title: Quản lý thiết bị SharePoint Lưu trữ trực tuyến của bạn
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,26 +13,28 @@ ms.custom:
 - "2008"
 - "9000355"
 ms.assetid: 8e0ec879-3f0e-423b-9d72-5e52fc2b9e0c
-ms.openlocfilehash: 876b2fccc192de9ef9934932b874e57fbc8e4812
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f96136c9d59ef43890a63db3a18157744bc08f9c
+ms.sourcegitcommit: d3a739b75d521837660ce151190a7e232e4eeadb
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773761"
+ms.lasthandoff: 05/27/2021
+ms.locfileid: "52689880"
 ---
-# <a name="manage-your-sharepoint-online-storage"></a>Quản lý lưu trữ SharePoint Online của bạn
+# <a name="manage-your-sharepoint-online-storage"></a>Quản lý thiết bị SharePoint Lưu trữ trực tuyến của bạn
 
-Tìm hiểu cách [tính toán dung lượng lưu trữ](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectedfrom=MSDN#limits-by-plan) dựa trên kế hoạch của bạn.
+Đối với hầu hết các tổ chức, SharePoint lưu trữ được quản lý tự động, vì vậy bạn không cần đặt giới hạn cho từng tuyển tập site. Để biết thêm thông tin về cách tính toán dung lượng lưu trữ của đối tượng thuê dựa trên gói của bạn, hãy xem [Giới hạn theo gói](/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectedfrom=MSDN#limits-by-plan).
 
-Đối với hầu hết các tổ chức, lưu trữ SharePoint được quản lý tự động, vì vậy bạn không cần phải đặt giới hạn cho mỗi tuyển tập trang.
+Để biết thêm thông tin, hãy xem:
 
-Tìm hiểu cách [xem tổng và dung lượng lưu trữ sẵn dùng cho tổ chức của bạn](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits).
+- [Quản lý giới hạn lưu trữ site](/sharepoint/manage-site-collection-storage-limits)
 
-Tìm hiểu cách [quản lý giới hạn lưu trữ tuyển tập site riêng lẻ](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits).
+- [Quản lý giới hạn lưu trữ site riêng lẻ](/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits)
 
-Nếu trang của bạn vắng mặt hoặc bạn muốn tìm hiểu thư viện hoặc danh sách nào đang sử dụng không gian, hãy đi đến các số liệu lưu trữ **thiết đặt trang web**  >  **Storage Metrics** (quyền quản trị tuyển tập trang được yêu cầu).
+Nếu site của bạn hết dung lượng hoặc bạn muốn tìm hiểu xem thư viện hoặc danh sách nào đang sử dụng dung lượng, hãy đi đến **Site Cài đặt**  >  **Storage Metrics** (Yêu cầu có quyền người quản trị Tuyển tập Site).
 
-Tìm hiểu cách [theo dõi giới hạn lưu trữ site bằng cách sử dụng PowerShell](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#monitor-site-storage-limits-by-using-powershell).
+Để biết thêm thông tin, hãy xem:
 
-Tìm hiểu cách [mua dung lượng lưu trữ bổ sung](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space). 
+- [Giám sát giới hạn lưu trữ site bằng PowerShell](/sharepoint/manage-site-collection-storage-limits#monitor-site-storage-limits-by-using-powershell)
+
+- [Thêm dung lượng lưu trữ cho gói đăng ký của bạn](/microsoft-365/commerce/add-storage-space) 
   
