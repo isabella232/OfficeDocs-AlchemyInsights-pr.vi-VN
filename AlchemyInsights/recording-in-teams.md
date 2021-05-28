@@ -1,5 +1,5 @@
 ---
-title: Ghi trong nhóm
+title: Ghi trong Teams
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,25 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "5037"
-ms.openlocfilehash: 0cce7319860b28ccb6fc9da053f6ce127b8504fa
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 34a034bd06599685e0cb0b9e127aab0c8f1691a3
+ms.sourcegitcommit: 610a5d950cdf488870601762ef52d881e3e22a48
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51809785"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52697052"
 ---
-# <a name="recording-in-teams"></a>Ghi trong nhóm
+# <a name="recording-in-teams"></a>Ghi trong Teams
 
-Giờ đây, các nhóm Microsoft họp có thể được lưu trữ trong OneDrive hoặc SharePoint, để biết thêm thông tin và chọn tham gia, hãy xem bài đăng Trung tâm thông báo sau đây: [(Cập Nhật) nhóm Microsoft: cuộc họp ghi được lưu vào OneDrive và SharePoint](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter&id=MC222640)
+Nếu nút Bắt  đầu ghi của người dùng bị mờ đi hoặc bị thiếu trong cuộc họp Teams, hãy thử chạy Chẩn đoán Ghi Cuộc họp bằng cách nhập **Diag:** Ghi Cuộc họp trong hộp ở trên. 
 
-Việc di chuyển vị trí lưu trữ của bạn vào OneDrive hoặc SharePoint sẽ loại bỏ yêu cầu trước đó mà Stream sẵn dùng trong khu vực của bạn.
+Microsoft Teams bản ghi cuộc họp hiện có thể được lưu trữ trong OneDrive Sharepoint. Việc di chuyển vị trí lưu trữ của bạn OneDrive và SharePoint sẽ khắc phục sự cố trong đó các bản ghi cuộc họp không hoạt động vì Stream không sẵn dùng trong khu vực của bạn. Để biết thêm thông tin, hãy xem Câu [hỏi thường gặp về Microsoft Stream.](/stream/faq#which-regions-does-microsoft-stream-host-my-data-in)
 
-Để tìm hiểu cách **bật và cấu hình tính năng ghi** trong nhóm cho tổ chức của bạn, **bao gồm các điều khiển để bật hoặc tắt ghi cuộc họp cho người dùng cụ thể**, hãy xem lại bản [ghi cuộc họp đám mây nhóm](https://docs.microsoft.com/microsoftteams/cloud-recording).
+Để biết thêm về cách lưu bản ghi cuộc họp, hãy xem bài đăng trong Trung tâm Thông báo: (Đã cập nhật) Microsoft Teams: bản ghi cuộc họp [được lưu vào OneDrive và Sharepoint.](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter&id=MC222640)
 
-Nếu bạn **không thể ghi trong nhóm hoặc cần tìm hiểu cách ghi** trong nhóm, hãy thử một trong các bài viết sau đây:
+Để tìm hiểu cách bật và cấu hình tính năng ghi trong Teams cho tổ chức của bạn, bao gồm các điều khiển để bật hoặc tắt tính năng ghi âm cuộc họp cho người dùng cụ thể, hãy xem Teams ghi âm cuộc họp trên đám [mây.](/microsoftteams/cloud-recording) 
 
-- Nếu bạn chưa chọn tham gia vào OneDrive hoặc SharePoint lưu trữ cho các đội ghi âm cuộc họp, các chức năng này dựa vào mức độ sẵn sàng của khu vực và quốc gia. Nếu bạn không thể ghi lại cuộc họp để đảm bảo rằng [Stream sẵn dùng ở quốc gia hoặc khu vực của bạn](https://docs.microsoft.com/stream/faq#which-regions-does-microsoft-stream-host-my-data-in). Để biết thêm thông tin, hãy xem lại bài đăng Trung tâm thông báo sau đây trong cổng thông tin quản trị: [tính năng đã Cập Nhật: Microsoft Stream Cloud Recordings điều khiển lưu trữ khu vực](https://admin.microsoft.com/AdminPortal/Home#/MessageCenter?id=MC214327)
+Nếu bạn vẫn không thể ghi âm trong Teams hoặc cần hiểu cách ghi trong Teams, hãy xem: 
 
-- Bản ghi cuộc họp trong nhóm [yêu cầu giấy phép và chính sách cụ thể được gán](https://docs.microsoft.com/microsoftteams/cloud-recording#prerequisites-for-teams-cloud-meeting-recording), bao gồm giấy phép dòng để tải lên hoặc tải bản ghi cuộc họp lên Microsoft Stream.
+[Tính năng đã Cập nhật: Bản ghi đám mây Microsoft Stream cho điều khiển lưu trữ khu vực](https://admin.microsoft.com/AdminPortal/Home#/MessageCenter?id=MC214327)
 
-- Sau khi bạn đã xác nhận tất cả các yêu cầu được đáp ứng, bao gồm cấp phép, chính sách và trạng thái sẵn sàng của khu vực, hãy xem lại [bản ghi cuộc họp trong nhóm](https://support.office.com/article/34dfbe7f-b07d-4a27-b4c6-de62f1348c24).
+Việc ghi cuộc họp trong Teams yêu cầu giấy phép và chính sách được gán cụ thể, bao gồm giấy phép Phát trực tuyến giấy phép để tải lên hoặc tải bản ghi cuộc họp xuống Microsoft Stream. Để biết chi tiết, [hãy xem Điều kiện tiên quyết để Teams bản ghi cuộc họp đám mây.](/microsoftteams/cloud-recording#prerequisites-for-teams-cloud-meeting-recording)
+
+Sau khi bạn xác nhận tất cả yêu cầu được đáp ứng, bao gồm cấp phép, chính sách và sự sẵn sàng của Stream theo khu vực, hãy xem lại Ghi lại cuộc [họp trong Teams.](https://support.office.com/article/34dfbe7f-b07d-4a27-b4c6-de62f1348c24) 
