@@ -1,5 +1,5 @@
 ---
-title: Các vấn đề trong khi di chuyển dữ liệu sang SharePoint Online
+title: Sự cố khi di chuyển dữ liệu sang SharePoint Online
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "1885"
-ms.openlocfilehash: 277ef2d66c51322c095de3dcc6012562a9913161
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 62664cc6a5ae57b45cd3edbd99db19f6c376f3f9
+ms.sourcegitcommit: c32233a1b7e6f1b07913d25f90189a58a8de2560
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47700909"
+ms.lasthandoff: 05/27/2021
+ms.locfileid: "52694798"
 ---
-# <a name="issues-while-migrating-data-to-sharepoint-online"></a>Các vấn đề trong khi di chuyển dữ liệu sang SharePoint Online
+# <a name="issues-while-migrating-data-to-sharepoint-online"></a>Sự cố khi di chuyển dữ liệu sang SharePoint Online
 
-**Di chuyển qua 100TB của dữ liệu**
+**Di chuyển hơn 100TB dữ liệu**
 
-Dường như bạn đang di chuyển qua 100 TB của dữ liệu sang SharePoint Online. Vui lòng làm theo các bước dưới đây để chúng tôi có thể hỗ trợ bạn ngay khi có thể. 
+Dường như bạn đang di chuyển hơn 100TB dữ liệu sang SharePoint Online. Vui lòng làm theo các bước bên dưới để chúng tôi có thể hỗ trợ bạn trong thời gian sớm nhất có thể. 
 
-1. Chọn **yêu cầu dịch vụ mới**, sau đó **yêu cầu dịch vụ mới**. 
-2. Rời khỏi tiêu đề và mô tả dưới dạng quá trình **di chuyển SharePoint qua 100TB**.
-3. Sau khi đã được gửi vé, vui lòng cập nhật nó với các thông tin sau đây: 
+1. Chọn Liên **hệ với bộ phận** Hỗ trợ , sau **đó chọn Yêu cầu Dịch vụ Mới**. 
+2. Để tiêu đề và mô tả ở **dạng SharePoint di chuyển lớn hơn 100TB.**
+3. Sau khi đã gửi vé, vui lòng cập nhật thông tin sau: 
 
-    - Kích cỡ dự kiến của quá trình di chuyển.
-    - Ước tính khi nào bạn muốn bắt đầu và hoàn tất việc di chuyển.
-    - Mô tả vị trí bạn đang di chuyển nội dung của mình từ, chẳng hạn như SharePoint Server, Box, GDrive, chia sẻ tệp, v.v...
+    - Kích cỡ ước tính cho quá trình di chuyển của bạn.
+    - Ước tính thời điểm bạn muốn bắt đầu và hoàn thành quá trình di chuyển.
+    - Mô tả nơi bạn đang di chuyển nội dung của mình từ đó, chẳng hạn như SharePoint Server, Box, GDrive, File shares, v.v..
