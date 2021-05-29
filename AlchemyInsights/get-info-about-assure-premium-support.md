@@ -1,5 +1,5 @@
 ---
-title: Nhận thông tin về bảo đảm và hỗ trợ phần mềm hỗ trợ cao cấp
+title: Nhận thông tin về Assure và hỗ Premium phần mềm được hỗ trợ
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,22 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "10136"
 - "9005723"
-ms.openlocfilehash: 5a796eb736c995eac9be390593096a4a6c006f7f
-ms.sourcegitcommit: e552d65aac79433a911723412bf1252d20d3f0da
+ms.openlocfilehash: 56a5b3a452a353044807792a86a76b7e6e33c1b0
+ms.sourcegitcommit: d2108b13acc44e26b65f9a2739cbce9bf98959a5
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/30/2021
-ms.locfileid: "51491898"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52702076"
 ---
-# <a name="get-info-about-assure-and-premium-assisted-software-support"></a>Nhận thông tin về bảo đảm và hỗ trợ phần mềm hỗ trợ cao cấp
+# <a name="get-info-about-premium-assisted-software-support"></a>Nhận thông tin về việc hỗ Premium phần mềm được hỗ trợ
 
-Microsoft cung cấp một số tùy chọn hỗ trợ một lần cho các phần mềm Windows và Office:
+Microsoft cung cấp các tùy chọn trực tiếp dành cho hỗ trợ được hỗ trợ về Windows và quản Office của mình:
 
-- **Đảm bảo hỗ trợ phần mềm**: một năm hỗ trợ phần mềm Office và Windows
-- **Hỗ trợ kỹ thuật của Windows Premium**: hỗ trợ phần mềm Windows một lần
-- **Hỗ trợ kỹ thuật Office Premium**: hỗ trợ phần mềm Office một lần
+- **Windows Premium hỗ trợ Kỹ thuật:** hỗ trợ một Windows mềm
 
-Để biết thêm thông tin, hãy xem các [tùy chọn hỗ trợ phần mềm hỗ trợ: đảm bảo và trả phí](https://support.microsoft.com/help/4467230/assisted-software-support-options-assure-premium).
+- **Office Premium hỗ trợ Kỹ thuật:** hỗ trợ Office lần
 
-Nếu bạn đã mua thuê bao đảm bảo và cần trợ giúp, hãy nhập **cuộc nói chuyện với một đại** diện trong hộp trò chuyện bên dưới và thông báo cho người đại diện mà bạn là người đăng ký được đảm bảo.
+**Lưu ý:** Nếu bạn đã có đăng ký Assure, hãy lưu ý rằng Assure không còn được cung cấp dưới dạng tùy chọn hỗ trợ. Đăng ký hiện tại của bạn vẫn hợp lệ trong khoảng thời gian bạn đã mua nhưng không thể gia hạn.
 
