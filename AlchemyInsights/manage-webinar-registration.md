@@ -13,18 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "11512"
 - "9006672"
-ms.openlocfilehash: c5b0721d286b07d7e0f84199885b6f527a2b42a2
-ms.sourcegitcommit: f7a9e97d04b7b6cbb633b32094d40f1874bf0fce
+ms.openlocfilehash: 0db6f434fa74970ac6083501ab26762cc6b7885f
+ms.sourcegitcommit: 1eee2412dfb8b1f10a3aa28dd1086a0c589cdba0
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/06/2021
-ms.locfileid: "52794141"
+ms.lasthandoff: 06/07/2021
+ms.locfileid: "52798666"
 ---
 # <a name="manage-webinar-registration"></a>Quản lý đăng ký hội thảo web
 
 Bạn quản lý những người có thể đăng ký Teams Webinars bằng cách sử Teams lệnh Powershell mới. Để cài Teams Powershell, hãy [xem Teams PowerShell.](/microsoftteams/teams-powershell-install) 
 
-Theo mặc định, *WhoCanRegister* được bật và đặt thành **EveryoneInCompany**. Để cho phép bất kỳ ai, bao gồm người  dùng ẩn danh, đăng ký, bạn phải đặt Chính sách Cuộc họp cho Mọi người bằng cách sử dụng lệnh Powershell:
+Theo mặc định, *WhoCanRegister* được bật và đặt là Mọi **người**. 
+
+Nếu bạn không thấy tùy chọn cho phép đăng ký cho Mọi người trong thư mời họp, hãy chạy lại cài đặt *WhoCanRegister* to Everyone và chờ 24 giờ. Để chạy lại *WhoCanRegister*, hãy sử dụng lệnh Powershell:
 
 `Set-CsTeamsMeetingPolicy -WhoCanRegister Everyone`
 
