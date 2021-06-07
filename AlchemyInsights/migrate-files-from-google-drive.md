@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "8001"
 - "5300030"
-ms.openlocfilehash: 8c8b703281b33cf564873509080ea98f903cfa4d
-ms.sourcegitcommit: 4e2d640a618c786700e8b276533554d51956f080
+ms.openlocfilehash: 52d7a58384c286e9852caa4b2c234b11f0998470
+ms.sourcegitcommit: edb9be61ff8c4df2a600f70952f6fa731c2093a9
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "50714477"
+ms.lasthandoff: 06/04/2021
+ms.locfileid: "52774309"
 ---
-# <a name="migrate-files-from-google-drive"></a><span data-ttu-id="16f8d-102">Di chuyển tệp từ Google Drive</span><span class="sxs-lookup"><span data-stu-id="16f8d-102">Migrate files from Google Drive</span></span>
+# <a name="migrate-files-from-google-drive"></a><span data-ttu-id="733f3-102">Di chuyển tệp từ Google Drive</span><span class="sxs-lookup"><span data-stu-id="733f3-102">Migrate files from Google Drive</span></span>
 
-<span data-ttu-id="16f8d-103">Nếu bạn đang di chuyển từ Google Drive sang SharePoint Online, bạn có thể cân nhắc sử dụng **Mover**.</span><span class="sxs-lookup"><span data-stu-id="16f8d-103">If you are migrating from Google Drive to SharePoint Online, you may consider using **Mover**.</span></span>
+<span data-ttu-id="733f3-103">Cộng tác tất cả ở một nơi bằng cách di chuyển tài liệu, dữ liệu và người dùng của Google Drive sang các OneDrive, SharePoint và Teams trong Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="733f3-103">Collaborate all in one place by migrating your Google Drive documents, data, and users to OneDrive, SharePoint, and Teams in Microsoft 365.</span></span>
 
-<span data-ttu-id="16f8d-104">Để biết thêm thông tin, hãy xem cho [phép trình kết nối G Suite](https://docs.microsoft.com/sharepointmigration/mover-gsuite).</span><span class="sxs-lookup"><span data-stu-id="16f8d-104">For more information, see [Authorizing the G Suite Connector](https://docs.microsoft.com/sharepointmigration/mover-gsuite).</span></span>
+<span data-ttu-id="733f3-104">Để biết thêm thông tin, xem [mục Di chuyển Không gian làm việc Google sang Microsoft 365 Trình quản lý Di chuyển](/sharepointmigration/mm-google-overview).</span><span class="sxs-lookup"><span data-stu-id="733f3-104">For more information, see [Migrate Google Workspace to Microsoft 365 with Migration Manager](/sharepointmigration/mm-google-overview).</span></span>
