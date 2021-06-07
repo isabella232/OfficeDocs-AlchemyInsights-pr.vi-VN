@@ -1,5 +1,5 @@
 ---
-title: Kích hoạt ứng dụng Microsoft 365
+title: Kích hoạt các Microsoft 365 dụng
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,40 +12,42 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3495"
-ms.openlocfilehash: 8755fde0cb22dd79612c74d8c7af792625405ac2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 46a9be285ec7e0eb491ec73651f81ea5a33654d2
+ms.sourcegitcommit: 1eee2412dfb8b1f10a3aa28dd1086a0c589cdba0
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823053"
+ms.lasthandoff: 06/07/2021
+ms.locfileid: "52798630"
 ---
-# <a name="activating-microsoft-365-apps"></a>Kích hoạt ứng dụng Microsoft 365
+# <a name="activating-microsoft-365-apps"></a>Kích hoạt các Microsoft 365 dụng
+
+**Lưu** ý: Nếu bạn đang sử dụng phiên bản cũ hơn của Windows (ví dụ: Windows 7), hãy đảm bảo rằng TLS 1.2 được bật làm mặc định. Để biết thêm thông tin, hãy xem Cập nhật để bật [TLS 1.1 và TLS 1.2](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392)làm giao thức bảo mật mặc định trong WinHTTP trong Windows.
 
 Để kích hoạt Office, hãy xem:
 
-- [Kích hoạt Office trên PC](https://support.office.com/article/activate-office-5bd38f38-db92-448b-a982-ad170b1e187e) 
+- [Kích Office hoạt trên PC](https://support.office.com/article/activate-office-5bd38f38-db92-448b-a982-ad170b1e187e) 
 
-- [Kích hoạt Office trên máy Mac](https://support.office.com/article/activate-office-for-mac-7f6646b1-bb14-422a-9ad4-a53410fcefb2)
+- [Kích Office trên máy Mac](https://support.office.com/article/activate-office-for-mac-7f6646b1-bb14-422a-9ad4-a53410fcefb2)
 
-**Lưu ý:**  Đảm bảo bạn có thuê bao Office 365 hoặc Microsoft 365 có [bao gồm các ứng dụng máy khách Office](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e), ví dụ: Microsoft 365 Business Standard, Microsoft 365 Apps for Business hoặc ứng dụng Microsoft 365 dành cho doanh nghiệp. Ngoài ra, hãy đảm bảo rằng tài khoản người dùng mà bạn đang sử dụng để đăng nhập vào các ứng dụng Office có [giấy phép được gán](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
+**Lưu ý:**  Đảm bảo bạn có đăng Office 365 hoặc Microsoft 365 bao gồm các [ứng dụng máy khách Office,](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e)ví dụ: bản cài Microsoft 365 Business Standard, Ứng dụng Microsoft 365 dành cho doanh nghiệp hoặc Ứng dụng Microsoft 365 dành cho doanh nghiệp lớn. Ngoài ra, hãy đảm bảo rằng tài khoản người dùng bạn đang sử dụng để đăng nhập vào các ứng Office đã [được gán giấy phép.](/microsoft-365/admin/manage/assign-licenses-to-users)
 
-Để khắc phục các sự cố về kích hoạt Office, hãy xem:
+Để khắc phục sự Office kích hoạt, hãy xem:
 
-- Chạy trình khắc phục sự cố [kích hoạt](https://aka.ms/SARA-OfficeActivation-Alchemy) và khởi động lại máy tính.
-- [Lỗi sản phẩm chưa được cấp phép và kích hoạt trong Office](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380)
+- Chạy Trình khắc [phục sự cố Kích hoạt,](https://aka.ms/SARA-OfficeActivation-Alchemy) rồi khởi động lại máy tính.
+- [Lỗi Sản phẩm Chưa được cấp phép và kích hoạt trong Office](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380)
 
-- [Cần phải làm gì nếu bạn không thể cài đặt hoặc kích hoạt Office cho Mac](https://support.office.com/article/what-to-try-if-you-can-t-install-or-activate-office-for-mac-5efba2b4-b1e6-4e5f-bf3c-6ab945d03dea)
+- [Phải làm gì nếu bạn không thể cài đặt hoặc kích hoạt Office for Mac](https://support.office.com/article/what-to-try-if-you-can-t-install-or-activate-office-for-mac-5efba2b4-b1e6-4e5f-bf3c-6ab945d03dea)
 
-**Mẹo** Trên máy Windows, chúng tôi có thể chẩn đoán và tự động khắc phục một số vấn đề đăng nhập Office thông thường cho bạn. Tải xuống và chạy trình trợ  **[giúp phục hồi và hỗ trợ của Microsoft](https://aka.ms/SaRA-OfficeSignInScenario)** để sử dụng công cụ tự động của chúng tôi.
+**Mẹo** Trên Windows tính, chúng tôi có thể chẩn đoán và tự động khắc phục một số sự cố Office đăng nhập thường gặp cho bạn. Tải xuống và chạy Microsoft Công cụ Trợ giúp Phục hồi và Hỗ trợ **[cách sử dụng](https://aka.ms/SaRA-OfficeSignInScenario)** công cụ tự động của chúng tôi.
 
-Nếu bạn không thể đăng nhập vào ứng dụng Microsoft 365, hãy làm theo các bước dưới đây:
+Nếu bạn không thể đăng nhập vào các ứng dụng Microsoft 365, hãy làm theo các bước dưới đây:
 
-1. Mở một ứng dụng Office và [đăng xuất khỏi](https://go.microsoft.com/fwlink/?linkid=2114082) bất kỳ tài khoản người dùng hiện có nào.
+1. Mở một tài Ứng dụng Office, rồi Đăng [xuất khỏi mọi](https://go.microsoft.com/fwlink/?linkid=2114082) tài khoản người dùng hiện có.
 
-2. Sử dụng các **thiết đặt Windows > tài khoản > Email & tài khoản**, loại bỏ tài khoản công việc cũ hoặc không sử dụng.
+2. Sử Windows Cài đặt > khoản **> khoản email &,** loại bỏ tài khoản cơ quan cũ hoặc chưa sử dụng.
 
-3. Bằng cách sử dụng các **thiết đặt Windows > tài khoản > Access cơ quan hoặc trường học**, hãy ngắt kết nối tài khoản công việc cũ hoặc không dùng
+3. Sử dụng Windows **Cài đặt > của bạn > cơ** quan hoặc trường học , ngắt kết nối tài khoản cơ quan cũ hoặc chưa sử dụng
 
-4. [Đặt lại trạng thái kích hoạt Office](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state) , rồi [đăng nhập](https://support.office.com/article/sign-in-to-office-b9582171-fd1f-4284-9846-bdd72bb28426) vào các ứng dụng Office bằng tài khoản mới.
+4. [Đặt Office hoạt trở lại,](/office365/troubleshoot/activation/reset-office-365-proplus-activation-state) rồi [Đăng nhập vào Office dụng](https://support.office.com/article/sign-in-to-office-b9582171-fd1f-4284-9846-bdd72bb28426) bằng tài khoản mới.
 
-Để có thêm các hành động khắc phục sự cố, hãy xem [thông báo đăng ký xuất hiện khi tôi mở một ứng dụng Office 365](https://support.office.com/article/a-subscription-notice-appears-when-i-open-an-office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb).
+Để biết các hành động khắc phục sự cố bổ sung, [hãy xem Thông báo đăng ký xuất hiện khi tôi mở một Office 365 đăng ký.](https://support.office.com/article/a-subscription-notice-appears-when-i-open-an-office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb)
