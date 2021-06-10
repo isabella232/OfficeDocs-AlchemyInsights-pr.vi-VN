@@ -1,7 +1,8 @@
 ---
-title: Thiết lập khám phá điện tử nâng cao
+title: Thiết lập Khám phá Điện tử nâng cao
 ms.author: pebaum
 author: pebaum
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -12,31 +13,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "3835"
-ms.openlocfilehash: f3a74bf74fb0786227e3f6c9bd53af1c8bebe098
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 928eac7dc5455a96d8f49f60a368f098f8e322bb
+ms.sourcegitcommit: 29019d042be8283d24048f96f1a16ec865c74ca6
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795554"
+ms.lasthandoff: 06/10/2021
+ms.locfileid: "52882711"
 ---
-# <a name="set-up-advanced-ediscovery"></a>Thiết lập khám phá điện tử nâng cao
+# <a name="set-up-advanced-ediscovery"></a>Thiết lập Khám phá Điện tử nâng cao
 
-Khám phá điện tử nâng cao cho phép bạn phân tích dữ liệu không có cấu trúc để giúp giảm chi phí khám phá điện tử. Bạn có thể áp dụng phân tích văn bản, tìm hiểu máy và liên quan/mã hóa tiên đoán.  Tính năng khám phá điện tử nâng cao cần có một trong những thao tác sau:
+Với Advanced eDiscovery, bạn có thể áp dụng phân tích văn bản, máy học và mã hóa liên quan/dự đoán. Tính năng Advanced eDiscovery yêu cầu một trong các mục sau:
 
-- Đăng ký Microsoft 365 E5 hoặc Office 365 E5
+- Microsoft 365 E5 hoặc Office 365 ký E5
 
-- Đăng ký Microsoft 365 E3 với bổ trợ tuân thủ E5
+- Microsoft 365 E3 của bạn với phần bổ trợ Tuân thủ E5
 
-- Đăng ký Office 365 E3 với bổ trợ tuân thủ nâng cao
+- Office 365 Đăng ký E3 với phần bổ trợ Tuân thủ Nâng cao
 
-Dưới đây là một tổng quan cấp cao về các bước thiết lập và quản lý khám phá điện tử nâng cao:
+Dưới đây là tổng quan ở mức cao về các bước thiết lập và quản lý Advanced eDiscovery:
 
-**1. xác nhận và gán giấy phép thích hợp**
+**1. Xác minh và gán giấy phép thích hợp**
 
-**2. gán quyền khám phá điện tử**
+**2. Gán quyền Khám phá Điện tử**
 
-**3. cấu hình các thiết đặt chung cho khám phá điện tử nâng cao**
+**3. Đặt cấu hình thiết đặt chung cho Advanced eDiscovery**
 
-**4. tạo một trường hợp khám phá điện tử nâng cao**
+**4. Tạo trường Advanced eDiscovery đề**
 
-Để biết thêm thông tin về các bước cần thiết để thiết lập khám phá điện tử nâng cao, hãy xem  [bắt đầu với khám phá điện tử nâng cao](https://docs.microsoft.com/microsoft-365/compliance/get-started-with-advanced-ediscovery?view=o365-worldwide).
+Để biết thông tin về các bước cần thiết để thiết Advanced eDiscovery, hãy [xem Bắt đầu với Advanced eDiscovery.](/microsoft-365/compliance/get-started-with-advanced-ediscovery)
+
+Để biết thêm thông tin về cách tạo và quản lý các trường hợp, [hãy xem Tạo và quản lý các Advanced eDiscovery hợp Microsoft 365.](/microsoft-365/compliance/create-and-manage-advanced-ediscoveryv2-case)
