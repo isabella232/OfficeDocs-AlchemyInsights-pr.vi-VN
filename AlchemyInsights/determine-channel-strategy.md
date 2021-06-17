@@ -13,27 +13,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9144"
 - "9005291"
-ms.openlocfilehash: d3288bc4da83bcd8ddc82b0ce40482453a822aad
-ms.sourcegitcommit: 4883f1f89d4c6ca23161e9a43ff206ad21d4f09b
+- "11089"
+- "9006490"
+ms.openlocfilehash: c47218035155a8138caeac01e03fbe9d9e1aca4d
+ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/08/2021
-ms.locfileid: "50694792"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52989699"
 ---
 # <a name="determine-channel-strategy"></a>Xác định chiến lược kênh
 
-Microsoft Edge được phát hành trong bốn kênh kiểm soát mức độ thường xuyên trình duyệt của bạn được Cập Nhật. Để biết tổng quan sâu hơn về từng kênh, hãy xem [tổng quan về kênh](https://docs.microsoft.com/DeployEdge/microsoft-edge-channels#channel-overview).
+Microsoft Edge phát hành trong bốn kênh giúp kiểm soát tần suất trình duyệt được cập nhật. Để biết tổng quan chi tiết hơn về từng kênh, hãy xem Tổng [quan về kênh](/DeployEdge/microsoft-edge-channels#channel-overview).
 
-Kênh ổn định là một bạn sẽ muốn triển khai cho hầu hết các thiết bị, nhưng bạn nên cân nhắc việc triển khai nhiều kênh và thiết bị.
+Kênh Ổn định là kênh mà bạn sẽ muốn triển khai cho hầu hết các thiết bị, nhưng bạn nên cân nhắc việc triển khai nhiều kênh và thiết bị.
 
 > [!NOTE]
-> Bạn có thể cài đặt nhiều kênh trên một thiết bị duy nhất.
+> Bạn có thể cài đặt nhiều kênh trên một thiết bị.
 
 **Nhiều thiết bị và kênh**
 
-Chúng tôi khuyên bạn nên có một tập hợp con của các thiết bị được cấu hình để dùng kênh beta hoặc thử nghiệm để bạn có thể thấy các thay đổi sắp tới và kiểm tra chúng trước khi họ đi đến toàn bộ tổ chức của bạn.
+Chúng tôi khuyên bạn nên đặt cấu hình cho một tập hợp con các thiết bị để sử dụng kênh beta hoặc thử nghiệm, để bạn có thể xem các thay đổi sắp tới và kiểm tra chúng trước khi chúng được đưa tới toàn bộ tổ chức của bạn.
 
-Việc cài đặt nhiều kênh trên một thiết bị có thể làm giảm nguy cơ kiểm tra phiên bản mới, vì người dùng có thể dễ dàng chuyển sang kênh ổn định nếu họ gặp vấn đề.
+Việc cài đặt nhiều kênh trên thiết bị có thể giảm rủi ro kiểm tra phiên bản mới, vì người dùng có thể dễ dàng chuyển sang kênh ổn định nếu họ gặp phải sự cố.
 
 Sau khi bạn đã xác định chiến lược kênh của mình, bạn đã sẵn sàng để bắt đầu xác định các chính sách.
 

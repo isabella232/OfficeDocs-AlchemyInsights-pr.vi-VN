@@ -12,32 +12,34 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9139"
+- "11088"
 - "9005291"
-ms.openlocfilehash: ad2c42ad77cd4a4606365bc616547846ae3c2c65
-ms.sourcegitcommit: 475a9eaa095812091991857df6cf6490a8bbe179
+- "9006490"
+ms.openlocfilehash: 9a51b0cbf6ccb0254ea2ef162530067bbfb5f215
+ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/08/2021
-ms.locfileid: "50694696"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52989775"
 ---
 # <a name="deploy-microsoft-edge"></a>Triển khai Microsoft Edge
 
-Sau khi bạn đã xác định chính sách của mình và đã hoàn thành kiểm tra tương thích ứng dụng ban đầu của bạn, bạn đã sẵn sàng triển khai nhóm thí điểm của mình. Triển khai thành một nhóm thí điểm cho phép bạn nhận được phản hồi và khắc phục sự cố trước khi Microsoft Edge được tiến hành cho toàn bộ tổ chức của bạn.
+Sau khi bạn đã xác định chính sách của mình và đã hoàn tất việc kiểm tra tính tương thích của ứng dụng ban đầu, bạn đã sẵn sàng triển khai cho nhóm thí điểm. Việc triển khai cho nhóm thí điểm cho phép bạn nhận phản hồi và khắc phục các sự cố trước khi Microsoft Edge được triển khai cho toàn bộ tổ chức của bạn.
 
 Các công cụ sau đây sẵn dùng để triển khai Microsoft Edge:
 
-- [Microsoft InTune cho Windows](https://docs.microsoft.com/mem/intune/apps/apps-windows-edge) hoặc [Microsoft InTune cho macOS](https://docs.microsoft.com/mem/intune/apps/apps-edge-macos)
-- [Trình quản lý cấu hình](https://docs.microsoft.com/DeployEdge/deploy-edge-with-configuration-manager)
-- Một công cụ khác bằng cách sử dụng [tệp MSI for Microsoft Edge](https://www.microsoft.com/edge/business/download)
+- [Microsoft Intune dành cho Windows](/mem/intune/apps/apps-windows-edge) hoặc [Microsoft Intune dành cho macOS](/mem/intune/apps/apps-edge-macos)
+- [Trình quản lý Cấu hình](/DeployEdge/deploy-edge-with-configuration-manager)
+- Một công cụ khác sử [dụng tệp MSI cho Microsoft Edge](https://www.microsoft.com/edge/business/download)
 
-**Xác thực việc triển khai của bạn**
+**Xác thực triển khai của bạn**
 
-Sau khi bạn triển khai thí điểm, hãy nắm bắt phản hồi từ người dùng. Xem xét những giải pháp sau:
-- Tính **tương thích**: xác định các site thuộc danh sách site của doanh nghiệp không được xác định trong khi khám phá trang.
-- **Cấu hình chính sách**: đảm bảo rằng người dùng có thể sử dụng các tính năng chính và thực hiện công việc của họ trong khi theo hướng dẫn bảo mật.
-- **Dễ sử dụng và các tính năng mới**: xác định bất kỳ khu vực nào mà nội dung đào tạo nên được phát triển và chuyển giao dựa trên các câu hỏi người dùng.
+Sau khi bạn triển khai thí điểm, hãy thu thập phản hồi từ người dùng. Xem xét những giải pháp sau:
+- **Tương** thích: Xác định các site thuộc Danh sách Site Doanh nghiệp không được xác định trong quá trình khám phá site.
+- **Cấu hình chính** sách: Đảm bảo rằng người dùng có thể sử dụng các tính năng chính và thực hiện công việc của mình trong khi làm theo các hướng dẫn bảo mật.
+- **Dễ sử dụng và các tính năng mới**: Xác định bất kỳ lĩnh vực nào cần phát triển và chuyển phát nội dung đào tạo dựa trên thắc mắc của người dùng.
 
-**Triển khai rộng Microsoft Edge**
+**Triển khai rộng rãi microsoft Edge**
 
-Sau khi bạn đã triển khai thí điểm và Cập Nhật gói triển khai với bài học, bạn đã sẵn sàng để thực hiện toàn bộ triển khai Microsoft Edge cho tất cả người dùng của bạn. Chúc mừng!
+Sau khi triển khai chỉ dẫn và cập nhật kế hoạch triển khai với những bài học đã học, bạn đã sẵn sàng triển khai toàn bộ Microsoft Edge cho tất cả người dùng của mình. Chúc mừng!
 

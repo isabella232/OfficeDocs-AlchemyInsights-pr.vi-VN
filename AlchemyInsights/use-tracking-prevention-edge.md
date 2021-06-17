@@ -1,5 +1,5 @@
 ---
-title: Sử dụng ngăn chặn theo dõi trong Microsoft Edge (Crom)
+title: Sử dụng ngăn chặn theo dõi Microsoft Edge (Chromium)
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,20 +12,22 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "8328"
+- "10979"
 - "9004625"
-ms.openlocfilehash: 09e9a7303063328cd7bd0a0fcbf9629a3b38ebb5
-ms.sourcegitcommit: 430d247cb5dd5dc5d1f82d977456558dfd514277
+- "9006450"
+ms.openlocfilehash: beaa5dcc7f2e07ca3b2339fe43a759acf3a342b0
+ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51421213"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52989883"
 ---
-# <a name="use-tracking-prevention-in-microsoft-edge-chromium"></a>Sử dụng ngăn chặn theo dõi trong Microsoft Edge (Crom)
+# <a name="use-tracking-prevention-in-microsoft-edge-chromium"></a>Sử dụng ngăn chặn theo dõi Microsoft Edge (Chromium)
 
-Ngăn chặn theo dõi trong Microsoft Edge giới hạn khả năng của một tracker để truy nhập vào dung lượng lưu trữ dựa trên trình duyệt và mạng. Tính năng được xây dựng để duy trì cam kết của chúng tôi để giúp người dùng giữ an toàn trên web với Microsoft Edge. Để biết thêm thông tin, hãy xem mục [theo dõi phòng ngừa trong Microsoft Edge (Crom)](https://go.microsoft.com/fwlink/?linkid=2135435) và [lời hứa về quyền riêng tư của trình duyệt](https://go.microsoft.com/fwlink/?linkid=2135350).
+Một số trang web sử dụng trình theo dõi để thu thập thông tin trình duyệt của bạn. Chúng tôi đã tích hợp các công cụ bảo vệ để giới hạn quyền truy nhập theo dõi thông tin dựa trên trình duyệt và cung cấp các tùy chọn bổ sung cho bạn để tùy chỉnh mức độ bảo mật.
 
-Microsoft Edge cung cấp ba cấp độ của ngăn chặn theo dõi (chúng có thể được chọn trong edge://settings/privacy):
+- **Cơ bản**. Ít hạn chế và được thiết kế dành cho người dùng thích quảng cáo được cá nhân hóa và không ngại bị theo dõi trên web. Cơ bản bảo vệ người dùng khỏi các trình theo dõi độc hại, như dấu vân tay và trình mã hóa.
+- **Cân bằng**. Mức mặc định và được thiết kế cho những người dùng muốn xem ít quảng cáo hơn theo dõi trên web. Mức cân bằng không chỉ chặn trình theo dõi khỏi các site mà người dùng không bao giờ tham gia mà còn giảm thiểu rủi ro gặp phải các sự cố về tương thích.
+- **Nghiêm ngặt**. Hầu hết các hạn chế và được thiết kế cho những người dùng không ngại làm mất khả năng tương thích của website để có được quyền riêng tư tối đa.
 
-- **BASIC** là ít hạn chế và được thiết kế cho những người dùng được hưởng các quảng cáo cá nhân hóa và không nhớ được theo dõi trên web. Cơ bản bảo vệ người dùng chỉ so với trackers độc hại, chẳng hạn như fingermáy in và tominers.
-- **Cân bằng** là mức mặc định và được thiết kế cho những người dùng muốn xem quảng cáo ít hơn, theo dõi chúng trên web. Mức độ cân bằng không chỉ nhằm chặn trackers từ các trang mà người dùng không bao giờ tham gia nhưng cũng để giảm thiểu nguy cơ các vấn đề tương thích.
-- **Khắt khe** nhất là hạn chế và được thiết kế dành cho những người dùng không nhớ khả năng tương thích website cho quyền riêng tư tối đa.
+Nếu bạn muốn cập nhật cài đặt quyền riêng tư, trong trình duyệt Edge, hãy đi **tới** Thiết đặt  >  **quyền riêng tư, tìm kiếm và dịch vụ.** Bạn có thể cập nhật cài đặt ngăn theo dõi, chặn trình theo dõi, xóa dữ liệu duyệt web và khám phá các tùy chọn quyền riêng tư và bảo mật khác để giữ an toàn cho dữ liệu của bạn. Để tìm hiểu thêm, hãy xem [Ngăn chặn theo dõi trong Microsoft Edge.](/microsoft-edge/web-platform/tracking-prevention) 
