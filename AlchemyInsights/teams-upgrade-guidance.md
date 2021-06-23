@@ -1,5 +1,5 @@
 ---
-title: Hướng dẫn nâng cấp nhóm
+title: Teams hướng dẫn nâng cấp
 ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
@@ -11,27 +11,25 @@ ms.custom:
 - "982"
 - "4000006"
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
-ms.openlocfilehash: 391d1253fd625004308a0cd1359cc0ccc46e1b95
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 477796e3a89333214ff8892f345f24b2b43c35c3
+ms.sourcegitcommit: 554d0c9b90134243078dfa363d6c729495841f6b
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48333950"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53095422"
 ---
-# <a name="microsoft-teams-upgrade"></a>Nâng cấp nhóm Microsoft
+# <a name="microsoft-teams-upgrade"></a>Microsoft Teams cấp
 
-**Quan trọng**: nếu bạn đã được nâng cấp từ Skype for Business Online sang Microsoft nhóm trong chế độ chỉ nhóm, nhưng tìm thấy bạn chưa sẵn sàng, chúng tôi có thể giúp khắc phục sự cố này cho bạn bằng cách sử dụng chẩn đoán hỗ trợ. Hãy đảm bảo rằng bạn đang sử dụng trung tâm quản trị mới bằng cách trượt nút bật tắt ở phía trên cùng bên phải cho biết **Trung tâm quản trị mới**sang phải. Sử dụng trung tâm quản trị mới, bấm vào mục **cần trợ giúp?** widget, nhập "**nâng cấp nhóm**", rồi làm theo các lời nhắc để chạy chẩn đoán.
+Dù bạn vừa mới bắt đầu sử dụng Teams, đã sử dụng Teams cùng với Skype for Business hoặc sẵn sàng nâng cấp, chúng tôi đều muốn đảm bảo rằng bạn có mọi thứ bạn cần để dẫn hướng một cuộc hành trình thành công đến Teams. Để biết thêm thông tin, vui lòng truy cập các liên kết bên dưới.
 
-Dù bạn mới bắt đầu với các nhóm, bạn đang sử dụng các nhóm cùng với Skype for Business, hoặc sẵn sàng nâng cấp, chúng tôi muốn đảm bảo rằng bạn có mọi thứ bạn cần để dẫn hướng thành công một hành trình thành các nhóm. Để biết thêm thông tin vui lòng truy cập vào các liên kết dưới đây.
+[Bắt đầu nâng cấp thiết bị Microsoft Teams của bạn](/MicrosoftTeams/upgrade-start-here)
 
-[Bắt đầu với bản nâng cấp nhóm Microsoft của bạn](https://docs.microsoft.com/MicrosoftTeams/upgrade-start-here)
+[Lập kế hoạch nâng cấp của bạn](/MicrosoftTeams/upgrade-plan-journey)
 
-[Lập kế hoạch nâng cấp của bạn](https://docs.microsoft.com/MicrosoftTeams/upgrade-plan-journey)
+[Hiểu rõ Microsoft Teams tồn Skype for Business tồn tại](/MicrosoftTeams/teams-and-skypeforbusiness-coexistence-and-interoperability)
 
-[Tìm hiểu về nhóm Microsoft và Skype for Business cùng tồn tại](https://docs.microsoft.com/MicrosoftTeams/teams-and-skypeforbusiness-coexistence-and-interoperability)
+[Thực hiện nâng cấp từ Skype for Business Online lên Teams](/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline)
 
-[Thực hiện việc nâng cấp từ Skype for Business Online thành các nhóm](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline)
-
-[Thực hiện việc nâng cấp từ Skype for Business tại cơ sở cho các nhóm](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
+[Thực hiện nâng cấp từ Skype for Business tại chỗ lên máy Teams](/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
  
-[Kiểm tra trạng thái của Skype for Business Online để nâng cấp các nhóm bằng PowerShell](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)
+[Kiểm tra trạng thái của Skype for Business Online để nâng Teams lên PowerShell](/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)

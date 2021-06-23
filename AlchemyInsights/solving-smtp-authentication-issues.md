@@ -1,5 +1,5 @@
 ---
-title: Giải quyết các sự cố xác thực SMTP
+title: Bật xác thực và khắc phục sự cố SMTP
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,34 @@ ms.collection: Adm_O365
 ms.custom:
 - "3000003"
 - "5652"
-ms.openlocfilehash: 2d3f0f6b700c3e4485c9064fbaa4bcc165e92e17
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 4695a2f111823739c4d87fa2b262a5e64e080955
+ms.sourcegitcommit: 2103d706492ad7ee9596344714c0520569ebd6af
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826437"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53077673"
 ---
-# <a name="solving-smtp-authentication-issues"></a>Giải quyết các sự cố xác thực SMTP
+# <a name="enable-smtp-authentication-and-troubleshooting"></a>Bật xác thực và khắc phục sự cố SMTP
 
-Nếu bạn đang gặp phải lỗi 5.7.57 hoặc 5.7.3 khi tìm cách gửi email SMTP và xác thực bằng một máy khách hoặc ứng dụng, có một vài điều bạn nên kiểm tra:
+Nếu bạn muốn bật xác thực SMTP cho một hộp thư hoặc bạn đang nhận được một "Máy khách chưa được xác thực", Lỗi "Xác thực không thành công" hoặc lỗi "SmtpClientAuthentication" với mã 5.7.57 hoặc 5.7.3 hoặc 5.7.139 khi bạn cố gắng chuyển tiếp email bằng cách xác thực một thiết bị hoặc ứng dụng với Microsoft 365, hãy thực hiện ba hành động này để giải quyết vấn đề này:
 
-- Việc gửi SMTP được xác thực có thể bị vô hiệu hóa trong đối tượng thuê của bạn hoặc trên hộp thư mà bạn đang cố gắng sử dụng (kiểm tra cả hai thiết đặt). Để đọc thêm, hãy xem [bật hoặc tắt trình gửi SMTP](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/authenticated-client-smtp-submission)được xác thực.
+1. Tắt mặc [định bảo mật Azure bằng](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) cách chuyển Bật mặc định bảo **mật** thành **Không.**
 
-- Kiểm tra xem [mặc định bảo mật Azure](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) được bật cho đối tượng thuê của bạn hay không; Nếu được kích hoạt, xác thực SMTP bằng cách dùng xác thực cơ bản (còn được gọi là di sản; điều này sẽ sử dụng tên người dùng và mật khẩu) sẽ không thành công.
+    a. Đăng nhập vào cổng thông tin Azure với tư cách người quản trị Bảo mật, người quản trị Truy nhập có Điều kiện hoặc người quản trị toàn cầu.<BR/>
+    b. Duyệt đến Thuộc Azure Active Directory > **tính.**<BR/>
+    c. Chọn **Quản lý mặc định bảo mật**.<BR/>
+    d. Đặt **Bật mặc định bảo mật** là **Không**.<BR/>
+    e. Chọn **Lưu**.
+
+2. [Bật gửi SMTP máy khách trên](/exchange/clients-and-mobile-in-exchange-online/authenticated-client-smtp-submission#enable-smtp-auth-for-specific-mailboxes) hộp thư được cấp phép.
+
+    a. Từ hộp Trung tâm quản trị Microsoft 365, đi tới **Người dùng Hiện hoạt**, rồi chọn người dùng.<BR/>
+    b. Đi tới tab Thư và trong Ứng dụng **email**, chọn Quản **lý ứng dụng email**.<BR/>
+    d. Đảm bảo đã chọn (đã bật xác thực **SMTP).**<BR/>
+    e. Chọn **Lưu thay đổi**.<BR/>
+
+3. [Tắt Xác thực Đa Yếu tố (MFA)](/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication#turn-off-legacy-per-user-mfa) trên hộp thư được cấp phép.
+
+    a. Đi tới menu Trung tâm quản trị Microsoft 365, rồi trong menu dẫn hướng bên trái, chọn Người dùng **người dùng**  >  **hiện hoạt**.<BR/>
+    b. Chọn **Xác thực đa yếu tố**.<BR/>
+    c. Chọn người dùng, rồi tắt **xác thực Đa Yếu tố**.<BR/>
