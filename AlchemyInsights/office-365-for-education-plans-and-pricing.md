@@ -1,5 +1,5 @@
 ---
-title: Office 365 dành cho các gói giáo dục và giá cả
+title: Office 365 các gói và giá cả dành cho Giáo dục
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -14,17 +14,19 @@ ms.custom:
 - "476"
 - "1500026"
 ms.assetid: 34b852e0-bf1d-4cf3-9aa6-c80eed67bfeb
-ms.openlocfilehash: 95d398a7f287899d11dc069e9874db805c5f51a8
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 6abec5038c8b0e0089ed3080f5b06db85766791f
+ms.sourcegitcommit: beed1fe0708571c17c4cf6a4d028fc3a2553847a
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51829614"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "53104624"
 ---
-# <a name="get-microsoft-365-free-for-your-entire-school"></a>Tải Microsoft 365 miễn phí cho toàn bộ trường học của bạn
+# <a name="get-microsoft-365-free-for-your-entire-school"></a>Nhận điểm Microsoft 365 miễn phí cho toàn bộ trường học của bạn
 
-Cải thiện sự cộng tác trong lớp học và trường học với công cụ hiệu năng miễn phí. Bạn sẽ cần xác nhận rằng bạn là một tổ chức học thuật được công nhận để tận dụng các ưu đãi này.
+Cải thiện cộng tác lớp học và trường học bằng các công cụ năng suất miễn phí. Bạn sẽ cần xác minh rằng bạn là một tổ chức giáo dục được công nhận để tận dụng lợi ích của các ưu đãi này.
   
-- [Xem lại các gói giáo dục](https://products.office.com/academic/compare-office-365-education-plans)
+- [Xem lại các gói Giáo dục](https://products.office.com/academic/compare-office-365-education-plans)
 
-- [So sánh tất cả các đăng ký Microsoft 365](https://products.office.com/business/compare-more-office-365-for-business-plans)
+- [Bắt đầu với Office 365 Education](https://support.office.com/article/get-started-with-office-365-education-ab02abe5-a1ee-458c-b749-5b44416ccf14?wt.mc_id=o365_portal_mmaven&ui=en-US&rs=en-US&ad=US)
+
+- [So sánh tất cả Microsoft 365 ký](https://products.office.com/business/compare-more-office-365-for-business-plans)

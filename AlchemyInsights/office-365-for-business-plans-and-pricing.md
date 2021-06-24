@@ -1,5 +1,5 @@
 ---
-title: Các gói và giá cả về Microsoft 365 cho doanh nghiệp
+title: So sánh Microsoft 365 cho doanh nghiệp
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -14,13 +14,13 @@ ms.custom:
 - "475"
 - "1500026"
 ms.assetid: 6c0a83cc-4ad4-4e6b-a8ae-89fec74e1675
-ms.openlocfilehash: dc8bb60741e4f426173e14b05800eeacad3412d8
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 03d2ca7d82257034cf4e7e0bf3520da2762233c6
+ms.sourcegitcommit: beed1fe0708571c17c4cf6a4d028fc3a2553847a
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51790822"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "53104588"
 ---
-# <a name="compare-microsoft-365-for-business"></a>So sánh Microsoft 365 dành cho doanh nghiệp
+# <a name="compare-microsoft-365-for-business"></a>So sánh Microsoft 365 cho doanh nghiệp
 
-Có ba gói khác nhau sẵn dùng với Microsoft 365 dành cho doanh nghiệp. [So sánh các gói Microsoft 365 cho doanh nghiệp và giá cả](https://products.office.com/compare-all-microsoft-office-products?tab=2).  
+Có nhiều gói sẵn dùng với mọi Microsoft 365 dành cho doanh nghiệp. Để biết thông tin về các tính năng và giá cả, [hãy xem mục So Microsoft 365 các gói dành cho doanh nghiệp.](https://www.microsoft.com/microsoft-365/business/compare-all-microsoft-365-business-products)  
