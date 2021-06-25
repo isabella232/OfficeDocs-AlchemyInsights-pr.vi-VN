@@ -13,18 +13,24 @@ ms.custom:
 - "154"
 - "3000003"
 ms.assetid: 84191e23-496c-495a-a2ec-28c5ae0d4c0b
-ms.openlocfilehash: 56936541c52e56d7aa9b0f5dad7b9a359c5b6185
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 3b07dd4ccc8570e77a9ce30df48f9ac987a1db71
+ms.sourcegitcommit: 93292c46464ac94971d11adfb808d066ab8bc406
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51809677"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "53118005"
 ---
-# <a name="set-up-a-multifunction-device-or-application-to-send-email"></a>Thiết lập thiết bị đa năng hoặc ứng dụng để gửi email
+# <a name="set-up-a-multifunction-device-or-application-to-send-email"></a>Thiết lập ứng dụng hoặc thiết bị đa năng để gửi email
 
-Để tìm hiểu về các tùy chọn của bạn và các bước, hãy xem [cách thiết lập thiết bị đa năng hoặc ứng dụng để gửi email bằng Microsoft 365](https://docs.microsoft.com/Exchange/mail-flow-best-practices/how-to-set-up-a-multifunction-device-or-application-to-send-email-using-microsoft-365-or-office-365).
+Để tìm hiểu về các tùy chọn và các bước, xem mục Cách thiết lập thiết bị đa năng hoặc ứng dụng để [gửi email bằng](/Exchange/mail-flow-best-practices/how-to-set-up-a-multifunction-device-or-application-to-send-email-using-microsoft-365-or-office-365)Microsoft 365.
   
-**Lưu ý:** Nếu bạn có một thiết bị hoặc ứng dụng đã ngừng hoạt động gần đây, vui lòng lưu ý rằng chúng tôi đã bắt đầu tắt tính năng ký [hiệu 3DES](https://docs.microsoft.com/microsoft-365/compliance/technical-reference-details-about-encryption) như đã lên kế hoạch. Để xem các thiết bị bị ảnh hưởng, hãy đi đến [báo cáo khách hàng của SMTP Auth](https://protection.office.com/mailflow/dashboard). Các lỗi thông thường có thể tương tự như: lỗi xác thực/lỗi, lỗi TLS/lỗi, thuật toán mật mã lỗi, thuật toán không khớp hoặc kết nối bị bỏ. Để giải quyết sự cố:
+Nếu bạn có một thiết bị hoặc ứng dụng mà gần đây đã ngừng hoạt động, các vấn đề phổ biến nhất là:
 
- - **Windows Server 2003 IIS SMTP sẽ không còn hoạt động – phiên bản Windows mới hơn.**  
- - Vui lòng kiểm tra với ứng dụng hoặc nhà cung cấp thiết bị của bạn để xem có một mật mã hiện đại được hỗ trợ hay không nếu có bản Cập Nhật hay không.
+- **Xác thực các lỗi liên quan đến xác thực trong khi sử dụng bản gửi máy khách SmTP Auth** Gần đây, chúng tôi đã thực hiện một số thay đổi liên quan đến cách thức hoạt động của Xác thực SMTP. Để biết thêm thông tin về cách giải quyết sự cố, hãy xem mục xác thực không thành công trong mục Khắc phục sự cố với máy in, máy quét và ứng dụng LOB gửi email bằng Microsoft 365 hoặc [máy Office 365.](/Exchange/mail-flow-best-practices/fix-issues-with-printers-scanners-and-lob-applications-that-send-email-using-off#error-authentication-unsuccessful)
+- **Chúng tôi chỉ chấp nhận phiên bản TLS 1.2 trong khi tạo kết nối bảo mật để truy Office 365** Nếu bạn đang sử dụng Kết nối bảo mật (TLS), hãy đảm bảo thiết bị ứng dụng của bạn hỗ trợ TLS 1.2. Để biết thêm thông tin, [hãy xem chuẩn bị cho TLS 1.2 trong Office 365 và Office 365 GCC.](/microsoft-365/compliance/prepare-tls-1.2-in-office-365)
+ 
+Để biết các sự cố và giải pháp khác, hãy xem mục Khắc phục sự cố với máy in, máy quét và các ứng dụng LOB gửi email bằng Microsoft 365 hoặc [Office 365.](/Exchange/mail-flow-best-practices/fix-issues-with-printers-scanners-and-lob-applications-that-send-email-using-off)
+
+Để xem các thiết bị bị ảnh hưởng, hãy đi đến [báo cáo Máy khách Xác thực SMTP.](https://protection.office.com/mailflow/dashboard)
+
+**Lưu** ý : Exchange Online không phù hợp với tình huống gửi thư hàng loạt. Để gửi email thương mại hàng loạt (ví dụ: bản tin khách hàng), bạn nên sử dụng các nhà cung cấp bên thứ ba chuyên về các dịch vụ này.
