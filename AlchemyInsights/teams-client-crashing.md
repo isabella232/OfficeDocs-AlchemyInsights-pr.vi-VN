@@ -1,5 +1,5 @@
 ---
-title: Các nhóm khách hàng bị rơi?
+title: Teams máy khách gặp sự cố
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,39 +12,36 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002323"
 - "4512"
-ms.openlocfilehash: 20f03b075787cab85ab15d5272c0416b88ebbaee
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7acb2f5f87a9cfbd67cd94efca696665fd80fc4a
+ms.sourcegitcommit: 3cdfde87b7311c200431196031af92c640fd0d8d
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826293"
+ms.lasthandoff: 06/29/2021
+ms.locfileid: "53187743"
 ---
-# <a name="teams-client-crashing"></a>Các nhóm khách hàng bị rơi?
+# <a name="teams-client-crashing"></a>Teams máy khách gặp sự cố
 
-Nếu máy khách nhóm của bạn bị rơi, hãy thử làm như sau:
+Nếu máy khách Teams gặp sự cố, hãy thử cách sau:
 
-- Nếu bạn đang sử dụng ứng dụng nhóm màn hình nền, [hãy đảm bảo rằng ứng dụng đã được cập nhật đầy đủ](https://support.office.com/article/Update-Microsoft-Teams-535a8e4b-45f0-4f6c-8b3d-91bca7a51db1).
+- Nếu bạn đang sử dụng ứng dụng Teams tính bàn, hãy [đảm bảo ứng dụng được cập nhật đầy đủ.](https://support.office.com/article/Update-Microsoft-Teams-535a8e4b-45f0-4f6c-8b3d-91bca7a51db1)
 
-- Hãy đảm bảo rằng tất cả các [URL và dải địa chỉ của Microsoft 365](https://docs.microsoft.com/microsoftteams/connectivity-issues) đều có thể truy nhập.
+- Hãy đảm bảo rằng tất [cả các URL Microsoft 365 và dải địa chỉ đều](/microsoftteams/connectivity-issues) có thể truy nhập được.
 
-- Đăng nhập bằng tài khoản người quản trị đối tượng thuê của bạn và kiểm tra bảng điều khiển trạng thái [dịch vụ](https://docs.microsoft.com/office365/enterprise/view-service-health) của bạn để xác minh rằng không có sự suy thoái về mất hoặc bị mất
+- Đăng nhập bằng tài khoản [](/office365/enterprise/view-service-health) người quản trị đối tượng thuê của bạn và kiểm tra Bảng điều khiển Tình trạng Dịch vụ của bạn để xác nhận rằng không tồn tại sự cố hoặc dịch vụ nào.
 
-- Gỡ cài đặt và cài đặt lại ứng dụng nhóm (liên kết)
-    - Duyệt đến%appdata%\Microsoft\teams\ thư mục trên máy tính của bạn và xóa tất cả các tệp trong thư mục đó.
-    - [Tải xuống và cài đặt ứng dụng nhóm](https://www.microsoft.com/microsoft-365/microsoft-teams/group-chat-software#office-DesktopAppDownload-ofoushy)và nếu có thể, hãy cài đặt các nhóm làm người quản trị (bấm chuột phải vào trình cài đặt nhóm, rồi chọn "chạy với tư việc là người quản trị" nếu có).
+- Gỡ cài đặt và cài đặt lại Teams Dụng
+    - Duyệt đến thư mục %appdata%\Microsoft\Teams\ trên máy tính của bạn, rồi xóa tất cả các tệp trong thư mục đó.
+    - Tải xuống và cài đặt [Ứng dụng Teams](https://www.microsoft.com/microsoft-teams/download-app)và nếu có thể, hãy cài đặt Teams với  tư cách người quản trị (bấm chuột phải vào chương trình cài đặt Teams, rồi chọn Chạy với tư cách người quản trị nếu có).
 
-Nếu máy khách nhóm của bạn vẫn gặp phải, bạn có thể tái tạo vấn đề này không? Nếu vậy:
+Nếu máy khách Teams gặp sự cố, hãy cố gắng tái tạo sự cố. Nếu bạn có thể:
 
-1. Sử dụng trình ghi bước để nắm bắt các bước của bạn.
-    - Đóng tất cả các ứng dụng không cần thiết hoặc bảo mật.
-    - Khởi động các bước ghi âm và tái tạo vấn đề trong khi đăng nhập bằng tài khoản người dùng bị ảnh hưởng.
-    - [Thu thập Nhật ký nhóm chụp các bước đã ghi Repro](https://docs.microsoft.com/microsoftteams/log-files). **Lưu ý**: Hãy đảm bảo rằng bạn đã nắm bắt địa chỉ đăng nhập của người dùng bị ảnh hưởng.
-    - Thu thập thông tin thùng chứa và/hoặc lỗi (Windows). Khởi chạy Windows PowerShell trên máy tính có sự cố xảy ra và chạy các lệnh sau đây:
+1. Sử dụng Trình ghi Bước để ghi lại các bước của bạn.
+    - Đóng TẤT CẢ các ứng dụng không cần thiết hoặc bảo mật.
+    - Khởi chạy Trình ghi Bước và tái tạo sự cố khi đăng nhập bằng tài khoản người dùng bị ảnh hưởng.
+    - [Thu thập nhật ký nhóm ghi lại các bước tiến hành lại được ghi lại.](/microsoftteams/log-files) **Lưu** ý : Đảm bảo bạn ghi lại được địa chỉ đăng nhập của người dùng bị ảnh hưởng.
+    - Thu thập thông tin kết xuất và/hoặc Bộ chứa lỗi (Windows). Khởi Windows Powershell trên máy đang xảy ra sự cố và chạy các lệnh sau (sau mỗi lệnh, hãy nhấn Enter):
 
-        `
-        PS C:\Users\user01> cd $env:temp
-        PS C:\Users\user01\AppData\Local\Temp> Get-EventLog -LogName Application -Message "*Teams.exe*" -InstanceId 1001 | Select-Object -First 10 | Format-List > FaultBuckets.txt
-        PS C:\Users\user01\AppData\Local\Temp> notepad .\FaultBuckets.txt
-        `
+    `cd $env:temp` `Get-EventLog -LogName Application -Message "*Teams.exe*" -InstanceId 1001 | Select-Object -First 10 | Format-List > FaultBuckets.txt`
+    `notepad .\FaultBuckets.txt`
     
-2. Đính kèm tệp vào trường hợp hỗ trợ của bạn.
+2. Sau khi tạo tệp văn bản và xuất hiện trên màn hình của bạn, hãy lưu tệp và đính kèm tệp vào yêu cầu dịch vụ. 
