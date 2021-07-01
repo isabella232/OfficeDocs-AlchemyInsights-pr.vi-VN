@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 665,2578
 ms.assetid: ''
-ms.openlocfilehash: ab0baac563fd4cce628eef0525c04b1613a2ea38
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: d5db78a8427c45c272a72435f2bf1e485a3a366b
+ms.sourcegitcommit: d6b1e4c843206d1977af861542f139d7a5042de7
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52544852"
+ms.lasthandoff: 06/29/2021
+ms.locfileid: "53195542"
 ---
 # <a name="are-you-receiving-too-much-phish-or-spam-in-your-mailbox"></a>Bạn đang nhận quá nhiều thư lừa đảo qua web hoặc thư rác trong hộp thư của mình?
 
@@ -27,3 +27,7 @@ Với tư cách là người quản Microsoft 365, cách tốt nhất để xác
 Để làm cho dễ dàng hơn, bạn có thể cho phép người dùng của mình báo cáo trực tiếp cho Microsoft thông qua [phần bổ trợ Thông báo báo cáo.](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview)
 
 **Bạn có biết không?**: Giờ [](https://security.microsoft.com/messagetrace) đây, bạn có thể gửi mẫu trực tiếp từ Công cụ tìm thư và E5/Microsoft Defender cho khách hàng của Office 365 Plan 2 có thể gửi mẫu từ [Threat Explorer](/microsoft-365/security/office-365-security/threat-explorer).
+
+Để tìm hiểu thêm về việc gửi thư để phân tích trong cổng thông tin Bộ bảo vệ Microsoft 365, hãy xem video [Gửi mẫu để phân tích.](https://go.microsoft.com/fwlink/?linkid=2166435)
+
+Để tìm hiểu thêm về điều tra phủ nhận sai trong Microsoft Defender cho Office 365, hãy xem video Chiến [lược phủ nhận sai](https://go.microsoft.com/fwlink/?linkid=2166434).
