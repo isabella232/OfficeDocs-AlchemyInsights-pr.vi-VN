@@ -1,5 +1,5 @@
 ---
-title: 955 cách cấu hình MFA
+title: 955 Cách đặt cấu hình MFA
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,15 +12,15 @@ ms.custom:
 - "955"
 - "1300007"
 ms.assetid: 88731c82-90d4-4019-a627-8ca6a82224af
-ms.openlocfilehash: f2431c33f4114ea0f6774aac45bc095402eecd8c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4f535ddf697925b56ba8d72c0e68ed320bd8ea11
+ms.sourcegitcommit: cc7c443f23deede96de9532888e0e009430e61a4
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47704475"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "53218796"
 ---
-# <a name="configure-multi-factor-authentication"></a><span data-ttu-id="37fd0-102">Cấu hình xác thực đa yếu tố</span><span class="sxs-lookup"><span data-stu-id="37fd0-102">Configure multi-factor authentication</span></span>
+# <a name="configure-multi-factor-authentication"></a><span data-ttu-id="cb580-102">Đặt cấu hình xác thực đa yếu tố</span><span class="sxs-lookup"><span data-stu-id="cb580-102">Configure multi-factor authentication</span></span>
 
-<span data-ttu-id="37fd0-103">Để đặt cấu hình MFA, hãy xem [thiết lập xác thực đa yếu tố](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication).</span><span class="sxs-lookup"><span data-stu-id="37fd0-103">To configure MFA, see [Set up multi-factor authentication](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication).</span></span>
+<span data-ttu-id="cb580-103">Để đặt cấu hình MFA, [hãy xem mục Thiết lập xác thực đa yếu](/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication) tố hoặc sử dụng hướng dẫn Trung tâm quản trị Microsoft 365 thiết [lập.](https://admin.microsoft.com/AdminPortal/Home?ref=/modernonboarding/mfasetupguide:)</span><span class="sxs-lookup"><span data-stu-id="cb580-103">To configure MFA, see [Set up multi-factor authentication](/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication) or use the [Microsoft 365 admin center setup guide](https://admin.microsoft.com/AdminPortal/Home?ref=/modernonboarding/mfasetupguide:).</span></span>
 
-<span data-ttu-id="37fd0-104">Lưu ý rằng bạn cần phải là người quản trị toàn cầu để bật và cấu hình MFA.</span><span class="sxs-lookup"><span data-stu-id="37fd0-104">Note that you need to be a global admin to enable and configure MFA.</span></span>
+<span data-ttu-id="cb580-104">**Lưu ý**: Bạn phải là người quản trị toàn cầu thì mới có thể bật và đặt cấu hình MFA.</span><span class="sxs-lookup"><span data-stu-id="cb580-104">**Note**: You must be a global admin to enable and configure MFA.</span></span>
