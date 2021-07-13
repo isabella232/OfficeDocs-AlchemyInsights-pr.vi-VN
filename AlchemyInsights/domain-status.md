@@ -13,16 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "11094"
 - "9006491"
-ms.openlocfilehash: f5b3a07f05b31b05e2105fb1f6efbe23fb630179
-ms.sourcegitcommit: d74039304002e526ba6f8ca02e76e4ce7e1aa743
+ms.openlocfilehash: 66fae5b5602dd67954ac9208b26bc2005adda0e3
+ms.sourcegitcommit: 56650eb9af437ff97e4f4d9ca5a2f53ad5bb990e
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52125807"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53389203"
 ---
 # <a name="domain-status---no-services-selected"></a>Trạng thái Miền - Không chọn dịch vụ nào
 
-Trạng thái trạng thái tên miền sẵn dùng sau khi bạn kết nối tên miền trực tiếp với các Microsoft 365 như dịch vụ Exchange. Để thực hiện điều này, hãy đi đến trung tâm quản Microsoft 365 của bạn và chọn Bản **ghi DNS Quản lý**  >  **DNS.**
+ Không có dịch vụ nào được chọn nghĩa là bạn chưa chọn bất kỳ dịch vụ Microsoft 365 nào như Exchange Online, Skype for Business hoặc Intune và Quản lý Thiết bị Di động cho Microsoft 365 để sử dụng với tên miền riêng của mình. Nếu bạn đang dùng Kết hợp Exchange (Exchange tại chỗ với Exchange Online) hoặc lọc thư rác bên ngoài với Exchange và không có tùy chọn dịch vụ Microsoft nào khác, bạn có thể bỏ qua thông báo này. Trạng thái trạng thái tên miền chỉ sẵn dùng đối với các tên miền được kết nối trực tiếp với dịch vụ.
 
-Nếu bạn không thể kết nối tên miền trực tiếp với dịch Microsoft 365 của bạn, trạng thái trạng thái tên miền không sẵn dùng. Ví dụ, khi bạn dùng định tuyến DNS tùy chỉnh cho email, dịch vụ lọc thư rác bên ngoài hoặc bạn đang dùng cả Exchange tại chỗ và Exchange Online (còn gọi là triển khai kết hợp).
+Để chọn dịch vụ cho miền của bạn:
+
+1. Từ **Cài đặt**  >  [**Domains**](https://admin.microsoft.com/Adminportal/Home), đánh dấu vào hộp bên cạnh tên miền với thông báo trạng thái Không có **dịch vụ nào được chọn.**
+1. Chọn **Quản lý DNS để** khởi động Trình hướng dẫn Thiết lập Tên miền.
+    - Nếu bạn chọn **Thêm bản ghi DNS của riêng** mình , hãy đảm bảo chọn dịch vụ khi được nhắc. Các dịch vụ khác có thể sẵn dùng trong **Tùy chọn Nâng cao**.
+    - Nếu bạn chọn Cho phép Microsoft thêm bản ghi **DNS của** bạn hoặc Xem thêm tùy chọn Thiết lập các dịch vụ trực tuyến giúp tôi tất cả các dịch vụ sẵn có được đề xuất và chọn  >   tự động.
+1. Tiếp tục thông qua trình hướng dẫn để hoàn tất thiết lập DNS và lựa chọn dịch vụ của bạn.
+ 
+Để được trợ giúp thêm về việc thiết lập miền, hãy xem [Thêm bản ghi DNS để kết nối miền của bạn.](/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)
 

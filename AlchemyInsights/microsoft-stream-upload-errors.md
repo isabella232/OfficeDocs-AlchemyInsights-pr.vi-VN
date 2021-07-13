@@ -1,7 +1,7 @@
 ---
-title: Lỗi tải lên Microsoft Stream
-ms.author: cmcatee
-author: cmcatee-MSFT
+title: Lỗi tải lên trong Microsoft Stream
+ms.author: pebaum
+author: pebaum
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -13,13 +13,13 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9002643"
 - "5094"
-ms.openlocfilehash: d6f0f9cc6a65be912b72431b4b4824011faef0f2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 20c18e5515d9500f8821953be58422763d3ea0e0
+ms.sourcegitcommit: 56650eb9af437ff97e4f4d9ca5a2f53ad5bb990e
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51833925"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53389239"
 ---
-# <a name="microsoft-stream-upload-errors"></a>Lỗi tải lên Microsoft Stream
+# <a name="microsoft-stream-upload-errors"></a>Lỗi tải lên trong Microsoft Stream
 
-Nếu bạn nhận được các lỗi tải lên trong Microsoft Stream, vui lòng xem các [lỗi tải lên của luồng](https://docs.microsoft.com/stream/portal-understanding-upload-errors).
+Nếu bạn đang nhận được lỗi tải lên trong Microsoft Stream, vui lòng xem Phát [trực tuyến lỗi tải lên](/stream/portal-understanding-upload-errors).
