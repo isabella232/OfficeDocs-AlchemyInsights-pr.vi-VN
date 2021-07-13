@@ -1,7 +1,7 @@
 ---
-title: Hạn chế những người dùng có thể tải lên dòng
-ms.author: cmcatee
-author: cmcatee-MSFT
+title: Hạn chế người dùng có thể tải lên Stream
+ms.author: pebaum
+author: pebaum
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -13,15 +13,15 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9002643"
 - "5096"
-ms.openlocfilehash: 964087efb30bda9f6f78786d92e8ffb9a8f5b8a9
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d13cf65ff7508897a8f30140bab858c7b6c70e36
+ms.sourcegitcommit: 56650eb9af437ff97e4f4d9ca5a2f53ad5bb990e
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51831324"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53389383"
 ---
-# <a name="restrict-users-who-can-upload-to-stream"></a><span data-ttu-id="a3d77-102">Hạn chế những người dùng có thể tải lên dòng</span><span class="sxs-lookup"><span data-stu-id="a3d77-102">Restrict users who can upload to Stream</span></span>
+# <a name="restrict-users-who-can-upload-to-stream"></a><span data-ttu-id="2b0a2-102">Hạn chế người dùng có thể tải lên Stream</span><span class="sxs-lookup"><span data-stu-id="2b0a2-102">Restrict users who can upload to Stream</span></span>
 
-<span data-ttu-id="a3d77-103">Với tư cách là một tổ chức mà bạn có thể muốn giới hạn các nhân viên có thể tải video lên.</span><span class="sxs-lookup"><span data-stu-id="a3d77-103">As an organization you may want to limit the employees who can upload videos.</span></span> <span data-ttu-id="a3d77-104">Theo mặc định, mọi người trong tổ chức của bạn có thể tải video lên.</span><span class="sxs-lookup"><span data-stu-id="a3d77-104">By default, everyone in your organization can upload videos.</span></span>
+<span data-ttu-id="2b0a2-103">Với tư cách là một tổ chức, bạn có thể muốn giới hạn những nhân viên có thể tải lên video.</span><span class="sxs-lookup"><span data-stu-id="2b0a2-103">As an organization you may want to limit the employees who can upload videos.</span></span> <span data-ttu-id="2b0a2-104">Theo mặc định, mọi người trong tổ chức của bạn đều có thể tải lên video.</span><span class="sxs-lookup"><span data-stu-id="2b0a2-104">By default, everyone in your organization can upload videos.</span></span>
 
-- [<span data-ttu-id="a3d77-105">Hạn chế nhân viên có thể tạo nội dung trong Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="a3d77-105">Restrict employees who can create content in Microsoft Stream</span></span>](https://docs.microsoft.com/stream/restrict-uploaders)
+- [<span data-ttu-id="2b0a2-105">Hạn chế những nhân viên có thể tạo nội dung trong Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="2b0a2-105">Restrict employees who can create content in Microsoft Stream</span></span>](/stream/restrict-uploaders)
