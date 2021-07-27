@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "11015"
 - "9000181"
-ms.openlocfilehash: 7df40e2c747c1701c6f66a1127d484fde3e9ce60
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 1db4d15b45ff95a643ceca788667de9fb6a8f4bc
+ms.sourcegitcommit: 86c95d3f0f268e500b3732243ca85a650b2e7b8f
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52539666"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53532277"
 ---
 # <a name="how-to-publish-a-sensitivity-label"></a>Cách phát hành nhãn nhạy cảm
 
-1. Đi đến trang Trung Office 365 tâm Bảo mật & Tuân thủ để > **nhãn**  >  **Độ nhạy của Phân loại.**
+1. Đi đến Trung tâm Microsoft 365 Tuân thủ để > **sách Nhãn** Bảo vệ  >  **Thông tin.**
 
-1. Trên trang Nhạy cảm nhãn, chọn tab **Chính sách** nhãn, rồi chọn **Phát hành nhãn.**
+1. Chọn **+ Phát hành nhãn để** bắt đầu trình hướng dẫn Nhãn nhạy cảm mới.
 
 1. Chọn **Chọn nhãn nhạy cảm để phát hành**. Chọn các nhãn bạn muốn sẵn dùng trong ứng dụng và đối với các dịch vụ, rồi chọn **Thêm**.
 

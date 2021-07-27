@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "11014"
 - "9000181"
-ms.openlocfilehash: 1f73d41abf9318943772c0e4f18d4dfd9f3869b3
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 69beadfaaa9303ddb4b89d288da38b7f7f9a925c
+ms.sourcegitcommit: 86c95d3f0f268e500b3732243ca85a650b2e7b8f
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52543671"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53532205"
 ---
 # <a name="how-to-create-a-sensitivity-label"></a>Cách tạo nhãn nhạy cảm
 
-1. Đi đến trang Trung Office 365 tâm Bảo mật & Tuân thủ để > **nhãn**  >  **Độ nhạy của Phân loại.**
+1. Đi đến Trung Microsoft 365 Tuân thủ Để > **Nhãn Bảo vệ** Thông  >  **tin**.
 
 1. Chọn **+ Tạo nhãn để bắt** đầu trình hướng dẫn Nhãn nhạy cảm mới.
 
