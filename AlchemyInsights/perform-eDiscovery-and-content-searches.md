@@ -1,5 +1,5 @@
 ---
-title: 1488-thực hiện-khám phá điện tử-và-nội dung tìm kiếm
+title: 1488-perform-eDiscovery-and-content-searches
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -14,30 +14,30 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 25fe9f6670c0108370aa5a8fc7c1c271f6c809a1
-ms.sourcegitcommit: 4a82381bdb22cbc8bc91d2e02c633897d45ade4b
+ms.openlocfilehash: 938e9f2d7ee43e3a2b8c3356afb90f8cd6507a65
+ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49668536"
+ms.lasthandoff: 07/28/2021
+ms.locfileid: "53630235"
 ---
-# <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Cách thực hiện tìm kiếm nội dung và tìm kiếm khám phá điện tử
+# <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Cách thực hiện Tìm kiếm Nội dung và tìm kiếm Khám phá Điện tử
 
-**Để thực hiện tìm kiếm nội dung**:
+**Để thực hiện tìm kiếm nội dung:**
 
-1. Đi đến [Trung tâm tuân thủ bảo mật &](https://protection.office.com) và đăng nhập.
-2. Bấm **Tìm kiếm > nội dung tìm kiếm**.
-3. Bấm vào **Tìm kiếm mới** để tạo một tìm kiếm mới.
-4. Nhập các điều kiện tìm kiếm bắt buộc bao gồm các từ khóa và vị trí nội dung.
-5. Bấm **lưu & chạy** để đặt tên cho tìm kiếm, bắt đầu, rồi xem lại kết quả.
+1. Đi đến Trung Microsoft 365 Tuân thủ Tài liệu, rồi đăng nhập.
+2. Chọn Tìm **kiếm trong > tìm kiếm nội dung**.
+3. Chọn **Tìm kiếm mới** để tạo tìm kiếm mới.
+4. Nhập điều kiện tìm kiếm bắt buộc, bao gồm các từ khóa và vị trí nội dung.
+5. Chọn **Lưu để & tên** cho tìm kiếm, khởi động tìm kiếm, rồi xem trước kết quả.
 
 > [!NOTE]
-> Trong **Trung tâm tuân thủ M365**, bên dưới **giải pháp**, chọn bung rộng **khám phá** điện tử và chọn công cụ khám phá điện tử mong muốn của bạn.
+> Trong **Microsoft 365 Pháp của Trung tâm Tuân** thủ , hãy mở rộng Khám phá Điện tử và chọn công cụ Khám phá Điện tử mong muốn của  >  bạn. 
 
-Để biết hướng dẫn chi tiết về các tìm kiếm nội dung, xuất kết quả và tạo các trường hợp khám phá điện tử để giữ dữ liệu, hãy xem các trường hợp [Tìm kiếm nội dung](https://docs.microsoft.com/microsoft-365/compliance/content-search) và [khám phá](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases)điện tử.
+Để biết hướng dẫn chi tiết về tìm kiếm nội dung, xuất [](/microsoft-365/compliance/content-search) kết quả và tạo các trường hợp Khám phá Điện tử để lưu dữ liệu, hãy xem các trường hợp Tìm kiếm Nội dung và [Khám phá Điện tử.](/microsoft-365/compliance/ediscovery-cases)
 
-**Thông tin thêm**:
+**Thông tin thêm:**
 
-- Để biết thêm thông tin về công cụ khám phá điện tử trong Microsoft 365, hãy xem [khám phá](https://docs.microsoft.com/microsoft-365/compliance/ediscovery)điện tử.
-- Tìm hiểu về các quyền, yêu cầu và giới hạn cần thiết để thực hiện tìm kiếm khám phá điện tử từ các [quyền cần thiết để tìm kiếm](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions) và yêu cầu khám phá điện tử [và giới hạn](https://docs.microsoft.com/microsoft-365/compliance/limits-for-content-search).
-- Nếu bạn đang khắc phục sự cố khám phá điện tử, hãy xem [khám phá điện tử khắc phục sự cố thường gặp](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-troubleshooting-common-issues) và điều [tra các mục được lập chỉ mục một phần](https://docs.microsoft.com/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery).
+- Để biết thêm thông tin về công cụ Khám phá Điện tử Microsoft 365, hãy [xem Khám phá Điện tử.](/microsoft-365/compliance/ediscovery)
+- Tìm hiểu về các quyền, yêu cầu và giới hạn [](/microsoft-365/compliance/assign-ediscovery-permissions) cần thiết để thực hiện tìm kiếm Khám phá Điện tử từ Các quyền bắt buộc đối với tìm kiếm và yêu cầu và giới hạn Khám [phá Điện tử.](/microsoft-365/compliance/limits-for-content-search)
+- Nếu bạn đang khắc phục sự cố [](/microsoft-365/compliance/ediscovery-troubleshooting-common-issues) Khám phá Điện tử, hãy xem mục Khám phá Điện tử Khắc phục các sự cố thường gặp và điều tra các mục được lập chỉ [mục một phần.](/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery)

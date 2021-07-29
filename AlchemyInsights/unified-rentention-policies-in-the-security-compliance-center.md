@@ -1,5 +1,5 @@
 ---
-title: Chính sách duy trì hợp nhất trong Trung tâm tuân thủ bảo mật &
+title: Chính sách duy trì hợp nhất trong Trung tâm Bảo & tuân thủ
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,24 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "5745"
 - "9000273"
-ms.openlocfilehash: 0dc9fb2d34e8b2538c6174e401c20a40b216efce
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a135fae4b6fb7369fd289ecdd5af50935e0c219e
+ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47669233"
+ms.lasthandoff: 07/28/2021
+ms.locfileid: "53630163"
 ---
-# <a name="unified-retention-policies-in-the-security--compliance-center"></a>Chính sách duy trì hợp nhất trong Trung tâm tuân thủ bảo mật &
+# <a name="unified-retention-policies-in-the-security--compliance-center"></a>Chính sách duy trì hợp nhất trong Trung tâm Bảo & tuân thủ
 
-Chính sách duy trì cho phép bạn quản lý nội dung của tổ chức bạn bằng cách sử dụng các thiết đặt duy trì và xóa. Bạn có thể tạo chính sách duy trì hợp nhất trong Trung tâm tuân thủ & bảo mật của Office 365 hoặc trong Trung tâm tuân thủ Microsoft 365. 
+Chính sách duy trì cho phép bạn quản lý nội dung của tổ chức của bạn bằng cách sử dụng thiết đặt duy trì và xóa. Bạn có thể tạo các chính sách duy trì hợp nhất trong Trung tâm Office 365 Tuân & Chính sách Bảo mật hoặc trong Trung Microsoft 365 Lý. 
 
-1. Trong [Trung tâm tuân thủ bảo mật &](https://go.microsoft.com/fwlink/p/?linkid=2077143), hãy chọn **quản trị thông tin**  >  **duy trì**  >  **+ tạo**. <br/>
-    Trong [Trung tâm tuân thủ Microsoft 365](https://go.microsoft.com/fwlink/p/?linkid=2077149), hãy chọn dữ liệu **chính sách**  >  **> giữ > + chính sách duy trì mới.**
-2. Thêm **tên**, **thiết đặt**và **chọn vị trí**.
-3. Xem lại thiết đặt của bạn, rồi chọn **tạo chính sách này** hoặc **lưu cho sau này**.  
+1. Trong Trung [tâm Bảo & Tuân thủ](https://go.microsoft.com/fwlink/p/?linkid=2077143), chọn Duy trì quản trị **thông**  >  **tin**  >  **+Tạo**. <br/>
+    Trong Trung tâm [Microsoft 365 tuân thủ](https://go.microsoft.com/fwlink/p/?linkid=2077149), chọn Chính **sách** dữ liệu > duy > + Chính sách duy  >  **trì mới.**
+2. Thêm **Tên**, **Cài đặt**, và Chọn **vị trí**.
+3. Xem lại cài đặt của bạn, rồi chọn **Tạo chính sách này** hoặc Lưu để dùng **sau**.  
       
-Để biết thêm chi tiết về các chính sách duy trì cho nội dung chẳng hạn như Exchange email, OneDrive, SharePoint và nhóm nội dung, hãy xem [tổng quan về chính sách duy trì](https://go.microsoft.com/fwlink/?linkid=2127785).  
+Để biết thêm chi tiết về các chính sách duy trì cho nội dung chẳng hạn như Exchange, email, OneDrive, SharePoint và nội dung Teams, hãy xem Tổng quan về các [chính sách duy trì](https://go.microsoft.com/fwlink/?linkid=2127785).  
     
-Nếu bạn đang sử dụng các chính sách duy trì theo cạnh nhau trong Trung tâm quản trị Exchange và Trung tâm tuân thủ bảo mật &, hãy xem đề xuất này để [sử dụng chính sách duy trì thay vì các tính năng cũ hơn](https://docs.microsoft.com/microsoft-365/compliance/retention-policies?view=o365-worldwide#use-a-retention-policy-instead-of-older-features).  
+Nếu bạn đang sử dụng các chính sách duy trì song song trong Trung tâm quản trị Exchange và Trung tâm Tuân thủ & Bảo mật, hãy xem đề xuất Sử dụng chính sách duy trì thay vì các tính năng [cũ hơn.](/microsoft-365/compliance/retention-policies#use-a-retention-policy-instead-of-older-features)  
     
-Để biết thông tin cụ thể về việc duy trì nhóm, hãy xem [chính sách duy trì trong nhóm](https://docs.microsoft.com/microsoftteams/retention-policies).
+Để biết thông tin cụ thể về Teams lưu trữ, hãy [xem Chính sách duy trì Teams.](/microsoftteams/retention-policies)
