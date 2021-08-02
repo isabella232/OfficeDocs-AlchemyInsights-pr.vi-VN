@@ -1,8 +1,9 @@
 ---
-title: Tất cả các đăng ký đều hiện hoạt
+title: Tất cả các đăng ký đều Hiện hoạt
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -11,18 +12,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "458"
 - "1500020"
 ms.assetid: 71122d4a-df0b-4fa5-b921-41ce3ac49916
-ms.openlocfilehash: fdce9c19e589d53cccd90aff26eb3af0f2404c1e
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 4320da6224145e68c8757f316cdc012a1d4f2f6c
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51821577"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53680557"
 ---
-# <a name="all-subscriptions-are-active"></a>Tất cả các đăng ký đều hiện hoạt
+# <a name="all-subscriptions-are-active"></a>Tất cả các đăng ký đều Hiện hoạt
 
-Đăng ký của bạn đang hoạt động. Điều này có thể được xác nhận bằng cách đi đến **thanh toán** \> trang [sản phẩm của bạn](https://go.microsoft.com/fwlink/p/?linkid=842054) . Đăng ký của bạn được liệt kê trên tab **sản phẩm** và trạng thái cho mỗi đăng ký được hiển thị trong cột **trạng thái đăng ký** . Để biết thêm thông tin, hãy chọn một thuê bao để xem trang chi tiết gói đăng ký.
+Đăng ký của bạn đang Hiện hoạt. Điều này có thể được xác minh bằng cách đi tới trang Thanh **toán sản** \> [phẩm của](https://go.microsoft.com/fwlink/p/?linkid=842054) bạn. Đăng ký của bạn được liệt kê trên tab **Sản** phẩm và trạng thái của mỗi đăng ký được hiển thị trong cột **Trạng thái đăng** ký. Để biết thêm thông tin, hãy chọn đăng ký để xem trang chi tiết đăng ký.
   
-Nếu bạn đang tìm cách loại bỏ các đăng ký hiện hoạt hoặc đóng tài khoản của mình, hãy xem [làm thế nào để đóng tài khoản của](https://docs.microsoft.com/microsoft-365/commerce/close-your-account?view=o365-worldwide)bạn.
+Nếu bạn đang tìm cách loại bỏ đăng ký hiện hoạt hoặc đóng tài khoản, hãy xem [mục Cách đóng tài khoản](https://docs.microsoft.com/microsoft-365/commerce/close-your-account?view=o365-worldwide).
