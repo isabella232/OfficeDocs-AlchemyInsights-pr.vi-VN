@@ -1,8 +1,9 @@
 ---
-title: Các tùy chọn của tôi có thể mở rộng là gì
+title: Tôi có những lựa chọn nào để mở rộng
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,21 +11,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "1400006"
 - "5832"
-ms.openlocfilehash: b6ff588128f7c7c617651c62488a826d10733555
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5a509837a48de8cce20da08722f24202be6f703d
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47708813"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53689464"
 ---
-# <a name="what-are-my-options-to-extend"></a>Các tùy chọn của tôi có thể mở rộng là gì?
+# <a name="what-are-my-options-to-extend"></a>Tôi có những lựa chọn nào để mở rộng?
 
-Trước khi đăng ký thực sự đạt đến ngày hết hạn, bạn có một vài tùy chọn:
+Trước khi đăng ký thực sự đến ngày hết hạn, bạn có một vài tùy chọn:
 
-- Gia hạn bản **dùng thử của bạn**.  Bạn cần thêm thời gian để đánh giá Microsoft 365? Trong một số trường hợp, bạn có thể gia hạn bản  [dùng thử của mình](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial).  
-- **Bật thanh toán định kỳ** cho đăng ký. Nếu đã bật thanh toán định kỳ, bạn không cần phải thực hiện bất kỳ thao tác nào. Đăng ký của bạn sẽ tự động được lập hóa đơn và bạn sẽ bị tính phí cho một năm hoặc tháng bổ sung tùy thuộc vào tần suất thanh toán hiện tại của bạn. Nếu vì bất kỳ lý do nào bạn đã bật tính năng thanh toán định kỳ, bạn luôn có thể  [bật lại tính năng thanh toán định kỳ](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription).
-- Nếu bạn đã mua ứng dụng Microsoft 365 cho doanh nghiệp bằng  **thẻ trả trước**, bạn có thể bật tính năng  [thanh toán định kỳ](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription)  cho thuê bao của mình.
-- Nếu bạn là một  **khách hàng cấp phép số lớn mở**  bằng một thuê bao trả trước, một năm, hãy liên hệ với đối tác của bạn để mua khóa sản phẩm mới. Bạn sẽ nhận được hướng dẫn qua email để kích hoạt khóa của bạn trong  [Trung tâm dịch vụ cấp phép số lượng lớn](https://go.microsoft.com/fwlink/p/?LinkID=282016). Để tìm hiểu cách tìm một đối tác mới hoặc đối tác mà bạn đã từng làm việc trong quá khứ, hãy xem  [Tìm đối tác hoặc người bán lại của bạn](https://docs.microsoft.com/microsoft-365/admin/manage/find-your-partner-or-reseller).
-- Nếu bạn có  **ứng dụng Microsoft 365 dành cho doanh nghiệp**, hãy xem mục  [quản lý thanh toán định kỳ cho đăng ký của bạn](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription).
+- **Gia hạn bản dùng thử của bạn**.  Bạn cần thêm thời gian để đánh giá Microsoft 365? Trong một số trường hợp, bạn có thể gia  [hạn bản dùng thử của mình](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial).  
+- **Bật tính năng thanh toán định kỳ** cho đăng ký. Nếu đã bật tính năng Thanh toán định kỳ, bạn không cần thực hiện bất kỳ hành động nào khác. Đăng ký của bạn sẽ được tự động lập hóa đơn và bạn sẽ được tính phí thêm một năm hoặc một tháng nữa, tùy thuộc vào tần suất thanh toán hiện tại của bạn. Nếu vì bất kỳ lý do gì mà bạn đã tắt Thanh toán định kỳ, bạn luôn có thể bật  [lại Thanh toán định kỳ](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription).
+- Nếu đã mua Ứng dụng Microsoft 365 dành cho doanh nghiệp bằng thẻ **trả trước,** bạn có thể bật tính năng Thanh toán [định kỳ cho](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription) đăng ký của mình.
+- Nếu bạn là khách hàng Cấp phép  **số lớn**  mở với gói đăng ký trả trước một năm, hãy liên hệ với đối tác của mình để mua khóa sản phẩm mới. Bạn sẽ nhận được các hướng dẫn qua email để kích hoạt khóa của mình trong Trung tâm [Dịch vụ Cấp phép Số lớn.](https://go.microsoft.com/fwlink/p/?LinkID=282016) Để tìm hiểu cách tìm đối tác mới hoặc đối tác bạn đã cộng tác trước đây, hãy xem mục Tìm đối tác hoặc [nhà bán lẻ của bạn.](https://docs.microsoft.com/microsoft-365/admin/manage/find-your-partner-or-reseller)
+- Nếu bạn đã đăng **Ứng dụng Microsoft 365 dành cho doanh nghiệp**, hãy xem mục [Quản lý thanh toán định kỳ cho đăng ký của mình](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription).

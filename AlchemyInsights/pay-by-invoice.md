@@ -1,29 +1,32 @@
 ---
-title: Thanh toán bằng hóa đơn
+title: Thanh toán bằng Hóa đơn
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jmueller, jkinma
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
+- commerce_billing
 - "492"
 - "1500024"
-ms.openlocfilehash: 43638559082c02ef91a8557543d6565327ea988a
-ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
+ms.openlocfilehash: a0c18b042494a1317de9d4f2f3d3ff233b6c3ca2
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50601080"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53688420"
 ---
-# <a name="pay-by-invoice"></a>Thanh toán bằng hóa đơn
+# <a name="pay-by-invoice"></a>Thanh toán bằng Hóa đơn
 
-Nếu chi phí đăng ký Microsoft 365 của bạn qua một lượng tiền nhất định (số tiền này thay đổi theo vị trí dịch vụ), bạn sẽ có tùy chọn thanh toán bằng hóa đơn bằng cách sử dụng một dấu kiểm hoặc EFT. Kiểm tra tín dụng có thể được yêu cầu cho các khoản thanh toán hóa đơn lớn hơn. Nếu yêu cầu kiểm tra tín dụng, bạn sẽ được thông báo khi mua gói đăng ký của mình. Nếu bạn đồng ý liên hệ, bạn sẽ nhận được một email bao gồm thêm thông tin về việc áp dụng phê duyệt tín dụng. Kiểm tra tín dụng thường được hoàn thành trong vòng hai ngày làm việc.
+Nếu chi phí đăng ký Microsoft 365 bạn vượt quá một số tiền cụ thể (số tiền này thay đổi tùy theo vị trí dịch vụ), bạn sẽ có lựa chọn thanh toán bằng hóa đơn sử dụng séc hoặc EFT. Có thể cần thực hiện kiểm tra tín dụng đối với các khoản thanh toán hóa đơn lớn hơn. Nếu bắt buộc phải thực hiện kiểm tra tín dụng, bạn sẽ được thông báo khi mua đăng ký. Nếu bạn đồng ý được liên hệ, bạn sẽ nhận được một email bao gồm thông tin thêm về việc áp dụng phê duyệt tín dụng. Kiểm tra tín dụng thường được hoàn tất trong vòng hai ngày làm việc.
 
-Nếu bạn thanh toán bằng hóa đơn cho đăng ký của mình, bạn sẽ nhận được email khi bạn đã sẵn sàng để xem bản kê hóa đơn. Email này không chứa bản sao kê thanh toán của bạn. Tuy nhiên, bạn có thể chọn để [nhận bản sao của tuyên bố thanh toán trong email](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice.md#receive-a-copy-of-your-billing-statement-in-email). Bản kê thanh toán của bạn bao gồm chi tiết về các tùy chọn của bạn để thực hiện thanh toán và nơi gửi. Nếu bạn nhập số đơn đặt hàng (PO) khi bạn mua một đăng ký, số sẽ xuất hiện trên bản kê hóa đơn của bạn. Để biết thông tin về việc truy nhập câu lệnh thanh toán, hãy xem [xem hóa đơn hoặc hóa đơn của bạn](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice).
+Nếu bạn thanh toán bằng hóa đơn cho đăng ký của mình, bạn sẽ nhận được email khi bản kê thanh toán của bạn đã sẵn sàng để xem. Email này không chứa bản sao bản kê thanh toán của bạn. Tuy nhiên, bạn có thể chọn [nhận bản sao bản kê thanh toán qua email](/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice.md#receive-a-copy-of-your-billing-statement-in-email). Bản kê thanh toán của bạn bao gồm chi tiết về các tùy chọn để thực hiện thanh toán và nơi gửi. Nếu bạn nhập số đơn đặt hàng (PO) khi mua đăng ký, số này sẽ xuất hiện trên bản kê thanh toán của bạn. Để biết thông tin về việc truy nhập bản kê thanh toán, hãy xem [mục Xem hóa đơn của bạn](/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice).
 
-Để tìm hiểu thêm về việc thanh toán bằng hóa đơn, hãy xem [làm thế nào để thanh toán cho đăng ký của bạn](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).
+Để tìm hiểu thêm về thanh toán bằng hóa đơn, hãy [xem mục Cách thanh toán cho đăng ký của bạn](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).
 
-Nếu bạn đang tìm cách cập nhật các phương thức thanh toán, hãy xem mục [quản lý các phương thức thanh toán](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Nếu bạn đang tìm cách cập nhật phương thức thanh toán, hãy xem quản [lý phương thức thanh toán](/microsoft-365/commerce/billing-and-payments/manage-payment-methods).

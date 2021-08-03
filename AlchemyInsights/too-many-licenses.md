@@ -1,8 +1,10 @@
 ---
-title: Quá nhiều giấy phép?
+title: Bạn có quá nhiều giấy phép?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: nicholak, argani
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,27 +12,28 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_licensing
 - "540"
 - "1500027"
-ms.openlocfilehash: a093cd0ac2bc4d165a91276e7a5f1a14a8b7736f
-ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
+ms.openlocfilehash: 69725ebffbe26525784580715a5469a8572ef130
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50231993"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53688780"
 ---
-# <a name="too-many-licenses"></a>Quá nhiều giấy phép?
+# <a name="too-many-licenses"></a>Bạn có quá nhiều giấy phép?
 
-Nếu bạn cho rằng mình đang bị lập hóa đơn cho quá nhiều giấy phép, điều này thường là do việc mua thêm giấy phép thì bạn cần.
+Nếu bạn nghĩ rằng mình đang được lập hóa đơn cho quá nhiều giấy phép thì nguyên nhân thường do bạn đã mua thêm giấy phép cần thiết.
   
-**Giảm số lượng giấy phép đã mua**
+**Giảm số giấy phép đã mua**
 
-**Xem video** cho biết cách thực hiện như sau: [loại bỏ giấy phép hiện có](https://go.microsoft.com/fwlink/p/?linkid=2154938)
+**XEM video hướng** dẫn cách thực hiện: Loại [bỏ giấy phép hiện có](https://go.microsoft.com/fwlink/p/?linkid=2154938)
   
-1. Trong Trung tâm quản trị, hãy đi đến trang **thanh toán** \> **[sản phẩm của bạn](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
-2. Trên tab **sản phẩm** , hãy chọn thuê bao mà bạn muốn thay đổi.
-3. Trên trang chi tiết gói đăng ký, hãy chọn **loại bỏ giấy phép**.
-4. Trong ngăn **loại bỏ giấy phép** , dưới **số lượng mới** trong hộp **tổng số giấy phép** , hãy nhập tổng số giấy phép mà bạn muốn cho thuê bao này. Ví dụ, nếu bạn có giấy phép 100 và bạn muốn loại bỏ 25 trong số đó, hãy nhập 75.
-5. Chọn **lưu**.
+1. Trong trung tâm quản  trị, đi đến trang Thanh toán \> **[Sản phẩm của](https://go.microsoft.com/fwlink/p/?linkid=842054)** bạn.
+2. Trên tab **Sản** phẩm, chọn đăng ký mà bạn muốn thay đổi.
+3. Trên trang chi tiết đăng ký, chọn **Loại bỏ giấy phép**.
+4. Trong ngăn **Loại bỏ giấy phép,** **bên** dưới Số lượng mới trong hộp Tổng số giấy phép, hãy nhập tổng số giấy phép mà bạn muốn cho đăng ký này.  Ví dụ: nếu bạn đã có 100 giấy phép và bạn muốn loại bỏ 25 giấy phép trong số đó, hãy nhập 75.
+5. Chọn **Lưu**.
 
-Để tìm hiểu thêm, hãy xem [mua hoặc loại bỏ giấy phép](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
+Để tìm hiểu thêm, hãy [xem Mua hoặc loại bỏ giấy phép](/microsoft-365/commerce/licenses/buy-licenses).

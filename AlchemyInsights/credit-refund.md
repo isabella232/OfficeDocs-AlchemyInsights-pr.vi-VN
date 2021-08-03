@@ -4,34 +4,36 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
+ms.reviewer: jmueller, jkinma
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
+- commerce_billing
 - "897"
 - "1500035"
 ms.assetid: 5f76890d-3f85-430b-95fd-dcab42624745
-ms.openlocfilehash: 1e40dcf238ce4bc05c55c78e29c54fc260523bc2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 66526e5aba6d4f4e8a19141478fd103fbab71f31
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51815889"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53687592"
 ---
 # <a name="creditrefund"></a>Tín dụng/hoàn tiền
 
-**Việc**
+**Hủy bỏ**
   
-Khi hủy bỏ đăng ký, bạn sẽ nhận được hóa đơn cuối cùng bằng tín dụng do ngày thanh toán tiếp theo. Việc này có thể mất tối đa 30 ngày để nhận được từ ngày đăng ký đã bị hủy bỏ.
+Khi hủy bỏ đăng ký, bạn sẽ nhận được hóa đơn cuối cùng kèm theo tín dụng đến hạn vào ngày thanh toán tiếp theo. Hoạt động này có thể mất tối đa 30 ngày để nhận kể từ ngày đăng ký bị hủy bỏ.
   
-**Thay đổi chỗ ngồi**
+**Thay đổi Chỗ**
   
-Khi giấy phép được loại bỏ khỏi một đăng ký, thời gian không sử dụng các giấy phép này sẽ được áp dụng như một tín dụng trong hóa đơn tiếp theo. Việc này có thể mất tối đa 30 ngày để nhận được từ ngày có giấy phép được loại bỏ.
+When licenses are removed from a subscription, the unused time on these licenses will be applied as a credit on the next bill. Quá trình này có thể mất tối đa 30 ngày để nhận được kể từ ngày loại bỏ giấy phép.
 
-**Ho**
+**Hoàn tiền**
 
-**Bất kỳ tín dụng nào sẽ được trả về cho bạn trong chu kỳ thanh toán tiếp theo.**
+**Bạn sẽ được trả lại mọi khoản tín dụng theo hệ thống trong chu kỳ thanh toán tiếp theo.**
 
-Để biết thêm thông tin, hãy xem [quy trình hủy bỏ và hoàn tiền](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription?view=o365-worldwide). 
+Để biết thêm thông tin, hãy xem quy [trình hủy bỏ và hoàn tiền](/microsoft-365/commerce/subscriptions/cancel-your-subscription). 

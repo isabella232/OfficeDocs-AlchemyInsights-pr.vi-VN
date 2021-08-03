@@ -1,5 +1,5 @@
 ---
-title: Bạn có cần di chuyển một số điện thoại từ một nhà cung cấp sang Microsoft không?
+title: Bạn cần di chuyển một số Điện thoại từ một nhà cung cấp sang Microsoft?
 ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
@@ -11,19 +11,21 @@ ms.assetid: 94f6d41e-8cbc-4ec1-a44f-453b2a59206a
 ms.custom:
 - "248"
 - "4000003"
-ms.openlocfilehash: 3dd6c0179e7858713026baf6539f09b3cf1ad95b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c1e5837034130f7d03220d28c1da1fa619b6fe64
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47712170"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53689428"
 ---
-# <a name="port-existing-numbers-to-teams"></a>Các số hiện có của cổng vào nhóm
+# <a name="port-existing-numbers-to-teams"></a>Nối cổng các số hiện có sang Teams
 
-Nếu bạn hiện đang có nhà cung cấp dịch vụ điện thoại hoặc nhà mạng và đã có số điện thoại cho người dùng hoặc dịch vụ của bạn, bạn cần tạo một lệnh "nối cổng" để chuyển các số điện thoại này sang Microsoft nhóm.
+Nếu hiện đang có một nhà cung cấp dịch vụ điện thoại hoặc nhà mạng và đã có số điện thoại cho người dùng hoặc dịch vụ của mình, bạn cần tạo một "lệnh nối cổng" để chuyển các số điện thoại này sang Microsoft Teams.  
 
-- Hãy xem [chuyển các số điện thoại sang nhóm](https://docs.microsoft.com/microsoftteams/phone-number-calling-plans/transfer-phone-numbers-to-teams) để tìm hiểu cách hoàn tất cổng kết nối. 
+Để tạo lệnh nối cổng mới hoặc kiểm tra lệnh nối cổng hiện có, hãy làm theo các bước sau: 
 
-- Hãy xem [quản lý số điện thoại cho tổ chức của bạn](https://docs.microsoft.com/microsoftteams/manage-phone-numbers-for-your-organization/manage-phone-numbers-for-your-organization) để hướng dẫn trong việc quản lý số điện thoại. 
+1. Đi đến trung [Teams quản trị](https://admin.teams.microsoft.com/phone-numbers) để mở trang Điện thoại chính. 
 
-Để biết thêm thông tin, hãy xem [tổng quan về lệnh nối cổng](https://docs.microsoft.com/MicrosoftTeams/phone-number-calling-plans/port-order-overview).  
+1. Chọn Lấy **liên kết hỗ trợ số điện thoại**. 
+
+Để được hỗ trợ trực tiếp đến số điện thoại, hãy [Điện thoại tâm Dịch vụ Số](https://pstnsd.powerappsportals.com/).  

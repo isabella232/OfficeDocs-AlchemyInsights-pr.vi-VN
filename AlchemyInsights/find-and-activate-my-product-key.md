@@ -1,8 +1,10 @@
 ---
-title: Chương trình giấy phép mở Microsoft
+title: Chương trình Giấy phép Mở của Microsoft
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviwer: jmueller, jkinma
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,24 +12,25 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_purchase
 - "9001519"
 - "3576"
-ms.openlocfilehash: bbe0ee6718e470e5d1d309a6e87f5312ef806599
-ms.sourcegitcommit: 84f0aebdb278703f642a0c33fe260e3aee849be9
+ms.openlocfilehash: 61d2c00657cb6f5f7955adf04142d0b072050557
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "51217955"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53688888"
 ---
-# <a name="microsoft-open-license-program"></a>Chương trình giấy phép mở Microsoft
+# <a name="microsoft-open-license-program"></a>Chương trình Giấy phép Mở của Microsoft
 
-Nếu bạn đã mua Microsoft 365 dành cho doanh nghiệp thông qua [chương trình cấp phép Microsoft mở](https://go.microsoft.com/fwlink/p/?LinkID=613298), đây là cách bạn tìm và kích hoạt khóa sản phẩm của bạn.
+Nếu bạn đã mua Microsoft 365 cho doanh nghiệp thông qua Chương trình Giấy phép Mở của [Microsoft](https://go.microsoft.com/fwlink/p/?LinkID=613298), dưới đây là cách bạn tìm và kích hoạt khóa sản phẩm của mình.
 
-1. Sau khi bạn mua khóa từ một đối tác Microsoft 365, hãy kiểm tra hộp thư đến của bạn cho email từ Microsoft có chứa nối kết kích hoạt.
-
-    > [!NOTE]
-    > Email được gửi đến người được liệt kê là người quản trị trực tuyến trong thỏa thuận cấp phép số lượng lớn. Nếu bạn không chắc mình được chỉ định làm người quản trị trực tuyến, hãy yêu cầu đối tác Microsoft 365 của bạn.
-1. Hãy làm theo liên kết trong email để đăng nhập bằng tài khoản cơ quan hoặc trường học của bạn, chấp nhận thỏa thuận cấp phép mở và gia hạn thuê bao. Để biết hướng dẫn từng bước, hãy tải xuống hướng dẫn PDF, [kích hoạt dịch vụ trực tuyến: đăng ký Microsoft 365](https://go.microsoft.com/fwlink/p/?LinkId=618100).
+1. Sau khi bạn mua khóa từ một đối tác Microsoft 365, hãy kiểm tra hộp thư đến của bạn để xem có email từ Microsoft có chứa liên kết kích hoạt không.
 
     > [!NOTE]
-    > Khách hàng cấp phép số lượng lớn cũng có thể chọn kích hoạt các đăng ký trong [Trung tâm dịch vụ cấp phép số lớn](https://go.microsoft.com/fwlink/p/?LinkID=282016). Để tìm hiểu cách tải xuống hướng dẫn PDF, các [dịch vụ trực tuyến hiện hoạt trong Trung tâm dịch vụ cấp phép số lớn](https://go.microsoft.com/fwlink/p/?LinkId=618096).
+    > Email sẽ được gửi đến người được liệt kê là người quản trị trực tuyến trong thỏa thuận cấp phép số lượng lớn. Nếu bạn không chắc chắn rằng ai là người được chỉ định là người quản trị trực tuyến, hãy hỏi đối tác Microsoft 365 bạn.
+1. Hãy làm theo liên kết trong email để đăng nhập bằng tài khoản cơ quan hoặc trường học của bạn, chấp nhận Thỏa thuận cấp phép mở và gia hạn đăng ký. Để biết hướng dẫn từng bước, hãy tải xuống hướng dẫn PDF, Kích hoạt Dịch vụ [Trực tuyến:](https://go.microsoft.com/fwlink/p/?LinkId=618100)Đăng Microsoft 365 ký .
+
+    > [!NOTE]
+    > Khách hàng cấp phép số lớn cũng có thể chọn kích hoạt đăng ký trong Trung tâm [Dịch vụ Cấp phép Số lượng lớn.](https://go.microsoft.com/fwlink/p/?LinkID=282016) Để tìm hiểu cách thức, hãy tải xuống bản hướng dẫn PDF, [Dịch vụ Trực tuyến Hiện hoạt trong Trung tâm Dịch vụ Cấp phép Số lớn](https://go.microsoft.com/fwlink/p/?LinkId=618096).

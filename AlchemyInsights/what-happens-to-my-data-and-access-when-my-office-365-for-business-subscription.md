@@ -1,8 +1,9 @@
 ---
-title: Điều gì sẽ xảy ra với dữ liệu và quyền truy nhập của tôi khi kết thúc thuê bao Microsoft 365 for Business?
+title: Điều gì sẽ xảy ra với dữ liệu và quyền truy nhập của tôi khi kết thúc Microsoft 365 ký dành cho doanh nghiệp của tôi?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -11,22 +12,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "484"
 - "1500030"
 ms.assetid: d2a41ce0-207f-4f50-8a6a-2ec5b56b3ed6
-ms.openlocfilehash: 5861aa9b952b571b620dca1d56adef7cc0fa420c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 865056484b449f1dd33b595eec9f3cb740536ba0
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668945"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53688276"
 ---
-# <a name="what-happens-to-my-data-and-access-when-my-microsoft-365-for-business-subscription-ends"></a>Điều gì sẽ xảy ra với dữ liệu và quyền truy nhập của tôi khi kết thúc thuê bao Microsoft 365 for Business?
+# <a name="what-happens-to-my-data-and-access-when-my-microsoft-365-for-business-subscription-ends"></a>Điều gì sẽ xảy ra với dữ liệu và quyền truy nhập của tôi khi kết thúc Microsoft 365 ký dành cho doanh nghiệp của tôi?
 
-Nếu thuê bao của bạn kết thúc — một trong hai vì nó hết hạn, hoặc vì bạn quyết định hủy bỏ — truy nhập vào các dịch vụ, ứng dụng và dữ liệu của khách hàng sẽ đi qua nhiều trạng thái trước khi đăng ký được tắt hoàn toàn hoặc bị  *hủy*  cung cấp. Nếu bạn biết về tiến trình này, bạn sẽ được trang bị tốt hơn để trả về đăng ký của bạn với trạng thái hiện hoạt trước khi quá muộn, hoặc — nếu bạn rời khỏi Microsoft — sao lưu dữ liệu của bạn trước khi nó bị xóa cuối cùng.
+Nếu đăng ký của bạn kết thúc — vì hết hạn hoặc vì bạn quyết định hủy bỏ —quyền truy nhập của bạn vào các dịch vụ, ứng dụng và dữ liệu khách hàng sẽ trải qua nhiều trạng thái trước khi đăng ký hoàn toàn tắt hoặc ngừng cung *cấp.* Nếu bạn lưu ý tiến trình này, bạn sẽ hiểu rõ hơn cách đưa đăng ký của mình trở về trạng thái hoạt động trước khi quá muộn hoặc—nếu bạn rời khỏi Microsoft—hãy sao lưu dữ liệu của bạn trước khi dữ liệu bị xóa vĩnh viễn.
   
-Trước khi đăng ký thực sự đạt đến ngày hết hạn, bạn có một vài tùy chọn để **quản lý thanh toán định kỳ cho đăng ký**.
+Trước khi đăng ký thực sự đến ngày hết hạn, bạn có một vài tùy chọn để Quản lý thanh toán định kỳ **cho đăng ký.**
   
-- Nếu đã bật **thanh toán định kỳ** , bạn không cần phải thực hiện bất kỳ thao tác nào. Đăng ký của bạn sẽ được lập hóa đơn trên ngày **thanh toán định kỳ** , và bạn sẽ bị tính phí cho một năm hoặc tháng bổ sung tùy thuộc vào tần suất thanh toán hiện tại của bạn. Nếu vì bất kỳ lý do nào bạn đã bật tính năng **thanh toán định kỳ** , bạn luôn có thể [bật lại tính năng thanh toán định kỳ](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).
+- Nếu **đã bật tính năng** Thanh toán định kỳ, bạn không cần thực hiện bất kỳ hành động nào khác. Đăng ký của bạn  sẽ được tính phí vào ngày Thanh toán định kỳ và bạn sẽ được tính phí thêm một năm hoặc một tháng nữa, tùy theo tần suất thanh toán hiện tại của bạn. Nếu vì bất kỳ lý do gì mà bạn **đã** tắt Thanh toán định kỳ, bạn luôn có thể bật lại thanh toán [định kỳ](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).
 
-- Nếu bạn là một khách hàng cấp phép số lớn mở bằng một thuê bao trả trước, một năm, hãy liên hệ với đối tác của bạn để mua khóa sản phẩm mới. Bạn sẽ nhận được hướng dẫn qua email để kích hoạt khóa của bạn trong [Trung tâm dịch vụ cấp phép số lượng lớn](https://go.microsoft.com/fwlink/p/?LinkID=282016). Để tìm hiểu cách tìm một đối tác mới hoặc đối tác mà bạn đã từng làm việc trong quá khứ, hãy xem tìm đối tác [hoặc người bán lại Microsoft 365 của bạn](https://docs.microsoft.com/microsoft-365/admin/manage/find-your-partner-or-reseller).
+- Nếu bạn là khách hàng Cấp phép số lớn mở với gói đăng ký trả trước một năm, hãy liên hệ với đối tác của mình để mua khóa sản phẩm mới. Bạn sẽ nhận được các hướng dẫn qua email để kích hoạt khóa của mình trong Trung tâm [Dịch vụ Cấp phép Số lớn.](https://go.microsoft.com/fwlink/p/?LinkID=282016) Để tìm hiểu cách tìm đối tác mới hoặc đối tác bạn đã cộng tác trước đây, hãy xem mục Tìm đối tác hoặc nhà bán lẻ [Microsoft 365 bạn.](https://docs.microsoft.com/microsoft-365/admin/manage/find-your-partner-or-reseller)

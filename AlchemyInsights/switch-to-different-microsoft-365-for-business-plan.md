@@ -1,8 +1,9 @@
 ---
 title: Chuyển sang gói Microsoft 365 dành cho doanh nghiệp khác
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,6 +11,7 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "1400007"
 - "4548"
 - "9002424"
@@ -18,19 +20,19 @@ ms.custom:
 - "5160"
 - "9002663"
 - "5168"
-ms.openlocfilehash: 830a719d3851f4d0c293ec86dff1b412b50b2692
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: aabff06013ae8e222397b83c22926d90ab25a87f
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51824853"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53689536"
 ---
 # <a name="switch-to-a-different-microsoft-365-for-business-plan"></a>Chuyển sang gói Microsoft 365 dành cho doanh nghiệp khác
 
-Có thể hoàn thành các gói chuyển đổi trong Trung tâm quản trị Microsoft 365.
+Có thể hoàn tất chuyển đổi gói trong Trung Quản trị Microsoft 365 Tâm.
 
-- [Chuyển gói](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually) theo cách thủ công bằng cách mua thuê bao mới, gán lại giấy phép và hủy bỏ gói khác (nếu cần).
+- [Chuyển đổi gói thủ](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually) công bằng cách mua đăng ký mới, gán lại giấy phép và hủy bỏ gói còn lại (nếu cần).
 
-- Trong một số trường hợp, [nút chuyển gói](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan#use-the-switch-plans-button) sẽ sẵn dùng để dẫn hướng bạn qua quá trình chuyển đổi các gói.
+- Trong một số trường [hợp, nút Chuyển đổi](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan#use-the-switch-plans-button) Gói sẵn dùng để hướng dẫn bạn thực hiện quy trình chuyển gói.
 
-Để biết thêm thông tin, hãy xem chuyển sang [gói Microsoft 365 dành cho doanh nghiệp](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)khác.
+Để biết thêm thông tin, hãy xem mục Chuyển sang gói [Microsoft 365 cho doanh nghiệp](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan).

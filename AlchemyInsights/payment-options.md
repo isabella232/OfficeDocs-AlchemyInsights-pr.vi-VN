@@ -3,37 +3,40 @@ title: Tùy chọn thanh toán
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jmueller, jkinma
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.custom:
+- commerce_billing
 - "1639"
 - "9000134"
-ms.openlocfilehash: 7384200b7dadfb85e851f316b695ed65f242be59
-ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
+ms.openlocfilehash: ee2de4b53729bb4dccc16352f612f15ecba5aa2b
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50601440"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53687952"
 ---
-# <a name="payment-options-for-microsoft-365-for-business-subscriptions"></a>Các tùy chọn thanh toán cho đăng ký Microsoft 365 dành cho doanh nghiệp
+# <a name="payment-options-for-microsoft-365-for-business-subscriptions"></a>Tùy chọn thanh toán cho Microsoft 365 ký dành cho doanh nghiệp
   
-Thẻ tín dụng, thẻ ghi nợ, tài khoản ngân hàng (ghi nợ trực tiếp) và hóa đơn (thanh toán bằng cách kiểm tra hoặc chuyển tiền điện tử (EFT)) là tất cả các tùy chọn thanh toán cho đăng ký Microsoft 365 cho doanh nghiệp.
+Thẻ tín dụng, thẻ ghi nợ, tài khoản ngân hàng (ghi nợ trực tiếp) và hóa đơn (thanh toán bằng séc hoặc chuyển tiền điện tử (EFT) đều là các tùy chọn thanh toán cho đăng ký Microsoft 365 cho doanh nghiệp.
   
-**Thanh toán bằng tín dụng hoặc thẻ ghi nợ hoặc tài khoản ngân hàng**
+**Thanh toán bằng thẻ tín dụng hoặc thẻ ghi nợ hoặc tài khoản ngân hàng**
   
-Bạn có thể thanh toán cho thuê bao của mình bằng thẻ tín dụng hoặc thẻ ghi nợ hoặc tài khoản ngân hàng. Khi bạn thanh toán bằng một trong các phương thức thanh toán này, chúng tôi sẽ tiếp tục tính phí phương thức thanh toán cho đến khi thuê bao hết hạn hoặc bị hủy bỏ. Bạn có thể [quản lý các phương thức thanh toán](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods) bất cứ khi nào bạn cần. Bạn cũng có thể chọn để [nhận bản sao của tuyên bố thanh toán trong email](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice#receive-a-copy-of-your-billing-statement-in-email).
+Bạn có thể thanh toán cho đăng ký của mình bằng thẻ tín dụng hoặc thẻ ghi nợ hay tài khoản ngân hàng. Khi bạn thanh toán bằng một trong các phương thức thanh toán này, chúng tôi tiếp tục tính phí phương thức thanh toán đó cho đến khi đăng ký hết hạn hoặc bị hủy bỏ. Bạn có thể [quản lý các phương thức thanh](/microsoft-365/commerce/billing-and-payments/manage-payment-methods) toán bất cứ khi nào bạn cần. Bạn cũng có thể chọn [nhận bản sao bản kê thanh toán qua email](/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice#receive-a-copy-of-your-billing-statement-in-email).
 
-Nếu thẻ tín dụng của bạn đã bị từ chối hoặc có số dư trước đây và cá nhân bạn đã thêm phương thức thanh toán có số lượng đến hạn trước đó, bạn có thể sử dụng **giải** pháp thay thế để thanh toán. Phương thức thanh toán mà bạn sử dụng để thanh toán số tiền quá hạn sẽ trở thành phương thức thanh toán mới cho tất cả các thuê bao đã dùng phương thức thanh toán bị từ chối. Để biết thêm thông tin, hãy xem mục [điều gì sẽ xảy ra nếu tôi có số dư chưa](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#what-if-i-have-an-outstanding-balance) thanh toán?
+Nếu thẻ tín dụng của bạn bị từ chối hoặc có số dư quá hạn và  bạn đã thêm phương thức thanh toán có số dư quá hạn, bạn có thể sử dụng Số dư giải quyết để thanh toán. Phương thức thanh toán mà bạn sử dụng để thanh toán số tiền quá hạn trở thành phương thức thanh toán mới cho tất cả các đăng ký đã sử dụng phương thức thanh toán bị từ chối. Để biết thêm thông tin, hãy [xem mục Điều gì sẽ xảy ra nếu tôi có dư nợ?](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#what-if-i-have-an-outstanding-balance)
 
-**Thanh toán bằng hóa đơn (kiểm tra hoặc chuyển tiền điện tử)**
+**Thanh toán bằng hóa đơn (séc hoặc chuyển tiền điện tử)**
   
-Nếu chi phí thuê bao của bạn trong một số tiền nhất định (số tiền này thay đổi theo vị trí dịch vụ), bạn sẽ có tùy chọn thanh toán bằng hóa đơn bằng cách sử dụng một dấu kiểm hoặc EFT. Kiểm tra tín dụng có thể được yêu cầu cho các khoản thanh toán hóa đơn lớn hơn. Nếu yêu cầu kiểm tra tín dụng, bạn sẽ được thông báo khi mua gói đăng ký của mình. Nếu bạn đồng ý liên hệ, bạn sẽ nhận được một email bao gồm thêm thông tin về việc áp dụng phê duyệt tín dụng. Kiểm tra tín dụng thường được hoàn thành trong vòng hai ngày làm việc.
+Nếu chi phí đăng ký của bạn vượt quá một số tiền cụ thể (số tiền này thay đổi tùy theo vị trí dịch vụ), bạn sẽ có lựa chọn thanh toán bằng hóa đơn sử dụng séc hoặc EFT. Có thể cần thực hiện kiểm tra tín dụng đối với các khoản thanh toán hóa đơn lớn hơn. Nếu bắt buộc phải thực hiện kiểm tra tín dụng, bạn sẽ được thông báo khi mua đăng ký. Nếu bạn đồng ý được liên hệ, bạn sẽ nhận được một email bao gồm thông tin thêm về việc áp dụng phê duyệt tín dụng. Kiểm tra tín dụng thường được hoàn tất trong vòng hai ngày làm việc.
 
-Nếu bạn thanh toán bằng hóa đơn cho đăng ký của mình, bạn sẽ nhận được email khi bạn đã sẵn sàng để xem bản kê hóa đơn. Email này không chứa bản sao kê thanh toán của bạn. Tuy nhiên, bạn có thể chọn để [nhận bản sao của tuyên bố thanh toán trong email](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice#receive-a-copy-of-your-billing-statement-in-email). Bản kê thanh toán của bạn bao gồm chi tiết về các tùy chọn của bạn để thực hiện thanh toán và nơi gửi. Nếu bạn nhập số đơn đặt hàng (PO) khi bạn mua một đăng ký, số sẽ xuất hiện trên bản kê hóa đơn của bạn. Để biết thông tin về việc truy nhập câu lệnh thanh toán, hãy xem [xem hóa đơn hoặc hóa đơn của bạn](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice).
+Nếu bạn thanh toán bằng hóa đơn cho đăng ký của mình, bạn sẽ nhận được email khi bản kê thanh toán của bạn đã sẵn sàng để xem. Email này không chứa bản sao bản kê thanh toán của bạn. Tuy nhiên, bạn có thể chọn [nhận bản sao bản kê thanh toán qua email](/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice#receive-a-copy-of-your-billing-statement-in-email). Bản kê thanh toán của bạn bao gồm chi tiết về các tùy chọn để thực hiện thanh toán và nơi gửi. Nếu bạn nhập số đơn đặt hàng (PO) khi mua đăng ký, số này sẽ xuất hiện trên bản kê thanh toán của bạn. Để biết thông tin về việc truy nhập bản kê thanh toán, hãy xem [mục Xem hóa đơn của bạn](/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice).
   
 **Thông tin bổ sung**
   
-[Làm thế nào để thanh toán cho đăng ký Microsoft 365 dành cho doanh nghiệp của bạn](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)
+[Cách thanh toán cho đăng ký Microsoft 365 cho doanh nghiệp](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)

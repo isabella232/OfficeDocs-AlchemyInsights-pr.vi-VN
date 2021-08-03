@@ -3,6 +3,7 @@ title: Trạng thái đăng ký
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,18 +11,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "9001519"
 - "3586"
-ms.openlocfilehash: 262bafc9354e14c45eeda974cc9824be24f9d502
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 9d26786b1d1643278b50d25fd52f8eb46b4cfbef
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52542807"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53689572"
 ---
 # <a name="subscription-status"></a>Trạng thái đăng ký
 
-Trạng thái đăng ký, ngày hết hạn và số  lượng giấy phép có thể tìm thấy trên trang Sản phẩm của bạn của trung tâm quản Microsoft 365 chính thức.
+Trạng thái đăng ký, ngày hết hạn và số lượng giấy phép có thể tìm thấy trên **trang Sản phẩm** của bạn trên Trung tâm quản trị Microsoft 365.
 
 1. Trong trung tâm quản trị, đi đến trang Thanh toán  >  [Sản phẩm của](https://go.microsoft.com/fwlink/p/?linkid=842054) bạn.
 2. Trên tab **Sản phẩm,** theo mặc định, bạn sẽ thấy tất cả các đăng ký và trạng thái của chúng (Hiện hoạt, Đã hết hạn, Đã vô hiệu hóa hoặc Đã xóa). Để xem một tập hợp con của tất cả các đăng ký, hãy chọn biểu tượng bộ lọc, sau đó chọn **trạng** thái Đăng ký mà bạn muốn xem.
