@@ -1,9 +1,10 @@
 ---
-title: Cách mua gói Office 365 Education
+title: Cách mua gói Office 365 Education hàng
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
+ms.reviewer: jmueller, drjones
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,16 +12,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_purchase
 - "332"
 - "1500009"
 ms.assetid: 09f40c86-05d7-45ef-a6d1-3292509353c2
-ms.openlocfilehash: 94e1a17639d69d7271ea9b222486432b998bdcfb
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a7a2ed60af9ab6ade797e2a0d9a258ac6e3bb6eb
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51810830"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53686728"
 ---
-# <a name="how-to-purchase-office-365-education-plans"></a>Cách mua gói Office 365 Education
+# <a name="how-to-purchase-office-365-education-plans"></a>Cách mua gói Office 365 Education hàng
 
-Văn bản Office 365 Education của bạn đang được xem xét. Bạn có thể mong đợi nhận được thông báo về việc xác định đủ điều kiện trước khi dùng thử hết hạn.
+Hiện đang xem Office 365 Education năng của bạn. Bạn có thể nhận được thông báo về quyết định liên quan đến tính đủ điều kiện của bạn trước khi bản dùng thử của bạn hết hạn.

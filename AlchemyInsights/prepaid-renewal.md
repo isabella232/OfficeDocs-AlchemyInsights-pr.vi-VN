@@ -3,6 +3,8 @@ title: Gia hạn trả trước
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jmueller, jkinma
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,24 +12,25 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_billing
 - "662"
 - "1500012"
-ms.openlocfilehash: d3d1a3229de8a69d9f8a48f2618b13528e7a5a93
-ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
+ms.openlocfilehash: 63f28eb536d965dde1e6cb381632a460a02f7279
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50602350"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53686188"
 ---
-# <a name="prepaid-microsoft-365-renewal"></a>Gia hạn Microsoft 365 trả trước
+# <a name="prepaid-microsoft-365-renewal"></a>Gia Microsoft 365 trả trước
 
-1. Trong Trung tâm quản trị, hãy đi đến trang **thanh toán** \> **[sản phẩm của bạn](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
-2. Trên tab **sản phẩm** , hãy chọn thuê bao mà bạn muốn mở rộng.
-3. Trên trang chi tiết gói đăng ký, trong phần **thiết đặt thuê bao và thanh toán** , chọn **mở rộng ngày kết thúc**.
-4. Trên trang gia **hạn hoặc thêm giấy phép người dùng** , hãy chọn **sử dụng khóa sản phẩm mới và chưa sử dụng**, rồi chọn **tiếp theo**.
-5. Nhập khóa sản phẩm, rồi chọn **tiếp theo**.
+1. Trong trung tâm quản  trị, đi đến trang Thanh toán \> **[Sản phẩm của](https://go.microsoft.com/fwlink/p/?linkid=842054)** bạn.
+2. Trên tab **Sản** phẩm, chọn đăng ký mà bạn muốn gia hạn.
+3. Trên trang chi tiết đăng ký, trong mục **Cài đặt đăng ký và thanh toán,** chọn Gia hạn ngày kết **thúc**.
+4. Trên trang **gia hạn hoặc thêm giấy phép người** dùng, chọn Sử dụng một khóa sản phẩm mới và chưa sử **dụng,** sau đó chọn **Tiếp theo**.
+5. Nhập khóa sản phẩm, rồi chọn **Tiếp theo**.
     > [!NOTE]
     > Nếu bạn có nhiều khóa sản phẩm, bạn có thể chọn **Thêm khóa sản phẩm khác** để nhập chúng.
-6. Xem lại chi tiết đơn hàng của bạn, sau đó chọn **chuộc**.
+6. Xem lại chi tiết đơn hàng của bạn, sau đó **chọn Quy đổi**.
 
-Để tìm hiểu thêm, hãy xem [thêm giấy phép vào hoặc gia hạn thuê bao được thanh toán cho việc sử dụng khóa sản phẩm](https://docs.microsoft.com/microsoft-365/commerce/licenses/add-licenses-using-product-key).
+Để tìm hiểu thêm, xem [mục Thêm giấy phép hoặc gia hạn đăng ký được thanh toán bằng khóa sản phẩm.](/microsoft-365/commerce/licenses/add-licenses-using-product-key)

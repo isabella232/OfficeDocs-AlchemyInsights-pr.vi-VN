@@ -1,9 +1,10 @@
 ---
-title: Giúp tìm hiểu về hóa đơn của bạn
+title: Giúp bạn hiểu rõ hóa đơn
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
+ms.reviewer: jmueller, jkinma
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,26 +12,27 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_billing
 - "267"
 - "1500005"
 ms.assetid: bdcd1344-7a01-4a3f-90ad-3e7bc0f684a9
-ms.openlocfilehash: 8fdd92779f009626afb8e9158e09c8254f089e42
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: dcad436c5aa5793560a758d1b5806ecd412f09cd
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51811622"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53686008"
 ---
-# <a name="help-understanding-your-bill"></a>Giúp tìm hiểu về hóa đơn của bạn
+# <a name="help-understanding-your-bill"></a>Giúp bạn hiểu rõ hóa đơn
 
-Số tiền được tính toán cho đăng ký của bạn phản ánh giá giấy phép nhân với số lượng giấy phép đã mua và mọi khoản thuế/phí bắt buộc.
+Số tiền lập hóa đơn cho đăng ký của bạn phản ánh giá giấy phép nhân với số giấy phép đã mua và mọi khoản thuế/phí bắt buộc.
   
-Nếu số tiền được lập hóa đơn khác nhau thì dự kiến, có một vài lý do có thể xảy ra:
+Nếu số tiền trong hóa đơn khác với dự kiến, thì có một vài lý do dẫn đến việc này:
   
-- Giấy phép đã được thêm hoặc loại bỏ khỏi đăng ký của bạn. Khi giấy phép được thay đổi giữa thời hạn, thao tác này sẽ được phản ánh trên hóa đơn sau đây. Bạn có thể thấy tín dụng và hóa đơn lại cho thời hạn dịch vụ trước đó vào tài khoản cho thay đổi này.
+- Giấy phép đã được thêm hoặc loại bỏ khỏi đăng ký của bạn. Khi giấy phép được thay đổi giữa kỳ thì điều này sẽ được phản ánh trên hóa đơn tiếp sau. Bạn có thể thấy khoản ghi có và lập hóa đơn lại cho khoảng thời gian dịch vụ trước đó để thể hiện sự thay đổi này.
 
-- Đăng ký đã bị hủy bỏ. Bạn sẽ nhận được một hóa đơn sau khi hủy bỏ với bất kỳ số dư dư nợ nào trừ bất kỳ khoản tín dụng nào.
+- Đăng ký đã bị hủy bỏ. Bạn sẽ nhận được hóa đơn sau khi hủy bỏ với mọi số dư nợ trừ đi mọi khoản ghi nợ.
 
-- Đăng ký của bạn đã được gia hạn cho một thuật ngữ mới và giá giấy phép đã thay đổi.
+- Đăng ký của bạn đã được gia hạn cho kỳ hạn mới và giá giấy phép đã thay đổi.
 
-Để biết thêm thông tin về hóa đơn của bạn, hãy xem: [Tìm hiểu hóa đơn của bạn](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)
+Để biết thêm thông tin về hóa đơn của bạn, hãy xem mục: [Tìm hiểu về hóa đơn của bạn](/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)

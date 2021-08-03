@@ -3,6 +3,7 @@ title: Hủy bỏ Power BI
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,18 +12,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
+- commerce_subscriptions
 - "9002564"
 - "5092"
-ms.openlocfilehash: 321ce2fa2d40aafc040a1b3232474b108d0501f4
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: dae240765f1a0c5b0fa6391464fbfe0721dd6a09
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52543455"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53687340"
 ---
 # <a name="cancel-power-bi"></a>Hủy bỏ Power BI
 
-Có thể hủy bỏ Power BI trong trung tâm quản Microsoft 365 của bạn.
+Có thể hủy bỏ Power BI trong Trung tâm quản trị Microsoft 365.
 
 1. Trong trung tâm quản trị, đi đến trang Thanh **toán > Sản phẩm [của](https://go.microsoft.com/fwlink/p/?linkid=842054)** bạn.
 2. Trên tab **Sản** phẩm, tìm đăng ký bạn muốn hủy bỏ. Chọn ba dot (thao tác khác), sau đó chọn Hủy **bỏ đăng ký**.

@@ -3,6 +3,8 @@ title: Chuyển giấy phép giữa các đối tượng thuê
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: nicholak, shegu
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,24 +12,25 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_licensing
 - "1500021"
 - "4689"
-ms.openlocfilehash: b664d65f5b23d72c036a79ab805cadcb10e3c511
-ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
+ms.openlocfilehash: 8bc86b8c6da7c6b740688362f671aa4df148ed59
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50601620"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53687376"
 ---
 # <a name="transfer-licenses-between-tenants"></a>Chuyển giấy phép giữa các đối tượng thuê
 
-**Không thể** chuyển giấy phép giữa 2 tổ chức (người thuê). Nếu bạn là một khách hàng cấp phép số lượng lớn, hãy liên hệ với [Trung tâm dịch vụ cấp phép số lớn](https://support.microsoft.com/help/4471406/how-to-contact-the-microsoft-volume-licensing-service-center). Nếu không, hãy làm theo các bước sau đây:
+Không thể **chuyển giấy** phép giữa 2 tổ chức (đối tượng thuê). Nếu bạn là khách hàng Cấp phép Số lượng lớn, hãy liên hệ với Trung [tâm Dịch vụ Cấp phép Số lượng lớn.](https://support.microsoft.com/help/4471406/how-to-contact-the-microsoft-volume-licensing-service-center) Nếu không, hãy làm theo các bước sau:
 
-- Nếu bạn không còn đang lên kế hoạch sử dụng đối tượng thuê mà bạn muốn chuyển từ đó, bạn có thể [hủy bỏ thuê bao](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/subscriptions) và [mua một](https://www.microsoft.com/microsoft-365/business/compare-all-microsoft-365-business-products?rtc=2&activetab=tab:primaryr2) đối tượng thuê mới (Target).
-- Nếu bạn đang lên kế hoạch để tiếp tục sử dụng đối tượng thuê mà bạn muốn chuyển từ đó, bạn có thể [loại bỏ giấy phép](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription) mà bạn đã mua để giảm chi phí và mua những giấy phép này trong đối tượng thuê khác.
-- Trong cả hai trường hợp, bạn có thể muốn di chuyển hộp thư và dữ liệu khác:
+- Nếu bạn không còn lên kế hoạch sử dụng đối tượng [](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/subscriptions) thuê mà bạn muốn chuyển từ đó, bạn có thể hủy bỏ đăng ký và mua một đối tượng thuê [mới](https://www.microsoft.com/microsoft-365/business/compare-all-microsoft-365-business-products?rtc=2&activetab=tab:primaryr2) (đích).
+- If you're planning to continue usage of the tenant that you'd like to transfer from, you can [remove licenses](/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription) you've purchased to reduce the cost and purchase those licenses in the other tenant.
+- Trong cả hai trường hợp, bạn có thể muốn di chuyển các hộp thư và dữ liệu khác:
 
-    - [Di chuyển hộp thư](https://docs.microsoft.com/Exchange/mailbox-migration/migrate-mailboxes-across-tenants)
-    - [Di chuyển dữ liệu SharePoint](https://aka.ms/modernSpoAdminCenter/CloudContentMigrations)
+    - [Di chuyển Hộp thư](/Exchange/mailbox-migration/migrate-mailboxes-across-tenants)
+    - [Di chuyển SharePoint liệu](https://aka.ms/modernSpoAdminCenter/CloudContentMigrations)
 
-Để biết thêm thông tin, hãy xem [mua hoặc loại bỏ giấy phép](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
+Để biết thêm thông tin, [hãy xem Mua hoặc loại bỏ giấy phép](/microsoft-365/commerce/licenses/buy-licenses).

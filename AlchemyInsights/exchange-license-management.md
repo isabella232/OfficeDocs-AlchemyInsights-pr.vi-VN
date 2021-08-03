@@ -1,8 +1,10 @@
 ---
-title: Quản lý giấy phép Exchange
+title: Exchange lý giấy phép
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: nicholak, sinakassaw
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,24 +12,25 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_licensing
 - "9002548"
 - "5149"
-ms.openlocfilehash: 5f942bc9fa80628c5a9ff34b5dfeaa5643d1dc78
-ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
+ms.openlocfilehash: 16c77b78e509ecdd256a651f87f845ee9c7b59af
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50602980"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53686260"
 ---
-# <a name="exchange-license-management"></a>Quản lý giấy phép Exchange
+# <a name="exchange-license-management"></a>Exchange lý giấy phép
 
-Có thể hoàn thành quản lý giấy phép Exchange trong **Trung tâm quản trị Microsoft 365**.
+Exchange mục quản lý giấy phép mới có thể được hoàn tất **trong Trung Quản trị Microsoft 365 Chính.**
 
-- [So sánh các tùy chọn Exchange](https://www.microsoft.com/microsoft-365/exchange/compare-microsoft-exchange-online-plans) để tìm hiểu về sự khác biệt giữa **Exchange Online Plan 1, 2 và Premium Business**.
-- Để **mua** Exchange, đi tới **thanh toán > [dịch vụ mua](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Sử dụng hộp tìm kiếm để tìm kiếm "Exchange", rồi chọn kế hoạch và số lượng người dùng. Để biết thêm thông tin, hãy xem [mua một đăng ký khác](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription).
-- Để **thay đổi gói**, hãy xem mục [nâng cấp lên một gói khác](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
-- Để **gán** giấy phép cho người dùng, đi tới **thanh toán > [giấy phép](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Để biết thêm thông tin, hãy xem mục [gán giấy phép cho người dùng](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
-- Để **mua hoặc loại bỏ** giấy phép, đi tới **thanh toán > [sản phẩm của bạn](https://go.microsoft.com/fwlink/p/?linkid=842054)**. Để biết thêm thông tin, hãy xem [mua hoặc loại bỏ giấy phép](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
-- Để **hủy bỏ** đăng ký, đi tới **thanh toán > [sản phẩm của bạn](https://go.microsoft.com/fwlink/p/?linkid=842054)**, chọn thuê bao và trong phần **thiết đặt thuê bao và thanh toán** , chọn **hủy bỏ đăng ký**. Để biết thêm thông tin, hãy xem [hủy bỏ đăng ký của bạn](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+- [So sánh Exchange chọn](https://www.microsoft.com/microsoft-365/exchange/compare-microsoft-exchange-online-plans) bảng để tìm hiểu về sự khác **Exchange Online Plan 1, 2 và Business Premium.**
+- Để **mua hàng** Exchange, hãy đi tới Thanh toán > Mua dịch **[vụ](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Sử dụng hộp Tìm kiếm để tìm kiếm trên "Exchange", rồi chọn gói và số lượng người dùng. Để biết thêm thông tin, hãy [xem Mua một đăng ký khác](/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription).
+- Để **thay đổi các gói,** hãy xem mục Nâng cấp lên gói [khác](/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
+- Để **gán giấy** phép cho người dùng, hãy đi tới Thanh toán > **[phép](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Để biết thêm thông tin, hãy [xem mục Gán giấy phép cho người dùng.](/microsoft-365/admin/manage/assign-licenses-to-users)
+- Để mua **hoặc loại bỏ giấy** phép, hãy đi tới Thanh toán > sản phẩm của **[bạn](https://go.microsoft.com/fwlink/p/?linkid=842054)**. Để biết thêm thông tin, [hãy xem Mua hoặc loại bỏ giấy phép](/microsoft-365/commerce/licenses/buy-licenses).
+- Để **hủy** bỏ đăng ký, đi tới Thanh toán > Sản phẩm của bạn , chọn đăng ký, rồi trong mục Cài đặt đăng ký và **thanh** toán, chọn **Hủy bỏ đăng ký**. **[](https://go.microsoft.com/fwlink/p/?linkid=842054)** Để biết thêm thông tin, hãy xem mục [Hủy bỏ đăng ký của bạn](/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 
-Để biết thêm thông tin, hãy xem [mua hoặc loại bỏ giấy phép](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
+Để biết thêm thông tin, [hãy xem Mua hoặc loại bỏ giấy phép](/microsoft-365/commerce/licenses/buy-licenses).

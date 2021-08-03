@@ -1,8 +1,9 @@
 ---
-title: Câu hỏi thường gặp về doanh nghiệp
+title: Câu hỏi thường gặp về đăng ký doanh nghiệp
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,6 +11,7 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "9002875"
 - "5445"
 - "9002874"
@@ -20,23 +22,23 @@ ms.custom:
 - "5169"
 - "9002661"
 - "5161"
-ms.openlocfilehash: 417299cb82d9dfcd7afd8822378d2993e12ce355
-ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
+ms.openlocfilehash: d9f11e265480a97025b8c57e4f012ce1e64bbed6
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50601116"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53686116"
 ---
-# <a name="business-subscription-faq"></a>Câu hỏi thường gặp về doanh nghiệp
+# <a name="business-subscription-faq"></a>Câu hỏi thường gặp về đăng ký doanh nghiệp
 
-- Để xem các tùy chọn Microsoft 365 dành cho doanh nghiệp, hãy xem mục [so sánh các gói kinh doanh](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-products?&activetab=tab:primaryr2). Để biết thêm thông tin, hãy liên hệ với doanh số bán hàng 1-855-270-0615.
-- Để **mua** gói đăng ký, đi tới **thanh toán > [mua dịch vụ](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Chọn gói và số lượng người dùng. Để biết thêm thông tin, hãy xem [mua một đăng ký khác](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription).
-- Để **thay đổi gói**, hãy xem mục [nâng cấp lên một gói khác](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
-- Để **gán** giấy phép cho người dùng, đi tới **thanh toán > [giấy phép](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Để biết thêm thông tin, hãy xem mục [gán giấy phép cho người dùng](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
-- Để **mua hoặc loại bỏ** giấy phép, đi tới **thanh toán > [sản phẩm của bạn](https://go.microsoft.com/fwlink/p/?linkid=842054)**. Để biết thêm thông tin, hãy xem [mua hoặc loại bỏ giấy phép](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
-- Để **hủy bỏ** đăng ký, đi tới **thanh toán > [sản phẩm của bạn](https://go.microsoft.com/fwlink/p/?linkid=842054)**, chọn thuê bao và trong phần **thiết đặt thuê bao và thanh toán** , chọn **hủy bỏ đăng ký**. Để biết thêm thông tin, hãy xem [hủy bỏ đăng ký của bạn](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
-- Để **kích hoạt** thuê bao, hãy xem [mục kích hoạt thuê bao của bạn](https://docs.microsoft.com/alchemyinsights/activate-your-office-365-subscription).
-- Để kích **hoạt lại** đăng ký, hãy xem kích [hoạt lại đăng ký của bạn](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription).
-- Để  **mở rộng** bản dùng thử, hãy xem gia hạn bản [dùng thử của bạn](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial).
+- Để xem các Microsoft 365 cho doanh nghiệp, hãy xem So sánh [các Gói Doanh nghiệp](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-products?&activetab=tab:primaryr2). Để biết thêm thông tin, hãy liên hệ với bộ phận bán hàng 1-855-270-0615.
+- Để **mua gói,** hãy đi tới Thanh **toán > Mua dịch [vụ](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Chọn gói và số lượng người dùng. Để biết thêm thông tin, hãy [xem Mua một đăng ký khác](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription).
+- Để **thay đổi các gói,** hãy xem mục Nâng cấp lên gói [khác](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
+- Để **gán giấy** phép cho người dùng, hãy đi tới Thanh toán > **[phép](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Để biết thêm thông tin, hãy [xem mục Gán giấy phép cho người dùng.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
+- Để mua **hoặc loại bỏ giấy** phép, hãy đi tới Thanh toán > sản phẩm của **[bạn](https://go.microsoft.com/fwlink/p/?linkid=842054)**. Để biết thêm thông tin, [hãy xem Mua hoặc loại bỏ giấy phép](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
+- Để **hủy** bỏ đăng ký, đi tới Thanh toán > Sản phẩm của bạn , chọn đăng ký, rồi trong mục Cài đặt đăng ký và **thanh** toán, chọn **Hủy bỏ đăng ký**. **[](https://go.microsoft.com/fwlink/p/?linkid=842054)** Để biết thêm thông tin, hãy xem mục [Hủy bỏ đăng ký của bạn](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+- Để kích **hoạt** đăng ký, xem mục [Kích hoạt đăng ký của bạn](https://docs.microsoft.com/alchemyinsights/activate-your-office-365-subscription).
+- Để **kích hoạt lại đăng** ký, hãy xem Kích hoạt lại đăng ký của [bạn](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription).
+- Để gia  **hạn bản** dùng thử, hãy xem mục Gia hạn bản dùng thử [của bạn](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial).
 
-Để biết thêm thông tin, hãy xem [mua hoặc loại bỏ giấy phép](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
+Để biết thêm thông tin, [hãy xem Mua hoặc loại bỏ giấy phép](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
