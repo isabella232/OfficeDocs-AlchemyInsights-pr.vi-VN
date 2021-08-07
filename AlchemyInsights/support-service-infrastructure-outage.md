@@ -1,5 +1,5 @@
 ---
-title: Cúp hạ tầng dịch vụ hỗ trợ
+title: Mất cơ sở hạ tầng dịch vụ hỗ trợ
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "5151"
 - "9002659"
-ms.openlocfilehash: a41cd828b41d871053e2fa78a3a706b6dedf26e5
-ms.sourcegitcommit: 201c70a805ee76a13f97696e5a07ba27d0ce70a7
+ms.openlocfilehash: 9cc999a288d7e08b83cb8a54720ff77286f645758ee42db14f68057b0edc3e46
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 10/05/2020
-ms.locfileid: "48365326"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53999001"
 ---
-# <a name="support-service-infrastructure-outage"></a>Cúp hạ tầng dịch vụ hỗ trợ
+# <a name="support-service-infrastructure-outage"></a>Mất cơ sở hạ tầng dịch vụ hỗ trợ
 
-Hiện chúng tôi đang gặp sự cố về cơ sở hạ tầng dịch vụ hỗ trợ. Chúng tôi đang nỗ lực để giải quyết sự cố này nhanh chóng nhất có thể, nhưng trong khi đó bạn có thể thấy sự chậm trễ thời gian phản hồi khi tìm cách liên hệ với Microsoft.
+Hiện chúng tôi đang gặp sự cố về cơ sở hạ tầng dịch vụ hỗ trợ. Chúng tôi đang nỗ lực giải quyết sự cố nhanh nhất có thể, tuy nhiên, bạn có thể gặp phải tình trạng trì hoãn thời gian phản hồi khi tìm cách liên hệ với Microsoft.

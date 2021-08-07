@@ -1,5 +1,5 @@
 ---
-title: Khôi phục các mục đã xóa khỏi SharePoint hoặc OneDrive
+title: Khôi phục các mục đã xóa SharePoint hoặc OneDrive
 ms.author: pebaum
 author: bentoncity
 manager: scotv
@@ -12,29 +12,29 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ab29939b-37fe-4007-aae3-26fa6d2f57fa
-ms.openlocfilehash: c53f8db579b93649e0ea370e63428383469ac60c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d015b6a479e6045eac59c13a430ca903c497a84b12ddaeaa22aeec9fae88f4e0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728201"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53922325"
 ---
-# <a name="restore-deleted-items-from-sharepoint-or-onedrive"></a>Khôi phục các mục đã xóa khỏi SharePoint hoặc OneDrive
+# <a name="restore-deleted-items-from-sharepoint-or-onedrive"></a>Khôi phục các mục đã xóa SharePoint hoặc OneDrive
 
-1. Truy nhập OneDrive hoặc site SharePoint của bạn.
+1. Đi đến trang OneDrive hoặc SharePoint của bạn.
     
-2. Bấm **thùng rác** trong ngăn bên trái. 
+2. Bấm **vào Thùng Rác** trong ngăn bên trái. 
     
-3. Bấm vào bên trái các mục hoặc tệp bạn muốn khôi phục.
+3. Bấm vào phía bên trái của những mục hoặc tệp bạn muốn khôi phục.
     
-4. Bấm **khôi phục**. 
+4. Bấm **Khôi phục.** 
     
-Khi tệp, thư mục, thư viện, danh sách và mục danh sách sẽ bị xóa khỏi một site SharePoint, họ sẽ đi đến thùng rác, nơi chúng được lưu trữ trong 93 ngày trừ khi có ai đó xóa bỏ chúng khỏi thùng rác này. Nếu họ bị xóa bỏ từ thùng rác này (được gọi là thùng rác của site), họ sẽ đi đến thùng rác của tuyển tập site trong thời gian còn lại, sau đó bị xóa vĩnh viễn. Các site đã xóa và tuyển tập site đi trực tiếp đến thùng rác của tuyển tập site trong 93 ngày.
+Khi các tệp, thư mục, thư viện, danh sách và các mục danh sách bị xóa khỏi site SharePoint, chúng sẽ đi đến Thùng Rác và được lưu ở đó trong 93 ngày, trừ khi có người xóa chúng khỏi Thùng Rác này. Nếu bị xóa khỏi Thùng Rác này (được gọi là Thùng Rác của site), chúng sẽ đi đến Thùng Rác tuyển tập site trong thời gian còn lại, rồi bị xóa vĩnh viễn. Các site và tuyển tập site bị xóa đi thẳng vào Thùng Rác tuyển tập site trong 93 ngày.
   
-[Khôi phục các mục trong thùng rác của tuyển tập site (người](https://go.microsoft.com/fwlink/?linkid=867800) quản trị tuyển tập trang) 
+[Khôi phục các mục trong Thùng Rác tuyển tập site](https://go.microsoft.com/fwlink/?linkid=867800) (người quản trị tuyển tập site) 
   
-[Khôi phục tuyển tập site đã xóa](https://go.microsoft.com/fwlink/?linkid=867660) (người quản trị toàn cầu hoặc SharePoint trong Microsoft 365) 
+[Khôi phục tuyển tập trang đã xóa](https://go.microsoft.com/fwlink/?linkid=867660) bỏ (người quản SharePoint toàn cầu trong Microsoft 365) 
   
-Đối với các site thuộc nhóm Microsoft 365, bạn cần khôi phục nhóm để khôi phục site. Xem mục [khôi phục một nhóm Microsoft 365 đã xóa](https://go.microsoft.com/fwlink/?linkid=867802) (người quản trị toàn cầu) 
+Đối với các site thuộc nhóm Microsoft 365 Người dùng, bạn cần khôi phục nhóm để khôi phục site. Xem [khôi phục nhóm người Microsoft 365 đã xóa](https://go.microsoft.com/fwlink/?linkid=867802) (người quản trị toàn cục) 
   
 

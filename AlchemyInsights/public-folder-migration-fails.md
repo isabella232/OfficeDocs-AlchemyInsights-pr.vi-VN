@@ -1,5 +1,5 @@
 ---
-title: Di chuyển thư mục công cộng không thành công tại 95%
+title: Di chuyển thư mục công cộng không thành công ở 95%
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "639"
 - "3500007"
-ms.openlocfilehash: b22dce778b4507e0a3337a59a55531ce248b59c4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e92a983a74ac0b97a613723dacb356ebff68f6cdba2d78ca63085a818d12e739
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47803929"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53923333"
 ---
-# <a name="public-folder-migration-fails-at-95"></a>Di chuyển thư mục công cộng không thành công tại 95%
+# <a name="public-folder-migration-fails-at-95"></a>Di chuyển thư mục công cộng không thành công ở 95%
 
-Bạn có thể đã bắt đầu hoàn thành một lô di chuyển và trạng thái của lô di chuyển vẫn tiếp **tục hiển thị** được đồng bộ trong một thời gian rất dài. Đây là hành vi dự kiến.
+Bạn có thể đã bắt đầu hoàn tất một lô di chuyển và trạng thái của lô di chuyển sẽ tiếp tục hiển thị **Đã** đồng bộ trong một thời gian rất dài. Đây là hành vi được mong đợi.
 
-Nó phổ **biến cho trạng** Thái của lô di chuyển vẫn tiếp tục được đồng bộ trong một vài giờ trước khi chuyển đổi để **hoàn thành**. Để di chuyển liên quan đến một số lượng lớn các hộp thư đích, thông thường là bạn sẽ thấy trạng thái vẫn giữ nguyên trong trạng thái đồng bộ trong hơn 24 giờ, không cung cấp các yêu cầu di chuyển thư mục công cộng nằm bên dưới. Vui lòng cho phép 24-48 giờ cho lô di chuyển để hoàn thành nhiệm vụ.
+Điều này thường gặp khi trạng thái  của một lô di chuyển vẫn được bật Đã đồng bộ trong một vài giờ trước khi nó chuyển **sang Hoàn thành**. Đối với các di chuyển liên quan đến số lượng lớn hộp thư đích, điều bình thường là thấy trạng thái vẫn ở trạng thái đã đồng bộ trong hơn 24 giờ, miễn là không có yêu cầu di chuyển thư mục công cộng cơ bản nào bị lỗi hoặc bị cách ly. Vui lòng cho phép lô di chuyển hoàn thành các nhiệm vụ trong 24-48 giờ.
 
-Đối với việc di chuyển thư mục công cộng không tại 95%, với lỗi FailedToMailEnablePublicFoldersException:
+Đối với việc di chuyển thư mục công cộng không thành công ở mức 95%, với lỗi FailedToMailEnablePublicFoldersException:
 
-1. Tải xuống và chạy tập lệnh [thư mục Validatemailenabledtại](https://aka.ms/ValidateMEPF) máy chủ Exchange tại cơ sở của bạn.
+1. Tải xuống và chạy [tập lệnh ValidateMailEnabledPublicFolders](https://aka.ms/ValidateMEPF) tại Exchange chủ Tại chỗ của bạn.
 
-2. Thực hiện các hành động khắc phục được đề xuất bởi tập lệnh.
+2. Thực hiện các hành động sửa được đề xuất bởi tập lệnh.
 
-3. Chạy thư mục đồng bộ (dành cho Exchange 2010) hoặc thư mục đồng bộ hóa (dành cho Exchange 2013 trở lên).
+3. Chạy phiên bản Sync-MailPublicFolders (cho Exchange 2010) hoặc Sync-ModernMailPublicFolders (cho Exchange 2013 trở lên).
 
 4. Tiếp tục di chuyển thư mục công cộng.

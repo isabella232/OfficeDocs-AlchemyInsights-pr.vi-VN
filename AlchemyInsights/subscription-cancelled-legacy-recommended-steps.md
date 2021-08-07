@@ -1,5 +1,5 @@
 ---
-title: Đăng ký đã hủy-các bước được đề xuất
+title: Đã hủy bỏ đăng ký - thừa tự - các bước được đề xuất
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003559"
 - "6846"
-ms.openlocfilehash: 88bb4209e0c157b938b5a1a1acdcc96492d1774b
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 71628e61027ee842e942277451c9e6e9de9b250f39516b3be076a2ee61fb68c3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49565160"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53999082"
 ---
-# <a name="subscription-cancelled---legacy---recommended-steps"></a>Đăng ký đã hủy-các bước được đề xuất
+# <a name="subscription-cancelled---legacy---recommended-steps"></a>Đã hủy bỏ đăng ký - thừa tự - các bước được đề xuất
 
-Bản ghi của chúng tôi cho biết đăng ký đã bị hủy bỏ bởi người dùng có quyền chủ sở hữu. Tìm các bước dưới đây để kích hoạt lại đăng ký.
+Hồ sơ của chúng tôi cho biết đăng ký đã được một người dùng có quyền sở hữu hủy bỏ. Tìm các bước dưới đây để kích hoạt lại đăng ký.
 
-Người [quản trị tài khoản](https://docs.microsoft.com/azure/cost-management-billing/manage/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa) có thể kích hoạt lại đăng ký thanh toán bị hủy bỏ-theo-bạn-đi trong Trung tâm tài khoản.
+Người [quản trị Tài](https://docs.microsoft.com/azure/cost-management-billing/manage/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa) khoản có thể kích hoạt lại đăng ký Thanh toán Khi Bạn Thực hiện đã bị hủy bỏ trong Trung tâm Tài khoản.
 
-1. Đăng nhập vào [Trung tâm tài khoản](https://account.azure.com/Subscriptions).
-2. Chọn đăng ký đã hủy bỏ, rồi bấm **kích hoạt lại**.
+1. Đăng nhập vào Trung [tâm Tài khoản](https://account.azure.com/Subscriptions).
+2. Chọn đăng ký đã hủy bỏ, rồi bấm **vào Kích hoạt lại.**
 
-Đối với các loại đăng ký khác, [hãy liên hệ với bộ phận hỗ trợ](https://ms.portal.azure.com/#blade/Microsoft_Azure_Support/HelpAndSupportBlade/overview) để đăng ký của bạn được kích hoạt lại.
+Đối với các loại đăng ký khác, [hãy liên hệ với bộ phận](https://ms.portal.azure.com/#blade/Microsoft_Azure_Support/HelpAndSupportBlade/overview) hỗ trợ để kích hoạt lại đăng ký của bạn.

@@ -1,5 +1,5 @@
 ---
-title: Thiết lập máy tính để bàn ảo của Windows
+title: Thiết lập Màn Windows nền Ảo
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004219"
 - "7427"
-ms.openlocfilehash: 7b3c91745d8136d6f508c8dbd3a63a1b0a67def3
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: 4734c05d62ca5369dee0a41ea7e361d34538481ee89335c7b47dfe4e9d2966cd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49679637"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54036658"
 ---
-# <a name="set-up-windows-virtual-desktop"></a>Thiết lập máy tính để bàn ảo của Windows
+# <a name="set-up-windows-virtual-desktop"></a>Thiết lập Màn Windows nền Ảo
 
-Windows Virtual Desktop là máy tính toàn diện và dịch vụ ảo hóa ứng dụng đang chạy trên điện toán đám mây. Đây là cơ sở hạ tầng máy tính bàn ảo (VDI) duy nhất mang đến việc quản lý đơn giản hóa, phiên bản Windows 10 đa phiên, tối ưu hóa cho các ứng dụng Microsoft 365 và hỗ trợ cho môi trường dịch vụ trên máy tính từ xa (RDS). Triển khai và quy mô máy tính để bàn và ứng dụng Windows của bạn sang Azure trong vài phút và nhận các tính năng bảo mật và tuân thủ tích hợp sẵn.
+Windows Máy tính Ảo là một dịch vụ ảo hóa máy tính và ứng dụng toàn diện chạy trong nền tảng điện toán đám mây. Đây là cơ sở hạ tầng máy tính ảo (VDI) duy nhất cung cấp các môi trường quản lý, Windows 10 nhiều phiên được đơn giản hóa, tối ưu hóa cho Ứng dụng Microsoft 365 và hỗ trợ các môi trường Dịch vụ Máy tính Từ xa (RDS). Triển khai và mở rộng quy mô Windows màn hình nền và ứng dụng sang Azure trong vài phút, đồng thời nhận được các tính năng bảo mật và tuân thủ được tích hợp sẵn.
 
-[Hướng dẫn thiết lập Windows Virtual Desktop](https://go.microsoft.com/fwlink/?linkid=2146236) sẽ cung cấp cho người quản trị có kế hoạch tài nguyên và các điều kiện tiên quyết để triển khai, hướng dẫn thiết lập và các tài nguyên bổ sung.
+Hướng Windows thiết lập [Máy](https://go.microsoft.com/fwlink/?linkid=2146236) tính Ảo này cung cấp cho người quản trị các tài nguyên lập kế hoạch và các điều kiện tiên quyết để triển khai, hướng dẫn thiết lập và các tài nguyên bổ sung.

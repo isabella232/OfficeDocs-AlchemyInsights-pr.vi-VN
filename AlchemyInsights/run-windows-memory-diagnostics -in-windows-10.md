@@ -1,5 +1,5 @@
 ---
-title: Chạy chẩn đoán bộ nhớ Windows trong Windows 10
+title: Chạy Chẩn Windows bộ nhớ trong Windows 10
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,32 +12,32 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002959"
 - "5661"
-ms.openlocfilehash: ff8f80b3df4e3809e844195128f4d99cbc4667be
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 63ba3afdd8f74b17559484f37e9250587aec9b4a929325d8f82e3c9ad06f1783
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826689"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53922593"
 ---
-# <a name="run-windows-memory-diagnostics-in-windows-10"></a>Chạy chẩn đoán bộ nhớ Windows trong Windows 10
+# <a name="run-windows-memory-diagnostics-in-windows-10"></a>Chạy Chẩn Windows bộ nhớ trong Windows 10
 
-Nếu Windows và ứng dụng trên PC của bạn bị rơi, đóng băng hoặc làm việc theo cách không ổn định, bạn có thể gặp phải sự cố với bộ nhớ của PC (RAM). Bạn có thể chạy chẩn đoán bộ nhớ Windows để kiểm tra các vấn đề với RAM của PC.
+Nếu Windows và các ứng dụng trên PC của bạn gặp sự cố, đông đặc hoặc hoạt động theo cách không ổn định thì bạn có thể gặp sự cố với bộ nhớ (RAM) của PC. Bạn có thể chạy Chẩn Windows nhớ Người dùng nội bộ để kiểm tra sự cố với RAM của PC.
 
-Trong hộp tìm kiếm trên thanh tác vụ, nhập **chẩn đoán bộ nhớ**, rồi chọn **chẩn đoán bộ nhớ Windows**. 
+Trong hộp tìm kiếm trên thanh tác vụ của bạn, nhập **chẩn đoán bộ** nhớ , sau đó chọn Windows chẩn đoán bộ **nhớ**. 
 
-Để chạy chẩn đoán, PC cần phải khởi động lại. Bạn có tùy chọn khởi động lại ngay lập tức (vui lòng lưu công việc của bạn và đóng tài liệu mở và email đầu tiên) hoặc lên lịch chẩn đoán để chạy tự động lần sau khi PC khởi động lại:
+Để chạy chẩn đoán, PC cần khởi động lại. Bạn có tùy chọn khởi động lại ngay lập tức (vui lòng lưu công việc của bạn và đóng tài liệu và email đang mở trước) hoặc lên lịch chẩn đoán để chạy tự động vào lần khởi động lại PC tiếp theo:
 
-![Chẩn đoán bộ nhớ Windows](media/windows-memory-diagnostic.png)
+![Windows Chẩn đoán Bộ nhớ](media/windows-memory-diagnostic.png)
 
-Khi PC khởi động lại, **công cụ chẩn đoán bộ nhớ Windows** sẽ chạy tự động. Trạng thái và tiến độ sẽ được hiển thị ở dạng chạy chẩn đoán và bạn có tùy chọn hủy bỏ chẩn đoán bằng cách nhấn phím **esc** trên bàn phím của bạn.
+Khi PC khởi động lại, Công cụ **Chẩn đoán Windows nhớ sẽ tự** động chạy. Trạng thái và tiến độ sẽ được hiển thị khi chẩn đoán chạy, đồng thời, bạn có tùy chọn hủy bỏ chẩn đoán bằng cách nhấn phím **ESC** trên bàn phím.
 
-Khi chẩn đoán hoàn tất, Windows sẽ bắt đầu bình thường.
-Ngay sau khi khởi động lại, khi máy tính của bạn xuất hiện, một thông báo sẽ xuất hiện (bên cạnh biểu tượng **Trung tâm hành động** trên thanh tác vụ), để cho biết liệu mọi lỗi đã tìm thấy bộ nhớ. Ví dụ:
+Khi các chẩn đoán đã hoàn tất, các Windows sẽ bắt đầu bình thường.
+Ngay sau khi khởi động lại, khi Màn hình  nền xuất hiện, một thông báo sẽ xuất hiện (cạnh biểu tượng Trung tâm Hành động trên thanh tác vụ), để cho biết có tìm thấy bất kỳ lỗi bộ nhớ nào không. Ví dụ:
 
-Sau đây là biểu tượng Trung tâm hành động: ![Biểu tượng Trung tâm hành động](media/action-center-icon.png) 
+Đây là biểu tượng Trung tâm Hành động: ![Biểu tượng Trung tâm hành động](media/action-center-icon.png) 
 
 Và thông báo mẫu: ![Không có lỗi bộ nhớ](media/no-memory-errors.png)
 
-Nếu bạn bị nhỡ thông báo, bạn có thể chọn biểu tượng **Trung tâm hành động** trên thanh tác vụ để hiển thị **Trung tâm hành động** và xem danh sách thông báo có thể cuộn.
+Nếu bạn bỏ lỡ thông  báo, bạn có thể chọn  biểu tượng Trung tâm Hành động trên thanh tác vụ để hiển thị Trung tâm Hành động và xem danh sách thông báo có thể cuộn.
 
-Để xem lại thông tin chi tiết, hãy nhập **sự kiện** vào hộp tìm kiếm trên thanh tác vụ của bạn, rồi chọn **trình xem sự kiện**. Trong ngăn bàn tay trái của **trình xem sự kiện**, dẫn hướng đến **hệ thống > Nhật ký** của bạn. Trong ngăn bên phải, hãy quét xuống danh sách trong khi đang xem cột **nguồn** , cho đến khi bạn thấy các sự kiện với **memorydiagnostics giá trị nguồn-kết quả**. Tô sáng từng sự kiện đó và xem thông tin kết quả trong hộp bên dưới tab **chung** bên dưới danh sách.
+Để xem lại thông tin chi tiết, **hãy** nhập sự kiện vào hộp tìm kiếm trên thanh tác vụ của bạn, rồi chọn Trình **xem Sự kiện.** Trong ngăn **bên trái của Trình** xem Sự kiện, dẫn hướng tới Phần Windows Nhật ký > hệ **thống**. Trong ngăn bên phải, quét danh sách  trong khi đang xem cột Nguồn, cho đến khi bạn thấy các sự kiện với giá trị Source **MemoryDiagnostics-Results**. Tô sáng từng sự kiện đó và xem thông tin kết quả trong hộp bên **dưới** tab Chung bên dưới danh sách.

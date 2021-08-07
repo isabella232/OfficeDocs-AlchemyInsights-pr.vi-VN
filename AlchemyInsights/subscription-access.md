@@ -1,5 +1,5 @@
 ---
-title: Truy nhập thuê bao
+title: Quyền truy nhập đăng ký
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,39 +12,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003799"
 - "6805"
-ms.openlocfilehash: 166380cff09f2a2bd9b7e8914d5db4071b6c3f12
-ms.sourcegitcommit: bec3554bf061ef28a009f460fb9d0a661b4fc008
+ms.openlocfilehash: b138c05e87e70c18bb6528819a34f8a9501446d57dcf4dbac0734f70fbc3466b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 10/27/2020
-ms.locfileid: "48807727"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53999262"
 ---
-# <a name="unable-to-sign-in-azure-due-to-browser-issues-browser-hangs-keeps-spinning-does-not-load-etc"></a>Không thể đăng nhập Azure do các sự cố của trình duyệt (trình duyệt bị treo, Giữ quay, không tải, v.v.)
+# <a name="unable-to-sign-in-azure-due-to-browser-issues-browser-hangs-keeps-spinning-does-not-load-etc"></a>Không thể đăng nhập Azure do sự cố trình duyệt (Trình duyệt bị treo, tiếp tục quay xoay, không tải, v.v.)
 
-Bạn có thể bị ảnh hưởng bởi sự mất điện. Vui lòng kiểm tra xem liệu có đang mất liên tục không: [Azure trạng thái tình trạng](https://status.azure.com/status/history/).
+Bạn có thể bị ảnh hưởng bởi sự mất điện. Vui lòng kiểm tra xem có sự cố nào đang diễn ra không: Trạng [thái Azure Health](https://status.azure.com/status/history/).
 
-Vui lòng đăng xuất khỏi tất cả các phiên họp Azure hiện hoạt. Bắt đầu chế độ một cách riêng tư hoặc ẩn danh trong trình duyệt web của bạn.
+Vui lòng đăng xuất khỏi tất cả các phiên Azure hiện hoạt. Bắt đầu chế độ riêng tư hoặc ẩn danh của trình duyệt web.
 
-Bạn cũng có thể thử làm mới trình duyệt, sử dụng trình duyệt khác, xóa cookie bộ đệm ẩn nếu ở trên không hoạt động.
+Bạn cũng có thể thử Làm mới trình duyệt, sử dụng một trình duyệt khác, xóa cookie bộ đệm ẩn nếu cách trên không hiệu quả.
 
-Tìm hiểu thêm: [khắc phục sự cố đăng nhập](https://support.microsoft.com/help/4042961/troubleshoot-why-you-can-t-sign-in-to-manage-your-azure-subscription)
+Tìm hiểu thêm: [Khắc phục sự cố đăng nhập](https://support.microsoft.com/help/4042961/troubleshoot-why-you-can-t-sign-in-to-manage-your-azure-subscription)
 
 **Không thể truy nhập đăng ký**
 
-Trong [cổng thông tin Azure](https://portal.azure.com/), hãy đảm bảo rằng thư mục Azure đúng được chọn từ tài khoản ở phía trên cùng bên phải.
+Trong cổng [thông tin Azure](https://portal.azure.com/), hãy đảm bảo chọn đúng thư mục Azure từ tài khoản ở trên cùng bên phải.
 
-Trong [Trung tâm tài khoản Azure](https://account.windowsazure.com/Subscriptions), hãy đảm bảo rằng nếu tài khoản được sử dụng là người quản trị tài khoản.
+Trong Trung tâm [Tài khoản Azure](https://account.windowsazure.com/Subscriptions), hãy đảm bảo tài khoản được sử dụng có phải là người quản trị tài khoản hay không.
 
-Tìm hiểu thêm: [khắc phục sự cố không tìm thấy đăng ký](https://docs.microsoft.com/azure/billing/billing-no-subscriptions-found?WT.mc_id=Portal-Microsoft_Azure_Support)
+Tìm hiểu thêm: Tìm [thấy Khắc phục Sự cố Không tìm thấy Gói đăng ký](https://docs.microsoft.com/azure/billing/billing-no-subscriptions-found?WT.mc_id=Portal-Microsoft_Azure_Support)
 
 **Không thể truy nhập lịch sử thanh toán**
 
-Người quản trị tài khoản cần phải đảm bảo rằng người dùng truy nhập thông tin thanh toán sẽ được thêm vào trong thư mục Azure Active Directory với tư cách là người dùng khách: [Thêm hoặc xóa người dùng mới](https://docs.microsoft.com/azure/active-directory/fundamentals/add-users-azure-active-directory?WT.mc_id=Portal-Microsoft_Azure_Support).
+Người quản trị tài khoản cần đảm bảo rằng người dùng truy nhập thông tin thanh toán được thêm vào Azure Active directory với tư cách là người dùng khách: Thêm hoặc xóa [người dùng mới.](https://docs.microsoft.com/azure/active-directory/fundamentals/add-users-azure-active-directory?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-Người dùng sau đó cần có vai trò quản trị toàn cầu: [gán vai trò cho người dùng](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-assign-role-azure-portal?WT.mc_id=Portal-Microsoft_Azure_Support).
+Sau đó, người dùng cần được trao vai trò Người quản trị toàn cục: [Gán vai trò cho người dùng.](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-assign-role-azure-portal?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-Đăng bài này, người dùng có thể được truy nhập thanh toán bằng cách sử dụng chính sách RBAC: [cấp quyền truy nhập vào thanh toán](https://docs.microsoft.com/azure/billing/billing-manage-access?WT.mc_id=Portal-Microsoft_Azure_Support).
+Đăng bài viết này, người dùng có thể được cấp quyền truy nhập thanh toán bằng các chính sách RBAC: [Cấp quyền truy nhập vào thanh toán.](https://docs.microsoft.com/azure/billing/billing-manage-access?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Tài liệu được đề xuất**
+**Tài liệu được Đề xuất**
 
--   [Tôi không thể đăng nhập để quản lý đăng ký Azure của tôi](https://docs.microsoft.com/azure/billing-cannot-login-subscription?WT.mc_id=Portal-Microsoft_Azure_Support)
+-   [Tôi không thể đăng nhập để quản lý đăng ký Azure của mình](https://docs.microsoft.com/azure/billing-cannot-login-subscription?WT.mc_id=Portal-Microsoft_Azure_Support)

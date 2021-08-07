@@ -1,5 +1,5 @@
 ---
-title: Chặn người dùng từ các cuộc họp bản ghi
+title: Chặn người dùng ghi âm cuộc họp
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "9325"
-ms.openlocfilehash: 3f633ee1fb3329b6fc634acabbc824af1eccfb33
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 7eb3fd34ec6f1a2d431ed276b00dd46b5ec6aa73d69b37ef88b1ba0ca6f5d077
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51037063"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54019206"
 ---
-# <a name="block-user-from-recording-meetings"></a>Chặn người dùng từ các cuộc họp bản ghi
+# <a name="block-user-from-recording-meetings"></a>Chặn người dùng ghi âm cuộc họp
 
-Nếu bạn cần **ngăn chặn hoặc chặn** người dùng cụ thể từ các cuộc họp nhóm ghi, bạn có thể làm như vậy thông qua các thiết đặt chính sách cuộc họp nhóm. Trong Trung tâm quản trị nhóm Microsoft, hãy tắt thiết đặt bản **ghi cho phép đám mây** trong chính sách cuộc họp được gán cho người dùng đó. Để tìm hiểu thêm, hãy xem [quản lý chính sách cuộc họp trong nhóm](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-cloud-recording).
+Nếu bạn cần ngăn chặn **hoặc chặn người** dùng cụ thể ghi cuộc họp Teams cuộc họp, bạn có thể làm điều này thông qua Teams đặt Chính sách Cuộc họp. Trong Trung tâm quản Microsoft Teams Chính, tắt cài đặt Cho phép ghi **âm** trên đám mây trong chính sách cuộc họp được gán cho người dùng đó. Để tìm hiểu thêm, hãy xem [Quản lý chính sách cuộc họp trong Teams.](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-cloud-recording)
 
-Để xác thực nếu một người dùng cụ thể được phép hoặc không ghi lại cuộc họp nhóm, hãy sử dụng chẩn đoán hỗ trợ. Chạy truy vấn hỗ trợ mới và nhập vào **Diag: bản ghi cuộc họp** -chẩn đoán sẽ kiểm tra các thiết đặt chính sách cho người dùng được chỉ định và xác định các thiết đặt chính sách của họ. Hãy nhớ rằng, có thể mất một vài giờ để các thiết đặt chính sách mới có hiệu lực, vì vậy nếu bạn vừa thực hiện thay đổi, hãy chờ một vài giờ trước khi chạy lại chẩn đoán.
+Để xác thực liệu một người dùng cụ thể được phép hay không ghi âm Cuộc Teams, hãy sử dụng chẩn đoán hỗ trợ. Chạy một truy vấn hỗ trợ mới và nhập **trong Diag: Ghi** cuộc họp - chẩn đoán sẽ kiểm tra thiết đặt chính sách cho người dùng được chỉ định và xác định thiết đặt chính sách của họ. Hãy nhớ rằng, có thể mất vài giờ để các thiết đặt chính sách mới có hiệu lực, vì vậy nếu bạn vừa thực hiện thay đổi, hãy chờ một vài giờ trước khi chạy lại chẩn đoán.
 
-Để biết thêm thông tin, hãy xem lại bật hoặc tắt tính năng [ghi đám mây](https://docs.microsoft.com/microsoftteams/cloud-recording#turn-on-or-turn-off-cloud-recording).
+Để biết thêm thông tin, [hãy xem lại mục Bật hoặc tắt tính năng ghi trên đám mây](https://docs.microsoft.com/microsoftteams/cloud-recording#turn-on-or-turn-off-cloud-recording).

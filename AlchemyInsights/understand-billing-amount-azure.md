@@ -1,5 +1,5 @@
 ---
-title: Tìm hiểu về hóa đơn của bạn
+title: Hiểu rõ hóa đơn của bạn
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,69 +12,69 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003554"
 - "6819"
-ms.openlocfilehash: 58f775b89e574b03ad8d927c0952ad1c1d66243d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: b0618a02d2ae74ece246b629d96b92d76e5e5718367f9055d9783c1440a7a70b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51782713"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54020106"
 ---
-# <a name="understand-billing-amount"></a>Tìm hiểu số tiền thanh toán
+# <a name="understand-billing-amount"></a>Tìm hiểu về số tiền thanh toán
 
-Cung cấp tài khoản Azure miễn phí bao gồm $200 tín dụng Azure (được sử dụng trong vòng 30 ngày đầu tiên của đăng ký) và 12 tháng chọn dịch vụ miễn phí (tùy thuộc vào thay đổi)
+Ưu đãi Tài khoản Miễn phí Azure bao gồm $200 tín dụng Azure (để sử dụng trong vòng 30 ngày đăng ký đầu tiên) và 12 tháng sử dụng các dịch vụ miễn phí được chọn (có thể thay đổi)
 
-Ưu đãi này được giới hạn trong một khách hàng có đủ điều kiện và không thể kết hợp với bất kỳ giao dịch nào khác trừ khi được Microsoft cho phép
+Gói đăng ký này giới hạn cho một đăng ký cho mỗi khách hàng đủ điều kiện và không thể kết hợp với bất kỳ gói nào khác trừ khi được Microsoft cho phép khác
 
-Trong vòng 30 ngày kể từ ngày đăng ký hoặc làm kiệt sức của các khoản tín dụng của khách hàng (tùy theo thứ nhất), khách hàng phải nâng cấp lên tài khoản thanh toán-là-bạn-đi bằng cách loại bỏ giới hạn chi tiêu. Điều này cho phép bạn tiếp tục sử dụng tài khoản Azure miễn phí cho 11 tháng còn lại. Sau khi khách hàng đã nâng cấp, việc sử dụng bên ngoài các khoản tín dụng ban đầu và chọn các dịch vụ miễn phí sẽ được lập hóa đơn ở mức thanh toán-như-bạn-Go. Nếu khách hàng không thể nâng cấp, thì đăng ký tài khoản miễn phí sẽ bị vô hiệu hóa.
+Trong vòng 30 ngày kể từ khi đăng ký hoặc sau khi dùng hết hạn mức tín dụng của khách hàng (tùy theo điều kiện nào xảy ra trước), khách hàng phải nâng cấp lên tài khoản Thanh toán Khi Bạn Truy cập bằng cách xóa Giới hạn Chi tiêu. Điều này cho phép tiếp tục sử dụng Tài khoản Azure Miễn phí trong 11 tháng còn lại. Sau khi khách hàng đã nâng cấp, mức sử dụng nằm ngoài tín dụng ban đầu và chọn các dịch vụ miễn phí sẽ được lập hóa đơn ở mức cước phí Thanh toán Theo Mức sử dụng tiếp. Nếu khách hàng chọn không nâng cấp, đăng ký Tài khoản Miễn phí sẽ bị vô hiệu hóa.
 
-Tìm hiểu thêm: [sản phẩm hàng tháng có sẵn miễn phí trong tài khoản Azure miễn phí](https://azure.microsoft.com/free/free-account-faq/)
+Tìm hiểu thêm: [Các sản phẩm được cung cấp miễn phí hàng tháng dưới tài khoản Azure miễn phí](https://azure.microsoft.com/free/free-account-faq/)
 
-**Bật lại thuê bao đã bị vô hiệu hóa sau 30 ngày**
+**Đã tắt Đăng ký Bật lại sau 30 ngày**
 
-- Sau khi bạn kích hoạt lại và chuyển đổi gói đăng ký dùng thử miễn phí của mình thành PAYG miễn phí bao gồm các dịch vụ sẽ bắt đầu từ thời điểm đăng ký được bật. Ngoài ra, nếu bạn chuyển đổi tài khoản Azure miễn phí thành X offer (ngoài PAYG) bởi lỗi, bạn vẫn sẽ tiếp tục nhận được những lợi ích.
+- Sau khi bạn kích hoạt lại và chuyển đổi đăng ký Dùng thử miễn phí thành Dịch vụ Bao gồm MIỄN PHÍ PAYG sẽ bắt đầu từ thời điểm đăng ký được bật. Ngoài ra, nếu bạn chuyển đổi nhầm ưu đãi Azure Free Account sang X (không phải PAYG), bạn vẫn sẽ tiếp tục nhận được các lợi ích.
 
 Tìm hiểu thêm: 
-- [Kích hoạt lại đăng ký](https://docs.microsoft.com/azure/billing/billing-subscription-become-disable?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Kích hoạt lại gói đăng ký](https://docs.microsoft.com/azure/billing/billing-subscription-become-disable?WT.mc_id=Portal-Microsoft_Azure_Support)
 - [Hủy bỏ đăng ký Azure](https://docs.microsoft.com/azure/billing/billing-how-to-cancel-azure-subscription?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Cước phí bất ngờ vào tài khoản**
+**Khoản phí không mong muốn đối với tài khoản**
 
-- Nếu bạn thấy các chi phí không mong muốn trong tài khoản của mình, hãy tải xuống dữ liệu sử dụng của bạn và xác nhận nếu bạn có bất kỳ dịch vụ hoặc tài nguyên nào không mong muốn nào
-- Tìm hiểu thêm: [tải xuống dữ liệu sử dụng Azure](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#download-usage)
+- Nếu bạn thấy khoản phí không mong muốn trong tài khoản của mình, hãy tải xuống dữ liệu sử dụng và xác minh xem bạn có bất kỳ dịch vụ hoặc tài nguyên nào không mong muốn đang chạy hay không
+- Tìm hiểu thêm: Tải [xuống dữ liệu mức sử dụng Azure](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#download-usage)
 
-**Các câu hỏi thường gặp:**
+**Câu hỏi Thường Gặp:**
 
-**Tôi có phải thanh toán bất cứ điều gì khi có tài khoản Azure miễn phí?**
+**Tôi có phải thanh toán bất kỳ khoản nào khi đang sử dụng Tài khoản Azure Miễn phí không?**
 
-Bạn sẽ chỉ bị tính phí nếu bạn triển khai các dịch vụ không được bao gồm trong tài khoản Azure miễn phí. Chỉ sau khi bạn làm suy yếu tín dụng $200 hoặc đạt đến khoảng thời gian 30 ngày (tùy theo thứ nhất) sẽ bạn bắt đầu được lập hóa đơn ở mức thanh toán-như-bạn-Go.
+Bạn sẽ chỉ bị tính phí nếu bạn triển khai các dịch vụ không được tích hợp trong Tài khoản Azure Miễn phí. Chỉ sau khi bạn xóa tín dụng $200 hoặc đạt đến khoảng thời gian 30 ngày (tùy theo ngày đến trước) bạn sẽ bắt đầu được lập hóa đơn ở mức cước phí Thanh toán Khi Bạn Bắt đầu.
 
-**Có bao nhiêu đăng ký tài khoản Azure miễn phí tôi được phép sử dụng trên tài khoản của mình?**  
+**Tôi được phép sử dụng bao nhiêu đăng ký Tài khoản Miễn phí Azure trên tài khoản của mình?**  
 
-Có một giới hạn của một đăng ký tài khoản Azure miễn phí cho mỗi tài khoản.
+Có giới hạn một đăng ký Tài khoản Miễn phí Azure cho mỗi tài khoản.
 
-**Tài khoản Azure miễn phí hoạt động như thế nào với khách hàng thỏa thuận doanh nghiệp (EA)?**  
+**Tài khoản Azure Miễn phí hoạt động như thế nào với Thỏa thuận Doanh nghiệp khách hàng (EA) của bạn?**  
 
-Ưu đãi này không sẵn dùng cho khách hàng EA. Tuy nhiên, nếu khách hàng có tài khoản miễn phí và chuyển đổi sang EA tier sau đó, các lợi ích tài khoản miễn phí sẽ tiếp tục trong 12 tháng kể từ thời điểm đăng ký tài khoản miễn phí.
+Ưu đãi này không khả dụng cho khách hàng EA. Tuy nhiên, nếu khách hàng có Tài khoản miễn phí và chuyển đổi sang lớp EA sau đó, các lợi ích của Tài khoản Miễn phí sẽ tiếp tục trong 12 tháng kể từ thời điểm đăng ký Tài khoản miễn phí.
 
-**Các dịch vụ sẽ được cung cấp trong tầng miễn phí tiêu thụ từ các khoản tín dụng $200 ban đầu?**  
+**Các dịch vụ được cung cấp trong lớp miễn phí có sử dụng khoản tín dụng $200 ban đầu không?**  
 
-Không. Khách hàng có một số lượng cố định của các dịch vụ tier miễn phí và một tín dụng $200 trong 30 ngày đầu tiên. Vì vậy, khách hàng có thể sử dụng tín dụng $200 trên các dịch vụ tier không phải là miễn phí.
+Không. Khách hàng được đếm cố định các dịch vụ Lớp Miễn phí và tín dụng $200 trong 30 ngày đầu tiên. Vì vậy, khách hàng có thể sử dụng tín dụng $200 trên các dịch vụ Không phải Lớp Miễn phí khác.
 
-**Tôi có thể xem chi tiết tài trợ của tôi không?**
+**Tôi có thể xem thông tin chi tiết về các tài trợ của mình không?**
 
-- Mở cửa sổ trình duyệt riêng/ẩn danh (Ctrl + Shift + P trong Edge)
-- Dẫn hướng đến [Azure](http://www.microsoftazuresponsorships.com/) tài trợ
-- Bấm vào liên kết kiểm tra số dư của bạn
-- Đăng nhập bằng cách sử dụng thông tin xác thực tài khoản Azure chính phủ tài trợ của bạn (đăng nhập nên sử dụng định dạng user.name@xxxx.onmicrosoft.com)
-- Bạn sẽ được chuyển hướng đến một trang hiển thị thông tin sau đây: ngày bắt đầu, ngày kết thúc, số lượng tài trợ, được sử dụng, số dư còn lại
+- Mở cửa sổ trình duyệt riêng tư/ẩn danh (Ctrl + Shift + P trong Edge)
+- Dẫn hướng [đến các tài trợ Azure](http://www.microsoftazuresponsorships.com/)
+- Bấm nối kết Kiểm tra Số dư của Bạn
+- Đăng nhập bằng thông tin xác thực tài khoản Tài trợ của Chính phủ Azure (Đăng nhập phải sử dụng định user.name@xxxx.onmicrosoft.com khác)
+- Bạn sẽ được chuyển đến một trang hiển thị các thông tin sau: Ngày Bắt đầu, Ngày Kết thúc, Số tiền Tài trợ, Đã sử dụng, Số dư Còn lại
 
-**Làm thế nào để tôi có thể xác minh các dịch vụ miễn phí đang hoạt động hoặc khi họ hết hạn?**
+**Làm thế nào để tôi có thể xác minh dịch vụ miễn phí đang hoạt động hoặc khi nào chúng sẽ hết hạn?**
 
-Trong trang web Portal Ibiza> đăng ký > trang tổng quan > cuộn xuống đến các dịch vụ miễn phí trong 12 tháng và bấm vào biểu tượng thông tin. Điều này sẽ hiển thị ngày khi dịch vụ miễn phí hết hạn **ghi chú**: không có dịch vụ v1 là một phần của dịch vụ Azure miễn phí bao gồm. Để biết danh sách các dịch vụ miễn phí được cập nhật nhất, hãy xem [sản phẩm nào miễn phí trong 12 tháng](http://www.microsoftazuresponsorships.com/)
+Trong trang Tổng quan về Đăng> ký Ibiza > mục > cuộn xuống tới Dịch vụ miễn phí trong 12 tháng, rồi bấm vào biểu tượng Thông tin. Thông tin này sẽ hiển thị ngày hết hạn Dịch vụ miễn phí **Lưu** ý: Không có dịch vụ V1 nào nằm trong Dịch vụ Bao gồm Miễn phí Azure. Để biết danh sách cập nhật nhất về Dịch vụ Miễn phí, hãy xem Mục Những [sản phẩm miễn phí trong 12 tháng](http://www.microsoftazuresponsorships.com/)
 
-Câu hỏi thường gặp: [tài khoản miễn phí câu hỏi thường gặp](https://azure.microsoft.com/free/free-account-faq/)
+Câu hỏi thường gặp khác: Câu [hỏi thường gặp về tài khoản miễn phí](https://azure.microsoft.com/free/free-account-faq/)
 
-**Tài liệu được đề xuất**
+**Tài liệu được Đề xuất**
 
-- [Điều khoản cung cấp tài khoản Azure miễn phí](https://azure.microsoft.com/offers/ms-azr-0044p/)
+- [Các điều khoản về Ưu đãi Tài khoản miễn phí Azure](https://azure.microsoft.com/offers/ms-azr-0044p/)
 - [Giá Azure](https://azure.microsoft.com/pricing/)

@@ -1,5 +1,5 @@
 ---
-title: Bắt đầu một hội thảo âm thanh mà không cần mã PIN
+title: Bắt đầu Hội thảo Âm thanh mà không cần mã PIN
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002882"
 - "5496"
-ms.openlocfilehash: 524d2b4d8475907fae18448120983bca8f696f7b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f4f52a142da9d841e6fdb6083e4076673cc0b19d3a6394b58455c3f4f7580f5b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51828210"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53999586"
 ---
-# <a name="start-an-audio-conference-without-a-pin"></a>Bắt đầu một hội thảo âm thanh mà không cần mã PIN
+# <a name="start-an-audio-conference-without-a-pin"></a>Bắt đầu Hội thảo Âm thanh mà không cần mã PIN
 
-**Để bật hoặc tắt người gọi ẩn danh không tham gia cuộc họp**
+**Để Bật hoặc tắt người gọi ẩn danh khỏi gia nhập cuộc họp**
 
-Sử dụng **Trung tâm quản trị nhóm Microsoft**:
+Sử dụng trung **Microsoft Teams quản trị Chính:**
 
-1. Trong dẫn hướng bên trái, bấm **người dùng**.
-2. Chọn một người dùng trong danh sách, rồi bấm vào **chỉnh sửa** ở đầu trang.
-3. Bên cạnh Hội **thảo âm thanh**, hãy bấm **sửa**.
-4. Trong ngăn hội **thảo âm thanh** , bật hoặc tắt **người gọi quay số vào có thể là người đầu tiên trong cuộc họp**.
-5. Bấm **áp dụng**.
+1. Trong dẫn hướng bên trái, bấm Người **dùng.**
+2. Chọn một người dùng trong danh sách, rồi **bấm** vào Chỉnh sửa ở đầu trang.
+3. Bên cạnh **Hội thảo Âm thanh,** bấm **Sửa**.
+4. Trong ngăn **Hội thảo Âm thanh, bật** hoặc tắt Người gọi quay số vào có thể là người đầu tiên trong cuộc **họp.**
+5. Bấm **vào Áp dụng**.
 
-Để biết thêm thông tin, hãy xem [bật hoặc tắt người gọi ẩn danh tham gia cuộc họp](https://docs.microsoft.com/microsoftteams/start-an-audio-conference-over-the-phone-without-a-pin-in-teams).
+Để biết thêm thông tin, hãy [xem Bật hoặc tắt người gọi ẩn danh khỏi gia nhập cuộc họp](https://docs.microsoft.com/microsoftteams/start-an-audio-conference-over-the-phone-without-a-pin-in-teams).

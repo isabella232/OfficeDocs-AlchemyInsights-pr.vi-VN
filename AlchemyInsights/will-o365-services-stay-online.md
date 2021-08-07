@@ -1,5 +1,5 @@
 ---
-title: Dịch vụ của bạn sẽ ở lại trực tuyến trong Office 365?
+title: Các dịch Office 365 của bạn có ở lại trực tuyến không?
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003899"
 - "6953"
-ms.openlocfilehash: 172f8c9bdf54b608de8d5cac33a4cf7f4193dc61
-ms.sourcegitcommit: 9c64886a9e1a9b0ff356b28a5c1482ecc148d7ef
+ms.openlocfilehash: 3e511bf287d9dad3a00d45686308d036f81372e6f9bc700c6043ed76aa5b184e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49680336"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54036874"
 ---
-# <a name="will-office-365-services-stay-online"></a>Dịch vụ của bạn sẽ ở lại trực tuyến trong Office 365?
+# <a name="will-office-365-services-stay-online"></a>Các dịch Office 365 của bạn có ở lại trực tuyến không?
 
-Có. Chúng tôi đã phát triển các dịch vụ này với Resiliency trong tâm trí. Mỗi dịch vụ chạy nhiều phiên bản cùng một lúc, vì vậy, ngay cả khi một ví dụ có vấn đề, khách hàng của chúng tôi sẽ không bị ảnh hưởng. Mỗi dịch vụ cũng được chứa, vì vậy nếu một vấn đề đi lên với một dịch vụ sẽ không lây lan sang phần còn lại của chúng. Cuối cùng, các biện pháp bảo vệ đã được tích hợp vào mã của từng dịch vụ để giúp ngăn chặn các vấn đề từ tầng thông qua dịch vụ.
+Có. Chúng tôi đã phát triển các dịch vụ này với ý tưởng phục hồi. Mỗi dịch vụ chạy nhiều phiên bản cùng một lúc, vì vậy ngay cả khi một phiên bản gặp sự cố, các khách hàng của chúng tôi đều sẽ không bị ảnh hưởng. Mỗi dịch vụ cũng được lưu trong đó, do đó, nếu có sự cố xảy ra một dịch vụ, dịch vụ đó sẽ không phát tán sang những dịch vụ còn lại. Cuối cùng, các biện pháp bảo vệ đã được tích hợp sẵn trong mã của từng dịch vụ để giúp ngăn chặn sự cố xếp tầng thông qua dịch vụ.
 
-Để tìm hiểu thêm về những nỗ lực của chúng tôi để giữ lại các dịch vụ của chúng tôi, hãy xem [quản lý liên tục nghiệp vụ (EBCM) với dịch vụ điện toán đám mây](https://go.microsoft.com/fwlink/?linkid=2124377).
+Để tìm hiểu thêm về những nỗ lực của chúng tôi nhằm duy trì tính ổn định cho dịch vụ của chúng tôi, hãy xem mục Quản lý tính liên tục của hoạt động doanh nghiệp [(EBCM) bằng dịch vụ điện toán đám mây](https://go.microsoft.com/fwlink/?linkid=2124377).
 
-Chúng tôi đánh giá cao phản hồi của bạn, vì vậy hãy chọn **có** / **không** cho câu hỏi xuất hiện, rồi đánh giá trải nghiệm của bạn.
+Chúng tôi đánh giá cao phản hồi của bạn, vì vậy vui lòng chọn **Có** Không đối với /  câu hỏi xuất hiện, rồi đánh giá trải nghiệm của bạn.

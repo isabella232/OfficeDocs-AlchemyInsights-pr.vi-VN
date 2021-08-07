@@ -1,5 +1,5 @@
 ---
-title: Loại bỏ dữ liệu và các thiết bị xóa khỏi InTune
+title: Loại bỏ dữ liệu và xóa thiết bị khỏi Intune
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -15,28 +15,28 @@ ms.custom:
 - "6700008"
 - "9004638"
 - "8392"
-ms.openlocfilehash: cada3c6f1e7d1dcd576baa1245fb5a62ed938613
-ms.sourcegitcommit: 229bd519ec1c14c65a243226a94eee23e117a7fc
+ms.openlocfilehash: f3614a41c1bc92184d7f8a11bd224310fef6aa0cabc8e1db1288bde01ca1cb5a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50416335"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53922287"
 ---
-# <a name="removing-data-and-wiping-devices-from-intune"></a>Loại bỏ dữ liệu và các thiết bị xóa khỏi InTune
+# <a name="removing-data-and-wiping-devices-from-intune"></a>Loại bỏ dữ liệu và xóa thiết bị khỏi Intune
 
-Thiết bị đã rút lui và xóa các hành động từ xa của thiết bị để loại bỏ dữ liệu công ty được quản lý bởi InTune hoặc để thực hiện việc đặt lại nhà máy và trả về thiết bị về thiết đặt mặc định của nó.
+Có thể sử dụng hành động từ xa Loại bỏ Thiết bị và Xóa thiết bị để loại bỏ dữ liệu công ty do Intune quản lý hoặc để thực hiện đặt lại về cài đặt gốc và đưa thiết bị về cài đặt mặc định.
 
-1. Đăng nhập vào quản lý thiết bị của Microsoft 365 và đi tới **thiết bị**  >  **tất cả thiết bị**.
-2. Chọn thiết bị bạn muốn xóa bỏ.
-3. Chọn loại xóa sạch từ xa mà bạn muốn thực hiện. Bỏ ẩn chỉ xóa thông tin tổ chức, trong khi toàn bộ khăn lau khôi phục thiết bị về thiết đặt nhà máy.
-4. Chọn **có** để xác nhận. Cho đến khi hoàn tất việc xóa sạch, trạng thái hành động thiết bị sẽ hiển thị là *nghỉ hưu đang chờ xử* lý.
-    Sau khi hoàn thành hành động, bạn sẽ không còn nhìn thấy thiết bị di động trong danh sách thiết bị được quản lý.
+1. Đăng nhập vào Quản Microsoft 365 Thiết bị Và đi đến Thiết bị **Tất cả**  >  **Thiết bị**.
+2. Chọn thiết bị bạn muốn xóa.
+3. Chọn kiểu xóa từ xa mà bạn muốn thực hiện. Ngừng hoạt động chỉ xóa thông tin của tổ chức, trong khi xóa toàn bộ dữ liệu sẽ khôi phục thiết bị về cài đặt tại nhà máy.
+4. Chọn **Có để** xác nhận. Cho đến khi quá trình xóa hoàn tất, trạng thái hành động Thiết bị hiển thị là *Đang chờ xử lý Ngừng sử dụng*.
+    Sau khi hoàn tất hành động, bạn sẽ không còn thấy thiết bị di động trong danh sách thiết bị được quản lý.
 
 > [!NOTE]
-> Không thể loại bỏ dữ liệu công ty khỏi thiết bị đã gia nhập Azure AD. 
+> Không thể loại bỏ dữ liệu công ty khỏi các thiết bị ĐÃ THAM GIA Azure AD. 
 
-Để biết chi tiết đầy đủ về hiệu ứng của hành động rút lui và xóa sạch, bao gồm những gì được giữ lại và xóa những gì, hãy xem tài liệu hướng dẫn sau:
+Để biết chi tiết đầy đủ về tác động của hành động Ngừng sử dụng và Xóa, bao gồm nội dung được giữ lại và nội dung bị xóa, hãy xem tài liệu sau đây:
 
-- [Loại bỏ các thiết bị bằng cách sử dụng quy trình xóa sạch, rút lui hoặc bỏ đăng ký theo cách thủ công thiết bị](https://docs.microsoft.com/mem/intune/remote-actions/devices-wipe).
-- [Làm thế nào để chỉ xóa dữ liệu công ty từ các ứng dụng được quản lý trên InTune](https://docs.microsoft.com/mem/intune/apps/apps-selective-wipe)
+- [Loại bỏ thiết bị bằng cách sử dụng xóa sạch, ngừng sử dụng hoặc bỏ kiểm soát thiết bị theo cách thủ công](https://docs.microsoft.com/mem/intune/remote-actions/devices-wipe).
+- [Cách chỉ xóa dữ liệu công ty khỏi các ứng dụng do Intune quản lý](https://docs.microsoft.com/mem/intune/apps/apps-selective-wipe)
 - [Xóa tất cả dữ liệu khỏi thiết bị macOS](https://docs.microsoft.com/mem/intune/remote-actions/device-erase).

@@ -1,5 +1,5 @@
 ---
-title: Tệp Word không mở được khi bấm đúp
+title: Tệp Word không mở khi bấm đúp
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,39 +12,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "850"
 - "2100002"
-ms.openlocfilehash: 0b29aa150d9eead7fa97768a1cd59c1601cfce77
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: aff548db493087e16629e81f5da9990a00c53e510bc5f92743dee393956d9c1c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51834141"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54036586"
 ---
-# <a name="word-document-opened-in-the-wrong-app-or-didnt-open"></a>Tài liệu Word được mở trong ứng dụng sai hoặc không mở
+# <a name="word-document-opened-in-the-wrong-app-or-didnt-open"></a>Tài liệu Word được mở trong ứng dụng không đúng hoặc không mở
 
-Hãy thử một trong các đề xuất sau:
+Hãy thử một trong các gợi ý sau:
 
 **Chọn Word làm mặc định**
 
-- Bấm chuột phải vào tài liệu, chọn **mở bằng**, rồi chọn **Word**
+- Bấm chuột phải vào tài liệu, chọn **Mở bằng**, rồi chọn **Word**
 
-**Chạy sửa chữa nhanh**
+**Chạy Sửa chữa Nhanh**
 
-1. Đi đến **Pa-nen điều khiển > chương trình > các chương trình và tính năng**.
+1. Đi đến **Panel Điều khiển để > Trình > Trình và Tính năng .**
 
-2. Chọn sản phẩm Office bạn muốn sửa chữa, rồi chọn **thay đổi**.
+2. Chọn sản Office bạn muốn sửa chữa, rồi chọn Thay **đổi**.
 
-3. Chọn tùy chọn **sửa chữa nhanh** , rồi chọn **sửa chữa**.
+3. Chọn tùy **chọn Sửa chữa** Nhanh, rồi chọn Sửa **chữa.**
 
-**Gỡ cài đặt các phiên bản Office bạn không sử dụng**
+**Gỡ cài đặt các Office mà bạn không sử dụng**
 
-1. Đi đến **Pa-nen điều khiển > dỡ cài đặt chương trình**, rồi chọn phiên bản Office bạn muốn loại bỏ.
+1. Đi tới **Panel Điều > cài đặt Chương** trình , rồi chọn phiên bản Office bạn muốn loại bỏ.
 
-2. Bấm **dỡ cài đặt**.
+2. Bấm **Dỡ cài đặt**.
 
 3. Khởi động lại máy tính của bạn.
 
-**Chạy trình khắc phục sự cố này để đặt phần mở rộng tệp Office để mở trong Office**
+**Chạy bộ hướng dẫn giải quyết trục trặc này Office mở phần mở rộng tệp Office**
 
-1. Chạy trình khắc phục sự cố này: https://aka.ms/diag_officefile .
+1. Chạy bộ hướng dẫn giải quyết trục trặc này: https://aka.ms/diag_officefile .
 
-2. Tùy thuộc vào trình duyệt của bạn, **mở** hoặc **lưu** trình khắc phục sự cố vào màn hình nền của bạn, rồi **chạy** nó.
+2. Tùy theo trình duyệt của bạn, **Mở** hoặc **Lưu trình** khắc phục sự cố vào máy tính của bạn, rồi Chạy bộ **hướng** dẫn giải quyết trục trặc.

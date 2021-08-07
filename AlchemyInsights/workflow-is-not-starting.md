@@ -1,5 +1,5 @@
 ---
-title: Không bắt đầu dòng công việc
+title: Dòng công việc không bắt đầu
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -13,37 +13,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000144"
 - "1670"
-ms.openlocfilehash: e69f3e529e4a2202f641cb62f42b1a20d774a398
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 77a3c022a9a3a82041b4a4a70c72c2e0940c0fba27f296f07881e3abebf1e464
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403765"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53907760"
 ---
-# <a name="workflow-is-not-starting"></a>Không bắt đầu dòng công việc
+# <a name="workflow-is-not-starting"></a>Dòng công việc không bắt đầu
 
-- Dòng công việc SharePoint 2010 và dòng công việc SharePoint 2013 không bắt đầu.
+- SharePoint việc 2010 SharePoint 2013 và 2013 không bắt đầu.
 
-    - Nếu dòng công việc của bạn không bắt đầu, có thể có sự cố dịch vụ tạm thời mà người dùng có thể gặp phải sự chậm trễ với dòng công việc. Kiểm tra [bảng điều khiển trạng thái dịch vụ](https://admin.microsoft.com/AdminPortal/Home/servicehealth) để xem liệu tổ chức của bạn có bị ảnh hưởng không.
+    - Nếu dòng công việc của bạn không bắt đầu, có thể là một vấn đề dịch vụ tạm thời trong đó người dùng có thể gặp phải sự chậm trễ không liên tục với tiến độ dòng công việc. Kiểm tra Bảng [điều khiển Tình trạng Dịch](https://admin.microsoft.com/AdminPortal/Home/servicehealth) vụ để xem liệu tổ chức của bạn có bị ảnh hưởng không.
 
-    - Nếu đã trôi qua 24 giờ kể từ lần đầu tiên bạn gặp sự cố này, vui lòng đăng nhập một vé hỗ trợ. Trong nhiều trường hợp, chúng tôi đã làm việc trên một giải pháp. Xin vui lòng cho chúng tôi ít nhất 24 giờ để hoàn tất một giải pháp.
+    - Nếu hơn 24 giờ trôi qua kể từ khi bạn gặp sự cố này lần đầu tiên, vui lòng ghi nhật ký thẻ hỗ trợ. Trong nhiều trường hợp, chúng tôi đang nỗ lực tìm giải pháp. Vui lòng cho chúng tôi ít nhất 24 giờ để hoàn tất giải pháp.
 
-- Dòng công việc SharePoint 2010 bị trì hoãn khi bắt đầu.
+- SharePoint việc 2010 bị trì hoãn khi bắt đầu.
 
-    - Điều này xảy ra nếu dòng công việc được kích hoạt trong lô lớn. (ví dụ, khi một số mục được thêm vào một lần).
+    - Điều này xảy ra nếu dòng công việc được kích hoạt trong các lô lớn. (ví dụ, khi thêm một vài mục cùng lúc).
 
-    - Dòng công việc không được thiết kế để chạy theo thời gian thực, do đó, một hành vi chậm trễ là do thiết kế.
+    - Dòng công việc không được thiết kế để chạy theo thời gian thực, vì vậy độ trễ là hành vi theo thiết kế.
 
-   -  Nếu dòng công việc được mở rộng phức tạp là ngôn ngữ đánh dấu đối tượng (XMOL), thì bạn có thể làm chậm trình tổng hợp. Kiểm tra bài viết [này](https://support.microsoft.com//kb/3043697) .
+   -  Nếu Dòng công việc là ngôn ngữ đánh dấu đối tượng có thể chia thành phức tạp (XMOL), việc biên soạn có thể chậm. Hãy xem [bài viết](https://support.microsoft.com//kb/3043697) này.
 
-    - Bạn nên đơn giản hóa dòng công việc hoặc thiết kế lại bằng cách dùng loại nền tảng dòng công việc Microsoft SharePoint 2013.
+    - Bạn nên đơn giản hóa dòng công việc hoặc thiết kế lại dòng công việc bằng cách sử dụng kiểu nền tảng Dòng công việc Microsoft SharePoint 2013.
 
-    - Nếu lịch sử dòng công việc của bạn đã trưởng thành lớn, bạn có thể muốn tẩy các mục hoặc tạo danh sách lịch sử mới.
+    - Nếu lịch sử dòng công việc của bạn đã phát triển lớn, bạn có thể muốn dọn sạch các mục hoặc tạo một danh sách lịch sử mới.
 
-        Thông tin thêm: [dọn sạch lịch sử](https://blogs.technet.microsoft.com/marj/2015/08/07/sharepoint-2010-workflows-best-practice-purge-workflow-history-list-items/) dòng công việc
+        Thông tin Khác: Dọn [sạch Lịch sử Dòng công việc](https://blogs.technet.microsoft.com/marj/2015/08/07/sharepoint-2010-workflows-best-practice-purge-workflow-history-list-items/)
 
 
 ## <a name="related-topics"></a>Chủ đề liên quan
-Bạn muốn thử Microsoft Flow trong SharePoint Online?
-- [Tạo dòng](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
-- [SharePoint và dòng](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
+Bạn muốn thử Microsoft Flow thực hiện SharePoint Online?
+- [Tạo Flow](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
+- [SharePoint và Flow](https://flow.microsoft.com/blog/sharepoint-and-flow/) 

@@ -1,5 +1,5 @@
 ---
-title: Cập Nhật trên hộp thư đến ưu tiên và các kế hoạch của chúng tôi để được cho
+title: Cập nhật trên Hộp thư đến Tập trung và kế hoạch của chúng tôi cho Thư không quan trọng
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002504"
 - "4854"
-ms.openlocfilehash: 8a8dd367c60918e14339006b7a32116b8ffb1122
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 45514a7c4559138df7606c5229c746a700f049c29f1beaaeb47a7e2e0dd0d2d6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51827454"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54019890"
 ---
-# <a name="update-on-focused-inbox-and-our-plans-for-clutter"></a>Cập Nhật trên hộp thư đến ưu tiên và các kế hoạch của chúng tôi để được cho
+# <a name="update-on-focused-inbox-and-our-plans-for-clutter"></a>Cập nhật trên Hộp thư đến Tập trung và kế hoạch của chúng tôi cho Thư không quan trọng
 
-Để biết thông tin mới nhất, hãy xem [Cập Nhật trên hộp thư đến ưu tiên và các kế hoạch của chúng tôi để](https://techcommunity.microsoft.com/t5/outlook-blog/update-on-focused-inbox-and-our-plans-for-clutter/ba-p/136448)có tính năng.
+Để biết thông tin mới nhất, hãy xem [mục Cập nhật trên Hộp thư đến Tập trung và kế hoạch của chúng tôi cho Thư không quan trọng](https://techcommunity.microsoft.com/t5/outlook-blog/update-on-focused-inbox-and-our-plans-for-clutter/ba-p/136448).

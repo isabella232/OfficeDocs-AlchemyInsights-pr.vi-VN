@@ -1,5 +1,5 @@
 ---
-title: Ngày làm việc của người dùng quảng cáo đi sâu vào trạng thái cách ly
+title: Ngày làm việc cho Người dùng Cung cấp AD chuyển sang trạng thái cách ly
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "8471"
 - "9004687"
-ms.openlocfilehash: 0fc519c8170de498c9bcb1fc41a76116bda48b1f
-ms.sourcegitcommit: 379e132c4d21ecf703d5506484ec96a767fdda39
+ms.openlocfilehash: 32a5d010b95b9587e121ca1526def743fd8f371b13d1d73d3578c692839edf19
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50482909"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54036514"
 ---
-# <a name="workday-to-ad-user-provisioning-goes-into-quarantine-state"></a>Ngày làm việc của người dùng quảng cáo đi sâu vào trạng thái cách ly
+# <a name="workday-to-ad-user-provisioning-goes-into-quarantine-state"></a>Ngày làm việc cho Người dùng Cung cấp AD chuyển sang trạng thái cách ly
 
-**Ngày làm việc đến cấp phép người dùng quảng cáo đi sâu vào trạng thái kiểm soát và không người nào được tạo trong AD**
+**Ngày làm việc cho Cung cấp Người dùng AD chuyển sang trạng thái cách ly và không có người dùng nào được tạo ra trong AD**
 
-Ngày làm việc cho người dùng quảng cáo cung cấp công việc đã đi vào trạng thái cách ly và Nhật ký kiểm tra Hiển thị các sự kiện lỗi xuất hiện với lỗi thông báo lỗi **: OperationsError-SvcErr: một lỗi thao tác xảy ra. Không có tham chiếu vượt trội nào đã được cấu hình cho dịch vụ thư mục. Dịch vụ thư mục do đó không thể phát hiện các đối tượng được giới thiệu bên ngoài rừng này**. Lỗi này thường hiển thị nếu bộ chứa Active Directory OU không được đặt đúng hoặc nếu có vấn đề với ánh xạ biểu thức được sử dụng cho **Parentused Shedname**.
+Công việc Ngày làm việc cho Người dùng Cung cấp AD đã chuyển sang trạng thái cách ly và nhật ký kiểm tra hiển thị các sự kiện xuất không thành công kèm theo thông báo lỗi **Lỗi: OperationsError-SvcErr: Đã xảy ra lỗi thao tác. Không có tham chiếu cao cấp nào được cấu hình cho dịch vụ thư mục. Do đó, dịch vụ thư mục không thể cấp thông báo giới thiệu đến các đối tượng bên ngoài rừng này.** Lỗi này thường xuất hiện nếu OU Bộ chứa Active Directory không được đặt chính xác hoặc nếu có sự cố với Ánh xạ Biểu thức được sử dụng cho **parentDistinguishedName.**
 
-Chọn tham số OU mặc định cho **người dùng mới** cho lỗi chính tả. Đảm bảo rằng OU đã xác định đã tồn tại trong quảng cáo của bạn. Nếu bạn đang sử dụng **Parentscn shedname** trong ánh xạ thuộc tính, hãy đảm bảo rằng nó luôn được đánh giá là một bộ chứa đã biết trong tên miền quảng cáo. Kiểm tra sự kiện xuất trong Nhật ký kiểm nghiệm để xem giá trị được tạo ra.
+Kiểm tra tham số OU mặc **định cho Người dùng** Mới đối với lỗi đánh máy. Đảm bảo rằng OU được chỉ định đã tồn tại trong AD của bạn. Nếu bạn đang sử **dụng parentDistinguishedName** trong ánh xạ thuộc tính, hãy đảm bảo rằng nó luôn đánh giá cho bộ chứa đã biết trong tên miền AD. Kiểm tra sự kiện Export trong nhật ký kiểm tra để xem giá trị được tạo.
 
-Để biết thêm chi tiết về cách đặt cấu hình ngày làm việc cho tính năng cung cấp tự động, hãy xem [hướng dẫn: cấu hình ngày làm việc cho người dùng tự động cung](https://docs.microsoft.com/azure/active-directory/saas-apps/workday-inbound-tutorial)cấp.
+Để biết thêm chi tiết về việc đặt cấu hình ngày làm việc cho việc cung cấp tự động, hãy xem mục Hướng dẫn: Đặt cấu hình Ngày làm việc [để cung cấp tự động cho người dùng.](https://docs.microsoft.com/azure/active-directory/saas-apps/workday-inbound-tutorial)
 

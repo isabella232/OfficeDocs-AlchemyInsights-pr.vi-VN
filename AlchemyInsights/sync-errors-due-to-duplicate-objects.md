@@ -1,5 +1,5 @@
 ---
-title: 902 (lỗi đồng bộ do các đối tượng trùng lặp)
+title: 902 (Lỗi đồng bộ do các đối tượng trùng lặp)
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,23 +11,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 902
 ms.assetid: 9d9277a5-c825-4512-8d54-7138b2ee0c40
-ms.openlocfilehash: 75b684c5c6b4a594af069d8ed668df95726e1b31
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: a047afd63484423520ed80fbf223f0e50f3e02624bd9859d4dcbbd94cf23143f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708084"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53998822"
 ---
 # <a name="sync-errors-due-to-duplicate-objects"></a>Lỗi đồng bộ do các đối tượng trùng lặp
 
-Bạn có thể nhận được một trong các thông báo lỗi sau đây khi đồng bộ hóa thư mục kết thúc trong Microsoft 365:
+Bạn có thể nhận được một trong những thông báo lỗi sau đây khi quá trình đồng bộ hóa thư mục kết Microsoft 365:
 
-- Không thể cập nhật đối tượng này trong Microsoft Online Services vì các thuộc tính sau được liên kết với đối tượng này có các giá trị mà có thể đã được liên kết với một đối tượng khác trong thư mục cục bộ của bạn.
+- Không thể cập nhật đối tượng này trong Microsoft Online Services vì các thuộc tính sau được liên kết với đối tượng này có giá trị có thể đã được liên kết với một đối tượng khác trong thư mục cục bộ của bạn.
 
-- Một đối tượng đã đồng bộ với cùng địa chỉ proxy đã tồn tại trong danh bạ Microsoft Online Services của bạn.
+- Đối tượng được đồng bộ hóa với cùng địa chỉ proxy đã tồn tại trong thư mục Microsoft Online Services của bạn.
 
-- Không thể cập nhật đối tượng này vì các thuộc tính sau được liên kết với đối tượng này có các giá trị mà có thể đã được liên kết với một đối tượng khác trong các dịch vụ thư mục cục bộ của bạn: UserPrincipalName.
+- Không thể cập nhật đối tượng này vì các thuộc tính sau được liên kết với đối tượng này có giá trị có thể đã được liên kết với một đối tượng khác trong dịch vụ thư mục cục bộ của bạn: UserPrincipalName.
 
-Để xác định và khắc phục sự cố, hãy tải xuống và chạy [công cụ khắc phục lỗi không đồng bộ Idfix Dirsync](https://github.com/Microsoft/idfix).
+Để xác định và khắc phục sự cố, hãy tải xuống và chạy Công cụ Khắc phục Lỗi [IdFix DirSync.](https://github.com/Microsoft/idfix)
 
-Để biết thêm thông tin, hãy xem [KB2647098](https://support.microsoft.com/help/2647098/duplicate-or-invalid-attributes-prevent-directory-synchronization-in-o).
+Để biết thêm thông tin, [hãy xem KB2647098](https://support.microsoft.com/help/2647098/duplicate-or-invalid-attributes-prevent-directory-synchronization-in-o).

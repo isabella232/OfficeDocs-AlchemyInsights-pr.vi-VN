@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "12068"
 - "9007192"
-ms.openlocfilehash: 5f75c9442fbf5fa59c0eb94ae8ecd28bd7772e92
-ms.sourcegitcommit: 93292c46464ac94971d11adfb808d066ab8bc406
+ms.openlocfilehash: 94412b6bff18cbc60fba3c380860d9ad208dbd600a0fa0f6d0c72a22e27de620
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/24/2021
-ms.locfileid: "53129956"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53907883"
 ---
 # <a name="windows-11-frequently-asked-questions-faq"></a>Windows 11 câu hỏi thường gặp (Câu hỏi thường gặp)
 

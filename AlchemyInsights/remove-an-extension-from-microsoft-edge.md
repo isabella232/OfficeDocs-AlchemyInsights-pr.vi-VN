@@ -1,5 +1,5 @@
 ---
-title: Loại bỏ một phần mở rộng khỏi Microsoft Edge
+title: Loại bỏ phần mở rộng khỏi Microsoft Edge
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -14,18 +14,18 @@ ms.custom:
 - "6936"
 - "8311"
 - "9004621"
-ms.openlocfilehash: 1c8cfa9e871957de647b19b3ef6746740886d2fb
-ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
+ms.openlocfilehash: efd515d472f0ab99213ffa88709861000bb6536e1d2c10beef8f6d534cc94a7b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51504982"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53922433"
 ---
-# <a name="remove-an-extension-from-microsoft-edge"></a>Loại bỏ một phần mở rộng khỏi Microsoft Edge
+# <a name="remove-an-extension-from-microsoft-edge"></a>Loại bỏ phần mở rộng khỏi Microsoft Edge
 
-Để loại bỏ một phần mở rộng khỏi Microsoft Edge:
+Để loại bỏ phần mở rộng khỏi Microsoft Edge:
 
 1. Mở Microsoft Edge.
-2. Chọn **... > các phần mở rộng**.
-3. Trên trang **phần mở rộng đã cài đặt** , hãy tìm phần mở rộng mà bạn muốn loại bỏ, rồi chọn **loại bỏ** bên cạnh nó.
-4. Trong hộp thoại xác nhận, hãy chọn **loại bỏ**.
+2. Chọn **... > rộng .**
+3. Trên trang **Phần mở rộng đã** cài đặt, tìm phần mở rộng bạn muốn loại bỏ, rồi chọn Loại **bỏ** bên cạnh phần mở rộng đó.
+4. Trong hộp thoại xác nhận, hãy chọn Loại **bỏ**.

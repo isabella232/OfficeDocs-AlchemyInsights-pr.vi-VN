@@ -1,5 +1,5 @@
 ---
-title: Writeback mật khẩu không hoạt động
+title: Password Writeback không hoạt động
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,42 +12,42 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004595"
 - "8210"
-ms.openlocfilehash: d7766f908f025b5db8299aa45d01dc5389b321ec
-ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
+ms.openlocfilehash: 23f5e5fe9e00a4bb00f96d2023c81f6413a7d8b808fd46bfc94483944bb898dc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50243733"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53999766"
 ---
-# <a name="password-writeback-is-not-working"></a>Writeback mật khẩu không hoạt động
+# <a name="password-writeback-is-not-working"></a>Password Writeback không hoạt động
 
-**Tôi đang gặp sự cố về cấu hình writeback mật khẩu**
+**Tôi đang gặp sự cố khi đặt cấu hình ghi lại mật khẩu**
 
-- Trả về mật khẩu là một tính năng Premium.
-- Hãy đảm bảo rằng bạn hiểu được các yêu cầu cấp phép:
-  - Bạn phải có ít nhất một giấy phép được gán trong tổ chức của bạn
-  - **Đám mây chỉ người dùng** -bất kỳ Office 365 (O365) được trả về SKU hoặc Azure AD BASIC
-  - Nền tảng điện **toán đám mây và/hoặc người dùng tại cơ sở** -Azure AD Premium P1 hoặc P2, doanh nghiệp Mobility + Security (EMS), hoặc doanh nghiệp hiệu quả bảo mật (SPE)
-    - Để tìm hiểu thêm về các yêu cầu cấp phép, hãy xem mục [yêu cầu cấp phép cho AZURE AD self-đặt lại mật khẩu](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-licensing)
-- Bạn có ít nhất một tài khoản người quản trị và một tài khoản người dùng kiểm tra với một trong số giấy phép thích hợp.
-- Bạn phải kết nối Azure AD kết nối với trình giả lập bộ điều khiển tên miền chính để làm việc với mật khẩu. Bạn có thể cấu hình Azure AD Connect để dùng bộ điều khiển tên miền chính bằng cách bấm chuột phải vào **thuộc tính** của đường kết nối đồng bộ hóa Active Directory, sau đó chọn **cấu hình phân vùng thư mục**. Từ đó, hãy tìm phần **thiết đặt kết nối bộ điều khiển tên miền** và chọn hộp chỉ có tiêu đề dùng bộ kiểm **soát miền ưu tiên**.
+- Ghi lại mật khẩu là một tính năng cao cấp.
+- Hãy đảm bảo rằng bạn hiểu các yêu cầu cấp phép:
+  - Bạn phải có ít nhất một giấy phép được gán trong tổ chức của mình
+  - **Cloud only users** - Any Office 365 (O365) paid SKU, or Azure AD Basic
+  - **Người dùng đám mây và/hoặc** người dùng tại chỗ - Azure AD Premium P1 hoặc P2, Enterprise Mobility + Security (EMS) hoặc Azure SECURE PRODUCTIVE ENTERPRISE (SPE)
+    - Để tìm hiểu thêm về các yêu cầu cấp phép, hãy xem mục Yêu cầu cấp phép cho tính năng [đặt lại mật khẩu tự phục vụ của Azure AD](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-licensing)
+- Bạn có ít nhất một tài khoản người quản trị và một tài khoản người dùng thử nghiệm có một trong các giấy phép thích hợp.
+- Bạn phải kết nối Azure AD Kết nối trình mô phỏng Bộ kiểm soát miền chính để ghi lại mật khẩu có thể hoạt động. Bạn có thể đặt cấu hình Azure AD Kết nối sử  dụng Bộ điều khiển Miền Chính bằng cách bấm chuột phải vào các thuộc tính của bộ nối đồng bộ hóa Active Directory, rồi chọn đặt cấu hình phân **vùng thư mục.** Từ đó, hãy tìm phần thiết đặt **kết nối bộ điều khiển** tên miền và đánh dấu chọn hộp có tiêu đề chỉ sử dụng bộ điều khiển miền **ưa thích.**
   > [!NOTE]
-  > Nếu các DC ưu tiên không phải là giả lập PDC, Azure AD Connect sẽ vẫn tiếp cận với PDC để bật lại mật khẩu.
-- Đặt lại mật khẩu đã được cấu hình và được kích hoạt trong đối tượng thuê của bạn. Để biết thêm thông tin, hãy xem cho [phép người dùng đặt lại mật khẩu AZURE AD của họ](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-getting-started).
-- Hãy đảm bảo rằng tài khoản người quản trị đang được sử dụng để bật lại mật khẩu là tài khoản người quản trị đám mây (được tạo trong Azure AD không tại cơ sở tại chỗ)
-- Bạn có triển khai tại cơ sở đơn hoặc nhiều rừng chạy Windows Server 2008 R2, Windows Server 2012 hoặc Windows Server 2012 R2 với các gói dịch vụ mới nhất được cài đặt
-- Bạn đã cài đặt công cụ kết nối Azure AD và bạn đã chuẩn bị môi trường quảng cáo của mình để đồng bộ trên điện toán đám mây. Trước khi kiểm tra lại mật khẩu, hãy đảm bảo rằng trước tiên bạn hoàn thành nhập đầy đủ và đồng bộ đầy đủ từ cả quảng cáo và Azure AD trong Azure AD Connect.
-- Để tìm hiểu thêm, hãy xem làm thế nào để thực hiện [đồng bộ đầy đủ và nhập đầy đủ trong AZURE AD Connect](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-operations)
+  > Nếu DC ưu tiên không phải là bộ mô phỏng PDC, Azure AD Kết nối sẽ vẫn liên hệ với PDC để ghi lại mật khẩu.
+- Đặt lại mật khẩu đã được cấu hình và bật trong đối tượng thuê của bạn. Để biết thêm thông tin, hãy [xem mục Cho phép người dùng đặt lại mật khẩu Azure AD của họ.](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-getting-started)
+- Đảm bảo rằng tài khoản người quản trị đang được sử dụng để bật ghi lại mật khẩu là tài khoản người quản trị đám mây (được tạo trong Azure AD không phải AD tại chỗ)
+- Bạn có một triển khai ad tại chỗ một hoặc nhiều rừng chạy Windows Server 2008 R2, Windows Server 2012 hoặc Windows Server 2012 R2 với cài đặt gói dịch vụ mới nhất
+- Bạn đã cài đặt công cụ azure AD Kết nối và bạn đã chuẩn bị môi trường AD để đồng bộ hóa với đám mây. Trước khi kiểm tra lại mật khẩu, hãy đảm bảo rằng trước tiên bạn phải hoàn thành quá trình nhập đầy đủ và đồng bộ đầy đủ từ cả AD và Azure AD trong Azure AD Kết nối.
+- Để tìm hiểu thêm, hãy xem cách thực hiện đồng [bộ đầy đủ và nhập đầy đủ trong Azure AD Kết nối](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-operations)
 
-**Tôi đang gặp sự cố với kết nối writeback mật khẩu**
+**Tôi đang gặp sự cố với khả năng kết nối ghi lại mật khẩu**
 
-1. Tải xuống và bật Phiên bản mới nhất của [AZURE AD Connect](https://www.microsoft.com/download/details.aspx?id=47594)
-2. Cấu hình tường lửa: công cụ Azure AD Connect (1.1.443 trở lên) sẽ cần truy nhập **https ra ngoài** vào:
+1. Tải xuống và bật phiên bản mới [nhất của Azure AD Kết nối](https://www.microsoft.com/download/details.aspx?id=47594)
+2. Cấu hình tường lửa: Công cụ Azure AD Kết nối (1.1.443 trở lên) sẽ cần truy nhập **HTTPS** bên ngoài để:
     - passwordreset.microsoftonline.com
-    - servicebus. Windows. Networks
-3. Cho phép các kết nối nhàn rỗi tồn tại trong ít nhất 2-3 phút
+    - servicebus.windows.networks
+3. Cho phép duy trì kết nối không lưu trong ít nhất 2-3 phút
 
-**Tôi vẫn gặp sự cố với writeback mật khẩu**
+**Tôi vẫn gặp sự cố với việc ghi lại mật khẩu**
 
-- Nếu bạn vẫn gặp khó khăn, hãy thử tắt và bật lại dịch vụ trả về mật khẩu trong công cụ Azure AD Connect
-- Để tìm hiểu thêm, hãy xem làm thế nào để [vô hiệu hóa và bật lại tính năng bật lại mật khẩu](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-troubleshoot)
+- Nếu bạn vẫn gặp khó khăn, hãy thử tắt và bật lại dịch vụ ghi lại mật khẩu trong công cụ Azure AD Kết nối
+- Để tìm hiểu thêm, hãy xem cách [tắt và bật lại ghi lại mật khẩu](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-troubleshoot)

@@ -15,31 +15,31 @@ ms.custom:
 - "146"
 - "2200001"
 ms.assetid: 0d95078e-9dbf-4def-8bfc-d6532c1bff00
-ms.openlocfilehash: 3be4424d6a0d76136bf10b2629e43c0a321720ab
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4e50382496c5f1040f3e7f149e4781392b8b48c59d0619b74a20ea324ebc8995
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47719111"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53907904"
 ---
 # <a name="where-is-power-pivot"></a>Power Pivot nằm ở đâu?
 
-Có ba lý do khiến bạn không thấy Power Pivot:
+Có ba lý do tại sao bạn có thể không nhìn thấy Power Pivot:
   
-**Phiên bản Excel của bạn không bao gồm**
+**Phiên bản bản Excel của bạn không bao gồm phiên bản này**
   
-Không phải tất cả các phiên bản của Excel đều có Power Pivot. Bạn sẽ cần nâng cấp lên phiên bản Office có chứa Power Pivot. [Kiểm tra danh sách các phiên bản được hỗ trợ.](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)
+Không phải tất cả các phiên bản Excel bao gồm Power Pivot. Bạn sẽ cần nâng cấp lên phiên bản phiên bản Office có bao gồm Power Pivot. [Kiểm tra danh sách các phiên bản được hỗ trợ.](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)
   
 **Bạn chưa bật Power Pivot**
   
-Nếu bạn đang làm việc trong một phiên bản của Excel hỗ trợ Power pivot, hãy kiểm tra xem phần bổ trợ được bật chưa:
+Nếu bạn đang làm việc trong phiên bản Excel hỗ trợ Power Pivot, hãy kiểm tra xem Bổ trợ đã được bật chưa:
   
-1. Chọn **File** phần bổ trợ \> **tùy chọn** tệp \> **Add-Ins**.
+1. Chọn **Phần** \> **Bổ trợ** Tùy chọn \> **Tệp.**
 
-2. Trong hộp **quản lý** danh sách thả xuống, hãy chọn **bổ trợ com** và bấm **đi**.
+2. Trong hộp **thả** xuống Quản lý, chọn **Phần bổ trợ COM,** rồi bấm **vào Đi .**
 
-3. Trong hộp thoại **bổ trợ com** , chọn hộp kiểm bên cạnh **Microsoft Power Pivot cho Excel**, rồi bấm **OK**.
+3. Trong hộp **thoại Phần bổ trợ** Com, chọn hộp kiểm bên cạnh Microsoft Power Pivot cho **Excel**, rồi bấm **OK.**
 
-**Bạn có nhiều thuê bao hoặc tài khoản**
+**Bạn có nhiều đăng ký hoặc tài khoản**
   
-Bạn có thể có các thuê bao khác nhau của Microsoft 365 được gán cho các tài khoản người dùng khác nhau. Đảm bảo bạn đã đăng nhập vào một tài khoản với một phiên bản Excel hỗ trợ Power Pivot. Kiểm tra danh sách các [Phiên bản được hỗ trợ](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx), rồi làm theo hướng dẫn để [chuyển đổi giữa các tài khoản Office khác nhau](https://support.office.com/article/b9582171-fd1f-4284-9846-bdd72bb28426.aspx#BKMK_WebSwitchAccounts).
+Bạn có thể có các đăng ký Microsoft 365 được gán cho các tài khoản người dùng khác nhau. Đảm bảo rằng bạn đã đăng nhập vào một tài khoản bằng một phiên bản của Excel hỗ trợ Power Pivot. Kiểm tra danh sách các [phiên bản được hỗ](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)trợ và làm theo hướng dẫn để chuyển đổi giữa các tài khoản Office khác [nhau.](https://support.office.com/article/b9582171-fd1f-4284-9846-bdd72bb28426.aspx#BKMK_WebSwitchAccounts)

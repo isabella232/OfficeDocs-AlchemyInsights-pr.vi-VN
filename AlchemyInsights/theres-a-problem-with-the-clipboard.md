@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000688"
 - "2580"
-ms.openlocfilehash: 825f19c47ca94b52624934e0c58afaa5d9c0a479
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c8c6d80d6ec4efc77eed254103ffa52be4ab82a825a3902d490f7059708e76e8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51824673"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53908696"
 ---
-# <a name="resolving-excel-clipboard-error"></a>Giải quyết lỗi bảng tạm trong Excel
+# <a name="resolving-excel-clipboard-error"></a>Giải quyết lỗi Excel bảng tạm
 
-Nếu bạn nhận được lỗi trong Excel cho biết: "có một vấn đề với bảng tạm, nhưng bạn vẫn có thể dán nội dung của mình trong sổ làm việc này", hãy thử tắt tính năng xem trước trực tiếp bằng cách làm theo các bước sau đây:
+Nếu bạn gặp lỗi trong Excel cho biết rằng "Có vấn đề với bảng tạm, nhưng bạn vẫn có thể dán nội dung của bạn trong sổ làm việc này", hãy thử tắt tính năng Xem trước Trực tiếp bằng cách làm theo các bước sau:
 
-1. Trong Excel, hãy bấm  >  **tùy chọn** tệp.
-3. Trong hộp thoại **tùy chọn Excel** , chọn **chung**.
-4. Bên dưới **tùy chọn giao diện người dùng**, xóa **bật xem trước trực tiếp**.
+1. Trong Excel, bấm vào **Tùy chọn**  >  **Tệp.**
+3. Trong hộp **Excel Chọn** Chung, chọn **Chung.**
+4. Bên dưới **tùy chọn Giao diện Người dùng,** bỏ chọn Bật Xem trước Trực **tiếp**.
 5. Bấm **OK**.
-6. Khởi động lại Excel.
+6. Khởi động Excel.

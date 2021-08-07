@@ -1,5 +1,5 @@
 ---
-title: 'Yammer-quản lý nhóm Microsoft 365 '
+title: 'Yammer - Quản lý Microsoft 365 Nhóm '
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "995"
 - "6000003"
-ms.openlocfilehash: eb5959f74793ce146d326d2ddc32c359daecc3ba
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 12e582b8c1dad79ec4e4ee6b1a72de46871e67d5d7d597bfd90963dcb6647b61
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51834105"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53907724"
 ---
-# <a name="manage-microsoft-365-groups-in-yammer"></a>Quản lý nhóm Microsoft 365 trong yammer
+# <a name="manage-microsoft-365-groups-in-yammer"></a>Quản lý Microsoft 365 nhóm trong công Yammer
 
-Dưới đây là một số câu trả lời cho các vấn đề phổ biến nhất với các nhóm Microsoft 365 trong yammer.
+Dưới đây là một số câu trả lời cho các sự cố phổ biến nhất Microsoft 365 Nhóm trong Yammer.
 
-* **Nhóm Microsoft 365** là không gian làm việc chung cho email, hội thoại, tệp và sự kiện nơi các thành viên trong nhóm có thể cộng tác. Với yammer, các nhóm Microsoft 365 có nhiều lợi thế hơn so với nhóm yammer không được kết nối. Ví dụ, bạn có thể tạo và lưu trữ các sự kiện trực tiếp, khôi phục các nhóm đã xóa, sử dụng tư cách thành viên nhóm động, tự động lưu trữ và truy nhập các tài nguyên được chia sẻ như SharePoint, OneNote và Planner.
+* **Microsoft 365 nhóm là không** gian làm việc chung dành cho email, cuộc hội thoại, tệp và sự kiện nơi các thành viên nhóm có thể cộng tác. Với Yammer nên Microsoft 365 Nhóm Có nhiều ưu điểm so với các nhóm Yammer kết nối. Ví dụ: bạn có thể tạo và lưu trữ các sự kiện trực tiếp, khôi phục các nhóm đã xóa, sử dụng tư cách thành viên nhóm động, lưu trữ tự động và truy nhập các tài nguyên được chia sẻ như Sharepoint, OneNote và Planner.
 
-* Bạn có thể biết liệu nhóm yammer có được kết nối với nhóm Microsoft 365 khi bạn thấy phần **tài nguyên Office 365** (SharePoint, OneNote, Planner) trong dẫn hướng bên phải của nhóm. Nếu các tài nguyên không sẵn dùng, hãy kiểm tra các mục sau đây.
+* Bạn có thể biết liệu một nhóm Yammer có được kết nối với Nhóm Microsoft 365 hay không khi bạn thấy mục **Office 365 Resources** (Sharepoint, OneNote, Planner) ở phần dẫn hướng bên phải của nhóm. Nếu các tài nguyên không sẵn dùng, hãy kiểm tra các mục sau.
 
-  1. Mạng yammer phải có trong một đối tượng thuê 1:1 cấu hình mạng. để xác nhận rằng bạn đang ở trong cấu hình 1:1, hãy sử dụng **công cụ di chuyển mạng** như được mô tả trong [di chuyển mạng-hợp nhất nhiều mạng yammer](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks).
+  1. Mạng Yammer phải ở cấu hình mạng 1 đối tượng thuê:1. để xác minh rằng bạn đang ở cấu  hình 1:1, hãy sử dụng công cụ Di chuyển Mạng như được mô tả trong Di chuyển mạng - Hợp nhất [Yammer mạng khác nhau.](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks)
 
-  2. Duyệt đến **quản trị mạng, thiết đặt bảo mật** và đảm bảo rằng định **danh Office 365** được thực thi cho người dùng yammer.
+  2. Duyệt đến **Người quản trị Mạng, Thiết** đặt Bảo mật và đảm bảo rằng Office 365 **nhận** dạng người dùng là bắt buộc Yammer người dùng.
 
-Để biết thêm thông tin về các nhóm Microsoft 365 và yammer, vui lòng xem [yammer và các nhóm microsoft 365](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups). Để biết thông tin về việc quản lý nhóm, hãy xem [quản lý nhóm trong yammer](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2)
+Để biết thêm thông tin về Microsoft 365 Nhóm và Yammer Nhóm Mới, vui [lòng xem Yammer nhóm Microsoft 365 Nhóm Mới.](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups) Để biết thông tin về cách quản lý nhóm, [hãy xem mục Quản lý nhóm trong Yammer](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2)

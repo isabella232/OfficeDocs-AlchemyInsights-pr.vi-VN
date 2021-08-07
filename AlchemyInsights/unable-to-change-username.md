@@ -1,5 +1,5 @@
 ---
-title: Không thể thay đổi tên người dùng
+title: Không thể thay đổi Tên Người dùng
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "1729"
 - "9000183"
-ms.openlocfilehash: 76891b3abe156b736c3bb6da0f6cd1135346dbe2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3088a7b939e7b88319ff688ea94fa71d7fa540787cde31cfd864551113caf149
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798686"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54020250"
 ---
-# <a name="unable-to-change-username"></a>Không thể thay đổi tên người dùng
+# <a name="unable-to-change-username"></a>Không thể thay đổi Tên Người dùng
 
-Trong một số trường hợp, UPN (UserPrincipalName) sẽ không được chuyển phát ra trên điện toán đám mây. Bạn có thể nhận được các lỗi xác thực trong cổng thông tin Office 365 hoặc không thể thay đổi tên người dùng hoặc địa chỉ email. Để giải quyết sự cố này, hãy đặt UserPrincipalName theo cách thủ công bằng lệnh PowerShell này.
+Trong một số trường hợp, các thay đổi UPN (UserPrincipalName) sẽ không phát tán lên đám mây. Bạn có thể gặp lỗi xác thực trong cổng thông Office 365 hoặc không thể thay đổi tên người dùng hoặc địa chỉ email. Để giải quyết vấn đề này, hãy đặt UserPrincipalName theo cách thủ công bằng cách sử dụng lệnh PowerShell này.
 
-**Ví dụ: đổi tên người dùng**
+**Ví dụ: Đổi tên người dùng**
 
-Các PowerShellCopy
+PowerShellCopy
 
-PS C: \> Set-MsolUserPrincipalName-UserPrincipalName "DavidC@contoso.com"-NewUserPrincipalName "davidchew@contoso.com"
+PS C: \> Set-MsolUserPrincipalName -UserPrincipalName "davidc@contoso.com" -NewUserPrincipalName "davidchew@contoso.com"
 
-Lệnh này đổi tên DavidC@contoso.com to davidchew@contoso.com.
+Lệnh này sẽ đổi tên davidc@contoso.com tên thành davidchew@contoso.com.
 
-Để biết thêm thông tin, hãy xem [Set-MsolUserPrincipalName](https://docs.microsoft.com/powershell/module/msonline/set-msoluserprincipalname?view=azureadps-1.0).
+Để biết thêm thông tin, [hãy xem Set-MsolUserPrincipalName](https://docs.microsoft.com/powershell/module/msonline/set-msoluserprincipalname?view=azureadps-1.0).
