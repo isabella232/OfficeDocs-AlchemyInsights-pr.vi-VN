@@ -1,5 +1,5 @@
 ---
-title: 8000053 không thể gửi email nhóm
+title: 8000053 Thể gửi email nhóm
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -12,27 +12,27 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 8000053
 ms.assetid: 4c1d6987-a004-4611-9f4f-b129ab14706b
-ms.openlocfilehash: dd014f9e5f4a126720614a2d92df3cfbc223bb17
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4be0f4a06100205083834763e39552a1daf008488232fbe681c3ab71e549f764
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47735257"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54060590"
 ---
 # <a name="unable-to-send-group-emails"></a>Không thể gửi email nhóm
 
-Nếu bạn không thể gửi email đến danh sách liên hệ hoặc nhóm liên hệ trong Outlook.com, hãy thử làm như sau:
+Nếu bạn không thể gửi email đến danh sách liên hệ hoặc nhóm liên hệ trong Outlook.com, vui lòng thử cách sau:
   
-1. Sử dụng Outlook.com beta. Để biết thêm thông tin, hãy [Tìm hiểu về Outlook.com Beta](https://support.office.com/article/e2261c7f-d413-4084-8f22-21282f42d8cf).
+1. Sử dụng Outlook.com beta. Để biết thêm thông [tin, hãy Tìm hiểu về Outlook.com beta](https://support.office.com/article/e2261c7f-d413-4084-8f22-21282f42d8cf).
     
-2. Nếu bạn vẫn gặp sự cố khi soạn email cho nhóm của mình, hãy đi tới [mọi người](https://outlook.live.com/people/), chọn danh sách liên hệ hoặc nhóm, rồi chọn **gửi email**.
+2. Nếu bạn vẫn gặp sự cố khi soạn email cho nhóm của mình, hãy đi tới Mọi người [,](https://outlook.live.com/people/)chọn danh sách liên hệ hoặc nhóm, rồi **chọn Gửi email**.
     
- **Boy**
+ **Lưu ý:**
   
-1. Đảm bảo bạn không bị chặn cửa sổ bật lên: gửi email từ trang danh sách liên hệ sẽ mở ra một cửa sổ mới.
+1. Đảm bảo rằng bạn không chặn cửa sổ bật lên: việc gửi email từ trang danh sách liên hệ sẽ mở ra một cửa sổ mới.
     
-2. Gửi thư từ danh sách liên hệ tự động đặt danh sách vào dòng **tới** . Nếu bạn muốn ẩn chi tiết danh sách liên hệ của mình, hãy bấm **Bcc** ở góc trên bên phải, rồi sao chép và dán danh sách liên hệ vào **Bcc** và xóa mục nhập **đến** . 
+2. Gửi thư từ danh sách liên hệ sẽ tự động đặt danh sách trong **dòng** TỚI. Nếu bạn muốn ẩn chi tiết danh sách liên hệ của mình, hãy bấm **BCC** ở góc trên bên phải, rồi sao chép và dán danh sách liên hệ vào **BCC** và xóa **mục nhập TO.** 
     
-3. Khi sử dụng **Bcc**, rất tốt để luôn có điều gì đó trong dòng **tới** , ví dụ: địa chỉ "từ" của riêng bạn. 
+3. Khi sử **dụng BCC,** bạn nên luôn có thông tin trong dòng **TỚI,** ví dụ như địa chỉ "từ" của riêng bạn. 
     
 

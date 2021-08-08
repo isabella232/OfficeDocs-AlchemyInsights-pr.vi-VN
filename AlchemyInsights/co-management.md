@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "1556"
 - "9000080"
-ms.openlocfilehash: c7dc35a484894e147208ef7080c151c6d3af0c63
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: b8a2806a6d828b8ef7ee4e6dff05dcc496857b8ca8f76c777c39ff3155809668
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51817734"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54006408"
 ---
 # <a name="co-management"></a>Đồng quản lý
 
-**Điều kiện tiên quyết cho việc di chuyển từ hỗn hợp trình quản lý cấu hình sang InTune**
+**Điều kiện tiên quyết để di chuyển từ Config Manager Hybrid sang Intune**
 
-- Xem lại [bài viết này](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid).
-- [Thêm giấy phép InTune cho người dùng của bạn](https://docs.microsoft.com/mem/intune/fundamentals/licenses-assign).
-- Sử dụng [trình duyệt Edge](https://www.microsoft.com/edge) khi cấu hình đồng quản lý.
+- Xem [lại bài viết này](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid).
+- [Thêm giấy phép Intune cho người dùng của bạn.](https://docs.microsoft.com/mem/intune/fundamentals/licenses-assign)
+- Sử dụng [trình duyệt Edge](https://www.microsoft.com/edge) khi đặt cấu hình Đồng quản lý.
 
-Có [thể tìm thấy](https://admin.microsoft.com/AdminPortal/Home?#/modernonboarding/comanagesetupguide)trải nghiệm thiết lập theo từng bước được hướng dẫn bằng cách dùng.
+Trải nghiệm thiết lập Đồng quản lý theo từng bước có hướng dẫn có thể được tìm thấy ở [đây.](https://admin.microsoft.com/AdminPortal/Home?#/modernonboarding/comanagesetupguide)
 
-**Làm thế nào để tôi cài đặt ứng dụng khách trình quản lý cấu hình trên thiết bị được quản lý InTune**
+**Cách cài đặt máy khách Config Manager trên thiết bị do Intune quản lý**
 
-Xem [InTune MDM-các thiết bị chạy Windows được quản lý](https://docs.microsoft.com/mem/configmgr/core/clients/deploy/deploy-clients-to-windows-computers#bkmk_mdm).
+Xem [các thiết bị được quản lý bởi Intune MDM Windows bạn.](https://docs.microsoft.com/mem/configmgr/core/clients/deploy/deploy-clients-to-windows-computers#bkmk_mdm)
 
-**Cần phải làm gì nếu tôi muốn thay đổi cơ quan MDM?**
+**Điều gì sẽ xảy ra nếu tôi chỉ muốn thay đổi thẩm quyền MDM?**
 
-Có thể thay đổi cơ quan MDM mà không cần mở một trường hợp hỗ trợ. Vui lòng xem lại các tài liệu hướng dẫn sau đây để hỗ trợ thay đổi cơ quan MDM của bạn:
+Có thể thay đổi Thẩm quyền MDM mà không cần mở trường hợp hỗ trợ. Vui lòng xem lại tài liệu sau đây để hỗ trợ thay đổi cơ quan MDM của bạn:
 
-- [Thay đổi cơ quan MDM từ trình quản lý cấu hình để InTune độc lập](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid)
-- [Thay đổi cơ quan MDM từ InTune độc lập với trình quản lý cấu hình](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid)
+- [Thay đổi MDM Authority từ Trình quản lý Cấu hình sang độc lập Intune](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid)
+- [Thay đổi thẩm quyền MDM từ độc lập Intune thành Trình quản lý Cấu hình](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid)

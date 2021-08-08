@@ -1,5 +1,5 @@
 ---
-title: Không thể nhận email từ các tài khoản Gmail
+title: Không thể nhận email từ tài khoản Gmail
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000048"
 - "3798"
-ms.openlocfilehash: 70472d6a25a386eff623389d29a4463098adb45a
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2742b0d85a80bcca91997adf2b95f1e6b9f5a1a796d8111a961f545f2364613d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51830415"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54060698"
 ---
-# <a name="unable-to-receive-email-from-gmail-accounts"></a>Không thể nhận email từ các tài khoản Gmail
+# <a name="unable-to-receive-email-from-gmail-accounts"></a>Không thể nhận email từ tài khoản Gmail
 
-**SỰ**
+**SỰ CỐ**
 
-Chúng tôi biết rằng một số người dùng có thể không nhận được email từ các tài khoản Gmail. Chúng tôi đang điều tra một vấn đề có thể xảy ra.
+Chúng tôi lưu ý rằng một số người dùng có thể không nhận được email từ các tài khoản Gmail. Chúng tôi đang điều tra một vấn đề có thể xảy ra.
 
-**LỖI**
+**GIẢI PHÁP THAY THẾ**
 
-Kiểm tra xem bạn không vô tình bị chặn tên miền Gmail khi chặn một người dùng Gmail.
+Kiểm tra xem bạn đã không vô tình chặn miền Gmail khi chặn một người dùng Gmail.
 
-1. Mở [danh sách người gửi bị chặn](https://go.microsoft.com/fwlink/?linkid=2121010)của bạn.
+1. Mở danh [sách Người gửi bị Chặn.](https://go.microsoft.com/fwlink/?linkid=2121010)
 
-2. Nếu Gmail.com nằm trong danh sách, hãy bấm vào biểu tượng thùng rác bên cạnh mục nhập và nhấn **lưu**.
+2. Nếu Gmail.com trong danh sách, hãy bấm vào biểu tượng thùng rác cạnh mục nhập và nhấn **Lưu.**

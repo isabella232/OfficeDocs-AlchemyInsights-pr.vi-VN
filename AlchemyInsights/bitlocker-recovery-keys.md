@@ -1,5 +1,5 @@
 ---
-title: Khóa phục hồi BitLocker
+title: Khóa khôi phục Bitlocker
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "1922"
 - "9000220"
-ms.openlocfilehash: ec90e412302c74748e253f2e5430fa4205466f0d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f71fae0aabda3fc48f20d5ea1e6909475f0c17ff5cdf98b58b1403bd2e291c19
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820308"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54060086"
 ---
-# <a name="accessing-bitlocker-recovery-keys"></a>Truy nhập khóa phục hồi BitLocker
+# <a name="accessing-bitlocker-recovery-keys"></a>Truy nhập khóa khôi phục Bitlocker
 
-Khi cấu hình thiết đặt BitLocker InTune Endpoint Protection Policy, có thể xác định việc lưu trữ thông tin phục hồi BitLocker trong Azure Active Directory hay không.
+Khi đặt cấu hình cài đặt Bitlocker Chính sách Bảo vệ Điểm cuối Intune, bạn có thể xác định xem thông tin phục hồi Bitlocker có được lưu trữ trong Azure Active Directory.
 
-Nếu cài đặt đó được cấu hình, dữ liệu phục hồi được lưu trữ sẽ được hiển thị với một người quản trị InTune như là một phần của dữ liệu bản ghi thiết bị trong lưỡi trong thiết bị InTune theo hai cách:
+Nếu cài đặt đó được đặt cấu hình thì người quản trị Intune sẽ hiển thị dữ liệu phục hồi được lưu trữ dưới dạng một phần của dữ liệu bản ghi thiết bị trong Intune Devices bằng hai cách:
 
-Thiết bị-Azure AD Devices-> "thiết bị" hoặc thiết bị-> tất cả các thiết bị-> "thiết bị"-các khóa phục hồi >
+Thiết bị - Thiết bị Azure AD -> "Thiết bị" OR Thiết bị -> Tất cả Thiết bị -> 2 "Thiết bị" -Khóa khôi > hồi
 
-Ngoài ra, nếu có quyền truy nhập quản trị cho chính thiết bị, khóa khôi phục (mật khẩu), bạn có thể nhìn thấy lệnh này bằng cách chạy lệnh sau đây từ dấu nhắc lệnh nâng cao:
+Ngoài ra, nếu có quyền truy nhập quản trị vào chính thiết bị đó, bạn có thể xem khóa khôi phục (Mật khẩu) bằng cách chạy lệnh sau đây từ lời nhắc chỉ lệnh mức cao:
 
 ```
 manage-bde -protectors c: -get
@@ -43,9 +43,9 @@ All Key Protectors
       Password:
         393943-22222-281721-555554-577984-77777-194700-99999
 ```
-Nếu thiết bị đã được mã hóa trước khi đăng ký trong InTune, khóa khôi phục có thể đã được liên kết với "tài khoản Microsoft" (MSA) được sử dụng để đăng nhập vào thiết bị trong quá trình OOBE. Nếu đó là trường hợp, hãy truy cập  https://onedrive.live.com/recoverykey và đăng nhập bằng MSA nên hiển thị các thiết bị mà các khóa phục hồi được lưu trữ.
+Nếu thiết bị đã được mã hóa trước khi đăng ký trong Intune, khóa khôi phục có thể đã được liên kết với "Tài khoản Microsoft" (MSA) được sử dụng để đăng nhập vào thiết bị trong quy trình OOBE. Nếu đúng như vậy, việc truy nhập và đăng nhập bằng MSA đó sẽ hiển thị các thiết bị mà khóa khôi  https://onedrive.live.com/recoverykey phục đã được lưu trữ.
  
-Nếu thiết bị đã được mã hóa là kết quả của việc cấu hình thông qua chính sách nhóm dựa trên tên miền, thông tin phục hồi có thể được lưu trữ trong Active Directory tại chỗ.
+Nếu thiết bị đã được mã hóa do cấu hình thông qua chính sách nhóm dựa trên miền, thông tin phục hồi có thể được lưu trữ trong Active Directory tại chỗ.
 
-Nếu bạn đã cấu hình chính sách bảo vệ Endpoint để lưu trữ khóa phục hồi trong Azure Active Directory nhưng khóa cho một thiết bị cụ thể chưa được tải lên, bạn có thể kích hoạt tải lên bằng cách xoay khóa phục hồi cho thiết bị đó từ bảng điều khiển MEM. Để biết chi tiết, hãy xem [xoay phím phục hồi BitLocker](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#view-details-for-recovery-keys).
+Nếu bạn đã đặt cấu hình Chính sách bảo vệ điểm cuối để lưu trữ khóa khôi phục trong Azure Active Directory nhưng khóa cho một thiết bị cụ thể chưa được tải lên, bạn có thể kích hoạt quá trình tải lên bằng cách xoay khóa khôi phục cho thiết bị đó từ bảng điều khiển MEM. Để biết chi tiết, [hãy xem Xoay khóa khôi phục BitLocker](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#view-details-for-recovery-keys).
 

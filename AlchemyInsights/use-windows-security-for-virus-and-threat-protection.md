@@ -1,5 +1,5 @@
 ---
-title: Sử dụng bảo vệ chống virus và vi-rút cho Windows
+title: Sử dụng các Bảo mật Windows vệ khỏi mối đe dọa và vi rút
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001517"
 - "5609"
-ms.openlocfilehash: 7fbbe5d5a7aa347541f6cedd3dc97daa2b9757d2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: fce177091cd762defb549ec11bc2c9a86bea10c198b4fe5fad17c128379f2a8a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826005"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54006840"
 ---
-# <a name="use-windows-security-for-virus-and-threat-protection"></a>Sử dụng bảo vệ chống virus và vi-rút cho Windows
+# <a name="use-windows-security-for-virus-and-threat-protection"></a>Sử dụng các Bảo mật Windows vệ khỏi mối đe dọa và vi rút
 
-**Bật hoặc tắt bảo vệ thời gian thực của Windows**
+**Bật Bảo mật Windows bảo vệ trong thời gian thực**
 
-1. Bấm vào **bắt đầu**, sau đó đi đến **thiết đặt > Cập Nhật & bảo mật > bảo mật Windows > vi-rút & mối đe dọa bảo vệ**.
-2. Hãy thực hiện một trong các thao tác sau:
-    - Bên dưới "thiết đặt bảo vệ vi-rút & vi-rút", hãy bấm **quản lý thiết đặt**, rồi chuyển thiết đặt **bảo vệ thời gian thực** sang **bật** hoặc **tắt**.
-    - Trong các phiên bản cũ hơn của Windows 10: bấm vào **vi-rút & thiết đặt bảo vệ mối đe dọa**, rồi chuyển đổi thiết đặt **bảo vệ thời gian thực** thành **bật** hoặc **tắt**.
+1. Bấm **vào Bắt** đầu , sau đó đi tới Cài đặt > Cập nhật Bảo & Bảo mật > Bảo mật Windows > chống mối đe **dọa & vi-rút**.
+2. Thực hiện một trong những việc sau:
+    - Trong "Cài đặt bảo vệ & mối đe dọa **vi-rút",** bấm vào Quản lý cài đặt **,** rồi chuyển cài đặt Bảo vệ trong thời gian thực thành **Bật** **hoặc Tắt.**
+    - Trong các phiên bản cũ hơn của Windows 10: Bấm vào Cài  đặt bảo vệ khỏi mối đe **dọa**& vi-rút , rồi chuyển cài đặt Bảo vệ trong thời gian thực thành **Bật** hoặc **Tắt**.
 
-Windows Update tải xuống bản Cập Nhật cho bảo mật Windows tự động để giúp duy trì PC của bạn an toàn và bảo vệ nó khỏi các đe dọa. Để biết thêm về bảo mật của Windows, vui lòng xem [Trợ giúp bảo vệ thiết bị của tôi với bảo mật Windows](https://support.microsoft.com/help/17464/windows-10-help-protect-my-device-with-windows-security).
+Windows Cập nhật tự động tải xuống các bản Bảo mật Windows để giúp giữ cho PC của bạn an toàn và bảo vệ PC khỏi các mối đe dọa. Để biết thêm thông tin về Bảo mật Windows, vui lòng xem Giúp bảo [vệ thiết bị của tôi bằng Bảo mật Windows.](https://support.microsoft.com/help/17464/windows-10-help-protect-my-device-with-windows-security)
