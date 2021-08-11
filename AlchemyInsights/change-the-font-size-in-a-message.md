@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003564"
 - "6664"
-ms.openlocfilehash: 43d14dae440cb7f41624bb4247feb8381cc10a3f
-ms.sourcegitcommit: 76b147af688f0dc39878a913a050c0e56af054a8
+ms.openlocfilehash: 6b3c56e1dab9603e51e8888de69e15fac2c8d5b6662d297aa86eb714978c05e7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "48364975"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53916941"
 ---
 # <a name="change-the-font-size-in-a-message"></a>Thay đổi cỡ phông trong thư
 
-1. Nếu bạn đã nhập thư, hãy chọn văn bản.
-2. Chọn biểu tượng  **định dạng** bên dưới thư đó (biểu tượng đầu tiên).
-3. Chọn biểu tượng  **kích cỡ phông**  phía trên thư (biểu tượng thứ bảy).
+1. Nếu bạn đã nhập tin nhắn, hãy chọn văn bản đó.
+2. Chọn biểu  **tượng** Định dạng bên dưới thư (đó là biểu tượng đầu tiên).
+3. Chọn biểu  **tượng Cỡ**  phông phía trên thư (đó là biểu tượng thứ bảy).
 4. Chọn kích cỡ.

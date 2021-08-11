@@ -1,5 +1,5 @@
 ---
-title: Thiết bị onboard cho Microsoft Defender cho điểm cuối
+title: Thiết bị đi vào Bộ bảo vệ Microsoft dành cho Điểm cuối
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 38d650936d61b78d1f54cd3f6101283d57c6949f
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 39fd7a0e93fbf5d13c23f941c31293789c694929c529b70e9d2a9558dc3f2874
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748436"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53967499"
 ---
-# <a name="onboard-devices-to-microsoft-defender-for-endpoint"></a>Thiết bị onboard cho Microsoft Defender cho điểm cuối
+# <a name="onboard-devices-to-microsoft-defender-for-endpoint"></a>Thiết bị đi vào Bộ bảo vệ Microsoft dành cho Điểm cuối
 
-Microsoft Defender cho điểm cuối cung cấp trải nghiệm hoạt động bảo mật tập trung cho nền tảng Windows và không phải Windows. Nó giúp bạn bảo vệ mạng của tổ chức của mình và sử dụng trung tâm bảo mật Microsoft Defender để xem lại các cảnh báo từ các hệ điều hành được hỗ trợ khác nhau:
+Bộ bảo vệ Microsoft dành cho Điểm cuối cung cấp trải nghiệm hoạt động bảo mật tập trung Windows nền tảng không liên quan Windows nền tảng. Điều này giúp bạn bảo vệ mạng của tổ chức mình và sử dụng Trung tâm Bảo mật của Bộ bảo vệ Microsoft để xem lại cảnh báo từ nhiều hệ điều hành được hỗ trợ khác nhau:
 
-- Đối với **máy Windows 10**, hãy xem các [công cụ và phương pháp onboarding cho các thiết bị chạy Windows 10](https://go.microsoft.com/fwlink/?linkid=2143460).
-- Đối với **máy chủ Windows**, hãy xem [máy chủ onboard vào Microsoft Defender cho dịch vụ điểm cuối](https://go.microsoft.com/fwlink/?linkid=2143627).
-- Đối với các **điểm cuối không** phải của Windows, hãy xác nhận rằng hệ thống của bạn đáp ứng được các yêu cầu đối với [macOS](https://go.microsoft.com/fwlink/?linkid=2143461) hoặc [Linux](https://go.microsoft.com/fwlink/?linkid=2143462), rồi tiếp tục đến [triển khai](https://go.microsoft.com/fwlink/?linkid=2143628).
+- Đối với **máy Windows 10, hãy** xem [Công cụ và phương pháp Triển năng cho thiết Windows 10 động.](https://go.microsoft.com/fwlink/?linkid=2143460)
+- Đối **với Windows, hãy** xem các máy chủ [Onboard của Bộ bảo vệ Microsoft dành cho dịch vụ Điểm cuối](https://go.microsoft.com/fwlink/?linkid=2143627).
+- Đối **với các điểm cuối không** phải Windows , hãy xác minh rằng hệ thống của bạn đáp ứng các yêu cầu cho [macOS](https://go.microsoft.com/fwlink/?linkid=2143461) hoặc [Linux](https://go.microsoft.com/fwlink/?linkid=2143462), rồi tiếp tục [triển lý](https://go.microsoft.com/fwlink/?linkid=2143628).

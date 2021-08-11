@@ -1,5 +1,5 @@
 ---
-title: Mối quan tâm an toàn trên bề mặt, Xbox và Microsoft
+title: Các vấn đề về an toàn của Surface, Xbox và thiết bị Microsoft
 ms.author: pebaum
 author: pebaum
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9754"
 - "9005644"
-ms.openlocfilehash: 5bdfc0d0a4d49ce8de50f1fa69472c834cf213b7
-ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
+ms.openlocfilehash: 6b21e3be7dc0f3a6b38ed8a797e989260406321150f442016e885f6728ea63b7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51505774"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53909740"
 ---
-# <a name="surface-xbox-and-microsoft-devices-safety-concerns"></a>Mối quan tâm an toàn trên bề mặt, Xbox và Microsoft
+# <a name="surface-xbox-and-microsoft-devices-safety-concerns"></a>Các vấn đề về an toàn của Surface, Xbox và thiết bị Microsoft
 
-Nếu bạn muốn thảo luận về một mối quan tâm an toàn sản phẩm (thương tích cá nhân, thiệt hại thuộc tính, khói nhìn thấy được), hãy chọn **liên hệ với chúng tôi** hoặc **nhận thêm trợ giúp** dưới đây để được kết nối trực tiếp đến hỗ trợ hỗ trợ.
+Nếu bạn muốn thảo luận về vấn đề an toàn sản  phẩm  (thương tích cá nhân, hư hại tài sản, thương tích có thể nhìn thấy), hãy chọn Liên hệ với Chúng tôi hoặc Nhận Thêm Trợ giúp bên dưới để được kết nối trực tiếp với nhân viên hỗ trợ có trợ giúp.

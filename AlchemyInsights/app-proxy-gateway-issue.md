@@ -1,5 +1,5 @@
 ---
-title: Sự cố cổng proxy ứng dụng
+title: Sự cố Cổng proxy Ứng dụng
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004356"
 - "7804"
-ms.openlocfilehash: e706b0456199c2dbd3e5ba5e926ac974b7e12c36
-ms.sourcegitcommit: 07501553ea9adabdb50ac613687e1583d159e302
+ms.openlocfilehash: 8b3bbfb1db9be8cb7aa1f651499043b3433bd7b08e3ff271e810c591b6f74acf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 01/20/2021
-ms.locfileid: "49917156"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951551"
 ---
-# <a name="app-proxy-gateway-issue"></a>Sự cố cổng proxy ứng dụng
+# <a name="app-proxy-gateway-issue"></a>Sự cố Cổng proxy Ứng dụng
 
-Để khắc phục sự cố phổ biến cho "ứng dụng công ty này không thể truy nhập được" trên ứng dụng ứng dụng ứng dụng Azure AD, hãy xem thông báo ["không thể truy nhập ứng dụng công ty này" khi sử dụng ứng dụng proxy ứng](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-sign-in-bad-gateway-timeout-error)dụng.
+Để khắc phục các sự cố phổ biến về lỗi "Không thể truy nhập ứng dụng công ty này" trên ứng dụng Azure AD Application Proxy, hãy xem lỗi "Không thể truy nhập ứng dụng công ty [này"](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-sign-in-bad-gateway-timeout-error)khi sử dụng ứng dụng Proxy Ứng dụng .

@@ -1,5 +1,5 @@
 ---
-title: Các bản chiếu PowerPoint không hiển thị trong Skype for Business trên thiết bị chạy Android
+title: PowerPoint chiếu không hiển thị trong Skype for Business các thiết bị chạy Android
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "6017"
 - "9003195"
-ms.openlocfilehash: 180161ebea6ee9cf80c2921c022583481617b015
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 34d61b4f36bb743e56eca5856cbac3b47540d5264881feadf74fe20bf88d64b8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693937"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960317"
 ---
-# <a name="powerpoint-slides-not-showing-in-skype-for-business-on-android-devices"></a>Các bản chiếu PowerPoint không hiển thị trong Skype for Business trên thiết bị chạy Android
+# <a name="powerpoint-slides-not-showing-in-skype-for-business-on-android-devices"></a>PowerPoint chiếu không hiển thị trong Skype for Business các thiết bị chạy Android
 
-Nếu bạn gặp sự cố với các bản chiếu PowerPoint không hiển thị trên thiết bị Android, điều này có thể là do lỗi trong trình duyệt Chrome.
+Nếu bạn gặp phải sự cố với các trang chiếu PowerPoint không hiển thị trên thiết bị chạy Android thì đây có thể là do lỗi trong trình duyệt Chrome.
 
-Thử tắt, rồi dỡ cài đặt, Chrome. Sau khi Chrome được dỡ cài đặt, hãy bật lại Chrome để tải phiên bản nhà máy (74.0.3729.136), trong đó vấn đề đã được giải quyết.
+Hãy thử tắt, rồi gỡ cài đặt Chrome. Sau khi gỡ cài đặt Chrome, hãy kích hoạt lại Chrome để tải phiên bản gốc (74.0.3729.136) có thể giải quyết được sự cố.

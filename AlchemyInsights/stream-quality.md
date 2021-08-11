@@ -1,5 +1,5 @@
 ---
-title: Chất lượng dòng
+title: Chất lượng phát trực tuyến
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002552"
 - "5104"
-ms.openlocfilehash: 36397e42ea55d32e510b49ac70c4371de8914465
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 50449787e4fd37fe9ac15c34ecf7695fb8208c75d478bea6f25af3787063083b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51825069"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53909812"
 ---
-# <a name="stream-quality"></a>Chất lượng dòng
+# <a name="stream-quality"></a>Chất lượng phát trực tuyến
 
-Stream sử dụng HTTPS unicast Adaptive bitrate streaming (ABR) để tự động chọn chất lượng phát lại video tốt nhất dựa trên băng thông và kích cỡ mạng sẵn dùng của trình phát video. Để biết thêm thông tin, hãy xem:
+Stream sử dụng tính năng phát trực tuyến bitrate thích nghi HTTPS unicast (ABR) để tự động chọn chất lượng phát lại video tốt nhất dựa trên băng thông mạng sẵn có và kích cỡ của trình phát video. Để biết thêm thông tin, hãy xem:
 
-- [Tổng quan về chuyển phát video và mạng Microsoft Stream](https://docs.microsoft.com/stream/network-overview)
+- [Tổng quan về mạng và chuyển phát video trong Microsoft Stream](https://docs.microsoft.com/stream/network-overview)

@@ -1,5 +1,5 @@
 ---
-title: Thiết đặt khởi động trong Windows 10
+title: Cài đặt khởi động trong Windows 10
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,43 +12,43 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001691"
 - "3768"
-ms.openlocfilehash: 6dfae58a398db088ba00d9c2ea9788bab929ccc1
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 526b92013f26675b5bf42077271ae7dc7003af31fa8f605d76aea92e0ccabfa1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51828174"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53909848"
 ---
-# <a name="startup-settings-in-windows-10"></a>Thiết đặt khởi động trong Windows 10
+# <a name="startup-settings-in-windows-10"></a>Cài đặt khởi động trong Windows 10
 
-**Thay đổi ứng dụng chạy tự động khi khởi động**
+**Thay đổi các ứng dụng tự động chạy khi khởi động**
 
-1. Đi đến [cài đặt > ứng dụng > khởi động](ms-settings:startupapps?activationSource=GetHelp).
+1. Đi tới [Cài đặt > Apps > Startup](ms-settings:startupapps?activationSource=GetHelp).
 
-2. Hãy đảm bảo bất kỳ ứng dụng nào mà bạn muốn chạy **khi bật khởi** động.
+2. Đảm bảo mọi ứng dụng bạn muốn chạy khi khởi động đều **được Bật**.
 
 **Thêm ứng dụng để chạy tự động khi khởi động**
 
-1. Bấm hoặc gõ nhẹ vào **bắt đầu** và tìm ứng dụng mà bạn muốn chạy khi khởi động.
+1. Bấm hoặc nhấn vào **Bắt** đầu và tìm ứng dụng mà bạn muốn chạy khi khởi động.
 
-2. Bấm chuột phải vào ứng dụng, bấm vào **xem thêm**, rồi bấm vào **mở vị trí tệp**. Việc này sẽ mở ra vị trí mà lối tắt đến ứng dụng được lưu. Nếu không có tùy chọn nào để mở vị trí tệp, điều đó có nghĩa là ứng dụng không thể chạy khi khởi động.
+2. Bấm chuột phải vào ứng dụng, bấm **Thêm**, sau đó bấm **Mở vị trí tệp**. Làm như vậy sẽ mở vị trí lưu lối tắt đến ứng dụng. Nếu không có tùy chọn cho Mở vị trí tệp, nghĩa là ứng dụng không thể chạy khi khởi động.
 
-3. Khi mở vị trí tệp, hãy nhấn **phím logo Windows + R**, nhập **Shell: khởi động**, rồi bấm **OK**. Việc này sẽ mở ra thư mục khởi động.
+3. Khi vị trí tệp mở, hãy **nhấn phím Windows logo + R**, type **shell:startup**, sau đó bấm **OK.** Làm như vậy sẽ mở thư mục Khởi động.
 
-4. Sao chép và dán lối tắt vào ứng dụng từ vị trí tệp vào thư mục khởi động.
+4. Sao chép và dán lối tắt đến ứng dụng từ vị trí tệp vào thư mục Khởi động.
 
-**Tùy chọn khởi động nâng cao (bao gồm chế độ an toàn, thiết đặt UEFI và khởi động từ thiết bị khác)**
+**Tùy chọn khởi động nâng cao (bao Két sắt Mode, cài đặt UEFI và khởi động từ thiết bị khác)**
 
 1. Lưu công việc của bạn và đóng mọi tài liệu đang mở, vì các bước này sẽ khởi động lại PC của bạn.
 
-2. Đi đến [cài đặt > Cập nhật & bảo mật > phục hồi](ms-settings:recovery?activationSource=GetHelp).
+2. Đi tới Cài đặt > [Cập nhật & hồi > hồi](ms-settings:recovery?activationSource=GetHelp).
 
-3. Dưới **khởi động nâng cao**, hãy bấm **khởi động lại ngay**. 
+3. Bên dưới **Khởi động nâng cao,** bấm **vào Khởi động lại ngay**. 
 
-4. Sau khi PC của bạn khởi động lại màn hình chọn tùy chọn:
+4. Sau khi PC khởi động lại đến màn hình Chọn một tùy chọn:
 
-    - Để khởi động từ một thiết bị như ổ đĩa USB, hãy bấm **sử dụng thiết bị**.
+    - Để khởi động từ một thiết bị như ổ đĩa USB, bấm vào **Sử dụng thiết bị**.
 
-    - Để nhập các thiết đặt UEFI (đôi khi được gọi là thiết lập BIOS), hãy bấm **khắc phục sự cố > tùy chọn nâng cao > thiết đặt phần vững UEFI**. 
+    - To enter the UEFI settings (sometimes called BIOS setup), click **troubleshoot > Advanced options > UEFI Firmware Cài đặt**. 
 
-    - Để nhập chế độ an toàn hoặc thay đổi thiết đặt khởi động nâng cao, hãy bấm **khắc phục sự cố > tùy chọn nâng cao > thiết đặt khởi động**, rồi bấm **khởi động lại**. Bạn có thể được yêu cầu nhập [khóa khôi phục BitLocker](https://support.microsoft.com/help/4026181/windows-10-find-my-bitlocker-recovery-key)của bạn. Sau khi khởi động lại PC của bạn, hãy bấm vào thiết đặt khởi động bạn muốn sử dụng.
+    - Để vào Chế độ Két sắt thay đổi thiết đặt khởi động nâng cao, hãy bấm Khắc phục sự cố > chọn Nâng cao > **khởi Cài đặt**, sau đó bấm Khởi động **lại.** Bạn có thể được yêu cầu nhập khóa [khôi phục BitLocker.](https://support.microsoft.com/help/4026181/windows-10-find-my-bitlocker-recovery-key) Sau khi PC khởi động lại lần nữa, hãy bấm vào thiết đặt khởi động mà bạn muốn sử dụng.
