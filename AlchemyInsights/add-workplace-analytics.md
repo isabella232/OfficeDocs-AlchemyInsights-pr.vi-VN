@@ -1,5 +1,5 @@
 ---
-title: Thêm phân tích nơi làm việc
+title: Thêm phân tích về nơi làm việc
 ms.author: erikje
 author: erikje
 manager: dougeby
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004018"
 - "7081"
-ms.openlocfilehash: 37748293e62e490ad6322d9095cd7b08904f50c6
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: d3abd1110b78092563ce26b279cd955d31ef5063425db78567c3cfd906007c0e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49089037"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53935143"
 ---
-# <a name="add-workplace-analytics"></a>Thêm phân tích nơi làm việc
+# <a name="add-workplace-analytics"></a>Thêm phân tích về nơi làm việc
 
-Với việc cấp phép thích hợp, công ty của bạn có thể có được phân tích nơi làm việc dưới dạng phần bổ trợ cho thỏa thuận cấp phép của nó. Để có thể mua giấy phép phân tích nơi làm việc, công ty của bạn cần những điều sau đây: 
+Với giấy phép phù hợp, công ty của bạn có thể nhận Workplace Analytics dưới dạng phần bổ trợ cho thỏa thuận cấp phép. Để có thể mua giấy phép Workplace Analytic, công ty của bạn cần những thông tin sau: 
 
-- [Thỏa thuận doanh nghiệp (EA)](https://docs.microsoft.com/workplace-analytics/setup/environment-requirements#enterprise-agreements) với Microsoft
-- Một sản phẩm Office 365 hoặc Microsoft 365 có chứa cả [Exchange Online Plan 1 hoặc Exchange Online Plan 2](https://docs.microsoft.com/workplace-analytics/setup/environment-requirements#exchange-online-plans)
+- Một [Thỏa thuận Doanh nghiệp dụng (EA)](https://docs.microsoft.com/workplace-analytics/setup/environment-requirements#enterprise-agreements) với Microsoft
+- Sản Office 365 hoặc Microsoft 365 phẩm có chứa [Exchange Online Plan 1 hoặc Plan 1 Exchange Online Plan 2](https://docs.microsoft.com/workplace-analytics/setup/environment-requirements#exchange-online-plans)
 
-Để biết thêm thông tin, hãy xem mục [yêu cầu phân tích nơi làm việc](https://docs.microsoft.com/workplace-analytics/setup/environment-requirements). 
+Để biết thêm thông tin, hãy xem [mục Yêu cầu đối với Phân tích nơi làm việc](https://docs.microsoft.com/workplace-analytics/setup/environment-requirements). 

@@ -1,5 +1,5 @@
 ---
-title: Giải pháp cho các sự cố về đồng bộ hóa
+title: Giải pháp cho các vấn đề đồng bộ hóa AAD
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,26 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002418"
 - "4695"
-ms.openlocfilehash: fa4fc0ece7de2a98b571e96c8a825e0df106c1a9
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: dc8aa402d1c6f0329119c959795773825961ab9d9dcd283cd64810a901594ac2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51832548"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54093146"
 ---
-# <a name="solutions-for-aad-synchronization-problems"></a>Giải pháp cho các sự cố về đồng bộ hóa
+# <a name="solutions-for-aad-synchronization-problems"></a>Giải pháp cho các vấn đề đồng bộ hóa AAD
 
-**Cảnh báo trong Trung tâm quản trị hoặc email tự động mà vẫn chưa có sự kiện đồng bộ hóa gần đây**:
+**Cảnh báo trong trung tâm quản trị hoặc email tự** động rằng chưa xảy ra sự kiện đồng bộ hóa gần đây:
 
-- [Khắc phục sự cố về kết nối với Azure AD Connect](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-connectivity)
-- [Kết nối tài khoản và quyền của Azure AD](https://go.microsoft.com/fwlink/p/?LinkId=820598)
-- [Đồng bộ Azure AD Connect: cách quản lý tài khoản Dịch vụ Azure AD](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-azureadaccount)
-- [Đồng bộ hóa thư mục để Azure Active Directory dừng hoặc bạn được cảnh báo rằng đồng bộ đã không đăng ký trong hơn một ngày](https://support.microsoft.com/help/2882421/directory-synchronization-to-azure-active-directory-stops-or-you-re-warned-that-sync-hasn-t-registered-in-more-than-a-day)
+- [Khắc phục sự cố kết nối với Azure AD Kết nối](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-connectivity)
+- [Tài khoản Kết nối Azure AD và quyền](https://go.microsoft.com/fwlink/p/?LinkId=820598)
+- [Đồng bộ Azure AD Kết nối: Cách quản lý tài khoản dịch vụ Azure AD](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-azureadaccount)
+- [Đồng bộ hóa thư Azure Active Directory các điểm dừng hoặc bạn đã được cảnh báo rằng hoạt động đồng bộ chưa đăng ký trong nhiều ngày](https://support.microsoft.com/help/2882421/directory-synchronization-to-azure-active-directory-stops-or-you-re-warned-that-sync-hasn-t-registered-in-more-than-a-day)
  
-Hàm **hàm băm mật khẩu không** đồng bộ:
+**Băm mật khẩu không đồng bộ hóa:**
 
-- [Triển khai đồng bộ hóa hash mật khẩu với Azure AD Connect Sync](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-password-hash-synchronization)
+- [Triển khai đồng bộ hóa băm mật khẩu với đồng bộ Azure AD Kết nối động](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-password-hash-synchronization)
 
-**Các đối tượng được đồng bộ không xuất hiện hoặc cập nhật trực tuyến**:
+**Đối tượng được đồng bộ không xuất hiện hoặc cập nhật trực tuyến:**
 
-- [Đồng bộ hóa danh tính và thuộc tính trùng lặp Resiliency](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-syncservice-duplicate-attribute-resiliency)
+- [Đồng bộ hóa danh tính và phục hồi thuộc tính trùng lặp](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-syncservice-duplicate-attribute-resiliency)

@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "1750"
 - "9000076"
-ms.openlocfilehash: 720dc31dc4db98714e5f8aa7a6ce95d83b6b0229
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 02208d52b478b382119bd6634709f52dfc0a27f4e0eb251bcfdb4d96d47dac82
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664912"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54093044"
 ---
 # <a name="troubleshoot-resource-access-issues"></a>Khắc phục sự cố truy nhập tài nguyên
 
-Để biết thông tin về các loại hồ sơ InTune hỗ trợ để cho phép truy nhập cho người dùng đến cơ sở hạ tầng và tài nguyên của công ty, hãy xem:
+Để biết thông tin về các loại hồ sơ Mà Intune hỗ trợ cho phép người dùng truy nhập vào cơ sở hạ tầng và tài nguyên của công ty, hãy xem:
 
-- [Thêm thiết đặt email vào các thiết bị bằng cách sử dụng InTune](https://docs.microsoft.com/intune/email-settings-configure)
-- [Tạo hồ sơ VPN để kết nối với các máy chủ VPN trong InTune](https://docs.microsoft.com/intune/vpn-settings-configure))
-- [Thêm và sử dụng thiết đặt Wi-Fi trên thiết bị của bạn trong Microsoft InTune](https://docs.microsoft.com/intune/wi-fi-settings-configure)
-- [Sử dụng chứng chỉ xác thực trong Microsoft InTune](https://docs.microsoft.com/intune/certificates-configure)
+- [Thêm cài đặt email vào thiết bị bằng cách sử dụng Intune](https://docs.microsoft.com/intune/email-settings-configure)
+- [Tạo cấu hình VPN để kết nối với máy chủ VPN trong Intune](https://docs.microsoft.com/intune/vpn-settings-configure))
+- [Thêm và sử dụng Wi-Fi quan hệ trên thiết bị của bạn trong Microsoft Intune](https://docs.microsoft.com/intune/wi-fi-settings-configure)
+- [Sử dụng chứng chỉ để xác thực trong Microsoft Intune](https://docs.microsoft.com/intune/certificates-configure)
 
-Để biết thêm thông tin về các hồ sơ thiết bị InTune, hãy xem các [câu hỏi thường gặp và câu trả lời với chính sách và hồ sơ của thiết bị trong Microsoft InTune](https://docs.microsoft.com/intune/device-profile-troubleshoot).
+Để biết thêm thông tin về hồ sơ thiết bị Intune, hãy xem Câu hỏi thường gặp và câu trả lời với chính sách thiết bị và [hồ sơ trong Microsoft Intune](https://docs.microsoft.com/intune/device-profile-troubleshoot).
 
-Để biết thêm thông tin về khắc phục sự cố về các hồ sơ truy nhập tài nguyên, hãy xem mục [mã lỗi và mô tả thông thường trong Microsoft InTune](https://docs.microsoft.com/intune/troubleshoot-company-resource-access-problems).
+Để biết thêm thông tin khắc phục sự cố về hồ sơ truy nhập tài nguyên, hãy xem mục Mã [lỗi và mô tả phổ biến Microsoft Intune.](https://docs.microsoft.com/intune/troubleshoot-company-resource-access-problems)

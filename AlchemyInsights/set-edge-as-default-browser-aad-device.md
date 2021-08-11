@@ -1,5 +1,5 @@
 ---
-title: Đặt Microsoft Edge làm trình duyệt mặc định trên một công cụ Azure Active Directory – đã gia nhập thiết bị
+title: Đặt Microsoft Edge làm trình duyệt mặc định trên thiết bị Azure Active Directory nối
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "10363"
 - "9006005"
-ms.openlocfilehash: 9ad0064a56378d30a84fb2266208ae83f3bfe044
-ms.sourcegitcommit: e552d65aac79433a911723412bf1252d20d3f0da
+ms.openlocfilehash: a9ed5b3c6ffd7e7abba88826ecacf8a61d263a8ae04660243c7e4de0d30f7995
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/30/2021
-ms.locfileid: "51492054"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54061130"
 ---
-# <a name="set-microsoft-edge-as-the-default-browser-on-an-azure-active-directoryjoined-device"></a>Đặt Microsoft Edge làm trình duyệt mặc định trên một công cụ Azure Active Directory – đã gia nhập thiết bị
+# <a name="set-microsoft-edge-as-the-default-browser-on-an-azure-active-directoryjoined-device"></a>Đặt Microsoft Edge làm trình duyệt mặc định trên thiết bị Azure Active Directory nối
 
-Làm theo các bước trong [cấu hình Defaultassociationsconfiguration](https://go.microsoft.com/fwlink/?linkid=2132650).
+Làm theo các bước [trong DefaultAssociationsConfiguration](https://go.microsoft.com/fwlink/?linkid=2132650).
 
-Để tìm hiểu thêm, hãy xem [mục đặt Microsoft Edge làm trình duyệt mặc định trên Azure Active Directory đã gia nhập thiết bị](https://go.microsoft.com/fwlink/?linkid=2132440).
+Để tìm hiểu thêm, hãy [xem Đặt Microsoft Edge làm trình duyệt mặc định trên các thiết Azure Active Directory nối.](https://go.microsoft.com/fwlink/?linkid=2132440)

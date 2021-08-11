@@ -1,5 +1,5 @@
 ---
-title: Giải quyết lỗi ' không phải là miền được chấp nhận '
+title: Giải quyết lỗi 'Không phải tên miền được chấp nhận'
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,16 +12,16 @@ ms.custom:
 - "839"
 - "1"
 ms.assetid: 5190e27b-f94b-4f3c-b5b8-841e2bd7cff9
-ms.openlocfilehash: 6cf72dda355949e6d5f83214b26f2c8d435fd9b2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a7ea5ebefb0c9a68af5883d7d2f9bed0f4100a53200e30e859d6f90ee519779f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47737903"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54093080"
 ---
-# <a name="got-a-parameter-cannot-be-found-error"></a>Bạn đã nhận được thông báo lỗi ' không tìm thấy '?
+# <a name="got-a-parameter-cannot-be-found-error"></a>Bạn có lỗi 'Không thể tìm thấy tham số'?
 
-Nếu bạn nhận được thông báo lỗi **"không thể tìm thấy một tham số khớp với tên tham số ' EmailAddresses"**, điều đó có nghĩa là nó sẽ kéo dài lâu hơn cho Microsoft 365 để hoàn tất việc thiết lập đối tượng thuê của bạn hoặc tên miền tùy chỉnh của bạn nếu gần đây bạn đã thêm một.
+Nếu bạn gặp thông báo lỗi "Không tìm được tham số khớp với tên tham số **'EmailAddresses'"** thì có nghĩa là Microsoft 365 sẽ mất thêm một chút thời gian để hoàn tất việc thiết lập đối tượng thuê hoặc tên miền riêng của bạn, nếu gần đây bạn đã thêm một đối tượng.
   
-Quá trình thiết lập có thể mất đến 4 giờ để hoàn thành. Chờ một lúc để quá trình thiết lập có thời gian kết thúc, rồi thử lại.
+Quy trình thiết lập có thể mất đến 4 giờ để hoàn tất. Hãy chờ một chút để quy trình thiết lập hoàn tất, rồi thử lại.
   

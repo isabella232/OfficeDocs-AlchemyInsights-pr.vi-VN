@@ -1,5 +1,5 @@
 ---
-title: Đăng xuất khỏi nhóm để giải quyết lỗi tải chunk
+title: Đăng xuất khỏi màn Teams giải quyết lỗi tải đoạn
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002922"
 - "5592"
-ms.openlocfilehash: 51ba8ef206340c8edb63a905d87ce6ac6355d503
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 83cda9e663e5143e5023e6a233bf6dd7d515d541bd0fe6e13e50b61c26066416
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51786943"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54093224"
 ---
-# <a name="sign-out-of-teams-to-resolve-loading-chunk-error"></a>Đăng xuất khỏi nhóm để giải quyết lỗi tải chunk
+# <a name="sign-out-of-teams-to-resolve-loading-chunk-error"></a>Đăng xuất khỏi màn Teams giải quyết lỗi tải đoạn
 
-Nếu bạn nhận được lỗi "**tải đoạn XXX không** thành công" khi truy nhập vào tab tệp trong nhóm, hãy thử đăng xuất khỏi nhóm, sau đó đăng nhập lại để giải quyết lỗi.
+Nếu bạn đang gặp lỗi " Tải **khúc xxx** không thành công " khi truy nhập tab tệp trong Teams, hãy thử đăng xuất khỏi nhóm, sau đó đăng nhập lại để giải quyết lỗi.
 
-- Để hiểu cách đăng xuất khỏi các nhóm, hãy xem mục [đăng xuất khỏi nhóm](https://support.microsoft.com/en-ie/office/sign-out-of-teams-a6d76e69-e1dd-4bc4-8e5f-04ba48384487).
+- Để tìm hiểu cách đăng xuất khỏi Teams, hãy [xem đăng xuất khỏi Teams.](https://support.microsoft.com/en-ie/office/sign-out-of-teams-a6d76e69-e1dd-4bc4-8e5f-04ba48384487)

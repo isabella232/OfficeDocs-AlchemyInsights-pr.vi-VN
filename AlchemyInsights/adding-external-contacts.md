@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "4000007"
 - "1430"
-ms.openlocfilehash: bb29d04fe8de94af863ae062a76a158ae2f5b4d8
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 92d776675c2c70bfb651ce09e0f2d7b815366f22a87f2e468964fa4971d275f4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822153"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53934927"
 ---
-# <a name="enable-external-communications-and-add-contacts"></a>Bật liên lạc bên ngoài và thêm liên hệ
+# <a name="enable-external-communications-and-add-contacts"></a>Cho phép liên lạc bên ngoài và thêm liên hệ
 
-Trong Skype for Business, bạn có thể thêm người vào danh sách liên hệ của bạn để họ chỉ cần bấm vào đi. Mọi liên hệ bạn thêm vào đều được gán tư cách thành viên trong một hoặc nhiều nhóm liên hệ của bạn. Xem lại [Thêm một liên hệ trong Skype for Business](https://support.office.com/article/add-a-contact-in-skype-for-business-89338023-2adf-4f5c-90b6-f8b6f72fadd1) để biết thêm thông tin. 
+Trong Skype for Business, bạn có thể thêm người vào Danh sách liên hệ của bạn để có thể liên lạc với họ chỉ bằng một cú bấm chuột. Mọi liên hệ bạn thêm vào đều được gán tư cách thành viên trong một hoặc nhiều nhóm liên hệ của bạn. Xem [lại mục Thêm liên hệ trong Skype for Business](https://support.office.com/article/add-a-contact-in-skype-for-business-89338023-2adf-4f5c-90b6-f8b6f72fadd1) thêm thông tin. 
 
-Hãy đảm bảo rằng người quản trị đối tượng thuê của bạn đã làm theo các bước để [cho phép liên lạc bên ngoài](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/allow-users-to-contact-external-skype-for-business-users).
+Hãy đảm bảo rằng người quản trị đối tượng thuê của bạn đã làm theo các bước cho [Phép liên lạc bên ngoài.](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/allow-users-to-contact-external-skype-for-business-users)
 
-Bạn chỉ muốn cho phép người dùng liên hệ với người dùng Skype Consumer? Xem mục [cho phép người dùng Skype for Business thêm liên hệ Skype](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts). 
+Bạn chỉ muốn cho phép người dùng liên hệ với người dùng Skype tiêu dùng của mình? Xem [mục Cho phép Skype for Business thêm liên Skype hệ của bạn.](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts) 
