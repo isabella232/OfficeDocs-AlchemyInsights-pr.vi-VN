@@ -1,5 +1,5 @@
 ---
-title: Không thể thêm phần đính kèm vào biểu mẫu bên ngoài
+title: Không thể thêm tệp đính kèm vào biểu mẫu hướng ra bên ngoài
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003121"
 - "5901"
-ms.openlocfilehash: 50434b664d0fbec6788f7d5601f39123420489bd
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: caa23df4aa0847a8c31fc015e8c18859132a5a2c1ff7fe6d3dd98357671c3435
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51797347"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53920237"
 ---
-# <a name="unable-to-add-an-attachment-to-an-externally-facing-form"></a>Không thể thêm phần đính kèm vào biểu mẫu bên ngoài
+# <a name="unable-to-add-an-attachment-to-an-externally-facing-form"></a>Không thể thêm tệp đính kèm vào biểu mẫu hướng ra bên ngoài
 
-Nếu bạn đang cố gắng thêm phần đính kèm vào khảo sát biểu mẫu Microsoft bên ngoài, tính năng đó chưa sẵn dùng. Để theo dõi trạng thái của yêu cầu tính năng đó, hãy đi đến [mục nhập UserVoice này](https://go.microsoft.com/fwlink/?linkid=2133069)và thêm phiếu bầu của bạn.
+Nếu bạn đang tìm cách thêm phần đính kèm vào khảo sát Microsoft Forms bên ngoài, tính năng đó vẫn chưa sẵn dùng. Để theo dõi trạng thái của yêu cầu tính năng đó, hãy đi đến [mục nhập UserVoice này](https://go.microsoft.com/fwlink/?linkid=2133069), rồi thêm bình chọn của bạn.

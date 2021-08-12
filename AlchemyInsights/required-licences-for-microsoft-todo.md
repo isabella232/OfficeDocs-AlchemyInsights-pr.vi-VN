@@ -1,5 +1,5 @@
 ---
-title: Giấy phép bắt buộc đối với Microsoft ToDo
+title: Giấy phép bắt buộc cho Microsoft ToDo
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,50 +14,50 @@ ms.custom:
 - "164"
 - "1600027"
 ms.assetid: b2cf6d0a-9f01-49d8-8653-6a3366f6119d
-ms.openlocfilehash: 981e2a639e886cffc453e1a1accff7f8a71a0959
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 232aa6ea3f4dae92b84436ef2441be095c858a3b65ca33e754d802f39edc2097
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51828786"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972999"
 ---
-# <a name="required-licenses-for-microsoft-todo"></a>Giấy phép bắt buộc đối với Microsoft ToDo
+# <a name="required-licenses-for-microsoft-todo"></a>Giấy phép bắt buộc cho Microsoft ToDo
 
-[Giấy phép bắt buộc đối với Microsoft ToDo](https://support.office.com/article/381e9d1b-c500-49b5-973e-890fd86528d7.aspx)
+[Giấy phép bắt buộc cho Microsoft ToDo](https://support.office.com/article/381e9d1b-c500-49b5-973e-890fd86528d7.aspx)
   
-Người dùng phải có một trong các giấy phép sau đây để sử dụng Microsoft ToDo:
+Người dùng phải có một trong các giấy phép sau để sử dụng Microsoft ToDo:
   
-- Công việc cần thiết
+- Business Essentials
 
-- Business Premium
+- Doanh nghiệp Premium
 
-- Microsoft 365 Firstline F1
+- Microsoft 365 Dòng đầu tiên F1
 
 - Bất kỳ gói Office 365 Enterprise nào
 
-- Kinh doanh hiệu quả bảo mật
+- Secure Productive Business
 
-- Doanh nghiệp hiệu quả bảo mật E3
+- Secure Productive Enterprise E3
 
-- E5 doanh nghiệp hiệu quả bảo mật
+- Secure Productive Enterprise E5
 
-- Bất kỳ gói Office 365 Education nào
+- Bất kỳ Office 365 Education nào
 
 - Microsoft 365 A3
 
 - Microsoft 365 A5
 
-Ngoài giấy phép sản phẩm hợp lệ, một trong các phiên bản Exchange Online sau đây là cần thiết để ToDo có thể đồng bộ dữ liệu người dùng:
+Ngoài giấy phép sản phẩm hợp lệ, bạn sẽ cần có một trong các phiên bản sau của Exchange Online để ToDo có thể đồng bộ dữ liệu người dùng:
   
-- Gói Exchange Online 1
+- Exchange Online Plan 1
 
-- Exchange Online gói 2
+- Exchange Online Plan 2
 
-- Exchange Essentials
+- Exchange Tính năng thiết yếu
 
-- Kiosk của Exchange Online
+- Exchange Online Kiosk
 
-- Cửa sổ bật lên Exchange Online
+- Exchange Online POP
 
-[Gán giấy phép cho tài khoản người dùng với Office 365 PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/assign-licenses-to-user-accounts-with-office-365-powershell )
+[Gán giấy phép cho tài khoản người dùng Office 365 PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/assign-licenses-to-user-accounts-with-office-365-powershell )
   

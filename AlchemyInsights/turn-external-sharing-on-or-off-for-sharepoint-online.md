@@ -1,5 +1,5 @@
 ---
-title: Bật hoặc tắt tính năng chia sẻ bên ngoài cho SharePoint Online
+title: Bật hoặc tắt chia sẻ với bên ngoài cho SharePoint Online
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000191"
 - "3168"
-ms.openlocfilehash: 1df1d784d85bbaba2c1932b4d7bbae90448beef3
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 35cc955f3f6412f985f74d785d81815ae93a1ab5a719bf9b4de9154c024a2979
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51808921"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53920417"
 ---
-# <a name="turn-external-sharing-on-or-off-for-sharepoint-online"></a>Bật hoặc tắt tính năng chia sẻ bên ngoài cho SharePoint Online
+# <a name="turn-external-sharing-on-or-off-for-sharepoint-online"></a>Bật hoặc tắt chia sẻ với bên ngoài cho SharePoint Online
 
-Để tìm hiểu cách người quản trị toàn cầu và SharePoint có thể thay đổi thiết đặt chia sẻ của tổ chức của họ cho SharePoint và OneDrive, hãy xem mục  [bật hoặc tắt chia sẻ với bên ngoài](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off).
+Để tìm hiểu cách người quản trị toàn cầu và người quản trị SharePoint có thể thay đổi thiết đặt chia sẻ cấp tổ chức của họ cho SharePoint và OneDrive, hãy xem Bật hoặc tắt chia sẻ [với bên ngoài](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off).

@@ -1,5 +1,5 @@
 ---
-title: Nhóm cho phép hoặc tắt video IP
+title: Teams phép hoặc tắt video IP
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,32 +12,32 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002537"
 - "5617"
-ms.openlocfilehash: 059d7a1ad619e25f14bc6f561693b6fe24355132
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: ad60225e5deee4a37831a3145d37916c9ce849f9f4cf475dce4c9a6210f83af9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826365"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53940661"
 ---
-# <a name="teams-allow-or-disable-ip-video"></a>Nhóm cho phép hoặc tắt video IP
+# <a name="teams-allow-or-disable-ip-video"></a>Teams phép hoặc tắt video IP
 
 **Thay đổi hoặc tạo chính sách cuộc họp**
 
-Để thay đổi hoặc tạo chính sách cuộc họp, hãy đi đến **Trung tâm quản trị nhóm Microsoft > cuộc họp > chính sách cuộc họp**. Chọn một chính sách từ danh sách hoặc bấm vào **Thêm**. Nếu bạn đang tạo chính sách mới, hãy thêm tên và mô tả. Tên không thể chứa các ký tự đặc biệt hoặc dài hơn 64 ký tự. Chọn thiết đặt của bạn, rồi bấm **lưu**.
+Để thay đổi hoặc tạo chính sách cuộc họp, hãy đi đến trung Microsoft Teams quản trị viên **của > sách Cuộc > họp.** Chọn một chính sách từ danh sách hoặc bấm **Thêm**. Nếu bạn đang tạo chính sách mới, hãy thêm tên và mô tả. Tên không được chứa ký tự đặc biệt hoặc dài hơn 64 ký tự. Chọn thiết đặt của bạn, rồi bấm **Lưu**.
 
-Ví dụ, giả sử bạn có nhiều người dùng và bạn muốn giới hạn số lượng băng thông mà cuộc họp của họ sẽ yêu cầu. Bạn sẽ tạo một chính sách tùy chỉnh mới có tên là "bị hạn chế băng thông" và vô hiệu hóa các thiết đặt sau đây:
+For example, say you have many users and you want to limit the amount of bandwidth that their meeting would require. Bạn sẽ tạo một chính sách tùy chỉnh mới có tên là "Băng thông hạn chế" và tắt các cài đặt sau đây:
 
-Bên dưới **video & âm thanh**:
+Bên **dưới Video & video:**
 
-- Tắt cho phép ghi đám mây.
-- Tắt cho phép IP video.
+- Tắt Cho phép ghi trên đám mây.
+- Tắt Cho phép video IP.
 
-Sau đó, gán chính sách cho người dùng.
+Sau đó gán chính sách cho người dùng.
 
 **Gán chính sách cuộc họp cho người dùng**
 
-1. Trong dẫn hướng bên trái của Trung tâm quản trị nhóm Microsoft, đi tới **người dùng**, rồi bấm vào người dùng.
-2. Chọn người dùng bằng cách bấm vào bên trái tên người dùng, rồi bấm **sửa thiết đặt**.
-3. Bên dưới **chính sách cuộc họp**, hãy chọn chính sách bạn muốn gán rồi bấm **áp dụng**.
+1. In the left navigation of the Microsoft Teams admin center, go to **Users**, and then click the user.
+2. Chọn người dùng bằng cách bấm vào bên trái tên người dùng, rồi bấm vào Chỉnh **sửa cài đặt.**
+3. Bên **dưới Chính sách** cuộc họp, chọn chính sách mà bạn muốn gán, rồi bấm Áp **dụng**.
 
-Để biết thêm thông tin, hãy xem [quản lý chính sách cuộc họp trong nhóm](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams).
+Để biết thêm thông tin, hãy [xem Quản lý chính sách cuộc họp Teams.](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams)

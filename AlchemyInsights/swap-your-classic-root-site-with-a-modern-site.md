@@ -1,5 +1,5 @@
 ---
-title: Trao đổi site gốc cổ điển của bạn với site hiện đại
+title: Hoán đổi site gốc Cổ điển của bạn với site Hiện đại
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -13,28 +13,28 @@ ms.assetid: ''
 ms.custom:
 - "9000687"
 - "2579"
-ms.openlocfilehash: 10e8e4bf5e0def9a8256066e1a3c39b9923d31b0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7209595f5cda9b31e53241d9d5696fa584ff5e5ab3d237aae28542bf7aec9398
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47691201"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53940841"
 ---
-# <a name="swap-your-classic-root-site-with-a-modern-site"></a>Trao đổi site gốc cổ điển của bạn với site hiện đại
+# <a name="swap-your-classic-root-site-with-a-modern-site"></a>Hoán đổi site gốc Cổ điển của bạn với site Hiện đại
 
-Nếu môi trường của bạn đã được thiết lập trước ngày 2019 tháng 4, bạn có thể thay đổi site gốc của bạn với một site hiện đại bằng cách sử dụng Microsoft PowerShell:
+Nếu môi trường của bạn được thiết lập trước Tháng Tư 2019, bạn có thể thay đổi site gốc của mình thành một site hiện đại bằng cách sử dụng Microsoft PowerShell:
 
-- Nếu bạn có một trang khác mà bạn muốn dùng làm site gốc của mình, bạn có thể thay thế [(hoán đổi) trang gốc](https://docs.microsoft.com/sharepoint/modern-root-site) với nó. 
-    - Sử dụng cuộc [gọi-SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) để hoán đổi vị trí của một trang web với một trang web khác trong khi lưu trữ trang gốc. Sẵn dùng cho cả site nhóm (không được kết nối với một nhóm) và site liên lạc. 
+- Nếu bạn có một site khác mà bạn muốn dùng làm site gốc của mình, thì bạn có thể thay [thế (hoán đổi) site gốc](https://docs.microsoft.com/sharepoint/modern-root-site) bằng site gốc đó. 
+    - Dùng [Invoke-SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) để hoán đổi vị trí của site với một site khác trong khi lưu trữ site gốc. Sẵn dùng cho cả Site Nhóm (không được kết nối với nhóm) và Site Liên lạc. 
 
-- Các chức năng bổ sung sẽ sớm được giới thiệu sẽ cho phép bạn tiếp tục sử dụng nội dung trên trang, nhưng chuyển đổi site hiện có vào một site liên lạc. 
+- Các chức năng bổ sung sẽ sớm được giới thiệu, điều này sẽ cho phép bạn tiếp tục sử dụng nội dung trên site, nhưng chuyển đổi site hiện có thành site liên lạc. 
 >[!Important]
->Những khả năng này sẽ được thực hiện dần dần. Tiếp tục kiểm tra Trung tâm thông báo cho các bản Cập Nhật. 
+>Các chức năng này sẽ được triển khai dần. Tiếp tục kiểm tra bản cập nhật của Trung tâm Thông báo. 
 
-## <a name="known-issues-with-swapping-sites"></a>Các vấn đề đã biết với việc trao đổi site
+## <a name="known-issues-with-swapping-sites"></a>Sự cố đã biết với hoán đổi site
 
-- Trang đích có thể trả về lỗi "không tìm thấy" (HTTP 404) trong một khoảng thời gian ngắn.
-- Nội dung sẽ cần được recrawled để cập nhật chỉ mục tìm kiếm. Không có bước thủ công nào cần thiết-điều này sẽ được tự động hoàn tất.
-- Bất kỳ điều gì phụ thuộc vào các nối kết "tĩnh" (chẳng hạn như tệp đồng bộ tệp và tệp OneNote) sẽ cần được sửa chữa theo cách thủ công.
-- Nếu trang nguồn là một trang tin tức tổ chức, hãy cập nhật URL.Lấy danh sách tất cả các trang tin tức của tổ chức.
-- Các trang web dự án có thể cần phải được xác nhận để đảm bảo rằng chúng vẫn được liên kết đúng.
+- Site đích có thể trả về lỗi "không tìm thấy" (HTTP 404) trong một khoảng thời gian ngắn.
+- Cần phải nhận biết nội dung để cập nhật chỉ mục tìm kiếm. Không cần thực hiện bước thủ công - thao tác này sẽ được thực hiện tự động.
+- Mọi thứ phụ thuộc vào nối kết "tĩnh" (chẳng hạn như Đồng bộ Tệp và OneNote) sẽ cần được sửa thủ công.
+- Nếu site nguồn là site tin tức của tổ chức, hãy cập nhật URL. Tải danh sách tất cả các site tin tức của tổ chức.
+- Project Có thể các site máy chủ cần được xác thực để đảm bảo rằng chúng vẫn được liên kết đúng.
