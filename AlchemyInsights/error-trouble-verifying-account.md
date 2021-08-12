@@ -1,5 +1,5 @@
 ---
-title: 'Lỗi: chúng tôi đang gặp sự cố khi xác minh tài khoản của bạn trên máy tính này.'
+title: 'Lỗi: Chúng tôi đang gặp sự cố khi xác minh tài khoản của bạn trên máy tính này.'
 ms.author: pebaum
 author: pebaum
 manager: dansimp
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9824"
 - "9005394"
-ms.openlocfilehash: 05826d9831f128493a27075d001891290ccb8e45
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: fa58a718d6bd4983b8255d263bc203fc295b00309e835dbcf7423143cbda64c7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51037426"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53946565"
 ---
-# <a name="error-were-having-trouble-verifying-your-account-on-this-computer"></a>Lỗi: chúng tôi đang gặp sự cố khi xác minh tài khoản của bạn trên máy tính này.
+# <a name="error-were-having-trouble-verifying-your-account-on-this-computer"></a>Lỗi: Chúng tôi đang gặp sự cố khi xác minh tài khoản của bạn trên máy tính này.
 
-Để khắc phục lỗi Office này, hãy chọn giải pháp tự động cho phiên bản Office của bạn:
+Để khắc phục lỗi Office này, hãy chọn giải pháp tự động hóa cho phiên bản Office:
 
-- Đối với Microsoft 365, hãy tải xuống và chạy công cụ [Trợ giúp phục hồi và hỗ trợ](https://aka.ms/SaRA-OfficeActivation-Chat). Làm theo hướng dẫn và lời nhắc khắc phục sự cố lỗi kích hoạt Office của bạn.
+- Để biết Microsoft 365, hãy tải xuống và chạy [Công cụ Trợ giúp Phục hồi và Hỗ trợ.](https://aka.ms/SaRA-OfficeActivation-Chat) Làm theo các hướng dẫn và lời nhắc để khắc phục sự cố máy Office kích hoạt.
 
-- Đối với Office 2019 hoặc Office 2016, hãy làm theo các bước thủ công được cung cấp trong các [lỗi sản phẩm chưa được cấp phép và kích hoạt trong Office](https://support.microsoft.com/office/0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_fixyourself).
+- Đối với Office 2019 hoặc Office 2016, hãy làm theo các bước thủ công được cung cấp trong mục Lỗi sản phẩm Chưa được cấp phép và kích [hoạt trong Office.](https://support.microsoft.com/office/0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_fixyourself)
 
-- Đối với Office 2013, hãy xem [giải pháp khắc phục sự cố Microsoft](https://support.microsoft.com/topic/microsoft-easy-fix-solutions-have-been-discontinued-b0f4b5f9-3b5a-bd9e-d75d-d45e2f12e16c).
+- Để biết Office 2013, hãy xem mục Các [giải pháp Sửa lỗi Dễ dàng của Microsoft](https://support.microsoft.com/topic/microsoft-easy-fix-solutions-have-been-discontinued-b0f4b5f9-3b5a-bd9e-d75d-d45e2f12e16c).

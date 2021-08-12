@@ -1,5 +1,5 @@
 ---
-title: Excel theo chủ đề bắt tất cả
+title: Excel chủ Excel tất cả
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "2723"
 - "9000779"
-ms.openlocfilehash: a087da2c243589b137895b29d3aadfda58444cf5
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 199db9cd2cc8e2c39bc7aa1e749d1b29f47f3b3fdb02d07edc2b7dc10c19dbbd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51813530"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53946493"
 ---
 # <a name="commonly-requested-content-for-excel"></a>Nội dung thường được yêu cầu cho Excel
 
-Để biết thêm câu trả lời chính xác cho câu hỏi của bạn, hãy tính lại thời gian ngắn câu hỏi để mô tả sự cố của bạn, bao gồm bất kỳ lỗi nào, các tính năng mà bạn đang sử dụng, v.v. 
+Để có câu trả lời chính xác hơn cho câu hỏi Excel bạn, hãy nêu lại nhanh câu hỏi để mô tả vấn đề của bạn, bao gồm mọi lỗi, tính năng bạn đang sử dụng, v.v.. 
 
-Dưới đây là một số chủ đề Excel được yêu cầu thường xuyên:
+Dưới đây là một số chủ đề được yêu Excel thường gặp:
 
-- [Các sự cố Excel thường gặp](https://support.office.com/article/Excel-not-responding-hangs-freezes-or-stops-working-37E7D3C9-9E84-40BF-A805-4CA6853A1FF4)
-- [Lỗi "đã ngừng hoạt động"](https://support.office.com/client/52bd7985-4e99-4a35-84c8-2d9b8301a2fa)
-- [Ứng dụng Excel sẽ mở trống](https://docs.microsoft.com/office/troubleshoot/excel/excel-opens-blank)
-- [Các sự cố khi lưu sổ làm việc Excel](https://docs.microsoft.com/office/troubleshoot/excel/issue-when-save-excel-workbooks)
-- [Chia sẻ hoặc cộng tác trên tài liệu Excel](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104)
-- [Lỗi "không có đủ bộ nhớ để hoàn tất hành động này"](https://docs.microsoft.com/office/troubleshoot/excel/available-resources-errors)
-- [Lưu tự động là gì?](https://support.office.com/article/6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5)
-- [Tệp mở ra chỉ đọc](https://support.office.com/article/why-did-my-file-open-read-only-3ab4b792-da50-4b38-8628-14c64e1f1d15)
+- [Các sự Excel thường xuyên](https://support.office.com/article/Excel-not-responding-hangs-freezes-or-stops-working-37E7D3C9-9E84-40BF-A805-4CA6853A1FF4)
+- [Lỗi "Đã ngừng hoạt động"](https://support.office.com/client/52bd7985-4e99-4a35-84c8-2d9b8301a2fa)
+- [Excel ứng dụng mở trống](https://docs.microsoft.com/office/troubleshoot/excel/excel-opens-blank)
+- [Các sự cố về lưu Excel làm việc](https://docs.microsoft.com/office/troubleshoot/excel/issue-when-save-excel-workbooks)
+- [Chia sẻ hoặc cộng tác trên Excel liệu](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104)
+- [Lỗi "Không có đủ bộ nhớ để hoàn tất hành động này"](https://docs.microsoft.com/office/troubleshoot/excel/available-resources-errors)
+- [Lưu Tự động là gì?](https://support.office.com/article/6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5)
+- [Tệp mở ra ở dạng chỉ đọc](https://support.office.com/article/why-did-my-file-open-read-only-3ab4b792-da50-4b38-8628-14c64e1f1d15)
 - [Trợ giúp với PowerBI](https://powerbi.microsoft.com/support/)

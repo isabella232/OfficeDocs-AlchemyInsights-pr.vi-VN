@@ -1,5 +1,5 @@
 ---
-title: Trì hoãn cung cấp hộp thư
+title: Cung cấp hộp thư trễ
 ms.author: dmaguire
 author: msdmaguire
 manager: dansimp
@@ -10,17 +10,17 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a994658a-08e1-400e-9ae9-2663edd0d11e
-ms.openlocfilehash: 36fd55ece2d3edd605fecfd11ed5dfdb1f194633
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 047c7d854b1afeecaf47cfd7358dd219913f5354ad7ad329a33a795c75da5d7f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794428"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53912476"
 ---
-# <a name="your-users-mailbox-is-being-created"></a>Hộp thư của người dùng đang được tạo
+# <a name="your-users-mailbox-is-being-created"></a>Đang tạo hộp thư người dùng của bạn
 
-Có thể mất đến một giờ trước khi hộp thư mới sẵn sàng để sử dụng.
+Có thể mất tới một giờ trước khi hộp thư mới sẵn sàng để sử dụng.
   
-Nếu hộp thư của người dùng đã là "đang chuẩn bị" trong hơn một giờ, bạn có thể thử xóa và sau đó tạo lại người dùng hoặc dùng tùy chọn "Hãy để chúng tôi gọi cho bạn" để nói chuyện với kỹ sư hỗ trợ.
+Nếu hộp thư của người dùng đã ở giai đoạn "đang chuẩn bị" hơn một giờ, bạn có thể thử xóa, rồi tạo lại người dùng hoặc sử dụng tùy chọn "Cho phép chúng tôi gọi cho bạn" để trò chuyện cùng kỹ sư hỗ trợ.
   
 

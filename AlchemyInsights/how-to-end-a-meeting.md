@@ -1,5 +1,5 @@
 ---
-title: Làm thế nào để chính thức kết thúc cuộc họp
+title: Cách kết thúc cuộc họp chính thức
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "5852"
 - "9002623"
-ms.openlocfilehash: 67c33e90b1f7ca9f68af1ef01ce158075a0dc54d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 3ef93e2f94ffe0768c9da3a740a865dfd36952e6d908a36670275297aed39913
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51825717"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53963305"
 ---
-# <a name="how-to-formally-end-a-meeting"></a>Làm thế nào để chính thức kết thúc cuộc họp
+# <a name="how-to-formally-end-a-meeting"></a>Cách kết thúc cuộc họp chính thức
 
-Người tổ chức cuộc họp có thể kết thúc cuộc họp cho tất cả người dự cuộc họp trong nhóm bằng cách bấm vào **kết thúc cuộc** họp trong điều khiển cuộc họp trong cuộc họp.  
+Người tổ chức cuộc họp có thể kết thúc  cuộc họp cho tất cả người dự cuộc họp trong Teams bằng cách bấm Kết thúc cuộc họp trong điều khiển cuộc họp trong cuộc họp.  
 
-Để kết thúc cuộc họp trong tiến độ cho tất cả người dự, hãy chọn điều khiển cuộc họp, chọn biểu tượng 3-chấm, rồi bấm vào kết thúc cuộc họp. Bạn sẽ được yêu cầu xác nhận lựa chọn của bạn. Xác nhận lựa chọn của bạn sẽ kết thúc cuộc họp cho tất cả mọi người.
+Để kết thúc một cuộc họp đang diễn ra cho tất cả người dự, hãy chọn điều khiển cuộc họp, chọn biểu tượng 3 chấm và bấm vào Kết thúc Cuộc họp. Bạn sẽ được yêu cầu xác nhận lựa chọn của mình. Việc xác nhận lựa chọn của bạn sẽ kết thúc cuộc họp cho tất cả mọi người.
 
-LƯU ý: chỉ người tổ chức cuộc họp có thể "kết thúc" cuộc họp.
+LƯU Ý: Chỉ người tổ chức cuộc họp mới có thể "kết thúc" một cuộc họp.

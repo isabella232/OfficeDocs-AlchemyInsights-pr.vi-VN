@@ -1,5 +1,5 @@
 ---
-title: NDR với mã lỗi 554 hộp thư đầy đủ
+title: NDR với mã lỗi 554 5.2.2 hộp thư đầy đủ
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.custom:
 - "1956"
 - "3500007"
-ms.openlocfilehash: a98f84fca8ddf89f04d325865932d457e4934978
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: b4dea93ce34a836180d26b5e2672cbdb776c4c39c27a270731d52ceea5bd319f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403729"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53912548"
 ---
-# <a name="ndr-with-error-code-554-522-mailbox-full"></a>NDR với mã lỗi 554 hộp thư đầy đủ
+# <a name="ndr-with-error-code-554-522-mailbox-full"></a>NDR với mã lỗi 554 5.2.2 hộp thư đầy đủ
 
-Nếu bạn nhận được NDR với mã lỗi "554 5.2.2 hộp thư đầy đủ", khi gửi email đến thư mục công cộng được hỗ trợ thư:  
+Nếu bạn nhận được NDR kèm theo mã lỗi "Hộp thư 554 5.2.2 đầy đủ", khi gửi email đến một thư mục công cộng hỗ trợ thư:  
 
-Hãy làm theo các bước trong bài viết [này](https://aka.ms/554522) để đảm bảo thư mục công cộng hoặc hạn ngạch hộp thư thư mục công cộng đã không đạt đến.
+Sử dụng các bước trong bài [viết](https://aka.ms/554522) này để đảm bảo chưa đạt đến hạn mức hộp thư thư của thư mục công cộng hoặc thư mục công cộng.

@@ -1,5 +1,5 @@
 ---
-title: Kiểu thực thể không hiển thị trong kết quả tìm kiếm được phân loại hoặc liên quan trong Dynamics 365 giao diện hợp nhất
+title: Loại thực thể không hiển thị trong kết quả tìm kiếm phân loại hoặc liên quan trong Giao diện Hợp nhất Dynamics 365
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -11,15 +11,15 @@ localization_priority: Normal
 ms.custom:
 - "1981"
 - "9000347"
-ms.openlocfilehash: f18d3128cd6fdbddc96789b2507f328448fc25c9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b14eedf2ceb0d8a0927df42c5bdf9f2652507f8686c01d0b90b6479ee2e4f062
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47709353"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53946805"
 ---
 # <a name="entity-type-not-showing-in-search-results"></a>Loại thực thể không hiển thị trong kết quả tìm kiếm
 
-Đối với loại thực thể hiển thị trong tìm kiếm được phân loại hoặc tìm kiếm liên quan trong giao diện hợp nhất Dynamics 365, trước tiên, nó phải được thêm vào mô-đun ứng dụng.
+Để một loại thực thể hiển thị trong tìm kiếm phân loại hoặc tìm kiếm liên quan trong Giao diện Hợp nhất Dynamics 365, trước tiên phải được thêm vào mô-đun ứng dụng.
 
-Lưu ý: khi tìm kiếm phần đính kèm trong tìm kiếm liên quan, thực thể phần đính kèm phải được thêm vào mô-đun ứng dụng mặc dù bản ghi mẹ là những gì được hiển thị trong kết quả.
+Lưu ý: Khi tìm kiếm các phần đính kèm trong tìm kiếm liên quan, thực thể tệp đính kèm phải được thêm vào mô-đun ứng dụng mặc dù bản ghi mẹ là những gì được hiển thị trong kết quả.

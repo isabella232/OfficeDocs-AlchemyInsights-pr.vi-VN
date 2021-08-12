@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "6051"
 - "3500008"
-ms.openlocfilehash: a68f771a86d805a0286270f19b919ccb57214e4b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 40246aa3138fa7df0c8a6c9df1ccfd475e56e4ebb9f1064880f79cf1098a918d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794500"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53912512"
 ---
 # <a name="mailbox-migration-is-slow-or-taking-a-long-time"></a>Di chuyển hộp thư chậm hoặc mất nhiều thời gian
 
-Nhiều yếu tố ảnh hưởng đến tốc độ di chuyển hộp thư. Để biết thêm thông tin về cách di chuyển dài có thể mất và các yếu tố ảnh hưởng đến tốc độ di chuyển, hãy xem [hiệu suất di chuyển email của Microsoft 365 và Office 365 và các cách thực hành tốt nhất](https://docs.microsoft.com/exchange/mailbox-migration/office-365-migration-best-practices).
+Nhiều yếu tố ảnh hưởng đến tốc độ di chuyển hộp thư. Để biết thêm thông tin về khoảng thời gian có thể thực hiện di chuyển và các yếu tố ảnh hưởng đến tốc độ di chuyển, hãy xem mục Microsoft 365 và Office 365 năng di chuyển email cũng như các phương [pháp tốt nhất.](https://docs.microsoft.com/exchange/mailbox-migration/office-365-migration-best-practices)

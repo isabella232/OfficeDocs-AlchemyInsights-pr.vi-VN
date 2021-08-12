@@ -1,5 +1,5 @@
 ---
-title: Không thể đến được trang web này khi tìm cách truy nhập site SharePoint từ trình duyệt hoặc nhóm
+title: Không thể truy nhập site này - lỗi khi tìm cách truy nhập site SharePoint từ trình duyệt hoặc thiết Teams
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005378"
 - "9266"
-ms.openlocfilehash: 451544fb85522e0eececc9274825805699685ee9
-ms.sourcegitcommit: 186281d0b87d67f041c127d4334faa937da9a48a
+ms.openlocfilehash: 5f8861e85df21082329273237679e26a1b31ce694e11ad6407d4690d7caf2fc9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747033"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53946673"
 ---
-# <a name="this-site-cant-be-reached-error-when-trying-to-access-sharepoint-site-from-browser-or-teams"></a>Lỗi "không thể đạt được trang web này" khi tìm cách truy nhập site SharePoint từ trình duyệt hoặc nhóm
+# <a name="this-site-cant-be-reached-error-when-trying-to-access-sharepoint-site-from-browser-or-teams"></a>Lỗi "Không thể truy nhập site này" khi tìm cách truy nhập site SharePoint từ trình duyệt hoặc thiết bị Teams
 
-Người dùng có thể nhận được "không thể đạt được trang web này" khi tìm cách truy nhập site SharePoint từ trình duyệt hoặc nhóm. 
+Người dùng có thể nhận được lỗi "Không thể truy nhập site này" khi tìm cách truy nhập site SharePoint từ trình duyệt hoặc thiết Teams. 
 
 Để giải quyết vấn đề này: 
 
-1. Kiểm tra xem trang chủ trong thùng rác hoặc thùng rác giai đoạn thứ nhì và khôi phục trang đó.
+1. Kiểm tra xem trang chủ nằm trong Thùng rác hay thùng rác giai đoạn thứ nhì, rồi khôi phục trang đó chưa.
 
-**URL trực tiếp mẫu vào thùng rác**: https://contoso.sharepoint.com/sites/siteA/_layouts/15/RecycleBin.aspx
+**URL trực tiếp mẫu vào thùng rác:**https://contoso.sharepoint.com/sites/siteA/_layouts/15/RecycleBin.aspx
 
-1. Nếu trang chủ bị loại bỏ vĩnh viễn khỏi thùng rác, hãy tạo trang trang mới từ thư viện trang của site và làm cho trang chủ. 
+1. Nếu trang chủ bị loại bỏ vĩnh viễn khỏi thùng rác, hãy tạo một trang site mới từ thư viện Trang Site, rồi biến trang đó thành trang chủ. 
 
-**URL trực tiếp mẫu**: https://contoso.sharepoint.com/sites/siteA/_layouts/15/RecycleBin.aspx
+**URL trực tiếp mẫu:**https://contoso.sharepoint.com/sites/siteA/_layouts/15/RecycleBin.aspx

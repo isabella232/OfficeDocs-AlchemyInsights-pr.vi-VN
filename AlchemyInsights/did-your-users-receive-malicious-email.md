@@ -1,5 +1,5 @@
 ---
-title: Người dùng của bạn có nhận được email độc hại hay không
+title: Người dùng của bạn có nhận được email độc hại không
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,34 +14,34 @@ ms.custom:
 - "5594"
 - "3100017"
 - "2578"
-ms.openlocfilehash: 425f9ba488fd69b8c5ea29636bccccd995bf48fd
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: de8823253d60efcd38bfa96864c146a2cedc0537f6d0aa41de6dafc6c7debc03
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51815268"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53929219"
 ---
 # <a name="did-your-users-receive-malicious-email"></a>Người dùng của bạn có nhận được email độc hại không?
 
-- Giờ đây, bạn có thể báo cáo email độc hại với Microsoft bằng cách sử dụng trình [gửi người quản trị trong Trung tâm tuân thủ & bảo mật](https://sip.protection.office.com/reportsubmission).
+- Bây giờ bạn có thể báo cáo email độc hại tới Microsoft bằng cách sử dụng Các [bản gửi của Người quản trị trong Trung tâm & Tuân thủ.](https://sip.protection.office.com/reportsubmission)
 
-Các thư được gửi trong [đệ trình quản trị](https://sip.protection.office.com/reportsubmission) được quét và các kết quả sau đây được hiển thị trong **thông tin chi tiết** :
+Các thư được gửi trong các [bản gửi của người quản trị](https://sip.protection.office.com/reportsubmission) sẽ được quét và các kết quả sau đây được hiển thị trong hộp bật **lên** chi tiết:
 
-- Nếu đã xảy ra lỗi trong xác thực email của người gửi tại thời điểm chuyển phát.
-- Thông tin về bất kỳ số truy cập chính sách nào có thể bị ảnh hưởng hoặc ghi đè lên bản án của thư.
-- Kết quả phát nổ hiện tại để xem các URL hoặc tệp chứa trong thư bị độc hại hay không.
-- Phản hồi từ học sinh lớp
+- Nếu xảy ra lỗi trong xác thực email của người gửi tại thời điểm chuyển phát.
+- Thông tin về bất kỳ lượt truy cập chính sách nào có thể làm ảnh hưởng hoặc ghi đè bản án của thư.
+- Kết quả giải kích hoạt hiện tại để xem liệu các URL hoặc tệp có trong thư có độc hại hay không.
+- Phản hồi từ điểm số
 
-Nếu đã tìm thấy ghi đè, thì Rescan sẽ hoàn thành trong vài phút. Nếu không có vấn đề gì trong xác thực email hoặc nếu quá trình chuyển không bị ảnh hưởng bởi dấu ghi đè, thì phản hồi từ các học sinh học có thể mất tới một ngày.
+Nếu tìm thấy ghi đè, việc chỉnh lại có thể hoàn tất trong vài phút. Nếu không có sự cố trong xác thực email hoặc nếu việc chuyển phát không bị ảnh hưởng bởi việc ghi đè thì có thể mất tối đa một ngày để nhận phản hồi từ các điểm số.
 
-Nếu bạn không đồng ý với bản án cuối cùng trên thư, URL hoặc tệp (bị chặn vs không bị chặn), hãy gửi tin nhắn lại sau một ngày để thu hồi lại. Cơ hội cao là bản án sẽ thay đổi sau khi gửi lại thư.
+Nếu bạn không đồng ý với bản quyết định cuối cùng về thư, URL hoặc tệp (bị chặn và không bị chặn), hãy gửi lại thư sau một ngày để thử lại. Khả năng cao là quyết định sẽ thay đổi sau khi gửi lại thư.
 
-Trong khi đó, bạn có thể loại bỏ email độc hại khỏi các hộp thư của người dùng bằng cách làm theo các hướng dẫn trong [bài viết này](https://docs.microsoft.com/microsoft-365/compliance/search-for-and-delete-messages-in-your-organization).
+Đồng thời, bạn có thể loại bỏ email độc hại khỏi hộp thư đến của người dùng bằng cách làm theo các hướng dẫn [trong bài viết này.](https://docs.microsoft.com/microsoft-365/compliance/search-for-and-delete-messages-in-your-organization)
 
-- Khách hàng với Microsoft Defender cho Office 365 có thể:
-    - sử dụng [Threat Explorer để tìm và xóa email đáng ngờ](https://docs.microsoft.com/microsoft-365/security/office-365-security/investigate-malicious-email-that-was-delivered)
-    - [sử dụng liên kết an toàn để chặn quyền truy nhập](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links) vào URL độc hại
-    - theo dõi người dùng đã bấm và truy nhập URL độc hại: [xem URL giả mạo và bấm vào bản án dữ liệu](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer)  &  [Get-urltrace](https://docs.microsoft.com/powershell/module/exchange/get-urltrace)
-    - [bắt đầu một điều tra tự động](https://docs.microsoft.com/microsoft-365/security/office-365-security/automated-investigation-response-office) theo cách thủ công
+- Khách hàng có Bộ bảo vệ Microsoft dành cho doanh Office 365 có thể:
+    - sử dụng [Trình khám phá Mối đe dọa để Tìm và Xóa email Đáng ngờ](https://docs.microsoft.com/microsoft-365/security/office-365-security/investigate-malicious-email-that-was-delivered)
+    - [sử Két sắt Nối kết để chặn quyền truy nhập](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links) vào URL độc hại
+    - theo dõi người dùng đã bấm và truy nhập URL độc hại: Xem [URL](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer)lừa đảo qua mạng và bấm vào dữ liệu xác định  &  [Get-UrlTrace](https://docs.microsoft.com/powershell/module/exchange/get-urltrace)
+    - bắt đầu [Điều tra Tự động theo cách thủ công](https://docs.microsoft.com/microsoft-365/security/office-365-security/automated-investigation-response-office)
 
-Bạn cũng có thể bảo vệ chống lại các tệp và URL độc hại bằng cách theo dõi các hướng dẫn trong việc [bảo vệ khỏi URL và tệp độc hại](https://docs.microsoft.com/microsoft-365/security/office-365-security/protect-against-threats).
+Bạn cũng có thể bảo vệ chống lại các tệp và URL độc hại bằng cách làm theo các hướng dẫn trong mục [Bảo vệ khỏi các URL và tệp độc hại.](https://docs.microsoft.com/microsoft-365/security/office-365-security/protect-against-threats)

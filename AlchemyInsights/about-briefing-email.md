@@ -1,5 +1,5 @@
 ---
-title: Giới thiệu về cuộc họp gửi email
+title: Giới thiệu về Email ngắn gọn
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "6179"
 - "9003284"
-ms.openlocfilehash: 04fcc9930de844d221033e976adb04ef483a27ea
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d1c7027eeba1d156ed2b7b68502504f9eb0b940519d43ac84df1c94435260101
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663724"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53955880"
 ---
-# <a name="about-briefing-email"></a>Giới thiệu về cuộc họp gửi email
+# <a name="about-briefing-email"></a>Giới thiệu về Email ngắn gọn
 
-Để tìm hiểu thêm về cuộc họp, hãy xem [tổng quan về email tóm](https://docs.microsoft.com/briefing/be-overview)tắt.  
+Để tìm hiểu thêm về tính năng Tóm tắt, hãy [xem Tóm tắt tổng quan về email.](https://docs.microsoft.com/briefing/be-overview)  
 
-Tính năng này hiện đang được triển khai, vì vậy tổ chức của bạn có thể không nhận được email họp ngay cả khi bạn đã bật cuộc họp. Ngoài ra, hãy lưu ý rằng người dùng không được đảm bảo rằng bạn nhận được email có cuộc họp mỗi ngày. Các email được gửi chỉ khi người dùng có ít nhất một gợi ý có thể thực hiện cho ngày cụ thể đó. Để biết thêm thông tin, hãy xem [câu hỏi thường gặp về email cuộc họp](https://docs.microsoft.com/briefing/be-faqs).
+Tính năng này hiện đang được triển khai, do đó, tổ chức của bạn có thể không nhận được email Ngắn gọn ngay cả khi bạn đã bật Tính năng Tóm tắt. Ngoài ra, xin lưu ý rằng người dùng không được đảm bảo sẽ nhận được email Thông báo ngắn gọn mỗi ngày. Các email chỉ được gửi đi khi người dùng có ít nhất một đề xuất có thể thực thi cho ngày cụ thể đó. Để biết thêm thông tin, hãy [xem Câu hỏi thường gặp về email Ngắn gọn](https://docs.microsoft.com/briefing/be-faqs).

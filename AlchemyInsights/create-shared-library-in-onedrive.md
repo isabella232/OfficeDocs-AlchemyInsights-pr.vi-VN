@@ -1,5 +1,5 @@
 ---
-title: Tạo thư viện được chia sẻ trong OneDrive
+title: Tạo thư viện dùng chung trong OneDrive
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "7219"
 - "9003265"
-ms.openlocfilehash: 6877804b2cef0c40af4f4a0b4a88c824499f302a
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: 462d755576a4435049aa8a1fce3bf727d233b86acf2752a84fa034cf7be2bab7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49089055"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53929255"
 ---
-# <a name="create-a-shared-library-in-onedrive"></a>Tạo thư viện được chia sẻ trong OneDrive
+# <a name="create-a-shared-library-in-onedrive"></a>Tạo thư viện dùng chung trong OneDrive
 
-Để biết thêm thông tin, hãy xem [tạo thư viện chia sẻ mới từ OneDrive](https://support.microsoft.com/office/create-a-new-shared-library-from-onedrive-for-work-or-school-345c8599-05d8-4bf8-9355-2b5cfabe04d0?ui=en-US&rs=en-US&ad=US).
+Để biết thêm thông tin, [hãy xem Tạo thư viện chung mới từ OneDrive.](https://support.microsoft.com/office/create-a-new-shared-library-from-onedrive-for-work-or-school-345c8599-05d8-4bf8-9355-2b5cfabe04d0?ui=en-US&rs=en-US&ad=US)

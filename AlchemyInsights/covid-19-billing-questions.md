@@ -16,13 +16,13 @@ ms.custom:
 - "5113"
 - "9002647"
 - "5091"
-ms.openlocfilehash: 5c6355106bf53d929eaaac3286ae27ccf7d738a0
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 79ab97bbd788a84372a3ad7614f92f9a84a5c1cc6efbf9cc1d838858672a9ef9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51816438"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53929363"
 ---
 # <a name="covid-19-billing-and-license-questions"></a>Các câu hỏi về thanh toán và giấy phép COVID-19
 
-Tham khảo các [cam kết của chúng tôi đối với khách hàng trong COVID-19](https://www.microsoft.com/microsoft-365/blog/2020/03/05/our-commitment-to-customers-during-covid-19/) Blog Post cho các bản cập nhật mới nhất.  Nếu bạn có các câu hỏi về thanh toán hoặc giấy phép cụ thể liên quan đến cuộc khủng hoảng Covid-19, vui lòng bấm **liên hệ với bộ phận hỗ trợ** ở cuối trang này.
+Hãy tham khảo Cam kết của chúng tôi đối với khách hàng trong bài đăng blog [COVID-19](https://www.microsoft.com/microsoft-365/blog/2020/03/05/our-commitment-to-customers-during-covid-19/) để biết các bản cập nhật mới nhất.  Nếu bạn có thắc mắc về thanh toán hoặc giấy  phép cụ thể liên quan đến khủng hoảng Covid-19, vui lòng bấm vào Liên hệ với bộ phận hỗ trợ ở cuối trang này.

@@ -1,5 +1,5 @@
 ---
-title: Đã xảy ra lỗi khi xác nhận lỗi mã truy nhập trong khi phân tích máy tính tại chỗ
+title: Đã xảy ra lỗi khi xác thực mã thông báo truy nhập trong khi đang bật Phân tích trên máy tính
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2536"
 - "9000657"
-ms.openlocfilehash: 12e5906ba8cbc76ba1fd99dde1cf76396c3a6942
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1d6b840e731eaff537d8f74f9ce0af29af13bd390e701fb2835e8718b4521158
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51813710"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53946637"
 ---
-# <a name="there-was-an-error-validating-access-token-error-during-desktop-analytics-onboarding"></a>Lỗi "đã xảy ra lỗi khi xác nhận mã truy nhập" trong khi phân tích máy tính để bàn triển khai
+# <a name="there-was-an-error-validating-access-token-error-during-desktop-analytics-onboarding"></a>Lỗi "Đã xảy ra lỗi khi xác thực mã thông báo truy nhập" trong khi trình chiếu Phân tích Trên máy tính
 
-Lỗi này thường được quan sát thấy khi mã xác thực hết hạn. Thông thường, làm mới trang sẽ làm mới mã thông báo. Tuy nhiên, sự cố này có thể tồn tại nếu có bất kỳ chính sách truy nhập có điều kiện nào được áp dụng cho tài khoản đang được sử dụng để phân tích trên máy tính bảng. Bạn có thể xem lại đăng nhập Azure AD trong các Nhật ký trong cổng thông tin Azure để xem liệu có bất kỳ lỗi đăng nhập nào cho tài khoản đang được sử dụng cho máy tính để bàn onboarding không.
+Lỗi này thường xảy ra khi mã thông báo xác thực hết hạn. Thông thường, làm mới trang sẽ làm mới mã thông báo. Tuy nhiên, sự cố này có thể vẫn tiếp diễn nếu có bất kỳ chính sách truy nhập có điều kiện nào được áp dụng cho tài khoản đang được sử dụng để phân tích trên máy tính. Bạn có thể xem lại nhật ký Đăng nhập Azure AD trong Cổng thông tin Azure để xem liệu có bất kỳ lỗi đăng nhập nào đối với tài khoản đang được sử dụng cho việc tiếp nhận Phân tích Máy tính hay không.
 
-Để biết thêm thông tin về truy nhập có điều kiện, hãy truy cập [lên kế hoạch triển khai truy nhập](https://docs.microsoft.com/azure/active-directory/conditional-access/plan-conditional-access)có điều kiện.
+Để biết thêm thông tin về Truy nhập có Điều kiện, hãy truy cập lập [kế hoạch triển khai Truy nhập có Điều kiện của bạn](https://docs.microsoft.com/azure/active-directory/conditional-access/plan-conditional-access).
