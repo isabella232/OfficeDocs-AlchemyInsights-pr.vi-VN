@@ -1,5 +1,5 @@
 ---
-title: Nội dung chưa sẵn có thông báo trong OneNote
+title: Nội dung vẫn chưa sẵn dùng trong thư OneNote
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002541"
 - "4908"
-ms.openlocfilehash: caa96324f41ad62c2e461241941957aa042602a3
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 3c2c304af3c8e0ee9c8cd57ee884978e26ff55e55f8ccd00c4f72966186fcd3b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51816906"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53929867"
 ---
-# <a name="content-not-yet-available-message-in-onenote"></a>Thông báo "nội dung chưa sẵn dùng" trong OneNote
+# <a name="content-not-yet-available-message-in-onenote"></a>Thông báo "Nội dung chưa sẵn dùng" OneNote
 
-Nếu bạn nhận được thông báo, "nội dung chưa sẵn dùng. Rất tiếc, có vẻ như trang này được thêm vào từ một máy tính khác và chưa được đồng bộ. Bấm vào đây hoặc nhấn Enter để tải lại trang này, "OneNote không thể đồng bộ một phần hoặc một trang trong một trong các sổ ghi chép của bạn. Lỗi này có thể tạm thời.
+Nếu bạn đang nhận được thông báo, "Nội dung Chưa sẵn dùng. Rất tiếc, có vẻ như trang này đã được thêm từ một máy tính khác và chưa đồng bộ. Bấm vào đây hoặc nhấn Enter để tải lại trang này," OneNote thể đồng bộ một phần hoặc một trang ở một trong các sổ tay của bạn. Lỗi này có thể là tạm thời.
 
-Nếu vấn đề này vẫn tiếp diễn, có thể là nội dung của sổ tay OneNote của bạn có thể không được đồng bộ hoàn toàn đối với SharePoint Online hoặc OneDrive for Business Server. Bạn có thể bị ngắt kết nối từ Internet, không được xác thực (chưa đăng nhập) hoặc máy khách OneNote có thể ngoại tuyến. [Lỗi đọc OneNote "nội dung chưa sẵn dùng"](https://docs.microsoft.com/office/troubleshoot/onenote/onenote-error-content-not-yet-available) để gợi ý về cách giải quyết sự cố này và các cách thực hành tốt nhất trên các trang lưu.
+Nếu sự cố này vẫn tiếp diễn, có thể nội dung OneNote Notebook của bạn có thể đã không đồng bộ hoàn toàn với máy chủ SharePoint Online hoặc OneDrive for Business của bạn. Bạn có thể bị ngắt kết nối Internet, chưa xác thực (không đăng nhập) hoặc máy khách OneNote thể đang ngoại tuyến. Đọc OneNote ["Nội dung Chưa Sẵn dùng" để biết các](https://docs.microsoft.com/office/troubleshoot/onenote/onenote-error-content-not-yet-available) gợi ý về cách giải quyết vấn đề này và cách thực hành tốt nhất về cách lưu trang.
 
-Để biết thêm thông tin, hãy xem mục [khắc phục sự cố khi bạn không thể đồng bộ OneNote](https://support.office.com/article/Fix-issues-when-you-can-t-sync-OneNote-299495ef-66d1-448f-90c1-b785a6968d45).
+Để biết thêm thông tin, [hãy xem mục Khắc phục sự cố khi bạn không thể đồng OneNote.](https://support.office.com/article/Fix-issues-when-you-can-t-sync-OneNote-299495ef-66d1-448f-90c1-b785a6968d45)

@@ -1,5 +1,5 @@
 ---
-title: Khắc phục sự cố chủ sở hữu
+title: Khắc phục sự cố về chủ sở hữu
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "7815"
 - "9004358"
-ms.openlocfilehash: 914d5682a403197a8569bb75fda8a77449f485f6
-ms.sourcegitcommit: 6d02eb533fd74199af6b20f714b3720991da2c4a
+ms.openlocfilehash: 2117550e731ec22e7aef5321891836d455bcc222ab0ecff19d4ff12ab5bbfa7c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49901272"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53920957"
 ---
-# <a name="troubleshoot-owner-issues"></a>Khắc phục sự cố chủ sở hữu
+# <a name="troubleshoot-owner-issues"></a>Khắc phục sự cố về chủ sở hữu
 
 Để khắc phục sự cố liên quan đến chủ sở hữu, hãy thực hiện các bước sau đây:
 
-1. [Thêm hoặc thay đổi người quản trị đăng ký Azure](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-accessmanagement-managing-group-owners): nhóm Azure Active Directory (Azure AD) đều thuộc sở hữu và do người sở hữu nhóm quản lý. Chủ sở hữu nhóm có thể là người dùng hoặc hiệu trưởng dịch vụ và có thể quản lý nhóm, bao gồm tư cách thành viên. Chỉ những chủ sở hữu nhóm hiện có hoặc người quản trị nhóm có thể gán cho người sở hữu nhóm. Người sở hữu nhóm không bắt buộc phải là thành viên của nhóm.
-2. [Thêm hoặc thay đổi người quản trị đăng ký Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/add-change-subscription-administrator): bài viết này mô tả cách thêm hoặc thay đổi vai trò người quản trị cho người dùng bằng cách sử dụng Azure RBAC tại phạm vi thuê bao.
+1. [Thêm hoặc thay đổi người quản trị đăng ký Azure:](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-accessmanagement-managing-group-owners)Azure Active Directory nhóm (Azure AD) thuộc sở hữu và được quản lý bởi các chủ sở hữu nhóm. Chủ nhóm có thể là người dùng hoặc hiệu trưởng dịch vụ và có thể quản lý nhóm, bao gồm cả tư cách thành viên. Chỉ chủ nhóm hiện có hoặc người quản trị quản lý nhóm mới có thể gán chủ sở hữu nhóm. Chủ nhóm không bắt buộc phải là thành viên của nhóm.
+2. [Thêm hoặc thay đổi người quản](https://docs.microsoft.com/azure/cost-management-billing/manage/add-change-subscription-administrator)trị đăng ký Azure : Bài viết này mô tả cách thêm hoặc thay đổi vai trò người quản trị cho người dùng sử dụng Azure RBAC ở phạm vi đăng ký.
 3. Sử dụng PowerShell để thêm chủ sở hữu nhóm hoặc chủ sở hữu ứng dụng.

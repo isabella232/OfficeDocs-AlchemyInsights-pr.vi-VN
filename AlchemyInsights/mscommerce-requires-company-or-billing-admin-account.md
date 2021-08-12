@@ -1,5 +1,5 @@
 ---
-title: Kết nối với mô-đun MSCommerce
+title: Kết nối vào mô-đun MSCommerce
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3529"
-ms.openlocfilehash: 8e6819f6d6ff37baab4bdd49cb5a87c32490f841
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 357604f1d4cda3ac8ef6b8b4dbf8780b96dcee59409a6c2edad4a84d6adda62a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51829758"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53974697"
 ---
-# <a name="mscommerce-requires-a-company-or-billing-administrator-account"></a>MSCommerce yêu cầu tài khoản người quản trị của công ty hoặc thanh toán
+# <a name="mscommerce-requires-a-company-or-billing-administrator-account"></a>MSCommerce yêu cầu tài khoản Người quản trị Công ty hoặc Người quản trị Thanh toán
 
-Mô-đun MSCommerce yêu cầu một tài khoản với các đặc quyền của người quản trị thanh toán hoặc công ty. Nếu bạn nhận được lỗi sau đây, bạn sẽ cần phải kết nối lại với một tài khoản khác.
+Mô-đun MSCommerce yêu cầu tài khoản với đặc quyền của Công ty hoặc Người quản trị Thanh toán. Nếu bạn đang gặp phải lỗi sau đây, bạn sẽ cần phải kết nối lại với một tài khoản khác.
 
-*ErrorMessage-máy chủ từ xa trả về lỗi: (403) bị cấm. Thông tin chi tiết-tại c: \ Program Files Windowspowershell\modules\mscommerce\1.2\mscommerce.psm1:216 char: 5*<br>
-*+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HandleError-ErrorContext $ _-CustomErrorMessage "không thành công...*<br>
+*ErrorMessage - Máy chủ từ xa trả về lỗi: (403) Cấm. ErrorDetails - Tại C:\Program Files\WindowsPowerShell\Modules\MSCommerce\1.2\MSCommerce.psm1:216 char:5*<br>
+*+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HandleError -ErrorContext $_ -CustomErrorMessage "Failed to retri ...*<br>
 \+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*+ CategoryInfo: Notđã xác định: (:) [Viết-lỗi], WriteErrorException*<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*+ FullyQualifiedErrorId: Microsoft. PowerShell. lệnh. WriteErrorException, HandleError*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*+ CategoryInfo : Không xác định: (:) [Write-Error], WriteErrorException*<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*+ FullyQualifiedErrorId : Microsoft.PowerShell.Commands.WriteErrorException,HandleError*
 
-Nếu tài khoản của bạn không có đặc quyền của công ty hoặc người quản trị thanh toán, hãy liên hệ với người quản trị CNTT của bạn.
+Nếu tài khoản của bạn không có đặc quyền Của công ty hoặc Người quản trị Thanh toán, hãy liên hệ với Người quản trị CNTT.

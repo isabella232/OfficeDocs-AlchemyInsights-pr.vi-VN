@@ -1,5 +1,5 @@
 ---
-title: Khắc phục sự cố OneDrive
+title: Khắc phục sự OneDrive cố
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,37 +12,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003084"
 - "5885"
-ms.openlocfilehash: 4bf45e7780dcbabb95b3eecfb2df55beffde11d6
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d5982bafbb8aaa1d240a34c071efe37e92c2ec5c5170dc59337df9a5435e22e1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826221"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53921029"
 ---
-# <a name="troubleshoot-onedrive-crashes"></a>Khắc phục sự cố OneDrive
+# <a name="troubleshoot-onedrive-crashes"></a>Khắc phục sự OneDrive cố
 
-Nếu OneDrive liên tục gặp sự cố, hãy thử các bước khắc phục sự cố sau:
+Nếu bạn OneDrive liên tục gặp sự cố, hãy thử các bước khắc phục sự cố sau:
 
-**Đảm bảo các phím registry không được đặt:**
+**Đảm bảo khóa đăng ký không được đặt:**
 
-1. Sử dụng trình soạn thảo sổ đăng ký, dẫn hướng đến HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\OneDrive
-2. Nếu giải pháp thay thế là trình bày và đặt thành 1, hãy mở khóa và thay đổi giá trị thành 0.
-3. Khởi động OneDrive theo cách thủ công bằng cách đi đến bắt đầu ![Nhấn phím Windows](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAAOCAYAAADJ7fe0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAADxSURBVDhPY/wPBAx4wR+Gd6/fM7x9/ZTh9ZuXDGdPnWE4tH0rw/UHDxlaVp9kCDCSYWABKfv35wfD+/cfGV4+fcLw5uVjhlOXzzFsX/qWYebmZAZPWWOGO2DD8ACQS9Y3e4Bcg4Y9/t94fPa/CoY4Aq8/+xik/T8TkEMxGDyGgANWwSqeobvbGSyAADIM3BwCDKXd3QyfoCLoQEGAA0xTxSWjsYMJwLHjkruU4UXSJ4YnT54x3Dh/luHmjfMMmw9wMjCDlRAGBDPgjy8fGT5//8rw9P4Thge3zzNcvXmDYevmfQzXb1xlmH/0ATADyjAAAKdWkD3ZSwNeAAAAAElFTkSuQmCC), nhập OneDrive vào hộp tìm kiếm, rồi bấm vào ứng dụng OneDrive trên máy tính.
+1. Sử dụng Trình soạn thảo Sổ đăng ký, dẫn hướng HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\OneDrive
+2. Nếu DisableFileSyncNGSC hiện diện và đặt là 1, hãy mở khóa và thay đổi giá trị thành 0.
+3. Khởi chạy thủ OneDrive bằng cách đi tới Bắt đầu ![Nhấn phím Windows phải](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAAOCAYAAADJ7fe0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAADxSURBVDhPY/wPBAx4wR+Gd6/fM7x9/ZTh9ZuXDGdPnWE4tH0rw/UHDxlaVp9kCDCSYWABKfv35wfD+/cfGV4+fcLw5uVjhlOXzzFsX/qWYebmZAZPWWOGO2DD8ACQS9Y3e4Bcg4Y9/t94fPa/CoY4Aq8/+xik/T8TkEMxGDyGgANWwSqeobvbGSyAADIM3BwCDKXd3QyfoCLoQEGAA0xTxSWjsYMJwLHjkruU4UXSJ4YnT54x3Dh/luHmjfMMmw9wMjCDlRAGBDPgjy8fGT5//8rw9P4Thge3zzNcvXmDYevmfQzXb1xlmH/0ATADyjAAAKdWkD3ZSwNeAAAAAElFTkSuQmCC), nhập OneDrive vào hộp tìm kiếm, rồi bấm vào ứng dụng OneDrive trên máy tính.
 
 **Đặt lại OneDrive:**
 
-Boy
+Lưu ý:
 
-- Việc đặt lại OneDrive đã ngắt kết nối tất cả các kết nối đồng bộ hiện có của bạn (bao gồm OneDrive cá nhân của bạn nếu thiết lập).
-- Bạn sẽ không mất tệp hoặc dữ liệu bằng cách đặt lại OneDrive trên máy tính của mình.
+- Việc đặt lại OneDrive kết nối tất cả các kết nối đồng bộ hiện có của bạn (bao gồm kết nối OneDrive cá nhân của bạn nếu được thiết lập).
+- Bạn sẽ không bị mất tệp hay dữ liệu khi đặt lại OneDrive máy tính của mình.
 
-**Để đặt lại OneDrive:**
+**Cách đặt lại OneDrive:**
 
-1. Mở hộp thoại chạy bằng cách nhấn phím Windows và R.
-2. Nhập% LocalAppData% \Microsoft\OneDrive\onedrive.exe/Reset và nhấn OK. Một cửa sổ lệnh có thể xuất hiện một thời gian ngắn.
-3. Khởi động OneDrive theo cách thủ công bằng cách đi đến bắt đầu ![Nhấn phím Windows](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAAOCAYAAADJ7fe0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAADxSURBVDhPY/wPBAx4wR+Gd6/fM7x9/ZTh9ZuXDGdPnWE4tH0rw/UHDxlaVp9kCDCSYWABKfv35wfD+/cfGV4+fcLw5uVjhlOXzzFsX/qWYebmZAZPWWOGO2DD8ACQS9Y3e4Bcg4Y9/t94fPa/CoY4Aq8/+xik/T8TkEMxGDyGgANWwSqeobvbGSyAADIM3BwCDKXd3QyfoCLoQEGAA0xTxSWjsYMJwLHjkruU4UXSJ4YnT54x3Dh/luHmjfMMmw9wMjCDlRAGBDPgjy8fGT5//8rw9P4Thge3zzNcvXmDYevmfQzXb1xlmH/0ATADyjAAAKdWkD3ZSwNeAAAAAElFTkSuQmCC), nhập OneDrive vào hộp tìm kiếm, rồi bấm vào ứng dụng OneDrive trên máy tính.
+1. Mở hộp thoại Chạy bằng cách Windows phím Windows và R.
+2. Nhập %localappdata%\Microsoft\OneDrive\onedrive.exe /reset, rồi nhấn OK. Cửa sổ Lệnh có thể xuất hiện trong thời gian ngắn.
+3. Khởi chạy thủ OneDrive bằng cách đi tới Bắt đầu ![Nhấn phím Windows phải](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAAOCAYAAADJ7fe0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAADxSURBVDhPY/wPBAx4wR+Gd6/fM7x9/ZTh9ZuXDGdPnWE4tH0rw/UHDxlaVp9kCDCSYWABKfv35wfD+/cfGV4+fcLw5uVjhlOXzzFsX/qWYebmZAZPWWOGO2DD8ACQS9Y3e4Bcg4Y9/t94fPa/CoY4Aq8/+xik/T8TkEMxGDyGgANWwSqeobvbGSyAADIM3BwCDKXd3QyfoCLoQEGAA0xTxSWjsYMJwLHjkruU4UXSJ4YnT54x3Dh/luHmjfMMmw9wMjCDlRAGBDPgjy8fGT5//8rw9P4Thge3zzNcvXmDYevmfQzXb1xlmH/0ATADyjAAAKdWkD3ZSwNeAAAAAElFTkSuQmCC), nhập OneDrive vào hộp tìm kiếm, rồi bấm vào ứng dụng OneDrive trên máy tính.
 
-Boy
+Lưu ý:
 
-- Nếu bạn đã chọn chỉ đồng bộ một số thư mục trước khi đặt lại, bạn sẽ cần thực hiện lại sau khi đồng bộ đã hoàn thành. Đọc [chọn thư mục OneDrive để đồng bộ với máy tính của bạn](https://support.office.com/article/98b8b011-8b94-419b-aa95-a14ff2415e85)để   biết thêm thông tin.
-- Bạn sẽ cần hoàn thành đối với OneDrive và OneDrive for Business của bạn.
+- Nếu bạn đã chọn chỉ đồng bộ một số thư mục trước khi đặt lại, bạn sẽ cần thực hiện lại điều đó sau khi đồng bộ xong. Đọc [mục Chọn thư OneDrive mục cần đồng bộ với máy tính của bạn để](https://support.office.com/article/98b8b011-8b94-419b-aa95-a14ff2415e85)biết thêm thông   tin.
+- Bạn sẽ cần hoàn tất việc này cho tài khoản cá nhân OneDrive và OneDrive for Business.

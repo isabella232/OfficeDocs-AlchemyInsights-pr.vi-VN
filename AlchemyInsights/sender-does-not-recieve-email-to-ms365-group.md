@@ -1,5 +1,5 @@
 ---
-title: Người gửi không nhận được email được gửi đến nhóm Microsoft 365
+title: Người gửi không nhận được email được gửi đến Microsoft 365 nhóm
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,23 +12,23 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003200"
-ms.openlocfilehash: b8091305d55408f51cf369506acc7bfac59defb5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 893b80567567590357a638370b8c8d58b87a98a51c68cfcc84629eda5ac71b44
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47751337"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53958319"
 ---
-# <a name="sender-does-not-receive-email-sent-to-microsoft-365-group"></a>Người gửi không nhận được email được gửi đến nhóm Microsoft 365
+# <a name="sender-does-not-receive-email-sent-to-microsoft-365-group"></a>Người gửi không nhận được email được gửi đến Microsoft 365 nhóm
 
-Theo mặc định, người gửi email đến một nhóm Microsoft 365 không nhận được một bản sao của thư trong hộp thư đến của họ, ngay cả khi người gửi là thành viên của nhóm.
+Theo mặc định, người gửi thư email đến một nhóm Microsoft 365 không nhận được bản sao của thư trong Hộp thư đến của họ, ngay cả khi người gửi là thành viên của nhóm.
 
-Sử dụng lệnh EXO PowerShell này để cho phép người gửi nhận được một bản sao của mỗi email mà họ gửi đến nhóm Microsoft 365:  
+Sử dụng lệnh PowerShell EXO này để cho phép người gửi nhận bản sao của từng email họ gửi đến nhóm Microsoft 365 chủ:  
 
 `Set-MailboxMessageConfiguration <MailboxName> -EchoGroupMessageBackToSubscribedSender $True`  
 
-Để kích hoạt cài đặt cho tất cả các hộp thư cùng một lúc:
+Để bật cài đặt cho tất cả các hộp thư cùng một lúc:
 
 `Get-Mailbox -ResultSize Unlimited | ForEach {Set-MailboxMessageConfiguration -Identity $_.UserPrincipalName -EchoGroupMessageBackToSubscribedSender $true}` 
 
-**Ghi chú** Các thay đổi đối với thiết đặt này sẽ mất đến một giờ để có hiệu lực.
+**Lưu ý** Phải mất tới một giờ để thay đổi thiết đặt này có hiệu lực.

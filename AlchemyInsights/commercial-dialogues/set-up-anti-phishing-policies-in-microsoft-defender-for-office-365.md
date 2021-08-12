@@ -1,5 +1,5 @@
 ---
-title: Thiết lập chính sách chống lừa đảo trong Microsoft Defender cho Office 365
+title: Thiết lập chính sách chống lừa đảo qua web trong Bộ bảo vệ Microsoft cho Office 365
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: eb747d3efc137e5b6ae555b62e39b8fa84c20ee6
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: dc6445bcd77a37fd4040381491b96142f8cc6cdd1be6cb05dcfba0c4a9a55dc5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50749970"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53966815"
 ---
-# <a name="set-up-anti-phishing-policies-in-microsoft-defender-for-office-365"></a>Thiết lập chính sách chống lừa đảo trong Microsoft Defender cho Office 365
+# <a name="set-up-anti-phishing-policies-in-microsoft-defender-for-office-365"></a>Thiết lập chính sách chống lừa đảo qua web trong Bộ bảo vệ Microsoft cho Office 365
 
-1. Đi đến [Trung tâm tuân thủ & bảo mật của Office 365](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-2. Chọn chính sách **quản lý mối đe dọa**  >  . Trên trang **chính sách** , chọn [Microsoft Defender cho Office 365 chống lừa đảo](https://go.microsoft.com/fwlink/?linkid=2101369)qua mạng.
-3. Trên trang **chống lừa đảo** , hãy thực hiện một trong các thao tác sau:
-    1. Để thêm chính sách mới, hãy chọn **+ tạo**.
-    1. Để sửa chính sách hiện có, hãy chọn tên chính sách từ danh sách được hiển thị trên trang **chống lừa đảo** . Trên trang xuất hiện, chọn **chỉnh sửa** bên cạnh thiết đặt mà bạn muốn thay đổi. Trình hướng dẫn sẽ khởi chạy để giúp bạn xác định chính sách chống lừa đảo của bạn.
-4. Nếu bạn đang tạo chính sách mới, hãy xác định tên, mô tả và thiết đặt cho chính sách của bạn.
-5. Sau khi bạn đã xem lại các thiết đặt của mình, hãy chọn **tạo chính sách này** hoặc **lưu**, như phù hợp.
+1. Đi đến Trung [tâm Office 365 chính sách Bảo & Tuân thủ](https://go.microsoft.com/fwlink/p/?linkid=2077143).
+2. Chọn Chính **sách quản lý mối đe**  >  **dọa**. Trên trang **Chính** sách, chọn [Bộ bảo vệ Microsoft Office 365 chống lừa đảo qua mạng](https://go.microsoft.com/fwlink/?linkid=2101369).
+3. Trên trang **Chống lừa đảo qua mạng,** hãy thực hiện một trong các bước sau:
+    1. Để thêm chính sách mới, chọn **+ Tạo**.
+    1. Để sửa chính sách hiện có, hãy chọn tên chính sách từ danh sách được hiển thị **trên trang Chống lừa đảo qua** mạng. Trên trang hiện ra, hãy chọn **Sửa bên** cạnh thiết đặt mà bạn muốn thay đổi. Một trình hướng dẫn sẽ khởi chạy để giúp bạn xác định chính sách chống lừa đảo qua mạng.
+4. Nếu bạn đang tạo một chính sách mới, hãy chỉ định tên, mô tả và thiết đặt cho chính sách của bạn.
+5. Sau khi đã xem lại cài đặt của mình, chọn **Tạo chính sách này hoặc** **Lưu**, tùy trường hợp.
