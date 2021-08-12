@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "7857"
 - "9004350"
-ms.openlocfilehash: b8afb16394fca36c33fbc9b6ed793f0bc73cea1a
-ms.sourcegitcommit: 688642f4ebc0f1c335e954e780bb9ec8893e2f3f
+ms.openlocfilehash: bd53adfc8b823110f5c4516cce100bb86f54e4a2b31ddd5b87ef53054fd60e11
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 01/20/2021
-ms.locfileid: "49917172"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53936331"
 ---
 # <a name="adding-applications-to-the-myapps-portal"></a>Thêm ứng dụng vào cổng thông tin MyApps
 
-Nếu người quản trị của bạn đã cấp cho bạn quyền, bạn có thể thêm ứng dụng mới vào trang **ứng dụng** . Để biết thêm thông tin, hãy xem [Thêm ứng dụng mới vào cổng thông tin ứng dụng của tôi](https://docs.microsoft.com/azure/active-directory/user-help/my-apps-portal-end-user-access#add-a-new-app-to-the-my-apps-portal).
+Nếu người quản trị đã cấp cho bạn quyền, bạn có thể thêm ứng dụng mới vào **trang Ứng** dụng. Để biết thêm thông tin, hãy [xem Thêm ứng dụng mới vào cổng thông tin Ứng dụng của Tôi](https://docs.microsoft.com/azure/active-directory/user-help/my-apps-portal-end-user-access#add-a-new-app-to-the-my-apps-portal).

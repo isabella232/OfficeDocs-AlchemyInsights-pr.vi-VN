@@ -1,5 +1,5 @@
 ---
-title: Các vấn đề liên quan đến VPN
+title: Sự cố liên quan đến VPN
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,46 +13,46 @@ ms.collection: Adm_O365
 ms.custom:
 - "1545"
 - "9000076"
-ms.openlocfilehash: 3c031725c92f5d7af7c0dd0c37ea34fecf4792c8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1d9c34350d16d96329d1ed56666119dba0433c93ccb7547da5dba4894531e1b4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47726135"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53971001"
 ---
-# <a name="vpn-related-issues"></a>Các vấn đề liên quan đến VPN
+# <a name="vpn-related-issues"></a>Sự cố liên quan đến VPN
 
-Việc thực hiện thành công các kết nối VPN cho máy khách MDM tùy thuộc vào một hồ sơ đã triển khai phản ánh chính xác các yêu cầu của cơ sở hạ tầng VPN. Đối với các cài đặt phù hợp cho nền tảng máy khách mà bạn đang điều tra, hãy xem: 
+Việc triển khai thành công khả năng kết nối VPN cho máy khách MDM phụ thuộc vào hồ sơ được triển khai phản ánh đúng các yêu cầu của cơ sở hạ tầng VPN. Để biết các cài đặt thích hợp cho nền tảng máy khách mà bạn đang điều tra, hãy xem mục: 
 
-[Thiết đặt thiết bị trong Windows 10 và Windows Holographic để thêm kết nối VPN bằng cách dùng InTune](https://docs.microsoft.com/intune/vpn-settings-windows-10)  
-[Thêm các thiết đặt VPN trên các thiết bị iOS và iPadOS trong Microsoft InTune](https://docs.microsoft.com/intune/vpn-settings-ios)  
-[Thiết đặt thiết bị Android để cấu hình VPN trong InTune](https://docs.microsoft.com/intune/vpn-settings-android)  
-[Thêm các thiết đặt VPN trên thiết bị macOS trong Microsoft InTune](https://docs.microsoft.com/mem/intune/configuration/vpn-settings-macos)
+[Windows 10 các cài Windows Ba chiều để thêm kết nối VPN bằng Intune](https://docs.microsoft.com/intune/vpn-settings-windows-10)  
+[Thêm cài đặt VPN trên thiết bị iOS và iPadOS trong Microsoft Intune](https://docs.microsoft.com/intune/vpn-settings-ios)  
+[Cài đặt thiết bị Android để đặt cấu hình VPN trong Intune](https://docs.microsoft.com/intune/vpn-settings-android)  
+[Thêm cài đặt VPN trên thiết bị macOS trong Microsoft Intune](https://docs.microsoft.com/mem/intune/configuration/vpn-settings-macos)
 
-Nếu hồ sơ VPN của bạn sử dụng xác thực dựa trên chứng chỉ, hãy đảm bảo rằng các hồ sơ chứng nhận chứng chỉ gốc và xác thực máy khách được nối kết với hồ sơ VPN được triển khai thành công.
+Nếu hồ sơ VPN của bạn sử dụng xác thực dựa trên chứng chỉ, hãy đảm bảo rằng hồ sơ chứng chỉ gốc và chứng chỉ xác thực khách được liên kết với hồ sơ VPN đều được triển khai thành công.
 
-**Các sự cố phổ biến**
+**Sự cố Thường gặp**
 
-**Tôi đã triển khai hồ sơ VPN vào một thiết bị. InTune Hiển thị rằng nó đã thành công, nhưng thiết bị không được kết nối với VPN.**
+**Tôi đã triển khai cấu hình VPN cho một thiết bị. Intune cho thấy đã thành công, nhưng thiết bị không kết nối với VPN.**
 
-Trạng thái thành công nghĩa là InTune đã triển khai thành công hồ sơ như được cấu hình. Tuy nhiên, các cấu hình này có thể không khớp với mạng của bạn và/hoặc các yêu cầu xác thực. Xem lại Nhật ký trong cơ sở hạ tầng và dịch vụ xác thực (trên máy chủ VPN và NPS/Radius) để biết thêm chi tiết về kết nối đã thử. Bạn có thể cần làm việc với nhóm cơ sở hạ tầng mạng của bạn hoặc nhà cung cấp VPN bên thứ ba, để thu thập và xem lại Nhật ký.
+Trạng thái thành công có nghĩa là Intune đã triển khai thành công hồ sơ như được đặt cấu hình. Tuy nhiên, các cấu hình này có thể không khớp với yêu cầu về mạng và/hoặc xác thực của bạn. Xem lại nhật ký trong cơ sở hạ tầng và dịch vụ xác thực (trên máy chủ VPN và máy chủ NPS/Bán kính) để biết thêm chi tiết về kết nối đã thử. Bạn có thể cần làm việc với nhóm cơ sở hạ tầng mạng hoặc nhà cung cấp VPN bên thứ ba để thu thập và xem lại nhật ký.
 
-**Khi tôi cấu hình một VPN tùy chỉnh cho iOS, tính năng trên mỗi ứng dụng VPN không được tạo sẵn.**
+**Khi tôi đặt cấu hình một VPN tùy chỉnh cho iOS, tính năng VPN cho mỗi ứng dụng sẽ không sẵn dùng.**
 
-VPN mỗi ứng dụng dành cho thiết bị iOS trong InTune hiện sẵn dùng cho một danh sách các nhà cung cấp và đối tác cụ thể, những người cũng phải đáp ứng các điều kiện tiên quyết chứng chỉ trước khi cấu hình VPN cho mỗi ứng dụng. Để biết thêm thông tin, hãy xem [thiết lập mạng riêng ảo trên mỗi ứng dụng (VPN) cho các thiết bị iOS/iPadOS trong InTune](https://docs.microsoft.com/intune/vpn-setting-configure-per-app). 
+VPN cho mỗi ứng dụng cho các thiết bị iOS trong Intune hiện sẵn dùng cho một danh sách cụ thể các nhà cung cấp và đối tác, những người cũng phải đáp ứng các điều kiện tiên quyết của chứng chỉ trước khi đặt cấu hình VPN cho mỗi ứng dụng. Để biết thêm thông tin, xem mục Thiết lập Mạng Riêng Ảo (VPN) cho các thiết bị [iOS/iPadOS trong Intune](https://docs.microsoft.com/intune/vpn-setting-configure-per-app). 
 
-Để biết thêm thông tin về tất cả các loại kết nối VPN trong InTune, hãy xem [tạo hồ sơ VPN để kết nối với các máy chủ VPN trong InTune](https://docs.microsoft.com/intune/vpn-settings-configure).  
+Để biết thêm thông tin về tất cả các loại kết nối VPN trong Intune, xem mục Tạo cấu hình VPN để kết nối với [máy chủ VPN trong Intune](https://docs.microsoft.com/intune/vpn-settings-configure).  
 
-**VPN on-Demand VPN không được kích hoạt khi tên miền được đặt cấu hình được truy nhập**
+**VPN Theo Yêu cầu của iOS không kích hoạt khi một miền được đặt cấu hình được truy nhập**
 
-Để kiểm tra các thiết đặt VPN tự động, hãy đặt các giá trị sau đây:
+Để kiểm tra cài đặt VPN tự động, hãy đặt các giá trị sau:
 
-Tôi muốn thực hiện các thao tác sau: **đánh giá mỗi lần thử kết nối** 
+Tôi muốn thực hiện như sau: Đánh giá **mỗi lần thử kết nối** 
 
-Chọn xem có kết nối không: **kết nối nếu cần thiết**
+Chọn có kết nối không: **kết Kết nối nếu cần**
 
-Khi người dùng truy nhập các tên miền này: *tên miền* **đích**
+Khi người dùng truy nhập những tên miền này: **tên** *miền đích*
 
-Nếu cấu hình trên không thành công, hãy thêm thành phần sau đây:
+Nếu cấu hình ở trên không thành công, hãy thêm thành phần sau đây:
 
-Khi URL này không thể truy cập, lực lượng kết nối VPN: **Badurl**
+Khi URL này không thể tiếp cận, hãy buộc kết nối VPN: **BADURL**
