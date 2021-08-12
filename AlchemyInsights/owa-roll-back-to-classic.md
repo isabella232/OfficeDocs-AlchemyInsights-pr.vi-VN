@@ -1,5 +1,5 @@
 ---
-title: Quay lại Outlook cổ điển trên web
+title: Quay về ảnh cổ Outlook trên web
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,15 +10,15 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: b246f6e51b942e35c2035b912ea3d810a2000d75
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c083efef3e77dc175737e0412fd958c448f4f118955dc7a95427dab831ccbe4d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47805881"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53924035"
 ---
-# <a name="the-new-outlook-on-the-web"></a>Outlook mới trên web
+# <a name="the-new-outlook-on-the-web"></a>Ảnh mới Outlook trên web
 
-Sẽ không còn có thể trở về Outlook cổ điển trên trải nghiệm web. Nếu bạn muốn đưa ra phản hồi về trải nghiệm mới, hãy đi đến [diễn đàn Uservoice](https://go.microsoft.com/fwlink/?linkid=2103182). Bạn có thể bỏ phiếu cho các ý tưởng hoặc vấn đề mà bạn muốn xem địa chỉ và chúng tôi sẽ phản hồi trực tiếp đến chú thích và gợi ý trên cùng.
+Bạn không còn có thể quay lại trải nghiệm trải nghiệm Outlook trên web điển nữa. Nếu bạn muốn cung cấp phản hồi về trải nghiệm mới, hãy truy nhập diễn [đàn UserVoice.](https://go.microsoft.com/fwlink/?linkid=2103182) Bạn có thể bình chọn cho các ý tưởng hoặc sự cố mà bạn muốn được giải quyết, rồi chúng tôi sẽ phản hồi trực tiếp cho các nhận xét và đề xuất hàng đầu.
 
-[Nhận trợ giúp về Outlook trên web mới](https://support.office.com/article/017014cd-2ad0-41ab-8473-6bd8c349d4f8)
+[Nhận trợ giúp về ứng dụng Outlook trên web](https://support.office.com/article/017014cd-2ad0-41ab-8473-6bd8c349d4f8)

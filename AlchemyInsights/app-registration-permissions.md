@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004352"
 - "7781"
-ms.openlocfilehash: 607d2a4405f22d9b154adfe7fdf14cfa273ee8fb
-ms.sourcegitcommit: 113b802081101de70810fc73938ea92f7518d8c6
+ms.openlocfilehash: abd4d2600a29506efe74079709d6a974a6169260b74eb147a7787722c4b799c5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49901494"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951083"
 ---
 # <a name="app-registration-permissions"></a>Quyền đăng ký ứng dụng
 
-[Quyền đăng ký ứng dụng cho các vai trò tùy chỉnh trong Azure Active Directory](https://docs.microsoft.com/azure/active-directory/roles/custom-available-permissions): bài viết này chứa các quyền đăng ký ứng dụng hiện có có sẵn cho các định nghĩa vai trò tùy chỉnh trong Azure Active Directory (Azure AD).
+[Quyền đăng ký ứng dụng cho các vai trò](https://docs.microsoft.com/azure/active-directory/roles/custom-available-permissions)tùy chỉnh trong Azure Active Directory : Bài viết này chứa các quyền đăng ký ứng dụng hiện có sẵn cho định nghĩa vai trò tùy chỉnh trong Azure Active Directory (Azure AD).

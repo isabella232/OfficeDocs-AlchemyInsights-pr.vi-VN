@@ -1,5 +1,5 @@
 ---
-title: Các chính sách cấu hình ứng dụng cho Microsoft InTune
+title: Chính sách Cấu hình Ứng dụng cho người Microsoft Intune
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,23 +14,23 @@ ms.custom:
 - "1030"
 - "9003770"
 - "6709"
-ms.openlocfilehash: e37485d6fecab8c0eeb513185adf71b394064744
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: fc23546a6287300075f0dcbc120e4e09dded2b8e03899e98d8c27ff6c94b737e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51821352"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53932011"
 ---
-# <a name="app-configuration-policies-for-microsoft-intune"></a>Các chính sách cấu hình ứng dụng cho Microsoft InTune
+# <a name="app-configuration-policies-for-microsoft-intune"></a>Chính sách Cấu hình Ứng dụng cho người Microsoft Intune
 
-Các chính sách cấu hình ứng dụng trong Microsoft InTune được dùng để cung cấp các thiết đặt cấu hình cho các ứng dụng iOS hoặc Android.. Các thiết đặt cấu hình này cho phép ứng dụng được tùy chỉnh. Lưu ý rằng có những hạn chế đối với các phiên bản hệ điều hành và ứng dụng nào hỗ trợ việc sử dụng các chính sách cấu hình.
+Chính sách cấu hình ứng dụng Microsoft Intune dụng để cung cấp cài đặt cấu hình cho các ứng dụng iOS hoặc Android.. Những cài đặt cấu hình này cho phép tùy chỉnh một ứng dụng. Hãy lưu ý rằng có những giới hạn liên quan đến phiên bản hệ điều hành nào và ứng dụng nào hỗ trợ việc sử dụng các chính sách cấu hình.
 
-Vui lòng xem lại các tài liệu hướng dẫn sau để biết chi tiết
+Vui lòng xem lại tài liệu sau để biết chi tiết
 
-[Các chính sách cấu hình ứng dụng cho Microsoft InTune](https://docs.microsoft.com/intune/app-configuration-policies-overview)  
+[Chính sách cấu hình ứng dụng cho Microsoft Intune](https://docs.microsoft.com/intune/app-configuration-policies-overview)  
 
-[Thêm chính sách cấu hình ứng dụng cho thiết bị quản lý iOS](https://docs.microsoft.com/intune/app-configuration-policies-use-ios)  
+[Thêm chính sách cấu hình ứng dụng cho các thiết bị iOS được quản lý](https://docs.microsoft.com/intune/app-configuration-policies-use-ios)  
 
-[Thêm chính sách cấu hình ứng dụng cho thiết bị chạy Android được quản lý](https://docs.microsoft.com/intune/app-configuration-policies-use-android)
+[Thêm chính sách cấu hình ứng dụng cho các thiết bị chạy Android được quản lý](https://docs.microsoft.com/intune/app-configuration-policies-use-android)
 
-[Thêm chính sách cấu hình ứng dụng cho các ứng dụng được quản lý mà không cần đăng ký](https://docs.microsoft.com/intune/app-configuration-policies-managed-app)
+[Thêm chính sách cấu hình ứng dụng cho các ứng dụng được quản lý mà không cần đăng ký thiết bị](https://docs.microsoft.com/intune/app-configuration-policies-managed-app)

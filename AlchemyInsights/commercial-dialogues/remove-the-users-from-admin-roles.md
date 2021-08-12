@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: 23a6533f0ae759a7b8bc4a668f1f6d11e297da26
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 6e5b47a01d80726f772111b42f2c4cff3efcb295a36070b44fcb6901800e71fb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403153"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53916005"
 ---
 # <a name="remove-the-users-from-the-admin-roles"></a>Loại bỏ người dùng khỏi vai trò quản trị
 
-Sau đây là cách thực hiện:
+Dưới đây là cách thực hiện:
 
-1. Trong Trung tâm quản trị, chọn **người** dùng hiện  >  [**hoạt**](https://go.microsoft.com/fwlink/p/?linkid=834822).
+1. Trong trung tâm quản trị, chọn Người **dùng Người dùng** hiện  >  [**hoạt.**](https://go.microsoft.com/fwlink/p/?linkid=834822)
 1. Chọn người dùng có tài khoản đã bị xâm phạm.
-1. Trong bay ra xuất hiện, hãy chọn **sửa** cho **vai trò**. Loại bỏ người dùng khỏi mọi vai trò quản trị cho đến khi bạn tự tin rằng tài khoản của họ không còn bị xâm phạm.
+1. Trong hộp bật lên xuất hiện, chọn Chỉnh **sửa** cho **Vai trò**. Loại bỏ người dùng khỏi bất kỳ vai trò quản trị nào cho đến khi bạn chắc rằng tài khoản của họ không còn bị xâm phạm nữa.
 

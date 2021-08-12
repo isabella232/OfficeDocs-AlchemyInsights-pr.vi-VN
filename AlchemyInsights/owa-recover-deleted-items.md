@@ -12,21 +12,21 @@ localization_priority: Normal
 ms.custom:
 - "8000011"
 - "1996"
-ms.openlocfilehash: 40ebd8a68aebb8d3638940e5263a03abf1ab342f
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: ff252b7fab1aaba9f4e27866b7296ff0bada9ba0891b2f818eda4b7e7a3a3c31
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48451530"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53924287"
 ---
 # <a name="recover-deleted-email-in-outlook-on-the-web"></a>Khôi phục email đã xóa trong Outlook trên web
 
-1. Trong ngăn bên trái, chọn thư mục các mục đã xóa hoặc thư mục email rác.
+1. Ở ngăn bên trái, chọn thư mục Các mục đã xóa hoặc Thư rác.
 
-2. Hãy thực hiện một trong các thao tác sau:
+2. Thực hiện một trong những việc sau:
 
-    - Thư mục các mục đã xóa: chọn thư bạn muốn khôi phục, rồi chọn **khôi phục**. Nếu thư không có trong thư mục các mục đã xóa, hãy chọn **khôi phục các mục đã xóa khỏi thư mục này** ở phía trên cùng của danh sách thư, chọn thư bạn muốn khôi phục, rồi chọn **khôi phục**.
+    - Thư mục Các mục đã xóa: Chọn thư bạn muốn khôi phục và chọn Khôi **phục**. Nếu thư không có trong thư mục  Các mục Đã xóa, hãy chọn Khôi phục các mục đã xóa khỏi thư mục này ở đầu danh sách thư, chọn thư bạn muốn khôi phục, rồi chọn **Khôi phục.**
 
-    - Thư mục email rác: chọn thư bạn muốn khôi phục, rồi chọn **không phải thư rác**.
+    - Thư mục Email rác: Chọn thư bạn muốn khôi phục và chọn Không **phải thư rác**.
 
-Để tìm hiểu thêm, hãy xem mục [khôi phục các thư email đã xóa trong Outlook trên web](https://support.office.com/article/a8ca78ac-4721-4066-95dd-571842e9fb11).
+Để tìm hiểu thêm, xem [mục Phục hồi thư email đã xóa Outlook trên web.](https://support.office.com/article/a8ca78ac-4721-4066-95dd-571842e9fb11)

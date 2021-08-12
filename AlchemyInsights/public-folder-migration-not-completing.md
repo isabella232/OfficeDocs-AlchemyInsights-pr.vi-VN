@@ -1,5 +1,5 @@
 ---
-title: Lô di chuyển thư mục công cộng không hoàn thành, Hiển thị đã đồng bộ
+title: Lô di chuyển thư mục công cộng chưa hoàn tất, hiển thị đã đồng bộ
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "639"
 - "3500007"
-ms.openlocfilehash: 33302110249b02aef87639792ebfd9cafd6638c0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1c768dcc79d39ac4164a86f7f82bd6be490cdc4df48a11d2f198fece492eba38
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47804387"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53911216"
 ---
-# <a name="public-folder-migration-batch-not-completing-shows-synced"></a>Lô di chuyển thư mục công cộng không hoàn thành, Hiển thị đã đồng bộ
+# <a name="public-folder-migration-batch-not-completing-shows-synced"></a>Lô di chuyển thư mục công cộng chưa hoàn tất, hiển thị đã đồng bộ
 
-Bạn có thể đã bắt đầu hoàn thành lô di chuyển và trạng thái của lô di chuyển tiếp tục hiển thị "đã đồng bộ" trong thời gian rất dài. Đây là hành vi dự kiến.
+Có thể bạn đã bắt đầu hoàn tất lô di chuyển và trạng thái của lô di chuyển sẽ tiếp tục hiển thị "Đã đồng bộ" trong thời gian rất dài. Đây là hành vi được mong đợi.
 
-Nó phổ biến cho trạng thái của lô di chuyển vẫn tiếp tục được đồng bộ trong một vài giờ trước khi chuyển đổi để hoàn thành. Để di chuyển liên quan đến một số lượng lớn các hộp thư đích, thông thường là bạn sẽ thấy trạng thái vẫn giữ nguyên trong trạng thái đồng bộ trong hơn 24 giờ, không cung cấp các yêu cầu di chuyển thư mục công cộng nằm bên dưới. Vui lòng cho phép 24-48 giờ cho lô di chuyển để hoàn thành nhiệm vụ.
+Tình trạng lô di chuyển vẫn được duy trì ở trạng thái Đã đồng bộ trong một vài giờ trước khi lô chuyển chuyển sang Hoàn thành. Đối với các di chuyển liên quan đến số lượng lớn hộp thư đích, điều bình thường là thấy trạng thái vẫn ở trạng thái Đã đồng bộ trong hơn 24 giờ, miễn là không có yêu cầu di chuyển thư mục công cộng cơ bản nào bị hỏng hoặc bị cách ly. Vui lòng cho phép lô di chuyển hoàn thành các nhiệm vụ trong 24-48 giờ.

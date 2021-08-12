@@ -1,5 +1,5 @@
 ---
-title: Bảo vệ khỏi cuộc tấn công lùi
+title: Bảo vệ khỏi tấn công Backscatter
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,29 +13,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9779"
 - "9005743"
-ms.openlocfilehash: 8d9214fe2f5d55a21c72296421dd837d7f1d7e7d
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 8c6b1cfe79d322702279877ff351397a366fa246710c04e25181a675ad2fdeab
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51037184"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53911252"
 ---
-# <a name="protection-from-backscatter-attack"></a>Bảo vệ khỏi cuộc tấn công lùi
+# <a name="protection-from-backscatter-attack"></a>Bảo vệ khỏi tấn công Backscatter
 
-Backscatter là các báo cáo không chuyển phát (còn được gọi là thư bị trả lại), bạn sẽ nhận được những tin nhắn mà bạn không gửi. Gửi thư rác giả mạo (spoof) **từ:** địa chỉ thư của họ, và họ thường dùng địa chỉ email thực để cho vay tin cậy vào thư của họ. Vì vậy, khi gửi thư rác không chắc chắn gửi thư đến người nhận không tồn tại, máy chủ email đích sẽ bị lừa trở về thư không được gửi đi trong NDR đến người gửi giả mạo trong **từ:** address.
+Backscatter là báo cáo không chuyển phát (còn được gọi là NRS hoặc thư trả lại) mà bạn nhận được cho các thư mà bạn không gửi. Những kẻ gửi thư rác giả mạo (giả mạo) địa chỉ **Từ:** địa chỉ thư của họ và họ thường dùng địa chỉ email thật để tạo sự tín nhiệm cho thư của họ. Vì vậy, khi người gửi thư rác khó tránh khỏi việc gửi thư đến những người nhận không tồn tại, về cơ bản máy chủ email đích bị lừa trả lại thư không chuyển phát được trong NDR cho người gửi được giả lập trong địa chỉ **Từ:.**
 
-Có thể tìm thấy thông tin bổ sung trong [backscatter trong EOP](https://docs.microsoft.com/microsoft-365/security/office-365-security/backscatter-messages-and-eop).
+Thông tin bổ sung có thể được [tìm thấy ở Backscatter trong EOP.](https://docs.microsoft.com/microsoft-365/security/office-365-security/backscatter-messages-and-eop)
 
-**Bật tính năng bảo vệ chống phân tán**
+**Cho phép bảo vệ tính năng chống Rác đối mặt**
 
-Để cho phép bảo vệ lên dưới, hãy làm theo đường dẫn bên dưới.
+Để bật tính năng bảo vệ Tính năng chống Tác vụ ngược, hãy làm theo đường dẫn bên dưới.
 
-**protection.office.com > quản lý mối đe dọa > chính sách > antispam > chọn chính sách bộ lọc thư rác và sửa chính sách > thuộc tính thư rác > đánh dấu là thư rác > NDR đã bật tiếng > đặt nó thành "bật"**
+**protection.office.com > Tính năng Quản lý Mối đe dọa > Quản lý Mối đe dọa > Chống Thư rác > Chọn Chính sách Bộ lọc Thư rác và Chỉnh sửa chính sách > Thuộc tính thư rác > Đánh dấu là thư rác > Độ báo ngược NDR > Đặt thành "Bật"**
 
-Nếu bạn tin rằng tài khoản đã bị xâm phạm, hãy xem những điều sau đây:
+Nếu bạn cho rằng tài khoản đã bị xâm phạm, hãy xem nội dung sau:
 
-- [Trả lời tài khoản email bị xâm phạm](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account)
-- [Loại bỏ người dùng bị chặn khỏi cổng thông tin người dùng bị hạn chế trong Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/removing-user-from-restricted-users-portal-after-spam)
+- [Trả lời Tài khoản Email Bị xâm phạm](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account)
+- [Loại bỏ người dùng bị chặn khỏi cổng thông tin Người dùng Bị hạn chế trong Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/removing-user-from-restricted-users-portal-after-spam)
 
 
 

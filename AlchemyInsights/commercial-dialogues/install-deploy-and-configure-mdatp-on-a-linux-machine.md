@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 1e04b54dc1cb429aeacb274c8078132d1d6bc05c
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 2387db7597a2828e0da8721f2c56798da1a3ca526683e792b3b5828a05139df7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50750516"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53916257"
 ---
 # <a name="install-deploy-and-configure-mdatp-on-a-linux-machine"></a>Cài đặt, triển khai và đặt cấu hình MDATP trên máy Linux
 
-1. Đảm bảo rằng bạn đã đăng ký MDATP và có quyền truy nhập vào [cổng thông tin mdatp](https://go.microsoft.com/fwlink/?linkid=2144512).
-2. Triển khai MDATP theo cách [thủ](https://go.microsoft.com/fwlink/?linkid=2144809) công hoặc bằng cách sử dụng công cụ quản lý cấu hình: con [rối](https://go.microsoft.com/fwlink/?linkid=2144715) [hoặc khả](https://go.microsoft.com/fwlink/?linkid=2144716)năng truy nhập.
+1. Đảm bảo rằng bạn đã đăng ký MDATP và có quyền truy nhập vào cổng [thông tin MDATP.](https://go.microsoft.com/fwlink/?linkid=2144512)
+2. Triển khai MDATP [theo cách](https://go.microsoft.com/fwlink/?linkid=2144809) thủ công hoặc bằng cách sử dụng một công cụ quản lý cấu hình: [Puppet](https://go.microsoft.com/fwlink/?linkid=2144715) [hoặc Ansible](https://go.microsoft.com/fwlink/?linkid=2144716).
 
-Để tìm hiểu thêm, hãy xem [làm thế nào để cài đặt MDATP cho Linux](https://go.microsoft.com/fwlink/?linkid=2144717).
+Để tìm hiểu thêm, hãy [xem Cách cài đặt MDATP cho Linux](https://go.microsoft.com/fwlink/?linkid=2144717).

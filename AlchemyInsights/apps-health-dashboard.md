@@ -1,5 +1,5 @@
 ---
-title: Bảng điều khiển trạng thái ứng dụng Microsoft 365 trong Trung tâm quản trị ứng dụng Microsoft 365
+title: Ứng dụng Microsoft 365 trạng trong trung tâm quản Ứng dụng Microsoft 365 chính
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,16 +13,16 @@ ms.collection: Adm_O364
 ms.custom:
 - "9003533"
 - "10879"
-ms.openlocfilehash: 5b8c568f2e6080d57dd8e6db0feea18c685ab857
-ms.sourcegitcommit: 326c10f16cf15e823cc97cb4c6a7153343f88f93
+ms.openlocfilehash: 0e6ae3961aef9c1c5a8e1fdbda94e3cd64bee2c2576a9297d7ec4417c7547921
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "51612877"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951047"
 ---
-# <a name="microsoft-365-apps-health-dashboard-in-the-microsoft-365-apps-admin-center"></a>Bảng điều khiển trạng thái ứng dụng Microsoft 365 trong Trung tâm quản trị ứng dụng Microsoft 365
+# <a name="microsoft-365-apps-health-dashboard-in-the-microsoft-365-apps-admin-center"></a>Ứng dụng Microsoft 365 trạng trong trung tâm quản Ứng dụng Microsoft 365 chính
 
-Bảng điều khiển trạng thái ứng dụng Microsoft 365 trong Trung tâm quản trị ứng dụng Microsoft 365 sẽ giúp bạn giữ cho các ứng dụng Office của bạn được cập nhật bằng cách cung cấp khả năng hiển thị như thế nào trên thiết bị máy khách và cung cấp hướng dẫn để giúp tối ưu hóa và khắc phục sự cố. Để biết thêm thông tin, hãy xem [tổng quan về Trung tâm quản trị Microsoft Apps](https://docs.microsoft.com/deployoffice/admincenter/overview) và trạng thái [ứng dụng Microsoft 365](https://docs.microsoft.com/deployoffice/admincenter/microsoft-365-apps-health).
+Bảng điều khiển tình trạng Ứng dụng Microsoft 365 trong trung tâm quản trị Ứng dụng Microsoft 365 giúp bạn duy trì cập nhật các ứng dụng Office của mình bằng cách cung cấp khả năng hiển thị về cách thức hoạt động của chúng trên thiết bị máy khách của bạn và đưa ra hướng dẫn để giúp tối ưu hóa và khắc phục sự cố. Để biết thêm thông tin, hãy [xem mục Tổng quan về Microsoft Apps chính và](https://docs.microsoft.com/deployoffice/admincenter/overview) tình trạng Ứng dụng Microsoft 365 [bạn.](https://docs.microsoft.com/deployoffice/admincenter/microsoft-365-apps-health)
 
 
 

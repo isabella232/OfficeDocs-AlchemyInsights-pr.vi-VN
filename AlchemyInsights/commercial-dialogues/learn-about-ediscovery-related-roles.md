@@ -1,5 +1,5 @@
 ---
-title: Tìm hiểu về các vai trò liên quan đến khám phá điện tử trong Trung tâm tuân thủ & bảo mật của Office 365
+title: Tìm hiểu về các vai trò liên quan đến Khám phá Điện tử trong Trung Office 365 chính & Tuân thủ
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "7363"
 - "9000722"
-ms.openlocfilehash: 1bb21a40ec98353a8fbc5c074a147f96209383ce
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 500b667fdb0343ffc071f83b554bc7634c21fece172fa32f2984e24edbd3e892
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748697"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53916221"
 ---
-# <a name="learn-about-ediscovery-related-roles-in-the-office-365-security--compliance-center"></a>Tìm hiểu về các vai trò liên quan đến khám phá điện tử trong Trung tâm tuân thủ & bảo mật của Office 365
+# <a name="learn-about-ediscovery-related-roles-in-the-office-365-security--compliance-center"></a>Tìm hiểu về các vai trò liên quan đến Khám phá Điện tử trong Trung Office 365 chính & Tuân thủ
 
-eDiscovery Manager là nhóm vai trò khám phá điện tử chính trong Trung tâm tuân thủ & bảo mật của Office 365. Nó chứa hai nhóm con:
+Trình quản lý Khám phá Điện tử là nhóm có vai trò Chính trong Trung tâm Office 365 Quan hệ Bảo & Chính. Nó chứa hai nhóm con:
 
-- **trình quản lý eDiscovery**: thành viên của nhóm con này có thể xem và chỉ sửa các trường hợp mà họ có quyền truy nhập.
-- **người quản trị eDiscovery**: những thành viên của nhóm con này có thể truy nhập tất cả các trường hợp.
+- **Trình quản lý Khám phá Điện tử**: Các thành viên của nhóm con này chỉ có thể xem và chỉnh sửa các trường hợp mà họ có quyền truy nhập.
+- **Người quản trị Khám phá Điện tử: Thành** viên của nhóm con này có thể truy nhập vào mọi trường hợp.
 
-Để biết thêm thông tin, hãy xem mục [gán quyền khám phá điện tử trong Trung tâm tuân thủ & bảo mật](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions).
+Để biết thêm thông tin, [hãy xem mục Gán quyền Khám phá Điện tử trong Trung tâm & Tuân thủ.](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)

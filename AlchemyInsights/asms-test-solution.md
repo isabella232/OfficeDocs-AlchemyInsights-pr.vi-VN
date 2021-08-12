@@ -1,5 +1,5 @@
 ---
-title: Giải pháp kiểm tra ASMS
+title: Giải pháp Thử nghiệm ASMS
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003544"
 - "6460"
-ms.openlocfilehash: 77ad79da91ab0949973c5b2f8e19e5e9d4015d95
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f8f3de5a391d818447883cb8dbba2052c048fd5639c5f54c921ef5247dc6d6a1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51821172"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53950903"
 ---
-# <a name="asms-test-solution"></a>Giải pháp kiểm tra ASMS
+# <a name="asms-test-solution"></a>Giải pháp Thử nghiệm ASMS
 
-Azure khách hàng với thỏa thuận Azure Enterprise (EA), thỏa thuận khách hàng của Microsoft (MCA) hoặc thỏa thuận đối tác của Microsoft (MPA) có thể xem và tải xuống giá của họ trong cổng thông tin Azure.
+Khách hàng Azure có azure Thỏa thuận Doanh nghiệp (EA), Thỏa thuận Khách hàng Microsoft (MCA) hoặc Thỏa thuận Đối tác của Microsoft (MPA) có thể xem và tải xuống giá trong cổng thông tin Azure.
