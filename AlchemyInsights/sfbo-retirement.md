@@ -1,5 +1,5 @@
 ---
-title: Hưu trí SFBO
+title: SFBO retirement
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000699"
 - "2596"
-ms.openlocfilehash: 6fe8cb8067b5aa121f8cf88ab56d7fbeb7b0b72d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 099f331367be8ff5d2dc5a865d1ec489f8d185a3eeec58f4a59ca50fa8a65ee7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835473"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53910604"
 ---
-# <a name="skype-for-business-online-retirement"></a>Hưu trí Skype for Business Online
+# <a name="skype-for-business-online-retirement"></a>Skype for Business Online ngưng hoạt động
 
-Để biết thông tin về việc nghỉ hưu của Skype for Business Online, vui lòng xem [bài viết này](https://techcommunity.microsoft.com/t5/Microsoft-Teams-Blog/Skype-for-Business-Online-to-Be-Retired-in-2021/ba-p/777833).
+Để biết thông tin về việc nghỉ hưu của Skype for Business Online, vui lòng xem [bài viết này.](https://techcommunity.microsoft.com/t5/Microsoft-Teams-Blog/Skype-for-Business-Online-to-Be-Retired-in-2021/ba-p/777833)
 
-Lưu ý: Skype for Business tại cơ sở không bị ảnh hưởng bởi thông báo này. 
+Lưu ý: Skype for Business tại chỗ KHÔNG bị ảnh hưởng bởi thông báo này. 

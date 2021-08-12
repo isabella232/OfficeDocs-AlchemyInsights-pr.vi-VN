@@ -1,5 +1,5 @@
 ---
-title: Thêm phương thức thanh toán-các bước được đề xuất
+title: Thêm phương thức thanh toán - các bước được đề xuất
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,24 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004284"
 - "7649"
-ms.openlocfilehash: 51045d4b35833ed72097d75ff1720a9d2604d196
-ms.sourcegitcommit: 728800af2fe596756bcd2280f85451926a3e987c
+ms.openlocfilehash: 7595b5676e3253600536d226774d20e5c5750d7c88f3b76d82d82c320fb295a8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49722003"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53935801"
 ---
-# <a name="add-payment-method---recommended-steps"></a>Thêm phương thức thanh toán-các bước được đề xuất
+# <a name="add-payment-method---recommended-steps"></a>Thêm phương thức thanh toán - các bước được đề xuất
 
-Bạn phải có các đặc quyền của cả người quản trị tài khoản và chủ sở hữu đăng ký để hủy bỏ đăng ký trong Azure Portal. 
+Bạn phải có đặc quyền của cả người quản trị tài khoản và chủ sở hữu đăng ký để hủy bỏ đăng ký trong cổng thông tin Azure. 
 
-Để hủy bỏ đăng ký trong Azure Portal, hãy bấm [hủy bỏ đăng ký Azure](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) và sẽ hướng dẫn bạn đến trang **đăng ký** trong Azure Portal để chọn và hủy bỏ đăng ký. 
+Để hủy bỏ đăng ký trong cổng thông tin  Azure, bấm vào Hủy bỏ đăng ký [Azure](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) và thao tác đó sẽ chuyển hướng bạn đến trang đăng ký trong cổng thông tin Azure để chọn và hủy bỏ đăng ký. 
 
-**Điều gì sẽ xảy ra sau khi tôi hủy thuê bao?** 
+**Điều gì xảy ra sau khi tôi hủy bỏ đăng ký?** 
 
-Sau khi hủy bỏ đăng ký, thanh toán sẽ được ngừng ngay lập tức. Tuy nhiên, có thể mất đến 10 phút để trạng thái hủy bỏ Hiển thị trong cổng thông tin Azure. Microsoft sẽ gửi hóa đơn cuối cùng trong hóa đơn của tháng tiếp theo cho bất kỳ mức tiêu thụ hoặc gói mua một phần nào. Các dịch vụ đang chạy trong đăng ký sẽ bị vô hiệu hóa khi hủy bỏ đăng ký. Điều đó có nghĩa là các máy ảo được phân bổ, địa chỉ IP tạm thời được giải phóng và dung lượng lưu trữ sẽ trở thành **chỉ đọc**. 
+Sau khi hủy bỏ đăng ký, thanh toán được ngừng ngay lập tức. Tuy nhiên, có thể mất đến 10 phút để trạng thái hủy bỏ hiển thị trong cổng thông tin Azure. Microsoft sẽ gửi hóa đơn cuối cùng trên hóa đơn của tháng tiếp theo cho mọi khoản sử dụng hoặc mua một phần. Các dịch vụ đang chạy trong gói đăng ký sẽ bị vô hiệu hóa sau khi hủy bỏ gói đăng ký. Điều đó có nghĩa là máy ảo được phân bổ, địa chỉ IP tạm thời được giải phóng và dung lượng lưu trữ trở **thành chỉ đọc.** 
 
-Sau khi đăng ký được hủy bỏ, Microsoft sẽ chờ cho 30-90 ngày trước khi xóa vĩnh viễn dữ liệu trong trường hợp bạn cần truy nhập hoặc thay đổi ý định. Microsoft không tính phí để giữ lại dữ liệu. Để biết thêm thông tin, hãy xem [Trung tâm tin cậy của Microsoft-cách chúng tôi quản lý dữ liệu của bạn](https://www.microsoft.com/trust-center/privacy/data-management#leave).
+Sau khi đăng ký bị hủy bỏ, Microsoft sẽ chờ 30-90 ngày trước khi xóa vĩnh viễn dữ liệu trong trường hợp bạn cần truy nhập vào đó hoặc bạn đổi ý. Microsoft không tính phí bảo lưu dữ liệu. Để biết thêm thông tin, hãy xem [Trung tâm Tin cậy Microsoft - Cách chúng tôi quản lý dữ liệu của bạn](https://www.microsoft.com/trust-center/privacy/data-management#leave).
 
 
 
