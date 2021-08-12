@@ -1,5 +1,5 @@
 ---
-title: Nhóm và đám mây video interop
+title: Teams kết hợp giữa Cloud Video và Cloud Video
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002894"
 - "5540"
-ms.openlocfilehash: 2458849f0333b87a51935d076d0a7ca916c472a4
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: ee886742e6ef642c2f826aafcbe904001a83eb16b498d9bc4a39ae4297a3ccfb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835185"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53940589"
 ---
-# <a name="teams-and-cloud-video-interop-cvi"></a>Nhóm và đám mây video interop (XVI)
+# <a name="teams-and-cloud-video-interop-cvi"></a>Teams kết hợp giữa Cloud Video và Cloud Video (CVI)
 
-Cloud video interop (CVI) là một giải pháp của bên thứ ba có đủ điều kiện cho phép các phòng họp của bên thứ ba (telepresence) và các thiết bị video cá nhân (VTCs) để gia nhập cuộc họp nhóm Microsoft.
+Cloud Video Interop (CVI) là giải pháp của bên thứ ba đủ điều kiện của Microsoft cho phép các phòng họp (telepresence) và thiết bị video cá nhân (VTC) của bên thứ ba tham gia cuộc họp Microsoft Teams của họ.
 
-- Để biết thêm thông tin, hãy xem [Cloud video interop cho Microsoft nhóm](https://docs.microsoft.com/microsoftteams/cloud-video-interop).
+- Để biết thêm thông tin, [hãy xem Cloud Video Interop for Microsoft Teams.](https://docs.microsoft.com/microsoftteams/cloud-video-interop)

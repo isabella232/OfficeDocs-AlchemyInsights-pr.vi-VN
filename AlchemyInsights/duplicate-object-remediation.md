@@ -1,5 +1,5 @@
 ---
-title: 1314 trùng lặp đối tượng được khắc phục
+title: Khắc phục 1314 Trùng lặp Đối tượng
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,19 +13,19 @@ ms.custom:
 - "1314"
 - "1300024"
 ms.assetid: b8543b7e-fd00-4b3c-be68-a1758b8caf78
-ms.openlocfilehash: 5c071e1a161cd2885b10d082f3c78eb5ac65b0b2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1901dd13291cc1e4b811d243a670b8d6c2998e712a8d1744effe7e3832c156da
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47678598"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53964691"
 ---
-# <a name="duplicate-object-synchronization-errors"></a>Lỗi đồng bộ hóa đối tượng trùng lặp
+# <a name="duplicate-object-synchronization-errors"></a>Lỗi đồng bộ đối tượng trùng lặp
 
-Nếu bạn nhận được một trong các lỗi sau trong việc đồng bộ hóa:
+Nếu bạn nhận được một trong các lỗi sau đây trong quá trình đồng bộ:
 
-- Một đối tượng đã đồng bộ với cùng địa chỉ proxy đã tồn tại trong danh bạ Microsoft Online Services của bạn.
+- Đối tượng được đồng bộ hóa với cùng địa chỉ proxy đã tồn tại trong thư mục Microsoft Online Services của bạn.
 
-- Một thông điệp tương tự cho UserPrincipalName.
+- Một thông báo tương tự cho UserPrincipalName.
 
-Sử dụng chẩn đoán trạng thái mới của Badconnect để giải quyết các lỗi đối tượng trùng lặp. Để biết thêm thông tin, hãy xem mục [chẩn đoán và khắc phục lỗi đồng bộ thuộc tính](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-diagnose-sync-errors).
+Sử dụng chẩn đoán Tình trạng AADConnect mới để giải quyết các lỗi về đối tượng trùng lặp. Để biết thêm thông tin, hãy [xem mục Chẩn đoán và khắc phục các lỗi đồng bộ thuộc tính trùng lặp](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-diagnose-sync-errors).

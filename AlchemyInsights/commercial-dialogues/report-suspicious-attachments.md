@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: c4219d67666b46634506617a96c0ab458836410a
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 78b803e25a7ec39b8b5a9328e32e380b1a1c16b8859cc713935f38590b1bf3ea
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748254"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53948941"
 ---
 # <a name="report-suspicious-attachments"></a>Báo cáo phần đính kèm đáng ngờ
 
-1. Trong flyout **gửi mới** , chọn phần **đính kèm**, rồi tải lên tệp mà bạn muốn quét.
+1. Trong hộp **bật lên Bản** gửi mới, chọn **Tệp** đính kèm , rồi tải lên tệp bạn muốn quét.
     > [!NOTE]
-    > Có một giới hạn 3 MB tại thời điểm này. Nếu tệp vượt quá 3 MB, hãy cân nhắc việc gửi nó bằng ID email thay vào đó.
-2. Nếu bạn chọn **nên đã bị chặn**, nó sẽ tự động đánh dấu mục là **phần mềm độc hại**.
-3. Chọn **gửi**.
+    > Hiện tại có giới hạn 3 MB. Nếu tệp vượt quá 3 MB, thay vào đó hãy cân nhắc việc gửi tệp bằng cách sử dụng ID email.
+2. Nếu bạn chọn Nên bị chặn , **tùy chọn** này sẽ tự động đánh dấu mục đó là Phần mềm **xấu**.
+3. Chọn **Gửi**.

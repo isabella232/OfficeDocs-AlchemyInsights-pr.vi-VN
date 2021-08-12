@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "8283"
 - "9004614"
-ms.openlocfilehash: 2c9a390f38ecbba94698a352348e2e533a50ee17
-ms.sourcegitcommit: ded29f44e5019b1929218b02733b390899843680
+ms.openlocfilehash: fb944ae8dac7a8a222d2946025d8009216d6ca02efa750977bc9037bf578c8a1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52626135"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972630"
 ---
 # <a name="troubleshoot-signing-in-to-onedrive"></a>Khắc phục sự cố đăng nhập vào OneDrive
 
 Bài viết này mô tả các kịch bản sau đây:
 
-- Khắc phục sự cố về đăng nhập vào máy OneDrive đồng bộ máy khách
+- Khắc phục sự cố về đăng nhập vào máy Đồng bộ OneDrive khách
 - Khắc phục sự cố về đăng nhập vào site OneDrive for Business bạn
 
-**Khắc phục sự cố về đăng nhập vào máy OneDrive đồng bộ máy khách**
+**Khắc phục sự cố về đăng nhập vào máy Đồng bộ OneDrive khách**
 
 - Để biết các bước giải quyết lỗi 0x004de40, hãy xem mục Mã [0x8004de40 lỗi khi đăng nhập vào OneDrive.](/sharepoint/troubleshoot/administration/error-0x8004de40-in-onedrive)
 - Đăng nhập vào OneDrive hoặc SharePoint site bằng cách truy nhập  site, rồi bấm vào nút Đồng bộ ở đầu thanh menu trên site.
@@ -44,7 +44,7 @@ Bài viết này mô tả các kịch bản sau đây:
 
 **Khắc phục sự cố đăng Office để đồng bộ với các bản OneDrive**
 
-Nếu bạn gặp thông báo lỗi cho biết Tải lên bị chặn **,** Đăng nhập vào lưu tệp này **hoặc** Lưu bản sao **,** bạn có thể cần phải loại bỏ và kết nối lại các tệp OneDrive từ các dịch vụ Office nối của [mình.](https://support.microsoft.com/office/how-to-resolve-upload-blocked-sign-into-save-this-file-or-save-a-copy-error-messages-32c7340c-f5fb-4ca0-a829-65d8120f81f8)
+Nếu bạn nhận được thông báo lỗi cho biết **Tải lên** chặn **,** Đăng nhập vào lưu tệp này hoặc Lưu bản sao **,** bạn có thể cần phải loại bỏ và kết nối lại OneDrive khỏi dịch vụ Office nối của [mình.](https://support.microsoft.com/office/how-to-resolve-upload-blocked-sign-into-save-this-file-or-save-a-copy-error-messages-32c7340c-f5fb-4ca0-a829-65d8120f81f8)
 
 **Mẹo khắc phục sự cố khác**
 

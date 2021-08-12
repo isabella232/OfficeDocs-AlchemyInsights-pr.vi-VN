@@ -13,42 +13,42 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000076"
 - "7317"
-ms.openlocfilehash: 8e654a38d720aa51daf21bf5c3fb0da8b9c3d8e7
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: fd285d1158d7b358e4c698cf6014422cc2fb536e1fbdf98630bebda359f9c553
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573906"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972738"
 ---
 # <a name="troubleshoot-prt-issue"></a>Khắc phục sự cố PRT
 
-Đối với bất kỳ thiết bị nào để hoàn tất việc nhận đã được xác thực, nó phải được đăng ký đầy đủ và trong trạng thái tốt và có thể thu được mã thông báo làm mới chính (PRT).
+Đối với bất kỳ thiết bị nào để hoàn tất quá trình xác thực, thiết bị phải được đăng ký đầy đủ và ở trạng thái tốt và có thể nhận được Mã thông báo Làm mới Chính (PRT).
 
-Quy trình tham gia đăng ký kết hợp Azure AD sẽ yêu cầu thiết bị trên mạng công ty. Nó cũng hoạt động trên VPN nhưng có một số cẩn thận với điều đó. Chúng tôi đã nghe những khách hàng cần trợ giúp khắc phục sự cố về quy trình đăng ký kết hợp Azure. Đây là một sự cố về những điều đang xảy ra ' dưới mui xe ' trong quá trình đăng ký.
+Quy trình đăng ký liên kết Azure AD kết hợp yêu cầu các thiết bị nằm trên mạng công ty. VPN cũng hoạt động hơn VPN nhưng có một số lời nói trước cho điều đó. Chúng tôi đã nghe thấy các khách hàng cần hỗ trợ khắc phục sự cố cho quy trình đăng ký kết hợp Azure AD tham gia trong trường hợp làm việc từ xa. Dưới đây là phân tích về những gì đang xảy ra 'ở trong thành phố' trong quá trình đăng ký.
 
-**Môi trường xác thực đám mây (sử dụng tính năng đồng bộ hóa băm mật khẩu Azure AD hoặc chuyển qua)**
+**Môi trường xác thực đám mây (sử dụng đồng bộ băm mật khẩu Azure AD hoặc xác thực thông qua)**
 
-Dòng đăng ký này còn được gọi là "đồng bộ gia nhập".
+Dòng đăng ký này còn được gọi là "Kết nối đồng bộ".
 
-1. Windows 10 phát hiện ra một bản ghi SCP khi người dùng đăng nhập vào thiết bị.
-    1. Trước tiên, thiết bị cố gắng truy xuất thông tin đối tượng thuê từ SCP bên máy khách trong sổ đăng ký [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CDJ\AAD]. Để biết thêm thông tin, hãy xem [tài liệu](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-control)này.
-    2. Nếu không thành công, thiết bị liên lạc với Active Directory tại cơ sở (quảng cáo) để nhận thông tin đối tượng thuê từ điểm kết nối dịch vụ (SCP). Để xác nhận SCP, vui lòng tham khảo [tài liệu](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-manual#configure-a-service-connection-point)này. 
-
-> [!NOTE]
-> Chúng tôi khuyên bạn nên bật SCP trong quảng cáo và chỉ sử dụng SCP bên máy khách để xác thực ban đầu.
-
-2. Windows 10 sẽ cố gắng liên lạc với Azure AD bên dưới ngữ cảnh hệ thống để xác thực chính nó với Azure AD. Bạn có thể xác nhận liệu thiết bị có thể truy nhập tài nguyên Microsoft bên dưới tài khoản hệ thống bằng cách sử dụng script kết nối đăng ký thiết bị kiểm tra.
-
-3. Windows 10 tạo chứng chỉ tự ký và lưu trữ nó bên dưới đối tượng máy tính trong quảng cáo tại cơ sở. Điều này yêu cầu phải có đường ngắm cho bộ điều khiển tên miền.
-
-4. Đối tượng thiết bị có chứng chỉ được đồng bộ hóa với Azure AD thông qua Azure AD Connect. Chu kỳ đồng bộ là mỗi 30 phút theo mặc định, nhưng tùy thuộc vào cấu hình của Azure AD Connect. Để biết thêm thông tin, vui lòng tham khảo [tài liệu](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sync-configure-filtering#organizational-unitbased-filtering)này.
-
-5. Ở giai đoạn này, bạn sẽ có thể nhìn thấy thiết bị chủ đề trong trạng thái "đang chờ" bên dưới thanh thiết bị của Azure Portal.
-
-6. Tại mục đăng nhập của người dùng tiếp theo vào Windows 10, việc đăng ký sẽ được hoàn thành. 
+1. Windows 10 sẽ phát hiện một bản ghi SCP khi người dùng đăng nhập vào thiết bị.
+    1. Trước tiên, thiết bị tìm cách truy xuất thông tin đối tượng thuê từ SCP phía máy khách trong sổ đăng ký [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CDJ\AAD]. Để biết thêm thông tin, hãy xem tài [liệu này.](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-control)
+    2. Nếu không thành công, thiết bị sẽ liên lạc với Active Directory tại chỗ (AD) để lấy thông tin đối tượng thuê từ Điểm Kết nối Dịch vụ (SCP). Để xác minh SCP, vui lòng tham khảo tài [liệu này.](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-manual#configure-a-service-connection-point) 
 
 > [!NOTE]
-> Nếu bạn đang ở trên VPN và quá trình đăng nhập kết thúc kết nối tên miền, bạn có thể kích hoạt theo cách thủ công:
- 1. Phát hành hàm dsregcmd/join cục bộ trên lời nhắc quản trị hoặc từ xa qua PSExec đến PC của bạn. Ví dụ: PsExec-s \\ win10client01 CMD, dsregcmd/join
+> Chúng tôi khuyên bạn nên bật SCP trong AD và chỉ sử dụng SCP phía máy khách cho xác thực ban đầu.
 
- 2. Để biết thêm chi tiết về các vấn đề gia nhập kết hợp, hãy xem [khắc phục sự cố thiết bị](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/azure-ad-mailbag-frequent-questions-about-using-device-based/ba-p/1257344).
+2. Windows 10 liên lạc với Azure AD trong ngữ cảnh hệ thống để xác thực chính mình với Azure AD. Bạn có thể xác minh xem thiết bị có thể truy nhập tài nguyên Microsoft theo tài khoản hệ thống không bằng cách sử dụng script Kiểm tra Khả năng kết nối Đăng ký Thiết bị.
+
+3. Windows 10 tạo ra một chứng chỉ tự ký và lưu trữ nó bên dưới đối tượng máy tính trong AD tại chỗ. Tính năng này yêu cầu liên quan đến Bộ điều khiển Miền.
+
+4. Một đối tượng thiết bị có chứng chỉ sẽ được đồng bộ hóa với Azure AD thông qua Azure AD Kết nối. Chu kỳ đồng bộ là cách 30 phút một lần theo mặc định nhưng tùy thuộc vào cấu hình của Azure AD Kết nối. Để biết thêm thông tin, vui lòng tham khảo tài [liệu này.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sync-configure-filtering#organizational-unitbased-filtering)
+
+5. Ở giai đoạn này, bạn có thể thấy thiết bị chủ đề ở trạng thái "Đang chờ xử lý" trong Thiết bị của Cổng thông tin Azure.
+
+6. Tại lần đăng nhập người dùng tiếp theo vào Windows 10, quá trình đăng ký sẽ được hoàn tất. 
+
+> [!NOTE]
+> Nếu bạn đang sử dụng VPN và quy trình đăng nhập logoff sẽ chấm dứt kết nối miền, bạn có thể kích hoạt đăng ký theo cách thủ công:
+ 1. Cấp phép /tham gia cục bộ trên lời nhắc quản trị hoặc từ xa thông qua PSExec vào PC của bạn. Ví dụ: PsExec -s \\ win10client01 cmd, dsregcmd /join
+
+ 2. Để biết thêm chi tiết về các sự cố Gia nhập Kết hợp, hãy xem Khắc [phục sự cố thiết bị](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/azure-ad-mailbag-frequent-questions-about-using-device-based/ba-p/1257344).

@@ -1,5 +1,5 @@
 ---
-title: Tra cứu thư lừa đảo qua mạng, thư rác hoặc không được lọc
+title: Điều tra email lừa đảo qua web, thư rác hoặc email đã lọc không chính xác
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 2646a80ebcec959375c8fa938d420b5e11b0fdb8
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 6a20a59ae4395e718839c82c8c2cdcdec05ae80c59715e7f618e75b9d5428b64
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50750490"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53948977"
 ---
-# <a name="investigate-phishing-spam-or-incorrectly-filtered-email"></a>Tra cứu thư lừa đảo qua mạng, thư rác hoặc không được lọc
+# <a name="investigate-phishing-spam-or-incorrectly-filtered-email"></a>Điều tra email lừa đảo qua web, thư rác hoặc email đã lọc không chính xác
 
-Sử dụng trình Explorer để gửi thông điệp đến Microsoft. Bạn sẽ nhận được phản hồi ngay lập tức về lọc thư và lý do xảy ra sự cố. Đây là một bản tóm tắt các bước sau:
+Sử dụng Submission Explorer để gửi thư đến Microsoft. Bạn sẽ nhận được phản hồi ngay lập tức về việc lọc thư và lý do sự cố xảy ra. Dưới đây là tóm tắt các bước:
 
-1. Đi đến [Trung tâm tuân thủ & bảo mật của Office 365](https://go.microsoft.com/fwlink/p/?linkid=2077143), chọn trình gửi **quản lý mối đe dọa**  >  , rồi chọn **+ trình gửi mới**.
-2. Xác định các chi tiết trong trình phát hành **gửi mới** .
-3. Thông báo cho người dùng của bạn rằng họ nên báo cáo email đáng ngờ cho Microsoft và phần [bổ trợ tin nhắn báo cáo](https://go.microsoft.com/fwlink/?linkid=2092385) là công cụ mà họ nên sử dụng cho mục đích này.
+1. Đi đến Trung [Office 365 Mật & Tuân thủ](https://go.microsoft.com/fwlink/p/?linkid=2077143), chọn Bài gửi Quản lý mối đe dọa , rồi chọn   >   **+Bài gửi mới**.
+2. Xác định chi tiết trong danh **sách bật lên Bản gửi** mới.
+3. Thông báo cho người dùng của bạn rằng [](https://go.microsoft.com/fwlink/?linkid=2092385) họ nên báo cáo email đáng ngờ cho Microsoft và rằng phần bổ trợ Thư Báo cáo là công cụ mà họ nên sử dụng cho mục đích này.

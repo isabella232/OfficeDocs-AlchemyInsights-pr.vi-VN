@@ -1,5 +1,5 @@
 ---
-title: 'Nhóm: sự kiện Live-không thể tạo sự kiện với bộ mã hóa bên ngoài'
+title: 'Teams: sự kiện trực tiếp - không thể tạo sự kiện bằng mã hóa ngoài'
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "1780"
 - "9000208"
-ms.openlocfilehash: d8af975ce7d19e27b2eefda712ac778c0f703d6d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2f219337bdda2b11fdf61a9249f7013b600bb69990856e09e56b5ae33ec33dda
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51797023"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53920057"
 ---
-# <a name="need-to-configure-your-live-event-with-an-external-encoder"></a>Bạn cần đặt cấu hình sự kiện trực tiếp của bạn với bộ mã hóa bên ngoài?
+# <a name="need-to-configure-your-live-event-with-an-external-encoder"></a>Bạn cần cấu hình sự kiện trực tiếp của mình với một bộ mã hóa bên ngoài?
 
-Nếu bạn đang gặp khó khăn khi nhận được bộ mã hóa của mình để làm việc với sự kiện trực tiếp nhóm của bạn, hãy xem tài liệu hướng dẫn thiết lập bộ mã hóa: [cấu hình bộ mã hóa cho Live Streaming trong Microsoft Stream](https://docs.microsoft.com/stream/live-encoder-setup)
+Nếu bạn gặp sự cố khi chuẩn bị bộ mã hóa làm việc với sự kiện Teams live của mình, hãy xem tài liệu về thiết lập bộ mã hóa: Đặt cấu hình bộ mã hóa để phát trực tuyến trực tiếp trong [Microsoft Stream](https://docs.microsoft.com/stream/live-encoder-setup)

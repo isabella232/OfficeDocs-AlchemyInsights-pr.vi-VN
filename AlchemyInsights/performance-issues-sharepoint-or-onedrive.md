@@ -1,5 +1,5 @@
 ---
-title: Các vấn đề về hiệu suất-SharePoint hoặc OneDrive
+title: Sự cố về hiệu suất SharePoint hoặc sự OneDrive
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -13,22 +13,22 @@ ms.custom:
 - "2418"
 - "5200018"
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
-ms.openlocfilehash: 28867b71df5353dcee5cc3361742f10357a0efe1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 921aae7eba8487c5600f290fd671ef2675372e6af0478b913e38354856cbaa22
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47771923"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53911864"
 ---
-# <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>SharePoint hoặc OneDrive chậm, không thể truy nhập hoặc không có sẵn cho nhiều người dùng
+# <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>SharePoint hoặc OneDrive, không thể truy nhập hoặc không sẵn dùng đối với nhiều người dùng
 
-SharePoint hoặc OneDrive có thể chậm, không thể truy nhập hoặc không sẵn dùng hoặc có thể hiển thị các lỗi không sẵn dùng hoặc 503, vì một vài lý do:
+SharePoint hoặc OneDrive có thể chậm, không thể tiếp cận hoặc không sẵn dùng hoặc có thể hiển thị các lỗi dịch vụ không sẵn dùng hoặc 503 vì một số lý do:
   
-- Nếu site SharePoint hoặc OneDrive của bạn chậm hoặc bị trì hoãn đối với nhiều người dùng, có thể có sự cố dịch vụ tạm thời mà người dùng gặp phải sự chậm trễ hoặc dẫn hướng lỗi khi truy nhập site SharePoint hoặc nội dung OneDrive. Kiểm tra [bảng điều khiển trạng thái dịch vụ](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) để xem liệu tổ chức của bạn có bị ảnh hưởng không.
+- Nếu site SharePoint hoặc OneDrive của bạn chậm hoặc bị trì hoãn đối với nhiều người dùng thì có thể xảy ra sự cố dịch vụ tạm thời trong đó người dùng gặp phải sự cố chậm trễ hoặc lỗi dẫn hướng không liên tục khi truy nhập site SharePoint hoặc nội dung OneDrive. Kiểm tra bảng [điều khiển Tình trạng dịch](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) vụ để xem liệu tổ chức của bạn có bị ảnh hưởng không.
   
-- Người dùng có thể nhận được một *máy chủ 503 là lỗi bận rộn* khi tìm cách dẫn hướng đến các site SharePoint hoặc OneDrive. Lỗi này có thể được gây ra bởi điều chỉnh bên trong dịch vụ SharePoint. SharePoint Online sử dụng điều chỉnh để duy trì hiệu năng và độ tin cậy tối ưu của dịch vụ SharePoint Online. Throttling giới hạn số lượng hành động của người dùng hoặc cuộc gọi đồng thời (theo script hoặc mã) để ngăn chặn việc sử dụng tài nguyên. Để biết thêm thông tin về việc xem thử điều chỉnh, [tránh bị Throttled hoặc bị chặn trong SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online).
+- Người dùng có thể nhận được lỗi máy chủ *503* đang bận khi tìm cách dẫn hướng đến các SharePoint hoặc OneDrive của họ. Lỗi này có thể xảy ra do điều chỉnh trong dịch SharePoint vụ. SharePoint Online sử dụng điều chỉnh để duy trì hiệu suất tối ưu và độ tin cậy của dịch SharePoint Online. Điều chỉnh giới hạn số lượng hành động người dùng hoặc cuộc gọi đồng thời (theo tập lệnh hoặc mã) để ngăn chặn việc sử dụng quá nhiều tài nguyên. Để biết thêm thông tin về điều chỉnh, hãy xem [mục Tránh bị điều chỉnh hoặc chặn trong SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online).
 
-- Nếu bạn **gặp sự hiệu** suất chậm với trang hoặc site SharePoint **hiện đại hoặc hiện đại** , hãy sử dụng [công cụ chẩn đoán trang](https://aka.ms/perftool) để phân tích các trang.
+- Nếu bạn trải nghiệm hiệu năng chậm **với** site hoặc trang **SharePoint** điển hoặc hiện đại, hãy sử dụng công [cụ Chẩn](https://aka.ms/perftool) đoán trang để phân tích trang.
   
-- Nếu bạn vẫn còn trải nghiệm hiệu năng chậm chung, vui lòng xem lại các tài nguyên ở cuối bài viết này: [giới thiệu về hiệu năng Tuning cho SharePoint Online](https://go.microsoft.com/fwlink/?linkid=2024334)
+- Nếu bạn vẫn gặp phải hiệu năng chậm nói chung, vui lòng xem lại các tài nguyên ở cuối bài viết này: Giới thiệu về tinh chỉnh [hiệu suất cho SharePoint Online](https://go.microsoft.com/fwlink/?linkid=2024334)
   

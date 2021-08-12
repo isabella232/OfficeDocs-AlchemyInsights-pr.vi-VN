@@ -1,5 +1,5 @@
 ---
-title: Tắt chú thích trong danh sách
+title: Tắt chú thích trên Danh sách
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003821"
 - "7613"
-ms.openlocfilehash: 28a04424cdace0083ac012b7301595a7b9ca2687
-ms.sourcegitcommit: 3599c82d3274c48b039831aeafefc16b9df7565c
+ms.openlocfilehash: e797c8ea75aa9a11358cec6ccac0f51f203f93aa5e6e0a0811ec50178c914b20
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 12/16/2020
-ms.locfileid: "49706777"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53928787"
 ---
-# <a name="disable-comments-on-lists"></a>Tắt chú thích trong danh sách
+# <a name="disable-comments-on-lists"></a>Tắt chú thích trên Danh sách
 
-Người quản trị có thể tắt tính năng ở cấp độ tổ chức bằng cách thay đổi tham số **Commentsonlistitemsdisabled** trong lệnh ghép ngắn **Set-spothuê** PowerShell.
+Người quản trị có thể tắt tính năng này ở cấp độ tổ chức bằng cách thay đổi tham số **CommentsOnListItemsDisabled** trong lệnh ghép ngắn **Set-SPOTenant** PowerShell.
 
-Hiện tại bạn không thể tắt cho chú thích ở mức trang hoặc danh sách. Chúng tôi hy vọng sẽ có những điều khiển này trong bản Cập Nhật sau này, có thể có trong quý đầu tiên của 2021.
+Hiện không thể tắt chú thích ở mức site hoặc danh sách. Chúng tôi hy vọng sẽ có những điều khiển đó trong bản cập nhật sau, có khả năng là trong quý một năm 2021.
