@@ -1,5 +1,5 @@
 ---
-title: Thiết bị trong trạng thái đang chờ xử lý
+title: Thiết bị đang chờ xử lý
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,54 +12,54 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003244"
 - "7319"
-ms.openlocfilehash: f70b43a8b914b0d2dda9db61606b8ae24523f869
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+ms.openlocfilehash: 224e6e613c306b50e354930bcbe6f43f1c08528766cb6e681b0e9826b2d55a4d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49679997"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53914025"
 ---
-# <a name="device-in-pending-state"></a>Thiết bị trong trạng thái đang chờ xử lý
+# <a name="device-in-pending-state"></a>Thiết bị đang chờ xử lý
 
-**OLSync**
+**Điều kiện tiên quyết:**
 
-1. Nếu bạn đang thiết lập đăng ký thiết bị lần đầu tiên, vui lòng đảm bảo rằng bạn đã xem xét việc [giới thiệu về quản lý thiết bị trong Azure Active Directory (AZURE AD)](https://docs.microsoft.com/azure/active-directory/devices/overview?WT.mc_id=Portal-Microsoft_Azure_Support) sẽ hướng dẫn bạn về cách tải các thiết bị dưới phần điều khiển của Azure AD.
-2. Nếu bạn đang đăng ký thiết bị vào Azure AD trực tiếp và ghi lại chúng vào InTune, bạn sẽ cần phải đảm bảo rằng bạn đã [cấu hình InTune](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment?WT.mc_id=Portal-Microsoft_Azure_Support) và có [cấp phép](https://docs.microsoft.com/mem/intune/fundamentals/licenses-assign?WT.mc_id=Portal-Microsoft_Azure_Support) tại chỗ trước tiên.
-3. Đảm bảo bạn được phép thực hiện các hoạt động trong Azure AD và quảng cáo tại cơ sở. Chỉ có một người quản trị toàn cầu trong Azure AD có thể quản lý thiết đặt cho việc đăng ký thiết bị. Ngoài ra, nếu bạn đang thiết lập đăng ký tự động trong Active Directory tại chỗ của bạn, bạn sẽ cần phải là người quản trị của Active Directory và AD FS (nếu có).
+1. Nếu bạn thiết lập đăng ký thiết bị lần đầu tiên, vui lòng đảm bảo rằng bạn đã xem lại Giới thiệu về quản lý thiết bị trong [Azure Active Directory (Azure AD)](https://docs.microsoft.com/azure/active-directory/devices/overview?WT.mc_id=Portal-Microsoft_Azure_Support) sẽ hướng dẫn bạn cách nhận thiết bị dưới quyền kiểm soát của Azure AD.
+2. Nếu bạn đang đăng ký thiết bị vào Azure AD trực tiếp và đăng ký thiết bị [](https://docs.microsoft.com/mem/intune/fundamentals/licenses-assign?WT.mc_id=Portal-Microsoft_Azure_Support) vào Intune, bạn sẽ cần phải đảm bảo rằng bạn đã đặt cấu hình [cho Intune](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment?WT.mc_id=Portal-Microsoft_Azure_Support) và tiến hành cấp phép trước.
+3. Đảm bảo bạn được phép thực hiện các thao tác trong Azure AD và AD tại chỗ. Chỉ người quản trị toàn cầu trong Azure AD mới có thể quản lý cài đặt cho đăng ký thiết bị. Ngoài ra, nếu bạn đang thiết lập đăng ký tự động trong Active Directory tại chỗ, bạn sẽ cần phải là người quản trị của Active Directory và AD FS (nếu có).
 
-Quy trình tham gia đăng ký kết hợp Azure AD sẽ yêu cầu thiết bị trên mạng công ty. Nó cũng hoạt động trên VPN nhưng có một số cẩn thận với điều đó. Chúng tôi đã nghe những khách hàng cần trợ giúp khắc phục sự cố về quy trình đăng ký kết hợp Azure.
+Quy trình đăng ký liên kết Azure AD kết hợp yêu cầu các thiết bị phải nằm trên mạng công ty. VPN cũng hoạt động hơn VPN nhưng có một số lời nói trước cho điều đó. Chúng tôi đã lắng nghe khách hàng cần hỗ trợ khắc phục sự cố cho quy trình đăng ký kết hợp Azure AD trong các trường hợp làm việc từ xa.
 
-**Môi trường xác thực đám mây (sử dụng tính năng đồng bộ hóa băm mật khẩu Azure AD hoặc chuyển qua)**
+**Môi trường xác thực đám mây (sử dụng đồng bộ băm mật khẩu Azure AD hoặc xác thực thông qua)**
 
-Dòng đăng ký này còn được gọi là "đồng bộ gia nhập".
+Dòng đăng ký này còn được gọi là "Kết nối đồng bộ".
 
-Dưới đây là một sự cố về những điều sẽ xảy ra trong quá trình đăng ký:
+Dưới đây là phân tích về những điều xảy ra trong quá trình đăng ký:
 
-1. Bản ghi điểm kết nối dịch vụ phát hiện Windows 10 (SCP) khi người dùng đăng nhập vào thiết bị.
+1. Windows 10 phát hiện bản ghi Điểm Kết nối Dịch vụ (SCP) khi người dùng đăng nhập vào thiết bị.
 
-    1. Trước tiên, thiết bị cố gắng truy xuất thông tin đối tượng thuê từ SCP bên máy khách trong sổ đăng ký [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CDJ\AAD]. Để biết thêm thông tin, hãy xem [tài liệu](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-control).
-    1. Nếu không thành công, thiết bị liên lạc với Active Directory tại chỗ để nhận thông tin về đối tượng thuê từ SCP. Để xác nhận SCP, hãy tham khảo [tài liệu](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-manual#configure-a-service-connection-point)này.
-
-    > [!NOTE]
-    > Chúng tôi khuyên bạn nên bật SCP trong Active Directory và chỉ sử dụng SCP-Side cho máy khách để xác thực ban đầu.
-
-2. Windows 10 sẽ cố gắng liên lạc với Azure AD bên dưới ngữ cảnh hệ thống để xác thực chính nó với Azure AD.
-
-    Bạn có thể xác nhận liệu thiết bị có thể truy nhập tài nguyên Microsoft bên dưới tài khoản hệ thống bằng cách sử dụng [script kết nối đăng ký thiết bị kiểm tra](https://gallery.technet.microsoft.com/Test-Device-Registration-3dc944c0).
-
-3. Windows 10 tạo chứng chỉ tự ký và lưu trữ nó bên dưới đối tượng máy tính trong Active Directory tại chỗ. Điều này yêu cầu phải có đường ngắm cho bộ điều khiển tên miền.
-
-4. Đối tượng thiết bị có chứng chỉ được đồng bộ hóa với Azure AD thông qua Azure AD Connect. Chu kỳ đồng bộ là mỗi 30 phút theo mặc định, nhưng tùy thuộc vào cấu hình của Azure AD Connect. Để biết thêm thông tin, hãy tham khảo [tài liệu](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sync-configure-filtering#organizational-unitbased-filtering)này.
-
-5. Ở giai đoạn này, bạn sẽ có thể nhìn thấy thiết bị chủ đề trong trạng thái "**đang chờ**" bên dưới thanh thiết bị của Azure Portal.
-
-6. Tại mục đăng nhập của người dùng tiếp theo vào Windows 10, việc đăng ký sẽ được hoàn thành.
+    1. Trước tiên, thiết bị tìm cách truy xuất thông tin đối tượng thuê từ SCP phía máy khách trong sổ đăng ký [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CDJ\AAD]. Để biết thêm thông tin, hãy xem [tài liệu](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-control).
+    1. Nếu không thành công, thiết bị sẽ liên lạc với Active Directory tại cơ sở để nhận thông tin đối tượng thuê từ SCP. Để xác minh SCP, hãy tham khảo tài [liệu này.](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-manual#configure-a-service-connection-point)
 
     > [!NOTE]
-    > Nếu bạn đang ở trên VPN và đăng xuất/đăng nhập chấm dứt khả năng kết nối tên miền, bạn có thể kích hoạt việc đăng ký theo cách thủ công. Để thực hiện điều đó:
+    > Chúng tôi khuyên bạn nên bật SCP trong Active Directory và chỉ sử dụng SCP phía máy khách để xác thực ban đầu.
+
+2. Windows 10 liên lạc với Azure AD trong ngữ cảnh hệ thống để xác thực chính mình với Azure AD.
+
+    Bạn có thể xác minh xem thiết bị có thể truy nhập tài nguyên Microsoft theo tài khoản hệ thống không bằng cách sử dụng script [Kiểm tra Khả năng kết nối Đăng ký Thiết bị.](https://gallery.technet.microsoft.com/Test-Device-Registration-3dc944c0)
+
+3. Windows 10 tạo chứng chỉ tự ký và lưu trữ chứng chỉ đó bên dưới đối tượng máy tính trong Active Directory tại chỗ. Tính năng này yêu cầu liên quan đến Bộ điều khiển Miền.
+
+4. Đối tượng thiết bị có chứng chỉ được đồng bộ hóa với Azure AD thông qua Azure AD Kết nối. Chu kỳ đồng bộ là cách 30 phút một lần theo mặc định nhưng tùy thuộc vào cấu hình của Azure AD Kết nối. Để biết thêm thông tin, hãy tham khảo tài [liệu này](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sync-configure-filtering#organizational-unitbased-filtering).
+
+5. Ở giai đoạn này, bạn có thể thấy thiết bị chủ đề ở trạng thái **"** Đang chờ xử lý " trong Thiết bị của Cổng thông tin Azure.
+
+6. Tại lần đăng nhập người dùng tiếp theo vào Windows 10, quá trình đăng ký sẽ được hoàn tất.
+
+    > [!NOTE]
+    > Nếu bạn đang sử dụng VPN và logoff/login chấm dứt kết nối miền, bạn có thể kích hoạt đăng ký theo cách thủ công. Cách thực hiện:
     >
-    > Phát hành `dsregcmd /join` lời nhắc người quản trị cục bộ hoặc từ xa qua PSExec sang PC của bạn.
+    > Cấp lời `dsregcmd /join` nhắc cục bộ trên lời nhắc người quản trị hoặc từ xa thông qua PSExec đến PC của bạn.
     >
     > Ví dụ: `PsExec -s \\win10client01 cmd, dsregcmd /join`
 
-Đối với các sự cố phổ biến với đăng ký thiết bị Azure Active Directory, hãy xem [thiết bị câu hỏi thường gặp](https://docs.microsoft.com/azure/active-directory/devices/faq).
+Để biết các sự cố thường gặp với Azure Active Directory thiết bị, hãy xem Câu [hỏi thường gặp về thiết bị.](https://docs.microsoft.com/azure/active-directory/devices/faq)

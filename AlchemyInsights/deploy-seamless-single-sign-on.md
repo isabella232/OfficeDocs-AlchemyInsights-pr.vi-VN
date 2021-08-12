@@ -1,5 +1,5 @@
 ---
-title: Triển khai Sign-On đơn trong suốt
+title: Triển khai Chuyển đổi Đơn Liền Sign-On
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 998d9af8-91c6-4583-a752-dfbf21f7d9b8
-ms.openlocfilehash: 5d0567d55232365d7e55ab6744484ba5d3e1eb2c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 070f6a6606e2ac3e6772050803d654d79bae642802c931f756d1c1ac3421f34d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51815421"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53914133"
 ---
-# <a name="enable-seamless-sso"></a>Cho phép SSO trong suốt
+# <a name="enable-seamless-sso"></a>Bật Seamless SSO
 
-Các Sign-On đơn liên tục của Azure Active Directory (Azure AD) sẽ tự động đăng nhập vào người dùng khi họ trên máy tính để bàn công ty của họ được kết nối với mạng công ty của bạn.
+Azure Active Directory (Azure AD) Seamless Single Sign-On (Seamless SSO) tự động đăng nhập người dùng khi họ sử dụng máy tính của công ty được kết nối với mạng công ty của bạn.
   
-[Làm theo các bước trong bài viết này để cho phép SSO trong suốt](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start)
+[Làm theo các bước trong bài viết này để kích hoạt Seamless SSO](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start)
   
 

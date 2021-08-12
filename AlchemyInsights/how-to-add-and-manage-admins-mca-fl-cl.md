@@ -12,31 +12,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7424"
-ms.openlocfilehash: 25fc25392778ae71ec0553e8d8718ec487738acb
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: 924e195740e55c53b9605a9b9bd694a72cf9951006d1dc5e888023cd6e3f9d45
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49755533"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53963845"
 ---
 # <a name="how-to-add-and-manage-admins"></a>Cách thêm và quản lý người quản trị
 
-Dựa trên mô tả vấn đề của bạn, chúng tôi đã tìm ra giải pháp cho bạn. Hầu hết khách hàng đều có thể giải quyết được sự cố của họ sau khi theo dõi tài liệu hướng dẫn của chúng tôi.
+Dựa trên mô tả sự cố của bạn, chúng tôi đã tìm thấy giải pháp cho bạn. Hầu hết khách hàng đều có thể tự khắc phục sự cố sau khi làm theo hướng dẫn sử dụng của chúng tôi.
 
-Để quản lý tài khoản thanh toán của bạn cho thỏa thuận khách hàng của Microsoft (MCA), bạn có thể sử dụng các vai trò khác nhau với mức truy nhập mong muốn. Những vai trò này cũng cộng với các vai trò dịch vụ Azure tích hợp sẵn giúp bạn điều khiển các tài nguyên của mình.
+Để quản lý tài khoản thanh toán cho Thỏa thuận Khách hàng của Microsoft (MCA), bạn có thể sử dụng các vai trò khác nhau với mức quyền truy nhập mong muốn. Những vai trò này là những vai trò bổ sung cho các vai trò dịch vụ Azure tích hợp sẵn, giúp bạn kiểm soát các tài nguyên của mình.
 
-**Để thêm vai trò thanh toán trong cổng thông tin Azure:**
+**Cách thêm vai trò thanh toán vào cổng thông tin Azure:**
 
-1. Đăng nhập vào [cổng thông tin Azure](https://portal.azure.com/).
-2. Tìm kiếm *quản lý chi phí + thanh toán*.
-3. Chọn Access Control (IAM) ở một phạm vi như tài khoản thanh toán, Hồ sơ thanh toán hoặc phần hóa đơn mà bạn muốn cấp quyền truy nhập.
-4. Trang điều khiển Access (IAM) liệt kê những người dùng và nhóm được gán cho từng vai trò cho phạm vi đó.
-5. Để cấp quyền truy nhập cho người dùng, hãy chọn **Thêm** từ phía trên cùng của trang. Trong danh sách thả xuống *vai trò* , hãy chọn một vai trò. Nhập địa chỉ email của người dùng mà bạn muốn cấp quyền truy nhập. Chọn **lưu** để gán vai trò.
-6. Để loại bỏ quyền truy nhập cho người dùng, hãy chọn người dùng có gán vai trò mà bạn muốn loại bỏ. Chọn **loại bỏ**.
+1. Đăng nhập vào cổng [thông tin Azure](https://portal.azure.com/).
+2. Tìm kiếm Quản *lý Chi phí + Hóa đơn.*
+3. Chọn điều khiển truy nhập (IAM) ở phạm vi như tài khoản thanh toán, hồ sơ thanh toán hoặc phần hóa đơn mà bạn muốn cấp quyền truy nhập.
+4. Trang điều khiển Access (IAM) liệt kê những người dùng và nhóm được gán cho từng vai trò trong phạm vi đó.
+5. Để cấp quyền truy nhập cho người dùng, **hãy** chọn Thêm từ đầu trang. Trong danh *sách* thả xuống Vai trò, chọn một vai trò. Nhập địa chỉ email của người dùng mà bạn muốn cấp quyền truy nhập. Chọn **Lưu** để gán vai trò.
+6. Để loại bỏ quyền truy nhập cho người dùng, chọn người dùng có gán vai trò bạn muốn loại bỏ. Chọn **Loại bỏ**.
 
-**Tài liệu được đề xuất**
+**Tài liệu được Đề xuất**
 
 - [Định nghĩa vai trò thanh toán](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-mca-roles)
-- [Các vai trò và nhiệm vụ của tài khoản thanh toán](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-mca-roles#billing-account-roles-and-tasks)
+- [Vai trò và nhiệm vụ trong tài khoản thanh toán](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-mca-roles#billing-account-roles-and-tasks)
 - [Bắt đầu với tài khoản thanh toán MCA của bạn](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-overview)
-- [Kiểm tra quyền truy nhập vào thỏa thuận khách hàng của Microsoft](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support%22%20%5Cl%20%22manage-credit-cards-for-a-microsoft-customer-agreement%22%20%5Ct%20%22_blank#check-the-type-of-your-account)
+- [Kiểm tra quyền truy nhập vào Thỏa thuận Khách hàng của Microsoft](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support%22%20%5Cl%20%22manage-credit-cards-for-a-microsoft-customer-agreement%22%20%5Ct%20%22_blank#check-the-type-of-your-account)

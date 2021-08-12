@@ -1,5 +1,5 @@
 ---
-title: Khắc phục sự cố về Azure AD join
+title: Khắc phục sự cố kết hợp Azure AD
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003246"
 - "6157"
-ms.openlocfilehash: 0e9f7c95cf522340e9976f668c1d1a9eaff71910
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 8e902aea30e6891717e08027cc009576d390c9cf2ba1649cbbc68d64883937f8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51405766"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53939941"
 ---
-# <a name="troubleshoot-azure-ad-join-issues"></a>Khắc phục sự cố về Azure AD join
+# <a name="troubleshoot-azure-ad-join-issues"></a>Khắc phục sự cố kết hợp Azure AD
 
-1. Nếu bạn đang thiết lập đăng ký thiết bị lần đầu tiên, hãy đảm bảo rằng bạn đã xem xét việc [giới thiệu về quản lý thiết bị trong Azure Active Directory](https://docs.microsoft.com/azure/active-directory/devices/overview) sẽ hướng dẫn bạn về cách tải các thiết bị dưới điều khiển để Azure AD. 
-1. Nếu bạn đang đăng ký thiết bị vào Azure AD trực tiếp và ghi lại chúng vào InTune, bạn sẽ cần phải đảm bảo rằng bạn đã [cấu hình InTune](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment) và có [cấp phép](https://docs.microsoft.com/mem/intune/fundamentals/licenses-assign) tại chỗ trước tiên.
-1. Đảm bảo bạn được phép thực hiện các hoạt động trong Azure AD. Chỉ có một người quản trị toàn cầu trong Azure AD có thể quản lý thiết đặt cho việc đăng ký thiết bị.
-1. Để thực hiện Azure AD join, hãy xem [lập kế hoạch AZURE AD join](https://docs.microsoft.com/azure/active-directory/devices/azureadjoin-plan).
+1. Nếu bạn thiết lập đăng ký thiết bị lần đầu tiên, hãy đảm bảo rằng bạn đã xem lại Giới thiệu về quản lý thiết bị trong [Azure Active Directory,](https://docs.microsoft.com/azure/active-directory/devices/overview) mục này sẽ hướng dẫn bạn cách tải Thiết bị dưới quyền kiểm soát đối với Azure AD. 
+1. Nếu bạn đang đăng ký thiết bị vào Azure AD trực tiếp và đăng ký thiết bị [](https://docs.microsoft.com/mem/intune/fundamentals/licenses-assign) vào Intune, bạn sẽ cần phải đảm bảo rằng bạn đã đặt cấu hình [cho Intune](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment) và tiến hành cấp phép trước.
+1. Đảm bảo bạn được phép thực hiện các thao tác trong Azure AD. Chỉ người quản trị toàn cầu trong Azure AD mới có thể quản lý cài đặt cho đăng ký thiết bị.
+1. Để thực hiện tham gia triển khai Azure AD, hãy [xem Plan Azure AD Join](https://docs.microsoft.com/azure/active-directory/devices/azureadjoin-plan).
 
-Để biết thêm chi tiết về việc giải quyết các sự cố phổ biến với Azure AD join hãy xem [Azure AD join FAQ](https://docs.microsoft.com/azure/active-directory/devices/faq#azure-ad-join-faq) và cho thiết bị chạy Windows 10 Pro, hãy xem [không thể gia nhập Windows 10 Pro MACHINE to Azure AD-need to Upgrade to-Microsoft Community](https://answers.microsoft.com/en-us/msoffice/forum/msoffice_install-mso_win10-mso_365hp/unable-to-join-windows-10-pro-machine-to-azure-ad/abb1ca7d-b317-45ec-a628-e1c10eae2900)
+Để biết thêm chi tiết về cách giải quyết các sự cố phổ biến với azure [AD,](https://docs.microsoft.com/azure/active-directory/devices/faq#azure-ad-join-faq) hãy xem mục Câu hỏi thường gặp về Azure Ad Join và đối với thiết bị Windows 10 pro, xem mục Không thể liên kết máy Windows 10 Pro với [Azure AD - Cần](https://answers.microsoft.com/en-us/msoffice/forum/msoffice_install-mso_win10-mso_365hp/unable-to-join-windows-10-pro-machine-to-azure-ad/abb1ca7d-b317-45ec-a628-e1c10eae2900) nâng cấp lên - Microsoft Community

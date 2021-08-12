@@ -1,5 +1,5 @@
 ---
-title: Triển khai và cập nhật ứng dụng Microsoft 365 với tư vấn quản lý cấu hình
+title: Triển khai và cập nhật các Microsoft 365 với trình tư vấn Trình quản lý Cấu hình
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004212"
 - "7416"
-ms.openlocfilehash: fdccf53de04b5a92c2bc4c526d7485ed5ba27704
-ms.sourcegitcommit: 1f43598a726cdb9904aa501eb8db87f143020d9e
+ms.openlocfilehash: 03c4b88ad4d962681cb71f39bf793500585dc0ff24b38f47890547781fc25f80
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "51122901"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53914241"
 ---
-# <a name="deploy-and-update-microsoft-365-apps-with-configuration-manager-advisor"></a>Triển khai và cập nhật ứng dụng Microsoft 365 với tư vấn quản lý cấu hình
+# <a name="deploy-and-update-microsoft-365-apps-with-configuration-manager-advisor"></a>Triển khai và cập nhật các Microsoft 365 với trình tư vấn Trình quản lý Cấu hình
 
-Đối với các tổ chức sử dụng trình quản lý cấu hình, bạn có thể sử dụng [triển khai và cập nhật các ứng dụng Microsoft 365 với cố vấn quản lý cấu hình](https://go.microsoft.com/fwlink/?linkid=2146549) để tạo ra một tập lệnh mà sẽ tự động cấu hình triển khai ứng dụng Microsoft 365 của bạn bằng cách sử dụng các phương pháp tốt nhất được hướng dẫn bằng Fast
+Đối với các tổ chức sử dụng Trình quản lý Cấu hình, bạn có thể sử dụng [Ứng dụng Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2146549) Triển khai và cập nhật với trình tư vấn Trình quản lý Cấu hình để tạo một tập lệnh sẽ tự động đặt cấu hình cho triển khai Ứng dụng Microsoft 365 của bạn bằng cách sử dụng các thực hành tốt nhất được các kỹ sư FastTrack đề xuất.
 
-Sử dụng hướng dẫn này để xây dựng nhóm triển khai của bạn, tùy chỉnh các ứng dụng và tính năng của Office, đặt cấu hình cài đặt động hoặc nạc, sau đó chạy script để tạo các ứng dụng, quy tắc triển khai tự động và các tuyển tập thiết bị mà bạn cần nhằm mục đích triển khai của bạn.
+Sử dụng hướng dẫn này để xây dựng các nhóm triển khai, tùy chỉnh các ứng dụng và tính năng Office của bạn, đặt cấu hình các bản cài đặt linh động hoặc tinh gọn, rồi chạy tập lệnh để tạo ứng dụng, quy tắc triển khai tự động và bộ sưu tập thiết bị mà bạn cần để hướng đến triển khai của mình.

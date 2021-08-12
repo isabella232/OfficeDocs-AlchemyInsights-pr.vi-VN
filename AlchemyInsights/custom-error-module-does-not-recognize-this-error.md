@@ -1,5 +1,5 @@
 ---
-title: Bạn nhận được mô-đun lỗi tùy chỉnh sẽ không nhận ra lỗi này khi tải xuống theo dõi thư?
+title: Bạn nhận được mô-đun lỗi tùy chỉnh không nhận ra lỗi này khi tải xuống theo dõi thư?
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001484"
 - "3520"
-ms.openlocfilehash: a1dc7bb93be0ca224b2c1e5fde98d4af393d2004
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d686e38e171e215055f6c5200f02bf52ad4ebc1c0fb502e86c9515a8658e0904
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51815781"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53914781"
 ---
-# <a name="getting-custom-error-module-does-not-recognize-this-error-when-downloading-a-message-trace"></a>Nhận "mô-đun lỗi tùy chỉnh không nhận ra lỗi này" khi tải xuống theo dõi thư?
+# <a name="getting-custom-error-module-does-not-recognize-this-error-when-downloading-a-message-trace"></a>Bạn nhận được "mô-đun lỗi tùy chỉnh không nhận ra lỗi này" khi tải xuống theo dõi thư?
 
-Chúng tôi đã biết về sự cố và đang làm việc trên bản sửa lỗi.  Trong lúc này, hãy thử **xóa bộ đệm ẩn trình duyệt của bạn** hoặc sử dụng chế độ InPrivate để giải quyết vấn đề này.
+Chúng tôi đã biết về sự cố này và đang nỗ lực tạo bản sửa lỗi.  Trong lúc này, hãy thử xóa **bộ đệm ẩn trình duyệt của bạn** hoặc sử dụng chế độ InPrivate để giải quyết sự cố này.

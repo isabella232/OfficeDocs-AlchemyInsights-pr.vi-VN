@@ -1,5 +1,5 @@
 ---
-title: Triển khai Office với hướng dẫn người dùng của bạn
+title: Triển khai Các Office hướng dẫn cho người dùng của bạn
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -15,15 +15,15 @@ ms.custom:
 - "7379"
 - "2000022"
 - "871"
-ms.openlocfilehash: e65735633619315081505c10c55e844101bd1538
-ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
+ms.openlocfilehash: 13719bdb50d8cf838532a3c5f9cacca94c4c96a371ebd181f6ab04b3c51db0a0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50448701"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53948113"
 ---
-# <a name="deploy-office-to-your-users-guide"></a>Triển khai Office với hướng dẫn người dùng của bạn
+# <a name="deploy-office-to-your-users-guide"></a>Triển khai Các Office hướng dẫn cho người dùng của bạn
 
-Triển khai các ứng dụng Office từ điện toán đám mây có khả năng tùy chỉnh cài đặt của bạn bằng cách sử dụng công cụ triển khai Office.
+Triển khai Office từ đám mây với khả năng tùy chỉnh cài đặt của bạn bằng cách sử dụng Công Office Triển khai Chính.
 
-[Triển khai Office cho người dùng của bạn](https://go.microsoft.com/fwlink/?linkid=2146451) hướng dẫn sẽ giúp bạn tạo một cấu hình Office tùy chỉnh với thiết đặt nâng cao, hoặc bạn có thể sử dụng cấu hình được tạo sẵn được đề xuất. Cho dù người dùng của bạn đang thực hiện tự cài đặt hoặc bạn đang triển khai cho người dùng riêng lẻ hoặc hàng loạt, trình hướng dẫn nâng cao này sẽ cung cấp cho bạn các hướng dẫn từng bước để cung cấp cho người dùng một cài đặt Office phù hợp với tổ chức của bạn.
+Tùy [chọn Triển Office](https://go.microsoft.com/fwlink/?linkid=2146451) cho người dùng của bạn sẽ giúp bạn tạo một cấu hình Office tùy chỉnh với các thiết đặt nâng cao hoặc bạn có thể sử dụng một cấu hình được đề xuất sẵn. Dù người dùng của bạn đang tiến hành tự cài đặt hay bạn đang triển khai cho từng người dùng hoặc hàng loạt người dùng, trình hướng dẫn nâng cao này sẽ cung cấp cho bạn hướng dẫn từng bước để cung cấp cho người dùng một bản cài đặt Office được thiết kế cho tổ chức của bạn.

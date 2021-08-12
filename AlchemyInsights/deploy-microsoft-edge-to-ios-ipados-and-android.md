@@ -1,5 +1,5 @@
 ---
-title: Triển khai Microsoft Edge đến iOS, iPadOS và Android
+title: Triển Microsoft Edge cho iOS, iPadOS và Android
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,32 +13,32 @@ ms.collection: Adm_O365
 ms.custom:
 - "8241"
 - "9004604"
-ms.openlocfilehash: 524e87ab57e29823361053093708c83831f19687
-ms.sourcegitcommit: 03378c78eadac5d950802dcbacc328bca3314032
+ms.openlocfilehash: 56ccfc2bff811d0a70582ace6278af76d2339cd7ddb14fe3488c15c1d4e9340b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50194582"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53914169"
 ---
-# <a name="deploy-microsoft-edge-to-ios-ipados-and-android"></a>Triển khai Microsoft Edge đến iOS, iPadOS và Android
+# <a name="deploy-microsoft-edge-to-ios-ipados-and-android"></a>Triển Microsoft Edge cho iOS, iPadOS và Android
 
-Kịch bản được hướng dẫn tóm tắt dưới đây sẽ giúp bạn gán Microsoft Edge cho người dùng iOS, iPadOS và thiết bị Android.
+Kịch bản có hướng dẫn tóm tắt bên dưới sẽ giúp bạn gán Microsoft Edge người dùng các thiết bị chạy iOS, iPadOS và Android.
 
 > [!NOTE]
-> Nếu bạn bị chặn người dùng từ các thiết bị di động đăng ký, kịch bản hướng dẫn này sẽ không hoạt động và người dùng sẽ cần phải cài đặt Microsoft Edge.
+> Nếu bạn đã chặn người dùng đăng ký thiết bị di động, kịch bản có hướng dẫn này sẽ không hoạt động và người dùng sẽ cần phải cài đặt thiết bị Microsoft Edge mình.
 
-Kịch bản hướng dẫn liên quan đến các bước sau đây:
+Kịch bản có hướng dẫn bao gồm các bước sau đây:
 
-1. [OLSync](https://docs.microsoft.com/mem/intune/fundamentals/guided-scenarios-edge#prerequisites)
-2. [Quen](https://docs.microsoft.com/mem/intune/fundamentals/guided-scenarios-edge#step-1---introduction)
-3. [Niệm](https://docs.microsoft.com/mem/intune/fundamentals/guided-scenarios-edge#step-2---basics)
-4. [60A](https://docs.microsoft.com/mem/intune/fundamentals/guided-scenarios-edge#step-3---configuration)
-5. [Cu](https://docs.microsoft.com/mem/intune/fundamentals/guided-scenarios-edge#step-4---assignments)
+1. [Điều kiện tiên quyết](https://docs.microsoft.com/mem/intune/fundamentals/guided-scenarios-edge#prerequisites)
+2. [Giới thiệu](https://docs.microsoft.com/mem/intune/fundamentals/guided-scenarios-edge#step-1---introduction)
+3. [Thông tin cơ bản](https://docs.microsoft.com/mem/intune/fundamentals/guided-scenarios-edge#step-2---basics)
+4. [Cấu hình](https://docs.microsoft.com/mem/intune/fundamentals/guided-scenarios-edge#step-3---configuration)
+5. [Bài tập](https://docs.microsoft.com/mem/intune/fundamentals/guided-scenarios-edge#step-4---assignments)
 6. [Xem lại và tạo](https://docs.microsoft.com/mem/intune/fundamentals/guided-scenarios-edge#step-5---review--create)
 
-Sau khi bạn hoàn thành các bước trong kịch bản hướng dẫn, chính sách của Microsoft InTune sẽ cho phép các tính năng sau đây của Microsoft Edge for Business:
+Sau khi bạn hoàn thành các bước trong kịch bản được hướng dẫn, Microsoft Intune sách cuộc hội thoại sẽ kích hoạt các tính năng sau đây Microsoft Edge cho doanh nghiệp:
 
-- Định danh kép
-- Tích hợp với chính sách bảo vệ ứng dụng Microsoft InTune
-- Tích hợp với ứng dụng Azure Active Directory proxy
+- Danh tính kép
+- Tích hợp với chính Microsoft Intune bảo vệ ứng dụng
+- Tích hợp với Azure Active Directory Proxy Ứng dụng
 - Lối tắt trang chủ và mục yêu thích được quản lý

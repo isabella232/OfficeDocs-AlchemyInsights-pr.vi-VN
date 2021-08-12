@@ -1,5 +1,5 @@
 ---
-title: 8000059 làm thế nào để thay đổi hành động chủ đề (FMS)
+title: 8000059 Cách thay đổi hành động chủ đề (FMS)
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -13,14 +13,14 @@ ms.custom:
 - "992"
 - "8000059"
 ms.assetid: 90219a36-2d1c-4917-af91-0fcf693f659b
-ms.openlocfilehash: 736a30d2d41abe99406352280d95672493dd814a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 24b049f048849ae30938a00349946f7534f2538f952bb931997af53472ee3729
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47780801"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53963737"
 ---
 # <a name="how-to-change-your-theme"></a>Cách thay đổi chủ đề của bạn
 
-Để thay đổi chủ đề của bạn trong Outlook.com hoặc Outlook trên web, hãy đi đến **thiết đặt** và chọn một chủ đề bên dưới **chủ đề**. Để xem tất cả các chủ đề sẵn có, hãy chọn **xem tất cả** bên dưới **chủ đề**.
+Để thay đổi chủ đề trong Outlook.com hoặc Outlook trên web, hãy đi **tới Cài đặt** rồi chọn chủ đề bên dưới Chủ **đề**. Để xem tất cả các chủ đề có sẵn, hãy chọn **Xem tất cả bên** dưới Chủ **đề**.
   
