@@ -1,5 +1,5 @@
 ---
-title: Các vấn đề khi sử dụng bảng điều khiển quản trị InTune
+title: Các sự cố khi sử dụng bảng điều khiển quản trị Intune
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,45 +13,45 @@ ms.collection: Adm_O365
 ms.custom:
 - "1790"
 - "9000214"
-ms.openlocfilehash: 10b37b2ffda50dc77396039a9e0e443ad81aef72
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9310e8685a922207be8d5672d7929e19313cbb57e0fa6d25de149106692e811f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728309"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53944153"
 ---
-# <a name="problems-using-the-intune-admin-console"></a>Các vấn đề khi sử dụng bảng điều khiển quản trị InTune
+# <a name="problems-using-the-intune-admin-console"></a>Các sự cố khi sử dụng bảng điều khiển quản trị Intune
 
-**"Access bị từ chối" khi dẫn hướng đến cổng thông tin quản trị InTune.**
+**"Truy nhập bị từ chối" khi dẫn hướng cổng thông tin quản trị Intune.**
 
-- Nếu bạn là thành viên của một vai trò tùy chỉnh InTune, hãy đảm bảo giấy phép InTune hoặc gói phần mềm di động (EMS) được gán cho tài khoản của bạn.
-- Nếu bạn đang sử dụng trình quản lý cấu hình để quản lý thiết bị, hãy xác nhận bạn không phải là một phần của tuyển tập người dùng InTune cho MDM trình quản lý cấu hình.
-- Xác nhận rằng bạn đã được gán quyền điều khiển quản trị dựa trên vai trò thích hợp (RBAC) cho phép trong lưỡi InTune vai trò.
-- Xác nhận nhóm được sử dụng không phải là danh sách phân phối. InTune trong cổng thông tin Azure chỉ hỗ trợ các tài khoản người dùng thuộc về các nhóm bảo mật Azure Active Directory. Xem lại các nhóm của bạn trong cổng thông tin Azure > **InTune**  >  **nhóm**hoặc trong Azure Portal > **Azure Active Directory**.
+- Nếu bạn là thành viên của vai trò tùy chỉnh Intune, hãy đảm bảo rằng giấy phép Intune hoặc Enterprise Mobility Suite (EMS) được gán cho tài khoản của bạn.
+- Nếu bạn đang sử dụng Trình quản lý Cấu hình để quản lý thiết bị, hãy xác nhận rằng bạn không phải là một phần của tuyển tập người dùng Intune dành cho MDM Trình quản lý Cấu hình.
+- Hãy xác minh rằng bạn đã được gán quyền kiểm soát quản trị dựa trên vai trò (RBAC) thích hợp trong lưỡi vai trò Intune.
+- Xác nhận rằng nhóm đã dùng không phải là danh sách phân phối. Intune trong cổng thông tin Azure chỉ hỗ trợ tài khoản người dùng thuộc Azure Active Directory nhóm bảo mật. Xem lại các nhóm của bạn trong Cổng thông tin Azure > **Nhóm Intune** hoặc trong cổng thông  >  tin Azure > **Azure Active Directory**.
 
-**Người dùng có quá nhiều quyền đối với vai trò InTune được gán**
+**Người dùng có quá nhiều quyền đối với vai trò Intune được gán**
 
-Thông báo cho người dùng để đi đến **InTune**điều  >  **chỉnh vai trò**  >  **của tôi**  >  **xuất** quyền để xem lại quyền được cấp.
+Hướng dẫn người dùng truy nhập **Vai trò**  >  **Intune Intune của tôi Quyền**  >  **của tôi Xuất**  >  **để** xem lại các quyền đã cấp.
 
-**Tôi đã thêm một nhóm phạm vi vào vai trò, nhưng người dùng trong vai trò đó vẫn nhìn thấy những người dùng hoặc thiết bị khác.**
+**Tôi đã thêm nhóm phạm vi vào vai trò, nhưng người dùng với vai trò đó vẫn nhìn thấy những người dùng hoặc thiết bị khác.**
 
-Nhóm phạm vi không lọc ra người dùng hoặc thiết bị. Nhóm phạm vi:
+Nhóm phạm vi không lọc bỏ người dùng hoặc thiết bị. Nhóm phạm vi:
 
-- Giới hạn người dùng có thể gán các chính sách hoặc ứng dụng.
-- Chỉ cho phép người dùng cụ thể chạy các tác vụ từ xa trên các thiết bị.
+- Giới hạn người dùng có thể gán chính sách hoặc ứng dụng.
+- Chỉ cho phép những người dùng cụ thể chạy tác vụ từ xa trên thiết bị.
 
-Để biết thêm thông tin về các nhóm phạm vi, hãy xem  [kiểm soát truy nhập dựa trên vai trò (RBAC) với Microsoft InTune](https://docs.microsoft.com/intune/role-based-access-control).
+Để biết thêm thông tin về nhóm phạm vi, hãy xem Kiểm soát truy nhập dựa trên vai [trò (RBAC) với Microsoft Intune.](https://docs.microsoft.com/intune/role-based-access-control)
 
-**Tôi đã thêm một người dùng vào vai trò InTune nhưng vẫn có quyền truy nhập đầy đủ vào bảng điều khiển quản trị InTune.**
+**Tôi đã thêm người dùng vào vai trò Intune nhưng họ vẫn có toàn quyền truy nhập vào bảng điều khiển quản trị Intune.**
 
-Dẫn hướng đến InTune > **người dùng** trong cổng thông tin Azure và xác nhận rằng người dùng không được gán cho bất kỳ vai trò nào sau đây trong cổng thông tin Azure:
+Dẫn hướng đến Intune  > Người dùng trong cổng thông tin Azure, rồi xác minh rằng người dùng không được gán cho bất kỳ vai trò nào sau đây trong cổng thông tin Azure:
 
 - Người quản trị toàn cầu
-- Người quản trị dịch vụ InTune
-- Người quản trị SharePoint
+- Người quản trị dịch vụ Intune
+- SharePoint quản trị viên
 
-Để biết thêm thông tin, hãy xem [kiểm soát truy nhập dựa trên vai trò (RBAC) với Microsoft InTune](https://docs.microsoft.com/intune/role-based-access-control).
+Để biết thêm thông tin, [hãy xem mục Kiểm soát truy nhập dựa trên vai trò (RBAC) với Microsoft Intune.](https://docs.microsoft.com/intune/role-based-access-control)
 
-**Vấn đề truy nhập**
+**Sự cố truy nhập**
 
-Để biết thêm thông tin, hãy xem [bạn không thể đăng nhập vào Office 365, Azure hoặc InTune](https://support.microsoft.com/help/2412085/you-can-t-sign-in-to-office-365-azure-or-intune).
+Để biết thêm thông [tin, xem mục Bạn không thể đăng nhập vào Office 365, Azure hoặc Intune.](https://support.microsoft.com/help/2412085/you-can-t-sign-in-to-office-365-azure-or-intune)

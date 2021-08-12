@@ -1,5 +1,5 @@
 ---
-title: Cho phép người dùng của bạn liên lạc với người dùng Skype Consumer
+title: Cho phép người dùng của bạn liên lạc với người Skype khách hàng
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,17 +11,17 @@ ms.custom: ''
 ms.assetid:
 - "9001733"
 - "4401"
-ms.openlocfilehash: 84ba2dcd6e83aa62223b7b62a0976aa20bd109dc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 842a00da5eb4293c565258c82593d6e6ce76cc02e5ae475e8dd7f7613640d605
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47718283"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53933451"
 ---
-# <a name="allow-your-users-to-communicate-with-skype-consumer-users"></a>Cho phép người dùng của bạn liên lạc với người dùng Skype Consumer
+# <a name="allow-your-users-to-communicate-with-skype-consumer-users"></a>Cho phép người dùng của bạn liên lạc với người Skype khách hàng
 
-Để cho phép người dùng của bạn liên lạc với người dùng Skype Consumer, vui lòng thực hiện như sau:
+Để cho phép người dùng của bạn liên lạc với người Skype tiêu dùng, vui lòng làm như sau:
 
-- Cho phép truy nhập bên ngoài như đã ghi chú [ở đây](https://docs.microsoft.com/microsoftteams/manage-external-access#allow-or-block-domains).
+- Cho phép truy nhập bên ngoài như được lưu [ý ở đây.](https://docs.microsoft.com/microsoftteams/manage-external-access#allow-or-block-domains)
 
-- Tìm hiểu về [nhóm và Skype Consumer khả năng tương](https://docs.microsoft.com/microsoftteams/teams-skype-interop)tác.
+- Tìm hiểu về [Teams người tiêu dùng Skype tác với Người tiêu dùng.](https://docs.microsoft.com/microsoftteams/teams-skype-interop)

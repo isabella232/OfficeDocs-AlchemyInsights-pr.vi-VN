@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3450"
 - "9001449"
-ms.openlocfilehash: 488615dfb6bc1316c1d76d50e37737034b569113
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8a26f93f89d6aba5ed889cdfb862bfdc7ae520faffbdc7efc6778a38c8ba12af
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51818454"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53968615"
 ---
-# <a name="change-the-account-type-that-you-sign-in-with"></a>Thay đổi loại tài khoản bạn đăng nhập bằng
+# <a name="change-the-account-type-that-you-sign-in-with"></a>Thay đổi loại tài khoản mà bạn đăng nhập
 
-Sau đây là cách thay đổi loại tài khoản mà bạn sử dụng để đăng nhập vào Windows 10:
+Dưới đây là cách thay đổi loại tài khoản bạn sử dụng để đăng nhập vào tài Windows 10:
 
-1. Chọn **bắt đầu**  >  **cài đặt**  >  **tài khoản**  >  **thông tin của bạn**.
-2. Nếu bạn đang sử dụng một tài khoản cục bộ không được nối kết với một địa chỉ email nhưng muốn dùng tài khoản Microsoft, hãy chọn **đăng nhập bằng tài khoản Microsoft thay vào đó**.
-3. Nếu bạn đang sử dụng tài khoản Microsoft được nối kết với một địa chỉ email nhưng muốn sử dụng một tài khoản cục bộ, hãy chọn **đăng nhập bằng tài khoản cục bộ thay vào đó**.
-4. Nếu cần, hãy nhập mật khẩu của bạn, rồi chọn **tiếp theo**.
+1. Chọn Bắt **đầu Cài đặt**  >  **khoản**  >  **Thông**  >  **tin của bạn**.
+2. Nếu bạn đang sử dụng tài khoản cục bộ không được liên kết với địa chỉ email nhưng muốn sử dụng tài khoản Microsoft, hãy chọn Đăng nhập bằng tài khoản **Microsoft thay vào đó.**
+3. Nếu bạn đang sử dụng tài khoản Microsoft được liên kết với một địa chỉ email nhưng muốn sử dụng tài khoản cục bộ, hãy chọn Đăng nhập bằng tài khoản **cục bộ thay vào đó.**
+4. Nếu cần, hãy nhập mật khẩu của bạn, rồi chọn **Tiếp theo**.
 5. Khởi động lại thiết bị của bạn. Lần sau khi bạn đăng nhập, tài khoản mà bạn đã chuyển sang sẽ được hiển thị.

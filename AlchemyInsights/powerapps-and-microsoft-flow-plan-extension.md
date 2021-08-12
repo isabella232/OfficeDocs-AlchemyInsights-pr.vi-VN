@@ -1,5 +1,5 @@
 ---
-title: 1575-PowerApps và phần mở rộng gói Microsoft Flow
+title: 1575-PowerApps và phần mở Microsoft Flow gói mới
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -14,19 +14,19 @@ ms.custom:
 - "1575"
 - "9000087"
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 2492fdc77371c21f74250fe4edb6590f0d6d1d7b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: efd9e346211b50209c8e5baf6f64f293fafa6a27ef9b92c8b3f6fade889307a4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728417"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960461"
 ---
-# <a name="powerapps-and-microsoft-flow-plan-extension"></a>Phần mở rộng của gói PowerApps và Microsoft Flow
+# <a name="powerapps-and-microsoft-flow-plan-extension"></a>PowerApps và phần mở rộng Microsoft Flow gói
 
-Nếu bạn dự định yêu cầu một phần mở rộng kế hoạch cho **Microsoft Flow** hoặc **powerapps** và đối tượng thuê của bạn đã có người dùng hiện hoạt của một trong các tính năng sau đây, không cần phải gửi yêu cầu hỗ trợ.
+Nếu bạn định yêu cầu phần mở rộng gói cho **Microsoft Flow** hoặc **PowerApps** và đối tượng thuê của bạn đã có người dùng hiện hoạt của một trong các tính năng sau, bạn không cần gửi yêu cầu hỗ trợ.
 
-- Tạo và Ấn phẩm của các đường kết nối tùy chỉnh trong PowerApps và Microsoft Flow
-- Hành động tùy chỉnh HTTP được tích hợp vào dòng ngoài SharePoint và OneDrive
-- Tích hợp dữ liệu tại cơ sở thông qua cổng dữ liệu tại cơ sở
+- Tạo và phát hành trình kết nối tùy chỉnh trong PowerApps và Microsoft Flow
+- Các hành động tùy chỉnh HTTP được tích hợp Flow và SharePoint và OneDrive
+- Tích hợp dữ liệu tại cơ sở thông qua cổng kết nối dữ liệu tại cơ sở
 
-Khách hàng với người dùng hiện hoạt các tính năng này sẽ có được phần mở rộng tự động cho đến ngày 31 tháng 1, 2020, hoặc hết hạn thời hạn đăng ký Microsoft 365 hiện tại của họ, tùy theo đó lâu hơn.
+Khách hàng có người dùng hiện hoạt của các tính năng này sẽ nhận được phần mở rộng tự động cho đến ngày 31 tháng 1 năm 2020 hoặc hết hạn thời hạn của thời hạn thuê bao Microsoft 365 hiện có của họ, tính theo thời gian dài hơn.

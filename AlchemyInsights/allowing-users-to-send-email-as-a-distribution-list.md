@@ -1,5 +1,5 @@
 ---
-title: 717 cho phép người dùng gửi email dưới dạng danh sách phân phối
+title: 717 Cho phép người dùng gửi email dưới dạng danh sách phân phối
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,21 +13,21 @@ ms.custom:
 - "717"
 - "3"
 ms.assetid: d9e5f5be-b653-44a9-bce8-9ca11396d39e
-ms.openlocfilehash: 71f251139160ef41acac13fd08af80515581ea10
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 66d4a8941bc4f4a6300b08f11de1f4a888b356040ebc15c9ab37677d19da82c4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47718139"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53933379"
 ---
 # <a name="allow-users-to-send-email-as-a-distribution-group"></a>Cho phép người dùng gửi email dưới dạng nhóm phân phối
 
-Để cho phép người dùng gửi thư xuất hiện đến từ một nhóm phân phối hiện có, hãy làm theo các bước sau đây:
+Để cho phép người dùng gửi thư có vẻ như đến từ một nhóm phân phối hiện có, hãy làm theo các bước sau đây:
 
-1. Trong [Trung tâm quản trị Exchange](https://outlook.office365.com/ecp/), đi tới nhóm **người nhận** \> **Groups**.
+1. In the [Exchange admin center](https://outlook.office365.com/ecp/), go to **Recipients** \> **Groups**.
 
-2. Chọn Nhóm phân phối bạn muốn sửa đổi, rồi bấm **sửa**.
+2. Chọn nhóm phân phối bạn muốn sửa đổi, rồi bấm **Sửa.**
 
-3. Trong các thuộc tính của nhóm, hãy đi đến tab **đoàn Ủy nhóm** để xác định những người dùng có thể gửi dưới dạng hoặc gửi thay mặt cho nhóm phân phối.
+3. Trong các thuộc tính của nhóm, đi đến **tab** Ủy quyền nhóm để chỉ định những người dùng có thể gửi dưới dạng hoặc gửi thay mặt cho nhóm phân phối.
 
-Để biết thêm thông tin, hãy xem [tùy chọn email](https://technet.microsoft.com/library/bb124513.aspx#groupdelegation).
+Để biết thêm thông tin, hãy xem [Tùy chọn email.](https://technet.microsoft.com/library/bb124513.aspx#groupdelegation)

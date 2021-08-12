@@ -1,5 +1,5 @@
 ---
-title: Lập hóa đơn sau khi hủy bỏ đăng ký
+title: Đã thanh toán sau khi hủy đăng ký
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500019"
 - "5584"
-ms.openlocfilehash: be524e88999b8b35cced290daf87fc7f3a4088c5
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 89f50fa6575b7729f6aeccdc07654765a46230b40f238346285acfa9431138e0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820452"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53917517"
 ---
-# <a name="billed-after-canceling-subscription"></a>Lập hóa đơn sau khi hủy bỏ đăng ký
+# <a name="billed-after-canceling-subscription"></a>Đã thanh toán sau khi hủy đăng ký
 
-Sau khi đăng ký của bạn bị hủy bỏ, bạn sẽ nhận được một hóa đơn bổ sung sau khi hủy bỏ với bất kỳ số dư chưa thanh toán trừ bất kỳ khoản tín dụng nào.
+Sau khi đăng ký của bạn bị hủy bỏ, bạn sẽ nhận được một hóa đơn bổ sung sau khi hủy bỏ với mọi số dư nợ trừ đi mọi khoản tín dụng tính theo đơn.
 
-Để biết thêm thông tin, hãy xem [Tìm hiểu hóa đơn của bạn cho Microsoft 365](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).
+Để biết thêm thông tin, hãy [xem mục Hiểu rõ hóa đơn Microsoft 365](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).
