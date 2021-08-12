@@ -1,5 +1,5 @@
 ---
-title: Không thể xóa tệp hoặc ảnh khỏi tệp trong Outlook trên web
+title: Không thể xóa tệp hoặc ảnh khỏi Tệp trong Outlook trên web
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,13 +12,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "8000031"
-ms.openlocfilehash: 10864e19efeee0e65845de8fff4e021813cde3d1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4d73662feb79496e8a0901588d35359ef6d878067d93adf2172504e4d96af1cc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796022"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53961470"
 ---
 # <a name="cant-delete-files-or-photos-from-files-in-outlook-on-the-web"></a>Không thể xóa tệp hoặc ảnh khỏi tệp trong Outlook trên web
 
-**Tệp** Hiển thị các tệp và ảnh được đính kèm vào thư trong hộp thư của bạn. Để loại bỏ tệp và ảnh khỏi tệp, bạn cần xóa bỏ thư email mà chúng được đính kèm. Sau khi xóa thư, bạn cũng cần xóa chúng khỏi thư mục các mục đã xóa của bạn.
+**Tệp hiển** thị các tệp và ảnh được đính kèm vào thư trong hộp thư của bạn. Để loại bỏ tệp và ảnh khỏi Tệp, bạn cần xóa thư email mà tệp và ảnh được đính kèm. Sau khi xóa thư, bạn cũng cần xóa chúng khỏi thư mục Các mục Đã xóa của mình.

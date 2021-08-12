@@ -1,5 +1,5 @@
 ---
-title: Thêm hoặc cập nhật các bước được đề cập đến số điện thoại di thừa của PO
+title: Thêm hoặc cập nhật số PO - WD Thừa tự - các bước được đề xuất
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,28 +13,28 @@ ms.assetid: 82c0a06e-86b0-4e8c-8644-59cbc02e7645
 ms.custom:
 - "9004166"
 - "7338"
-ms.openlocfilehash: 524a5d9b376632482d5c4ca235789caab958eb9a
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: 7b6e5d0bd94b1de29a9571d6ee7f3c212860c5a957562238eb5f5214ec676e87
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49679565"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53953891"
 ---
-# <a name="add-or-update-po-number---legacy-wd---recommended-steps"></a>Thêm hoặc cập nhật các bước được đề cập đến số điện thoại di thừa của PO
+# <a name="add-or-update-po-number---legacy-wd---recommended-steps"></a>Thêm hoặc cập nhật số PO - WD Thừa tự - các bước được đề xuất
 
-Thêm số đơn hàng mua (PO) chỉ được hỗ trợ cho những khách hàng [thanh toán bằng hóa đơn](https://docs.microsoft.com/azure/cost-management-billing/manage/pay-by-invoice) thông qua séc hoặc chuyển khoản. Hướng dẫn để cập nhật số PO tùy thuộc vào [loại tài khoản thanh toán](https://docs.microsoft.com/azure/cost-management-billing/manage/view-all-accounts)của bạn.
+Việc thêm số Đơn Đặt hàng (PO) chỉ được hỗ trợ cho khách hàng thanh [toán bằng hóa](https://docs.microsoft.com/azure/cost-management-billing/manage/pay-by-invoice) đơn qua séc hoặc chuyển khoản. Hướng dẫn cập nhật số PO tùy thuộc vào loại tài khoản [thanh toán của bạn.](https://docs.microsoft.com/azure/cost-management-billing/manage/view-all-accounts)
 
-Bạn phải có vai trò [quản trị tài khoản](https://docs.microsoft.com/azure/role-based-access-control/rbac-and-directory-admin-roles) để sửa số Po.
+Bạn phải có vai [trò người quản trị tài](https://docs.microsoft.com/azure/role-based-access-control/rbac-and-directory-admin-roles) khoản thì mới có thể chỉnh sửa số PO.
 
-1. Chọn đăng ký của bạn từ [trang đăng ký](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) .
-2. Bấm vào **phương thức thanh toán** ở bên trái.
-3. Từ bảng **phương thức thanh toán** , hãy bấm **hóa đơn**. 
-4. Nhập số PO mới của bạn, rồi bấm **lưu**.
+1. Chọn đăng ký của bạn [từ trang Đăng ký](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) .
+2. Bấm **vào Phương thức** thanh toán ở bên trái.
+3. Từ bảng Phương **thức Thanh toán,** bấm Hóa **đơn.** 
+4. Nhập số PO mới của bạn rồi bấm **Lưu**.
 
 **Tài liệu được đề xuất**
 
 - [Các quốc gia/khu vực và tiền tệ được hỗ trợ](https://azure.microsoft.com/en-us/pricing/faq/) 
-- [Làm thế nào để thanh toán theo hóa đơn](https://docs.microsoft.com/azure/cost-management-billing/manage/pay-by-invoice) 
+- [Cách thanh toán bằng hóa đơn](https://docs.microsoft.com/azure/cost-management-billing/manage/pay-by-invoice) 
 - [Quản lý thông tin liên hệ tài khoản thanh toán Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/change-azure-account-profile)
 
 
