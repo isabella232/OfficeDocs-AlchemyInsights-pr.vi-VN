@@ -1,5 +1,5 @@
 ---
-title: Sublabels (nhãn nhóm)
+title: Nhãn phụ (nhãn nhóm)
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "7455"
 - "9000181"
-ms.openlocfilehash: 42fcf8e2cff62a40770c34b2883f0f215ff7bbed
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: c27a7046454a2d1c644a8d6bda172130ec1203aefc8b7a4bb484ffb892602920
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747397"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53966671"
 ---
-# <a name="sublabels-grouping-labels"></a>Sublabels (nhãn nhóm)
+# <a name="sublabels-grouping-labels"></a>Nhãn phụ (nhãn nhóm)
 
-Với sublabels, bạn có thể nhóm một hoặc nhiều nhãn bên dưới nhãn cha mà người dùng nhìn thấy trong một ứng dụng Office. Ví dụ, bên dưới bảo **mật**, tổ chức của bạn có thể sử dụng một số nhãn khác nhau cho các kiểu phân loại cụ thể.
+Với nhãn con, bạn có thể nhóm một hoặc nhiều nhãn bên dưới nhãn mẹ mà người dùng nhìn thấy trong nhãn Ứng dụng Office. Ví dụ: bên dưới Bảo **mật**, tổ chức của bạn có thể sử dụng một số nhãn khác nhau cho các loại phân loại cụ thể.
 
-Sublabels chỉ đơn giản là một cách để trình bày nhãn cho người dùng trong các nhóm lô-gic. Hàm sublabels không kế thừa bất kỳ thiết đặt nào từ nhãn cha mẹ của họ. Khi bạn phát hành một sublabel cho người dùng, thì người dùng đó có thể áp dụng sublabel thành nội dung nhưng không thể chỉ áp dụng nhãn cha mẹ.
+Nhãn phụ chỉ đơn giản là một cách để trình bày nhãn cho người dùng trong nhóm lô-gic. Nhãn con không kế thừa bất kỳ thiết đặt nào từ nhãn mẹ của chúng. Khi bạn phát hành nhãn phụ cho người dùng, người dùng đó khi đó có thể áp dụng nhãn con đó cho nội dung nhưng không thể chỉ áp dụng nhãn mẹ.
 
-Không chọn nhãn mẹ làm nhãn mặc định hoặc cấu hình nhãn mẹ sẽ được tự động áp dụng hoặc được đề xuất, vì nhãn cha mẹ sẽ không được áp dụng cho nội dung trong các ứng dụng Office sử dụng máy khách dán hợp nhất của Azure Information Protection. Để biết thêm thông tin, hãy xem mục [sublabels (nhãn nhóm)](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels).
+Không chọn nhãn mẹ làm nhãn mặc định hoặc cấu hình nhãn cha mẹ để tự động áp dụng hoặc được đề xuất, vì nhãn mẹ sẽ không được áp dụng cho nội dung trong ứng dụng Office có sử dụng máy khách nhãn hợp nhất Azure Information Protection. Để biết thêm thông [tin, hãy xem mục Nhãn phụ (nhãn nhóm).](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)

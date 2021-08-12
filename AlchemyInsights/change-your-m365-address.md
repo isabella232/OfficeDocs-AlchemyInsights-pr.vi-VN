@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11543"
 - "9001671"
-ms.openlocfilehash: 10b8e2aba5703cb4995eed521a1d57bbf272b564
-ms.sourcegitcommit: f7a9e97d04b7b6cbb633b32094d40f1874bf0fce
+ms.openlocfilehash: 4bd33903aaadd12f8fb61949d0a76199de04d48891752e2326d38bb1b1a519d5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/06/2021
-ms.locfileid: "52794092"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53916725"
 ---
 # <a name="change-your-microsoft-365-address"></a>Thay đổi địa chỉ nhận Microsoft 365 bạn
 

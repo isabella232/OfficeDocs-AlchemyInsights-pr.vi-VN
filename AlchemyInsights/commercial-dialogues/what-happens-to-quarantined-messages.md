@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: de7ea8011af792cd01963c44f8a60915747c3c11
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 222df14754501e54b9a551f705f95ee9cce853ef6479ac21dad4b01bdc5a96f8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50751134"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53966599"
 ---
 # <a name="what-happens-to-quarantined-messages"></a>Điều gì sẽ xảy ra với thư bị cách ly?
 
-Nếu bạn chọn không làm gì, thì thư sẽ bị xóa bằng Office 365 tự động khi hết hạn. Lưu ý những điều sau đây:
+Nếu bạn chọn không làm gì, thư sẽ tự động bị xóa Office 365 sau khi hết hạn. Lưu ý những điều sau:
 
-1. Theo mặc định, thư rác, hàng loạt, phần mềm độc hại và thư lừa đảo được giữ lại trong cách ly trong 15 ngày.
-2. Một thông báo đã ly khớp với quy tắc dòng thư được giữ lại trong cách ly trong 7 ngày (bạn không thể tùy chỉnh điều này).
-3. Khi Office 365 xóa bỏ thư khỏi cách ly, bạn không thể lấy lại nó.
-4. Nếu bạn muốn, bạn có thể thay đổi khoảng thời gian lưu giữ cho thư bằng cách sử dụng thiết đặt giữ thư rác (ngày) trong chính sách bộ lọc nội dung của bạn.
+1. Theo mặc định, thư rác, hàng loạt, phần mềm xấu và thư lừa đảo được giữ ở chế độ cách ly trong 15 ngày.
+2. Một thư được cách ly khớp với quy tắc dòng thư được giữ ở chế độ cách ly trong 7 ngày (bạn không thể tùy chỉnh điều này).
+3. Khi Office 365 xóa một thư khỏi bị cách ly, bạn không thể lấy lại được.
+4. Nếu muốn, bạn có thể thay đổi thời gian lưu giữ thư bị cách ly bằng cách sử dụng thiết đặt Giữ lại thư rác cho (ngày) trong chính sách bộ lọc nội dung của bạn.
