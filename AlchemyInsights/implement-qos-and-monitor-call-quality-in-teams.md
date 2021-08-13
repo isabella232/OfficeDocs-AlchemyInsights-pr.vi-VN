@@ -1,5 +1,5 @@
 ---
-title: Triển khai QoS và giám sát chất lượng cuộc gọi trong nhóm
+title: Thực hiện QoS và giám sát chất lượng cuộc gọi trong Teams
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001504"
 - "3561"
-ms.openlocfilehash: cede0fec9df4e12b5354db349629cf5a04f5f9bf
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 3e333394d3cb3f91ad48f3b443987fba23c7c2a5245b31555ef07ccf09e46be4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51829254"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53926447"
 ---
-# <a name="implement-qos-and-monitor-call-quality-in-teams"></a>Triển khai QoS và giám sát chất lượng cuộc gọi trong nhóm
+# <a name="implement-qos-and-monitor-call-quality-in-teams"></a>Thực hiện QoS và giám sát chất lượng cuộc gọi trong Teams
 
-Có thể dùng phân tích cuộc gọi và bảng điều khiển chất lượng cuộc gọi để giúp khắc phục sự cố về chất lượng cuộc gọi trong nhóm Microsoft. Để tìm hiểu thêm về chất lượng dịch vụ (QoS), hãy gọi phân tích và bảng điều khiển chất lượng cuộc gọi (CPC), hãy xem [triển khai QoS và giám sát chất lượng cuộc gọi trong Microsoft nhóm](https://docs.microsoft.com/microsoftteams/monitor-call-quality-qos). 
+Phân tích Cuộc gọi và Bảng điều khiển Chất lượng Cuộc gọi có thể được dùng để giúp khắc phục sự cố về chất lượng cuộc gọi Microsoft Teams. Để tìm hiểu thêm về Chất lượng Dịch vụ (QoS), Phân tích Cuộc gọi và Bảng điều khiển Chất lượng Cuộc gọi (CQD), hãy xem Triển khai [QoS](https://docs.microsoft.com/microsoftteams/monitor-call-quality-qos)và Theo dõi Chất lượng Cuộc gọi Microsoft Teams. 

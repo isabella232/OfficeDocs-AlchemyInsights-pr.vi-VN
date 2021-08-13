@@ -1,5 +1,5 @@
 ---
-title: InTune và các hành động của thiết bị
+title: Intune và Hành động thiết bị
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "7084"
 - "6700008"
-ms.openlocfilehash: 497844ebfea8850337407f2b0edfffd7b5b779e0
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 3446b7ed91af32f0cc9f301b492429f7781501f663f13ff5eb71374d23a65f83
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51824097"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53926231"
 ---
-# <a name="intune-and-device-actions"></a>InTune và các hành động của thiết bị
+# <a name="intune-and-device-actions"></a>Intune và Hành động thiết bị
 
-InTune cung cấp cho người quản trị khả năng chạy các hành động của thiết bị từ xa. Bằng cách sử dụng các hành động từ xa này từ cổng InTune, bạn có thể khởi động lại thiết bị, đặt lại mã thông tin, xác định vị trí bị mất hoặc bị đánh cắp thiết bị và nhiều hơn nữa. Xem lại [cổng thông tin hành động thiết bị](https://docs.microsoft.com/mem/intune/remote-actions/) để tìm hiểu thêm.
+Intune cung cấp cho người quản trị khả năng chạy hành động thiết bị từ xa. Bằng cách sử dụng các hành động từ xa này từ cổng thông tin Intune, bạn có thể khởi động lại thiết bị, đặt lại mật mã, định vị thiết bị thất lạc hoặc bị đánh cắp, và nhiều hơn nữa. Xem lại cổng thông [tin Hành động Thiết bị](https://docs.microsoft.com/mem/intune/remote-actions/) để tìm hiểu thêm.

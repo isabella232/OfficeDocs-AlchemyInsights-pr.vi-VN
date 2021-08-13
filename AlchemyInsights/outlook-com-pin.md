@@ -12,19 +12,19 @@ localization_priority: Normal
 ms.custom:
 - "1817"
 - "9000233"
-ms.openlocfilehash: 85d65dc2071f7a0e50fb096ae881b2e344410435
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 430d4782ed17fe880f326e5ff6f4c96d51e1edf590ff75efd5ce59fe4ee1c379
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798218"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53983871"
 ---
 # <a name="change-your-pin"></a>Thay đổi mã PIN của bạn
 
-Outlook.com không sử dụng mã PIN, nhưng bạn có thể đăng nhập vào PC của mình bằng mã PIN hoặc Windows hello. Để thay đổi mã PIN của bạn trong Windows 10:
+Outlook.com không sử dụng mã PIN nhưng bạn có thể đăng nhập vào PC bằng mã PIN hoặc mã WINDOWS HELLO. Để thay đổi mã PIN trong Windows 10:
 
-1. Chọn nút bắt đầu hoặc nhấn phím Windows trên bàn phím của bạn, rồi chọn tùy chọn **thiết đặt**  >  **Accounts**  >  **đăng nhập**tài khoản.
-2. Chọn nút **thay đổi** bên dưới **ghim**.
-3. Nhập mã PIN hiện tại của bạn, rồi nhập và xác nhận mã PIN mới của bạn bên dưới.
+1. Chọn nút Bắt đầu hoặc nhấn phím Windows phím trên bàn phím của bạn, sau đó **chọn** Cài đặt  >  **chọn Đăng** nhập tài  >  **khoản**.
+2. Chọn nút **Thay đổi** bên dưới **MÃ PIN**.
+3. Nhập mã PIN hiện tại của bạn, rồi nhập và xác nhận mã PIN mới bên dưới.
 
-[Đọc thêm về Windows hello.](https://support.microsoft.com/help/17215/)
+[Đọc thêm về Windows Hello.](https://support.microsoft.com/help/17215/)
