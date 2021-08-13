@@ -1,5 +1,5 @@
 ---
-title: Truy nhập vào các tệp trong nhóm
+title: Truy nhập tệp trong Teams
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "2675"
 - "9000710"
-ms.openlocfilehash: c6766c318f0058e66950dbd0ca2953b149579a5c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1c2e787bb6be02faea59adbe8b5236897789637696db0e9c48a5d13e9b9a92c1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823377"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53938609"
 ---
-# <a name="accessing-files-in-microsoft-teams"></a>Truy nhập tệp trong nhóm Microsoft
+# <a name="accessing-files-in-microsoft-teams"></a>Truy nhập tệp trong Microsoft Teams
 
-Nếu người dùng gặp khó khăn khi truy nhập một tệp trong nhóm Microsoft, trước tiên, hãy xác định xem tệp nào được đính kèm vào cuộc trò chuyện riêng tư hay hội thoại kênh. Kênh nhóm là những nơi mà mọi người trong nhóm có thể công khai có cuộc hội thoại. Các cuộc trò chuyện riêng tư chỉ hiển thị với những người trong cuộc trò chuyện (và các tệp mà bạn chia sẻ trong một cuộc trò chuyện được lưu trữ trong OneDrive for Business).
+Nếu người dùng gặp khó khăn khi truy nhập tệp trong Microsoft Teams, trước tiên hãy xác định xem tệp được đính kèm vào cuộc trò chuyện riêng tư hay cuộc hội thoại kênh. Kênh nhóm là nơi mọi người trong nhóm có thể mở các cuộc hội thoại. Chat riêng tư chỉ hiển thị với những người trong cuộc trò chuyện (và các tệp mà bạn chia sẻ trong cuộc trò chuyện được lưu trữ trong OneDrive for Business).
 
-Khi người dùng chia sẻ tệp trong cuộc trò chuyện riêng tư, tệp sẽ được lưu trữ trên OneDrive for Business của người dùng chia sẻ. Nếu người dùng đã được thêm vào cuộc trò chuyện riêng tư hiện có, họ sẽ không thể truy nhập vào các tệp trừ khi chủ sở hữu gốc lại chia sẻ tệp.    
+Khi người dùng chia sẻ tệp trong cuộc trò chuyện riêng tư, tệp sẽ được lưu trữ trên thông tin chia sẻ của OneDrive for Business. Nếu một người dùng đã được thêm vào một cuộc trò chuyện riêng tư hiện có, họ sẽ không thể truy nhập các tệp trừ khi chủ sở hữu ban đầu đã chia sẻ lại tệp.    
 
-**Đối với các cuộc hội thoại kênh:**
+**Đối với cuộc hội thoại kênh:**
 
-- [Chia sẻ tệp trong Microsoft nhóm](https://docs.microsoft.com/MicrosoftTeams/sharing-files-in-teams) dựa trên thiết đặt được đặt cấu hình trong SharePoint hoặc OneDrive. 
-- Xem lại [cộng tác trên các tệp với nhóm của bạn](https://support.office.com/article/Collaborate-on-files-with-your-Team-9b200289-dbac-4823-85bd-628a5c7bb0ae) để tìm hiểu thêm về cách nhóm cho phép tổ chức của bạn chia sẻ và cộng tác trên các tệp. 
-- Nếu thành viên nhóm mới trải nghiệm một sự chậm trễ trong việc truy nhập tệp, vui lòng chờ ít nhất **4 giờ** trước khi mở một vé hỗ trợ để cho phép các nhân viên hoàn thành. 
+- [Việc chia sẻ tệp trong Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/sharing-files-in-teams) sẽ dựa trên cài đặt được đặt cấu hình SharePoint tùy OneDrive. 
+- Xem [lại mục Cộng tác trên các tệp với Nhóm](https://support.office.com/article/Collaborate-on-files-with-your-Team-9b200289-dbac-4823-85bd-628a5c7bb0ae) của bạn để tìm hiểu thêm về cách Teams cho phép tổ chức của bạn chia sẻ và cộng tác trên các tệp. 
+- Nếu các thành viên nhóm mới gặp phải tình trạng chậm truy nhập tệp, vui lòng chờ ít nhất **4** giờ trước khi mở vé hỗ trợ để cho phép hoàn thành sao chép. 
 
-Nếu người dùng trước đó có thể truy nhập tệp thông qua tab tệp trên kênh nhóm và bạn nhận được thông báo "những tệp này không còn khả dụng", hãy kiểm tra xem liệu site hoặc thư viện tài liệu SharePoint đã được đổi tên hay chưa). Đổi tên site SharePoint và thư viện tài liệu cho các nhóm chưa được hỗ trợ. Để giải quyết sự cố này, hãy mở site nhóm được sử dụng cho nhóm này và đổi tên thư viện trở lại "tài liệu được chia sẻ".
+Nếu trước đó, người dùng có thể truy nhập tệp qua tab Tệp trên kênh nhóm và bạn gặp lỗi "các tệp này không còn sẵn dùng", hãy kiểm tra xem liệu site hoặc thư viện tài liệu SharePoint đã được đổi tên hay chưa. Việc đổi SharePoint các site và thư viện tài liệu cho Teams vẫn chưa được hỗ trợ. Để giải quyết vấn đề này, hãy mở site nhóm được sử dụng cho nhóm này và đổi tên thư viện trở lại "Tài liệu Được chia sẻ".
