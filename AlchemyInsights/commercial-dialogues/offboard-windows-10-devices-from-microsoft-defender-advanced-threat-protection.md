@@ -1,5 +1,5 @@
 ---
-title: Thiết bị chạy Windows 10 từ bộ bảo vệ chống mối đe dọa nâng cao của Microsoft Defender
+title: Bảo vệ khỏi Windows 10 từ Tính năng Chống Mối đe dọa Nâng cao của Bộ bảo vệ Microsoft
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 560e6772e810d9ef0d8aa9b17cf14cb6f4fe9ed8
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 31c772ba868cf793093b22a29971d63d8bd3ff3370f70834319a86691d62597e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748463"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53967679"
 ---
-# <a name="offboard-windows-10-devices-from-microsoft-defender-advanced-threat-protection"></a>Thiết bị chạy Windows 10 từ bộ bảo vệ chống mối đe dọa nâng cao của Microsoft Defender
+# <a name="offboard-windows-10-devices-from-microsoft-defender-advanced-threat-protection"></a>Bảo vệ khỏi Windows 10 từ Tính năng Chống Mối đe dọa Nâng cao của Bộ bảo vệ Microsoft
 
-Xem các bước sau:
+Xem nội dung sau:
 
-- [Các thiết bị offboard bằng cách dùng một tập lệnh cục bộ](https://go.microsoft.com/fwlink/?linkid=2143465)
-- [Thiết bị offboard sử dụng chính sách Nhóm](https://go.microsoft.com/fwlink/?linkid=2143632)
-- [Các thiết bị offboard bằng công cụ quản lý thiết bị di động](https://go.microsoft.com/fwlink/?linkid=2143633)
-- [Thiết bị chạy Windows 10](https://go.microsoft.com/fwlink/?linkid=2143629)
+- [Các thiết bị ngoài bảng bằng tập lệnh cục bộ](https://go.microsoft.com/fwlink/?linkid=2143465)
+- [Các thiết bị ngoài bảng bằng cách sử dụng Chính sách Nhóm](https://go.microsoft.com/fwlink/?linkid=2143632)
+- [Các thiết bị ngoài bảng sử dụng công cụ Quản lý Thiết bị Di động](https://go.microsoft.com/fwlink/?linkid=2143633)
+- [Các thiết bị Windows 10 bảng](https://go.microsoft.com/fwlink/?linkid=2143629)

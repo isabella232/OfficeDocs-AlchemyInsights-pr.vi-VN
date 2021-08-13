@@ -1,5 +1,5 @@
 ---
-title: Kế hoạch sàn
+title: Kế hoạch Tầng
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003034"
 - "5789"
-ms.openlocfilehash: 265db958b856bf06ac9344662070370e2be0a92c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 330d778f54567ada5a2408a4e6ca1984f4380e37948e98e9ccda7c3f1c8cb30d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51836409"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53992898"
 ---
-# <a name="floor-plans"></a>Kế hoạch sàn
+# <a name="floor-plans"></a>Kế hoạch Tầng
 
-Để biết thông tin về các gói **Tìm kiếm của Microsoft**  , hãy xem lại các bài viết hỗ trợ sau:
-- [Cách thực hành tốt nhất cho các gói tìm kiếm của Microsoft](https://docs.microsoft.com/microsoftsearch/floorplans-bestpractices)  
-- [Quản lý các kế hoạch sàn](https://docs.microsoft.com/microsoftsearch/manage-floorplans)  
-- Để biết thêm thông tin về cách tạo một kế hoạch sàn trong  **Visio**, hãy xem lại [tạo một kế hoạch sàn](https://support.office.com/article/create-a-floor-plan-ec17da08-64aa-4ead-9b9b-35e821645791)
+Để biết thông tin về **các Tìm kiếm của Microsoft** sàn, hãy xem lại các bài viết hỗ trợ sau đây:
+- [Cách thực hành tốt nhất Tìm kiếm của Microsoft sàn](https://docs.microsoft.com/microsoftsearch/floorplans-bestpractices)  
+- [Quản lý gói sàn](https://docs.microsoft.com/microsoftsearch/manage-floorplans)  
+- Để biết thông tin về cách tạo kế hoạch sàn **trong Visio**, hãy xem lại mục Tạo kế [hoạch sàn](https://support.office.com/article/create-a-floor-plan-ec17da08-64aa-4ead-9b9b-35e821645791)

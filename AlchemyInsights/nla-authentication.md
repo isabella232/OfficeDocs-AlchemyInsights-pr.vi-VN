@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005217"
 - "10011"
-ms.openlocfilehash: 7048f8b64929e12ca4a319c67457abeba0f80315
-ms.sourcegitcommit: 9540ba561c98b511483d6f3264c43bbecbf9f4d5
+ms.openlocfilehash: c835516002cdc47852a6e0bc080ab0c26681a2c01f9a2788488cad092d347aca
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51421189"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53985995"
 ---
 # <a name="nla-authentication"></a>Xác thực NLA
 
-Để được trợ giúp trong khắc phục sự cố lỗi xác thực hoặc lỗi NLA xảy ra khi bạn sử dụng kết nối giao thức Remote trên máy tính (RDP) để kết nối với một máy tính Azure (VM), hãy xem:
+Để được trợ giúp khắc phục các lỗi xác thực hoặc lỗi NLA xảy ra khi bạn sử dụng kết nối Giao thức Máy tính Từ xa (RDP) để kết nối với máy ảo Azure (VM), hãy xem:
 
-[Khắc phục sự cố xác thực lỗi khi bạn sử dụng RDP để kết nối với Azure VM-máy ảo | Tài liệu Microsoft](https://docs.microsoft.com/troubleshoot/azure/virtual-machines/cannot-connect-rdp-azure-vm)
+[Khắc phục lỗi xác thực khi bạn sử dụng RDP để kết nối với Azure VM - Máy Ảo | Tài liệu Microsoft](https://docs.microsoft.com/troubleshoot/azure/virtual-machines/cannot-connect-rdp-azure-vm)

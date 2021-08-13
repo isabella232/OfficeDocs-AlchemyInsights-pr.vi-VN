@@ -1,5 +1,5 @@
 ---
-title: Thiết lập nhóm Microsoft
+title: Thiết lập Các Microsoft Teams
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: 721858ca63d9477c234612de8306d3b20654d232
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 34d77dac8da010c88d36a4ef84e86ab56ea40b365d2b7217efcd057df85738d3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51786223"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53956465"
 ---
-# <a name="set-up-microsoft-teams"></a>Thiết lập nhóm Microsoft
+# <a name="set-up-microsoft-teams"></a>Thiết lập Các Microsoft Teams
 
-[Hướng dẫn thiết lập nhóm Microsoft](https://aka.ms/teamsguidance) cung cấp cho tổ chức của bạn với hướng dẫn để thiết lập các không gian làm việc nhóm để lưu trữ các cuộc hội thoại theo thời gian thực thông qua tin nhắn, cuộc gọi và cuộc họp âm thanh hoặc video cho cả nhóm và liên lạc riêng tư. Bạn sẽ nhận được hướng dẫn xác định các yêu cầu mạng của tổ chức của mình bằng cách sử dụng công cụ Planner trên mạng và cố vấn nhóm trong Trung tâm quản trị nhóm. Khi quá trình triển khai của bạn hoàn tất, hướng dẫn sẽ bao gồm các tài nguyên hữu ích để bắt đầu sử dụng nhóm.
+Hướng [dẫn thiết](https://aka.ms/teamsguidance) lập Microsoft Teams cung cấp cho tổ chức của bạn hướng dẫn thiết lập không gian làm việc nhóm lưu trữ các cuộc hội thoại theo thời gian thực thông qua nhắn tin, cuộc gọi, cuộc gọi và cuộc họp âm thanh hoặc video cho cả liên lạc nhóm lẫn liên lạc riêng tư. Bạn sẽ nhận được các hướng dẫn để xác định các yêu cầu mạng cho tổ chức của mình bằng cách sử dụng công cụ Network Planner và trình tư vấn Teams trong trung tâm quản Teams của bạn. Sau khi hoàn tất việc triển khai, hướng dẫn sẽ bao gồm các tài nguyên hữu ích để bắt đầu sử dụng Teams.
 
-Để biết thêm thông tin, vui lòng xem mục [bắt đầu với Microsoft nhóm](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start).
+Để biết thêm thông tin, vui lòng [xem Bắt đầu qua Microsoft Teams.](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start)

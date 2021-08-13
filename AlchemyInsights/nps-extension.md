@@ -1,5 +1,5 @@
 ---
-title: Phần mở rộng máy chủ chính sách mạng
+title: Phần mở rộng Máy chủ Chính sách Mạng
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003252"
 - "8603"
-ms.openlocfilehash: 6e4b4a0f9f891bbe6bc5140e119b55a802bcd7a5
-ms.sourcegitcommit: 969219d6dff18d86d679d4d8741d1e39e4ce9539
+ms.openlocfilehash: 26350d0adc665334163c5eff5f27b227bbf4c9312d76c441b2057471e99e0b30
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50428271"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53985923"
 ---
-# <a name="network-policy-server-extension"></a>Phần mở rộng máy chủ chính sách mạng
+# <a name="network-policy-server-extension"></a>Phần mở rộng Máy chủ Chính sách Mạng
 
-Phần mở rộng máy chủ chính sách mạng (NPS) cho Azure AD đa yếu tố xác thực thêm các khả năng MFA dựa trên nền tảng điện toán đám mây cho cơ sở hạ tầng xác thực của bạn bằng cách sử dụng các máy chủ hiện có của bạn. Với phần mở rộng NPS, bạn có thể thêm cuộc gọi điện thoại, tin nhắn văn bản hoặc xác minh ứng dụng điện thoại vào dòng xác thực hiện có của bạn mà không cần phải cài đặt, cấu hình và duy trì các máy chủ mới.
+Phần mở rộng Máy chủ Chính sách Mạng (NPS) cho Azure AD Multi-Factor Authentication bổ sung các chức năng MFA trên nền điện toán đám mây vào cơ sở hạ tầng xác thực của bạn bằng cách sử dụng máy chủ hiện có. Với phần mở rộng NPS, bạn có thể thêm cuộc gọi điện thoại, tin nhắn văn bản hoặc xác minh ứng dụng điện thoại vào dòng xác thực hiện có của mình mà không cần cài đặt, đặt cấu hình và duy trì máy chủ mới.
 
-Phần mở rộng NPS hoạt động như một bộ điều hợp giữa xác thực đa yếu tố Azure quảng cáo dựa trên nền tảng điện toán đám mây để cung cấp một yếu tố xác thực thứ hai cho những người dùng đã liên kết hoặc đồng bộ.
+Phần mở rộng NPS hoạt động như một bộ điều hợp giữa BÁN KÍNH và Xác thực Đa Yếu tố Azure AD trên nền điện toán đám mây để cung cấp yếu tố xác thực thứ hai cho người dùng được liên kết hoặc đồng bộ.
 
-Để biết thêm chi tiết về cách thức hoạt động của công cụ mở rộng NPS, hãy xem [tích hợp cơ sở hạ tầng máy chủ chính sách mạng hiện có của bạn với AZURE AD xác thực đa yếu tố](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-nps-extension).
+Để biết thêm chi tiết về cách hoạt động của phần mở rộng NPS, hãy xem Tích hợp cơ sở hạ tầng Máy chủ Chính sách Mạng (NPS) hiện có của bạn [với Azure AD Multi-Factor Authentication.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-nps-extension)

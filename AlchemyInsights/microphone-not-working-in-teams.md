@@ -1,5 +1,5 @@
 ---
-title: Micrô không hoạt động trong nhóm
+title: Micrô không hoạt động trong Teams
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003568"
 - "6654"
-ms.openlocfilehash: 32461b94abb4d7caf80096a1d36f414801e52cfc
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2e734506a97f68509a3b41529bbdde07917472c10a24c1d40305fdad7feff41a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51830019"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53944729"
 ---
-# <a name="microphone-isnt-working-in-teams"></a>Micrô không hoạt động trong nhóm
+# <a name="microphone-isnt-working-in-teams"></a>Micrô không hoạt động trong Teams
 
 Bắt đầu khắc phục sự cố bằng cách làm như sau:
 
-- Kiểm tra các bản cập nhật Windows và nhóm.
-- Đóng bất kỳ ứng dụng nào khác đang sử dụng micrô.
-- Thực hiện cuộc gọi thử để kiểm tra xem micrô có hoạt động đúng không.
+- Kiểm tra bản Windows cập Teams cập nhật.
+- Đóng bất kỳ ứng dụng nào khác đang dùng micrô.
+- Thực hiện một cuộc gọi thử để kiểm tra xem micrô có hoạt động đúng không.
 
-Để biết thêm chi tiết và các bước khắc phục sự cố, hãy xem [micrô của tôi không hoạt động trong nhóm](https://support.microsoft.com/office/666d1123-9dd0-4a31-ad2e-a758b204f33a).
+Để biết chi tiết và các bước khắc phục sự cố khác, hãy [xem Micrô của tôi không hoạt động Teams.](https://support.microsoft.com/office/666d1123-9dd0-4a31-ad2e-a758b204f33a)
