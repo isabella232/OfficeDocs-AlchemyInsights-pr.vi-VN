@@ -1,5 +1,5 @@
 ---
-title: Cập Nhật bản ghi DNS để giữ cho trang web của bạn với nhà cung cấp lưu trữ hiện tại
+title: Cập nhật bản ghi DNS để tiếp tục lưu trữ website tại nhà cung cấp lưu trữ hiện tại của bạn
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,37 +14,37 @@ ms.custom:
 - "43"
 - "100002"
 ms.assetid: 48251355-7383-4fdc-a1e1-9dc2c85a8d29
-ms.openlocfilehash: 89bce2aa5931c0c20706efabd42d2351be43938b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f868ce25d68f61da30d2db4de88aa83675c97857b3c1371cf2039e0b03895a64
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51827562"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54007704"
 ---
-# <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>Cập Nhật bản ghi DNS để giữ cho trang web của bạn với nhà cung cấp lưu trữ hiện tại
+# <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>Cập nhật bản ghi DNS để tiếp tục lưu trữ website tại nhà cung cấp lưu trữ hiện tại của bạn
 
-1. Trong Trung tâm quản trị Microsoft 365, hãy đi đến  >  trang[tên miền](https://admin.microsoft.com/Adminportal#/Domains) thiết lập và trong danh sách tên miền, chọn tên miền mà bạn đang sử dụng cho website của bạn.
+1. Trong hộp Trung tâm quản trị Microsoft 365, hãy đến trang Thiết lập Tên miền và trong danh sách tên miền, hãy chọn tên miền mà bạn đang dùng cho  >  [](https://admin.microsoft.com/Adminportal#/Domains) website của bạn.
 
-2. Chọn **+ bản ghi tùy chỉnh mới** và nhập nội dung sau đây:
+2. Chọn **+ Bản ghi tùy chỉnh mới,** rồi nhập các mục sau:
 
-  - Đối với **loại DNS** , hãy nhập: **A (địa chỉ)**
+  - Đối **với Loại DNS,** nhập: **A (Địa chỉ)**
 
-  - Đối với **tên máy chủ hoặc biệt danh**, hãy nhập các tùy chọn sau: **@**
+  - Đối **với Tên máy chủ hoặc Biệt danh**, hãy nhập như sau: **@**
 
-  - Đối với **địa chỉ IP**, hãy nhập địa chỉ IP tĩnh cho trang web của bạn tại vị trí hiện tại được lưu trữ (ví dụ,: 172.16.140.1).
+  - Đối **với Địa chỉ IP,** nhập địa chỉ IP tĩnh nơi hiện đang lưu trữ website của bạn (ví dụ: 172.16.140.1).
 
-    Đây phải là một địa chỉ IP  *tĩnh*  cho trang web, chứ không phải địa chỉ IP  *động*  . Kiểm tra với site nơi lưu trữ website của bạn để đảm bảo rằng bạn có thể nhận được địa chỉ IP tĩnh cho trang web công cộng của bạn.
+    Đây phải là một tĩnh  *cho*  website, không phải một  *địa chỉ*  IP động. Hãy kiểm tra với site lưu trữ website của bạn để đảm bảo rằng bạn có thể lấy địa chỉ IP tĩnh cho website công cộng của bạn.
 
-3. Chọn **lưu**.
+3. Chọn **Lưu**.
 
-Ngoài ra, bạn có thể tạo một bản ghi CNAME để giúp khách hàng tìm thấy website của bạn.
+Ngoài ra, bạn có thể tạo bản ghi CNAME để giúp khách hàng tìm thấy website của bạn.
   
-1. Chọn **+ bản ghi tùy chỉnh mới** và nhập nội dung sau đây:
+1. Chọn **+ Bản ghi tùy chỉnh mới,** rồi nhập các mục sau:
 
-  - Đối với **loại DNS** , hãy nhập: **CNAME (biệt danh)**
+  - Đối **với Loại DNS,** hãy nhập: **CNAME (Biệt danh)**
 
-  - Đối với **tên máy chủ hoặc biệt danh**, hãy gõ như sau: **www**
+  - Đối **với Tên máy chủ hoặc Biệt danh**, nhập như sau: **www**
 
-  - Đối với **trỏ tới địa chỉ**, hãy nhập tên miền đủ điều kiện (FQDN) cho website của bạn (ví dụ, contoso.com).
+  - Đối **với Points to Address**, hãy nhập tên miền đủ điều kiện (FQDN) cho website của bạn (ví dụ, contoso.com).
 
-2. Chọn **lưu**.
+2. Chọn **Lưu**.

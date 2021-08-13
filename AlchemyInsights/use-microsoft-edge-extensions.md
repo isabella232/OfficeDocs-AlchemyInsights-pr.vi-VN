@@ -1,5 +1,5 @@
 ---
-title: Sử dụng phần mở rộng của Microsoft Edge
+title: Sử dụng Microsoft Edge rộng
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004621"
 - "8313"
-ms.openlocfilehash: 4a7e83e27aa78e064c2f8261c3b66bfe0468f300
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: ac0c7b9f05c34c95d20539104af1317b43203b5a05882372d93c98b80632ced3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51037759"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53971577"
 ---
-# <a name="use-microsoft-edge-extensions"></a>Sử dụng phần mở rộng của Microsoft Edge
+# <a name="use-microsoft-edge-extensions"></a>Sử dụng Microsoft Edge rộng
 
-[Phần mở rộng](https://go.microsoft.com/fwlink/?linkid=2135619) là các bổ trợ mà bạn có thể cài đặt trong Microsoft Edge để chặn quảng cáo, quản lý mật khẩu, Dịch văn bản và tùy chỉnh trải nghiệm duyệt web của bạn theo nhiều cách khác.
+[Tiện ích bổ](https://go.microsoft.com/fwlink/?linkid=2135619) sung là phần bổ trợ bạn có thể cài đặt trong Microsoft Edge để chặn quảng cáo, quản lý mật khẩu, dịch văn bản và tùy chỉnh trải nghiệm duyệt web của mình theo nhiều cách khác.
