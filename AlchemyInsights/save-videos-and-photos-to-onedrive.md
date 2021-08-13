@@ -1,5 +1,5 @@
 ---
-title: Lưu video và ảnh vào OneDrive
+title: Lưu video và ảnh vào màn OneDrive
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002296"
 - "4580"
-ms.openlocfilehash: 0f84f84b71f716a468eb8bf1de0cd50b4f7e63b8
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 47b1d459472bb04c0941d9e09b4bc0c16b17a1292ae84622b2e050103a49789a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51797851"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54061742"
 ---
-# <a name="save-videos-and-photos-to-onedrive"></a>Lưu video và ảnh vào OneDrive
+# <a name="save-videos-and-photos-to-onedrive"></a>Lưu video và ảnh vào màn OneDrive
 
-Tìm hiểu cách [lưu video và hình ảnh tự động vào OneDrive](https://support.office.com/article/Save-photos-and-videos-to-OneDrive-automatically-42a0202d-c944-4ebc-bb17-32d0082226f8).
+Tìm hiểu cách [tự động lưu video và ảnh vào OneDrive.](https://support.office.com/article/Save-photos-and-videos-to-OneDrive-automatically-42a0202d-c944-4ebc-bb17-32d0082226f8)

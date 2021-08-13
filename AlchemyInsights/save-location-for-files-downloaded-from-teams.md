@@ -1,5 +1,5 @@
 ---
-title: Lưu vị trí cho các tệp được tải xuống từ các nhóm
+title: Lưu vị trí cho các tệp được tải xuống từ Teams
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002461"
 - "4768"
-ms.openlocfilehash: b47b127fe2d65738e6e7ef4de98c6ae85d0995bf
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 9c522006f1bcfc8aef0405ecae9c66a4e743763729ea1eddfbca30197e62e812
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51797959"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54061706"
 ---
-# <a name="save-location-for-files-downloaded-from-teams"></a>Lưu vị trí cho các tệp được tải xuống từ các nhóm
+# <a name="save-location-for-files-downloaded-from-teams"></a>Lưu vị trí cho các tệp được tải xuống từ Teams
 
-Hiện tại, các tệp được tải xuống trong nhóm chỉ có thể lưu vào thư mục tải xuống của hồ sơ người dùng (ví dụ: C:\Users \<usesrname> \downloads).
+Hiện tại, tệp đã tải xuống trong Teams chỉ có thể được lưu vào thư mục Tải xuống của hồ sơ người dùng (ví dụ: C:\Người dùng \<usesrname> \Tải xuống).
 
-Bạn có thể đọc thêm về yêu cầu tính năng này và giúp ưu tiên yêu cầu bằng cách bỏ phiếu nó trong chuỗi thảo luận thoại của người dùng cho chủ đề này được tìm thấy [ở đây](https://microsoftteams.uservoice.com/forums/555103-public/suggestions/18693262-have-the-download-function-of-files-allow-you-to-s).
+Bạn có thể đọc thêm về yêu cầu tính năng này và giúp ưu tiên yêu cầu bằng cách tán thành yêu cầu trong chuỗi thảo luận User Voice dành cho chủ đề này được tìm thấy [ở đây.](https://microsoftteams.uservoice.com/forums/555103-public/suggestions/18693262-have-the-download-function-of-files-allow-you-to-s)
