@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001696"
 - "3773"
-ms.openlocfilehash: 9cd3b2e5c8d1bd336029e14051ebfe0eb069827d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a3b9fc034087db3e0c3910ae13a1af8c2e8f153e272f5f90d8b2efcc6afb8dbe
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51829038"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53944297"
 ---
 # <a name="permissions-in-microsoft-stream"></a>Quyền trong Microsoft Stream
 
-Theo mặc định, khi bạn tải video lên, các quyền được đặt cho video sẽ hiển thị cho toàn bộ công ty. Nếu bạn muốn chỉ định quyền đối với người dùng/nhóm cụ thể, bạn có thể tùy chỉnh quyền video.
+Theo mặc định, khi bạn tải video lên, các quyền được thiết lập để video được hiển thị cho toàn bộ công ty. Nếu bạn muốn chỉ định quyền cho người dùng/nhóm cụ thể, bạn có thể tùy chỉnh quyền video.
 
 - [Quyền và quyền riêng tư trong Microsoft Stream](https://docs.microsoft.com/stream/portal-permissions)
 

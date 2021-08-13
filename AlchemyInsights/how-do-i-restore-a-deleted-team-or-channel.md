@@ -1,5 +1,5 @@
 ---
-title: Làm thế nào để tôi khôi phục nhóm hoặc kênh đã xóa
+title: Làm thế nào để khôi phục nhóm hoặc kênh đã xóa
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,20 +13,20 @@ ms.custom:
 - "6500002"
 - "2650"
 - "2603"
-ms.openlocfilehash: e1f858cc6d42db4c165bd406ca71fdfa6ad77199
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d82a1f0ac2007e2c7472fc486754a7b144a8927d17ab0e6ffe0fed6fd2ddf4e4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51811190"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53927275"
 ---
 # <a name="how-to-restore-a-deleted-team-or-channel"></a>Cách khôi phục nhóm hoặc kênh đã xóa
 
-Đã xóa các kênh trong một nhóm có thể được khôi phục trong tối đa 21 ngày sau khi kênh đã bị xóa.
+Bạn có thể khôi phục các kênh đã xóa trong nhóm trong tối đa 21 ngày sau khi kênh bị xóa.
 
-Để khôi phục kênh đã xóa, chủ sở hữu nhóm có thể thực hiện như sau:
+Để phục hồi kênh đã xóa, chủ sở hữu nhóm có thể thực hiện như sau:
 
-1. Mở thiết đặt nhóm bằng cách chọn 3 chấm ở bên phải tên nhóm.
-2. Chọn **quản lý** các  >  **kênh** nhóm  >  **đã xóa**, rồi chọn **khôi phục** ở bên phải.
+1. Mở cài đặt nhóm bằng cách chọn 3 điểm ở bên phải tên nhóm.
+2. Chọn **Quản lý kênh**  >  **nhóm**  >  **đã** xóa , sau đó chọn Khôi **phục** ở bên phải.
 
-Để biết thêm thông tin về việc khôi phục nhóm, hãy xem [lưu trữ hoặc xóa nhóm trong Microsoft nhóm-Microsoft nhóm | ](https://docs.microsoft.com/microsoftteams/archive-or-delete-a-team#restore-a-deleted-team)Tài liệu Microsoft.
+Để biết thêm thông tin về việc khôi phục Nhóm, xem mục Lưu trữ hoặc [xóa nhóm trong Microsoft Teams - Microsoft Teams | Microsoft Docs](https://docs.microsoft.com/microsoftteams/archive-or-delete-a-team#restore-a-deleted-team).

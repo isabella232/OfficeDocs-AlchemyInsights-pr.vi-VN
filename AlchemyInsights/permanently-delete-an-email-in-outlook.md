@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001176"
 - "3137"
-ms.openlocfilehash: e9eee884a90d961a68f63aca73bce32da21fe1fd
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: b0aa1c016f229399f451655f691486c4618fce55d2952ea677edb902349dd270
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51836121"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53944405"
 ---
 # <a name="permanently-delete-an-email-in-outlook"></a>Xóa vĩnh viễn email trong Outlook
 
-- Từ dạng xem hộp thư đến, nhấn dài một tin nhắn và bạn sẽ thấy biểu tượng thùng rác. Gõ nhẹ vào biểu tượng này để xóa thư.
+- Từ dạng xem hộp thư đến, nhấn một thư rồi bạn sẽ thấy biểu tượng thùng rác. Gõ nhẹ vào biểu tượng này để xóa thư.
 
-- Bạn cũng có thể đặt "xóa" làm tùy chọn trượt nhanh (các **tùy chọn trượt nhanh > cài đặt**); sau đó, sử dụng ngón tay của bạn để trượt nhanh trên thư bạn muốn xóa bỏ. 
+- Bạn cũng có thể đặt "xóa" dưới dạng tùy chọn trượt nhanh **(tùy Cài đặt -> trượt nhanh**); sau đó trượt nhanh trên thư bạn muốn xóa bằng ngón tay. 
 
-- Để xóa bỏ thư khỏi một dạng xem email đang mở, hãy gõ nhẹ vào biểu tượng thùng rác ở phía trên cùng của màn hình. Thư đã xóa sẽ được di chuyển đến thư mục thùng rác của bạn. 
+- Để xóa thư khỏi dạng xem email đang mở, nhấn vào biểu tượng thùng rác ở đầu màn hình. Thư đã xóa sẽ được chuyển vào thư mục Thùng rác. 
 
 **Để xóa vĩnh viễn email**
 
-- Truy nhập vào thư mục thùng rác từ dạng xem thư, gõ nhẹ vào biểu tượng tài khoản (3 dòng) và gõ nhẹ vào thư mục thùng rác.
+- Truy nhập thư mục thùng rác từ dạng xem thư, nhấn vào biểu tượng tài khoản (3 dòng), rồi nhấn vào thư mục thùng rác.
 
-- Xóa email cá nhân hoặc đánh dấu nhiều email và xóa chúng khỏi đây; chúng sẽ bị xóa vĩnh viễn.
+- Xóa từng email hoặc đánh dấu nhiều email và xóa chúng khỏi đây; chúng sẽ bị xóa vĩnh viễn.

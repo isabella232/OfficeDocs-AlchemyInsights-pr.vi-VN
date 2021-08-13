@@ -1,5 +1,5 @@
 ---
-title: Cách Microsoft Edge sử dụng Microsoft Defender SmartScreen?
+title: Cách Microsoft Edge sử dụng SmartScreen của Bộ bảo vệ Microsoft?
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -15,17 +15,17 @@ ms.custom:
 - "6897"
 - "8331"
 - "9004625"
-ms.openlocfilehash: f03243ae6ff076920c4d5895b78931c26c9be675
-ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
+ms.openlocfilehash: b1b8125961c1033b58fa5d560de855e03c967718dffec65eba7ac59a66cd3f6e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "51398643"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53926951"
 ---
-# <a name="how-microsoft-edge-uses-microsoft-defender-smartscreen"></a>Cách Microsoft Edge sử dụng Microsoft Defender SmartScreen
+# <a name="how-microsoft-edge-uses-microsoft-defender-smartscreen"></a>Cách Microsoft Edge sử dụng SmartScreen của Bộ bảo vệ Microsoft
 
-Để giúp bạn an toàn hơn trên web, Microsoft Edge sẽ sử dụng Microsoft Defender SmartScreen làm hệ thống cảnh báo sớm đối với các trang web dẫn đến các cuộc tấn công lừa đảo và phân phối phần mềm độc hại thông qua các cuộc tấn công tập trung.
+Để giữ cho bạn an toàn trên web, Microsoft Edge sử dụng SmartScreen của Bộ bảo vệ Microsoft như một hệ thống cảnh báo sớm trước các trang web perpetrate cuộc tấn công lừa đảo qua mạng và phân phối phần mềm xấu thông qua các cuộc tấn công tập trung.
 
-Người quản trị có thể cấu hình Microsoft Defender SmartScreen bằng chính sách nhóm, Microsoft InTune hoặc thiết đặt quản lý thiết bị di động (MDM). Dựa trên cách bạn thiết lập Microsoft Defender SmartScreen, bạn có thể hiển thị một trang cảnh báo và cho phép họ tiếp tục đến trang hoặc chặn site hoàn toàn.
+Người quản trị có thể cấu SmartScreen của Bộ bảo vệ Microsoft thiết đặt bằng cách sử dụng Chính sách Nhóm, Microsoft Intune hoặc thiết đặt quản lý thiết bị di động (MDM). Dựa trên cách bạn thiết lập SmartScreen của Bộ bảo vệ Microsoft, bạn có thể hiển thị cho người dùng trang cảnh báo và cho phép họ tiếp tục đến site hoặc chặn hoàn toàn site.
 
-Để tìm hiểu thêm, hãy xem [hỗ trợ Microsoft Edge cho Microsoft Defender SmartScreen](https://go.microsoft.com/fwlink/?linkid=2133081) và [bảo vệ ứng dụng Microsoft Defender](https://go.microsoft.com/fwlink/?linkid=2132839).
+Để tìm hiểu thêm, hãy [xem Microsoft Edge hỗ trợ dành cho SmartScreen của Bộ bảo vệ Microsoft](https://go.microsoft.com/fwlink/?linkid=2133081) và [Tính năng Bảo vệ Ứng dụng của Bộ bảo vệ Microsoft.](https://go.microsoft.com/fwlink/?linkid=2132839)

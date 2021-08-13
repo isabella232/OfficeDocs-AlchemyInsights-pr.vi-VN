@@ -1,5 +1,5 @@
 ---
-title: Làm thế nào để tôi lưu các liên hệ Outlook vào ứng dụng liên hệ iOS của mình?
+title: Làm thế nào để tôi lưu danh bạ Outlook vào ứng dụng danh bạ iOS của mình?
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "3058"
 - "9001097"
-ms.openlocfilehash: 34603d90799951a8b567f75036370aa25a33ab2e
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 955c381d59b85150979efd1177d3f75802726bcfa7550cafee7eb0fb8e7381d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51811154"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53927239"
 ---
-# <a name="how-do-i-save-my-outlook-contacts-to-my-ios-contacts-app"></a>Làm thế nào để tôi lưu các liên hệ Outlook vào ứng dụng liên hệ iOS của mình?
+# <a name="how-do-i-save-my-outlook-contacts-to-my-ios-contacts-app"></a>Làm thế nào để tôi lưu danh bạ Outlook vào ứng dụng danh bạ iOS của mình?
 
-Để lưu các liên hệ Outlook vào sổ địa chỉ gốc của bạn:
+Để lưu các Outlook hệ của bạn vào sổ địa chỉ gốc của bạn:
  
-1. Đi đến liên hệ thiết **đặt thiết bị**  >   và xác nhận rằng **tài khoản mặc định** được đặt là **icloud**. Lưu ý rằng cài đặt này chỉ sẵn dùng nếu bạn có nhiều hơn một tài khoản được thêm vào thiết bị của bạn. Nếu không có tài khoản nào được kết nối với thiết bị, các liên hệ Outlook của bạn sẽ được lưu cục bộ nhưng sẽ không được đồng bộ với các thiết bị khác.
+1. Đi tới **Thiết bị Cài đặt** Hệ  >  **và** xác nhận rằng Tài **khoản Mặc định** được đặt **thành iCloud**. Lưu ý rằng cài đặt này chỉ sẵn dùng nếu bạn đã thêm nhiều tài khoản vào thiết bị của mình. Nếu không có tài khoản nào kết nối với thiết bị, các liên hệ Outlook của bạn sẽ được lưu cục bộ nhưng sẽ không được đồng bộ với các thiết bị khác.
  
-2. Mở Outlook for iOS và trong dẫn hướng bên trái, hãy chọn thiết đặt bánh răng, chọn **chọn tài khoản của bạn** và bật bật tắt của **lưu liên hệ** .
+2. Mở Outlook cho iOS và trong dẫn hướng bên trái, chọn hình bánh Cài đặt,  chọn Chọn tài khoản của bạn **,** rồi bật nút bật tắt Lưu liên hệ.
  
-Các liên hệ đã lưu sẽ được thêm vào bên dưới liên hệ trong tài khoản iCloud của bạn. Những liên hệ này sẽ đồng bộ với tất cả các thiết bị được đăng nhập bằng tài khoản iCloud đó. Lưu ý rằng bạn chỉ có thể xuất các liên hệ từ một thiết bị tại một thời điểm.
+Các liên hệ đã lưu sẽ được thêm vào bên dưới danh bạ trong tài khoản iCloud của bạn. Những liên hệ này sẽ đồng bộ với tất cả các thiết bị đã đăng nhập bằng cùng một tài khoản iCloud. Lưu ý rằng mỗi lần bạn chỉ có thể xuất danh bạ từ một thiết bị.
  
-Nếu người dùng có liên hệ-xuất đã bật, cả iPad và iPhone của họ sẽ cần bị vô hiệu hóa để tránh xung đột. Tính trùng lặp có thể mất 24 giờ để được gia nhập.
+Nếu người dùng đã bật tính năng xuất liên hệ, cả tên người dùng iPad và iPhone liên hệ của họ cần phải được tắt để tránh xung đột. Các trùng lặp có thể mất 24 giờ để điều hòa.

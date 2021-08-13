@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "2543"
 - "9000672"
-ms.openlocfilehash: f74e2c7697e040a17341794968fe901dfea0091f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 4e5b4a047c16a03997bce1e534a81933205b84c42c16d931214883fd2df72360
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51811010"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53927059"
 ---
 # <a name="share-a-form"></a>Chia sẻ biểu mẫu
 
-Để chia sẻ bài kiểm tra hoặc biểu mẫu trong Microsoft Forms, hãy xem [chia sẻ biểu mẫu để cộng tác](https://support.office.com/article/Share-a-form-to-collaborate-d5bb5cf0-8401-4c15-bb8c-8e108cd7e69b).
+Để chia sẻ một bài kiểm tra hoặc biểu mẫu trong Microsoft Forms, hãy [xem Chia sẻ biểu mẫu để cộng tác](https://support.office.com/article/Share-a-form-to-collaborate-d5bb5cf0-8401-4c15-bb8c-8e108cd7e69b).
 
-Để quản lý khả năng chia sẻ biểu mẫu bên ngoài, hãy xem [thiết lập biểu mẫu Microsoft](https://support.office.com/article/set-up-microsoft-forms-cc52287a-4550-464d-9a1b-457bf9df2240). 
+Để quản lý khả năng chia sẻ biểu mẫu ra bên ngoài, hãy [xem thiết lập Microsoft Forms](https://support.office.com/article/set-up-microsoft-forms-cc52287a-4550-464d-9a1b-457bf9df2240). 
 
-Để có một nối kết tóm tắt để chia sẻ kết quả với người khác:
+Để lấy nối kết tóm tắt để chia sẻ kết quả với người khác:
 
-1. Trên tab **phản hồi** , bấm vào nút dấu chấm lửng (**...**).
-3. Chọn **tạo liên kết tóm tắt**.
-4. Bấm **sao chép**.
+1. Trên tab **Phản hồi,** bấm vào nút dấu chấm ba chấm (**...**).
+3. Chọn **Tạo liên kết tóm tắt**.
+4. Bấm **Sao chép**.
 
-Bất kỳ ai mà bạn chia sẻ liên kết này có thể xem bản tóm tắt phản hồi cho biểu mẫu của bạn.
+Bất kỳ ai được bạn chia sẻ liên kết này đều có thể xem tóm tắt phản hồi cho biểu mẫu của bạn.

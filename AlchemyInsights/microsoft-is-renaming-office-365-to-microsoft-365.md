@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002346"
 - "4566"
-ms.openlocfilehash: 70e10e39fce4660ac755cb68322decfc9d4f0fc9
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 19d4fd7529a27b8dfa7b178f71be630b15dca27162969171c9d0f3bbf820d983
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823773"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53992718"
 ---
 # <a name="microsoft-is-renaming-office-365-to-microsoft-365"></a>Microsoft đang đổi tên Office 365 thành Microsoft 365
 
-Không có hành động nào cần thiết trên phần của bạn. Không có giá hoặc thay đổi về tính năng. Các ứng dụng và dịch vụ giống nhau sẵn dùng, chỉ với tên đã được Cập Nhật. Tên đăng ký của bạn sẽ tự động Cập Nhật trong tài liệu Microsoft, Trung tâm quản trị và câu lệnh thanh toán của bạn vào hoặc sau ngày 21 tháng 4, 2020.
+Không có hành động bắt buộc về phía bạn. Không có giá hoặc thay đổi tính năng. Các ứng dụng và dịch vụ tương tự đều sẵn dùng, chỉ có tên được cập nhật. Tên đăng ký của bạn sẽ tự động cập nhật trong tài liệu Microsoft, Trung tâm Quản trị và bản kê thanh toán của bạn vào hoặc sau ngày 21 tháng 4 năm 2020.
 
-Như một phần thay đổi tên, các thuê bao sau đây sẽ được đổi tên:
+Dưới đây là một phần của thay đổi tên, các đăng ký sau đây sẽ được đổi tên:
 
-- Office 365 Business Essentials sẽ trở thành Microsoft 365 Business BASIC.
+- Office 365 Business Essentials sẽ trở thành Microsoft 365 Business Basic.
 
-- Office 365 Business Premium sẽ trở thành tiêu chuẩn Microsoft 365 Business.
+- Office 365 Business Premium sẽ trở thành Microsoft 365 Business Standard.
 
-- Microsoft 365 Business sẽ trở thành Microsoft 365 Business Premium.
+- Microsoft 365 Doanh nghiệp sẽ trở thành Microsoft 365 Business Premium.
 
-- Office 365 Business sẽ trở thành các ứng dụng Microsoft 365 dành cho doanh nghiệp.
+- Office 365 Business sẽ trở thành Ứng dụng Microsoft 365 dành cho doanh nghiệp.
 
-- Office 365 ProPlus sẽ trở thành ứng dụng Microsoft 365 dành cho doanh nghiệp.
+- Office 365 ProPlus sẽ trở thành Ứng dụng Microsoft 365 dành cho doanh nghiệp lớn.

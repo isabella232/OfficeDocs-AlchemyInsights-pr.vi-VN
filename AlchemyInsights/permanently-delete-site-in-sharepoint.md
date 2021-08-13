@@ -11,23 +11,23 @@ ms.custom: ''
 ms.assetid:
 - "5200006"
 - "4391"
-ms.openlocfilehash: bde31f9b197118467ed96d665a9c8edf6b789965
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f461963c4a5719957258349d667731231023721ab3ee4641538c94371bf3f56d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47771743"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53944333"
 ---
 # <a name="permanently-delete-a-site-in-sharepoint"></a>Xóa vĩnh viễn một site trong SharePoint
 
-Để sử dụng lại một URL từ một site đã xóa (để tạo lại một site), hoặc để xóa vĩnh viễn một site vì không còn sử dụng được nữa, bạn có thể dùng **xóa vĩnh viễn** khỏi Trung tâm quản trị SharePoint mới. 
+Để tái sử dụng URL từ site đã xóa (để tạo lại site) hoặc xóa vĩnh viễn  một site vì site đó không còn được sử dụng, bạn có thể sử dụng Xóa Vĩnh viễn khỏi Trung tâm Quản trị SharePoint Mới. 
 
-1. Đi đến [trang site đã xóa của Trung tâm quản trị SharePoint mới](https://admin.microsoft.com/sharepoint?page=recycleBin&modern=true) và đăng nhập bằng tài khoản có quyền quản trị cho tổ chức của bạn. 
+1. Đi đến trang [Site đã xóa của trung tâm quản trị SharePoint mới](https://admin.microsoft.com/sharepoint?page=recycleBin&modern=true) và đăng nhập bằng tài khoản có quyền quản trị cho tổ chức của bạn. 
 
 2. Trong cột bên trái, hãy chọn một site. 
 
-3. Bấm **xóa vĩnh viễn**. 
+3. Bấm **Xóa Vĩnh viễn.** 
 
-**Lưu ý**: các site kết nối nhóm không thể bị xóa vĩnh viễn khỏi Trung tâm quản trị SharePoint mới. [Loại bỏ-SPODeletedSite](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-spodeletedsite) sẽ cần được sử dụng thay vào đó.  
+**Lưu** ý : Không thể xóa vĩnh viễn các site kết nối nhóm khỏi Trung tâm Quản SharePoint Mới. [Remove-SPODeletedSite](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-spodeletedsite) sẽ cần được dùng thay vào đó.  
 
-Để biết thêm thông tin, hãy xem mục [xóa vĩnh viễn một site](https://docs.microsoft.com/sharepoint/delete-site-collection#permanently-delete-a-site). 
+Để biết thêm thông tin, [hãy xem mục Xóa vĩnh viễn một site](https://docs.microsoft.com/sharepoint/delete-site-collection#permanently-delete-a-site). 
