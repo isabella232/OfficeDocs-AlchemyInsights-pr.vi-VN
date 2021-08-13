@@ -13,29 +13,29 @@ ms.custom:
 - "556"
 - "3500006"
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: 10e069f3fcd6338705a01ab9dd15574c81f88572
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d6fd683253dbf6c34a3cea61df2dd3387d8642a409682019aa62ef3b619e84aa
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51830235"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53913160"
 ---
-# <a name="switch-subscriptions-to-increase-mailbox-size"></a>Chuyển đổi thuê bao để tăng kích cỡ hộp thư
+# <a name="switch-subscriptions-to-increase-mailbox-size"></a>Chuyển đổi gói đăng ký để tăng kích cỡ hộp thư
 
-Nếu kích cỡ hộp thư của bạn đã được 100 GB, không có cách nào để tăng nó.
+Nếu kích cỡ hộp thư của bạn đã là 100 GB thì không có cách nào để tăng kích cỡ cho hộp thư.
   
-Nếu kích cỡ hộp thư là 50 GB, bạn có thể tăng nó lên 100 GB bằng cách chuyển sang [office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) hoặc [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software). Dưới đây là các bước để chuyển sang một đăng ký khác:
+Nếu kích cỡ hộp thư là 50 GB, bạn có thể tăng kích cỡ hộp thư lên 100 GB bằng cách chuyển sang [Office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) [hoặc Office 365 Enterprise E5.](https://products.office.com/business/office-365-enterprise-e5-business-software) Dưới đây là các bước để chuyển sang đăng ký khác:
   
-1. Trong Trung tâm quản trị Microsoft 365, hãy đến **thanh toán** \> trang **[sản phẩm của bạn](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
+1. Trong thanh Trung tâm quản trị Microsoft 365, hãy đi đến trang Thanh toán **Sản** \> **[phẩm của](https://go.microsoft.com/fwlink/p/?linkid=842054)** bạn.
 
 2. Chọn đăng ký mà bạn muốn nâng cấp.
 
-3. Trên trang chi tiết gói đăng ký, hãy chọn **nâng cấp**.
+3. Trên trang chi tiết đăng ký, chọn Nâng **cấp**.
 
-4. Tìm gói mà bạn muốn nâng cấp, rồi chọn nút **nâng cấp** .
+4. Tìm gói mà bạn muốn nâng cấp, rồi chọn nút **Nâng** cấp.
 
-5. Nhập số lượng giấy phép bạn cần, chọn có thanh toán mỗi tháng hoặc cho cả năm, rồi chọn **kiểm** xuất.
+5. Nhập số giấy phép bạn cần, chọn thanh toán hàng tháng hay cả năm, rồi chọn **Thanh toán**.
 
-Để biết thêm chi tiết, hãy xem mục [nâng cấp lên một gói khác](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
+Để biết thêm chi tiết, [hãy xem nâng cấp lên gói khác](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
 
-Nếu bạn có [thuê bao hỗ trợ lưu trữ tại chỗ](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description), bạn cũng có thể nhận được dung lượng lưu trữ email bổ sung bằng cách bật hộp thư lưu trữ. Hộp thư lưu trữ cung cấp cho bạn dung lượng lưu trữ bổ sung và cho phép bạn di chuyển, sao chép và tìm kiếm thư trong cả hộp thư chính và lưu trữ. Để biết các bước về cách bật hộp thư lưu trữ, hãy xem [bật hộp thư lưu trữ](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes).
+Nếu bạn có Đăng [ký hỗ trợ lưu trữ Tại](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description)chỗ, bạn cũng có thể nhận thêm dung lượng lưu trữ email bằng cách bật hộp thư lưu trữ. Hộp thư lưu trữ cung cấp cho bạn dung lượng lưu trữ bổ sung và cho phép bạn di chuyển, sao chép và tìm kiếm thư trong cả hộp thư chính và lưu trữ. Để biết các bước về cách bật hộp thư lưu trữ, hãy xem [mục Bật hộp thư Lưu trữ](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes).

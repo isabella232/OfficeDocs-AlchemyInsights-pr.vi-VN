@@ -1,5 +1,5 @@
 ---
-title: Thay đổi tên miền yammer mặc định
+title: Thay đổi miền mặc Yammer
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,33 +12,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002662"
 - "5162"
-ms.openlocfilehash: 6a7215ef7187e8dc6c834470b4724692b239efd4
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: dd29f2dc044fe4ee7f50acc6f0ca491d0ceb80bc360534de10d4010230614f80
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51818022"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53950138"
 ---
-# <a name="changing-the-defaultprimary-yammer-domain"></a>Thay đổi tên miền yammer mặc định/chính
+# <a name="changing-the-defaultprimary-yammer-domain"></a>Thay đổi miền mặc định/Yammer chính
 
-URL yammer chứa tên miền chính hiện tại cho mạng yammer của bạn. Tên miền này có thể không khớp với tên miền chính được đặt trong Office 365 hoặc Azure AD. Có sự khác biệt về hành vi dựa trên số lượng tên miền tùy chỉnh được thêm vào đối tượng thuê và liệu yammer nằm trong cấu hình được hỗ trợ (1 người thuê nhà: 1 mạng hoặc 1:1). Tài liệu hướng dẫn trên các [tên miền yammer và Office 365](https://docs.microsoft.com/yammer/configure-your-yammer-network/manage-yammer-domains) sẵn dùng.
+URL Yammer chứa tên miền chính hiện tại cho mạng Yammer bạn. Tên miền này có thể không khớp với tên miền chính được đặt trong Office 365 hoặc Azure AD. Có những khác biệt trong hành vi dựa trên số lượng tên miền riêng được thêm vào đối tượng thuê và liệu Yammer có ở cấu hình được hỗ trợ hay không (1 Đối tượng thuê: 1 Mạng hay 1:1). Có tài [liệu Yammer miền và địa Office 365](https://docs.microsoft.com/yammer/configure-your-yammer-network/manage-yammer-domains) khác.
 
-Lý do phổ biến nhất mà bạn nhìn thấy tên miền không chính xác là nhiều mạng yammer tồn tại và cần phải được hợp nhất. [Củng cố xuống một mạng duy nhất](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks) bằng cách sử dụng công cụ di chuyển mạng là một bước đầu tiên quan trọng. Hoàn thành điều này trước khi cố gắng đặt tên miền chính của bạn.
+Lý do phổ biến nhất khiến bạn thấy tên miền không chính xác là vì nhiều Yammer mạng đã tồn tại và cần được hợp nhất. [Hợp nhất thành một mạng duy nhất bằng cách sử](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks) dụng công cụ di chuyển mạng là một bước đầu tiên quan trọng. Hoàn thành việc này trước khi tìm cách đặt miền chính của bạn.
 
 **Không có tên miền riêng**
 
-Đối với người thuê mới, tên miền mặc định (ví dụ fabrikam.onmicrosoft.com) từ đối tượng thuê sẽ được sử dụng cho yammer. Tên miền chính được đặt thành yammer.com/fabrikam.onmicrosoft.com.
+Đối với các đối tượng thuê mới, miền mặc định (ví dụ: fabrikam.onmicrosoft.com) từ đối tượng thuê sẽ được sử dụng để Yammer. Miền chính được đặt thành miền yammer.com/fabrikam.onmicrosoft.com.
 
 **Tên miền riêng đơn**
 
-Yammer sẽ tự động chọn tên miền tùy chỉnh (ví dụ fabrikam.com) từ đối tượng thuê như tên miền chính trong yammer. Nó được đặt thành yammer.com/fabrikam.com. Thay đổi này được thực hiện bởi dịch vụ đồng bộ tên miền và có thể mất tới 24 giờ để có hiệu lực.
+Yammer sẽ tự động chọn tên miền riêng (ví dụ: fabrikam.com) từ đối tượng thuê làm miền chính trong Yammer. Nó được đặt thành Yammer.com/fabrikam.com. Thay đổi này do dịch vụ đồng bộ miền thực hiện và có thể mất đến 24 giờ để thay đổi có hiệu lực.
 
 **Nhiều tên miền riêng**
 
-Yammer có thể có tên miền chính khác với tên miền của đối tượng thuê mặc định. Vì có nhiều tên miền riêng, yammer không tìm cách đoán tên miền chính xác từ những mục này. Bạn cần mở một trường hợp hỗ trợ để yêu cầu tên miền chính được thay đổi thành tên miền chính của lựa chọn.
+Yammer thể có một tên miền chính khác với tên miền của đối tượng thuê mặc định. Vì có nhiều tên miền riêng, Yammer không thể đoán đúng tên miền từ những tên miền sẵn dùng. Bạn cần mở một trường hợp hỗ trợ để yêu cầu tên miền chính được thay đổi thành miền chính theo lựa chọn của bạn.
 
 **Thông tin khắc phục sự cố bổ sung**
 
-Trong một số trường hợp tên miền có thể đã được di chuyển giữa các đối tượng thuê và dịch vụ đồng bộ tên miền chưa thể chạy thành công. Bạn có thể gặp phải sự cố đăng nhập hoặc các vấn đề khác, ngoài tên miền chính không chính xác. Để giải quyết sự cố này, các tên miền có thể cần được di chuyển đến đúng mạng với sự trợ giúp từ Microsoft support. Tình huống này đòi hỏi phải có hỗ trợ trực tiếp và có thể mất một thời gian để giải quyết, đặc biệt là nếu có một danh sách các tên miền rất dài. Mở một trường hợp hỗ trợ để nhận trợ giúp giải quyết các kiểu vấn đề này.
+Trong một số trường hợp, miền có thể đã được di chuyển giữa các đối tượng thuê và dịch vụ đồng bộ miền vẫn chưa thể chạy thành công. Ngoài tên miền chính không chính, bạn có thể gặp phải sự cố đăng nhập hoặc các sự cố khác. Để giải quyết sự cố này, bạn có thể cần di chuyển miền tới mạng chính xác với sự trợ giúp từ Bộ trợ giúp Của Microsoft. Tình huống này đòi hỏi sự hỗ trợ trực tiếp và có thể mất một chút thời gian để giải quyết, đặc biệt là nếu có một danh sách tên miền rất dài. Mở một trường hợp hỗ trợ để được hỗ trợ giải quyết các loại sự cố này.
 
-Khi làm việc với một nhân viên hỗ trợ, họ sẽ kiểm tra xem tên miền đó được xác nhận trên một người thuê bên dưới điều khiển của bạn. Họ có thể yêu cầu thêm các câu hỏi xác thực về tên miền của bạn nếu chúng được thêm vào đối tượng thuê của bạn nhưng không được xác nhận bởi DNS. Vui lòng đảm bảo rằng các tên miền được xác nhận bởi DNS để tăng tốc quá trình.
+Khi làm việc với nhân viên hỗ trợ, họ sẽ kiểm tra để xác minh miền trên đối tượng thuê thuộc quyền kiểm soát của bạn. Họ có thể đặt câu hỏi xác minh bổ sung về tên miền của bạn nếu chúng được thêm vào đối tượng thuê của bạn nhưng không được xác minh bởi DNS. Vui lòng đảm bảo rằng miền được xác minh bằng DNS để tăng tốc quy trình.

@@ -1,5 +1,5 @@
 ---
-title: Khôi phục site con đã xóa
+title: Khôi phục một trang con đã xóa
 ms.author: pebaum
 author: bentoncity
 manager: scotv
@@ -12,23 +12,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 646fe22b-9980-4970-800b-034788de0c7f
-ms.openlocfilehash: 1f5db1349d2029715e9994f2872bf85cac14646b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 458cba655675f9c1f06814a71fa97128786d1d9676c29aefdfd752c2d26917d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795626"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53958751"
 ---
-# <a name="restore-a-deleted-sharepoint-subsite"></a>Khôi phục site phụ SharePoint đã xóa
+# <a name="restore-a-deleted-sharepoint-subsite"></a>Khôi phục một trang SharePoint con đã xóa
 
-Các site con đã xóa được gửi đến thùng rác của tuyển tập site, nơi chúng được lưu trữ trong 93 ngày. Để khôi phục site con đã xóa:
+Các site con đã xóa sẽ được gửi tới Thùng Rác của tuyển tập site, ở đó chúng được giữ lại trong 93 ngày. Để khôi phục một trang con đã xóa:
   
-1. Trong Trung tâm quản trị SharePoint mới, hãy tìm site mà từ đó site con bị xóa bỏ và đảm bảo rằng bạn là người quản trị tuyển tập site. 
+1. In the new SharePoint admin center, find the site from which the subsite was deleted and make sure you're a site collection admin. 
     
-2. Đi đến trang. Bấm **thùng rác** trong ngăn bên trái. (Nếu bạn không nhìn thấy thùng rác, hãy bấm vào biểu tượng thiết đặt, rồi bấm **nội dung site**. Thùng rác nằm ở xa bên phải của thanh lệnh ở trên cùng.)
+2. Đi đến site. Bấm **vào Thùng rác** ở ngăn bên trái. (Nếu bạn không thấy Thùng rác, hãy bấm vào biểu tượng Cài đặt, rồi bấm vào Nội **dung site.** Thùng Rác nằm ở phía xa bên phải của thanh lệnh ở phía trên cùng.)
     
-3. Ở cuối trang, hãy bấm **thùng rác giai đoạn thứ nhì**.
+3. Ở cuối trang, bấm vào Thùng **rác giai đoạn thứ nhì.**
     
-4. Bấm vào bên trái của site con, rồi bấm vào **khôi phục**.
+4. Bấm vào bên trái của trang con, rồi bấm vào Khôi **phục.**
     
 

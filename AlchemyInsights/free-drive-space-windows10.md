@@ -15,47 +15,47 @@ ms.custom:
 - "9774"
 - "9005390"
 - "9005403"
-ms.openlocfilehash: 2313636307bfddce2810c2d4c4ce9e3b407a7bdf
-ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
+ms.openlocfilehash: c7d29ab718be8dbdcde61a7de2f158fb3bbd722d2964d8b13cde9936dd1e5ee1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51505378"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53928103"
 ---
 # <a name="free-up-drive-space-in-windows-10"></a>Giải phóng dung lượng ổ đĩa trong Windows 10
 
 Dưới đây là hai tùy chọn để giải phóng dung lượng ổ đĩa trong Windows:
 
 - Giải phóng dung lượng ổ đĩa trong Windows 10.
-- Giải phóng dung lượng cho các bản cập nhật Windows 10 với thiết bị lưu trữ bên ngoài.
+- Giải phóng dung lượng cho các bản Windows 10 nhật với thiết bị lưu trữ bên ngoài.
 
-Nếu bạn vẫn có dung lượng ổ đĩa thấp sau khi sử dụng dọn dẹp ổ đĩa, có thể là thư mục TEMP của bạn sẽ nhanh chóng được điền với các tệp ứng dụng (. appx) được Microsoft Store sử dụng. Để khắc phục sự cố này, hãy đặt lại cửa hàng, xóa bộ đệm ẩn lưu trữ, sau đó chạy trình khắc phục sự cố Windows Update. Đảm bảo rằng Microsoft Store sẽ được đóng lại trước khi bạn tiếp tục thực hiện các bước này.
+Nếu bạn vẫn còn dung lượng đĩa thấp sau khi sử dụng tính năng Dọn Đĩa, có thể thư mục Temp của bạn sẽ nhanh chóng được điền vào với các tệp ứng dụng (.appx) mà người dùng Microsoft Store. Để khắc phục sự cố này, hãy đặt lại Store, xóa bộ đệm ẩn Store, rồi chạy Trình khắc phục Windows nhật Ứng dụng. Hãy đảm bảo bạn Microsoft Store đóng lại trước khi tiếp tục các bước này.
 
-**Bước 1: đặt lại Microsoft Store**
+**Bước 1: Đặt lại Microsoft Store**
 
-**Ghi chú** Việc này sẽ xóa vĩnh viễn dữ liệu ứng dụng trên thiết bị, bao gồm các tùy chọn và chi tiết đăng nhập của bạn.
+**Lưu ý** Điều này sẽ xóa vĩnh viễn dữ liệu ứng dụng trên thiết bị, bao gồm các tùy chọn và chi tiết đăng nhập của bạn.
 
-1. Chọn thiết đặt **bắt đầu** ứng dụng  >    >  **ứng** dụng  >  **& các tính năng**.
+1. Chọn **Bắt đầu**  >  **Cài đặt**  >  **ứng dụng Apps** để & năng  >  **mới**.
 
 1. Trong danh sách ứng dụng, định vị và chọn Microsoft Store.
 
-1. Chọn **tùy chọn nâng cao**.
+1. Chọn Tùy **chọn nâng cao**.
 
-1. Cuộn xuống và chọn **đặt lại**, rồi **xác nhận đặt lại**.
+1. Cuộn xuống và chọn **Đặt lại**, sau đó chọn Xác nhận **Đặt lại**.
 
-**Bước 2: xóa bộ đệm ẩn Microsoft Store**
+**Bước 2: Xóa bộ đệm Microsoft Store ẩn**
 
-1. Nhấn phím logo Windows + R để mở hộp thoại chạy.
+1. Nhấn phím Windows Logo + R để mở hộp thoại Chạy.
 
-1. Nhập wsreset.exe và chọn **OK**.
+1. Nhập wsreset.exe, rồi chọn **OK.**
 
-1. Cửa sổ dấu nhắc lệnh trống mở ra. Sau khoảng 10 giây, cửa sổ sẽ đóng lại và cửa hàng mở ra tự động.
+1. Cửa sổ Dấu nhắc Lệnh trống sẽ mở ra. Sau khoảng 10 giây, cửa sổ sẽ đóng và Store sẽ tự động mở ra.
 
-**Bước 3: đặt lại Windows Update**
+**Bước 3: Đặt lại Windows Cập nhật**
 
-1. Chọn **bắt đầu**  >    >  **Cập Nhật** cài đặt &  >  **khắc phục sự cố** bảo mật.
+1. Chọn **Bắt đầu Cài đặt**  >  **cập** nhật & sự cố  >  **bảo**  >  **mật**.
 
-1. Cuộn xuống và chọn **Windows Update** từ danh sách, rồi chọn **chạy trình** khắc phục sự cố.
+1. Cuộn xuống, rồi **chọn Windows Cập nhật** từ danh sách, rồi chọn Chạy bộ hướng dẫn giải quyết trục **trặc**.
 
-1. Khởi động lại máy tính của bạn và kiểm tra xem bạn vẫn đang gặp sự cố.
+1. Khởi động lại máy tính của bạn và kiểm tra xem bạn vẫn gặp phải sự cố hay không.
 
