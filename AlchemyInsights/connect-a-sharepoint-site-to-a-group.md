@@ -1,5 +1,5 @@
 ---
-title: Kết nối site SharePoint với nhóm
+title: Kết nối chuyển SharePoint Site vào một Nhóm
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,21 +14,21 @@ ms.custom:
 - "5747"
 - "5200004"
 - "5767"
-ms.openlocfilehash: 9845a0009b62157c4735c9864441a1a597c25108
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 738d0f57b9b9dac5ed343037579a23d6d217f58b07da9730eb0bd08bc78c25e6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51817086"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53915429"
 ---
-# <a name="connect-a-sharepoint-site-to-a-group"></a>Kết nối site SharePoint với nhóm
+# <a name="connect-a-sharepoint-site-to-a-group"></a>Kết nối chuyển SharePoint Site vào một Nhóm
 
-Sử dụng trình hướng dẫn kết nối nhóm để kết nối một site SharePoint với nhóm Microsoft 365.
+Sử dụng trình hướng dẫn kết nối nhóm để kết nối SharePoint Site nhóm với nhóm Microsoft 365 Nhóm.
 
-1. Từ trang bạn muốn kết nối với một nhóm, hãy chọn  **thiết đặt (biểu tượng bánh răng)**.
-2. Chọn  **kết nối với nhóm Microsoft 365 mới**.
-3. Làm theo trình hướng dẫn để hoàn tất việc kết nối.
+1. Từ site mà bạn muốn kết nối với một nhóm, hãy chọn một Cài đặt **(biểu tượng bánh răng)**.
+2. Chọn **Kết nối đến Nhóm Microsoft 365 mới.**
+3. Làm theo trình hướng dẫn để hoàn tất kết nối.
 
-**Lưu ý:**  Nếu kết nối với nhóm Microsoft 365 mới không sẵn dùng, site sẽ không hỗ trợ kết nối nhóm.
+**Lưu ý:**  Nếu Kết nối nhóm Microsoft 365 sẵn dùng, site sẽ không hỗ trợ kết nối nhóm.
 
-Để biết thêm thông tin, hãy xem  [kết nối với một nhóm Office 365](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group).
+Để biết thêm thông tin, [Kết nối xem mục Office 365 nhóm .](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group)

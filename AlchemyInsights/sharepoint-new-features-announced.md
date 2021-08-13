@@ -1,5 +1,5 @@
 ---
-title: Các tính năng của SharePoint mới được thông báo
+title: SharePoint các tính năng mới được thông báo
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,17 +9,17 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3e0c8c7f-261a-41d1-9ca3-be4a1d4ebd9a
-ms.openlocfilehash: c54f2dd93d129db21a279de65096dfe9b3f17646
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 31d6370b3f9232efa282426799293a08a45c638077ef60ad00bd11140e4c3d1e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800558"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54093944"
 ---
-# <a name="sharepoint-new-features-announced"></a>Các tính năng của SharePoint mới được thông báo
+# <a name="sharepoint-new-features-announced"></a>SharePoint các tính năng mới được thông báo
 
-Tại hội thảo Ignite 2018, Microsoft đã thông báo những sáng kiến mới cho SharePoint, bao gồm các tính năng mới cho các cổng thông tin hiện đại, các phần web mới, có nhiều cải tiến để Hub site, Link tin tức, mục tiêu của khán giả, tính sẵn sàng của các ứng dụng di động mới, kết nối với nhóm và nhiều hơn nữa...
+Tại hội thảo Ignite 2018, Microsoft đã thông báo các cải tiến mới cho SharePoint, bao gồm các tính năng mới dành cho cổng thông tin hiện đại, các phần web mới, nhiều cải tiến cho site hub, liên kết tin tức, hướng tới người xem, tính sẵn có của các ứng dụng dành cho thiết bị di động mới, kết nối với Teams và hơn thế nữa...
   
-Để biết thêm thông tin về các tính năng này, hãy xem bài đăng blog [sáng kiến mới trong SharePoint &amp; Microsoft 365 cung cấp quyền lực và đơn giản cho việc cộng tác nội dung.](https://go.microsoft.com/fwlink/?linkid=2026502)
+Để biết thêm thông tin về các tính năng này, hãy xem bài đăng blog Các cải tiến mới trong SharePoint Microsoft 365 mang lại sức mạnh và sự đơn giản [cho việc cộng tác nội &amp; dung.](https://go.microsoft.com/fwlink/?linkid=2026502)
   
-Tổ chức của bạn có thể tham gia vào chương trình phát hành mục tiêu để có quyền truy nhập sớm vào các tính năng mới. Xem [thiết lập các tùy chọn bản phát hành tiêu chuẩn hoặc mục tiêu trong Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/manage/release-options-in-office-365).
+Tổ chức của bạn có thể tham gia chương trình Bản phát hành Mục tiêu để có quyền truy nhập sớm vào các tính năng mới. Xem mục [Thiết lập tùy chọn Bản phát hành mục tiêu hoặc Bản phát hành tiêu chuẩn trong Microsoft 365.](https://docs.microsoft.com/microsoft-365/admin/manage/release-options-in-office-365)

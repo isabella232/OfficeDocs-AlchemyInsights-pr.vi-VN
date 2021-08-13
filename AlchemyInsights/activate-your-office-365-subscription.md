@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500028"
 - "4744"
-ms.openlocfilehash: 0f74627ff414e8050d60d40dd6299a2cb02c981d
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: be0086b8c2e1907d28e81227b82ade09fc46c1ed4749a50ac0c776eb431ece56
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52542735"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53937771"
 ---
 # <a name="activate-your-subscription"></a>Kích hoạt đăng ký của bạn
 
@@ -29,7 +29,7 @@ ms.locfileid: "52542735"
 
 **Kích hoạt lại đăng ký**
 
-Nếu đăng ký của bạn hết hạn hoặc bị Microsoft vô hiệu hóa hoặc nếu bạn đã hủy bỏ đăng ký trong thời hạn đăng ký thì bạn có thể kích hoạt lại đăng ký trong Trung tâm quản trị Microsoft 365.
+Nếu đăng ký của bạn hết hạn hoặc bị Microsoft vô hiệu hóa hoặc nếu bạn đã hủy bỏ đăng ký trong thời hạn đăng ký thì bạn có thể kích hoạt lại đăng ký trong trung tâm của Trung tâm quản trị Microsoft 365.
 
 1. Trong trung tâm quản trị, đi đến trang Thanh toán  >  [Sản phẩm của](https://go.microsoft.com/fwlink/p/?linkid=842054) bạn.
 2. Trên tab **Sản** phẩm, hãy tìm đăng ký mà bạn muốn kích hoạt lại. Chọn ba dot (hành động khác), sau đó chọn **Kích hoạt lại đăng ký này**.
