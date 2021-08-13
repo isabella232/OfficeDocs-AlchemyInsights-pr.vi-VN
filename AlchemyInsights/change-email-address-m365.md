@@ -1,5 +1,5 @@
 ---
-title: Thay đổi địa chỉ email của một nhóm Microsoft 365 hoặc Microsoft nhóm
+title: Thay đổi địa chỉ email của Microsoft 365 hoặc nhóm Microsoft Teams
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200024"
 - "4704"
-ms.openlocfilehash: 7800a447c5dfcc8397121e1149921916ff7944ac
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: acb343553bfb7e100c03d0e7046ed5cbdd6b739b9a61e3faf17768bd8aadff34
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819102"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53995644"
 ---
-# <a name="change-email-address-of-a-microsoft-365-group-or-microsoft-teams"></a>Thay đổi địa chỉ email của một nhóm Microsoft 365 hoặc Microsoft nhóm
+# <a name="change-email-address-of-a-microsoft-365-group-or-microsoft-teams"></a>Thay đổi địa chỉ email của Microsoft 365 hoặc nhóm Microsoft Teams
 
-Bạn có thể thay đổi địa chỉ email của một nhóm Microsoft 365 hoặc các nhóm Microsoft bằng cách sử dụng [Trung tâm quản trị microsoft 365](https://admin.microsoft.com/). Chỉ cần chọn Nhóm và chọn @edit địa chỉ email.
+Bạn có thể thay đổi địa chỉ email của một nhóm Microsoft 365 hoặc Microsoft Teams bằng cách [sử](https://admin.microsoft.com/)dụng Trung tâm quản trị Microsoft 365. Chỉ cần chọn nhóm và chọn @edit chỉ email.
 
-Bạn cũng có thể sử dụng lệnh EXO PowerShell sau đây để thay đổi địa chỉ SMTP chính của một nhóm Microsoft 365/Nhóm:
+Bạn cũng có thể sử dụng lệnh EXO PowerShell sau đây để thay đổi địa chỉ SMTP chính của một nhóm Microsoft 365/Teams:
 
 `Set-UnifiedGroup <Group Name> -PrimarySmtpAddress <new SMTP Address>`
 
-Mẫu
+Ví dụ:
 
 `Set-UnifiedGroup Marketing -PrimarySmtpAddress marketing@contoso.com`

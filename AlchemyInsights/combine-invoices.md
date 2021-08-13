@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002546"
 - "4959"
-ms.openlocfilehash: a9f3fe8a8e223430e5cde29013b764bad05bd1b5
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 61c1cd6dd884f3a52ca4eb3dace6acf7240f8072e0dcedee373097129dbfce57
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51817698"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53995608"
 ---
 # <a name="combine-invoices"></a>Kết hợp hóa đơn
 
-Khả năng hợp nhất tất cả các hóa đơn đăng ký được mua vào các ngày khác nhau thành một hóa đơn **chưa sẵn dùng**. Các đăng ký đã mua tại ngày chính xác cùng xuất hiện trong một hóa đơn.
+Khả năng hợp nhất tất cả các hóa đơn đăng ký đã mua vào các ngày khác nhau thành một hóa đơn **duy nhất vẫn chưa sẵn dùng.** Các đăng ký đã mua vào cùng một ngày chính xác sẽ xuất hiện trong một hóa đơn duy nhất.
 
-Giải pháp thay **thế: để** có được một hóa đơn cho các thuê bao khác nhau, bạn cần hủy bỏ đăng ký đầu tiên, vì những người được mua vào các ngày khác nhau. Sau đó, thêm đăng ký vào giỏ hàng của bạn và mua chúng cùng nhau. Sau khi hoàn tất, bạn sẽ nhận được một hóa đơn cho tất cả các thuê bao.
+**Giải pháp thay thế:** Để nhận được một hóa đơn duy nhất cho các thuê bao khác nhau, trước tiên bạn cần hủy bỏ các thuê bao, vì chúng đã được mua vào những ngày khác nhau. Sau đó, thêm các đăng ký vào giỏ hàng của bạn và mua chúng cùng nhau. Sau khi hoàn tất, bạn sẽ nhận được một hóa đơn duy nhất cho tất cả các đăng ký.

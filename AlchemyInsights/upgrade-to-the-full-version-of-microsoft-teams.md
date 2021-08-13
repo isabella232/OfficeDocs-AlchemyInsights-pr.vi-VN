@@ -1,5 +1,5 @@
 ---
-title: Nâng cấp lên phiên bản đầy đủ của Microsoft các nhóm
+title: Nâng cấp lên phiên bản đầy đủ của Microsoft Teams
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,19 +12,19 @@ ms.custom:
 - "933"
 - "6500004"
 ms.assetid: 86e9b860-d4b2-495c-a135-5c7ecb8e6192
-ms.openlocfilehash: 94249c294c095fe14c8193451275de44d21ff90e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bb507bedd059b6baf23b471b0fc2d75234cfab4e41eba655a83a645c65669680
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47808369"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53919625"
 ---
-# <a name="upgrade-to-the-full-version-of-microsoft-teams"></a>Nâng cấp lên phiên bản đầy đủ của Microsoft các nhóm
+# <a name="upgrade-to-the-full-version-of-microsoft-teams"></a>Nâng cấp lên phiên bản đầy đủ của Microsoft Teams
 
-Bạn cần nâng cấp từ phiên bản miễn phí sang phiên bản đầy đủ của Microsoft? Xem [nâng cấp Microsoft nhóm miễn phí cho phiên bản đăng ký microsoft 365](https://docs.microsoft.com/microsoftteams/upgrade-freemium)
+Bạn cần nâng cấp từ phiên bản miễn phí lên phiên bản đầy đủ của Microsoft Teams? Xem [mục Nâng Microsoft Teams lên phiên bản Microsoft 365 ký miễn phí](https://docs.microsoft.com/microsoftteams/upgrade-freemium)
 
-Bạn sẽ cần phải đáp ứng các yêu cầu sau:
+Bạn sẽ cần đáp ứng các yêu cầu sau:
 
-- Bạn là người đăng ký cho phiên bản miễn phí hiện tại của nhóm.
-- Nếu bạn có tên miền riêng của mình, nó không được liên kết với Azure Active Directory.
-- Để chuyển dữ liệu khi bạn nâng cấp, bạn phải đăng ký trong quá trình nâng cấp. Nếu bạn đã mua đăng ký bên ngoài quy trình nâng cấp, bạn không thể truyền dữ liệu.
+- Bạn là người đã đăng ký phiên bản miễn phí hiện tại của Teams.
+- Nếu bạn có tên miền riêng của mình, thì tên miền đó không thể được liên kết với tên miền Azure Active Directory.
+- Để truyền dữ liệu khi nâng cấp, bạn phải đăng ký trong quá trình nâng cấp. Nếu bạn đã mua đăng ký bên ngoài quy trình nâng cấp, bạn không thể truyền dữ liệu.

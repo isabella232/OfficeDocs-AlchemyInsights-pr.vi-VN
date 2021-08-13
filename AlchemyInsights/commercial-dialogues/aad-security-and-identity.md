@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004167"
 - "7299"
-ms.openlocfilehash: 03821a5a0b4ee283c0f0fa8a1bb81e88941ed0aa
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 2495ded9e8ddc6528aca99e548c37a3bc209ac5916ba5326b15c8ff4fab46ded
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50483529"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53995463"
 ---
 # <a name="azure-active-directory-security-and-identity"></a>Azure Active Directory (bảo mật và danh tính)
 
 Chọn một trong các hướng dẫn thiết lập sau đây:
 
-- **Azure Active Directory kết nối** [người dùng đồng bộ vào danh bạ của bạn](https://go.microsoft.com/fwlink/?linkid=2071310) đặt cấu hình đồng bộ hóa hash mật khẩu hoặc thông qua xác thực, vì vậy người dùng của bạn có thể đăng nhập vào email của họ và đến Active Directory tại chỗ (Domain Controller) bằng cùng một mật khẩu. Bạn cũng có thể thiết lập đăng nhập liên kết với các dịch vụ liên kết Active Directory (AD FS).
+- **Azure Active Directory Kết nối** [](https://go.microsoft.com/fwlink/?linkid=2071310) Đồng bộ người dùng với thư mục của bạn Đặt cấu hình đồng bộ hóa băm mật khẩu hoặc xác thực thông qua để người dùng của bạn có thể đăng nhập vào email của họ và vào Active Directory tại chỗ của bạn (bộ kiểm soát miền) bằng cùng một mật khẩu. Bạn cũng có thể thiết lập đăng nhập liên kết bằng Dịch vụ Liên kết Active Directory (AD FS).
 
-- Thiết lập các tính **năng AZURE** [AD Guide](https://go.microsoft.com/fwlink/?linkid=2134390) thiết lập thiết lập các tính năng nâng cao sẵn dùng trong Azure Active Directory Premium, chẳng hạn như xác thực đa yếu tố, đăng ký thiết bị và giám sát bảo mật.
+- **Thiết lập hướng dẫn** thiết lập các tính năng Azure [AD](https://go.microsoft.com/fwlink/?linkid=2134390) Thiết lập các tính năng nâng cao sẵn dùng trong Azure Active Directory Premium như xác thực đa yếu tố, đăng ký thiết bị và giám sát bảo mật.

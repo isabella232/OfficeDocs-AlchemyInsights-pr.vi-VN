@@ -1,5 +1,5 @@
 ---
-title: Chú thích về các mục trong danh sách
+title: Chú thích trên Mục danh sách
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003821"
 - "6841"
-ms.openlocfilehash: 2ee95e98aae3d9ec9a933f9cae234111d4285edd
-ms.sourcegitcommit: 2eb1dd0856509b9907ccba9a5cb99d09b4f6eb4b
+ms.openlocfilehash: d72e3de6da9f51ebd5dd8a4eb06e94d7bc5cca81f86bd61902a9587b00f7b7b0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 12/21/2020
-ms.locfileid: "49724176"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53995529"
 ---
-# <a name="comments-on-list-items"></a>Chú thích về các mục trong danh sách
+# <a name="comments-on-list-items"></a>Chú thích trên Mục danh sách
 
-Người dùng có thể xem tất cả chú thích trên mục danh sách và bộ lọc giữa các dạng xem Hiển thị chú thích hoặc hoạt động liên quan đến một mục.
+Người dùng có thể xem tất cả chú thích trên một mục danh sách và lọc giữa các dạng xem hiện chú thích hoặc hoạt động liên quan đến một mục.
 
-Người dùng cần lưu ý những điều sau đây trước khi có thể thêm và xóa chú thích:
+Người dùng cần lưu ý những điều sau đây trước khi họ có thể thêm và xóa chú thích:
 
-- Chú thích theo các thiết đặt quyền vốn có trong SharePoint.
-- Các danh sách cổ điển chưa được xây dựng để hiển thị trong giao diện người dùng hiện đại, chẳng hạn như danh sách nhiệm vụ, sẽ không có tính năng chú thích này.
-- Chú thích trong các danh sách trong nhóm không sẵn dùng với bản phát hành này.
-- Chú thích không được lập chỉ mục theo tìm kiếm.
+- Chú thích tuân theo thiết đặt quyền vốn có trong SharePoint.
+- Danh sách cổ điển chưa được xây dựng để hiển thị trong giao diện người dùng hiện đại, như danh sách tác vụ, sẽ không có tính năng chú thích này.
+- Chú thích về danh sách trong Teams sẵn dùng trong bản phát hành này.
+- Chú thích không được lập chỉ mục bởi Tìm kiếm.
 
-Người quản trị có thể tắt tính năng này ở cấp độ tổ chức bằng cách thay đổi tham số **Commentsonlistitemsdisabled** trong lệnh ghép ngắn **Set-spothuê** PowerShell.
+Người quản trị có thể tắt tính năng này ở cấp độ tổ chức bằng cách thay đổi tham số **CommentsOnListItemsDisabled** trong lệnh ghép ngắn **Set-SPOTenant** PowerShell.
 
-Hiện tại bạn không thể tắt cho chú thích ở mức trang hoặc danh sách. Chúng tôi hy vọng sẽ có những điều khiển này trong bản Cập Nhật sau này, có khả năng là quý i đầu tiên 2021.
+Hiện không thể tắt chú thích ở mức site hoặc danh sách. Chúng tôi hy vọng sẽ có các điều khiển đó trong bản cập nhật sau, có khả năng là trong quý một năm 2021.

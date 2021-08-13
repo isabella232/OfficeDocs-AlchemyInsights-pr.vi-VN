@@ -1,5 +1,5 @@
 ---
-title: 607 rảnh/bận trình khắc phục sự cố
+title: Trình khắc phục sự cố Rảnh/Bận 607
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,15 +13,15 @@ ms.custom:
 - "607"
 - "3800005"
 ms.assetid: 69e8da45-4d29-48ea-8279-d35313367216
-ms.openlocfilehash: 69a89f4a18008024bae1d24d23933276c57f189f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 82ffc520211180da8118fd357f12b3559ec7eb43cc0329ad4f7e58f42bd8c3eb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47708057"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53987705"
 ---
-# <a name="troubleshooting-steps-for-calendar-availability-freebusy"></a>Các bước khắc phục sự cố cho tính khả dụng của lịch (rảnh/bận)
+# <a name="troubleshooting-steps-for-calendar-availability-freebusy"></a>Các bước khắc phục sự cố về tính khả dụng của lịch (Rảnh/Bận)
 
-Thông thường công cụ tốt nhất để khắc phục sự cố/các vấn đề bận rộn là bộ phân [tích kết nối từ xa của Exchange (RCA)](https://testconnectivity.microsoft.com/Default.aspx?testId=freeBusy) để xem vị trí không có. RCA sẽ cung cấp cho bạn bản ghi chi tiết về những gì đã làm việc và những gì không thành công với các thông báo lỗi cụ thể mà bạn có thể tìm kiếm giải pháp. Nó cũng có một nối kết đến công cụ [Trợ giúp phục hồi và hỗ trợ của Microsoft](https://diagnostics.office.com/).
+Thông thường, công cụ tốt nhất để khắc phục sự cố Rảnh/Bận là Trình phân tích Kết nối Từ xa [Exchange (RCA)](https://testconnectivity.microsoft.com/Default.aspx?testId=freeBusy) để xem vị trí mà nó gặp thất bại. RCA sẽ cung cấp cho bạn bản ghi chi tiết về những lỗi hoạt động và sự cố không thành công với thông báo lỗi cụ thể mà bạn có thể tra cứu để tìm giải pháp. Trình này cũng có liên kết đến [Microsoft Công cụ Trợ giúp Phục hồi và Hỗ trợ.](https://diagnostics.office.com/)
 
-Một công cụ tốt khác để thử là [công cụ kiểm tra lịch cho Outlook](https://www.microsoft.com/download/details.aspx?id=28786) nếu người dùng có Outlook.
+Một công cụ tốt khác để thử là [Công cụ Kiểm tra Lịch để Outlook](https://www.microsoft.com/download/details.aspx?id=28786) nếu người dùng đã Outlook.

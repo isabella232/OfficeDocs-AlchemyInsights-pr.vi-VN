@@ -1,5 +1,5 @@
 ---
-title: Pin sẽ không tính phí
+title: Pin sẽ không sạc
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,36 +12,36 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002952"
 - "5654"
-ms.openlocfilehash: fab76114044f71d60dbaf812cd2cd0cc75c8169c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 6d072e4be2465c7744c0862b8b3e755274f3b03d0d6058c0c9f7bf23bef8abbd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820488"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53979551"
 ---
-# <a name="battery-wont-charge"></a>Pin sẽ không tính phí
+# <a name="battery-wont-charge"></a>Pin sẽ không sạc
 
-Trước tiên, hãy đảm bảo rằng các kết nối được bảo mật. Chúng tôi đặc biệt khuyên bạn chỉ nên sử dụng Microsoft hoặc nguồn cung cấp nguồn cấp giấy phép Microsoft.
+Trước tiên, hãy đảm bảo các kết nối được an toàn. Chúng tôi khuyến nghị bạn chỉ nên sử dụng nguồn điện chính hãng của Microsoft hoặc được Microsoft cấp phép.
 
-Thứ hai, hãy thử tắt bề mặt của bạn và phí ít nhất 30 phút. Sau đó bật lại để xem điều đó khắc phục sự cố.
+Thứ hai, hãy thử tắt Surface và sạc ít nhất 30 phút. Sau đó bật lại để xem liệu điều đó có khắc phục được sự cố không.
 
-**Đã cắm vào nhưng không tính phí**
+**Đã cắm nhưng không sạc**
 
-Nếu biểu tượng pin trên thanh tác vụ Hiển thị **, không tính phí**, có nghĩa là bề mặt của bạn sẽ phát hiện ra nguồn cung cấp điện nhưng nó không được sạc pin. Bề mặt của bạn có thể tắt khi bạn tháo nó. Hãy thử làm như sau:
+Nếu biểu tượng pin trên thanh tác vụ hiển thị Đã **cắm,** chứ không phải sạc , điều đó có nghĩa là Surface phát hiện nguồn điện nhưng thiết bị không sạc pin. Surface của bạn có thể tắt khi bạn rút thiết bị. Hãy thử cách này:
 
-1. Cắm bề mặt của bạn.
-2. Chọn hộp tìm kiếm trong thanh tác vụ, nhập **trình quản lý thiết bị**, rồi chọn **trình quản lý thiết bị** từ danh sách kết quả.
-3. Bấm vào mũi tên bên cạnh thể loại **pin** .
-4. Gõ đúp hoặc bấm đúp vào **Microsoft Surface ACPI-Compliant phương pháp điều khiển**, chọn tab **trình điều khiển** , rồi bấm vào **gỡ cài đặt > OK**.
-5. Chọn máy tính ở phía trên cùng của tất cả các thể loại, chọn Menu **hành động** , rồi bấm vào **quét để thay đổi phần cứng**.
-6. Rời khỏi bề mặt của bạn được cắm.
+1. Cắm Surface của bạn.
+2. Chọn hộp tìm kiếm trong thanh tác vụ, nhập trình **quản lý thiết bị,** sau đó chọn **Trình quản lý Thiết bị** từ danh sách kết quả.
+3. Bấm vào mũi tên bên cạnh **danh mục Pin.**
+4. Nhấn đúp hoặc bấm đúp vào **Microsoft Surface ACPI-Compliant Control Method Battery**, chọn tab Trình điều khiển, rồi bấm vào Gỡ cài đặt > **OK.** 
+5. Chọn máy tính ở đầu tất cả các danh mục, chọn **menu** Hành động, rồi bấm vào Quét các thay đổi **phần cứng.**
+6. Để Surface được cắm.
 
-Sau khi bạn loại bỏ trình điều khiển pin, hãy cài đặt các bản Cập Nhật Surface và Windows. Hãy xem [Cập nhật phần vững Surface và Windows 10](https://support.microsoft.com/help/4023505) để biết thêm thông tin chi tiết. Kiểm tra pin của bạn. Nếu nó vẫn gặp sự cố, hãy xem [mục buộc tắt và khởi động lại bề mặt của bạn](https://support.microsoft.com/help/4036280/surface-force-a-shut-down-and-restart-your-surface).
+Sau khi bạn tháo trình điều khiển pin, hãy cài đặt Surface và để Windows cập nhật. Xem [cập nhật Surface firmware và Windows 10](https://support.microsoft.com/help/4023505) chi tiết. Kiểm tra pin của bạn. Nếu sự cố vẫn tiếp tục xảy ra, xem [mục Buộc tắt và khởi động lại Surface của bạn](https://support.microsoft.com/help/4036280/surface-force-a-shut-down-and-restart-your-surface).
 
-**Thông tin thêm về khắc phục sự cố**
+**Thông tin khắc phục sự cố khác**
 
-Ánh sáng LED sẽ được bật khi trình kết nối Power của bạn được cắm vào bề mặt của bạn. Nếu nó bị tắt, nhấp nháy hoặc nhấp nháy trắng, vui lòng xem [cần làm gì nếu hàm Power Supply hoặc bộ sạc của bạn không hoạt động](https://support.microsoft.com/help/4484763/surface-fix-issues-with-your-power-supply). 
+Đèn LED sẽ bật khi đầu kết nối nguồn của bạn được cắm vào Surface. Nếu thiết bị tắt, nhấp nháy hoặc nhấp nháy màu trắng, vui lòng xem Bạn cần làm gì nếu nguồn điện hoặc bộ sạc Surface của bạn [không hoạt động.](https://support.microsoft.com/help/4484763/surface-fix-issues-with-your-power-supply) 
 
-Nếu bạn đang gặp vấn đề với sách bề mặt của mình, hãy đảm bảo rằng màn hình được đính kèm đầy đủ với bàn phím. Nếu nó vẫn sẽ không tính phí, hãy loại bỏ màn hình và dọn sạch đường kết nối bằng tẩy bút chì. Bạn cũng có thể muốn làm sạch các chân trên một phần dài, thu hẹp của bộ sạc mà bạn cắm vào bề mặt của bạn và đảm bảo các chân bị khô ráo.
+Nếu bạn đang gặp sự cố với máy tính Surface Book, hãy đảm bảo rằng màn hình được gắn đầy đủ vào bàn phím. Nếu bút vẫn không sạc, hãy loại bỏ màn hình và dọn sạch các đường kết nối bằng tẩy bút chì. Bạn cũng có thể muốn vệ sinh ghim ở phần dài, hẹp của bộ sạc mà bạn cắm vào Surface và đảm bảo rằng ghim khô.
 
-Để xem thêm các cách khắc phục sự cố về các vấn đề về pin, vui lòng xem [Surface sẽ không tính phí hoặc bề mặt sẽ không chạy trên pin](https://support.microsoft.com/help/4023536/surface-surface-battery-wont-charge).
+Để xem các cách khác khắc phục sự cố pin, vui lòng kiểm tra pin Surface sẽ không sạc hoặc [Surface sẽ không chạy bằng pin](https://support.microsoft.com/help/4023536/surface-surface-battery-wont-charge).
