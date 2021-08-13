@@ -1,5 +1,5 @@
 ---
-title: Thêm khách vào Microsoft nhóm (đề xuất tự động)
+title: Thêm khách vào Microsoft Teams (Đề xuất tự động)
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3182"
 - "6500001"
-ms.openlocfilehash: 856ebc3ea01398b4c56ccca6bd2aa5f3963198eb
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2f21eae666d2b25380f184bb2c194e5d1c12812bb78309e6b09f9f497163b8c8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822801"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53936619"
 ---
-# <a name="add-a-guest-to-microsoft-teams"></a>Thêm khách vào nhóm Microsoft
+# <a name="add-a-guest-to-microsoft-teams"></a>Thêm khách vào Microsoft Teams
 
-Đôi khi bạn sẽ muốn cộng tác với những người không thuộc tổ chức nhóm của bạn. Thường thì bạn sẽ làm điều đó trong email nhưng nếu bạn muốn cộng tác với chúng trong nhóm, bạn có thể thêm chúng dưới dạng khách.
+Đôi khi, bạn sẽ muốn cộng tác với những người không có trong tổ chức của nhóm bạn. Thông thường, bạn sẽ thực hiện điều đó trong email nhưng nếu bạn muốn cộng tác với họ trong Teams, bạn có thể thêm họ làm khách.
 
-Để biết thêm thông tin, hãy xem [Thêm khách vào một nhóm trong](https://support.office.com/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop)nhóm.
+Để biết thêm thông tin, [xem mục Thêm khách vào nhóm trong Teams.](https://support.office.com/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop)
 
-**Lưu ý:** Bạn phải là chủ sở hữu nhóm để thêm một khách trong nhóm (cũng xem [đặt quyền](https://support.office.com/article/set-guest-permissions-for-channels-in-teams-4756c468-2746-4bfd-a582-736d55fcc169)đối với khách).
+**Lưu ý:** Bạn phải là chủ nhóm để thêm khách vào Teams (cũng xem [Đặt quyền của khách).](https://support.office.com/article/set-guest-permissions-for-channels-in-teams-4756c468-2746-4bfd-a582-736d55fcc169)

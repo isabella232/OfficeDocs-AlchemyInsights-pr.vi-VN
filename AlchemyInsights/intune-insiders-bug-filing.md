@@ -1,5 +1,5 @@
 ---
-title: Nộp hồ sơ lỗi người dùng nội bộ
+title: Intune Insider bug filing
 ms.author: mandia
 author: mandia
 manager: dougeby
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "2402"
 - "9000348"
-ms.openlocfilehash: 8d3cc3121786abc891237a6807719802dc72adee
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 574a83a97a58d44f2bef66c9caaa16479b085269fc2f9dbf729a23ca8d37bba6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667648"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53925943"
 ---
-# <a name="intune-insider-bug-filing"></a>Nộp hồ sơ lỗi người dùng nội bộ
+# <a name="intune-insider-bug-filing"></a>Intune Insider bug filing
 
-Cảm ơn bạn đã quan tâm đến chương trình InTune người dùng nội bộ. Nếu bạn đã onup cho chương trình InTune người dùng nội bộ, và cần phải gửi một yêu cầu hỗ trợ, sau đó:
+Cảm ơn bạn đã quan tâm đến chương trình Người dùng nội bộ Intune. Nếu bạn đã được tích hợp cho chương trình Người dùng nội bộ Intune và cần gửi yêu cầu hỗ trợ thì:
 
 1. Mô tả sự cố của bạn trong trường ở trên.
 2. Tạo một yêu cầu dịch vụ mới bằng các tùy chọn dưới đây.
 
-Kỹ sư hỗ trợ InTune sẽ liên hệ với bạn.
+Kỹ sư hỗ trợ của Intune sẽ liên hệ với bạn.
 
-Nếu bạn không ở trong chương trình InTune người dùng nội bộ, cảm ơn bạn đã quan tâm. Chúng tôi hiện đang không tuyển dụng người dự mới.
+Nếu bạn không ở trong chương trình Người dùng nội bộ Intune, cảm ơn bạn đã quan tâm. Chúng tôi hiện không tuyển dụng những người dự mới.

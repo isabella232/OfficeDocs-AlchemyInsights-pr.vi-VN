@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "634"
 - "3500007"
-ms.openlocfilehash: 15b0e35b754150ef0fc9e7a0eb9ac20fa7fbf14d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5b6ed570e2bcd40ebaef201136465bfd3d348f8d2d3bc2a8251ae1a12eec1589
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47803955"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53955439"
 ---
 # <a name="access-a-public-folder-calendar-in-owa-outlook-on-the-web"></a>Truy nhập lịch thư mục công cộng trong OWA (Outlook trên web)
 
-1. Đăng nhập vào OWA, bấm chuột phải vào **thư mục**, rồi chọn **Thêm thư mục công cộng vào mục yêu thích**.
+1. Đăng nhập vào OWA, bấm chuột phải vào **Thư mục**, rồi chọn Thêm thư mục công cộng vào **Yêu thích.**
 
-2. Duyệt qua cấu trúc phân cấp, chọn thư mục công cộng mong muốn, rồi chọn **Thêm thư mục công cộng**. Đóng menu **Thêm thư mục công cộng** .  
+2. Duyệt qua cấu trúc phân cấp, chọn thư mục công cộng mong muốn, rồi chọn **Thêm thư mục công cộng**. Đóng menu **Thêm thư mục công** cộng.  
 
-3. Chọn biểu tượng lịch. Lịch thư mục công cộng xuất hiện bên dưới **các lịch khác**.  
+3. Chọn biểu tượng Lịch. Lịch thư mục công cộng sẽ xuất hiện **bên dưới Lịch Khác.**  
 
-**Ghi chú** Không có thư mục công cộng, bao gồm lịch, có thể được truy nhập từ thiết bị di động. Sử dụng nhóm Microsoft 365 hoặc hộp thư chung nếu bạn muốn truy nhập lịch từ các thiết bị di động.
+**Lưu ý** Không thể truy nhập thư mục công cộng, kể cả lịch từ thiết bị di động. Sử dụng Microsoft 365 hoặc hộp thư chung nếu bạn muốn truy nhập lịch từ thiết bị di động.
