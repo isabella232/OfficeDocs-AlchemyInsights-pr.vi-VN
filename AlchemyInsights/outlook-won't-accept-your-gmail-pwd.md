@@ -1,5 +1,5 @@
 ---
-title: Outlook không chấp nhận mật khẩu Gmail của bạn
+title: Outlook Sẽ không chấp nhận mật khẩu Gmail của bạn
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,32 +13,32 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800027"
 - "7351"
-ms.openlocfilehash: 60e4f04fbf4cd2c3c2a21e6e18845ac6e93119d2
-ms.sourcegitcommit: 0f26f6b23b3d48c3c6cddf98bc41df484f16cb00
+ms.openlocfilehash: af07110d3b5231f25fad078cf7b71ef991600c345e1c057d8bfe1614d9570580
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49678756"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53924683"
 ---
-# <a name="outlook-wont-accept-your-gmail-password"></a>Outlook không chấp nhận mật khẩu Gmail của bạn
+# <a name="outlook-wont-accept-your-gmail-password"></a>Outlook sẽ không chấp nhận mật khẩu Gmail của bạn
 
-Chúng tôi khuyên bạn nên bật xác thực hai yếu tố và sử dụng mật khẩu ứng dụng.
+Chúng tôi khuyên bạn nên bật xác thực hai bước và sử dụng mật khẩu ứng dụng.
 
-Để bật xác thực hai yếu tố và nhận được mật khẩu ứng dụng, hãy làm theo các bước sau đây.
+Để bật xác thực hai bước và nhận mật khẩu ứng dụng, hãy sử dụng các bước sau đây.
 
-1. Đi đến Gmail từ trình duyệt của bạn và bấm vào biểu tượng **Google Apps** ở góc trên bên phải của màn hình.
-1. Ở bên trái, bấm vào **bảo mật**.
-1. Bên dưới đăng nhập vào Google, nếu **xác minh 2 bước** bị **tắt**, hãy bấm vào **>** bên cạnh **tắt** để bật tính năng này.  Nếu không, hãy bỏ qua đến bước 4.
-1. Trên màn hình đầu tiên, bấm vào **tiếp tục**.
-1. Nếu được nhắc, hãy nhập mật khẩu Gmail của bạn, rồi bấm vào **tiếp theo**.
-1. Nhập số điện thoại của bạn, rồi chọn xem bạn muốn nhận mã xác minh theo tin nhắn văn bản hoặc cuộc gọi điện thoại.
-1. Bấm **tiếp**.
-1. Nhập mã bạn nhận được, rồi bấm vào **tiếp theo**.
-1. Bấm **bật** để hoàn tất thiết lập xác minh 2 bước.
-1. Trở về màn hình trước bằng cách bấm vào mũi tên trái ở phía trên cùng của màn hình bên cạnh **xác minh 2 bước**.
-1. Chọn ở ngoài **>** cùng bên phải của dòng **mật khẩu ứng dụng** .
-1. Nhập mật khẩu Google của bạn, rồi bấm **đăng nhập**. Ở cuối màn hình tiếp theo, bấm vào **thư** và **máy tính Windows** từ danh sách thả xuống, sau đó bấm **tạo**.
+1. Đi tới Gmail từ trình duyệt của bạn và bấm **vào biểu tượng Ứng** dụng Google ở góc trên bên phải của màn hình.
+1. Ở bên trái, bấm vào **Bảo mật**.
+1. Bên dưới Đăng nhập vào Google, **nếu Xác minh 2 bước** là **TẮT,** hãy bấm vào bên **>** cạnh **TẮT** để BẬT Xác **minh 2 bước.** Nếu không, hãy chuyển đến bước 4.
+1. Trên màn hình đầu tiên, bấm **vào TIẾP TỤC**.
+1. Nếu được nhắc, hãy nhập mật khẩu Gmail của bạn, rồi bấm vào **TIẾP THEO.**
+1. Nhập số điện thoại của bạn và chọn xem bạn muốn nhận mã xác minh của mình bằng tin nhắn văn bản hay cuộc gọi điện thoại.
+1. Bấm **vào TIẾP THEO**.
+1. Nhập mã mà bạn đã nhận được, rồi bấm vào **TIẾP THEO.**
+1. Bấm **vào BẬT** để hoàn tất thiết lập xác minh 2 bước.
+1. Trở về màn hình trước đó bằng cách bấm vào mũi tên bên trái ở đầu màn hình bên cạnh **Xác minh 2 bước.**
+1. Chọn ở **>** phía xa bên phải của dòng Mật khẩu **Ứng** dụng.
+1. Nhập mật khẩu Google của bạn, rồi bấm **vào Đăng nhập**. Ở cuối màn hình tiếp theo, bấm **vào** Thư và **Windows Máy** tính từ danh sách thả xuống, rồi bấm vào **Tạo**.
 Google sẽ hiển thị mật khẩu ứng dụng cho bạn. 
-13. Sao chép mật khẩu này (không có dấu cách) và nhập mật khẩu này khi Outlook nhắc bạn về mật khẩu.
+13. Sao chép mật khẩu này (không có dấu cách), rồi nhập mật khẩu này Outlook nhắc bạn nhập mật khẩu.
 
-Để biết thêm thông tin, hãy xem [mục Thêm tài khoản Gmail vào Outlook-Outlook (Microsoft.com)](https://support.microsoft.com/office/add-a-gmail-account-to-outlook-70191667-9c52-4581-990e-e30318c2c081).
+Để biết thêm thông tin, hãy xem mục Thêm tài [khoản Gmail vào Outlook - Outlook (microsoft.com).](https://support.microsoft.com/office/add-a-gmail-account-to-outlook-70191667-9c52-4581-990e-e30318c2c081)

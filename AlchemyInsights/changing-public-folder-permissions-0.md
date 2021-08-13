@@ -12,27 +12,27 @@ ms.custom:
 - "633"
 - "3500007"
 ms.assetid: 0c37ab75-c81c-44e7-bda8-ea43263f9fdf
-ms.openlocfilehash: a2a902e8fdfd8628772364c173979c633d25a169
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 16c2fb89f8dd256afb7e922ca74976097501173bf605e6c5fccc73019a71edcd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47714269"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53950210"
 ---
 # <a name="changing-public-folder-permissions"></a>Thay đổi quyền thư mục công cộng
 
-Quyền đối với thư mục công cộng có thể thay đổi bởi người dùng và người quản trị trong Outlook. Người quản trị cũng có thể kiểm soát quyền từ Trung tâm quản trị Exchange (EAC), bằng cách thực hiện như sau:
+Người dùng và người quản trị trong tổ chức có thể thay đổi quyền thư mục công Outlook. Người quản trị cũng có thể kiểm soát quyền từ Trung Exchange Quản trị Viên (EAC), bằng cách thực hiện các bước sau:
   
-1. Trong Trung tâm quản trị Microsoft 365, hãy đi đến Exchange **Trung tâm quản trị** \> **Exchange**.
+1. Trong thanh Trung tâm quản trị Microsoft 365, đi đến Trung **tâm quản trị** \> **Exchange.**
 
-2. Chọn các **thư mục công cộng**.
+2. Chọn Thư **mục công cộng**.
 
-3. Từ đó, bạn có thể thay đổi quyền cho các thư mục công cộng riêng lẻ bằng cách gán các nhóm bảo mật thành các quyền. Đối với người dùng cuối để thay đổi quyền thư mục công cộng, người dùng cần có quyền chủ sở hữu trên thư mục.
+3. Từ đó, bạn có thể thay đổi quyền cho từng thư mục công cộng bằng cách gán các nhóm bảo mật cho quyền. Để người dùng cuối thay đổi quyền đối với thư mục công cộng, người dùng cần có quyền Chủ sở hữu trên thư mục đó.
 
-Vui lòng làm theo quy trình được mô tả trong [cách chẩn đoán và khắc phục các vấn đề cấp phép thư mục công cộng](https://docs.microsoft.com/exchange/troubleshoot/public-folders/public-folder-permission-issues) để khắc phục sự cố quyền đối với thư mục công cộng.
+Vui lòng làm theo quy trình được mô tả trong [Cách chẩn đoán và khắc phục các sự cố về quyền đối](https://docs.microsoft.com/exchange/troubleshoot/public-folders/public-folder-permission-issues) với thư mục công cộng để khắc phục sự cố về quyền đối với thư mục công cộng.
 
-**Lưu ý**: có một số vấn đề đã biết mà bạn có thể gặp phải khi bạn tìm cách thay đổi quyền trên thư mục công cộng. Xem các bài viết sau để biết thêm thông tin.
+**Lưu ý:** Có một số sự cố đã biết mà bạn có thể gặp phải khi tìm cách thay đổi quyền trên thư mục công cộng. Xem các bài viết sau để biết thêm thông tin.
 
-- [Không thể áp dụng quyền đối với các thư mục thư mục công cộng trong EAC](https://docs.microsoft.com/exchange/troubleshoot/public-folders/can%E2%80%99t-apply-permissions-public-folder-subfolders)
+- [Không thể áp dụng quyền cho thư mục con của thư mục công cộng trong EAC](https://docs.microsoft.com/exchange/troubleshoot/public-folders/can%E2%80%99t-apply-permissions-public-folder-subfolders)
 
-- [Lỗi "không tìm thấy hộp thư trong vùng rừng cục bộ" khi bạn truy nhập vào các thư mục công cộng](https://docs.microsoft.com/exchange/troubleshoot/public-folders/mailbox-not-found-local-forest-public-folder)
+- [Lỗi "Không tìm thấy hộp thư trong rừng cục bộ" khi bạn truy nhập các thư mục công cộng](https://docs.microsoft.com/exchange/troubleshoot/public-folders/mailbox-not-found-local-forest-public-folder)

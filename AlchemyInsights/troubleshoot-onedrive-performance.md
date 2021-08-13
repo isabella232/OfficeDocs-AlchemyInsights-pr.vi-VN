@@ -1,5 +1,5 @@
 ---
-title: Khắc phục sự cố hiệu suất của OneDrive
+title: Khắc phục sự OneDrive năng
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,25 +10,25 @@ localization_priority: Normal
 ms.custom:
 - "1977"
 - "9000343"
-ms.openlocfilehash: 4699f6113acd70b4778f9feeaeec012ff8fdd63f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 15d9067e6b55b91af312671db9209f93ffc58859aaf69d63c84dbc354aff3dd3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47757907"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53939149"
 ---
-# <a name="troubleshoot-onedrive-performance"></a>Khắc phục sự cố hiệu suất của OneDrive
+# <a name="troubleshoot-onedrive-performance"></a>Khắc phục sự OneDrive năng
 
-Nếu bạn đang gặp phải đồng bộ chậm hơn so với dự kiến, hoặc các vấn đề về hiệu suất tương tự với OneDrive:
+Nếu bạn đang gặp phải sự cố về hiệu suất chậm hơn dự kiến hoặc các sự cố về hiệu suất tương tự OneDrive:
 
-- Xác nhận không có vấn đề đã biết bằng cách dùng bảng điều khiển trạng thái [dịch vụ](https://portal.office.com/adminportal/home?ref=/servicehealth).
+- Xác nhận không có sự cố đã biết nào bằng cách dùng Bảng điều [khiển Tình trạng Dịch vụ](https://portal.office.com/adminportal/home?ref=/servicehealth).
 
-- Cho [phép các tệp theo yêu cầu](https://support.office.com/article/save-disk-space-with-onedrive-files-on-demand-for-windows-10-0e6860d3-d9f3-4971-b321-7092438fb38e) để bạn có thể truy nhập tất cả các tệp của mình trong OneDrive mà không cần tải xuống tất cả chúng và sử dụng dung lượng lưu trữ trên thiết bị của bạn.
+- [Cho phép Tệp Theo Yêu cầu](https://support.office.com/article/save-disk-space-with-onedrive-files-on-demand-for-windows-10-0e6860d3-d9f3-4971-b321-7092438fb38e) để bạn có thể truy nhập vào tất cả các tệp trong OneDrive mà không phải tải xuống tất cả chúng và sử dụng dung lượng lưu trữ trên thiết bị của bạn.
 
-- [Xem lại các cách thực hành tốt nhất](https://docs.microsoft.com/office365/enterprise/network-planning-and-performance) cho việc lập kế hoạch mạng và hiệu suất.
+- [Xem lại các phương pháp tốt](https://docs.microsoft.com/office365/enterprise/network-planning-and-performance) nhất để lập kế hoạch và hiệu suất mạng.
 
-- [Tối đa hóa tốc độ tải lên và tải xuống](https://support.office.com/article/maximize-upload-and-download-speed-8eeadfb8-501f-406d-997b-98ab6ff67f43), đặc biệt là nếu bạn đang đồng bộ một thiết bị lần đầu tiên.
+- [Tối đa hóa tốc độ tải lên](https://support.office.com/article/maximize-upload-and-download-speed-8eeadfb8-501f-406d-997b-98ab6ff67f43)và tải xuống, đặc biệt là nếu bạn đồng bộ một thiết bị lần đầu tiên.
 
-- Nếu bạn đang đồng bộ một thư viện có nhiều mục hơn 100.000, OneDrive Sync có thể có vẻ khó khăn trong một thời gian dài, hoặc trạng thái Hiển thị xử lý 0KB của xMB. " [Tìm hiểu thêm về cách đồng bộ hóa các tệp 100.000](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-onedrive-for-business-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa) cũng như [giới hạn hỗ trợ của onedrive của các tệp 300.000](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-onedrive-for-business-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa).
+- Nếu bạn đang đồng bộ thư viện có hơn 100.000 mục, thì Đồng bộ OneDrive có vẻ bị kẹt trong một thời gian dài hoặc trạng thái hiển thị Đang xử lý 0KB trên xMB". Tìm hiểu thêm về việc đồng bộ hơn [100.000](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-onedrive-for-business-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa) tệp cũng như giới [hạn 300.000](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-onedrive-for-business-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa)tệp được hỗ trợ của OneDrive giới hạn được hỗ trợ.
 
-- Khi người dùng vượt quá giới hạn sử dụng, SharePoint Online sẽ thêm bất kỳ yêu cầu nào từ tài khoản người dùng đó trong một kỳ hạn ngắn. Tất cả các hành động của người dùng đều bị Throttled trong khi có hiệu lực.
+- Khi người dùng vượt quá giới hạn sử dụng, SharePoint Online sẽ điều tiết mọi yêu cầu thêm từ tài khoản người dùng đó trong một khoảng thời gian ngắn. Tất cả hành động người dùng đều được điều tiết trong khi điều tiết có hiệu lực.

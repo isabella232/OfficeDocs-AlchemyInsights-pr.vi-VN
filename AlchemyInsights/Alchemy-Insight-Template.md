@@ -12,30 +12,30 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 113d01e0fc92cc9845e585919ab05f386d6892bb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7b915ab18d10948b8588dc6e2ef6af9891524861a924e2193dd73c2c77ffe6da
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664156"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53918923"
 ---
-# <a name="required-alchemy-header-h1-h2s-dont-work"></a>"H1 tiêu đề Alchemy bắt buộc, H2's không hoạt động."
-Phương pháp tốt nhất và hướng dẫn cho tác giả Alchemy:
+# <a name="required-alchemy-header-h1-h2s-dont-work"></a>"Required Alchemy Header H1, H2's don's work." (Đầu trang Alchemy Bắt buộc H1, H2 không hoạt động).
+Cách thực hành và hướng dẫn tốt nhất cho việc tạo Alchemy:
 
-1. Không **làm tổ những cái nhìn giả kim thuật trong thư mục**-điều này sẽ ngắt cấu trúc URL. Chúng tôi đang tìm cách khắc phục sự cố này.
-1. Các tệp trong thư mục **Alchemyinsights** cần có tên tệp chữ thường với dấu gạch nối cho các dấu cách cũ. ***làm thế nào để kích hoạt-giữ tranh chấp***.
-    1. Đưa vào ID quy tắc hoặc ID Xô từ [cổng thông tin đối tác Alchemy](https://alchemyportal.azurewebsites.net) trong trường MS. Custom. OKB. ***MS. Custom: 100021***
+1. **Không lồng Alchemy vào Insights mục**- điều này sẽ phá vỡ cấu trúc url. Chúng tôi đang tìm cách khắc phục sự cố này.
+1. Các tệp trong **thư mục AlchemyInsights** phải có tên tệp chữ thường với gạch nối cho dấu cách ví dụ. **_how-to-enable-litigation-hold_**.
+    1. Đưa ID Quy tắc hoặc ID bộ chứa vào cổng [thông tin Đối tác Alchemy](https://alchemyportal.azurewebsites.net) trong trường ms.custom. ví dụ. ***ms.custom: 100021***
 1. Sử dụng phần còn lại của siêu dữ liệu ở phía trên cùng của tệp này làm mẫu của bạn.
-1. Trong [cổng thông tin đối tác Alchemy](https://alchemyportal.azurewebsites.net), dẫn hướng xuống đến **tiêu đề của khách hàng phần Insight:** và sử dụng làm điểm bắt đầu cho tiêu đề H1 của bạn cho cái nhìn sâu sắc. 
+1. Trong cổng thông tin Đối tác [Alchemy,](https://alchemyportal.azurewebsites.net)dẫn hướng xuống mục Tiêu đề Thông tin chuyên sâu cho Khách **hàng:** và sử dụng tiêu đề đó làm điểm bắt đầu cho tiêu đề H1 của bạn cho thông tin chuyên sâu. 
     > [!NOTE]
-    > Những cái nhìn giả kim thuật phải chỉ có một H1 duy nhất ở trên cùng hoặc chúng sẽ ngắt trong sản xuất. H2s không khiến cho việc sử dụng các công ước **đậm** hoặc khác để biểu thị các phần riêng biệt.
-1. Tiếp theo, điền vào nội dung văn bản bằng cách sử dụng tài liệu dự thảo trong phần Insights của khách hàng của trang quy tắc Alchemy
-    1. Danh sách dấu đầu dòng là tốt
-    1. Danh sách đánh số quá
-    1. **Đậm** và *nghiêng* là một OK
-    1. Liên kết luôn phải là **"nối kết đến web"/bên ngoài** hoặc **liên kết sâu đến các thành phần giao diện người dùng**, không liên kết nội bộ.
-    1. Ảnh không được hỗ trợ chính thức vào thời điểm này, nhưng trên lộ trình.
+    > Alchemy Insights PHẢI có một H1 duy nhất ở trên cùng, nếu không chúng sẽ được ngắt trong bản sản xuất. H2 không kết xuất vì vậy hãy dùng chữ **đậm hoặc** các quy ước khác để biểu thị các phần riêng biệt.
+1. Tiếp theo, điền vào thân văn bản bằng cách sử dụng tài liệu nháp Customer Insights của trang Quy tắc Alchemy
+    1. Danh sách dấu đầu dòng hoàn toàn không sao
+    1. Danh sách đánh số nữa
+    1. **In** *đậm và in* đậm là kiểu ok
+    1. Liên kết luôn phải là **"liên kết đến web"/liên kết sâu** HOẶC bên ngoài đến các thành phần **UI, chứ không** phải là liên kết nội bộ.
+    1. Ảnh không được hỗ trợ chính thức vào thời điểm này nhưng ảnh đã có trong lộ trình.
 
-Và điều này thực sự là một chút quá dài. Cách thực hành tốt nhất là giới thiệu về 400---------------------------------
+Và điều này thực sự đã có một chút thời gian quá dài. Cách thực hành tốt nhất là khoảng 400 ký tự ---------------------------------
 
-Sau khi nội dung của bạn đã sẵn sàng, hãy kéo nó đến chi nhánh trực tiếp. Sau đó, đi đến [cổng thông tin đối tác giả kim](https://alchemyportal.azurewebsites.net) và nhập tên tệp vào trường URL. 
+Sau khi nội dung của bạn đã sẵn sàng, hãy kéo nội dung đó vào nhánh trực tiếp. Sau đó, đi đến [cổng thông tin Đối tác Alchemy](https://alchemyportal.azurewebsites.net) và nhập tên tệp vào trường url. 

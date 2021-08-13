@@ -1,5 +1,5 @@
 ---
-title: Sử dụng website Wix với tên miền đã mua hoặc Office 365 được quản lý
+title: Sử dụng trang web Wix với Office 365 tên miền được mua hoặc quản lý
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001516"
 - "3582"
-ms.openlocfilehash: ef2e7278b1a70aedca1b2ad9c13c249bf8b09c00
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d7df06d768eabb44bcaee4a7450d16ecdb3395da4cee4810503d3dae358736ab
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51825969"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53980199"
 ---
-# <a name="using-wix-website-with-office-365-purchased-or-managed-domains"></a>Sử dụng website Wix với tên miền đã mua hoặc Office 365 được quản lý
+# <a name="using-wix-website-with-office-365-purchased-or-managed-domains"></a>Sử dụng trang web Wix với Office 365 tên miền được mua hoặc quản lý
 
-- [Cập Nhật bản ghi DNS để giữ cho trang web của bạn với nhà cung cấp lưu trữ hiện tại](https://docs.microsoft.com/microsoft-365/admin/dns/update-dns-records-to-retain-current-hosting-provider)
-- Bài viết Wix "kết nối tên miền với Wix bằng phương pháp trỏ" đề xuất bằng cách dùng trỏ (thêm bản ghi DNS cho mỗi nối kết ở trên) thay vì thay đổi tên máy chủ khi dùng Office 365
-- Nếu bạn vẫn chọn thay đổi máy chủ tên thành Wix thì bạn sẽ cần  [tạo bản ghi DNS tại Wix for Microsoft](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-wix?view=o365-worldwide)
-- Nếu tên miền của bạn đã được mua từ Microsoft không thể thay đổi máy chủ tên. Nếu bạn phải thay đổi tên cho máy chủ của Microsoft đã mua tên miền sẽ cần được  [chuyển đến nhà cung cấp lưu trữ khác sau 60 Days](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host)
+- [Cập nhật bản ghi DNS để tiếp tục lưu trữ website tại nhà cung cấp lưu trữ hiện tại của bạn](https://docs.microsoft.com/microsoft-365/admin/dns/update-dns-records-to-retain-current-hosting-provider)
+- Bài viết "Connecting a Domain to Wix Using the Pointing Method" của Wix khuyên bạn nên sử dụng phương pháp trỏ (thêm bản ghi DNS cho mỗi liên kết bên trên) thay vì thay đổi máy chủ tên khi sử dụng Office 365
+- Nếu bạn vẫn chọn thay đổi máy chủ tên thành Wix, bạn sẽ cần Tạo bản ghi  [DNS tại Wix cho Microsoft](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-wix?view=o365-worldwide)
+- Nếu bạn mua miền từ Microsoft thì không thể thay đổi tên miền. Nếu bạn phải thay đổi tên máy chủ, miền do Microsoft mua sẽ cần phải được chuyển sang nhà cung cấp  [lưu trữ khác sau 60 ngày](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host)

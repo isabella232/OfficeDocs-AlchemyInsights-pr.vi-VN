@@ -10,20 +10,20 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 508b47d255612bf286992726ad0a6fe0c9477474
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7e65d8ff1d86f0500821f35c74404a5dabee5eea2c7819978c6742355ba13000
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728813"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53924503"
 ---
 # <a name="change-account-information-in-outlook-on-the-web"></a>Thay đổi thông tin tài khoản trong Outlook trên web
 
 1. Ở đầu trang, chọn tên hoặc ảnh hồ sơ của bạn.
-1. Chọn **tài khoản của tôi**.
-1. Chọn **thông tin cá nhân**.
-1. Thay đổi hoặc thêm thông tin về chính bạn.
+1. Chọn Tài **khoản của tôi**.
+1. Chọn **Thông tin cá nhân**.
+1. Thay đổi hoặc thêm thông tin về bản thân bạn.
 
-*Lưu ý:* Một số chi tiết, như tên và tiêu đề công việc của bạn, có thể được cung cấp bởi bộ phận CNTT hoặc nguồn nhân sự của bạn. Nếu bạn muốn cập nhật các chi tiết đó, hãy liên hệ với họ hoặc người quản trị của bạn.
+*Lưu ý:* Một số chi tiết, chẳng hạn như tên và chức danh của bạn, có thể do bộ phận IT hoặc nhân sự của bạn cung cấp. Nếu bạn muốn cập nhật các chi tiết đó, hãy liên hệ với họ hoặc người quản trị của bạn.
 
-Để biết thêm thông tin, hãy xem [mục thay đổi ảnh và thông tin tài khoản của bạn trong Outlook trên web](https://support.office.com/article/b2dbb289-851d-4bed-93c3-3e136f5659ec).
+Để biết thêm thông tin, hãy [xem mục Thay đổi ảnh và thông tin tài khoản của bạn Outlook trên web.](https://support.office.com/article/b2dbb289-851d-4bed-93c3-3e136f5659ec)

@@ -13,40 +13,40 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004595"
 - "8619"
-ms.openlocfilehash: 601649f6e5212ca03df5fcc32cd1d02c133e9170
-ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
+ms.openlocfilehash: 3cdde086e535d2397b4d1a8a66903121a5217015ca055fb9f8d025b0842f044b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50483089"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960857"
 ---
 # <a name="password-synchronization"></a>Đồng bộ hoá mật khẩu
 
-**Đồng bộ hóa hash mật khẩu không hoạt động ở tất cả**
+**Đồng bộ hóa Băm Mật khẩu hoàn toàn không hoạt động**
 
-Một số khách hàng thường gặp sự cố khi đồng bộ hóa hash mật khẩu không hoạt động là:
+Một số sự cố phổ biến mà khách hàng gặp phải khi Đồng bộ hóa Băm Mật khẩu không hoạt động:
 
-- Tài khoản Active Directory được sử dụng bởi Azure AD Connect để liên lạc với Active Directory tại chỗ không được cấp cho các **thay đổi thư mục** nhân bản và nhân rộng **thay đổi tất cả** các quyền, vốn cần thiết cho việc đồng bộ hóa mật khẩu-bạn cần phải khắc phục sự cố này bằng cách cấp các quyền đối với tài khoản Active Directory.
-- Đồng bộ hóa hash mật khẩu bị vô hiệu hóa sau khi người quản trị thay đổi phương pháp Sign-In người dùng từ việc **đồng bộ hóa mật khẩu** đến một tùy chọn khác chẳng hạn như **liên kết với AD FS** trong trình hướng dẫn kết nối Azure AD-bạn có thể khắc phục điều này bằng cách bật lại tính năng **đồng bộ hóa hash mật khẩu** trong trình hướng dẫn Azure AD Connect.
-- Vấn đề kết nối với Active Directory tại chỗ. Ví dụ: một số bộ điều khiển tên miền không được truy nhập bằng Azure AD Connect, hoặc các [cổng bắt buộc](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-ports) bị tường lửa-bạn cần khắc phục điều này bằng cách đảm bảo rằng kết nối giữa máy chủ Azure AD Connect và Active Directory tại chỗ hoạt động chính xác.
-- Máy chủ Azure AD Connect hiện đang ở chế độ tổ chức, vốn sẽ kết quả là máy chủ không thể sử dụng để khắc phục sự cố này, hãy làm theo các bước được mô tả trong phần [khắc phục sự cố mật khẩu đồng bộ hóa với AZURE AD Connect Sync-không có mật khẩu được đồng bộ](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization).
+- Tài khoản Active Directory được Azure AD Kết nối sử dụng để liên lạc  với Active  Directory tại chỗ sẽ không được cấp Sao chép Thay đổi Thư mục và Nhân bản Thay đổi Thư mục Tất cả những quyền cần thiết để đồng bộ hóa mật khẩu - Bạn cần khắc phục sự cố này bằng cách cấp các quyền này cho tài khoản Active Directory.
+- Tính năng đồng bộ hóa băm mật khẩu sẽ bị  tắt sau khi người quản trị thay đổi phương pháp Sign-In Người dùng từ Đồng bộ  hóa Mật khẩu sang một tùy chọn khác, như Liên kết với **AD FS** trong trình hướng dẫn Azure AD Kết nối - Bạn có thể khắc phục sự cố này bằng cách bật lại tính năng đồng bộ hóa băm mật khẩu trong trình hướng dẫn Azure AD Kết nối.
+- Vấn đề về kết nối với Active Directory tại cơ sở. Ví dụ: một số bộ kiểm soát miền không thể [](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-ports) truy nhập bằng Azure AD Kết nối hoặc Tường lửa yêu cầu chặn một số cổng - Bạn cần khắc phục điều này bằng cách đảm bảo rằng kết nối giữa máy chủ Azure AD Kết nối và Active Directory tại chỗ hoạt động đúng cách.
+- Máy chủ Azure AD Kết nối hiện đang ở chế độ cá nhân hóa, điều này sẽ khiến máy chủ không thể nhập các băm mật khẩu - Để khắc phục sự cố, hãy làm theo các bước được mô tả trong mục Khắc phục sự cố đồng bộ hóa mật khẩu với đồng bộ [Azure AD Kết nối -](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization)Không mật khẩu nào được đồng bộ.
 
-**Đồng bộ hóa hash mật khẩu không hoạt động đối với một số người dùng của tôi**
+**Đồng bộ hóa Băm Mật khẩu không hoạt động đối với một số người dùng của tôi**
 
-1. Nếu bạn nhận thấy rằng băm mật khẩu không đồng bộ với người dùng, hãy sử dụng tác vụ **khắc phục sự cố** trong Azure AD Connect để điều tra và giải quyết sự cố. Thực hiện các tác vụ sau đây:
+1. Nếu bạn nhận thấy rằng băm mật khẩu không  đồng bộ hóa với người dùng, hãy sử dụng tác vụ khắc phục sự cố trong Azure AD Kết nối để điều tra và giải quyết sự cố. Thực hiện các tác vụ sau:
 
-    một. [Chạy nhiệm vụ khắc phục sự cố trong trình hướng dẫn](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-objectsync)
+    a. [Chạy nhiệm vụ khắc phục sự cố trong trình hướng dẫn](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-objectsync)
 
-    b. [Sử dụng lệnh ghép ngắn khắc phục sự cố để điều tra sự cố đồng bộ hóa mật khẩu của Hash cho một dùng cụ thể](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization)
+    b. [Sử dụng lệnh ghép ngắn khắc phục sự cố để điều tra sự cố đồng bộ hóa băm mật khẩu cho một mục đích sử dụng cụ thể](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization)
 
-2. Đối tượng người dùng Active Directory tại chỗ được kích hoạt cho **người dùng phải thay đổi mật khẩu tại tùy chọn đăng nhập tiếp theo** . Khi tùy chọn này được bật, người dùng được gán một mật khẩu tạm thời và sẽ được nhắc thay đổi mật khẩu trong đăng nhập tiếp theo. Azure AD Connect sẽ không đồng bộ hóa mật khẩu tạm thời cho Azure AD.
+2. Đối tượng Người dùng Active Directory tại cơ sở được bật cho Người dùng phải **thay đổi mật khẩu ở tùy chọn đăng nhập tiếp** theo. Khi tùy chọn này được bật, người dùng sẽ được gán một mật khẩu tạm thời và sẽ được nhắc thay đổi mật khẩu trên lần đăng nhập tiếp theo. Azure AD Kết nối đồng bộ hóa mật khẩu tạm thời với Azure AD.
 
-Để giải quyết sự cố trên đây, hãy thực hiện một trong các tác vụ sau:
+Để giải quyết vấn đề trên, hãy thực hiện một trong các tác vụ sau đây:
 
-- Yêu cầu người dùng đăng nhập vào ứng dụng tại cơ sở (ví dụ, Windows Desktop) và thay đổi mật khẩu. Mật khẩu mới sẽ được đồng bộ hóa với Azure AD.
-- Có người quản trị Cập nhật mật khẩu của người dùng mà không cho phép **người dùng tùy chọn phải thay đổi mật khẩu tại mục đăng nhập tiếp theo** và chia sẻ mật khẩu mới với người dùng.
+- Yêu cầu người dùng đăng nhập vào ứng dụng tại chỗ (ví dụ: màn Windows máy tính) và thay đổi mật khẩu. Mật khẩu mới sẽ được đồng bộ hóa với Azure AD.
+- Hãy để người quản trị cập nhật mật khẩu của người dùng mà không bật tùy chọn Người dùng phải thay đổi mật khẩu ở lần đăng nhập tiếp theo **và** chia sẻ mật khẩu mới với người dùng.
 
-3. Đối tượng người dùng Active Directory tại cơ sở **không được cấu hình chính xác** cho đồng bộ hóa đối tượng hoặc đồng bộ hóa mật khẩu. Để khắc phục sự cố này, hãy làm theo các bước được mô tả trong [đồng bộ hóa hash mật khẩu khắc phục sự cố với AZURE AD Connect Sync](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization).
+3. Đối tượng Người dùng Active  Directory tại chỗ không được đặt cấu hình chính xác để đồng bộ hóa đối tượng hoặc đồng bộ hóa mật khẩu. Để khắc phục sự cố này, hãy làm theo các bước được mô tả trong mục Khắc phục sự cố đồng bộ hóa băm mật khẩu [với Azure AD Kết nối đồng bộ](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization).
 
 
 

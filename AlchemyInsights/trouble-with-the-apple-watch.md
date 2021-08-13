@@ -1,5 +1,5 @@
 ---
-title: Gặp vấn đề với Apple Watch
+title: Gặp sự cố với Apple Watch
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001107"
 - "3068"
-ms.openlocfilehash: f7c7c91a25a18e21c1858aba0e54a42f27bc0f58
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: bfb47bb53bbbe50258ad3f7022cd4f31b9f014a5d32c8a1b09da5e775abfcdc0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51832296"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53940013"
 ---
-# <a name="trouble-with-the-apple-watch"></a>Gặp vấn đề với Apple Watch
+# <a name="trouble-with-the-apple-watch"></a>Gặp sự cố với Apple Watch
 
-Nếu bạn đang gặp sự cố khi sử dụng Outlook trên Apple Watch, sau đây là một số bước khắc phục sự cố: 
+Nếu bạn gặp sự cố khi sử dụng Outlook trên Apple Watch, dưới đây là một số bước khắc phục sự cố: 
 
-1. Đi đến ứng dụng theo dõi trên iPhone.
+1. Đi tới ứng dụng Xem trên iPhone.
 
-2. Cuộn đến ứng dụng Outlook.
+2. Cuộn đến ứng Outlook của bạn.
 
-3. Chuyển đổi "Hiển thị ứng dụng trên Apple Watch" để **tắt** để dỡ cài đặt.
+3. Chuyển đổi "Hiển thị Ứng dụng trên Apple Watch" sang **TẮT để** gỡ cài đặt.
 
-4. Bật/tắt "Hiển thị ứng dụng trên Apple Watch **" để cài đặt lại trên xem** .
+4. Chuyển đổi "Hiển thị Ứng dụng trên Apple Watch" **thành BẬT** để cài đặt lại trên Đồng hồ.
 
-5. Khởi động ứng dụng Outlook trên Apple Watch và chờ dữ liệu để đồng bộ với mới nhất. 
+5. Khởi chạy ứng Outlook trên Apple Watch và chờ dữ liệu đồng bộ với mới nhất. 
 
-Nếu vấn đề của bạn không được giải quyết, nhóm hỗ trợ sẽ rất vui lòng giúp đỡ. Đi đến **thiết đặt > trợ giúp & phản hồi > liên hệ hỗ trợ**. 
+Nếu sự cố của bạn không được giải quyết, nhóm Hỗ trợ sẽ rất sẵn lòng trợ giúp. Đi tới Trợ **giúp Cài đặt > Phản hồi & phản hồi > hệ với bộ phận Hỗ trợ.** 

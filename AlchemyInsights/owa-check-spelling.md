@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000007"
 - "1992"
-ms.openlocfilehash: f8968b14b952c1198a8e185b8391d6dccdd257ba
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3e9fce9b0d1d1a8f88a8e69ece83e8a6776d5a5b36a8490676e274b23741052f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799298"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53924359"
 ---
 # <a name="use-your-browser-to-check-spelling"></a>Sử dụng trình duyệt của bạn để kiểm tra chính tả
 
-Không có tùy chọn kiểm tra chính tả trong Outlook trên web. Để kiểm tra chính tả của bạn, bạn sẽ cần dùng trình duyệt web của mình. Kiểm tra chính tả sẵn dùng trong Microsoft Edge, Internet Explorer 10 và các phiên bản mới hơn và các phiên bản hiện tại của Firefox, Chrome và Safari. Kiểm tra các tùy chọn cho trình duyệt web của bạn để tìm hiểu thêm về cách kiểm tra chính tả.
+Không có tùy chọn kiểm tra chính tả trong Outlook trên web. Để kiểm tra chính tả, bạn sẽ cần sử dụng trình duyệt web. Tính năng kiểm tra chính tả sẵn dùng Microsoft Edge, phiên bản Internet Explorer 10 cũ hơn và mới hơn cũng như các phiên bản hiện tại của Firefox, Chrome và Safari. Kiểm tra các tùy chọn cho trình duyệt web của bạn để tìm hiểu thêm về cách kiểm tra chính tả.
