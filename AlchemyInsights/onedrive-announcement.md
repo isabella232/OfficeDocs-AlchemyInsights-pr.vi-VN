@@ -1,5 +1,5 @@
 ---
-title: Thông báo một ổ đĩa
+title: Thông báo One Drive
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002660"
 - "9422"
-ms.openlocfilehash: ecc1ecc0cede129cb66a788130d8d3bd7ab38ecf
-ms.sourcegitcommit: bef118c00aa397cd6d8941d403fe9cfa49dd8c73
+ms.openlocfilehash: 53f58f2f506a6bb8e8956b14243c7624e75208b4b486b0722c40ab895a303796
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/30/2021
-ms.locfileid: "51440906"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53984951"
 ---
-# <a name="one-drive-announcement"></a>Thông báo một ổ đĩa
+# <a name="one-drive-announcement"></a>Thông báo One Drive
 
-Sao lưu tệp và ảnh tự động, vì vậy bạn sẽ luôn có quyền truy nhập cho họ ngay cả khi PC của bạn bị mất, bị hỏng hoặc bị đánh cắp. [Thiết lập thư mục PC OneDrive miễn phí sao lưu](https://www.microsoft.com/microsoft-365/onedrive/pc-cloud-backup).
+Tự động sao lưu tệp và ảnh để bạn luôn có quyền truy nhập vào chúng ngay cả khi PC của bạn bị mất, hỏng hoặc bị đánh cắp. [Thiết lập miễn phí OneDrive mục PC của bạn sao lưu.](https://www.microsoft.com/microsoft-365/onedrive/pc-cloud-backup)

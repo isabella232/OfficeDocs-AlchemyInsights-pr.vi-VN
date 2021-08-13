@@ -1,5 +1,5 @@
 ---
-title: Đồng bộ hóa hồ sơ người dùng SharePoint Online
+title: SharePoint Đồng bộ hóa Hồ sơ Người dùng Trực tuyến
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003095"
 - "5848"
-ms.openlocfilehash: abb4b671091fee60fcf836acb15bc3dbdaac7b54
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: eb2c3a2c43a59882dab3f8035dd20e69579a46a7c8bde7badc80310a1ab57f6e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47665380"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53957491"
 ---
-# <a name="sharepoint-online-user-profile-synchronization"></a>Đồng bộ hóa hồ sơ người dùng SharePoint Online
+# <a name="sharepoint-online-user-profile-synchronization"></a>SharePoint Đồng bộ hóa Hồ sơ Người dùng Trực tuyến
 
-Microsoft SharePoint sử dụng công việc đồng bộ hóa Active Directory để nhập thông tin người dùng và thuộc tính nhóm vào ứng dụng hồ sơ người dùng (UPA).Để biết thêm thông tin, vui lòng xem bài viết dưới đây.
+Microsoft SharePoint sử dụng công việc đồng bộ hóa Active Directory để nhập thông tin thuộc tính người dùng và nhóm vào Ứng dụng Hồ sơ Người dùng (UPA).Để biết thêm thông tin, vui lòng xem bài viết dưới đây.
 
-- [Đồng bộ hóa hồ sơ người dùng SharePoint Online](https://docs.microsoft.com/sharepoint/user-profile-sync)
+- [SharePoint Đồng bộ hóa Hồ sơ Người dùng Trực tuyến](https://docs.microsoft.com/sharepoint/user-profile-sync)

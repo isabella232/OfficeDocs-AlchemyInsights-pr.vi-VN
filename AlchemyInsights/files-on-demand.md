@@ -1,5 +1,5 @@
 ---
-title: Các tệp theo yêu cầu
+title: Tệp theo yêu cầu
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,32 +13,32 @@ ms.collection: Adm_O365
 ms.custom:
 - "6432"
 - "9003530"
-ms.openlocfilehash: 4e3da81ee048c6257e05b998c0f457fa433738fd
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: 10efdb5e1a90b3e279b8e1716e66a544d0ee34465245f5670930d8a9364a8cc3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48791316"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53977463"
 ---
-# <a name="configure-files-on-demand"></a>Cấu hình các tệp theo yêu cầu
+# <a name="configure-files-on-demand"></a>Đặt cấu hình tệp theo yêu cầu
 
-Các tệp theo yêu cầu của OneDrive yêu cầu [Cập Nhật người tạo mùa thu Windows 10](https://go.microsoft.com/fwlink/p/?linkid=859040) (phiên bản 1709 trở lên) hoặc Windows Server 2019 và OneDrive bản dựng 17.3.7064.1005 trở lên.
+OneDrive Tệp Theo Yêu cầu yêu [cầu Windows 10 Fall Creators Update](https://go.microsoft.com/fwlink/p/?linkid=859040) (phiên bản 1709 trở lên) hoặc Windows Server 2019 và OneDrive bản dựng 17.3.7064.1005 trở lên.
 
-Tệp OneDrive theo yêu cầu sẽ giúp bạn truy nhập tất cả các tệp trong OneDrive mà không cần phải tải xuống tất cả chúng và sử dụng dung lượng lưu trữ trên thiết bị của bạn.
+OneDrive Tệp theo Yêu cầu giúp bạn truy nhập vào tất cả các tệp trong OneDrive mà không phải tải xuống toàn bộ chúng và sử dụng dung lượng lưu trữ trên thiết bị của bạn.
 
-Để cấu hình các tệp theo yêu cầu trên PC của bạn:
+Để đặt cấu hình Tệp Theo Yêu cầu trên PC của bạn:
 
-1. Chọn biểu tượng đám mây **Onedrive** màu trắng hoặc màu lam trong khu vực thông báo trên thanh tác vụ Windows. Chọn **thiết đặt** > **Trợ giúp & thiết đặt** bánh răng.
-2. Trên tab **thiết đặt** , hãy chọn **dung lượng lưu và tải xuống các tệp khi bạn sử dụng** hộp thư.  
+1. Chọn biểu tượng đám mây **OneDrive** màu trắng hoặc màu lam trong khu Windows thông báo của thanh tác vụ. Chọn biểu **tượng hình & Cài đặt** hình bánh > **Cài đặt.**
+2. Trên tab **Cài đặt,** chọn hộp Lưu **dung lượng và tải xuống tệp khi bạn sử dụng.**  
 
-Bạn cũng có thể cấu hình các tệp theo yêu cầu bằng cách sử dụng sổ đăng ký.
+Bạn cũng có thể đặt cấu hình Tệp Theo Yêu cầu bằng sổ đăng ký.
 
-Nếu bạn vô hiệu hóa thiết đặt này, người dùng Windows 10 có cùng một hành vi đồng bộ với những người dùng của các phiên bản trước của Windows và không thể bật các tệp theo yêu cầu. Nếu bạn không cấu hình thiết đặt này, người dùng có thể bật hoặc tắt các tệp theo yêu cầu.
+Nếu bạn tắt thiết đặt này, Windows 10 người dùng sẽ có hành vi đồng bộ giống như người dùng của các phiên bản Windows trước đây và không thể bật tính năng Tệp Theo Yêu cầu. Nếu bạn không cấu hình thiết đặt này, người dùng có thể bật hoặc tắt Tệp Theo Yêu cầu.
 
-Cho phép chính sách này đặt giá trị khóa đăng ký sau đây thành 1. Vô hiệu hóa chính sách này đặt giá trị khóa đăng ký sau đây thành 0.
+Việc bật chính sách này sẽ đặt giá trị khóa đăng ký sau đây là 1. Việc tắt chính sách này sẽ đặt giá trị khóa đăng ký sau đây thành 0.
 
 `[HKLM\SOFTWARE\Policies\Microsoft\OneDrive]"FilesOnDemandEnabled"="dword:00000001"`
 
-Nếu bạn không nhìn thấy tùy chọn tệp theo yêu cầu trong "thiết đặt", hãy đảm bảo rằng "kiểu trình điều khiển bộ lọc tệp của Windows Cloud" được đặt là 2 (AUTO_START). Cho phép tính năng này đặt giá trị khóa đăng ký sau đây thành 2.
+Nếu bạn không thể nhìn thấy tùy chọn Tệp Theo Yêu cầu trong "Cài đặt", hãy đảm bảo rằng loại bắt đầu dịch vụ "Windows Trình điều khiển Bộ lọc Tệp Đám mây" được đặt thành 2 (AUTO_START). Việc bật tính năng này sẽ đặt giá trị khóa đăng ký sau đây là 2.
 
 `[HKLM\SYSTEM\CurrentControlSet\Services\CldFlt]"Start"="dword:00000002"`

@@ -11,22 +11,22 @@ ms.assetid: 6b695be8-eaf5-44ff-b0ae-1e0d89e7ab36
 ms.custom:
 - "1828"
 - "9000231"
-ms.openlocfilehash: 9ee728fa9eefc882d220d8484c8c92d4d8c9af4d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5d07d8e9206b4b7d0756277409d48b0cd299e5cf0fd7261e6c0ad75dfe8648f1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47770610"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53957455"
 ---
-# <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a>Khi nào hồ sơ của tôi thay đổi đồng bộ với ứng dụng hồ sơ người dùng SharePoint?
+# <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a>Khi nào thì thay đổi hồ sơ của tôi đồng bộ với Ứng SharePoint Người dùng?
 
-Đồng bộ hóa ảnh hồ sơ trong SharePoint Online yêu cầu hành động của người dùng để bắt đầu đồng bộ ảnh của họ. Không có tự động đồng bộ hóa ảnh vào SharePoint Online. SharePoint Online chỉ đồng bộ hóa ảnh từ Exchange Online, chứ không phải Azure Active Directory.
+Đồng bộ hóa Ảnh Hồ sơ trong SharePoint Online yêu cầu hành động của người dùng để khởi tạo hoạt động đồng bộ ảnh của họ. Không có tính năng tự động đồng bộ hóa ảnh với SharePoint Online. SharePoint Trực tuyến chỉ đồng bộ hóa ảnh Exchange Online chứ không đồng bộ Azure Active Directory.
 
-Nếu người dùng chưa bao giờ thực hiện một hành động mà sẽ nhắc đồng bộ hóa hoặc họ đã cập nhật ảnh hồ sơ của họ và tệp mới không xuất hiện trong SharePoint Online, người dùng có thể cần phải nhắc để đồng bộ. Đây là cách họ có thể thực hiện điều này:
+Nếu người dùng chưa bao giờ thực hiện hành động nhắc đồng bộ hoặc họ đã cập nhật ảnh hồ sơ và ảnh mới không xuất hiện trong SharePoint Online thì có thể người dùng sẽ cần nhắc họ đồng bộ. Đây là cách họ có thể thực hiện điều này:
 
-1. Mở một trình duyệt web trong phiên làm việc riêng tư hoặc ẩn danh và [đi đến Office.com](https://www.office.com/).
+1. Mở một trình duyệt web trong In-Private ẩn danh hoặc phiên ẩn danh [và truy cập Office.com](https://www.office.com/).
 
-2. Đăng nhập bằng tài khoản cơ quan hoặc trường học của họ, rồi bấm vào ô OneDrive hoặc SharePoint.
+2. Đăng nhập bằng tài khoản cơ quan hoặc trường học của họ, rồi bấm vào ô OneDrive hoặc SharePoint trang.
 
 3. [Thêm ảnh hồ sơ của họ vào Microsoft 365](https://support.office.com/article/Add-your-profile-photo-to-Office-365-2eaf93fd-b3f1-43b9-9cdc-bdcd548435b7).
 

@@ -11,16 +11,16 @@ ms.custom: ''
 ms.assetid:
 - "9002317"
 - "4502"
-ms.openlocfilehash: ea6a54b8eb64b54def4d8b8360f3f7cafba88afc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bed58749fe2e4da490a2c86dc4c6d46e093d4b36c246cedd3e4f86e75c817c9a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47780837"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53977355"
 ---
 # <a name="how-to-close-your-account"></a>Cách đóng tài khoản của bạn
 
-Khi bạn đóng tài khoản với Microsoft, tất cả các thông tin liên quan đến tài khoản của bạn sẽ bị xóa. Thông tin này bao gồm các đăng ký, giấy phép, phương thức thanh toán, người dùng và dữ liệu người dùng. Trước khi bạn bắt đầu quy trình này, hãy đảm bảo sao lưu bất kỳ dữ liệu nào mà bạn muốn giữ nguyên.
+Khi bạn đóng tài khoản với Microsoft, mọi thông tin liên quan đến tài khoản của bạn sẽ bị xóa. Thông tin này bao gồm đăng ký, giấy phép, phương thức thanh toán, người dùng và dữ liệu người dùng. Trước khi bắt đầu quy trình này, hãy đảm bảo rằng bạn đã sao lưu mọi dữ liệu mà bạn muốn bảo toàn.
 
 Có năm bước để đóng tài khoản của bạn:
 
@@ -28,10 +28,10 @@ Có năm bước để đóng tài khoản của bạn:
 
 2. Hủy bỏ tất cả các đăng ký hiện hoạt.
 
-3. Xóa tất cả các thuê bao bị vô hiệu hóa.
+3. Xóa tất cả các đăng ký đã vô hiệu hóa.
 
 4. Tắt xác thực đa yếu tố.
 
 5. Xóa thư mục trong Azure Active Directory.
 
-Có thể tìm thấy đầy đủ các hướng dẫn trong bài viết [đóng tài khoản của bạn](https://docs.microsoft.com/microsoft-365/commerce/close-your-account) .
+Bạn có thể xem hướng dẫn đầy đủ trong bài [viết Đóng hỗ trợ tài khoản](https://docs.microsoft.com/microsoft-365/commerce/close-your-account) của mình.

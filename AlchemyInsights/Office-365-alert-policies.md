@@ -1,5 +1,5 @@
 ---
-title: 1385-Office-365-cảnh báo-chính sách
+title: 1385-Office-365-alert-policies
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -13,36 +13,36 @@ ms.custom:
 - "1385"
 - "3200002"
 ms.assetid: ''
-ms.openlocfilehash: 8821a2ee1ae2207de5d1604762badf43808373c8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7bb5ec0efb7e29dc6a133d62491c7674c5a851a4fa422c647035aeaa0dbcd8d5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664048"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53918381"
 ---
 # <a name="alert-policies"></a>Chính sách cảnh báo
 
-Trung tâm tuân thủ & bảo mật của Microsoft 365 cung cấp các [chính sách cảnh báo mặc định](https://docs.microsoft.com/microsoft-365/compliance/alert-policies#default-alert-policies) có kích hoạt các cảnh báo cho các tổ chức với một doanh nghiệp 365 Office hoặc Office 365 chính phủ US E1/G1, E3/G3, hoặc E5/G5 đăng ký. Do đó, người quản trị có thể nhận được thông báo email được gửi bởi Office365Alerts@microsoft.com bằng một dòng chủ đề, chẳng hạn như "một cảnh báo nghiêm trọng: *tên của chính sách cảnh báo*". Thông báo cảnh báo được gửi khi các cảnh báo được kích hoạt cho các hoạt động chung, chẳng hạn như khi người dùng:
+Trung tâm Bảo mật Microsoft 365 & cung [](https://docs.microsoft.com/microsoft-365/compliance/alert-policies#default-alert-policies) cấp các chính sách cảnh báo mặc định kích hoạt cảnh báo cho tổ chức có đăng ký Office 365 Enterprise hoặc Office 365 Government E1/G1, E3/G3 hoặc E5/G5 của Chính phủ Hoa Kỳ. Do đó, người quản trị có thể nhận được thông báo qua email cảnh báo được gửi Office365Alerts@microsoft.com kèm theo dòng chủ đề chẳng hạn như "Cảnh báo mức độ nghiêm trọng *thấp:* tên của chính sách cảnh báo ". Thông báo cảnh báo được gửi đi khi các cảnh báo được kích hoạt cho các hoạt động phổ biến, chẳng hạn như khi người dùng:
 
 - Tạo quy tắc hộp thư đến chuyển tiếp email.
 - Gán quyền hộp thư của họ.
-- Chia sẻ hoặc xóa một số lượng lớn các tệp trong phần chia sẻ tệp SharePoint.
-- Tạo tìm kiếm khám phá điện tử và xuất kết quả tìm kiếm.
+- Chia sẻ hoặc xóa một lượng lớn tệp trong SharePoint sẻ tệp.
+- Tạo tìm kiếm Khám phá Điện tử và xuất kết quả tìm kiếm.
 
 Để xem lại và hành động trên một cảnh báo:
 
-1. Đi đến [Trung tâm tuân thủ bảo mật &](https://protection.office.com) và đăng nhập.
-2. Bấm **Alerts**cảnh  >  **báo dạng xem**cảnh báo.
-3. Bấm vào một cảnh báo để hiển thị một trang bay ra với thông tin về cảnh báo.
+1. Đi đến Trung [tâm Bảo & Tuân thủ,](https://protection.office.com) rồi đăng nhập.
+2. Bấm **vào Cảnh báo** dạng xem cảnh  >  **báo**.
+3. Bấm vào một cảnh báo để hiển thị trang bật lên cùng với thông tin về cảnh báo đó.
 
-Bạn có thể thực hiện hành động trên một cảnh báo, chẳng hạn như [loại bỏ một quy tắc hộp thư đến đáng ngờ](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account). Hoặc bạn có thể chỉ cần đóng cảnh báo bằng cách bấm **giải quyết** trên trang bay ra cảnh báo.
+Bạn có thể thực hiện một hành động đối với một cảnh báo, chẳng hạn [như loại bỏ một quy tắc hộp thư đến đáng ngờ](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account). Hoặc bạn chỉ cần đóng cảnh báo bằng cách bấm **Giải quyết** trên trang bật lên cảnh báo.
 
-Để biết thêm thông tin về cách đặt cấu hình và quản lý các chính sách cảnh báo, hãy xem  [bài viết này](https://docs.microsoft.com/microsoft-365/compliance/alert-policies).
+Để biết thêm thông tin về việc đặt cấu hình và quản lý chính sách cảnh báo, hãy xem [bài viết này.](https://docs.microsoft.com/microsoft-365/compliance/alert-policies)
 
-**Quan trọng**: thông báo email cảnh báo từ Microsoft sẽ không bao giờ yêu cầu bạn thực hiện các thao tác sau:
+**Quan trọng:** Thông báo email cảnh báo từ Microsoft sẽ không bao giờ yêu cầu bạn thực hiện những việc sau:
 
 - Cung cấp mật khẩu
-- Xác nhận chi tiết bảo mật của tài khoản của bạn
+- Xác minh chi tiết bảo mật cho tài khoản của bạn
 - Xác thực lại bản thân
 
-Nếu bạn nhận được một thông báo email như thế này, nó không được gửi đến bởi Microsoft và phải được xem là lừa đảo qua mạng. Nếu điều này xảy ra, vui lòng [báo cáo với Microsoft](https://docs.microsoft.com/microsoft-365/security/office-365-security/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop).
+Nếu bạn nhận được một thư email như thế này thì email đó không phải do Microsoft gửi và bị coi là thư lừa đảo qua mạng. Nếu điều đó xảy ra, vui [lòng báo cáo cho Microsoft](https://docs.microsoft.com/microsoft-365/security/office-365-security/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop).

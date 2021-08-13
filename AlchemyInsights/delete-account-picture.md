@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "3452"
 - "9001439"
-ms.openlocfilehash: c7baa3267d62ae1bef64b9f7c91b5f8aedfcbc8e
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1a9e3fe14e3cd2062b54a2443fdc6dd2f1a7bcccf79538fc439295ce43082149
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51815565"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53948252"
 ---
-# <a name="delete-an-account-picture-in-windows-10"></a>Xóa ảnh tài khoản trong Windows 10
+# <a name="delete-an-account-picture-in-windows-10"></a>Xóa bỏ ảnh tài khoản trong Windows 10
 
-Windows được thiết kế để cho phép bạn chuyển đổi giữa ba ảnh gần đây nhất của bạn. Nếu bạn cần xóa một trong các ảnh tài khoản của mình:
+Windows được thiết kế để cho phép bạn chuyển đổi giữa ba ảnh gần đây nhất. Nếu bạn cần xóa một trong các ảnh tài khoản của mình:
 
-1. Mở file Explorer từ thanh tác vụ. Nếu bạn không thấy file Explorer (biểu tượng thư mục) trên thanh tác vụ, hãy chọn **bắt đầu** và nhập **file Explorer**.
+1. Mở File explorer từ thanh tác vụ. Nếu bạn không nhìn thấy File explorer (biểu tượng thư mục) trên thanh tác vụ, hãy chọn Bắt **đầu** và nhập **File explorer**.
 
-2. Đi đến C:\Users \\ *yourname*\AppData\Roaming\Microsoft\Windows\AccountPictures. 
-    - Thay *tên tên* với tên tài khoản của bạn.
-    - Nếu bạn không thể tìm thấy thư mục AppData trong file Explorer, có thể bạn sẽ bị ẩn. Chọn thiết đặt **dạng xem** , rồi chọn hộp kiểm các **mục đã ẩn** để hiện tất cả các mục trong một thư mục.
+2. Đi tới C:\Users \\ *yourname*\AppData\Roaming\Microsoft\Windows\AccountPictures. 
+    - Thay *thế tên bạn* bằng tên tài khoản của bạn.
+    - Nếu bạn không thể tìm thấy thư mục Dữ liệu Ứng dụng trong File Explorer, thì thư mục đó có thể bị ẩn. Chọn thiết **đặt Dạng** xem, rồi chọn hộp kiểm **Các mục** Ẩn để hiện tất cả các mục trong một thư mục.
 
-3. Xóa ảnh tài khoản mà bạn không còn muốn sử dụng nữa.
+3. Xóa bỏ ảnh tài khoản mà bạn không muốn sử dụng nữa.
  
  
