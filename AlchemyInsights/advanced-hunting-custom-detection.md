@@ -1,5 +1,5 @@
 ---
-title: 9001220 phát hiện tùy chỉnh bắn bắn nâng cao
+title: 9001220 phát hiện tùy chỉnh bảo vệ nâng cao
 ms.author: dolmont
 author: DulceMontemayor
 manager: dansimp
@@ -14,12 +14,12 @@ ms.custom:
 - "3200"
 - "9001220"
 ms.assetid: ''
-ms.openlocfilehash: ea478cfbbbe96065608990770e0453d8f2613981
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 8520cf14a937dbf83a5ebb8be86111dcd183fd4cfc59248fa0ec3a1e2685714f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52543023"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53952307"
 ---
 # <a name="advanced-hunting-custom-detections"></a>Phát hiện Tùy chỉnh Bảo vệ Nâng cao
 
@@ -30,6 +30,6 @@ Nếu bạn đang sử dụng ATP của Bộ bảo vệ Microsoft, hãy xem các
 - [Tạo quy tắc phát hiện tùy chỉnh](/windows/security/threat-protection/microsoft-defender-atp/custom-detection-rules)
 - [Xem và quản lý quy tắc phát hiện tùy chỉnh](/windows/security/threat-protection/microsoft-defender-atp/custom-detections-manage)
 
-Nếu bạn đang sử dụng Bộ Microsoft 365, hãy xem các chủ đề sau đây để biết chi tiết: 
+Nếu bạn đang sử dụng Bộ bảo vệ Microsoft 365, hãy xem các chủ đề sau đây để biết chi tiết: 
 - [Tổng quan về phát hiện tùy chỉnh](/microsoft-365/security/mtp/custom-detections-overview)
 - [Tạo và quản lý quy tắc phát hiện tùy chỉnh](/microsoft-365/security/mtp/custom-detection-rules)

@@ -1,5 +1,5 @@
 ---
-title: Cách thức Azure bảo vệ nhận dạng Active Directory được cung cấp và triển khai
+title: Cách cung Azure Active Directory cấp và triển khai Tính năng Bảo vệ Định danh
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003955"
 - "7012"
-ms.openlocfilehash: d248a57e99177f4a11a5640d90bb15a0a7f5a3ee
-ms.sourcegitcommit: e56dd310cb2d4fef5ab339775a3929c85b69ed99
+ms.openlocfilehash: 4d639525fa170ef1a501d4683c49fd50dad0c9b401b3ade1635d11e783524237
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49714909"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53927887"
 ---
-# <a name="how-azure-active-directory-identity-protection-is-provisioned-and-deployed"></a>Cách thức Azure Active Directory Protection được cung cấp và triển khai?
+# <a name="how-azure-active-directory-identity-protection-is-provisioned-and-deployed"></a>Làm thế Azure Active Directory cấp và triển khai Tính năng Bảo vệ Định danh?
 
-Theo mặc định, các tính năng của việc bảo vệ chứng danh Azure Active Directory được kích hoạt ở cấp độ đối tượng thuê cho tất cả người dùng trong đối tượng thuê.
+Theo mặc định, các tính năng của Tính năng Bảo Azure Active Directory Danh tính được bật ở mức đối tượng thuê cho tất cả người dùng trong đối tượng thuê.
 
-Để tìm hiểu thêm, hãy xem [mục Azure bảo vệ chứng danh trong Active Directory là gì?](https://go.microsoft.com/fwlink/?linkid=2130395)
+Để tìm hiểu thêm, xem [phần Bảo vệ Azure Active Directory danh là gì?](https://go.microsoft.com/fwlink/?linkid=2130395)

@@ -1,5 +1,5 @@
 ---
-title: Kết quả kiểm tra là trống
+title: Kết quả kiểm tra được để trống
 ms.author: pebaum
 author: bentoncity
 manager: scotv
@@ -12,23 +12,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1437061a-a602-4853-b5fb-3cea7fd735ce
-ms.openlocfilehash: c72d3623dc2deaf28892513e268db4e1a8d8f228
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 30395b291818c8f193fc2147e5302e04efe9929dad8df96586be1c3e75bd35aa
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47715259"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53917733"
 ---
-# <a name="auditing-results-are-blank"></a>Kết quả kiểm tra là trống
+# <a name="auditing-results-are-blank"></a>Kết quả kiểm tra được để trống
 
- **Báo cáo kiểm nghiệm cho các site cổ điển**
+ **Báo cáo kiểm tra các site cổ điển**
   
-Để xem báo cáo kiểm nghiệm cho một tuyển tập trang SharePoint, bạn phải là người quản trị cho tuyển tập trang. Để thêm chính mình với tư cách là người quản trị, hãy xem [Thêm người quản trị tuyển tập trang như người quản trị toàn cầu hoặc SharePoint](https://go.microsoft.com/fwlink/?linkid=869390). Để biết thông tin về cách làm việc với Nhật ký kiểm tra, hãy xem [xem báo cáo Nhật ký kiểm](https://go.microsoft.com/fwlink/?linkid=395237)nghiệm. 
+To view an audit report for a SharePoint site collection, you must be an administrator for the site collection. Để tự thêm chính mình làm người quản trị, hãy [xem Thêm người quản trị tuyển tập site làm người quản trị toàn cầu SharePoint trị.](https://go.microsoft.com/fwlink/?linkid=869390) Để biết thông tin về cách làm việc với nhật ký kiểm tra, hãy xem [Xem báo cáo nhật ký kiểm tra](https://go.microsoft.com/fwlink/?linkid=395237). 
   
- **Tìm kiếm Nhật ký kiểm tra**
+ **Tìm kiếm nhật ký kiểm tra**
   
-Bạn cần phải là người quản trị toàn cầu để làm việc với Nhật ký kiểm tra trong [ &amp; Trung tâm tuân thủ bảo mật](https://protection.office.com). Trước khi bạn bắt đầu, hãy bật ghi nhật ký kiểm tra. Sau đó, bạn có thể chạy tìm kiếm Nhật ký kiểm tra. 
+Bạn cần phải là người quản trị toàn cầu để có thể làm việc với nhật ký kiểm tra trong Trung [tâm Tuân thủ Bảo &amp; mật.](https://protection.office.com) Trước khi bạn bắt đầu, hãy bật tính năng ghi nhật ký kiểm tra. Sau đó, bạn có thể chạy tìm kiếm nhật ký kiểm tra. 
   
-[Tìm hiểu cách tìm kiếm Nhật ký kiểm tra](https://go.microsoft.com/fwlink/?linkid=708432).
+[Tìm hiểu cách tìm kiếm nhật ký kiểm tra](https://go.microsoft.com/fwlink/?linkid=708432).
   
 

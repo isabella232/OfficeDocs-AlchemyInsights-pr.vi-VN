@@ -1,5 +1,5 @@
 ---
-title: Tuân thủ HIPPA và Office 365
+title: Tuân thủ và tuân thủ HIPPA Office 365
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002430"
 - "4720"
-ms.openlocfilehash: 3f98c725e2624ddb584dc62321ce48de41e4a127
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 04c86c943956d70111c3183353e36c6aec275a6c7cc703aaa704de7b16298945
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51811442"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53927881"
 ---
-# <a name="hippa-compliance-and-office-365"></a>Tuân thủ HIPPA và Office 365
+# <a name="hippa-compliance-and-office-365"></a>Tuân thủ và tuân thủ HIPPA Office 365
 
-Bạn cần tìm hiểu thêm về cách sử dụng dịch vụ điện toán đám mây của Microsoft để giúp tuân thủ yêu cầu bảo mật và quyền riêng tư của HIPAA?  Các câu hỏi về cách sử dụng điểm tuân thủ Microsoft để đánh giá rủi ro của bạn hoặc tham gia vào thỏa thuận liên kết doanh nghiệp (BAA) với Microsoft?  
+Bạn cần tìm hiểu thêm về cách sử dụng các dịch vụ đám mây của Microsoft để giúp tuân thủ yêu cầu về bảo mật và quyền riêng tư HIPAA?  Bạn có câu hỏi về cách sử dụng Điểm Tuân thủ của Microsoft để đánh giá rủi ro của bạn hoặc tham gia vào Thỏa thuận Liên kết Kinh doanh (BAA) với Microsoft?  
 
-Xem các tài nguyên sau đây để biết thêm thông tin:
+Xem các tài nguyên sau để biết thêm thông tin:
 
-- Đối với một **HIPAA và tổng quan về HITECH Act**, hãy xem các [hành vi di động và tính năng bảo hiểm y tế (hipaa) & Hitech](https://docs.microsoft.com/microsoft-365/compliance/offering-hipaa-hitech?view=o365-worldwide).
+- Để xem phần tổng quan về **HIPAA** và Đạo luật HITECH , hãy xem Hoạt động Chuyển đổi và Trách nhiệm Giải trình Bảo hiểm Y tế [(HIPAA) & HITECH.](https://docs.microsoft.com/microsoft-365/compliance/offering-hipaa-hitech?view=o365-worldwide)
 
-- **Sử dụng [điểm tuân thủ](https://docs.microsoft.com/microsoft-365/compliance/offering-hipaa-hitech?view=o365-worldwide#use-microsoft-compliance-score-to-assess-your-risk)** để đánh giá rủi ro của bạn.
+- **Sử dụng [Điểm Tuân thủ để](https://docs.microsoft.com/microsoft-365/compliance/offering-hipaa-hitech?view=o365-worldwide#use-microsoft-compliance-score-to-assess-your-risk)** đánh giá rủi ro của bạn.
 
-- **Tài liệu dịch vụ tuân thủ của office 365**, hãy xem [Office 365, Office 365 chính phủ Hoa kỳ và Office 365 US Government Defense](https://go.microsoft.com/fwlink/p/?LinkID=2077751).
+- **Office 365 về** các Sản phẩm Tuân thủ , [xem Office 365, Office 365](https://go.microsoft.com/fwlink/p/?LinkID=2077751)Quan hệ Với Chính phủ Hoa Kỳ và Cơ quan Bảo Office 365 Chính phủ Hoa Kỳ .
 
-- Cần phải nhập vào BAA với Microsoft for Microsoft Cloud Services: [thỏa thuận liên kết HIPAA Business](https://aka.ms/BAA) có sẵn thông qua các điều khoản Dịch vụ trực tuyến theo mặc định cho tất cả khách hàng là các thực thể được bao phủ hoặc cộng tác kinh doanh bên dưới HIPAA. Xem "Dịch vụ điện toán đám mây Microsoft trong phạm vi" trên trang web này để biết danh sách các dịch vụ điện toán đám mây được bao phủ bởi BAA này.
+- Cần tham gia BAA với Microsoft cho Dịch vụ Đám mây của Microsoft: Thỏa thuận liên kết kinh doanh [HIPAA](https://aka.ms/BAA) sẵn dùng thông qua Điều khoản Dịch vụ Trực tuyến theo mặc định cho tất cả khách hàng là thực thể được bao gồm hoặc liên kết kinh doanh theo HIPAA. Xem "Các dịch vụ điện toán đám mây trong phạm vi của Microsoft" trên trang web này để biết danh sách các dịch vụ đám mây được baA này đề cập.
 
-- Sử dụng Microsoft nhóm? Xem [cách nhóm Microsoft giúp với việc tuân thủ HIPAA](https://www.microsoft.com/microsoft-365/blog/2019/04/30/white-paper-microsoft-teams-healthcare-providers-hipaa-compliance/).
+- Bạn đang sử Microsoft Teams? Xem [cách Microsoft Teams trợ với tuân thủ HIPAA](https://www.microsoft.com/microsoft-365/blog/2019/04/30/white-paper-microsoft-teams-healthcare-providers-hipaa-compliance/).
