@@ -1,5 +1,5 @@
 ---
-title: Hủy đặt trước
+title: Hủy bỏ Đặt trước
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,61 +12,61 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003552"
 - "6817"
-ms.openlocfilehash: 6b27344b43aa5c20d64d148ff164be805f3b5ef8
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8d0a6a37a244e817472c3949109481a30d80328b7353806905e05c547e196ea0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819714"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53931255"
 ---
-# <a name="cancelling-reservation"></a>Hủy đặt trước
+# <a name="cancelling-reservation"></a>Hủy bỏ Đặt trước
 
-- **Tự phục vụ:** Bạn có thể hủy bỏ hoặc trao đổi một bản thể hiện riêng cho bản thân bạn bằng cách sử dụng [Azure Portal](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade). Chọn đặt trước và bấm vào hoàn tiền hoặc trao đổi. Lưu ý rằng bạn phải có quyền truy cập vào chủ sở hữu thứ tự đặt trước để trao đổi hoặc hoàn tiền. Quyền truy nhập chỉ đặt phòng sẽ không cho phép bạn tiếp tục hoàn tiền hoặc trao đổi. Đặt yêu cầu người sở hữu đặt trước để cấp cho bạn quyền truy nhập vào thứ tự đặt trước
-- **Chính sách Exchange:** Bạn có thể trao đổi một đặt trước để đặt một lần nữa cùng loại – không có hình **phạt nào** về Exchange. Tổng các cam kết với việc Đặt phòng mới phải lớn hơn tổng của số tiền hoàn tiền của Đặt phòng và các khoản thanh toán hàng tháng trong tương lai (nếu có)
-- **Chính sách hoàn tiền:** Tổng hoàn tiền và các khoản thanh toán trong tương lai không thể vượt quá $50.000 USD trong một cửa sổ lăn 12 tháng. **Hiện tại chúng tôi không tính phí bất kỳ hình phạt nào** khi hoàn tiền nhưng có thể tính phí tiền bồi hoàn trong tương lai  
-    **Ngoại lệ:** Tự phục vụ Exchange và hủy bỏ khả năng không sẵn dùng cho khách hàng thỏa thuận doanh nghiệp của chính phủ Hoa Kỳ
-- Hỗ trợ **API/PS/CLI** không sẵn dùng để hủy bỏ và hoàn tiền lại [trao đổi tự phục vụ và hoàn tiền cho Azure RESERVATIONS](https://docs.microsoft.com/azure/cost-management-billing/reservations/exchange-and-refund-azure-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
-- Tự phục vụ Exchange và hủy bỏ khả năng không sẵn dùng cho khách hàng thỏa thuận doanh nghiệp của chính phủ Hoa Kỳ. Các loại đăng ký của chính phủ Hoa Kỳ khác bao gồm thanh toán-như-bạn-Go và CPC được hỗ trợ
+- **Tự phục vụ:** Bạn có thể tự hủy hoặc đổi phiên bản dành riêng bằng cổng [thông tin Azure.](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade) Chọn đặt trước, rồi bấm vào hoàn tiền hoặc đổi lại. Lưu ý rằng bạn phải có quyền truy cập chủ sở hữu trên Lệnh Đặt trước để đổi lại hoặc hoàn tiền. Việc truy cập vào chỉ Đặt trước sẽ không cho phép bạn tiếp tục hoàn tiền hoặc đổi lại. Yêu cầu chủ sở hữu Yêu cầu Đặt trước cung cấp cho bạn quyền truy cập của chủ sở hữu vào Lệnh Đặt trước
+- **Exchange sách mới:** Bạn có thể trao đổi đặt trước để giữ lại một loại đặt trước khác – không có **hình thức trừng phạt nào** đối với việc trao đổi đặt trước. Tổng cam kết với việc đặt trước mới phải lớn hơn tổng số tiền hoàn lại cho việc đặt trước đã trao đổi và các khoản thanh toán hàng tháng trong tương lai (nếu có)
+- **Chính sách hoàn tiền:** Tổng tiền hoàn trả và các khoản thanh toán trong tương lai đã hủy bỏ không được vượt quá $50.000 USD trong một cửa sổ liên kết 12 tháng. Hiện tại, **chúng tôi không tính bất kỳ khoản tiền hoàn lại nào** cho việc hoàn tiền nhưng có thể tính phí cho các khoản hoàn tiền trong tương lai  
+    **Ngoại lệ:** Tính năng trao đổi và hủy bỏ tự phục vụ không sẵn dùng cho khách hàng của Chính phủ Hoa Thỏa thuận Doanh nghiệp hàng
+- **Api / PS / CLI** không sẵn có để hủy bỏ và hoàn tiền cho trao đổi tự phục vụ và hoàn tiền cho Việc đặt trước [Azure](https://docs.microsoft.com/azure/cost-management-billing/reservations/exchange-and-refund-azure-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Tính năng trao đổi và hủy bỏ tự phục vụ không sẵn dùng cho khách hàng của Chính phủ Hoa Thỏa thuận Doanh nghiệp khách hàng. Hỗ trợ các loại đăng ký khác của Chính phủ Hoa Kỳ bao gồm Thanh toán Khi Di chuyển và CSP
 
-Tìm hiểu thêm: [cách xử lý các giao dịch trở về và trao đổi](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#how-return-and-exchange-transactions-are-processed)  
-Tìm hiểu thêm: [chính sách trao đổi và hoàn tiền](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#exchange-policies)  
-Các câu hỏi khác: [truy cập](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support) tài liệu dự phiên bản dự trữ
+Tìm hiểu thêm: [Cách xử lý các giao dịch trả lại và trao đổi](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#how-return-and-exchange-transactions-are-processed)  
+Tìm hiểu thêm : Chính [Exchange và Hoàn tiền](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#exchange-policies)  
+Câu hỏi khác: [Truy cập tài liệu phiên bản dành riêng](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Trao đổi phiên bản dự trữ hiện có (tự phục vụ)**
+**Exchange một phiên bản dành riêng hiện có (Tự phục vụ)**
 
-Bạn có thể trao đổi đặt trước để đặt trước một kiểu khác của cùng một loại. Bạn cũng có thể hoàn tiền lại một lúc đặt trước, tối đa $50.000 USD mỗi năm, nếu bạn không còn cần đến. Tự phục vụ Exchange và hủy bỏ khả năng không sẵn dùng cho khách hàng thỏa thuận doanh nghiệp của chính phủ Hoa Kỳ. Các loại đăng ký của chính phủ Hoa Kỳ khác bao gồm thanh toán-như-bạn-Go và CPC được hỗ trợ. Bạn phải có quyền truy nhập của chủ sở hữu để đặt trước để trao đổi hoặc hoàn tiền đặt trước hiện tại.
+Bạn có thể đổi phần bảo lưu cho một phần bảo lưu khác có cùng loại. Bạn cũng có thể hoàn tiền cho việc đặt trước, tối đa $50.000 USD mỗi năm, nếu bạn không cần nữa. Tính năng trao đổi và hủy bỏ tự phục vụ không sẵn dùng cho khách hàng của Chính phủ Hoa Thỏa thuận Doanh nghiệp khách hàng. Hỗ trợ các loại đăng ký khác của Chính phủ Hoa Kỳ, bao gồm Thanh toán Khi Di chuyển và CSP. Bạn phải có quyền truy cập của chủ sở hữu trên Lệnh Đặt trước để đổi lại hoặc hoàn lại tiền bảo lưu hiện có.
 
-Các bước sau đây sẽ hướng dẫn quy trình để hoàn tất giao dịch
+Các bước sau đây sẽ hướng dẫn quy trình hoàn tất giao dịch
 
-1. Đăng nhập vào [cổng thông tin Azure](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade)của bạn. Chọn Đặt phòng mà bạn muốn hoàn tiền và bấm **Exchange**
-2. Chọn sản phẩm VM mà bạn muốn mua và nhập số lượng. Hãy đảm bảo rằng tổng mua mới có nhiều hơn tổng trả về [xác định kích cỡ phù hợp trước khi bạn mua](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?WT.mc_id=Portal-Microsoft_Azure_Support#determine-the-right-vm-size-before-you-buy)
+1. Đăng nhập vào cổng thông [tin Azure của bạn.](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade) Chọn mục đặt trước mà bạn muốn hoàn tiền và bấm vào **Exchange**
+2. Chọn sản phẩm VM mà bạn muốn mua và nhập số lượng. Hãy đảm bảo rằng tổng mua hàng mới lớn hơn tổng hoàn vốn Xác định [kích cỡ phù hợp trước khi mua](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?WT.mc_id=Portal-Microsoft_Azure_Support#determine-the-right-vm-size-before-you-buy)
 3. Xem lại và hoàn tất giao dịch
 
-**Hoàn tiền cho một ví dụ dành riêng**
+**Hoàn tiền cho bản thể hiện đã đặt trước**
 
-Để hoàn tiền lại một lúc đặt trước, hãy đi tới **chi tiết đặt trước** và bấm **hoàn tiền**
+Để hoàn tiền cho việc đặt trước, hãy đi tới Chi **tiết Đặt trước và** bấm vào Hoàn **tiền**
 
-**Hoàn tiền được đánh giá Pro:**
+**Pro hoàn tiền được xếp hạng cao nhất:**
 
-**Các ví dụ Pro-suất ăn và yêu cầu tối thiểu để hoàn tiền và trao đổi**  
-Ví dụ về đặt trước khi trả trước:
+**Pro dụ về yêu cầu tối thiểu và hoàn tiền cho việc đổi trả**  
+Ví dụ về đặt trước mặt trước:
 
-- Bạn mua một thuật ngữ RI năm cho $120 vào ngày 1 tháng 1
-- Vào ngày 07 tháng tư bạn muốn hoàn tiền hoặc trao đổi đặt chỗ này
-- Kể từ khi đặt trước đã được trực tiếp cho 97 ngày, bạn sẽ nhận được (1-97/365) * $120 trở lại. (ví dụ như $88,1). Hiện tại không có hình phạt khi hoàn tiền
-- Nếu việc trao đổi, mua mới của bạn phải lớn hơn $88,1
-- Hiện không có hình phạt nào khi hoàn tiền
+- Bạn mua kỳ hạn một năm RI với giá $120 vào ngày 1 tháng 1
+- Vào 07 Tháng Tư, bạn muốn hoàn tiền hoặc đổi thông tin đặt trước này
+- Vì đặt trước đã hoạt động trong 97 ngày, bạn sẽ nhận được (1-97/365) * $120 trở lại. (tức là $88,1). Hiện không có hình phạt nào đối với hoàn tiền
+- Nếu trao đổi, giao dịch mua hàng mới của bạn phải lớn hơn $88,1
+- Hiện không có hình phạt nào đối với hoàn tiền
 
-**Ví dụ về lập hóa đơn đặt phòng:**
+**Ví dụ về đặt trước gói thanh toán:**
 
-- Bạn mua một thuật ngữ RI năm cho $10 mỗi tháng
-- Vào ngày 07 tháng tư bạn muốn hoàn tiền hoặc trao đổi đặt chỗ này
-- Kể từ khi thanh toán cuối cùng đã xảy ra 7 ngày, bạn sẽ nhận được (1-7/31) * $10 trở lại. (ví dụ như $7,74)
-- Các khoản thanh toán trong tương lai đã bị hủy là $80. Hiện tại không có hình phạt khi hoàn tiền
-- Việc hủy bỏ này sẽ trừ $87,74 từ bạn là giới hạn hoàn tiền $50.000
-- Nếu trao đổi, giá trị tổng của mua mới sẽ lớn hơn $87,74
+- Bạn mua kỳ hạn một năm RI với giá $10 mỗi tháng
+- Vào 07 Tháng Tư, bạn muốn hoàn tiền hoặc đổi thông tin đặt trước này
+- Vì khoản thanh toán gần nhất đã diễn ra 7 ngày, bạn sẽ nhận được (1-7/31) * $10 trở lại. (ví dụ: $7,74)
+- Các khoản thanh toán trong tương lai đã bị hủy bỏ là $ 80. Hiện không có hình phạt nào đối với hoàn tiền
+- Hủy bỏ này sẽ trừ $87,74 khỏi giới hạn hoàn tiền $50.000
+- Nếu trao đổi, tổng giá trị của giao dịch mua hàng mới sẽ lớn hơn $87,74
 
-**Tài liệu được đề xuất**
+**Tài liệu được Đề xuất**
 
-- [Cách xử lý giao dịch và trao đổi như thế nào](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#how-return-and-exchange-transactions-are-processed)
-- [Chính sách trao đổi và hoàn tiền](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#exchange-policies)
+- [Cách xử lý các giao dịch trả lại và trao đổi](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#how-return-and-exchange-transactions-are-processed)
+- [Exchange sách Hoàn tiền và Hoàn tiền](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#exchange-policies)

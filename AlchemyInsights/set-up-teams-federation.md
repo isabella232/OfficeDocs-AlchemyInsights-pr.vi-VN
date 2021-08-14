@@ -1,5 +1,5 @@
 ---
-title: Thiết lập liên kết nhóm
+title: Thiết lập liên Teams liên kết
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001733"
 - "4340"
-ms.openlocfilehash: 03628008448867b7a66cf207a1b419bf7b54c48c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8907498faf18b2661d12812a5bf587123c7314f02ffae32a1df9d073e6767401
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798938"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53921533"
 ---
-# <a name="set-up-teams-federation"></a>Thiết lập liên kết nhóm
+# <a name="set-up-teams-federation"></a>Thiết lập liên Teams liên kết
 
-Nếu bạn cần trợ giúp về việc thiết lập truy nhập bên ngoài (liên kết) trong nhóm, bạn sẽ cần phải bật truy nhập bên ngoài trong Trung tâm quản trị nhóm.
+Nếu bạn cần trợ giúp thiết lập truy nhập bên ngoài (liên kết) trong Teams, bạn cần phải bật truy nhập bên ngoài trong Trung tâm Quản Teams Của bạn.
 
-Xem [quản lý quyền truy nhập bên ngoài trong Microsoft nhóm](https://docs.microsoft.com/microsoftteams/manage-external-access) để biết thêm các tùy chọn và thông tin về cấu hình.
+Hãy xem qua [mục Quản lý truy nhập bên ngoài trong Microsoft Teams](https://docs.microsoft.com/microsoftteams/manage-external-access) các tùy chọn cấu hình và thông tin bổ sung.

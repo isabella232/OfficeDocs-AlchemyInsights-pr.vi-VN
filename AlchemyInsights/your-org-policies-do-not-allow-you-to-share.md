@@ -1,5 +1,5 @@
 ---
-title: Các chính sách của tổ chức bạn không cho phép bạn chia sẻ
+title: Chính sách của tổ chức của bạn không cho phép bạn chia sẻ
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "9411"
-ms.openlocfilehash: 5e178d51047a484b121a58de7f69a63ac49a1779
-ms.sourcegitcommit: be246651064dfeacc866b2f69c0dbe4002a73f1c
+ms.openlocfilehash: 30ee51f76701a81b72256c21049b6879cad99a17f98397cf73c8ce85d910867f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747110"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53997408"
 ---
-# <a name="your-organizations-policies-do-not-allow-you-to-share"></a>Các chính sách của tổ chức bạn không cho phép bạn chia sẻ
+# <a name="your-organizations-policies-do-not-allow-you-to-share"></a>Chính sách của tổ chức của bạn không cho phép bạn chia sẻ
 
-Nếu bạn nhận được lỗi này khi cố gắng chia sẻ một mục hoặc một site trong SharePoint Online hoặc OneDrive for Business, hãy làm theo hướng dẫn dưới đây:
+Nếu bạn đang nhận được lỗi này khi tìm cách chia sẻ một mục hoặc site trong SharePoint Online hoặc OneDrive for Business, hãy làm theo hướng dẫn dưới đây:
  
-[Các chính sách của tổ chức bạn không cho phép bạn chia sẻ với những người dùng này](https://docs.microsoft.com/sharepoint/troubleshoot/sharing-and-permissions/organization-policies-do-not-allow-you-to-share-with-users-error)
+[Chính sách của tổ chức của bạn không cho phép bạn chia sẻ với những người dùng này](https://docs.microsoft.com/sharepoint/troubleshoot/sharing-and-permissions/organization-policies-do-not-allow-you-to-share-with-users-error)

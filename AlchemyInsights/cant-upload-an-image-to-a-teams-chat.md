@@ -1,5 +1,5 @@
 ---
-title: Không thể tải lên hình ảnh vào cuộc trò chuyện nhóm
+title: Không thể tải ảnh lên cuộc trò Teams chuyện
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003308"
 - "6212"
-ms.openlocfilehash: 1fdec1dd18d521e52f7c5879bb5b7c14c989d158
-ms.sourcegitcommit: 76dbf5aaea92a62d7957cf210583a7f2c29c1ce5
+ms.openlocfilehash: 858ab4986a269d307b50965ad9077adb425541938cd91e60dc470db27d81d954
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "49950146"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53930823"
 ---
-# <a name="cant-upload-an-image-to-a-teams-chat"></a>Không thể tải lên hình ảnh vào cuộc trò chuyện nhóm
+# <a name="cant-upload-an-image-to-a-teams-chat"></a>Không thể tải ảnh lên cuộc trò Teams chuyện
 
-Khắc phục sự cố đề xuất:
+Đề xuất khắc phục sự cố:
 
-- Nếu bạn đang sử dụng nhóm trên web, hãy thử một trình duyệt khác. Để biết danh sách các trình duyệt được hỗ trợ, hãy xem mục "trình duyệt" của [giới hạn và đặc tính đối với nhóm Microsoft](https://docs.microsoft.com/microsoftteams/limits-specifications-teams).
-- Kiểm tra tính tương thích của phần cứng và hệ điều hành của bạn. Để biết thêm thông tin, hãy xem [yêu cầu phần cứng đối với nhóm Microsoft](https://docs.microsoft.com/microsoftteams/hardware-requirements-for-the-teams-app).
-- Kiểm tra xem bạn có phiên bản nhóm mới nhất hay không. Để biết thêm thông tin, hãy xem [quy trình Cập Nhật nhóm](https://docs.microsoft.com/microsoftteams/teams-client-update) để biết thêm chi tiết.
+- Nếu bạn đang sử dụng Teams trên web, hãy thử một trình duyệt khác. Để biết danh sách các trình duyệt được hỗ trợ, hãy xem mục "Trình duyệt" của Giới [hạn và đặc tả dành Microsoft Teams.](https://docs.microsoft.com/microsoftteams/limits-specifications-teams)
+- Kiểm tra tính tương thích của phần cứng và HĐH của bạn. Để biết thêm thông tin, hãy [xem Yêu cầu phần cứng cho Microsoft Teams.](https://docs.microsoft.com/microsoftteams/hardware-requirements-for-the-teams-app)
+- Kiểm tra xem bạn có phiên bản mới Teams không. Để biết thêm thông tin, hãy [xem Teams cập nhật để](https://docs.microsoft.com/microsoftteams/teams-client-update) biết chi tiết.

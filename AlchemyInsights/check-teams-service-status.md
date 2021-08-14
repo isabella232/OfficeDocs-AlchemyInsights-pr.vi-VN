@@ -1,5 +1,5 @@
 ---
-title: Kiểm tra trạng thái dịch vụ của nhóm
+title: Kiểm tra Teams thái dịch vụ
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "4392"
 - "9001703"
-ms.openlocfilehash: 9fd1abe502948202776f4d74392e43232c1b9581
-ms.sourcegitcommit: 2eb1dd0856509b9907ccba9a5cb99d09b4f6eb4b
+ms.openlocfilehash: ffc3d65cd9f2fb0116ef14f9ab3105686cfbad34125379d6b5b9db355712a507
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 12/21/2020
-ms.locfileid: "49724212"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53930643"
 ---
-# <a name="check-teams-service-status"></a>Kiểm tra trạng thái dịch vụ của nhóm
+# <a name="check-teams-service-status"></a>Kiểm tra Teams trạng thái dịch vụ
 
-Để kiểm tra trạng thái hiện tại của dịch vụ Microsoft nhóm, hãy đi đến trang trạng thái **dịch vụ** trong [Trung tâm quản trị Microsoft 365](https://go.microsoft.com/fwlink/p/?linkid=2024339). Để biết thêm thông tin, hãy xem [làm thế nào để kiểm tra trạng thái dịch vụ Microsoft 365](https://docs.microsoft.com/office365/enterprise/view-service-health).
+Để kiểm tra trạng thái hiện tại của dịch Microsoft Teams, hãy truy nhập **trang Trạng thái Dịch** vụ trong [Trung tâm quản trị Microsoft 365.](https://go.microsoft.com/fwlink/p/?linkid=2024339) Để biết thêm thông tin, [hãy xem mục Cách kiểm tra tình Microsoft 365 dịch vụ .](https://docs.microsoft.com/office365/enterprise/view-service-health)
 
-Nếu sự cố không liên quan đến dịch vụ Microsoft nhóm, chúng tôi sẽ cần thêm thông tin chi tiết để tìm các tài nguyên phù hợp. Đặt lại vấn đề của bạn và bao gồm tên sản phẩm cụ thể, tính năng hoặc lỗi và gửi truy vấn tìm kiếm của bạn một lần nữa.
+Nếu sự cố không liên quan đến dịch vụ Microsoft Teams, chúng tôi sẽ cần thông tin chi tiết hơn để tìm được đúng tài nguyên. Khôi phục sự cố của bạn và bao gồm tên sản phẩm, tính năng hoặc lỗi cụ thể và gửi lại truy vấn tìm kiếm của bạn.
