@@ -1,5 +1,5 @@
 ---
-title: 2589 giúp ngăn chặn tệp đính kèm Winmail. dat trong thư email từ tổ chức của bạn
+title: 2589 Giúp ngăn chặn các tệp đính kèm Winmail.dat trong thư email từ tổ chức của bạn
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,23 +11,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 2589
 ms.assetid: ''
-ms.openlocfilehash: f67c4146af419a590651c8e0673fd59fabd7eae7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 64212b0a8cb1ccd2158aaa84ea2725b879e608ab4fcada1fbf1032e896be12c2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693757"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53923846"
 ---
-# <a name="help-prevent-winmaildat-attachments-in-email-messages-from-your-organization"></a>Giúp ngăn không cho phần đính kèm Winmail. dat trong thư email từ tổ chức của bạn
+# <a name="help-prevent-winmaildat-attachments-in-email-messages-from-your-organization"></a>Giúp ngăn chặn các tệp đính kèm Winmail.dat trong thư email từ tổ chức của bạn
 
 Với tư cách là người quản trị, hãy thử các bước sau:
 
-1. Mở [Trung tâm quản trị Exchange](https://outlook.office365.com/ecp/).
+1. Mở trung [tâm quản Exchange chính .](https://outlook.office365.com/ecp/)
 
-2. Đi tới **Mail flow**các  >  **tên miền từ xa**của dòng thư.
+2. Đi tới **Tên miền từ xa** dòng  >  **Thư.**
 
-3. Chọn tên miền từ xa mặc định có tên **mặc định**, rồi bấm **sửa**.
+3. Chọn tên miền từ xa mặc định tên **là Mặc** định , rồi bấm **Sửa**.
 
-4. Trong phần **sử dụng định dạng văn bản phong phú** , chọn **không bao giờ**.
+4. Trong phần Sử **dụng văn bản có định dạng,** hãy chọn Không bao **giờ**.
 
-Để biết thêm thông tin, hãy xem [mục xác định định dạng thư cho tên miền từ xa](https://docs.microsoft.com/Exchange/mail-flow-best-practices/remote-domains/remote-domains#specifying-message-format).
+Để biết thêm thông tin, [hãy xem Xác định định dạng thư cho tên miền từ xa.](https://docs.microsoft.com/Exchange/mail-flow-best-practices/remote-domains/remote-domains#specifying-message-format)

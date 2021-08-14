@@ -1,5 +1,5 @@
 ---
-title: 1489-quyền-cho-khám phá điện tử-tìm kiếm
+title: 1489-permissions-required-for-ediscovery-searches
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -12,23 +12,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1489
 ms.assetid: ''
-ms.openlocfilehash: bc384a948bab5ba93b00f9401cc42e4fda71ec3d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4343a43b5019877ce01601f4baa13f3290177d25e0d24d6034858205966f5f35
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795842"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53973863"
 ---
-# <a name="permissions-required-for-ediscovery-searches"></a>Quyền cần thiết cho tìm kiếm khám phá điện tử
+# <a name="permissions-required-for-ediscovery-searches"></a>Quyền cần thiết để tìm kiếm Khám phá Điện tử
 
-Để thực hiện các tìm kiếm nội dung trong Trung tâm tuân thủ & bảo mật, người dùng phải ít nhất là một thành viên của nhóm vai trò trình quản lý eDiscovery, cho phép họ thực hiện các tìm kiếm và vị trí chứa trên hộp thư, site SharePoint và OneDrive. Thành viên cũng có thể tạo và quản lý các trường hợp khám phá điện tử, thêm và loại bỏ thành viên vào trường hợp, tạo và chỉnh sửa các tìm kiếm nội dung và dữ liệu Access Case trong khám phá điện tử nâng cao.
+Để thực hiện Tìm kiếm Nội dung trong Trung tâm Bảo mật & Tuân thủ, ít nhất người dùng phải là thành viên của nhóm vai trò Người quản lý Khám phá Điện tử, cho phép họ thực hiện tìm kiếm và giữ lại trên hộp thư, site SharePoint và vị trí OneDrive. Thành viên cũng có thể tạo và quản lý các vụ việc Khám phá Điện tử, thêm và loại bỏ thành viên vào vụ việc, tạo và chỉnh sửa Tìm kiếm Nội dung cũng như truy nhập dữ liệu vụ việc trong Advanced eDiscovery.
 
-Để thực hiện tìm kiếm khám phá điện tử tại chỗ trong Trung tâm quản trị Exchange (EAC), người dùng phải là thành viên của nhóm vai trò quản lý khám phá trong Exchange Online.
+Để thực hiện In-Place kiếm Khám phá Điện tử trong Trung tâm quản trị Exchange (EAC), người dùng phải là thành viên của nhóm vai trò Quản lý Khám phá trong Exchange Online.
 
-Để biết thêm thông tin về quyền khám phá điện tử, hãy xem: 
+Để biết thêm thông tin về các quyền Khám phá Điện tử, hãy xem: 
 
-- [Gán quyền khám phá điện tử trong Trung tâm tuân thủ & bảo mật](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)
+- [Gán quyền Khám phá Điện tử trong Trung tâm Bảo mật & Tuân thủ](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)
 
-- [Gán quyền khám phá điện tử trong Exchange](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/assign-ediscovery-permissions)
+- [Gán quyền Khám phá Điện tử trong Exchange](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/assign-ediscovery-permissions)
 
-**Lưu ý**: sau khi gán quyền khám phá điện tử, bạn có thể phải chờ một vài phút để các quyền tuyên truyền.
+**Lưu** ý: Sau khi gán quyền Khám phá Điện tử, có thể bạn cần chờ vài phút để các quyền phát hành.

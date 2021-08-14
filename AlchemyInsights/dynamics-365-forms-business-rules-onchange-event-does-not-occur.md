@@ -1,5 +1,5 @@
 ---
-title: Động lực 365 biểu mẫu quy tắc kinh doanh-quy tắc kinh doanh không được bắn cho biểu mẫu
+title: Quy tắc Kinh doanh của Dynamics 365 Forms - Quy tắc Doanh nghiệp Không Được sử dụng cho Biểu mẫu
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,15 +10,15 @@ localization_priority: Normal
 ms.custom:
 - "1926"
 - "6200018"
-ms.openlocfilehash: 7422b67973f93ce10c1639209cc50206a1016c10
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8425918950e1ef6c44f2866e6fa8987fe165536ae21e08ea6a1da880f761d512
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47711513"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53947321"
 ---
-# <a name="onchange-event-does-not-occur-if-the-field-is-changed-programmatically"></a>Sự kiện OnChange không xảy ra nếu trường được thay đổi theo lập trình
+# <a name="onchange-event-does-not-occur-if-the-field-is-changed-programmatically"></a>Sự kiện OnChange sẽ không xảy ra nếu trường bị thay đổi theo chương trình
 
-Sự kiện *onChange* không xảy ra nếu trường được thay đổi theo chương trình bằng *thuộc tính.* phương pháp [Setvalue](https://docs.microsoft.com/dynamics365/customer-engagement/developer/clientapi/reference/attributes/setvalue) . Nếu bạn muốn xử lý sự kiện cho sự kiện *onChange* để chạy sau khi bạn thiết lập giá trị mà bạn phải dùng phương pháp điều chỉnh theo *ngữ cảnh. dữ liệu. thuộc tính* [fireonchange](https://docs.microsoft.com/dynamics365/customer-engagement/developer/clientapi/reference/attributes/fireonchange) thuộc tính trong mã của bạn.
+Sự *kiện OnChange* sẽ không xảy ra nếu trường được thay đổi theo chương trình bằng cách sử dụng thuộc *tính.* [phương pháp setValue.](https://docs.microsoft.com/dynamics365/customer-engagement/developer/clientapi/reference/attributes/setvalue) Nếu bạn muốn bộ xử lý sự kiện cho sự kiện *OnChange* chạy sau khi đã đặt giá trị thì bạn phải sử dụng phương pháp *formContext.data.entity attribute* [fireOnchange](https://docs.microsoft.com/dynamics365/customer-engagement/developer/clientapi/reference/attributes/fireonchange) trong mã của mình.
 
 [https://docs.microsoft.com/dynamics365/customer-engagement/developer/clientapi/reference/events/attribute-onchange](https://docs.microsoft.com/dynamics365/customer-engagement/developer/clientapi/reference/events/attribute-onchange)

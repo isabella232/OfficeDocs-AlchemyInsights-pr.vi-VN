@@ -1,5 +1,5 @@
 ---
-title: Gán quyền người quản trị khám phá điện tử
+title: Gán các quyền của Người quản trị Khám phá Điện tử
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "7363"
 - "9000722"
-ms.openlocfilehash: 73a0ad4ad9296343327494a92670e61501e61568
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: b43a677377e11ce92e461532e54a3e4247de6a4e1924def11a14f4956b3d8de8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50749502"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54005868"
 ---
-# <a name="assign-ediscovery-administrator-permissions"></a>Gán quyền người quản trị khám phá điện tử
+# <a name="assign-ediscovery-administrator-permissions"></a>Gán các quyền của Người quản trị Khám phá Điện tử
 
-Để gán quyền người quản trị khám phá điện tử, hãy thực hiện các bước sau đây:
+Để gán các quyền của Người quản trị Khám phá Điện tử, hãy thực hiện các bước sau đây:
 
-1. Trong [Trung tâm tuân thủ & bảo mật của Office 365](https://sip.protection.office.com/), hãy chọn **quyền > trình quản lý eDiscovery**.
-2. Trong ngăn **trình quản lý eDiscovery** , bên cạnh **người quản trị khám phá** điện tử, hãy bấm **sửa**.
-3. Trong ngăn **người quản trị chọn khám phá** điện tử, hãy bấm **chọn người quản trị khám phá** điện tử.
-4. Trong ngăn **người quản trị chọn khám phá** điện tử, bấm vào **Thêm +**, rồi chọn tên của người dùng.
-5. Chọn **thêm > đã hoàn tất > lưu**.
+1. Trong Trung [Office 365 Bảo mật & Tuân thủ](https://sip.protection.office.com/), chọn Quyền trong Trình quản > Khám phá Điện **tử.**
+2. Trong ngăn **Trình quản lý Khám phá Điện** tử, bên cạnh Người quản trị Khám phá Điện **tử,** bấm vào **Chỉnh sửa.**
+3. Trong ngăn **Chỉnh sửa Chọn Người quản trị Khám phá Điện** tử, bấm vào Chọn Người quản trị Khám phá Điện **tử.**
+4. Trong ngăn **Chọn Người quản trị Khám phá Điện** tử, bấm vào **Thêm+**, rồi chọn tên của người dùng.
+5. Chọn **Thêm > Hoàn > Lưu**.

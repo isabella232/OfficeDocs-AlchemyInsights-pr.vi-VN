@@ -12,28 +12,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002949"
 - "5646"
-ms.openlocfilehash: 62ca4dfffbc08040400400c384390c30a485865f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 5ca94b3f812478b2221d0fcc070b7e7273e45dc3633e46c99384a270a624015e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51809569"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53991521"
 ---
 # <a name="reset-or-recover-your-pc"></a>Đặt lại hoặc khôi phục PC của bạn
 
-**Quan trọng**: nếu bạn đã mã hóa thiết bị của mình, bạn sẽ cần phím BitLocker của mình để đặt lại PC của bạn. Nếu bạn không biết khóa BitLocker của mình, hãy xem [Tìm khóa phục hồi BitLocker của tôi](https://support.microsoft.com/help/4026181/windows-10-find-my-bitlocker-recovery-key).
+**QUAN** TRỌNG: Nếu bạn đã mã hóa thiết bị, bạn sẽ cần khóa BitLocker để đặt lại PC. Nếu bạn không biết khóa BitLocker của mình, hãy xem mục [Tìm khóa khôi phục BitLocker của tôi](https://support.microsoft.com/help/4026181/windows-10-find-my-bitlocker-recovery-key).
 
-**Đặt lại PC của bạn từ thiết đặt**
+**Đặt lại PC từ Cài đặt**
 
-Bạn có thể đặt lại PC của bạn từ **cài đặt > Cập nhật & bảo mật > phục hồi**. Sau khi bạn bắt đầu, bạn có thể chọn từ các tùy chọn của việc giữ các ứng dụng được cài đặt sẵn, các tệp cá nhân hoặc loại bỏ mọi thứ. Để đọc thêm về các tùy chọn, hãy xem **mục đặt lại phần PC của bạn** trong các [tùy chọn phục hồi trong Windows 10](https://support.microsoft.com/help/12415/windows-10-recovery-options).
+Bạn có thể đặt lại PC từ **Cài đặt > Cập nhật & phục > hồi.** Sau khi bắt đầu, bạn có thể chọn từ các tùy chọn giữ lại các ứng dụng cài đặt sẵn, tệp cá nhân hoặc xóa mọi thứ. Để đọc thêm về các tùy chọn, hãy xem mục **Đặt lại PC của bạn trong** tùy chọn Phục hồi [Windows 10.](https://support.microsoft.com/help/12415/windows-10-recovery-options)
 
-**Đặt lại PC của bạn từ màn hình đăng nhập**
+**Đặt lại PC từ màn hình đăng nhập**
 
-Nếu bạn không thể mở thiết đặt, bạn có thể đặt lại PC của mình từ màn hình đăng nhập:
+Nếu không thể mở Cài đặt, bạn có thể đặt lại PC từ màn hình đăng nhập:
 
-1. Nhấn **phím logo Windows + L** để đến màn hình đăng nhập; sau đó khởi động lại PC của bạn bằng cách nhấn phím **Shift** trong khi bạn chọn nút **Power** > **khởi động lại** ở góc dưới bên phải của màn hình. PC của bạn sẽ khởi động lại trong môi trường phục hồi Windows (WinRE).
-2. Trên màn hình **chọn tùy chọn** , đi tới **khắc phục sự cố > đặt lại PC này**, sau đó chọn một trong các tùy chọn.
+1. Nhấn **Windows phím logo + L** để đến màn hình đăng nhập; sau đó khởi động lại PC của  bạn bằng cách nhấn phím **Shift** trong khi chọn nút Nguồn > **Khởi** động lại ở góc dưới bên phải của màn hình. PC của bạn sẽ khởi động lại trong Môi Windows hồi Máy tính (WinRE).
+2. Trên màn **hình Chọn một tùy chọn,** đi đến Khắc phục > Đặt lại PC **này**, rồi chọn một trong các tùy chọn.
 
-**Thêm các tùy chọn khôi phục hoặc phục hồi**
+**Tùy chọn khôi phục hoặc khôi phục khác**
 
-Bạn cũng có thể khôi phục hoặc phục hồi PC của bạn bằng cách sử dụng ổ đĩa phục hồi. Hơn thế nữa, trong thời gian giới hạn sau khi nâng cấp lên Windows 10, bạn sẽ có thể quay lại phiên bản Windows trước của bạn. Tìm hiểu thêm [tại đây](https://support.microsoft.com/help/12415/windows-10-recovery-options).
+Bạn cũng có thể khôi phục hoặc khôi phục PC bằng cách sử dụng ổ đĩa phục hồi. Hơn nữa, trong một khoảng thời gian giới hạn sau khi nâng cấp lên Windows 10, bạn sẽ có thể quay lại phiên bản trước đó của Windows. Tìm hiểu thêm [tại đây](https://support.microsoft.com/help/12415/windows-10-recovery-options).

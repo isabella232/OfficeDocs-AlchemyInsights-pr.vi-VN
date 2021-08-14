@@ -1,5 +1,5 @@
 ---
-title: Ẩn các thư mục công cộng
+title: Ẩn thư mục công cộng
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "8417"
-ms.openlocfilehash: 70179296e9c1bb7391535f55796bc5af80b825f8
-ms.sourcegitcommit: a019bd8b0244914edb59e124bc6538cdc5c158f9
+ms.openlocfilehash: 66c76947d553c32475ebe7a11e69246b5b3a2882bb3d022873d85b93b3e87887
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 02/18/2021
-ms.locfileid: "50315445"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945764"
 ---
-# <a name="hide-public-folders"></a>Ẩn các thư mục công cộng
+# <a name="hide-public-folders"></a>Ẩn thư mục công cộng
 
-**Để ẩn toàn bộ cây thư mục công cộng**:
+**Để ẩn toàn bộ cây thư mục công cộng:**
 
-Hãy làm theo các bước trong bài viết [này](https://aka.ms/ControlPF) để ẩn toàn bộ cây thư mục công cộng khỏi chọn lọc hoặc tất cả người dùng.
+Sử dụng các bước trong bài [viết này](https://aka.ms/ControlPF) để ẩn toàn bộ cây thư mục công cộng khỏi chọn lọc hoặc tất cả người dùng.
 
-**Để ẩn một thư mục công cộng cụ thể**:
+**Để ẩn một thư mục công cộng cụ thể:**
 
-1. Thêm quyền cho người dùng cần truy nhập vào thư mục công cộng
+1. Thêm quyền cho người dùng cần truy nhập thư mục công cộng
 
     `Add-PublicFolderClientPermission \test1 -User cloud1 -AccessRights owner`
 
-2. Loại bỏ **mặc định** của người dùng khỏi danh sách **quyền** :
+2. Loại bỏ người dùng **Mặc định** khỏi danh **sách quyền:**
 
     `Remove-PublicFolderClientPermission \test1 -User Default`

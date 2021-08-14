@@ -1,5 +1,5 @@
 ---
-title: Loại bỏ phần đính kèm lớn
+title: Loại bỏ tệp đính kèm lớn
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,24 +14,24 @@ ms.custom:
 - "9000768"
 - "9002385"
 - "4645"
-ms.openlocfilehash: 1068f9e3b88dcc98a4d1042e923f235bf21ee727
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 425c5c0f12bed27bb72a0eb0fec803d7b61d9d0f873563dc6439cbfda9fdd08c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51799255"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53959381"
 ---
-# <a name="remove-the-large-attachment"></a>Loại bỏ phần đính kèm lớn
+# <a name="remove-the-large-attachment"></a>Loại bỏ tệp đính kèm lớn
 
-1. Trong Outlook, chọn **gửi/nhận**  >  **làm việc ngoại tuyến**. 
-2. Trong ngăn dẫn hướng, hãy chọn **hộp** thư đi. Từ đây, bạn có thể: 
-    - Xóa thư (chọn nó, rồi chọn **xóa**).
-    - Kéo thư vào thư mục Thư nháp của bạn, bấm đúp để mở và loại bỏ phần đính kèm chọn nó, rồi chọn **xóa bỏ**).
-3. Nếu bạn nhận được thông báo lỗi cho biết rằng Outlook đang cố gắng truyền thư, hãy đóng Outlook. Có thể mất một vài phút để thoát ra. Nếu Outlook không đóng, hãy nhấn Ctrl + Alt + Delete, rồi chọn **bắt đầu trình quản lý tác vụ**. Trong trình quản lý tác vụ, chọn tab **quy trình** , cuộn xuống đến outlook.exe, rồi chọn **kết thúc quy trình**.
-4. Sau khi Outlook đóng, hãy khởi động lại và lặp lại các bước 2 và 3. 
-5. Sau khi bạn loại bỏ phần đính kèm, hãy bấm **gửi/nhận**  >  **làm việc ngoại tuyến** để tiếp tục làm việc trực tuyến. 
+1. Trong Outlook, chọn Gửi **/ Nhận Công** việc Ngoại  >  **tuyến**. 
+2. Trong ngăn dẫn hướng, chọn **Hộp thư đi**. Từ đây, bạn có thể: 
+    - Xóa thư (chọn thư rồi chọn **Xóa).**
+    - Kéo thư vào thư mục Thư nháp, bấm đúp để mở thư và loại bỏ tệp đính kèm, chọn thư rồi **chọn Xóa**).
+3. Nếu bạn nhận được lỗi thông báo rằng Outlook đang cố gắng truyền thông điệp, hãy đóng Outlook. Có thể mất một lúc để thoát. Nếu Outlook đóng, nhấn Ctrl+Alt+Delete, rồi chọn Bắt đầu Trình **quản lý Tác vụ**. Trong Trình quản lý Tác vụ, chọn tab **Quy** trình, cuộn xuống đến outlook.exe và chọn Kết **thúc Quy trình.**
+4. Sau khi Outlook, hãy khởi động lại, rồi lặp lại bước 2 và 3. 
+5. Sau khi bạn loại bỏ phần đính kèm, hãy bấm **Gửi / Nhận Công** việc Ngoại tuyến  >  **để** tiếp tục làm việc trực tuyến. 
 
-Thông điệp cũng bị kẹt trong hộp thư đi khi bạn bấm **gửi**, nhưng bạn không được kết nối. Bấm **gửi/nhận** và xem nút **làm việc ngoại tuyến** . Nếu có màu lam, bạn đã bị ngắt kết nối. Bấm vào nó để kết nối (nút này sẽ chuyển sang màu trắng), rồi bấm **gửi tất cả**.
+Thư cũng bị kẹt trong Hộp thư đi khi bạn bấm **vào Gửi** nhưng bạn không được kết nối. Bấm **Gửi / Nhận và** nhìn vào nút Làm việc **Ngoại** tuyến. Nếu màu xanh dương, bạn sẽ bị ngắt kết nối. Bấm vào đó để kết nối (nút chuyển sang màu trắng) và bấm **Gửi Tất cả**.
  
  Để biết chi tiết đầy đủ, hãy xem:
-- [Video: gửi hoặc xóa một email bị kẹt](https://support.office.com/article/Video-Send-or-delete-an-email-stuck-in-your-outbox-26d5d34a-4e5f-444a-a9e8-44db04a94dec) 
+- [Video: Gửi hoặc xóa một email bị kẹt](https://support.office.com/article/Video-Send-or-delete-an-email-stuck-in-your-outbox-26d5d34a-4e5f-444a-a9e8-44db04a94dec) 
