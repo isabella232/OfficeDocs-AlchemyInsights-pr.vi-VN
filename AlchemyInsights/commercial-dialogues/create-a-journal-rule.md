@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004299"
 - "7677"
-ms.openlocfilehash: b0b95f8b6460418d92314dede2ca8bc1326b033e
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 7b6d7fde295e963fb1e8a86171ed4b0e6e2ebc66b7136835d75f5f8c1b19f9de
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747891"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53988821"
 ---
 # <a name="create-a-journal-rule"></a>Tạo quy tắc nhật ký
 
 Dưới đây là cách thực hiện:
 
-1. Trong [Trung tâm quản trị Exchange](https://go.microsoft.com/fwlink/p/?linkid=2059104), đi đến quy tắc nhật ký **quản lý tuân thủ**  >  , rồi chọn biểu tượng **Thêm (+)** .
-2. Trong **quy tắc nhật ký mới**, hãy cung cấp tên cho quy tắc nhật ký và sau đó cạnh tranh các trường sau đây:  
-    - **Gửi báo cáo Nhật ký để**: nhập địa chỉ của hộp thư journaling mà sẽ nhận được tất cả các báo cáo Nhật ký.  
-    - **Nếu thư được gửi đến hoặc nhận từ**: xác định người nhận rằng quy tắc đó sẽ đích đến. Bạn có thể chọn một người nhận cụ thể hoặc áp dụng quy tắc cho tất cả các thư.  
-    - **Nhật ký các thông báo sau đây**: xác định phạm vi của quy tắc nhật ký. Bạn chỉ có thể Journal chỉ các thư nội bộ, chỉ các thư bên ngoài hoặc tất cả các thư bất kể nguồn gốc hoặc đích.
-3. Chọn **lưu** để tạo quy tắc nhật ký.
+1. Trong Trung [Exchange Quản trị Viên](https://go.microsoft.com/fwlink/p/?linkid=2059104), đi đến Quy tắc nhật **ký** quản lý tuân thủ , rồi chọn biểu tượng  >   **Thêm (+).**
+2. Trong **quy tắc nhật ký mới**, hãy cung cấp tên cho quy tắc nhật ký, rồi cạnh tranh với các trường sau:  
+    - **Gửi báo cáo nhật ký** đến : Nhập địa chỉ hộp thư ghi nhật ký sẽ nhận được tất cả báo cáo nhật ký.  
+    - **Nếu thư được gửi đến hoặc nhận từ: Xác định** người nhận mà quy tắc sẽ hướng đến. Bạn có thể chọn một người nhận cụ thể hoặc áp dụng quy tắc cho tất cả thư.  
+    - **Ghi nhật ký các thư sau:** Xác định phạm vi của quy tắc nhật ký. Bạn chỉ có thể ghi nhật ký thư nội bộ, chỉ các thông điệp bên ngoài hoặc tất cả thư bất kể nguồn gốc hay đích.
+3. Chọn **Lưu để** tạo quy tắc nhật ký.

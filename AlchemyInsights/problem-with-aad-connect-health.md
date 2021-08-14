@@ -1,5 +1,5 @@
 ---
-title: Vấn đề với thiết bị cảm ứng của Bad Connect
+title: Sự cố với Trạng Kết nối AAD
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004649"
 - "8427"
-ms.openlocfilehash: f5624069a2e96fde8aed08965ca6b753f3aad1e8
-ms.sourcegitcommit: 5763fedfd5dd459249c81cdbb4af34181a757bd5
+ms.openlocfilehash: 82cfcc6132549b52278b174fce3173f5566268864a207882a4dd639cb8024ee3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50483125"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53923774"
 ---
-# <a name="problem-with-aad-connect-health"></a>Vấn đề với thiết bị cảm ứng của Bad Connect
+# <a name="problem-with-aad-connect-health"></a>Sự cố với Trạng Kết nối AAD
 
-- Đảm bảo rằng bạn được phép thực hiện thao tác này. Người quản trị toàn cầu có quyền truy nhập theo mặc định. Ngoài ra, bạn có thể sử dụng [điều khiển truy nhập dựa trên vai trò](https://docs.microsoft.com/azure/active-directory/connect-health/active-directory-aadconnect-health-operations) để cho phép người đóng góp đăng ký.
-- Đảm bảo các điểm cuối bắt buộc được kích hoạt và không bị chặn do tường lửa. Để biết chi tiết, hãy xem mục [yêu cầu](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-agent-install).
-- Đăng ký có thể không thành công vì giao tiếp đi là phải chịu việc kiểm tra SSL bằng tầng mạng.
-- Đảm bảo rằng bạn đã xác minh cài đặt thông báo cho Azure AD Connect Health. Vui lòng xem lại thiết đặt của bạn. [Hướng dẫn](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-operations) này có thể giúp bạn hiểu cách cấu hình các thiết đặt thông báo cho Azure AD Connect Health Notifications.
-- Để tìm hiểu thêm về báo cáo đồng bộ hóa trạng thái kết nối và cách tải xuống, hãy xem [báo cáo đồng bộ hóa mức đối tượng](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-sync).
+- Đảm bảo bạn được phép thực hiện thao tác. Người quản trị toàn cục có quyền truy nhập theo mặc định. Ngoài ra, bạn có thể sử dụng [Kiểm soát Truy nhập Dựa trên Vai trò đối](https://docs.microsoft.com/azure/active-directory/connect-health/active-directory-aadconnect-health-operations) với quyền đăng ký đại diện cho Người đóng góp.
+- Đảm bảo các điểm cuối bắt buộc được bật và không bị chặn do tường lửa. Để biết chi tiết, hãy xem [yêu cầu](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-agent-install).
+- Việc đăng ký có thể không thành công do giao tiếp đi phải được kiểm tra SSL bởi tầng mạng.
+- Đảm bảo rằng bạn đã xác minh cài đặt thông báo cho Azure AD Kết nối Health. Vui lòng xem lại cài đặt của bạn. Hướng [dẫn này](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-operations) có thể giúp bạn hiểu cách đặt cấu hình thiết đặt thông báo cho Azure AD và Kết nối thông báo tình trạng tốt.
+- Để tìm hiểu thêm về báo cáo đồng bộ AAD Kết nối Health và cách tải xuống báo cáo, hãy xem Báo cáo đồng bộ [hóa mức đối tượng](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-sync).
 
-Để khắc phục sự cố về cảnh báo trạng thái kết nối, hãy làm theo [các hướng dẫn khắc phục sự cố cho các cảnh báo tự động kết nối dữ liệu](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-data-freshness) và cho các câu hỏi thường gặp, hãy xem các [câu hỏi cài đặt kết nối thông thường](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-health-faq)của cộng đồng.
+Để khắc phục sự cố cảnh báo Tình trạng AAD Kết nối, hãy làm theo hướng dẫn khắc phục sự cố cho cảnh báo làm mới dữ liệu [AAD Kết nối](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-data-freshness) Tình trạng và đối với các câu hỏi thường gặp, hãy xem mục Câu hỏi cài đặt [AAD Kết nối](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-health-faq)Tình trạng thường gặp.

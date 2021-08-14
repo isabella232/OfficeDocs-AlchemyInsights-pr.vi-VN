@@ -9,24 +9,24 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6b695be8-eaf5-44ff-b0ae-1e0d89e7ab36
-ms.openlocfilehash: eee1080a95955332e205db3852381e39aaf5ae0e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b223bad66fb7cc6d1d7c0a2b3ccc7a081c061b4974060dbcafec84dfb24eb782
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801791"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53923666"
 ---
-# <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a>Khi nào hồ sơ của tôi thay đổi đồng bộ với ứng dụng hồ sơ người dùng SharePoint?
+# <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a>Khi nào thì thay đổi hồ sơ của tôi đồng bộ với Ứng SharePoint Người dùng?
 
-SharePoint Online sử dụng công việc hẹn giờ nhập Active Directory (nhập vào quảng cáo) để nhập người dùng và nhóm vào ứng dụng hồ sơ người dùng. 
+SharePoint Trực tuyến sử dụng công việc bộ hẹn giờ Nhập Active Directory (AD Import) để nhập người dùng và nhóm vào Ứng dụng Hồ sơ Người dùng. 
   
-1. Người đồng bộ nhập quảng cáo thay đổi từ kho lưu trữ thư mục SharePoint Online vào ứng dụng hồ sơ người dùng. Những thay đổi này được xử lý theo lô.
+1. Tính năng Nhập AD sẽ đồng bộ các thay đổi SharePoint Online Directory Store với Ứng dụng Hồ sơ Người dùng. Những thay đổi này được xử lý theo lô.
     
-2. Công việc hẹn giờ sẽ chạy cho đến khi các thay đổi được đồng bộ.
+2. Công việc bộ đặt thời gian sẽ chạy cho đến khi các thay đổi được đồng bộ.
     
 > [!NOTE]
-> Thời gian cần thiết để chạy công việc phụ thuộc vào số lượng thay đổi thành quy trình. Một số lượng lớn các thay đổi sẽ kéo dài lâu hơn. Thỏa thuận mức dịch vụ (SLA) nói rằng một thay đổi đối với người dùng trong thư mục SharePoint Online sẽ được phản ánh trong ứng dụng hồ sơ người dùng trong 24 giờ. 
+> Thời gian cần công việc để chạy tùy thuộc vào số lượng thay đổi cần xử lý. Một số lượng lớn các thay đổi sẽ mất nhiều thời gian hơn. Thỏa thuận Mức Dịch vụ (SLA) nêu rằng một thay đổi đối với người dùng trong SharePoint Online Directory sẽ được phản ánh trong Ứng dụng Hồ sơ Người dùng trong 24 giờ. 
   
-[Thông tin thêm về đồng bộ hóa hồ sơ người dùng trong SharePoint Online](https://go.microsoft.com/fwlink/?linkid=875671)
+[Thông tin thêm về đồng bộ hồ sơ người dùng SharePoint Online](https://go.microsoft.com/fwlink/?linkid=875671)
   
 

@@ -1,5 +1,5 @@
 ---
-title: Tự động mã hóa các thư email nhất định từ Office 365
+title: Tự động mã hóa một số thư email nhất định từ office 365
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,28 +13,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 5ddaaed361f6ec934cfffb00cc62a9df2d1a04e8
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 74f9733196004fd7a78eeb290c948a9f35ac2a31b3c5b00bf82e44081aac8637
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50749451"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53988857"
 ---
-# <a name="automatically-encrypt-certain-email-messages-from-office-365"></a>Tự động mã hóa các thư email nhất định từ Office 365
+# <a name="automatically-encrypt-certain-email-messages-from-office-365"></a>Tự động mã hóa một số thư email nhất định từ office 365
 
-1. Từ [Trung tâm quản trị Exchange](https://outlook.office365.com/ecp/), chọn **quy tắc > dòng thư**. 
-2. Bấm vào biểu tượng **(+) mới** , rồi bấm vào **áp dụng mã hóa thư Office 365 và bảo vệ quyền đối với thư**.
-3. Trong **tên**, hãy nhập tên cho quy tắc, chẳng hạn như *mã hóa tất cả thư*.
-4. Trong **áp dụng quy tắc này nếu**, chọn **[áp dụng cho tất cả các thư]**. 
-5. Bên cạnh trường **thực hiện các bước sau** , hãy bấm **chọn một**. 
-6. Trong menu thả xuống của **mẫu RMS** , chọn **mã hóa**, rồi bấm **OK**. (Nếu bạn không thấy tùy chọn này, có nghĩa là gói đăng ký của bạn không bao gồm mã hóa tự động. Tuy nhiên, bạn có thể thêm nó!
-7. Kiểm tra hộp kiểm **kiểm tra quy tắc này với mức độ nghiêm trọng** , rồi chọn cấp độ mong muốn. Nếu công ty của bạn có nghĩa vụ hợp đồng để gửi tất cả các email đã mã hóa, tôi khuyên bạn nên đặt mức độ **cao**.
-8. Bên dưới **chọn một mô hình cho quy tắc này**, hãy bấm vào thực **thi**. 
-9. Chọn bất kỳ lựa chọn tùy chọn nào (từ danh sách các lựa chọn tùy chọn mà bạn có thể thực hiện tại thời điểm này, nhiều phần có thể còn lại với cài đặt mặc định cho đơn giản hơn).
+1. Từ trung [Exchange quản trị Viên](https://outlook.office365.com/ecp/), chọn quy tắc dòng > **thư.** 
+2. Bấm vào **biểu tượng Mới (+),** rồi bấm vào Áp **dụng Mã hóa Thư Office 365 và bảo vệ quyền cho thư.**
+3. Trong **Tên**, hãy nhập tên cho quy tắc, chẳng hạn như Mã hóa *tất cả thư*.
+4. Trong **Áp dụng quy tắc này nếu**, chọn **[Áp dụng cho tất cả thư]**. 
+5. Bên cạnh trường **Thực hiện như sau,** bấm vào **Chọn một mục**. 
+6. Trong menu **thả xuống mẫu RMS,** chọn Mã **hóa**, rồi bấm **OK.** (Nếu bạn không thấy tùy chọn này, có nghĩa là gói của bạn không bao gồm mã hóa tự động. Nhưng bạn có thể thêm nó!)
+7. Kiểm tra hộp **kiểm Kiểm tra quy tắc này với mức độ** nghiêm trọng, sau đó chọn mức mong muốn. Nếu công ty bạn có nghĩa vụ hợp đồng để gửi tất cả các email được mã hóa, tôi khuyên bạn nên đặt mức **cao**.
+8. Bên dưới **Chọn mô hình cho quy tắc này,** bấm vào Thực **thi**. 
+9. Chọn bất kỳ lựa chọn tùy chọn nào (từ danh sách các lựa chọn tùy chọn mà bạn có thể thực hiện tại thời điểm này, nhiều lựa chọn trong số đó có thể được để lại cài đặt mặc định cho đơn giản).
 10. Bấm vào **Lưu**.
 
 > [!IMPORTANT]
-> Bạn luôn có thể quay lại và chỉnh sửa quy tắc này sau này.
+> Sau này, bạn luôn có thể quay lại và chỉnh sửa quy tắc này.
 
-Để biết thêm thông tin về cách tạo quy tắc cho mã hóa, hãy xem mục [xác định quy tắc dòng thư để mã hóa thư email trong Office 365](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email)
+Để biết thêm thông tin về cách tạo quy tắc mã hóa, xem mục Xác [định quy tắc dòng thư để mã hóa thư email Office 365](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email)
 

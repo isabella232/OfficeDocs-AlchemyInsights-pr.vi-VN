@@ -1,2 +1,3 @@
-## <a name="microsoft-open-source-code-of-conduct"></a>Microsoft mở mã nguồn của ứng xử
-Dự án này đã thông qua [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). Để biết thêm thông tin xem [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) hoặc liên hệ với [opencode@microsoft.com](mailto:opencode@microsoft.com) với bất kỳ câu hỏi thêm hoặc ý kiến.
+## <a name="microsoft-open-source-code-of-conduct"></a>Quy tắc Ứng xử trong Nguồn Mở của Microsoft
+Dự án này đã áp dụng [Quy tắc Ứng xử Nguồn Mở của Microsoft](https://opensource.microsoft.com/codeofconduct/).
+Để biết thêm thông tin, hãy [xem Phần Quy tắc Ứng xử Câu hỏi thường gặp](https://opensource.microsoft.com/codeofconduct/faq/) hoặc thông tin liên [opencode@microsoft.com](mailto:opencode@microsoft.com) bất kỳ câu hỏi hoặc nhận xét bổ sung nào.

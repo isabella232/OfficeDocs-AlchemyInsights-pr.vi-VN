@@ -1,5 +1,5 @@
 ---
-title: Các sự cố URL của proxy ứng dụng
+title: Các vấn đề về URL proxy ứng dụng
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -15,25 +15,25 @@ ms.custom:
 - "9004338"
 - "9199"
 - "9004356"
-ms.openlocfilehash: 7334a0998ca30ba6957f3f15f3a6f40f8d683dda
-ms.sourcegitcommit: 1b554c31d008492f9e6464f0249af0332212a3fc
+ms.openlocfilehash: 0b1f23dcfa495825ba56898fc3c284a276eb679f750143b0c1460662835e658f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50641504"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53969777"
 ---
-# <a name="application-proxy-url-issues"></a>Các sự cố URL của proxy ứng dụng
+# <a name="application-proxy-url-issues"></a>Các vấn đề về URL proxy ứng dụng
 
 Để khắc phục sự cố liên quan đến URL proxy ứng dụng, hãy xem:
 
-- [Các liên kết trên trang không hoạt động đối với một ứng dụng proxy ứng](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-page-links-broken-problem)  dụng-hướng dẫn để khắc phục sự cố tại sao các liên kết trên ứng dụng Azure Active Directory (AD) của bạn không hoạt động chính xác.
+- [Các liên kết trên trang không hoạt](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-page-links-broken-problem) động đối với ứng dụng Proxy Ứng dụng - Hướng dẫn khắc phục sự cố tại sao các liên kết trên ứng dụng proxy Azure Active Directory (AD) của bạn không hoạt động đúng cách.
 
-- [Đặt cấu hình tên miền tùy chỉnh với AZURE AD Application proxy](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-custom-domain)  -thông tin về việc tạo một URL bên ngoài cho người dùng của bạn.
+- [Cấu hình tên miền riêng với Azure AD Application Proxy](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-custom-domain)  - Thông tin về cách tạo URL ngoài cho người dùng của bạn.
 
-- [Chuyển hướng các nối kết cứng được mã hóa cho các ứng dụng được phát hành bằng ứng dụng AZURE AD proxy](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-hard-coded-link-translation)  -thông tin về dịch các URL dòng nội tuyến
+- [Chuyển hướng các liên kết được mã hóa cố định cho các ứng dụng được phát](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-hard-coded-link-translation)  hành bằng Azure AD Application Proxy - Thông tin về URL dịch nội tuyến
 
-- [Thiết lập trang chủ tùy chỉnh cho các ứng dụng được phát hành bằng cách sử dụng ứng dụng AZURE AD proxy](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-custom-home-page#change-the-home-page-in-the-azure-portal) -khi bạn phát hành một ứng dụng với proxy ứng dụng, bạn đặt một URL nội bộ nhưng đôi khi không phải là người dùng trang sẽ thấy trước tiên. Thiết lập trang chủ tùy chỉnh để người dùng đến trang bên phải khi họ truy nhập vào ứng dụng. Người dùng sẽ nhìn thấy trang chủ tùy chỉnh mà bạn đã đặt, bất kể họ truy nhập ứng dụng từ Azure Active Directory ứng dụng của tôi hoặc công cụ khởi động ứng dụng Microsoft 365.
+- Đặt trang chủ tùy chỉnh cho các ứng dụng đã phát hành bằng cách sử dụng [Azure AD Application Proxy](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-custom-home-page#change-the-home-page-in-the-azure-portal) - Khi bạn phát hành ứng dụng với Proxy Ứng dụng, bạn đặt URL nội bộ nhưng đôi khi người dùng sẽ không nhìn thấy URL nội bộ. Đặt trang chủ tùy chỉnh để người dùng đến đúng trang khi họ truy nhập ứng dụng. Người dùng sẽ nhìn thấy trang chủ tùy chỉnh mà bạn đặt, bất kể họ truy nhập ứng dụng từ Azure Active Directory Ứng dụng của Tôi hay công cụ khởi động ứng dụng Microsoft 365 của Họ.
 
-- Bạn có thắc mắc về cấu hình URL của proxy ứng dụng? Hãy xem [Thêm ứng dụng tại chỗ vào AZURE AD](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-add-on-premises-application#add-an-on-premises-app-to-azure-ad).
+- Bạn có thắc mắc về cấu hình URL proxy của ứng dụng? Hãy [xem Thêm ứng dụng tại chỗ vào Azure AD](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-add-on-premises-application#add-an-on-premises-app-to-azure-ad).
  
 

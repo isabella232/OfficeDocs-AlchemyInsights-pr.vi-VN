@@ -1,5 +1,5 @@
 ---
-title: Không thể mở tài liệu từ SharePoint hoặc OneDrive
+title: Không thể Mở Tài liệu từ SharePoint hoặc OneDrive
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,13 +11,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000104"
 - "7227"
-ms.openlocfilehash: dab30b9e4d726af426829e63c8475d7d1755a8ce
-ms.sourcegitcommit: a9415f3ae8c7ba267b5134bcbdc1e070cea41a0f
+ms.openlocfilehash: dc539bb822048eee77ee0babddf5e01c8a68e2e6034fbdf9c932eff2c0e3119a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "49088983"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972369"
 ---
-# <a name="unable-to-open-documents-from-sharepoint-or-onedrive"></a>Không thể mở tài liệu từ SharePoint hoặc OneDrive
+# <a name="unable-to-open-documents-from-sharepoint-or-onedrive"></a>Không thể Mở Tài liệu từ SharePoint hoặc OneDrive
 
-Nếu bạn không thể mở các tệp hoặc tài liệu trong site SharePoint hoặc OneDrive, có thể có sự cố dịch vụ tạm thời mà người dùng gặp phải sự chậm trễ hoặc dẫn hướng lỗi khi truy nhập site SharePoint hoặc nội dung OneDrive. Kiểm tra [bảng điều khiển trạng thái dịch vụ](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) để xem liệu tổ chức của bạn có bị ảnh hưởng không.
+Nếu bạn không thể mở tệp hoặc tài liệu trong site SharePoint hoặc OneDrive thì có thể xảy ra sự cố dịch vụ tạm thời trong đó người dùng gặp phải sự cố gián tiếp hoặc lỗi dẫn hướng khi truy nhập site SharePoint hoặc nội dung OneDrive. Kiểm tra bảng [điều khiển Tình trạng dịch](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) vụ để xem liệu tổ chức của bạn có bị ảnh hưởng không.

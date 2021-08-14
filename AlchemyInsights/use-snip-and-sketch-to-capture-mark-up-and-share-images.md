@@ -1,5 +1,5 @@
 ---
-title: Sử dụng snip & Sketch để Capture, đánh dấu và chia sẻ hình ảnh
+title: Sử dụng Chấm & phác thảo để chụp, đánh dấu và chia sẻ hình ảnh
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001666"
 - "3733"
-ms.openlocfilehash: 1de3027260152dc14e33496af7cfb1dd239447d6
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7a165a0fc5fb7baa7b02f3093f784ca17de2fc0d59332d2e70fb0f507bfeb221
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51770833"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53980389"
 ---
-# <a name="use-snip--sketch-to-capture-mark-up-and-share-images"></a>Sử dụng snip & Sketch để Capture, đánh dấu và chia sẻ hình ảnh
+# <a name="use-snip--sketch-to-capture-mark-up-and-share-images"></a>Sử dụng Chấm & phác thảo để chụp, đánh dấu và chia sẻ hình ảnh
 
-Hình vẽ màn hình hiện được gọi là **snip & Sketch**. **Để nhanh chóng mất một snip**:
+Phác thảo màn hình giờ đây **được gọi là & Phác thảo**. **Để nhanh chóng ng xem một ngiết:**
 
-1. Nhấn **phím logo Windows + Shift + S**. Bạn sẽ thấy màn hình tối và con trỏ của bạn được hiển thị dưới dạng chéo. 
+1. Nhấn phím **Windows logo + Shift + S.** Bạn sẽ thấy màn hình của bạn đậm hơn và con trỏ của bạn được hiển thị dưới dạng chữ thập. 
 
-2. Chọn một điểm ở cạnh của khu vực mà bạn muốn sao chép và bấm chuột trái vào con trỏ. 
+2. Chọn một điểm ở cạnh vùng bạn muốn sao chép và bấm chuột trái vào con trỏ. 
 
-3. Di chuyển con trỏ của bạn để tô sáng vùng mà bạn muốn chụp. Khu vực mà bạn chụp sẽ xuất hiện trên màn hình của bạn.
+3. Di chuyển con trỏ của bạn để tô sáng khu vực bạn muốn chụp. Khu vực bạn chụp sẽ xuất hiện trên màn hình của bạn.
 
-   ![ảnh các lựa chọn được tô sáng](media/snipone.png)
+   ![ảnh của vùng chọn được tô sáng](media/snipone.png)
 
-Hình ảnh mà bạn đã Snipped được lưu vào bảng tạm của bạn, sẵn sàng dán vào email hoặc tài liệu. 
+Hình ảnh bạn đã cắt sẽ được lưu vào bảng tạm, sẵn sàng để dán vào email hoặc tài liệu. 
 
-**Nếu bạn muốn chỉnh sửa hoặc xem hình ảnh**: 
+**Nếu bạn muốn sửa hoặc xem hình ảnh:** 
 
-- Bấm vào biểu tượng thông báo ở phía ngoài cùng bên phải của thanh tác vụ; sau đó, bấm vào ảnh bạn vừa chụp. Snip của bạn sẽ mở ra trong ứng dụng snip & Sketch.
+- Bấm vào biểu tượng thông báo ở phía xa bên phải của thanh tác vụ; sau đó bấm vào ảnh mà bạn vừa chụp. Mẹo của bạn sẽ mở ra trong ứng dụng & phác thảo.
 
-   ![ảnh hình ảnh hiển thị trong ứng dụng Snipping](media/sniptwo.png)
+   ![hình ảnh hiển thị trong ứng dụng cắt](media/sniptwo.png)

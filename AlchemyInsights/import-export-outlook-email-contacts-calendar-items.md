@@ -1,5 +1,5 @@
 ---
-title: Nhập và xuất email, danh bạ và mục lịch Outlook
+title: Nhập và xuất Outlook mục email, danh bạ và lịch
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 munlocking-an-account s.custom:
 - "9002365"
 - "4594"
-ms.openlocfilehash: f5acdb44bc69e9929988824fd52bbfb0979f4ca2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8129090540bb71367e57f22abe7cfb5d2c393a18807a699ba26440928a87fbe7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51829218"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945215"
 ---
-# <a name="import-and-export-outlook-email-contacts-and-calendar-items"></a>Nhập và xuất email, danh bạ và mục lịch Outlook
+# <a name="import-and-export-outlook-email-contacts-and-calendar-items"></a>Nhập và xuất Outlook mục email, danh bạ và lịch
 
-1. Trong Outlook, bấm vào **tệp**.
+1. Trong Outlook, bấm **Tệp**.
 
-2. Bấm vào **mở & xuất**, rồi bấm vào **nhập/xuất**. Thao này sẽ khởi động trình hướng dẫn nhập và xuất.
+2. Bấm **Mở & Xuất**, rồi bấm **Nhập/Xuất.** Điều này sẽ khởi động trình hướng dẫn Nhập và Xuất.
 
-Để biết các hướng dẫn nhập và xuất đầy đủ cho Outlook, hãy xem [nhập và xuất email, danh bạ và lịch Outlook](https://support.office.com/article/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef).
+Để biết bộ hướng dẫn nhập và xuất hoàn chỉnh cho mọi Outlook, hãy xem mục [Nhập và xuất Outlook bản email, danh bạ và lịch.](https://support.office.com/article/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef)

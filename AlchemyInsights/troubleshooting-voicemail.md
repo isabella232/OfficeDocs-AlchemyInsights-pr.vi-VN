@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002347"
 - "7564"
-ms.openlocfilehash: a2d26da512838ae112c352fe21366074b69fa224
-ms.sourcegitcommit: 3802f2f4db4f53a408a360187db67f2296448c21
+ms.openlocfilehash: e639d74cd8dbbb03ffb5b253451c99c8fe639f024a46e173845a0f4d322e43ca
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49679109"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972405"
 ---
-# <a name="troubleshooting-voicemail"></a>Khắc phục sự cố thư thoại
+# <a name="troubleshooting-voicemail"></a>Khắc phục sự cố Thư thoại
 
-Đảm bảo rằng tính năng bận trong bận rộn là không cố định.
+Đảm bảo rằng tính năng Bận khi Bận là có chủ ý.
 
-Nếu tính năng này không cần thiết đối với người dùng này:
+Nếu người dùng này không cần tính năng này:
 
-1. Đi đến [Trung tâm quản trị nhóm](https://admin.teams.microsoft.com/policies/calling).
-1. Trên đường sắt bên trái dẫn hướng  >  **chính sách gọi** thoại  >  **quản lý chính sách** trên **chính sách gọi**.
-1. Chọn **quản lý người dùng**.
-1. Tìm kiếm người dùng và thay đổi chính sách gọi cho một cuộc gọi bận rộn **khi đang có sẵn khi gọi** **tắt**.
-1. Bấm **áp dụng**.
+1. Đi đến Trung [Teams quản trị viên](https://admin.teams.microsoft.com/policies/calling).
+1. Trên thanh dẫn hướng bên trái, chính **sách Gọi Thoại** Quản  >  **lý** Chính  >  **sách** về Chính **sách Gọi**.
+1. Chọn Quản **lý Người dùng**.
+1. Tìm kiếm người dùng và thay đổi Chính sách Gọi điện thành chính sách có sẵn Chính sách Gọi điện đang **Bận khi đang gọi** đến **Tắt.**
+1. Bấm **vào Áp dụng**.
 > [!NOTE]
-> Những thay đổi đối với các chính sách có thể mất tối đa 24 giờ để sao chép.
+> Thay đổi đối với chính sách có thể mất đến 24 giờ để nhân bản.
 
-Để biết thêm thông tin về tính năng này, hãy tham khảo: [bận khi bận rộn sẵn dùng khi đang có cuộc gọi](https://docs.microsoft.com/microsoftteams/teams-calling-policy#busy-on-busy-is-available-while-in-a-call).
+Để biết thêm thông tin về tính năng này, hãy tham [khảo:](https://docs.microsoft.com/microsoftteams/teams-calling-policy#busy-on-busy-is-available-while-in-a-call)Bận khi đang bận đang sẵn sàng trong cuộc gọi .

@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "5984"
 - "9003195"
-ms.openlocfilehash: 794ec70971fc2eff31047f8346284118eb9d6add
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b2bfe1f4291a7703a94582cdfe381ffbf02797a8b7a785e6ac9d74cf04290707
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47665056"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53980559"
 ---
 # <a name="troubleshoot-issues-with-skype-for-business-on-mac"></a>Khắc phục sự cố với Skype for Business trên máy Mac
 
 Để biết thêm thông tin, hãy xem: 
 
-- Một số tính năng, chẳng hạn như chức năng nhóm phản hồi hoặc trò chuyện liên tục, có thể không sẵn dùng hoặc được hỗ trợ trên nền tảng Mac. Xác nhận rằng chức năng được hỗ trợ trên nền tảng Mac. Đối với tính năng sẵn sàng cho Mac, hãy xem [so sánh tính năng máy khách di động cho Skype for Business](https://technet.microsoft.com/library/Dn951412.aspx) và [so sánh tính năng máy khách trên máy tính cho Skype for Business](https://docs.microsoft.com/skypeforbusiness/plan-your-deployment/clients-and-devices/desktop-feature-comparison).
-- Nếu bạn đang gặp phải sự cố đăng nhập trên ứng dụng Skype for Business Mac, hãy đảm bảo rằng topo xác thực của bạn được hỗ trợ. Để biết thông tin chi tiết về phương pháp được hỗ trợ, hãy xem các thiết [kế của Skype for Business được hỗ trợ với xác thực hiện đại](https://docs.microsoft.com/skypeforbusiness/plan-your-deployment/modern-authentication/topologies-supported).  
-- Nếu thông tin này không trả lời các câu hỏi của bạn, hãy mở một vé hỗ trợ. Thu thập càng nhiều thông tin càng tốt trước khi mở vé. Ví dụ, thu thập tất cả các bản ghi và thông báo lỗi. Để thu thập Nhật ký trên máy Mac, hãy đến tùy chọn  **ứng dụng SFB**  >  **Preferences**  >  **thu thập Nhật ký**.  Nhật ký sẽ bao gồm càng nhiều chi tiết càng tốt từ đăng nhập vào điểm thất bại.
+- Một số tính năng, chẳng hạn như chức năng của Nhóm Phản hồi hoặc Trò chuyện liên tục, có thể không sẵn dùng hoặc được hỗ trợ trên nền tảng máy Mac. Xác minh rằng chức năng được hỗ trợ trên nền tảng máy Mac. Để biết tính khả dụng của tính năng trên máy Mac, [hãy xem So](https://technet.microsoft.com/library/Dn951412.aspx) sánh tính năng của máy khách di động Skype for Business với so sánh tính năng của máy khách để bàn [Skype for Business.](https://docs.microsoft.com/skypeforbusiness/plan-your-deployment/clients-and-devices/desktop-feature-comparison)
+- Nếu bạn đang gặp phải sự cố đăng nhập trên ứng dụng Skype for Business Mac, hãy đảm bảo rằng nền xác thực của bạn được hỗ trợ. Để biết thông tin chi tiết về phương pháp được hỗ [trợ, hãy xem Skype for Business quan hệ được hỗ trợ Xác thực Hiện đại.](https://docs.microsoft.com/skypeforbusiness/plan-your-deployment/modern-authentication/topologies-supported)  
+- Nếu thông tin này không trả lời các câu hỏi của bạn, hãy mở một vé Hỗ trợ. Thu thập càng nhiều thông tin càng tốt trước khi mở vé. Ví dụ, thu thập tất cả nhật ký và thông báo lỗi. Để thu thập nhật ký trên máy Mac, hãy đi tới  **Tùy chọn Ứng dụng SfB**  >  **Thu** thập  >  **nhật ký.**  Nhật ký phải chứa càng chi tiết càng tốt từ việc đăng nhập đến mức thất bại.

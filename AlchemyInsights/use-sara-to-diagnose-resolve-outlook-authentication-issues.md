@@ -1,5 +1,5 @@
 ---
-title: Dùng SaRA để chẩn đoán và giải quyết sự cố xác thực Outlook
+title: Dùng công SaRA để chẩn đoán và giải quyết các sự cố Outlook xác thực
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 munlocking-an-account s.custom:
 - "9002370"
 - "4605"
-ms.openlocfilehash: 34f934e223deae9d4b5bcfe1f3eb8a07b374860f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: aa8f4db495e702694322e2c939aa907e7c8a54a9bb160c39d8bd5f49a32bcb01
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826041"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53980451"
 ---
-# <a name="use-sara-to-diagnose-and-resolve-outlook-authentication-issues"></a>Dùng SaRA để chẩn đoán và giải quyết sự cố xác thực Outlook
+# <a name="use-sara-to-diagnose-and-resolve-outlook-authentication-issues"></a>Dùng công SaRA để chẩn đoán và giải quyết các sự cố Outlook xác thực
 
-Để chẩn đoán & khắc phục sự cố xác thực Outlook của bạn hoặc các vấn đề lời nhắc được lặp lại, vui lòng cài đặt và chạy công cụ [Trợ giúp phục hồi và hỗ trợ của Office 365](https://diagnostics.office.com/#/) (SaRA).
+Để chẩn đoán và khắc phục & sự cố xác thực Outlook lặp lại hoặc lặp lại các sự cố về lời nhắc nhập thông tin xác thực, vui lòng cài đặt và chạy Công cụ Trợ giúp Phục hồi và Hỗ trợ của Office 365 [xác](https://diagnostics.office.com/#/) thực (SaRA).
 
 1. Chạy SaRA.
 
-2. Chọn **Outlook** trên màn hình đầu tiên, bấm **tiếp**.
+2. Chọn **Outlook** màn hình đầu tiên, bấm vào **Tiếp theo**.
 
-3. Chọn **Outlook Keeps hỏi cho mật khẩu của tôi**, bấm **tiếp**.
+3. Chọn **Outlook liên tục yêu cầu tôi nhập mật khẩu,** bấm Tiếp **.**
 
-Công cụ trợ giúp phục hồi và hỗ trợ sẽ chạy một số kiểm tra chẩn đoán và quay trở lại với các giải pháp có thể để bạn khắc phục sự cố xác thực Outlook hoặc thông báo lời nhắc chứng danh.
+Sau đó, Công cụ Trợ giúp Phục hồi và Hỗ trợ sẽ chạy một số kiểm tra chẩn đoán và quay lại các giải pháp khả thi để bạn có thể giải quyết sự cố xác thực Outlook hoặc lời nhắc nhập thông tin xác thực.
