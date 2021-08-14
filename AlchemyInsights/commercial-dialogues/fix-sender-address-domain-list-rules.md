@@ -1,5 +1,5 @@
 ---
-title: Khắc phục địa chỉ người gửi/quy tắc danh sách tên miền
+title: Khắc phục Địa chỉ Người gửi tắc danh sách Tên miền/Tên miền
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: a57016ce0b5e8ed741889a50e3858c68578c6713
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: bf2a36853f53c723ca620487dd1c656ecb188cba9c80def68c793e3d5fbf5f87
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50750594"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53930047"
 ---
-# <a name="fix-sender-addressdomain-list-rules"></a>Khắc phục địa chỉ người gửi/quy tắc danh sách tên miền
+# <a name="fix-sender-addressdomain-list-rules"></a>Khắc phục Địa chỉ Người gửi tắc danh sách Tên miền/Tên miền
 
-Chính sách chống thư rác trong đối tượng thuê của bạn bị ảnh hưởng trong thư này. Người gửi thư đã được tìm thấy trong danh sách cho phép hoặc chặn. Để xem lại chính sách, hãy làm như sau:
+Chính sách chống thư rác trong đối tượng thuê của bạn đã ảnh hưởng đến thư này. Người gửi thư đã được tìm thấy trong danh sách Cho phép hoặc Chặn. Để xem lại chính sách, hãy làm như sau:
 
-1. Truy nhập [Trung tâm tuân thủ & bảo mật của Office 365](https://go.microsoft.com/fwlink/p/?linkid=2077143), rồi đi tới chính sách chống thư rác về **quản lý mối đe dọa**  >    >  [](https://go.microsoft.com/fwlink/?linkid=2101518).
-2. Trên tab **tiêu chuẩn** , nếu các **thiết đặt tiêu chuẩn** được bật, hãy chọn **danh sách** **cho phép danh sách** và chặn.
-3. Trên tab **tùy chỉnh** , nếu các **thiết đặt tùy chỉnh** được bật, hãy xem lại các chính sách bằng cách chọn **sửa chính sách** và kiểm tra **danh sách** **cho phép** và chặn danh sách.
+1. Đi đến Trung [tâm Tuân Office 365 Security & Sau](https://go.microsoft.com/fwlink/p/?linkid=2077143)đó, đi đến Chính sách Quản lý mối đe dọa Chống thư   >    >  [rác](https://go.microsoft.com/fwlink/?linkid=2101518).
+2. Trên tab **Chuẩn,** nếu Cài đặt **tiêu chuẩn được** bật, hãy kiểm tra danh sách Cho phép danh **sách** **và Chặn.**
+3. Trên tab **Tùy chỉnh,** nếu cài đặt Tùy chỉnh  được bật, hãy xem lại các chính sách bằng cách chọn Chỉnh sửa chính sách, rồi kiểm tra danh sách Cho phép **và** **danh sách Chặn.** 
 
-Để biết thêm thông tin về cách cấu hình chính sách bộ lọc thư rác, hãy xem [cấu hình chính sách bộ lọc thư rác của bạn](https://go.microsoft.com/fwlink/?linkid=2101431).
+Để biết thêm thông tin về việc cấu hình chính sách bộ lọc thư rác, hãy xem Đặt [cấu hình chính sách bộ lọc thư rác của bạn.](https://go.microsoft.com/fwlink/?linkid=2101431)

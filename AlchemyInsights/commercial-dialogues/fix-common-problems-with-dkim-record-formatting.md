@@ -1,5 +1,5 @@
 ---
-title: Khắc phục các sự cố phổ biến với định dạng bản ghi
+title: Khắc phục các sự cố phổ biến với định dạng bản ghi DKIM
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 0a59ca1c93121cb4681c0d44b85a9b756c07895b
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 5b3dc2338843906fbc7151322b82f304b4ed04b28d8ceb349f2705c309cdeae8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50750751"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53930083"
 ---
-# <a name="fix-common-problems-with-dkim-record-formatting"></a>Khắc phục các sự cố phổ biến với định dạng bản ghi
+# <a name="fix-common-problems-with-dkim-record-formatting"></a>Khắc phục các sự cố phổ biến với định dạng bản ghi DKIM
 
-Hầu hết các vấn đề về định danh trong thiết lập liên quan đến các bản ghi DNS không chính xác.
+Hầu hết các vấn đề thiết lập DKIM đều liên quan đến bản ghi DNS không chính xác.
 
-Để khắc phục các sự cố về thiết lập, hãy xác minh rằng bản ghi CNAME (**không phải** bản ghi TXT) được định dạng chính xác. Để biết thêm thông tin, hãy xem [những điều bạn cần làm để thiết lập theo cách thủ công trong Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email).
+Để khắc phục các sự cố về thiết lập DKIM, hãy xác minh rằng bản ghi CNAME DKIM **(không** phải bản ghi TXT) được định dạng chính xác. Để biết thêm thông tin, [hãy xem mục Những việc bạn cần làm để thiết lập DKIM theo cách thủ Office 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email)
 
-Nếu bạn cần trợ giúp với các bản ghi DNS nói chung, hãy xem [tạo bản ghi DNS tại bất kỳ nhà cung cấp lưu trữ DNS nào cho Office 365](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
+Nếu bạn cần trợ giúp về bản ghi DNS nói chung, hãy xem Tạo bản ghi DNS tại nhà cung cấp [lưu trữ DNS bất kỳ Office 365.](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)
 
 > [!NOTE]
-> Sau khi bạn tạo hoặc Cập Nhật bản ghi DNS của bạn tại dịch vụ lưu trữ DNS cho tên miền của bạn, bạn sẽ cần phải đợi cho bản ghi DNS để tuyên truyền.
+> Sau khi tạo hoặc cập nhật bản ghi DNS DKIM của mình tại dịch vụ lưu trữ DNS cho miền của mình, bạn sẽ cần chờ các bản ghi DNS phát sinh.

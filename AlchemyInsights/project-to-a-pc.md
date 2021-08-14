@@ -1,5 +1,5 @@
 ---
-title: Dự án cho PC
+title: Project vào PC
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,28 +12,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001520"
 - "5610"
-ms.openlocfilehash: 27775e3521cdad926f26e8d34738e8c7129fb8d9
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 39ed7aac83b5b2e37a94901b80c80e892044dd6a076e55a0fb327d2dce7bd16e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51809966"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53943972"
 ---
-# <a name="project-to-a-pc"></a>Dự án cho PC
+# <a name="project-to-a-pc"></a>Project vào PC
 
-Trên thiết bị đích của bạn (được lập bản vào), tìm kiếm "thiết đặt chiếu" để mở trang thiết đặt của **chiếu vào PC này**. Sau đó, hãy đảm bảo rằng:
-- "Một số thiết bị chạy Windows và Android có thể dự án với PC này khi bạn nói rằng menu thả xuống OK" đó sẽ được đặt là **luôn tắt**.
-- "Ask to Project to" menu thả xuống cho PC này được đặt là **mỗi khi có một kết nối được yêu cầu**.
-- "Yêu cầu mã PIN cho việc ghép nối" menu thả xuống được đặt là **không bao giờ**.
+Trên thiết bị đích của bạn (chiếu tới), hãy tìm kiếm "Projection Cài đặt" để mở trang Cài đặt của **Projecting to this PC**. Sau đó, hãy đảm bảo rằng:
+- "Một số Windows thiết bị chạy Android và máy tính chạy Android có thể chiếu tới PC này khi bạn nói rằng NÓ OK" được đặt là **Luôn Tắt**.
+- Menu thả xuống "Yêu cầu chiếu tới PC này" được đặt là **Mỗi khi cần kết nối.**
+- Menu thả xuống "Yêu cầu mã PIN để ghép nối" được đặt là Không bao **giờ**.
 
-Trên thiết bị đích của bạn, khởi động ứng dụng **kết nối** bằng cách đi đến **bắt đầu** và tìm kiếm "kết nối".
+Trên thiết bị đích của bạn, hãy **khởi Kết nối** khởi chạy ứng dụng bằng cách đi tới **Bắt** đầu và tìm kiếm "Kết nối".
 
-Sau đó, trên thiết bị nguồn của bạn mà bạn đang tìm cách dự án:
+Sau đó, trên thiết bị nguồn mà bạn đang cố gắng chiếu từ đó:
 
-1. Nhấn **phím Windows + A** để mở Trung tâm hành động.
-2. Bấm **kết nối**.
-3. Bấm vào thiết bị mà bạn muốn dự đoán màn hình.
+1. Nhấn **Windows + A để** mở Trung tâm Hành động.
+2. Bấm **vào Kết nối**.
+3. Bấm vào thiết bị mà bạn muốn chiếu màn hình đến đó.
 
-![Dự án cho PC](media/project-to-a-pc.png)
+![Project vào PC](media/project-to-a-pc.png)
 
-Sau khi các bước trên, thiết bị đích của bạn sẽ hiển thị màn hình của thiết bị nguồn như thể nó là màn hình phụ.
+Sau các bước trên, thiết bị đích của bạn sẽ hiển thị màn hình của thiết bị nguồn giống như màn hình phụ.

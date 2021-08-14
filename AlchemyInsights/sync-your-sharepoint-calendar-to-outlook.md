@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2586"
-ms.openlocfilehash: 95ea9fbe0fbb4ab4d07f164e6096cc7985a72ac5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8ea1a6bf5b02f804014eb6841e774a67e2e6b23dd6a0758c48f05271644f1601
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47659188"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54008901"
 ---
-# <a name="issues-synchronizing-your-calendar-to-devices"></a>Các sự cố khi đồng bộ hóa lịch của bạn với thiết bị
+# <a name="issues-synchronizing-your-calendar-to-devices"></a>Các sự cố về đồng bộ hóa lịch của bạn với thiết bị
 
-Lịch SharePoint là các loại danh sách cổ điển đôi khi bị nhầm lẫn với lịch nhóm Microsoft 365.
+SharePoint Lịch là kiểu danh sách cổ điển đôi khi bị nhầm lẫn Microsoft 365 lịch nhóm.
 
-Để đồng bộ lịch SharePoint vào Outlook, vui lòng làm theo các bước sau đây:
+Để đồng bộ lịch SharePoint lịch với người Outlook, vui lòng làm theo các bước sau:
 
-1. Bấm vào biểu tượng bánh răng **thiết đặt** rồi bấm **nội dung site**.
-2. Mở lịch mà bạn muốn đồng bộ (là loại danh sách sự kiện).
-3. Trong menu Ribbon cổ điển, hãy bấm **lịch**, sau đó bấm **kết nối với Outlook**.
-4. Trong cửa sổ bật lên yêu cầu bạn xác nhận đồng bộ, hãy bấm **cho phép**.
+1. Bấm vào biểu **Cài đặt** hình bánh răng rồi bấm Nội **dung Site.**
+2. Mở lịch mà bạn muốn đồng bộ (là một loại danh sách Sự kiện).
+3. Trong menu ribbon cổ điển, bấm **vào** Lịch , sau đó **bấm Kết nối để Outlook.**
+4. Trong cửa sổ bật lên yêu cầu bạn xác nhận đồng bộ, hãy bấm Cho **phép**.
 
 >[!Note]
-> Khi bạn thực hiện thay đổi trong lịch Outlook được đồng bộ hóa, nó sẽ xuất hiện trong lịch SharePoint và ngược lại.
+> Khi bạn thực hiện thay đổi trong lịch Outlook đồng bộ, thay đổi đó sẽ xuất hiện trong SharePoint lịch và ngược lại.
 
-Để biết thêm thông tin về các nhóm Microsoft 365, hãy xem [bài viết](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2)này.
+Để biết thêm thông tin về Microsoft 365 Nhóm, hãy xem bài [viết này.](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2)
