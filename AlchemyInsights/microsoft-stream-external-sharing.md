@@ -1,5 +1,5 @@
 ---
-title: Chia sẻ bên ngoài của Microsoft Stream
+title: Chia sẻ Với Bên ngoài của Microsoft Stream
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001694"
 - "3771"
-ms.openlocfilehash: cd4ecb27d5ef6befb87c73f02b23975089e837c6
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 52c7da05678204658ae2a685be4a2dbc7356e34ab2985e2e5821972c7d96ebf4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51833997"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53975699"
 ---
-# <a name="microsoft-stream-external-sharing"></a>Chia sẻ bên ngoài của Microsoft Stream
+# <a name="microsoft-stream-external-sharing"></a>Chia sẻ Với Bên ngoài của Microsoft Stream
 
-Microsoft Stream chưa hỗ trợ các kịch bản chia sẻ bên ngoài dành cho khách hoặc những người bên ngoài tổ chức của bạn. Chúng tôi biết những tính năng này rất cần thiết, và chúng tôi đang làm việc trên các kế hoạch để xây dựng các tính năng này.
+Microsoft Stream chưa hỗ trợ các kịch bản chia sẻ với bên ngoài cho khách hoặc những người bên ngoài tổ chức của bạn. Chúng tôi biết những tính năng này là rất cần thiết và chúng tôi đang nghiên cứu các kế hoạch để xây dựng các tính năng này.
 
-- [Chia sẻ bên ngoài trong luồng](https://docs.microsoft.com/stream/portal-share-video#external-sharing)
+- [Chia sẻ với Bên ngoài trong Phát trực tuyến](https://docs.microsoft.com/stream/portal-share-video#external-sharing)
 
 - [Chia sẻ video của bạn trong Microsoft Stream](https://docs.microsoft.com/stream/portal-share-video)

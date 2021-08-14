@@ -1,5 +1,5 @@
 ---
-title: Thêm người dùng vào InTune
+title: Thêm người dùng vào Intune
 ms.author: erikje
 author: erikje
 manager: dougeby
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000664"
 - "2535"
-ms.openlocfilehash: 6796112af0c67669ce073ac98348c9420c94730c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: dd58fb971f6f8225c69093fff28b149b507a75ac1ee4bfb430c919fddd317b52
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47687502"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53953315"
 ---
-# <a name="add-users-to-intune"></a>Thêm người dùng vào InTune
+# <a name="add-users-to-intune"></a>Thêm người dùng vào Intune
 
-Bạn có thể thêm thủ công người dùng vào đăng ký InTune của mình bằng cách sử dụng [Trung tâm quản trị Microsoft 365](https://admin.microsoft.com/)   hoặc [cổng thông tin InTune](https://portal.azure.com/#blade/Microsoft_Intune_DeviceSettings/ExtensionLandingBlade/overview).
+Bạn có thể thêm người dùng vào đăng ký Intune theo cách thủ công bằng [cách sử Trung tâm quản trị Microsoft 365](https://admin.microsoft.com/) hoặc cổng thông tin [Intune.](https://portal.azure.com/#blade/Microsoft_Intune_DeviceSettings/ExtensionLandingBlade/overview)
 
-Người quản trị có thể sửa tài khoản người dùng để gán giấy phép InTune. Bạn có thể gán giấy phép trong một trung tâm quản trị Microsoft 365 hoặc cổng thông tin InTune.
+Người quản trị có thể chỉnh sửa tài khoản người dùng để gán giấy phép Intune. Bạn có thể gán giấy phép trong cổng Trung tâm quản trị Microsoft 365 hoặc cổng thông tin Intune.
 
-Để biết thêm thông tin về cách sử dụng trung tâm quản trị Microsoft 365, hãy xem [Thêm từng người dùng hoặc hàng loạt vào Trung tâm quản trị microsoft 365](https://support.office.com/article/Add-users-individually-or-in-bulk-to-Office-365-Admin-Help-1970f7d6-03b5-442f-b385-5880b9c256ec).
+Để biết thêm thông tin về cách sử Trung tâm quản trị Microsoft 365, hãy xem mục Thêm từng người dùng hoặc hàng loạt người dùng vào danh [Trung tâm quản trị Microsoft 365.](https://support.office.com/article/Add-users-individually-or-in-bulk-to-Office-365-Admin-Help-1970f7d6-03b5-442f-b385-5880b9c256ec)
 
-Để biết thêm thông tin về cách sử dụng cổng thông tin InTune, hãy xem [Thêm người dùng và cấp quyền quản trị cho InTune](https://docs.microsoft.com/intune/fundamentals/users-add).
+Để biết thêm thông tin về cách sử dụng cổng thông tin Intune, hãy [xem mục Thêm người dùng và cấp quyền quản trị cho Intune.](https://docs.microsoft.com/intune/fundamentals/users-add)

@@ -16,20 +16,20 @@ ms.custom:
 - "95"
 - "1400006"
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: 5b460b597a0c5a7875240747c12f20bad2476e1fc37ce817a61e332cc404f9ac
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: ce64ca1f9afa04ab9eaa6129dd5bbafb2b8e799ae32ca24162fd5c8bac7d84fd
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54500794"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57868664"
 ---
 # <a name="extend-your-trial-for-microsoft-365-for-business"></a>Gia hạn bản dùng thử của bạn Microsoft 365 dành cho doanh nghiệp
 
-Bạn có thể gia hạn bản dùng thử miễn phí thêm một khoảng thời gian 30 ngày. Sau đó, bản dùng thử của bạn sẽ rơi vào thời kỳ gia hạn 30 [ngày](/alchemyinsights/grace-period-for-microsoft-365-free-trial). Làm theo các bước sau để gia hạn bản dùng thử của bạn:
+Bạn có thể gia hạn bản dùng thử miễn phí thêm một khoảng thời gian 30 ngày. Sau đó, bản dùng thử của bạn sẽ rơi vào thời kỳ gia hạn 30 [ngày](https://docs.microsoft.com/alchemyinsights/grace-period-for-microsoft-365-free-trial). Làm theo các bước sau để gia hạn bản dùng thử của bạn:
   
 1. Trong trung tâm quản  trị, đi đến trang Thanh toán \> [Sản phẩm của](https://go.microsoft.com/fwlink/p/?linkid=842054) bạn.
 2. Trên tab **Sản phẩm,** chọn đăng ký dùng thử mà bạn muốn gia hạn.
 3. Trên trang chi tiết đăng ký, trong mục **Cài đặt đăng ký và thanh toán,** chọn Gia hạn ngày kết **thúc**.
 4. Trong ngăn **Mở rộng ngày kết** thúc, xem lại thông tin phần mở rộng và nếu cần, hãy chọn một phương thức thanh toán. Khi bạn hoàn tất, chọn Gia hạn **bản dùng thử**.
 
-Để tìm hiểu thêm về việc gia hạn bản dùng thử hoặc để biết hướng dẫn từng bước, hãy xem mục [Gia hạn bản dùng thử cho Office 365 dành cho doanh nghiệp.](/microsoft-365/commerce/extend-your-trial)
+Để tìm hiểu thêm về việc gia hạn bản dùng thử hoặc để biết hướng dẫn từng bước, hãy xem mục Gia hạn [bản dùng thử cho Office 365 dành cho doanh nghiệp.](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial)

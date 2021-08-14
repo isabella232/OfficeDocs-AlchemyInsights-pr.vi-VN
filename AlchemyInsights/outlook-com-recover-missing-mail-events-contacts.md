@@ -1,5 +1,5 @@
 ---
-title: Tìm và khôi phục email bị thiếu hoặc đã xóa, sự kiện lịch hoặc liên hệ
+title: Tìm và phục hồi email, sự kiện lịch hoặc liên hệ bị thiếu hoặc bị xóa
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -21,19 +21,19 @@ ms.custom:
 - "803"
 - "8000003"
 ms.assetid: 8e24b096-fcbf-4d7e-a412-f6db2afad623
-ms.openlocfilehash: 5a8bfc34bc5642be97c7c07dd933f7f98707855f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2d550831af54105330bf4c08e6dad4dce34a9f679536f208bb5e037471cd0c50
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47723485"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063758"
 ---
-# <a name="find-and-recover-missing-or-deleted-email-calendar-events-or-contacts-outlookcom"></a>Tìm và khôi phục email bị thiếu hoặc đã xóa, sự kiện lịch hoặc liên hệ Outlook.com
+# <a name="find-and-recover-missing-or-deleted-email-calendar-events-or-contacts-outlookcom"></a>Tìm và phục hồi email, sự kiện lịch hoặc liên hệ bị mất hoặc bị xóa Outlook.com
 
-- Trong thư, hãy sử dụng <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVBAMAAABbObilAAAAKlBMVEX///+WqL7l6u8vUn8iR3azwNDCzNlObJFAYIkDLWNeeZuks8d7ka1thaRtSbf+AAAAS0lEQVQI12MgFjAdmVkKY6csYxK5AGUbAqWsIUzGBiARAmGzCwAJlgQwmyMARiDEEeoxzWEyQZivLAS3l8kQ4RplkDF4hRkWEvQSABbdDSdqA/J0AAAAAElFTkSuQmCC' />
- Thanh **Tìm kiếm** ở đầu trang để [Tìm kiếm thư hoặc liên hệ](https://support.office.com/article/88108edf-028e-4306-b87e-7400bbb40aa7?wt.mc_id=Office_Outlook_com_Alchemy).
+- Trong Thư, sử dụng ứng dụng <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVBAMAAABbObilAAAAKlBMVEX///+WqL7l6u8vUn8iR3azwNDCzNlObJFAYIkDLWNeeZuks8d7ka1thaRtSbf+AAAAS0lEQVQI12MgFjAdmVkKY6csYxK5AGUbAqWsIUzGBiARAmGzCwAJlgQwmyMARiDEEeoxzWEyQZivLAS3l8kQ4RplkDF4hRkWEvQSABbdDSdqA/J0AAAAAElFTkSuQmCC' />
+ **Thanh** tìm kiếm ở đầu trang để tìm [kiếm thư hoặc liên hệ](https://support.office.com/article/88108edf-028e-4306-b87e-7400bbb40aa7?wt.mc_id=Office_Outlook_com_Alchemy).
   
-- Trong lịch, hãy sử dụng <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVBAMAAABbObilAAAAKlBMVEX///+WqL7l6u8vUn8iR3azwNDCzNlObJFAYIkDLWNeeZuks8d7ka1thaRtSbf+AAAAS0lEQVQI12MgFjAdmVkKY6csYxK5AGUbAqWsIUzGBiARAmGzCwAJlgQwmyMARiDEEeoxzWEyQZivLAS3l8kQ4RplkDF4hRkWEvQSABbdDSdqA/J0AAAAAElFTkSuQmCC' />
- Thanh **Tìm kiếm** ở đầu trang để [Tìm kiếm các sự kiện bằng cách sử dụng một từ, tên hoặc cụm từ](https://support.office.com/article/5bc05289-c84c-4849-95a8-7eac05ed478a?wt.mc_id=Office_Outlook_com_Alchemy). Nếu bạn có nhiều hơn một lịch mở, tìm kiếm sẽ tập trung vào lịch hiện được chọn.
+- Trong Lịch, sử dụng ứng dụng <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVBAMAAABbObilAAAAKlBMVEX///+WqL7l6u8vUn8iR3azwNDCzNlObJFAYIkDLWNeeZuks8d7ka1thaRtSbf+AAAAS0lEQVQI12MgFjAdmVkKY6csYxK5AGUbAqWsIUzGBiARAmGzCwAJlgQwmyMARiDEEeoxzWEyQZivLAS3l8kQ4RplkDF4hRkWEvQSABbdDSdqA/J0AAAAAElFTkSuQmCC' />
+ **Thanh** tìm kiếm ở đầu trang để tìm kiếm các sự kiện bằng [cách sử dụng một từ, tên hoặc cụm từ.](https://support.office.com/article/5bc05289-c84c-4849-95a8-7eac05ed478a?wt.mc_id=Office_Outlook_com_Alchemy) Nếu bạn mở nhiều lịch, tính năng tìm kiếm sẽ tập trung vào lịch đang được chọn.
   
-- Nếu bạn vô tình xóa thư, sự kiện lịch hoặc liên hệ, bạn có thể [khôi phục các mục này nếu chúng vẫn còn trong thư mục các mục đã xóa hoặc email rác của bạn](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50?wt.mc_id=Office_Outlook_com_Alchemy).
+- Nếu bạn vô tình xóa thông điệp, sự kiện lịch hoặc liên hệ, bạn có thể khôi phục những mục này nếu chúng vẫn còn trong thư mục Các mục Đã xóa hoặc [Email Rác của bạn.](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50?wt.mc_id=Office_Outlook_com_Alchemy)

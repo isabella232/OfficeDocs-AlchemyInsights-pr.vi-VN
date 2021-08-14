@@ -1,5 +1,5 @@
 ---
-title: Vai trò quản trị và cách gán
+title: Vai trò người quản trị và cách gán
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,15 +14,15 @@ ms.custom:
 - "2"
 - "1200008"
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: 6679f67b5f3059a5a152ee492ca2973f15a9b932
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 9c343fa9f092f80c2497e1b0dc76f193b62a01aa4dac7b2be6f1c916e611abbb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51821901"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53952559"
 ---
-# <a name="admin-roles"></a>Vai trò người quản trị
+# <a name="admin-roles"></a>Vai trò của người quản trị
 
-- Để gán vai trò, chọn **người dùng hiện hoạt** trong [Trung tâm quản trị](https://admin.microsoft.com/Adminportal/Home#/users), chọn tên người dùng, rồi chọn  **quản lý vai trò**.
+- Để gán vai trò, chọn Người **dùng Hiện hoạt trong** trung tâm [quản](https://admin.microsoft.com/Adminportal/Home#/users)trị , chọn tên người dùng, rồi chọn Quản lý **Vai trò.**
 
-- Để biết thêm thông tin về vai trò, hãy bấm vào **tôi** bên cạnh vai trò, hoặc xem [giới thiệu về vai trò quản trị](https://docs.microsoft.com/microsoft-365/admin/add-users/about-admin-roles).
+- Để biết thêm thông tin về vai trò, hãy bấm **vào i** bên cạnh vai trò đó hoặc xem mục Giới thiệu về vai trò của người [quản trị.](https://docs.microsoft.com/microsoft-365/admin/add-users/about-admin-roles)
