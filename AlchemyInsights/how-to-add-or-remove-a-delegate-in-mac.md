@@ -1,5 +1,5 @@
 ---
-title: Cách thêm hoặc loại bỏ đại diện trong Mac
+title: Cách thêm hoặc loại bỏ Đại diện trong máy Mac
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,27 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800004"
 - "7336"
-ms.openlocfilehash: 631a1202eca985db93c31dbedca520674b06095e
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: 90f9083d65a93cb6fc4f5ea3b8c1b378e209dc3a4500a29dbab04ef958ea93c7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583698"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945395"
 ---
-# <a name="how-to-add-or-remove-a-delegate-in-mac"></a>Cách thêm hoặc loại bỏ đại diện trong Mac
+# <a name="how-to-add-or-remove-a-delegate-in-mac"></a>Cách thêm hoặc loại bỏ Đại diện trong máy Mac
 
-Thực hiện các thao tác sau để thêm hoặc loại bỏ đại diện trong Mac:
+Thực hiện như sau để thêm hoặc loại bỏ Đại diện trong máy Mac:
 
-**Cách thêm đại diện trong Mac**:
+**Cách thêm đại diện trong máy Mac:**
 
-1. Từ menu **công cụ** , chọn **tài khoản**.
-1. Chọn tài khoản Exchange mà bạn sẽ sử dụng để truy nhập các mục được ủy nhiệm, bấm **nâng cao**, rồi bấm **đại diện**.
-1. Bên dưới **người mà tôi là** đại diện cho, hãy bấm **Thêm**. .
-1. Nhập tên của người đã thêm bạn làm đại diện.
+1. Từ menu **Công cụ,** chọn Tài **khoản**.
+1. Chọn tài Exchange mà bạn sẽ dùng để truy nhập các mục được ủy quyền, bấm **Nâng** cao rồi bấm **Đại diện.**
+1. Dưới **Người mà tôi là đại diện cho**, hãy bấm **Thêm.** .
+1. Nhập tên người đã thêm bạn làm đại diện.
 1. Chọn tên của người đó trong kết quả tìm kiếm, rồi bấm **Thêm**.
  
-**Làm thế nào để loại bỏ một đại diện trong Mac**:
+**Cách loại bỏ đại diện trong máy Mac:**
 
-1. Từ menu **công cụ** , chọn **tài khoản**.
-1. Chọn tài khoản Exchange mà bạn muốn thay đổi, bấm **nâng cao**, rồi bấm * * * * tab đại diện.
-1. Bên dưới **người mà tôi là** đại diện, hãy chọn người mà bạn muốn dừng là đại diện, rồi bấm **loại bỏ**.
+1. Từ menu **Công cụ,** chọn Tài **khoản**.
+1. Chọn tài Exchange bạn muốn thay đổi, bấm Nâng cao **,** rồi bấm ****tab Đại diện.
+1. Dưới **Người tôi là đại diện cho**, hãy chọn người mà bạn muốn ngừng làm đại diện, rồi bấm Loại **bỏ.**

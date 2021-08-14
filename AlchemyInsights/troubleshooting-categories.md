@@ -1,5 +1,5 @@
 ---
-title: Danh mục khắc phục sự cố 604
+title: Danh mục Khắc phục sự cố 604
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -14,15 +14,15 @@ ms.custom:
 - "604"
 - "3800003"
 ms.assetid: dc8c3acf-fe72-4b92-8cdc-6a635502eeb1
-ms.openlocfilehash: 4c06a6e1ddd333fff147912ac37a339574da4c9a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e2ca842df04a7d4b702606d57757192ffe328cad79f3f5a07abc450f8ff92288
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47690012"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972549"
 ---
-# <a name="outlook-categories"></a>Danh mục Outlook
+# <a name="outlook-categories"></a>Outlook mục
 
-Chỉ thể loại áp dụng cho các mục trong lịch của bạn. Nếu bạn áp dụng một thể loại màu cho yêu cầu họp hoặc cuộc họp mà bạn đã nhận được từ một người khác, thể loại màu sẽ chỉ hiển thị trong lịch của bạn.  Nếu bạn áp dụng một thể loại màu trên hộp thư chung, hộp thư đại diện, hộp thư nhóm, hộp thư phòng, v.v... thể loại màu chỉ ảnh hưởng đến dạng xem của bạn.
+Các danh mục chỉ áp dụng cho các mục trong lịch của bạn. Nếu bạn áp dụng một thể loại màu cho yêu cầu họp hoặc cuộc họp mà bạn đã nhận từ người khác, thể loại màu đó sẽ chỉ hiển thị trong lịch của bạn.  Nếu bạn áp dụng một thể loại màu trên hộp thư chung, hộp thư đại diện, hộp thư nhóm, hộp thư phòng, v.v. thì thể loại màu đó chỉ ảnh hưởng đến dạng xem của bạn.
 
-Để biết thêm thông tin: [gán thể loại màu cho cuộc hẹn, cuộc họp hoặc sự kiện của lịch](https://support.microsoft.com/office/750596d9-707d-4412-8c0e-7fdc0fc52527)
+Để biết thêm thông tin: [Gán một thể loại màu cho cuộc hẹn, cuộc họp hoặc sự kiện trên lịch](https://support.microsoft.com/office/750596d9-707d-4412-8c0e-7fdc0fc52527)
