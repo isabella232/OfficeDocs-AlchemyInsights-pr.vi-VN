@@ -1,5 +1,5 @@
 ---
-title: Chứng chỉ liên kết ADFS được sắp hết hạn
+title: Chứng chỉ Liên kết ADFS hết hạn
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,21 +14,21 @@ ms.custom:
 - "645"
 - "1300012"
 ms.assetid: 26a7eebb-1424-4ddc-a123-af1cc94bc40f
-ms.openlocfilehash: 3ba6e6a6f93225bc843dfd1a028d31223f01280c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 48d4ccbbc0ed3dc54cbcd17ae7b9040bfd9ecc426897c06b653bf40bc7d5e9b2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51821973"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53952991"
 ---
-# <a name="adfs-federation-certificate-expiring"></a>Chứng chỉ liên kết ADFS được sắp hết hạn
+# <a name="adfs-federation-certificate-expiring"></a>Chứng chỉ Liên kết ADFS hết hạn
 
-Để giải quyết vấn đề này, hãy làm theo các bước sau đây:
+Để giải quyết vấn đề này, hãy làm theo các bước sau:
   
-1. Cài đặt mô-đun Microsoft Azure Active Directory cho Windows PowerShell trên máy tính (nếu mô-đun chưa được cài đặt). Để thực hiện thao tác này, hãy đi đến [quản lý AZURE AD bằng Windows PowerShell](https://aka.ms/aadposh).
+1. Cài đặt Mô-Microsoft Azure Active Directory cho Windows PowerShell trên máy tính (nếu mô-đun chưa được cài đặt). Để thực hiện điều này, hãy đi [tới Quản lý Azure AD bằng Windows PowerShell.](https://aka.ms/aadposh)
 
-2. Làm theo các bước trong "kịch bản 1: chứng chỉ ký mã hóa AD FS đã hết hạn" phần "của [" đã xảy ra sự cố khi truy nhập vào lỗi "site" từ AD FS khi một người dùng được liên kết đăng nhập vào Microsoft 365, Azure hoặc InTune](https://support.microsoft.com/help/2713898/there-was-a-problem-accessing-the-site-error-from-ad-fs-when-a-federat).
+2. Làm theo các bước trong mục "Kịch bản 1: Chứng chỉ ký mã thông báo AD FS đã hết hạn" của lỗi "Đã xảy ra sự cố khi truy nhập site" từ AD FS khi người dùng được liên kết đăng nhập vào [Microsoft 365, Azure hoặc Intune.](https://support.microsoft.com/help/2713898/there-was-a-problem-accessing-the-site-error-from-ad-fs-when-a-federat)
 
-3. Làm theo các bước trong [Cập Nhật hoặc sửa chữa các thiết đặt của tên miền được liên kết trong Microsoft, Azure hoặc InTune](https://docs.microsoft.com/office365/troubleshoot/security/update-federated-domain-office-365).
+3. Làm theo các bước trong Cập nhật hoặc sửa chữa cài đặt miền được liên kết trong [Microsoft, Azure hoặc Intune.](https://docs.microsoft.com/office365/troubleshoot/security/update-federated-domain-office-365)
 
-    Để tìm hiểu thêm về việc gia hạn chứng chỉ liên kết, hãy xem gia [hạn chứng chỉ liên kết cho Microsoft 365 và Azure Active Directory](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-o365-certs).
+    Để tìm hiểu thêm về việc gia hạn chứng chỉ liên kết, hãy [xem mục Gia hạn chứng chỉ liên kết cho Microsoft 365 và Azure Active Directory.](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-o365-certs)

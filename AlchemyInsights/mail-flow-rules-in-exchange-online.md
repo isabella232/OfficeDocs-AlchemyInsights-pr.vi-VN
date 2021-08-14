@@ -1,5 +1,5 @@
 ---
-title: Quy tắc dòng thư trong Exchange Online
+title: Quy tắc dòng thư trong thư Exchange Online
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002635"
 - "5068"
-ms.openlocfilehash: 737e0f2db14a766db1c21720a936c2dd4645aef3
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 69757dcc26efc0a0b988b8249ad226e33cd56f1346ff21871042ecbaee24550a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51810578"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53993375"
 ---
-# <a name="mail-flow-transport-rules-in-exchange-online"></a>Quy tắc dòng thư (vận chuyển) trong Exchange Online
+# <a name="mail-flow-transport-rules-in-exchange-online"></a>Quy tắc dòng thư (truyền tải) trong Exchange Online
 
-Bạn có thể thiết lập quy tắc truyền dẫn để thực hiện các hành động trên các thư trong tổ chức của bạn, bảo vệ thư, thông điệp định tuyến dựa trên các tiêu chí nhất định, v.v...  Khi thiết lập quy tắc truyền tải, bạn có thể phải mất tối đa 30 phút để áp dụng quy tắc mới hoặc Cập Nhật cho thư.
+Bạn có thể thiết lập Quy tắc Truyền dẫn để thực hiện hành động đối với thư trong tổ chức của mình, bảo vệ thư, định tuyến thư dựa trên một số tiêu chí, v.v..  Khi thiết lập quy tắc truyền dẫn, có thể mất đến 30 phút để áp dụng quy tắc mới hoặc cập nhật cho thư.
 
-- Sử dụng [Trung tâm quản trị Exchange](https://go.microsoft.com/fwlink/p/?linkid=834822) (EAC) để cấu hình quy tắc truyền dẫn.
+- Dùng Trung tâm [Quản Exchange (EAC)](https://go.microsoft.com/fwlink/p/?linkid=834822) để đặt cấu hình Quy tắc Truyền tải.
 
-- Bắt đầu với cách [quy tắc dòng thư (quy tắc truyền dẫn) trong công việc Exchange Online](https://docs.microsoft.com/exchange/security-and-compliance/mail-flow-rules/mail-flow-rules) . Bạn cũng có thể muốn:
+- Bắt đầu với cách quy [tắc dòng Thư (quy tắc truyền dẫn) trong Exchange Online](https://docs.microsoft.com/exchange/security-and-compliance/mail-flow-rules/mail-flow-rules) việc. Bạn cũng có thể muốn:
 
-    - Xem các bước để [quản lý các quy tắc dòng thư](https://docs.microsoft.com/exchange/security-and-compliance/mail-flow-rules/manage-mail-flow-rules).
-    - Phân tích các[ hành động của quy tắc dòng thư](https://docs.microsoft.com/exchange/security-and-compliance/mail-flow-rules/mail-flow-rule-actions) dựa trên các điều kiện khớp.
+    - Xem các bước để quản [lý quy tắc dòng thư.](https://docs.microsoft.com/exchange/security-and-compliance/mail-flow-rules/manage-mail-flow-rules)
+    - Phân tích hành[ động quy tắc dòng thư của bạn](https://docs.microsoft.com/exchange/security-and-compliance/mail-flow-rules/mail-flow-rule-actions) dựa trên các điều kiện khớp.
     - [Kiểm tra](https://docs.microsoft.com/exchange/security-and-compliance/mail-flow-rules/test-mail-flow-rules) quy tắc dòng thư của bạn.

@@ -1,5 +1,5 @@
 ---
-title: Tìm hiểu về cách lập bản đồ giữa các chính sách của Google Chrome và Microsoft Edge
+title: Tìm hiểu về ánh xạ giữa chính sách của Google Chrome Microsoft Edge google
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,14 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "8219"
 - "9004596"
-ms.openlocfilehash: 0b8a1408c9d52d244e7e2931f46582cfacba24e3
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 552be9b3db90d2ae5bd831c25dec63b249fe4a39a3c86d64222cdaf8297f1043
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51036823"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54000954"
 ---
-# <a name="learn-about-mapping-between-google-chromes-and-microsoft-edges-policies"></a>Tìm hiểu về cách lập bản đồ giữa các chính sách của Google Chrome và Microsoft Edge
+# <a name="learn-about-mapping-between-google-chromes-and-microsoft-edges-policies"></a>Tìm hiểu về ánh xạ giữa chính sách của Google Chrome Microsoft Edge google
 
-Các chính sách Google Chrome được ánh xạ đến các chính sách Microsoft Edge có liên quan được hỗ trợ trong phiên bản 80 của trình duyệt. Để biết thêm thông tin, hãy xem mục [Google Chrome để lập bản đồ chính sách của Microsoft Edge](https://docs.microsoft.com/deployedge/microsoft-edge-policy-map-chrome-to-newedge).
+Chính sách của Google Chrome được ánh xạ tới các chính Microsoft Edge liên quan được hỗ trợ trong Phiên bản 80 của trình duyệt. Để biết thêm thông tin, [hãy xem mục Google Chrome ánh Microsoft Edge chính sách .](https://docs.microsoft.com/deployedge/microsoft-edge-policy-map-chrome-to-newedge)
 

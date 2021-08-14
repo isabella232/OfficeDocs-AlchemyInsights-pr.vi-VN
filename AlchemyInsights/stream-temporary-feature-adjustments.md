@@ -1,5 +1,5 @@
 ---
-title: Điều chỉnh tính năng của Stream tạm thời
+title: Phát trực tuyến các điều chỉnh tính năng tạm thời
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002315"
 - "4510"
-ms.openlocfilehash: d2dc84894c5971ca212fb2b77cfdb028e9808c70
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: e9f542cdb5300a9403f4037ebc16eb4af9db4bd143de176594efb0c3bee00f55
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51828102"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53941318"
 ---
-# <a name="stream-temporary-feature-adjustments"></a>Điều chỉnh tính năng của Stream tạm thời
+# <a name="stream-temporary-feature-adjustments"></a>Phát trực tuyến các điều chỉnh tính năng tạm thời
 
-**Quan trọng**: trong những thời gian chưa từng có này, chúng tôi sẽ thực hiện các bước để đảm bảo rằng các dịch vụ Stream vẫn sẵn có.
+**Quan** trọng: Trong những thời điểm chưa phát hành này, chúng tôi đang thực hiện các bước để đảm bảo rằng Dịch vụ luồng luôn sẵn dùng.
 
-Để hỗ trợ cho mục đích vẫn sẵn có, chúng tôi đã thực hiện một số thay đổi tạm thời, người dùng có thể nhận thấy: 
+Để hỗ trợ mục tiêu luôn khả dụng cao, chúng tôi đã thực hiện một số thay đổi tạm thời mà người dùng có thể nhận thấy: 
 
-- Đường thời gian mọi người đã bị vô hiệu hóa cho các video đã tải lên mới. Video có sẵn hiện tại sẽ không bị ảnh hưởng.
+- Đường thời gian của mọi người đã bị vô hiệu hóa đối với video mới tải lên. Video có sẵn trước sẽ không bị ảnh hưởng.
 
-- Cuộc họp ghi độ phân giải video được điều chỉnh thành 720p.
+- Độ phân giải video trong cuộc họp được điều chỉnh thành 720p.

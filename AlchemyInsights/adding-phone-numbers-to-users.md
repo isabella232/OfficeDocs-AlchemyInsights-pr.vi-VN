@@ -12,26 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002538"
 - "5485"
-ms.openlocfilehash: a8e8b3a56b25fb7841d4f8d8f84d7d9df766386b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 804df8439b87b7138da1c484e8208a219ea6c09bed3e858278e4334c0c6612cb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822045"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53953099"
 ---
 # <a name="adding-phone-numbers-to-users"></a>Thêm số điện thoại cho người dùng
 
-Sử dụng trung tâm quản trị nhóm Microsoft:
+Sử dụng trung Microsoft Teams quản trị chính:
 
-1. Trong dẫn hướng bên trái, đi đến **số điện thoại >** thoại, rồi bấm **Thêm**.
-2. Nhập tên cho thứ tự và nếu bạn muốn, hãy thêm mô tả.
-3. Trên trang **vị trí và số lượng** , hãy làm như sau:
-    - Bên dưới quốc gia hoặc khu vực, chọn quốc gia hoặc khu vực.
-    - Bên dưới loại số, chọn người dùng (người đăng ký).
-    - Bên dưới vị trí, hãy chọn một vị trí. Nếu bạn cần tạo một vị trí mới, hãy bấm **Thêm một vị trí**.
-    - Bên dưới mã vùng, hãy chọn một mã vùng.
-    - Bên dưới số lượng, hãy nhập số lượng bạn muốn cho tổ chức của mình, rồi bấm vào **tiếp theo** để chọn số của bạn.
-4. Chọn các số mà bạn muốn. Bạn có 10 phút để chọn số điện thoại của bạn và đặt đơn hàng của bạn. Nếu bạn mất hơn 10 phút, các số điện thoại sẽ được trả về các số.
-5. Khi bạn đã sẵn sàng để đặt đơn hàng của mình, hãy bấm **đặt hàng**.
+1. Trong dẫn hướng bên trái, **đi đến Số > Điện thoại Thoại**, rồi bấm **Thêm.**
+2. Nhập tên cho đơn hàng và nếu muốn, hãy thêm mô tả.
+3. Trên trang **Vị trí và số lượng,** hãy làm như sau:
+    - Bên dưới Quốc gia hoặc khu vực, chọn một quốc gia hoặc khu vực.
+    - Dưới Kiểu số, hãy chọn Người dùng (thuê bao).
+    - Dưới Vị trí, hãy chọn một vị trí. Nếu bạn cần tạo vị trí mới, hãy bấm **Thêm vị trí**.
+    - Bên dưới Mã vùng, chọn một mã khu vực.
+    - Bên dưới Số lượng, hãy nhập số lượng số bạn muốn cho tổ chức của mình, rồi bấm Tiếp **theo để** chọn các số của bạn.
+4. Chọn các số bạn muốn. Bạn có 10 phút để chọn số điện thoại và đặt hàng. Nếu bạn mất hơn 10 phút, các số điện thoại sẽ được trả về tập hợp các số.
+5. Khi bạn đã sẵn sàng đặt hàng, hãy bấm Đặt **hàng**.
 
-Nếu bạn cần hướng dẫn thêm, vui lòng xem [nhận số điện thoại cho người dùng của bạn](https://docs.microsoft.com/microsoftteams/getting-phone-numbers-for-your-users).
+Nếu bạn cần hướng dẫn thêm, vui lòng xem [Lấy số điện thoại cho người dùng của bạn](https://docs.microsoft.com/microsoftteams/getting-phone-numbers-for-your-users).
