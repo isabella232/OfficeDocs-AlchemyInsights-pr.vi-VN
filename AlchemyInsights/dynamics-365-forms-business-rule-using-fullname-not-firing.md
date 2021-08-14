@@ -1,5 +1,5 @@
 ---
-title: Động lực 365 biểu mẫu quy tắc kinh doanh bằng cách dùng trường FULLNAME không được bắn
+title: Quy tắc Kinh doanh của Dynamics 365 Forms khi Không Sử dụng Trường Họ tên
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,15 +10,15 @@ localization_priority: Normal
 ms.custom:
 - "1928"
 - "6200018"
-ms.openlocfilehash: 50588b25d1cb23daee188c6be9132142f8ae98c7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ccb50ae836357ef48cd0b4a2a640cceb0a1ff88137e79a57d4fcd9027994ce45
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47711549"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53947429"
 ---
-# <a name="full-name-field-not-supported-with-unified-inteface-apps"></a>Trường tên đầy đủ không được hỗ trợ với các ứng dụng inteface hợp nhất
+# <a name="full-name-field-not-supported-with-unified-inteface-apps"></a>Trường Họ Tên không được hỗ trợ với các ứng dụng nguyên bản hợp nhất
 
-Các hành động hoặc điều kiện sử dụng trường **tên đầy đủ** (FULLNAME) không được hỗ trợ trong các ứng dụng dựa trên giao diện hợp nhất. Ngoài ra, bạn có thể sử dụng các hành động hoặc điều kiện với **tên đầu tiên** (tên người dùng) và **tên cuối cùng** (LastName).
+Các hành động hoặc điều kiện sử **dụng trường** Họ Tên (họ tên) không được hỗ trợ trong các ứng dụng dựa trên giao diện hợp nhất. Ngoài ra, bạn có thể sử dụng các hành động hoặc điều **kiện với** trường Tên **(tên) và Họ** (họ).
 
 [https://docs.microsoft.com/dynamics365/customer-engagement/customize/create-business-rules-recommendations-apply-logic-form#common-issues](https://docs.microsoft.com/dynamics365/customer-engagement/customize/create-business-rules-recommendations-apply-logic-form#common-issues)

@@ -1,5 +1,5 @@
 ---
-title: '8000016: cách xóa thư mục'
+title: '8000016: Cách xóa thư mục'
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,18 +14,18 @@ ms.custom:
 - "8000016"
 - "2004"
 ms.assetid: ''
-ms.openlocfilehash: 7b53932df90e66cc2cee6482342100d7c7df01b9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 36eef08dc4706fabd068d63710e944eafd14b24a0913d9408496cffd2d0b0ca0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802187"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063254"
 ---
-# <a name="how-to-delete-a-folder-in-outlook-on-the-web"></a>Làm thế nào để xóa một thư mục trong Outlook trên web
+# <a name="how-to-delete-a-folder-in-outlook-on-the-web"></a>Cách xóa thư mục trong danh Outlook trên web
 
-1. Trong ngăn thư mục, bấm chuột phải vào thư mục hoặc thư mục con mà bạn muốn xóa bỏ.
-2. Chọn **xóa thư mục**.
-3. Chọn **OK** để xác nhận.
+1. Trong ngăn thư mục, bấm chuột phải vào thư mục hoặc thư mục con mà bạn muốn xóa.
+2. Chọn **Xóa thư mục**.
+3. Chọn **OK để** xác nhận.
 
-Để tìm hiểu thêm, hãy xem [làm việc với thư mục thư trong Outlook trên web](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).
+Để tìm hiểu thêm, xem mục [Làm việc với thư mục thư trong Outlook trên web.](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f)
 

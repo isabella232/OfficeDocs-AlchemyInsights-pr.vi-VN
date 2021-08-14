@@ -1,5 +1,5 @@
 ---
-title: Thông báo ứng dụng Microsoft 365-rất tiếc, một tài khoản khác từ tổ chức của bạn đã được đăng nhập
+title: Microsoft 365 dụng của bạn - Rất tiếc, một tài khoản khác từ tổ chức của bạn đã được đăng nhập
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,33 +12,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001422"
 - "3407"
-ms.openlocfilehash: e7e71c5726e717a11e8f2be72c0966f1881ca68b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 3271471c6421e892066cea2f0007cd81dc10783ecdd5bd8349bbe298a31990ab
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51836265"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53974367"
 ---
-# <a name="microsoft-365-apps-message---sorry-another-account-from-your-organization-is-already-signed-in"></a>Thông báo ứng dụng Microsoft 365-rất tiếc, một tài khoản khác từ tổ chức của bạn đã được đăng nhập
+# <a name="microsoft-365-apps-message---sorry-another-account-from-your-organization-is-already-signed-in"></a>Microsoft 365 dụng của bạn - Rất tiếc, một tài khoản khác từ tổ chức của bạn đã được đăng nhập
 
-Để khắc phục lỗi này, hãy thử làm như sau:
+Để khắc phục lỗi này, hãy thử cách sau:
 
-- Mở một ứng dụng Office và [đăng xuất khỏi](https://support.office.com/article/sign-out-of-office-5a20dc11-47e9-4b6f-945d-478cb6d92071) bất kỳ tài khoản người dùng hiện có nào.
+- Mở một tài Ứng dụng Office, rồi Đăng [xuất khỏi mọi](https://support.office.com/article/sign-out-of-office-5a20dc11-47e9-4b6f-945d-478cb6d92071) tài khoản người dùng hiện có.
 
-- Đi đến **thiết đặt Windows > tài khoản > Email & tài khoản** và loại bỏ tài khoản công việc hiện có.
+- Đi tới Tài **Windows Cài đặt > khoản > khoản email & và loại** bỏ tài khoản công việc hiện có.
 
-- Đi đến **thiết đặt Windows > tài khoản > truy nhập công việc hoặc trường học** và ngắt kết nối các tài khoản hiện có. 
+- Chuyển đến Tài **khoản Windows Cài đặt > hoặc > cơ quan hoặc trường học và ngắt** kết nối các tài khoản hiện có. 
 
-- Bấm vào **+** biểu tượng để thêm hoặc kết nối tài khoản của bạn. Nhập thông tin đăng nhập của bạn và chờ quá trình hoàn tất.
+- Bấm vào biểu **+** tượng để thêm hoặc kết nối tài khoản của bạn. Nhập thông tin xác thực của bạn và chờ quy trình hoàn tất.
 
-- Khởi động ứng dụng Office và đăng nhập lại nếu cần thiết. 
+- Khởi chạy Ứng dụng Office rồi đăng nhập lại nếu cần. 
 
-**Mẹo** Trên máy Windows, chúng tôi có thể chẩn đoán và tự động khắc phục một số vấn đề đăng nhập Office thông thường cho bạn. Tải xuống và chạy trình trợ  **[giúp phục hồi và hỗ trợ của Microsoft](https://aka.ms/SaRA-OfficeSignInScenario)** để sử dụng công cụ tự động của chúng tôi.
+**Mẹo** Trên Windows tính, chúng tôi có thể chẩn đoán và tự động khắc phục một số sự cố Office đăng nhập thường gặp cho bạn. Tải xuống và chạy Microsoft Công cụ Trợ giúp Phục hồi và Hỗ trợ **[cách sử dụng](https://aka.ms/SaRA-OfficeSignInScenario)** công cụ tự động của chúng tôi.
 
 Nếu sự cố vẫn tiếp diễn, hãy thử bước sau đây: 
 
-- Đặt lại trạng thái kích hoạt Office. Xem [đặt lại ứng dụng Microsoft 365 cho trạng thái kích hoạt doanh nghiệp](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state).
+- Đặt lại Office thái kích hoạt. Xem [Đặt lại Ứng dụng Microsoft 365 dành cho doanh nghiệp lớn thái kích hoạt](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
-Để biết thêm thông tin, hãy xem rất [tiếc, một tài khoản khác từ tổ chức của bạn đã được đăng nhập trên máy tính này](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in) trong Office.
+Để biết thêm thông tin, hãy [xem mục Rất tiếc,](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in) một tài khoản khác từ tổ chức của bạn đã đăng nhập trên máy tính này trong Office.
 
-Đối với máy Mac, hãy xem [không thể đăng nhập vào ứng dụng Office 2016 cho Mac](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail).
+Đối với máy Mac, [xem mục Không thể đăng nhập vào ứng dụng Office 2016 for Mac.](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail)

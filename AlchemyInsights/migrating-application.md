@@ -1,5 +1,5 @@
 ---
-title: Di chuyển các ứng dụng
+title: Di chuyển ứng dụng
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004342"
 - "7839"
-ms.openlocfilehash: 0664ec09a9633165ff0a7d4b33320b14abf7c4e7
-ms.sourcegitcommit: ba3118b7ad5e02756d0e5c2113245090f54370af
+ms.openlocfilehash: c45c8c64427fd0122ef8c91f800b830f421fd9d78e7108962d4053700a3da519
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49984652"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53975339"
 ---
-# <a name="migrating-applications"></a>Di chuyển các ứng dụng
+# <a name="migrating-applications"></a>Di chuyển ứng dụng
 
-[Các tài nguyên để di chuyển các ứng dụng cho Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/migration-resources) -tài nguyên để giúp bạn di chuyển truy nhập ứng dụng và xác thực đối với Azure Active Directory (Azure AD).
+[Tài nguyên để di chuyển ứng dụng](https://docs.microsoft.com/azure/active-directory/manage-apps/migration-resources) sang Azure Active Directory - Tài nguyên giúp bạn di chuyển quyền truy nhập và xác thực ứng dụng sang Azure Active Directory (Azure AD).
 
-[Chuyển ứng dụng xác thực từ các dịch vụ liên kết Active Directory đến Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/migrate-adfs-apps-to-azure) -nhà phát triển hướng dẫn dành cho việc di chuyển các ứng dụng từ các dịch vụ liên kết Active Directory đến Azure Active Directory.
+[Di chuyển xác thực](https://docs.microsoft.com/azure/active-directory/manage-apps/migrate-adfs-apps-to-azure) ứng dụng từ Dịch vụ Liên kết Active Directory sang Azure Active Directory - Hướng dẫn tập trung vào nhà phát triển để di chuyển các ứng dụng từ Dịch vụ Liên kết Active Directory sang Azure Active Directory.

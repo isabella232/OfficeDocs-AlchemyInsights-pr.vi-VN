@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: ''
-ms.reviewer: jmueller, tugu
+ms.reviewer: tugu, jmueller
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -15,17 +15,17 @@ ms.custom:
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: a2a9b189ba8228cd6487c2f268c9d71affaa3519
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: acf3231c198a611d0975fffc4ef68ac28a901488f93a695de5d8f19bebf80f25
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53686332"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57868404"
 ---
 # <a name="how-to-add-or-edit-a-vatid"></a>Cách thêm hoặc chỉnh sửa VATID
 
 > [!NOTE]
-> Nếu bạn đang ở quốc gia sử dụng thuế giá trị gia tăng (VAT), như Vương quốc Anh, Microsoft Invoicing sẽ tính toán VAT cho bạn và áp dụng số tiền vào hóa đơn của bạn. Để biết thêm thông tin, hãy [xem tuyên bố miễn trừ trách nhiệm VIES do](https://go.microsoft.com/fwlink/p/?LinkID=841741) Ủy ban Châu Âu phát hành.
+> Nếu bạn đang ở quốc gia sử dụng thuế giá trị gia tăng (VAT), như Vương quốc Anh, Microsoft Invoicing sẽ tính toán VAT cho bạn và áp dụng số tiền vào hóa đơn của bạn. Để biết thêm thông tin, hãy [xem phần Tuyên bố miễn trừ trách nhiệm VIES do](https://go.microsoft.com/fwlink/p/?LinkID=841741) Ủy ban Châu Âu phát hành.
 
 **Thêm hoặc chỉnh sửa VATID**
 
@@ -34,4 +34,4 @@ ms.locfileid: "53686332"
 3. Trên trang chi tiết đăng ký, trong mục Địa chỉ **sử dụng dịch** vụ, chọn Chỉnh sửa địa chỉ sử dụng dịch **vụ**.
 4. Trong ngăn **Chỉnh sửa địa chỉ sử dụng dịch** vụ của bạn, nhập ID VAT của bạn vào hộp số **VAT,** rồi chọn **Lưu.** Sau khi bạn thực hiện điều này, vat sẽ không bị tính phí trong hóa đơn tiếp theo của bạn.
 
-Để tìm hiểu thêm, hãy [xem mục Tôi sẽ bị tính thuế nào cho Microsoft 365?.](/microsoft-365/commerce/billing-and-payments/tax-information#what-tax-will-i-be-charged)
+Để tìm hiểu thêm, hãy [xem mục Tôi sẽ bị tính thuế nào cho Microsoft 365?.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information#what-tax-will-i-be-charged)
