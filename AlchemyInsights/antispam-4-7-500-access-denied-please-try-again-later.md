@@ -1,5 +1,5 @@
 ---
-title: 1051 truy nhập antispam 4.7.500 bị từ chối, vui lòng thử lại sau
+title: 1051 Antispam 4.7.500 Access denied, please try again later
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,15 +13,15 @@ ms.custom:
 - "1051"
 - "3100024"
 ms.assetid: 5b195ea9-028b-42a8-8b39-e19797a00d8e
-ms.openlocfilehash: f5ee8db0239ad86501b175f069acf28211e3a323
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 20f783a4c931318003b36f38600e69918c43b474d0039d039da25684c865c5e9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47717599"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53932695"
 ---
-# <a name="47500-access-denied-please-try-again-later"></a>truy nhập 4.7.500 bị từ chối, vui lòng thử lại sau
+# <a name="47500-access-denied-please-try-again-later"></a>4.7.500 Access denied, please try again later
 
-Lỗi này xảy ra khi âm lượng lưu lượng email từ địa chỉ IP nguồn vượt quá giới hạn dựa trên danh tiếng (hoặc thiếu danh tiếng) của địa chỉ IP nguồn.
+Lỗi này xảy ra khi lưu lượng email từ địa chỉ IP nguồn vượt quá giới hạn dựa trên uy tín (hay việc thiếu danh tiếng) của địa chỉ IP nguồn.
 
-Chặn email từ địa chỉ IP nguồn sẽ hết hạn trong vòng một giờ. Nếu địa chỉ IP nguồn là một máy chủ email tại chỗ thuộc về bạn, hãy xác nhận cấu hình của đường kết nối dòng thư. Nếu hành vi tiếp tục trong hơn một giờ, hãy liên hệ với bộ phận hỗ trợ để yêu cầu ngoại lệ cho địa chỉ IP nguồn.
+Chặn email từ địa chỉ IP nguồn sẽ hết hạn trong vòng một giờ. Nếu địa chỉ IP nguồn là một máy chủ email tại chỗ thuộc bạn, hãy xác minh cấu hình của bộ nối dòng thư. Nếu hành vi này tiếp tục trong hơn một giờ, hãy liên hệ với bộ phận hỗ trợ để yêu cầu ngoại lệ cho địa chỉ IP nguồn.

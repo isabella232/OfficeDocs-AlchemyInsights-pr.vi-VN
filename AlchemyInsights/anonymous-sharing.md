@@ -9,29 +9,29 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d57ca274-af16-4cc1-8c67-8c499f5c1d37
-ms.openlocfilehash: e2b0d6f6841481e7864c25872e6e8570b8a2fba3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b8b94898e703a14fdfa4903565a680e7d5dea0f1cafedc59412d425b4ff9bbb2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47717743"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53932803"
 ---
 # <a name="anonymous-sharing"></a>Chia sẻ ẩn danh
 
  **Cho phép truy nhập ẩn danh**
   
-Trong Trung tâm quản trị SharePoint mới, hãy bấm **chia sẻ** trong ngăn bên trái. 
+Trong trung tâm quản SharePoint mới, bấm chia **sẻ** ở ngăn bên trái. 
   
-- Chọn các mục sau: **cho phép chia sẻ đối với người dùng bên ngoài được xác thực và sử dụng quyền truy nhập ẩn danh.**
+- Chọn như sau: Cho phép **chia sẻ để xác thực người dùng bên ngoài và sử dụng quyền truy nhập ẩn danh.**
   
-(Tùy ý, bạn có thể đặt các nối kết hết hạn vào một số ngày cụ thể và chọn cách người nhận có thể sử dụng liên kết.)
+(Bạn có thể tùy chọn đặt nối kết để hết hạn trong một số ngày cụ thể, rồi chọn cách người nhận có thể sử dụng các liên kết.)
     
- **Chia sẻ tệp hoặc thư mục nặc danh**
+ **Chia sẻ tệp hoặc thư mục ẩn danh**
   
-- Chọn tệp hoặc thư mục mà bạn muốn chia sẻ, rồi bấm **chia sẻ**. 
+- Chọn tệp hoặc thư mục bạn muốn chia sẻ, rồi bấm Chia **sẻ**. 
     
-- Bạn có muốn liên kết này hoạt động như thế nào? bấm vào **bất kỳ ai.**
+- Who muốn liên kết này hoạt động không? bấm vào **Bất kỳ ai.**
   
- **Lưu ý**: **bất kỳ ai** tạo liên kết mà bất kỳ ai cũng có thể sử dụng để truy nhập vào tài liệu hoặc thư mục, ngay cả khi họ không đăng nhập vào Microsoft 365 hoặc onedrive. Sử dụng phần này để chia sẻ với bất kỳ ai, bên trong hoặc bên ngoài công ty của bạn. Nối kết này cũng có thể được chuyển tiếp xung quanh bất kỳ ai. 
+ **Lưu ý**: **Bất kỳ** ai cũng tạo liên kết mà bất cứ ai cũng có thể sử dụng để truy nhập vào tài liệu hoặc thư mục, ngay cả khi họ không đăng nhập vào Microsoft 365 hoặc OneDrive. Sử dụng ứng dụng này để chia sẻ với mọi người, bên trong hoặc bên ngoài công ty của bạn. Liên kết này cũng có thể được chuyển tiếp xung quanh cho bất kỳ ai. 
     
 

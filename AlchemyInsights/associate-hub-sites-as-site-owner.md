@@ -1,5 +1,5 @@
 ---
-title: Các site liên kết Hub như chủ sở hữu site
+title: Liên kết Site Hub với tư cách là Chủ sở hữu Site
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000717"
 - "2638"
-ms.openlocfilehash: e08bed31171bfcb4420b86c225542515d5e1e819
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c2859c6c02dfd7f593a935e413d580033aa182fda211e3a1489b43fddc067c6c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51821028"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53979839"
 ---
-# <a name="associate-hub-sites-as-site-owner"></a>Các site liên kết Hub như chủ sở hữu site
+# <a name="associate-hub-sites-as-site-owner"></a>Liên kết Site Hub với tư cách là Chủ sở hữu Site
 
-[Trung tâm thông báo 186626](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/MessageCenter?id=MC186626) được chia sẻ cách gia nhập một Hub SharePoint giờ đây có thể được chủ sở hữu site thực hiện. Nếu tổ chức của bạn muốn quản lý các cá nhân cụ thể có thể liên kết với một Hub, hãy làm theo các bước sau đây: 
+[Trung tâm Thông báo 186626](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/MessageCenter?id=MC186626) cách chủ sở hữu site có thể thực hiện việc gia nhập hub SharePoint như thế nào. Nếu tổ chức của bạn muốn quản lý các cá nhân cụ thể có thể liên kết với hub, hãy làm theo các bước sau: 
 
-1. Đăng nhập vào ( [https://portal.office.com](https://portal.office.com) ) với các quyền của người quản trị.
-2. Chọn công cụ khởi động **ứng dụng** (biểu tượng với chín hình vuông) ở phía trên cùng bên trái của màn hình, rồi chọn **người quản trị**.
-3. Chọn **Trung tâm quản trị** từ menu ở bên trái của màn hình, rồi chọn **SharePoint**.
-4. Từ biểu ngữ màu lam ở phía trên cùng của màn hình, chọn **khởi chạy ứng dụng ngay** để hiển thị Trung tâm quản trị SharePoint mới.
-5. Trong phần Hiển thị ở bên trái màn hình, hãy chọn **site** từ menu, rồi chọn **các trang hiện hoạt**.
-6. Kiểm tra site Hub nơi bạn muốn thay đổi thiết đặt.
-7. Chọn **Hub** từ menu ở phía trên cùng của màn hình, rồi chọn **chỉnh sửa thiết đặt site Hub**.
-8. Xác định người dùng hoặc nhóm bảo mật mà bạn muốn cho phép làm việc với trong "người dùng có thể liên kết site này với mục Trung tâm này".
-9. Chọn **lưu** ở cuối màn hình.
+1. Đăng nhập vào ( [https://portal.office.com](https://portal.office.com) ) bằng quyền của người quản trị.
+2. Chọn công **cụ khởi động ứng dụng** (biểu tượng có chín hình vuông) ở phía trên cùng bên trái màn hình, rồi chọn Người quản **trị**.
+3. Chọn **Trung tâm** Quản trị từ menu ở bên trái màn hình, rồi chọn SharePoint. 
+4. Từ biểu ngữ màu lam ở đầu màn hình, chọn Khởi chạy ứng dụng ngay để **hiển** thị Trung tâm quản trị Sharepoint mới.
+5. Trong màn hình ở bên trái màn hình, chọn **Site** từ menu, rồi chọn Site **Hiện hoạt**.
+6. Kiểm tra site hub nơi bạn muốn thay đổi thiết đặt.
+7. Chọn **Hub** từ menu ở đầu màn hình, rồi chọn Chỉnh **sửa Site Hub Cài đặt**.
+8. Chỉ định người dùng hoặc nhóm bảo mật mà bạn muốn cho phép làm việc trong mục "Người dùng có thể liên kết site với hub này".
+9. Chọn **Lưu** ở cuối màn hình.
 
-Để biết thêm thông tin, hãy xem [liên kết site SharePoint với site Hub](https://support.office.com/article/associate-a-sharepoint-site-with-a-hub-site-ae0009fd-af04-4d3d-917d-88edb43efc05). 
+Để biết thêm thông [tin, hãy xem Liên SharePoint site với site hub](https://support.office.com/article/associate-a-sharepoint-site-with-a-hub-site-ae0009fd-af04-4d3d-917d-88edb43efc05). 

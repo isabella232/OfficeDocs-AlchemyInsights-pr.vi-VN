@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300012"
 - "1012"
-ms.openlocfilehash: dc81648caee1d824e525c73c9d7a90b9e1490e21
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f9cc6512e50a7f2c49013d6b6659240e240141337396c961edc04225e130f54b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47715763"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53989649"
 ---
-# <a name="associate-existing-site-with-a-hub-site"></a>Liên kết site hiện có với site Hub
+# <a name="associate-existing-site-with-a-hub-site"></a>Liên kết site hiện có với site hub
 
-Để liên kết site hiện có với site Hub của bạn, hãy làm như sau:
+Để liên kết site hiện có với site hub của bạn, hãy thực hiện như sau:
   
-1. Trên trang của bạn, hãy chọn **thiết đặt** (biểu tượng bánh răng ở góc trên bên phải), rồi chọn **thông tin site**.
+1. Trên site của bạn, chọn **Cài đặt** (biểu tượng bánh răng ở góc trên bên phải), rồi chọn Thông **tin site**.
 
-2. Trong Pa-nen **sửa thông tin site** , trong menu **Hub site Association** , chọn site Hub mà bạn muốn liên kết với site của bạn, rồi bấm **lưu**. Giao diện trang web của bạn sẽ thay đổi thành khớp với site Hub và thanh dẫn hướng site Hub sẽ xuất hiện ở trên cùng.
+2. Trong **pa-nen** Chỉnh sửa thông tin site, trong menu Liên kết **site Hub,** chọn site hub mà bạn muốn liên kết với site của mình, rồi bấm **Lưu.** Diện tích site của bạn sẽ thay đổi để khớp với giao diện của site hub và thanh dẫn hướng site hub sẽ xuất hiện ở phía trên cùng.
 
->**Yù**
+>**Lưu ý**
 >
->Nếu tùy chọn Hub site Association không hiện diện hoặc không có site nào được liệt kê ở đó, thì site Hub có thể không được bật hoặc bạn có thể không có quyền liên kết các site với site Hub. Liên hệ với người quản trị của bạn để biết thêm thông tin.
+>Nếu tùy chọn liên kết site Hub không xuất hiện hoặc không có site nào được liệt kê ở đó, có thể site hub không được bật hoặc bạn có thể không có quyền liên kết site với site hub. Hãy liên hệ với người quản trị của bạn để biết thêm thông tin.
 >
->Không có giới hạn số lượng site có thể được liên kết với site Hub.
+>Không có giới hạn về số lượng site có thể được liên kết với site hub.
   

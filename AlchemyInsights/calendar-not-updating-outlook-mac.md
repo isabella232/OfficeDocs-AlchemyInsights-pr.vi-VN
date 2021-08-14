@@ -1,5 +1,5 @@
 ---
-title: Lịch không Cập Nhật Outlook cho Mac
+title: Lịch không cập nhật Outlook for Mac
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "10935"
 - "9001435"
-ms.openlocfilehash: 04e2339a08fe3ad9850e21e2cef8a91d62d0acbb
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8b472cafba2aa203a42bac342fe0c8dc3ce959acaa3702faee13156d4459699d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51837584"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53989433"
 ---
-# <a name="calendar-not-updating-outlook-for-mac"></a>Lịch không Cập Nhật Outlook cho Mac
+# <a name="calendar-not-updating-outlook-for-mac"></a>Lịch không cập nhật Outlook for Mac
 
-Nếu các mục lịch bị thiếu hoặc không Cập Nhật, chúng tôi sẽ thu thập dữ liệu cụ thể từ bạn để điều tra sự cố:
+Nếu mục Lịch bị thiếu hoặc không cập nhật, chúng tôi sẽ thu thập dữ liệu cụ thể từ bạn để điều tra vấn đề này:
 
-1. Với Outlook mở, hãy chọn Menu Windows, rồi chọn **đồng bộ lỗi**.
+1. Khi Outlook, hãy chọn menu Windows, rồi chọn Đồng **bộ Lỗi**.
 
-1. Bấm vào biểu tượng bảng điều khiển đen ở bên trái của bánh răng. Thư mục chẩn đoán sẽ mở ra tự động.
+1. Bấm vào biểu tượng bảng điều khiển màu đen ở bên trái bánh răng. Thư mục chẩn đoán sẽ tự động mở ra.
 
-1. Nén và tải xuống tệp chẩn đoán mới nhất để hỗ trợ để phân tích.
+1. Nén và tải lên tệp chẩn đoán mới nhất để hỗ trợ phân tích.

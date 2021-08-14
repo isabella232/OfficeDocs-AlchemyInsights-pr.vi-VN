@@ -1,5 +1,5 @@
 ---
-title: Kiểm tra trạng thái bảo hành cho một thiết bị Surface hoặc Xbox
+title: Kiểm tra trạng thái bảo hành cho thiết bị Surface hoặc Xbox
 ms.author: pebaum
 author: pebaum
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9756"
 - "9005679"
-ms.openlocfilehash: add41d938619c5744fbd08a15cd497ff2a41a486
-ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
+ms.openlocfilehash: 83dd648705c4ee4e58fcf53d0b2b2ba04d2c80128e826d39fbb2061eb547f63e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51505342"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53989073"
 ---
-# <a name="check-the-warranty-status-for-a-surface-or-xbox-device"></a>Kiểm tra trạng thái bảo hành cho một thiết bị Surface hoặc Xbox
+# <a name="check-the-warranty-status-for-a-surface-or-xbox-device"></a>Kiểm tra trạng thái bảo hành cho thiết bị Surface hoặc Xbox
 
-Nếu bạn có một thiết bị Surface hoặc Xbox, bạn có thể sử dụng tài khoản Microsoft của bạn để kiểm tra bảo hành của bạn. Sau đây là cách làm:
+Nếu có thiết bị Surface hoặc Xbox, bạn có thể sử dụng tài khoản Microsoft để kiểm tra bảo hành của mình. Đây là cách thực hiện:
 
-1. Đăng nhập vào [tài khoản Microsoft](https://account.microsoft.com/devices/)của bạn. 
+1. Đăng nhập vào tài khoản [Microsoft của bạn](https://account.microsoft.com/devices/). 
 
 1. Chọn thiết bị mà bạn muốn kiểm tra bảo hành.
 
-1. Trong **vùng phủ sóng thiết bị**, bạn sẽ thấy loại bảo hành nào của thiết bị và có bao nhiêu thời gian còn lại.
+1. Trong Phạm **vi bảo hành thiết** bị, bạn sẽ thấy loại bảo hành mà thiết bị của bạn có và thời gian còn lại trong thiết bị.
 
-**Ghi chú** Thiết bị của bạn phải được đăng ký trước khi bạn có thể kiểm tra trạng bảo hành hoặc nhận dịch vụ của bạn. Nếu bạn cần đăng ký thiết bị của mình hoặc không thấy thiết bị của bạn được liệt kê sau khi đăng nhập vào tài khoản của bạn, hãy đi đến [đăng ký Surface hoặc Xbox của](https://support.microsoft.com/surface/register-your-surface-or-xbox-fd7d73f8-b0e6-c9fa-e83b-0b64652e2376)bạn.
+**Lưu ý** Thiết bị của bạn phải được đăng ký trước khi bạn có thể kiểm tra bảo hành hoặc nhận dịch vụ. Nếu bạn cần đăng ký thiết bị hoặc không thấy thiết bị của mình được liệt kê sau khi đăng nhập vào tài khoản, hãy đi tới Đăng ký [Surface hoặc Xbox](https://support.microsoft.com/surface/register-your-surface-or-xbox-fd7d73f8-b0e6-c9fa-e83b-0b64652e2376).

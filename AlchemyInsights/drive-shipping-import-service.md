@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11514"
 - "9003046"
-ms.openlocfilehash: 85d6e723e56b01fd9914165d8c9740f3b055947d
-ms.sourcegitcommit: 1226e9a9601dc8fc8ec427235f3c2dd88ff84ced
+ms.openlocfilehash: ea9f78176bcc3208c01da5ccfaeb97af4373a5b5d1a4abc652422a0f85df7d9a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/02/2021
-ms.locfileid: "52731953"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54004212"
 ---
 # <a name="drive-shipping-in-the-microsoft-365-import-service"></a>Vận chuyển ổ đĩa trong Microsoft 365 Nhập Dịch vụ
 
@@ -38,7 +38,7 @@ Dưới đây là một số điều cần ghi nhớ:
 Hiệu suất có thể bị ảnh hưởng đối với PST lớn hơn 20 GB.
 
 - Bạn chỉ hỗ trợ ổ đĩa thể rắn (SSD) 2,5 inch hoặc ổ đĩa cứng trong 2,5 inch hoặc 3,5 inch SATA II/III.
-Ổ cứng có chứa tệp PST phải được mã hóa bằng tệp BitLocker.
+Ổ cứng có chứa tệp PST phải được mã hóa bằng BitLocker.
 
 - Chi phí nhập tệp PST vào hộp thư Microsoft 365 sử dụng phương pháp vận chuyển ổ đĩa là 2 USD cho mỗi GB dữ liệu.
 

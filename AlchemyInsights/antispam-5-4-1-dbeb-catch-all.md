@@ -1,5 +1,5 @@
 ---
-title: AntiSpam 5.4.1 \ Catch-tất cả
+title: AntiSpam 5.4.1 DBEB bao trùm
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001209"
 - "3167"
-ms.openlocfilehash: c6ce26a133428dc7351912d8250ef096dfc7521a
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: e0e9b4fec0615943227f40043aeed842e8ee556c5916a59f65e79ce121ec9547
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51821469"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53932299"
 ---
-# <a name="fix-delivery-issues-for-error-code-550-541-relay-access-denied"></a>Khắc phục các sự cố chuyển phát cho mã lỗi 550 5.4.1 Relay Access bị từ chối
+# <a name="fix-delivery-issues-for-error-code-550-541-relay-access-denied"></a>Khắc phục sự cố chuyển phát cho mã lỗi 550 5.4.1 Relay Access Denied
 
-Sự cố này xảy ra khi [kiểm tra để xem liệu một địa chỉ email có hiệu lực hợp lệ không để ngăn chặn](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-directory-based-edge-blocking) khi nhập mạng Microsoft. Hãy thử làm như sau:
+Sự cố này xảy ra khi [kiểm tra xem một địa chỉ email có](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-directory-based-edge-blocking) hợp lệ không để tránh bị trả lại khi nhập mạng Microsoft. Hãy thử cách sau:
 
-1. Xác định xem vấn đề này là gì cụ thể đối với toàn bộ tên miền hoặc địa chỉ email duy nhất:
-    - Toàn bộ tên miền: đôi khi tên miền cần được đồng bộ hóa; thử [đặt tên miền thành nội bộ và sau đó trở lại thẩm quyền](https://docs.microsoft.com/exchange/mail-flow-best-practices/manage-accepted-domains/manage-accepted-domains).
-    - Địa chỉ email đơn: đôi khi địa chỉ cần được đồng bộ hóa; thay đổi địa chỉ proxy SMTP và sau đó thay đổi nó lại có thể trợ giúp.
-2. Xác định xem vấn đề này là gì cụ thể đối với một nhóm hoặc thư mục công cộng. Đối với một số loại đối tượng, các đối tượng có thể cần được tạo theo cách thủ công trong Azure Active Directory.
+1. Xác định xem sự cố cụ thể với toàn bộ tên miền hay một địa chỉ email duy nhất:
+    - Toàn bộ miền: Đôi khi miền cần được đồng bộ hóa; hãy [thử thiết đặt miền thành Nội bộ rồi quay lại Có thẩm quyền.](https://docs.microsoft.com/exchange/mail-flow-best-practices/manage-accepted-domains/manage-accepted-domains)
+    - Địa chỉ email đơn: Đôi khi địa chỉ cần được đồng bộ hóa; thay đổi địa chỉ proxy smtp và sau đó thay đổi lại địa chỉ proxy đó có thể giúp ích.
+2. Xác định xem vấn đề này cụ thể đối với một nhóm hay thư mục công cộng. Đối với một số kiểu đối tượng, các đối tượng có thể cần được tạo thủ công trong Azure Active Directory.
 
-Nếu bạn cần thêm trợ giúp, vui lòng mở một vé hỗ trợ và xác định phạm vi vấn đề (bao gồm loại đối tượng mà bạn đang gửi đến) để chúng tôi có thể hỗ trợ bạn tốt hơn.
+Nếu bạn cần trợ giúp thêm, vui lòng mở thẻ hỗ trợ và chỉ định phạm vi của sự cố (bao gồm loại đối tượng bạn đang gửi đến) để chúng tôi có thể trợ giúp bạn tốt hơn.

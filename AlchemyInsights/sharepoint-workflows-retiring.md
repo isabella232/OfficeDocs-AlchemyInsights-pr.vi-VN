@@ -1,5 +1,5 @@
 ---
-title: Rút lui dòng công việc SharePoint
+title: SharePoint công việc ngừng hoạt động
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "5900"
 - "9003071"
-ms.openlocfilehash: cf85e4c45f1d88c3a643e298fac5d539cd127fdf
-ms.sourcegitcommit: 0f42d1600b6845083f0273d14c1d9e59344e4371
+ms.openlocfilehash: f5d177dead1785d278e71370113dd893c897b4616a2ca2b32cd5614133625065
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49477500"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54022491"
 ---
-# <a name="sharepoint-workflows-retiring"></a>Rút lui dòng công việc SharePoint
+# <a name="sharepoint-workflows-retiring"></a>SharePoint công việc ngừng hoạt động
 
-Dòng công việc SharePoint 2010 đã ngừng hoạt động. Chúng tôi khuyên bạn nên di chuyển sang [tự](https://docs.microsoft.com/power-automate/getting-started) động hóa hoặc giải pháp được hỗ trợ khác. 
+SharePoint công việc 2010 đã ngừng hoạt động. Chúng tôi khuyên bạn nên di chuyển sang Power Automate [giải](https://docs.microsoft.com/power-automate/getting-started) pháp được hỗ trợ khác. 
 
-Ngày tháng chính:
+Ngày chính:
 
-- 1 tháng tám, 2020 dòng công việc SharePoint 2010 bị **tắt** cho bất kỳ đối tượng thuê mới được tạo.
+- Ngày 1 tháng 8 năm 2020 SharePoint  2010 được tắt đối với bất kỳ đối tượng thuê mới được tạo nào.
 
-- 1 tháng mười một, 2020 SharePoint 2010 dòng công việc được **loại bỏ** khỏi các đối tượng thuê hiện có.
+- Ngày 1 tháng 11 năm 2020 SharePoint 2010, các dịch vụ dòng công việc được **loại** bỏ khỏi các đối tượng thuê hiện có.
 
-Để biết thêm thông tin, hãy xem [hỗ trợ dòng](https://aka.ms/sp-workflows-support)công việc SharePoint.
+Để biết thêm thông tin, hãy [xem SharePoint Hỗ trợ Dòng công việc](https://aka.ms/sp-workflows-support).

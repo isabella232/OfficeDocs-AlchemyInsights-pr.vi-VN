@@ -1,5 +1,5 @@
 ---
-title: Tự động dọn dẹp các thiết bị cũ trong InTune
+title: Tự động dọn dẹp thiết bị cũ trong Intune
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,31 +13,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "1285"
 - "6700008"
-ms.openlocfilehash: 49a15132253c59189e343aeaa1c11d450b344896
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 905881f08ace7afae871ac48fa30ed1a0f15d13972cdff299a6694ca2eafc9cc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47715043"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53997114"
 ---
-# <a name="automatic-cleanup-of-stale-devices-in-intune"></a>Tự động dọn dẹp các thiết bị cũ trong InTune
+# <a name="automatic-cleanup-of-stale-devices-in-intune"></a>Tự động dọn dẹp thiết bị cũ trong Intune
 
-InTune cho phép người quản trị cấu hình khoảng thời gian giữa 90 và 270 ngày, sau khi các thiết bị cũ được loại bỏ khỏi Dịch vụ. Thiết đặt này là tổ chức rộng và đã kích hoạt một lần sẽ có hiệu lực ngay lập tức. Mọi thiết bị không được kiểm nhập vào máy chủ InTune trong một khoảng thời gian vượt quá thiết đặt sẽ bị xóa vĩnh viễn.
+Intune cho phép người quản trị đặt cấu hình khoảng thời gian từ 90 đến 270 ngày, sau đó các thiết bị cũ sẽ được loại bỏ khỏi dịch vụ. Cài đặt này có phạm vi toàn tổ chức và sau khi kích hoạt sẽ có hiệu lực ngay lập tức. Bất kỳ thiết bị nào không được kiểm nhập vào máy chủ Intune trong một khoảng thời gian vượt quá thiết đặt sẽ bị xóa vĩnh viễn.
 
-**Ghi chú** Chỉ các đối tượng thiết bị MDM đủ điều kiện cho hành động dọn dẹp này. Chỉ các đối tượng của thiết bị EAS được loại trừ.
+**Lưu ý** Chỉ các đối tượng của thiết bị MDM đủ điều kiện cho hành động dọn sạch này. Chỉ loại trừ các đối tượng của thiết bị EAS.
 
-Để biết thêm thông tin về khi thiết bị trở nên đủ điều kiện để xóa căn cứ theo thiết đặt thiết bị dọn dẹp và trạng thái "của bạn":
+Để biết thêm thông tin về thời điểm thiết bị đủ điều kiện để xóa dựa trên thiết đặt dọn sạch thiết bị và "trạng thái" của thiết bị:
 
-Thiết đặt: **xóa các thiết bị sau ngày kiểm nhập lần cuối: có (một số giá trị (N) trong các ngày đã xác định)**
+Cài đặt: **Xóa thiết bị sau ngày kiểm nhập gần nhất: Có (một số giá trị (N) trong ngày đã xác định)**
 
-- Dựa trên giá trị (N) được đặt cấu hình trong thiết đặt, Dịch vụ InTune sẽ xóa thiết bị trong những ngày cụ thể sau khi kiểm tra thành công lần cuối.
+- Dựa trên giá trị (N) được đặt cấu hình trong cài đặt, dịch vụ Intune sẽ xóa thiết bị trong những ngày được chỉ định sau lần kiểm nhập thành công gần nhất.
 
-Thiết đặt:  **xóa các thiết bị sau ngày kiểm nhập lần cuối: không có**
+Cài đặt:  **Xóa thiết bị sau ngày kiểm nhập gần nhất: Không**
 
 - 180 ngày sau khi chứng chỉ thiết bị hết hạn và không được gia hạn, thiết bị sẽ bị xóa.
 
-**Ghi chú** Trong cả hai trường hợp, thiết bị phải được đăng ký thành công trong InTune. Đăng ký xảy ra trong trình kiểm tra thiết bị đầu tiên với dịch vụ InTune.
+**Lưu ý** Trong cả hai trường hợp, thiết bị phải được đăng ký thành công trong Intune. Việc đăng ký diễn ra trong quá trình kiểm tra thiết bị đầu tiên với dịch vụ Intune.
 
-Nếu thiết bị đã được thực hiện thành công với InTune nhưng không trở thành InTune đã đăng ký, thiết bị sẽ bị xóa 270 ngày sau khi ghi danh. (90 ngày để đánh dấu thiết bị là thu hồi, rồi sau đó 180 ngày khác để xóa bản ghi.)
+Nếu một thiết bị đăng ký thành công Intune nhưng không trở thành đã đăng ký Intune, thiết bị sẽ bị xóa sau 270 ngày đăng ký. (90 ngày để đánh dấu thiết bị là đã thu hồi, rồi thêm 180 ngày nữa để xóa bản ghi.)
 
-Không có cơ chế hiện tại trong giao diện điều khiển InTune để thiết lập ngày hết hạn của chứng chỉ thiết bị cho bất kỳ thiết bị nào đã cho.
+Hiện tại không có cơ chế nào trong bảng điều khiển Intune để thiết lập ngày hết hạn của chứng nhận thiết bị cho mọi thiết bị nhất định.
