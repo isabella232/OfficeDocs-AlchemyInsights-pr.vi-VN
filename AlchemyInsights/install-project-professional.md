@@ -13,20 +13,20 @@ ms.assetid: ''
 ms.custom:
 - "9000695"
 - "2607"
-ms.openlocfilehash: ed6f48c8a9efb53b193812e8e8b24c2a7e5044ec
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: dfb664248234a0a9e8b7e46355f8d424523c131540245184459556dc100a4924
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708408"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54014490"
 ---
 # <a name="install-project-professional"></a>Cài đặt Project Professional
 
-Xem mục [cài đặt dự án](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281) để tìm hiểu cách cài đặt phiên bản gói đăng ký của Project Online và phiên bản không phải đăng ký của Project 2019, 2016 hoặc 2013. 
+Xem [mục Cài Project](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281) để tìm hiểu cách cài đặt phiên bản đăng ký của Project Online và phiên bản không đăng ký của Project 2019, 2016 hoặc 2013. 
 
-Đối với Project 2010 hoặc 2007, hãy làm theo các bước trong [office 2010](https://support.office.com/article/install-office-2010-1b8f3c9b-bdd2-4a4f-8c88-aa756546529d) hoặc [Office 2007](https://support.office.com/article/install-office-2007-88a8e329-3335-4f82-abb2-ecea3e319657). 
+Đối với Project 2010 hoặc 2007, hãy làm theo các bước [trong Office 2010](https://support.office.com/article/install-office-2010-1b8f3c9b-bdd2-4a4f-8c88-aa756546529d) [hoặc Office 2007.](https://support.office.com/article/install-office-2007-88a8e329-3335-4f82-abb2-ecea3e319657) 
 
-Dự án được bán với tư cách là một ứng dụng độc lập, vì vậy nếu bạn chưa có, [Hãy mua hoặc thử dự án](https://www.microsoft.com/evalcenter/evaluate-project). 
+Project được bán dưới dạng ứng dụng độc lập, vì vậy nếu bạn chưa có [ứng](https://www.microsoft.com/evalcenter/evaluate-project)dụng, Hãy mua hoặc thử Project. 
 
 
 

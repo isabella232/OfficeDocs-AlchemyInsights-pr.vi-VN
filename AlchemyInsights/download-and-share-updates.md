@@ -1,5 +1,5 @@
 ---
-title: Tải xuống và chia sẻ các bản Cập Nhật
+title: Tải xuống và chia sẻ bản cập nhật
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "1127"
 - "6700007"
-ms.openlocfilehash: a147983e4ac5ee5c1bc0a6b5932e00557e8d6c10
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b4b0248bdf39e083ddac2cfa84648c16a174147d97ede29e9b62e65ffd33d9f5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47712278"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54004428"
 ---
-# <a name="download-and-share-updates"></a>Tải xuống và chia sẻ các bản Cập Nhật
+# <a name="download-and-share-updates"></a>Tải xuống và chia sẻ bản cập nhật
 
-Thay vì tải các bản Cập Nhật riêng lẻ, chế độ tải xuống tối ưu hóa chuyển phát cho phép chia sẻ giữa nhiều PC. Để biết thêm thông tin, hãy xem [Cập Nhật tối ưu hóa cho Windows 10](https://docs.microsoft.com/windows/deployment/update/waas-delivery-optimization).  
+Thay vì tải xuống từng bản cập nhật, chế độ tải xuống Tối ưu hóa Phân phối cho phép chia sẻ giữa nhiều PC. Để biết thêm thông tin, hãy [xem Tối ưu hóa Phân phối để biết Windows 10 cập nhật mới](https://docs.microsoft.com/windows/deployment/update/waas-delivery-optimization)nhất.  
 
 Các chế độ tải xuống sẵn có bao gồm:  
 - Chỉ HTTP  
-- Han  
+- LAN  
 - Nhóm  
-- Web  
+- Internet  
 - Đơn giản  
-- Bypass
+- Bỏ qua

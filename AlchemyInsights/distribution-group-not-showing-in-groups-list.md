@@ -1,5 +1,5 @@
 ---
-title: Nhóm phân phối không hiển thị trong danh sách Nhóm
+title: Nhóm Phân phối không hiển thị trong danh sách Nhóm
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,16 +14,16 @@ ms.custom:
 - "13"
 - "2"
 ms.assetid: 7d193eb3-dfaf-4be8-a03c-151905a1e9f1
-ms.openlocfilehash: 82b3624de2f574364270ead70f64ae97e9821380
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1b430d86a9384005ca389ec2e98708ea2be15beb8c0549093acb829f90189d38
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51815124"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53978219"
 ---
-# <a name="distribution-group-not-showing-in-groups-list"></a>Nhóm phân phối không hiển thị trong danh sách Nhóm
+# <a name="distribution-group-not-showing-in-groups-list"></a>Nhóm Phân phối không hiển thị trong danh sách Nhóm
 
-Có thể mất tới 60 phút trước khi danh sách phân phối mới của bạn xuất hiện trong Trung tâm quản trị.
+Có thể mất đến 60 phút trước khi Danh sách Phân phối mới xuất hiện trong Trung tâm quản trị.
   
-Nếu bạn muốn thêm thành viên hoặc thực hiện các sửa đổi khác ngay bây giờ, vui lòng sử dụng tính năng nhóm trong [Trung tâm quản trị Exchange](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1).
+Nếu bạn muốn thêm thành viên hoặc thực hiện những chỉnh sửa khác ngay bây giờ, vui lòng sử dụng tính năng Nhóm trong Trung [tâm quản Exchange Chính .](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1)
   

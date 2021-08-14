@@ -1,5 +1,5 @@
 ---
-title: Làm thế nào để tôi xóa bộ đệm ẩn hoặc đặt lại cục bộ/làm mới máy khách/ứng dụng?
+title: Làm thế nào để tôi xóa bộ đệm ẩn hoặc đặt lại/làm mới cục bộ máy khách/ứng dụng?
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3060"
 - "9001099"
-ms.openlocfilehash: e48bc08ac8098d8783bdf884aaf618feb1967327
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 4c6f5ee46c6d6fb3ae579968e6660cd83e9313f1e43a4907d212a39f6eee9b6c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51795970"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53977319"
 ---
-# <a name="how-do-i-clear-the-cache-or-locally-resetrefresh-the-clientapp"></a>Làm thế nào để tôi xóa bộ đệm ẩn hoặc đặt lại cục bộ/làm mới máy khách/ứng dụng?
+# <a name="how-do-i-clear-the-cache-or-locally-resetrefresh-the-clientapp"></a>Làm thế nào để tôi xóa bộ đệm ẩn hoặc đặt lại/làm mới cục bộ máy khách/ứng dụng?
 
-Nếu bạn thấy dữ liệu không đầy đủ hoặc không chính xác, hãy cố gắng buộc đóng và mở lại ứng dụng.  
+Nếu bạn thấy dữ liệu không đầy đủ hoặc không chính xác, hãy cố gắng bắt buộc đóng và mở lại ứng dụng.  
 
-Nếu cách này không hiệu quả, bạn có thể thử đặt lại tài khoản trên thiết bị.
+Nếu cách đó không hiệu quả, bạn có thể tìm cách đặt lại tài khoản trên thiết bị.
  
-Mở ứng dụng, đi tới **thiết đặt**, chọn tài khoản email, rồi chọn **đặt lại tài khoản**.
+Mở ứng dụng, đi tới **Cài đặt**, chọn tài khoản email và chọn Đặt **lại tài khoản**.

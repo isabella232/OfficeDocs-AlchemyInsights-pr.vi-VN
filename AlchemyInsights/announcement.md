@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "5152"
 - "9002660"
-ms.openlocfilehash: 734aa1628b866d6fe34bfdfa63dd4de36976d2c4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d38a2c915407fe9aec8198b04622c48769875f179f6b338fefae79e6b6332f2c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47717851"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53932839"
 ---
 # <a name="announcement"></a>Thông báo
 
-Giữ liên lạc và luôn hiệu quả với nhóm và Microsoft 365, ngay cả khi bạn đang làm việc từ xa. Để tìm hiểu thêm, hãy xem mục [làm việc từ xa với Microsoft 365](https://aka.ms/remote-work).
+Giữ liên lạc và duy trì hiệu quả với các Teams và Microsoft 365 của bạn, ngay cả khi bạn đang làm việc từ xa. Để tìm hiểu thêm, hãy [xem Làm việc từ xa với các Microsoft 365.](https://aka.ms/remote-work)
