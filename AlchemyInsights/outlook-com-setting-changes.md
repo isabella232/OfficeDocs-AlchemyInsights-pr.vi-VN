@@ -1,5 +1,5 @@
 ---
-title: Thiết đặt Outlook.com
+title: Outlook.com
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -10,31 +10,31 @@ ms.service: o365-administration
 ms.custom: 9000302
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 953bb7feec3099e7125c41b7177057ff40efa5be
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1d0fa87db304c2935f60848bf69c0fcc2217ac4414abd53718f418785e8804c5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47722729"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54095276"
 ---
-# <a name="settings-in-outlookcom"></a>Thiết đặt trong Outlook.com
+# <a name="settings-in-outlookcom"></a>Cài đặt in Outlook.com
 
-Nếu người nhận nằm trong nội bộ hoặc bên ngoài tổ chức của bạn và nếu họ đang sử dụng tài khoản email 365 hoặc Outlook.com, thì các khách hàng sau đây không nên thực hiện điều gì đặc biệt để mở thư: **outlook 2016, Outlook trên web/Outlook Web App, ứng dụng Outlook** dành cho thiết bị di động
+Nếu người nhận là nội bộ hoặc bên ngoài tổ chức của bạn VÀ nếu họ đang sử dụng tài khoản email Office 365 hoặc Outlook.com, những máy khách sau đây không cần phải làm bất kỳ điều gì đặc biệt để mở thư: **Outlook 2016, Outlook trên web / Outlook Web App, Outlook** dành cho thiết bị di động
 
-**Đại diện** người dùng được gửi email được bảo vệ, không thể mở thư được bảo vệ. Chỉ những người nhận gốc (người đã được bảo vệ email đã được gửi đến) có thể xem thông tin trong email.
+**Đại diện của** người dùng được bảo vệ đã gửi email, không thể mở thư được bảo vệ. Chỉ người nhận ban đầu (người được bảo vệ đã gửi email) mới có thể xem thông tin trong email.
 
-- Nếu người nhận nằm trên một nhà cung cấp dịch vụ Internet khác và họ &nbsp; không thể mở thư và xem phần đính kèm ' rpmsg ', hãy làm theo các hướng dẫn dưới đây:
+- Nếu người nhận ở trên một nhà cung cấp dịch vụ internet khác và họ không thể mở thư và thấy tệp đính kèm 'rpmsg', hãy làm theo hướng &nbsp; dẫn dưới đây:
     
-    - Chọn **đọc** thư.
+    - Chọn **Đọc** thư.
     
-    - Chúng được chuyển hướng đến một trang nơi họ nên chọn **đăng nhập bằng mật khẩu một lần**.
+    - Chúng sẽ được chuyển hướng đến một trang mà tại đó họ **nên chọn đăng nhập bằng mật mã dùng một lần.**
     
-    - Một mã khóa sử dụng duy nhất được gửi đến cùng một địa chỉ email. Nhập mã trong cửa sổ trình duyệt, rồi chọn **tiếp tục** đọc thư của bạn.
+    - Mật mã sử dụng một lần được gửi đến cùng một địa chỉ email. Nhập mã vào cửa sổ trình duyệt, sau đó chọn **Tiếp tục** để đọc thư của bạn.
 
-- Nếu bạn không thể mã hóa thư từ một tổ chức khác, hãy làm theo các bước phân giải đã xác định trong [bài viết](https://support.office.com/article/known-issues-opening-irm-protected-emails-sent-from-users-in-other-office-365-organizations-0dec0593-a05d-4aa2-8445-9311ebab3164)này.
+- Nếu bạn không thể mã hóa thư từ một tổ chức khác, hãy làm theo các bước giải pháp được chỉ định trong bài [viết này.](https://support.office.com/article/known-issues-opening-irm-protected-emails-sent-from-users-in-other-office-365-organizations-0dec0593-a05d-4aa2-8445-9311ebab3164)
 
-- Nếu hộp thư của người nhận đang ở trên **Yahoo hoặc Gmail**, vui lòng làm theo các hướng dẫn </span> trong [bài viết](https://support.office.com/article/how-do-i-open-a-protected-message-1157a286-8ecc-4b1e-ac43-2a608fbf3098)này.
+- Nếu hộp thư người nhận nằm trên **Yahoo hoặc Gmail, vui** lòng làm theo các hướng dẫn được tìm thấy trong bài viết </span> [này.](https://support.office.com/article/how-do-i-open-a-protected-message-1157a286-8ecc-4b1e-ac43-2a608fbf3098)
 
-- Các chính sách bảo vệ chỉ áp dụng cho các [định dạng tệp đã biết](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types). Các tệp đính kèm OneDrive for Business không được hỗ trợ cho mã hóa.
+- Chính sách bảo vệ chỉ áp dụng cho [định dạng tệp đã biết](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types). OneDrive for Business tệp đính kèm không được hỗ trợ mã hóa.
 
-- Hộp thư chung **không thể mở các thư được mã hóa hiện đang thông qua bất kỳ máy khách nào**. 
+- Hộp thư chung hiện **không thể mở được thư được mã hóa thông qua bất kỳ máy khách nào.** 

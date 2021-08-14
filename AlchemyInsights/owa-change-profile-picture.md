@@ -10,20 +10,20 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 07e53a48a6846adc9f73eb5905ff6e6ee9744f53
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: b57d5fc7085d38c2f844a56e6d06ea6dcae3026360a8288cb73baed5d1280a05
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48451998"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54095368"
 ---
 # <a name="change-your-profile-picture-in-outlook-on-the-web"></a>Thay đổi ảnh hồ sơ của bạn trong Outlook trên web
 
 1. Ở đầu trang, chọn tên hoặc ảnh hồ sơ của bạn.
-1. Trong ngăn **tài khoản của tôi** , chọn ảnh hồ sơ của bạn.
-1. Trong hộp thoại **thay đổi ảnh của bạn** , hãy chọn **tải lên ảnh mới**.
-1. Chọn ảnh để tải lên, rồi chọn **áp dụng**.
+1. Trong ngăn Tài **khoản của tôi,** chọn ảnh hồ sơ của bạn.
+1. Trong hộp **thoại Thay đổi** ảnh của **bạn, Tải lên chọn ảnh mới**.
+1. Chọn ảnh để tải lên và chọn Áp **dụng**.
 
-*Lưu ý:* Ảnh mới của bạn sẽ xuất hiện trong lần tiếp theo bạn đăng nhập vào Microsoft 365.
+*Lưu ý:* Ảnh mới của bạn sẽ xuất hiện vào lần đăng nhập tiếp theo của bạn Microsoft 365.
 
-Để biết thêm thông tin, hãy xem [mục thay đổi ảnh và thông tin tài khoản của bạn trong Outlook trên web](https://support.office.com/article/b2dbb289-851d-4bed-93c3-3e136f5659ec).
+Để biết thêm thông tin, hãy [xem mục Thay đổi ảnh và thông tin tài khoản của bạn Outlook trên web.](https://support.office.com/article/b2dbb289-851d-4bed-93c3-3e136f5659ec)
