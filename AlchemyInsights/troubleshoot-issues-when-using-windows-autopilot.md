@@ -1,5 +1,5 @@
 ---
-title: Khắc phục sự cố khi sử dụng Windows AutoPilot
+title: Khắc phục sự cố khi sử Windows AutoPilot
 ms.author: erikje
 author: erikje
 manager: dougeby
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000221"
 - "2490"
-ms.openlocfilehash: b86230d1073f2423a6abf694d5330dd72fec7912
-ms.sourcegitcommit: 847f2bfd660847440df0195258acb9253f313a69
+ms.openlocfilehash: 8fb28280952522ede040441c20434e34c19695aba00889e2978ed98ef1544819
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48949767"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54008352"
 ---
-# <a name="troubleshoot-issues-when-using-windows-autopilot"></a>Khắc phục sự cố khi sử dụng Windows AutoPilot
+# <a name="troubleshoot-issues-when-using-windows-autopilot"></a>Khắc phục sự cố khi sử Windows AutoPilot
 
-Nếu bạn đang gặp vấn đề với AutoPilot, hãy xem trang các [vấn đề về](https://docs.microsoft.com/windows/deployment/windows-autopilot/known-issues) [khắc phục sự cố Autopilot](https://docs.microsoft.com/windows/deployment/windows-autopilot/troubleshooting) và đã biết.
+Nếu bạn đang gặp sự cố với AutoPilot, hãy xem các trang [Khắc phục sự cố AutoPilot và](https://docs.microsoft.com/windows/deployment/windows-autopilot/troubleshooting) Sự cố đã [biết.](https://docs.microsoft.com/windows/deployment/windows-autopilot/known-issues)
 
-Nếu bạn đang gặp sự cố với Windows AutoPilot dừng trong một trang trạng thái đăng ký, vui lòng xem lại các tài liệu sau đây để biết các gợi ý về cách khắc phục sự cố của bạn. [Hiểu và khắc phục sự cố trang trạng thái đăng ký](https://docs.microsoft.com/troubleshoot/mem/intune/understand-troubleshoot-esp)
+Nếu bạn đang gặp sự cố với việc Windows AutoPilot ngừng trong giai đoạn Trang Trạng thái Đăng ký (ESP), vui lòng xem lại tài liệu sau đây để biết gợi ý về cách khắc phục sự cố của bạn. [Tìm hiểu và khắc phục sự cố trang Trạng thái Đăng ký](https://docs.microsoft.com/troubleshoot/mem/intune/understand-troubleshoot-esp)
 
-Nếu bạn đang tìm cách dùng thử Autopilot với Hololens 2 thiết bị, vui lòng đảm bảo rằng bạn xem lại các tài liệu "[Windows Autopilot for hololens 2](https://docs.microsoft.com/hololens/hololens2-autopilot) . Thao động này sẽ giúp bạn hiểu được các bước trước và các bước được đề xuất để đăng ký Hololens 2 bằng Autopilot  
+Nếu bạn đang tìm cách dùng thử Autopilot với các thiết bị Hololens 2, hãy đảm bảo bạn xem lại hướng dẫn sử dụng "[Windows Autopilot for HoloLens 2.](https://docs.microsoft.com/hololens/hololens2-autopilot) Điều này sẽ giúp bạn hiểu rõ các điều kiện tiên quyết và các bước được đề xuất để đăng ký Hololens 2 bằng cách sử dụng AutoPilot  
 
-Để biết thêm thông tin về việc thiết lập Windows Autopilot, hãy xem mục [đăng ký thiết bị Windows trong InTune bằng cách dùng Windows Autopilot](https://docs.microsoft.com/intune/enrollment/enrollment-autopilot)
+Để biết thêm thông tin về việc thiết Windows Autopilot, xem mục Đăng ký thiết Windows thiết bị trong Intune bằng cách [sử Windows Autopilot](https://docs.microsoft.com/intune/enrollment/enrollment-autopilot)

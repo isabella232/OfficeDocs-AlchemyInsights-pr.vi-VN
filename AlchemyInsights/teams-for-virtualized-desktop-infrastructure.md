@@ -1,5 +1,5 @@
 ---
-title: Các nhóm cho cơ sở hạ tầng trên máy tính ảo hóa
+title: Teams cơ sở hạ tầng máy tính để bàn được Ảo hóa
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001485"
 - "3521"
-ms.openlocfilehash: c7a3f6bcdd6b4b9d260d4cbe634952a02319a242
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 684fe91cf4e8cc6a767878efe397ccaf0f7cc0cf74ba29f21b40d77c18a028f7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51829434"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54008532"
 ---
-# <a name="teams-for-virtualized-desktop-infrastructure"></a>Các nhóm cho cơ sở hạ tầng trên máy tính ảo hóa
+# <a name="teams-for-virtualized-desktop-infrastructure"></a>Teams cơ sở hạ tầng máy tính để bàn được Ảo hóa
 
-Để biết thông tin chi tiết về các nhóm cho môi trường cơ sở hạ tầng máy tính để bàn, hãy xem [nhóm cho cơ sở hạ tầng cho máy tính để bàn](https://docs.microsoft.com/microsoftteams/teams-for-vdi).
+Để biết thông tin chi tiết về Teams cho môi trường Cơ sở hạ tầng Máy tính Được ảo hóa, hãy xem [Teams cơ sở hạ tầng máy tính được Ảo hóa.](https://docs.microsoft.com/microsoftteams/teams-for-vdi)
 
-Các vấn đề đã biết và giới hạn trong môi trường VDI sẽ được chi tiết trong phần các [vấn đề và giới hạn đã biết ](https://docs.microsoft.com/microsoftteams/teams-for-vdi#known-issues-and-limitations) của cùng một bài viết, trong đó có các chủ đề sau đây:
- - Triển khai ứng dụng khách, cài đặt và thiết lập
- - Gọi và cuộc họp
+Chi tiết về các sự cố và giới [](https://docs.microsoft.com/microsoftteams/teams-for-vdi#known-issues-and-limitations) hạn đã biết trong các môi trường VDI trong mục Các sự cố và giới hạn đã biết trong cùng bài viết này, trong đó bao gồm các chủ đề sau:
+ - Triển khai, cài đặt và thiết lập máy khách
+ - Cuộc gọi và cuộc họp

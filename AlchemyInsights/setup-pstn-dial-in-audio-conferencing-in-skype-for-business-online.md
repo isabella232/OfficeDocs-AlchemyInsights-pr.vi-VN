@@ -1,5 +1,5 @@
 ---
-title: Thiết lập PSTN quay số vào hội thảo âm thanh trong Skype for Business Online
+title: Thiết lập hội thảo âm thanh quay số vào PSTN trong Skype for Business Online
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,21 +13,21 @@ ms.custom:
 - "9001521"
 - "3577"
 - "3579"
-ms.openlocfilehash: 9e401cb59d4536fb8d2def4e61017f13fc59e2c3
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f88489850f30efd31af5f9ccb67edb309f45cb8e123c94befc70fdd72ee98450
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835509"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54094412"
 ---
-# <a name="setup-pstn-dial-in-audio-conferencing-in-skype-for-business-online"></a>Thiết lập PSTN quay số vào hội thảo âm thanh trong Skype for Business Online
+# <a name="setup-pstn-dial-in-audio-conferencing-in-skype-for-business-online"></a>Thiết lập hội thảo âm thanh quay số vào PSTN trong Skype for Business Online
 
-Nếu bạn muốn thiết lập hội thảo âm thanh cho Skype for Business Online, bạn sẽ cần thực hiện một số điều. 
+Nếu bạn muốn thiết lập Hội thảo Âm thanh cho Skype for Business Online, bạn sẽ cần thực hiện một số việc. 
 
-- Tìm hiểu xem Hội thảo âm thanh có sẵn tại quốc gia/khu vực của bạn hay không.
+- Tìm hiểu xem Hội thảo Âm thanh có sẵn dùng ở quốc gia/khu vực của bạn hay không.
 
 - Nhận và gán giấy phép cho người dùng của bạn.
 
-- Nhận và gán các số dịch vụ.
+- Nhận và gán Số dịch vụ.
 
-- Hoàn thành danh sách kiểm tra trong [thiết lập hội thảo âm thanh cho Skype for Business](https://docs.microsoft.com/SkypeForBusiness/audio-conferencing-in-office-365/set-up-audio-conferencing).
+- Hoàn thành danh sách kiểm [tra trong Thiết lập Hội thảo Âm thanh cho người Skype for Business.](https://docs.microsoft.com/SkypeForBusiness/audio-conferencing-in-office-365/set-up-audio-conferencing)

@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 cho giáo dục-dưới xem xét
+title: Microsoft 365 for Education - đang được xem xét
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500009"
 - "5544"
-ms.openlocfilehash: 79e2dd9e3f39d7f1038445d7739c8e86ab327211
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 30500eaa6417ab63c6fe4fb2fc5f11b8487f13ec108c9752390825a36e3adc6b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51810470"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53925007"
 ---
-# <a name="microsoft-365-for-education---under-review"></a>Microsoft 365 cho giáo dục-dưới xem xét
+# <a name="microsoft-365-for-education---under-review"></a>Microsoft 365 for Education - đang được xem xét
 
-Đủ điều kiện của bạn dưới dạng một viện học thuật có trình độ của Microsoft đang được **xem xét**. Bạn có thể mong đợi nhận được thông báo về việc xác định đủ điều kiện của bạn **48 giờ** từ thời gian nộp hồ sơ của bạn. Vui lòng cho phép ít nhất **48 giờ** để nhận được thông báo này trước khi mở yêu cầu dịch vụ.
+Hiện đang xem xét tính đủ điều kiện để được tham gia Học viện Đủ điều kiện của Microsoft **của bạn.** Bạn có thể nhận được thông báo về quyết định liên quan đến tính đủ điều kiện của bạn **trong vòng 48** giờ kể từ thời điểm bạn gửi đi. Vui lòng chờ ít nhất **48 giờ để** nhận được thông báo này trước khi mở yêu cầu dịch vụ.
 
-Để biết thêm thông tin, hãy xem [giáo dục Microsoft 365](https://www.microsoft.com/education/buy-license/microsoft365).
+Để biết thêm thông tin, hãy [xem Microsoft 365 Education.](https://www.microsoft.com/education/buy-license/microsoft365)

@@ -1,5 +1,5 @@
 ---
-title: Gửi thư dưới dạng người dùng khác
+title: Gửi thư với tư cách người dùng khác
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "6439"
 - "3500009"
-ms.openlocfilehash: c52e63c3d8a26a6aa26be0d06e3d19e74c1d2c91
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 936c3bc5ad9c76e805b4b8d966853100c2a3f467046a490017813b011ef9b600
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51830640"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53942785"
 ---
-# <a name="sending-mail-as-another-user"></a>Gửi thư dưới dạng người dùng khác
+# <a name="sending-mail-as-another-user"></a>Gửi thư với tư cách người dùng khác
 
-Trước khi *user1* sẽ có thể gửi email dưới dạng *User2*, *user1* sẽ cần được cấp quyền trên hộp thư của *User2*. Để tìm hiểu cách thực hiện thao tác này, vui lòng xem (cấp quyền hộp thư cho người dùng khác) [ https://docs.microsoft.com/microsoft-365/admin/add-users/give-mailbox-permissions-to-another-user ].
+Trước *khi User1* có thể gửi email dưới dạng *User2,* *User1* sẽ cần được cấp quyền trên *hộp thư của User2.* Để tìm hiểu cách thực hiện việc này, vui lòng xem (Cấp quyền hộp thư cho người dùng khác)[ https://docs.microsoft.com/microsoft-365/admin/add-users/give-mailbox-permissions-to-another-user ].
 
-Sau khi quyền được cung cấp (có thể mất khoảng 30 phút để có hiệu lực)- *user1* sẽ có thể gửi dưới dạng *User2* bằng cách làm theo các bước được mô tả trong mục tạo hoặc trả lời email thay mặt cho một người khác.
+Sau khi cấp quyền (có thể mất khoảng 30 phút để có hiệu lực) - *User1* sẽ có thể gửi với tư cách *là User2* bằng cách làm theo các bước được mô tả trong Tạo hoặc trả lời email thay mặt cho người khác.

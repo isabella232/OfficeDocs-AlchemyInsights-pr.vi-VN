@@ -13,16 +13,16 @@ ms.custom:
 - "16"
 - "1000015"
 ms.assetid: ae399389-f176-4a0c-8b9d-4d6605059914
-ms.openlocfilehash: 1e966aab4d24b47f3672dcb3c84eb6961b8966f1
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7748763d8eb9ea18494d1cbf45ad727f97d2d4067bc19ab7a8e60eeb738b668f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51810254"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54094520"
 ---
-# <a name="rename-your-onmicrosoftcom-domain"></a>Đổi tên miền onmicrosoft.com của bạn
+# <a name="rename-your-onmicrosoftcom-domain"></a>Đổi tên miền miền onmicrosoft.com bạn
 
- **Bạn không thể đổi tên miền onmicrosoft sau khi đăng ký.** Ví dụ, nếu tên miền ban đầu bạn đã chọn là  *fourthcoffee.onmicrosoft.com*, bạn không thể thay đổi nó thành  *fabrikam.onmicrosoft.com*. Để sử dụng tên miền onmicrosoft.com khác, bạn phải bắt đầu một thuê bao mới với Microsoft 365.
+ **Bạn không thể đổi tên miền onmicrosoft sau khi đăng ký.** Ví dụ: nếu miền ban đầu bạn chọn là *fourthcoffee.onmicrosoft.com,* bạn không thể thay đổi thành miền *fabrikam.onmicrosoft.com.* Để sử dụng miền onmicrosoft.com, bạn sẽ phải bắt đầu một đăng ký mới với tên miền Microsoft 365.
   
-Nếu bạn muốn sử dụng tên miền riêng như  *contoso.com*  , bạn có thể [Thêm một người bạn sở hữu](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain) hoặc [mua một người từ Microsoft](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/buy-a-domain-name).
+Nếu bạn muốn sử dụng tên miền riêng như  *contoso.com,*  bạn có thể thêm tên miền [riêng](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain) của bạn hoặc [mua tên miền riêng từ Microsoft](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/buy-a-domain-name).
   
