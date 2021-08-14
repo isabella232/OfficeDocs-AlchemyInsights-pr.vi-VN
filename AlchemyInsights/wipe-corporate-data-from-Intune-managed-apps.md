@@ -1,5 +1,5 @@
 ---
-title: Xóa dữ liệu công ty từ các ứng dụng InTune được quản lý
+title: Xóa dữ liệu công ty khỏi các ứng dụng do Intune quản lý
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_o365
 ms.custom:
 - "6700006"
 - "7243"
-ms.openlocfilehash: ca62ad165bbb629323727928916720c6a2eab291
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: 59c1309f60e03eda587c7a1f7bb5849f69b12a13d4365bcd6ca4e862d0e53e2e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49089001"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53997768"
 ---
-# <a name="wipe-corporate-data-from-intune-managed-apps"></a>Xóa dữ liệu công ty từ các ứng dụng InTune được quản lý
+# <a name="wipe-corporate-data-from-intune-managed-apps"></a>Xóa dữ liệu công ty khỏi các ứng dụng do Intune quản lý
 
-InTune hỗ trợ việc loại bỏ dữ liệu của công ty từ các ứng dụng được quản lý trong bộ bảo vệ ứng dụng (ứng dụng). 
+Intune hỗ trợ việc loại bỏ dữ liệu công ty khỏi các ứng dụng do Chính sách Bảo vệ Ứng dụng (APP) quản lý. 
 
-Để tìm hiểu thêm về xoá sạch, xóa hoặc loại bỏ dữ liệu của công ty khỏi các ứng dụng này, hãy xem [cách xóa dữ liệu của công ty từ các ứng dụng được quản lý từ InTune](https://docs.microsoft.com/mem/intune/apps/apps-selective-wipe).
+Để tìm hiểu thêm về việc xóa, xóa hoặc loại bỏ dữ liệu công ty khỏi các ứng dụng này, hãy xem Cách chỉ xóa dữ liệu công ty khỏi các ứng dụng do [Intune](https://docs.microsoft.com/mem/intune/apps/apps-selective-wipe)quản lý.

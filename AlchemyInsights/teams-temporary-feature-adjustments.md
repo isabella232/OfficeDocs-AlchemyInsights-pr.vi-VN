@@ -1,5 +1,5 @@
 ---
-title: Điều chỉnh tính năng tạm thời cho các nhóm
+title: Teams điều chỉnh tính năng tạm thời
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002315"
 - "4511"
-ms.openlocfilehash: 2bcaad529fa54e3a444d16be021485b59749efc4
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 36d5c3d78b3da2cc59368b17b2101079f34865a80341238386041446fb972abe
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51809101"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53981315"
 ---
-# <a name="teams-temporary-feature-adjustments"></a>Điều chỉnh tính năng tạm thời cho các nhóm
+# <a name="teams-temporary-feature-adjustments"></a>Teams điều chỉnh tính năng tạm thời
 
-**Quan trọng**: trong những thời gian chưa từng có này, chúng tôi sẽ thực hiện các bước để đảm bảo rằng các nhóm Microsoft vẫn sẵn sàng cao. Vui lòng ghé thăm điều [chỉnh tính năng tạm thời của Microsoft](https://admin.microsoft.com/Adminportal/Home?source=applauncher#MessageCenter?id=MC206581).
+**Quan** trọng: Trong những thời điểm chưa phát hành này, chúng tôi đang thực hiện các bước nhằm đảm bảo Microsoft Teams các giá Microsoft Teams dụng tốt. Vui lòng truy [Microsoft Teams Điều chỉnh Tính năng Tạm thời](https://admin.microsoft.com/Adminportal/Home?source=applauncher#MessageCenter?id=MC206581).

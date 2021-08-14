@@ -1,5 +1,5 @@
 ---
-title: Triển khai Surface Pro X
+title: Triển Surface Pro X
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "10394"
 - "9005762"
-ms.openlocfilehash: 333e5dbca70c02bcedbb07f5de0b3c08d6e4f20a
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: af1eba017465dc3f81f7241c017e85b62a48e48aa499d4a8287a33aa919c887d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51837560"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54005148"
 ---
-# <a name="deploy-surface-pro-x"></a>Triển khai Surface Pro X
+# <a name="deploy-surface-pro-x"></a>Triển Surface Pro X
 
-Bằng cách sử dụng Windows Autopilot để triển khai các thiết bị Surface X Pro cho tổ chức của bạn cung cấp các lợi ích của việc triển khai không hoạt động trên nền tảng điện toán đám mây với Office Pro Plus. Để tìm hiểu thêm về Autopilot, hãy xem [tổng quan về Windows Autopilot](https://docs.microsoft.com/mem/autopilot/windows-autopilot).
+Sử Windows Autopilot để triển khai các thiết bị Surface X Pro cho tổ chức của bạn mang đến những lợi ích từ việc triển khai trên nền điện toán đám mây, sử dụng cảm ứng không kèm theo Office Pro Plus. Để tìm hiểu thêm về Autopilot, xem [tổng quan về Autopilot Windows.](https://docs.microsoft.com/mem/autopilot/windows-autopilot)
 
-**Lưu ý:** Triển khai dựa trên ảnh truyền thống không sẵn dùng cho các thiết bị Surface Pro X.
+**Lưu ý:** Triển khai dựa trên hình ảnh truyền thống không sẵn dùng cho Surface Pro X của bạn.
 
-Các bước chính xác để triển khai các thiết bị bề mặt bằng cách dùng Autopilot khác nhau theo tình huống. Để tìm các bước tốt nhất cho thiết bị của bạn, hãy xem các [tình huống và chức năng của Windows Autopilot](https://docs.microsoft.com/mem/autopilot/windows-autopilot-scenarios).
+Các bước chính xác để triển khai các thiết bị Surface sử dụng Autopilot sẽ khác nhau tùy theo tình huống. Để tìm các bước tốt nhất cho thiết bị của bạn, hãy [xem Windows bản và chức năng Autopilot.](https://docs.microsoft.com/mem/autopilot/windows-autopilot-scenarios)
 

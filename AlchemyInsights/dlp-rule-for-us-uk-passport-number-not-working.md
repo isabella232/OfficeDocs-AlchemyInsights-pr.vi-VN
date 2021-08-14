@@ -1,5 +1,5 @@
 ---
-title: Quy tắc không hoạt động cho số hộ chiếu US/Vương Quốc Anh
+title: Quy tắc DLP cho Số Hộ chiếu Hoa Kỳ/Vương quốc Anh không hoạt động
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -13,38 +13,38 @@ ms.custom:
 - "1319"
 - "3200001"
 ms.assetid: fc178b8b-943b-4346-a2bd-a75c6af6f80f
-ms.openlocfilehash: c6c7191f380f264113e2042f2869d9767922b2cc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 85e3ed7fdc221981de13ab6e2ada8adf2a3a80b40ff163981e047cc4a02a1514
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679246"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54004968"
 ---
-# <a name="problems-with-dlp---usuk-passport-numbers"></a>Các vấn đề với số lượng hộ chiếu US/UK
+# <a name="problems-with-dlp---usuk-passport-numbers"></a>Các vấn đề với DLP - số hộ chiếu Hoa Kỳ/Vương quốc Anh
 
-**Quan trọng**: trong những thời gian chưa từng có này, chúng tôi sẽ thực hiện các bước để đảm bảo rằng các dịch vụ SharePoint Online và OneDrive vẫn sẵn có – vui lòng truy cập vào các điều [chỉnh tính năng tạm thời trong SharePoint Online](https://aka.ms/ODSPAdjustments) để biết thêm thông tin.
+**Quan** trọng: Trong những khoảng thời gian chưa phát hành này, chúng tôi đang thực hiện các bước nhằm đảm bảo rằng các dịch vụ SharePoint Online và OneDrive luôn rất sẵn dùng – Vui lòng truy nhập điều chỉnh Tính năng Tạm thời [SharePoint Online](https://aka.ms/ODSPAdjustments) để biết thêm thông tin.
 
-**Phát sinh các vấn đề với số hộ chiếu US/Vương Quốc Anh**
+**Các vấn đề về DLP với số hộ chiếu Hoa Kỳ/Vương quốc Anh**
 
-Bạn gặp sự cố với việc **ngăn ngừa mất dữ liệu (** đã cho) không hoạt động cho nội dung có chứa một **số hộ chiếu US/UK** khi sử dụng loại thông tin nhạy cảm trong O365? Nếu vậy, hãy đảm bảo nội dung của bạn có chứa thông tin cần thiết cho những gì chính sách có thể đang tìm kiếm khi nó được đánh giá.
+Bạn đang gặp sự cố với tính năng Ngăn Mất Dữ liệu **(DLP)** không hoạt động đối với nội dung có chứa số hộ chiếu của Hoa **Kỳ/Vương** quốc Anh khi sử dụng kiểu thông tin nhạy cảm DLP trong O365? Nếu có, hãy đảm bảo nội dung của bạn chứa thông tin cần thiết cho thông tin cần thiết về những gì chính sách DLP đang tìm kiếm khi nó được đánh giá.
   
-Ví dụ: đối với một chính sách **số Passport US/UK** được cấu hình với mức độ tin cậy của 75%, các thao tác sau được đánh giá và phải được phát hiện cho quy tắc kích hoạt
+Ví dụ, đối với chính sách số hộ chiếu của Hoa **Kỳ/Vương** quốc Anh được cấu hình với mức tin cậy 75%, các điều sau đây được đánh giá và phải được phát hiện để quy tắc kích hoạt
   
 - **[Định dạng:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-77)** Chín chữ số
 
-- **[Mẫu:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-77)** Chín chữ số liên tiếp
+- **[Mẫu hình:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-77)** Chín chữ số liên tiếp
 
-- **[Checksum:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-76)** Không, không có checksum
+- **[Kiểm tra:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-76)** Không, không có Checksum
 
-- **[Định nghĩa:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#definition-77)** Chính sách có thể là 75% tin cậy rằng nó phát hiện kiểu thông tin nhạy cảm này nếu, trong phạm vi gần 300 ký tự:
+- **[Định nghĩa:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#definition-77)** Chính sách DLP tự tin rằng nó đã phát hiện ra loại thông tin nhạy cảm này nếu nằm trong khoảng cách 300 ký tự:
 
-  - Hàm Func_usa_uk_passport tìm thấy nội dung khớp với mẫu.
+  - Hàm sẽ Func_usa_uk_passport nội dung khớp với mẫu hình.
 
-  - Tìm thấy một từ khóa từ Keyword_passport.
+  - Tìm thấy từ Keyword_passport từ khóa.
 
-    Ví dụ, mẫu sau đây sẽ kích hoạt cho chính sách **số hộ chiếu Hoa Kỳ/Vương Quốc Anh** : số hộ chiếu hoa kỳ 123456789
+    Ví dụ, mẫu sau đây có thể kích hoạt cho chính sách số hộ chiếu của Hoa **Kỳ/Vương** quốc Anh: Số hộ chiếu Hoa 123456789
 
-Để biết thêm thông tin về những điều cần thiết đối với số hộ chiếu US/UK sẽ được phát hiện cho nội dung của bạn, hãy xem phần sau trong bài viết này: [những thông tin nhạy cảm nào tìm kiếm đối với số hộ chiếu US/Vương Quốc Anh](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#us--uk-passport-number)
+Để biết thêm thông tin về những gì cần thiết để phát hiện Số Hộ chiếu Hoa Kỳ/Vương quốc Anh để biết nội dung của bạn, hãy xem phần sau trong bài viết này: Kiểu Thông tin Nhạy cảm tìm Số Hộ chiếu Hoa [Kỳ/Vương](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#us--uk-passport-number) quốc Anh
   
-Sử dụng loại thông tin nhạy cảm khác nhau được tích hợp sẵn, hãy xem bài viết sau để biết thông tin về những điều cần thiết đối với các loại khác: [Tìm hiểu xem những loại thông tin nhạy cảm](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
+Dùng một kiểu thông tin nhạy cảm khác nhau, hãy xem bài viết sau đây để biết thông tin về những gì được yêu cầu cho các kiểu khác: Kiểu Thông tin Nhạy cảm [sẽ tìm kiếm điều gì](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
   

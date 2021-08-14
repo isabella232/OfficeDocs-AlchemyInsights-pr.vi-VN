@@ -1,5 +1,5 @@
 ---
-title: Chúng tôi đang ở đây để trợ giúp
+title: Chúng tôi sẵn lòng trợ giúp
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "3513"
 - "9001480"
-ms.openlocfilehash: b0d37fcce2fc68add12a99f0ef87f93cfbdb9b7c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9e9b8b7fe8237f46bdb13e4cc1df244851e249a006a8236fac465240eb10ea3e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47725753"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53989879"
 ---
-# <a name="were-here-to-help"></a>Chúng tôi đang ở đây để trợ giúp
+# <a name="were-here-to-help"></a>Chúng tôi sẵn lòng trợ giúp
 
-Vui lòng bấm vào **hỗ trợ liên hệ** bên dưới để tạo vé với chúng tôi. Một nhân viên hỗ trợ sẽ quay lại ngay cho bạn để giúp giải quyết sự cố của bạn.
+Vui lòng bấm vào liên **hệ với bộ phận** Hỗ trợ bên dưới để tạo vé với chúng tôi. Nhân viên hỗ trợ sẽ sớm liên hệ với bạn để giúp giải quyết sự cố của bạn.
 
-Nếu thuê bao của bạn được quản lý bởi một đối tác Microsoft, vui lòng làm việc với đối tác của bạn để mở vé hỗ trợ.
+Nếu đăng ký của bạn được quản lý bởi một đối tác của Microsoft, vui lòng làm việc với đối tác của bạn để mở vé hỗ trợ.

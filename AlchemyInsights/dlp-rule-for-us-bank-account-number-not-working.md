@@ -1,5 +1,5 @@
 ---
-title: Quy tắc cho số tài khoản ngân hàng Hoa Kỳ không hoạt động
+title: Quy tắc DLP cho Số Tài khoản Ngân hàng Hoa Kỳ không hoạt động
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -13,38 +13,38 @@ ms.custom:
 - "1287"
 - "3200001"
 ms.assetid: 80b40145-8376-4c3a-8d22-6efb9f9cb271
-ms.openlocfilehash: eb399e4b23de32a757562833ed32d97daa6a1247
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d19b2dcc29e23fab522159945496165338a117a47bfcfcadf0b93e4e5f14464f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679318"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54005040"
 ---
-# <a name="dlp-issues-with-us-bank-account-numbers"></a>Các vấn đề về các số tài khoản ngân hàng Hoa Kỳ
+# <a name="dlp-issues-with-us-bank-account-numbers"></a>Sự cố DLP với số tài khoản ngân hàng tại Hoa Kỳ
 
-**Quan trọng**: trong những thời gian chưa từng có này, chúng tôi sẽ thực hiện các bước để đảm bảo rằng các dịch vụ SharePoint Online và OneDrive vẫn sẵn có – vui lòng truy cập vào các điều [chỉnh tính năng tạm thời trong SharePoint Online](https://aka.ms/ODSPAdjustments) để biết thêm thông tin.
+**Quan** trọng: Trong những khoảng thời gian chưa phát hành này, chúng tôi đang thực hiện các bước nhằm đảm bảo rằng các dịch vụ SharePoint Online và OneDrive luôn rất sẵn dùng – Vui lòng truy nhập điều chỉnh Tính năng Tạm thời [SharePoint Online](https://aka.ms/ODSPAdjustments) để biết thêm thông tin.
 
-**Các vấn đề về các số tài khoản ngân hàng Hoa Kỳ**
+**Sự cố DLP với số tài khoản ngân hàng tại Hoa Kỳ**
 
-Bạn gặp sự cố với việc **ngăn ngừa mất dữ liệu (** đã cho) không hoạt động cho nội dung có chứa một **số tài khoản ngân hàng Hoa Kỳ** khi sử dụng kiểu thông tin nhạy cảm trong O365? Nếu vậy, hãy đảm bảo nội dung của bạn có chứa thông tin cần thiết cho những gì chính sách có thể đang tìm kiếm khi nó được đánh giá.
+Bạn đang gặp sự cố với tính năng Ngăn  Mất Dữ liệu **(DLP)** không hoạt động đối với nội dung có chứa Số Tài khoản Ngân hàng Hoa Kỳ khi sử dụng kiểu thông tin nhạy cảm DLP trong O365? Nếu có, hãy đảm bảo nội dung của bạn chứa thông tin cần thiết cho thông tin cần thiết về những gì chính sách DLP đang tìm kiếm khi nó được đánh giá.
   
-Ví dụ: đối với một chính sách **số tài khoản ngân hàng Hoa Kỳ** với mức độ tin cậy của 85%, các thao tác sau được đánh giá và phải được phát hiện đối với quy tắc kích hoạt:
+Ví dụ,  đối với chính sách Số Tài khoản Ngân hàng Hoa Kỳ được cấu hình với mức tin cậy là 85%, những điều sau đây được đánh giá và phải được phát hiện để quy tắc kích hoạt:
   
 - **[Định dạng:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-77)** 8-17 chữ số
 
-- **[Mẫu:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-77)** 8-17 chữ số liên tiếp.
+- **[Mẫu hình:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-77)** 8-17 chữ số liên tiếp.
 
-- **[Checksum:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-76)** Không, không có checksum
+- **[Kiểm tra:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-76)** Không, không có Checksum
 
-- **[Định nghĩa:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)** Chính sách có thể là 75% tin cậy rằng nó phát hiện kiểu thông tin nhạy cảm này nếu, trong phạm vi gần 300 ký tự:
+- **[Định nghĩa:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)** Chính sách DLP tự tin rằng nó đã phát hiện ra loại thông tin nhạy cảm này nếu nằm trong khoảng cách 300 ký tự:
 
-  - Biểu thức thông thường Regex_usa_bank_account_number tìm nội dung khớp với mẫu
+  - Biểu thức thông thường Regex_usa_bank_account_number thấy nội dung phù hợp với mẫu hình
 
-  - Tìm thấy một từ khóa từ Keyword_usa_Bank_Account.
+  - Tìm thấy từ Keyword_usa_Bank_Account từ khóa.
 
-    Ví dụ, mẫu sau đây sẽ kích hoạt cho chính sách **số tài khoản ngân hàng Hoa Kỳ** : kiểm tra tài khoản 78344011
+    Ví dụ: mẫu sau đây sẽ kích hoạt cho chính sách Số Tài **khoản Ngân hàng** Hoa Kỳ: Kiểm tra Tài khoản 78344011
 
-Để biết thêm thông tin về những điều cần thiết đối với **số tài khoản ngân hàng Hoa Kỳ** được phát hiện cho nội dung của bạn, hãy xem phần sau trong bài viết này: [những thông tin nhạy cảm nào tìm kiếm số tài khoản ngân hàng Hoa Kỳ](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#us-bank-account-number)
+Để biết thêm thông tin  về những gì bắt buộc để Số Tài khoản Ngân hàng Hoa Kỳ được phát hiện cho nội dung của bạn, hãy xem phần sau trong bài viết này: Kiểu Thông tin Nhạy cảm sẽ tìm số Tài khoản Ngân hàng Hoa [Kỳ](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#us-bank-account-number)
   
-Sử dụng loại thông tin nhạy cảm khác nhau được tích hợp sẵn, hãy xem bài viết sau để biết thông tin về những điều cần thiết đối với các loại khác: [Tìm hiểu xem những loại thông tin nhạy cảm](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
+Dùng một kiểu thông tin nhạy cảm khác nhau, hãy xem bài viết sau đây để biết thông tin về những gì được yêu cầu cho các kiểu khác: Kiểu Thông tin Nhạy cảm [sẽ tìm kiếm điều gì](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
   
