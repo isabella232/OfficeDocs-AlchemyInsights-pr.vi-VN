@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "7310"
-ms.openlocfilehash: 02f579a6b7570037261959419a6ea9586707b76e
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 3bb83a4f68c49b3d30843299e6b42b9e9b9226245ebd41e75831694b95839c46
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50483772"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53949553"
 ---
 # <a name="create-an-email-signature-in-outlook-on-the-web"></a>Tạo chữ ký email trong Outlook trên web
 
 1. Đăng nhập vào Outlook trên web.
-2. Trên thanh dẫn hướng trên cùng, chọn **thiết đặt**  >  **thư**.
-3. Trong Pa-nen **tùy chọn** , bên dưới **thư**, chọn   >  **chữ ký email** bố trí.
-4. Trong hộp văn bản, nhập chữ ký của bạn và sử dụng các tùy chọn định dạng sẵn dùng để thay đổi diện mạo của nó.
+2. Trên thanh dẫn hướng trên cùng, chọn **Cài đặt**  >  **Mail**.
+3. Trong **pa-nen Tùy** chọn, dưới **Thư**, chọn **Bố trí** Chữ  >  **ký Email.**
+4. Trong hộp văn bản, nhập chữ ký của bạn, rồi sử dụng các tùy chọn định dạng sẵn có để thay đổi diện mạo của chữ ký.
 
-**Mẹo:** Chèn tệp hình ảnh (ví dụ, theo định dạng. GIF hoặc. jpg) cho chữ ký của bạn không được hỗ trợ, nhưng bạn có thể sao chép một hình ảnh từ một trang web và dán nó vào hộp chữ ký.
+**Mẹo:** Chèn tệp hình ảnh (ví dụ: ở định dạng .gif hoặc .jpg) cho chữ ký của bạn nhưng bạn có thể sao chép hình ảnh từ trang web và dán vào hộp chữ ký.
 
-5. Nếu bạn muốn chữ ký của bạn hiển thị ở cuối tất cả các thư email đi, bao gồm trả lời và chuyển tiếp, hãy chọn **tự động đưa chữ ký của tôi vào thư mới tôi soạn**.
+5. Nếu bạn muốn chữ ký của mình hiển thị ở cuối tất cả các thư gửi đi, kể cả thư trả lời và thư chuyển tiếp, hãy chọn Tự động thêm chữ ký của tôi vào thư mới mà tôi **soạn.**
 6. Bấm vào **Lưu**.

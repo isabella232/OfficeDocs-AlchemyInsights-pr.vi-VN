@@ -1,5 +1,5 @@
 ---
-title: Tìm cơ quan đăng ký tên miền của bạn
+title: Tìm nhà đăng ký tên miền của bạn
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 0a3f35489337e641ea0a300618c5336417262056
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 3ed5fadebfe188c399cb80abf57f0a08033a0930e72bc7e77bd9ac889638fe60
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50750776"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53949517"
 ---
-# <a name="find-your-domain-registrar"></a>Tìm cơ quan đăng ký tên miền của bạn
+# <a name="find-your-domain-registrar"></a>Tìm nhà đăng ký tên miền của bạn
 
-Trong cửa sổ trình duyệt thứ hai, hãy làm theo các bước sau đây:
+Trong cửa sổ trình duyệt thứ hai của bạn, hãy làm theo các bước sau:
 
-1. Trên [trang tìm kiếm InterNIC](https://lookup.icann.org/), trong hộp **Tìm kiếm whois** , hãy nhập tên miền của bạn. Ví dụ, **contoso.com**. Tên miền kết thúc bằng hai chữ cái kết hợp (chẳng hạn như **. ca** hoặc **. jp** ) sẽ không hoạt động với công cụ này.
-2. Chọn tùy chọn **tên miền** , sau đó bấm **gửi**.
-3. Trên trang **whois kết quả tìm kiếm** , hãy định vị mục nhập đăng ký. Mục nhập này liệt kê các tổ chức cung cấp dịch vụ đăng ký cho tên miền của bạn.
+1. On the [InterNIC search page,](https://lookup.icann.org/)in the **Whois Search** box, type your domain. Ví dụ: **contoso.com**. Các tên miền kết thúc bằng tổ hợp hai chữ cái (như **.ca** hay **.jp** ) sẽ không hoạt động với công cụ này.
+2. Chọn tùy **chọn** Miền, rồi bấm **vào Gửi.**
+3. Trên trang **Whois Search Results,** hãy định vị mục nhập Registrar. Mục nhập này liệt kê các tổ chức cung cấp dịch vụ đăng ký cho tên miền của bạn.

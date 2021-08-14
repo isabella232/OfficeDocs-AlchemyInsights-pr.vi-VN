@@ -1,5 +1,5 @@
 ---
-title: Thiết đặt quyền riêng tư camera cho các ứng dụng trên máy tính
+title: Quyền riêng tư của Camera Cài đặt các Ứng dụng trên Máy tính
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005290"
 - "9121"
-ms.openlocfilehash: 1e288a6e593c41b05130883cdb9c6697fe0776df
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 60749494d3dfea8949ed3d069a522140804d06966db5364e196389ee82582197
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748176"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53931399"
 ---
-# <a name="camera-privacy-settings-for-desktop-apps"></a>Thiết đặt quyền riêng tư camera cho các ứng dụng trên máy tính
+# <a name="camera-privacy-settings-for-desktop-apps"></a>Quyền riêng tư của Camera Cài đặt các Ứng dụng trên Máy tính
 
-Nghe có vẻ như thiết đặt quyền riêng tư của bạn sẽ ngừng ứng dụng truy nhập vào camera của bạn.
+Có vẻ như cài đặt quyền riêng tư của bạn đang ngăn ứng dụng truy nhập vào camera của bạn.
 
-1.  Từ **bắt đầu**, chọn **thiết đặt** (biểu tượng hình bánh răng) > camera **quyền riêng tư**  >  .
+1.  Từ **Bắt đầu**, chọn **Cài đặt** (Biểu tượng hình bánh răng) > Camera **Riêng**  >  **tư**.
 
-2.  Bên dưới **cho phép truy nhập vào camera trên thiết bị này**, hãy chọn **thay đổi**. Hãy đảm bảo rằng **việc bật tắt đã bật.**
+2.  Trong **cho phép truy nhập vào camera trên thiết bị này,** chọn Thay **đổi**. Đảm bảo nút bật tắt đã **được Bật**.
 
-3.  Tiếp theo, bên dưới **cho phép các ứng dụng để truy nhập vào camera của bạn**, hãy đảm bảo rằng **việc bật tắt đã bật.**
+3.  Tiếp theo, bên **dưới mục Cho phép ứng dụng truy nhập camera** của bạn, hãy đảm bảo nút bật tắt đang **Bật**.
 
-4.  Sau đó, bên dưới **chọn ứng dụng nào có thể truy nhập vào camera của bạn**, hãy đảm bảo rằng việc **chuyển đổi** bên cạnh ứng dụng mong muốn của bạn cũng được bật.
+4.  Sau đó, **trong Chọn ứng** dụng có thể truy nhập camera của bạn , hãy đảm bảo nút bật tắt bên cạnh ứng dụng mong muốn cũng **được** Bật.
 
-5.  Nếu bạn không thể tìm thấy ứng dụng mà bạn đang cố gắng sử dụng trong danh sách, hoặc nếu bạn đã cài đặt ứng dụng từ một trang web hoặc đĩa, có thể là một ứng dụng trên máy tính. Để cho phép truy nhập camera cho các ứng dụng trên máy tính, hãy bật **cho phép các ứng dụng trên máy tính để truy nhập vào camera của bạn**.
+5.  Nếu bạn không thể tìm thấy ứng dụng mà bạn đang tìm cách sử dụng trong danh sách, hoặc nếu bạn đã cài đặt ứng dụng từ một website hoặc đĩa, thì có thể đó là một ứng dụng trên máy tính. Để cho phép truy nhập camera đối với các ứng dụng trên máy tính, hãy bật **Cho phép các ứng dụng trên máy tính truy nhập vào camera của bạn**.

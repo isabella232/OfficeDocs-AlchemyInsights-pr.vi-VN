@@ -1,5 +1,5 @@
 ---
-title: Yêu cầu cuộn ngược từ Outlook.com Beta sang cổ điển Outlook.com
+title: Yêu cầu quay trở lại từ Outlook.com beta sang phiên bản Outlook.com cổ điển
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -11,17 +11,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "8000035"
-ms.openlocfilehash: 0668e330897698481ce00ca331e183b0c1d44885
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 53fe28be4f02087eba1ba096f165801d23e244ab95135564801f6e9dec231c9c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47723161"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53961757"
 ---
-# <a name="the-new-outlookcom"></a>Outlook.com mới
+# <a name="the-new-outlookcom"></a>Phiên bản Outlook.com mới
 
-Bạn sẽ không còn có thể rời khỏi trải nghiệm Outlook.com mới và trở về phiên bản cổ điển của Outlook.com.
+Bạn không còn có thể để lại trải nghiệm Outlook.com mới và trở về phiên bản cổ điển của Outlook.com.
 
-Nếu bạn muốn đưa ra phản hồi về Outlook.com mới, hãy đi đến [diễn đàn Uservoice](https://go.microsoft.com/fwlink/p/?linkid=851599). Bạn có thể bỏ phiếu cho các ý tưởng hoặc vấn đề mà bạn muốn xem địa chỉ và chúng tôi sẽ phản hồi trực tiếp đến chú thích và gợi ý trên cùng.
+Nếu bạn muốn cung cấp phản hồi về phiên bản Outlook.com mới, hãy truy nhập diễn [đàn UserVoice](https://go.microsoft.com/fwlink/p/?linkid=851599). Bạn có thể bình chọn cho các ý tưởng hoặc sự cố mà bạn muốn được giải quyết, rồi chúng tôi sẽ phản hồi trực tiếp cho các nhận xét và đề xuất hàng đầu.
 
-[Nhận trợ giúp về Outlook.com.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
+[Nhận trợ giúp với Outlook.com.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
