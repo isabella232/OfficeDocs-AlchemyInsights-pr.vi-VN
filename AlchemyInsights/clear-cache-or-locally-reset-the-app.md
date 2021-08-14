@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001099"
 - "3060"
-ms.openlocfilehash: 922f43e90b0479762ccfc20d4130a6a8883f8c41
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 61280bc444f696e05813c79aa92f47145c2580381e77d0b26fe6fdca527647a6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51817770"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53930597"
 ---
 # <a name="clear-the-cache-or-locally-reset-the-app"></a>Xóa bộ đệm ẩn hoặc đặt lại cục bộ ứng dụng
 
-Nếu bạn thấy dữ liệu không đầy đủ hoặc không chính xác, vui lòng đóng và mở lại ứng dụng.  Nếu việc này không giải quyết được sự cố, hãy đặt lại tài khoản trên thiết bị: 
+Nếu bạn thấy dữ liệu không đầy đủ hoặc không chính xác, vui lòng đóng và mở lại ứng dụng.  Nếu cách đó không giải quyết được sự cố, hãy đặt lại tài khoản trên thiết bị: 
 
-**Mở cài đặt ứng dụng > > chọn tài khoản email > đặt lại tài khoản**
+**Mở ứng dụng của chúng > Cài đặt > Chọn tài khoản email > Lại Tài khoản**

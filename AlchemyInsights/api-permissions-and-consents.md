@@ -1,5 +1,5 @@
 ---
-title: Quyền API và sự đồng ý
+title: Quyền và Sự chấp thuận API
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004343"
 - "7756"
-ms.openlocfilehash: c99e5e2e8fb9bcc88e5221890ed9c28ed9e7d0c8
-ms.sourcegitcommit: 605a73b159d30634b064c1b63b0e734ceb3fdec8
+ms.openlocfilehash: c45bab67d414c8f0f2ca1c5275084d4ecce538c5256154292302080ba5bd8175
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974999"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53932119"
 ---
-# <a name="api-permissions-and-consent"></a>Quyền API và sự đồng ý
+# <a name="api-permissions-and-consent"></a>Quyền và sự chấp thuận API
 
-Các ứng dụng tích hợp với nền tảng định danh Microsoft theo dõi một mô hình ủy quyền cung cấp cho người dùng và người quản trị kiểm soát dữ liệu có thể truy nhập như thế nào. Việc thực hiện mô hình ủy quyền đã được Cập Nhật trên điểm cuối Microsoft Identity Platform. Nó thay đổi cách ứng dụng phải tương tác với nền tảng định danh Microsoft. [Quyền và sự đồng ý trong điểm cuối Microsoft Identity Platform](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent) bao gồm các khái niệm cơ bản về mô hình ủy quyền này, bao gồm phạm vi, quyền và đồng ý.
+Các ứng dụng tích hợp với Nền tảng định danh Microsoft theo mô hình ủy quyền cho phép người dùng và người quản trị kiểm soát cách truy nhập dữ liệu. Việc triển khai mô hình ủy quyền đã được cập nhật trên Nền tảng định danh Microsoft cuối. Nó thay đổi cách ứng dụng phải tương tác với thư Nền tảng định danh Microsoft. [Các quyền và sự chấp thuận trong điểm cuối Nền tảng định danh Microsoft bao](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent) gồm các khái niệm cơ bản của mô hình ủy quyền này, bao gồm phạm vi, quyền và sự chấp thuận.
 
-[Khuôn khổ thỏa thuận Azure Active Directory (AZURE AD)](https://docs.microsoft.com/azure/active-directory/develop/consent-framework) giúp bạn dễ dàng phát triển web nhiều đối tượng thuê và các ứng dụng máy khách gốc. Những ứng dụng này cho phép đăng nhập bằng tài khoản người dùng từ một đối tượng thuê Azure quảng cáo khác nhau từ một nơi mà ứng dụng đã đăng ký. Họ cũng có thể cần truy nhập các API web như API của Microsoft graph (để truy nhập Azure AD, InTune và các dịch vụ trong Microsoft 365) và các API khác của Microsoft Services, ngoài các API web của riêng bạn.
+Khuôn [khổ chấp Azure Active Directory dụng (Azure AD) giúp](https://docs.microsoft.com/azure/active-directory/develop/consent-framework) dễ dàng phát triển các ứng dụng web nhiều đối tượng thuê và máy khách gốc. Những ứng dụng này cho phép đăng nhập bằng tài khoản người dùng từ đối tượng thuê Azure AD khác với đối tượng thuê đã đăng ký ứng dụng. Họ cũng có thể cần truy nhập các API web như API Microsoft Graph (để truy nhập Azure AD, Intune và các dịch vụ trong Microsoft 365) và các API khác của dịch vụ Microsoft, ngoài các API web của riêng bạn.
 
