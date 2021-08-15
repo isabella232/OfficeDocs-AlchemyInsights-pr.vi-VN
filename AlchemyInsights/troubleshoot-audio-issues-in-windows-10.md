@@ -12,55 +12,55 @@ ms.collection: Adm_O365
 ms.custom:
 - "3476"
 - "9001463"
-ms.openlocfilehash: 1bafc97b2ab1394087d2451d73168a29267d64ab
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 81a7f77bd6565c52ec9d752934a872e59cc11e89b90a646d17c3549d72e8a69f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51833313"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54039448"
 ---
 # <a name="troubleshooting-audio-issues-in-windows-10"></a>Khắc phục sự cố âm thanh trong Windows 10
 
-**Chạy trình khắc phục sự cố âm thanh**
+**Chạy bộ hướng dẫn giải quyết trục trặc âm thanh**
 
-1.  Mở [cài đặt khắc phục sự cố](ms-settings:troubleshoot).
+1.  Mở cài đặt [Khắc phục sự cố](ms-settings:troubleshoot).
 
-2.  Chọn **phát âm thanh**  >  **chạy trình** khắc phục sự cố.
+2.  Chọn **Phát âm thanh Chạy** bộ hướng dẫn giải quyết trục  >  **trặc**.
 
 **Đặt thiết bị mặc định**
 
-Nếu bạn đang kết nối với thiết bị âm thanh bằng cách dùng USB hoặc HDMI, bạn có thể cần đặt thiết bị đó làm mặc định:
+Nếu bạn đang kết nối với thiết bị âm thanh bằng USB hoặc HDMI, bạn có thể phải đặt thiết bị đó làm mặc định:
 
-1. Mở   >  **âm thanh** bắt đầu, rồi chọn **âm thanh** hoặc **thay đổi âm thanh hệ thống** từ danh sách kết quả.
+1. Mở **Bắt đầu**  >  **Âm** thanh , rồi chọn Âm **thanh** hoặc Thay đổi âm **thanh hệ** thống từ danh sách kết quả.
 
-2.  Trên tab **phát lại** , chọn một thiết bị, chọn **đặt mặc định**, rồi chọn **OK**.
+2.  Trên tab **Phát lại,** chọn một thiết bị, chọn **Đặt Mặc định**, sau đó chọn **OK**.
 
 **Kiểm tra cáp, âm lượng, loa và tai nghe**
 
-1. Kiểm tra kết nối loa và tai nghe của bạn cho cáp lỏng và đảm bảo rằng chúng được kết nối với đúng Jack.
+1. Kiểm tra kết nối loa và tai nghe của bạn để xem cáp có bị lỏng không và đảm bảo rằng chúng được kết nối với đúng giắc cắm.
 
-2. Kiểm tra mức độ quyền lực và số lượng lớn của bạn, rồi thử chuyển tất cả các điều khiển âm lượng lên.
+2. Kiểm tra mức nguồn và âm lượng rồi thử tăng tất cả nút điều khiển âm lượng lên.
 
-3. Một số loa và ứng dụng có điều khiển âm lượng của riêng mình; bạn có thể phải kiểm tra tất cả để đảm bảo rằng họ đang ở đúng mức.
+3. Một số loa và ứng dụng có nút điều khiển âm lượng riêng; bạn có thể phải kiểm tra tất cả để đảm bảo rằng chúng ở mức độ phù hợp.
 
-4. Thử kết nối bằng cách sử dụng cổng USB khác.
+4. Hãy thử kết nối bằng cách sử dụng một cổng USB khác.
 
-**Lưu ý**: Hãy nhớ rằng loa của bạn có thể không hoạt động khi cắm tai nghe.
+**Lưu** ý : Hãy nhớ rằng loa có thể không hoạt động khi cắm tai nghe.
 
-**Kiểm tra trình quản lý thiết bị**
+**Kiểm tra Trình quản lý Thiết bị**
 
-Để đảm bảo rằng các trình điều khiển đã Cập Nhật:
+Để đảm bảo rằng trình điều khiển đã được cập nhật:
 
-1. Chọn **bắt đầu**, nhập **trình quản lý thiết bị**, rồi chọn **trình quản lý thiết bị** từ danh sách kết quả.
+1. Chọn **Bắt đầu**, nhập Trình quản lý **Thiết** bị , sau đó chọn Trình **quản lý** Thiết bị từ danh sách kết quả.
 
-2. Bên dưới điều **khiển âm thanh, video và trò chơi**, chọn thẻ âm thanh của bạn, mở nó, chọn tab **trình điều khiển** , rồi chọn **Cập Nhật trình điều khiển**.
+2. Bên **dưới bộ điều khiển âm thanh, video** và trò chơi , chọn thẻ âm thanh của bạn, mở ra, chọn tab Trình điều **khiển,** rồi chọn Cập **nhật Trình điều khiển**.
 
-**Lưu ý**: nếu Windows không tìm thấy một trình điều khiển mới, hãy tìm kiếm một trên trang web của nhà sản xuất thiết bị và làm theo hướng dẫn của họ.
+**Lưu** ý : Nếu Windows bạn không tìm thấy trình điều khiển mới, hãy tìm trên trang web của nhà sản xuất thiết bị và làm theo hướng dẫn của họ.
 
 **Cài đặt lại trình điều khiển**
 
-Nếu bạn không thể cập nhật thông qua trình quản lý thiết bị hoặc tìm trình điều khiển mới trên trang web của nhà sản xuất, hãy thử các bước sau:
+Nếu bạn không thể cập nhật thông qua Trình quản lý Thiết bị hoặc tìm trình điều khiển mới trên trang web của nhà sản xuất, hãy thử các bước sau đây:
 
-1. Trong trình quản lý thiết bị, bấm chuột phải (hoặc nhấn và giữ) trình điều khiển âm thanh, rồi chọn **gỡ cài đặt**. Khởi động lại thiết bị và Windows sẽ cố cài đặt lại trình điều khiển.
+1. Trong Trình quản lý Thiết bị, bấm chuột phải vào (hoặc nhấn và giữ) trình điều khiển âm thanh và chọn Gỡ cài **đặt**. Khởi động lại thiết bị và Windows sẽ cố cài đặt lại trình điều khiển.
 
-2. Nếu cài đặt lại trình điều khiển không hoạt động, hãy thử sử dụng trình điều khiển âm thanh chung đi kèm với Windows. Trong trình quản lý thiết bị, bấm chuột phải (hoặc nhấn và giữ) trình điều khiển âm thanh của bạn > **Cập nhật phần mềm trình điều khiển**  >  **duyệt máy tính của tôi** để  >  **cho tôi chọn từ danh sách trình điều khiển thiết bị trên máy tính của tôi**, chọn **thiết bị âm thanh độ nét cao**, chọn **tiếp theo**, rồi làm theo hướng dẫn để cài đặt nó.
+2. Nếu việc cài đặt lại trình điều khiển không hiệu quả, hãy thử sử dụng trình điều khiển âm thanh chung có Windows. Trong Trình quản lý Thiết bị, bấm chuột phải vào (hoặc nhấn và giữ) trình điều khiển âm thanh > Cập nhật phần mềm trình điều khiển Duyệt máy tính của tôi để tìm phần mềm trình điều khiển Cho phép tôi chọn từ danh sách trình điều khiển thiết bị trên máy tính, chọn Thiết bị Âm thanh có Độ phân giải Cao , chọn Tiếp theo , rồi làm theo hướng dẫn để cài  >    >  đặt.  

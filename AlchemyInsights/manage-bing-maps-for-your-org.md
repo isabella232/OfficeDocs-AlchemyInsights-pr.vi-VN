@@ -1,5 +1,5 @@
 ---
-title: Quản lý bản đồ Bing cho tổ chức của bạn
+title: Quản lý Bản đồ Bing cho tổ chức của bạn
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005302"
 - "9161"
-ms.openlocfilehash: c90afb1ea6664e8ef402981e70fe7c2bc8f07108
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: c1050208403f708db8ad557f70d7b23d5ea0f44ae9f2da76b37ead2b9b90436e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50751136"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53976707"
 ---
-# <a name="manage-bing-maps-for-your-organization"></a>Quản lý bản đồ Bing cho tổ chức của bạn
+# <a name="manage-bing-maps-for-your-organization"></a>Quản lý Bản đồ Bing cho tổ chức của bạn
 
-Sau khi bạn bật bản đồ Bing dưới **nội dung được nhúng** trong Trung tâm quản trị Power Platform, người dùng sẽ nhìn thấy một khách hàng trong bản đồ Bing khi họ xem các liên hệ, đầu mối hoặc tài khoản.
+Sau khi bạn bật  Bản đồ Bing dưới Nội dung được nhúng trong Trung tâm quản trị Power Platform, người dùng sẽ thấy một khách hàng trong Bản đồ Bing khi họ xem liên hệ, đầu mối hoặc tài khoản.
 
-Để tìm hiểu thêm, hãy xem [quản lý bản đồ Bing cho tổ chức của bạn](https://go.microsoft.com/fwlink/?linkid=2152757).
+Để tìm hiểu thêm, hãy xem [mục Quản lý Bản đồ Bing cho tổ chức của bạn.](https://go.microsoft.com/fwlink/?linkid=2152757)

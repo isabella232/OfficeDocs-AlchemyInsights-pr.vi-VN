@@ -1,5 +1,5 @@
 ---
-title: 'Outlook Desktop: gửi trả lời vắng mặt'
+title: 'Outlook Máy tính để bàn: Gửi trả lời ngoài văn phòng'
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "3514"
-ms.openlocfilehash: 00f295a860c7ac7070b70929a675cfe114e5ed8e
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: ba593ffbb29eca7354a0a88251de30777000668ab7138e8bb2539dbf0f6431d7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51836193"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53991953"
 ---
-# <a name="outlook-desktop-send-out-of-office-replies"></a>Outlook Desktop: gửi trả lời vắng mặt
+# <a name="outlook-desktop-send-out-of-office-replies"></a>Outlook Máy tính để bàn: Gửi trả lời ngoài văn phòng
 
-**Đặt trả lời tự động trong Outlook trên máy tính**
+**Đặt trả lời tự động trong Outlook tính**
 
-1. Bấm **tệp > trả lời tự động**. **Lưu ý**: đối với Outlook 2007, hãy bấm **công cụ > không có trợ lý Office**.
+1. Bấm **Trả lời Tự > Tệp.** **Lưu** ý : Ví Outlook 2007, bấm **Công cụ trong > Trợ lý Office Xuất.**
 
-2. Trong hộp **trả lời tự động** , bấm **gửi trả lời tự động**.
+2. Trong hộp **Trả lời Tự động,** bấm Gửi **trả lời tự động.**
 
-3. Tùy chọn, đặt phạm vi ngày cho thư trả lời tự động của bạn. Việc này sẽ tắt tính năng trả lời tự động vào ngày và thời gian bạn nhập vào thời gian kết thúc. Nếu không, bạn sẽ cần tắt trả lời tự động theo cách thủ công.
+3. Hoặc bạn có thể đặt phạm vi ngày cho trả lời tự động. Làm như vậy sẽ tắt trả lời tự động vào ngày giờ bạn nhập cho thời gian kết thúc. Nếu không, bạn sẽ phải tắt trả lời tự động theo cách thủ công.
 
-**Lưu ý**: nếu bạn không thấy trả lời tự động, hãy dùng **quy tắc và cảnh báo** để thiết lập thông báo vắng mặt của bạn. Trên tab **bên trong tổ chức của tôi** , hãy nhập câu trả lời bạn muốn gửi cho các nhóm hoặc đồng nghiệp trong khi bạn vắng mặt. Gửi trả lời tự động cho **bất kỳ ai bên ngoài tổ chức của tôi** sẽ gửi trả lời tự động cho tất cả các email, bao gồm các bản tin, quảng cáo và có khả năng, email rác. Nếu bạn muốn gửi trả lời tự động cho những người bên ngoài tổ chức của bạn, chúng tôi khuyên bạn nên chọn **chỉ các liên hệ của mình**.
+**Lưu** ý: Nếu bạn không thấy  Trả lời Tự động, hãy sử dụng Quy tắc và Cảnh báo để thiết lập thư trả lời tự động. Trên tab **Bên trong Tổ chức** của Tôi, nhập câu trả lời bạn muốn gửi cho những người trong nhóm hoặc đồng nghiệp khi bạn không ở văn phòng. Tính năng gửi  trả lời tự động đến bất kỳ ai bên ngoài tổ chức của tôi sẽ gửi trả lời tự động của bạn đến mọi email, bao gồm bản tin, quảng cáo và có thể là cả email rác. Nếu bạn muốn gửi trả lời tự động đến những người bên ngoài tổ chức của mình, chúng tôi khuyên bạn nên chọn **Chỉ danh bạ của tôi.**
 
-4. Bấm **OK** để lưu thiết đặt của bạn.
+4. Bấm **OK để** lưu thiết đặt của bạn.

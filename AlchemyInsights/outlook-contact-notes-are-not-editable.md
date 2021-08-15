@@ -1,6 +1,6 @@
 ---
 ms.author: pebaum
-title: Ghi chú liên hệ Outlook không được chỉnh sửa
+title: Outlook ghi chú liên hệ không thể chỉnh sửa được
 author: pebaum
 manager: joallard
 ms.date: 04/21/2020
@@ -11,14 +11,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 9000185
 ms.assetid: ''
-ms.openlocfilehash: 114c0b3765bf6f09c4368fd51e34509672d54c56
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7e518c10622b1bc07524d0393b1f04d67017dfe31209ed5d1e8283b7fc14917b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47722405"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53991989"
 ---
-# <a name="cant-edit-the-notes-field-for-a-contact-in-outlook"></a>Không thể chỉnh sửa trường ghi chú cho một liên hệ trong Outlook
-Đây là một vấn đề đã biết. Chúng tôi đang làm việc để khắc phục và trạng thái sẽ được Cập Nhật [không thể sửa trường ghi chú cho một liên hệ](https://support.office.com/article/fb8394ce-04ce-48b5-bae4-be46f77f10fe).
+# <a name="cant-edit-the-notes-field-for-a-contact-in-outlook"></a>Không thể chỉnh sửa trường ghi chú cho liên hệ trong Outlook
+Đây là vấn đề đã biết. Chúng tôi đang cố gắng khắc phục sự cố và trạng thái sẽ được cập nhật trong [mục Không thể chỉnh sửa trường ghi chú cho liên hệ.](https://support.office.com/article/fb8394ce-04ce-48b5-bae4-be46f77f10fe)
 
-Giải pháp thay **thế: nếu**bạn đang sử dụng Microsoft 365 hoặc tài khoản Outlook.com, bạn có thể chỉnh sửa các liên hệ của mình bằng cách sử dụng web. Nếu bạn đang sử dụng tài khoản IMAP hoặc POP, không có giải pháp thay thế nào sẵn dùng tại thời điểm này.
+**Giải pháp thay thế:** Nếu bạn đang dùng Microsoft 365 hoặc tài khoản Outlook.com, bạn có thể sửa các liên hệ của bạn bằng cách dùng web. Nếu bạn đang sử dụng tài khoản IMAP hoặc POP thì hiện không có giải pháp thay thế nào.
