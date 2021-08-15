@@ -1,5 +1,5 @@
 ---
-title: Thêm một phần mở rộng vào Microsoft Edge từ web Store Chrome
+title: Thêm tiện ích bổ sung Microsoft Edge từ cửa hàng web Chrome
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -15,19 +15,19 @@ ms.custom:
 - "6922"
 - "8312"
 - "9004621"
-ms.openlocfilehash: 0b393d548ab8cf408c26c1548f29e02e61bd8695
-ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
+ms.openlocfilehash: 2ee9a388025b0cdccb16452f5b8610dfc4d3d25bc49fed71f1e1b1789b4d4827
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51505054"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53954755"
 ---
-# <a name="add-an-extension-to-microsoft-edge-from-the-chrome-web-store"></a>Thêm một phần mở rộng vào Microsoft Edge từ web Store Chrome
+# <a name="add-an-extension-to-microsoft-edge-from-the-chrome-web-store"></a>Thêm tiện ích bổ sung Microsoft Edge từ cửa hàng web Chrome
 
-Để thêm một phần mở rộng vào cạnh Microsoft từ Chrome web Store, hãy hoàn thành các bước sau đây:
+Để thêm phần mở rộng vào trang Microsoft Edge từ cửa hàng web Chrome, hãy hoàn thành các bước sau đây:
 
-1. Đi tới cửa hàng Chrome trực tiếp.
-2. Trong biểu ngữ ở phía trên cùng của trang, hãy chọn **cho phép các phần mở rộng từ các cửa hàng khác**.
+1. Đi tới trang Cửa hàng Chrome Trực tuyến.
+2. Trong biểu ngữ ở đầu trang, chọn Cho phép phần **mở rộng từ cửa hàng khác**.
 3. Chọn phần mở rộng mà bạn muốn thêm, rồi bấm **Thêm vào Chrome**.
-4. Trong hộp thoại xác nhận, hãy xem lại cẩn thận các sửa đổi mà phần mở rộng có thể thực hiện, sau đó bấm **Thêm phần mở rộng**.
-Hộp thoại cuối cùng sẽ xác nhận rằng phần mở rộng đã được thêm vào.
+4. Trong hộp thoại xác nhận, hãy xem xét cẩn thận những sửa đổi mà phần mở rộng có thể thực hiện, rồi bấm **Thêm phần mở rộng**.
+Hộp thoại cuối cùng sẽ xác nhận rằng phần mở rộng đã được thêm.

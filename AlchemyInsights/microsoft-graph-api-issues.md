@@ -1,5 +1,5 @@
 ---
-title: Các vấn đề về API của Microsoft graph
+title: Sự cố API của Microsoft Graph
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,93 +12,93 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004345"
 - "7759"
-ms.openlocfilehash: a856094d9152568c3c067da5856153230d6590a6
-ms.sourcegitcommit: 9d03083ea6e18070296b87a1b02339ca4d8e6064
+ms.openlocfilehash: 9df021211c8a65997889d9303dbf28a27104cfa95841d4cb810427c652ba0784
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "50714519"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53975915"
 ---
-# <a name="microsoft-graph-api-issues"></a>Các vấn đề về API của Microsoft graph
+# <a name="microsoft-graph-api-issues"></a>Sự cố API của Microsoft Graph
 
-Chủ đề này cũng có thể áp dụng cho các nhà phát triển vẫn sử dụng API đồ thị Azure AD. Tuy nhiên, chúng **tôi khuyên bạn nên sử** dụng Microsoft graph cho tất cả các kịch bản, danh tính và tình huống quản lý truy nhập của bạn.
+Chủ đề này cũng có thể áp dụng cho các nhà phát triển vẫn sử dụng Azure AD Graph API. Tuy nhiên, bạn **nên sử dụng** Microsoft Graph tất cả các kịch bản quản lý thư mục, danh tính và truy nhập của mình.
 
-**Các vấn đề về xác thực hoặc ủy quyền**
+**Các sự cố về xác thực hoặc ủy quyền**
 
-- Nếu ứng dụng của bạn **không thể** có được thẻ để gọi tới Microsoft graph, hãy chọn **vấn đề với thể loại mã thông báo Access (xác thực)** Microsoft graph để biết thêm trợ giúp và hỗ trợ cụ thể về chủ đề này.
-- Nếu ứng dụng của bạn nhận được các **lỗi ủy quyền 401 hoặc 403** khi gọi cho Microsoft graph, hãy chọn thể loại **nhận được một lỗi truy nhập bị từ chối (ủy quyền)** Microsoft graph API để biết thêm trợ giúp và hỗ trợ cụ thể về chủ đề này.
+- Nếu ứng  dụng của bạn không thể nhận được mã thông báo để gọi cho Microsoft Graph, hãy chọn Vấn đề với việc nhận một mã thông báo truy nhập **(Xác thực)** Microsoft Graph để nhận được trợ giúp và hỗ trợ cụ thể hơn về chủ đề này.
+- Nếu ứng dụng của bạn nhận được lỗi ủy quyền **401 hoặc 403** khi gọi cho Microsoft Graph, hãy chọn danh mục Nhận lỗi truy nhập bị từ chối **(Ủy quyền)** Microsoft Graph API để nhận được trợ giúp và hỗ trợ cụ thể hơn về chủ đề này.
 
-**Tôi muốn sử dụng Microsoft graph, nhưng không chắc chắn bắt đầu từ đâu**
+**Tôi muốn sử dụng Microsoft Graph nhưng không chắc nên bắt đầu từ đâu**
 
-- [Tổng quan về Microsoft graph](https://docs.microsoft.com/graph/overview)
-- [Tổng quan về danh tính và quản lý Access trong Microsoft graph](https://docs.microsoft.com/graph/azuread-identity-access-management-concept-overview)
-- [Bước bắt đầu xây dựng ứng dụng Microsoft graph](https://docs.microsoft.com/graph/)
-- **Microsoft graph Explorer** -kiểm tra API của Microsoft graph trong đối tượng thuê của bạn hoặc đối tượng thuê giới thiệu
+- [Tổng quan về Microsoft Graph](https://docs.microsoft.com/graph/overview)
+- [Tổng quan về Quản lý Danh tính và Truy nhập trong Microsoft Graph](https://docs.microsoft.com/graph/azuread-identity-access-management-concept-overview)
+- [Bắt đầu xây dựng các ứng dụng Microsoft Graph](https://docs.microsoft.com/graph/)
+- **Microsoft Graph Explorer** - Kiểm tra API Microsoft Graph trong đối tượng thuê của bạn hoặc đối tượng thuê demo
 
-**Tôi muốn sử dụng Microsoft graph nhưng nó hỗ trợ các API của v 1,0 Directory tôi cần?**
+**Tôi muốn sử dụng Microsoft Graph, nhưng liệu họ có hỗ trợ API thư mục v1.0 mà tôi cần không?**
 
-Microsoft graph là API được đề xuất cho thư mục, danh tính và quản lý Access. Tuy nhiên, vẫn có một vài khoảng trống giữa những gì có thể có trong Azure AD graph và Microsoft graph. Xem lại các bài viết sau đây, trong đó sẽ tô sáng các điểm khác biệt Cập Nhật nhất để hỗ trợ trong lựa chọn của bạn:
+Microsoft Graph là API được đề xuất cho quản lý thư mục, danh tính và truy nhập. Tuy nhiên, vẫn có một vài khoảng trống giữa những điều có thể xảy ra trong Azure AD Graph và Microsoft Graph. Xem lại các bài viết sau đây, trong đó nêu bật những khác biệt cập nhật nhất nhằm hỗ trợ bạn lựa chọn:
 
-- [Sự khác biệt về kiểu tài nguyên giữa Azure AD graph và Microsoft graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-resource-differences)
-- [Sự khác biệt về tài sản giữa Azure AD graph và Microsoft graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-property-differences)
-- [Sự khác biệt về phương pháp giữa Azure AD và đồ thị Microsoft](https://docs.microsoft.com/graph/migrate-azure-ad-graph-method-differences)
+- [Sự khác biệt về loại tài nguyên giữa Azure AD Graph và Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-resource-differences)
+- [Sự khác biệt về thuộc tính giữa Azure AD Graph và Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-property-differences)
+- [Sự khác biệt về phương pháp giữa Azure AD và Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-method-differences)
 
-**API tôi đang gọi không hoạt động-tôi có thể làm việc kiểm tra khác ở đâu?**
+**API mà tôi đang gọi không hoạt động - tôi có thể thực hiện thêm kiểm tra ở đâu?**
 
-**Microsoft graph Explorer** -kiểm tra API đồ thị Microsoft trong đối tượng thuê của bạn hoặc đối tượng thuê giới thiệu và cũng có thể xem các **truy vấn mẫu** trong Microsoft graph Explorer.
+**Microsoft Graph Explorer** - Kiểm tra API Microsoft Graph trong đối tượng thuê của  bạn hoặc đối tượng thuê demo và cũng kiểm tra các truy vấn mẫu trong Microsoft Graph Explorer.
 
-**Ứng dụng của tôi quá chậm và cũng đang nhận được Throttled. Tôi có thể thực hiện những cải thiện nào?**
+**Ứng dụng của tôi quá chậm và cũng bị điều tiết. Tôi có thể thực hiện những cải tiến nào?**
 
-Tùy thuộc vào tình huống của bạn, có nhiều tùy chọn khác nhau trong việc xử lý của bạn để làm cho ứng dụng của bạn thêm performant, và trong một số trường hợp, ít dễ bị Throttled bởi dịch vụ (khi bạn đang thực hiện quá nhiều cuộc gọi).
+Tùy thuộc vào kịch bản của bạn, có nhiều tùy chọn sẵn có để làm cho ứng dụng của bạn hoạt động hiệu quả hơn và trong một số trường hợp, ít dễ bị điều chỉnh dịch vụ (khi bạn thực hiện quá nhiều cuộc gọi).
 
-- [Các biện pháp tốt nhất của Microsoft graph](https://docs.microsoft.com/graph/best-practices-concept)
-- [Các yêu cầu về định lượng](https://docs.microsoft.com/graph/json-batching)
-- [Theo dõi thay đổi thông qua truy vấn đồng bằng](https://docs.microsoft.com/graph/delta-query-overview)
+- [Các phương pháp Graph nhất của Microsoft](https://docs.microsoft.com/graph/best-practices-concept)
+- [Yêu cầu lô](https://docs.microsoft.com/graph/json-batching)
+- [Theo dõi thay đổi thông qua truy vấn delta](https://docs.microsoft.com/graph/delta-query-overview)
 - [Nhận thông báo về các thay đổi thông qua webhooks](https://docs.microsoft.com/graph/webhooks)
-- [Hướng dẫn throttling](https://docs.microsoft.com/graph/throttling)
+- [Hướng dẫn điều chỉnh](https://docs.microsoft.com/graph/throttling)
 
-**Tôi có thể tìm thêm thông tin về các lỗi và các vấn đề đã biết ở đâu?**
+**Tôi có thể tìm thêm thông tin về lỗi và sự cố đã biết ở đâu?**
 
-- [Thông tin phản hồi về lỗi của Microsoft graph](https://docs.microsoft.com/graph/errors)
-- [Các vấn đề đã biết với Microsoft graph](https://docs.microsoft.com/graph/known-issues)
+- [Thông tin phản Graph Microsoft](https://docs.microsoft.com/graph/errors)
+- [Các sự cố đã biết với Microsoft Graph](https://docs.microsoft.com/graph/known-issues)
 
-**Tôi có thể kiểm tra trạng thái sẵn dùng và khả năng kết nối của dịch vụ ở đâu?**
+**Tôi có thể kiểm tra trạng thái sẵn sàng của dịch vụ và khả năng kết nối ở đâu?**
 
-Tính khả dụng của dịch vụ và kết nối của các dịch vụ cơ bản có thể được truy nhập thông qua Microsoft graph có thể ảnh hưởng đến tính khả dụng tổng thể và hiệu suất của Microsoft graph.
+Tính khả dụng của dịch vụ và khả năng kết nối của các dịch vụ cơ sở có thể được truy nhập thông qua Microsoft Graph có thể ảnh hưởng đến tính sẵn sàng và hiệu suất tổng thể của Microsoft Graph.
 
-- Đối với dịch vụ Azure Active Directory Health, hãy kiểm tra trạng thái của dịch vụ **danh tính + bảo mật** được liệt kê trong [trang trạng thái Azure](https://azure.microsoft.com/status/).
-- Đối với các dịch vụ Office đóng góp vào Microsoft graph, hãy kiểm tra trạng thái các dịch vụ được liệt kê trong bảng điều khiển trạng thái [dịch vụ Office](https://portal.office.com/adminportal/home#/servicehealth).
+- Để biết Azure Active Directory trạng thái dịch vụ, hãy kiểm tra trạng thái của các dịch **vụ Bảo mật + Căn** cước được liệt kê trong trang trạng thái [Azure.](https://azure.microsoft.com/status/)
+- Đối với Office các dịch vụ đóng góp vào Microsoft Graph, hãy kiểm tra trạng thái các dịch vụ được liệt kê trong Bảng điều [Office Trạng thái Dịch vụ](https://portal.office.com/adminportal/home#/servicehealth).
 
-Lỗi ủy quyền của Microsoft graph có thể là kết quả của một số vấn đề khác nhau, phần lớn trong số đó tạo ra lỗi 401 hoặc 403. Ví dụ, các thao tác sau có thể dẫn đến lỗi ủy quyền:
+Các Graph về ủy quyền của Microsoft có thể là do một số sự cố khác nhau, đa số là nguyên nhân gây ra lỗi 401 hoặc 403. Ví dụ: tất cả những điều sau đây đều có thể dẫn đến lỗi ủy quyền:
 
-- [Dòng mua lại mã](https://docs.microsoft.com/azure/active-directory/develop/active-directory-authentication-scenarios) thông báo không chính xác
-- Phạm vi [quyền](https://docs.microsoft.com/azure/active-directory/develop/active-directory-v2-scopes) được đặt cấu hình kém
-- Thiếu sự [đồng ý](https://docs.microsoft.com/azure/active-directory/develop/active-directory-devhowto-multi-tenant-overview#understanding-user-and-admin-consent)
+- Quy trình [thu thập mã thông báo truy nhập không chính xác](https://docs.microsoft.com/azure/active-directory/develop/active-directory-authentication-scenarios)
+- Phạm vi quyền được đặt [cấu hình kém](https://docs.microsoft.com/azure/active-directory/develop/active-directory-v2-scopes)
+- Thiếu sự chấp [thuận](https://docs.microsoft.com/azure/active-directory/develop/active-directory-devhowto-multi-tenant-overview#understanding-user-and-admin-consent)
 
-**_Kết thúc hỗ trợ cho thư viện xác thực Azure Active Directory (ADAL) and AZURE AD GRAPH API (đồ họa Bad)_* _
+***Kết thúc hỗ trợ cho Azure Active Directory Thư viện Xác thực (ADAL) và API Graph Azure AD (AAD Graph)***
 
-_ * Bắt đầu từ ngày 30 tháng 6, 2020 * *, chúng tôi sẽ không còn thêm bất kỳ tính năng mới nào vào ADAL và Azure AD graph. Chúng tôi sẽ tiếp tục cung cấp hỗ trợ kỹ thuật và các bản Cập Nhật bảo mật nhưng sẽ không còn cung cấp các bản cập nhật tính năng.
+**Kể từ ngày 30 tháng 6 năm 2020,** chúng tôi sẽ không còn thêm bất kỳ tính năng mới nào vào ADAL và Azure AD Graph. Chúng tôi sẽ tiếp tục cung cấp hỗ trợ kỹ thuật và cập nhật bảo mật nhưng sẽ không cung cấp các bản cập nhật tính năng nữa.
 
-**Bắt đầu từ ngày 30 tháng 6, 2022**, chúng tôi sẽ kết thúc hỗ trợ cho Adal và Azure AD graph và sẽ không còn cung cấp hỗ trợ kỹ thuật hoặc các bản Cập Nhật bảo mật.
+Bắt đầu **từ ngày 30 tháng 6 năm 2022,** chúng tôi sẽ kết thúc hỗ trợ cho ADAL và Azure AD Graph và sẽ không cung cấp hỗ trợ kỹ thuật hay cập nhật bảo mật nữa.
 
-Ứng dụng bằng cách dùng ADAL trên các phiên bản hệ điều hành hiện có sẽ tiếp tục làm việc sau khi thời gian này nhưng sẽ không *nhận được bất kỳ sự hỗ trợ kỹ thuật hoặc bản Cập Nhật bảo mật nào*.
+Ứng dụng sử dụng ADAL trên các phiên bản HĐH hiện có sẽ tiếp tục hoạt động sau thời gian này nhưng sẽ không nhận được bất kỳ *hỗ trợ kỹ thuật hay bản cập nhật bảo mật nào.*
 
-Các ứng dụng bằng cách sử dụng đồ thị Azure AD sau khi thời gian này không còn nhận được phản hồi từ điểm cuối Azure AD graph.
+Các ứng dụng sử dụng Azure AD Graph sau thời gian này có thể không còn nhận được phản hồi từ điểm cuối Azure AD Graph lại.
 
 **Di chuyển ADAL**
 
-Chúng tôi khuyên bạn nên cập nhật lên [Thư viện xác thực Microsoft (MSAL)](https://docs.microsoft.com/azure/active-directory/develop/v2-overview), trong đó có các tính năng và bản Cập Nhật bảo mật mới nhất.
+Chúng tôi khuyên bạn nên cập nhật [lên Thư viện Xác thực Microsoft (MSAL),](https://docs.microsoft.com/azure/active-directory/develop/v2-overview)nơi có các tính năng và bản cập nhật bảo mật mới nhất.
 
-Nếu bạn đang sử dụng ứng dụng Microsoft, hãy biết rằng Microsoft đang trong quá trình di chuyển các ứng dụng của mình sang MSAL bằng hạn chót cuối hỗ trợ, đảm bảo rằng họ sẽ lợi ích từ các cải thiện về bảo mật và tính năng của MSAL.
+Nếu bạn đang sử dụng ứng dụng Microsoft, hãy biết rằng Microsoft đang trong quá trình di chuyển các ứng dụng sang MSAL trước hạn chót kết thúc hỗ trợ, để đảm bảo rằng chúng sẽ hưởng lợi từ các cải thiện liên tục về bảo mật và tính năng của MSAL.
 
-1. [Đọc các câu hỏi thường gặp về ADAL](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq)
-2. [Tìm hiểu cách di chuyển các ứng dụng trên cơ sở mỗi nền tảng](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq)
-3. Nếu bạn cần trợ giúp về các ứng dụng của mình sử dụng ADAL, chúng tôi khuyên bạn nên xem xét tất cả mã nguồn của ứng dụng của bạn và nếu có, hãy tiếp cận với bất kỳ nhà cung cấp dịch vụ ISVs hoặc ứng dụng nào. Hỗ trợ của Microsoft cũng có thể cung cấp cho bạn một danh sách tất cả các ứng dụng không phải của Microsoft ADAL trong đối tượng thuê của bạn.
+1. [Đọc Câu hỏi thường gặp về ADAL](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq)
+2. [Tìm hiểu về cách di chuyển ứng dụng trên cơ sở từng nền tảng](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq)
+3. Nếu bạn cần trợ giúp để hiểu rõ ứng dụng nào sử dụng ADAL, chúng tôi khuyên bạn nên xem lại tất cả mã nguồn của ứng dụng và nếu có thể, hãy liên hệ với bất kỳ ISV hoặc nhà cung cấp ứng dụng nào. Bộ trợ giúp của Microsoft cũng có thể cung cấp cho bạn danh sách tất cả các ứng dụng không phải ADAL của Microsoft trong đối tượng thuê của bạn.
 
-**Di chuyển đồ thị trong Bad**
+**Di chuyển thiết Graph AAD**
 
-Đối với các ứng dụng đang sử dụng đồ thị Azure AD, hãy làm theo hướng dẫn của chúng tôi để [di chuyển các ứng dụng đồ thị AZURE AD sang Microsoft graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-overview).
+Đối với các ứng dụng đang sử dụng Azure AD Graph, hãy làm theo hướng dẫn của chúng tôi để di chuyển các ứng dụng [Azure AD Graph sang Microsoft Graph.](https://docs.microsoft.com/graph/migrate-azure-ad-graph-overview)
 
-1. [Danh sách kiểm tra di chuyển của chúng tôi cung cấp một điểm bắt đầu](https://docs.microsoft.com/graph/migrate-azure-ad-graph-planning-checklist).
-2. Cổng đăng ký Azure App của bạn hiển thị ứng dụng nào đang sử dụng đồ thị Bad. Chúng tôi khuyên bạn nên xem xét tất cả mã nguồn của ứng dụng và nếu có, hãy tiếp cận với bất kỳ nhà cung cấp dịch vụ ISVs hoặc ứng dụng nào. Hỗ trợ của Microsoft cũng có thể cung cấp cho bạn một danh sách tất cả việc sử dụng đồ thị trong đối tượng thuê của bạn.
-3. Đối với ứng dụng của bạn để truy nhập dữ liệu trong Microsoft graph, người dùng hoặc người quản trị phải cấp quyền chính xác thông qua quy trình chấp thuận. [Tham chiếu quyền đối với Microsoft graph](https://docs.microsoft.com/graph/permissions-reference) liệt kê các quyền liên kết với mỗi bộ các API chính của Microsoft graph. Nó cũng cung cấp hướng dẫn về cách sử dụng các quyền.
+1. [Danh sách kiểm tra di chuyển của chúng tôi cung cấp một điểm bắt đầu.](https://docs.microsoft.com/graph/migrate-azure-ad-graph-planning-checklist)
+2. Cổng thông tin đăng ký ứng dụng Azure của bạn hiển thị các ứng dụng đang sử dụng AAD Graph. Chúng tôi khuyên bạn nên xem lại tất cả mã nguồn của ứng dụng và nếu có, hãy liên hệ với bất kỳ ISV hoặc nhà cung cấp ứng dụng nào. Bộ trợ giúp của Microsoft cũng có thể cung cấp cho bạn danh sách tất cả các hoạt động sử Graph AAD trong đối tượng thuê của bạn.
+3. Để ứng dụng của bạn truy nhập dữ liệu trong Microsoft Graph, người dùng hoặc người quản trị phải cấp đúng quyền thông qua một quy trình đồng ý. Tham [chiếu quyền Graph Microsoft liệt](https://docs.microsoft.com/graph/permissions-reference) kê các quyền liên kết với mỗi tập hợp chính của Microsoft Graph API. Tài liệu cũng cung cấp hướng dẫn về cách sử dụng các quyền.

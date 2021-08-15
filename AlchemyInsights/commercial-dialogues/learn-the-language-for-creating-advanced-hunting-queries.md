@@ -1,5 +1,5 @@
 ---
-title: Tìm hiểu ngôn ngữ để tạo truy vấn săn bắn nâng cao
+title: Tìm hiểu ngôn ngữ để tạo truy vấn bảo vệ nâng cao
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 68d6ffecc8540622795107ec00fe659f210ce3f1
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 40199ff5e880fa179a0ccd43e70e19c6c0347d56e7f2cbaca1b739dae2aede3d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748671"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54016794"
 ---
-# <a name="learn-the-language-for-creating-advanced-hunting-queries"></a>Tìm hiểu ngôn ngữ để tạo truy vấn săn bắn nâng cao
+# <a name="learn-the-language-for-creating-advanced-hunting-queries"></a>Tìm hiểu ngôn ngữ để tạo truy vấn bảo vệ nâng cao
 
-Săn bắn nâng cao dựa trên [ngôn ngữ truy vấn Kusto](https://go.microsoft.com/fwlink/?linkid=2144620). Bạn có thể sử dụng cú pháp Kusto và các toán tử để xây dựng các truy vấn mà định vị thông tin trong [lược](https://go.microsoft.com/fwlink/?linkid=2144621) đồ cụ thể được cấu trúc cho săn bắn nâng cao.
+Thời trang cao cấp được dựa trên [ngôn ngữ truy vấn Kusto.](https://go.microsoft.com/fwlink/?linkid=2144620) Bạn có thể sử dụng cú pháp và toán [](https://go.microsoft.com/fwlink/?linkid=2144621) tử Kusto để tạo truy vấn định vị thông tin trong sơ đồ có cấu trúc cụ thể cho hoạt động bảo vệ nâng cao.
 
-Để tìm hiểu thêm, hãy xem [Tìm hiểu về ngôn ngữ truy vấn săn bắn nâng cao](https://go.microsoft.com/fwlink/?linkid=2144518).
+Để tìm hiểu thêm, hãy xem [Tìm hiểu ngôn ngữ truy vấn bắn bắn nâng cao](https://go.microsoft.com/fwlink/?linkid=2144518).

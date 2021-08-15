@@ -1,5 +1,5 @@
 ---
-title: Không thể thêm hoặc thay đổi ảnh hồ sơ nhóm
+title: Không thể thêm hoặc thay đổi ảnh Teams sơ
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003303"
 - "6208"
-ms.openlocfilehash: a97be76575c8c69593a12c4365e674771cd58e16
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: be7e09770e68684063e4925cdca471ccb766f4c94d9ac20c92852fd0a2f0a00b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47805629"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53995788"
 ---
-# <a name="cant-add-or-change-teams-profile-picture"></a>Không thể thêm hoặc thay đổi ảnh hồ sơ nhóm
+# <a name="cant-add-or-change-teams-profile-picture"></a>Không thể thêm hoặc thay đổi ảnh Teams sơ
 
-Để thêm hoặc thay đổi ảnh hồ sơ, người dùng phải được kích hoạt đầy đủ với những điều sau đây:
+Để thêm hoặc thay đổi ảnh hồ sơ, người dùng phải được kích hoạt đầy đủ các tính năng sau:
 
 - Exchange Online
-- SharePoint Online
-- Khả năng tạo nhóm Microsoft 365
+- SharePoint Trực tuyến
+- Khả năng tạo nhóm Microsoft 365 chủ
 
-Xem quản trị nhóm của bạn về việc nhận các quyền cần thiết. Để biết hướng dẫn, hãy xem [mục thay đổi ảnh của bạn trong nhóm](https://support.microsoft.com/office/change-your-picture-in-teams-7a711943-9248-420e-b814-c071aa8d9b9c).
+Hãy liên hệ với Teams quản trị viên của bạn về việc nhận các quyền cần thiết. Để biết hướng dẫn, xem [mục Thay đổi ảnh của bạn trong Teams.](https://support.microsoft.com/office/change-your-picture-in-teams-7a711943-9248-420e-b814-c071aa8d9b9c)

@@ -12,29 +12,29 @@ localization_priority: Normal
 ms.custom:
 - "1737"
 - "9000181"
-ms.openlocfilehash: fb05213b7b1efecbabc3e25f6c4587b0d303f783
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 7a32ad52f115b9ada40f7cd47c90ceb3dcd3f9cd99a8f9eae3514b2e45e73bb8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50707256"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53969329"
 ---
 # <a name="auto-apply-sensitivity-labels"></a>Tự động áp dụng nhãn nhạy cảm
 
-Nhãn nhạy cảm có thể được áp dụng theo cách thủ công cho nội dung theo người dùng, hoặc bạn có thể cấu hình chúng để được tự động áp dụng cho nội dung.
+Nhãn nhạy cảm có thể được áp dụng cho nội dung theo cách thủ công bởi người dùng, hoặc bạn có thể cấu hình để chúng được áp dụng tự động cho nội dung.
 
-Tự động áp dụng nhãn nhạy cảm loại bỏ cần thiết để đào tạo người dùng về cách phân loại nội dung và cần thông báo cho họ về cấu hình chính sách.
+Tự động áp dụng nhãn nhạy cảm sẽ loại bỏ nhu cầu đào tạo người dùng về cách phân loại nội dung và nhu cầu thông báo cho họ về các cấu hình chính sách.
 
-Để áp dụng nhãn tự động, các tùy chọn sau đây là bắt buộc:
+Để áp dụng nhãn tự động, bạn cần thực hiện các bước sau:
 
-- Đăng ký bảo vệ thông tin Azure
-- [Tải xuống và cài đặt máy khách gắn nhãn thông tin Azure hợp nhất](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
+- Đăng ký Azure Information Protection P2
+- [Tải xuống và cài đặt máy khách nhãn hợp nhất Azure Information Protection](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
 
-Chúng tôi đang làm việc với bộ phận hỗ trợ gốc mà không yêu cầu máy khách dán hợp nhất trong tương lai.
+Chúng tôi đang nghiên cứu về việc hỗ trợ riêng sẽ không yêu cầu máy khách dán nhãn hợp nhất Azure Information Protection trong tương lai.
 
-Hiện tại, chỉ Windows hỗ trợ máy khách gắn nhãn hợp nhất.  Tính năng này chưa được hỗ trợ trên máy Mac, iOS và Android.
+Hiện tại, chỉ Windows hỗ trợ máy khách dán nhãn hợp nhất.  Tính năng này chưa được hỗ trợ trên máy Mac, iOS và Android.
 
-Để biết thêm thông tin về nhãn nhạy cảm và áp dụng chúng tự động cho nội dung, hãy xem:
+Để biết thêm thông tin về nhãn nhạy cảm và tự động áp dụng chúng vào nội dung, hãy xem:
 
 - [Tổng quan về nhãn nhạy cảm](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
-- [Áp dụng nhãn nhạy cảm cho nội dung tự động](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)
+- [Tự động áp dụng nhãn nhạy cảm cho nội dung](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)
