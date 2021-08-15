@@ -1,5 +1,5 @@
 ---
-title: Tạo một nhóm toàn tổ chức bao gồm tất cả mọi người trong tổ chức của bạn
+title: Tạo Nhóm toàn tổ chức bao gồm tất cả mọi người trong tổ chức của bạn
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001731"
 - "3830"
-ms.openlocfilehash: 83533db037265355bccb227abac2b3073d3b4215
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d69837f186df478b85797b59494ba3d4ee25d71d9e2224ac1803fc835da33fd9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51816186"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53994671"
 ---
-# <a name="create-an-org-wide-team-that-includes-everyone-in-your-organization"></a>Tạo một nhóm toàn tổ chức bao gồm tất cả mọi người trong tổ chức của bạn
+# <a name="create-an-org-wide-team-that-includes-everyone-in-your-organization"></a>Tạo Nhóm toàn tổ chức bao gồm tất cả mọi người trong tổ chức của bạn
 
-Bạn có thể tạo một nhóm bao gồm tất cả các thành viên của công ty hoặc tổ chức của bạn, còn được gọi là [nhóm toàn](https://docs.microsoft.com/microsoftteams/create-an-org-wide-team)tổ chức.
+Bạn có thể tạo một Nhóm bao gồm tất cả các thành viên của công ty hoặc tổ chức của bạn, còn được gọi là Nhóm [toàn tổ chức](https://docs.microsoft.com/microsoftteams/create-an-org-wide-team).
 
-- Tổ chức của bạn có **ít hơn 10.000 người dùng** không? Hiện tại nhóm toàn bộ tổ chức được giới hạn trong các tổ chức với 10.000 hoặc ít người dùng hơn. Chúng tôi đang tìm cách để tăng giới hạn này trong tương lai.
+- Tổ chức của bạn **có dưới 10.000 người dùng không?** Hiện tại các nhóm toàn tổ chức chỉ giới hạn trong tổ chức có 10.000 người dùng trở lên. Chúng tôi đang tìm cách tăng giới hạn này trong tương lai.
 
-- Nhóm toàn bộ tổ chức **hiện không sẵn dùng** cho các **nhóm giáo dục**.
+- Nhóm toàn tổ chức **hiện không sẵn dùng cho** các nhóm **Teans dành cho giáo dục**.
 
-- Một số loại tài khoản không được bao gồm trong nhóm toàn tổ chức, bao gồm **tài khoản Dịch vụ**, **tài khoản người dùng khách** hoặc **tài khoản bị chặn đăng nhập**.
+- Một số loại tài khoản nhất định sẽ không được bao gồm trong toàn tổ chức, bao gồm tài khoản dịch **vụ,** tài khoản người dùng khách **hoặc** tài khoản bị chặn **đăng nhập**.
 
-Để biết thông tin đầy đủ về các nhóm toàn tổ chức, hãy xem [tạo nhóm toàn bộ tổ chức trong Microsoft nhóm](https://docs.microsoft.com/microsoftteams/create-an-org-wide-team). 
+Để biết đầy đủ thông tin về hoạt động Teams toàn tổ chức, hãy xem Tạo nhóm [toàn tổ chức trong Microsoft Teams.](https://docs.microsoft.com/microsoftteams/create-an-org-wide-team) 

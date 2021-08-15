@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100002"
 - "7525"
-ms.openlocfilehash: 7b765dfd503906f5bba0f2b824442e13a3252493
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 17f447a12013f5ace0e85b38d95937abcf9cc7d60afbeef8dddd1c3315eb3467
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747188"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53994743"
 ---
 # <a name="unblock-email"></a>Bỏ chặn email
 
-Nếu tài khoản email của người dùng bị chặn để gửi thư rác, sau đây là cách để làm cho nó trở lại:
+Nếu tài khoản email của người dùng bị chặn để gửi thư rác, dưới đây là cách để tiếp tục lại tính năng này:
 
-1. Đặt lại mật khẩu cho tài khoản bị ảnh hưởng *ngay lập tức*. Không gửi mật khẩu mới cho người dùng qua email. Điều này ngăn không cho mọi người truy nhập vào thư rác.
-2. Đi đến Trung tâm tuân thủ bảo mật & và xem liệu tài khoản này nằm trong [danh sách người dùng bị hạn chế](https://protection.office.com/#/restrictedusers).
-3. Chọn biểu tượng **Tìm kiếm** và nhập tên người dùng của người dùng bị hạn chế. Ví dụ, nếu địa chỉ email của người dùng là *Rob@contoso.com*, chỉ cần nhập **Rob**.
-4. Nếu tài khoản ở đó, hãy chọn **bỏ chặn**. Làm theo các bước trong ngăn bay ra, rồi chọn **có** để xác nhận.  
+1. Đặt lại mật khẩu cho tài khoản bị ảnh hưởng ngay *lập tức.* Không gửi mật khẩu mới cho người dùng qua email. Điều này ngăn không cho bất kỳ ai truy nhập để gửi thư rác.
+2. Đi đến Trung tâm Bảo mật & Tuân thủ và xem liệu tài khoản đó có nằm trong danh sách Người [dùng Bị hạn chế không.](https://protection.office.com/#/restrictedusers)
+3. Chọn biểu tượng **Tìm** kiếm và nhập tên người dùng của người dùng bị hạn chế. For example, if the user's email address is *rob@contoso.com*, just enter **rob**.
+4. Nếu tài khoản ở đó, hãy chọn **Bỏ chặn**. Làm theo các bước trong ngăn bay ra, rồi chọn Có **để** xác nhận.  
     > [!NOTE]
-    > Sau khi đã bỏ chặn, tài khoản sẽ có thể bắt đầu gửi tin nhắn trong 3-4 giờ.
+    > Sau khi bỏ chặn, tài khoản sẽ có thể bắt đầu gửi thư trong 3-4 giờ.

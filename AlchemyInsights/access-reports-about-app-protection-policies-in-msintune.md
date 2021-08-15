@@ -1,5 +1,5 @@
 ---
-title: Truy nhập báo cáo về chính sách bảo vệ ứng dụng trong Microsoft InTune
+title: Báo cáo Access về chính sách bảo vệ ứng dụng trong Microsoft Intune
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004635"
 - "8383"
-ms.openlocfilehash: 6de9c28c7c13141d86b643eae8d53fcd40317011
-ms.sourcegitcommit: 969219d6dff18d86d679d4d8741d1e39e4ce9539
+ms.openlocfilehash: 8f8f156ebb7f6e6a6d2a82de0391577a12ab6c9ddd864a4c35f0e24c4ac638d9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50428131"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53955079"
 ---
-# <a name="access-reports-about-app-protection-policies-in-microsoft-intune"></a>Truy nhập báo cáo về chính sách bảo vệ ứng dụng trong Microsoft InTune
+# <a name="access-reports-about-app-protection-policies-in-microsoft-intune"></a>Báo cáo Access về chính sách bảo vệ ứng dụng trong Microsoft Intune
 
-Bạn có thể truy nhập và tải xuống các báo cáo hiển thị trạng thái của các chính sách bảo vệ ứng dụng của bạn từ Microsoft InTune. Dễ dàng xem những nội dung như người dùng nào được gán chính sách, cho dù mọi người dùng được gắn cờ cho hoạt động đáng ngờ hay người dùng có các ứng dụng có thể gây hại có thể được cài đặt trên thiết bị của họ.
+Bạn có thể truy nhập và tải xuống các báo cáo hiển thị trạng thái của các chính sách bảo vệ ứng dụng khỏi Microsoft Intune. Dễ dàng xem những nội dung như người dùng nào được gán chính sách, liệu có bất kỳ người dùng nào bị gắn cờ cho hoạt động đáng ngờ hay người dùng nào đã cài đặt ứng dụng có khả năng gây hại trên thiết bị của họ hay không.
 
-1. Đi đến [Trung tâm quản trị Microsoft Endpoint Manager](https://go.microsoft.com/fwlink/?linkid=2109431).
-1. Chọn **các**  >    >  báo cáo **trạng thái bảo vệ ứng dụng** màn hình ứng dụng  >  .
-1. Chọn báo cáo bạn muốn xem, rồi chọn người dùng hoặc ứng dụng mà bạn muốn xem, tùy thuộc vào báo cáo.
-1. Để tải xuống bản sao của báo cáo trong tệp. CSV, hãy bấm vào **tải xuống báo cáo**.
+1. Đi đến trung [tâm quản Microsoft Endpoint Manager chính của bạn.](https://go.microsoft.com/fwlink/?linkid=2109431)
+1. Chọn Ứng **dụng**  >  **Giám sát** Báo cáo trạng thái bảo vệ  >  **ứng**  >  **dụng**.
+1. Chọn báo cáo bạn muốn xem, rồi chọn những người dùng hoặc ứng dụng bạn muốn xem, tùy thuộc vào báo cáo.
+1. Để tải xuống một bản sao báo cáo trong một tệp .csv, hãy bấm Tải **xuống báo cáo.**
 
-Để tìm hiểu thêm, hãy xem [dạng xem báo cáo](https://go.microsoft.com/fwlink/?linkid=2109431).
+Để tìm hiểu thêm, hãy xem chế [độ xem Báo cáo](https://go.microsoft.com/fwlink/?linkid=2109431).

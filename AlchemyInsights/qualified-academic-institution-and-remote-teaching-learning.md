@@ -1,5 +1,5 @@
 ---
-title: Tổ chức học thuật có trình độ Microsoft và dạy từ xa và tìm hiểu
+title: Tổ chức Giáo dục Đủ điều kiện của Microsoft và dạy và học từ xa
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,25 +11,25 @@ ms.custom: ''
 ms.assetid:
 - "1500009"
 - "4495"
-ms.openlocfilehash: 8943f2f8243d908f07823da534e16f80cd7d4903
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e475a796a8835b9b123c2a12602de1f363cbd1184190941d24893211c350872b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795806"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53959957"
 ---
-# <a name="microsoft-qualified-academic-institution-and-remote-teaching-and-learning"></a>Tổ chức học thuật có trình độ Microsoft và dạy từ xa và tìm hiểu
+# <a name="microsoft-qualified-academic-institution-and-remote-teaching-and-learning"></a>Tổ chức Giáo dục Đủ điều kiện của Microsoft và dạy và học từ xa
 
-Để bắt đầu với Office 365 dành cho giáo dục, hãy truy cập [trang web](https://www.microsoft.com/microsoft-365/academic/compare-office-365-education-plans) này và đăng ký.
+Để bắt đầu với Office 365 for Education, hãy truy nhập [site này](https://www.microsoft.com/microsoft-365/academic/compare-office-365-education-plans) và đăng ký.
 
-Bạn sẽ có Office 365 A1 dành cho giảng viên và Office 365 A1 dành cho học viên bản dùng thử trong khi đang đợi tổ chức của bạn có đủ điều kiện để được xem xét. Hãy đảm bảo bạn thêm tên miền, như có thể giúp đẩy nhanh quy trình phê duyệt.
+Bạn sẽ có quyền sử dụng Office 365 A1 dùng thử khoa và Office 365 A1 dành cho Học viên trong khi chờ tổ chức của bạn đủ điều kiện được xem xét. Hãy đảm bảo thêm tên miền, vì điều đó có thể giúp đẩy nhanh quá trình phê duyệt.
 
-Bạn sẽ nhận được một email cho biết liệu có đủ điều kiện của tổ chức bạn đã được phê duyệt hay không.  
+Bạn sẽ nhận được email thông báo cho bạn biết tính đủ điều kiện của tổ chức bạn đã được chấp thuận hay chưa.  
 
-Khi bạn được phê duyệt, bạn có thể đi đến tab [mua dịch vụ](https://admin.microsoft.com/Adminportal/Home#/catalog) của Trung tâm quản trị Microsoft 365 để mua thuê bao.
+Khi được chấp thuận, bạn có thể đi đến tab [Mua dịch](https://admin.microsoft.com/Adminportal/Home#/catalog) vụ của Trung tâm quản trị Microsoft 365 mua đăng ký.
 
-**Dạy và tìm hiểu từ xa**
+**Dạy và học từ xa**
 
-Vui lòng xem [giảng dạy từ xa và tìm hiểu trong Office 365 Education](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4) để tìm hiểu về hướng dẫn Cập Nhật nhất về việc thiết lập lập kế hoạch bài học trường học của bạn, cuộc họp hầu như và chia sẻ nội dung với học viên.
+Vui lòng xem Giảng dạy [và học](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4) tập từ xa trong Office 365 Education để tìm hiểu hướng dẫn cập nhật nhất về việc thiết lập kế hoạch bài học cho trường học của bạn, họp ảo và chia sẻ nội dung với học viên.
 
-Có hướng dẫn bổ sung về nó trong [bắt đầu với Microsoft các nhóm để tìm hiểu từ xa](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu) và [chuyển đổi sang việc học tập từ xa](https://www.microsoft.com/education/remote-learning).
+Có các hướng dẫn bổ sung về IT [trong Bắt đầu với Microsoft Teams dành cho học tập từ xa](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu) và Thực hiện chuyển tiếp sang học tập từ [xa.](https://www.microsoft.com/education/remote-learning)

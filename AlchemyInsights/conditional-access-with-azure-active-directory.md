@@ -1,5 +1,5 @@
 ---
-title: Truy nhập có điều kiện với Azure Active Directory
+title: Truy nhập có điều kiện bằng Azure Active Directory
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001672"
 - "3739"
-ms.openlocfilehash: 19f32103379aa8c22d0c45ef84b114dadf8f3046
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ff850d7bb87506c585f0c7a837a31d3b4ff3d76c6d67a4d6788c2b27c9f0a6c8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812245"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53994845"
 ---
-# <a name="conditional-access-with-azure-active-directory"></a>Truy nhập có điều kiện với Azure Active Directory
+# <a name="conditional-access-with-azure-active-directory"></a>Truy nhập có điều kiện bằng Azure Active Directory
 
-Thực hiện các quyết định kiểm soát truy nhập bằng cách sử dụng [truy nhập có điều kiện bởi Azure Active Directory](https://docs.microsoft.com/azure/active-directory/conditional-access/overview).
+Triển khai quyết định kiểm soát quyền truy [nhập bằng cách sử dụng Quyền truy nhập có Điều kiện Azure Active Directory.](https://docs.microsoft.com/azure/active-directory/conditional-access/overview)
 
-- Lập kế hoạch [triển khai truy nhập](https://docs.microsoft.com/azure/active-directory/conditional-access/plan-conditional-access)có điều kiện. 
+- Lập kế hoạch triển [khai Truy nhập có Điều kiện.](https://docs.microsoft.com/azure/active-directory/conditional-access/plan-conditional-access) 
 
-- Xem lại và thực hiện các [chính sách truy nhập thông thường](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-policy-common)có điều kiện.
+- Xem lại và thực thi [các chính sách Truy nhập có Điều kiện Thông thường.](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-policy-common)
 
-- Xem lại các cách [thực hành tốt nhất cho Access](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)có điều kiện.
+- Xem lại [Cách thực hành tốt nhất cho Truy nhập có Điều kiện](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices).
 
-Để biết thêm thông tin, hãy xem [AZURE AD tài liệu truy nhập](https://docs.microsoft.com/azure/active-directory/conditional-access/)có điều kiện.
+Để biết thêm thông tin, hãy [xem mục Hướng dẫn sử dụng Quyền truy cập có Điều kiện của Azure AD.](https://docs.microsoft.com/azure/active-directory/conditional-access/)

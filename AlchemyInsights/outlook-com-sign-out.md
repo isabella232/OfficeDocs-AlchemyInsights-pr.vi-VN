@@ -14,22 +14,22 @@ ms.custom:
 - "214"
 - "8000008"
 ms.assetid: 811f0aa9-d413-4d17-b631-7a788e1d1916
-ms.openlocfilehash: 2f13415cd8d9bdb0f4ede297655dae75ca4501f9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 67fb641ec34934116ed716ce824119476e64fe9e1c4d96e78a4d022f799763e5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802295"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53983403"
 ---
-# <a name="how-to-sign-out-of-outlookcom"></a>Làm thế nào để đăng xuất khỏi Outlook.com
+# <a name="how-to-sign-out-of-outlookcom"></a>Cách đăng xuất khỏi Outlook.com
 
 1. Chọn tên hoặc ảnh của bạn ở góc trên cùng bên phải.
 
-    Nếu bạn không nhìn thấy ảnh của mình ở phía trên cùng của màn hình, hãy kiểm tra xem liệu bạn có bật chặn quảng cáo hay không. Đôi khi điều này sẽ ngăn không cho hiển thị ảnh.
+    Nếu bạn không thấy ảnh của mình ở đầu màn hình, hãy kiểm tra xem tính năng chặn quảng cáo có đang bật không. Đôi khi điều này sẽ ngăn ảnh hiển thị.
 
-2. Chọn **đăng**xuất.
+2. Chọn **Đăng xuất**.
 
-    Để dừng việc đăng nhập tự động, hãy bỏ chọn hộp kiểm để **tôi đăng nhập** vào trang nơi bạn nhập mật khẩu của mình.
+    Để dừng đăng nhập tự động, hãy bỏ chọn hộp Duy trì đăng nhập **trên** trang bạn nhập mật khẩu của mình.
 
-Để tìm hiểu thêm, hãy xem mục [cách đăng nhập hoặc đăng xuất khỏi Outlook.com](https://support.office.com/article/e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy).
+Để tìm hiểu thêm, [hãy xem Làm thế nào để đăng nhập hoặc đăng xuất Outlook.com](https://support.office.com/article/e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy).
   

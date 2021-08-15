@@ -1,5 +1,5 @@
 ---
-title: Truy nhập các ứng dụng My
+title: Access MyApps
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "7856"
 - "9004350"
-ms.openlocfilehash: 2bb5edb487fb33a56d2587af3299d918e22cea16
-ms.sourcegitcommit: 688642f4ebc0f1c335e954e780bb9ec8893e2f3f
+ms.openlocfilehash: c2619348aba19cd7daf08d96105a66f2db3170f88ecf8a7712bdfab7d457887d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 01/20/2021
-ms.locfileid: "49917165"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53955187"
 ---
-# <a name="access-myapps"></a>Truy nhập các ứng dụng My
+# <a name="access-myapps"></a>Access MyApps
 
-Nếu bạn có quyền truy nhập và sử dụng các ứng dụng trên nền tảng điện toán đám mây của tổ chức của mình, bạn có thể đến được chúng thông qua cổng thông tin ứng dụng của tôi. Để biết thêm thông tin, hãy xem [truy nhập và sử dụng cổng thông tin ứng dụng của tôi trên máy tính của bạn](https://docs.microsoft.com/azure/active-directory/user-help/my-apps-portal-end-user-access#access-and-use-the-my-apps-portal-on-your-computer).
+Nếu bạn có quyền truy nhập và sử dụng các ứng dụng trên nền điện toán đám mây của tổ chức bạn, bạn có thể truy nhập chúng thông qua cổng thông tin Ứng dụng của Tôi. Để biết thêm thông tin, hãy xem [Truy nhập và dùng cổng thông tin Ứng dụng của Tôi trên máy tính của bạn.](https://docs.microsoft.com/azure/active-directory/user-help/my-apps-portal-end-user-access#access-and-use-the-my-apps-portal-on-your-computer)
 
-Bạn cũng có thể truy nhập vào các ứng dụng thông qua các tuyển tập của bạn. Để biết thêm thông tin, hãy xem [truy nhập ứng dụng bằng bộ sưu tập](https://docs.microsoft.com/azure/active-directory/user-help/my-applications-portal-workspaces#access-apps-using-collections).
+Bạn cũng có thể truy nhập các ứng dụng thông qua các bộ sưu tập của mình. Để biết thêm thông tin, hãy xem [mục Ứng dụng Access sử dụng bộ sưu tập](https://docs.microsoft.com/azure/active-directory/user-help/my-applications-portal-workspaces#access-apps-using-collections).
 
-Nếu bạn đang gặp sự cố khi đăng nhập vào cổng thông tin ứng dụng của tôi, hãy xem mục [tôi không thể đăng nhập vào cổng thông tin ứng dụng của tôi](https://docs.microsoft.com/azure/active-directory/user-help/my-apps-portal-end-user-troubleshoot#i-cant-sign-in-to-the-my-apps-portal) .
+Nếu bạn gặp sự cố khi đăng nhập vào cổng thông tin Ứng dụng của Tôi, hãy xem Tôi không thể đăng nhập [vào cổng thông tin Ứng dụng của Tôi.](https://docs.microsoft.com/azure/active-directory/user-help/my-apps-portal-end-user-troubleshoot#i-cant-sign-in-to-the-my-apps-portal)
 
-Nếu bạn nhận được một **truy nhập bị từ chối** thư sau khi bạn khởi động một ứng dụng từ cổng thông tin ứng dụng của tôi, hãy xem [tôi nhận được một truy nhập bị từ chối thông báo khi tôi khởi động ứng dụng](https://docs.microsoft.com/azure/active-directory/user-help/my-apps-portal-end-user-troubleshoot#im-getting-an-access-denied-message-when-i-start-an-app).
+Nếu bạn nhận được thông báo Từ chối **Truy** nhập sau khi khởi động ứng dụng từ cổng thông tin Ứng dụng của Tôi, hãy xem Tôi nhận được thông báo Từ chối truy nhập khi khởi động [ứng dụng](https://docs.microsoft.com/azure/active-directory/user-help/my-apps-portal-end-user-troubleshoot#im-getting-an-access-denied-message-when-i-start-an-app).
 

@@ -1,5 +1,5 @@
 ---
-title: " Truy nhập bị từ chối đến site SharePoint"
+title: " Access denied to Sharepoint site"
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,13 +13,13 @@ ms.custom:
 - "9000150"
 - "1666"
 - "1806"
-ms.openlocfilehash: bff558a4269fdaddbcc59d87f50acaa261a572ff
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8cd2b110b749a0813b006792e16f1dec770eb5eb357f9dcbaceb74dbf4c2dfb4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51803782"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53955259"
 ---
-# <a name="access-denied-to-sharepoint-site"></a>Truy nhập bị từ chối đến site SharePoint
+# <a name="access-denied-to-sharepoint-site"></a>Access denied to Sharepoint site
 
-Nếu bạn nhận được một truy nhập bị từ chối thư khi tìm cách duyệt tới site SharePoint Online, vui lòng xem [Access đã từ chối đến một site SharePoint](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-sharepoint-site).
+If you are receiving an access denied message when attempting to browse to a Sharepoint Online [site,](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-sharepoint-site)please see Access Denied to a SharePoint site .

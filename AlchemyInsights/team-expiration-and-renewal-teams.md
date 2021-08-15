@@ -1,5 +1,5 @@
 ---
-title: Ngày hết hạn nhóm và gia hạn trong Microsoft nhóm
+title: Hết hạn và gia hạn nhóm trong Microsoft Teams
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "6666"
 - "9003760"
-ms.openlocfilehash: 8b82ef216903502e589c6b01cd7fe946e84cd54c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: cca9fb78d740e868b05e391f82d7fd44efe2fad20f9cdd0801ae05dbfa410a05
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51827922"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53956681"
 ---
-# <a name="team-expiration-and-renewal-in-microsoft-teams"></a>Ngày hết hạn nhóm và gia hạn trong Microsoft nhóm
+# <a name="team-expiration-and-renewal-in-microsoft-teams"></a>Hết hạn và gia hạn nhóm trong Microsoft Teams
 
-Hạn chế nhóm và gia hạn trong Microsoft nhóm có thể giúp quản lý các nhóm không sử dụng. Với tư cách là người quản trị, bạn có thể sử dụng  [chính sách hết hạn nhóm Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/create-groups/office-365-groups-expiration-policy)  để tự động dọn sạch các nhóm không sử dụng. Vì các nhóm được hỗ trợ bởi các nhóm, các chính sách hết hạn nhóm sẽ tự động áp dụng cho các nhóm.
+Hết hạn và gia hạn nhóm trong Microsoft Teams thể giúp quản lý các nhóm không sử dụng đến. Với tư cách là quản trị viên, [bạn có thể sử Microsoft 365 sách](https://docs.microsoft.com/microsoft-365/admin/create-groups/office-365-groups-expiration-policy) hết hạn nhóm để tự động dọn sạch các nhóm không sử dụng đến. Vì các nhóm được hỗ trợ bởi các nhóm, các chính sách hết hạn nhóm cũng sẽ tự động áp dụng cho các nhóm.
 
-Để tránh xóa tình cờ, tự động gia hạn được bật tự động cho một nhóm trong chính sách hết hạn của nhóm. Khi thiết lập chính sách hết hạn nhóm, bất kỳ nhóm nào có ít nhất một chuyến thăm kênh từ bất kỳ thành viên nhóm nào trước ngày hết hạn của nó sẽ tự động gia hạn mà không có bất kỳ can thiệp thủ công nào từ chủ sở hữu nhóm.  
+Để tránh việc vô tình xóa, nhóm trong chính sách hết hạn nhóm sẽ được bật tự động gia hạn. Khi chính sách hết hạn nhóm được thiết lập, bất kỳ nhóm nào có ít nhất một kênh truy nhập từ bất kỳ thành viên nhóm nào trước ngày hết hạn sẽ được tự động gia hạn mà không có bất kỳ sự can thiệp thủ công nào từ chủ sở hữu nhóm.  
 
-Xem  [hết hạn và gia hạn trong nhóm Microsoft](https://docs.microsoft.com/microsoftteams/team-expiration-renewal)  để biết thêm thông tin.
+Xem [mục Hết hạn và gia hạn nhóm trong Microsoft Teams thêm](https://docs.microsoft.com/microsoftteams/team-expiration-renewal) thông tin.
