@@ -14,13 +14,13 @@ ms.custom:
 - "4503"
 - "9002471"
 - "4818"
-ms.openlocfilehash: f5b3f6aaaeef8931ef04c61baedde02ff35679b6
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 55f420ce477e4c22eba15e3eccd0db8647c17d29e20ccf39ee01f62f151db5c9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51812126"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53993591"
 ---
 # <a name="get-support-with-microsoft-365"></a>Nhận hỗ trợ với Microsoft 365
 
-Để tìm các tài nguyên phù hợp với vấn đề của bạn, chúng tôi sẽ cần thêm thông tin chi tiết. Vui lòng kiểm lại vấn đề của bạn và bao gồm tên sản phẩm cụ thể, tính năng hoặc lỗi và gửi lại truy vấn tìm kiếm của bạn.
+Để tìm đúng tài nguyên cho sự cố của bạn, chúng tôi sẽ cần thông tin chi tiết hơn. Vui lòng tái diễn sự cố của bạn và bao gồm tên sản phẩm, tính năng hoặc lỗi cụ thể và gửi lại truy vấn tìm kiếm của bạn.

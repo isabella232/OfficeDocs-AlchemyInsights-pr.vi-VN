@@ -1,5 +1,5 @@
 ---
-title: Cài đặt Microsoft Search trong phần mở rộng Bing trong Google Chrome
+title: Cài đặt tiện Tìm kiếm của Microsoft trong Bing mở rộng trong Google Chrome
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005423"
 - "9262"
-ms.openlocfilehash: 25126eda542beeb51d86b812e60795fcc9c78df2
-ms.sourcegitcommit: e5f261f95ffc6074cce89e62ef8c4e9fd519d3ee
+ms.openlocfilehash: a313ee2188c9581d8db5174b0640e32e55b619286f11f79d1a0293b66cc7c374
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/26/2021
-ms.locfileid: "51405466"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54014634"
 ---
-# <a name="install-the-microsoft-search-in-bing-extension-in-google-chrome"></a>Cài đặt Microsoft Search trong phần mở rộng Bing trong Google Chrome
+# <a name="install-the-microsoft-search-in-bing-extension-in-google-chrome"></a>Cài đặt tiện Tìm kiếm của Microsoft trong Bing mở rộng trong Google Chrome
 
-Để cài đặt Microsoft Search trong phần mở rộng Bing trong Google Chrome, hãy thực hiện các thao tác sau:
+Để cài đặt Tìm kiếm của Microsoft trong Bing mở rộng trong Google Chrome, hãy làm như sau:
 
-1. Đảm bảo thiết bị đáp ứng các [tiêu chí](https://go.microsoft.com/fwlink/?linkid=2152236) để cài đặt phần mở rộng.
-2. Chọn tham gia để cài đặt phần mở rộng, bằng cách cấu hình các thiết đặt phù hợp trong phần **Tìm kiếm Microsoft** của Trung tâm quản trị Microsoft 365.
-3. Trên thiết bị của người dùng, hãy cài đặt một dịch vụ nền cho Microsoft Search trong Bing. Dịch vụ nền này được bao gồm trong ứng dụng Microsoft 365 dành cho doanh nghiệp.
+1. Đảm bảo thiết bị đáp ứng các tiêu [chí về](https://go.microsoft.com/fwlink/?linkid=2152236) việc cài đặt phần mở rộng.
+2. Chọn tham gia để cài đặt phần mở rộng, bằng cách đặt cấu hình các thiết đặt thích **hợp trong phần Tìm kiếm của Microsoft** của Trung tâm quản trị Microsoft 365.
+3. Trên thiết bị của người dùng, hãy cài đặt một dịch vụ nền để Tìm kiếm của Microsoft trong Bing. Dịch vụ nền này được bao gồm trong Ứng dụng Microsoft 365 dành cho doanh nghiệp lớn.
 
-Để biết thêm thông tin, hãy xem [mục làm thế nào để tìm kiếm của Microsoft trong Bing Extension cho Google Chrome được cài đặt?](https://go.microsoft.com/fwlink/?linkid=2150992)
+Để biết thêm thông tin, [hãy xem Mục Làm thế nào để Tìm kiếm của Microsoft được cài Bing mở rộng cho Google Chrome?](https://go.microsoft.com/fwlink/?linkid=2150992)

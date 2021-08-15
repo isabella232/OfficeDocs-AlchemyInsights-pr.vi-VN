@@ -1,5 +1,5 @@
 ---
-title: Excel sẽ mở trống
+title: Excel mở trang trống
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000707"
 - "2610"
-ms.openlocfilehash: 1e9761404b0f0ccd199d67c78c3f7c4cb445d41d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 49ea6d553c844d0b655695736f5c492f9884b288b5ce642c21859f2a3a235268
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51813602"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54029790"
 ---
-# <a name="excel-opens-blank"></a>Excel sẽ mở trống
+# <a name="excel-opens-blank"></a>Excel mở trang trống
 
-Nếu Excel khởi động nhưng Hiển thị màn hình trống nơi bạn mong đợi tệp xuất hiện, hãy xem [khắc phục sự cố khi mở Excel trống khi bạn bấm đúp vào biểu tượng tệp hoặc tên tệp](https://docs.microsoft.com/office/troubleshoot/excel/excel-opens-blank).
+Nếu Excel khởi động nhưng hiển thị màn hình trống mà bạn mong đợi tệp sẽ xuất hiện, hãy xem khắc phục sự cố Excel mở tệp trống khi bạn bấm đúp vào biểu tượng tệp hoặc tên [tệp](https://docs.microsoft.com/office/troubleshoot/excel/excel-opens-blank).
