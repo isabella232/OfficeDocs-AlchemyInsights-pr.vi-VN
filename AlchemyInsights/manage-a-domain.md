@@ -1,5 +1,5 @@
 ---
-title: Quản lý tên miền
+title: Quản lý miền
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "6173"
 - "9003233"
-ms.openlocfilehash: 4ca19b53c836e4349b840d7837150f9dc6dde641
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cd24507f46baf7d1686bf392f089c01c1b70a661e9926200095cfcbb7cdc9cee
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794551"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53962945"
 ---
-# <a name="manage-a-domain"></a>Quản lý tên miền
+# <a name="manage-a-domain"></a>Quản lý miền
 
-Để biết thông tin về cách quản lý tên miền tùy chỉnh trong Azure Active Directory (Azure AD), hãy xem mục [quản lý tên miền tùy chỉnh trong Azure Active Directory của bạn](https://docs.microsoft.com/azure/active-directory/users-groups-roles/domains-manage).
+Để biết thông tin về cách quản lý tên miền riêng trong Azure Active directory (Azure AD), hãy xem Quản lý tên miền riêng trong [thư viện Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/domains-manage).

@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "2564"
 - "9000678"
-ms.openlocfilehash: 7e717f355152bb58285d3c0e817d2e0c12907ba2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: af7e6ece7d9f60cf6cd52b46bf87d21a5049c5b3c17c7c1da2241cab0bff3264
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51791146"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54011538"
 ---
-# <a name="there-isnt-enough-memory-to-complete-this-action"></a>Không đủ bộ nhớ để hoàn thành hành động này
+# <a name="there-isnt-enough-memory-to-complete-this-action"></a>Không có đủ bộ nhớ để hoàn tất hành động này
 
-Khi bạn làm việc với một tệp Microsoft Excel, bạn nhận được một trong các thông báo sau đây:
+Khi làm việc với tệp Microsoft Excel, bạn nhận được một trong các thông báo sau đây:
 
-- Excel không thể hoàn thành nhiệm vụ này với các tài nguyên sẵn có. Chọn ít dữ liệu hoặc đóng các ứng dụng khác.
-- Hết bộ nhớ
-- Không đủ tài nguyên hệ thống để hiển thị hoàn toàn
-- Không đủ bộ nhớ để hoàn thành hành động này. Thử dùng ít dữ liệu hơn hoặc đóng các ứng dụng khác. Để tăng khả năng sẵn sàng của bộ nhớ, hãy cân nhắc: 
+- Excel thể hoàn thành tác vụ này với các tài nguyên sẵn có. Chọn ít dữ liệu hơn hoặc đóng các ứng dụng khác.
+- Hết Bộ nhớ
+- Không đủ Tài nguyên Hệ thống để Hiển thị Hoàn toàn
+- Không có đủ bộ nhớ để hoàn tất hành động này. Hãy thử sử dụng ít dữ liệu hơn hoặc đóng các ứng dụng khác. Để tăng tính khả dụng của bộ nhớ, hãy cân nhắc: 
     - Sử dụng phiên bản 64 bit của Microsoft Excel.
     - Thêm bộ nhớ vào thiết bị của bạn.
 
-Để khắc phục các lỗi này, hãy xem [cách khắc phục sự cố "tài nguyên sẵn có" trong Excel](https://docs.microsoft.com/office/troubleshoot/excel/available-resources-errors).
+Để khắc phục các lỗi này, hãy [xem Cách khắc phục các lỗi "tài nguyên sẵn có" Excel.](https://docs.microsoft.com/office/troubleshoot/excel/available-resources-errors)

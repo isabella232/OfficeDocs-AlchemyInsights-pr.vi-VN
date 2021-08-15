@@ -13,17 +13,17 @@ ms.assetid: 9e00841d-fda2-4610-95a6-c99a4b1e891a
 ms.custom:
 - "17"
 - "4"
-ms.openlocfilehash: f65878f987924d4f1b428d66e9b82596b2760004
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: dddf341d5c021e30b65984fae165765cb8116f791f8ea3a02ff70f27e73c19f7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819318"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54018918"
 ---
 # <a name="change-a-name-and-email-address"></a>Thay đổi tên và địa chỉ email
 
-Thay đổi tên và địa chỉ email của người dùng trong Microsoft 365 là dễ dàng. Đi đến trang **người** \> [dùng hiện hoạt](https://go.microsoft.com/fwlink/p/?linkid=834822) và chọn người dùng để chỉnh sửa thông tin của họ. Bạn cũng có thể dùng bài viết này để biết hướng dẫn từng bước:
+Thay đổi tên người dùng và địa chỉ email trong Microsoft 365 rất dễ dàng. Đi đến trang Người **dùng** \> [Hiện hoạt và](https://go.microsoft.com/fwlink/p/?linkid=834822) chọn người dùng để chỉnh sửa thông tin của họ. Bạn cũng có thể sử dụng bài viết này để biết hướng dẫn từng bước:
   
 [Thay đổi tên người dùng và địa chỉ email trong Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address)
   
- **Lưu ý**: nếu bạn thay đổi địa chỉ email chính của người dùng, địa chỉ email cũ của họ sẽ vẫn có hiệu lực để nhận email (điều này sẽ xảy ra tự động). Ngoài ra, nếu tổ chức của bạn đang ở trạng thái hỗn hợp, tất cả các thay đổi về tên email và người dùng cần phải được thực hiện trong Active Directory tại chỗ và sau đó đồng bộ hóa với đám mây.
+ **Lưu** ý : Nếu bạn thay đổi địa chỉ email chính của người dùng, địa chỉ email cũ của họ vẫn sẽ có hiệu lực để nhận email (điều này xảy ra tự động). Ngoài ra, nếu tổ chức của bạn đang ở trạng thái Kết hợp, tất cả email và thay đổi tên người dùng đều cần được thực hiện trong Active Directory tại chỗ, rồi đồng bộ với điện toán đám mây.

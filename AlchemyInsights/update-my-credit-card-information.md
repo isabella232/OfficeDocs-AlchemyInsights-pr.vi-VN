@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500001"
 - "430"
-ms.openlocfilehash: 171354cb182a0692fd42a0b9a4245dfd2b1bf561
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a4c0b38762df505f9c59b1fd2a4ce380530b4598c4f8635f7c30c7fe277f56a4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51827490"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53990945"
 ---
 # <a name="update-my-credit-card-information"></a>Cập nhật thông tin thẻ tín dụng của tôi
 
-Bạn có thể thêm/loại bỏ phương thức thanh toán từ **Trung tâm quản trị Microsoft 365**. Nếu phương thức thanh toán của bạn không được liên kết với bất kỳ thuê bao nào, bạn có thể xóa ngay lập tức. Nếu nó được liên kết với một thuê bao tham chiếu đến việc [quản lý các phương thức thanh toán](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Bạn có thể Thêm/Loại bỏ phương thức thanh toán khỏi **Trung tâm quản trị Microsoft 365.** Nếu phương thức thanh toán của bạn không được liên kết với bất kỳ đăng ký nào, bạn có thể xóa phương thức thanh toán ngay lập tức. Nếu đăng ký được liên kết với một đăng ký, hãy tham khảo mục Quản [lý phương thức thanh toán](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
-1. Đi tới **thanh toán hóa đơn > & các khoản thanh toán > [phương thức thanh toán](https://go.microsoft.com/fwlink/p/?linkid=2018806)**.
+1. Đi tới Thanh **toán > Hóa đơn và & toán bằng > Thức thanh [toán.](https://go.microsoft.com/fwlink/p/?linkid=2018806)**
 
-2. Di chuột qua thẻ hoặc tài khoản ngân hàng, sau đó chọn biểu tượng xóa.
+2. Di chuột qua thẻ hoặc tài khoản ngân hàng, rồi chọn biểu tượng xóa.
 
-3. Ở cuối ngăn **xóa phương thức thanh toán** , hãy bấm **xóa bỏ**.
+3. Ở cuối ngăn Xóa phương **thức thanh toán,** bấm vào **Xóa.**
 
-Để biết thêm thông tin, hãy xem [quản lý các phương thức thanh toán](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Để biết thêm thông tin, hãy xem [mục Quản lý phương thức thanh toán](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
-Để khắc phục sự cố, hãy xem [khắc phục các phương thức thanh toán](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#troubleshoot-payment-methods).
+Để khắc phục sự cố, hãy xem [Khắc phục sự cố về phương thức thanh toán](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#troubleshoot-payment-methods).

@@ -1,5 +1,5 @@
 ---
-title: Tìm hiểu về tính tương thích của site-ảnh hưởng đến thay đổi đến Microsoft Edge
+title: Tìm hiểu về những thay đổi ảnh hưởng đến tính tương thích của trang web Microsoft Edge
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004433"
 - "8357"
-ms.openlocfilehash: 9398c6c9dc72cfb26ee8fe923d30b100c41881af
-ms.sourcegitcommit: 309b9f3e6e2ff622f95bb860d337d2c05b7bbe54
+ms.openlocfilehash: 910d95aa08e45224fda8eb90ad4009dbeca9272354abc0b433a63e4566810f64
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/15/2021
-ms.locfileid: "50841666"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53963125"
 ---
-# <a name="learn-about-site-compatibility-affecting-changes-coming-to-microsoft-edge"></a>Tìm hiểu về tính tương thích của site-ảnh hưởng đến thay đổi đến Microsoft Edge
+# <a name="learn-about-site-compatibility-affecting-changes-coming-to-microsoft-edge"></a>Tìm hiểu về những thay đổi ảnh hưởng đến tính tương thích của trang web Microsoft Edge
 
-Web không ngừng phát triển để cải thiện trải nghiệm của người dùng, bảo mật và quyền riêng tư. Một số thay đổi có ý nghĩa, đủ để ảnh hưởng đến chức năng của các trang hiện có. Nhóm Microsoft Edge Cập nhật các trang như suy nghĩ tiến triển, đường thời gian sẽ củng cố và [những thay đổi được thông báo](https://go.microsoft.com/fwlink/?linkid=2135534).
+Web không ngừng phát triển để cải thiện trải nghiệm, bảo mật và quyền riêng tư của người dùng. Một số thay đổi đủ đáng kể để ảnh hưởng đến chức năng của trang hiện có. Nhóm Microsoft Edge cập nhật các trang khi tư duy phát triển, đường thời gian nhất định và các thay [đổi sẽ được thông báo.](https://go.microsoft.com/fwlink/?linkid=2135534)
