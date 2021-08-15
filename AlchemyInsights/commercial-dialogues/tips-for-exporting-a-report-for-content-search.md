@@ -1,5 +1,5 @@
 ---
-title: Mẹo xuất báo cáo cho tìm kiếm nội dung
+title: Mẹo xuất báo cáo cho Tìm kiếm Nội dung
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7221"
-ms.openlocfilehash: d3a93544d6ae969562bbd6e8ad9ec145421af42d
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 01281897c9dfa00080f96c506b1847615e4b9d16c4580df29f36c9ba18950682
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50483179"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53978903"
 ---
-# <a name="tips-for-exporting-a-report-for-content-search"></a>Mẹo xuất báo cáo cho tìm kiếm nội dung
+# <a name="tips-for-exporting-a-report-for-content-search"></a>Mẹo xuất báo cáo cho Tìm kiếm Nội dung
 
-Bạn có thể cần xem báo cáo của một tìm kiếm nội dung thay vì xuất kết quả tìm kiếm đầy đủ. Nếu vậy, bạn chỉ có thể xuất báo cáo cho kết quả tìm kiếm. Dưới đây là một số Mẹo:
+Bạn có thể cần xem báo cáo Tìm kiếm Nội dung thay vì xuất toàn bộ kết quả tìm kiếm. Nếu vậy, bạn có thể chỉ xuất báo cáo kết quả tìm kiếm. Dưới đây là một số mẹo:
 
-- Đảm bảo tài khoản của bạn được gán vai trò quản lý tìm kiếm tuân thủ.
-- Đảm bảo máy tính của bạn đã gặp tất cả các điều [kiện tiên quyết](https://go.microsoft.com/fwlink/?linkid=2102407). Không phải tất cả các trình duyệt đều được hỗ trợ, chẳng hạn như Chrome.
-- Thu hẹp kết quả xuất của bạn thành nhỏ hơn 20TB để xuất sẽ không thành công. Thử dùng phạm vi ngày nhỏ hơn hoặc ít hơn vị trí tìm kiếm.
-- Xuất báo cáo tính với số lượng tối đa các báo cáo có thể chạy cùng một lúc.
+- Đảm bảo tài khoản của bạn được gán vai trò quản lý Tìm kiếm Tuân thủ.
+- Đảm bảo máy tính của bạn đã [đáp ứng tất cả điều kiện tiên quyết.](https://go.microsoft.com/fwlink/?linkid=2102407) Không phải tất cả các trình duyệt đều được hỗ trợ, chẳng hạn như Chrome.
+- Thu hẹp kết quả xuất của bạn xuống dưới 20TB để hoạt động xuất sẽ không thành công. Hãy thử sử dụng phạm vi ngày nhỏ hơn hoặc ít vị trí tìm kiếm hơn.
+- Xuất báo cáo sẽ được tính vào số lượng báo cáo tối đa có thể chạy cùng lúc.
 
-Để tìm hiểu thêm, hãy xem mục [xuất báo cáo tìm kiếm nội dung](https://go.microsoft.com/fwlink/?linkid=2102409)
+Để tìm hiểu thêm, hãy xem [Xuất Báo cáo Tìm kiếm Nội dung](https://go.microsoft.com/fwlink/?linkid=2102409)

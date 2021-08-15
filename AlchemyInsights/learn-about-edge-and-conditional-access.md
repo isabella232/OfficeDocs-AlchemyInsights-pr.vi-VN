@@ -1,5 +1,5 @@
 ---
-title: Tìm hiểu về Microsoft Edge và Access có điều kiện trong Azure Active Directory
+title: Tìm hiểu về Microsoft Edge Truy nhập có Điều kiện trong Azure Active Directory
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "8326"
 - "9004625"
-ms.openlocfilehash: 48fbcd8ff2d7f63cf5fc1f6e99b604cb84aedc53
-ms.sourcegitcommit: 430d247cb5dd5dc5d1f82d977456558dfd514277
+ms.openlocfilehash: 243db140032ced46427dd52af8b6b4812b367b8ba92dddb9349643338d7ddf48
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51421220"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54001318"
 ---
-# <a name="learn-about-microsoft-edge-and-conditional-access-in-azure-active-directory"></a>Tìm hiểu về Microsoft Edge và Access có điều kiện trong Azure Active Directory
+# <a name="learn-about-microsoft-edge-and-conditional-access-in-azure-active-directory"></a>Tìm hiểu về Microsoft Edge Truy nhập có Điều kiện trong Azure Active Directory
 
-Một khía cạnh chính của bảo mật điện toán đám mây đang quản lý danh tính và quyền truy nhập. Trong một thế giới đầu tiên trên di động, điện toán đám mây, người dùng có thể truy nhập tài nguyên tổ chức của bạn thông qua một loạt các thiết bị và ứng dụng, từ mọi nơi. Tập trung vào những người có thể truy nhập vào một tài nguyên không đủ; bạn cũng cần yếu tố trong cách truy nhập tài nguyên. Truy nhập có điều kiện trong Azure Active Directory giúp bạn làm chủ đạo luật cân bằng về bảo mật và năng suất.
+Một khía cạnh chính của bảo mật đám mây là quản lý căn cước và truy nhập. Trong thế giới di động đầu tiên, trên nền tảng điện toán đám mây, người dùng có thể truy nhập các tài nguyên tổ chức của bạn thông qua nhiều thiết bị và ứng dụng, từ mọi nơi. Việc tập trung vào những người có thể truy nhập tài nguyên không đủ; bạn cũng cần xác định xem tài nguyên được truy nhập như thế nào. Truy nhập có điều kiện Azure Active Directory giúp bạn thông thạo hành động cân bằng bảo mật và năng suất.
 
-Để tìm hiểu thêm, hãy xem [truy nhập các tài nguyên được bảo vệ có điều kiện trong Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2152158).
+Để tìm hiểu thêm, hãy xem [Truy nhập các tài nguyên được bảo vệ bởi Quyền truy nhập có Điều kiện Microsoft Edge.](https://go.microsoft.com/fwlink/?linkid=2152158)
 
-Để tìm hiểu cách cấu hình chính sách truy nhập có điều kiện cho các thiết bị này, hãy xem mục [cách: yêu cầu thiết bị được quản lý cho truy nhập ứng dụng điện toán đám mây với truy nhập có điều kiện](https://go.microsoft.com/fwlink/?linkid=2137682).
+Để tìm hiểu cách đặt cấu hình chính sách Truy nhập có Điều kiện cho các thiết bị này, hãy xem Cách [thức:](https://go.microsoft.com/fwlink/?linkid=2137682)Yêu cầu các thiết bị được quản lý để truy nhập ứng dụng đám mây bằng quyền truy nhập có điều kiện .

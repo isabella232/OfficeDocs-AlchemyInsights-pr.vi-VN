@@ -1,5 +1,5 @@
 ---
-title: Các dịch vụ và kế hoạch đủ điều kiện cho FastTrack
+title: Các dịch vụ và gói đủ điều kiện cho FastTrack
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,26 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003885"
 - "6938"
-ms.openlocfilehash: bb91628ac9df19cbaf17f53c3c5db13b9b592ffb
-ms.sourcegitcommit: 3e16fd8b7704bd44e07be90816a350bad21bcb1d
+ms.openlocfilehash: f8450e443cd89e4b8c17d888b4c15e4c81c0b20009368a59adf0cd38f110c1f3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50194641"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030258"
 ---
-# <a name="eligible-services-and-plans-for-fasttrack"></a>Các dịch vụ và kế hoạch đủ điều kiện cho FastTrack
+# <a name="eligible-services-and-plans-for-fasttrack"></a>Các dịch vụ và gói đủ điều kiện cho FastTrack
 
-Với lợi ích Trung tâm FastTrack cho Office 365, bạn làm việc từ xa với các chuyên gia FastTrack — không có chi phí bổ sung — để nhận được môi trường Office 365 của bạn đã sẵn sàng để sử dụng. Các chuyên gia FastTrack có thể giúp bạn một khi bạn mua ít nhất là 150 giấy phép.
+Với Lợi ích Trung tâm FastTrack dành cho doanh nghiệp Office 365, bạn sẽ làm việc từ xa với Các chuyên gia FastTrack—mà không phải trả thêm phí—để môi trường Office 365 của bạn sẵn sàng đi vào sử dụng. Các Chuyên gia FastTrack có thể trợ giúp bạn sau khi bạn mua tối thiểu 150 giấy phép.
 
-Để được trợ giúp thông qua cổng thông tin FastTrack, hãy đăng nhập vào [cổng thông tin fasttrack](https://go.microsoft.com/fwlink/?linkid=2125443) và làm theo các bước để hoàn tất **yêu cầu trợ giúp với biểu mẫu Microsoft 365** .
+Để nhận trợ giúp thông qua cổng thông tin FastTrack, hãy đăng nhập vào Cổng thông tin [FastTrack](https://go.microsoft.com/fwlink/?linkid=2125443) và làm theo các bước để hoàn tất yêu cầu Trợ giúp **với biểu Microsoft 365** này.
 
 > [!NOTE]
-> Nếu bạn gặp sự cố khi đăng nhập hoặc cần hỗ trợ bổ sung, hãy gửi email đến [ftcrfa@microsoft.com](mailto:ftcrfa@microsoft.com).
+> Nếu bạn gặp sự cố khi đăng nhập hoặc cần trợ giúp thêm, hãy gửi email [đến ftcrfa@microsoft.com.](mailto:ftcrfa@microsoft.com)
 
-Có một loạt các kế hoạch FastTrack đủ điều kiện cho các ngành công nghiệp khác nhau, từ doanh nghiệp doanh nghiệp đến các tổ chức giáo dục.
+Có nhiều gói đủ điều kiện FastTrack cho các ngành khác nhau, từ doanh nghiệp doanh nghiệp đến các tổ chức giáo dục.
 
-Để tìm hiểu thêm, hãy xem các [gói Microsoft 365 đủ điều kiện](https://go.microsoft.com/fwlink/?linkid=2125459).
+Để tìm hiểu thêm, hãy xem [Các gói Microsoft 365 hợp lệ.](https://go.microsoft.com/fwlink/?linkid=2125459)
 
-Có một loại dịch vụ đủ điều kiện, từ Exchange Online sang Microsoft nhóm, Microsoft 365 và Windows 10.
+Có một số loại dịch vụ đủ điều kiện, từ dịch vụ Exchange Online đến dịch Microsoft Teams, Microsoft 365 và dịch Windows 10.
 
-Để có danh sách đầy đủ các dịch vụ đủ điều kiện, hãy xem [dịch vụ đủ điều kiện](https://go.microsoft.com/fwlink/?linkid=2125636).
+Để biết danh sách đầy đủ các dịch vụ đủ điều kiện, hãy xem [Các dịch vụ đủ điều kiện](https://go.microsoft.com/fwlink/?linkid=2125636).

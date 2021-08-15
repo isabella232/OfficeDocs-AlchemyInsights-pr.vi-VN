@@ -1,5 +1,5 @@
 ---
-title: Sử dụng Microsoft graph API để quản lý hiệu trưởng dịch vụ
+title: Sử dụng API Microsoft Graph để quản lý tài khoản chính của dịch vụ
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004345"
 - "7848"
-ms.openlocfilehash: 88e621904c54cbe3c566b9fb3c65e06c235dc766
-ms.sourcegitcommit: eab164189ef0b542b24d9ff553196a721464b9c4
+ms.openlocfilehash: 0675de17be1738da65017bb61043211113b62ba758751ca75ea4926683006e38
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "49950152"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54038026"
 ---
-# <a name="use-microsoft-graph-api-to-manage-service-principal"></a>Sử dụng Microsoft graph API để quản lý hiệu trưởng dịch vụ
+# <a name="use-microsoft-graph-api-to-manage-service-principal"></a>Sử dụng API Microsoft Graph để quản lý tài khoản chính của dịch vụ
 
-Với [API chính của dịch vụ](https://docs.microsoft.com/graph/api/resources/serviceprincipal), bạn có thể lập trình quản lý các phiên bản của ứng dụng và điều khiển ứng dụng nào có thể thực hiện trong đối tượng thuê của bạn.
+Với API chính [của dịch vụ, bạn](https://docs.microsoft.com/graph/api/resources/serviceprincipal)có thể quản lý theo chương trình các phiên bản của ứng dụng và kiểm soát những gì một ứng dụng có thể thực hiện trong đối tượng thuê của bạn.
 
-Để biết thêm thông tin về mối quan hệ giữa các ứng dụng và hiệu trưởng dịch vụ, hãy xem các [ứng dụng và dịch vụ đối tượng chính trong Azure Active Directory](https://docs.microsoft.com/azure/active-directory/develop/app-objects-and-service-principals).
+Để biết thêm thông tin về mối quan hệ giữa ứng dụng và hiệu trưởng dịch vụ, hãy xem các ứng dụng [và đối tượng chính của dịch vụ Azure Active Directory.](https://docs.microsoft.com/azure/active-directory/develop/app-objects-and-service-principals)

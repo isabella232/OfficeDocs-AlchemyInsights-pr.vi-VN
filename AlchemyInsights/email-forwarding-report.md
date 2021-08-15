@@ -12,16 +12,16 @@ ms.custom:
 - "1195"
 - "1200004"
 ms.assetid: b8308c24-029f-43ab-af84-0ac97e6ff9d7
-ms.openlocfilehash: 0648313f75a6c3074fe9ade3e8b30e39869c40cb
-ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
+ms.openlocfilehash: 6ec48c625ad183b34cb9dd665e5275c0c6c23b075233fcee4712404ab8f37284
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "51692272"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030150"
 ---
 # <a name="email-forwarding-report"></a>Báo cáo chuyển tiếp email
 
-Để xem báo cáo về việc có bao nhiêu thư chuyển tiếp tự động có trong tổ chức của bạn, hãy kiểm tra xem lại [thư được chuyển tiếp tự động trong Trung tâm tuân thủ bảo mật &](https://docs.microsoft.com/microsoft-365/security/office-365-security/mfi-auto-forwarded-messages-report) trong [ &amp; Trung tâm tuân thủ bảo mật của Microsoft 365](https://protection.office.com/#/homepage).
+Để xem báo cáo về số lượng thư được chuyển tiếp tự động có trong tổ chức của bạn, hãy kiểm tra thông tin chuyên sâu về thư được chuyển tiếp tự động trong Trung tâm Bảo [mật & Tuân](https://docs.microsoft.com/microsoft-365/security/office-365-security/mfi-auto-forwarded-messages-report) thủ trong Trung tâm Tuân thủ bảo mật [Microsoft 365 &amp; ](https://protection.office.com/#/homepage).
   
-Xin lưu ý: nếu đây là lần đầu tiên bạn đăng nhập vào &amp; Trung tâm tuân thủ bảo mật, bạn có thể cần làm mới trình duyệt sau vài phút để xem tất cả các tùy chọn sẵn có.
+Xin lưu ý: nếu đây là lần đầu tiên bạn đăng nhập vào Trung tâm Tuân thủ Bảo mật, bạn có thể cần làm mới trình duyệt sau vài phút để xem tất cả các tùy chọn &amp; sẵn có.
   

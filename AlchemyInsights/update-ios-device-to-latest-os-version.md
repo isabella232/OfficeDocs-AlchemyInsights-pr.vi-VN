@@ -1,5 +1,5 @@
 ---
-title: Cập Nhật thiết bị iOS vào phiên bản hệ điều hành mới nhất
+title: Cập nhật thiết bị iOS lên phiên bản HĐH mới nhất
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "1124"
 - "6700007"
-ms.openlocfilehash: ee2fb1df35168d5febbac0ae302106eef9d1d18d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cd796440a0d4bedc83b99e83e92eece6f62f81cc8d346cd88d19de34221046db
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47757646"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53991197"
 ---
-# <a name="update-ios-device-to-latest-os-version"></a>Cập Nhật thiết bị iOS vào phiên bản hệ điều hành mới nhất
+# <a name="update-ios-device-to-latest-os-version"></a>Cập nhật thiết bị iOS lên phiên bản HĐH mới nhất
 
-Các bản cập nhật phiên bản hệ điều hành chỉ sẵn dùng trên các thiết bị có giám sát và trên thiết bị iOS chạy iOS 10,3 trở lên.
+Các bản cập nhật phiên bản hệ điều hành chỉ sẵn dùng trên các thiết bị được cài đặt và trên thiết bị chạy iOS chạy iOS 10.3 trở lên.
 
-Nếu thiết bị của bạn đáp ứng được yêu cầu phiên bản, hãy xác nhận rằng:  
-- Người dùng thiết bị không hoãn Cập Nhật.  
-- Thiết đặt chính sách Cập Nhật iOS hiện tại, chẳng hạn như khoảng thời gian hạn chế, không được cài đặt Cập Nhật.
+Nếu thiết bị của bạn đáp ứng các yêu cầu về phiên bản, hãy xác minh rằng:  
+- Người dùng thiết bị chưa trì hoãn các bản cập nhật.  
+- Cài đặt chính sách cập nhật iOS hiện tại, chẳng hạn như khoảng thời gian bị hạn chế, không ngăn cản việc cài đặt các bản cập nhật.
 
-Để Cập Nhật iOS của bạn:
+Cách cập nhật iOS của bạn:
 
 1. Đăng nhập vào cổng thông tin Azure.
-2. Chọn **tất cả các dịch vụ**  >  **InTune**.
-3. Trong ngăn InTune, chọn các chính sách Cập Nhật **phần mềm**Cập Nhật  >  **cho iOS**.
+2. Chọn **Tất cả dịch** vụ  >  **Intune**.
+3. Trong ngăn Intune, chọn Cập nhật **phần mềm Chính** sách cập nhật cho  >  **iOS**.

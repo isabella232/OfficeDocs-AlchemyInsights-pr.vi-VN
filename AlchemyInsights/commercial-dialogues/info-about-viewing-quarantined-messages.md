@@ -1,5 +1,5 @@
 ---
-title: Thông tin về việc xem thư đã bị cách ly
+title: Thông tin về việc xem thư bị cách ly
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 1027243d90562a9ad7389400b206a6d29845f71a
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: fb3c7afafab80f5f1801f30d6a1d16a7a8ea2ce5a268369cbfb41787e7a2cbc4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748749"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53978939"
 ---
-# <a name="info-about-viewing-quarantined-messages"></a>Thông tin về việc xem thư đã bị cách ly
+# <a name="info-about-viewing-quarantined-messages"></a>Thông tin về việc xem thư bị cách ly
 
-Để xem tất cả các thư đã cách ly cho tổ chức của bạn, hãy sử dụng trung tâm quản trị Microsoft 365. Dưới đây là một số Mẹo:
+Để xem tất cả các thông báo bị cách ly cho tổ chức của bạn, hãy sử dụng Trung tâm quản trị Microsoft 365. Dưới đây là một vài mẹo:
 
-- Không có cách nào để có báo cáo hàng ngày hoặc hàng tuần của tất cả các thư đã bị cách ly được gửi đến hộp thư của bạn.
-- Tuy nhiên, bạn có thể thiết lập Microsoft 365 để gửi một tiêu đề cho người dùng của mình về những email của họ đang ở trong cách ly.
-- Theo mặc định, thư rác, hàng loạt và thư lừa đảo bị cách ly trong 15 ngày. Các thư khớp với quy tắc dòng thư sẽ được cách ly trong 7 ngày (bạn không thể tùy chỉnh điều này). Khi Microsoft 365 xóa bỏ thư khỏi cách ly, bạn không thể đưa nó trở lại.
+- Không có cách nào để báo cáo hàng ngày hoặc hàng tuần về tất cả các thư bị cách ly được gửi đến hộp thư của bạn.
+- Tuy nhiên, bạn có thể thiết Microsoft 365 để gửi một thông tin cho người dùng của bạn về email của họ được cách ly.
+- Theo mặc định, thư rác, hàng loạt và thư lừa đảo qua lại bị cách ly trong 15 ngày. Các thư khớp với quy tắc dòng thư được cách ly trong 7 ngày (bạn không thể tùy chỉnh điều này). Khi Microsoft 365 xóa một thư khỏi bị cách ly, bạn không thể lấy lại được.

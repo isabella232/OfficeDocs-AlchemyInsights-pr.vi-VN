@@ -1,5 +1,5 @@
 ---
-title: 8000049 nói chuyện với gia đình và bạn bè trên Skype trong Outlook.com
+title: 8000049 Chuyện với gia đình và bạn bè trên Skype trong Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -11,17 +11,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000049
 ms.assetid: b6878497-5885-4241-b2d0-e951817c48d2
-ms.openlocfilehash: e6eaf11337a580395a116e8f4a8efee799c6094a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f1f7e8d0aa59fa3951ae9b3b974a42935976dbff1fbeda7d58fcc52bb39de98a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47659152"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53956753"
 ---
-# <a name="talk-to-family-and-friends-on-skype-in-outlookcom"></a>Nói chuyện với gia đình và bạn bè trên Skype trong Outlook.com
+# <a name="talk-to-family-and-friends-on-skype-in-outlookcom"></a>Trò chuyện với bạn bè và gia đình Skype trong Outlook.com
 
-Outlook.com khách hàng có thể nói chuyện với bạn bè và gia đình bằng các tính năng chat, thoại và video trong Skype. Khi bạn [phối các tài khoản Microsoft và Skype của mình](https://go.microsoft.com/fwlink/p/?linkid=2001101&amp;clcid=0x409), bạn sẽ tự động có quyền truy nhập vào Skype trên web trong Outlook.com.
+Outlook.com khách hàng có thể trò chuyện với bạn bè và gia đình bằng các tính năng trò chuyện, thoại và video Skype. Khi bạn [phối tài khoản Microsoft và Skype của mình,](https://go.microsoft.com/fwlink/p/?linkid=2001101&amp;clcid=0x409)bạn sẽ tự động có quyền truy Skype trên web trong Outlook.com.
   
-Tìm hiểu thêm về cách [nói chuyện với gia đình và bạn bè trên Skype trong Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001407&amp;clcid=0x409).
+Tìm hiểu thêm về cách [trò chuyện với gia đình và bạn bè trên Skype trong Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001407&amp;clcid=0x409).
   
 

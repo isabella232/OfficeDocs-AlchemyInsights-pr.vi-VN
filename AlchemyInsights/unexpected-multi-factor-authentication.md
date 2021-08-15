@@ -11,23 +11,23 @@ ms.assetid: ''
 ms.custom:
 - "1300007"
 - "4372"
-ms.openlocfilehash: 48303d5b408cbdb243ec45dc4c80ac9a83f273a0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d2b97175049bd9732b7444b029f7ea8610c3d5a2c02878ec5f20ded916baadd5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47689544"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53991161"
 ---
 # <a name="unexpected-multi-factor-authentication"></a>Xác thực đa yếu tố không mong muốn
 
-Nếu đối tượng thuê của bạn đã được tạo sau ngày 21 tháng mười, 2019 và bạn đang gặp phải lời nhắc MFA, có thể bạn đã bật [mặc định bảo mật](https://aka.ms/securitydefaults) trong đối tượng thuê của mình. 
+Nếu đối tượng thuê của bạn được tạo sau ngày 21/10/2019 [](https://aka.ms/securitydefaults) và bạn bất ngờ nhận được lời nhắc về MFA, có thể bạn đã bật các mặc định bảo mật trong đối tượng thuê của mình. 
 
-Để quản lý mặc định bảo mật:
+Cách Quản lý mặc định bảo mật:
 
-1. Đăng nhập vào [Trung tâm quản trị](https://go.microsoft.com/fwlink/p/?linkid=834822) bằng thông tin xác thực người quản trị toàn cầu của bạn.
+1. Đăng nhập vào trung tâm quản [trị bằng thông tin](https://go.microsoft.com/fwlink/p/?linkid=834822) xác thực Người quản trị toàn cầu của bạn.
 
-2. Truy nhập vào [thuộc tính Azure Active Directory](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Properties).
+2. Đi tới Thuộc [Azure Active Directory tính](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Properties).
 
-3. Ở cuối trang, hãy bấm **quản lý mặc định bảo mật**.
+3. Ở cuối trang, bấm vào Quản lý **mặc định Bảo mật.**
 
-4. Bấm **có** để cho phép mặc định bảo mật và **không** tắt tính năng mặc định bảo mật.
+4. Bấm **vào Có** để bật mặc định bảo mật và Không **để** tắt các mặc định bảo mật.
