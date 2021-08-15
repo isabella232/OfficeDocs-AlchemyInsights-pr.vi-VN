@@ -13,31 +13,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "9787"
 - "9005401"
-ms.openlocfilehash: deeb46260003c855e9c51d09dbd053d0461948ba
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 32a940622bea3d687221f5a9dd0b94015978b8ed2b871b0851baa8bdb0fa5357
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51036802"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53982575"
 ---
 # <a name="personalize-your-lock-screen-in-windows-10"></a>Cá nhân hóa màn hình khóa của bạn trong Windows 10
 
-Để tìm hiểu thêm về việc cá nhân hóa màn hình khóa của bạn, hãy xem mục [cá nhân hóa màn hình khóa của bạn](https://support.microsoft.com/windows/personalize-your-lock-screen-81dab9b0-35cf-887c-84a0-6de8ef72bea0).
+Để tìm hiểu thêm về cách cá nhân hóa màn hình khóa của bạn, xem [mục Cá nhân hóa màn hình khóa của bạn.](https://support.microsoft.com/windows/personalize-your-lock-screen-81dab9b0-35cf-887c-84a0-6de8ef72bea0)
 
-**Đổi kích cỡ hoặc căn giữa ảnh trên màn hình khóa của bạn**
+**Đổi kích cỡ hoặc đặt giữa ảnh trên màn hình khóa**
 
-Khi bạn chọn **ảnh** hoặc trình **chiếu** cho màn hình khóa, Windows 10 sẽ tự động phù hợp với ảnh của bạn để thực hiện tốt nhất các khoảng trống sẵn dùng. Hiện tại, không có cách nào để điều chỉnh hình ảnh hiển thị như thế nào trên màn hình khóa.
+Khi bạn chọn **Ảnh hoặc** Trình chiếu **cho** màn hình khóa, màn hình Windows 10 động khớp với ảnh của bạn để tận dụng tốt nhất không gian sẵn có. Hiện tại, không có cách nào để điều chỉnh cách ảnh xuất hiện trên màn hình khóa.
 
-**Mẹo** Hãy thử sử dụng trình soạn thảo ảnh để thực hiện các điều chỉnh cho ảnh của bạn, lưu các thay đổi, rồi xem cách họ nhìn trên màn hình khóa của bạn.
+**Mẹo** Thử sử dụng trình soạn thảo ảnh để thực hiện điều chỉnh cho ảnh của bạn, lưu các thay đổi, sau đó xem chúng trông như thế nào trên màn hình khóa của bạn.
 
-**Nếu Windows nổi bật không hoạt động**
+**Nếu Windows điểm ở trên không hoạt động**
 
-Nếu bạn không nhìn thấy hình ảnh nổi bật của Windows khi bạn đăng nhập, hãy kiểm tra các thiết đặt cho yêu cầu nổi bật đó. 
+Nếu bạn không thấy hình ảnh nổi bật Windows khi đăng nhập, hãy kiểm tra hộp kiểm Cài đặt cầu Spotlight đó. 
 
-1. Chọn nút **bắt đầu** , rồi chọn **thiết đặt** (biểu tượng bánh răng).
+1. Chọn nút **Bắt** đầu, rồi **chọn** Cài đặt (biểu tượng bánh răng).
 
-1. Chọn **cá** nhân hóa, rồi chọn **khóa màn hình**.
+1. Chọn **Cá nhân hóa**, sau đó chọn Màn hình **khóa**.
 
-1. Đảm bảo sẽ **Hiển thị ảnh nền màn hình khóa trên màn hình đăng nhập** được bật.
+1. Đảm bảo **Hiển thị ảnh nền màn hình khóa trên màn hình đăng** nhập đã được bật.
 
-1. Trở về **thiết đặt** và chọn **quyền riêng tư**. Chọn các **ứng dụng nền** và đảm bảo **cho phép các ứng dụng chạy ở nền** được chọn.
+1. Quay lại **Cài đặt**, rồi chọn Quyền riêng **tư**. Chọn **Ứng dụng nền** và đảm bảo chọn Cho phép ứng dụng chạy **trong** nền.

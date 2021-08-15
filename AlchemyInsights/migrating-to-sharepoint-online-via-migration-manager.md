@@ -1,5 +1,5 @@
 ---
-title: Di chuyển sang SharePoint Online thông qua trình quản lý di chuyển
+title: Di chuyển sang SharePoint Online thông qua Trình quản lý Di chuyển
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "3192"
-ms.openlocfilehash: 9826af8b1869f058fecd3a5d17bf5919fffedc14
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0c999e4df2cadcefc19f50bc4be377c09c4ff2921819d6d002c5bd223b7719b7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47674492"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54026424"
 ---
-# <a name="migrating-to-sharepoint-online-via-migration-manager"></a>Di chuyển sang SharePoint Online thông qua trình quản lý di chuyển
+# <a name="migrating-to-sharepoint-online-via-migration-manager"></a>Di chuyển sang SharePoint Online thông qua Trình quản lý Di chuyển
 
-Nằm trong Trung tâm quản trị SharePoint hiện đại, trình quản lý di chuyển hướng dẫn bạn thông qua việc thiết lập máy khách của bạn và tạo tác vụ của bạn. Bạn có thể chỉ định thiết đặt cấp độ toàn cầu hoặc nhiệm vụ, xem toàn bộ tiến độ tác vụ, rồi tải xuống tóm tắt tổng hợp và báo cáo mức nhiệm vụ.
+Nằm trong Trung tâm Quản trị SharePoint đại, Trình quản lý Di chuyển sẽ hướng dẫn bạn qua toàn bộ quy trình thiết lập máy khách và cách tạo tác vụ. Bạn có thể chỉ định thiết đặt toàn bộ hoặc cấp nhiệm vụ, xem toàn bộ tiến độ nhiệm vụ, tải xuống tóm tắt tổng hợp và báo cáo mức nhiệm vụ.
 
-- [Bắt đầu với trình quản lý di chuyển](https://docs.microsoft.com/sharepointmigration/mm-get-started)
+- [Bắt đầu với Trình quản lý Di chuyển](https://docs.microsoft.com/sharepointmigration/mm-get-started)

@@ -1,5 +1,5 @@
 ---
-title: Di chuyển sang SharePoint Online thông qua trình quản lý di chuyển
+title: Di chuyển sang SharePoint Online thông qua Trình quản lý Di chuyển
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
@@ -14,17 +14,17 @@ ms.custom:
 - "5300030"
 - "3192"
 ms.assetid: ''
-ms.openlocfilehash: b9e333fb229f0a8c1717e11829232dca80b591d3
-ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
+ms.openlocfilehash: 9247277180a7245ab4b5635ec9e93f57f189e3ac8c5d71f39505616ff4cf0603
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48299939"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54026568"
 ---
-# <a name="migrating-to-sharepoint-online-via-migration-manager"></a>Di chuyển sang SharePoint Online thông qua trình quản lý di chuyển
+# <a name="migrating-to-sharepoint-online-via-migration-manager"></a>Di chuyển sang SharePoint Online thông qua Trình quản lý Di chuyển
 
-Nằm trong Trung tâm quản trị SharePoint hiện đại, trình quản lý di chuyển hướng dẫn bạn thông qua việc thiết lập máy khách của bạn và tạo tác vụ của bạn. Bạn có thể chỉ định các thiết đặt cấp độ toàn cầu hoặc nhiệm vụ, xem toàn bộ tiến độ nhiệm vụ và tải xuống tổng hợp bản tóm tắt và báo cáo mức nhiệm vụ.
+Nằm trong Trung tâm Quản trị SharePoint đại, Trình quản lý Di chuyển sẽ hướng dẫn bạn qua toàn bộ quy trình thiết lập máy khách và cách tạo tác vụ. Bạn có thể xác định thiết đặt toàn bộ hoặc cấp nhiệm vụ, xem toàn bộ tiến độ nhiệm vụ, tải xuống tóm tắt tổng hợp và báo cáo mức nhiệm vụ.
 
-* [Bắt đầu với trình quản lý di chuyển](https://docs.microsoft.com/sharepointmigration/mm-get-started)
-* [Thiết lập máy khách quản lý di chuyển](https://docs.microsoft.com/sharepointmigration/mm-setup-clients)
-* [Thiết đặt trình quản lý di chuyển](https://docs.microsoft.com/sharepointmigration/mm-settings)
+* [Bắt đầu với Trình quản lý Di chuyển](https://docs.microsoft.com/sharepointmigration/mm-get-started)
+* [Thiết lập máy khách Trình quản lý Di chuyển](https://docs.microsoft.com/sharepointmigration/mm-setup-clients)
+* [Bộ quản lý Di Cài đặt](https://docs.microsoft.com/sharepointmigration/mm-settings)

@@ -1,5 +1,5 @@
 ---
-title: Cấu hình trình quản lý di chuyển
+title: Cấu hình Trình quản lý Di chuyển
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "5670"
-ms.openlocfilehash: e5133f0fedbc5fe8feb25aa0e869234619bd5b94
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: b242c2d011a578f2987f4722addebd34c558abfe88981387d8bcc3f7550e53b4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51817122"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54033264"
 ---
-# <a name="configuring-migration-manager"></a>Cấu hình trình quản lý di chuyển
+# <a name="configuring-migration-manager"></a>Cấu hình Trình quản lý Di chuyển
 
-Trình quản lý di chuyển tập trung quản lý các di chuyển chia sẻ tệp lớn bằng cách cấu hình một hoặc nhiều máy tính hoặc máy ảo (VMs) như di chuyển "đại diện". Để biết thêm thông tin, hãy xem:
+Trình quản lý Di chuyển tập trung việc quản lý các di chuyển chia sẻ tệp lớn bằng cách đặt cấu hình một hoặc nhiều máy tính hoặc máy ảo (VMS) dưới dạng "tác nhân" di chuyển. Để biết thêm thông tin, hãy xem:
 
-- [Thiết lập máy khách quản lý di chuyển](https://docs.microsoft.com/sharepointmigration/mm-setup-clients)
+- [Thiết lập máy khách Trình quản lý Di chuyển](https://docs.microsoft.com/sharepointmigration/mm-setup-clients)
 
-- [Thiết đặt trình quản lý di chuyển](https://docs.microsoft.com/sharepointmigration/mm-settings)
+- [Thiết đặt Trình quản lý Di chuyển](https://docs.microsoft.com/sharepointmigration/mm-settings)

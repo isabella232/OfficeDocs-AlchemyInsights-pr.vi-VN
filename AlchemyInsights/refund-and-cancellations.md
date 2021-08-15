@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002295"
 - "4445"
-ms.openlocfilehash: e0045b5ed586ac9a6931c17a0eee8ab47c1ce027
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 750b694e6979a80da394c4ca0a6d2e96dd4bf8221918e5f421ea01b0b588157e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51799651"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53982431"
 ---
 # <a name="refunds-and-cancellations"></a>Hoàn tiền và hủy
 
-Nếu bạn đã mua một sản phẩm từ Microsoft hoặc Microsoft Store, bạn có thể yêu cầu trả về. Bạn có thể kiểm tra [lịch sử đơn hàng](https://account.microsoft.com/billing/orders/) để xác minh những gì bạn đã ra lệnh từ Microsoft. 
+Nếu đã mua sản phẩm từ Microsoft hoặc Microsoft Microsoft Store, bạn có thể yêu cầu trả lại hàng. Bạn có thể kiểm tra [Lịch sử Đơn hàng](https://account.microsoft.com/billing/orders/) của mình để xác minh những gì bạn đã đặt hàng từ Microsoft. 
 
-- Để hoàn tiền, hãy xem [mục trả về bạn đã mua từ Microsoft for Exchange hoặc hoàn tiền](https://support.microsoft.com/help/10558).
+- Để được hoàn tiền, hãy xem [Trả lại các mặt hàng bạn đã mua từ Microsoft để đổi lại hoặc hoàn tiền](https://support.microsoft.com/help/10558).
 
-- Để hủy, hãy xem [hủy bỏ hoặc tắt tính năng thanh toán định kỳ trên một gói đăng ký Microsoft](https://support.microsoft.com/help/4027815).
+- Để hủy bỏ, hãy [xem mục Hủy bỏ hoặc tắt tính năng thanh toán định kỳ trên đăng ký Microsoft](https://support.microsoft.com/help/4027815).
 
-**Lưu ý**: nếu bạn thấy phí sau khi tắt thanh toán định kỳ, bạn có thể đã tắt nó sau ngày hết hạn. [Tìm hiểu thêm](https://support.microsoft.com/help/10640). 
+**Lưu** ý: Nếu bạn thấy khoản phí sau khi tắt tính năng thanh toán định kỳ, có thể bạn đã tắt tính năng này sau ngày hết hạn. [Tìm hiểu thêm.](https://support.microsoft.com/help/10640) 
