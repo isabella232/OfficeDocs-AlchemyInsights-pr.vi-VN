@@ -1,5 +1,5 @@
 ---
-title: 'Lỗi: các quy tắc trên máy tính này không khớp'
+title: 'Lỗi: Các quy tắc trên máy tính này không khớp'
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -11,22 +11,22 @@ localization_priority: Normal
 ms.custom:
 - "3518"
 - "1800021"
-ms.openlocfilehash: c46eb856baafbef9bc3b7fa34a0258ef16923fb8
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: b77573e9d94195e1f0ef4a1566c45a30d53b7e68e502aeb834e2ca5b9e6c5c76
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51782974"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53981135"
 ---
-# <a name="error-the-rules-on-this-computer-do-not-match"></a>Lỗi: các quy tắc trên máy tính này không khớp
+# <a name="error-the-rules-on-this-computer-do-not-match"></a>Lỗi: Các quy tắc trên máy tính này không khớp
 
-Để xem trạng thái Cập Nhật của vấn đề đã biết này, hãy xem [các quy tắc trên máy tính này không khớp với quy tắc trên Microsoft Exchange](https://support.office.com/article/d032e037-b224-429e-b325-633afde9b5f0)
+Để xem trạng thái cập nhật của sự cố đã biết này, hãy xem các quy tắc trên máy tính [này không khớp](https://support.office.com/article/d032e037-b224-429e-b325-633afde9b5f0) với các quy tắc trên Microsoft Exchange
 
-Nhóm Outlook đã triển khai bản sửa lỗi trong bản dựng 12928,10000. Bản sửa lỗi đã có sẵn trong người dùng nội bộ nhanh và sẽ đi tới kênh hàng tháng vào cuối tháng 6 năm 2020. Sau khi bạn có bản dựng đã khắc phục, bạn có thể nhận được lời nhắc "những quy tắc nào bạn muốn giữ lại" lần cuối cùng. Chọn máy chủ khi được nhắc và sau đó quay lại trong Outlook và kích hoạt lại bất kỳ quy tắc nào đã bị vô hiệu hóa.
+Nhóm Outlook đã triển khai bản sửa lỗi trong Bản dựng 12928.10000. Bản sửa lỗi đã có mặt tại Người dùng nội bộ Nhanh và sẽ đi đến Kênh hàng tháng vào cuối Tháng Sáu 2020. Sau khi đã khắc phục, bạn có thể nhận được lời nhắc "Bạn muốn giữ quy tắc nào" lần cuối. Chọn Máy chủ khi được nhắc, rồi quay lại Outlook bật lại bất kỳ quy tắc nào đã bị tắt.
 
-Cho đến khi sửa lỗi sẵn dùng, vui lòng sử dụng giải pháp thay thế sau đây:
+Cho đến khi có bản sửa lỗi, vui lòng sử dụng giải pháp thay thế sau:
 
-Giải pháp thay **thế: trong** báo cáo gần đây, sự cố đã xảy ra đối với những người chỉ có các quy tắc máy khách tạo trong Outlook trên máy tính. Nếu bạn tiếp tục gặp vấn đề, hãy cân nhắc việc xóa bỏ quy tắc, rồi tạo và chỉnh sửa quy tắc chỉ trong OWA (Outlook Web App) cho đến khi sự cố này được giải quyết.
+**Giải pháp thay thế**: Trong các báo cáo gần đây, sự cố đã xảy ra đối với những báo cáo chỉ tạo quy tắc máy khách trong máy Outlook tính. Nếu bạn tiếp tục gặp sự cố, hãy xem xét việc xóa các quy tắc, rồi tạo và chỉnh sửa các quy tắc chỉ trong OWA (Outlook Web App) cho đến khi sự cố được giải quyết.
 
-Nếu bạn không thể xóa bỏ quy tắc theo cách thủ công, bạn có thể chạy lệnh Outlook khi bạn khởi động Outlook bằng cách chạy Outlook.exe/cleanrules. Việc này sẽ xóa cả quy tắc máy khách và máy chủ. Nó sẽ xóa tất cả các quy tắc cho tất cả các tài khoản trong hồ sơ Outlook. Lệnh này được thêm vào tài liệu trong bài viết chuyển dòng lệnh.
+Nếu bạn không thể xóa quy tắc theo cách thủ công, bạn có thể chạy lệnh Outlook khi bắt đầu Outlook quy tắc bằng cách chạy Outlook.exe /cleanrules. Điều này sẽ xóa cả quy tắc máy khách và máy chủ. Nó sẽ xóa bỏ tất cả quy tắc cho tất cả các tài khoản trong Hồ Outlook của bạn. Lệnh này được ghi lại thêm trong bài viết Khóa chuyển Dòng lệnh.
 

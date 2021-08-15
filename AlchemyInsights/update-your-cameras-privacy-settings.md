@@ -1,5 +1,5 @@
 ---
-title: Cập Nhật thiết đặt quyền riêng tư camera của bạn
+title: Cập nhật thông tin về quyền riêng tư của camera Cài đặt
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - gethelp
-ms.openlocfilehash: e9ee56355bf77f18b0e078e8536525f8c51f17aa
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1d1b5a08ac612b548fb196cf8deaa20fa23218bd94ee9440024d7b1b7561c7b1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51782677"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53990765"
 ---
-# <a name="update-your-cameras-privacy-settings"></a>Cập Nhật thiết đặt quyền riêng tư camera của bạn
+# <a name="update-your-cameras-privacy-settings"></a>Cập nhật thông tin về quyền riêng tư của camera Cài đặt
 
-Mã lỗi này có nghĩa là các thiết đặt quyền riêng tư của camera sẽ được xử động trong ứng dụng. Hãy làm theo các bước sau để cập nhật thiết đặt quyền riêng tư camera của bạn:
+Mã lỗi này có nghĩa là cài đặt quyền riêng tư của camera của bạn đang ảnh hưởng đến ứng dụng. Hãy làm theo các bước sau để cập nhật cài đặt quyền riêng tư của camera:
 
-- **Nút mở bắt đầu > thiết đặt > Camera > quyền riêng tư**.
-- Bên dưới **cho phép truy nhập vào camera trên thiết bị này**, hãy chọn **thay đổi**. Hãy đảm bảo rằng **việc bật tắt đã bật.**
-- Tiếp theo, bên dưới **cho phép các ứng dụng để truy nhập vào camera của bạn**, hãy đảm bảo rằng **việc bật tắt đã bật.**
-- Sau đó, bên dưới **chọn ứng dụng nào có thể truy nhập vào camera của bạn**, hãy đảm bảo rằng việc chuyển đổi bên cạnh ứng dụng mong muốn của bạn cũng được bật.
+- Nút **Mở nút Bắt đầu > Cài đặt > quyền > Camera**.
+- Trong **cho phép truy nhập vào camera trên thiết bị này,** chọn Thay **đổi**. Đảm bảo nút bật tắt đã **được Bật**.
+- Tiếp theo, bên **dưới mục Cho phép ứng dụng truy nhập camera** của bạn, hãy đảm bảo nút bật tắt đang **Bật**.
+- Sau đó, **trong Chọn ứng** dụng có thể truy nhập camera của bạn , hãy đảm bảo nút bật tắt bên cạnh ứng dụng mong muốn cũng được Bật.
