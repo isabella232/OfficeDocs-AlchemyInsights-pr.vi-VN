@@ -1,5 +1,5 @@
 ---
-title: Cập nhật thông tin đăng nhập và hóa đơn đến địa chỉ được liên kết với các bước được đề xuất của bạn
+title: Cập nhật địa chỉ bán hàng và gửi hóa đơn liên kết với MCA của bạn - các bước được đề xuất
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,43 +13,43 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7325"
-ms.openlocfilehash: 8cdd2c64a95e88eb2fb4624c6e2696f77b75e198
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+ms.openlocfilehash: d5473f73f280a61eefb36fed6d528ef1b0999d7f9898570e9e8eb24105a1cfa6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49679976"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54001530"
 ---
-# <a name="update-sold-to-and-bill-to-address-associated-to-your-mca---recommended-steps"></a>Cập nhật thông tin đăng nhập và hóa đơn đến địa chỉ được liên kết với các bước được đề xuất của bạn
+# <a name="update-sold-to-and-bill-to-address-associated-to-your-mca---recommended-steps"></a>Cập nhật địa chỉ bán hàng và gửi hóa đơn liên kết với MCA của bạn - các bước được đề xuất
 
-Bạn có thể cập nhật địa chỉ bán hàng và hóa đơn được liên kết với thỏa thuận Microsoft customer (MCA) của bạn. 
+Bạn có thể cập nhật địa chỉ bán hàng và gửi hóa đơn liên kết với Thỏa thuận Khách hàng của Microsoft (MCA) của bạn. 
 
 > [!NOTE]
-> Chỉ có người quản trị người dùng có thể thực hiện thay đổi đối với thông tin hồ sơ người dùng Azure Active Directory. Nếu bạn không gán vai trò người quản trị người dùng, hãy liên hệ với người quản trị người dùng của bạn. Để biết thêm thông tin về việc thay đổi hồ sơ của người dùng, hãy xem [Thêm hoặc cập nhật thông tin hồ sơ của người dùng bằng Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal).
+> Chỉ người quản trị người dùng có thể thực hiện thay đổi đối với thông Azure Active Directory sơ người dùng. Nếu bạn chưa được gán vai trò người quản trị người dùng, hãy liên hệ với người quản trị người dùng của bạn. Để biết thêm thông tin về việc thay đổi hồ sơ người dùng, hãy xem Thêm hoặc cập nhật thông tin [hồ sơ người dùng bằng Azure Active Directory.](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)
 
-**Địa chỉ được bán** -đến-địa chỉ bán ra là địa chỉ và thông tin liên hệ của tổ chức hoặc cá nhân, chịu trách nhiệm đối với tài khoản thanh toán. Nó được hiển thị trong tất cả các hóa đơn được tạo cho tài khoản thanh toán.
+**Địa chỉ bán -** Địa chỉ mua là địa chỉ và thông tin liên hệ của tổ chức hoặc cá nhân chịu trách nhiệm về tài khoản thanh toán. Thanh toán được hiển thị trong tất cả các hóa đơn đã tạo cho tài khoản thanh toán.
 
-**Hóa đơn-đến địa chỉ** -địa chỉ hóa đơn là địa chỉ và thông tin liên hệ của tổ chức hoặc cá nhân, chịu trách nhiệm đối với hóa đơn được tạo ra cho một tài khoản thanh toán. Để có tài khoản thanh toán cho một MCA, có một địa chỉ hóa đơn cho từng hồ sơ thanh toán và nó được hiển thị trong hóa đơn được tạo ra cho hồ sơ thanh toán.
+**Địa chỉ nhận** hóa đơn - Địa chỉ nhận hóa đơn là địa chỉ và thông tin liên hệ của tổ chức hoặc cá nhân chịu trách nhiệm về các hóa đơn đã tạo cho tài khoản thanh toán. Đối với tài khoản thanh toán cho MCA, có một địa chỉ gửi hóa đơn cho từng hồ sơ thanh toán và địa chỉ đó được hiển thị trong hóa đơn được tạo cho hồ sơ thanh toán.
 
-**Để cập nhật tài khoản thanh toán MCA được bán-đến địa chỉ**:
+**Cách cập nhật địa chỉ bán tài khoản thanh toán MCA:**
 
-1. Đăng nhập vào cổng thông tin Azure bằng cách dùng địa chỉ email, có vai trò chủ sở hữu hoặc người đóng góp trên tài khoản thanh toán cho một MCA.
-1. Tìm kiếm thanh toán **quản lý chi phí**  +  .
-1. Bấm vào Cập Nhật **thuộc tính**  >  **để bán-to**.
-1. Nhập địa chỉ mới và bấm **lưu**.
+1. Đăng nhập vào cổng thông tin Azure bằng địa chỉ email, địa chỉ này có vai trò chủ sở hữu hoặc người đóng góp trên tài khoản thanh toán cho MCA.
+1. Tìm kiếm Thanh **toán Quản lý Chi**  +  **phí**.
+1. Bấm **vào Cập** nhật Thuộc tính đã bán  >  **cho**.
+1. Nhập địa chỉ mới và bấm **Lưu**.
 
-Một số tài khoản yêu cầu xác minh bổ sung trước khi cập nhật địa chỉ đã bán của họ. Nếu tài khoản của bạn yêu cầu phê duyệt thủ công, bạn sẽ được yêu cầu liên hệ với bộ phận hỗ trợ Azure.
+Một số tài khoản yêu cầu xác minh bổ sung trước khi địa chỉ bán của chúng có thể được cập nhật. Nếu tài khoản của bạn yêu cầu chấp thuận thủ công, bạn sẽ được yêu cầu liên hệ với bộ phận hỗ trợ Azure.
 
-**Để cập nhật địa chỉ tài khoản thanh toán MCA**: 
+**Để cập nhật địa chỉ tài khoản thanh toán MCA:** 
 
-1. Đăng nhập vào cổng thông tin Azure bằng cách dùng địa chỉ email, có vai trò chủ sở hữu hoặc người đóng góp trên một tài khoản thanh toán hoặc hồ sơ thanh toán cho một MCA.
-1. Tìm kiếm thanh toán **quản lý chi phí**  +  .
-1. Bấm vào **hồ sơ thanh toán** và chọn một hồ sơ thanh toán chọn để cập nhật địa chỉ thanh toán.
-1. Bấm vào  >  **địa chỉ Cập Nhật** thuộc tính.
-1. Nhập địa chỉ mới rồi bấm **lưu**.
+1. Đăng nhập vào cổng thông tin Azure bằng địa chỉ email, có vai trò chủ sở hữu hoặc người đóng góp trên tài khoản thanh toán hoặc hồ sơ thanh toán cho MCA.
+1. Tìm kiếm Thanh **toán Quản lý Chi**  +  **phí**.
+1. Bấm **Vào Hồ sơ thanh toán,** rồi chọn một hồ sơ thanh toán để cập nhật địa chỉ thanh toán.
+1. Bấm vào **Địa chỉ** Cập nhật  >  **Thuộc tính**.
+1. Nhập địa chỉ mới, rồi bấm **vào Lưu.**
 
 **Tài liệu được đề xuất**
 
 [Thay đổi thông tin liên hệ cho tài khoản thanh toán Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/change-azure-account-profile)   
-[Cập Nhật thiết đặt tài khoản thanh toán](https://docs.microsoft.com/microsoft-store/update-microsoft-store-for-business-account-settings)  
-[Tìm hiểu về các vai trò quản trị thỏa thuận của Microsoft trong Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-mca-roles)
+[Cập nhật cài đặt tài khoản thanh toán](https://docs.microsoft.com/microsoft-store/update-microsoft-store-for-business-account-settings)  
+[Tìm hiểu về vai trò quản trị trong Thỏa thuận Khách hàng của Microsoft trong Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-mca-roles)

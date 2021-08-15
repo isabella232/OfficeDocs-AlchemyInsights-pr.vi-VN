@@ -1,5 +1,5 @@
 ---
-title: 1829-khám phá điện tử-các vấn đề
+title: 1829-ediscovery-issues
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -12,27 +12,27 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1829
 ms.assetid: ''
-ms.openlocfilehash: fe980d8ba54b710deca3bce9d8eca422d6c74da7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c2a949afa39da637e32c6a254b7343df0eac402b3579e511d3b41e13b2b00bf7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47710973"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030447"
 ---
-# <a name="ediscovery-issues"></a>vấn đề khám phá điện tử
+# <a name="ediscovery-issues"></a>Sự cố Khám phá Điện tử
 
-Bạn đang tìm kiếm các tùy chọn khám phá điện tử? Với dẫn hướng được thiết kế lại trong Trung tâm tuân thủ & bảo mật, các tùy chọn khám phá điện tử của bạn có thể đã được di chuyển.  Bạn có thể tìm thấy các tùy chọn khám phá điện tử ở các vị trí sau trong Trung tâm tuân thủ bảo mật & dựa trên những gì bạn đang cố gắng thực hiện:
+Bạn đang tìm các tùy chọn Khám phá Điện tử? Với dẫn hướng được thiết kế lại trong Trung tâm Bảo mật & Tuân thủ, các tùy chọn Khám phá Điện tử của bạn có thể đã được di chuyển sẵn.  Bạn có thể tìm thấy các tùy chọn Khám phá Điện tử ở các vị trí sau đây trong Trung tâm Bảo mật & Tuân thủ dựa trên những gì bạn đang cố gắng thực hiện:
 
-- Sử dụng chức năng tìm kiếm nội dung để tìm kiếm nội dung của bạn trong email, tài liệu, cuộc hội thoại Skype for Business, rồi xuất dữ liệu-đi đến **Tìm kiếm > nội dung tìm kiếm**
+- Sử dụng tính năng Tìm kiếm Nội dung để tìm kiếm nội dung trong email, tài liệu, cuộc hội thoại Skype for Business và sau đó xuất dữ liệu - Đi tới Tìm kiếm trong > Tìm **kiếm nội dung**
 
-- Tạo một trường hợp khám phá điện tử để tìm kiếm nội dung và đặt vị trí nội dung tại chỗ giữ-đi đến khám phá điện tử **> khám phá** điện tử
+- Tạo vụ việc Khám phá Điện tử để tìm kiếm nội dung và giữ lại vị trí nội dung - Đi đến Khám phá **Điện > Khám phá Điện tử**
 
-- Sử dụng giải pháp Advanced eDiscovery nâng cao mới để xác định và liên lạc với người quản lý, Giữ gìn dữ liệu giám sát liên quan đến vụ việc, thu thập dữ liệu và thêm nó vào bộ xem lại và giảm âm lượng dữ liệu bằng cách áp dụng phân tích để huỷ ra dữ liệu không cần thiết và tập trung vào những gì liên quan đến tình huống đó **> nâng cao**
+- Sử dụng giải pháp Advanced eDiscovery đầu cuối mới để nhận dạng và liên lạc với các nhà nghiên cứu, bảo lưu dữ liệu đặc biệt liên quan đến vụ việc, thu thập dữ liệu và thêm vào tập hợp đánh giá, giảm khối lượng dữ liệu bằng cách áp dụng phân tích nhằm loại bỏ dữ liệu không cần thiết và tập trung vào nội dung liên quan nhất đến vụ việc - Đi tới khám phá **điện tử > Advanced eDiscovery**
 
 Để biết thêm thông tin, hãy xem:
 
-- [Tìm kiếm nội dung](https://docs.microsoft.com/microsoft-365/compliance/content-search)
+- [Tìm kiếm Nội dung](https://docs.microsoft.com/microsoft-365/compliance/content-search)
 
-- [Các trường hợp khám phá điện tử trong Trung tâm tuân thủ & bảo mật](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases)
+- [Các trường hợp Khám phá Điện tử trong Trung tâm Bảo & Tuân thủ](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases)
 
-- [Giải pháp khám phá điện tử nâng cao trong Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/overview-ediscovery-20)
+- [Advanced eDiscovery giải pháp trong Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/overview-ediscovery-20)

@@ -1,5 +1,5 @@
 ---
-title: Cách chia sẻ các tệp hoặc thư mục SharePoint hoặc OneDrive
+title: Cách chia sẻ SharePoint hoặc chia OneDrive hoặc thư mục
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3170"
-ms.openlocfilehash: 9fcd43022d048c3d0b652f20308dc6b0b3f6a2f4
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d4917d91e1567afeacb77f78735d39d14c9286e4318026e1f4daf1fb1c11fde4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51803314"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54001782"
 ---
-# <a name="how-to-share-sharepoint-or-onedrive-files-or-folders"></a>Cách chia sẻ các tệp hoặc thư mục SharePoint hoặc OneDrive
+# <a name="how-to-share-sharepoint-or-onedrive-files-or-folders"></a>Cách chia sẻ SharePoint hoặc chia OneDrive hoặc thư mục
 
-Các tệp bạn lưu trữ trên một site SharePoint thường có sẵn cho mọi người có quyền đối với trang web, nhưng bạn có thể muốn chia sẻ các tệp hoặc thư mục cụ thể với những người không có quyền truy nhập vào site. Khi bạn chia sẻ tệp và thư mục, bạn có thể quyết định có để cho phép mọi người sửa hoặc chỉ xem chúng. Để biết thêm thông tin, hãy xem:
+Các tệp bạn lưu trữ trên site SharePoint thường sẵn dùng cho tất cả mọi người có quyền truy nhập vào site này, nhưng bạn có thể muốn chia sẻ các tệp hoặc thư mục cụ thể với những người không có quyền truy nhập vào site. Khi bạn chia sẻ tệp và thư mục, bạn có thể quyết định xem có cho phép mọi người sửa chúng hay chỉ xem chúng. Để biết thêm thông tin, hãy xem:
 
-[Chia sẻ tệp hoặc thư mục SharePoint](https://support.office.com/article/1fe37332-0f9a-4719-970e-d2578da4941c)
+[Chia sẻ SharePoint hoặc thư mục](https://support.office.com/article/1fe37332-0f9a-4719-970e-d2578da4941c)
 
-[Chia sẻ các tệp và thư mục OneDrive](https://support.microsoft.com/office/share-onedrive-files-and-folders-9fcc2f7d-de0c-4cec-93b0-a82024800c07?ui=en-US&rs=en-US&ad=US&storagetype=stage)
+[Chia sẻ OneDrive và thư mục](https://support.microsoft.com/office/share-onedrive-files-and-folders-9fcc2f7d-de0c-4cec-93b0-a82024800c07?ui=en-US&rs=en-US&ad=US&storagetype=stage)

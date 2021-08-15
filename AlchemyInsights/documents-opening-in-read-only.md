@@ -1,5 +1,5 @@
 ---
-title: Mở tài liệu trong chỉ đọc
+title: Tài liệu mở ở dạng chỉ đọc
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -15,25 +15,25 @@ ms.custom:
 - "9000093"
 - "1613"
 - "9000093"
-ms.openlocfilehash: 43858e9cecb904799aebad0d6e545d586c6e6b00
-ms.sourcegitcommit: 3f36012ab7d2088a708bcacf2d4c3169e9d443f3
+ms.openlocfilehash: f286aff794325b82679e59cd152189dc65b23e4d3c06b0b3da65851cd767bbaa
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49529004"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030405"
 ---
-# <a name="documents-opening-in-read-only"></a>Mở tài liệu trong chỉ đọc
+# <a name="documents-opening-in-read-only"></a>Tài liệu mở ở chỉ đọc
 
-Bạn có thể tìm thấy các tệp bạn đang mở thành chỉ đọc. Trong một số trường hợp, điều kiện này phục vụ với tư cách là một bảo mật thêm, chẳng hạn như khi bạn mở tệp từ Internet và các thời điểm khác, điều kiện này có thể là do thiết đặt có thể thay đổi.
+Bạn có thể thấy các tệp bạn đang mở ở định vị chỉ đọc. Trong một số trường hợp, điều kiện này đóng vai trò như một bảo mật bổ sung, chẳng hạn như khi bạn đang mở tệp từ internet và những lần khác, điều kiện này có thể là do một cài đặt có thể thay đổi.
 
-- [Các tệp SharePoint mở dưới dạng chỉ đọc](https://docs.microsoft.com/sharepoint/troubleshoot/lists-and-libraries/files-open-as-read-only-and-cannot-check-in-or-out)
+- [SharePoint tệp mở dưới dạng chỉ đọc](https://docs.microsoft.com/sharepoint/troubleshoot/lists-and-libraries/files-open-as-read-only-and-cannot-check-in-or-out)
 
-Nếu khách hàng tin rằng các nguyên nhân đã nêu như cơ chế nâng cao bảo mật hoặc không thay đổi thiết đặt không phải là một trong các tình huống do thiết kế được nêu trong [tệp SharePoint đang mở dưới dạng chỉ đọc](https://docs.microsoft.com/sharepoint/troubleshoot/lists-and-libraries/files-open-as-read-only-and-cannot-check-in-or-out), đây là các giải pháp phổ biến khác cho tài liệu đang mở trong chế độ chỉ đọc.
+Nếu khách hàng cho rằng những nguyên nhân được nêu, chẳng hạn như cơ chế nâng cao bảo mật hoặc thiết đặt không thay đổi không phải là một trong các kịch bản theo thiết kế được nêu trong các tệp [SharePoint](https://docs.microsoft.com/sharepoint/troubleshoot/lists-and-libraries/files-open-as-read-only-and-cannot-check-in-or-out)mở dưới dạng chỉ đọc, dưới đây là các giải pháp phổ biến khác cho tài liệu mở trong chế độ chỉ đọc.
 
 - Khởi động lại máy tính.
-- Cài đặt các bản Cập Nhật Office.
-- Kiểm tra vi-rút trên máy tính.
-- Đảm bảo trang nằm trong vùng site tin cậy trong Internet Explorer.
+- Cài đặt Office nhật mới nhất.
+- Kiểm tra phần mềm diệt vi-rút trên máy tính đó.
+- Đảm bảo site nằm trong vùng Site tin cậy trong Internet Explorer.
 - Thực hiện sửa chữa Office.
-- Xóa [bộ đệm ẩn tài liệu Office](https://support.microsoft.com/office/delete-your-office-document-cache-b1d3765e-d71b-4bb8-99ca-acd22c42995d?ui=en-us&rs=en-us&ad=us).
+- Xóa Bộ [đệm Office ẩn Tài liệu .](https://support.microsoft.com/office/delete-your-office-document-cache-b1d3765e-d71b-4bb8-99ca-acd22c42995d?ui=en-us&rs=en-us&ad=us)
 

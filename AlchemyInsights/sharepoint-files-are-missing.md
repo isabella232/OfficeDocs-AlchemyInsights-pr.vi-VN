@@ -1,5 +1,5 @@
 ---
-title: Thiếu tệp SharePoint
+title: SharePoint bị thiếu tệp
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000100"
 - "7470"
-ms.openlocfilehash: e86b999f44973cbea597f6f48d9a620879bc1b34
-ms.sourcegitcommit: 64eb79b3664ce762813fd19fbcca7e6002a4d3de
+ms.openlocfilehash: 583fec061c38a4270fb662a84c5f660415a0e2a2d6ac78994d9cb8d8b6b3d8b8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49680144"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54023328"
 ---
-# <a name="sharepoint-files-are-missing"></a>Thiếu tệp SharePoint
+# <a name="sharepoint-files-are-missing"></a>SharePoint bị thiếu tệp
 
-Nếu rất nhiều các tệp OneDrive hoặc SharePoint của bạn bị xóa, ghi đè, bị lỗi hoặc bị phần mềm độc hại chúng tôi cung cấp cho người dùng một loạt các tùy chọn để hỗ trợ trong quá trình phục hồi.
+Nếu bạn có nhiều tệp OneDrive hoặc SharePoint bị xóa, ghi đè, hỏng hoặc nhiễm phần mềm xấu, chúng tôi cung cấp cho người dùng nhiều tùy chọn khác nhau để hỗ trợ quá trình phục hồi.
 
-Để biết thêm thông tin, hãy xem [cách phục hồi các mục bị mất hoặc bị hỏng trong SharePoint Online và OneDrive for Business](https://go.microsoft.com/fwlink/?linkid=2110774).
+Để biết thêm thông tin, hãy xem Cách phục hồi các mục bị thiếu, đã xóa hoặc bị [hỏng trong SharePoint Online OneDrive for Business.](https://go.microsoft.com/fwlink/?linkid=2110774)
