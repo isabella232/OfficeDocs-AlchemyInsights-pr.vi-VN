@@ -1,5 +1,5 @@
 ---
-title: Mở thư viện SharePoint trong file Explorer
+title: Mở thư SharePoint tài liệu trong File Explorer
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,20 +12,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: b47bbec23a6e96559d5ed516b9470c36fa06335a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4bdf4b5975095bf35808a78ec301c375b5744df49b685e033406a38151141597
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47729101"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54025272"
 ---
-# <a name="open-a-sharepoint-library-in-file-explorer"></a>Mở thư viện SharePoint trong file Explorer
+# <a name="open-a-sharepoint-library-in-file-explorer"></a>Mở thư SharePoint tài liệu trong File Explorer
 
-1. Duyệt đến thư viện trong Internet Explorer 10 hoặc Internet Explorer 11. 
+1. Duyệt đến thư viện trong Internet Explorer 10 Internet Explorer 11. 
     
-2. Bấm vào biểu tượng xem ở phía trên bên phải, rồi bấm vào **xem trong file Explorer**.
+2. Bấm vào biểu tượng Dạng xem ở phía trên bên phải, rồi bấm vào **Xem trong File Explorer.**
     
 > [!NOTE]
-> Mở một thư viện trong file Explorer có ích nếu bạn cần sao chép hoặc di chuyển nhiều tệp và thư mục một lần, nhưng nếu bạn muốn làm việc thường xuyên trong thư viện, chúng tôi khuyên bạn nên đồng bộ nó. Để khắc phục sự cố khi mở trong file Explorer, hãy xem [mở trong Explorer](https://go.microsoft.com/fwlink/?linkid=871665). Để biết thông tin về việc thiết lập đồng bộ, hãy xem [đồng bộ các tệp SharePoint với máy khách đồng bộ OneDrive mới](https://go.microsoft.com/fwlink/?linkid=871666). 
+> Việc mở thư viện trong File Explorer sẽ rất tiện dụng nếu bạn cần sao chép hoặc di chuyển nhiều tệp và thư mục một lần nhưng nếu bạn muốn thường xuyên làm việc trong thư viện, chúng tôi khuyên bạn nên đồng bộ thư viện. Để khắc phục sự cố mở trong File Explorer, hãy [xem Mở trong Explorer](https://go.microsoft.com/fwlink/?linkid=871665). Để biết thông tin về cách thiết lập đồng bộ, [hãy xem mục Đồng SharePoint tệp với máy khách Đồng bộ OneDrive mới.](https://go.microsoft.com/fwlink/?linkid=871666) 
   
 

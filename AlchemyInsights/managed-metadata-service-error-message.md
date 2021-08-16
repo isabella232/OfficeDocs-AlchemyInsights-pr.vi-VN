@@ -1,5 +1,5 @@
 ---
-title: Thông báo lỗi dịch vụ siêu dữ liệu được quản lý
+title: Thông báo lỗi Dịch vụ Siêu dữ liệu được Quản lý
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,16 +12,16 @@ ms.custom:
 - "1246"
 - "5200021"
 ms.assetid: 15091086-2ac9-4e99-94be-a08a17386e6e
-ms.openlocfilehash: 255fd52e0bd63f282613f3fb07240a5530738506
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 58394b854877aaf2f537c33195193d23cc3891524cb2f867246ba4bf5f9e73a0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662887"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54099020"
 ---
-# <a name="managed-metadata-service-error-message"></a>Thông báo lỗi dịch vụ siêu dữ liệu được quản lý
+# <a name="managed-metadata-service-error-message"></a>Thông báo lỗi Dịch vụ Siêu dữ liệu được Quản lý
 
-Khi bạn mở kho thuật ngữ, bạn có thể thấy thông báo lỗi: "Dịch vụ siêu dữ liệu được quản lý hiện không sẵn dùng. Hồ bơi ứng dụng hoặc dịch vụ web siêu dữ liệu được quản lý có thể chưa được bắt đầu. Vui lòng liên hệ với người quản trị của bạn. "
+Khi bạn mở Kho Thuật ngữ, bạn có thể thấy thông báo lỗi: "Dịch vụ siêu dữ liệu được quản lý hoặc Kết nối hiện không sẵn dùng. Dịch vụ Web Siêu dữ liệu được Quản lý hoặc Nhóm Ứng dụng có thể chưa được bắt đầu. Vui lòng liên hệ với Người quản trị của bạn."
   
-Nếu đã trôi qua 24 giờ kể từ lần đầu tiên bạn gặp sự cố này, vui lòng đăng nhập một trường hợp hỗ trợ. Chúng tôi hiểu rằng 24 giờ có thể có vẻ như một thời gian dài. Trong nhiều trường hợp, chúng tôi đã làm việc trên một giải pháp để xin vui lòng cung cấp cho chúng tôi ít nhất 24 giờ.
+Nếu hơn 24 giờ trôi qua kể từ khi bạn gặp sự cố này lần đầu, vui lòng ghi nhật ký trường hợp hỗ trợ. Chúng tôi hiểu rằng 24 giờ có thể trông giống như một khoảng thời gian dài. Trong nhiều trường hợp, chúng tôi đang tìm giải pháp để vui lòng cung cấp cho chúng tôi ít nhất 24 giờ.
   

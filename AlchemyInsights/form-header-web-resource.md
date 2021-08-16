@@ -1,5 +1,5 @@
 ---
-title: Tiêu đề biểu mẫu-tài nguyên web
+title: Tiêu đề biểu mẫu - tài nguyên web
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "1929"
 - "9000308"
-ms.openlocfilehash: c3bd238ea600c4f982e41eaa566fa9a17448a356
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bb14708e33eb95f5f794536d4ee466684816c41bab7a2720d18c298a08e1b261
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47708093"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54068114"
 ---
-# <a name="form-header---web-resource"></a>Tiêu đề biểu mẫu-tài nguyên web
+# <a name="form-header---web-resource"></a>Tiêu đề biểu mẫu - tài nguyên web
 
-Bạn có thể thêm hoặc chỉnh sửa tài nguyên web trên một biểu mẫu để tạo biểu mẫu hấp dẫn hơn hoặc hữu ích cho người dùng. Để bắt đầu, hãy đảm bảo rằng bạn có vai trò người quản trị hệ thống hoặc chức năng bảo mật của hệ thống, hoặc các quyền tương đương.  
+Bạn có thể thêm hoặc chỉnh sửa tài nguyên web trên biểu mẫu để làm cho biểu mẫu thu hút hoặc hữu ích hơn đối với người dùng. Để bắt đầu, hãy đảm bảo rằng bạn có vai trò bảo mật Người quản trị Hệ thống hoặc Người tùy chỉnh Hệ thống, hoặc các quyền tương đương.  
 
-**Ghi chú** Bạn không thể đưa vào một nguồn tài nguyên web trong đầu trang hoặc chân trang của biểu mẫu.
+**Lưu ý** Bạn không thể đưa tài nguyên web vào đầu trang hoặc chân trang của biểu mẫu.
 
-Để biết thêm thông tin, hãy xem mục [tạo và chỉnh sửa tài nguyên web trên biểu mẫu](https://docs.microsoft.com/dynamics365/customer-engagement/customize/create-edit-web-resources#create-and-edit-a-web-resource-on-a-form).
+Để biết thêm thông tin, [hãy xem mục Tạo và chỉnh sửa tài nguyên web trên biểu mẫu](https://docs.microsoft.com/dynamics365/customer-engagement/customize/create-edit-web-resources#create-and-edit-a-web-resource-on-a-form).

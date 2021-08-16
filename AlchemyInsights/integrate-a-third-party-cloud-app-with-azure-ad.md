@@ -1,5 +1,5 @@
 ---
-title: Tích hợp ứng dụng đám mây bên thứ ba với Azure AD
+title: Tích hợp ứng dụng đám mây của bên thứ ba với Azure AD
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005774"
 - "10020"
-ms.openlocfilehash: 67894669a2ff121efa9338512cf26b64108a6daa
-ms.sourcegitcommit: 9540ba561c98b511483d6f3264c43bbecbf9f4d5
+ms.openlocfilehash: 84869ee88a94626b348461d699833ff5ea68a278ca049379a01c5209e4b1d076
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51421185"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54099308"
 ---
-# <a name="integrate-a-third-party-cloud-app-with-azure-ad"></a>Tích hợp ứng dụng đám mây bên thứ ba với Azure AD
+# <a name="integrate-a-third-party-cloud-app-with-azure-ad"></a>Tích hợp ứng dụng đám mây của bên thứ ba với Azure AD
 
-Đơn giản hóa quyền truy nhập và bảo vệ ứng dụng đám mây bên thứ ba của bạn, chẳng hạn như Salesforce và Dropbox. Sử dụng [ứng dụng đám mây của bên thứ ba với AZURE AD](https://go.microsoft.com/fwlink/?linkid=2157464) Wizard để thêm ứng dụng và đặt cấu hình đăng nhập đơn, giúp giảm hoặc loại bỏ lời nhắc đăng nhập.
+Đơn giản hóa việc truy nhập và bảo mật các ứng dụng đám mây bên thứ ba của bạn, như Salesforce và Dropbox. Sử dụng ứng dụng Tích hợp đám mây của bên thứ ba với trình hướng dẫn [Azure AD](https://go.microsoft.com/fwlink/?linkid=2157464) để thêm ứng dụng và đặt cấu hình cho đăng nhập một lần, giúp giảm hoặc loại bỏ các lời nhắc đăng nhập.

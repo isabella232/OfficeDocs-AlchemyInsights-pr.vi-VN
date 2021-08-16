@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.custom:
 - "1818"
 - "9000234"
-ms.openlocfilehash: 10dfff5d88ce5ff7c099ed55b1ecebe606831d64
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7c7f3f2188ef72cbcd3123b92c50fbf99c86cdbbc3c102ed151df341dc6f5910
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47671610"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54024552"
 ---
-# <a name="internal-server-errors-in-outlookcom"></a>Lỗi máy chủ nội bộ trong Outlook.com
+# <a name="internal-server-errors-in-outlookcom"></a>Lỗi máy chủ nội bộ Outlook.com
 
-Ồ không! Nếu bạn thấy "lỗi 500" hoặc thông báo "lỗi máy chủ nội bộ", đó là chúng tôi và không phải bạn-xin lỗi về điều đó.
+Ồ không! Nếu bạn thấy thông báo "Lỗi 500" hoặc "Lỗi Máy chủ Nội bộ", thì đó là chúng tôi và không phải bạn - rất tiếc về lỗi đó.
 
-Kiểm tra [trang trạng thái dịch vụ Office](https://portal.office.com/servicestatus) để đảm bảo rằng không có gì khác xảy ra, nhưng giải pháp tốt nhất là để nghỉ ngơi vài phút, hãy làm mới trình duyệt của bạn bằng cách nhấn **Ctrl** và **F5**.
+Hãy xem trang Trạng thái Dịch vụ [Office](https://portal.office.com/servicestatus) để đảm bảo rằng không có gì khác đang diễn ra, nhưng giải pháp tốt nhất là nghỉ giải lao trong một vài phút, sau đó làm mới trình duyệt của bạn bằng cách nhấn **CTRL** **và F5.**
