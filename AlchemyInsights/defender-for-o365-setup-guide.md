@@ -1,5 +1,5 @@
 ---
-title: Hướng dẫn thiết lập Microsoft Defender cho Office 365
+title: Hướng dẫn thiết lập Bộ bảo Office 365 Microsoft
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "10088"
 - "3100021"
-ms.openlocfilehash: a3dec4478269b98d273a65364e952778c1b860ec
-ms.sourcegitcommit: bef118c00aa397cd6d8941d403fe9cfa49dd8c73
+ms.openlocfilehash: c664ee87acab3809abd3b5bb669017168a4f1ac6fa3028ac60ed9c86269b1dc9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/30/2021
-ms.locfileid: "51492080"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53994131"
 ---
-# <a name="microsoft-defender-for-office-365-setup-guide"></a>Hướng dẫn thiết lập Microsoft Defender cho Office 365
+# <a name="microsoft-defender-for-office-365-setup-guide"></a>Hướng dẫn thiết lập Bộ bảo Office 365 Microsoft
 
-[Hướng dẫn thiết lập Microsoft Defender cho Office 365](https://go.microsoft.com/fwlink/?linkid=2146614) giúp bảo vệ tổ chức của bạn chống lại các mối đe dọa độc hại mà môi trường của bạn có thể gặp phải thông qua email, liên kết và công cụ cộng tác bên thứ ba. Hướng dẫn này cung cấp cho bạn các tài nguyên và thông tin để giúp bạn chuẩn bị và xác định một gói Microsoft Defender để phù hợp với nhu cầu tổ chức của bạn.
+Hướng [dẫn thiết](https://go.microsoft.com/fwlink/?linkid=2146614) lập Office 365 của Bộ bảo vệ Microsoft giúp bảo vệ tổ chức của bạn khỏi các mối đe dọa độc hại mà môi trường của bạn có thể gặp phải thông qua thư email, liên kết và công cụ cộng tác của bên thứ ba. Hướng dẫn này cung cấp cho bạn các tài nguyên và thông tin để giúp bạn chuẩn bị và xác định gói Bộ bảo vệ Microsoft cho phù hợp với nhu cầu của tổ chức bạn.

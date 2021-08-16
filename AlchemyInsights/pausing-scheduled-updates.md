@@ -1,5 +1,5 @@
 ---
-title: Tạm dừng Cập Nhật theo lịch trình
+title: Tạm cầm bản cập nhật đã lên lịch
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1129"
 - "6700007"
-ms.openlocfilehash: 13abc7c9201b1897a9c766add4d105ef12f0d66f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7ea6c56de00a52080c4a8b47eb5eeee37838420a9e979878c10aeb12885a8b99
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47721577"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54010511"
 ---
-# <a name="pausing-scheduled-updates"></a>Tạm dừng Cập Nhật theo lịch trình
+# <a name="pausing-scheduled-updates"></a>Tạm cầm bản cập nhật đã lên lịch
 
-Khi lệnh tạm dừng được phát hành, các thiết bị không xử lý lệnh cho đến lần tiếp theo, họ kiểm nhập vào InTune. Vì điều này, các thiết bị của bạn có thể có:
+Khi một lệnh tạm dừng được phát hành, các thiết bị sẽ không xử lý lệnh cho đến lần kiểm nhập tiếp theo của họ vào Intune. Vì điều này, thiết bị của bạn có thể có:
 
-- Đã cài đặt các bản Cập Nhật được lên lịch trước khi kiểm nhập.
-- Được hỗ trợ khi bạn ban hành lệnh tạm dừng. Trong trường hợp này, khi các thiết bị được hỗ trợ, họ có thể đã tải xuống và cài đặt các bản Cập Nhật được lên lịch trước khi kiểm nhập.
+- Đã cài đặt các bản cập nhật đã lên lịch trước khi kiểm nhập.
+- Bị tắt nguồn khi bạn phát lệnh tạm dừng. Trong trường hợp này, khi thiết bị được bật nguồn, có thể họ đã tải xuống và cài đặt các bản cập nhật đã lên lịch trước khi kiểm nhập.

@@ -1,5 +1,5 @@
 ---
-title: Giới thiệu các giai đoạn lưu trữ Nhật ký kiểm tra
+title: Giới thiệu về thời gian lưu giữ nhật ký kiểm tra
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 5a8601bc7757e77882d8dab709e007a2f6df3b0c
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: d98e11748027a0262b8353063fca68894abc3783238e368f59f7457ea2ba0a8f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50483512"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54006366"
 ---
-# <a name="about-audit-logs-retention-periods"></a>Giới thiệu các giai đoạn lưu trữ Nhật ký kiểm tra
+# <a name="about-audit-logs-retention-periods"></a>Giới thiệu về thời gian lưu giữ nhật ký kiểm tra
 
-Thời gian duy trì cho Nhật ký kiểm tra phụ thuộc vào đăng ký Office 365 của tổ chức của bạn.
+Thời gian lưu giữ nhật ký kiểm tra phụ thuộc vào đăng ký tài khoản Office 365 của tổ chức bạn.
 
 - **Office 365 E3**: 90 ngày.
-- **Office 365 E5**: 365 ngày. Duy trì giữ một năm hiện đang ở dạng xem trước.
-- **Bổ trợ về việc tuân thủ nâng cao E3 và Office 365**: 365 ngày. Duy trì giữ một năm hiện đang ở dạng xem trước.
-- Để đăng ký trong chương trình xem trước, hãy gửi một yêu cầu với hỗ trợ của Microsoft và bao gồm các bước sau đây như mô tả về những điều bạn cần trợ giúp: bản **xem trước kiểm tra Nhật ký Office 365**.
+- **Office 365 E5**: 365 ngày. Thời gian lưu giữ một năm hiện ở dạng bản xem trước.
+- **E3 và Office 365 Advanced Compliance trợ :** 365 ngày. Thời gian lưu giữ một năm hiện ở dạng bản xem trước.
+- Để đăng ký chương trình xem trước, hãy gửi yêu cầu với bộ trợ giúp của Microsoft và đưa vào dưới dạng mô tả những nội dung bạn cần trợ giúp: Bản xem trước riêng tư cho nhật ký kiểm tra Office 365 dài **hạn.**
 > [!NOTE]
-> Giai đoạn duy trì được dựa trên mỗi người dùng cấp phép. Ví dụ, nếu người dùng trong tổ chức của bạn có giấy phép E3 thì các bản ghi kiểm nghiệm cho các hoạt động do người dùng đó thực hiện được giữ lại trong 90 ngày. Nếu một người dùng khác có giấy phép E5, các bản ghi kiểm nghiệm của họ sẽ được giữ lại trong một năm.
+> Thời gian duy trì sẽ dựa trên giấy phép cho mỗi người dùng. Ví dụ: nếu người dùng trong tổ chức của bạn có giấy phép E3 thì bản ghi kiểm tra cho các hoạt động do người dùng đó thực hiện sẽ được giữ lại trong 90 ngày. If a different user has an E5 license, their audit records are retained for one year.
 
-Để tìm hiểu thêm, hãy xem [câu hỏi thường gặp](https://go.microsoft.com/fwlink/?linkid=2115336)này.
+Để tìm hiểu thêm, hãy xem Câu hỏi [thường gặp này.](https://go.microsoft.com/fwlink/?linkid=2115336)

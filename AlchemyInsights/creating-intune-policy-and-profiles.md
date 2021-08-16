@@ -1,5 +1,5 @@
 ---
-title: Tạo các chính sách và hồ sơ InTune
+title: Tạo chính sách và hồ sơ Intune
 ms.author: mandia
 author: mandia
 manager: dougeby
@@ -13,34 +13,34 @@ ms.collection: Adm_O365
 ms.custom:
 - "1064"
 - "6700005"
-ms.openlocfilehash: af8f1a3dfaccaca52f187f387274d63b22631b2d
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 39725243636eb16a76078afe0165cc4c3bcd9c4fdc61358a1c75b6b310956c41
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50704664"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53994203"
 ---
-# <a name="creating-intune-policy-and-profiles"></a>Tạo chính sách và hồ sơ InTune
+# <a name="creating-intune-policy-and-profiles"></a>Tạo chính sách và hồ sơ Intune
 
-Trong InTune, bạn có thể tạo các chính sách và hồ sơ làm những việc khác nhau.
+Trong Intune, bạn có thể tạo các chính sách và hồ sơ có các tác dụng khác nhau.
 
-- **Hồ sơ đăng** ký: preconfigure thiết bị của bạn theo nền tảng, cho phép người dùng quan hệ, sử dụng xác thực đa yếu tố và nhiều hơn nữa.
+- **Hồ sơ đăng ký**: Đặt cấu hình trước các thiết bị của bạn theo nền tảng, bật mối quan hệ của người dùng, sử dụng xác thực đa yếu tố và hơn thế nữa.
 
-  [Đăng ký thiết bị là gì](https://docs.microsoft.com/intune/device-enrollment)và tạo hồ sơ đăng ký cho [Android](https://docs.microsoft.com/intune/android-enroll), [iOS](https://docs.microsoft.com/intune/ios-enroll), [macOS](https://docs.microsoft.com/intune/macos-enroll)và [Windows](https://docs.microsoft.com/intune/windows-enrollment-methods) là các nguồn tài nguyên tốt.
+  [Đăng ký thiết bị](https://docs.microsoft.com/intune/device-enrollment), đồng thời tạo hồ sơ đăng ký [cho Android,](https://docs.microsoft.com/intune/android-enroll) [iOS,](https://docs.microsoft.com/intune/ios-enroll) [macOS](https://docs.microsoft.com/intune/macos-enroll)và máy [Windows là](https://docs.microsoft.com/intune/windows-enrollment-methods) những tài nguyên tốt.
 
-- **Chính sách tuân thủ**: xác định quy tắc và cài đặt các thiết bị mà phải tuân theo để phù hợp. Bạn cũng có thể sử dụng chính sách tuân thủ để giám sát thiết bị và thông báo cho người dùng không tuân thủ.
+- **Chính sách tuân** thủ : Xác định các quy tắc và cài đặt mà thiết bị phải tuân thủ để tuân thủ. Bạn cũng có thể sử dụng các chính sách tuân thủ để giám sát thiết bị và thông báo cho người dùng về các hành động không tuân thủ.
 
-  Bắt đầu với [chính sách tuân thủ thiết bị](https://docs.microsoft.com/intune/device-compliance-get-started).
-- **Chính sách truy nhập** có điều kiện: giúp bảo mật tài nguyên tổ chức, tùy thuộc vào các điều kiện bạn nhập. Ví dụ: đối với các thiết bị không tuân thủ, hãy sử dụng quyền truy nhập có điều kiện để hạn chế quyền truy nhập vào email và SharePoint.
+  Bắt đầu với chính sách [tuân thủ thiết bị.](https://docs.microsoft.com/intune/device-compliance-get-started)
+- **Chính sách truy nhập có điều** kiện: Giúp bảo mật các tài nguyên tổ chức, tùy thuộc vào các điều kiện mà bạn nhập vào. Ví dụ: đối với các thiết bị không tuân thủ, hãy sử dụng quyền truy nhập có điều kiện để hạn chế quyền truy nhập vào email và SharePoint.
 
-  [Truy nhập có điều kiện](https://docs.microsoft.com/intune/conditional-access) và những [cách phổ biến để sử dụng quyền truy nhập](https://docs.microsoft.com/intune/conditional-access-intune-common-ways-use) có điều kiện là các nguồn tài nguyên tốt để bắt đầu.
+  [Truy nhập có điều kiện và những](https://docs.microsoft.com/intune/conditional-access) cách thức phổ biến để sử dụng truy nhập có điều [kiện](https://docs.microsoft.com/intune/conditional-access-intune-common-ways-use) là những tài nguyên tốt để bắt đầu.
 
-- **Cấu hình hồ sơ**: quản lý các tính năng và thiết đặt trên thiết bị, bao gồm các thiết đặt email, thêm một mạng WiFi, sử dụng các mẫu dựng sẵn, điều khiển iOS và các tính năng thiết bị macOS và nhiều hơn nữa.
+- **Cấu** hình hồ sơ: Quản lý các tính năng và cài đặt trên thiết bị, bao gồm cài đặt email, thêm mạng WiFi, sử dụng mẫu tích hợp sẵn, kiểm soát các tính năng của thiết bị iOS và macOS, cùng nhiều tính năng khác.
 
-  Bắt đầu tại [hồ sơ cấu hình thiết bị](https://docs.microsoft.com/intune/device-profiles).
+  Bắt đầu tại [cấu hình thiết bị.](https://docs.microsoft.com/intune/device-profiles)
 
-Liên kết hữu ích:
+Các liên kết hữu ích:
 
-- [Các câu hỏi thường gặp, sự cố và độ phân giải với chính sách và hồ sơ của thiết bị trong InTune](https://docs.microsoft.com/intune/device-profile-troubleshoot)
+- [Câu hỏi, sự cố và giải pháp phổ biến với chính sách thiết bị và hồ sơ trong Intune](https://docs.microsoft.com/intune/device-profile-troubleshoot)
 
-- [Khắc phục sự cố các chính sách và hồ sơ trong InTune](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-policies-in-microsoft-intune)
+- [Khắc phục sự cố về chính sách và hồ sơ trong Intune](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-policies-in-microsoft-intune)

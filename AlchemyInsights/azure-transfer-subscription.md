@@ -12,35 +12,35 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003560"
 - "6849"
-ms.openlocfilehash: fc02a64807cad61cfeecf04d1f8e38666402583f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 803d0105ad2bbaf2b18cea6aa556b6af5e09cb2d41812d4747aa703e6e7d7780
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820632"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54036118"
 ---
 # <a name="transfer-azure-billing-ownership"></a>Chuyển quyền sở hữu thanh toán Azure
 
-Đăng nhập vào [cổng thông tin Azure](https://portal.azure.com/) với tư cách là người quản trị của tài khoản thanh toán có đăng ký mà bạn muốn chuyển. Nếu bạn không chắc chắn nếu bạn là người quản trị, hoặc nếu bạn cần xác định ai, hãy xem [xác định người quản trị thanh toán tài khoản](https://docs.microsoft.com/azure/cost-management-billing/understand/subscription-transfer#whoisaa).
+Đăng nhập vào cổng [thông tin Azure với](https://portal.azure.com/) tư cách là người quản trị của tài khoản thanh toán có đăng ký mà bạn muốn chuyển. Nếu bạn không chắc mình có phải là người quản trị hay không, hoặc nếu bạn cần xác định ai là người đó, hãy xem mục Xác [định người quản trị thanh toán tài khoản](https://docs.microsoft.com/azure/cost-management-billing/understand/subscription-transfer#whoisaa).
 
-1. Tìm kiếm _quản lý chi phí + thanh toán_.
-1. Chọn **đăng ký** từ ngăn bên trái. Tùy thuộc vào quyền truy nhập, bạn có thể cần phải chọn một phạm vi thanh toán, sau đó **thuê** bao hoặc **đăng ký Azure**.
-1. Chọn **chuyển quyền sở hữu thanh toán** cho đăng ký mà bạn muốn chuyển.
-1. Nhập địa chỉ email của người dùng là người quản trị thanh toán của tài khoản đó sẽ là chủ sở hữu mới cho đăng ký, rồi chọn **gửi yêu cầu chuyển**.
-1. Người dùng nhận được một email với các hướng dẫn để xem lại yêu cầu chuyển của bạn. Để phê duyệt yêu cầu chuyển, người dùng sẽ chọn liên kết trong email và làm theo hướng dẫn.
+1. Tìm kiếm Quản _lý Chi phí + Hóa đơn._
+1. Chọn **Đăng ký** từ ngăn bên trái. Tùy thuộc vào quyền truy nhập, bạn có thể cần chọn một phạm vi thanh **toán, rồi chọn Đăng ký** hoặc Đăng ký **Azure.**
+1. Chọn **Chuyển quyền sở hữu thanh** toán cho đăng ký mà bạn muốn chuyển.
+1. Nhập địa chỉ email của người dùng là người quản trị thanh toán của tài khoản sẽ là chủ sở hữu mới cho đăng ký, rồi chọn **gửi yêu cầu chuyển khoản**.
+1. Người dùng nhận được email kèm theo hướng dẫn để xem lại yêu cầu chuyển giao của bạn. Để chấp thuận yêu cầu chuyển, người dùng chọn liên kết trong email và làm theo hướng dẫn.
 
-Vui lòng lưu ý rằng nếu bạn chuyển quyền sở hữu thanh toán cho đăng ký của mình vào tài khoản của người dùng trong một đối tượng thuê Azure AD khác, tất cả các [điều khiển truy nhập dựa trên vai trò (RBAC)](https://docs.microsoft.com/azure/role-based-access-control/overview?WT.mc_id=Portal-Microsoft_Azure_Support) để quản lý tài nguyên trong đăng ký sẽ bị loại bỏ vĩnh viễn. Chỉ có chủ sở hữu mới sẽ có quyền truy nhập để quản lý tài nguyên trong đăng ký. Để biết thêm thông tin về cách thay đổi thư mục cho một thuê bao, hãy xem [chuyển gói đăng ký cho người dùng trong một đối tượng thuê khác AZURE AD](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/known-issues?WT.mc_id=Portal-Microsoft_Azure_Support).
+Xin lưu ý rằng nếu bạn chuyển quyền sở hữu thanh toán của đăng ký sang tài khoản người dùng trong một đối tượng thuê Azure AD khác, tất cả các hoạt động gán kiểm soát truy nhập dựa trên vai trò [(RBAC)](https://docs.microsoft.com/azure/role-based-access-control/overview?WT.mc_id=Portal-Microsoft_Azure_Support) để quản lý tài nguyên trong đăng ký sẽ bị loại bỏ vĩnh viễn. Chỉ chủ sở hữu mới có quyền truy nhập để quản lý tài nguyên trong đăng ký. Để biết thêm thông tin về cách thay đổi thư mục cho đăng ký, xem mục Chuyển đăng ký [cho người dùng trong đối tượng thuê Azure AD khác.](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/known-issues?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-_**Tác động quan trọng đối với hóa đơn của bạn**_: nếu bạn đã chuyển quyền sở hữu thanh toán cho một thuê bao Azure, các chi phí của bạn sẽ được xếp hạng Pro. Bạn sẽ có thể truy nhập các hóa đơn theo những điều sau đây:  
+_**Ảnh hưởng quan trọng đến hóa đơn**_ của bạn: nếu bạn đã chuyển quyền sở hữu thanh toán cho một đăng ký Azure, chi phí của bạn sẽ được xếp hạng theo tỷ lệ. Bạn sẽ có thể truy nhập các hóa đơn dưới dạng như sau:  
 
-1. Chọn đăng ký của bạn từ [trang đăng ký](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade)   trong cổng thông tin Azure với tư [cách là người dùng có quyền truy nhập vào hóa đơn](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support), sau đó chọn hóa **đơn**.
-1. Bấm **tải xuống hóa đơn**   để xem bản sao của hóa đơn PDF của bạn. Nếu thông báo _không sẵn dùng_, hãy xem [tại sao tôi không nhìn thấy hóa đơn cho thời hạn thanh toán cuối cùng?](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice).
-1. Bạn cũng có thể xem sử dụng hàng ngày của mình bằng cách bấm vào **khoảng thời gian thanh toán** để có được PDF hóa đơn của bạn và bản sao của tệp sử dụng hàng ngày chi tiết (. CSV). Để biết thêm thông tin, hãy xem [lấy hóa đơn và dữ liệu sử dụng](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support).
+1. Chọn đăng ký của bạn [từ trang Đăng ký](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade)trong cổng thông tin Azure với tư cách là người dùng có quyền truy nhập vào hóa    [đơn,](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support)sau đó chọn **Hóa đơn**.
+1. Bấm **vào Tải xuống Hóa** đơn để xem bản sao hóa đơn PDF của   bạn. Nếu tùy chọn này _có thông báo Không_ khả dụng , hãy xem tại sao tôi không thấy hóa đơn cho kỳ thanh toán gần [nhất?](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice).
+1. Bạn cũng có thể xem  mức sử dụng hàng ngày bằng cách bấm vào thời gian thanh toán để nhận bản PDF cho hóa đơn của bạn và bản sao tệp sử dụng hàng ngày chi tiết (.CSV). Để biết thêm thông tin, hãy xem [Lấy hóa đơn và dữ liệu sử dụng](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support).
 
-**Tài liệu được đề xuất**
+**Tài liệu được Đề xuất**
 
-- [Chuyển quyền sở hữu thanh toán của một thuê bao Azure sang một tài khoản khác](https://docs.microsoft.com/azure/cost-management-billing/manage/billing-subscription-transfer)
-- [Giới thiệu về việc chuyển quyền sở hữu thanh toán cho một thuê bao Azure](https://docs.microsoft.com//azure/cost-management-billing/understand/subscription-transfer)
-- [Chuyển giao Visual Studio, mạng Microsoft Partner (MPN) và trả tiền theo mức sử dụng cho các thuê bao dev/Test](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#transferring-visual-studio-microsoft-partner-network-mpn-and-pay-as-you-go-devtest-subscriptions)
-- [Chuyển câu hỏi về quyền sở hữu](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#frequently-asked-questions-faq-for-senders)
-- [Khắc phục sự cố về quyền sở hữu truyền](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#troubleshooting)
+- [Chuyển quyền sở hữu thanh toán của đăng ký Azure sang một tài khoản khác](https://docs.microsoft.com/azure/cost-management-billing/manage/billing-subscription-transfer)
+- [Thông tin về việc chuyển quyền sở hữu thanh toán cho đăng ký Azure](https://docs.microsoft.com//azure/cost-management-billing/understand/subscription-transfer)
+- [Chuyển Visual Studio, Mạng Đối tác của Microsoft (MPN) và Thanh toán khi bạn đi tới đăng ký Dev/Test](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#transferring-visual-studio-microsoft-partner-network-mpn-and-pay-as-you-go-devtest-subscriptions)
+- [Câu hỏi thường gặp về chuyển quyền sở hữu](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#frequently-asked-questions-faq-for-senders)
+- [Khắc phục sự cố Chuyển quyền sở hữu](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#troubleshooting)

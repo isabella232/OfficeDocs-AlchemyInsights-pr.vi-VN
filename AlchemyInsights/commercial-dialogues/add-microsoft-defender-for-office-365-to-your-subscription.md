@@ -1,5 +1,5 @@
 ---
-title: Thêm Microsoft Defender cho Office 365 vào gói đăng ký của bạn
+title: Thêm Bộ bảo vệ Microsoft cho Office 365 đăng ký của bạn
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 5dbd3e3b7744f48c5737b0909765576453e8769e
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: ea3addc8bd1e7bb3026132512f75ecdbafcec06036ec14943fb3aed554e25757
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50749710"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54006264"
 ---
-# <a name="add-microsoft-defender-for-office-365-to-your-subscription"></a>Thêm Microsoft Defender cho Office 365 vào gói đăng ký của bạn
+# <a name="add-microsoft-defender-for-office-365-to-your-subscription"></a>Thêm Bộ bảo vệ Microsoft cho Office 365 đăng ký của bạn
 
 Để thực hiện điều này:
 
-1. Trong Trung tâm quản trị, hãy đi tới  >  [dịch vụ mua hàng](https://go.microsoft.com/fwlink/p/?linkid=868433)thanh toán.
-2. Trên trang **mua dịch vụ** , hãy nhấn **Ctrl + F** để mở hộp tìm kiếm, rồi tìm kiếm cho **Microsoft Defender cho Office 365**. Nếu bạn không tìm thấy phần bổ trợ, đó là vì gói đăng ký của bạn không hỗ trợ việc thêm nó.
-3. Chọn **mua ngay**, rồi làm theo các lời nhắc trên trang.
+1. Trong trung tâm quản trị, đi tới Dịch **vụ mua**  >  [thanh toán](https://go.microsoft.com/fwlink/p/?linkid=868433).
+2. Trên trang **Mua dịch** vụ, nhấn **CTRL+F** để mở hộp tìm kiếm, rồi tìm kiếm Bộ bảo vệ **Microsoft để tìm Office 365.** Nếu bạn không tìm thấy phần bổ trợ, đó là do gói của bạn không hỗ trợ thêm phần bổ trợ.
+3. Chọn **Mua ngay**, rồi làm theo lời nhắc trên trang.
