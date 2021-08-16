@@ -1,5 +1,5 @@
 ---
-title: Tính khả dụng của việc học tập của Microsoft Viva
+title: Microsoft Viva Học tập sẵn sàng
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004616"
 - "8339"
-ms.openlocfilehash: d74b6bd000be6a8a93978b5e5f737e97ef3c0833
-ms.sourcegitcommit: 8e08d8c45807fa3dd4db6574977a8466a2514383
+ms.openlocfilehash: 27cd7ccd9cbd5afe5ca41177723a99a0f6a71aa720c9ebea1d3889bcbb140d20
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 02/18/2021
-ms.locfileid: "50315562"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54097940"
 ---
-# <a name="microsoft-viva-learning-availability"></a>Tính khả dụng của việc học tập của Microsoft Viva
+# <a name="microsoft-viva-learning-availability"></a>Microsoft Viva Học tập sẵn sàng
 
-Bắt đầu từ tháng hai 2021, chúng tôi đang xem trước ứng dụng của Viva Learning dành cho các nhóm có một số lượng nhỏ khách hàng và đối tác và mong đợi để làm cho các nhóm có sẵn trong năm nay. Chúng tôi khuyên bạn nên [đăng ký ở đây](https://aka.ms/VivaLearningSignup) để tìm hiểu thêm về việc học tập Viva, bao gồm thêm chi tiết về những trải nghiệm mới khi chúng trở nên sẵn dùng.
+Bắt đầu từ tháng 2 năm 2021, chúng tôi sẽ xem trước ứng dụng Viva Học tập cho Teams với một số lượng nhỏ khách hàng và đối tác, đồng thời dự kiến ứng dụng này sẽ sẵn dùng rộng hơn vào cuối năm nay. Chúng tôi khuyến khích bạn [đăng ký](https://aka.ms/VivaLearningSignup) tại đây để tìm hiểu thêm về Viva Học tập, bao gồm cả thông tin chi tiết hơn về các trải nghiệm mới khi chúng sẵn dùng.
 
-Để biết thêm thông tin, hãy xem mục thông [báo bản xem trước Microsoft Viva Learning riêng tư](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/announcing-microsoft-viva-learning-private-preview/ba-p/2107023).
+Để biết thêm thông tin, [hãy xem Thông báo Microsoft Viva Học tập trước riêng tư](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/announcing-microsoft-viva-learning-private-preview/ba-p/2107023).
