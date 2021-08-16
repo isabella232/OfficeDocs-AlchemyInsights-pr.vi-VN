@@ -1,5 +1,5 @@
 ---
-title: Khắc phục sự cố lỗi 404, không tìm thấy tệp
+title: Khắc phục lỗi 404, Không tìm thấy tệp
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -8,25 +8,25 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1b15444c-367b-4523-8e08-1c77bbea7524
-ms.openlocfilehash: e76864949bde7230e63f509823ab1e3edf631388
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5c65aabf41ca17c9164e3f167346d314bc4e92d47f5fc17c188f12819b0a2cfa
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750113"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54048574"
 ---
-# <a name="troubleshoot-error-404-file-not-found"></a>Khắc phục sự cố lỗi 404, không tìm thấy tệp
+# <a name="troubleshoot-error-404-file-not-found"></a>Khắc phục lỗi 404, Không tìm thấy tệp
 
-Đã nhận được lỗi 404 khi người dùng tìm cách truy nhập vào một trang hoặc tệp trong SharePoint hoặc OneDrive. Điều này thường gây ra bởi một site hoặc tệp hoặc nhóm nhận được đổi tên, di chuyển hoặc xóa bỏ. Ví dụ: người dùng sẽ gặp phải lỗi 404 tìm cách truy nhập vào tuyển tập trang gốc và đã bị xóa bỏ.
+Lỗi 404 xuất hiện khi người dùng tìm cách truy nhập vào site hoặc tệp trong SharePoint hoặc OneDrive. Lỗi này thường xảy ra do một site hay tệp hay nhóm bị đổi tên, di chuyển hoặc xóa. For example: Users will experience a 404 Error attempting to access the Root Site Collection and it has been deleted.
 
-Để giải quyết lỗi 404 cho một site đã được đổi tên, di chuyển hoặc xóa bỏ:
+Để giải quyết Lỗi 404 đối với Site đã được đổi tên, di chuyển hoặc xóa:
 
-Đối với các trang cổ điển tồn tại trong Trung tâm quản trị cổ điển, hãy xem [khôi phục tuyển tập trang đã xóa](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection).
+Đối với các site cổ điển tồn tại trong Trung tâm Quản trị Cổ điển, xem [mục Khôi phục tuyển tập site đã xóa](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection).
 
-Đối với các site hiện đại (liên lạc, liên kết nhóm hoặc các site khác) tồn tại trong Trung tâm quản trị SharePoint mới, hãy xem [xem và khôi phục các site đã xóa trong Trung tâm quản trị SharePoint mới](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection).
+Đối với các site hiện đại (liên lạc, kết nối nhóm hoặc các site khác) tồn tại trong trung tâm quản trị SharePoint mới, xem mục Xem và khôi phục các site đã xóa trong trung tâm quản trị [SharePoint mới.](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection)
 
-Để giải quyết lỗi 404 cho tệp (hoặc mục khác) đã được đổi tên, di chuyển hoặc xóa bỏ:
+Để giải quyết Lỗi 404 đối với Tệp (hoặc mục khác) đã được đổi tên, di chuyển hoặc xóa:
 
-Đi đến site SharePoint hoặc OneDrive và xem thùng rác từ nội dung trang. Xem, [khôi phục các mục trong thùng rác của một site SharePoint](https://support.office.com/article/Restore-items-in-the-Recycle-Bin-of-a-SharePoint-site-6df466b6-55f2-4898-8d6e-c0dff851a0be#ID0EAADAAA=Online).
+Đi tới SharePoint hoặc OneDrive của bạn và xem Thùng Rác từ nội dung Site. Xem Khôi [phục mục trong Thùng Rác của site SharePoint người dùng.](https://support.office.com/article/Restore-items-in-the-Recycle-Bin-of-a-SharePoint-site-6df466b6-55f2-4898-8d6e-c0dff851a0be#ID0EAADAAA=Online)
 
-Nếu bạn vẫn không thể tìm thấy mục mà bạn có thể tìm kiếm Nhật ký kiểm tra nếu ghi nhật ký được bật, hãy [Tìm kiếm Nhật ký kiểm tra trong Trung tâm tuân thủ & bảo mật của Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance).
+Nếu bạn vẫn không thể tìm thấy mục, bạn có thể tìm kiếm nhật ký kiểm tra nếu tính năng ghi nhật ký được bật, hãy xem mục Tìm kiếm nhật ký kiểm tra trong Trung tâm Bảo mật Microsoft 365 & Tuân [thủ.](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance)

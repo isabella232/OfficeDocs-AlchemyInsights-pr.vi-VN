@@ -1,5 +1,5 @@
 ---
-title: Khôi phục Phiên bản tệp trước đó
+title: Khôi phục phiên bản tệp trước đó
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,21 +12,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8117dea-2111-4275-9ca1-9c1f3e5667cf
-ms.openlocfilehash: 5fead002ffe2089835f9419e9fe0ce0353c9dd03
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6e2a728b80d7c175682f17117cc1e61c109f56eb987483be12187d048467a4c4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47720632"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54039592"
 ---
-# <a name="restore-a-previous-file-version"></a>Khôi phục Phiên bản tệp trước đó
+# <a name="restore-a-previous-file-version"></a>Khôi phục phiên bản tệp trước đó
 
-Với lịch sử Phiên bản trực tuyến, bạn có thể xem và khôi phục các phiên bản cũ hơn của các tệp của mình trong OneDrive hoặc SharePoint. Lịch sử Phiên bản hoạt động với tất cả các loại tệp, bao gồm các tệp PDF, CAD, ảnh và video. Để khôi phục Phiên bản tệp trước đó:
+Với lịch sử phiên bản trực tuyến, bạn có thể xem và khôi phục các phiên bản tệp cũ hơn trong OneDrive hoặc SharePoint. Lịch sử phiên bản hoạt động với tất cả các loại tệp, bao gồm PDF, tệp CAD, ảnh và video. Để khôi phục phiên bản tệp trước đó:
   
-1. Mở thư viện tài liệu SharePoint hoặc vị trí OneDrive.
+1. Mở thư viện SharePoint liệu hoặc vị OneDrive khác.
     
-2. Bấm vào bên trái của tệp để chọn, rồi bấm **lịch sử Phiên bản**. Nếu bạn không thấy lịch sử Phiên bản trên thanh lệnh, hãy bấm vào xem thêm ( **...** ). 
+2. Bấm vào phía bên trái tệp để chọn tệp, rồi bấm vào Lịch **sử phiên bản**. Nếu bạn không nhìn thấy Lịch sử phiên bản trên thanh lệnh, hãy bấm vào Xem thêm ( **...** ). 
     
-3. Bấm vào phiên bản bạn muốn xem, hoặc bấm vào Thêm ( **...** ) ở bên phải của một phiên bản, rồi bấm vào **khôi phục**.
+3. Bấm vào phiên bản bạn muốn xem hoặc bấm vào Thêm ( **...** ) ở bên phải của phiên bản và sau đó bấm Khôi **phục.**
     
 

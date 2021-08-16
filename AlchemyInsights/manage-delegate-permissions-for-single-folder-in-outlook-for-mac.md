@@ -1,5 +1,5 @@
 ---
-title: Quản lý quyền đại diện cho một thư mục duy nhất trong Outlook for Mac
+title: Quản lý quyền đại diện cho một thư mục trong Outlook for Mac
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800004"
 - "7333"
-ms.openlocfilehash: 1d6e8c916a6910e4d0ad5fc3e8395d25399389fd
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 87527ffb4db54e95a1aa1a4b6093f1b65cc6f595584c6e04c9657ee7210f0201
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49565006"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54066818"
 ---
-# <a name="manage-delegate-permissions-for-a-single-folder-in-outlook-for-mac"></a>Quản lý quyền đại diện cho một thư mục duy nhất trong Outlook for Mac
+# <a name="manage-delegate-permissions-for-a-single-folder-in-outlook-for-mac"></a>Quản lý quyền đại diện cho một thư mục trong Outlook for Mac
 
-1. Trong ngăn dẫn hướng, hãy chọn thư mục mà bạn muốn thay đổi.
-2. Bên dưới tab **tổ chức** , chọn **quyền** trong lịch, rồi chọn **quyền thư mục** trong thư hoặc người.
+1. Trong ngăn dẫn hướng, chọn thư mục bạn muốn thay đổi.
+2. Bên dưới tab **Tổ** chức, chọn **Quyền trong** Lịch và chọn Quyền **Thư mục** trong Thư hoặc Mọi người.
 3. Bấm vào tên của người mà bạn muốn thay đổi quyền.
-4. Trên danh sách **mức cấp phép** , hãy chọn mức truy nhập mà bạn muốn. Các mức cấp phép riêng lẻ sẽ tự động được điền dựa trên lựa chọn của bạn trong danh sách.
+4. Trên danh **sách Mức Cấp** phép, hãy chọn mức truy nhập mà bạn muốn. Mức cấp phép cá nhân được điền tự động dựa trên lựa chọn của bạn trong danh sách.
 
-Để tùy chỉnh các mức cấp phép, hãy chọn các hộp kiểm cho các mục bạn muốn, rồi bên dưới **sửa mục** và **xóa mục**, chọn mức cấp phép bạn muốn.
+Để tùy chỉnh mức cấp phép, hãy chọn hộp kiểm  cho các mục mà bạn muốn, rồi bên dưới mục Sửa Mục và Xóa **Mục,** hãy chọn mức cấp phép mà bạn muốn.
 
 > [!NOTE]
-> Nếu bạn đặt cấp độ quyền để **không** có, thì đại diện vẫn nằm trong danh sách, cho phép bạn nhanh chóng khôi phục quyền sau này. Để biết thông tin về các mức cấp phép, hãy xem [giới thiệu về chia sẻ và ủy](https://support.microsoft.com/office/options-for-sharing-and-delegating-folders-in-outlook-for-mac-480d8054-68ce-4150-ba1e-b9b7f2fc4ce5)quyền.
+> Nếu bạn đặt mức cấp phép là **Không có,** người đại diện đó vẫn ở trên danh sách, cho phép bạn nhanh chóng phục hồi quyền sau đó. Để biết thêm thông tin về các mức cấp phép, [hãy xem Thông tin về chia sẻ và ủy quyền](https://support.microsoft.com/office/options-for-sharing-and-delegating-folders-in-outlook-for-mac-480d8054-68ce-4150-ba1e-b9b7f2fc4ce5).

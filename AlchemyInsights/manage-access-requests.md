@@ -12,22 +12,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 6c1a4b19-5915-428f-bc57-40ee2af62178
-ms.openlocfilehash: 690935623685712959c6544752c5df06f7d9da01
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b8674f8612dc2310b622f9324a515bb5d88b43271ac9d1a474eefa1be3cae750
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47778341"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54066854"
 ---
 # <a name="manage-access-requests"></a>Quản lý yêu cầu truy nhập
 
-Khi người dùng cố gắng truy nhập vào một mục trong SharePoint và họ không có quyền, họ sẽ thấy thông báo họ cần có quyền truy nhập vào mục đó. Người dùng có thể yêu cầu truy nhập (trong một số trường hợp, đến mục cụ thể hoặc tham gia nhóm) và chủ sở hữu site có thể phê duyệt hoặc từ chối yêu cầu. Nếu ai đó không phải là chủ sở hữu site sẽ chia sẻ một site với một người khác, chủ sở hữu site cũng sẽ nhận được yêu cầu truy nhập cho người dùng mới. Để phê duyệt hoặc từ chối yêu cầu truy nhập:
+Khi người dùng tìm cách truy nhập một mục trong SharePoint và họ không có quyền, họ sẽ thấy thông báo cho biết họ cần quyền để truy nhập vào mục đó. Người dùng có thể yêu cầu quyền truy nhập (trong một số trường hợp, đến mục cụ thể hoặc tham gia nhóm) và chủ sở hữu site có thể chấp thuận hoặc từ chối yêu cầu. Nếu một người không phải là chủ sở hữu site chia sẻ site với người khác, thì chủ sở hữu site cũng sẽ nhận được yêu cầu truy nhập cho người dùng mới. Để chấp thuận hoặc từ chối yêu cầu truy nhập:
   
-1. Đi đến site, bấm vào biểu tượng thiết đặt ở phía trên bên phải, rồi bấm **thiết đặt trang**. (Nếu bạn không thấy thiết đặt trang, hãy bấm quyền đối với **trang**, rồi bấm **thiết đặt quyền nâng cao**. Tìm một biểu ngữ có liên kết có tên là "Hiển thị các yêu cầu truy nhập và thư mời.")
+1. Đi đến site, bấm vào biểu tượng Cài đặt ở phía trên bên phải, rồi bấm vào **Site Cài đặt.** (Nếu bạn không thấy Cài đặt Cài đặt Site, hãy bấm vào Quyền đối với **site**, rồi bấm vào Cài **đặt quyền nâng cao.** Tìm biểu ngữ có liên kết gọi là "Hiển thị yêu cầu truy nhập và thư mời".
     
-2. Bên dưới **người dùng và quyền**, hãy bấm **vào yêu cầu truy nhập và thư mời**. (Nếu điều này không xuất hiện, không có yêu cầu truy nhập nào được thực hiện.)
+2. Trong **phần Người dùng và Quyền,** bấm vào Yêu cầu truy nhập và thư **mời.** (Nếu không xuất hiện, bạn sẽ không nhận được yêu cầu truy nhập nào.)
     
-3. Để cấp cho người dùng quyền riêng lẻ, hãy bấm **phê duyệt** hoặc **từ chối**. Để chọn một mức cấp phép cụ thể, trước tiên hãy bấm vào dấu chấm lửng (...) bên cạnh tên của người đó. Ngoài ra, bạn có thể thêm người dùng vào một nhóm có quyền đối với site. Đối với các site liên lạc và site nhóm cổ điển, bạn có thể thực hiện điều này trên trang thiết đặt trang. Đối với các site thuộc nhóm Microsoft 365, bạn có thể thêm người dùng vào nhóm đó.
+3. Để cấp quyền cho người dùng một cách riêng lẻ, hãy bấm vào **Phê duyệt** hoặc **Từ chối**. Để chọn một mức cấp phép cụ thể, trước tiên hãy bấm vào dấu chấm lửng (...) bên cạnh tên của người đó. Ngoài ra, thêm người dùng vào một nhóm có quyền đối với site. Đối với các site liên lạc và site nhóm cổ điển, bạn có thể thực hiện điều này trên trang Cài đặt Site. Đối với các site thuộc nhóm Microsoft 365 Người dùng, bạn có thể thêm người dùng đó vào nhóm.
     
     [Quản lý yêu cầu truy nhập ](https://go.microsoft.com/fwlink/?linkid=2008747)
     

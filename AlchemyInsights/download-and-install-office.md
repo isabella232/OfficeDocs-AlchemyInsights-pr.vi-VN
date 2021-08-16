@@ -1,5 +1,5 @@
 ---
-title: Tải xuống và cài đặt Office
+title: Tải xuống và cài Office
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c040c5d7-ff1c-4a29-91e7-a6ad7c3b410b
-ms.openlocfilehash: 5950c130b82e435eacaf9fb096faae8482b50c15
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f6306811fad43af92e195467703b6cc1416ca7d6d6e6fcde56901e895f8c8239
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814755"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54004860"
 ---
-# <a name="download-and-install-office"></a>Tải xuống và cài đặt Office
+# <a name="download-and-install-office"></a>Tải xuống và cài Office
 
-Đăng ký **doanh nghiệp** của bạn không bao gồm các ứng dụng Microsoft 365. Để nhận Office, bạn sẽ cần nâng cấp lên đăng ký **Business** hoặc **Business Premium** . Xem các đăng ký có sẵn bằng Office ở đây: [Microsoft 365 for Business](https://products.office.com/compare-all-microsoft-office-products?tab=2)
+Đăng **ký Business Essentials** của bạn không bao gồm các ứng Microsoft 365 dành cho doanh nghiệp. Để đăng ký Office, bạn sẽ cần nâng  cấp lên đăng ký Business **hoặc Business Premium.** Xem các đăng ký có sẵn với các Office đây: [Microsoft 365 cho doanh nghiệp](https://products.office.com/compare-all-microsoft-office-products?tab=2)
   
 

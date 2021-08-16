@@ -1,5 +1,5 @@
 ---
-title: Quản lý chú thích trực tiếp cho các tổ chức giáo dục
+title: Quản lý chú thích trực tiếp cho các tổ chức Giáo dục
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "6140"
 - "9003263"
-ms.openlocfilehash: 1df49b09ef29c486d831e414cdf7fe22384c252f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0779f486e1b1d5099bd97bea4ca2ff187fd44c985060507b33cb00a1c6c1d4c2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812785"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54066740"
 ---
-# <a name="managing-live-captions-for-education-organizations"></a>Quản lý chú thích trực tiếp cho các tổ chức giáo dục
+# <a name="managing-live-captions-for-education-organizations"></a>Quản lý chú thích trực tiếp cho các tổ chức Giáo dục
 
-Chúng tôi khuyên bạn nên người quản trị của tổ chức giáo dục cân nhắc sử dụng gói chính sách dành cho học viên và an toàn giáo dục và giáo dục. Để biết thêm thông tin, hãy xem:  
+Chúng tôi khuyên người quản trị của các tổ chức giáo dục nên cân nhắc sử dụng gói chính sách cho học viên và giảng viên về an toàn và giảng viên. Để biết thêm thông tin, hãy xem:  
 
-- Các [gói chính sách trong Microsoft nhóm](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policy-packages-in-microsoft-teams).  
+- [Gói chính sách trong Microsoft Teams.](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policy-packages-in-microsoft-teams)  
     
-- [Các chính sách cần được giao cho an toàn cho sinh viên](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-student-safety).
+- [Các chính sách cần được gán cho an toàn của học viên](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-student-safety).
 
-- [Các chính sách phải được giao cho các nhà giáo dục](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-educators).
+- [Các chính sách nên được gán cho nhà giáo dục.](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-educators)
 
-Nếu bạn chỉ muốn quản lý khả năng bật chú thích trực tiếp, hãy xem mục [bật chú thích trực tiếp](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#enable-live-captions). Để biết thêm thông tin, hãy xem [quản lý chính sách cuộc họp trong nhóm](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams).
+Nếu bạn chỉ muốn quản lý khả năng bật chú thích trực tiếp, hãy xem [bật chú thích trực tiếp](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#enable-live-captions). Để biết thêm thông tin, xem [mục Quản lý chính sách cuộc họp Teams.](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams)

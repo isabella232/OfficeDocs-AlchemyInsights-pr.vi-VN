@@ -1,5 +1,5 @@
 ---
-title: Thực hiện khám phá trang
+title: Thực hiện khám phá site
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,42 +13,42 @@ ms.collection: Adm_O365
 ms.custom:
 - "9143"
 - "9005291"
-ms.openlocfilehash: bdf94220de45d92f63e56501ea4e35389224d25c
-ms.sourcegitcommit: 475a9eaa095812091991857df6cf6490a8bbe179
+ms.openlocfilehash: 4653fdef7e9226f05809d56e9a445cd1da35b0578c088bea72252a281d4527d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/08/2021
-ms.locfileid: "50694552"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030780"
 ---
-# <a name="do-site-discovery"></a>Thực hiện khám phá trang
+# <a name="do-site-discovery"></a>Thực hiện khám phá site
 
-Nếu tổ chức của bạn vẫn sử dụng các ứng dụng web kế thừa và các gói sử dụng chế độ Internet Explorer (mà hầu hết khách hàng thực hiện), thì bạn nên thực hiện một số khám phá trang bổ sung.
+Nếu tổ chức của bạn vẫn sử dụng các ứng dụng web thừa tự và các gói để sử dụng chế độ Internet Explorer (mà hầu hết khách hàng làm), bạn nên thực hiện một số khám phá site bổ sung.
 
-**Bạn đã triển khai phiên bản Microsoft Edge cũ hơn**
+**Bạn đã triển khai một phiên bản cũ hơn của Microsoft Edge**
 
-Nếu bạn đã cấu hình danh sách trang web doanh nghiệp của bạn để làm việc cho phiên bản kế thừa của Microsoft Edge, sau đó phát hiện trang web của bạn gần như đã hoàn tất. Một trong những điều bạn có thể cần làm là thêm site trung lập.
+Nếu bạn đã cấu hình Danh sách Site Doanh nghiệp của mình để làm việc cho phiên bản kế thừa của Microsoft Edge, khi đó việc khám phá site của bạn gần như đã hoàn thành. Một điều bạn có thể cần làm là thêm các site trung lập.
 
-Site trung bình thường là các site cung cấp đăng nhập đơn (SSO). Nếu bạn đi đến một site trung lập từ Microsoft Edge, thì bạn muốn ở trong Microsoft Edge để xác thực. Nếu bạn đi đến một site trung lập trong chế độ Internet Explorer, thì bạn muốn giữ lại trong chế độ Internet Explorer để xác thực.
+Site trung lập thường là các site cung cấp tính năng đăng nhập đơn (SSO). Nếu bạn đi đến site trung lập từ Microsoft Edge, khi đó bạn muốn giữ liên Microsoft Edge xác thực. Nếu bạn đi tới một site trung lập ở chế độ Internet Explorer, khi đó bạn muốn duy trì ở chế độ Internet Explorer để xác thực.
 
-Xác định bất kỳ SSO hoặc các site trung lập nào mà bạn sử dụng và thêm vào danh sách trang web doanh nghiệp của bạn.
+Xác định mọi SSO hoặc site trung lập khác mà bạn sử dụng và thêm những site này vào Danh sách Site Doanh nghiệp của bạn.
 
 **Internet Explorer là trình duyệt mặc định của bạn**
 
-Nếu bạn chỉ đang dùng Internet Explorer, bạn có thể không biết site nào đã nâng cấp lên tiêu chuẩn web hiện đại và vẫn yêu cầu Internet Explorer. Bạn sẽ muốn tìm và thêm các site này vào danh sách site của doanh nghiệp để bạn có thể sử dụng chế độ Internet Explorer cho các site đó.
+Nếu bạn hiện chỉ đang sử dụng Internet Explorer, bạn có thể không biết site nào đã được nâng cấp lên tiêu chuẩn web hiện đại và site nào vẫn cần có Internet Explorer. Bạn sẽ muốn tìm và thêm những site này vào Danh sách Site Doanh nghiệp để bạn chỉ có thể sử dụng chế độ Internet Explorer cho những site đó.
 
 > [!NOTE]
-> [Khám phá trang Enterprise phát hiện](https://docs.microsoft.com/internet-explorer/ie11-deploy-guide/collect-data-using-enterprise-site-discovery) ra các site có thể cần chế độ Internet Explorer. Ứng dụng này có thể thu thập dữ liệu trên các máy tính chạy Windows Internet Explorer 8 thông qua Internet Explorer 11 trên Windows 10, Windows 8,1 hoặc Windows 7.
+> [Khám phá Site Doanh](https://docs.microsoft.com/internet-explorer/ie11-deploy-guide/collect-data-using-enterprise-site-discovery) nghiệp khám phá các site có thể cần chế độ Internet Explorer. Trình duyệt có thể thu thập dữ liệu trên máy tính chạy Windows Internet Explorer 8 đến Internet Explorer 11 trên Windows 10, Windows 8.1 hoặc Windows 7.
 
 **Phân tích dữ liệu**
 
-Sau khi bạn đã thu thập dữ liệu site, chúng tôi khuyên bạn nên quy trình bốn bước sau đây để phân tích dữ liệu:
-1. Sắp xếp dữ liệu theo tên miền, rồi theo URL.
-2. Xác định ranh giới của một ứng dụng để cấu hình cho chế độ Internet Explorer. Bạn muốn bao gồm tất cả các site và điều khiển web xác định ứng dụng, nhưng bạn không muốn bao gồm các site và điều khiển bổ sung. Một số site có thể đơn giản như *https://contoso.com/app1* trong khi những người khác có thể yêu cầu bạn xác định nhiều site và trang.
-3. Kiểm tra ứng dụng để xác nhận rằng nó không hoạt động chính. Nhiều site sẽ cung cấp nội dung hiện đại khi họ phát hiện ra một trình duyệt hiện đại và chỉ cung cấp nội dung kế thừa khi họ phát hiện Internet Explorer.
-4. Thêm ứng dụng vào danh sách site doanh nghiệp của bạn nếu nó không được kiểm tra.
+Sau khi bạn đã thu thập dữ liệu site, chúng tôi đề xuất quy trình bốn bước sau đây để phân tích dữ liệu:
+1. Sắp xếp dữ liệu theo miền, rồi theo URL.
+2. Xác định ranh giới của ứng dụng để cấu hình cho chế độ Internet Explorer. Bạn muốn bao gồm tất cả các site và điều khiển web xác định ứng dụng, nhưng bạn không muốn bao gồm các site và điều khiển bổ sung. Một số site có thể đơn giản như trong *https://contoso.com/app1* khi những site khác có thể yêu cầu bạn xác định nhiều site và trang.
+3. Kiểm tra ứng dụng để xác nhận rằng ứng dụng này hiện không hoạt động. Nhiều site sẽ cung cấp nội dung hiện đại khi chúng phát hiện trình duyệt hiện đại và chỉ cung cấp nội dung kế thừa khi chúng phát hiện Internet Explorer.
+4. Thêm ứng dụng vào Danh sách Site Doanh nghiệp nếu nó không kiểm tra được.
 
 > [!NOTE]
-> Thực hành tốt nhất, nhóm tất cả các site có bao gồm một ứng dụng. Bằng cách này, khi bạn nâng cấp một ứng dụng, bạn sẽ dễ dàng loại bỏ toàn bộ site khỏi chế độ Internet Explorer và bắt đầu sử dụng trình duyệt hiện đại cho ứng dụng đó.
+> Theo phương pháp tốt nhất, hãy nhóm tất cả các site có phần ứng dụng. Bằng cách này, khi bạn nâng cấp một ứng dụng, sẽ dễ dàng hơn để loại bỏ toàn bộ site khỏi chế độ Internet Explorer và bắt đầu sử dụng một trình duyệt hiện đại cho ứng dụng đó.
 
-Sau khi bạn đã thực hiện xong với khám phá trang và bạn đã phân tích dữ liệu, bạn đã sẵn sàng để bắt đầu xem chiến lược kênh của mình.
+Sau khi khám phá site xong và đã phân tích dữ liệu, bạn đã sẵn sàng bắt đầu xem chiến lược kênh của mình.
 

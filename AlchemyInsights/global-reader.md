@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002962"
 - "5672"
-ms.openlocfilehash: 522343ef1e49d59fe019aba8de8bb9e88ddcbe46
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2a8b053f493488a1ab6740cc2433d18f61729fe65959cbd1903ad689000113b2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51811874"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54056476"
 ---
 # <a name="global-reader"></a>Bộ đọc toàn cầu
 
-Người dùng trong vai trò này có thể đọc các thiết đặt và thông tin quản trị trên các dịch vụ Microsoft 365 nhưng không thể thực hiện các hành động quản lý. Bộ đọc toàn cầu là đối tượng chỉ đọc cho người quản trị toàn cầu.
-Trung tâm quản trị OneDrive không hỗ trợ vai trò bộ đọc toàn cầu.
+Người dùng có vai trò này có thể đọc thiết đặt và thông tin quản trị Microsoft 365 các dịch vụ khác nhau nhưng không thể thực hiện các hành động quản lý. Người đọc toàn cục là đối tác chỉ đọc với người quản trị Toàn cục.
+OneDrive quản trị viên của bạn không hỗ trợ vai trò Bộ đọc toàn cầu.
 
-Để tìm hiểu thêm về bộ đọc toàn cầu và các hạn chế hiện tại của nó, hãy xem [đọc toàn cầu](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles#global-reader).
+Để tìm hiểu thêm về Bộ đọc toàn cầu và các giới hạn hiện tại của trình đọc, xem [mục Bộ đọc Toàn cầu](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles#global-reader).

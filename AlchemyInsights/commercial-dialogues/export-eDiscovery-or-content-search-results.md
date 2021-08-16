@@ -1,5 +1,5 @@
 ---
-title: Xuất kết quả tìm kiếm khám phá điện tử/nội dung
+title: Xuất kết quả Khám phá Điện tử/Tìm kiếm Nội dung
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7221"
-ms.openlocfilehash: b93377a33eebc7899041b684449e46caedb04415
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: de5d6f2bbf32ca1b7a0bbb9dd416fb19186d2e72ad57fbf25d9b55bd733fdc21
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50483732"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53988210"
 ---
-# <a name="export-ediscoverycontent-search-results"></a>Xuất kết quả tìm kiếm khám phá điện tử/nội dung
+# <a name="export-ediscoverycontent-search-results"></a>Xuất kết quả Khám phá Điện tử/Tìm kiếm Nội dung
 
-Bạn có thể cần xuất kết quả tìm kiếm của mình vào một tệp PST (từ email) hoặc đến các tài liệu Office gốc (từ SharePoint và site OneDrive for Business). Nếu vậy, hãy thực hiện các thao tác sau:
+Bạn có thể cần phải xuất kết quả tìm kiếm của mình sang một tệp PST (từ email) hoặc sang các tài liệu Office gốc (từ các SharePoint và OneDrive for Business khác). Nếu có, hãy thực hiện như sau:
 
-- Hãy đảm bảo rằng tài khoản của bạn được gán quyền phù hợp để xuất. Để biết thêm thông tin, hãy xem mục [gán quyền khám phá](https://go.microsoft.com/fwlink/?linkid=2102406)điện tử.
-- Hãy đảm bảo rằng máy tính của bạn đã gặp tất cả các điều [kiện tiên quyết](https://docs.microsoft.com/office365/securitycompliance/export-search-results#before-you-begin). Không phải tất cả các trình duyệt đều được hỗ trợ, chẳng hạn như Chrome.
-- Để xuất từ một tìm kiếm nội dung: a. Đi đến [Trung tâm tuân thủ bảo mật &](https://protection.office.com/contentsearch) và bấm **Tìm kiếm**, rồi chọn **Tìm kiếm nội dung**. Trên trang **Tìm kiếm nội dung** , hãy chọn một tìm kiếm đã lưu.
-    b. Trên ngăn chi tiết, bên dưới **xuất kết quả cho một máy tính**, hãy chọn **bắt đầu xuất**. Nếu bạn đang xuất nhiều hơn 100K hộp thư, bạn sẽ cần sử dụng PowerShell để tải xuống các kết quả xuất. Để biết thêm thông tin, hãy xem mục [xuất kết quả từ nhiều hơn 100k hộp thư](https://go.microsoft.com/fwlink/?linkid=2143861).
+- Hãy đảm bảo rằng tài khoản của bạn được gán các quyền thích hợp để xuất. Để biết thêm thông tin, [hãy xem Gán quyền Khám phá Điện tử.](https://go.microsoft.com/fwlink/?linkid=2102406)
+- Hãy đảm bảo máy tính của bạn đã đáp [ứng tất cả các điều kiện tiên quyết.](https://docs.microsoft.com/office365/securitycompliance/export-search-results#before-you-begin) Không phải tất cả các trình duyệt đều được hỗ trợ, chẳng hạn như Chrome.
+- Để xuất từ Tìm kiếm Nội dung: a. Đi đến Trung [tâm Bảo & Tuân thủ và](https://protection.office.com/contentsearch) bấm Tìm **kiếm**, rồi chọn Tìm kiếm **nội dung**. Trên trang **Tìm kiếm nội dung,** chọn một tìm kiếm đã lưu.
+    b. Trên ngăn Chi tiết, bên dưới **Xuất kết quả sang máy tính,** chọn Bắt đầu **xuất**. Nếu bạn đang xuất hơn 100K hộp thư, bạn sẽ cần sử dụng PowerShell để tải xuống kết quả xuất. Để biết thêm thông tin, [hãy xem mục Xuất kết quả từ hơn 100K hộp thư.](https://go.microsoft.com/fwlink/?linkid=2143861)
 
-Để tìm hiểu thêm, hãy xem [xuất kết quả tìm kiếm nội dung](https://go.microsoft.com/fwlink/?linkid=2102118).
+Để tìm hiểu thêm, hãy xem [Xuất Kết quả Tìm kiếm Nội dung](https://go.microsoft.com/fwlink/?linkid=2102118).

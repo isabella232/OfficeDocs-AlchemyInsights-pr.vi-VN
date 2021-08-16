@@ -1,5 +1,5 @@
 ---
-title: Ví dụ về chính sách đính kèm an toàn của Microsoft Defender cho Office 365
+title: Ví dụ về Bộ bảo vệ Microsoft cho Office 365 Két sắt sách Tệp đính kèm
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 077762dd37a2974b4e519c1f242fa753623cb49a
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 7294be81a24fa61a92367bae304798a333cb916c8718e28b1a87314c15ef6c8c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50749191"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53988317"
 ---
-# <a name="example-microsoft-defender-for-office-365-safe-attachment-policy"></a>Ví dụ về chính sách đính kèm an toàn của Microsoft Defender cho Office 365
+# <a name="example-microsoft-defender-for-office-365-safe-attachment-policy"></a>Ví dụ về Bộ bảo vệ Microsoft cho Office 365 Két sắt sách Tệp đính kèm
 
-Các thiết đặt này cho phép một chính sách có tên là *không có sự chậm trễ* cung cấp thư ngay lập tức và sau đó đính kèm các phần đính kèm sau khi đã quét:
+Những thiết đặt này cho phép một *chính sách* gọi là Không trì hoãn chuyển phát thư ngay lập tức và sau đó lưu lại các phần đính kèm sau khi quét:
 
-- **Tên**: không có sự chậm trễ
-- **Mô tả**: việc cung cấp các thư ngay lập tức và đính kèm đính kèm sau khi quét.
-- **Phản hồi**: chọn tùy chọn chuyển phát **động** . Để biết thêm thông tin, hãy xem [phân phát động trong chính sách tệp đính kèm an toàn](https://go.microsoft.com/fwlink/?linkid=2092328).
-- Phần **đính kèm chuyển hướng** : chọn tùy chọn để cho **phép chuyển hướng**, sau đó nhập địa chỉ email của người quản trị toàn cầu của Microsoft 365, người quản trị bảo mật hoặc nhà phân tích bảo mật, những người sẽ điều tra các tệp đính kèm độc hại.
-- Đã **áp dụng cho** mục: chọn **tên miền của người nhận**, rồi chọn tên miền của bạn. Chọn **Thêm**, rồi chọn **OK**. Sau khi bạn đã hoàn tất, hãy chọn **lưu**.
+- **Tên**: Không trì hoãn
+- **Mô** tả : Chuyển phát thư ngay lập tức và đặt lại tệp đính kèm sau khi quét.
+- **Trả lời**: Chọn tùy **chọn Chuyển phát** động. Để biết thêm thông tin, hãy [xem Chuyển phát Động trong Két sắt chính sách Phần đính kèm.](https://go.microsoft.com/fwlink/?linkid=2092328)
+-  Chuyển hướng phần đính kèm: Chọn tùy chọn để Cho phép chuyển hướng **,** sau đó nhập địa chỉ email của người quản trị toàn cầu Microsoft 365, người quản trị bảo mật hoặc nhà phân tích bảo mật sẽ điều tra các tệp đính kèm độc hại.
+- **Mục Áp dụng** Cho: Chọn **Miền của người nhận là**, sau đó chọn miền của bạn. Chọn **thêm**, rồi chọn **OK**. Sau khi bạn hoàn tất, chọn **Lưu**.
 
-Để tìm hiểu thêm, hãy xem phần [đính kèm an toàn trong Microsoft Defender cho Office 365](https://go.microsoft.com/fwlink/?linkid=2092213).
+Để tìm hiểu thêm, xem mục [Két sắt kèm trong Bộ bảo vệ Microsoft dành cho Office 365.](https://go.microsoft.com/fwlink/?linkid=2092213)
