@@ -1,5 +1,5 @@
 ---
-title: Vấn đề đặt lại mật khẩu
+title: Sự cố khi đặt lại mật khẩu
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,65 +13,65 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003259"
 - "9360"
-ms.openlocfilehash: aa1eba1efef6a4c28aa6b9229071304093395922
-ms.sourcegitcommit: 9a00005546c2fe473e3cea2b06e38c27eada88c4
+ms.openlocfilehash: 535b5273d367e24ac45b3f60dbc7b6a2da6a3d9affa5a67499989d19a1904768
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50696283"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54039988"
 ---
-# <a name="problems-resetting-password"></a>Các vấn đề về việc đặt lại mật khẩu
+# <a name="problems-resetting-password"></a>Sự cố đặt lại mật khẩu
 
-Sau đây là một số vấn đề mà bạn có thể gặp phải khi đặt lại mật khẩu và các giải pháp có thể xảy ra:
+Sau đây là một số sự cố mà bạn có thể gặp phải khi đặt lại mật khẩu và các giải pháp khả thi:
 
-**Tôi đang gặp vấn đề với việc đặt lại mật khẩu không được bảo vệ trong các thể loại khác**
+**Tôi đang gặp sự cố với việc đặt lại mật khẩu không được đề cập trong các danh mục khác**
 
-- Đảm bảo bạn được ủy quyền để đặt lại mật khẩu. Chỉ có người quản trị toàn cầu, mật khẩu và người dùng có thể đặt lại mật khẩu người dùng. Người quản trị toàn cầu cũng có thể đặt lại mật khẩu của người quản trị đặc quyền khác.
-- Đảm bảo rằng bạn hiểu được các yêu cầu cấp phép:
-    - Bạn phải có ít nhất một giấy phép được gán trong tổ chức của bạn
-        - Đám mây chỉ người dùng-bất kỳ Office 365 (O365) được trả về SKU hoặc Azure AD BASIC
-        - Nền tảng điện toán đám mây và/hoặc người dùng tại cơ sở-Azure AD Premium P1 hoặc P2, doanh nghiệp Mobility + Security (EMS), hoặc doanh nghiệp hiệu quả bảo mật (SPE)
-        - Để đọc thêm về các yêu cầu cấp phép, hãy xem bài viết các [yêu cầu cấp phép cho AZURE AD tự đặt lại mật khẩu](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-licensing?WT.mc_id=Portal-Microsoft_Azure_Support).
+- Đảm bảo bạn được phép đặt lại mật khẩu. Chỉ người quản trị toàn cục, mật khẩu và người dùng mới có thể đặt lại mật khẩu người dùng. Người quản trị toàn cầu cũng có thể đặt lại mật khẩu của người quản trị có đặc quyền khác.
+- Đảm bảo rằng bạn hiểu các yêu cầu cấp phép:
+    - Bạn phải có ít nhất một giấy phép được gán trong tổ chức của mình
+        - Cloud only users - Any Office 365 (O365) paid SKU, or Azure AD Basic
+        - Người dùng đám mây và/hoặc người dùng tại chỗ - Azure AD Premium P1 hoặc P2, Enterprise Mobility + Security (EMS) hoặc Azure SECURE PRODUCTIVE ENTERPRISE (SPE)
+        - Để đọc thêm về yêu cầu cấp phép, hãy xem bài viết Yêu cầu cấp phép cho đặt lại [mật khẩu tự phục vụ Azure AD.](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-licensing?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Tôi đang gặp vấn đề khi kiểm tra chính sách đặt lại mật khẩu tôi đặt**
+**Tôi đang gặp sự cố khi kiểm tra chính sách đặt lại mật khẩu mà tôi đã đặt**
 
-- Các chính sách được áp dụng gần đây có thể mất vài phút để sao chép trên tất cả các trung tâm dữ liệu và điểm cuối. Khoảng cách vật lý từ Trung tâm dữ liệu cũng sẽ ảnh hưởng đến cách áp dụng các thay đổi nhanh chóng.
-- Kiểm tra với người dùng cuối, chứ không phải là người quản trị và thí điểm có một tập hợp người dùng nhỏ. Các chính sách được cấu hình trong cổng thông tin Azure chỉ áp dụng cho người dùng cuối, chứ không phải người quản trị. Microsoft hỗ trợ một chính sách đặt lại mật khẩu hai cổng mặc định mạnh cho bất kỳ vai trò người quản trị Azure nào (ví dụ: người quản trị toàn cầu, người quản trị, người quản trị mật khẩu, v.v.)
-    - Tìm hiểu thêm về [chính sách dành cho người quản trị](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-policy?WT.mc_id=Portal-Microsoft_Azure_Support#administrator-password-policy-differences).
+- Các chính sách được áp dụng gần đây có thể mất vài phút để sao chép trên tất cả các trung tâm dữ liệu và điểm cuối. Khoảng cách vật lý từ trung tâm dữ liệu cũng sẽ ảnh hưởng đến mức độ nhanh chóng thay đổi được áp dụng.
+- Thử nghiệm với một người dùng cuối, không phải người quản trị, và thử nghiệm với một tập hợp nhỏ người dùng. Các chính sách được đặt cấu hình trong cổng thông tin Azure CHỈ áp dụng cho người dùng cuối, không áp dụng cho người quản trị. Microsoft sẽ bắt buộc chính sách đặt lại mật khẩu hai cổng mặc định mạnh cho mọi vai trò người quản trị Azure (Ví dụ: Người quản trị Toàn cầu, Người quản trị Bộ trợ giúp, Người quản trị Mật khẩu, v.v.)
+    - Tìm hiểu thêm về [các chính sách dành cho người quản trị.](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-policy?WT.mc_id=Portal-Microsoft_Azure_Support#administrator-password-policy-differences)
 
-**Tôi muốn triển khai đặt lại mật khẩu nhưng không muốn người dùng của tôi đăng ký thông tin bảo mật bổ sung**
+**Tôi muốn triển khai đặt lại mật khẩu nhưng tôi không muốn người dùng của mình đăng ký thông tin bảo mật bổ sung**
 
-Dữ liệu trước khi cư trú cho người dùng của bạn để họ không có! -Với tư cách là người quản trị, bạn có thể đặt các thuộc tính điện thoại và email cho người dùng của bạn trước khi đặt lại mật khẩu cho tổ chức của bạn. Bạn có thể thực hiện điều này bằng cách dùng API, PowerShell hoặc Azure AD Connect. Xem thêm thông tin tại đây:
-- [Triển khai việc đặt lại mật khẩu mà không yêu cầu người dùng đăng ký](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-policy?WT.mc_id=Portal-Microsoft_Azure_Support#administrator-password-policy-differences)
-- [Việc đặt lại mật khẩu, dữ liệu nào được sử dụng](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-data?WT.mc_id=Portal-Microsoft_Azure_Support)
+Nhập trước dữ liệu cho người dùng của bạn để họ không cần phải làm điều này! - Là người quản trị, bạn có thể đặt thuộc tính điện thoại và email cho người dùng của mình trước khi triển khai đặt lại mật khẩu cho tổ chức của mình. Bạn có thể thực hiện điều này bằng cách sử dụng API, PowerShell hoặc Azure AD Kết nối. Thông tin thêm tại đây:
+- [Triển khai đặt lại mật khẩu mà không yêu cầu người dùng đăng ký](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-policy?WT.mc_id=Portal-Microsoft_Azure_Support#administrator-password-policy-differences)
+- [Dữ liệu nào được dùng bằng cách đặt lại mật khẩu](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-data?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Nút đặt lại mật khẩu bị mờ đi**
+**Nút đặt lại mật khẩu bị xám**
 
-Bạn không được phép đặt lại mật khẩu của người dùng này. Chỉ có người quản trị toàn cầu, mật khẩu và người dùng có thể đặt lại mật khẩu người dùng. Người quản trị toàn cầu cũng có thể đặt lại mật khẩu của người quản trị đặc quyền khác.
+Bạn không được phép đặt lại mật khẩu của người dùng này. Chỉ người quản trị toàn cục, mật khẩu và người dùng mới có thể đặt lại mật khẩu người dùng. Người quản trị toàn cầu cũng có thể đặt lại mật khẩu của người quản trị có đặc quyền khác.
 
-**Tôi không nhìn thấy lưỡi đặt lại mật khẩu**
+**Tôi không thấy lưỡi đặt lại mật khẩu**
 
-Bạn không được phép đặt lại mật khẩu. Chỉ có người quản trị toàn cầu, mật khẩu và người dùng có thể đặt lại mật khẩu người dùng. Người quản trị toàn cầu cũng có thể đặt lại mật khẩu của người quản trị đặc quyền khác.
+Bạn không được phép đặt lại mật khẩu. Chỉ người quản trị toàn cục, mật khẩu và người dùng mới có thể đặt lại mật khẩu người dùng. Người quản trị toàn cầu cũng có thể đặt lại mật khẩu của người quản trị có đặc quyền khác.
 
-**Tôi không nhìn thấy lưỡi kiếm tích hợp tại cơ sở trong đặt lại mật khẩu**
+**Tôi không thấy lưỡi tích hợp tại chỗ trong tính năng đặt lại mật khẩu**
 
-- Lưỡi tích hợp tại cơ sở chỉ xuất hiện trong môi trường hỗn hợp-nghĩa là bạn đang sử dụng writeback để thao tác mật khẩu của người dùng tại cơ sở.
-- Bạn không thấy lưỡi này nếu:
-    - Bạn không sử dụng writeback mật khẩu
-    - Có vấn đề với việc cài đặt/kết nối của writeback mật khẩu
-    - Có vấn đề với việc cài đặt/kết nối của Azure AD Connect
-    - Để biết thêm các bước khắc phục sự cố với mật khẩu trở lại, hãy xem mục [khắc phục sự cố về mật khẩu](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-data?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Lưỡi tích hợp tại chỗ chỉ xuất hiện trong môi trường kết hợp - nghĩa là bạn đang sử dụng chức năng ghi lại mật khẩu để thao tác với mật khẩu người dùng tại chỗ.
+- Bạn sẽ không thấy lưỡi này nếu:
+    - Bạn đang không sử dụng chức năng ghi lại mật khẩu
+    - Có sự cố với việc cài đặt/kết nối ghi lại mật khẩu của bạn
+    - Đã xảy ra sự cố với việc cài đặt/kết nối Azure AD Kết nối
+    - Để biết thêm các bước khắc phục sự cố ghi lại mật khẩu, hãy xem mục Khắc phục sự [cố ghi lại mật khẩu](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-data?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Tôi không biết làm thế nào để đặt lại mật khẩu người dùng**
+**Tôi không biết cách đặt lại mật khẩu người dùng**
 
 1. Đăng nhập vào cổng thông tin Azure với tư cách là người quản trị thích hợp.
-1. Đi đến lưỡi người dùng và nhóm, chọn **tất cả người dùng**.
+1. Đi đến lưỡi Người dùng và nhóm, chọn Tất **cả Người dùng**.
 1. Chọn một người dùng từ danh sách.
-1. Đối với người dùng đã chọn, hãy chọn **tổng quan**, sau đó trong thanh lệnh, hãy bấm **đặt lại mật khẩu**.
+1. Đối với người dùng đã chọn, chọn **Tổng** quan , rồi trong thanh lệnh, bấm vào Đặt **lại mật khẩu.**
 1. Làm theo hướng dẫn trên màn hình.
-    - Chỉ Reset được thực hiện thông qua dịch vụ hỗ trợ Azure Portal.
+    - Chỉ các thao tác đặt lại được thực hiện thông qua cổng thông tin Azure hỗ trợ ghi lại mật khẩu.
 
-**Tôi đặt lại mật khẩu người dùng tại cơ sở từ cổng thông tin quản trị Office 365 hoặc ứng dụng Office 365 dành cho thiết bị di động nhưng người dùng vẫn không thể đăng nhập**
+**Tôi đặt lại mật khẩu người dùng tại cơ sở từ cổng thông tin Office 365 Admin hoặc ứng dụng Office 365 di động nhưng người dùng vẫn không thể đăng nhập**
 
-Không hỗ trợ mật khẩu của Writeback trong cổng thông tin này. Đặt lại mật khẩu người dùng một lần nữa trong cổng thông tin Azure-portal.azure.com
+Chức năng Ghi lại Mật khẩu không được hỗ trợ trong cổng thông tin này. Đặt lại mật khẩu người dùng trong cổng thông tin Azure - portal.azure.com
 

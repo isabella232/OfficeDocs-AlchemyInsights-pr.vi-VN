@@ -1,5 +1,5 @@
 ---
-title: Gán quyền xem xét giám sát
+title: Gán quyền Xem xét giám sát
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "7363"
 - "9000722"
-ms.openlocfilehash: 473053e31ac591490a8f5d11b295c71c3e2821d4
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: f432876c6c927c3e098cc4e872fad66bb44c603c2bc4bcec7570d128ed3523fe
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748150"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53988929"
 ---
-# <a name="assign-supervisory-review-permissions"></a>Gán quyền xem xét giám sát
+# <a name="assign-supervisory-review-permissions"></a>Gán quyền Xem xét giám sát
 
-1. Trong [Trung tâm tuân thủ & bảo mật của Office 365](https://sip.protection.office.com/homepage), chọn **quyền > xem xét giám sát**.
-2. Trong ngăn **xem lại giám sát** , bên cạnh **thành viên**, hãy bấm **sửa**.
-3. Trong ngăn **chỉnh sửa chọn thành viên** , bấm **chọn thành viên**.
-4. Trong ngăn **chọn thành viên** , bấm **+ Thêm**, rồi chọn tên của người dùng.
-5. Chọn **thêm > đã hoàn tất > lưu**.
+1. Trong Trung [Office 365 mật & tuân thủ,](https://sip.protection.office.com/homepage)chọn Quyền và xem > xem xét giám **sát**.
+2. Trong ngăn **Xem xét Giám sát,** bên cạnh **Thành** viên, bấm Chỉnh **sửa**.
+3. In the **Editing Choose member** pane, click Choose **members**.
+4. Trong ngăn **Chọn thành** viên, bấm **+ Thêm**, rồi chọn tên của người dùng.
+5. Chọn **Thêm > Hoàn > Lưu**.

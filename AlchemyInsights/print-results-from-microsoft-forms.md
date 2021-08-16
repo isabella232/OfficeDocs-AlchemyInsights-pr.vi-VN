@@ -1,5 +1,5 @@
 ---
-title: In kết quả từ các biểu mẫu Microsoft
+title: In kết quả từ Microsoft Forms
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2545"
 - "9000672"
-ms.openlocfilehash: 310306c30fb9f888b80b87a9539ef904e0ad63f3
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f9b4c1946ec8c6ff998a932bea5d31eb59cf146cb94f81c3676ccf25eebf9e33
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51800632"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54039952"
 ---
-# <a name="print-results-in-a-summary-of-responses"></a>In kết quả trong bản tóm tắt phản hồi
+# <a name="print-results-in-a-summary-of-responses"></a>In kết quả trong tóm tắt phản hồi
 
-Bạn có thể [in các kết quả của Microsoft](https://support.office.com/article/print-a-form-22100b98-ba3c-41c1-9513-f76caca664fc) với tư cách là bản tóm tắt phản hồi hoặc cho một cá nhân. 
+Bạn có thể [in kết quả Microsoft Forms](https://support.office.com/article/print-a-form-22100b98-ba3c-41c1-9513-f76caca664fc) dưới dạng tóm tắt phản hồi hoặc cho một cá nhân. 
 
-Bạn không thể in biểu mẫu mà không có phản hồi, nhưng bạn có thể yêu cầu hoặc bỏ phiếu vào tính năng này bằng cách truy nhập [trang web Microsoft Forms UserVoice](https://microsoftforms.uservoice.com/forums/386451-welcome-to-microsoft-forms-suggestion-box).
+Bạn không thể in biểu mẫu mà không có phản hồi, nhưng bạn có thể yêu cầu hoặc bỏ phiếu cho tính năng này bằng cách truy nhập [site UserVoice của Microsoft Forms.](https://microsoftforms.uservoice.com/forums/386451-welcome-to-microsoft-forms-suggestion-box)

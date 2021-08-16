@@ -1,5 +1,5 @@
 ---
-title: Các sản phẩm Office không sẵn dùng cho nền tảng Mac
+title: Office phẩm của bạn không khả dụng cho nền tảng Mac
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -15,14 +15,14 @@ ms.custom:
 - "756"
 - "755"
 - "2000016"
-ms.openlocfilehash: 7ea579188d8b28f4af47e03e09e9767d9d84e5e7
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d8de790de60a3d656f46248a73e56fbd195018bbec9bc234a39bca5a162e9b21
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51832872"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54076259"
 ---
-# <a name="office-products-not-available-for-the-mac-platform"></a>Các sản phẩm Office không sẵn dùng cho nền tảng Mac
+# <a name="office-products-not-available-for-the-mac-platform"></a>Office phẩm của bạn không khả dụng cho nền tảng Mac
 
-Visio, Project, Publisher và Access không sẵn dùng cho nền tảng Mac, Tuy nhiên, Visio Online và Project Online đều sẵn dùng và làm việc trên tất cả các nền tảng.
+Visio, Project, Publisher và Access không sẵn dùng cho nền tảng máy Mac, tuy nhiên, Visio Online và Project Online sẵn dùng và hoạt động trên mọi nền tảng.
   

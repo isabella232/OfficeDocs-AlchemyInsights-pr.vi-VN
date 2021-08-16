@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: c07981bfae40d74deb1a2f143ce51da69b51a69f
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: a5acd322186f8f4b7734f8541877a642a553288e10b3c122e4f276b9bb611308
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50483414"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53989001"
 ---
 # <a name="auditing-in-microsoft-365"></a>Kiểm tra trong Microsoft 365
 
-Dưới đây là một số điều bạn nên biết về kiểm định trong Microsoft 365:
+Dưới đây là một số điều bạn nên biết về kiểm tra trong Microsoft 365:
 
-1. Các hoạt động của người quản trị Exchange được kiểm tra theo mặc định.
-1. Chúng tôi đang trong quá trình chuyển kiểm tra hộp thư theo mặc định cho tất cả người dùng. Để đọc thêm về điều này, hãy bấm vào [đây](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Exchange-Mailbox-Auditing-will-be-enabled-by-default/ba-p/215171). Cho đến lúc đó, nếu bạn muốn hướng dẫn để cho phép một người hoặc toàn bộ tổ chức, hãy chọn nút kiểm tra hộp kiểm bên dưới.
-1. Hộp thư của nhóm Microsoft 365 và hộp thư thư mục công cộng không hỗ trợ ghi nhật ký kiểm tra.
-1. Đối với SharePoint/OneDrive, không có cấu hình bổ sung cần thiết để kiểm tra được bật. Để tìm hiểu những hoạt động nào được kiểm toán, hãy xem:
-    1. [Hoạt động tệp](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#file-and-page-activities)
-    1. [Hoạt động của thư mục](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#folder-activities)
-    1. [Chia sẻ và truy nhập các hoạt động](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#sharing-and-access-request-activities).
-1. Để có danh sách tất cả các hoạt động được kiểm toán theo dịch vụ, hãy xem các [hoạt động được kiểm](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#audited-activities)nhập.
+1. Exchange động của người quản trị được kiểm tra theo mặc định.
+1. Chúng tôi đang trong quá trình bật tính năng kiểm tra hộp thư theo mặc định cho tất cả người dùng. Để đọc thêm về điều này, hãy bấm vào [đây.](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Exchange-Mailbox-Auditing-will-be-enabled-by-default/ba-p/215171) Cho đến lúc đó, nếu bạn muốn hướng dẫn bật tính năng này theo cách thủ công cho một người hoặc toàn bộ tổ chức, hãy chọn nút Bật kiểm tra hộp thư bên dưới.
+1. Microsoft 365 Hộp thư Nhóm và hộp thư Thư mục Công cộng không hỗ trợ ghi nhật ký kiểm tra.
+1. For SharePoint/OneDrive, there is no additional configuration required to enabled auditing. Để tìm hiểu những hoạt động đã được kiểm tra, hãy xem:
+    1. [Các hoạt động của tệp](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#file-and-page-activities)
+    1. [Các hoạt động của thư mục](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#folder-activities)
+    1. [Các hoạt động Chia sẻ và Truy nhập.](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#sharing-and-access-request-activities)
+1. Để biết danh sách tất cả các hoạt động đã kiểm tra theo dịch vụ, hãy xem [Hoạt động đã kiểm tra.](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#audited-activities)
