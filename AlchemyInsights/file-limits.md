@@ -9,27 +9,27 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: dc0eb9d1-aec4-4c37-8e4a-b67089f3246b
-ms.openlocfilehash: d27c95b5cfae5f73aeb9027f4440b7ad1ea7f3f7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a6ce3151ee6ec7529a4eeb8e4fb85354777f8b93d3c90461a12518af680ae60f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47677986"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54100028"
 ---
-# <a name="file-upload-limits-in-sharepoint-online"></a>Giới hạn tải lên tệp trong SharePoint Online
+# <a name="file-upload-limits-in-sharepoint-online"></a>Giới hạn tải tệp lên trong SharePoint Online
 
-- Một thư viện có thể có tối đa các tệp và thư mục 30.000.000.
+- Một thư viện có thể có tới 30 triệu tệp và thư mục.
     
-- Tổng thời gian của URL, bao gồm tên tệp, không thể vượt quá 400 ký tự.
+- Tổng độ dài của URL, gồm cả tên tệp, không thể vượt quá 400 ký tự.
     
-- Mỗi tệp mush nhỏ hơn 15 GB. Các tệp đính kèm với các mục danh sách có thể được lên đến 250 MB Kích cỡ.
+- Mỗi tệp nhưng dung lượng của tệp nhỏ hơn 15 GB. Tệp đính kèm vào các mục danh sách có thể có kích cỡ lên đến 250 MB.
     
-- Để có hiệu suất tối ưu với máy khách đồng bộ OneDrive mới, chúng tôi khuyên bạn nên lưu trữ không quá 100.000 tệp trong thư viện. 
+- Để đồng bộ hiệu suất tối ưu với máy khách Đồng bộ OneDrive mới, chúng tôi khuyên bạn nên lưu trữ không quá 100.000 tệp trong thư viện. 
     
-[Các ký tự không thể dùng trong tên tệp](https://go.microsoft.com/fwlink/?linkid=866430)
+[Ký tự không thể dùng được trong tên tệp](https://go.microsoft.com/fwlink/?linkid=866430)
   
-[Các kiểu tệp không thể thêm vào danh sách hoặc thư viện](https://go.microsoft.com/fwlink/?linkid=273757)
+[Các loại tệp không thể thêm vào danh sách hoặc thư viện](https://go.microsoft.com/fwlink/?linkid=273757)
   
-[Thông tin thêm về giới hạn SharePoint Online](https://go.microsoft.com/fwlink/?linkid=271273)
+[Xem thêm thông tin về SharePoint Giới hạn trực tuyến](https://go.microsoft.com/fwlink/?linkid=271273)
   
 

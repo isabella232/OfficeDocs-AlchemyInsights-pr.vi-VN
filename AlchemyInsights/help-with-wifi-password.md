@@ -1,5 +1,5 @@
 ---
-title: Bạn cần trợ giúp với mật khẩu Wi-Fi của mình
+title: Cần trợ giúp với mật khẩu Wi-Fi tôi
 ms.author: pebaum
 author: pebaum
 manager: dansimp
@@ -13,57 +13,57 @@ ms.collection: Adm_O365
 ms.custom:
 - "9799"
 - "9005399"
-ms.openlocfilehash: 31ec4f543d6b6bd0ae7e88911b6c3de4e46206b0
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: a24840cdc823eb3c9a52fcb02839310c15a96dc4026bb43169683db3c80a7be0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51037891"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54099810"
 ---
-# <a name="need-help-with-my-wi-fi-password"></a>Bạn cần trợ giúp với mật khẩu Wi-Fi của mình
+# <a name="need-help-with-my-wi-fi-password"></a>Cần trợ giúp với mật khẩu Wi-Fi tôi
 
-Nếu bạn đã kết nối Internet, hãy làm theo các bước sau để tìm mật khẩu Wi-Fi của bạn:
+Nếu bạn kết nối internet, hãy làm theo các bước sau để tìm mật khẩu Wi-Fi bạn:
 
-1. Chọn **bắt đầu**  >  **thiết đặt**  >  **mạng và**  >  **mạng Internet và Trung tâm chia sẻ**
+1. Chọn **Bắt**  >  **Cài đặt**  >  **Mạng và Internet và** Trung tâm Chia  >  **sẻ**
 
-1. Bên dưới **dạng xem tab hiện hoạt của bạn** , hãy tìm mạng mà bạn đã kết nối đến, rồi chọn nối kết màu lam bên cạnh **kết nối**.
+1. Bên dưới tab **Xem mạng hiện hoạt của** bạn, hãy tìm mạng bạn đã kết nối rồi chọn nối kết màu lam kế bên Kết **nối**.
 
-1. Chọn các **thuộc tính không dây** trong cửa sổ bật lên.
+1. Chọn **Thuộc tính Không** dây trong cửa sổ bật lên.
 
-1. Khi cửa sổ bật lên mới mở ra, hãy dẫn hướng đến tab **bảo mật** .
+1. Khi cửa sổ bật lên mới mở ra, dẫn hướng đến tab **Bảo** mật.
 
-1. Chọn hộp bên cạnh **Hiển thị các ký tự** và mật khẩu Wi-Fi của bạn sẽ xuất hiện trong trường khóa bảo mật mạng.
+1. Chọn hộp bên cạnh **Hiển thị ký** tự và mật Wi-Fi của bạn sẽ xuất hiện trong trường Khóa bảo mật mạng.
 
-**Nếu bạn không kết nối Internet**
+**Nếu bạn đang không kết nối với internet**
 
-Rất tiếc, bạn không thể tìm mật khẩu Wi-Fi nếu bạn hiện đang không sử dụng mạng Wi-Fi đó. Để được trợ giúp thêm với bộ định tuyến của bạn, hãy liên hệ với nhà sản xuất router của bạn hoặc đi đến trang web hỗ trợ của họ.
+Rất tiếc, bạn không thể tìm kiếm mật Wi-Fi của mình nếu bạn hiện không sử dụng mạng Wi-Fi này. Để được trợ giúp thêm về bộ định tuyến, hãy liên hệ với nhà sản xuất bộ định tuyến của bạn hoặc truy cập website hỗ trợ của họ.
 
-Nếu bộ định tuyến mới, bạn có thể tìm thấy tên và mật khẩu Wi-Fi của mình được liệt kê trên bộ định tuyến hoặc trên hộp gốc của bộ định tuyến. Chứng danh sẽ xuất hiện dưới dạng:
+Nếu bộ định tuyến là mới, bạn có thể tìm thấy tên và mật khẩu Wi-Fi của bạn được liệt kê trên bộ định tuyến hoặc trên hộp ban đầu của bộ định tuyến. Thông tin xác thực sẽ xuất hiện dưới dạng:
 
-SSID mạng: khóa mạng XXXXXXX: XXXXXXXX
+Network SSID: XXXXXXX Network Key: XXXXXXXX
 
-**Để thay đổi mật khẩu bộ định tuyến Wi-Fi của bạn**
+**Để thay đổi mật khẩu bộ Wi-Fi định tuyến của bạn**
 
-Mở trang web cấu hình của bộ định tuyến và làm theo các bước sau đây:
+Mở trang web cấu hình của bộ định tuyến, rồi làm theo các bước sau:
 
-1. Chọn **bắt đầu**  >  **cài đặt**  >  **mạng & mạng Internet**  >  **và Trung tâm chia sẻ**
+1. Chọn **Bắt**  >  **Cài đặt**  >  **Mạng & Internet và** Trung tâm Chia  >  **sẻ**
 
-1. Bên dưới **dạng xem tab hiện hoạt của bạn** , hãy tìm mạng mà bạn đã kết nối đến, rồi chọn nối kết màu lam bên cạnh **kết nối**.
+1. Bên dưới tab **Xem mạng hiện hoạt của** bạn, hãy tìm mạng bạn đã kết nối rồi chọn nối kết màu lam kế bên Kết **nối**.
 
-    **Ghi chú** Nếu bạn không kết nối Wi-Fi, bạn sẽ cần phải kết nối trước khi có thể thay đổi mật khẩu.
+    **Lưu ý** Nếu bạn chưa kết nối với Wi-Fi, bạn sẽ phải kết nối trước khi có thể thay đổi mật khẩu.
 
-1. Chọn **chi tiết...** trong cửa sổ bật lên.
+1. Chọn **Chi tiết...** trong cửa sổ bật lên.
 
-1. Tìm kiếm cổng kết nối mặc định của IPv4 và lưu ý chuỗi số bao gồm các dấu chấm.
+1. Tìm kiếm Cổng kết nối Mặc định IPv4 của bạn và ghi lại chuỗi số bao gồm các khoảng thời gian.
 
-    Ví dụ: 192.168.0.1, 192.168.1.1, 10.0.0.1, hoặc 10.0.1.1
+    Ví dụ: 192.168.0.1, 192.168.1.1, 10.0.0.1 hoặc 10.0.1.1
 
-1. Mở một trình duyệt, nhập chuỗi số này bao gồm các giai đoạn vào thanh địa chỉ, rồi nhấn Enter để đi đến trang cấu hình của bộ định tuyến.
+1. Mở một trình duyệt, nhập chuỗi số này bao gồm các khoảng thời gian vào thanh địa chỉ, rồi nhấn Enter để đi đến trang cấu hình của bộ định tuyến.
 
 1. Khi trang cấu hình của bộ định tuyến mở ra, hãy nhập tên người dùng và mật khẩu của bạn.
 
-    Nếu bạn chưa bao giờ thay đổi tên người dùng và mật khẩu mặc định cho bộ định tuyến, bạn sẽ thấy thông tin này trong hướng dẫn về bộ định tuyến của mình.
+    Nếu bạn chưa bao giờ thay đổi tên người dùng và mật khẩu mặc định cho bộ định tuyến, bạn sẽ thấy thông tin này trong sổ tay của bộ định tuyến.
 
-    Liên hệ với nhà sản xuất bộ định tuyến của bạn nếu bạn cần Nhật ký hỗ trợ bổ sung vào trang web.
+    Hãy liên hệ với nhà sản xuất bộ định tuyến nếu bạn cần hỗ trợ đăng nhập bổ sung vào trang web.
 
-1. Sau khi bạn đã đăng nhập, hãy tìm **thiết đặt không dây** và thay đổi mật khẩu Wi-Fi của bạn.
+1. Sau khi bạn đã đăng nhập, hãy tìm **Cài đặt không dây** và thay đổi mật Wi-Fi của bạn.

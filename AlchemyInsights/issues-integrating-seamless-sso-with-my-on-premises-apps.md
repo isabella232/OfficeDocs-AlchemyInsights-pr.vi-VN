@@ -1,5 +1,5 @@
 ---
-title: Các vấn đề với việc tích hợp SSO liền mạch với các ứng dụng tại chỗ của tôi
+title: Các sự cố với việc tích hợp Seamless SSO với các ứng dụng tại chỗ của tôi
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,29 +13,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004356"
 - "7798"
-ms.openlocfilehash: 785d7f842031c1056ec6868376f253439919a3ab
-ms.sourcegitcommit: 227a949a6ae49cc52c7fdcef2f9fd202c746169d
+ms.openlocfilehash: 6b295f3272ba074eac3afb66f3156af7ea4065a1398a215bcb3cde5da74b198a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "49868772"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54028314"
 ---
-# <a name="issues-with-integrating-seamless-sso-with-my-on-premises-apps"></a>Các vấn đề với việc tích hợp SSO liền mạch với các ứng dụng tại chỗ của tôi
+# <a name="issues-with-integrating-seamless-sso-with-my-on-premises-apps"></a>Các sự cố với việc tích hợp Seamless SSO với các ứng dụng tại chỗ của tôi
 
-Để khắc phục sự cố với việc tích hợp SSO liền mạch với các ứng dụng tại cơ sở, hãy làm như sau:
+Để khắc phục sự cố với tích hợp Seamless SSO với các ứng dụng tại chỗ, hãy làm như sau:
 
 **Các bước được đề xuất**
 
-1. Để cấu hình một **ứng dụng tại chỗ** cho **đăng nhập đơn thông qua proxy ứng dụng**, hãy xem [khung vòm mật khẩu cho đăng nhập đơn với proxy ứng dụng](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-single-sign-on-password-vaulting).
-1. **Khắc phục sự cố về vấn đề proxy ứng dụng**: chúng tôi khuyên bạn nên bắt đầu với việc xem xét dòng khắc phục sự cố, các [vấn đề về trình kết nối proxy ứng dụng gỡ lỗi](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors), để xác định xem bạn có cấu hình đúng không. Nếu bạn vẫn gặp sự cố khi kết nối với ứng dụng, hãy làm theo các bước khắc phục sự cố trong các [vấn đề về ứng dụng proxy ứng dụng gỡ lỗi](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-apps). Bạn có thể [xác định các vấn đề về CORS](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-understand-cors-issues#understand-and-identify-cors-issues) bằng cách sử dụng các công cụ gỡ lỗi của trình duyệt sau:
-    1. Khởi động trình duyệt và duyệt đến ứng dụng web.
-    1. Nhấn **F12** để đưa lên bàn điều khiển Debug.
-    1. Tìm cách tái tạo giao dịch và xem lại thông điệp bàn điều khiển. Vi phạm CORS tạo ra lỗi bàn điều khiển về nguồn gốc.
-    1. Một số không thể giải quyết được sự cố, chẳng hạn như khi ứng dụng của bạn chuyển hướng đến login.microsoftonline.com để xác thực và mã thông báo Access hết hạn. Sau đó, cuộc gọi CORS không thành công. Một giải pháp thay thế cho kịch bản này là mở rộng thời gian của mã thông báo Access, để tránh không bị hết hạn trong suốt phiên của người dùng. Để biết thêm thông tin về cách thực hiện thao tác này, hãy xem [cấu hình hạn trong Microsoft Identity Platform](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes).
+1. Để cấu **hình một ứng dụng** tại cơ sở cho đăng nhập đơn qua **Proxy** Ứng dụng , hãy xem Tạo kho mật khẩu để đăng nhập một lần bằng Proxy [Ứng dụng](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-single-sign-on-password-vaulting).
+1. Khắc **phục** sự cố Proxy Ứng dụng : chúng tôi khuyên bạn nên bắt đầu với việc xem lại quy trình khắc phục sự cố, Gỡ lỗi Các vấn đề của Trình kết nối Proxy Ứng dụng , để xác định xem bộ nối [Proxy](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors)Ứng dụng có được cấu hình đúng hay không. Nếu bạn vẫn gặp sự cố kết nối với ứng dụng, hãy làm theo các bước khắc phục sự cố trong [Các vấn đề ứng dụng Proxy Gỡ lỗi Ứng dụng](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-apps). Bạn có thể [xác định sự cố CORS](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-understand-cors-issues#understand-and-identify-cors-issues) bằng cách sử dụng các công cụ gỡ lỗi trình duyệt sau đây:
+    1. Khởi chạy trình duyệt, rồi duyệt đến ứng dụng web.
+    1. Nhấn **F12** để mở bảng điều khiển gỡ lỗi.
+    1. Cố gắng tạo lại giao dịch và xem lại thông báo bảng điều khiển. Vi phạm CORS tạo ra lỗi bảng điều khiển về nguồn gốc.
+    1. Một số vấn đề CORS không thể được giải quyết, chẳng hạn như khi ứng dụng của bạn chuyển hướng đến login.microsoftonline.com để xác thực và mã thông báo truy nhập hết hạn. Khi đó, không thực hiện được cuộc gọi CORS. Giải pháp thay thế cho kịch bản này là kéo dài thời hạn của mã thông báo truy nhập, để ngăn mã thông báo này hết hạn trong phiên của người dùng. Để biết thêm thông tin về cách làm điều này, hãy xem Thời hạn mã thông báo có thể [cấu hình trong Nền tảng định danh Microsoft.](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes)
 
 **Tài liệu được đề xuất**
 
-- [Cách đặt cấu hình đăng nhập một lần vào ứng dụng proxy ứng dụng](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-config-sso-how-to)
-- [Đăng nhập đơn SAML cho các ứng dụng tại chỗ với proxy ứng dụng](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-single-sign-on-on-premises-apps)
-- [Tìm hiểu và giải quyết các vấn đề về dữ liệu proxy của ứng dụng Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-understand-cors-issues#solutions-for-application-proxy-cors-issues)
-- [Khắc phục các cấu hình ủy quyền của Kerberos ràng buộc cho proxy ứng dụng](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-back-end-kerberos-constrained-delegation-how-to)
+- [Cách cấu hình đăng nhập đơn vào ứng dụng Proxy Ứng dụng](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-config-sso-how-to)
+- [Đăng nhập đơn SAML cho các ứng dụng tại chỗ với Proxy Ứng dụng](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-single-sign-on-on-premises-apps)
+- [Tìm hiểu và giải Azure Active Directory các vấn đề về CORS Proxy Ứng dụng](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-understand-cors-issues#solutions-for-application-proxy-cors-issues)
+- [Khắc phục sự cố cấu hình ủy quyền bị ràng buộc của Kerberos cho Proxy Ứng dụng](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-back-end-kerberos-constrained-delegation-how-to)
