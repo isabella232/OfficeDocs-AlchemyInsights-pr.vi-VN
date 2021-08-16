@@ -1,5 +1,5 @@
 ---
-title: Tải xuống video Microsoft Stream
+title: Tải xuống video của Microsoft Stream
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002470"
 - "4806"
-ms.openlocfilehash: 1d3e54a8e18b46fda548099934cd94c331aad605
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 5905d8998fa0fb39da0928d940a0820520776199e04271430c36d3f7c1cd92fc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814647"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54057808"
 ---
-# <a name="download-microsoft-stream-videos"></a>Tải xuống video Microsoft Stream
+# <a name="download-microsoft-stream-videos"></a>Tải xuống video của Microsoft Stream
 
-Bạn có thể **tải** video đã tải lên ban đầu **nếu bạn đã tải lên tệp video** hoặc bạn là **chủ sở hữu video**.
+Bạn có **thể tải** xuống video được tải lên ban đầu nếu bạn đã tải lên tệp **video** hoặc bạn là chủ sở hữu **của video.**
 
-1. Trong Stream, định vị video mà bạn muốn tải xuống.
+1. Trong Phát trực tuyến, định vị video bạn muốn tải xuống.
 
-2. Bấm vào biểu tượng menu Thêm biểu tượng menu Thêm *...*
+2. Bấm vào biểu tượng  menu Xem thêm...
 
-3. Chọn **tải xuống video gốc**.
+3. Chọn **Tải xuống video gốc**.

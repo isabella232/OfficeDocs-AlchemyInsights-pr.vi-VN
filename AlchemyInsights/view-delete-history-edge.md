@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9423"
 - "9005491"
-ms.openlocfilehash: 6f2810c893995634abd12d69fd98566ea1f97db2
-ms.sourcegitcommit: bef118c00aa397cd6d8941d403fe9cfa49dd8c73
+ms.openlocfilehash: 4e73eb066907edc2d1da587c77e1d37569b53645f33fdf654dfa930ee3ef7dda
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/30/2021
-ms.locfileid: "51492081"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53998128"
 ---
 # <a name="view-and-delete-browsing-history-in-microsoft-edge"></a>Xem và xóa lịch sử duyệt trong Microsoft Edge
 
-Với quyền của bạn, Microsoft Edge mới nhớ dữ liệu duyệt web của bạn, giúp bạn trở lại site yêu thích hoặc điền vào biểu mẫu. Trong các phương thức InPrivate, Guest và other, Microsoft Edge sẽ lưu trữ dữ liệu ít hơn so với các cửa hàng đó trong duyệt web thông thường.
+Khi được bạn cho phép, phiên bản mới Microsoft Edge nhớ dữ liệu duyệt web của bạn, giúp bạn trở về trang yêu thích hoặc điền vào biểu mẫu. Trong InPrivate, Guest và các chế độ khác, tính năng Microsoft Edge trữ ít dữ liệu hơn lưu trữ trong quá trình duyệt thông thường.
 
-Dữ liệu duyệt web được lưu trữ trên thiết bị của bạn. Nếu bạn đã bật đồng bộ, dữ liệu sẽ được lưu trữ trên điện toán đám mây và đồng bộ trên các thiết bị mà bạn đã đăng nhập vào tài khoản Microsoft Edge của mình.
+Dữ liệu duyệt web được lưu trữ trên thiết bị của bạn. Nếu bạn đã bật đồng bộ, dữ liệu sẽ được lưu trữ trong đám mây và đồng bộ trên các thiết bị mà bạn đã đăng nhập vào tài khoản Microsoft Edge của mình.
 
-Để xem lịch sử duyệt web của bạn, hãy chọn **thiết đặt và nhiều hơn nữa...**   >  **Lịch sử**  >  **Quản lý lịch sử**. Bạn có thể xóa lịch sử duyệt web của mình bất cứ lúc nào.
+Để xem lịch sử duyệt của bạn, hãy **chọn Cài đặt khác...**   >  **Lịch sử**  >  **Quản lý lịch sử**. Bạn có thể xóa lịch sử duyệt bất cứ lúc nào.

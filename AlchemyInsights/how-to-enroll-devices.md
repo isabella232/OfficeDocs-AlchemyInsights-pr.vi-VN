@@ -1,5 +1,5 @@
 ---
-title: Cách đăng ký các thiết bị
+title: Cách đăng ký thiết bị
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,31 +12,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "2683"
 - "6200002"
-ms.openlocfilehash: c40742d6bfb7d0431b788c15517b50d34dd199a0
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a4855d71152a158b94a19c36159b1ea9b055f626c680c43c875de1f258329c96
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51825681"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54029394"
 ---
-# <a name="how-to-enroll-devices"></a>Cách đăng ký các thiết bị
+# <a name="how-to-enroll-devices"></a>Cách đăng ký thiết bị
 
-Sau đây là các thông tin cơ bản về việc đăng ký:
+Sau đây là các thông tin cơ bản về Đăng ký:
 
-- Để tìm hiểu về việc đăng ký InTune, hãy xem mục [đăng ký thiết bị trong InTune là gì?](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment).
+- Để tìm hiểu về đăng ký Intune, hãy [xem Đăng ký thiết bị trong Intune là gì?](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment).
 
-- Để biết thêm thông tin chi tiết về việc đăng ký cho các nền tảng cụ thể, hướng dẫn cách để và hướng dẫn, hãy xem mục [đăng ký thiết bị trong Microsoft InTune](https://docs.microsoft.com/mem/intune/enrollment/) Portal.
+- Để biết thêm thông tin chi tiết về việc đăng ký cho các nền tảng cụ thể, hướng dẫn hướng dẫn và hướng dẫn, hãy xem Đăng ký thiết [bị trong cổng Microsoft Intune](https://docs.microsoft.com/mem/intune/enrollment/) tin.
 
-**Khắc phục sự cố về việc đăng ký thiết bị**
+**Khắc phục sự cố đăng ký thiết bị**
 
-- [Khắc phục sự cố đăng ký thiết bị trong Microsoft InTune](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-device-enrollment-in-intune)
+- [Khắc phục sự cố đăng ký thiết bị Microsoft Intune](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-device-enrollment-in-intune)
 
-- [Khắc phục sự cố về việc đăng ký thiết bị iOS/iPadOS](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-ios-enrollment-errors)
+- [Khắc phục sự cố đăng ký thiết bị iOS/iPadOS](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-ios-enrollment-errors)
 
-- [Khắc phục sự cố về việc đăng ký thiết bị Windows](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-windows-enrollment-errors)
+- [Khắc phục sự cố Windows đăng ký thiết bị](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-windows-enrollment-errors)
 
-- [Khắc phục sự cố cho Windows 10 tự động đăng ký](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-windows-auto-enrollment)
+- [Khắc phục Windows 10 ký tự động](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-windows-auto-enrollment)
 
-- [Khắc phục sự cố thiết bị Android Enterprise](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-android-enrollment)
+- [Khắc phục các sự cố về thiết bị chạy Android Enterprise](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-android-enrollment)
 
 
