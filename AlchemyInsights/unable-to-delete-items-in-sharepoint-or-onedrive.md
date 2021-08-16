@@ -1,5 +1,5 @@
 ---
-title: Không thể xóa bỏ các mục trong SharePoint hoặc OneDrive
+title: Không thể xóa các mục trong SharePoint hoặc OneDrive
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -12,24 +12,24 @@ ms.custom:
 - "2377"
 - "9000255"
 ms.assetid: ''
-ms.openlocfilehash: db45aa8df40484fdcda7c430f1ca27482a1dd4ce
-ms.sourcegitcommit: a9415f3ae8c7ba267b5134bcbdc1e070cea41a0f
+ms.openlocfilehash: 3601c5eff121e10b6bddace6f7228204a01080a636e24f3a56373fe8d469c799
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "49019605"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54038539"
 ---
 # <a name="unable-to-delete-items"></a>Không thể xóa các mục
 
-- Các chính sách duy trì có thể gây ra điều này, bạn cần tắt hoặc loại trừ giữ tương ứng đang gây ra sự cố này. Sau khi một chính sách duy trì hoặc giữ được loại bỏ, có thể mất tới 24 giờ để thay đổi có hiệu lực. Đảm bảo rằng không có thiết lập [chính sách duy trì](https://docs.microsoft.com/microsoft-365/compliance/retention-policies) trên mục.
+- Chính sách duy trì có thể gây ra vấn đề này, bạn cần tắt hoặc loại trừ việc giữ tương ứng đang gây ra vấn đề này. Sau khi chính sách duy trì hoặc giữ bị loại bỏ, có thể mất đến 24 giờ để thay đổi có hiệu lực. Đảm bảo rằng không có thiết lập [chính sách](https://docs.microsoft.com/microsoft-365/compliance/retention-policies) duy trì trên mục.
 
-- Site có thể vượt quá giới hạn dung lượng lưu trữ, tăng [hạn ngạch trang](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps) và xóa mục đó.
+- Site có thể đã vượt quá giới hạn lưu trữ, tăng [hạn mức site](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps) và xóa mục.
 
-- Đảm bảo mục không được [kiểm](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de) xuất cho một người dùng khác.
+- Đảm bảo mục không được [kiểm xuất cho](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de) người dùng khác.
 
-- Cuối cùng, người quản trị có thể sử dụng các [mẫu và thực hành SharePoint](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps#installation) (PNP) chứa một thư viện của các lệnh PowerShell cho phép bạn thực hiện các hành động quản lý phức tạp chẳng hạn như buộc xóa các mục bướng bỉnh.
-- [Loại bỏ tệp PNP](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnpfile?view=sharepoint-ps)
-- [Loại bỏ thư mục PNP](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnpfolder?view=sharepoint-ps)
-- [Loại bỏ mục danh sách PNP](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnplistitem?view=sharepoint-ps)
-- [Loại bỏ danh sách PNP](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnplist?view=sharepoint-ps)
-- [Loại bỏ trường PNP (cột)](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnpfield?view=sharepoint-ps)
+- Cuối cùng, người quản trị có thể sử dụng Mẫu hình và Thực hành (PnP) [SharePoint](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps#installation) có chứa thư viện các lệnh PowerShell cho phép bạn thực hiện các hành động quản lý phức tạp như bắt buộc xóa các mục stub gửi đi.
+- [Loại bỏ Tệp PNP](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnpfile?view=sharepoint-ps)
+- [Loại bỏ Thư mục PNP](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnpfolder?view=sharepoint-ps)
+- [Loại bỏ Mục Danh sách PNP](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnplistitem?view=sharepoint-ps)
+- [Loại bỏ Danh sách PNP](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnplist?view=sharepoint-ps)
+- [Loại bỏ Trường PNP (Cột)](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnpfield?view=sharepoint-ps)

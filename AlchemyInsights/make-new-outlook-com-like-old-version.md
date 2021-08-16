@@ -1,5 +1,5 @@
 ---
-title: Làm thế nào để tạo Outlook.com mới trông giống như cũ
+title: Cách biến phiên bản mới Outlook.com trông giống như phiên bản cũ
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,23 +12,23 @@ localization_priority: Normal
 ms.custom:
 - "8000035"
 - "794"
-ms.openlocfilehash: fcd3f66abed75fb938994821249cdb78fedf264a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4ca5ff0ed1ab1d7aedb29390a843158912e25648106df8a2ce88a0b8458d62fa
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794644"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54067106"
 ---
-# <a name="how-to-make-the-new-outlookcom-look-like-the-old-version"></a>Làm thế nào để tạo Outlook.com mới trông giống như phiên bản cũ
+# <a name="how-to-make-the-new-outlookcom-look-like-the-old-version"></a>Cách tạo Outlook.com mới trông giống như phiên bản cũ
 
-Dưới đây là một số thiết đặt mà bạn có thể thay đổi để tạo Outlook.com mới trông giống như phiên bản cũ:
+Dưới đây là một số cài đặt bạn có thể thay đổi để giúp Outlook.com mới trông giống như phiên bản cũ:
 
-1. Đi đến [thiết đặt bố trí](https://outlook.live.com/mail/options/mail/layout).
-1. Bên dưới **hộp thư đến**ưu tiên, chọn **không sắp xếp thư của tôi**.
-1. Bên dưới **tổ chức thư**, chọn **tin nhắn mới nhất ở trên cùng**.
-1. Bên dưới **ảnh người gửi**, chọn **không hiển thị hình ảnh người gửi**.
-1. Bên dưới **ngăn đọc**, chọn **ẩn ngăn đọc**.
-1. Bên dưới **văn bản xem trước thư**, chọn **Hiển thị văn bản xem trước**.
-1. Bên dưới **xem trước nội tuyến**, chọn **không hiển thị phần đính kèm trong danh sách thư**.
+1. Đi tới Cài [đặt bố trí](https://outlook.live.com/mail/options/mail/layout).
+1. Trong **Hộp thư đến tập trung**, chọn Không sắp xếp thư của **tôi**.
+1. Trong **mục Tổ chức thư**, chọn Thư mới nhất ở trên **cùng**.
+1. Bên **dưới Hình ảnh người** gửi, chọn Không **hiển thị hình ảnh người gửi.**
+1. Bên **dưới Ngăn đọc**, chọn Ẩn ngăn **đọc**.
+1. Bên dưới **văn bản xem trước thư,** chọn **Hiển thị văn bản xem trước**.
+1. Bên **dưới Xem trước cùng dòng**, chọn Không **hiển thị tệp đính kèm trong danh sách thư**.
 
-Để thay đổi thiết đặt thư của bạn để hộp thư đến của bạn trông và thực hiện theo cách bạn muốn, hãy xem [thay đổi diện mạo của hộp thư của bạn trong Outlook.com và Outlook trên web mới](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy).
+Để thay đổi cài đặt Thư sao cho hộp thư đến diện tích và hoạt động theo đúng ý bạn, hãy xem mục Thay đổi diện tích hộp thư của bạn trong [Outlook.com](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy)và danh sách Outlook trên web.

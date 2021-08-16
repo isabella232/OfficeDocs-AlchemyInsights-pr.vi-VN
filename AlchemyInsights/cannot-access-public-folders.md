@@ -12,39 +12,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3462"
-ms.openlocfilehash: af5bd57512ee917d6e22d3838d55a2a1d62750d4
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f129da8731877aa00fd9b1dcf20905d353a4895303390ce7ff5642a8ff3ccbc2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819534"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53996652"
 ---
-# <a name="outlook-cannot-connect-to-public-folders"></a>Outlook không thể kết nối với các thư mục công cộng
+# <a name="outlook-cannot-connect-to-public-folders"></a>Outlook thể kết nối với thư mục công cộng
 
-Nếu quyền truy nhập thư mục công cộng không hoạt động với một số người dùng, hãy thử làm như sau:
+Nếu quyền truy nhập thư mục công cộng không hoạt động đối với một số người dùng, hãy thử cách sau:
 
-Kết nối với EXO PowerShell và đặt cấu hình tham số DefaultPublicFolderMailbox trên tài khoản người dùng vấn đề để khớp với tham số trên tài khoản người dùng đang làm việc.
+Kết nối exo PowerShell và đặt cấu hình tham số DefaultPublicFolderMailbox trên tài khoản người dùng sự cố để khớp với tham số trên tài khoản người dùng đang hoạt động.
 
-Mẫu
+Ví dụ:
 
-Người dùng Get-Mailbox WorkingUser | ft DefaultPublicFolderMailbox, EffectivePublicFolderMailbox
+Get-Mailbox workingUser trong | ft DefaultPublicFolderMailbox,EffectivePublicFolderMailbox
 
-Set-Mailbox ProblemUser-DefaultPublicFolderMailbox \<value from previous command>
+Set-Mailbox problemUser -DefaultPublicFolderMailbox \<value from previous command>
 
 Hãy chờ ít nhất một giờ để thay đổi có hiệu lực.
 
-Nếu vẫn là vấn đề, vui lòng làm theo [quy trình này](https://aka.ms/pfcte) để khắc phục sự cố truy nhập thư mục công cộng bằng cách dùng Outlook.
+Nếu sự cố vẫn tiếp tục xảy ra, vui lòng làm theo [quy trình này để](https://aka.ms/pfcte) khắc phục sự cố truy nhập thư mục công cộng Outlook.
  
-**Để điều khiển người dùng có thể truy nhập vào các thư mục công cộng bằng cách dùng Outlook**:
+**Để kiểm soát người dùng nào có thể truy nhập thư mục công cộng bằng cách Outlook:**
 
-1.  Sử dụng Set-CASMailbox <mailboxname> -publicfolderaccess $True hoặc $false  
+1.  Dùng Set-CASMailbox <mailboxname> -PublicFolderClientAccess $true hoặc $false  
       
-    $true: cho phép người dùng truy nhập các thư mục công cộng trong Outlook  
+    $true: Cho phép người dùng truy nhập thư mục công cộng trong Outlook  
       
-    $false: ngăn chặn quyền truy nhập của người dùng vào các thư mục công cộng trong Outlook. Đây là giá trị mặc định.  
+    $false: Ngăn người dùng truy nhập vào thư mục công cộng trong Outlook. Đây là giá trị mặc định.  
         
-2.  Các $true Set-OrganizationConfig-Publicfolderđiều khiển   
+2.  Set-OrganizationConfig -PublicFolderShowClientControl $true   
       
-**Ghi chú** Quy trình này chỉ có thể kiểm soát các kết nối với Outlook trên máy tính cho máy khách chạy Windows. Người dùng có thể tiếp tục truy nhập vào các thư mục công cộng bằng OWA hoặc Outlook for Mac.
+**Lưu ý** Quy trình này có thể kiểm soát các kết nối chỉ với Outlook bàn làm việc cho máy Windows khách. Người dùng có thể tiếp tục truy nhập thư mục công cộng bằng OWA hoặc Outlook for Mac.
  
-Để biết thêm thông tin, hãy xem thông [báo hỗ trợ các kết nối được kiểm soát đến các thư mục công cộng trong Outlook](https://aka.ms/controlpf).
+Để biết thêm thông tin, hãy [xem Thông báo Hỗ trợ kết nối có kiểm soát đến thư mục công cộng Outlook.](https://aka.ms/controlpf)

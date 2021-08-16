@@ -1,5 +1,5 @@
 ---
-title: Tạo trường hợp khám phá điện tử
+title: Tạo vụ việc Khám phá Điện tử
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7221"
-ms.openlocfilehash: 61e466d9ec203a66a7ce2e89bd1462f5a483c784
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: aa505491f205eafd032fb3eef95f5d7d6f5226c61b73462312573789745258fc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50483892"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53988389"
 ---
-# <a name="create-an-ediscovery-case"></a>Tạo trường hợp khám phá điện tử
+# <a name="create-an-ediscovery-case"></a>Tạo vụ việc Khám phá Điện tử
 
-Sau đây là cách tạo một trường hợp khám phá điện tử:
+Sau đây là cách tạo vụ việc Khám phá Điện tử:
 
-1. Đi đến [Trung tâm tuân thủ bảo mật &](https://go.microsoft.com/fwlink/p/?linkid=2077143) và chọn khám phá điện tử **eDiscovery**  >  .
-1. Trên trang khám phá điện tử, bấm vào **tạo trường hợp**.
-1. Nhập tên và mô tả, rồi bấm **lưu**.
+1. Đi đến Trung [tâm Bảo & Tuân](https://go.microsoft.com/fwlink/p/?linkid=2077143) thủ và chọn Khám **phá** Điện tử Khám phá  >  **Điện tử.**
+1. Trên trang Khám phá Điện tử, bấm vào **Tạo trường hợp**.
+1. Nhập Tên trường hợp và Mô tả, rồi bấm **Lưu.**
     > [!TIP]
-    >Để quản lý quyền đối với vụ việc, hãy bấm vào khoảng trắng bên cạnh tên vụ việc (không bấm mở).
-1. Để quản lý việc giữ, tìm kiếm và xuất thiết đặt cho trường hợp này, hãy bấm **mở**.
+    >Để quản lý quyền cho trường hợp này, hãy bấm vào khoảng trắng bên cạnh tên trường hợp (đừng bấm Mở).
+1. Để quản lý cài đặt Giữ, Tìm kiếm và Xuất cho trường hợp này, hãy bấm **vào Mở**.
 
-Để biết thông tin chi tiết về cách khám phá điện tử các trường hợp hoạt động với nội dung, hãy xem các [trường hợp khám phá](https://go.microsoft.com/fwlink/?linkid=2101589)điện tử.
+Để biết thông tin chi tiết về cách hoạt động của các vụ việc Khám phá Điện tử với nội dung, hãy xem [các trường hợp Khám phá Điện tử.](https://go.microsoft.com/fwlink/?linkid=2101589)

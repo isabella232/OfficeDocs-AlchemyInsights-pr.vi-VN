@@ -1,5 +1,5 @@
 ---
-title: Giao diện API của Microsoft graph REST
+title: Giao diện API REST của Microsoft Graph
 ms.author: pebaum
 author: pebaum
 manager: mnirke
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "7071"
 - "9004013"
-ms.openlocfilehash: 3c9bf956624775c394534ab150d39193e5e10144
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: d8ef9f22e495feba26ecc1d3e21b996b199cbe16c6d3fdbf8e2e50893fe15942
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49089002"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54027216"
 ---
-# <a name="microsoft-graph-rest-api-interface"></a>Giao diện API của Microsoft graph REST
+# <a name="microsoft-graph-rest-api-interface"></a>Giao diện API REST của Microsoft Graph
 
-API đồ thị-tập hợp trên điểm cuối v 1.0 nằm trong trạng thái sẵn sàng chung (GA), và đã trải qua quá trình xem xét và phản hồi nghiêm ngặt với khách hàng nhằm đáp ứng các nhu cầu thiết thực, sản xuất.
+Các tập hợp API Graph trên điểm cuối v1.0 ở trạng thái sẵn sàng chung (GA) và đã trải qua một quy trình xem lại và phản hồi nghiêm ngặt với khách hàng để đáp ứng nhu cầu thực hành, sản xuất.
 
-- Để biết thêm thông tin về biểu đồ API v 1.0, hãy xem [tham khảo Microsoft GRAPH Rest API v 1.0](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-1.0). 
-- Để biết thêm thông tin về phiên bản beta của đồ thị API, hãy xem [tham khảo điểm cuối của Microsoft graph Beta](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-beta).
+- Để biết thêm thông tin Graph API v1.0, hãy xem [tham khảo Microsoft Graph REST API v1.0](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-1.0). 
+- Để biết thêm thông tin về Graph BETA của API, hãy [xem mục Tham khảo điểm cuối Microsoft Graph beta.](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-beta)
 
-Để biết thêm thông tin về Microsoft graph, hãy xem [tài liệu hướng dẫn về Microsoft graph](https://docs.microsoft.com/graph/).
+Để biết thêm thông tin về Microsoft Graph, hãy xem [Hướng dẫn sử Graph Microsoft.](https://docs.microsoft.com/graph/)
 
 

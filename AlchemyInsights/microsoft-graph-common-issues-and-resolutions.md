@@ -1,5 +1,5 @@
 ---
-title: Các sự cố và giải pháp thông thường của Microsoft graph
+title: Microsoft giải Graph các sự cố và giải pháp phổ biến
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004018"
 - "7081"
-ms.openlocfilehash: f6473c35cd0a0b2b5450039fca1b407f0f3f6fda
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: 099fbd12a9245ad314b27d6e3eac08c1dbc57854e8d6c3165fac81141d83bde6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49089145"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54027288"
 ---
-# <a name="microsoft-graph-common-issues-and-resolutions"></a>Các sự cố và giải pháp thông thường của Microsoft graph
+# <a name="microsoft-graph-common-issues-and-resolutions"></a>Microsoft giải Graph các sự cố và giải pháp phổ biến
 
-Để biết danh sách đầy đủ các sự cố đã biết với Microsoft graph, hãy xem các [vấn đề đã biết với Microsoft graph](https://docs.microsoft.com/graph/known-issues). Đối với các câu hỏi và tài nguyên khác, hãy xem trang [tài liệu hướng dẫn](https://docs.microsoft.com/graph/) chính của Microsoft.
+Để biết danh sách đầy đủ các vấn đề đã biết với Microsoft Graph, hãy xem [Các vấn đề đã biết với Microsoft Graph.](https://docs.microsoft.com/graph/known-issues) Để biết các câu hỏi và tài nguyên khác, hãy xem [trang Tài liệu Graph Microsoft chính.](https://docs.microsoft.com/graph/)
 
-- [Tham khảo Microsoft GRAPH Rest API v 1.0](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-1.0).
-- Tìm hiểu xem có gì đã được thay đổi trong Microsoft graph API từ [changelog](https://docs.microsoft.com/graph/changelog). 
-- [Đặt câu hỏi hoặc cung cấp phản hồi về các API và](https://aka.ms/GraphDeveloperSupport) tài liệu của đồ thị với nhóm hỗ trợ của nhà phát triển.
+- [Tham Graph API REST v1.0 của Microsoft.](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-1.0)
+- Tìm hiểu xem có gì thay đổi trong API Microsoft Graph từ [Changelog](https://docs.microsoft.com/graph/changelog). 
+- [Đặt câu hỏi hoặc cung cấp phản hồi về các API Graph và tài liệu với](https://aka.ms/GraphDeveloperSupport) Nhóm Hỗ trợ Nhà phát triển.
 
-Hỗ trợ hợp nhất và Premier khách hàng có thể nâng cao một vé hỗ trợ bằng cách sử dụng cổng thông tin này. Những người khác có thể truy nhập bộ phận hỗ trợ nhà phát triển miễn phí cho Microsoft graph trên [Microsoft Q&A](https://aka.ms/AskGraph).
+Hỗ trợ Thống nhất và Khách hàng Cao cấp có thể nâng thẻ hỗ trợ bằng cổng thông tin này. Những người khác có thể truy nhập hỗ trợ nhà phát triển miễn phí Graph [Microsoft trên Microsoft Q&A.](https://aka.ms/AskGraph)

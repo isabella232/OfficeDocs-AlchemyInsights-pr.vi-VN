@@ -1,5 +1,5 @@
 ---
-title: Bật và tắt Cập nhật tự động trong Windows
+title: Bật và tắt cập nhật tự động trong Windows
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,53 +12,53 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005716"
 - "9932"
-ms.openlocfilehash: 56e1ce994353c83d4735682daada233faa5ae8ad
-ms.sourcegitcommit: 1f43598a726cdb9904aa501eb8db87f143020d9e
+ms.openlocfilehash: ea51c9e54e18418daf0696ed43fa0636af2b8f5cda5b1a876f2b6cc13eaad6fb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "51405207"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54038575"
 ---
-# <a name="turn-on-and-off-automatic-updates-in-windows"></a>Bật và tắt Cập nhật tự động trong Windows
+# <a name="turn-on-and-off-automatic-updates-in-windows"></a>Bật và tắt cập nhật tự động trong Windows
 
-Bạn có thể thay đổi diện mạo của các ứng dụng chẳng hạn như giao diện thư và lịch và Windows, trong đó bao gồm thanh tác vụ, menu bắt đầu, Trung tâm hành động, Bàn phím cảm ứng, và nhiều hơn nữa từ chế độ nhẹ sang chế độ tối – tuyệt vời cho các điều kiện ánh sáng thấp như làm việc ban đêm hoặc để tiết kiệm pin.  
+Bạn có thể thay đổi giao diện của các ứng dụng như Thư và Lịch và Windows, bao gồm thanh tác vụ, menu Bắt đầu, Trung tâm Hành động, bàn phím cảm ứng và nhiều ứng dụng ngay lập tức từ chế độ sáng sang chế độ tối – thích hợp cho những điều kiện ánh sáng yếu như làm việc vào ban đêm hoặc để tiết kiệm pin.  
 
-Khi bạn chuyển đổi ứng dụng hoặc giao diện Windows sang chế độ tối, chúng sẽ xuất hiện với nền đen. Khi ở chế độ sáng, nền sẽ xuất hiện màu trắng hoặc xám.
+Khi bạn chuyển đổi các ứng dụng hoặc Windows của mình sang chế độ tối, các ứng dụng hoặc giao diện đó sẽ xuất hiện với nền đen. Khi ở chế độ sáng, nền sẽ hiện ra màu trắng hoặc xám.
  
-**Để chuyển Windows 10 vào chủ đề tối:**
+**Cách chuyển Windows 10 chủ đề tối:**
 
-1. Mở thiết đặt, sau đó chọn **cá** nhân hóa.
+1. Mở Cài đặt, sau đó chọn **Cá nhân hóa**.
   
-1. Chọn **màu**, rồi bên dưới **chọn màu của bạn**, chọn **tối** từ tùy chọn thả xuống.
+1. Chọn **Màu**, sau đó trong Chọn **màu của bạn**, chọn **Tối** từ các tùy chọn thả xuống.
 
-Bạn cũng có thể tùy chỉnh thiết đặt chế độ sáng và tối của mình bằng cách chọn **tùy chỉnh** từ các tùy chọn thả xuống.
+Bạn cũng có thể tùy chỉnh cài đặt chế độ sáng và tối bằng cách chọn **Tùy chỉnh** từ các tùy chọn thả xuống.
 
-**Chọn chế độ Windows mặc định của bạn** đặt chủ đề màu cho trang thanh tác vụ, menu bắt đầu, Trung tâm hành động, Bàn phím cảm ứng và các thành phần khác của giao diện Windows.  
+**Chọn chế độ Windows** định của bạn sẽ đặt chủ đề màu cho thanh tác vụ, menu Bắt đầu, Trung tâm Hành động, bàn phím cảm ứng và các thành phần khác của giao Windows này.  
 
-**Chọn chế độ ứng dụng mặc định của bạn** đặt chủ đề màu cho các ứng dụng chẳng hạn như thư, lịch và Windows Store.
+**Chọn chế độ ứng dụng mặc định** của bạn sẽ đặt chủ đề màu cho các ứng dụng như Thư, Lịch và Windows Store.
  
-**Để trả về cài đặt Windows 10 sang mặc định:**
+**Để đưa thiết Windows 10 về cài đặt mặc định:**
 
-1. Mở thiết đặt, rồi chọn **cá** nhân hóa.  
-1. Chọn **màu** và bên dưới **chọn màu của bạn**, chọn **tùy chỉnh** từ các tùy chọn thả xuống.  
-1. Đặt **chọn chế độ Windows mặc định của bạn** thành **tối** và **chọn chế độ ứng dụng mặc định của bạn** thành **ánh sáng**.
+1. Mở Cài đặt, rồi chọn Cá **nhân hóa**.  
+1. Chọn **Màu**, và trong Chọn **màu của bạn**, chọn Tùy **chỉnh** từ các tùy chọn thả xuống.  
+1. Đặt **Chọn chế độ xem Windows mặc định của bạn** thành **Tối** và Chọn chế độ ứng dụng mặc **định thành** **Sáng**.
 
-**Lưu ý:** Chủ đề bóng tối đã được thêm vào trong Windows 10 phiên bản 1607. Nếu bạn không nhìn thấy các tùy chọn này trong cài đặt, hãy đảm bảo bạn đã cài đặt các bản cập nhật Windows mới nhất.
+**Lưu ý:** Chủ đề tối đã được thêm vào Windows 10 1607. Nếu bạn không thấy các tùy chọn này trong Cài đặt, hãy đảm bảo bạn đã cài đặt bản cập nhật mới nhất của Windows.
 
 **Để thay đổi chủ đề hiện tại của bạn:**
 
-1. Bấm **bắt đầu**  >    >    >  **chủ đề** cá nhân hóa cài đặt.  
+1. Bấm **Bắt đầu**  >  **Cài đặt**  >  **đề Cá nhân**  >  **hóa.**  
 
-1. Bên dưới **thay đổi chủ đề**, hãy chọn lát để chuyển sang chủ đề mà bạn muốn sử dụng. 
+1. Bên **dưới Thay đổi** chủ đề, chọn ô xếp để chuyển sang chủ đề bạn muốn sử dụng. 
 
-**Lưu ý:** Bạn cũng có thể thêm nhiều chủ đề mới, tuyệt vời khác từ Microsoft Store bằng cách bấm vào **xem thêm chủ đề trong Microsoft Store** hoặc bằng cách tải xuống các chủ đề nổi bật từ trang web của chúng tôi.
+**Lưu ý:** Bạn cũng có thể thêm nhiều chủ đề mới, tuyệt vời từ Microsoft Store bằng cách bấm vào Tải thêm chủ đề trong **Microsoft Store** hoặc bằng cách tải xuống các chủ đề nổi bật từ website của chúng tôi.
 
 **Để xóa chủ đề:**
 
-1. Đi đến **bắt đầu** các  >    >    >  **chủ đề** cá nhân hóa cài đặt. 
-1. Bấm chuột phải hoặc nhấn và giữ, lát xếp chủ đề, rồi chọn **xóa**. 
+1. Đi tới Bắt **đầu**  >  **Cài đặt**  >  **đề Cá nhân**  >  **hóa**. 
+1. Bấm chuột phải hoặc nhấn và giữ ô chủ đề, rồi chọn **Xóa**. 
 
-**Lưu ý:** Bạn không thể xóa chủ đề hiện hoạt hiện tại. Nếu bạn muốn xóa chủ đề hiện hoạt hiện tại, trước tiên, hãy chọn một chủ đề khác để sử dụng. Ứng dụng cài đặt cũng không cho phép bạn xóa các chủ đề mặc định.
+**Lưu ý:** Bạn không thể xóa chủ đề hiện hoạt. Nếu bạn muốn xóa chủ đề hiện hoạt, trước tiên hãy chọn một chủ đề khác để sử dụng. Ứng Cài đặt cũng không cho phép bạn xóa chủ đề mặc định.
 
-Để biết chi tiết, hãy xem mục [lấy các chủ đề mới và nền máy tính](https://support.microsoft.com/windows/get-new-themes-and-desktop-backgrounds-09e3e0a6-02e3-5ecd-22a1-5d048e3cb0d3).
+Để biết chi tiết, xem [mục Tải chủ đề và hình nền mới](https://support.microsoft.com/windows/get-new-themes-and-desktop-backgrounds-09e3e0a6-02e3-5ecd-22a1-5d048e3cb0d3).
 

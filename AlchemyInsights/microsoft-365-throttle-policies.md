@@ -1,5 +1,5 @@
 ---
-title: Chính sách của Microsoft 365 throttle
+title: Microsoft 365 chính sách điều tiết
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002322"
 - "4506"
-ms.openlocfilehash: 78013788db0a685253c8575514aaab2bebe1f8b1
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 0c19cd8af9ee747f6c8020b1d45b127f86a529c94ead5bc7ed08e0f74f332b65
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51829911"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54027369"
 ---
-# <a name="microsoft-365-throttle-policies"></a>Chính sách của Microsoft 365 throttle
+# <a name="microsoft-365-throttle-policies"></a>Microsoft 365 chính sách điều tiết
 
-Microsoft 365 sử dụng điều chỉnh để duy trì hiệu suất và độ tin cậy tối ưu. Throttling giới hạn số lượng hành động của người dùng hoặc cuộc gọi đồng thời (theo script hoặc mã) để ngăn chặn việc sử dụng tài nguyên. Tìm hiểu thêm về throttling:
+Microsoft 365 điều chỉnh để duy trì hiệu suất và độ tin cậy tối ưu. Điều chỉnh giới hạn số lượng hành động người dùng hoặc cuộc gọi đồng thời (theo tập lệnh hoặc mã) để ngăn chặn việc sử dụng quá nhiều tài nguyên. Tìm hiểu thêm về điều chỉnh:
 
-- [Giới hạn tài nguyên của Office 365](https://docs.microsoft.com/office365/Enterprise/office-365-resource-limits)
+- [Office 365 hạn tài nguyên](https://docs.microsoft.com/office365/Enterprise/office-365-resource-limits)
 
-- [Các phương pháp tốt nhất về di chuyển email của Office 365 về điều chỉnh](https://docs.microsoft.com/exchange/mailbox-migration/office-365-migration-best-practices#office-365-throttling)
+- [Office 365 thực hành tốt nhất về di chuyển email về điều chỉnh](https://docs.microsoft.com/exchange/mailbox-migration/office-365-migration-best-practices#office-365-throttling)
 
-- [Tránh dùng Throttled hoặc bị chặn trong SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
+- [Tránh bị tiết lưu hoặc bị chặn trong SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
