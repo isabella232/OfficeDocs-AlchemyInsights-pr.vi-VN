@@ -12,18 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 1b53dd25f4aa4b9409ffa52cc0fa9d0914c682ee0d21ccc0b6f0b484a3186626
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b9daff7b03f34fbadc50c023aad2e7636274cb1a
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53966995"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58296073"
 ---
 # <a name="release-quarantined-messages"></a>Phát hành thư bị cách ly
 
-Bạn có thể phát hành thư bị cách ly (hoặc tập hợp thư) cho tất cả những người nhận, hoặc chỉ phát hành thư cho những người cụ thể mà bạn chọn từ danh sách tất cả những người nhận.
+Bạn có thể phát hành thư bị cách ly (hoặc tập hợp thư) cho tất cả những người nhận, hoặc chỉ phát hành thư cho những người cụ thể mà bạn chọn từ danh sách tất cả những người nhận. Dưới đây là cách thực hiện:
 
-1. Đi đến Trung [tâm Bảo & Tuân thủ.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-2. Đi đến Quản **lý mối đe**  >  **dọa**  >  **Xem lại Cách ly**.
-3. Chọn (các) thư bạn muốn phát hành.
-4. Sau khi phát hành thư, chọn **Làm mới** để làm mới dữ liệu của bạn, rồi bấm đúp vào thư. Bạn sẽ thấy rằng thư đã được phát hành cho những người nhận được chủ định.
+1. In the Bộ bảo vệ Microsoft 365 portal at <https://security.microsoft.com> , go to Email & **Collaboration** \> **Review** \> **Quarantine**.
+
+   Để đi trực tiếp đến **trang Cách ly,** sử dụng <https://security.microsoft.com/quarantine> .
+
+2. Trên trang **Cách ly,** hãy xác nhận đã chọn **tab email,** rồi thực hiện một trong các bước sau đây:
+   - **Thư đơn**: Chọn thư. Trong hộp thả ra chi tiết xuất hiện, chọn Phát **hành email**, đặt cấu hình các tùy chọn bạn muốn, rồi bấm vào Phát **hành thư**.
+   - **Nhiều thư**: Chọn tối đa 100 thư để phát hành thư cho tất cả những người nhận (bạn không thể chỉ định từng người nhận ban đầu). Trong danh **sách thả xuống Hành** động hàng loạt xuất hiện, chọn Phát hành thư , đặt cấu hình các tùy chọn bạn muốn, rồi bấm vào Thông báo phát **hành.** 
+
+Để biết thêm thông tin, hãy xem các bài viết sau đây:
+
+- [Tìm và phát hành thư bị cách ly với tư cách người dùng](https://docs.microsoft.com/microsoft-365/security/office-365-security/find-and-release-quarantined-messages-as-a-user)
+- [Quản lý thư và tệp được cách ly với tư cách là người quản trị](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files)

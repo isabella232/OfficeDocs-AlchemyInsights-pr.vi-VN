@@ -1,5 +1,5 @@
 ---
-title: Mới cho các nhóm?
+title: Bạn mới sử dụng Teams?
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002403"
 - "4676"
-ms.openlocfilehash: a3cda6f733c15c7079e63223369fb7da70fa1397
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a29b2dc8d2ea218c6fc187bd1d5c18a3137f3f9b54a903d6433063c233f1996c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51791650"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54011718"
 ---
-# <a name="new-to-teams"></a>Mới cho các nhóm?
+# <a name="new-to-teams"></a>Bạn mới sử dụng Teams?
 
-Do việc sử dụng các nhóm tăng gần đây, có thể sẽ mất khoảng 24 giờ trước khi bạn hoàn toàn được thiết lập. Cho đến lúc đó, bạn có thể không có quyền truy nhập vào một số tính năng nhóm như gọi, cuộc họp và lịch. Trong lúc này, hãy dùng các bài viết sau để nhanh chóng thiết lập và sử dụng: 
+Do mức sử dụng dịch vụ Teams tăng, có thể mất khoảng 24 giờ trước khi bạn được thiết lập đầy đủ. Cho đến lúc đó, bạn có thể không có quyền truy nhập vào một Teams khác như gọi điện, cuộc họp và lịch. Trong lúc này, hãy sử dụng các bài viết sau để thiết lập sẵn dùng nhanh chóng: 
 
-- Hãy xem [video chào mừng](https://support.office.com/article/welcome-to-microsoft-teams-b98d533f-118e-4bae-bf44-3df2470c2b12) để biết tổng quan về nhóm.
+- Xem [video Chào mừng để](https://support.office.com/article/welcome-to-microsoft-teams-b98d533f-118e-4bae-bf44-3df2470c2b12) có cái nhìn tổng quan về Teams.
 
-- Xem một loạt các [video bắt đầu nhanh](https://support.office.com/article/video-what-is-microsoft-teams-422bf3aa-9ae8-46f1-83a2-e65720e1a34d) ngắn cho các nhóm đi ngang.
+- Xem một chuỗi video [Bắt đầu nhanh ngắn](https://support.office.com/article/video-what-is-microsoft-teams-422bf3aa-9ae8-46f1-83a2-e65720e1a34d) để biết thông tin hướng dẫn Teams.
 
-- Xem [video cuộc họp](https://support.office.com/article/join-a-teams-meeting-078e9868-f1aa-4414-8bb9-ee88e9236ee4) để tìm hiểu cách sử dụng các cuộc họp trong nhóm.
+- Xem video [Cuộc họp để](https://support.office.com/article/join-a-teams-meeting-078e9868-f1aa-4414-8bb9-ee88e9236ee4) tìm hiểu cách sử dụng cuộc họp trong Teams.

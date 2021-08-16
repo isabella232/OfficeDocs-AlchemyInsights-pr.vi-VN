@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800009"
 - "7350"
-ms.openlocfilehash: 2732c9c1f644e3ba30db9716a7a0ab53e51c2d29d4cfeabc485133ed99531a05
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d18a5e56c758119bec0cbed9e60fb015ff17855b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53987417"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58295929"
 ---
 # <a name="import-a-pst-file-from-outlook-for-windows-to-outlook-for-mac"></a>Nhập tệp .pst từ Outlook for Windows sang Outlook for Mac 
 
@@ -28,7 +28,7 @@ ms.locfileid: "53987417"
 
 1. Từ **menu** Outlook cho Máy Mac, chọn **Nhập**.
 
-2. Chọn **Outlook lưu Windows lưu trữ (.pst),** rồi bấm vào Tiếp **tục.**
+2. Chọn **Outlook cho Windows lưu trữ (.pst),** rồi bấm vào Tiếp **tục.**
 
 3. Định vị tệp dữ liệu trên máy tính của bạn, rồi bấm **Nhập.**
 
@@ -37,7 +37,7 @@ ms.locfileid: "53987417"
    Các mục đã nhập sẽ xuất hiện trong ngăn dẫn hướng bên dưới **Trên Máy tính của Tôi.**
 
 
-**Trong Office 2011 - nhập tệp .pst từ Outlook nhập Windows**
+**Trong Office 2011 - nhập tệp .pst từ Outlook cho doanh Windows**
 
 1. Truyền tệp .pst vào máy tính Macintosh của bạn.
 
@@ -53,12 +53,11 @@ ms.locfileid: "53987417"
 
    Các mục đã nhập sẽ xuất hiện trong ngăn dẫn hướng bên dưới **Trên Máy tính của Tôi.**
 
-> [!NOTE]
-> Outlook for Mac chỉ có thể nhập tệp .pst dựa trên Unicode, là định dạng tiêu chuẩn cho tệp Thư mục Cá nhân cho Outlook (đối với Windows) 2003 và các phiên bản mới hơn. Tệp .pst định dạng ANSI, còn được gọi là Tệp Thư mục Cá nhân Outlook 97-2002, là định dạng thư mục cá nhân tiêu chuẩn để lưu dữ liệu trong Outlook cho Windows trong các phiên bản 97-2002. Định dạng tệp này không thể nhập vào tài Outlook for Mac. Nếu bạn có phiên bản cũ hơn của tệp .pst định dạng ANSI, không có thủ tục tự động để chuyển đổi tệp đó sang định dạng tệp mới hơn. Tuy nhiên, bạn có thể tạo Tệp Dữ liệu Outlook (.pst) mới trong Microsoft Outlook cho phiên bản Windows 2003 trở lên, rồi nhập các mục từ tệp cũ hơn vào tệp mới. Sau đó, bạn có thể nhập tệp .pst mới vào Outlook for Mac. Để biết thêm thông tin về cách tạo tệp  .pst và các mục nhập, hãy xem Trợ giúp cho phiên bản Phiên Outlook để biết Windows.
+**Lưu** ý : Outlook for Mac chỉ có thể nhập tệp .pst dựa trên Unicode, là định dạng tiêu chuẩn cho tệp Thư mục Cá nhân cho Outlook (đối với Windows) 2003 trở lên. Tệp .pst định dạng ANSI, còn được gọi là Tệp Thư mục Cá nhân Outlook 97-2002, là định dạng thư mục cá nhân tiêu chuẩn để lưu dữ liệu trong Outlook cho Windows trong các phiên bản 97-2002. Định dạng tệp này không thể nhập vào tài Outlook for Mac. Nếu bạn có phiên bản cũ hơn của tệp .pst định dạng ANSI, không có thủ tục tự động để chuyển đổi tệp đó sang định dạng tệp mới hơn. Tuy nhiên, bạn có thể tạo Tệp Dữ liệu Outlook (.pst) mới trong Microsoft Outlook cho phiên bản Windows 2003 trở lên, rồi nhập các mục từ tệp cũ hơn vào tệp mới. Sau đó, bạn có thể nhập tệp .pst mới vào Outlook for Mac. Để biết thêm thông tin về cách tạo tệp  .pst và các mục nhập, hãy xem Trợ giúp cho phiên bản Outlook để biết Windows.
 
-**Mở Tệp Outlook Liệu (.pst hoặc .olm)**
+**Mở tệp Outlook dữ liệu (.pst hoặc .olm)**
 
-Bạn có thể nhập Outlook dữ liệu cho Windows Tệp Dữ liệu (.pst) hoặc tệp dữ Outlook tệp cho máy Mac (.olm). Các tệp dữ liệu này có thể chứa một lượng lớn dữ liệu của nhiều loại mục. Outlook Tệp Dữ liệu thường được sử dụng như một kho lưu trữ hoặc để truyền dữ liệu giữa các máy tính.
+Bạn có thể nhập một Outlook cho Windows Tệp Dữ liệu (.pst) hoặc một tệp dữ Outlook cho Tệp Dữ liệu trên máy Mac (.olm). Các tệp dữ liệu này có thể chứa một lượng lớn dữ liệu của nhiều loại mục. Outlook Tệp Dữ liệu thường được sử dụng như một kho lưu trữ hoặc để truyền dữ liệu giữa các máy tính.
 
 1. Trên menu Outlook for Mac, bấm vào **Nhập**.
 
@@ -72,8 +71,7 @@ Bạn có thể nhập Outlook dữ liệu cho Windows Tệp Dữ liệu (.pst) 
 
 Các mục đã nhập sẽ xuất hiện trong ngăn dẫn hướng bên dưới **Trên Máy tính của Tôi.**
 
-> [!NOTE]
-> Outlook for Mac chỉ có thể nhập tệp .pst dựa trên Unicode, đây là định dạng tiêu chuẩn cho tệp Thư mục Riêng cho Outlook (đối với Windows) 2003 trở lên. Không thể nhập tệp .pst định dạng ANSI, Outlook 97-2002 Tệp Thư mục Riêng, không thể nhập vào Outlook for Mac. Nếu bạn có phiên bản cũ hơn của tệp .pst định dạng ANSI, không có thủ tục tự động để chuyển đổi tệp đó sang định dạng tệp mới hơn. Tuy nhiên, bạn có thể tạo Tệp Dữ liệu Outlook (.pst) mới trong Microsoft Outlook cho Windows 2003 trở lên, rồi nhập các mục từ tệp cũ hơn vào tệp mới. Sau đó, bạn có thể nhập tệp .pst mới vào Outlook for Mac. Để biết thêm thông tin về cách tạo tệp .pst và các mục nhập, hãy xem Trợ giúp cho phiên bản phiên bản Outlook dành cho Windows. 
+**Lưu** ý : Outlook for Mac chỉ có thể nhập tệp .pst dựa trên Unicode, đây là định dạng tiêu chuẩn cho tệp Thư mục Riêng cho Outlook (đối với Windows) 2003 và các phiên bản mới hơn. Không thể nhập tệp .pst định dạng ANSI, còn được gọi là Tệp Thư mục Riêng Outlook 97-2002, vào phiên bản Outlook for Mac. Nếu bạn có phiên bản cũ hơn của tệp .pst định dạng ANSI, không có thủ tục tự động để chuyển đổi tệp đó sang định dạng tệp mới hơn. Tuy nhiên, bạn có thể tạo Tệp Dữ liệu Outlook (.pst) mới trong Microsoft Outlook cho Windows 2003 trở lên, rồi nhập các mục từ tệp cũ hơn vào tệp mới. Sau đó, bạn có thể nhập tệp .pst mới vào Outlook for Mac. Để biết thêm thông tin về cách tạo tệp .pst và các mục nhập, hãy xem Trợ giúp cho phiên bản Phiên Outlook để biết Windows. 
 
 **Mở các mục entourage từ kho lưu trữ hoặc phiên bản trước đó**
 
@@ -83,14 +81,14 @@ Bạn có thể nhập các mục như thông điệp email, liên hệ và các
 
 2. Bấm **Thông tin Entourage từ kho lưu trữ hoặc phiên bản cũ hơn,** bấm vào mũi tên phải, rồi làm theo hướng dẫn.
 
-> [!NOTE]
-- Nếu bạn đã sử dụng tài khoản Microsoft Exchange với Entourage, tất cả các mục trong tài khoản Exchange sẽ được tải xuống từ máy chủ Exchange sau khi hoàn tất quá trình nhập. Mọi quy tắc hoặc lịch biểu liên quan Exchange khoản người dùng sẽ cần phải được cấu hình lại Outlook.
+**Lưu ý**:
+- Nếu bạn đã sử dụng tài khoản Microsoft Exchange với Entourage, tất cả các mục trong tài khoản Exchange sẽ được tải xuống từ máy chủ Exchange sau khi hoàn tất quá trình nhập. Mọi quy tắc hoặc lịch biểu liên quan Exchange khoản người dùng sẽ cần phải được cấu hình lại trong Outlook.
 
 - Nếu bạn nhập các mục từ Entourage 2004 hoặc Entourage 2008, thông tin thể loại cho các mục trong tài khoản Exchange sẽ không được nhập vào Outlook. Tuy nhiên, với Entourage 2008, Phiên bản Dịch vụ Web, thông tin thể loại sẽ được tải xuống từ máy Exchange chủ.
 
-- Outlook bao gồm Trung Project Trung tâm. Nếu bạn đã dùng Trung tâm Project trong Entourage rồi nhập thông tin Entourage của bạn vào Outlook, các liên kết Project Center sẽ được chuyển đổi thành các thể loại. Ví dụ, nếu bạn thêm các mục vào một dự án có tiêu đề "Bài Nghiên cứu" trong Entourage, những mục này được gán một thể loại có tên là "Bài Nghiên cứu" trong Outlook.
+- Outlook bao gồm Trung Project Hình. Nếu bạn đã dùng Trung tâm Project trong Entourage rồi nhập thông tin Entourage của bạn vào Outlook, các liên kết Trung tâm Project sẽ được chuyển đổi thành các thể loại. Ví dụ, nếu bạn thêm các mục vào một dự án có tiêu đề "Bài Nghiên cứu" trong Entourage, những mục này được gán một thể loại gọi là "Bài Nghiên cứu" trong Outlook.
 
-- Dạng xem tùy chỉnh, thiết đặt tìm kiếm và thông tin thời gian du lịch theo sự kiện sẽ không được nhập từ Entourage vào Outlook. Outlook kiện không bao gồm bất kỳ thông tin thời gian du lịch nào.
+- Dạng xem tùy chỉnh, thiết đặt tìm kiếm và thông tin thời gian du lịch theo sự kiện sẽ không được nhập từ Entourage vào Outlook. Outlook kiện này không bao gồm bất kỳ thông tin thời gian du lịch nào.
 
 **Di chuyển một mục từ thư mục lưu trữ sang một thư mục khác trong Outlook**
 
@@ -100,8 +98,7 @@ Bạn có thể nhập các mục như thông điệp email, liên hệ và các
 
 3. Trong hộp tìm kiếm, nhập tên thư mục mà bạn muốn di chuyển, rồi bấm vào Di **chuyển.**
 
-> [!TIP]
-> Để sao chép một mục từ thư mục lưu trữ vào một thư mục khác trong Outlook, chỉ cần kéo mục đó vào thư mục bạn muốn đặt bản sao.
+   **Mẹo**: Để sao chép một mục từ thư mục lưu trữ vào một thư mục khác trong Outlook, chỉ cần kéo mục đó vào thư mục bạn muốn đặt bản sao.
 
 **Xem thêm**
 

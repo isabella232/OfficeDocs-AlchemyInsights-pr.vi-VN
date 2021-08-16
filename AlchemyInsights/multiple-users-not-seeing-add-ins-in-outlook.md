@@ -11,17 +11,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
-ms.openlocfilehash: a0c272f40044795754ed8630e88e00ed14ea6ad7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 850df2cb349f9a751def3d59fb665670e70e493daba56a88821afcef9c48ffa8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47729893"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54011826"
 ---
 # <a name="multiple-users-not-seeing-add-ins-in-outlook"></a>Nhiều người dùng không nhìn thấy phần bổ trợ trong Outlook
 
-Nếu bạn kiểm tra phần bổ trợ Outlook và không hiển thị, làm bước khắc phục sự cố đầu tiên, hãy sử dụng lệnh ghép ngắn **Get-OrganizationConfig** PowerShell để truy vấn tham số _kích hoạt appsforofficeenabled_ . Nếu truy vấn trả về một giá trị **false**, hãy đặt tham số này thành **True** bằng lệnh ghép ngắn **Set-OrganizationConfig** , do đó, phần bổ trợ sẽ xuất hiện như mong muốn.
+Nếu bạn kiểm tra Outlook bổ trợ và không hiển thị, như một bước khắc phục sự cố đầu tiên, hãy dùng lệnh ghép ngắn **Get-OrganizationConfig** PowerShell để truy vấn tham số _AppsForOfficeEnabled._ Nếu truy vấn trả về giá trị **False**, hãy đặt tham số này thành **True** bằng cách sử dụng lệnh ghép ngắn **Set-OrganizationConfig** để các phần bổ trợ xuất hiện như dự kiến.
 
-Chúng tôi không khuyên bạn nên tham biến cho _phép Appsforofficeđược_ đặt thành **false**. Một giá trị **false** sẽ đè lên tất cả các thiết đặt vai trò quản trị và người dùng và ngăn không cho bất kỳ ứng dụng nào mới được kích hoạt bởi bất kỳ người dùng nào trong tổ chức.
+Chúng tôi khuyên tham số _AppsForOfficeEnabled_ được đặt thành **False.** Giá trị **False** sẽ ghi đè lên tất cả các thiết đặt vai trò Người dùng và Quản trị ở trên, đồng thời ngăn người dùng bất kỳ trong tổ chức kích hoạt mọi ứng dụng mới.
 
-Để biết thêm thông tin, hãy xem [mục xác định người quản trị và người dùng có thể cài đặt và quản lý các phần bổ trợ cho Outlook](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/add-ins-for-outlook/specify-who-can-install-and-manage-add-ins#user-roles).
+Để biết thêm thông tin, hãy xem Chỉ định người quản trị và người dùng có thể cài đặt và [quản lý các phần bổ trợ dành cho Outlook.](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/add-ins-for-outlook/specify-who-can-install-and-manage-add-ins#user-roles)

@@ -1,5 +1,5 @@
 ---
-title: Nhiều đối tượng có cùng địa chỉ email với danh tính
+title: Nhiều đối tượng có cùng địa chỉ email dưới dạng danh tính
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,37 +13,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "1834"
 - "9000247"
-ms.openlocfilehash: 05fb43133bc68b71ccdbab44d28679a1f659e762
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5866d182cb2e97e37bc6df87e05fb6ef55bfed1d36f9daa95b7b8993a509e2dd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47724637"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54011934"
 ---
-# <a name="multiple-objects-have-the-same-email-address-as-identity"></a>Nhiều đối tượng có cùng địa chỉ email với danh tính
+# <a name="multiple-objects-have-the-same-email-address-as-identity"></a>Nhiều đối tượng có cùng địa chỉ email dưới dạng danh tính
 
 **Nhiều đối tượng**
 
-Một trong những lý do phổ biến của lỗi này không thể định tuyến một yêu cầu Outlook Web Access đúng cách với sự hiện diện của nhiều đối tượng có cùng địa chỉ email với danh tính. Để tìm các đối tượng này, hãy chạy các lệnh sau đây:
+Một trong những lý do phổ biến của lỗi này là không thể định tuyến yêu cầu Outlook Web Access đúng cách trong trạng thái hiện diện của nhiều đối tượng có cùng địa chỉ email dưới dạng danh tính. Để tìm các đối tượng này, hãy chạy các lệnh sau đây:
 
-· Get-người nhận <email address>
+· Get-Recipient <email address>
 
 · Get-User <email address>
 
-· Get-User <email address> -softdeleteduser
+· Get-User <email address> -SoftDeletedUser
 
-· Get-liên hệ <email address>
+· Get-Contact <email address>
 
-· Tải thư mục được đăng ký hộp thư <email address>
+· Get-Mailbox <email address> -PublicFolder
 
-· Get-hộp thư <email address> -includesoftdeletedmailbox
+· Get-Mailbox <email address> -IncludeSoftDeletedMailbox
 
-· Get-Mailbox <email address> -inactivemailboxonly
+· Get-Mailbox <email address> -InactiveMailboxOnly
 
-Để giải quyết vấn đề này, hãy loại bỏ nhiều đối tượng với cùng một danh tính email và đảm bảo rằng có một đối tượng duy nhất với danh tính email cụ thể và loại người nhận đó là hộp thư user.
+Để giải quyết sự cố này, hãy loại bỏ nhiều đối tượng có cùng một danh tính email và đảm bảo rằng có một đối tượng duy nhất có danh tính email cụ thể và loại người nhận là UserMailbox.
 
-**Cùng một địa chỉ được sử dụng cho các hộp thư kinh doanh và người tiêu dùng**
+**Cùng một địa chỉ được dùng cho hộp thư doanh nghiệp và người tiêu dùng**
 
-Nguyên nhân khác là khi cùng một địa chỉ được sử dụng cho các hộp thư kinh doanh và người dùng. Trong trường hợp này, người dùng phải thay đổi biệt danh người tiêu dùng chính của họ cho đến khi Cafe hỗ trợ kịch bản này. Đây là lỗi cố định không biến mất nếu không có can thiệp.
+Một nguyên nhân khác là khi cùng một địa chỉ được dùng cho hộp thư doanh nghiệp và người tiêu dùng. Trong trường hợp này, người dùng phải thay đổi biệt danh người dùng chính của mình cho đến khi Cafe hỗ trợ kịch bản này. Đây là lỗi vĩnh viễn không biến mất mà không cần can thiệp.
 
-Để biết chi tiết, hãy xem [thay đổi địa chỉ email hoặc số điện thoại cho tài khoản Microsoft của bạn](https://support.microsoft.com/help/11545/microsoft-account-rename-your-personal-account).
+Để biết chi tiết, hãy [xem Thay đổi địa chỉ email hoặc số điện thoại cho tài khoản Microsoft của bạn](https://support.microsoft.com/help/11545/microsoft-account-rename-your-personal-account).
