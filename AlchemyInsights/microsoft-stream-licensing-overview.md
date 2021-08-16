@@ -1,5 +1,5 @@
 ---
-title: Tổng quan về cấp phép Microsoft Stream
+title: Tổng quan về Cấp phép của Microsoft Stream
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001693"
 - "3770"
-ms.openlocfilehash: 3b336ce5ab2df59c9a6e8b611be80d66289a18cf
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: e4aa70aa22696bea42516b698d109a0c115d024468d4d8ab070b9c337c3e91fe
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51794242"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54066242"
 ---
-# <a name="microsoft-stream-licensing-overview"></a>Tổng quan về cấp phép Microsoft Stream
+# <a name="microsoft-stream-licensing-overview"></a>Tổng quan về Cấp phép của Microsoft Stream
 
-Microsoft Stream là một dịch vụ điện toán đám mây được cấp phép trên một cơ sở đăng ký của mỗi người dùng. Nó sẵn dùng như một phần của đăng ký có đủ điều kiện của Microsoft 365. Xem giá cả của Microsoft 365 để biết thông tin về mỗi loại đăng ký.
+Microsoft Stream là một dịch vụ điện toán đám mây được cấp phép trên cơ sở từng đăng ký người dùng. Đăng ký này sẵn có như một phần trong các đăng ký Microsoft 365 đủ điều kiện. Xem mục Microsoft 365 giá để biết thông tin về từng loại đăng ký.
 
-- [Tổng quan về cấp phép Microsoft Stream](https://docs.microsoft.com/stream/license-overview)
+- [Tổng quan về Cấp phép của Microsoft Stream](https://docs.microsoft.com/stream/license-overview)

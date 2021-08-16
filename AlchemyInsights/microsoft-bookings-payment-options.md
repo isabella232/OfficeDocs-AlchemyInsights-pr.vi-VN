@@ -1,5 +1,5 @@
 ---
-title: Tùy chọn thanh toán đặt chỗ của Microsoft
+title: Các tùy chọn thanh toán của Microsoft Bookings
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "6052"
 - "9002883"
-ms.openlocfilehash: ce6b90ac62a4e0620546198a62fbeab92d3e067f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 982162391ba2ed9b17624012f55387156d58c26b210f2747b1d4c7c1e3be8c43
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47725177"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54098156"
 ---
-# <a name="microsoft-bookings-payment-options"></a>Tùy chọn thanh toán đặt chỗ của Microsoft
+# <a name="microsoft-bookings-payment-options"></a>Các tùy chọn thanh toán của Microsoft Bookings
 
-Các tùy chọn thanh toán đặt chỗ Microsoft đã ngừng hoạt động ngày 2020 tháng 3. Các tổ chức hiện đang sử dụng các giải pháp của bên thứ ba để thêm một tùy chọn thanh toán để đặt chỗ.
+Các tùy chọn thanh toán của Microsoft Bookings đã ngừng hoạt động vào tháng Ba năm 2020. Các tổ chức hiện đang sử dụng các giải pháp của bên thứ ba để thêm tùy chọn thanh toán cho Bookings.

@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002448"
 - "5071"
-ms.openlocfilehash: 850f71ededd23aaca198ad0e0a005bdd2a05cda4
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: ef3833f52081ed954867cdbb9a8e98cbea267e1f3d6bc88eff93c09550a00805
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51829875"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54098264"
 ---
 # <a name="microsoft-account-does-not-exist"></a>Tài khoản Microsoft không tồn tại
 
-Nếu bạn nhận được thông báo lỗi rằng **tài khoản Microsoft không tồn tại**, hãy xem mục [cách tìm tài khoản Microsoft của bạn](https://support.microsoft.com/help/13811/microsoft-account-how-to-find).
+Nếu bạn nhận được thông báo lỗi rằng **tài khoản Microsoft không tồn tại**, hãy xem mục Cách tìm tài khoản Microsoft của [bạn](https://support.microsoft.com/help/13811/microsoft-account-how-to-find).

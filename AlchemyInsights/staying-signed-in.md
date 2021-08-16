@@ -1,5 +1,5 @@
 ---
-title: Duy trì trạng thái đăng nhập
+title: Duy trì đăng nhập
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003320"
 - "6216"
-ms.openlocfilehash: ba4330575a37100b7725735949c9b83d8ea67a0b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0932e184998f31b2c140a37a6709cf3221a25ae53064f09b484836ea4f29c9fb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750977"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54021366"
 ---
-# <a name="staying-signed-in"></a>Duy trì trạng thái đăng nhập
+# <a name="staying-signed-in"></a>Duy trì đăng nhập
 
-Nếu bạn không muốn duy trì đăng nhập, bạn có thể chọn **không hiển thị lại** sau khi đăng nhập.
+Nếu bạn không muốn duy trì đăng nhập, bạn có thể chọn Không hiển **thị lại** thông tin này lần sau khi đăng nhập.

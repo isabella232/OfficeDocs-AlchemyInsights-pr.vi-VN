@@ -1,5 +1,5 @@
 ---
-title: Hỗ trợ Microsoft Store
+title: Microsoft Store Hỗ trợ
 ms.author: pebaum
 author: pebaum
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005680"
 - "9751"
-ms.openlocfilehash: 87c5c263e138e0ee025248dc074b84c24496df0e
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: c93bceab8d576f1658039f171ff4cf44a279b26c4773b8670cdad63f27bafbc6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51037123"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54066278"
 ---
-# <a name="microsoft-store-support"></a>Hỗ trợ Microsoft Store
+# <a name="microsoft-store-support"></a>Microsoft Store Hỗ trợ
 
-Chúng tôi đang lắng nghe và muốn trợ giúp. Nếu bạn cần trợ giúp về việc tìm kiếm thông tin về một gói mua sản phẩm, trạng thái đơn hàng, các vấn đề thanh toán, các chương trình khuyến mại đặc biệt, định vị thông tin sản phẩm hoặc hỗ trợ Microsoft Store, hãy xem [liên hệ với bộ phận hỗ trợ Microsoft Store](https://support.microsoft.com/account-billing/contact-microsoft-store-support-4f615f2a-6bbd-fd69-6695-ae213d63eef0).
+Chúng tôi luôn lắng nghe và muốn trợ giúp. Nếu bạn cần hỗ trợ tìm kiếm thông tin về giao dịch mua sản phẩm, trạng thái đơn hàng, sự cố về thanh toán, khuyến mãi đặc biệt, thông tin định vị sản phẩm hoặc Microsoft Store hỗ trợ, hãy xem Liên hệ với bộ phận [Hỗ Microsoft Store .](https://support.microsoft.com/account-billing/contact-microsoft-store-support-4f615f2a-6bbd-fd69-6695-ae213d63eef0)
 
-Để tìm hiểu về các thiết bị được phát hành mới hoặc các sản phẩm sắp tới từ Microsoft, hãy xem [Microsoft Store](https://www.microsoft.com/?ql=1).
+Để tìm hiểu về các thiết bị mới phát hành hoặc sản phẩm sắp ra mắt từ Microsoft, [hãy xem Microsoft Store](https://www.microsoft.com/?ql=1).
 
-Cảm ơn bạn đã là khách hàng của Microsoft.
+Cảm ơn bạn đã trở thành khách hàng của Microsoft.
