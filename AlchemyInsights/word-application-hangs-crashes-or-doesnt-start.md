@@ -1,5 +1,5 @@
 ---
-title: Ứng dụng Word bị treo, gặp sự cố hoặc không bắt đầu
+title: Word - Ứng dụng bị treo, gặp sự cố hoặc không khởi động
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,28 +12,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000584"
 - "2686"
-ms.openlocfilehash: 6eb8f22931c8ca0518a6f5e6219904eea01f0328
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c77271b1ee5ea871ddd921ccb4c47c699564c052ea0d19ccb5aabec2cfb5edc3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51825897"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54072578"
 ---
-# <a name="word-crashes-or-doesnt-respond"></a>Word gặp sự cố hoặc không trả lời
+# <a name="word-crashes-or-doesnt-respond"></a>Word gặp sự cố hoặc không phản hồi
 
-Các sự cố thường gặp trong Word có thể do một bổ trợ bị lỗi. Bạn có thể tắt các phần bổ trợ Word bằng cách tuân theo các hướng dẫn sau:
+Có thể xảy ra các sự cố thường xuyên trong Word do phần bổ trợ bị lỗi. Bạn có thể tắt phần bổ trợ Word bằng cách làm theo các hướng dẫn sau:
 
-1. Đi đến phần bổ trợ  >  **tùy chọn** tệp  >  .
-2. Trong danh sách **quản lý** , chọn **bổ trợ com**, rồi chọn **đi**.
-3. Trong hộp **bổ trợ sẵn dùng** , bỏ chọn hộp kiểm bên cạnh phần bổ trợ mà bạn muốn tắt, rồi chọn **OK**.
+1. Đi tới **Phần**  >  **bổ trợ Tùy** chọn  >  **Tệp.**
+2. Trong danh **sách** Quản lý, **chọn Phần bổ trợ COM**, rồi chọn Đi **.**
+3. Trong hộp **Bổ trợ sẵn dùng,** bỏ chọn hộp kiểm bên cạnh phần bổ trợ bạn muốn tắt, rồi chọn **OK.**
 
-Nếu Word không bắt đầu, hãy thử làm như sau:
+Nếu Word không khởi động, hãy thử cách sau:
 
-1.   Trên máy tính chạy Windows, đóng Outlook và nhấn CTRL + ALT + DEL để mở trình quản lý tác vụ. 
-2. Trên tab **tiến trình** , nếu các quy trình Word đang chạy, hãy chọn chúng, rồi chọn **kết thúc tác vụ**. Nó cũng khuyên bạn khởi động lại để xóa tất cả mọi thứ khỏi bộ nhớ.
+1.   Trên màn hình Windows nền, hãy Outlook và nhấn CTRL+ALT+DEL để mở Trình quản lý Tác vụ. 
+2. Trên tab **Quy trình,** nếu quy trình Word đang chạy, hãy chọn chúng và chọn Kết **thúc Tác vụ**. Bạn cũng nên khởi động lại để xóa mọi thứ khỏi bộ nhớ.
 
-    Nếu Word tiếp tục gặp sự cố hoặc treo trong khi khởi động, hãy xem mục [mở các ứng dụng Microsoft 365 trong chế độ an toàn trên PC chạy Windows](https://support.office.com/article/Open-Office-apps-in-safe-mode-on-a-Windows-PC-dedf944a-5f4b-4afb-a453-528af4f7ac72) để khởi động nó ở chế độ an toàn.
+    Nếu Word tiếp tục gặp sự cố hoặc treo trong khi khởi chạy, hãy xem mở ứng dụng Microsoft 365 ở chế độ an toàn trên [PC chạy Windows để](https://support.office.com/article/Open-Office-apps-in-safe-mode-on-a-Windows-PC-dedf944a-5f4b-4afb-a453-528af4f7ac72) khởi chạy ứng dụng ở chế độ Két sắt của bạn.
 
 Nếu bạn vẫn gặp sự cố, hãy xem các bài viết sau đây: 
-- [Tôi nhận được lỗi "đã ngừng hoạt động" khi tôi khởi động các ứng dụng Office trên PC của tôi](https://support.office.com/article/52bd7985-4e99-4a35-84c8-2d9b8301a2fa)
-- [Các bản sửa lỗi hoặc giải pháp thay thế cho các sự cố gần đây trong Word for Windows](https://support.office.com/article/bf6bf17c-2807-4871-83ce-e337ae8f0b86)
+- [Tôi nhận được lỗi "đã ngừng hoạt động" khi tôi khởi động Office dụng trên PC của mình](https://support.office.com/article/52bd7985-4e99-4a35-84c8-2d9b8301a2fa)
+- [Các bản sửa lỗi hoặc giải pháp thay thế cho sự cố gần đây trong Word for Windows](https://support.office.com/article/bf6bf17c-2807-4871-83ce-e337ae8f0b86)

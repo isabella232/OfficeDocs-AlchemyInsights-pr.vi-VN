@@ -13,15 +13,15 @@ ms.assetid: ''
 ms.custom:
 - "9000158"
 - "1676"
-ms.openlocfilehash: 9026c42eceebfab4be741b988ba1f053a611fc5b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1d3d44cc5625c6fedd9f5d3c3d87693770c45b22a2e9046dfb60d0bda056f065
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47757286"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54035758"
 ---
 # <a name="cannot-access-sharepoint"></a>Không thể truy nhập SharePoint
 
-Có một số lý do khiến SharePoint hoặc OneDrive có thể trở thành không thể truy nhập. Nếu bạn không thể truy nhập SharePoint hoặc OneDrive, hãy sử dụng hướng dẫn sau đây để khắc phục sự cố này.
+Có một số lý do khiến SharePoint hoặc OneDrive thể trở nên không thể vào được. Nếu bạn không thể truy nhập vào SharePoint hoặc OneDrive, hãy sử dụng hướng dẫn sau đây để khắc phục sự cố này.
 
 - [Không thể truy nhập SharePoint hoặc OneDrive](https://docs.microsoft.com/sharepoint/troubleshoot/sharing-and-permissions/sharepoint-online-inaccessible)

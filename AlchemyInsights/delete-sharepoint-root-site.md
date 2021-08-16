@@ -1,5 +1,5 @@
 ---
-title: Xóa site gốc SharePoint
+title: Xóa bỏ site SharePoint gốc của bạn
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003017"
 - "5727"
-ms.openlocfilehash: 849c5c58ab4688130d71baffac8fe39eddf92f18
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 4965e38f69c9d7f3a5c1facd23a0ee487e499f55f5779672808a54b86c90aeaa
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51815493"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54102295"
 ---
-# <a name="delete-the-sharepoint-root-site"></a>Xóa site gốc SharePoint
+# <a name="delete-the-sharepoint-root-site"></a>Xóa bỏ site SharePoint gốc của bạn
 
-Việc xóa bỏ site gốc SharePoint  **không được hỗ trợ.**
+Xóa bỏ site SharePoint gốc không **được hỗ trợ.**
 
-1.  Nếu site gốc đã bị xóa, người dùng sẽ gặp phải lỗi không tìm thấy tệp 404 khi tìm cách truy nhập vào trang.
-2.  Để giải quyết, khôi phục site từ Trung tâm quản trị SharePoint mới bằng cách đi tới trang  [site đã xóa](https://admin.microsoft.com/sharepoint?page=recycleBin&modern=true)  , chọn trang gốc, rồi bấm vào khôi phục.
-3.  Thay vì xóa site gốc, hãy dùng [trang thay thế](https://docs.microsoft.com/sharepoint/modern-root-site#replace-your-root-site)  từ Trung tâm quản trị SharePoint mới khi site gốc được khôi phục.
+1.  If the root site has already been deleted, users will experience a 404 File Not Found error when trying to access the site.
+2.  Để giải quyết, khôi phục site từ trung tâm [](https://admin.microsoft.com/sharepoint?page=recycleBin&modern=true) quản trị SharePoint của bạn bằng cách đi đến trang Site đã xóa, chọn site gốc và bấm Khôi phục.
+3.  Thay vì xóa site gốc, hãy dùng thay thế [site](https://docs.microsoft.com/sharepoint/modern-root-site#replace-your-root-site) từ Trung tâm Quản SharePoint Mới sau khi site gốc được khôi phục.
 
-Để biết thêm thông tin, hãy xem hiện đại hóa [site gốc của bạn](https://docs.microsoft.com/sharepoint/modern-root-site)
+Để biết thêm thông tin, hãy xem [mục Hiện đại hóa site gốc của bạn](https://docs.microsoft.com/sharepoint/modern-root-site)

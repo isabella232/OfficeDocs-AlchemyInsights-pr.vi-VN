@@ -1,5 +1,5 @@
 ---
-title: Cấu hình ảo với dịch vụ tên miền của Bad
+title: Cấu hình ảo với dịch vụ tên miền AAD
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "7927"
 - "9004397"
-ms.openlocfilehash: 7c56e467679f9b9a48cfd7a6f70f7ee148ded3e8
-ms.sourcegitcommit: a61a29dbd0382370fea0be5fa4a61c9a1a9354c7
+ms.openlocfilehash: 03a6ec63ba8e2779b0fe3f0381606af2c0748f8b848baaa7cd88b61317bd7a5e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49885781"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54072866"
 ---
-# <a name="virtual-configuration-with-aad-domain-services"></a>Cấu hình ảo với dịch vụ tên miền của Bad
+# <a name="virtual-configuration-with-aad-domain-services"></a>Cấu hình ảo với dịch vụ tên miền AAD
 
-Cấu hình ảo với dịch vụ tên miền của Bad liên quan đến các bước sau đây: 
+Cấu hình ảo với dịch vụ tên miền AAD bao gồm các bước sau đây: 
 
-1. Kiểm tra trạng thái tên miền của bạn trên cổng thông tin Azure https://aka.ms/aadds-health
-2. Kiểm tra NSG của bạn để xem các quy tắc chặn cổng cần thiết để đồng bộ hóa trong dịch vụ tên miền Azure AD trên cổng thông tin https://aka.ms/aadds-networking
-3. Đảm bảo rằng mạng ảo của bạn được triển khai trong cùng một vùng Azure với tên miền Azure AD Domain Services của bạn.
-4. Đảm bảo bạn không có tên miền nào có cùng tên miền sẵn dùng trên mạng ảo.
+1. Kiểm tra tình trạng tên miền của bạn trên cổng thông tin Azure https://aka.ms/aadds-health
+2. Kiểm tra NSG của bạn xem có quy tắc chặn các cổng cần thiết để đồng bộ hóa trong Azure AD Domain Services trên cổng thông tin https://aka.ms/aadds-networking
+3. Đảm bảo rằng mạng ảo của bạn được triển khai trong cùng một Khu vực Azure với miền do Dịch vụ Miền Azure AD quản lý.
+4. Đảm bảo bạn không có tên miền hiện có với cùng một tên miền sẵn có trên mạng ảo.
 
-Để biết thêm chi tiết về việc xem xét thiết kế trên Azure Virtual Network để hỗ trợ dịch vụ tên miền của Bad, hãy xem [xem xét mạng ảo](https://docs.microsoft.com/azure/active-directory-domain-services/network-considerations).
+Để biết thêm chi tiết về việc cân nhắc thiết kế trên Mạng Ảo Azure để hỗ trợ các dịch vụ miền AAD, hãy xem mục [Cân nhắc về mạng ảo.](https://docs.microsoft.com/azure/active-directory-domain-services/network-considerations)
 

@@ -1,5 +1,5 @@
 ---
-title: Không thể thay đổi nền trong video nhóm
+title: Không thể thay đổi nền trong Teams video
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003300"
 - "6211"
-ms.openlocfilehash: 1136e3cee967dd07ea56cbcb055f3e9344197ba9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ba58ddc51c96b56f3c5121695cc2b4e4a8ed0ef4b48882e6271cdd272ed91a35
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794320"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54035722"
 ---
-# <a name="cant-change-background-in-teams-video"></a>Không thể thay đổi nền trong video nhóm
+# <a name="cant-change-background-in-teams-video"></a>Không thể thay đổi nền trong Teams video
 
-Các hiệu ứng nền không sẵn dùng trong các trường hợp sau đây:
+Các hiệu ứng nền sẽ không sẵn dùng trong các trường hợp sau:
 
-- Gia nhập cuộc họp chưa lên lịch ("tức thời").
-- Đang chạy các nhóm trong Linux.
-- Sử dụng các nhóm thông qua cơ sở hạ tầng máy tính bàn ảo (VDI).
+- Gia nhập cuộc họp ("tức thời") chưa lên lịch.
+- Chạy Teams trong Linux.
+- Sử dụng Teams thông qua Cơ sở hạ tầng Máy tính Ảo (VDI).
 
-Ngoài ra, nếu bạn không nhìn thấy tùy chọn **hiệu ứng nền** khi bạn nhập cuộc họp, tính năng đó có thể vẫn chưa sẵn dùng trên thiết bị của bạn. Để biết thông tin chung, hãy xem [mục thay đổi nền của bạn cho một cuộc họp nhóm](https://support.microsoft.com/office/change-your-background-for-a-teams-meeting-f77a2381-443a-499d-825e-509a140f4780).
+Ngoài ra, nếu bạn  không thấy tùy chọn Hiệu ứng nền khi bạn gia nhập cuộc họp, tính năng này có thể chưa sẵn dùng trên thiết bị của bạn. Để biết thông tin chung, [hãy xem Thay đổi nền của bạn cho cuộc Teams họp](https://support.microsoft.com/office/change-your-background-for-a-teams-meeting-f77a2381-443a-499d-825e-509a140f4780).

@@ -1,5 +1,5 @@
 ---
-title: Email dòng công việc không được gửi đi
+title: Email dòng công việc không được gửi
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -13,35 +13,35 @@ ms.collection: Adm_O365
 ms.custom:
 - "5200020"
 - "1586"
-ms.openlocfilehash: 7efb8895ac7e2816a2c6055ec3c08d6f7029d39d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2caf8e0878da0049667d9a19f4488eaec4b9327fbf36be7d29dbf4b7a9c89158
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47749031"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54072542"
 ---
-# <a name="workflow-email-is-not-being-sent-for-a-sharepoint-list-or-library"></a>Email dòng công việc không được gửi cho một danh sách hoặc thư viện SharePoint
+# <a name="workflow-email-is-not-being-sent-for-a-sharepoint-list-or-library"></a>Email dòng công việc không được gửi cho danh sách SharePoint thư viện
 
-1. Email từ dòng công việc không được gửi đến tất cả người dùng hoặc chỉ những người dùng cụ thể hoặc bạn thấy **thông báo lỗi email không thể gửi được. Hãy đảm bảo email có một người nhận hợp lệ**.
+1. Email từ dòng công việc không được gửi đến tất cả người dùng hoặc chỉ những người dùng cụ thể, hoặc bạn gặp lỗi Không thể gửi thông điệp email. Đảm bảo email có người nhận **hợp lệ.**
 
-    Kiểm tra xem người dùng có tồn tại trong nhóm quyền **tất cả mọi người** (danh sách thông tin người dùng) cho tuyển tập trang đó hay không.  URL trực tiếp mẫu: https:// <tenant> . SharePoint.com/Sites/ <sitename> /_layouts/15/người. aspx? MembershipGroupId = 0
+    Kiểm tra xem người dùng có tồn tại trong nhóm **quyền Tất cả Mọi người** (danh sách thông tin người dùng) cho tuyển tập site đó không.  URL trực tiếp mẫu: <tenant> https://.sharepoint.com/sites/ <sitename> /_layouts/15/people.aspx? MembershipGroupId=0
 
-    - Nếu người dùng không tồn tại, hãy đảm bảo rằng người dùng đã đăng nhập vào trang. 
-    - Nếu đó là một người dùng bên ngoài, hãy đảm bảo rằng lời mời của họ đã được chấp nhận.
-    - Nếu người dùng không tồn tại trong nhóm quyền, hãy đảm bảo rằng địa chỉ email chính xác.
-    - Nếu địa chỉ email của người dùng không được đặt ở đây, sau đó tạo một cảnh báo mẫu cho người dùng đó lực lượng đồng bộ của tài khoản người dùng đó từ hồ sơ người dùng của SharePoint vào tuyển tập trang này.
+    - Nếu người dùng không tồn tại, hãy đảm bảo người dùng đã đăng nhập vào trang. 
+    - Nếu đó là người dùng bên ngoài, hãy đảm bảo rằng lời mời của họ đã được chấp nhận.
+    - Nếu người dùng tồn tại trong nhóm quyền, hãy đảm bảo rằng địa chỉ email là chính xác.
+    - Nếu địa chỉ email người dùng không được đặt ở đây, hãy tạo một cảnh báo mẫu cho người dùng đó buộc phải đồng bộ tài khoản người dùng đó từ Hồ sơ Người SharePoint vào tuyển tập site này.
  
-2. Email từ dòng công việc được gửi đến người quản trị tuyển tập trang nhưng không cho người dùng khác và xem lỗi **http đã cấm cho <span>https:</span>//url/_vti_bin/client.xvc.SP.Utilities.Utility.sendemail**.
+2. Email từ dòng công việc được gửi tới người quản trị tuyển tập site nhưng không gửi đến người dùng khác và thấy lỗi HTTP Bị cấm **<span>https:</span>//URL/_vti_bin/client.xvc.sp.utilities.utility.SendEmail.**
  
 
-    Xem [Access bị từ chối khi bạn gửi email đến một nhóm SharePoint](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/access-denied-when-send-an-email-to-groups).
+    Hãy [xem truy nhập bị từ chối khi bạn gửi email đến một SharePoint mới.](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/access-denied-when-send-an-email-to-groups)
 
-    Ngoài ra, hãy xác minh rằng tính năng của bộ sưu tập trang **chế độ có quyền hạn chế của người dùng truy nhập** không hiện hoạt.
+    Ngoài ra, xác nhận rằng tính **năng tuyển tập** site chế độ khóa quyền người dùng truy nhập hạn chế không hiện hoạt.
 
 
 ## <a name="related-topics"></a>Chủ đề liên quan
-Bạn muốn thử Microsoft Flow trong SharePoint Online?
-- [Tạo dòng](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
-- [SharePoint và dòng](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
+Bạn muốn thử Microsoft Flow thực hiện SharePoint Online?
+- [Tạo Flow](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
+- [SharePoint và Flow](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
 
 

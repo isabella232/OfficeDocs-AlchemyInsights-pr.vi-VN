@@ -10,21 +10,21 @@ localization_priority: Priority
 ms.custom:
 - "1500007"
 - "5776"
-ms.openlocfilehash: 66c04a86a16e6cbddee36df9c9e2929f017f6b0c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 976d6678629ef4dd62191c477982dc82af75065aa7f0f073d41dd6f718fdd040
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47680193"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54102629"
 ---
 # <a name="delete-one-or-more-users"></a>Xóa một hoặc nhiều người dùng
 
-Để xóa người dùng và đòi hoặc ngừng thanh toán cho giấy phép, hãy xem lại bài viết hỗ trợ sau đây:  [xóa một người dùng khỏi tổ chức của bạn](https://docs.microsoft.com/microsoft-365/admin/add-users/delete-a-user?view=o365-worldwide).
+Để xóa người dùng và thu hồi hoặc ngừng thanh toán cho giấy phép, hãy xem lại bài viết hỗ trợ sau: Xóa người dùng [khỏi tổ chức của bạn.](https://docs.microsoft.com/microsoft-365/admin/add-users/delete-a-user?view=o365-worldwide)
 
-Bài viết này bao gồm:
+Bài viết này đề cập đến:
 
-- Cân nhắc khi xóa người dùng
+- Những điều cần cân nhắc khi xóa người dùng
 - Xóa một hoặc nhiều người dùng
 - Cách ngừng thanh toán cho giấy phép
 
-Để biết thêm thông tin về việc bỏ gán giấy phép khỏi người dùng, hãy xem lại bài viết hỗ trợ sau đây: [bỏ gán giấy phép từ người dùng](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users?view=o365-worldwide).
+For additional information on unassigning licenses from users, review the following support article: [Unassign licenses from users](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users?view=o365-worldwide).
