@@ -1,5 +1,5 @@
 ---
-title: Cấu hình các thiết đặt chính sách của Microsoft Edge trên Windows
+title: Cấu hình Microsoft Edge thiết đặt chính sách trên Windows
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -15,20 +15,20 @@ ms.custom:
 - "9004632"
 - "6894"
 - "8358"
-ms.openlocfilehash: e9bb489b4d8ecd76fd777ade9fb740ecad542900
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: a7c092ac606cc599b37a0d9442dd82e0f493465508a6e5d24fa0589d0f3bb19a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51402397"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53978723"
 ---
-# <a name="configure-microsoft-edge-policy-settings-on-windows"></a>Cấu hình các thiết đặt chính sách của Microsoft Edge trên Windows
+# <a name="configure-microsoft-edge-policy-settings-on-windows"></a>Cấu hình Microsoft Edge thiết đặt chính sách trên Windows
 
-Để cấu hình các thiết đặt chính sách và các bản Cập Nhật được quản lý cho Microsoft Edge, hãy dùng đối tượng chính sách Nhóm (GPOs). Bạn cũng có thể cung cấp chính sách thông qua sổ đăng ký; Điều này sẽ phù hợp với các thiết bị Windows (1) được liên kết với một tên miền Microsoft Active Directory và đối với (2) Windows 10 Pro và Enterprise được đăng ký để quản lý thiết bị trong Microsoft InTune.
+Để cấu hình các thiết đặt chính sách và các bản cập nhật được quản lý Microsoft Edge, hãy sử dụng Đối tượng Chính sách Nhóm (GPOs). Bạn cũng có thể cung cấp chính sách thông qua sổ đăng ký; việc này sẽ phù hợp với (1) thiết bị Windows đã tham gia vào miền Microsoft Active Directory và đối với (2) phiên bản Windows 10 Pro và Enterprise đăng ký quản lý thiết bị trong Microsoft Intune.
 
-Để đặt cấu hình cho Microsoft Edge bằng cách dùng GPOs, hãy làm như sau:
+Để đặt cấu Microsoft Edge cho máy tính bằng GPOs, hãy làm như sau:
 
-1. Đi tới cửa hàng chính sách Trung tâm nhóm trong miền Active Directory của bạn hoặc đến thư mục mẫu định nghĩa chính sách trên các máy tính cá nhân, cài đặt tất cả các mẫu quản trị để thêm quy tắc và thiết đặt cho Microsoft Edge.
-2. Cấu hình các chính sách cụ thể mà bạn muốn đặt.
+1. Đi đến Kho Trung tâm Chính sách Nhóm trong miền Active Directory của bạn hoặc đến thư mục mẫu Định nghĩa Chính sách trên máy tính cá nhân, cài đặt tất cả các mẫu quản trị thêm quy tắc và thiết đặt cho máy Microsoft Edge.
+2. Đặt cấu hình cho các chính sách cụ thể mà bạn muốn đặt.
 
-Để tìm hiểu thêm, hãy xem đặt [cấu hình thiết đặt chính sách của Microsoft Edge trên Windows](https://go.microsoft.com/fwlink/?linkid=2135024).
+Để tìm hiểu thêm, hãy xem [mục Đặt cấu hình Microsoft Edge đặt chính sách trên Windows.](https://go.microsoft.com/fwlink/?linkid=2135024)

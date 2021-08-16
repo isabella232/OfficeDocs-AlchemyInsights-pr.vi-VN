@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3494"
 - "9001472"
-ms.openlocfilehash: 329768f62c3da71b5454c7155e66509ae4c01df4
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: ad82ad2b88d24cb3e037e2ee844529d531f91ccd2f0b2c83b08ead9df889cc0f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51816978"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54032975"
 ---
 # <a name="contact-us-by-clicking-the-headphone-button"></a>Liên hệ với chúng tôi bằng cách bấm vào nút tai nghe
 
-Nếu bạn muốn liên hệ với bộ phận hỗ trợ của Microsoft, vui lòng bấm vào **liên hệ với chúng tôi** ở góc dưới bên trái của ứng dụng này. Bên trong cửa sổ Fly-out, bạn sẽ được hướng dẫn đến kênh hỗ trợ bên phải sau khi chọn thể loại sản phẩm và sự cố của bạn.
+Nếu bạn muốn liên hệ với bộ phận Hỗ trợ của Microsoft, vui lòng bấm vào **Liên hệ với chúng** tôi ở góc dưới bên trái của ứng dụng này. Bên trong cửa sổ bật ra, bạn sẽ được hướng dẫn đến kênh hỗ trợ phù hợp sau khi chọn danh mục sản phẩm và sự cố của mình.
 
 ![Liên hệ với chúng tôi bằng cách bấm vào biểu tượng tai nghe.](media/contact-us-headphone-icon.png)
 
-Bạn có thể tiếp tục tương tác với phần còn lại của ứng dụng ngay cả sau khi bạn đã khởi tạo một phiên liên hệ với chúng tôi. Pa-nen liên hệ có thể được thu nhỏ cực tiểu bằng cách bấm vào bất kỳ chỗ nào khác trong ứng dụng. Để trở về cùng phiên, chỉ cần bấm **liên hệ với chúng tôi** một lần nữa.
+Bạn có thể tiếp tục tương tác với phần còn lại của ứng dụng ngay cả sau khi đã khởi tạo phiên Liên hệ với chúng tôi. Pa-nen Liên hệ với chúng tôi có thể được thu nhỏ tạm thời bằng cách bấm vào bất kỳ nơi nào khác bên trong ứng dụng. Để quay lại phiên này, chỉ cần bấm vào Liên **hệ lại với chúng** tôi.

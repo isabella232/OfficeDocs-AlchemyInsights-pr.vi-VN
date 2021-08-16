@@ -1,5 +1,5 @@
 ---
-title: Các trình duyệt web được hỗ trợ trong nhóm
+title: Teams duyệt web được hỗ trợ
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001490"
 - "3540"
-ms.openlocfilehash: 26701aa868930784e7bf968b7799175fa0f3f80b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 05b765d53a0e432993f405fc5ea7ab86597d1e7c830251a77f4167a536d2b7dc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51824709"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53981253"
 ---
-# <a name="teams-supported-web-browsers"></a>Các trình duyệt web được hỗ trợ trong nhóm
+# <a name="teams-supported-web-browsers"></a>Teams duyệt web được hỗ trợ
 
-Nhóm hỗ trợ đầy đủ các trình duyệt Internet được liệt kê trong bài viết, [giới hạn và đặc tính đối với nhóm Microsoft](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#browsers), với các ngoại lệ được ghi nhận để gọi và họp.
+Teams hỗ trợ đầy đủ các trình duyệt Internet được liệt kê trong bài viết, Các giới hạn và đặc tả [cho Microsoft Teams](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#browsers), với các ngoại lệ được ghi chú cho việc gọi và họp.

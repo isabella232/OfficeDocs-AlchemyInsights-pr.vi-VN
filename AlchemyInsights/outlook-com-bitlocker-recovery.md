@@ -1,5 +1,5 @@
 ---
-title: Khôi phục Outlook.com BitLocker
+title: Outlook.com Phục hồi BitLocker
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2381"
 - "9000545"
-ms.openlocfilehash: b41797fbae6972bc0a9e0fa2252fec36f9b02ace
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 802a37239467624a856393b9909170c3f3b2233cfa238508fd0515749a71d1a6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47753785"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54025128"
 ---
 # <a name="bitlocker-recovery"></a>Khôi phục BitLocker
 
-Đi tới [thiết bị](https://account.microsoft.com/devices/recoverykey) để xem các phím phục hồi BitLocker của bạn.
+Đi tới Thiết [bị](https://account.microsoft.com/devices/recoverykey) để xem khóa khôi phục BitLocker của bạn.
 
-Xem [Tìm khóa phục hồi BitLocker của tôi](https://support.microsoft.com/help/4026181)   để biết thêm thông tin.
+Xem [mục Tìm khóa khôi phục BitLocker của tôi để](https://support.microsoft.com/help/4026181) biết thêm thông tin.

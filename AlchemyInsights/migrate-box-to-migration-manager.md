@@ -1,5 +1,5 @@
 ---
-title: Di chuyển hộp sang Microsoft 365 với trình quản lý di chuyển
+title: Di chuyển Box sang Microsoft 365 Trình quản lý Di chuyển
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "10933"
 - "5300030"
-ms.openlocfilehash: f60158cc4606a0121db3037f1dfcb03f3745eedb
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 011c9a522dba991deb02797b894a53ea989240c354d219133ab909a2baceb61a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51837636"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53992565"
 ---
-# <a name="migrate-box-to-microsoft-365-with-migration-manager"></a>Di chuyển hộp sang Microsoft 365 với trình quản lý di chuyển
+# <a name="migrate-box-to-microsoft-365-with-migration-manager"></a>Di chuyển Box sang Microsoft 365 Trình quản lý Di chuyển
 
-Cộng tác tất cả ở một nơi bằng cách di chuyển tài liệu, dữ liệu và người dùng của bạn vào OneDrive, SharePoint và các nhóm trong Microsoft 365.
+Cộng tác tất cả ở một nơi bằng cách di chuyển tài liệu, dữ liệu và người dùng Box sang OneDrive, SharePoint và Teams trong Microsoft 365.
 
-Để biết thêm thông tin, hãy xem [hộp di chuyển đến Microsoft 365 với trình quản lý di chuyển](https://docs.microsoft.com/sharepointmigration/mm-box-overview).
+Để biết thêm thông tin, hãy [xem Di chuyển Box sang Microsoft 365 di chuyển bằng Trình quản lý Di chuyển](https://docs.microsoft.com/sharepointmigration/mm-box-overview).

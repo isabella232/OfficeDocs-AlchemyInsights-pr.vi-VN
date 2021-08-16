@@ -1,5 +1,5 @@
 ---
-title: Cấu hình chính sách tuân thủ liên lạc
+title: Cấu hình chính sách Tuân thủ Liên lạc
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: ae07f437ef50756862eb2f622cb107ccb003c9c9
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 931e32353641e7d03a6f077206ac65a4c4c75b52a423b53817aa67db863bb20c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747968"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53968147"
 ---
-# <a name="configure-communication-compliance-policies"></a>Cấu hình chính sách tuân thủ liên lạc
+# <a name="configure-communication-compliance-policies"></a>Cấu hình chính sách Tuân thủ Liên lạc
 
-Sau khi phát hành tuân thủ liên lạc trong việc tuân thủ Microsoft 365 trong tháng hai 2020, giám sát trong Office 365 đã bị ngừng hoạt động. Các chính sách giám sát sẽ không còn sẵn dùng để tạo và các chính sách sẽ dần bị loại bỏ, sau một giai đoạn mở rộng truy nhập chỉ đọc.
+Sau khi phát hành tuân thủ giao tiếp trong Microsoft 365 Tuân thủ vào Tháng Hai 2020, Sự giám sát trong Office 365 đang bị ngừng hoạt động. Các chính sách quản lý sẽ không còn có sẵn để tạo và cuối cùng sẽ bị loại bỏ sau một thời gian mở rộng quyền truy nhập chỉ đọc.
 
 > [!IMPORTANT]
-> Nếu bạn sử dụng giám sát, hãy lưu ý rằng:
+> Nếu bạn sử dụng Giám sát, hãy lưu ý rằng:
 >
-> 1. Bắt đầu từ ngày 15 tháng 6, 2020, người thuê sẽ không có khả năng tạo chính sách giám sát mới.
-> 2. Bắt đầu từ 31 tháng 8, 2020, các chính sách hiện có sẽ ngừng chụp thư mới.
-> 3. Bắt đầu từ ngày 26 tháng 10, 2020, các chính sách hiện có sẽ bị xóa.
+> 1. Bắt đầu từ ngày 15 tháng 6 năm 2020, đối tượng thuê sẽ không thể tạo các chính sách giám sát mới.
+> 2. Bắt đầu từ ngày 31 tháng 8 năm 2020, các chính sách hiện có sẽ ngừng ghi lại các thư mới.
+> 3. Bắt đầu từ ngày 26 tháng 10 năm 2020, các chính sách hiện có sẽ bị xóa.
 
-Chúng tôi đề xuất những khách hàng hiện đang khám phá hoặc sử dụng tính năng giám sát trong Office 365 để sử dụng [giải pháp tuân thủ liên lạc mới trong Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2128593) để giải quyết các yêu cầu giám sát liên lạc hoặc quy định của bạn với một bộ khả năng thông minh phong phú hơn nhiều.
+Chúng tôi tích cực khuyến khích khách hàng hiện đang khám phá hoặc sử dụng Giám sát trong Office 365 để sử dụng giải pháp tuân thủ giao tiếp mới trong [Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2128593) nhằm giải quyết các yêu cầu theo dõi thông tin liên lạc hoặc yêu cầu quy định với bộ chức năng thông minh phong phú hơn nhiều.
