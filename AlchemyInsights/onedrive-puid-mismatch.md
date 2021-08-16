@@ -13,19 +13,19 @@ ms.assetid: ''
 ms.custom:
 - "9000700"
 - "2600"
-ms.openlocfilehash: 749ea49c31f9387c161e7b9f3d94c0d8d773c571
-ms.sourcegitcommit: 404d19201ab196d36e0d19f80894ac9931a7b740
+ms.openlocfilehash: 9d88c46d23bd08f1d954416e4856c7885f045437d14dcd7c4a9c25f0b1288b8f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49653282"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54096752"
 ---
 # <a name="onedrive-puid-mismatch"></a>OneDrive PUID không khớp
 
-Dường như bạn đang gặp phải không [khớp với ID](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) trong OneDrive for Business. Để cho phép chúng tôi hỗ trợ bạn sớm nhất, hãy thực hiện các bước sau đây:
+Dường như bạn đang gặp phải [một ID không khớp](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) trong OneDrive for Business. Để cho phép chúng tôi hỗ trợ bạn sớm nhất, hãy thực hiện các bước sau đây:
 
-1. Bấm vào  **hỗ trợ liên hệ**, sau đó  **yêu cầu dịch vụ mới**.
-2. Rời khỏi tiêu đề và mô tả dưới dạng  **ID người dùng site Onedrive không khớp**.
-3. Sau khi đã được gửi vé, hãy cập nhật nó với các thông tin sau đây:
-    - URL site của OneDrive bị ảnh hưởng.
-    - Tên người dùng chính (UPN) của người dùng bị ảnh hưởng.
+1. Bấm vào **Liên hệ với bộ** phận Hỗ trợ , sau đó bấm Yêu cầu Dịch vụ **Mới.**
+2. Để lại tiêu đề và mô tả **OneDrive Id Người dùng Site Không khớp.**
+3. Sau khi đã gửi vé, hãy cập nhật thông tin sau:
+    - OneDrive URL site bị ảnh hưởng.
+    - Tên chính của người dùng (UPN) của người dùng bị ảnh hưởng.

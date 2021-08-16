@@ -1,5 +1,5 @@
 ---
-title: Outlook.com không thể nhận được mã xác minh
+title: Outlook.com không thể nhận mã xác minh
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,17 +12,17 @@ ms.custom:
 - "8000060"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 180e2f6af99c22f85bb9f2effaac1bd7b235ad01
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fc921034e8ab577729efb8091ef6ec2e3e2dd49bc0a37ca27771b68756260c32
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799550"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54064226"
 ---
-# <a name="cant-get-verification-codes"></a>Không thể nhận được mã xác minh
+# <a name="cant-get-verification-codes"></a>Không thể nhận mã xác minh
 
-Nếu bạn không thể truy nhập vào email hoặc số điện thoại thay thế của mình, hãy đi đến trang thông tin [cơ bản về bảo mật](https://account.microsoft.com/security) tài khoản Microsoft của bạn, chọn **tôi không có bất kỳ trường nào** trên trang đăng nhập và làm theo hướng dẫn để thay thế thông tin bảo mật của bạn.
+Nếu bạn không thể truy nhập email hoặc số [](https://account.microsoft.com/security) điện thoại thay  thế của mình, hãy truy nhập trang Thông tin cơ bản về bảo mật cho tài khoản Microsoft của bạn, chọn Tôi không có bất kỳ thông tin nào trong số này trên trang đăng nhập, rồi làm theo hướng dẫn để thay thế thông tin bảo mật của bạn.
 
-*Lưu ý:* [Ứng dụng Microsoft Authenticator](https://go.microsoft.com/fwlink/?linkid=2016117) không yêu cầu kết nối Internet để cung cấp cho bạn mã xác minh.
+*Lưu ý:* Ứng [Microsoft Authenticator của bạn](https://go.microsoft.com/fwlink/?linkid=2016117) không yêu cầu kết nối internet để cung cấp cho bạn mã xác minh.
 
-Để tìm hiểu thêm, hãy đọc [thông tin bảo mật tài khoản Microsoft và mã xác minh](https://support.microsoft.com/help/12428/).
+Để tìm hiểu thêm, hãy đọc [mục Thông tin bảo mật và mã xác minh tài khoản Microsoft](https://support.microsoft.com/help/12428/).

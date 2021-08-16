@@ -1,5 +1,5 @@
 ---
-title: Dán bản sao Outlook.com
+title: Outlook.com sao chép dán
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,17 +12,17 @@ ms.custom:
 - "9000303"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 4dc1944b85da3367947ce01ec45b004abda045e3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9b70b1b7d2ac743fbd80639546ef9494de8e524071833dc276403391c560bb6a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47752273"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54011106"
 ---
 # <a name="copy-and-paste-in-outlookcom"></a>Sao chép và dán trong Outlook.com
 
-Không sao chép hoặc dán các nút trong Outlook.com nhưng bạn có thể sử dụng các phím tắt:
+Không có nút sao chép hoặc dán trong Outlook.com nhưng bạn có thể sử dụng phím tắt:
 
-**Trên PC:** CTRL + C để sao chép, nhấn CTRL + X để cắt và CTRL + V để dán.
+**Trên PC:** Ctrl+C để sao chép, CTRL+X cần cắt và CTRL+V để dán.
 
-**Trên máy Mac:** CMD + C để sao chép, CMD + X để cắt và CMD + V để dán.
+**Trên máy Mac:** CMD+C để sao chép, CMD+X cần cắt và CMD+V để dán.

@@ -1,5 +1,5 @@
 ---
-title: Công cụ tùy chỉnh Office
+title: Office Công cụ Tùy chỉnh
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,20 +13,20 @@ ms.collection: Adm_O364
 ms.custom:
 - "9003533"
 - "10881"
-ms.openlocfilehash: 66b9e9542330d0b7faf2cda85790a10fb8716275
-ms.sourcegitcommit: 326c10f16cf15e823cc97cb4c6a7153343f88f93
+ms.openlocfilehash: 18a48f0f342d16d7efea1e03f25486761eb3b4818a6082412f24309af983d6fe
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "51612858"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54096788"
 ---
-# <a name="office-customization-tool"></a>Công cụ tùy chỉnh Office
+# <a name="office-customization-tool"></a>Office Công cụ Tùy chỉnh
 
-Công cụ tùy chỉnh Office (tháng mười) tạo ra các tệp cấu hình được dùng để triển khai Office trong các tổ chức lớn. Những tệp cấu hình này cung cấp thêm điều khiển cho bạn trong quá trình cài đặt Office: bạn có thể xác định các ứng dụng và ngôn ngữ nào được cài đặt, cách thức những ứng dụng này sẽ được Cập Nhật và tùy chọn ứng dụng. 
+Công cụ Office chỉnh Dữ liệu (OCT) tạo tệp cấu hình dùng để triển khai các Office trong các tổ chức lớn. Các tệp cấu hình này cho phép bạn kiểm soát tốt hơn quá trình cài đặt Office: bạn có thể xác định các ứng dụng và ngôn ngữ được cài đặt, cách cập nhật các ứng dụng đó và các tùy chọn ứng dụng. 
 
-Sau khi tạo tệp cấu hình, bạn có thể sử dụng chúng với công cụ triển khai Office (ODT) để triển khai một phiên bản Office tùy chỉnh. 
+Sau khi tạo các tệp cấu hình, bạn có thể sử dụng chúng bằng Công cụ Triển khai Office (ODT) để triển khai phiên bản tùy chỉnh của Office. 
 
 Để biết thêm thông tin, hãy xem:
 
-[Tổng quan về công cụ](https://docs.microsoft.com/deployoffice/overview-of-the-office-customization-tool-for-click-to-run) 
- tùy chỉnh Office [Tổng quan về công cụ triển khai Office](https://docs.microsoft.com/deployoffice/overview-office-deployment-tool)
+[Tổng quan về Công cụ Office Chỉnh Tài liệu](https://docs.microsoft.com/deployoffice/overview-of-the-office-customization-tool-for-click-to-run) 
+ [Tổng quan về Công cụ Office dụng](https://docs.microsoft.com/deployoffice/overview-office-deployment-tool)
