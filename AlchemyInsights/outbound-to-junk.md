@@ -1,5 +1,5 @@
 ---
-title: Gửi email đến thư mục email rác
+title: Email gửi đi vào thư mục Email Rác
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,21 +12,21 @@ localization_priority: Normal
 ms.custom:
 - "2697"
 ms.assetid: ''
-ms.openlocfilehash: 7e6f8d1a161d3eee398230750cc98a46579a56b1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 52aa5aa86848fa92ac082e8f672f9f501cd97cf2f3db9c40fa745aa8ebccfbb1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47769205"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54096680"
 ---
-# <a name="outbound-email-to-junk-email-folder"></a>Gửi email đến thư mục email rác
+# <a name="outbound-email-to-junk-email-folder"></a>Email gửi đi vào thư mục Email Rác
 
-Nếu bạn thấy các thư gửi đi được đánh dấu là thư rác, hãy thực hiện các bước sau đây:
+Nếu bạn thấy thư đi được đánh dấu là Thư rác, hãy thực hiện các bước sau đây:
 
-- Nếu bạn chưa có, hãy cân nhắc đặt [cấu hình thông báo chính sách thư rác](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-the-outbound-spam-policy).
+- Nếu bạn chưa cấu hình, hãy xem xét [việc cấu hình thông báo chính sách thư rác đi](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-the-outbound-spam-policy).
 
-- Sử dụng theo [dõi thư](https://docs.microsoft.com/microsoft-365/security/office-365-security/message-trace-scc) để xem liệu thư gửi đi có **thư rác** giá trị sự kiện với chi tiết bổ sung: **sử dụng hồ bơi chuyển phát cao rủi ro**.
+- Dùng [công cụ tìm thư](https://docs.microsoft.com/microsoft-365/security/office-365-security/message-trace-scc) để xem liệu thư gửi đi có giá trị sự kiện Thư rác với thông tin chi tiết bổ sung: Sử dụng nhóm chuyển phát có **rủi ro cao**. 
 
-  Đối với những thư này, hãy kiểm tra nội dung thư để xem những gì có thể được xem là thư rác. Ví dụ: chữ ký đôi khi có thể gây ra sự cố đối với nhiều người dùng.
+  Đối với những thư này, hãy kiểm tra nội dung thư để xem những gì có thể được coi là thư rác. Ví dụ, chữ ký đôi khi có thể gây ra vấn đề cho nhiều người dùng.
 
-  Nếu bạn có nhiều ví dụ về các thư gửi đi chính đáng được đánh dấu là thư rác, hãy mở một vé hỗ trợ và yêu cầu nhân viên hỗ trợ gửi thư là dương tính false cho các nhà phân tích thư rác của chúng tôi. Hãy chuẩn bị để cung cấp các thư mẫu bao gồm tất cả các tiêu đề thư.
+  Nếu bạn có nhiều ví dụ về thư gửi đi hợp pháp đang được đánh dấu là Thư rác, hãy mở một vé hỗ trợ và yêu cầu nhân viên hỗ trợ gửi thư của bạn dưới dạng số dương giả tới những người phân tích thư rác của chúng tôi. Hãy chuẩn bị để cung cấp thư mẫu bao gồm tất cả các tiêu đề thư.

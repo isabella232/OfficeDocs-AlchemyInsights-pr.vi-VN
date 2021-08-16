@@ -1,5 +1,5 @@
 ---
-title: Giúp cải thiện hiệu suất của Microsoft 365
+title: Giúp cải thiện Microsoft 365 suất công việc
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004612"
 - "8268"
-ms.openlocfilehash: 599b914e15e86e7899988a0178864b24d1782af1
-ms.sourcegitcommit: 0470a728d184ceb89d1419f7ed57166e07bb778b
+ms.openlocfilehash: 4a7aae1a1e95aa6e8d35a57ed7a7de692cf85901fc6879bcaa8dade37456eba3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "50256975"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54002214"
 ---
-# <a name="help-improve-microsoft-365-productivity"></a>Giúp cải thiện hiệu suất của Microsoft 365
+# <a name="help-improve-microsoft-365-productivity"></a>Giúp cải thiện Microsoft 365 suất công việc
 
-Điểm hiệu suất hỗ trợ chuyển đổi kỹ thuật số của tổ chức của bạn với hiểu biết về cách thức sản phẩm của Microsoft 365 được sử dụng và những trải nghiệm kỹ thuật phía sau.
+Điểm Năng suất hỗ trợ chuyển đổi số của tổ chức bạn với thông tin chuyên sâu về cách sử dụng sản phẩm Microsoft 365 và các trải nghiệm công nghệ đằng sau.
 
 Để tìm hiểu thêm, hãy xem:
 
-- [số điểm được tính toán như thế nào](https://docs.microsoft.com/microsoft-365/admin/productivity/productivity-score)
-- [cách diễn giải điểm số của tổ chức của bạn](https://docs.microsoft.com/microsoft-365/admin/productivity/productivity-score)
-- [điều khiển quyền riêng tư đối với điểm hiệu suất](https://docs.microsoft.com/microsoft-365/admin/productivity/privacy)
+- [cách tính điểm số](https://docs.microsoft.com/microsoft-365/admin/productivity/productivity-score)
+- [cách diễn giải điểm số của tổ chức bạn](https://docs.microsoft.com/microsoft-365/admin/productivity/productivity-score)
+- [điều khiển quyền riêng tư đối với Điểm Năng suất](https://docs.microsoft.com/microsoft-365/admin/productivity/privacy)
 
-Để biết thêm chi tiết, hãy xem [tổng quan về điểm hiệu suất của Microsoft](https://docs.microsoft.com/microsoft-365/admin/productivity/productivity-score).
+Để biết thêm chi tiết, xem [mục Tổng quan về Điểm Năng suất của Microsoft.](https://docs.microsoft.com/microsoft-365/admin/productivity/productivity-score)
