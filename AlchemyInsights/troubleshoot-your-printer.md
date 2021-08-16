@@ -12,63 +12,63 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001214"
 - "3186"
-ms.openlocfilehash: 37bc4c1a8f39084e06b6f291c1245fa163e7b638
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: b6c5fe4f8b4480f34c30430195f9be91263a9011da6eccf2d3830fa5433d19e9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51830496"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54020898"
 ---
 # <a name="troubleshoot-your-printer"></a>Khắc phục sự cố máy in của bạn
 
-Trước tiên, hãy thử một **vòng tròn điện của máy in**. Làm theo các bước sau đây:
+Trước tiên, hãy thử **vòng đời nguồn của máy in.** Làm theo các bước sau:
 
-1. Tắt máy in và tháo cáp Power của bạn.
+1. Tắt máy in và rút cáp nguồn của máy in.
 
-2. Đợi 30 giây.
+2. Chờ 30 giây.
 
-3. Cắm máy in của bạn trở lại và tắt máy in trở lại.
+3. Cắm lại máy in và bật lại máy in.
 
-Nếu không giải quyết được vấn đề của bạn, hãy chạy trình khắc phục sự cố bằng cách đi đến **bắt đầu > thiết đặt > Cập nhật & bảo mật > khắc phục sự cố**. Bấm vào **máy in**, rồi bấm **chạy trình** khắc phục sự cố.
+Nếu cách đó không giải quyết được sự cố của bạn, hãy chạy Trình khắc phục sự cố máy in bằng cách đi tới Bắt **đầu > Cài đặt > Cập nhật & khắc > cố.** Bấm **Vào Máy** in , rồi bấm Chạy bộ hướng dẫn giải quyết trục **trặc**.
 
-**Nếu máy in của bạn được kết nối với PC của bạn qua kết nối mạng** (nếu bạn đang vội vàng, bạn có thể nhận được máy in hoạt động nhanh chóng bằng cách sử dụng cáp USB để cắm máy in trực tiếp vào PC của bạn):
+**Nếu máy** in được kết nối với PC thông qua kết nối mạng (nếu đang nhanh chóng, bạn có thể nhanh chóng làm việc với máy in bằng cáp USB để cắm trực tiếp máy in vào PC):
 
-1. **Kiểm tra kết nối mạng của máy in**.
+1. **Kiểm tra kết nối mạng của máy in.**
     
-    - Hãy làm theo hướng dẫn của máy in để kiểm tra kết nối mạng.
+    - Làm theo hướng dẫn của máy in để kiểm tra kết nối mạng.
 
-    - Nếu máy in của bạn không được kết nối với mạng, hãy làm theo hướng dẫn thiết bị của bạn để kết nối với mạng của bạn.
+    - Nếu máy in của bạn không được kết nối với mạng, hãy làm theo hướng dẫn trên thiết bị của bạn để kết nối mạng.
 
-2. **Khớp với kết nối mạng trên máy tính của bạn với kết nối của máy in**.
+2. **Khớp kết nối mạng của PC với kết nối máy in của bạn.**
 
-    - Bấm **bắt đầu > thiết đặt > mạng & Internet**.
+    - Bấm **vào Bắt > Cài đặt > Mạng & Internet.**
 
-    - Bên dưới **trạng thái mạng**, hãy tìm tên mạng của bạn. Điều này cần phải khớp chính xác với tên kết nối của máy in.
+    - Trong **Trạng thái mạng,** hãy tìm tên mạng của bạn. Điều này cần phải khớp chính xác với tên kết nối của máy in.
 
-    - Nếu hai kết nối này không giống nhau, hãy thay đổi kết nối PC của bạn để khớp với mạng của máy in.
+    - Nếu hai kết nối này không giống nhau, hãy thay đổi kết nối pc của bạn để khớp với mạng của máy in.
 
-Bạn cũng có thể thử **loại bỏ và cài đặt lại máy in mạng của bạn**:
+Bạn cũng có thể thử **loại bỏ và cài đặt lại máy in mạng của mình:**
 
-1. **Loại bỏ máy in trong thiết đặt**.
+1. **Loại bỏ máy in trong Cài đặt.**
 
-    - Bấm **bắt đầu > thiết đặt > thiết bị > máy in &**.
+    - Bấm **Vào Bắt > Cài đặt > Thiết > Cho máy & quét.**
 
-    - Bên dưới tiêu đề máy in & máy quét, hãy bấm vào máy in bạn đang khắc phục sự cố. Bấm **loại bỏ thiết bị**. Làm theo các hướng dẫn để loại bỏ hoàn toàn máy in.
+    - Bên dưới tiêu đề Máy & máy quét, bấm vào máy in bạn đang khắc phục sự cố. Bấm vào **Loại bỏ thiết bị**. Làm theo hướng dẫn để loại bỏ hoàn toàn máy in.
 
-2. **Loại bỏ bất kỳ phần mềm nhà sản xuất máy in bên thứ 3 nào**.
+2. **Loại bỏ mọi phần mềm nhà sản xuất máy in của bên thứ 3.**
 
-    - Bấm **bắt đầu > thiết đặt > ứng dụng**.
+    - Bấm **Bắt đầu > Cài đặt > Ứng dụng.**
 
-    - Bên dưới tiêu đề các tính năng ứng dụng &, hãy cuộn để tìm bất kỳ phần mềm nào được cài đặt từ nhà sản xuất máy in của bạn (chẳng hạn như HP, Canon hoặc Epson).
+    - Bên dưới tiêu đề Các & tính năng của Ứng dụng, cuộn để tìm bất kỳ phần mềm nào được cài đặt từ nhà sản xuất máy in của bạn (như HP, Canon hoặc Epson).
 
-    - Bấm vào phần mềm và bấm **dỡ cài đặt**.
+    - Bấm vào phần mềm và bấm Dỡ **cài đặt**.
 
-3. Tắt **và khởi động lại máy in của bạn**.
+3. **Tắt và khởi động lại máy in của bạn**.
 
-    - Tắt máy in và tháo cáp Power của bạn. Đợi 30 giây. Cắm máy in của bạn trở lại và tắt máy in trở lại.
+    - Tắt máy in và rút cáp nguồn của máy in. Chờ 30 giây. Cắm lại máy in và bật lại máy in.
 
-4. **Cài đặt lại máy in của bạn trong cài đặt**.
+4. **Cài đặt lại máy in của bạn Cài đặt**.
 
-    - Bấm **bắt đầu > thiết đặt > thiết bị> máy in &**.
+    - Bấm **Vào Bắt > Cài đặt > Thiết> Cho máy in & quét.**
  
     - Bấm **Thêm máy in hoặc máy quét** ở phía trên cùng của màn hình và làm theo hướng dẫn để cài đặt lại máy in của bạn.

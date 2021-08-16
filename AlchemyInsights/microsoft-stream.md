@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001509"
 - "3569"
-ms.openlocfilehash: 4a7fd32f2891be499e4bd764f193b6d1d6b7e9f3
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 3b289e64427bf3e1417e5fe5f7ce601eec81d86386273b1a4f3d3c8723f5876f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51833889"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54066062"
 ---
 # <a name="microsoft-stream"></a>Microsoft Stream
 
-Microsoft Stream là một dịch vụ video doanh nghiệp nơi mọi người trong tổ chức của bạn có thể tải lên, xem và chia sẻ video một cách an toàn. 
+Microsoft Stream là một dịch vụ Video Dành cho Doanh nghiệp nơi mọi người trong tổ chức của bạn có thể tải lên, xem và chia sẻ video một cách bảo mật. 
 
 Để biết thêm thông tin, hãy xem:
 
 - [Microsoft Stream là gì?](https://docs.microsoft.com/stream/overview)
-- [Chuyển tiếp video trong Office 365 sang Microsoft Stream](https://docs.microsoft.com/stream/migrate-from-office-365)
-- [Các bản Cập Nhật dịch vụ Stream](https://techcommunity.microsoft.com/t5/microsoft-stream-service-updates/bd-p/StreamAnnouncements)
+- [Office 365 Chuyển tiếp video sang Microsoft Stream](https://docs.microsoft.com/stream/migrate-from-office-365)
+- [Cập nhật Dịch vụ Stream](https://techcommunity.microsoft.com/t5/microsoft-stream-service-updates/bd-p/StreamAnnouncements)
 - [Nhóm và kênh trong Microsoft Stream](https://docs.microsoft.com/stream/groups-channels-organization)
-- [Các sự kiện trực tiếp trong Microsoft Stream](https://docs.microsoft.com/stream/live-event-overview)
+- [Sự kiện trực tiếp trong Microsoft Stream](https://docs.microsoft.com/stream/live-event-overview)
 - [Chia sẻ video của bạn trong Microsoft Stream](https://docs.microsoft.com/stream/portal-share-video)
