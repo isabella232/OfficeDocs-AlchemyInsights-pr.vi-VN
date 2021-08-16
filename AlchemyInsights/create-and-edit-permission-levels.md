@@ -1,5 +1,5 @@
 ---
-title: Làm việc với mức cấp phép SharePoint
+title: Làm việc với SharePoint cấp độ quyền
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000165"
 - "3164"
-ms.openlocfilehash: f447aea6c844746f1901382120cb4081e46ec578
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 90d3cf37230afaa34cfe8d2cccf9a06323c8ddc486481aace514086cd4fa19ab
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51816114"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53994347"
 ---
-# <a name="working-with-sharepoint-permission-levels"></a>Làm việc với mức cấp phép SharePoint
+# <a name="working-with-sharepoint-permission-levels"></a>Làm việc với SharePoint cấp độ quyền
 
-SharePoint đi kèm với mức cấp phép mặc định mà bạn có thể sử dụng, chẳng hạn như **đóng góp** và **chỉ xem**. Tuy nhiên, nếu một trong số này không đáp ứng được nhu cầu của bạn, bạn có thể tạo mức cấp phép mới. Hãy nhớ rằng bạn dễ dàng theo dõi các mức cấp phép nếu bạn không thay đổi mặc định.
+SharePoint đi kèm với mức cấp phép mặc định mà bạn có thể sử dụng, chẳng hạn như **Đóng góp** và **Chỉ xem.** Nhưng nếu một trong số đó không đáp ứng nhu cầu của bạn, bạn có thể tạo mức cấp phép mới. Hãy nhớ rằng việc theo dõi các mức cấp phép sẽ dễ dàng hơn nếu bạn không thay đổi các mặc định.
 
-[Cách tạo và sửa các mức cấp phép](https://docs.microsoft.com/sharepoint/how-to-create-and-edit-permission-levels)
+[Cách tạo và chỉnh sửa mức cấp phép](https://docs.microsoft.com/sharepoint/how-to-create-and-edit-permission-levels)

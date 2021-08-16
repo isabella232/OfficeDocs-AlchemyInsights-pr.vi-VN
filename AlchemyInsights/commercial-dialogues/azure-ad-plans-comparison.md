@@ -1,5 +1,5 @@
 ---
-title: So sánh các gói Azure AD
+title: So sánh các Gói Azure AD
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004167"
 - "7299"
-ms.openlocfilehash: 0f37541be26d058b4d3c1da6925cd612f254fe38
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 9b2fd9d408fbb8ee9dced7e74d9ab9d2a1295c55a2f09fd96ba75eef153138d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50483932"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54045658"
 ---
-# <a name="azure-active-directory-plans-comparison"></a>So sánh các kế hoạch Azure Active Directory
+# <a name="azure-active-directory-plans-comparison"></a>so Azure Active Directory kế hoạch
 
-Azure Active Directory đi kèm trong bốn phiên bản: ứng dụng miễn phí, Office 365, P1 và Premium P2.
+Azure Active Directory ra có bốn phiên bản: Miễn phí, Office 365 Dụng, Premium P1 và Premium P2.
 
-Phiên bản miễn phí được bao gồm trong đăng ký Azure. Các phiên bản ưu tiên có sẵn thông qua đại diện Microsoft của bạn, [chương trình mở giấy phép số lượng lớn](https://go.microsoft.com/fwlink/?linkid=2110873)và các [chương trình nhà cung cấp dịch vụ điện toán đám mây](https://go.microsoft.com/fwlink/?LinkId=614968&clcid=0x409).
+Phiên bản Miễn phí được tích hợp trong đăng ký Azure. Phiên bản Premium được cung cấp thông qua các đại diện của Microsoft, Chương trình Giấy phép Số lớn mở [và](https://go.microsoft.com/fwlink/?linkid=2110873)các chương trình Nhà cung cấp giải pháp điện toán [đám mây](https://go.microsoft.com/fwlink/?LinkId=614968&clcid=0x409).
 
-Người đăng ký Azure và Office 365 cũng có thể mua Azure Active Directory Premium P1 và P2 Online. Để tìm hiểu thêm, hãy xem các [tính năng và giá cả của Azure Active Directory](https://go.microsoft.com/fwlink/?linkid=2081447).
+Người đăng ký Azure Office 365 cũng có thể mua Azure Active Directory Premium P1 và P2 trực tuyến. Để tìm hiểu thêm, hãy [xem Azure Active Directory tính năng và giá cả mới.](https://go.microsoft.com/fwlink/?linkid=2081447)

@@ -1,5 +1,5 @@
 ---
-title: Thay đổi nền và màu nền trên màn hình nền của bạn
+title: Thay đổi màu sắc và nền màn hình
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001451"
 - "3475"
-ms.openlocfilehash: fbc231f9f0e980286346aed0ed78d928cb405cec
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8dce08c019e3f49fb6254dbd98d792c107e4c96dbd36a0cf11aff70e171e7649
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51818166"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54045776"
 ---
-# <a name="change-your-desktop-background-and-colors"></a>Thay đổi nền và màu nền trên màn hình nền của bạn
+# <a name="change-your-desktop-background-and-colors"></a>Thay đổi màu sắc và nền màn hình
 
-Để thay đổi thiết đặt màu của bạn, hãy đi đến mục **bắt đầu** các màu cá nhân hóa  >  **cài đặt**  >    >  , rồi chọn màu của riêng bạn hoặc để Windows kéo một màu giọng nói từ nền của bạn.
+Để thay đổi cài đặt màu, đi tới Bắt đầu Cài đặt Cá nhân hóa Màu , rồi chọn màu của riêng bạn hoặc để Windows kéo màu chủ đề từ  >    >    >  nền.
 
-![Cá nhân hóa màu của bạn trong Windows.](media/windows-personalization-colors.png)
+![Cá nhân hóa màu sắc của bạn Windows.](media/windows-personalization-colors.png)
 
-Để thay đổi nền màn hình nền của bạn, hãy đi đến mục **bắt đầu**  >  **cài đặt**  >  **cá** nhân hóa  >  **nền**, rồi chọn ảnh, màu thuần hoặc tạo trình chiếu ảnh. 
+Để thay đổi hình nền, hãy đi tới Bắt đầu Cài đặt Nền Cá nhân hóa , sau đó chọn ảnh, màu đặc hoặc tạo trình chiếu  >    >    >  ảnh. 
 
-![Thay đổi nền Windows trên máy tính của bạn.](media/windows-desktop-background.png)
+![Thay đổi hình Windows nền của bạn.](media/windows-desktop-background.png)
 
-Bạn muốn có thêm nền và màu khác? Truy nhập [Microsoft Store](https://www.microsoft.com/store/collections/windowsthemes) để chọn từ hàng chục chủ đề miễn phí.
+Bạn muốn thêm hình nền và màu sắc? Truy [Microsoft Store](https://www.microsoft.com/store/collections/windowsthemes) để chọn từ hàng tá chủ đề miễn phí.

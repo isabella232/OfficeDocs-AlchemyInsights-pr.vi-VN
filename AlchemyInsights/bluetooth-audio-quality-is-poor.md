@@ -1,5 +1,5 @@
 ---
-title: Chất lượng âm thanh Bluetooth là người nghèo
+title: Bluetooth lượng âm thanh kém
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "3486"
 - "9001467"
-ms.openlocfilehash: dcd5cad153ae521065e3dee211c850b0db6fd7f5
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: cecbcea515905502fee69e89dc872399349a781cdff13d01c4b323617c5cba4d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820128"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53968867"
 ---
-# <a name="fix-bluetooth-audio-quality-issue"></a>Khắc phục sự cố về chất lượng âm thanh Bluetooth
+# <a name="fix-bluetooth-audio-quality-issue"></a>Khắc phục Bluetooth cố về chất lượng âm thanh
 
-Nếu thiết bị Bluetooth của bạn được kết nối nhưng chất lượng âm thanh kém, hãy thử làm như sau:
+Nếu thiết bị Bluetooth của bạn được kết nối nhưng chất lượng âm thanh kém, hãy thử cách sau:
 
-- Hãy đảm bảo rằng âm thanh được phát qua thiết bị Bluetooth. Chọn **bắt đầu**  >  **thiết đặt**  >    >  **âm thanh** hệ thống. Bên dưới **chọn thiết bị đầu ra của bạn**, hãy chọn thiết bị âm thanh Bluetooth.
-- Tạm dừng những điều khác có thể đang dùng Bluetooth, chẳng hạn như chia sẻ tệp qua Bluetooth. Để biết thêm thông tin, hãy xem mục [khắc phục sự cố âm thanh trong Windows 10](https://support.microsoft.com/help/4520288/windows-10-fix-sound-problems).
-- Xác minh rằng âm thanh nổi được chọn cho thiết bị Bluetooth để đảm bảo chất lượng âm thanh tốt nhất. Để thực hiện điều này: 
-    1. Ở bên phải thanh tác vụ, chọn **âm lượng**, rồi chọn biểu tượng Chevron để chọn thiết bị phát lại.
-    2. Chọn thiết bị Bluetooth và đảm bảo rằng tùy chọn **âm thanh nổi** được chọn. (Tùy chọn chất lượng âm thanh thấp hơn là **rảnh tay**.)
-    3. Nếu âm thanh nổi không sẵn dùng như một tùy chọn, hãy loại bỏ thiết **bị trong**  >  **thiết bị**  >  **Bluetooth & thiết bị khác**, rồi thêm lại thiết bị. Sau đó, hãy kiểm tra lại Pa-nen **âm lượng** để đảm bảo rằng âm thanh nổi được chọn.
+- Đảm bảo âm thanh đang phát qua thiết Bluetooth của bạn. Chọn **Bắt đầu** Âm  >  **Cài đặt**  >  **Hệ**  >  **thống**. Trong **Chọn thiết bị xuất ,** chọn hộp kiểm Bluetooth bị âm thanh.
+- Tạm dừng những hoạt động khác có thể Bluetooth sử dụng các tệp, chẳng hạn như chia sẻ tệp Bluetooth. Để biết thêm thông tin, hãy [xem mục Khắc phục sự cố âm thanh Windows 10.](https://support.microsoft.com/help/4520288/windows-10-fix-sound-problems)
+- Xác minh rằng âm thanh nổi được chọn cho thiết Bluetooth của bạn để đảm bảo âm thanh chất lượng tốt nhất. Để thực hiện điều này: 
+    1. Ở bên phải thanh tác vụ, chọn Âm **lượng**, sau đó chọn biểu tượng hình V để chọn thiết bị phát lại.
+    2. Chọn thiết Bluetooth âm thanh và đảm bảo tùy chọn **Âm thanh nổi** được chọn. (Tùy chọn chất lượng âm thanh thấp hơn là **Rảnh tay**.)
+    3. Nếu âm thanh nổi không có sẵn dưới dạng tùy chọn, hãy xóa thiết bị **Cài đặt** thiết Bluetooth & của thiết bị khác , rồi thêm lại thiết  >    >  bị. Sau đó, kiểm tra **lại panel** Âm lượng để đảm bảo âm thanh nổi được chọn.
 
