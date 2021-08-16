@@ -1,5 +1,5 @@
 ---
-title: Trạng thái dịch vụ Microsoft 365
+title: Microsoft 365 Tình trạng Dịch vụ
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001682"
 - "3747"
-ms.openlocfilehash: a636305b369d6a0d78d768acd420f14b295812a5
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 649c36d848223613c6188f600bb8f041fd205078c2a2d3ce66cb3387a4f84bd7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51794494"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54098480"
 ---
-# <a name="microsoft-365-service-health"></a>Trạng thái dịch vụ Microsoft 365
+# <a name="microsoft-365-service-health"></a>Microsoft 365 Tình trạng Dịch vụ
 
 
-Kiểm tra trạng thái dịch vụ của bất kỳ dịch vụ nào từ bảng điều khiển trạng thái [dịch vụ](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth). Bằng cách chọn **Trung tâm quản trị mới** ở góc trên bên phải, bạn sẽ thấy các tùy chọn trạng thái dịch vụ mới.
+Kiểm tra tình trạng dịch vụ của bất kỳ dịch vụ nào từ Bảng điều [khiển Tình trạng Dịch vụ](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth). Bằng cách chọn **Trung tâm quản trị mới ở** góc trên cùng bên phải, bạn sẽ thấy các tùy chọn Trạng khẩu Dịch vụ mới.
 
-- Chọn **tùy** chọn để nhận **thông báo email** trạng thái dịch vụ.
+- Chọn Tùy **chọn để** nhận thông báo email tình trạng **dịch vụ**.
 
-- Chọn **báo cáo một sự cố** nếu bạn đang gặp sự cố với dịch vụ.
+- Chọn **Báo cáo sự** cố nếu bạn đang gặp sự cố với dịch vụ.
 
-- Chọn **lịch sử** để xem lại lịch sử trạng thái dịch vụ của tổ chức của bạn. 
+- Chọn Lịch **sử** để xem lại lịch sử tình trạng dịch vụ của tổ chức bạn. 
 
-Để biết thêm thông tin, hãy xem [làm thế nào để kiểm tra trạng thái dịch vụ Microsoft 365](https://docs.microsoft.com/office365/enterprise/view-service-health). 
+Để biết thêm thông tin, hãy [xem mục Cách kiểm tra tình Microsoft 365 dịch vụ](https://docs.microsoft.com/office365/enterprise/view-service-health). 

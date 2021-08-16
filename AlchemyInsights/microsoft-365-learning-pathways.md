@@ -1,5 +1,5 @@
 ---
-title: Đường mòn tìm hiểu Microsoft 365
+title: Microsoft 365 đường tìm hiểu khác
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002632"
 - "5054"
-ms.openlocfilehash: 64424a843d82c2d669ba924ccac49de4f4f414bb
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2f0872cc65d1c5f60d627f47f3d92f9a44543eacf4838c06feb04c082c88e29d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51834033"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54098516"
 ---
-# <a name="microsoft-365-learning-pathways"></a>Đường mòn tìm hiểu Microsoft 365
+# <a name="microsoft-365-learning-pathways"></a>Microsoft 365 đường tìm hiểu khác
 
-Các đường đi [học của Microsoft 365](https://docs.microsoft.com/office365/customlearning/) là một dự án nguồn mở được thiết kế để tăng mức sử dụng và áp dụng các dịch vụ Microsoft 365 trong tổ chức của bạn.
+[Microsoft 365 đường tìm hiểu này là](https://docs.microsoft.com/office365/customlearning/) một dự án nguồn mở được thiết kế để tăng mức sử dụng và tiếp nhận các dịch vụ Microsoft 365 trong tổ chức của bạn.
 
-- Bạn sẽ cần đăng ký [tài khoản GitHub](https://aka.ms/joingithub) để dùng các giải pháp.
-- Dự án được hỗ trợ thông qua [danh sách các vấn đề GitHub Online](https://aka.ms/CustomLearningHelp).
-- Xem lại các [câu hỏi thường gặp](https://docs.microsoft.com/office365/customlearning/faq) về định giờ tìm hiểu-tài liệu các sự cố hàng đầu và thường xuyên được Cập Nhật.
+- Bạn sẽ cần đăng ký tài khoản GitHub [sử dụng](https://aka.ms/joingithub) các giải pháp.
+- Dự án được hỗ trợ thông qua danh sách GitHub [đề trực tuyến.](https://aka.ms/CustomLearningHelp)
+- Xem lại Các [câu hỏi thường gặp về đường dẫn tìm hiểu](https://docs.microsoft.com/office365/customlearning/faq) - ghi lại các sự cố hàng đầu và cập nhật thường xuyên dựa trên phản hồi.
 
-**Lưu ý**: giải pháp Pathways Learning và các cấu phần của nó **không được** bảo vệ bởi bất kỳ hợp đồng hỗ trợ nào của Microsoft.
+**Lưu** ý : Giải pháp đường dẫn tìm hiểu và các cấu phần của giải pháp này **không được bao** gồm trong bất kỳ hợp đồng hỗ trợ nào của Microsoft.
