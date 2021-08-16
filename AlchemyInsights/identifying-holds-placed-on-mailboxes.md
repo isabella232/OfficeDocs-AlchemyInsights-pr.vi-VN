@@ -1,5 +1,5 @@
 ---
-title: Xác định việc giữ được đặt trên hộp thư
+title: Xác định việc giữ lại được đặt trong hộp thư
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,29 +13,29 @@ ms.custom:
 - "1202"
 - "3100023"
 ms.assetid: 3378775d-67a2-47aa-a7ed-fbc6d0b4d561
-ms.openlocfilehash: 192613ce56ef7e30b5d5be9301b573748d0332d4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1a5eeaab92ed7e687d05c212794a7adcadac6375c6e4b9ba4578835d9a9b9ef5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668116"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53987597"
 ---
-# <a name="identify-holds-placed-on-mailboxes"></a>Xác định giữ được đặt trên hộp thư
+# <a name="identify-holds-placed-on-mailboxes"></a>Xác định việc giữ lại được đặt trên hộp thư
 
-Bạn có nội dung Microsoft 365 đang được **duy trì** bởi một **tổ chức** mà bạn không thể xác định? Bạn cần **Tìm** nơi giữ nằm ở đâu trên **hộp thư** ? Giữ (*tính năng duy trì*) có thể được áp dụng cho một trong các phương pháp sau đây:
+Bạn có đang lưu Microsoft 365 nội dung đang được giữ **lại** mà **bạn** không thể xác định? Bạn cần **tìm vị** trí của việc giữ trên hộp **thư?** Việc giữ ( tính *năng duy trì*) có thể được áp dụng bằng một trong các phương pháp sau đây:
   
-- Giữ tranh chấp
+- Tính năng bảo quản vụ kiện tụng
 
-- Giữ khám phá điện tử
+- eDiscovery hold
 
-- Giữ tại chỗ
+- In-Place giữ
 
-- Chính sách duy trì của Microsoft 365 
+- Microsoft 365 duy trì 
 
   - Chính sách duy trì vị trí cụ thể
 
-  - Chính sách duy trì toàn bộ tổ chức
+  - Chính sách duy trì toàn tổ chức
 
-- Nhãn Microsoft 365
+- Microsoft 365 nhãn
 
-Để xác định loại giữ nào được áp dụng cho hộp thư của người dùng, hãy xem [cách xác định loại giữ được đặt trên một hộp thư Exchange Online](https://docs.microsoft.com/microsoft-365/compliance/identify-a-hold-on-an-exchange-online-mailbox).
+Để xác định loại giữ được áp dụng cho hộp thư của người dùng, xem mục Cách xác định loại giữ được đặt trên hộp [Exchange Online.](https://docs.microsoft.com/microsoft-365/compliance/identify-a-hold-on-an-exchange-online-mailbox)

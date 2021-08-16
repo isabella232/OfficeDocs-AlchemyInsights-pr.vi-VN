@@ -15,12 +15,12 @@ ms.custom:
 - "10979"
 - "9004625"
 - "9006450"
-ms.openlocfilehash: beaa5dcc7f2e07ca3b2339fe43a759acf3a342b0
-ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
+ms.openlocfilehash: c97aa5dca553791b13297963a7953570bc5aa031a43ddf5234d5352f09c7eec6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "52989883"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54037630"
 ---
 # <a name="use-tracking-prevention-in-microsoft-edge-chromium"></a>Sử dụng ngăn chặn theo dõi Microsoft Edge (Chromium)
 
@@ -30,4 +30,4 @@ Một số trang web sử dụng trình theo dõi để thu thập thông tin tr
 - **Cân bằng**. Mức mặc định và được thiết kế cho những người dùng muốn xem ít quảng cáo hơn theo dõi trên web. Mức cân bằng không chỉ chặn trình theo dõi khỏi các site mà người dùng không bao giờ tham gia mà còn giảm thiểu rủi ro gặp phải các sự cố về tương thích.
 - **Nghiêm ngặt**. Hầu hết các hạn chế và được thiết kế cho những người dùng không ngại làm mất khả năng tương thích của website để có được quyền riêng tư tối đa.
 
-Nếu bạn muốn cập nhật cài đặt quyền riêng tư, trong trình duyệt Edge, hãy đi **tới** Thiết đặt  >  **quyền riêng tư, tìm kiếm và dịch vụ.** Bạn có thể cập nhật cài đặt ngăn theo dõi, chặn trình theo dõi, xóa dữ liệu duyệt web và khám phá các tùy chọn quyền riêng tư và bảo mật khác để giữ an toàn cho dữ liệu của bạn. Để tìm hiểu thêm, hãy xem [Ngăn chặn theo dõi trong Microsoft Edge.](/microsoft-edge/web-platform/tracking-prevention) 
+Nếu bạn muốn cập nhật cài đặt quyền riêng tư, trong trình duyệt Edge, hãy đi **tới** Cài đặt  >  **quyền riêng tư, tìm kiếm và dịch vụ.** Bạn có thể cập nhật cài đặt ngăn theo dõi, chặn trình theo dõi, xóa dữ liệu duyệt web và khám phá các tùy chọn quyền riêng tư và bảo mật khác để giữ an toàn cho dữ liệu của bạn. Để tìm hiểu thêm, hãy xem [Ngăn chặn theo dõi trong Microsoft Edge.](/microsoft-edge/web-platform/tracking-prevention) 

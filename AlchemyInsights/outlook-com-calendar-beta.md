@@ -1,5 +1,5 @@
 ---
-title: 9000198 Outlook.com lịch Beta
+title: 9000198 Outlook.com Calendar Beta
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1758"
 - "9000198"
-ms.openlocfilehash: 687819e0374c2c7195443ad0c1f15c6160bac665
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0399d1eac720d9c92afef666fa7c3563725daee21b88afb29d2d3abdb1501b58
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47753389"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54064586"
 ---
-# <a name="new-calendar-experiences-coming-to-outlookcom"></a>Trải nghiệm lịch mới đến Outlook.com
+# <a name="new-calendar-experiences-coming-to-outlookcom"></a>Trải nghiệm Lịch mới sắp có trên Outlook.com
 
-Diện mạo mới sẽ mang đến những thiết kế và hội chứng từ trải nghiệm thư đến lịch.
+Diện cách mới mang đến những thiết kế và kiến thức tốt nhất từ trải nghiệm Thư đến Lịch.
 
-Bạn sẽ tận hưởng một thiết kế hiện đại giúp giảm ảnh lộn xộn trực quan và cung cấp cho bạn những cách nhanh hơn để dẫn hướng lịch của bạn. Nó cũng dễ dàng hơn để tìm các lịch thú vị cho các hoạt động yêu thích của bạn — từ chương trình truyền hình đến các nhóm và sự kiện thể thao.
+Bạn sẽ tận hưởng một thiết kế hiện đại giúp giảm sự lộn xộn trực quan và cung cấp cho bạn cách nhanh hơn để dẫn hướng lịch của bạn. Bạn cũng có thể dễ dàng tìm thấy lịch thú vị cho các hoạt động yêu thích của mình—từ chương trình truyền hình cho đến các đội thể thao và sự kiện.
 
-Chúng tôi đã mở rộng bộ sưu tập các biểu tượng sự kiện và Cập Nhật giao diện của những người hiện có — và chúng tôi sẽ tự động thêm các biểu tượng liên quan vào các sự kiện của bạn, vì vậy bạn có thể dễ dàng xem những gì đang diễn ra trong nháy mắt.
+Chúng tôi đã mở rộng bộ sưu tập các biểu tượng sự kiện, cũng như cập nhật diện tích và cảm nhận của các biểu tượng hiện có —và giờ đây chúng tôi tự động thêm các biểu tượng liên quan vào sự kiện của bạn để bạn có thể dễ dàng nhìn thấy những gì đang diễn ra trong nháy mắt.
 
-Bạn có thể đưa ra phản hồi về các tính năng mới thông qua [kênh Outlook.com lịch UserVoice](https://go.microsoft.com/fwlink/?linkid=2103075).
+Bạn có thể gửi phản hồi về các tính năng [mới thông qua kênh UserVoice của Outlook.com .](https://go.microsoft.com/fwlink/?linkid=2103075)

@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002931"
 - "5612"
-ms.openlocfilehash: c8a5634d5d79cbd584284b675e5db4e448a0d157
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: e1ad34e8a5cefe168b86727ac3ca208d90f8d4478696cef58a7d0b04475fba56
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814286"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54003411"
 ---
 # <a name="enable-embedding-legacy-dialogs-to-open-reports"></a>Bật các hộp thoại kế thừa nhúng để mở báo cáo
 
-**Chứng**
+**Dấu hiệu**
 
-Người dùng không thể mở báo cáo. "Có điều gì đó không ổn. Kiểm tra chi tiết kỹ thuật để biết thêm chi tiết. "
+Người dùng không thể mở báo cáo. "Đã xảy ra sự cố. Hãy kiểm tra các chi tiết kỹ thuật để biết thêm chi tiết".
 
-**Bởi**
+**Nguyên nhân**
 
-Báo cáo không tải trong UCI với lỗi, "bộ định dạng biểu mẫu là NULL hoặc không được xác định." Các báo cáo trong UCI vẫn yêu cầu các hộp thoại kế thừa, vì vậy hệ thống của khách hàng cần *phải có được* kích hoạt phân cấp bộ chọn.
+Báo cáo không tải được ở UCI kèm theo lỗi "Biểu mẫu mô tả là null hoặc không được xác định." Báo cáo trong UCI vẫn yêu cầu các hộp thoại thừa tự, vì vậy hệ thống của khách hàng cần được bật *allowlegacydialogsembedding.*
 
-**Nghiệm**
+**Giải pháp**
 
-1. Đi đến **thiết đặt >quản trị > thiết đặt hệ thống > tab chung**.
+1. Đi đến **tab Cài đặt >Quản > Hệ Cài đặt > Chung.**
 
-2. Đặt "bật nhúng hộp thoại kế thừa nhất định trong máy khách trình duyệt giao diện hợp nhất" thành **có**.
+2. Đặt "Bật nhúng của một số hộp thoại thừa tự nhất định trong máy khách trình duyệt Giao diện Hợp nhất" **thành Có.**

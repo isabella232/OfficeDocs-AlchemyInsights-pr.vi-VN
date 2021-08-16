@@ -1,5 +1,5 @@
 ---
-title: Bật chuyển vùng trạng thái doanh nghiệp
+title: Bật Chuyển vùng Trạng thái Doanh nghiệp
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "6116"
 - "9003236"
-ms.openlocfilehash: ce89060fc9e470c594970245bd003951ad09cd8b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8acdec785194ca9e3a6aed7da5f4986cdab85e1f091a382aac9aec7cad9dbe5d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47806421"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54003375"
 ---
-# <a name="enable-enterprise-state-roaming"></a>Bật chuyển vùng trạng thái doanh nghiệp
+# <a name="enable-enterprise-state-roaming"></a>Bật Chuyển vùng Trạng thái Doanh nghiệp
 
-Để cho phép chuyển vùng trạng thái doanh nghiệp với Azure AD Premium, hãy xem [mục bật chuyển vùng trạng thái doanh nghiệp trong Azure Active Directory](https://docs.microsoft.com/azure/active-directory/devices/enterprise-state-roaming-enable).
+Để bật Chuyển vùng Bang Doanh nghiệp với azure AD cao cấp, hãy xem mục Bật Chuyển [vùng Bang Doanh nghiệp Azure Active Directory.](https://docs.microsoft.com/azure/active-directory/devices/enterprise-state-roaming-enable)
