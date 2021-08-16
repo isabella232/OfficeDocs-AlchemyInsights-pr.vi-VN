@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9755"
 - "9005679"
-ms.openlocfilehash: 8f51aff29d0b456409a0ff2c015ba3a950b16657
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: a5f239b7ecf9ddee88e3da083325b62d485ec8b06f0de32128fc6a750044af36
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51037022"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54018270"
 ---
 # <a name="change-incorrect-warranty-information"></a>Thay đổi thông tin bảo hành không chính xác
 
-Nếu không có thông tin sai trong bảo hành của bạn, một nhân viên hỗ trợ có thể giúp khắc phục sự cố. Vui lòng có bằng chứng mua hàng của bạn (chẳng hạn như biên nhận gốc hoặc hóa đơn) sẵn sàng khi bạn liên hệ với bộ phận hỗ trợ khách hàng.
+Nếu có thông tin không chính xác về bảo hành của bạn, nhân viên hỗ trợ có thể giúp khắc phục sự cố. Vui lòng có bằng chứng mua hàng (chẳng hạn như biên nhận ban đầu hoặc hóa đơn) sẵn sàng khi bạn liên hệ với bộ phận hỗ trợ khách hàng.
 
-Để tiếp cận một đại diện, hãy bấm nút **liên hệ với chúng tôi** ở phía dưới cùng bên trái của màn hình.
+Để liên lạc với một nhân viên, **hãy bấm nút Liên** hệ với Chúng tôi ở phía dưới bên trái màn hình.

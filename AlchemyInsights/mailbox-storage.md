@@ -1,5 +1,5 @@
 ---
-title: Lưu trữ hộp thư
+title: Dung lượng lưu trữ hộp thư
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002330"
 - "4993"
-ms.openlocfilehash: cdde15f3c92e2728bc24182bcc3f3d5e33835d80
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f52af45dd527e878f533e4e2b181f512f9bbbc631b9d67c58c5ec1ffcd19ea84
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51795430"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54027882"
 ---
-# <a name="mailbox-storage"></a>Lưu trữ hộp thư
+# <a name="mailbox-storage"></a>Dung lượng lưu trữ hộp thư
 
-Xem [giới hạn lưu trữ hộp thư](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#mailbox-storage-limits) cho mỗi **thuê bao của Microsoft 365** và [giới hạn lưu trữ hộp thư](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#storage-limits-across-standalone-plans) cho mỗi gói độc lập. 
+Xem giới hạn [dung lượng lưu trữ hộp](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#mailbox-storage-limits) thư Microsoft 365 hạn **dung** lượng lưu [trữ Hộp](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#storage-limits-across-standalone-plans) thư cho mỗi gói độc lập. 
 
-**Lưu ý**: đối với hộp thư chung, người dùng phải có giấy phép Exchange Online. Hộp thư chung được giới hạn trong 50 GB mà không có giấy phép. Để tăng giới hạn kích cỡ cho 100 GB, hộp thư chung phải được gán cho giấy phép Exchange Online Plan 2 hoặc giấy phép Exchange Online gói 1 với giấy phép Exchange Online lưu trữ phần bổ trợ.
+**Lưu** ý : đối với hộp thư chung, người dùng phải có giấy Exchange Online dùng chung. Hộp thư chung bị giới hạn ở 50 GB mà không cần giấy phép. Để tăng giới hạn kích cỡ lên 100 GB, bạn phải gán hộp thư chung cho giấy phép Exchange Online Plan 2 hoặc giấy phép Exchange Online Plan 1 có giấy phép phần bổ trợ Exchange Online Archiving.
 
-Nếu bạn muốn **chuyển sang một gói đăng ký hoặc gói khác** để lưu trữ thêm, hãy xem mục [chuyển đổi các gói Microsoft 365 dành cho doanh nghiệp](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide)theo cách thủ công.
+Nếu bạn muốn chuyển sang **một đăng ký hoặc gói khác để** có thêm dung lượng lưu trữ, hãy xem mục Chuyển đổi gói Microsoft 365 dành cho doanh nghiệp theo cách thủ [công](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide).
 
-Để biết thêm thông tin, hãy xem [giới hạn của Exchange Online](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits).
+Để biết thêm thông tin, hãy [xem Exchange Online hạn.](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits)

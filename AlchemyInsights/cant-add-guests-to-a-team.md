@@ -1,5 +1,5 @@
 ---
-title: Không thể Thêm khách vào nhóm
+title: Không thể thêm khách vào nhóm
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003558"
 - "6657"
-ms.openlocfilehash: 4c10ffa16b30cccb7552bbaf896b5085bfb29ac3
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 70f0ab311358c88b4817a810956942bf88d9444fa850a5216736eb657189d5a5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819498"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53996112"
 ---
-# <a name="cant-add-guests-to-a-team"></a>Không thể Thêm khách vào nhóm
+# <a name="cant-add-guests-to-a-team"></a>Không thể thêm khách vào nhóm
 
-Để thêm một khách vào nhóm, thì những điều sau đây phải là đúng:  
+Để thêm khách vào nhóm, điều sau đây phải đúng:  
 
-- Người quản trị của bạn đã bật quyền truy nhập của khách trong nhóm.
+- Người quản trị của bạn đã bật quyền truy nhập khách trong Teams.
 - Bạn là chủ sở hữu của nhóm.
-- Người mà bạn muốn thêm ở bên ngoài tổ chức của bạn, chẳng hạn như đối tác hoặc chuyên gia tư vấn.
+- Người mà bạn muốn thêm nằm ngoài tổ chức của bạn, chẳng hạn như đối tác hoặc cố vấn.
 
-Để biết chi tiết, hãy xem mục  [khách tham gia một nhóm như thế nào](https://docs.microsoft.com/MicrosoftTeams/guest-joins).
+Để biết chi tiết,  [hãy xem Cách khách tham gia nhóm](https://docs.microsoft.com/MicrosoftTeams/guest-joins).

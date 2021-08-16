@@ -1,5 +1,5 @@
 ---
-title: Điều khiển quyền truy nhập từ các thiết bị không được quản lý
+title: Kiểm soát quyền truy nhập từ những thiết bị không được quản lý
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "1788"
 - "9000213"
-ms.openlocfilehash: 077979bb58234fdc7bddac76f25c2dfa7767addd
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 088bff5b5d033bf7d8af6b056fd9a0ef570df63cc72977bc228f8256fbeb4e43
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747917"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54005760"
 ---
-# <a name="control-the-access-from-unmanaged-devices"></a>Điều khiển quyền truy nhập từ các thiết bị không được quản lý
+# <a name="control-the-access-from-unmanaged-devices"></a>Kiểm soát quyền truy nhập từ những thiết bị không được quản lý
 
-Với tư cách là người quản trị SharePoint hoặc toàn cầu trong Microsoft 365, bạn có thể chặn hoặc giới hạn quyền truy nhập vào SharePoint và OneDrive từ các thiết bị không được quản lý. Để biết thêm thông tin, hãy xem [kiểm soát quyền truy nhập từ thiết bị](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)không được quản lý.
+Là người quản SharePoint toàn cầu trong Microsoft 365, bạn có thể chặn hoặc giới hạn quyền truy nhập vào nội SharePoint và OneDrive từ các thiết bị không được quản lý. Để biết thêm thông tin, hãy xem mục [Kiểm soát quyền truy nhập từ những thiết bị không được quản lý.](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)

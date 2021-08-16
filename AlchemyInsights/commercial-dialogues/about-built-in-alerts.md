@@ -1,5 +1,5 @@
 ---
-title: Giới thiệu về cảnh báo dựng
+title: Giới thiệu về cảnh báo dựng vào
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200002"
 - "7670"
-ms.openlocfilehash: bcafc8ef052e824093f29e16ffc16f68e6d4e667
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 4e753ec1c6cf8a6512150ccd8c5e881fe7c11704ff21ca15685a505a8f106da2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403657"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53995427"
 ---
-# <a name="about-built-in-alerts"></a>Giới thiệu về cảnh báo dựng sẵn
+# <a name="about-built-in-alerts"></a>Giới thiệu về cảnh báo tích hợp sẵn
 
-Microsoft 365 bao gồm một vài cảnh báo được tích hợp sẵn để bảo vệ hệ thống của bạn. Sau đây là một số thông tin về chúng:
+Microsoft 365 một số cảnh báo tích hợp sẵn để bảo vệ hệ thống của bạn. Sau đây là một số thông tin về các thông tin này:
 
-- Cảnh báo tích hợp sẵn là một email được gửi đến người quản trị toàn cầu từ *Office365Alerts@microsoft.com*. Dòng chủ đề là cảnh báo độ nghiêm trọng thấp: <name of alert policy> .
-- Những email cảnh báo này được gửi đến cho bạn khi ai đó có điều gì đó đáng ngờ. Ví dụ, quy tắc hộp thư đến được tạo chuyển tiếp hoặc chuyển hướng email, quyền được cấp cho một hộp thư, các tệp được chia sẻ hoặc bị xóa hàng loạt từ SharePoint hoặc có các hoạt động khám phá điện tử hoặc sự chậm trễ của email.
-- Microsoft không bao giờ yêu cầu mật khẩu người dùng, chi tiết bảo mật hoặc để xác thực lại người dùng trong email cảnh báo. Các email đó không phải là từ Microsoft; chúng là các email lừa đảo qua mạng.
-- Để có danh sách tất cả các chính sách cảnh báo tích hợp sẵn, hãy xem [chính sách cảnh báo mặc định](https://go.microsoft.com/fwlink/?linkid=2103170).
+- Cảnh báo tích hợp sẵn là email được gửi tới người quản trị toàn cầu từ *Office365Alerts@microsoft.com.* Dòng chủ đề là Cảnh báo ở mức độ thấp: <name of alert policy> .
+- Những email cảnh báo này được gửi đến bạn khi ai đó làm điều gì đó đáng ngờ. Ví dụ: các quy tắc hộp thư đến được tạo ra để chuyển tiếp hoặc chuyển hướng email, các quyền được cấp cho một hộp thư, các tệp được chia sẻ hoặc xóa hàng loạt khỏi SharePoint hoặc có các hoạt động Khám phá Điện tử hay sự chậm trễ của email.
+- Microsoft không bao giờ yêu cầu mật khẩu người dùng, chi tiết bảo mật hoặc xác thực lại người dùng trong email cảnh báo. Những email đó không phải từ Microsoft; đó là email lừa đảo.
+- Để biết danh sách tất cả các chính sách cảnh báo tích hợp sẵn, hãy xem Chính [sách cảnh báo mặc định.](https://go.microsoft.com/fwlink/?linkid=2103170)
