@@ -1,5 +1,5 @@
 ---
-title: Camera không hoạt động trong nhóm
+title: Camera không hoạt động trong Teams
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -15,15 +15,15 @@ ms.custom:
 - "6210"
 - "9003562"
 - "6663"
-ms.openlocfilehash: f700f856ca6e914bd42cd2458c6dfc7d6999b643
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 8a64714bf2a651d49b182afda6bf0a4534de98198742c2833f7ba9deb93e1c38
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48333672"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54071858"
 ---
-# <a name="camera-isnt-working-in-teams"></a>Camera không hoạt động trong nhóm
+# <a name="camera-isnt-working-in-teams"></a>Camera không hoạt động trong Teams
 
-Thử các gợi ý khắc phục sự cố trong bài viết: [camera của tôi không hoạt động trong nhóm](https://support.microsoft.com/office/my-camera-isn-t-working-in-teams-9581983b-c6f9-40e3-b0d8-122857972ade).
+Hãy thử các gợi ý khắc phục sự cố trong [bài viết: Camera của tôi không hoạt động Teams.](https://support.microsoft.com/office/my-camera-isn-t-working-in-teams-9581983b-c6f9-40e3-b0d8-122857972ade)
 
-Nếu các bước khắc phục sự cố không hoạt động, hãy thử Cập Nhật hoặc cài đặt lại trình điều khiển camera và đảm bảo rằng không phải phần mềm chống vi-rút của Microsoft không chặn camera.
+Nếu các bước khắc phục sự cố không hiệu quả, hãy thử cập nhật hoặc cài đặt lại trình điều khiển camera và đảm bảo rằng phần mềm chống vi-rút không phải của Microsoft sẽ không chặn camera.

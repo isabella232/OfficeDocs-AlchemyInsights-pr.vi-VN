@@ -1,5 +1,5 @@
 ---
-title: Không thể đăng nhập vào nhóm
+title: Không thể đăng nhập vào Teams
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003569"
 - "6660"
-ms.openlocfilehash: 12fbd78ca8213df9b060609d06816ff1110645b5
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 1b237be9115a53ba435a270905cf6fdafbdf3223427f689855aa9029be5a4bbc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48365084"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54071282"
 ---
-# <a name="cant-sign-in-to-teams"></a>Không thể đăng nhập vào nhóm
+# <a name="cant-sign-in-to-teams"></a>Không thể đăng nhập vào Teams
 
-Bài viết sau đây có chứa các vấn đề đã biết và các đề xuất khắc phục sự cố: [tại sao tôi gặp sự cố khi đăng nhập vào Microsoft nhóm?](https://support.microsoft.com/office/a02f683b-61a3-4008-9447-ee60c5593b0f)
+Bài viết sau đây chứa các sự cố đã biết và đề xuất khắc phục sự cố: [Tại sao tôi lại gặp sự cố khi đăng nhập vào Microsoft Teams?](https://support.microsoft.com/office/a02f683b-61a3-4008-9447-ee60c5593b0f)

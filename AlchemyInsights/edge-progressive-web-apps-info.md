@@ -1,5 +1,5 @@
 ---
-title: Tìm hiểu về các ứng dụng web tiến lên (PWAs) trên Microsoft Edge (Crom)
+title: Tìm hiểu về Các ứng dụng Web Lũy tiến (PWAs) trên Microsoft Edge (Chromium)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003864"
 - "6916"
-ms.openlocfilehash: 79b72200dbede9b66da921e2a92b4191e9bc067d
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: f214781071be412e2a7eabbf19ec9d271cf1e8081cb052c02cad614da0372eaf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49679661"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101468"
 ---
-# <a name="learn-about-progressive-web-apps-pwas-on-microsoft-edge-chromium"></a>Tìm hiểu về các ứng dụng web tiến lên (PWAs) trên Microsoft Edge (Crom)
+# <a name="learn-about-progressive-web-apps-pwas-on-microsoft-edge-chromium"></a>Tìm hiểu về Các ứng dụng Web Lũy tiến (PWAs) trên Microsoft Edge (Chromium)
 
-PWAs là các trang web dần được nâng cấp thành hàm như các ứng dụng gốc trên các nền tảng hỗ trợ chúng. Pđã kết hợp các phẩm chất tốt nhất của web và các ứng dụng gốc.
+PWAs là website được nâng cao dần để hoạt động như ứng dụng gốc trên nền tảng hỗ trợ chúng. PWAs kết hợp chất lượng tốt nhất của web và ứng dụng gốc.
 
-Từ góc nhìn của một nền tảng web, [Pis trên Microsoft Edge (Crom)](https://go.microsoft.com/fwlink/?linkid=2135193) dựa trên các tiêu chuẩn. Họ cho phép người dùng cài đặt các ứng dụng trực tiếp từ bên trong trình duyệt, và họ không yêu cầu Microsoft Store – triển khai hoặc đăng ký trên nền tảng. Máy tính để bàn Pđã được hỗ trợ trên mọi nền tảng mà Microsoft Edge (Crom) sẵn dùng.
+Từ góc độ của nền tảng web, [PWAs trên nền tảng Microsoft Edge (Chromium) dựa](https://go.microsoft.com/fwlink/?linkid=2135193) trên các tiêu chuẩn. Chúng cho phép người dùng cài đặt ứng dụng trực tiếp từ bên trong trình duyệt và họ không yêu cầu triển khai Microsoft Store triển khai hoặc đăng ký dựa trên nền tảng này. PWA trên máy tính được hỗ trợ trên nền tảng bất kỳ Microsoft Edge (Chromium) sẵn dùng.

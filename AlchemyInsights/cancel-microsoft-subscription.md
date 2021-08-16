@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002287"
 - "4420"
-ms.openlocfilehash: 7dc234cb6cf9f05735fed621fe332575a79b2512
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 381ede315b62b969a62bdba3bc3fc94acf94f275e94cf0b71dfd20c000f6b517
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819786"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54071750"
 ---
 # <a name="cancel-microsoft-subscription"></a>Hủy bỏ đăng ký Microsoft
 
-Nếu bạn muốn hủy bỏ đăng ký Microsoft hoặc đăng ký dùng thử, bao gồm cả Xbox Live và Microsoft 365, hãy xem [cách hủy bỏ đăng ký Microsoft của bạn](https://support.microsoft.com/help/4027815).
+Nếu bạn muốn hủy bỏ đăng ký Microsoft hoặc đăng ký dùng thử, bao gồm Xbox Live và Microsoft 365, hãy xem mục Cách hủy [bỏ đăng ký Microsoft của bạn](https://support.microsoft.com/help/4027815).
 
-**Lưu ý**: để hoàn tiền, trả về hoặc trao đổi, hãy xem [mục trả về bạn đã mua từ Microsoft for Exchange hoặc hoàn tiền](https://support.microsoft.com/help/10558). Bạn có thể kiểm tra [lịch sử đơn hàng](https://account.microsoft.com/billing/orders/) để xác minh những gì bạn đã ra lệnh từ Microsoft. 
+**Lưu ý:** Để được hoàn tiền, đổi trả hoặc đổi lại, hãy xem Các mặt hàng bạn đã [mua từ Microsoft để đổi lại hoặc hoàn tiền.](https://support.microsoft.com/help/10558) Bạn có thể kiểm tra [Lịch sử Đơn hàng](https://account.microsoft.com/billing/orders/) của mình để xác minh những gì bạn đã đặt hàng từ Microsoft. 
 
-**Lưu ý**: nếu bạn thấy phí sau khi tắt thanh toán định kỳ, bạn có thể đã tắt nó sau ngày hết hạn. [Tìm hiểu thêm](https://support.microsoft.com/help/10640). 
+**Lưu** ý: Nếu bạn thấy khoản phí sau khi tắt tính năng thanh toán định kỳ, có thể bạn đã tắt tính năng này sau ngày hết hạn. [Tìm hiểu thêm.](https://support.microsoft.com/help/10640) 
