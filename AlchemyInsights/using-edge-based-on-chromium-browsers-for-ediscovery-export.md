@@ -1,5 +1,5 @@
 ---
-title: Sử dụng Microsoft Edge dựa trên các trình duyệt Chromium cho xuất phát hiện eDiscovery
+title: Sử Microsoft Edge tính dựa Chromium duyệt web cho xuất Ediscovery
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "3473"
 - "3100022"
-ms.openlocfilehash: 7ee724e5109effce8883be50e360948313c84b34
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a583896b5aa8e73be5e932a729c380acc8092e73b2151647c999f9a7b69669b6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51834393"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53998426"
 ---
-# <a name="using-microsoft-edge-based-on-chromium-browsers-for-ediscovery-export"></a>Sử dụng Microsoft Edge dựa trên các trình duyệt Chromium cho xuất phát hiện eDiscovery
+# <a name="using-microsoft-edge-based-on-chromium-browsers-for-ediscovery-export"></a>Sử Microsoft Edge tính dựa Chromium duyệt web cho xuất Ediscovery
 
-Do thay đổi gần đây, trình duyệt Microsoft Edge sẽ không còn có hỗ trợ bấm vào thêm được bật theo mặc định. Để tiếp tục sử dụng công cụ xuất Microsoft 365 eDiscovery, bạn sẽ cần sử dụng Microsoft Internet Explorer hoặc bật tính năng hỗ trợ về việc bấm vào Microsoft Edge. 
+Do thay đổi gần đây, trình Microsoft Edge của bạn sẽ không còn bật hỗ trợ ClickOnce định. Để tiếp tục sử dụng Công cụ Xuất Khám phá Điện tử Microsoft 365 Tính năng này, bạn sẽ cần sử dụng Microsoft Internet Explorer hoặc bật hỗ ClickOnce hỗ trợ trong Microsoft Edge. 
 
-Để bật hỗ trợ về ClickOnce trong Microsoft Edge dựa trên Crom: 
-1. Trong trình duyệt Microsoft Edge của bạn, hãy ghé thăm edge://flags/#edge-click-Once.
-2. Đối với tùy chọn hỗ trợ ClickOnce, hãy thay đổi giá trị từ **mặc định** hoặc bị **tắt** để **bật**. 
-3. Ở phía dưới cùng của cửa sổ trình duyệt, chọn **khởi động lại**. <br>
- Thay đổi này sẽ có hiệu lực sau khi khởi động lại Microsoft Edge. 
+Để kích hoạt ClickOnce Hỗ trợ trong Microsoft Edge dựa trên Chromium: 
+1. Trong trình duyệt Microsoft Edge của bạn, hãy truy cập edge://flags/#edge-click-once.
+2. Để biết tùy ClickOnce Hỗ trợ, hãy thay đổi giá trị từ **Mặc định** hoặc **Tắt** thành **Đã bật.** 
+3. Ở cuối cửa sổ trình duyệt, chọn Khởi động **lại**. <br>
+ Thay đổi sẽ có hiệu lực sau khi khởi động Microsoft Edge. 
 
-Để biết thông tin về điều này và các bước để cài đặt công cụ xuất, hãy xem: [ xuất kết quả tìm kiếm nội dung](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).
+Để biết thông tin về điều này và các bước cài đặt công cụ xuất, hãy xem: Xuất [ kết quả Tìm kiếm Nội dung](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).

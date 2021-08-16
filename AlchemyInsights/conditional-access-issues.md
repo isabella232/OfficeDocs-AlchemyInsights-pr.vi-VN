@@ -1,5 +1,5 @@
 ---
-title: Các vấn đề truy nhập có điều kiện
+title: Các sự cố truy nhập có điều kiện
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,43 +13,43 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004349"
 - "7768"
-ms.openlocfilehash: 7c20b26e3a038dc4392684ca410eba97cec2df30
-ms.sourcegitcommit: eb685eea3ab312d404d55bfd5594a5d6d68811d1
+ms.openlocfilehash: 85cbd89e461f36a51eed816619fd132ea60dfdb0014eb850c7ec3f38d41e1ca2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50015007"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54069986"
 ---
-# <a name="conditional-access-issues"></a>Các vấn đề truy nhập có điều kiện
+# <a name="conditional-access-issues"></a>Các sự cố truy nhập có điều kiện
 
-**Giải quyết vấn đề khi chẩn đoán đăng nhập**
+**Giải quyết các vấn đề với Chẩn đoán Đăng nhập**
 
-Bạn có thể nhanh chóng tìm hiểu điều gì đã xảy ra hoặc chẩn đoán các vấn đề liên quan đến người dùng đăng nhập bằng cách sử dụng [chẩn đoán đăng nhập](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/diagnose/symptomId/ms_aad_dxp_signin_caDiagnoseAndSolveSummarySymptom):
+Bạn có thể nhanh chóng tìm ra sự cố đã xảy ra hoặc chẩn đoán sự cố liên quan đến đăng nhập người dùng bằng [cách sử dụng Chẩn đoán Đăng nhập:](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/diagnose/symptomId/ms_aad_dxp_signin_caDiagnoseAndSolveSummarySymptom)
 
-1. Khởi động chẩn đoán đăng nhập.
-1. Tìm sự kiện để phân tích bằng cách nhập vào các chi tiết bạn có về người dùng, ứng dụng, thời gian đăng nhập, yêu cầu ID hoặc tương quan ID.
-1. Xem lại kết quả chẩn đoán Hiển thị chi tiết về những điều đã xảy ra và những hành động bạn có thể thực hiện để thay đổi (nếu có bất kỳ thay đổi nào cần thiết).
+1. Khởi chạy Chẩn đoán Đăng nhập.
+1. Tìm sự kiện cần phân tích bằng cách nhập các chi tiết mà bạn có về người dùng, ứng dụng, thời gian đăng nhập, yêu cầu Id hoặc Id tương quan.
+1. Xem lại kết quả chẩn đoán hiển thị chi tiết sự cố đã xảy ra và những hành động bạn có thể thực hiện để thực hiện thay đổi (nếu cần bất kỳ thay đổi nào).
 
-**Các bước để khắc phục sự cố đăng nhập** 
+**Các bước khắc phục sự cố đăng nhập** 
 
-1. Dẫn hướng đến trang đăng nhập Azure AD.
-1. Lọc đăng nhập bằng người dùng, phạm vi thời gian, ứng dụng, trạng thái, ứng dụng khách, v.v.
-1. Chọn sự kiện đăng nhập và xem tab truy nhập có điều kiện để xem các chính sách nào được đánh giá.
-1. Bấm vào hàng của chính sách để xem chi tiết chính sách và hiểu tại sao nó được áp dụng.
+1. Dẫn hướng đến trang Đăng nhập Azure AD.
+1. Lọc đăng nhập theo người dùng, phạm vi thời gian, ứng dụng, trạng thái, ứng dụng máy khách, v.v.
+1. Chọn một sự kiện đăng nhập và xem tab Truy nhập có Điều kiện để xem những chính sách nào đã được đánh giá.
+1. Bấm vào hàng của chính sách để xem chi tiết chính sách và tìm hiểu lý do chính sách được áp dụng.
 
-**Công cụ để khắc phục sự cố chính sách truy nhập có điều kiện**
+**Công cụ để khắc phục sự cố chính sách Truy nhập có Điều kiện**
 
-- Chế độ chỉ báo cáo cho phép bạn đánh giá chính sách mà không tác động đến người dùng.
-- Công cụ điều gì sẽ cho phép bạn mô phỏng các sự kiện đăng nhập và xem các chính sách nào sẽ áp dụng.
-- Sổ làm việc hiểu biết và báo cáo hiển thị ảnh hưởng theo thời gian thực của mỗi chính sách.
+- Chế độ chỉ báo cáo cho phép bạn đánh giá một chính sách mà không làm ảnh hưởng đến người dùng.
+- Công cụ tình thế nếu-xảy-ra cho phép bạn mô phỏng các sự kiện đăng nhập và xem chính sách nào được áp dụng.
+- Insights việc báo cáo và sổ làm việc hiển thị ảnh hưởng theo thời gian thực của từng chính sách.
 
-**Chính sách bảo vệ đường cơ sở**
+**Chính sách Bảo vệ Đường cơ sở**
 
-Các chính sách bảo vệ đường cơ sở đã bị suy giảm. Chúng không còn được áp thi và sẽ sớm được loại bỏ khỏi Azure Portal. Chúng tôi khuyên bạn nên bật tính năng [mặc định bảo mật](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults).
+Các chính sách Bảo vệ Đường cơ sở đã bị không còn sử dụng nữa. Chúng sẽ không còn được thực thi nữa và sẽ sớm bị loại bỏ khỏi cổng thông tin Azure. Chúng tôi khuyên bạn nên [bật các mặc định bảo mật.](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)
 
-Để biết thêm thông tin về truy nhập có điều kiện, hãy xem:
+Để biết thêm thông tin về Truy nhập có điều kiện, hãy xem:
 
-Các cách [thực hành tốt nhất để truy nhập có điều kiện trong Azure Active Directory](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)  
- Các [điều kiện trong quyền truy nhập](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)  
- có điều kiện [Điều khiển trong quyền truy nhập](https://docs.microsoft.com/azure/active-directory/conditional-access/controls)  
- có điều kiện [Vị trí trong Access](https://docs.microsoft.com/azure/active-directory/conditional-access/location-condition) có điều kiện
+[Cách thực hành tốt nhất cho truy nhập có điều kiện trong Azure Active Directory](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)  
+ [Các điều kiện trong Truy nhập có điều kiện](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)  
+ [Các điều khiển trong Truy nhập có điều kiện](https://docs.microsoft.com/azure/active-directory/conditional-access/controls)  
+ [Các vị trí trong truy cập có điều kiện](https://docs.microsoft.com/azure/active-directory/conditional-access/location-condition)

@@ -1,5 +1,5 @@
 ---
-title: Đồng bộ hóa thiết bị
+title: Đồng bộ thiết bị
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003245"
 - "9696"
-ms.openlocfilehash: a37efc40cfb9bfc43c615b3317002734ccf29b0c
-ms.sourcegitcommit: a6ab402f59e5ee1492bcf5ab7f18714fc251717d
+ms.openlocfilehash: a3da73e07a5c8c7670cc3adade7490ffeef31c8affddf389a48a8be11e8b58a2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "51038152"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54031140"
 ---
-# <a name="device-sync"></a>Đồng bộ hóa thiết bị
+# <a name="device-sync"></a>Đồng bộ thiết bị
 
-**Nếu đồng bộ hóa thiết bị không hoạt động, hãy nhớ những điểm sau:**
+**Nếu Đồng bộ thiết bị không hoạt động, hãy nhớ các điểm sau đây:**
 
-- Đối tượng thiết bị sẽ được hiển thị trong Azure Portal chỉ sau khi thực hiện đăng ký thiết bị.
-- Nếu bạn muốn thiết bị được gia nhập cả tên miền tại chỗ và azure, tức là gia nhập kết hợp, hãy làm theo các nối kết dưới đây để biết thông tin chi tiết:
+- Một đối tượng thiết bị sẽ chỉ hiển thị trong cổng thông tin Azure sau khi thực hiện Đăng ký thiết bị.
+- Nếu bạn muốn thiết bị được liên kết với cả miền Tại chỗ và Azure, tức là Kết nối kết hợp, hãy làm theo các liên kết dưới đây để biết chi tiết:
   - [https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sync-configure-filtering](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sync-configure-filtering)
   - [https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-managed-domains](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-managed-domains)

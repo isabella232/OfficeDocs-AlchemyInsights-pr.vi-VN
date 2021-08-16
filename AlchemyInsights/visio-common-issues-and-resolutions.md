@@ -1,5 +1,5 @@
 ---
-title: Visio các vấn đề chung và độ phân giải
+title: Visio các sự cố và giải pháp phổ biến
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,39 +12,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002484"
 - "4825"
-ms.openlocfilehash: 759991c9e22facbfac54ae686ae7af60faef404a
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 650872443ab1f94c970979e111a7ea2d287d7a7ddde1e5123a385edb48a0bb32
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51806608"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53998200"
 ---
-# <a name="visio-common-issues-and-resolutions"></a>Visio các vấn đề chung và độ phân giải
+# <a name="visio-common-issues-and-resolutions"></a>Visio các sự cố và giải pháp phổ biến
 
-Dưới đây là một số chủ đề được yêu cầu thường gặp với Microsoft Visio:
+Dưới đây là một số chủ đề được yêu cầu thường xuyên với Microsoft Visio:
 
-**Tùy chọn Visio Online**
+**Visio Tùy chọn trực tuyến**
 
-- Visio được bán với tư cách là một [ứng dụng độc lập](https://products.office.com/visio/flowchart-software). Người quản trị có thể mua [đăng ký Visio](https://docs.microsoft.com/alchemyinsights/purchase-visio-subscription) từ Trung tâm quản trị Microsoft 365.
+- Visio được bán dưới [dạng ứng dụng độc lập.](https://products.office.com/visio/flowchart-software) Người quản trị có thể mua [đăng Visio từ](https://docs.microsoft.com/alchemyinsights/purchase-visio-subscription) trung tâm quản Trung tâm quản trị Microsoft 365.
 
-- Visio cung cấp [các gói đăng ký khác nhau](https://products.office.com/visio/microsoft-visio-plans-and-pricing-compare-visio-options). Nếu bạn đang thiếu một tính năng trong Visio, [so sánh các tùy chọn Visio](https://products.office.com/visio/microsoft-visio-plans-and-pricing-compare-visio-options) để tìm hiểu thêm về sự khác biệt giữa gói 1 và gói 2.  Lưu ý rằng Visio Online Plan 1 sẽ không bao gồm phiên bản trên máy tính của Visio.
+- Visio cung cấp các [gói đăng ký khác nhau](https://products.office.com/visio/microsoft-visio-plans-and-pricing-compare-visio-options). Nếu bạn thiếu một tính năng trong Visio, hãy so sánh Visio [chọn](https://products.office.com/visio/microsoft-visio-plans-and-pricing-compare-visio-options) này để tìm hiểu thêm về sự khác biệt giữa Plan 1 và Plan 2.  Lưu ý Visio Online Plan 1 không bao gồm phiên bản phiên bản dành cho máy tính của Visio.
 
-**Tải xuống, cài đặt và kích hoạt Visio**
+**Tải xuống, Cài đặt và Kích Visio**
 
-- Để cài đặt và kích hoạt ứng dụng Visio trên máy tính với Visio Online Plan 2, người dùng trước tiên phải được gán [giấy phép Visio](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).
+- Để cài đặt và kích hoạt ứng dụng Visio trên máy tính với Visio Online Plan 2, trước tiên người dùng phải được gán [giấy Visio.](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
 
-- Cài đặt Visio từ cổng thông tin tài khoản của tôi nếu nó chưa được cài đặt. Để được trợ giúp, hãy xem [cài đặt Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710).
+- Cài Visio từ cổng thông tin Tài khoản của tôi nếu chưa cài đặt. Để được trợ [giúp, hãy xem Cài Visio.](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710)
 
-- Khi quá trình cài đặt hoàn tất, hãy mở ứng dụng Visio. Visio có thể sẽ tự động kích hoạt và bạn có thể bắt đầu sử dụng nó ngay lập tức. Nếu không, bạn có thể được nhắc đăng nhập. Hãy đảm bảo bạn đăng nhập bằng tài khoản cơ quan hoặc trường học đã gán giấy phép Visio. Làm theo các lời nhắc để tiếp tục kích hoạt.
+- Khi quá trình cài đặt hoàn tất, hãy mở ứng Visio của bạn. Visio có thể tự động kích hoạt và bạn có thể bắt đầu sử dụng ngay. Nếu không, bạn có thể được nhắc đăng nhập. Hãy đảm bảo đăng nhập bằng cùng một tài khoản cơ quan hoặc trường học đã được gán giấy Visio phép. Làm theo lời nhắc để tiếp tục kích hoạt.
 
-- Để được trợ giúp chi tiết hơn, hãy xem [cài đặt Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) và làm theo các bước cho phiên bản Visio của bạn.
+- Để biết thêm trợ giúp chi tiết, [hãy xem Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) cài đặt và làm theo các bước dành cho phiên bản Visio.
 
 **Visio trên máy Mac**
 
-Không có ứng dụng Visio trên máy tính cho Mac. Tuy nhiên, người dùng có [giấy phép Visio Online](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)hợp lệ, có thể [xem, tạo và chỉnh sửa sơ đồ](https://support.office.com/article/06f04845-91b8-4e8f-881f-a43c970735fc) trong Visio Online trong trình duyệt web.
+Không có ứng dụng Visio trên máy tính cho Mac. Tuy nhiên, những người dùng có [giấy phép Visio Online](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)hợp lệ có thể [xem,](https://support.office.com/article/06f04845-91b8-4e8f-881f-a43c970735fc) tạo và chỉnh sửa sơ đồ Visio Online trong trình duyệt web.
 
-**Sơ đồ, mẫu, hình dạng và đường kết nối**
+**Sơ đồ, Mẫu, Hình và Đường kết nối**
 
-- [Tại sao tôi không thể mở sơ đồ để chỉnh sửa trong Visio cho web?](https://support.microsoft.com/office/ea4a23d3-21d3-4878-945e-cf1be4140357)
+- [Tại sao tôi không thể mở sơ đồ để chỉnh sửa Visio trên web?](https://support.microsoft.com/office/ea4a23d3-21d3-4878-945e-cf1be4140357)
 
-- [Đào tạo về Visio](https://support.office.com/article/visio-training-e058bcfa-1d90-4653-afc6-e84d54cf94a6)
+- [Visio Nội dụng đào tạo](https://support.office.com/article/visio-training-e058bcfa-1d90-4653-afc6-e84d54cf94a6)

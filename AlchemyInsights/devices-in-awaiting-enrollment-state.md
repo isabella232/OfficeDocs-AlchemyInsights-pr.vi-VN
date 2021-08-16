@@ -1,5 +1,5 @@
 ---
-title: Các thiết bị đang chờ trạng thái đăng ký
+title: Thiết bị đang ở trạng thái Đang chờ Đăng ký
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000657"
 - "2508"
-ms.openlocfilehash: 220da7807f178a9dff4a78c61dd3e0cc8004c9c2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 068e6dc7fae7221add027d335854b708ccc963532fda53be9d8f54bc578abab6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51815376"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54031068"
 ---
-# <a name="devices-are-in-awaiting-enrollment-state"></a>Các thiết bị đang trong trạng thái "đang chờ đăng ký"
+# <a name="devices-are-in-awaiting-enrollment-state"></a>Thiết bị đang ở trạng thái "Đang chờ Đăng ký"
 
-Phân tích máy tính để bàn không có dữ liệu chẩn đoán cho thiết bị này. 
+Phân tích màn hình nền không có dữ liệu chẩn đoán cho thiết bị này. 
 
-Sự cố này có thể xảy ra vì gần đây bạn đã thêm thiết bị vào tuyển tập đích và chưa gửi dữ liệu. Nó cũng có thể có nghĩa là thiết bị không phải là giao tiếp đúng với dịch vụ và dữ liệu chẩn đoán mới nhất là quá 28 ngày.
+Sự cố này có thể xảy ra vì gần đây bạn đã thêm thiết bị vào tuyển tập đích và thiết bị vẫn chưa gửi dữ liệu. Điều này cũng có thể có nghĩa là thiết bị không liên lạc đúng cách với dịch vụ và dữ liệu chẩn đoán mới nhất đã quá 28 ngày.
 
-Hãy đảm bảo rằng thiết bị có thể liên lạc với dịch vụ. Để biết thêm thông tin, hãy xem các [điểm cuối](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints).
+Đảm bảo rằng thiết bị có thể liên lạc với dịch vụ. Để biết thêm thông tin, [hãy xem Điểm cuối](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints).
 
-Để biết thêm thông tin về trạng thái đang chờ đăng ký, hãy xem [giám sát trạng thái kết nối](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#awaiting-enrollment).
+Để biết thêm thông tin về trạng thái đăng ký đang chờ, hãy xem Giám [sát Trạng thái Kết nối](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#awaiting-enrollment).
