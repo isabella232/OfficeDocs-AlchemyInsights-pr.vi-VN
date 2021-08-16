@@ -1,5 +1,5 @@
 ---
-title: Xác định lý do tại sao tệp Microsoft Word không mở được trên thiết bị di động
+title: Xác định lý do Microsoft Word tệp không mở trên thiết bị di động
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003959"
 - "7015"
-ms.openlocfilehash: 5113a847fea0b839d78b25eaec481e4d5a7fc713
-ms.sourcegitcommit: 728800af2fe596756bcd2280f85451926a3e987c
+ms.openlocfilehash: 356816ce8b6197023742e33280d7cf883f79492d071935c3024ea0d136e2b790
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49722002"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54102044"
 ---
-# <a name="determine-why-a-microsoft-word-file-doesnt-open-on-a-mobile-device"></a>Xác định lý do tại sao tệp Microsoft Word không mở được trên thiết bị di động
+# <a name="determine-why-a-microsoft-word-file-doesnt-open-on-a-mobile-device"></a>Xác định lý do Microsoft Word tệp không mở trên thiết bị di động
 
-Có thể Microsoft Word không hỗ trợ định dạng tệp này trên thiết bị của bạn. Để biết chi tiết, hãy xem [tại sao tôi không thể mở tệp của mình trong Word trên thiết bị di động?](https://go.microsoft.com/fwlink/?linkid=2135663)
+Có khả năng Microsoft Word hỗ trợ định dạng tệp này trên thiết bị của bạn. Để biết chi tiết, [hãy xem Tại sao tôi không thể mở tệp của tôi trong Word trên thiết bị di động?](https://go.microsoft.com/fwlink/?linkid=2135663)

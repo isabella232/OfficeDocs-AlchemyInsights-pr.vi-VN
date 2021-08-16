@@ -1,5 +1,5 @@
 ---
-title: Khắc phục sự cố từ xa với các thiết bị chạy Windows 10 cho bộ bảo vệ mối đe dọa nâng cao của Microsoft Defender
+title: Khắc phục từ xa các sự cố với thiết bị triển Windows 10 cho Tính năng Chống Mối đe dọa Nâng cao của Bộ bảo vệ Microsoft
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 5473d090f6d4680f9a62f34f943ac6cea53b2079
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 44969436c99b182cb4202fa60e2deb7d6ea3f460e48ee4649de1cfb646970f34
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50750048"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54034056"
 ---
-# <a name="remotely-fix-problems-with-onboarding-windows-10-devices-to-microsoft-defender-advanced-threat-protection"></a>Khắc phục sự cố từ xa với các thiết bị chạy Windows 10 cho bộ bảo vệ mối đe dọa nâng cao của Microsoft Defender
+# <a name="remotely-fix-problems-with-onboarding-windows-10-devices-to-microsoft-defender-advanced-threat-protection"></a>Khắc phục từ xa các sự cố với thiết bị triển Windows 10 cho Tính năng Chống Mối đe dọa Nâng cao của Bộ bảo vệ Microsoft
 
-Nếu bạn có thể truy nhập vào máy tính từ xa, hãy làm theo các bước sau đây:
+Nếu bạn có thể truy nhập máy tính từ xa, hãy làm theo các bước sau:
 
-1. Tải xuống công cụ chẩn đoán [kết nối máy khách](https://go.microsoft.com/fwlink/?linkid=2143466) .
-2. Trích xuất và chạy MDATPAnalyzer. cmd.
-3. Xác định vị trí Nhật ký chẩn đoán trong thư mục MDATPClientAnalyzerResult, chính là thư mục mà công cụ phân tích đã được tải xuống.
-4. Để tìm các vấn đề với kết nối hoặc thiết đặt proxy Internet, hãy xem lại MDATPClientAnalyzer.txt tệp nhật ký.
+1. Tải xuống công [cụ chẩn đoán Trình phân tích Kết](https://go.microsoft.com/fwlink/?linkid=2143466) nối Máy khách.
+2. Trích xuất và chạy MDATPAnalyzer.cmd.
+3. Định vị nhật ký chẩn đoán trong thư mục MDATPClientAnalyzerResult, cũng là thư mục trong đó công cụ Trình phân tích được tải xuống.
+4. Để tìm sự cố với kết nối hoặc thiết đặt proxy Internet, hãy xem lại tệp nhật ký MDATPClientAnalyzer.txt.
 
-Để tìm hiểu thêm, hãy xem các [vấn đề với máy triển khai](https://go.microsoft.com/fwlink/?linkid=2143634).
+Để tìm hiểu thêm, hãy [xem Các sự cố với máy tích hợp.](https://go.microsoft.com/fwlink/?linkid=2143634)

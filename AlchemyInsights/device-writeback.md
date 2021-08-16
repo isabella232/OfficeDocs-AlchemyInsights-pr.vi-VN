@@ -1,5 +1,5 @@
 ---
-title: Writeback thiết bị
+title: Device Writeback
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003257"
 - "8279"
-ms.openlocfilehash: f1a8dba19d220e1154549507801c813f56fe5cdd
-ms.sourcegitcommit: 0470a728d184ceb89d1419f7ed57166e07bb778b
+ms.openlocfilehash: 78af4dc8cfe38586dcec8d01b72170b56d98fa27860489bf2ca9544f32210c37
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "50256974"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101984"
 ---
-# <a name="device-writeback"></a>Writeback thiết bị
+# <a name="device-writeback"></a>Device Writeback
 
-Writeback của thiết bị được dùng trong các kịch bản sau đây:
+Thiết bị Writeback được sử dụng trong các kịch bản sau đây:
 
-- [Cho phép Windows Hello for Business sử dụng triển khai tin cậy chứng chỉ hỗn](https://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-cert-trust-prereqs#device-registration) hợp
-- Cho phép truy nhập có điều kiện dựa trên các thiết bị đến các ứng dụng bảo vệ (2012 R2 hoặc cao hơn) (dựa vào tín thác của bên)
+- Enable [Windows Hello for Business using hybrid certificate trust deployment](https://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-cert-trust-prereqs#device-registration)
+- Bật Quyền truy nhập có Điều kiện dựa trên thiết bị được bảo vệ bằng ADFS (2012 R2 trở lên) (dựa vào tin tưởng của bên)
 
     > [!NOTE]
-    > Đăng ký vào Azure AD Premium được yêu cầu cho writeback thiết bị.
+    > Cần có đăng ký Azure AD Premium để ghi lại thiết bị.
 
-Điều này cung cấp bảo mật bổ sung và đảm bảo rằng quyền truy nhập vào các ứng dụng chỉ được cấp cho các thiết bị tin cậy. Để biết thêm thông tin về truy nhập có điều kiện, hãy xem [quản lý rủi ro với quyền truy nhập có điều kiện](https://docs.microsoft.com/azure/active-directory/conditional-access/overview) và [thiết lập quyền truy nhập có điều kiện tại chỗ bằng cách đăng ký thiết bị Azure Active Directory](https://docs.microsoft.com/azure/active-directory/devices/overview).
+Điều này cung cấp bảo mật và đảm bảo bổ sung rằng quyền truy nhập vào các ứng dụng chỉ được cấp cho các thiết bị tin cậy. Để biết thêm thông tin [](https://docs.microsoft.com/azure/active-directory/conditional-access/overview) về Truy nhập có Điều kiện, hãy xem Quản lý Rủi ro với Truy nhập có Điều kiện và Thiết lập Truy nhập Có điều kiện tại cơ sở [bằng cách Azure Active Directory ký Thiết bị.](https://docs.microsoft.com/azure/active-directory/devices/overview)
 
-Để biết thêm thông tin về bật tính năng thiết bị cho các thiết bị, hãy xem bật tính năng lưu [thiết bị](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-device-writeback).
+Để biết thêm thông tin về Bật ghi lại thiết bị cho thiết bị, hãy [xem Bật Ghi lại thiết bị](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-device-writeback).

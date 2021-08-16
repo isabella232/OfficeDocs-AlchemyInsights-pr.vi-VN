@@ -1,5 +1,5 @@
 ---
-title: Đặt lại mã pin thiết bị/mật khẩu từ InTune
+title: Đặt lại mã pin/mật khẩu của thiết bị từ Intune
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1278"
 - "6700008"
-ms.openlocfilehash: 66255fc87a55161158aa4121d68d7ccd04b552ec
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 32f832e1df81469cb74798a3c404d4cc978952b207850d51a05e63acb4a4a2f9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47731023"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54102008"
 ---
-# <a name="device-pinpassword-reset-from-intune"></a>Đặt lại mã pin thiết bị/mật khẩu từ InTune
+# <a name="device-pinpassword-reset-from-intune"></a>Đặt lại mã pin/mật khẩu của thiết bị từ Intune
 
-Bạn có thể loại bỏ một mật khẩu hoặc buộc người dùng tạo một mã khóa mới trong InTune cho thiết bị chạy iOS hoặc Android bằng cách sử dụng hành động loại bỏ mã khóa.
+Bạn có thể loại bỏ mật mã hoặc bắt buộc người dùng tạo mật mã mới trong Intune cho thiết bị chạy iOS hoặc Android bằng cách sử dụng hành động Loại bỏ Mật mã.
 
-Chỉ các kiểu hệ điều hành cụ thể và kiểu hồ sơ công việc hỗ trợ hành động này.
+Chỉ những loại hệ điều hành và loại cấu hình công việc cụ thể mới hỗ trợ hành động này.
 
-Để biết chi tiết về các nền tảng được hỗ trợ và cách để kích hoạt hành động mã khóa đặt lại, hãy xem [đặt lại hoặc loại bỏ một mã khóa thiết bị trong InTune](https://docs.microsoft.com/intune/device-passcode-reset).
+Để biết chi tiết về nền tảng được hỗ trợ và cách kích hoạt hành động đặt lại mật mã, hãy xem Đặt lại hoặc loại bỏ mật mã [thiết bị trong Intune](https://docs.microsoft.com/intune/device-passcode-reset).
 
-Bạn có thể đặt lại mã pin hiện có thành một giá trị mới bằng cách sử dụng hành động đặt lại pin trên các thiết bị chạy hệ điều hành Windows 10 Mobile. Điều này cho phép người dùng mở khóa thiết bị và đặt ghim mới làm phù hợp. Để biết thêm thông tin, hãy xem [đặt lại mã khóa trên thiết bị Windows bằng cách dùng InTune](https://docs.microsoft.com/intune/device-windows-pin-reset).
+Bạn có thể đặt lại mã pin hiện có cho một giá trị mới bằng cách sử dụng hành động Đặt lại Mã pin trên các thiết bị chạy hệ điều Windows 10 Mobile này. Điều này cho phép người dùng mở khóa thiết bị và đặt mã pin mới cho phù hợp. Để biết thêm thông tin, [hãy xem Đặt lại mật mã trên Windows của bạn bằng cách sử dụng Intune](https://docs.microsoft.com/intune/device-windows-pin-reset).

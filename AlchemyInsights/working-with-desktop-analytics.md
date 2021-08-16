@@ -1,5 +1,5 @@
 ---
-title: Cách đóng tài khoản Analytics trên máy tính của bạn
+title: Cách đóng tài khoản Phân tích Màn hình nền của bạn
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000655"
 - "2498"
-ms.openlocfilehash: a7550e651db1ea0b4e4a7c4f6fc43964b8d9bb09
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: e69c0fdb2439053d3a5248a2d3dc8411c8f49a895a786327ed6e1775448751f6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51827094"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54072434"
 ---
-# <a name="working-with-desktop-analytics"></a>Làm việc với phân tích máy tính để bàn
+# <a name="working-with-desktop-analytics"></a>Làm việc với Phân tích Màn hình nền
 
-Có vẻ như bạn đang yêu cầu về phân tích máy tính để bàn. Chúng tôi có thể trợ giúp với một câu trả lời chính xác hơn nếu bạn đặt lại câu hỏi của bạn.
+Có vẻ như bạn đang hỏi về tính năng Phân tích Màn hình nền. Chúng tôi có thể giúp bạn có câu trả lời chính xác hơn nếu bạn nhắc mắc lại câu hỏi của mình.
 
-- [Phân tích máy tính để bàn là gì?](https://docs.microsoft.com/configmgr/desktop-analytics/overview)
-- [Cách thiết lập phân tích máy tính để bàn](https://docs.microsoft.com/configmgr/desktop-analytics/set-up)
+- [Phân tích Màn hình nền là gì?](https://docs.microsoft.com/configmgr/desktop-analytics/overview)
+- [Cách thiết lập Phân tích Màn hình nền](https://docs.microsoft.com/configmgr/desktop-analytics/set-up)
 - [Câu hỏi Thường gặp](https://docs.microsoft.com/configmgr/desktop-analytics/faq)
-- [Khắc phục sự cố phân tích máy tính](https://docs.microsoft.com/configmgr/desktop-analytics/troubleshooting)
+- [Khắc phục sự cố về Phân tích Màn hình nền](https://docs.microsoft.com/configmgr/desktop-analytics/troubleshooting)

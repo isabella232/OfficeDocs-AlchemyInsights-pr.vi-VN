@@ -1,5 +1,5 @@
 ---
-title: Yammer-vấn đề dịch vụ có thể xảy ra
+title: Yammer - Sự cố Dịch vụ Có thể xảy ra
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "1338"
 - "2800001"
-ms.openlocfilehash: bf01341a34719326824847bb44d55ab995a9faba
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: cc7a8793942151f2994d3b42f7c9324a9fcd36b898f8cc01f59538294a7b8dc8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51796258"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54072362"
 ---
-# <a name="yammer---possible-service-issue"></a>Yammer-vấn đề dịch vụ có thể xảy ra
+# <a name="yammer---possible-service-issue"></a>Yammer - sự cố dịch vụ có thể xảy ra
 
-Có thể có sự cố tạm thời mà người dùng có thể gặp lỗi khi truy nhập yammer. Kiểm tra [bảng điều khiển trạng thái dịch vụ](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) để xem liệu mục này có ảnh hưởng đến mạng của bạn hay không.
+Có thể đã xảy ra sự cố tạm thời, trong đó người dùng có thể gặp lỗi khi truy Yammer. Kiểm tra Bảng [điều khiển Tình trạng Dịch](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) vụ để xem liệu điều này có ảnh hưởng đến mạng của bạn không.
