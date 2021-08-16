@@ -9,15 +9,15 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7ae8ff6d-db1b-403b-9707-6fe6da75be92
-ms.openlocfilehash: 747422b7230d205499e76bbd3970055229850bb0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 008e12326abbfa5f669968bfe5a6c48262f44a7b289cd31dd6a229f78d268a34
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47674816"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54065774"
 ---
 # <a name="migrate-on-premises-to-sharepoint-online"></a>Di chuyển tại chỗ sang SharePoint Online
 
-Để di chuyển từ một trang trại SharePoint tại cơ sở sang SharePoint Online, bạn có thể sử dụng công cụ di chuyển SharePoint. Để biết thêm thông tin về công cụ, hãy xem [di chuyển sang SharePoint Online.](https://go.microsoft.com/fwlink/?linkid=2019574)
+Để di chuyển từ một Farm tại chỗ SharePoint farm sang SharePoint Online, bạn có thể sử dụng Công SharePoint Di chuyển Trực tuyến. Để biết thêm thông tin về công cụ, [hãy xem Di chuyển sang SharePoint Online.](https://go.microsoft.com/fwlink/?linkid=2019574)
   
 

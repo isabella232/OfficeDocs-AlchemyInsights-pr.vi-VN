@@ -1,5 +1,5 @@
 ---
-title: 8000037 không nhận được email trong Outlook.com
+title: 8000037 Không nhận được email trong Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -11,17 +11,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms,.custom: ''
 ms.assetid: df10da0f-a4a2-4cc4-929d-f8740ef31eb7
-ms.openlocfilehash: f847180d59258b6bf1f4b7253d0bca5d0c3390eb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 671d53ba9687f55b9c7f91c097bb623430ea5ab9a18226caacabdc92f6b410d8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47772500"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54097364"
 ---
-# <a name="not-receiving-mail-in-outlookcom"></a>Bạn không nhận được thư trong Outlook.com
+# <a name="not-receiving-mail-in-outlookcom"></a>Không nhận thư trong Outlook.com
 
-Nếu bạn không nhận được email từ một người gửi cụ thể, chẳng hạn như báo cáo ngân hàng hoặc các thư đặt lại mật khẩu, bạn sẽ cần liên hệ với người gửi và cho họ biết bạn không nhận được email tại tài khoản Outlook.com của mình. Vui lòng tham khảo người gửi đến [https://postmaster.live.com](https://go.microsoft.com/fwlink/p/?linkid=872135) , nơi họ có thể tìm thấy thông tin về các cách thực hành tốt nhất, khuyên bạn nên khắc phục sự cố và liên kết để liên hệ với nhóm hỗ trợ người gửi của chúng tôi.
+Nếu bạn không nhận được email từ một người gửi cụ thể, chẳng hạn như bản sao kê ngân hàng hoặc thông báo đặt lại mật khẩu, bạn sẽ cần liên hệ với người gửi và cho họ biết bạn không nhận được email tại tài khoản Outlook.com của mình. Vui lòng tham khảo người gửi đến , nơi họ có thể tìm thấy thông tin về các cách thực hành tốt nhất, đề xuất khắc phục sự cố và một liên kết để liên hệ với nhóm [https://postmaster.live.com](https://go.microsoft.com/fwlink/p/?linkid=872135) hỗ trợ người gửi của chúng tôi.
   
-Nếu tài khoản Outlook.com của bạn không nhận được email ở tất cả, hãy xem mục [khắc phục sự cố đồng bộ email Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=874363).
+Nếu tài khoản Outlook.com của bạn hoàn toàn không nhận được email, hãy xem mục Khắc phục sự cố về [Outlook.com đồng bộ email](https://go.microsoft.com/fwlink/p/?linkid=874363).
   
 

@@ -1,5 +1,5 @@
 ---
-title: Các nhãn duy trì mới được tạo tự động
+title: Các nhãn duy trì mới được tự động tạo
 ms.author: pebaum
 author: pebaum
 manager: laurawi
@@ -12,25 +12,25 @@ localization_priority: Normal
 ms.custom:
 - "1958"
 - "9000331"
-ms.openlocfilehash: 2f0e7c418a909d1adfb8e6ad5cd1755839cb22e2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b6cf95d51c7cd4914f6a69588fbf78ea0ba023b3ce8921b6efef6d97ab8bf66c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47803159"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54097544"
 ---
-# <a name="new-retention-labels-created-automatically"></a>Các nhãn duy trì mới được tạo tự động
+# <a name="new-retention-labels-created-automatically"></a>Các nhãn duy trì mới được tự động tạo
 
-Bạn có thể thấy [ba nhãn duy trì mới](https://docs.microsoft.com/microsoft-365/compliance/file-plan-manager) được tạo tự động trong tổ chức của bạn bên dưới **nhãn duy trì** trong Trung tâm quản trị bảo mật hoặc tuân thủ. Các tên nhãn là:
+Bạn có thể thấy [ba nhãn duy trì mới được tự động tạo](https://docs.microsoft.com/microsoft-365/compliance/file-plan-manager) trong tổ chức của bạn bên dưới Nhãn duy trì **trong** trung tâm quản trị bảo mật hoặc tuân thủ. Tên nhãn là:
 
 - Quy trình hoạt động
-- Tổng hợp kinh doanh
+- Tổng quát về doanh nghiệp
 - Thỏa thuận hợp đồng
 
-Điều này sẽ xảy ra lần đầu tiên bạn chọn **gói tệp** nếu không có nhãn lưu giữ nào khác được tạo. Những nhãn này được tạo tự động và nếu cần, nếu cần, có thể bị loại bỏ nếu họ vẫn chưa áp dụng cho nội dung. Để loại bỏ các nhãn:
+Điều này sẽ xảy ra khi bạn chọn Gói **Tệp lần đầu** nếu không có nhãn duy trì nào khác được tạo. Các nhãn này được tạo tự động và nếu cần, có thể được loại bỏ nếu chúng vẫn chưa được áp dụng cho nội dung. Để loại bỏ nhãn:
 
-1. Trong Trung tâm quản trị bảo mật hoặc tuân thủ **, chọn**tab phân loại  >  **nhãn**  >  **duy trì** .
+1. Trong trung tâm quản trị bảo mật hoặc tuân thủ, **chọn** tab Duy  >  **trì Nhãn**  >  **Phân** loại.
 
-1. Chọn các nhãn lưu giữ mà bạn muốn loại bỏ > **xóa bỏ nhãn**  >  **có** để xóa bỏ nhãn.
+1. Chọn nhãn duy trì mà bạn muốn loại bỏ > **Xóa nhãn**  >  **Có** để xóa nhãn.
 
-Với trình quản lý kế hoạch tệp, bạn có thể quản lý các nhãn và chính sách duy trì trong tổ chức của bạn-để biết thêm thông tin, hãy xem [tổng quan về trình quản lý kế hoạch tệp](https://docs.microsoft.com/microsoft-365/compliance/file-plan-manager).
+Với Trình quản lý Gói Tệp, bạn có thể quản lý nhãn duy trì và chính sách trong tổ chức của mình - để biết thêm thông tin, hãy xem Tổng quan [về Trình quản lý Kế hoạch Tệp](https://docs.microsoft.com/microsoft-365/compliance/file-plan-manager).
