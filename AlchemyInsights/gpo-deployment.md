@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004400"
 - "8602"
-ms.openlocfilehash: d31f77e70e8456a4076a8146025f1f8ada977a06
-ms.sourcegitcommit: 969219d6dff18d86d679d4d8741d1e39e4ce9539
+ms.openlocfilehash: 6f9e164713ce36023de954d45031fd4414780e174bf5c7741c4aec274a65b32e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50428047"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54067862"
 ---
 # <a name="gpo-deployment"></a>Triển khai GPO
 
-Thiết đặt cho các đối tượng người dùng và máy tính trong Azure Active Directory Services (Azure AD DS) thường được quản lý bằng các đối tượng chính sách Nhóm (GPOs). Azure AD DS bao gồm tích hợp sẵn trong GPOs cho người dùng và các bộ chứa máy tính của Hh_ngá. Bạn có thể tùy chỉnh các GPOs tích hợp sẵn để cấu hình chính sách nhóm khi cần thiết cho môi trường của bạn. Các thành viên của nhóm người quản trị Azure AD DC có các đặc quyền quản trị chính sách nhóm trong tên miền Azure AD DS và cũng có thể tạo các đơn vị GPOs và tổ chức tùy chỉnh (ơ). Để biết thêm thông tin về chính sách nhóm là gì và cách thức hoạt động, hãy xem [tổng quan về chính sách Nhóm](https://docs.microsoft.com/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/hh831791(v=ws.11)).
+Cài đặt tượng người dùng và máy tính trong Azure Active Directory Domain Services (Azure AD DS) thường được quản lý bằng cách sử dụng Đối tượng Chính sách Nhóm (GPOs). Azure AD DS bao gồm các GPOs tích hợp sẵn cho bộ chứa Người dùng AADDC và Máy tính AADDC. Bạn có thể tùy chỉnh các GPOs tích hợp sẵn này để đặt cấu hình chính sách nhóm khi cần cho môi trường của bạn. Các thành viên của nhóm người quản trị Azure AD DC có đặc quyền quản trị chính sách nhóm trong miền Azure AD DS và cũng có thể tạo các GPOs tùy chỉnh và các đơn vị tổ chức (OU). Để biết thêm thông tin về chính sách nhóm là gì và cách hoạt động của chính sách đó, hãy xem [Tổng quan về Chính sách Nhóm.](https://docs.microsoft.com/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/hh831791(v=ws.11))
 
-Trong môi trường hỗn hợp, chính sách nhóm được cấu hình trong môi trường AD DS tại cơ sở không được đồng bộ hóa với Azure AD DS. Để xác định thiết đặt cấu hình cho người dùng hoặc máy tính trong Azure AD DS, hãy chỉnh sửa một trong các phần mặc định của GPOs hoặc tạo một GPO tùy chỉnh.
+Trong môi trường kết hợp, các chính sách nhóm được đặt cấu hình trong môi trường AD DS tại chỗ không được đồng bộ hóa với Azure AD DS. Để xác định cài đặt cấu hình cho người dùng hoặc máy tính trong Azure AD DS, hãy chỉnh sửa một trong các GPOs mặc định hoặc tạo một GPO tùy chỉnh.
 
-Bài viết này [quản lý chính sách Nhóm](https://docs.microsoft.com/azure/active-directory-domain-services/manage-group-policy) hướng dẫn bạn cách cài đặt công cụ quản lý chính sách nhóm, làm thế nào tấn chỉnh sửa GPOs tích hợp sẵn và cách tạo GPOs tùy chỉnh.
+Bài [viết](https://docs.microsoft.com/azure/active-directory-domain-services/manage-group-policy) này Quản lý Chính sách Nhóm cho bạn biết cách cài đặt các công cụ Quản lý Chính sách Nhóm, cách chỉnh sửa các GPU tích hợp sẵn và cách tạo CÁC GPO tùy chỉnh.
