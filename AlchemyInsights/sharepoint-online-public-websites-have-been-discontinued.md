@@ -1,5 +1,5 @@
 ---
-title: Các trang web công cộng SharePoint Online đang bị ngừng
+title: SharePoint Các website công cộng trực tuyến sẽ ngừng hoạt động
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -12,17 +12,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4b8b89f8-bfd8-4a60-812a-daf5d519788e
-ms.openlocfilehash: fbe21c0aa9fbad3345c62d2dac276f49a37d5c02
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6b26f8561565288f8bb9400a6bd7c4f8006672e304142e41c5b92088036e88bd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47770825"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54051256"
 ---
-# <a name="sharepoint-online-public-websites-have-been-discontinued"></a>Các trang web công cộng SharePoint Online đã bị ngừng
+# <a name="sharepoint-online-public-websites-have-been-discontinued"></a>SharePoint Các website công cộng trực tuyến đã ngừng hoạt động
 
-Các trang web công cộng SharePoint Online đã bị ngừng.
+SharePoint Các website công cộng trực tuyến đã ngừng hoạt động.
 
-Nếu bạn đã tạo một Website công cộng SharePoint Online, bạn có thể tiếp tục sử dụng thông qua ngày 31 tháng 3, 2018. Nếu bạn muốn tiếp tục có một Website công cộng, bạn cần tạo một trang web mới với một nhà cung cấp mới. Nội dung trên trang web công cộng SharePoint Online của bạn đã bị xóa.
+Nếu đã tạo một website công SharePoint Online, bạn đã có thể tiếp tục sử dụng website đó thông qua 31/03/2018. Nếu muốn tiếp tục sử dụng website công cộng, bạn cần tạo một website mới với nhà cung cấp mới. Nội dung trên website công SharePoint Online của bạn đã bị xóa bỏ.
 
-Để biết thông tin về cách tiếp tục trang web công cộng, hãy xem [chi tiết về quy trình không liên tiếp tính năng](https://go.microsoft.com/fwlink/?linkid=866980).
+Để biết thông tin về việc ngừng hoạt động website công cộng, hãy xem [Chi tiết về quy trình ngừng tính năng](https://go.microsoft.com/fwlink/?linkid=866980).

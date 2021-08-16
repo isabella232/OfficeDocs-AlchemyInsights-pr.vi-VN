@@ -1,5 +1,5 @@
 ---
-title: Các trang web công cộng SharePoint Online đang bị ngừng
+title: SharePoint Các website công cộng trực tuyến sẽ ngừng hoạt động
 ms.author: clake
 author: pebaum
 manager: scotv
@@ -14,16 +14,16 @@ ms.custom:
 - "99"
 - "5200001"
 ms.assetid: 4b8b89f8-bfd8-4a60-812a-daf5d519788e
-ms.openlocfilehash: 1dce91425873c2aea84fac9b79951138502d5a58
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c515a8b0353c5747a086b68ff7937bd95888f70c43f6d134b4756653e2177b0b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47719939"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54051292"
 ---
-# <a name="sharepoint-online-public-websites-are-being-discontinued"></a>Các trang web công cộng SharePoint Online đang bị ngừng
+# <a name="sharepoint-online-public-websites-are-being-discontinued"></a>SharePoint Các website công cộng trực tuyến sẽ ngừng hoạt động
 
-Nếu bạn đã tạo một trang web công cộng SharePoint Online, bạn có thể tiếp tục sử dụng nó cho đến ngày 31 tháng 3, 2018. Nếu bạn muốn tiếp tục có một Website công cộng, bạn cần tạo một trang web mới với một nhà cung cấp mới. Nội dung trên trang web công cộng SharePoint Online của bạn sẽ bị xóa bỏ, vì vậy bạn cần sao chép bất kỳ nội dung nào bạn muốn giữ lại.
+Nếu đã tạo một website công SharePoint Online, bạn có thể tiếp tục sử dụng website đó cho đến 31/03/2018. Nếu muốn tiếp tục sử dụng website công cộng, bạn cần tạo một website mới với nhà cung cấp mới. Nội dung trên website công SharePoint Online của bạn sẽ bị xóa, vì vậy bạn cần sao chép bất kỳ nội dung nào bạn muốn giữ lại.
   
-Một biểu ngữ bây giờ sẽ xuất hiện ở đầu trang web công cộng SharePoint Online của bạn như thông báo rằng site đó sẽ bị loại bỏ. Bạn không thể tắt biểu ngữ này. Để biết thông tin về việc lưu và sao chép nội dung vào một Website đối tác, hãy xem [chi tiết về quy trình ngừng phân tích tính năng](https://go.microsoft.com/fwlink/?linkid=866980).
+Một biểu ngữ giờ đây sẽ xuất hiện ở phía trên cùng của website SharePoint Online công cộng của bạn dưới dạng thông báo rằng site sẽ bị loại bỏ. Bạn không thể tắt biểu ngữ này. Để biết thông tin về việc lưu và sao chép nội dung vào một website đối tác, hãy xem [Chi tiết về quy trình ngừng tính năng](https://go.microsoft.com/fwlink/?linkid=866980).
   

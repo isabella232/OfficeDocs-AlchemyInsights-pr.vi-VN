@@ -1,5 +1,5 @@
 ---
-title: Chia sẻ tệp OneDrive với người dùng bên ngoài
+title: Chia sẻ OneDrive của bạn với người dùng bên ngoài
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,33 +12,33 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cd031153-5db6-4cf4-92b7-eb562e7b9568
-ms.openlocfilehash: 91004b3f74fb147905d5083cf7c426bc7f3f58ab
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0ac5cbebaa350a004e5e85de928d2eb23bcd3086ba304c3c3afdfa9c13e42188
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47739055"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54051616"
 ---
 # <a name="share-files-in-onedrive-with-people-outside-your-organization"></a>Chia sẻ tệp trong OneDrive với những người bên ngoài tổ chức của bạn
 
-1. Sử dụng công cụ khởi động ứng dụng để đi đến OneDrive trong trình duyệt web của bạn. 
+1. Sử dụng công cụ khởi động ứng dụng để đi OneDrive trình duyệt web của bạn. 
     
-2. Chọn tệp hoặc thư mục mà bạn muốn chia sẻ, rồi chọn **chia sẻ**. 
+2. Chọn tệp hoặc thư mục bạn muốn chia sẻ, rồi chọn Chia **sẻ**. 
     
-3. Nếu kiểu nối kết được đặt là "mọi người \<your organization\> ," hãy bấm vào mũi tên xuống và chọn một trong các mục sau: 
+3. Nếu loại liên kết được đặt là "Mọi người trong \<your organization\> ," hãy bấm vào mũi tên xuống, rồi chọn một trong các mục sau: 
     
-  - **Bất kỳ ai** có quyền truy nhập vào bất kỳ ai nhận được liên kết này, cho dù họ nhận được trực tiếp từ bạn hoặc chuyển tiếp từ người khác. Điều này có thể bao gồm những người bên ngoài tổ chức của bạn. 
+  - **Bất kỳ** ai cấp quyền truy nhập cho bất kỳ ai nhận được liên kết này, dù họ nhận được trực tiếp từ bạn hay được chuyển tiếp từ ai khác. Có thể bao gồm cả những người bên ngoài tổ chức của bạn. 
     
-  - **Những người cụ thể** chỉ cho phép truy nhập vào những người mà bạn chỉ định, mặc dù những người khác có thể đã có quyền truy nhập. Nếu mọi người chuyển tiếp thư mời chia sẻ, chỉ những người đã có quyền truy nhập vào mục đó sẽ có thể sử dụng liên kết. 
+  - **Những người cụ** thể chỉ cấp quyền truy nhập cho những người mà bạn chỉ định, mặc dù những người khác có thể đã có quyền truy nhập. Nếu mọi người chuyển tiếp lời mời chia sẻ, chỉ những người đã có quyền truy nhập vào mục mới có thể sử dụng liên kết. 
     
     > [!NOTE]
-    > Nếu một trong các tùy chọn này không sẵn dùng, hoặc nếu bạn muốn một kiểu liên kết khác xuất hiện theo mặc định, bạn có thể thay đổi cài đặt toàn bộ tổ chức của mình bằng cách đi đến Trung tâm quản trị OneDrive và bấm vào **chia sẻ** trong ngăn bên trái. [Tìm hiểu thêm](https://go.microsoft.com/fwlink/?linkid=871961)
+    > Nếu một trong các tùy chọn này không sẵn dùng hoặc nếu bạn muốn một loại liên kết khác xuất hiện  theo mặc định, bạn có thể thay đổi thiết đặt toàn tổ chức của mình bằng cách đi tới trung tâm quản trị OneDrive, rồi bấm Chia sẻ ở ngăn bên trái. [Tìm hiểu thêm](https://go.microsoft.com/fwlink/?linkid=871961)
   
-4. Theo mặc định, **cho phép chỉnh sửa** được bật. Nếu bạn muốn mọi người chỉ xem các tệp của mình, hãy bỏ chọn hộp kiểm. 
+4. Theo mặc định, **Cho phép** chỉnh sửa sẽ được bật. Nếu bạn muốn mọi người chỉ xem tệp của mình, hãy bỏ chọn hộp kiểm này. 
     
-5. Nhập tên của những người mà bạn muốn chia sẻ và thông điệp, nếu bạn muốn.
+5. Nhập tên của những người bạn muốn chia sẻ cùng và một thông điệp, nếu muốn.
     
-6. Khi bạn đã sẵn sàng để gửi liên kết, hãy bấm **gửi**. 
+6. Khi bạn đã sẵn sàng gửi liên kết, bấm vào **Gửi.** 
     
 [Tìm hiểu thêm](https://go.microsoft.com/fwlink/?linkid=871861)
   

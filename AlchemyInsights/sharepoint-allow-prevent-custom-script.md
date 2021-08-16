@@ -1,5 +1,5 @@
 ---
-title: Cho phép script tùy chỉnh bật tính năng
+title: Cho phép tập lệnh tùy chỉnh bật tính năng
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f2b1b6b4-10c9-4e83-b9cb-529a0b8a3c55
-ms.openlocfilehash: d202ca6e932099f9e68d4e2c5da754b9b56db896
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2cd75d37b20ad2b624ee9944c9c7e62b93277dcd5e2669e3748647636d99e1b0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47738983"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54051472"
 ---
-# <a name="allow-custom-script-to-enable-features"></a>Cho phép script tùy chỉnh bật tính năng
+# <a name="allow-custom-script-to-enable-features"></a>Cho phép tập lệnh tùy chỉnh bật tính năng
 
-Người quản trị có thể cần cho **phép các tập lệnh tùy chỉnh** để bật một số tính năng nhất định. Ví dụ: người dùng có thể nhận được lỗi 403 khi kết nối với SharePoint với SharePoint Designer. Để biết các bước chi tiết, ví dụ và cân nhắc xem mục [cho phép hoặc ngăn chặn các kịch bản tùy chỉnh](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script).
+Người quản trị có thể cần Cho **phép Script Tùy chỉnh bật** các tính năng nhất định. Ví dụ, người dùng có thể nhận được lỗi 403 khi kết nối với SharePoint thiết SharePoint Designer. Để biết các bước chi tiết, ví dụ và cân nhắc, hãy xem [mục Cho phép hoặc ngăn chặn tập lệnh tùy chỉnh](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script).
 
-Nếu người dùng đang gặp phải **lỗi 403** với SharePoint hoặc OneDrive, bạn có thể kiểm tra bảng điều khiển trạng thái [dịch vụ](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) để xác định xem đó là một vấn đề đã biết với độ phân giải đang thực hiện trước khi bạn gọi cho bộ phận hỗ trợ hoặc dành thời gian khắc phục sự cố. Vấn đề có thể rất tạm thời và đã được xác định bởi Microsoft, nhưng có thể có một mất hiệu lực trong khoảng thời gian giữa định danh vấn đề và đăng lên bảng điều khiển trạng thái dịch vụ. Vui lòng tiếp tục kiểm tra bảng điều khiển trạng thái dịch vụ để biết thêm các bản Cập Nhật.
+Nếu người dùng gặp phải Lỗi **403** với SharePoint hoặc OneDrive, [](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) bạn có thể kiểm tra bảng điều khiển Tình trạng Dịch vụ để xác định xem đó có phải là vấn đề đã biết đang được giải quyết hay không trước khi gọi cho bộ trợ giúp hoặc dành thời gian để khắc phục sự cố. Sự cố này có thể rất tạm thời và đã được Microsoft xác định, nhưng có thể có khoảng thời gian trôi qua giữa việc xác định sự cố và đăng bài lên bảng điều khiển Tình trạng Dịch vụ. Vui lòng tiếp tục kiểm tra bảng điều khiển Trạng thái Dịch vụ để cập nhật thêm.
 

@@ -1,5 +1,5 @@
 ---
-title: Cách tắt các nhóm bên ngoài
+title: Cách vô hiệu hóa Nhóm Bên ngoài
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,24 +11,24 @@ ms.custom:
 - "965"
 - "6000006"
 ms.assetid: 962c2a4f-7dac-4ccc-98a8-d0d283c95808
-ms.openlocfilehash: 30495253bdabbe618817cce45790dbf5d565b2db
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b7c020aa02a9ffbc10e4e52717e0005a3bbbe2b721380183a3a0c90387b1dd4d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47704187"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54015678"
 ---
-# <a name="how-to-give-access-to-external-users-in-yammer"></a>Cách cấp quyền truy nhập cho người dùng bên ngoài trong yammer
+# <a name="how-to-give-access-to-external-users-in-yammer"></a>Cách cấp quyền truy nhập cho người dùng bên ngoài trong Yammer
 
-Có bốn cách người dùng bên ngoài có thể truy nhập vào mạng của bạn trong yammer.
+Người dùng bên ngoài có thể truy nhập mạng của bạn theo bốn cách Yammer.
   
-1. **Người dùng khách-người** quản trị yammer có thể mời các liên hệ từ các tên miền bên ngoài với tư cách là người dùng trên mạng nhà riêng. Những người dùng này sẽ nhìn thấy tất cả nguồn cấp công ty và cũng có thể gia nhập nhóm khác trong các mạng.
+1. **Người dùng khách** - Yammer quản trị viên có thể mời liên hệ từ miền bên ngoài làm người dùng trên mạng nội bộ. Những người dùng này sẽ thấy nguồn cấp dữ liệu Toàn công ty cũng như có thể tham gia các nhóm khác trong các mạng.
 
-2. **Người dùng bên ngoài trong một nhóm** bên ngoài-nhóm bên ngoài cho phép người dùng bên ngoài. Phạm vi của quyền truy nhập của một người dùng bên ngoài được giới hạn trong nhóm bên ngoài. Với các nhóm bên ngoài, bạn chỉ có thể mời các liên hệ từ mạng yammer cho phép người dùng tham gia vào các cuộc hội thoại bên ngoài.
+2. **Người dùng bên ngoài trong nhóm bên ngoài** - Nhóm bên ngoài cho phép người dùng bên ngoài. Phạm vi truy nhập của người dùng bên ngoài được giới hạn trong nhóm bên ngoài. Với nhóm bên ngoài, bạn chỉ có thể mời liên hệ từ Yammer mạng nội bộ cho phép người dùng tham gia vào cuộc hội thoại bên ngoài.
 
-3. **Người dùng bên ngoài trong hội thoại yammer trong một nhóm nội bộ** -tùy chọn này cho phép người tham gia bên ngoài được thêm vào một hội thoại cụ thể. Người tham gia bên ngoài chỉ có thể tham gia vào các cuộc hội thoại mà họ đã được mời một cách rõ ràng và đến bất kỳ phần đính kèm nào trong cuộc hội thoại đó. Họ truy nhập các cuộc hội thoại này qua hộp thư đến yammer của họ (trên mạng của họ). Họ không có quyền truy nhập vào phần còn lại của mạng của bạn.
+3. **Người dùng bên ngoài trong cuộc Yammer thoại trong nhóm** nội bộ - Tùy chọn này cho phép thêm người dự bên ngoài vào một cuộc hội thoại cụ thể. Người dự bên ngoài chỉ có thể tham gia vào các hội thoại mà họ được mời một cách rõ ràng và xem các tệp đính kèm trong hội thoại đó. Họ truy nhập các cuộc hội thoại này thông qua hộp Yammer đến của họ (trên mạng của họ). Họ không có quyền truy nhập vào những phần khác trong mạng của bạn.
 
-4. Các **mạng bên ngoài** -tùy chọn này cho phép bạn mời người dùng bên ngoài vào một mạng bên ngoài mà người quản trị đã xác minh có thể tạo trong mạng của bạn. Tùy chọn này phù hợp nhất với lưu trữ cộng đồng bên ngoài.
+4. **Mạng bên ngoài** - Tùy chọn này cho phép bạn mời người dùng bên ngoài vào mạng bên ngoài có thể được tạo bởi Người quản trị đã được xác minh trong mạng của bạn. Tùy chọn này là tùy chọn phù hợp nhất để lưu trữ cộng đồng bên ngoài.
 
-Để biết thêm thông tin, vui lòng xem [Thêm người dự nhắn tin bên ngoài vào hội thoại yammer của bạn và các](https://docs.microsoft.com/yammer/work-with-external-users/add-external-participants) [câu hỏi thường gặp về nhắn tin bên ngoài (yammer)](https://docs.microsoft.com/yammer/work-with-external-users/external-messaging-faq)
+Để biết thêm thông tin, vui lòng xem [Thêm người dự nhắn](https://docs.microsoft.com/yammer/work-with-external-users/add-external-participants) tin bên ngoài vào hội thoại Yammer của bạn và Câu hỏi thường gặp về Nhắn tin Bên ngoài [(Yammer)](https://docs.microsoft.com/yammer/work-with-external-users/external-messaging-faq)
   

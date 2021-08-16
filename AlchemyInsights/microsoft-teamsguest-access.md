@@ -1,5 +1,5 @@
 ---
-title: Các nhóm Microsoft-truy nhập của khách
+title: Microsoft Teams - Quyền truy nhập của Khách
 ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
@@ -12,19 +12,19 @@ ms.custom:
 - "2679"
 - "6500001"
 ms.assetid: 7c44ed9c-e944-4a4a-b36f-81b637131a9f
-ms.openlocfilehash: 83739b66057dd25ef9c95a138598e61db4f221bc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 96a57d523c75a2e0b3cebff6abe23377fa7d2525ce00cedeb1a16c6669255c8e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47777663"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54026892"
 ---
-# <a name="microsoft-teams---guest-access"></a>Các nhóm Microsoft-truy nhập của khách
+# <a name="microsoft-teams---guest-access"></a>Microsoft Teams - Quyền truy nhập của Khách
 
-Bạn cần trợ giúp bật và thiết lập tính năng truy nhập của khách trong Microsoft nhóm?  
+Bạn cần trợ giúp bật và thiết lập tính năng Truy nhập Dành cho Khách trong Microsoft Teams?  
 
-Trước tiên, hãy đảm bảo rằng bạn đã theo dõi tất cả các bước trong [danh sách kiểm tra khách truy nhập](https://docs.microsoft.com/microsoftteams/guest-access-checklist). Sau khi đã hoàn tất tất cả các bước này, bạn cần phải [chờ đến 24 giờ](https://docs.microsoft.com/microsoftteams/manage-guests#guest-access-latencies) để cài đặt có hiệu lực.
+Trước tiên, hãy đảm bảo bạn đã làm theo tất cả các bước trong Danh [sách kiểm tra Truy nhập Khách.](https://docs.microsoft.com/microsoftteams/guest-access-checklist) Sau khi hoàn tất tất cả các bước đó, bạn cần chờ tối đa [24](https://docs.microsoft.com/microsoftteams/manage-guests#guest-access-latencies) giờ để thiết đặt có hiệu lực.
 
-Nếu bạn chắc chắn rằng bạn đã hoàn thành tất cả các bước trong danh sách kiểm tra, và đã có hơn 24 giờ, hãy tiếp tục và cố gắng [Thêm một khách vào nhóm của bạn](https://support.office.com/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop).
+Nếu bạn tự tin rằng mình đã hoàn thành tất cả các bước trong Danh sách kiểm tra và đã qua hơn 24 giờ, hãy tiếp tục và cố gắng thêm một Khách vào Nhóm của [bạn.](https://support.office.com/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop)
 
-Để biết thêm thông tin, bao gồm video, hãy xem mục [truy nhập của khách trong Microsoft nhóm](https://docs.microsoft.com/microsoftteams/guest-access).
+Để biết thêm thông tin, bao gồm video hướng dẫn, hãy xem [Truy nhập khách trong Microsoft Teams.](https://docs.microsoft.com/microsoftteams/guest-access)

@@ -1,5 +1,5 @@
 ---
-title: Sửa chữa chính sách/thiết đặt hộp thư của người dùng
+title: Khắc phục cài đặt chính sách người dùng/hộp thư
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: ca998c453fcb0905b122436f0eea384a9b8a9992
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: fecc52bea66e0aed709a8995d2509f4432c09482459aa575d29e4c7551375211
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50750568"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54034740"
 ---
-# <a name="fix-user-policymailbox-settings"></a>Sửa chữa chính sách/thiết đặt hộp thư của người dùng
+# <a name="fix-user-policymailbox-settings"></a>Khắc phục cài đặt chính sách người dùng/hộp thư
 
-Thiết đặt thư rác trên hộp thư ảnh hưởng đến thư này. Để xem lại các cài đặt, hãy làm như sau:
+Thiết đặt thư rác trên hộp thư đã ảnh hưởng đến thư này. Để xem lại các thiết đặt, hãy làm như sau:
 
-1. Khởi động Exchange Management Shell. Để biết thêm thông tin, hãy xem [mở Exchange Management Shell](https://go.microsoft.com/fwlink/?linkid=2101432).
-2. Chạy lệnh này (sử dụng địa chỉ email của người dùng):  **Get-mailboxjunkmailconfiguration-Identity "user@domain.com"**
-3. Kiểm tra xem địa chỉ email của người gửi là một phần trong **Trustedsendersanddomains** hay **Blockenhsendersanddomains**. Nếu địa chỉ email nằm trong một trong các danh sách, bạn có thể phải loại bỏ nó. Để tìm hiểu thêm, hãy xem [Set-MailboxJunkEmailConfiguration](https://go.microsoft.com/fwlink/?linkid=2101047).
+1. Khởi Exchange Management Shell. Để biết thêm thông tin, [hãy xem Mở Exchange Management Shell.](https://go.microsoft.com/fwlink/?linkid=2101432)
+2. Chạy lệnh này (sử dụng địa chỉ email của người dùng):  **get-mailboxjunkmailconfiguration -identity "user@domain.com"**
+3. Kiểm tra xem địa chỉ email của người gửi có phải là một phần của **TrustedSendersAndDomains** hoặc **BlockedSendersAndDomains hay không.** Nếu địa chỉ email nằm ở một trong các danh sách, bạn có thể phải loại bỏ địa chỉ đó. Để tìm hiểu thêm, [hãy xem Set-MailboxJunkEmailConfiguration](https://go.microsoft.com/fwlink/?linkid=2101047).

@@ -1,5 +1,5 @@
 ---
-title: SharePoint Online-throttling
+title: SharePoint Trực tuyến - Điều chỉnh
 ms.author: v-smandalika
 author: v-smandalika
 ms.date: 01/05/2021
@@ -13,20 +13,20 @@ ms.custom:
 - "9000149"
 - "1662"
 - "3491"
-ms.openlocfilehash: 01ce7a0266eb15a04f70826cc3f5e135f384c13b
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 38cd588e9f5388579e4e8c2064d1390091425254effd3aa7c50c4f2cbc80ce53
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50707580"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54051508"
 ---
-# <a name="sharepoint-online-throttling"></a>Throttling SharePoint Online
+# <a name="sharepoint-online-throttling"></a>SharePoint Điều chỉnh trực tuyến
 
-SharePoint Online sử dụng điều chỉnh để duy trì hiệu năng và độ tin cậy tối ưu của dịch vụ SharePoint Online. Throttling giới hạn số lượng hành động của người dùng hoặc cuộc gọi đồng thời (theo script hoặc mã) để ngăn chặn việc sử dụng tài nguyên. 
+SharePoint Online sử dụng điều chỉnh để duy trì hiệu suất tối ưu và độ tin cậy của dịch SharePoint Online. Điều chỉnh giới hạn số lượng hành động người dùng hoặc cuộc gọi đồng thời (theo tập lệnh hoặc mã) để ngăn chặn việc sử dụng quá nhiều tài nguyên. 
 
-Để biết thêm thông tin về việc điều chỉnh, hãy xem mục [tránh bị Throttled hoặc bị chặn trong SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online).
+Để biết thêm thông tin về điều chỉnh, [hãy xem Tránh bị điều chỉnh hoặc chặn trong SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online).
 
-Nếu bạn cho rằng lỗi này không liên quan đến throttling, bạn có thể kiểm tra xem liệu có hoạt động bảo trì nào xảy ra trên đối tượng thuê của bạn bằng cách dẫn hướng đến [Trung tâm thông báo](https://portal.office.com/adminportal/home#/MessageCenter).
+Nếu bạn cho rằng lỗi này không liên quan đến điều chỉnh, bạn có thể kiểm tra xem có hoạt động bảo trì nào xảy ra trên đối tượng thuê của bạn hay không bằng cách dẫn hướng tới Trung [tâm thông báo](https://portal.office.com/adminportal/home#/MessageCenter).
 
- Cuối cùng, hãy đảm bảo bạn truy nhập trang trạng thái [dịch vụ](https://portal.office.com/adminportal/home#/servicehealth) để kiểm tra các sự cố/sự cố có thể xảy ra.
+ Cuối cùng, đảm bảo bạn truy nhập [trang Tình trạng Dịch](https://portal.office.com/adminportal/home#/servicehealth) vụ để kiểm tra bất kỳ tư vấn/sự cố nào có thể xảy ra.
 

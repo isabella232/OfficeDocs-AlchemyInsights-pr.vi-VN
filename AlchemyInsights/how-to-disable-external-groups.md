@@ -1,5 +1,5 @@
 ---
-title: Cách tắt các nhóm bên ngoài
+title: Cách vô hiệu hóa Nhóm Bên ngoài
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,24 +12,24 @@ ms.custom:
 - "966"
 - "6000006"
 ms.assetid: 4e429507-039b-410e-a994-54b443d4e91e
-ms.openlocfilehash: f7a1bbda3a54d2662bdfe21cda961c32456edb82
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9c513da49dc953b4ae76bb06854e33232ec40e11151f11ade33c3080092aa598
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47704150"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54015642"
 ---
-# <a name="how-to-disable-external-groups"></a>Cách tắt các nhóm bên ngoài
+# <a name="how-to-disable-external-groups"></a>Cách vô hiệu hóa Nhóm Bên ngoài
 
-Nhắn tin bên ngoài yammer áp dụng quy tắc truyền dẫn Exchange (ETRs), một tập hợp các điều khiển chủ động để ngăn không cho thông tin công ty chia sẻ. Để hạn chế người dùng tạo nhóm bên ngoài, bạn cần đặt cấu hình quy tắc truyền dẫn Exchange (ETR), rồi đặt cấu hình yammer để sử dụng quy tắc truyền dẫn Exchange để chặn gửi tin nhắn bên ngoài.
+Yammer dụng tính năng nhắn tin bên ngoài Exchange dụng Quy tắc Truyền dẫn (ETR), một tập hợp các điều khiển chủ động để ngăn không cho chia sẻ thông tin công ty. Để hạn chế người dùng tạo nhóm bên ngoài, bạn cần cấu hình một quy tắc truyền dẫn Exchange (ETR), sau đó đặt cấu hình Yammer để sử dụng quy tắc Truyền dẫn Exchange để chặn nhắn tin với bên ngoài.
   
-Sau khi bạn đã tạo một quy tắc trong Trung tâm quản trị Exchange Online, hãy làm theo các bước sau đây để đặt ETR để áp dụng trong yammer:
+Khi bạn đã tạo quy tắc trong trung Exchange Online quản trị viên, hãy làm theo các bước đặt ETR để áp dụng trong Trung Yammer:
   
-- Đăng nhập vào yammer với tư cách là người quản trị đã xác nhận và trong **Trung tâm quản trị yammer**, hãy đi đến ** \> thiết đặt nội dung và bảo mật** của C.
+- Đăng nhập vào Yammer là người quản trị đã xác nhận và trong Trung tâm quản trị **Yammer,** đi đến mục Nội dung và Bảo mật **C \> Cài đặt.**
 
-- Bên dưới **nhắn tin bên ngoài**, chọn thực **thi quy tắc truyền dẫn Exchange Online Exchange của bạn (etrs) trong yammer.**
+- Bên dưới **Nhắn tin với** bên ngoài , chọn Thực thi Quy Exchange Online Exchange Truyền tải **(ETR) của bạn trong Yammer.**
 
-- Chọn **lưu**.
+- Chọn **Lưu**.
 
-Để biết thêm thông tin, hãy xem mục [tắt nhắn tin bên ngoài trong mạng yammer](https://docs.microsoft.com/yammer/work-with-external-users/disable-external-messaging).
+Để biết thêm thông tin, [hãy xem Tắt nhắn tin bên ngoài trong Yammer mạng.](https://docs.microsoft.com/yammer/work-with-external-users/disable-external-messaging)
   
