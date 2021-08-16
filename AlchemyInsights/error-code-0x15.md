@@ -1,5 +1,5 @@
 ---
-title: Mã lỗi 0x15
+title: Trình xác định 0x15
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,24 +12,24 @@ ms.custom:
 - "919"
 - "2000022"
 ms.assetid: 0d566afe-b21f-4f1b-8ca9-4b4d3b0f5435
-description: Nếu bạn nhận được lỗi trong khi kích hoạt Office 2013 về triển khai dịch vụ trên máy tính từ xa (RDS), hãy cân nhắc việc bật ADAL bằng cách chỉnh sửa sổ đăng ký.
-ms.openlocfilehash: deb2ac4b0fb6a7b2e0045ff1b0ba95ad6e5e4a3a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+description: Nếu bạn đang nhận được lỗi trong khi kích hoạt Office 2013 trên triển khai Dịch vụ Máy tính Từ xa (RDS), hãy cân nhắc việc bật ADAL bằng cách chỉnh sửa sổ đăng ký.
+ms.openlocfilehash: 247686bf26c11d07ed118bdb1ba190fc718e87cf140b88f79b8aa0b40c827b4d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47709209"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54100784"
 ---
-# <a name="error-while-activation-office-2013-on-remote-desktop-services"></a>Lỗi trong khi kích hoạt Office 2013 trên máy tính từ xa dịch vụ
+# <a name="error-while-activation-office-2013-on-remote-desktop-services"></a>Lỗi trong khi kích Office 2013 trên Dịch vụ Máy tính Từ xa
 
-Nếu bạn nhận được lỗi trong khi kích hoạt Office 2013 về triển khai dịch vụ trên máy tính từ xa (RDS), hãy cân nhắc việc bật ADAL bằng cách chỉnh sửa sổ đăng ký.
+Nếu bạn đang nhận được lỗi trong khi kích hoạt Office 2013 trên triển khai Dịch vụ Máy tính Từ xa (RDS), hãy cân nhắc việc bật ADAL bằng cách chỉnh sửa sổ đăng ký.
   
-|**Khóa sổ đăng ký**|**Kiểu**|**Đáng**|
+|**Khóa đăng ký**|**Nhập**|**Giá trị**|
 |:-----|:-----|:-----|
-|HKEY_CURRENT_USER \Software\Microsoft\Office\15.0\Common\Identity\EnableADAL  <br/> |REG_DWORD  <br/> |1  <br/> |
+|HKEY_CURRENT_USER\Software\Microsoft\Office\15.0\Common\Identity\EnableADAL  <br/> |REG_DWORD  <br/> |1  <br/> |
 
-Để biết thêm thông tin, hãy xem [bật xác thực hiện đại cho Office 2013 trên các thiết bị chạy Windows](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication).
+Để biết thêm thông tin, [hãy xem mục Bật Xác thực Hiện đại cho Office 2013 trên Windows cụ thể.](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication)
   
 > [!NOTE]
->  ADAL được bật theo mặc định trong các ứng dụng Microsoft 365 dành cho doanh nghiệp và Office 2016. Dịch vụ trên máy tính từ xa (RDS) trước đây đã có tên là dịch vụ Terminal.
+>  ADAL được bật theo mặc định trong Ứng dụng Microsoft 365 dành cho doanh nghiệp lớn và Office 2016. Dịch vụ Máy tính Từ xa (RDS) trước đây được đặt tên là Terminal Services.
   

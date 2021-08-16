@@ -1,5 +1,5 @@
 ---
-title: Dịch vụ quản lý quyền của Azure (RMS)
+title: Ngừng sử dụng Azure Rights Management Service (RMS)
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,27 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "5070"
 - "9002278"
-ms.openlocfilehash: 6bacfd0e383c1a7c02b50e60f9626a733ee68cbc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9347eb827c5225042b4c84a4a324c8dcba2b5403bf033b86b498047ba696bfce
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47745838"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54031834"
 ---
-# <a name="decommission-azure-rights-management-service-rms"></a>Dịch vụ quản lý quyền của Azure (RMS)
+# <a name="decommission-azure-rights-management-service-rms"></a>Ngừng sử dụng Azure Rights Management Service (RMS)
 
-Hãy đảm bảo rằng bạn có bản sao khóa đối tượng thuê thông tin Azure và tên miền phát hành đáng tin cậy phù hợp (TPD) trước khi bạn hủy kích hoạt dịch vụ quản lý quyền Azure.
+Hãy đảm bảo rằng bạn có bản sao khóa đối tượng thuê Azure Information Protection và tên miền phát hành đáng tin cậy phù hợp (TPD) trước khi hủy kích hoạt dịch vụ Azure Rights Management.
 
-Để biết thêm về các tài nguyên bổ sung về việc ngừng hoạt động và hủy kích hoạt bảo vệ thông tin Azure, hãy xem:
+Để biết thêm tài nguyên về việc ngừng hoạt động và hủy kích hoạt bảo vệ cho Azure Information Protection, hãy xem:
 
-- [Hướng dẫn: đặt cấu hình thiết đặt chính sách bảo vệ thông tin Azure và tạo nhãn mới](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)
-- [Thông tin về việc bảo vệ Azure là gì?](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)
-- [Hướng dẫn cách làm cho các tình huống thông thường sử dụng bảo vệ thông tin Azure](https://docs.microsoft.com/azure/information-protection/how-to-guides)  
+- [Hướng dẫn: Đặt cấu hình cài đặt chính sách Azure Information Protection và tạo nhãn mới](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)
+- [Azure Information Protection là gì?](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)
+- [Hướng dẫn cách thực hiện cho các kịch bản phổ biến sử dụng Azure Information Protection](https://docs.microsoft.com/azure/information-protection/how-to-guides)  
     
-- [Cách di chuyển nhãn bảo vệ thông tin Azure sang nhãn nhạy cảm nhất quán](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels)  
+- [Cách di chuyển nhãn Azure Information Protection sang nhãn nhạy cảm hợp nhất](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels)  
     
-- [Giá bảo vệ thông tin Azure](https://azure.microsoft.com/pricing/details/information-protection)  
+- [Giá cả Của Azure Information Protection](https://azure.microsoft.com/pricing/details/information-protection)  
     
-- [Yêu cầu bảo vệ thông tin Azure](https://docs.microsoft.com/azure/information-protection/get-started/requirements)  
+- [Yêu cầu của Azure Information Protection](https://docs.microsoft.com/azure/information-protection/get-started/requirements)  
     
-- [Làm thế nào để kích hoạt dịch vụ bảo vệ quyền quản lý từ cổng thông tin Azure](https://docs.microsoft.com/azure/information-protection/deploy-use/activate-azure)
+- [Cách kích hoạt dịch vụ bảo vệ Quản trị Quyền từ cổng thông tin Azure](https://docs.microsoft.com/azure/information-protection/deploy-use/activate-azure)

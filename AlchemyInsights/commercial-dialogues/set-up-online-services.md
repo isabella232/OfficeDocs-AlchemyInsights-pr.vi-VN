@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 94651ca9efff3c6b7ab1ba858e092247195679f9
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 55ee011c16fe9bd7a35cde1a73dd610d988f227c316f379adab0483973ab903d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747475"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54070418"
 ---
 # <a name="set-up-online-services"></a>Thiết lập các dịch vụ trực tuyến
 
 Để thiết lập các dịch vụ trực tuyến, hãy thực hiện các bước sau đây:
 
-1. Trên trang **Thêm bản ghi cho trang web của bạn** : a. Bấm vào **tiếp theo**, nếu bạn không có trang web. Sau đó, bạn đất trên trang **Cập Nhật thiết đặt DNS** .
-    b. Tìm bản ghi tại nhà cung cấp lưu trữ DNS của bạn, nếu bạn có một trang web. Sau đó, sao chép và dán nó vào trang.
-2. Bấm **tiếp** để đi đến trang **Cập Nhật thiết đặt DNS** .
+1. Trên trang **Thêm bản ghi cho website của bạn:** a. Bấm **tiếp**, nếu bạn không có website. Sau đó, bạn đến trang **Cập nhật thiết đặt DNS.**
+    b. Tìm bản ghi tại nhà cung cấp lưu trữ DNS của bạn, nếu bạn có website. Sau đó, sao chép và dán vào trang.
+2. Bấm **vào Tiếp** theo để đi đến trang Cập nhật thiết **đặt** DNS.

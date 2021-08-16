@@ -1,5 +1,5 @@
 ---
-title: Triển khai Office cho trình hướng dẫn người dùng từ xa
+title: Trình hướng dẫn Triển Office cho người dùng từ xa
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004224"
 - "7433"
-ms.openlocfilehash: bef318409ffc54ec25d97eca5120374f277a684c
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: 0f3234d26cece5bcff586b7b654635a3fc71de98ed11653e3d52699e1bc965de
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49679568"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54031464"
 ---
-# <a name="deploy-office-to-remote-users-wizard"></a>Triển khai Office cho trình hướng dẫn người dùng từ xa
+# <a name="deploy-office-to-remote-users-wizard"></a>Trình hướng dẫn Triển Office cho người dùng từ xa
 
-Bây giờ, khi làm việc từ xa là Norm, người dùng cần nhận các thiết đặt Office của tổ chức bạn khi họ không kết nối với mạng nội bộ của bạn hoặc khi sử dụng các thiết bị của riêng họ.
+Bây giờ khi làm việc từ xa là tiêu chuẩn, người dùng cần nhận các thiết đặt Office từ tổ chức của bạn khi họ không được kết nối với mạng nội bộ của bạn hoặc khi sử dụng thiết bị của riêng họ.
 
-Sử dụng trình hướng dẫn [triển khai Office cho người dùng từ xa](https://go.microsoft.com/fwlink/?linkid=2149564) để tạo một bản cài đặt Office tùy chỉnh và sau đó gửi cho người dùng một tập lệnh PowerShell đã tạo sẽ liên tục cài đặt Office với cấu hình của bạn.
+Sử dụng trình hướng dẫn Triển khai [Office](https://go.microsoft.com/fwlink/?linkid=2149564) đến người dùng từ xa để tạo bản cài đặt Office tùy chỉnh, rồi gửi cho người dùng một tập lệnh PowerShell được tạo để cài đặt dễ dàng Office với cấu hình của bạn.

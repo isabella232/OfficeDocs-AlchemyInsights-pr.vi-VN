@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11107"
 - "9005477"
-ms.openlocfilehash: a878a35ba9b530ce22ca7c263d20bd942d6896a8
-ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
+ms.openlocfilehash: 3aacc3c6675f4102a5b34a435c862215dbfd0479b75549d608ed3c91021ed3d7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52233556"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54031428"
 ---
 # <a name="deploying-add-ins-for-microsoft-365-apps"></a>Triển khai phần bổ trợ cho mọi Ứng dụng Microsoft 365
 
@@ -27,7 +27,7 @@ Triển khai tập trung là cách được đề xuất để triển khai Offi
 **Lưu ý:** Để cài đặt các phần bổ trợ dành cho Office người dùng cá nhân, hãy xem mục Xem, quản lý và cài đặt phần bổ trợ [trong Office trình.](https://support.microsoft.com/topic/view-manage-and-install-add-ins-in-office-programs-16278816-1948-4028-91e5-76dca5380f8d) Ngoài ra, hãy đảm bảo đã bật tính năng mua riêng Office Store của Store. Để biết chi tiết, hãy xem Ngăn tải xuống phần bổ trợ bằng cách tắt Office Store trên tất cả các máy khách [(Ngoại trừ Outlook).](https://docs.microsoft.com/microsoft-365/admin/manage/manage-addins-in-the-admin-center?view=o365-worldwide#prevent-add-in-downloads-by-turning-off-the-office-store-across-all-clients-except-outlook)
 
 1. Đảm bảo rằng môi trường của bạn đáp ứng các yêu cầu về triển khai phần bổ trợ sử dụng Triển khai Tập trung. Để biết chi tiết, hãy xem [Yêu cầu](https://docs.microsoft.com/microsoft-365/admin/manage/centralized-deployment-of-add-ins?#requirements).
-2. Đi tới Cài đặt **Tích**  >  **hợp Tải** ứng  >  **dụng** trong trung tâm quản trị Microsoft 365 để triển khai các phần bổ trợ. 
+2. Đi **tới** Cài đặt  >  **Tích hợp**  >  **Tải ứng** dụng trong trung Trung tâm quản trị Microsoft 365 để triển khai các phần bổ trợ. 
 
 Lưu ý: 
 
@@ -46,6 +46,6 @@ Lưu ý:
 [Triển khai các phần bổ trợ trong trung tâm quản trị](https://docs.microsoft.com/microsoft-365/admin/manage/manage-deployment-of-add-ins) 
  [Quản lý phần bổ trợ trong trung tâm quản trị](https://docs.microsoft.com/microsoft-365/admin/manage/manage-addins-in-the-admin-center) 
  [Sử dụng các lệnh ghép ngắn PowerShell Triển khai Tập trung để quản lý phần bổ trợ](https://docs.microsoft.com/microsoft-365/enterprise/use-the-centralized-deployment-powershell-cmdlets-to-manage-add-ins) 
- [Phát hành Office bổ trợ bằng Triển khai Tập trung thông qua Trung tâm quản Microsoft 365 chính](https://docs.microsoft.com/office/dev/add-ins/publish/centralized-deployment#publish-an-office-add-in-via-centralized-deployment) 
+ [Phát hành Office bổ trợ bằng Triển khai Tập trung thông qua Trung tâm quản trị Microsoft 365](https://docs.microsoft.com/office/dev/add-ins/publish/centralized-deployment#publish-an-office-add-in-via-centralized-deployment) 
  [Khắc phục sự cố: Người dùng không nhìn thấy các phần bổ trợ](https://docs.microsoft.com/office365/troubleshoot/access-management/user-not-seeing-add-ins) 
  [Khắc phục lỗi người dùng Office Bổ trợ](https://docs.microsoft.com/office/dev/add-ins/testing/testing-and-troubleshooting)
