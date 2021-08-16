@@ -1,5 +1,5 @@
 ---
-title: Làm thế nào để cập nhật số đơn đặt hàng trong Azure Portal
+title: Cách cập nhật số Đơn đặt hàng trong Cổng thông tin Azure
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7293"
-ms.openlocfilehash: df35af1925e9389fff810bed17f580f087e88e20
-ms.sourcegitcommit: 523098560e54a50184a99c974809dfbfffadacb5
+ms.openlocfilehash: 2873afabc5320fd69d219886187231b64569dd3bedf0ffe34a8ed2485456f966
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49679184"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54028818"
 ---
-# <a name="how-to-update-an-purchase-order-number-in-azure-portal"></a>Làm thế nào để cập nhật số đơn đặt hàng trong Azure Portal
+# <a name="how-to-update-an-purchase-order-number-in-azure-portal"></a>Cách cập nhật số Đơn đặt hàng trong Cổng thông tin Azure
 
-Bạn có thể cập nhật số thứ tự mua (PO) trong cổng thông tin Azure. Để thực hiện điều này, bạn cần có vai trò chủ sở hữu hoặc người đóng góp trên tài khoản thanh toán cho thỏa thuận khách hàng của Microsoft (MCA). 
+Bạn có thể cập nhật số Đơn đặt hàng (PO) trong Cổng thông tin Azure. Để thực hiện việc này, bạn sẽ cần phải có vai trò chủ sở hữu hoặc người đóng góp trên tài khoản thanh toán cho Thỏa thuận Khách hàng của Microsoft (MCA). 
 
-Để cập nhật số PO của bạn:
-1. Đăng nhập vào cổng thông tin Azure và dẫn hướng đến **quản lý chi phí + thanh toán**.
-1. Bấm vào **hồ sơ thanh toán** và chọn một hồ sơ thanh toán để cập nhật số Po.
-1. Bấm **thuộc tính** và chọn **Cập Nhật số Po**. 
+Để cập nhật Số PO của bạn:
+1. Đăng nhập vào cổng thông tin Azure và dẫn hướng đến Quản **lý Chi phí + Thanh toán**.
+1. Bấm **Hồ sơ Thanh toán** và chọn hồ sơ thanh toán để cập nhật Số PO.
+1. Bấm **Thuộc tính** và chọn Cập nhật số **PO.** 
 
 **Tài liệu được đề xuất**
 
 - [Tìm hiểu về hóa đơn MCA của bạn](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-understand-your-invoice)
-- [Cập Nhật thiết đặt tài khoản thanh toán](https://docs.microsoft.com/microsoft-store/update-microsoft-store-for-business-account-settings)  
+- [Cập nhật cài đặt tài khoản thanh toán](https://docs.microsoft.com/microsoft-store/update-microsoft-store-for-business-account-settings)  

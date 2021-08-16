@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "848"
 - "6700001"
-ms.openlocfilehash: e423e489d64bce211495b21e58cf74cbc7dc10df
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: e2bc74fb2b38140114455f9a923a07b5a5403aa49abca28432dd617db965b294
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820524"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54046558"
 ---
-# <a name="troubleshoot-issues-with-mdm-authority-in-microsoft-intune"></a>Khắc phục sự cố với cơ quan MDM trong Microsoft InTune
+# <a name="troubleshoot-issues-with-mdm-authority-in-microsoft-intune"></a>Khắc phục sự cố với cơ quan MDM trong Microsoft Intune
 
-Dưới đây là một số bài viết hữu ích về việc bắt đầu với InTune:
+Dưới đây là một số bài viết hữu ích về việc bắt đầu với Intune:
 
-- [InTune là gì?](https://docs.microsoft.com/intune/what-is-intune)
-- [Cách thiết lập InTune lần đầu tiên](https://docs.microsoft.com/intune/setup-steps)
-- [Sử dụng và dẫn hướng InTune](https://docs.microsoft.com/intune/tutorial-walkthrough-intune-portal)
+- [Intune là gì?](https://docs.microsoft.com/intune/what-is-intune)
+- [Cách thiết lập Intune lần đầu tiên](https://docs.microsoft.com/intune/setup-steps)
+- [Sử dụng và dẫn hướng Intune](https://docs.microsoft.com/intune/tutorial-walkthrough-intune-portal)
 
-Nếu bạn đang gặp vấn đề với cơ quan MDM, hãy tham khảo mục [thay đổi cơ quan Mtune MDM](https://docs.microsoft.com/alchemyinsights/change-mdm-authority).
+Nếu bạn đang gặp sự cố với cơ quan MDM của mình, hãy tham khảo mục [Thay đổi cơ quan MDM của Intune](https://docs.microsoft.com/alchemyinsights/change-mdm-authority).

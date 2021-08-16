@@ -1,5 +1,5 @@
 ---
-title: Bỏ qua khóa kích hoạt trên các thiết bị iOS giám sát bằng InTune
+title: Khóa kích hoạt bỏ qua trên các thiết bị iOS được sử dụng với Intune
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,50 +13,50 @@ ms.collection: Adm_O365
 ms.custom:
 - "1277"
 - "6700008"
-ms.openlocfilehash: 743b5917c08b0a49a8c5791bdeb59a1672dd0fc7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: de52ba77d3155d957372c31d465881fc7e8fcbbe657dfa35dedfee2be52e5a52
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47757322"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54046522"
 ---
-# <a name="bypass-activation-lock-on-supervised-ios-devices-with-intune"></a>Bỏ qua khóa kích hoạt trên các thiết bị iOS giám sát bằng InTune
+# <a name="bypass-activation-lock-on-supervised-ios-devices-with-intune"></a>Khóa kích hoạt bỏ qua trên các thiết bị iOS được sử dụng với Intune
 
-Khả năng bỏ qua khóa kích hoạt trên thiết bị iOS giúp bạn phục hồi dễ dàng hơn từ tình huống mà người dùng bật khóa kích hoạt trên thiết bị công ty, rồi rời khỏi công ty.
+Khả năng bỏ qua khóa kích hoạt trên thiết bị iOS sẽ giúp bạn dễ dàng phục hồi hơn từ kịch bản mà người dùng bật khóa kích hoạt trên thiết bị của công ty, rồi rời khỏi công ty.
 
-Các site Pre-requiđể bỏ qua khóa kích hoạt bao gồm:
+Điều kiện tiên quyết để bỏ qua khóa kích hoạt bao gồm:
 
-- Thiết bị là "có giám sát".
-- Khóa kích hoạt đã được kích hoạt thành công bằng cách sử dụng chính sách hạn chế thiết bị iOS trong InTune.
+- Một thiết bị là "được hỗ trợ".
+- Khóa kích hoạt được bật thành công bằng cách sử dụng chính sách hạn chế Thiết bị iOS trong Intune.
 
 Ngoài ra, khi bỏ qua khóa kích hoạt, bạn nên:
 
-- Thể chất có thiết bị bị xóa sổ.
-- Sao chép mã trước khi bạn phát hành xóa.
+- Về mặt vật lý, sở hữu thiết bị bị xóa.
+- Sao chép mã trước khi thực hiện xóa.
 
-**Lưu ý:** Mã xóa không phân biệt chữ hoa/thường, vì vậy các ký tự "-" không bắt buộc.
+**Lưu ý:** Mã xóa không nhạy cảm chữ hoa/thường, vì vậy không bắt buộc dùng ký tự "-".
 
-Để biết chi tiết, hãy xem [bỏ qua khóa kích hoạt trên các thiết bị iOS có giám sát với InTune](https://docs.microsoft.com/intune/device-activation-lock-bypass).
+Để biết chi tiết, [hãy xem Bỏ qua Khóa Kích hoạt trên thiết bị iOS đã sử dụng với Intune.](https://docs.microsoft.com/intune/device-activation-lock-bypass)
 
-**DIỄN**
+**Câu hỏi thường gặp**
 
-Hỏi: **tôi đã ban hành một hành động từ xa để loại bỏ dữ liệu công ty khỏi thiết bị và bây giờ nó bị kẹt trong trạng thái đang chờ xử lý.**
+Hỏi: Tôi đã phát hành một hành động từ xa để loại bỏ dữ liệu công ty khỏi thiết bị, và bây giờ nó đang **kẹt ở trạng thái đang chờ xử lý.**
 
-A: đối với hành động từ xa để hoàn thành thành công, thiết bị đích phải trực tuyến và khỏe mạnh. Trong những tình huống sau đây, hành động từ xa vẫn nằm trong trạng thái đang chờ 30 ngày hoặc cho đến khi thiết bị thừa nhận lệnh khi thiết bị:
+Đáp: Để hoàn tất thành công hành động từ xa, thiết bị mục tiêu phải trực tuyến và hoạt động tốt. Trong các tình huống sau, hành động từ xa nằm ở trạng thái chờ xử lý trong 30 ngày hoặc cho đến khi thiết bị xác nhận lệnh khi thiết bị:
 
 - Không có kết nối.
-- Mất trạng thái quản lý của nó bằng InTune.
+- Mất trạng thái quản lý của nó với Intune.
 
-Nếu bạn cho rằng thiết bị không còn được kiểm tra và nó sẽ không loại bỏ dữ liệu công ty, hãy chọn xóa bỏ. Việc xóa bỏ bản ghi thiết bị để nó không còn xuất hiện trong danh sách các thiết bị InTune. Đối với thiết bị hoạt động trở lại, người dùng của nó phải đăng ký lại thiết bị.
+Nếu bạn cho rằng thiết bị không còn kiểm nhập và thiết bị đó sẽ không loại bỏ dữ liệu công ty, hãy chọn Xóa. Việc xóa sẽ loại bỏ bản ghi thiết bị để bản ghi không còn xuất hiện trong danh sách thiết bị Intune. Để thiết bị hoạt động trở lại, người dùng của thiết bị phải đăng ký lại thiết bị.
 
-Hỏi: **tại sao những hành động từ xa nhất định không sẵn dùng cho tôi để sử dụng?**
+Hỏi: Tại **sao một số hành động từ xa nhất định không sẵn dùng để tôi dùng?**
 
-A: không phải tất cả các nền tảng hỗ trợ tất cả các hành động thiết bị từ xa. Các hành động từ xa sau đây là nền tảng cụ thể.
+A: Không phải tất cả các nền tảng đều hỗ trợ tất cả các hành động của thiết bị từ xa. Các hành động từ xa sau đây dành riêng cho nền tảng.
 
-- Bỏ qua khóa kích hoạt (chỉ dành cho iOS)
-- Bắt đầu mới (chỉ dành cho Windows)
-- Chế độ bị mất (chỉ dành cho iOS)
-- Định vị thiết bị (chỉ dành cho iOS)
-- Khởi động lại (chỉ dành cho Windows)
+- Bỏ qua Khóa Kích hoạt (chỉ iOS)
+- Bắt đầu Từ đầu (Windows riêng)
+- Chế độ bị mất (chỉ iOS)
+- Định vị thiết bị (chỉ iOS)
+- Khởi động lại (Windows lại)
 
-Để biết thêm chi tiết về từng hành động, hãy xem các [hành động của thiết bị sẵn dùng](https://docs.microsoft.com/intune/device-management#available-device-actions).
+Để biết thêm chi tiết về từng hành động, hãy xem Hành [động thiết bị sẵn dùng](https://docs.microsoft.com/intune/device-management#available-device-actions).

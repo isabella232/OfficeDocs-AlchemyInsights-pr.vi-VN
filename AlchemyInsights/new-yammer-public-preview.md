@@ -1,5 +1,5 @@
 ---
-title: Bản xem trước công khai yammer mới
+title: Bản xem trước Yammer công khai mới
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002877"
 - "5566"
-ms.openlocfilehash: 47ea8e4d45c6ae2ec32cda6abc05c993bbcac4c8
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7e26450d7a19e03cb0ff239c00b3bce2b46d6d7aed8191e949ef6c0711aa9035
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51829686"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54065234"
 ---
-# <a name="new-yammer-public-preview"></a>Bản xem trước công khai yammer mới
+# <a name="new-yammer-public-preview"></a>Bản xem trước Yammer công khai mới
 
 **Thông tin phát hành**
 
-Trải nghiệm yammer mới được khánh thành trong Microsoft Ignite 2019. [Yammer mới sẽ trở nên sẵn dùng dưới dạng bản xem trước công khai](https://docs.microsoft.com/yammer/get-started-with-yammer/newyammer-faq) với buổi giới thiệu bắt đầu từ đầu tháng năm 2020. Trung tâm thông báo quản trị đã được Cập Nhật với thông báo MC211416 cho bản phát hành này.
+Trải nghiệm Yammer đã được công bố tại Microsoft Ignite 2019. Phiên [bản mới Yammer sẽ sẵn có dưới dạng bản xem](https://docs.microsoft.com/yammer/get-started-with-yammer/newyammer-faq) trước công khai và sẽ bắt đầu triển khai vào đầu Tháng Năm 2020. Trung tâm Thông báo Quản trị đã được cập nhật với thông báo MC211416 cho bản phát hành này.
 
-**Hướng dẫn người quản trị**
+**Hướng dẫn dành cho người quản trị**
 
-- Người quản trị mạng yammer có thể [cấu hình việc bật tắt truy nhập cho bản xem trước yammer mới](https://docs.microsoft.com/yammer/get-started-with-yammer/administrative-settings-opt-in-newyammer) thông qua cổng thông tin quản trị mạng yammer. Trong bản xem trước công khai, người dùng sẽ luôn có thể truy nhập vào một nối kết trực tiếp đến trải nghiệm mới. Nếu tổ chức của bạn muốn loại bỏ tất cả quyền truy nhập vào yammer mới trong giai đoạn xem trước, bạn sẽ cần liên hệ với bộ phận hỗ trợ của Microsoft.
+- Yammer quản trị viên mạng có thể cấu hình nút bật tắt truy nhập cho bản xem [trước Yammer thông](https://docs.microsoft.com/yammer/get-started-with-yammer/administrative-settings-opt-in-newyammer) qua cổng thông Yammer Quản trị Mạng. Trong khi xem trước công khai, người dùng sẽ luôn có thể truy nhập liên kết trực tiếp đến trải nghiệm mới. If your organization wants to remove all access to the new Yammer during the preview phase, you will need to contact Microsoft support.
 
-- Bản xem trước công khai yammer mới không được hỗ trợ. Thông tin về việc [ngắt/khắc phục sự hỗ trợ khách hàng cho bản xem trước công khai](https://docs.microsoft.com/yammer/get-started-with-yammer/newyammer-faq#yammer-preview-customer-support) sẵn dùng.
+- Bản xem trước Yammer công khai mới không được hỗ trợ. Có sẵn thông [tin về ngắt/khắc phục sự cố hỗ trợ khách](https://docs.microsoft.com/yammer/get-started-with-yammer/newyammer-faq#yammer-preview-customer-support) hàng đối với bản xem trước công khai.
 
-- Các yêu cầu về tính năng và các phản hồi khác sẽ được cung cấp thông qua tính năng phản hồi trong phần đầu trang bộ. Cũng có thể cung cấp phản hồi với các đồng nghiệp thông qua [cộng đồng kỹ thuật mới trong bản xem trước yammer](https://techcommunity.microsoft.com/t5/new-yammer-preview/bd-p/NewYammerPreview).
+- Các yêu cầu tính năng và phản hồi khác nên được cung cấp thông qua tính năng phản hồi trong tiêu đề của bộ sản phẩm. Bạn cũng có thể cung cấp phản hồi với đồng nghiệp thông [qua cộng đồng kỹ Yammer xem trước mới.](https://techcommunity.microsoft.com/t5/new-yammer-preview/bd-p/NewYammerPreview)
 
-- Các bản Cập Nhật tiếp theo sẽ được truyền đạt thông qua Trung tâm thông báo quản trị và các bản cập nhật tính năng sẽ được ghi chú trong [câu hỏi thường gặp của yammer mới](https://docs.microsoft.com/yammer/get-started-with-yammer/newyammer-faq).
+- Các bản cập nhật thêm sẽ được thông báo qua Trung tâm Thông báo Quản trị, và các bản cập nhật tính năng sẽ được ghi chú trong phần Câu [hỏi thường gặp Yammer trước mới.](https://docs.microsoft.com/yammer/get-started-with-yammer/newyammer-faq)

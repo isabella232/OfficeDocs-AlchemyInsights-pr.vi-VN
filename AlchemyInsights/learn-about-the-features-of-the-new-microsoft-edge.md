@@ -1,5 +1,5 @@
 ---
-title: Tìm hiểu về các tính năng của Microsoft Edge mới
+title: Tìm hiểu về các tính năng của phiên bản Microsoft Edge
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,26 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004433"
 - "8226"
-ms.openlocfilehash: 9c139589d1ab6fef122acabe3341259ab3722b03
-ms.sourcegitcommit: 309b9f3e6e2ff622f95bb860d337d2c05b7bbe54
+ms.openlocfilehash: 1ecce6cde278b50c88405911336f24a4d4a59752c661afec62536d6dd824662e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/15/2021
-ms.locfileid: "50841647"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54054340"
 ---
-# <a name="learn-about-the-features-of-the-new-microsoft-edge"></a>Tìm hiểu về các tính năng của Microsoft Edge mới
+# <a name="learn-about-the-features-of-the-new-microsoft-edge"></a>Tìm hiểu về các tính năng của phiên bản Microsoft Edge
 
-Microsoft Edge được xây dựng nhằm cung cấp khả năng tương thích và hiệu suất lớp học thế giới, bảo mật và quyền riêng tư mà bạn xứng đáng và các tính năng mà sẽ trao quyền cho bạn để tận hưởng tối đa web:
+Microsoft Edge được xây dựng để cung cấp tính tương thích và hiệu suất đẳng cấp thế giới, bảo mật và quyền riêng tư mà bạn không có, cũng như các tính năng sẽ trao quyền cho bạn tận dụng tối đa web:
 
-- **Duyệt với hiệu suất đẳng cấp thế giới:** Mong đợi tốc độ, hiệu suất và tính tương thích với tất cả các site và phần mở rộng yêu thích của bạn.
-- **Tải xuống ngay hoặc chờ bản cập nhật tự động:** Tải xuống trình duyệt ngay, hoặc Cập Nhật PC chạy Windows 10 của bạn và tải Microsoft Edge mới được cài đặt tự động.
-- **Bắt đầu trở nên:** Nhập mục yêu thích và mật khẩu của bạn từ các trình duyệt khác để có mọi thứ bạn cần ở một nơi.
-- **Tiết kiệm tiền, với giá so sánh:** Sử dụng tuyển tập Microsoft Edge để so sánh giá cả các nhà bán lẻ, với một cú bấm chuột duy nhất.
-- **Duyệt với quyền riêng tư và bảo mật hơn:**
-  - **Kiểm soát dữ liệu của bạn:** Xem trackers độc hại ngay khi họ bị trình duyệt chặn.
-  - **Giữ riêng tư trực tuyến:** Sử dụng chế độ InPrivate để đảm bảo rằng lịch sử duyệt và tìm kiếm của bạn sẽ không được lưu vào tài khoản hoặc thiết bị của bạn.
-  - **Giữ an toàn cho các tài khoản trực tuyến của bạn:** Nhận thông báo ngay khi chứng danh của bạn bị xâm phạm.
+- **Duyệt với hiệu suất đẳng cấp thế giới:** Tốc độ, hiệu suất và tính tương thích với tất cả các site và phần mở rộng yêu thích của bạn.
+- **Tải xuống ngay hoặc chờ cập nhật tự động:** Tải xuống trình duyệt ngay hoặc cập nhật PC Windows 10 của bạn và tự động cài đặt Microsoft Edge này.
+- **Bắt đầu liền mạch:** Nhập các mục yêu thích và mật khẩu của bạn từ các trình duyệt khác để lưu mọi thứ bạn cần ở cùng một nơi.
+- **Tiết kiệm tiền, với so sánh giá:** Sử dụng Microsoft Edge các bộ sưu tập để so sánh giá cả ở nhiều nhà bán lẻ, chỉ với một lần bấm chuột.
+- **Duyệt với nhiều quyền riêng tư và bảo mật hơn:**
+  - **Kiểm soát dữ liệu của bạn:** Xem các trình theo dõi độc hại ngay khi chúng bị trình duyệt chặn.
+  - **Luôn riêng tư trực tuyến:** Sử dụng chế độ InPrivate để đảm bảo rằng lịch sử duyệt và tìm kiếm của bạn không được lưu vào tài khoản hoặc thiết bị của bạn.
+  - **Giữ an toàn cho tài khoản trực tuyến của bạn:** Nhận được thông báo ngay khi thông tin xác thực của bạn bị xâm phạm.
 
-- **Duyệt trên hầu hết các thiết bị:** Duyệt trên hầu hết các thiết bị chạy trên các hệ điều hành chính.
+- **Duyệt trên hầu hết các thiết bị:** Duyệt trên hầu hết các thiết bị chạy trên hệ điều hành chính.
 
-Để tìm hiểu thêm, hãy xem [các tính năng của Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2146817).
+Để tìm hiểu thêm, hãy [xem Tính năng của Microsoft Edge.](https://go.microsoft.com/fwlink/?linkid=2146817)

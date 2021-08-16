@@ -1,5 +1,5 @@
 ---
-title: Gia nhập cuộc họp nhóm
+title: Tham dự Teams họp
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2667"
 - "9000735"
-ms.openlocfilehash: caa0cb4aa9a76cf1e18eafb73273c2fe5cc6a6df
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1ebd54843fb99e144580dc26ce382039b5a6b0c3d85d1be45b2b49a0e92f5d46
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51824025"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54054347"
 ---
-# <a name="join-a-meeting-in-teams"></a>Gia nhập cuộc họp trong nhóm
+# <a name="join-a-meeting-in-teams"></a>Tham gia cuộc họp trong Teams
 
-Để tham gia cuộc họp nhóm, trước tiên, đặt chính sách cuộc họp, sau đó trực tiếp người dùng tham gia từ các thiết bị ưa thích của họ:
+Để tham gia cuộc họp Teams, trước tiên hãy đặt chính sách cuộc họp, sau đó là hướng dẫn người dùng gia nhập từ thiết bị ưa thích của họ:
 
-- Đặt chính sách cuộc họp kiểm soát người đó sẽ có thể gia nhập cuộc họp với tư cách là [người tham gia hoặc khách](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#meeting-policy-settings---participants--guests). 
+- Đặt chính sách cuộc họp kiểm soát những người sẽ có thể tham gia cuộc họp với tư cách [người dự hoặc khách.](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#meeting-policy-settings---participants--guests) 
 
-- Sử dụng các [lệnh ghép ngắn](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) của Microsoft nhóm PowerShell để giúp thay đổi chính sách.    
+- Sử dụng Microsoft Teams [lệnh ghép ngắn PowerShell để thực hiện](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) thay đổi chính sách.    
 
-**Lưu ý:** Có thể mất tới 24 giờ để thay đổi chính sách có hiệu lực.
+**Lưu ý:** Có thể mất tới 24 giờ để các thay đổi chính sách có hiệu lực.

@@ -1,5 +1,5 @@
 ---
-title: Calories-SYN-quy tắc
+title: Cal-Syn-Rule
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "3416"
 - "9001435"
-ms.openlocfilehash: 8b1880a220fb49a99e0d28d3c322f15c70f01f58
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 78c3c0d1fa2847178c7f731f26b02f31435225ea6f31a11141197294a283fd0b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820020"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54046486"
 ---
-# <a name="problems-syncing-calendar-and-contacts-on-phone-or-tablet"></a>Các vấn đề về đồng bộ lịch và liên hệ trên điện thoại hoặc máy tính bảng
+# <a name="problems-syncing-calendar-and-contacts-on-phone-or-tablet"></a>Các sự cố về đồng bộ lịch và danh bạ trên điện thoại hoặc máy tính bảng
 
-Để khắc phục sự cố khi đồng bộ lịch và liên hệ của bạn với thiết bị di động, hãy xem mục [không thể đồng bộ lịch và liên hệ với điện thoại hoặc máy tính bảng của tôi](https://support.office.com/article/can-t-sync-calendar-and-contacts-with-my-phone-or-tablet-8479d764-b9f5-4fff-ba88-edd7c265df9f).
+Để khắc phục sự cố về đồng bộ lịch và danh bạ của bạn với thiết bị di động, hãy xem Không thể đồng bộ lịch và danh bạ [với điện thoại hoặc máy tính bảng của tôi](https://support.office.com/article/can-t-sync-calendar-and-contacts-with-my-phone-or-tablet-8479d764-b9f5-4fff-ba88-edd7c265df9f).
