@@ -1,5 +1,5 @@
 ---
-title: Tham chiếu API trong Microsoft graph REST
+title: Tham chiếu API REST của Microsoft Graph
 ms.author: pebaum
 author: pebaum
 manager: mnirke
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "7071"
 - "9004013"
-ms.openlocfilehash: 8401b153a3ceb4cd854c7441689cf1e10d18bb07
-ms.sourcegitcommit: 7d1b9f098235000b84cd74c032861ad14bfa6fc9
+ms.openlocfilehash: f8ecb8081ee169f88ef265f4b108919df29a0ca7146835d7e0c4e85793082136
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 11/18/2020
-ms.locfileid: "49447436"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54012546"
 ---
-# <a name="microsoft-graph-rest-api-reference"></a>Tham chiếu API trong Microsoft graph REST
+# <a name="microsoft-graph-rest-api-reference"></a>Tham chiếu API REST Graph Microsoft
 
-API đồ thị-tập hợp trên điểm cuối v 1.0 nằm trong trạng thái sẵn sàng chung (GA), và đã trải qua quá trình xem xét và phản hồi nghiêm ngặt với khách hàng nhằm đáp ứng các nhu cầu thiết thực, sản xuất.
+Các tập hợp API Graph trên điểm cuối v1.0 ở trạng thái sẵn sàng chung (GA) và đã trải qua một quy trình xem lại và phản hồi nghiêm ngặt với khách hàng để đáp ứng nhu cầu thực hành, sản xuất.
 
-- Để biết thêm thông tin về biểu đồ API v 1.0, hãy xem [tham khảo Microsoft GRAPH Rest API v 1.0](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-1.0&preserve-view=true). 
-- Để biết thêm thông tin về phiên bản beta của đồ thị API, hãy xem [tham khảo điểm cuối của Microsoft graph Beta](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-beta&preserve-view=true).
+- Để biết thêm thông tin Graph API v1.0, hãy xem [tham khảo Microsoft Graph REST API v1.0](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-1.0&preserve-view=true). 
+- Để biết thêm thông tin về Graph BETA của API, hãy [xem mục Tham khảo điểm cuối Microsoft Graph beta.](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-beta&preserve-view=true)
 
-Để biết thêm thông tin về Microsoft graph, hãy xem [tài liệu hướng dẫn về Microsoft graph](https://docs.microsoft.com/graph/).
+Để biết thêm thông tin về Microsoft Graph, hãy xem [Hướng dẫn sử Graph Microsoft.](https://docs.microsoft.com/graph/)
 
-Khách hàng hỗ trợ hợp nhất và Premier có thể nâng cao một vé hỗ trợ bằng cách sử dụng cổng thông tin này. Nếu bạn không có hỗ trợ thống nhất hoặc hàng đầu, bạn có thể truy nhập bộ phận hỗ trợ nhà phát triển miễn phí cho Microsoft&trên Microsoft Q. Vui lòng gửi câu hỏi của bạn ở đây: https://aka.ms/AskGraph
+Khách hàng Hỗ trợ Cao cấp và Thống nhất có thể nâng thẻ hỗ trợ bằng cổng thông tin này. Nếu bạn không có Hỗ trợ Thống nhất hoặc Cao cấp, bạn có thể truy nhập hỗ trợ nhà phát triển miễn phí cho Microsoft Graph trên Microsoft Q&A. Vui lòng đăng câu hỏi của bạn ở đây: https://aka.ms/AskGraph

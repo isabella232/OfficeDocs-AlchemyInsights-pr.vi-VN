@@ -1,5 +1,5 @@
 ---
-title: Site Hub là gì?
+title: Site hub là gì?
 ms.author: clake
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c74df953-2ddc-4375-aea0-9f410881bb2e
-ms.openlocfilehash: f6bcd7acd0562860414b72b9199a8c4a24d9bcf8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5d2523832f91c98c452ef1c21586888da236082ff551b3b1a349757b48f6e99d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47767477"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53989829"
 ---
-# <a name="whats-a-hub-site"></a>Site Hub là gì?
+# <a name="whats-a-hub-site"></a>Site hub là gì?
 
-Site Hub giúp bạn tổ chức các site và cung cấp cho họ một dẫn hướng và thương hiệu chung. Người quản trị toàn cầu hoặc SharePoint sẽ có thể tạo trang Hub và xác định người dùng nào có thể liên kết site của họ với site Hub. Để biết thêm thông tin, hãy xem [site SharePoint Hub](https://go.microsoft.com/fwlink/?linkid=869388).
+Site hub sẽ giúp bạn sắp xếp các site và cung cấp dẫn hướng phổ biến cũng như xây dựng thương hiệu cho các site. Người quản trị toàn SharePoint có thể tạo site hub và chỉ định người dùng có thể liên kết site của họ với site hub. Để biết thêm thông tin, hãy [xem SharePoint hub site](https://go.microsoft.com/fwlink/?linkid=869388).
   

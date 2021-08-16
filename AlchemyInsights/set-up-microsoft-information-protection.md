@@ -1,5 +1,5 @@
 ---
-title: Thiết lập bảo vệ thông tin của Microsoft
+title: Thiết lập Các Bảo vệ thông tin Microsoft
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -15,13 +15,13 @@ ms.custom:
 - "7429"
 - "9254"
 - "9000181"
-ms.openlocfilehash: 05ba48033cde51e3055c52d9501ea0a3f573f2a5
-ms.sourcegitcommit: bef118c00aa397cd6d8941d403fe9cfa49dd8c73
+ms.openlocfilehash: 7f798726bafac561e2339d8b1d113858288a567c1d742a39b34cb86731a68b68
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/30/2021
-ms.locfileid: "51440951"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54052012"
 ---
-# <a name="set-up-microsoft-information-protection"></a>Thiết lập bảo vệ thông tin của Microsoft
+# <a name="set-up-microsoft-information-protection"></a>Thiết lập Các Bảo vệ thông tin Microsoft
 
-Xem tổng quan về các khả năng mà bạn có thể áp dụng cho chiến lược bảo vệ thông tin của bạn để bạn có thể tự tin rằng thông tin nhạy cảm của bạn được bảo vệ. Sử dụng cách tiếp cận vòng đời bốn giai đoạn mà bạn khám phá, phân loại, bảo vệ và theo dõi thông tin nhạy cảm. [Hướng dẫn thiết lập bảo vệ thông tin của Microsoft](https://go.microsoft.com/fwlink/?linkid=2146619) cung cấp hướng dẫn để hoàn thành từng giai đoạn này.
+Xem tổng quan về các chức năng mà bạn có thể áp dụng cho chiến lược Bảo vệ Thông tin của mình để bạn có thể tự tin rằng thông tin nhạy cảm của mình được bảo vệ. Dùng phương pháp tiếp cận vòng đời bốn giai đoạn mà bạn khám phá, phân loại, bảo vệ và theo dõi thông tin nhạy cảm. Hướng [Bảo vệ thông tin Microsoft thiết lập tài liệu cung](https://go.microsoft.com/fwlink/?linkid=2146619) cấp hướng dẫn để hoàn thành từng giai đoạn trong số này.

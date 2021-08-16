@@ -1,5 +1,5 @@
 ---
-title: Giới thiệu về người quản trị yammer
+title: Giới thiệu về Yammer trị viên
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003221"
 - "9714"
-ms.openlocfilehash: fd8534d44c44f2ea8e6b0de8c361109915566868
-ms.sourcegitcommit: a6ab402f59e5ee1492bcf5ab7f18714fc251717d
+ms.openlocfilehash: a5d71f509b7006264b15549c7e8450d4ed7025b7dea3cfd80fe6f0fdf50b0b9c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "51038130"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53989745"
 ---
-# <a name="about-yammer-admins"></a>Giới thiệu về người quản trị yammer
+# <a name="about-yammer-admins"></a>Giới thiệu về Yammer trị viên
 
 **Người quản trị mạng**
 
-Người quản trị toàn cầu được tự động tăng cấp lên vai trò quản trị đã xác nhận trong mạng yammer. Trong các trường hợp sau đây, quảng cáo này có thể không xảy ra đúng:
+Người quản trị toàn cục được tự động tăng cấp lên vai trò Người quản trị đã Xác nhận trong Yammer người quản trị. Trong các trường hợp sau, chương trình khuyến mãi này có thể không diễn ra chính xác:
 
-- Nhiều mạng yammer tồn tại và người quản trị đang được đăng nhập sai. Cần phải hợp nhất [mạng](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks) để đến một mạng yammer.
-- Azure PIM đang được sử dụng. Người dùng có thể không được tăng cấp cho người quản trị toàn cầu đủ lâu để khuyến mãi xảy ra. Bản Cập Nhật tương lai đến yammer có thể giải quyết vấn đề này, nhưng tốt nhất là bạn nên thúc đẩy người dùng quản trị toàn cầu theo cách thủ công.
-- Sự cố đồng bộ tồn tại với mạng yammer. Trong trường hợp này, yêu cầu hỗ trợ sẽ được yêu cầu để điều tra thêm.
+- Nhiều mạng Yammer tồn tại và người quản trị đang đăng nhập nhầm mạng. [Hợp nhất mạng](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks) là bắt buộc để đi đến một Yammer mạng khác.
+- Azure PIM đang được sử dụng. Người dùng có thể không được tăng cấp lên người quản trị toàn cầu đủ thời gian để việc quảng bá diễn ra. Bản cập nhật trong tương lai cho Yammer thể giải quyết vấn đề này nhưng tốt nhất nên tăng cấp người dùng lên người quản trị toàn cầu theo cách thủ công.
+- Sự cố đồng bộ tồn tại với Yammer này. Trong trường hợp này, yêu cầu hỗ trợ sẽ được yêu cầu để điều tra thêm.
 
-Để biết thêm thông tin về vai trò người quản trị yammer, hãy xem [quản lý người quản trị yammer](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-admins).
+Để biết thêm thông tin về Yammer vai trò của người quản trị, hãy [xem mục Quản lý Yammer quản trị viên.](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-admins)
 
 **Người quản trị nhóm**
 
-Người quản trị nhóm cho các nhóm liên kết của Microsoft 365 được đồng bộ với tư cách thành viên nhóm từ Azure AD. Đối với các nhóm lớn, đồng bộ này có thể mất một khoảng thời gian mở rộng.
+Người quản trị nhóm cho Microsoft 365 kết nối nhóm được đồng bộ với tư cách thành viên nhóm từ Azure AD. Đối với các nhóm lớn, quá trình đồng bộ này có thể mất một khoảng thời gian mở rộng.

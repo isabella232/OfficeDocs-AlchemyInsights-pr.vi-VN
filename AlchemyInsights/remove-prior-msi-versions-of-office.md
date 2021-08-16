@@ -1,5 +1,5 @@
 ---
-title: Loại bỏ các phiên bản MSI trước đó của Office
+title: Loại bỏ các phiên bản MSI trước của Office
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003886"
 - "6940"
-ms.openlocfilehash: 26ab610cb204149536bd23c830a1b8558892a7c0
-ms.sourcegitcommit: c033720921cb9a06b9560eedef4f1935e69a846b
+ms.openlocfilehash: 45e3cac521bc1c2a90dc7d3ddd4958233c3cf7bbd2ea007e581f343bca7b5631
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49680781"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54023796"
 ---
-# <a name="remove-prior-msi-versions-of-office"></a>Loại bỏ các phiên bản MSI trước đó của Office
+# <a name="remove-prior-msi-versions-of-office"></a>Loại bỏ các phiên bản MSI trước của Office
 
-Tôi khuyên bạn nên loại bỏ phiên bản Windows Installer (MSI) trước khi cài đặt Office 365 ProPlus. Sau đây là cách thực hiện:
+Tôi khuyên bạn nên loại bỏ Windows trước đó của chương trình cài đặt (MSI) của Office cài đặt Office 365 ProPlus. Dưới đây là cách thực hiện:
 
-1. Nếu bạn đã sử dụng MSI để cài đặt Office, bạn có thể sử dụng công cụ triển khai Office (ODT) để gỡ cài đặt Office. Bạn có thể sử dụng phần tử RemoveMSI trong tệp **configuration.xml** của bạn.
-1. Làm theo hướng dẫn trong bài viết này: [Trung tâm tuân thủ & bảo mật của Office 365.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
+1. Nếu bạn đã sử dụng MSI để cài Office, bạn có thể sử dụng Công cụ Triển khai Office (ODT) để gỡ cài Office. Bạn có thể sử dụng thành phần RemoveMSI trong **tệpconfiguration.xml** bạn.
+1. Làm theo hướng dẫn trong bài viết này: Hãy [Office 365 tâm & Tuân thủ.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
