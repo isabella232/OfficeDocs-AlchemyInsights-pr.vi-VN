@@ -1,5 +1,5 @@
 ---
-title: Không có kết quả nào được trả về khi tìm kiếm nội dung/xuất
+title: Không trả về kết quả trong quá trình Tìm kiếm/Xuất Nội dung
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7463"
-ms.openlocfilehash: 8786f11f170edb151879235e19caa38b50f3f06e
-ms.sourcegitcommit: 3d662e1a1440ba74b5347896347d03bb8c8f3af5
+ms.openlocfilehash: 5c04364f98dccbcad0f011df866f137d79c166ad3839b408d6be447d50a87ac3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 12/22/2020
-ms.locfileid: "49727245"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101288"
 ---
-# <a name="no-results-returned-during-content-searchexport"></a>Không có kết quả nào được trả về khi tìm kiếm nội dung/xuất
+# <a name="no-results-returned-during-content-searchexport"></a>Không trả về kết quả trong quá trình Tìm kiếm/Xuất Nội dung
 
-Nếu bạn đang gặp vấn đề với các kịch bản khám phá điện tử sau đây:
+Nếu bạn đang gặp phải sự cố với các kịch bản Khám phá Điện tử sau đây:
 
-- Tìm kiếm nội dung/xuất không trả về dữ liệu hoặc dữ liệu không mong muốn
-- Tìm kiếm khám phá điện tử hoặc xuất không thành công
+- Tìm kiếm Nội dung/Xuất không trả về dữ liệu hoặc dữ liệu không mong muốn
+- Tìm kiếm hoặc Xuất Khám phá Điện tử không thành công
 
-Điều này có thể do một số bộ lọc bảo mật tuân thủ nhất định được thiết lập bởi một người quản trị cụ thể và không được truyền đạt đến tất cả người quản trị.
+Điều này có thể do một số Bộ lọc Bảo mật Tuân thủ nhất định đã được một Người quản trị cụ thể thiết lập và chưa được thông báo cho tất cả người quản trị.
 
-Để giải quyết vấn đề này, hãy kiểm tra xem có bất kỳ bộ lọc bảo mật tuân thủ nào có thể gây ra sự cố này không:
+Để giải quyết vấn đề này, hãy kiểm tra xem có bất kỳ Bộ lọc Bảo mật Tuân thủ nào có thể gây ra những vấn đề này không:
 
-1. Kết nối với Trung tâm bảo mật và tuân thủ PowerShell
-2. Chạy các commandlet sau đây:
+1. Kết nối powershell của Trung tâm Bảo mật và Tuân thủ
+2. Chạy lệnh dưới đây:
 
     `$org = “yourdomain.com”`
 
     `Get-ComplianceSecurityFilter -Organization $org`
 
-Để biết thêm thông tin về bộ lọc bảo mật tuân thủ, hãy xem [lọc quyền đối với tìm kiếm nội dung](https://docs.microsoft.com/microsoft-365/compliance/permissions-filtering-for-content-search)
+Để biết thêm thông tin về Bộ lọc Bảo mật Tuân thủ, [hãy xem Lọc Quyền cho Tìm kiếm Nội dung](https://docs.microsoft.com/microsoft-365/compliance/permissions-filtering-for-content-search)

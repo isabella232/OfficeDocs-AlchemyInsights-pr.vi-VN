@@ -1,5 +1,5 @@
 ---
-title: Sử dụng bảng điều khiển quản trị InTune
+title: Sử dụng bảng điều khiển quản trị Intune
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700002"
 - "7680"
-ms.openlocfilehash: 73fd2b032ebad1990e5ee68e460d0a07305d984a
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 7cffda69019dc720ae8e49b59636bd13277abf1d57c89831a077f4d66b4586a3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747266"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54033768"
 ---
-# <a name="using-intune-admin-console"></a>Sử dụng bảng điều khiển quản trị InTune
+# <a name="using-intune-admin-console"></a>Sử dụng bảng điều khiển quản trị Intune
 
-Dưới đây là một số tác vụ phổ biến trong bảng điều khiển quản trị InTune:
+Dưới đây là một số tác vụ phổ biến trong bảng điều khiển quản trị Intune:
 
-- [Thiết lập InTune](https://docs.microsoft.com/mem/intune/fundamentals/setup-steps)
-- [Hướng dẫn: Walkthrough của Microsoft InTune trong cổng thông tin Azure](https://docs.microsoft.com/mem/intune/fundamentals/tutorial-walkthrough-intune-portal)
-- [Sử dụng cổng thông tin khắc phục sự cố để giúp người dùng tại công ty của bạn](https://docs.microsoft.com/mem/intune/fundamentals/help-desk-operators)
-- [Sử dụng kho dữ liệu InTune của Microsoft để nâng cao và tùy chỉnh báo cáo](https://docs.microsoft.com/mem/intune/developer/reports-nav-create-intune-reports)
+- [Thiết lập Intune](https://docs.microsoft.com/mem/intune/fundamentals/setup-steps)
+- [Hướng dẫn: Hướng dẫn về Microsoft Intune trong cổng thông tin Azure](https://docs.microsoft.com/mem/intune/fundamentals/tutorial-walkthrough-intune-portal)
+- [Dùng cổng thông tin khắc phục sự cố để trợ giúp người dùng tại công ty của bạn](https://docs.microsoft.com/mem/intune/fundamentals/help-desk-operators)
+- [Sử dụng Kho Dữ Microsoft Intune dữ liệu để nâng cao và tùy chỉnh báo cáo](https://docs.microsoft.com/mem/intune/developer/reports-nav-create-intune-reports)

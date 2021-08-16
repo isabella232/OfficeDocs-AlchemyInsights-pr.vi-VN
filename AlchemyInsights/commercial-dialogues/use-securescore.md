@@ -1,5 +1,5 @@
 ---
-title: Sử dụng Securesố điểm
+title: Sử dụng SecureScore
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100002"
 - "7525"
-ms.openlocfilehash: e6065c9ec681e377f8f8a51232d1b411bc91845e
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 0367cf3f76a9668e71dec52645a5b3aed44ccec93c0c39bccfa883212009633b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747189"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54033804"
 ---
-# <a name="use-securescore"></a>Sử dụng Securesố điểm
+# <a name="use-securescore"></a>Sử dụng SecureScore
 
-Điểm bảo mật là một công cụ phân tích bảo mật đề xuất những gì bạn có thể thực hiện để giảm thiểu rủi ro. Điểm bảo mật sẽ nhìn vào các thiết đặt và hoạt động của 365 Office của bạn và so sánh chúng với một đường cơ sở được thiết lập bởi Microsoft. Bạn sẽ nhận được điểm số dựa trên cách thức căn chỉnh bạn với các thực hành bảo mật tốt nhất.
+Điểm Bảo mật là một công cụ phân tích bảo mật đề xuất những điều bạn có thể làm để giảm thêm rủi ro. Điểm Số Bảo mật xem xét cài đặt Office 365 và hoạt động của bạn, đồng thời so sánh chúng với đường cơ sở do Microsoft thiết lập. Bạn sẽ có điểm số dựa trên mức độ căn chỉnh của bạn với các thực hành bảo mật tốt nhất.
 
-Bạn muốn thử điểm bảo mật? Khi bạn đã đăng nhập vào Office 365 với tư cách là người quản trị toàn cầu, hãy đi tới [SecureScore.com.](https://securescore.office.com/)
+Bạn muốn dùng thử Điểm Bảo mật? Khi bạn đăng nhập vào một Office 365 với tư cách là người quản trị toàn cầu, hãy đi [tới SecureScore.com.](https://securescore.office.com/)

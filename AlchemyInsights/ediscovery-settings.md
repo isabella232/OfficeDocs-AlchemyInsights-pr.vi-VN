@@ -1,5 +1,5 @@
 ---
-title: Thiết đặt khám phá điện tử
+title: Cài đặt Ediscovery
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,19 +14,19 @@ ms.assetid: ''
 ms.custom:
 - "2006"
 - "3200003"
-ms.openlocfilehash: 0c8f764fec63c7ad1ad690a9f9aef59d3652033c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bdf3707880d9b30ff6452a769bc0d2725be877373136a994a108e92d56d7b577
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47711009"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101252"
 ---
-# <a name="ediscovery-settings"></a>Thiết đặt khám phá điện tử
+# <a name="ediscovery-settings"></a>Cài đặt Ediscovery
 
-Khám phá điện tử/tìm kiếm nội dung cho phép bạn tìm kiếm, Giữ và xuất nội dung từ các hộp thư Exchange Online, SharePoint Online và OneDrive for Business, hội thoại Skype for Business, nhóm Microsoft và Microsoft 365.
+Tìm kiếm Khám phá Điện tử/Nội dung cho phép bạn tìm kiếm, giữ và xuất nội dung từ hộp thư Exchange Online, các site SharePoint Online và OneDrive for Business, cuộc hội thoại Skype for Business, Microsoft Teams và Nhóm Microsoft 365.
 
-- Nếu bạn đang tìm kiếm các tùy chọn của menu khám phá điện tử hoặc tìm kiếm nội dung, hãy xem [vấn đề khám phá](https://docs.microsoft.com/alchemyinsights/ediscovery-issues)điện tử.
-- Tìm hiểu về các quyền cần thiết để thực hiện tìm kiếm khám phá điện tử từ các [quyền cần thiết cho tìm kiếm khám phá](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches)điện tử.
-- Nếu tìm kiếm của bạn không trả về kết quả dự kiến, hãy xem [Tìm kiếm không trả về kết quả dự kiến](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results).
+- Nếu bạn đang tìm kiếm các tùy chọn menu Khám phá Điện tử hoặc Tìm kiếm Nội dung, hãy xem mục [Sự cố Khám phá Điện tử.](https://docs.microsoft.com/alchemyinsights/ediscovery-issues)
+- Tìm hiểu về các quyền cần thiết để thực hiện tìm kiếm Khám phá Điện tử từ Các quyền bắt buộc đối với tìm kiếm Khám [phá Điện tử.](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches)
+- Nếu tìm kiếm của bạn không trả về kết quả mong đợi, hãy xem mục Tìm [kiếm không trả về kết quả mong đợi](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results).
 
-Để biết thêm thông tin về khám phá điện tử, hãy xem [khám phá](https://docs.microsoft.com/microsoft-365/compliance/ediscovery)điện tử.
+Để biết thêm thông tin về ediscovery, hãy [xem Ediscovery](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).

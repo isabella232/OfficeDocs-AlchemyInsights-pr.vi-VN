@@ -1,5 +1,5 @@
 ---
-title: Không thể chuyển các nhóm âm thanh và thông báo trực quan
+title: Không thể bật hoặc tắt Teams báo âm thanh và hình ảnh
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003573"
 - "6652"
-ms.openlocfilehash: 8dd623a66a062c56f5beea7bdac450e365fc94ed
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 3aeb90cd37902651151531074010b5832ff444db939cc516935e780eda6c9510
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48365063"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54071102"
 ---
-# <a name="cant-turn-teams-sound-and-visual-notifications-on-or-off"></a>Không thể chuyển các nhóm âm thanh và thông báo trực quan
+# <a name="cant-turn-teams-sound-and-visual-notifications-on-or-off"></a>Không thể bật hoặc tắt Teams báo âm thanh và hình ảnh
 
-1. Chọn ảnh hồ sơ của bạn ở góc trên cùng bên phải của nhóm.
-2. Chọn **Settings**  >  **thông báo**thiết đặt.
-3. Đặt các tùy chọn thông báo của bạn.
+1. Chọn ảnh hồ sơ của bạn ở góc trên cùng bên phải của Teams.
+2. Chọn **Cài đặt**  >  **Báo .**
+3. Đặt tùy chọn thông báo của bạn.
 
-Để biết chi tiết về các tùy chọn này và thông tin về việc thiết đặt thông báo cho các kênh và hội thoại cụ thể, hãy xem  [quản lý thông báo trong nhóm](https://support.microsoft.com/office/manage-notifications-in-teams-1cc31834-5fe5-412b-8edb-43fecc78413d).
+Để biết chi tiết về các tùy chọn và thông tin về thiết đặt thông báo cho các kênh và cuộc hội thoại cụ thể, hãy xem Quản [lý thông báo Teams.](https://support.microsoft.com/office/manage-notifications-in-teams-1cc31834-5fe5-412b-8edb-43fecc78413d)
