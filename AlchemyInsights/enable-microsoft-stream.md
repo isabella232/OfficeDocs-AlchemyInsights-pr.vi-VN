@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002642"
 - "5077"
-ms.openlocfilehash: fb126adc43a9e8d4626464309ada6ab4a6cead33
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f20466961deecdb487ff42b2e365e56b295fed6eecd6ddb03fda67ab9110bc4f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814178"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54003006"
 ---
 # <a name="enable-microsoft-stream"></a>Bật Microsoft Stream
 
-Nhân viên của tổ chức bạn không thể sử dụng dịch vụ Stream cho đến khi tài khoản của họ đã được cấp phép. Bạn có thể gán giấy phép dòng cho họ để mỗi người dùng không phải đăng ký theo cách thủ công cho dịch vụ.
+Nhân viên trong tổ chức của bạn không thể sử dụng dịch vụ Stream cho đến khi tài khoản của họ đã được cấp phép. Bạn có thể gán giấy phép Stream cho họ để từng người dùng không phải đăng ký dịch vụ theo cách thủ công.
 
-- [Bật Microsoft Stream cho tất cả mọi người trong tổ chức](https://docs.microsoft.com/stream/assign-user-licenses).
+- [Bật Microsoft Stream cho mọi người trong tổ chức](https://docs.microsoft.com/stream/assign-user-licenses).

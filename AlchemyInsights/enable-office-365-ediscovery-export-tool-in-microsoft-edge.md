@@ -1,5 +1,5 @@
 ---
-title: Bật công cụ xuất của Office 365 eDiscovery trong Microsoft Edge
+title: Bật Công Office 365 Xuất Khám phá Điện tử trong Microsoft Edge
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "8225"
 - "9004596"
-ms.openlocfilehash: 62d78f806257e04adc8f0a599aed291c5bac0e0a
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: a2d68405cb978d77e3c7d1ee6e6d479a4b83d63f7a544f935d2785aad3a77d69
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51037495"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54002790"
 ---
-# <a name="enable-the-office-365-ediscovery-export-tool-in-microsoft-edge"></a>Bật công cụ xuất của Office 365 eDiscovery trong Microsoft Edge
+# <a name="enable-the-office-365-ediscovery-export-tool-in-microsoft-edge"></a>Bật Công Office 365 Xuất Khám phá Điện tử trong Microsoft Edge
 
-Hỗ trợ cho ClickOnce không còn được kích hoạt trong Microsoft Edge theo mặc định. Để tiếp tục sử dụng công cụ xuất Microsoft Office 365 eDiscovery, bạn sẽ cần sử dụng Microsoft Internet Explorer hoặc bật tùy chọn hỗ trợ ClickOnce trong Microsoft Edge, như sau:
+Hỗ trợ cho ClickOnce tính năng này không còn được bật trong Microsoft Edge mặc định. Để tiếp tục sử dụng Công cụ Xuất Khám phá Điện tử của Microsoft Office 365, bạn sẽ cần sử dụng Microsoft Internet Explorer hoặc bật tùy chọn Hỗ trợ ClickOnce trong Microsoft Edge, như sau:
 
-1. Dẫn hướng đến **edge://flags/#edge-click-Once**.
-2. Đối với tùy chọn hỗ trợ ClickOnce, hãy thay đổi giá trị từ **mặc định** hoặc bị **tắt** để **bật**.
-3. Ở phía dưới cùng của cửa sổ trình duyệt, hãy bấm **khởi động lại**. Thay đổi này sẽ có hiệu lực sau khi bạn khởi động lại Microsoft Edge.
+1. Dẫn hướng đến **edge://flags/#edge-click-once**.
+2. Để biết tùy ClickOnce Hỗ trợ, hãy thay đổi giá trị từ **Mặc định** hoặc **Tắt** thành **Đã bật.**
+3. Ở cuối cửa sổ trình duyệt, bấm Vào Khởi **động lại**. Thay đổi sẽ có hiệu lực sau khi bạn khởi động lại Microsoft Edge.
 
-Để biết thêm thông tin, hãy xem [mục sử dụng công cụ xuất của Office 365 eDiscovery trong Microsoft Edge](https://docs.microsoft.com/microsoft-365/compliance/configure-edge-to-export-search-results).
+Để biết thêm thông tin, hãy xem mục Sử Office 365 Cụ Xuất Khám [phá Điện tử trong Microsoft Edge.](https://docs.microsoft.com/microsoft-365/compliance/configure-edge-to-export-search-results)
 
 

@@ -1,5 +1,5 @@
 ---
-title: Kiểm soát quyền truy nhập vào các thư mục công cộng bằng Outlook
+title: Kiểm soát quyền truy nhập vào các thư mục công cộng bằng cách Outlook
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3462"
-ms.openlocfilehash: f528044ca7f6f2ee2812f9f831093c44eca26fe1
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1386b97f804e63455094abf64b9d9e2541d57dafa36535813b0d7689e0ce2966
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51816762"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54032580"
 ---
-# <a name="control-access-to-public-folders-using-outlook"></a>Kiểm soát quyền truy nhập vào các thư mục công cộng bằng Outlook
+# <a name="control-access-to-public-folders-using-outlook"></a>Kiểm soát quyền truy nhập vào các thư mục công cộng bằng cách Outlook
 
-Để điều khiển người dùng có thể truy nhập vào các thư mục công cộng bằng cách dùng Outlook:
+Để kiểm soát người dùng nào có thể truy nhập thư mục công cộng bằng cách Outlook:
 
 1. Sử dụng `Set-CASMailbox <mailboxname> -PublicFolderClientAccess $true or $false`
 
-$true: cho phép người dùng truy nhập các thư mục công cộng trong Outlook  
-$false: ngăn chặn quyền truy nhập của người dùng vào các thư mục công cộng trong Outlook. Đây là giá trị mặc định.  
+$true: Cho phép người dùng truy nhập thư mục công cộng trong Outlook  
+$false: Ngăn người dùng truy nhập vào thư mục công cộng trong Outlook. Đây là giá trị mặc định.  
 
 2. `Set-OrganizationConfig -PublicFolderShowClientControl $true`
 
-Lưu ý: quy trình này chỉ có thể điều khiển kết nối với Outlook trên máy tính cho máy khách chạy Windows. Người dùng có thể tiếp tục truy nhập vào các thư mục công cộng bằng OWA hoặc Outlook for Mac.
+Lưu ý: Thủ tục này chỉ có thể kiểm soát các kết nối với Outlook bàn làm việc cho máy Windows khách. Người dùng có thể tiếp tục truy nhập thư mục công cộng bằng cách sử dụng OWA Outlook for Mac.
 
-Để biết thêm thông tin, hãy xem [kiểm soát kết nối đến các thư mục công cộng trong Outlook](https://aka.ms/controlpf) để biết thêm thông tin.
+Để biết thêm thông tin, hãy xem [Kết nối có Kiểm soát đến Thư mục Công cộng Outlook](https://aka.ms/controlpf) biết thêm thông tin.

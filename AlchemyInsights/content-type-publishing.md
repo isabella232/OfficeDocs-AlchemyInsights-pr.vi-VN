@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003050"
 - "5793"
-ms.openlocfilehash: d70e3deb0067552cf97137862a1139fc9873f2c5
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 37e21ada4c5a8d8fa5f59dd9434b725566b00f794da1f56f705e1b9d0b8cfa5b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51816834"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54032724"
 ---
 # <a name="content-type-publishing"></a>Phát hành kiểu nội dung
 
-Nếu bạn muốn các kiểu nội dung sẵn dùng trong tổ chức của bạn cho tất cả người dùng, đó là một ứng viên tốt để phát hành trên tất cả các tuyển tập trang. Để phát hành kiểu nội dung, hãy xem phát hành [kiểu nội dung từ một Hub phát hành nội dung](https://support.office.com/article/publish-a-content-type-from-a-content-publishing-hub-58081155-118d-4e7a-9cc5-d43b5dbb7d02).
+Nếu bạn muốn các kiểu nội dung sẵn dùng trong toàn tổ chức của mình cho tất cả người dùng, đây là một ứng viên tốt để phát hành trên toàn bộ tuyển tập site. Để phát hành kiểu nội dung, hãy xem [Phát hành loại nội dung từ hub phát hành nội dung](https://support.office.com/article/publish-a-content-type-from-a-content-publishing-hub-58081155-118d-4e7a-9cc5-d43b5dbb7d02).

@@ -1,5 +1,5 @@
 ---
-title: Cho phép Microsoft nhóm
+title: Bật Chia Microsoft Teams
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -16,15 +16,15 @@ ms.custom:
 - "9000725"
 - "2671"
 ms.assetid: c35b64bd-537d-4a33-98df-ad02de8fb71b
-ms.openlocfilehash: 0b638f12ca90edba3150c6e75d9653cf507e37af
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 161e7e1b4a682b2e60c40b2a53b5b10da2904b351de40803f8b9d8a580fc49af
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814124"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54002970"
 ---
-# <a name="enable-and-use-microsoft-teams"></a>Bật và sử dụng nhóm Microsoft
+# <a name="enable-and-use-microsoft-teams"></a>Bật và Sử dụng Microsoft Teams
 
-Nếu bạn không có quyền truy nhập vào các nhóm Microsoft, hãy xem [làm thế nào để tôi có quyền truy nhập vào nhóm Microsoft](https://support.office.com/article/How-do-I-get-access-to-Microsoft-Teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b.aspx).
+Nếu bạn không có quyền truy nhập vào Microsoft Teams, hãy xem Làm thế nào để tôi có thể [truy nhập vào Microsoft Teams.](https://support.office.com/article/How-do-I-get-access-to-Microsoft-Teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b.aspx)
 
-Nếu bạn đã có nhóm Microsoft và cần biết cách đặt cấu hình và quản lý, hãy xem [quản lý các thiết đặt nhóm Microsoft cho tổ chức của bạn](https://docs.microsoft.com/MicrosoftTeams/enable-features-office-365).
+Nếu bạn đã có Microsoft Teams và cần biết cách cấu hình và quản lý nó, hãy xem Quản lý các thiết [đặt Microsoft Teams cho tổ chức của bạn](https://docs.microsoft.com/MicrosoftTeams/enable-features-office-365).
