@@ -1,5 +1,5 @@
 ---
-title: Giấy phép học viên nhóm
+title: Teams phép sinh viên
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001723"
 - "3822"
-ms.openlocfilehash: a30f1d02d8560e9aad27597de44cb206671f09e9
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d9aa56152e76688b9cf7654ca648fc947ce9f4061cbc2c1b086c60799d1cccd9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51833385"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53998749"
 ---
-# <a name="teams-student-licenses"></a>Giấy phép học viên nhóm
+# <a name="teams-student-licenses"></a>Teams phép sinh viên
 
-Nếu bạn có một đối tượng thuê EDU, bạn cần cho phép các nhóm Microsoft theo cách thủ công:
+Nếu bạn có đối tượng thuê EDU, bạn cần kích hoạt đối tượng thuê theo Microsoft Teams cách thủ công:
 
-1. Đi đến thiết đặt Trung tâm quản trị Microsoft 365 **> thiết đặt > nhóm Microsoft**. 
+1. Đi tới trang Trung tâm quản trị Microsoft 365 **Cài đặt> Cài đặt > Microsoft Teams.** 
 
-2. Nếu bạn không thấy Microsoft nhóm trong danh sách Dịch vụ, **hãy tắt thử Trung tâm quản trị mới** để tìm các **dịch vụ > thiết đặt và phần bổ trợ > Microsoft nhóm**. 
+2. Nếu bạn không nhìn thấy Microsoft Teams danh sách  Dịch vụ, hãy tắt Thử trung tâm quản trị mới để tìm Cài đặt > Dịch vụ và phần bổ trợ dành **cho > Microsoft Teams.** 
 
-Để biết thêm thông tin, hãy xem cho [phép Microsoft nhóm cho trường học của bạn](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/enable-microsoft-teams#enable-microsoft-teams-for-your-school-1). 
+Để biết thêm thông tin, hãy [xem bật tùy Microsoft Teams cho trường học của bạn](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/enable-microsoft-teams#enable-microsoft-teams-for-your-school-1). 
 
-**Quan trọng**: bạn có thể phải chờ tối đa 24 giờ để thay đổi có hiệu lực.
+**Quan** trọng : Bạn có thể phải chờ tối đa 24 giờ để thay đổi của mình có hiệu lực.
 
-Tìm hiểu thêm về cách [giảng dạy từ xa và tìm hiểu trong Office 365 Education](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4), nó hướng dẫn trong [bắt đầu với Microsoft các nhóm để tìm hiểu từ xa](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu)và [chuyển đổi sang việc học tập từ xa](https://www.microsoft.com/education/remote-learning).
+Tìm hiểu thêm về [Dạy và học](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4)từ xa trong Office 365 Education , Hướng dẫn IT trong Bắt đầu với [Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu)dành cho học tập từ xa và Chuyển đổi sang học tập [từ xa](https://www.microsoft.com/education/remote-learning).

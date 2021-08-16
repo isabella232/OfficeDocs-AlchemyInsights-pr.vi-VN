@@ -1,5 +1,5 @@
 ---
-title: Chính sách Duy trì trong Trung tâm Quản trị Exchange không hoạt động
+title: Chính sách Duy trì trong Exchange tâm Quản trị Của bạn không hoạt động
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,18 +13,18 @@ ms.custom:
 - "308"
 - "3100007"
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
-ms.openlocfilehash: bb2ce7ce2405be575dfdb79d304fef690e863a4e
-ms.sourcegitcommit: e9206b7bb1bf2efd2471edbf4c60c00c3607bc41
+ms.openlocfilehash: 6652ad5fc1691e1d5a4293d81f3a649f23ec38f18c8ed9fe06665628a901d13e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/22/2021
-ms.locfileid: "51952250"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54074954"
 ---
-# <a name="retention-policies-in-exchange-admin-center"></a>Chính sách Duy trì trong Trung tâm Quản trị Exchange
+# <a name="retention-policies-in-exchange-admin-center"></a>Chính sách Duy trì trong Exchange tâm Quản trị
 
 Nếu bạn muốn chúng tôi chạy kiểm tra tự động cho các cài đặt được đề cập dưới đây, hãy chọn nút quay lại <-- ở đầu trang này, rồi nhập địa chỉ email của người dùng gặp sự cố với chính sách duy trì.
 
-Nếu bạn gặp sự cố với chính sách duy trì trong Trung tâm Quản trị Exchange không áp dụng cho hộp thư hoặc các mục không di chuyển đến hộp thư lưu trữ, hãy kiểm tra các mục sau:
+Nếu bạn gặp sự cố với các chính sách duy trì trong Trung tâm Quản trị Exchange không áp dụng cho hộp thư hoặc các mục không di chuyển đến hộp thư lưu trữ, hãy kiểm tra các mục sau:
 
 **Nguyên nhân gốc:**
 
@@ -38,7 +38,7 @@ Nếu bạn gặp sự cố với chính sách duy trì trong Trung tâm Quản 
  
 **Lưu ý:** Nếu một hộp thư nhỏ hơn 10 MB, Trợ lý Thư mục được Quản lý sẽ không tự động xử lý hộp thư đó.
  
-Để biết thêm thông tin về chính sách duy trì trong Trung tâm Quản trị Exchange, hãy xem:
+Để biết thêm thông tin về chính sách duy trì trong Trung Exchange tâm Quản trị, hãy xem:
 
 - [Thẻ duy trì và chính sách duy trì](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies)
 

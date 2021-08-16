@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002627"
 - "5045"
-ms.openlocfilehash: 65102ef1dddb2032020e3f3391449c81e9d34b89
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1ca31778143082f6012703e95be06d3b8ca6755180b694daf29f7fda0c64532f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51795754"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54067502"
 ---
 # <a name="install-and-use-publisher"></a>Cài đặt và sử dụng Publisher
 
-- **Tôi có nhà phát hành với thuê bao Office của mình không?** Publisher được bao gồm trong phiên bản [ứng dụng microsoft 365 dành cho doanh nghiệp, tiêu chuẩn Business microsoft 365 và microsoft 365 Business Premium](https://products.office.com/compare-all-microsoft-office-products?activetab=tab:primaryr2).
-- **Tôi không thể truy nhập nhà phát hành trong danh sách ứng dụng của mình.**  Nhà phát hành sẵn dùng dưới dạng ứng dụng trên máy tính và cần phải [cài đặt](https://support.office.com/article/Install-Office-apps-from-Office-365-dcf2d841-dac7-455b-9a77-fc8f7ee92702). Từ **Trung tâm quản trị**, chọn **phần mềm Office 365**, rồi bấm vào **cài đặt Office**. **Lưu ý**: Publisher sẽ sẵn dùng như ứng dụng PC và không sẵn dùng trên máy Mac.
-- Để biết thêm thông tin về Publisher, hãy xem mục [Trợ giúp publisher & đào tạo](https://support.office.com/publisher).
+- **Tôi đã đăng ký Publisher với tài khoản Office tôi?** Publisher kèm với phiên bản Bản cập [nhật có Ứng dụng Microsoft 365 dành cho doanh nghiệp, Microsoft 365 Business Standard và Microsoft 365 Business Premium.](https://products.office.com/compare-all-microsoft-office-products?activetab=tab:primaryr2)
+- **Tôi không thể truy nhập danh Publisher danh sách ứng dụng của mình.**  Publisher sẵn có dưới dạng ứng dụng trên máy tính và cần được cài [đặt](https://support.office.com/article/Install-Office-apps-from-Office-365-dcf2d841-dac7-455b-9a77-fc8f7ee92702). Từ Trung **tâm Quản trị**, chọn phần **Office 365**, rồi bấm vào Cài **đặt Office.** **Lưu** ý : Publisher sẵn dùng dưới dạng ứng dụng PC và không sẵn dùng trên máy Mac.
+- Để biết thêm thông tin về Publisher, hãy xem mục [Giúp Publisher đào & chính .](https://support.office.com/publisher)

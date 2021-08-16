@@ -1,5 +1,5 @@
 ---
-title: Hóa đơn email Azure hiện đại
+title: Lập hóa đơn email Azure hiện đại
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "6866"
-ms.openlocfilehash: 4df8c49880fe638c1659f76edc0905532d091e45
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: caf300873c3a9a97502819c7938ecc86491795d2fc7b6f022ead5d38ca965b8c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820848"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54082856"
 ---
-# <a name="email-invoicing-in-azure"></a>Lập hóa đơn email trong Azure
+# <a name="email-invoicing-in-azure"></a>Lập hóa đơn qua email trong Azure
 
-Bạn phải có chủ sở hữu hoặc vai trò đóng góp trên hồ sơ thanh toán hoặc tài khoản thanh toán của nó để cập nhật tùy chọn hóa đơn email của nó. Sau khi bạn đã chọn tham gia, tất cả người dùng với một chủ sở hữu, người đóng góp, bộ đọc và các vai trò trình quản lý hóa đơn trên hồ sơ thanh toán sẽ nhận được hóa đơn trong email.
+Bạn phải có vai trò chủ sở hữu hoặc người đóng góp trên hồ sơ thanh toán hoặc tài khoản thanh toán của hồ sơ để cập nhật tùy chọn hóa đơn qua email của chủ sở hữu hoặc người đóng góp. Sau khi bạn chọn tham gia, tất cả người dùng có vai trò chủ sở hữu, người đóng góp, người đọc và người quản lý hóa đơn trên hồ sơ thanh toán sẽ nhận được hóa đơn của họ qua email.
 
-1. Đăng nhập vào [cổng thông tin Azure](https://portal.azure.com/).
-2. Tìm kiếm **quản lý chi phí + thanh toán**.
-3. Chọn hóa **đơn** từ bên trái, rồi chọn **hóa đơn email** từ phía trên cùng của trang.
-4. Nếu bạn có nhiều hồ sơ thanh toán, hãy chọn một hồ sơ thanh toán, rồi chọn chọn **tham** gia.
+1. Đăng nhập vào cổng [thông tin Azure](https://portal.azure.com/).
+2. Tìm kiếm Quản **lý Chi phí + Hóa đơn.**
+3. Chọn **Hóa** đơn từ phía bên trái, rồi chọn **Gửi Hóa đơn qua Email** từ đầu trang.
+4. Nếu bạn có nhiều hồ sơ thanh toán, hãy chọn một hồ sơ thanh toán, rồi chọn **Chọn tham gia**.
 
-5. Chọn **Cập Nhật**.
-6. Nếu bạn có nhiều hồ sơ thanh toán, hãy chọn một hồ sơ thanh toán, rồi chọn chọn **tham** gia.
+5. Chọn **Cập nhật**.
+6. Nếu bạn có nhiều hồ sơ thanh toán, hãy chọn một hồ sơ thanh toán, rồi chọn **Chọn tham gia**.
 
-Bạn cung cấp cho người khác quyền truy nhập để xem, tải xuống và thanh toán hóa đơn bằng cách gán vai trò trình quản lý hóa đơn cho hồ sơ thanh toán MCA hoặc MPA. Nếu bạn đã chọn tham gia để lấy hóa đơn của mình trong email, người dùng cũng sẽ nhận được các hóa đơn trong email.
+Bạn cấp cho người khác quyền truy cập vào xem, tải xuống và thanh toán hóa đơn bằng cách gán cho họ vai trò trình quản lý hóa đơn cho hồ sơ thanh toán MCA hoặc MPA. Nếu bạn đã chọn nhận hóa đơn qua email thì người dùng cũng sẽ nhận được hóa đơn qua email.
 
-1. Đăng nhập vào [cổng thông tin Azure](https://portal.azure.com/).
-2. Tìm kiếm **quản lý chi phí + thanh toán**.
-3. Chọn **hồ sơ thanh toán** từ bên trái. Từ danh sách hồ sơ thanh toán, hãy chọn một hồ sơ thanh toán mà bạn muốn gán vai trò trình quản lý hóa đơn.
-4. Chọn **Access Control (iam)** từ bên trái, rồi chọn **Thêm** từ phía trên cùng của trang.
+1. Đăng nhập vào cổng [thông tin Azure](https://portal.azure.com/).
+2. Tìm kiếm Quản **lý Chi phí + Hóa đơn.**
+3. Chọn **Hồ sơ thanh** toán từ phía bên trái. Từ danh sách hồ sơ thanh toán, chọn hồ sơ thanh toán mà bạn muốn gán vai trò người quản lý hóa đơn.
+4. Chọn **Điều khiển Truy nhập (IAM)** từ  phía bên trái, rồi chọn Thêm từ đầu trang.
 
-Trong danh sách thả xuống vai trò, chọn **trình quản lý hóa đơn**. Nhập địa chỉ email của người dùng để cấp quyền truy nhập. Chọn **lưu** để gán vai trò.
+Trong danh sách thả xuống Vai trò, chọn Trình quản **lý Hóa đơn**. Nhập địa chỉ email của người dùng để cấp quyền truy nhập. Chọn **Lưu** để gán vai trò.

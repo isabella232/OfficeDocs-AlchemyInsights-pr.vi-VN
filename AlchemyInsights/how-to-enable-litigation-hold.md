@@ -1,5 +1,5 @@
 ---
-title: 976-cách-để-bật-giữ tranh chấp
+title: 976-how-to-enable-litigation-hold
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -14,17 +14,17 @@ ms.custom:
 - "976"
 - "3100023"
 ms.assetid: ''
-ms.openlocfilehash: 47d5a0866a6e92da2a3abb377a5e93918b5a1c9d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cbc3460dde8030238d56d054af7e4ee13d655d7d54f65c3275a73e899dd6f813
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47780585"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54067538"
 ---
-# <a name="place-a-mailbox-on-legal-hold"></a>Đặt hộp thư ở chế độ giữ pháp lý
+# <a name="place-a-mailbox-on-legal-hold"></a>Đặt một hộp thư ở chế độ giữ lại hợp pháp
 
-- Để đặt một hộp thư ở chế độ duy trì tranh chấp hoặc giữ tại chỗ, Exchange Online gói 2 giấy phép Exchange [Online gói 2 giấy](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) phép được yêu cầu. Nếu một hộp thư được gán một giấy phép gói 1, bạn có thể gán giấy phép Exchange Online lưu trữ các bổ trợ bằng giấy phép lưu trữ trực tuyến của Exchange [Online](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description).
+- Để đặt một hộp thư trên tính năng Bảo quản thư trong trường hợp Tranh chấp pháp In-Place giữ, cần có giấy phép Exchange Online Plan 2 Exchange Online [Plan 2.](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) Nếu một hộp thư được gán giấy phép Plan 1, bạn có thể gán giấy phép phần bổ trợ Exchange Online Archiving riêng biệt cho [phần Exchange Online Archiving bổ trợ.](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description)
 
-- Để bật duy trì tranh chấp cho một người dùng duy nhất, [hãy làm theo các bước sau](https://docs.microsoft.com/microsoft-365/compliance/create-a-litigation-hold). Khi được bật phép tranh chấp, tất cả nội dung trong hộp thư sẽ được giữ nguyên.
+- Để bật tính năng Bảo quản thư trong trường hợp tranh chấp đối với một người dùng, hãy [làm theo các bước sau.](https://docs.microsoft.com/microsoft-365/compliance/create-a-litigation-hold) Khi tính năng Bảo quản thư trong trường hợp tranh chấp được bật, tất cả nội dung trong hộp thư sẽ được bảo toàn.
 
-- Để giữ nguyên nội dung trong tất cả các hộp thư trong tổ chức của bạn hoặc để tạo các kiểu duy trì khác, hãy sử dụng chính sách duy trì hoặc nhãn. Lưu ý rằng đối với chính sách duy trì toàn bộ tổ chức, người dùng mới được tự động gán cho chính sách này. Để biết thêm thông tin, hãy xem [Tìm hiểu về chính sách duy trì và các nhãn duy](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations)trì. 
+- Để lưu giữ nội dung trong tất cả các hộp thư trong tổ chức của bạn hoặc để tạo các loại giữ lại khác, hãy dùng một chính sách duy trì hoặc nhãn. Lưu ý rằng đối với các chính sách duy trì toàn tổ chức, người dùng mới sẽ tự động được gán vào chính sách. Để biết thêm thông tin, hãy [xem Tìm hiểu về chính sách duy trì và nhãn duy trì](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations). 

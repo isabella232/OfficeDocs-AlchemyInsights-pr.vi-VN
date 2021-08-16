@@ -1,5 +1,5 @@
 ---
-title: Bật tên miền tùy chỉnh cho người dùng
+title: Bật miền tùy chỉnh cho DKIM
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 1a21101602f47dcb5c9b607d7bbccfacec00f43a
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 753e0201363f3bf7c60c5b69df76176ad58e1b7a643f79f169c71af20b0a35d9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50749216"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54035100"
 ---
-# <a name="enable-the-custom-domain-for-dkim"></a>Bật tên miền tùy chỉnh cho người dùng
+# <a name="enable-the-custom-domain-for-dkim"></a>Bật miền tùy chỉnh cho DKIM
 
-Sau khi bạn tạo bản ghi CNAME cho tên miền riêng của mình, bạn cần bật tên miền đó.
+Sau khi bạn tạo các bản ghi CNAME cho tên miền riêng của mình, bạn cần phải bật tên miền đó.
 
-Để bật tên miền, hãy thực hiện các bước sau đây:
+Để bật miền, hãy thực hiện các bước sau đây:
 
-1. Dẫn hướng đến [Trung tâm quản trị Exchange](https://outlook.office365.com/ecp/).
-2. Ở ngăn bên trái, chọn **bảo vệ > d**.
-3. Chọn tên miền, sau đó bên dưới mục **đăng nhập thư cho tên miền này với chữ ký của BKIM**, bấm **bật**. Lặp lại bước này cho mỗi tên miền.
+1. Dẫn hướng đến [trung tâm quản Exchange chính .](https://outlook.office365.com/ecp/)
+2. Trong ngăn bên trái, hãy **chọn bảo > dkim**.
+3. Chọn miền, sau đó bên dưới mục **Ký thư cho miền này với chữ ký DKIM,** bấm vào **Bật.** Lặp lại bước này cho từng tên miền.
 

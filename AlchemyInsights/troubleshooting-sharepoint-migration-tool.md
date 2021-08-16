@@ -1,5 +1,5 @@
 ---
-title: Khắc phục sự cố và lỗi của công cụ di chuyển SharePoint
+title: Khắc phục sự SharePoint cố và lỗi trong Công cụ Di chuyển Di chuyển
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
@@ -14,17 +14,17 @@ ms.custom:
 - "5300030"
 - "3178"
 ms.assetid: ''
-ms.openlocfilehash: 4277c524f5900ef92d39608655453a210f4ed601
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f96b9dc16251701bd24e59153a72ec9a82f75663166b0dac796276e6f66c6424
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47735797"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54020682"
 ---
-# <a name="troubleshooting-sharepoint-migration-tool-issues-and-errors"></a>Khắc phục sự cố và lỗi của công cụ di chuyển SharePoint
+# <a name="troubleshooting-sharepoint-migration-tool-issues-and-errors"></a>Khắc phục sự SharePoint cố và lỗi trong Công cụ Di chuyển Di chuyển
 
-Bạn có thể gặp phải một số vấn đề và lỗi thường gặp khi sử dụng công cụ di chuyển SharePoint (SPMT). Vui lòng tham khảo các nối kết dưới đây để biết thêm thông tin.
+Bạn có thể gặp phải một số sự cố và lỗi thường gặp khi sử dụng SharePoint Công cụ Di chuyển (SPMT). Vui lòng tham khảo các liên kết bên dưới để biết thêm thông tin.
 
-- [Khắc phục sự cố và lỗi SPMT thông thường](https://docs.microsoft.com/sharepointmigration/troubleshooting-common-spmt-issues)
+- [Khắc phục các sự cố và lỗi SPMT thông thường](https://docs.microsoft.com/sharepointmigration/troubleshooting-common-spmt-issues)
 
 - [Khắc phục sự cố cài đặt SPMT](https://docs.microsoft.com/sharepointmigration/spmt-install-issues)

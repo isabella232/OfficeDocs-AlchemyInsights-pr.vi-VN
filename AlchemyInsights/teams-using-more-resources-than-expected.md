@@ -1,5 +1,5 @@
 ---
-title: Hướng dẫn nâng cấp nhóm
+title: Teams hướng dẫn nâng cấp
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,15 +10,15 @@ localization_priority: Normal
 ms.custom:
 - "6653"
 - "9003563"
-ms.openlocfilehash: 74972a7d54ea349cd997509a59a9320256a7eee7
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 98c93b3b674412025e0ff0fa6a609665cf720c75d17e0d278c3abe123d5ec01c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48365238"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53998713"
 ---
-# <a name="teams-is-using-more-computer-resources-than-expected"></a>Các nhóm đang sử dụng nhiều tài nguyên máy tính hơn mong đợi
+# <a name="teams-is-using-more-computer-resources-than-expected"></a>Teams dùng nhiều tài nguyên máy tính hơn dự kiến
 
-Hiệu suất tuyệt vời và trải nghiệm người dùng là mối quan tâm hàng đầu tại Microsoft. Thời gian khởi động nhóm đã được cải thiện và chúng tôi sẽ tiếp tục cải thiện nhóm, bao gồm cả tiêu thụ tài nguyên tổng thể.  
+Hiệu suất và trải nghiệm người dùng tuyệt vời là những vấn đề hàng đầu của Microsoft. Teams đầu ra đã được cải thiện và chúng tôi sẽ tiếp tục cải thiện khả năng Teams, bao gồm cả việc sử dụng tài nguyên tổng thể.  
 
-Để biết thêm thông tin về việc sử dụng nhóm và tài nguyên, hãy xem cách các nhóm [Microsoft sử dụng bộ nhớ](https://docs.microsoft.com/microsoftteams/teams-memory-usage-perf)  và  [nhóm là chậm trong cuộc họp video trên máy tính xách tay neo vào 4k/HDR màn](https://docs.microsoft.com/MicrosoftTeams/troubleshoot/known-issues/teams-slow-video-meetings-laptops-4k)hình.
+Để biết thông tin về Teams và việc sử dụng tài nguyên, hãy xem cách [Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-memory-usage-perf) sử dụng bộ nhớ và Teams trong các cuộc họp video trên máy tính xách tay được neo vào màn hình [4K/HDR](https://docs.microsoft.com/MicrosoftTeams/troubleshoot/known-issues/teams-slow-video-meetings-laptops-4k).

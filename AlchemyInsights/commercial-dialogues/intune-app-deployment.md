@@ -1,5 +1,5 @@
 ---
-title: Quy trình triển khai ứng dụng InTune
+title: Quy trình Triển khai Ứng dụng Intune
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700002"
 - "7680"
-ms.openlocfilehash: 90ba640f262599141a3f2a9c067268c039efad75
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: d6a0f6f8a9186a97561e7668f32effe0fd1ab156b467b260d5ebef5dbd6b9ff8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748748"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54034452"
 ---
-# <a name="intune-app-deployment-process"></a>Quy trình triển khai ứng dụng InTune
+# <a name="intune-app-deployment-process"></a>Quy trình Triển khai Ứng dụng Intune
 
-Triển khai các ứng dụng bằng InTune sau quy trình dưới đây:
+Việc triển khai ứng dụng với Intune tuân theo quy trình dưới đây:
 
-- Thêm ứng dụng-bạn có thể thêm ứng dụng lưu trữ ứng dụng hoặc tải lên một dòng ứng dụng Business.
-- Gán một ứng dụng-xác định phạm vi triển khai ứng dụng.
-- Giám sát ứng dụng-xem trạng thái cài đặt của ứng dụng, danh sách các ứng dụng đã phát hiện và quản lý các ứng dụng đã mua từ các cửa hàng ứng dụng.
-- [Ứng dụng này đã triển khai SDK InTune. Để có danh sách các ứng dụng hỗ trợ SDK, hãy xem các ứng dụng đã được bảo vệ của Microsoft InTune](https://docs.microsoft.com/mem/intune/apps/apps-supported-intune-apps).
+- Thêm ứng dụng - Bạn có thể thêm ứng dụng App Store hoặc tải lên ứng dụng Dòng Nghiệp vụ.
+- Gán ứng dụng - Xác định phạm vi triển khai của ứng dụng.
+- Ứng dụng theo dõi - Xem trạng thái cài đặt của ứng dụng, danh sách các ứng dụng được phát hiện và quản lý các ứng dụng được mua từ cửa hàng ứng dụng.
+- [Ứng dụng đã thực thi SDK Intune. Để biết danh sách các ứng dụng hỗ trợ SDK, hãy xem phần Xem các ứng Microsoft Intune được bảo vệ.](https://docs.microsoft.com/mem/intune/apps/apps-supported-intune-apps)
 
-[Đọc thêm về việc triển khai và quản lý trong ứng dụng InTune...](https://docs.microsoft.com/mem/intune/apps/app-management)
+[Đọc thêm về việc triển khai và quản lý ứng dụng Intune...](https://docs.microsoft.com/mem/intune/apps/app-management)

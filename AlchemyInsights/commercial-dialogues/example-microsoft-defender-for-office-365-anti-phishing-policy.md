@@ -1,5 +1,5 @@
 ---
-title: Ví dụ về Microsoft Defender cho chính sách chống lừa đảo qua Office 365
+title: Ví dụ về Bộ bảo vệ Microsoft Office 365 sách chống lừa đảo qua web
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: eabff70c22b641627d3ab6c0b2f8846a0be2f49e
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: b59abdeea6ac9be7e498e2b1ba531e7bf611c92097fbc12237e78364dae84f35
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50751116"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54035028"
 ---
-# <a name="example-microsoft-defender-for-office-365-anti-phishing-policy"></a>Ví dụ về Microsoft Defender cho chính sách chống lừa đảo qua Office 365
+# <a name="example-microsoft-defender-for-office-365-anti-phishing-policy"></a>Ví dụ về Bộ bảo vệ Microsoft Office 365 sách chống lừa đảo qua web
 
-Các thiết đặt này cho phép một chính sách có tên là *Domain và CEO*. Chính sách này cung cấp cho cả người dùng và bảo vệ tên miền khỏi mạo danh và sau đó áp dụng chính sách cho tất cả người dùng nhận được email bên trong tên miền. Trước tiên, hãy thêm thông tin sau đây để tạo chính sách:
+Những thiết đặt này kích hoạt một chính sách gọi *là Tên miền và Tổng Giám đốc*. Chính sách này cung cấp cả bảo vệ người dùng và tên miền khỏi mạo danh và sau đó áp dụng chính sách cho tất cả email mà người dùng trong miền nhận được. Trước tiên, hãy thêm các thông tin sau đây để tạo chính sách:
 
-- **Tên**: Domain và CEO **mô tả**: đảm bảo rằng giám đốc điều hành và tên miền của bạn đang không bị mạo danh.
-  Được **áp dụng cho**: chọn **tên miền của người nhận**. Bên dưới **bất kỳ phần nào trong số này**, hãy chọn **chọn**, rồi chọn tên miền. Chọn **+ Thêm**. Chọn hộp kiểm bên cạnh tên miền trong danh sách (ví dụ, *contoso.com*), rồi chọn **Thêm**. Chọn đã **xong**.
-- Sau khi chính sách được tạo ra, bạn có thể tinh chỉnh chính sách bằng cách sử dụng các tùy chọn sau đây:
-  - **Thêm người dùng để bảo vệ:** Đối với ví dụ này, hãy thêm địa chỉ email của giám đốc điều hành, ở mức tối thiểu.
-  - **Thêm tên miền để bảo vệ**: thêm tên miền tổ chức bao gồm Office của giám đốc điều hành.
-  - **Chọn hành động**: **nếu email được gửi bởi người dùng mạo** danh, hãy chọn **chuyển hướng thư đến một địa chỉ email khác**, sau đó nhập địa chỉ email của người quản trị bảo mật (ví dụ, *securityadmin@contoso.com*). **Nếu email được gửi bởi tên miền mạo** danh, hãy chọn cách **ly thư**.
-  - **Thông minh trong hộp thư**: theo mặc định, tùy chọn này được chọn khi bạn tạo chính sách chống lừa đảo qua mạng mới. Rời khỏi thiết đặt này để có kết quả **tốt nhất.**
-  - **Thêm người gửi và tên miền đáng tin cậy:** Đối với ví dụ này, không xác định ghi đè.
-- Sau khi bạn đã xem lại các thiết đặt của mình, hãy chọn **tạo chính sách này** hoặc **lưu**, như phù hợp.
+- **Tên**: Mô tả Tên miền **và Giám** đốc Điều hành : Đảm bảo rằng Tổng Giám Đốc và tên miền của bạn không bị mạo danh.
+  **Áp dụng cho:** Chọn **miền người nhận là**. Bên **dưới bất kỳ dịch vụ** nào trong số **này, chọn** Chọn , rồi chọn một miền. Chọn **+ Thêm**. Chọn hộp kiểm cạnh tên miền trong danh sách (ví dụ: tên miền *contoso.com*), sau đó chọn **Thêm**. Chọn **Xong**.
+- Sau khi chính sách được tạo, bạn có thể tinh chỉnh chính sách bằng cách sử dụng các tùy chọn sau đây:
+  - **Thêm người dùng để bảo vệ:** Ví dụ: thêm địa chỉ email của Tổng Giám đốc ở mức tối thiểu.
+  - **Thêm miền để bảo vệ:** Thêm miền tổ chức có chứa văn phòng Tổng Giám đốc.
+  - **Chọn hành** động : Đối với Nếu email được gửi bởi người dùng mạo danh, hãy chọn Chuyển hướng thư đến địa chỉ **email** khác , rồi nhập địa chỉ **email** của người quản trị bảo mật (ví dụ: *securityadmin@contoso.com).* Đối **với Nếu email được gửi bởi một tên miền mạo danh,** chọn **Cách ly thư**.
+  - **Thông minh** hộp thư : Theo mặc định, tùy chọn này được chọn khi bạn tạo một chính sách chống lừa đảo mới. Để cài đặt này **là Bật để** có kết quả tốt nhất.
+  - **Thêm người gửi và tên miền tin cậy:** Ví dụ: không xác định bất kỳ ghi đè nào.
+- Sau khi đã xem lại cài đặt của mình, chọn **Tạo chính sách này hoặc** **Lưu**, tùy trường hợp.
 
-Để tìm hiểu thêm, hãy xem [chính sách chống lừa đảo trong Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2092235).
+Để tìm hiểu thêm, hãy [xem chính sách Chống lừa đảo qua Microsoft 365.](https://go.microsoft.com/fwlink/?linkid=2092235)

@@ -1,5 +1,5 @@
 ---
-title: Không thể truy nhập vào cổng thông ATP của Bộ bảo vệ Microsoft tin
+title: Không thể truy nhập vào cổng thông tin ATP của Bộ bảo vệ Microsoft
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "6030"
 - "9001222"
-ms.openlocfilehash: 8ceba944c8aba183d0622f528658ead8430faa2c
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 71b82307b3491d5d9dbd6cf4325c33645e036475a3a8a5a563e6e84e921fe52a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52545434"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54020394"
 ---
-# <a name="unable-to-access-the-microsoft-defender-atp-portal"></a>Không thể truy nhập vào cổng thông ATP của Bộ bảo vệ Microsoft tin
+# <a name="unable-to-access-the-microsoft-defender-atp-portal"></a>Không thể truy nhập vào cổng thông tin ATP của Bộ bảo vệ Microsoft
 
-Nếu nhận được **thư,** bạn không được phép truy nhập vào cổng thông tin , hãy lưu ý rằng ATP của Bộ bảo vệ Microsoft là giám sát bảo mật, điều tra sự cố và phản hồi sản phẩm, đồng thời quyền truy nhập bị hạn chế và kiểm soát bởi người dùng. 
+Nếu nhận được tin **nhắn,** bạn không được phép truy nhập vào cổng thông tin , hãy lưu ý rằng ATP của Bộ bảo vệ Microsoft là giám sát bảo mật, điều tra sự cố và phản hồi sản phẩm, đồng thời quyền truy nhập bị hạn chế và kiểm soát bởi người dùng. 
 
 Để biết thêm thông tin, hãy [xem mục Gán quyền truy nhập người dùng vào Trung tâm Bảo mật của Bộ bảo vệ Microsoft.](/windows/threat-protection/windows-defender-atp/assign-portal-access-windows-defender-advanced-threat-protection)

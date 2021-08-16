@@ -1,5 +1,5 @@
 ---
-title: Cách người dùng có thể tìm kiếm lưu trữ trực tuyến của họ cho thư
+title: Cách người dùng có thể tìm kiếm thư lưu trữ trực tuyến của họ
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100008"
 - "7255"
-ms.openlocfilehash: 7ca502ea118503e9b5a854fce1bb8c6239d780f6
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 7c5d4e29cf3d18493ea4a46fa75c3586aeb456c9dbfd55e116caa67b6cd11202
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748931"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54034524"
 ---
-# <a name="how-users-can-search-their-online-archive-for-messages"></a>Cách người dùng có thể tìm kiếm lưu trữ trực tuyến của họ cho thư
+# <a name="how-users-can-search-their-online-archive-for-messages"></a>Cách người dùng có thể tìm kiếm thư lưu trữ trực tuyến của họ
 
-Lưu trữ trực tuyến là một tính năng dành cho khách hàng của Office 365 Enterprise có các hộp thư lớn không phổ biến. Các hành động lưu trữ trực tuyến của người dùng giống như một tài khoản thứ hai trong Outlook với cấu trúc thư mục riêng của nó. Để tìm email trong kho lưu trữ trực tuyến của bạn:
+Lưu trữ trực tuyến là một tính năng dành Office 365 khách hàng doanh nghiệp có hộp thư lớn đặc biệt. Lưu trữ trực tuyến của người dùng hoạt động tương tự như một tài khoản thứ hai trong Outlook với cấu trúc thư mục riêng của mình. Để tìm email trong kho lưu trữ trực tuyến của bạn:
 
-1. Kho lưu trữ trực tuyến không được bao gồm trong các tìm kiếm được thực hiện từ hộp thư đến. Bạn phải đi đến kho lưu trữ trực tuyến và sau đó thực hiện tìm kiếm.
-2. Trong Outlook trên web, lưu trữ được gọi là *lưu trữ tại chỗ*. Đi đến hộp thư lưu trữ In-Place và sau đó thực hiện tìm kiếm của bạn.
-3. Trong Outlook 2016, tên *lưu trữ trực tuyến `name` >* được gọi là <. Đi đến hộp thư lưu trữ trực tuyến và sau đó thực hiện tìm kiếm của bạn.
+1. Nội dung lưu trữ trực tuyến không được đưa vào các tìm kiếm được thực hiện từ Hộp thư đến. Bạn phải đi đến kho lưu trữ trực tuyến, rồi thực hiện tìm kiếm.
+2. Trong Outlook trên web, lưu trữ được gọi là *Lưu trữ Tại Chỗ*. Đi tới hộp thư In-Place lưu trữ, rồi thực hiện tìm kiếm của bạn.
+3. Trong Outlook 2016, nơi này có tên là *Lưu `name` > trữ Trực tuyến - <.* Đi tới hộp thư Lưu trữ trực tuyến, rồi thực hiện tìm kiếm của bạn.
 
 > [!TIP]
-> Người dùng không thể truy nhập vào hộp thư lưu trữ trực tuyến của họ bằng cách sử dụng Outlook trên thiết bị di động, chẳng hạn như điện thoại thông minh.
+> Người dùng không thể truy nhập vào hộp thư lưu trữ trực tuyến của mình bằng Outlook thiết bị di động, chẳng hạn như điện thoại thông minh.

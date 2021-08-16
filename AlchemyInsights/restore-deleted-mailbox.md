@@ -15,24 +15,24 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: e6112a76-bbb6-4c22-b2e6-690b004d92d4
-ms.openlocfilehash: 14d2c9b1fe6764f5cd3a5a968586a19a03b62694
-ms.sourcegitcommit: 1b554c31d008492f9e6464f0249af0332212a3fc
+ms.openlocfilehash: 07ad754a927be92ece07f91c5a64d8084c96d0344925467a195033bdd3f445ac
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50641540"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54075098"
 ---
 # <a name="restore-a-deleted-mailbox"></a>Khôi phục hộp thư đã xóa
 
-Khi người dùng mất giấy phép Exchange Online, hộp thư của họ được giữ lại trong 30 ngày và có thể được phục hồi bằng cách chỉ tái gán giấy phép cho người dùng.
+Khi người dùng mất giấy phép Exchange Online, hộp thư của họ sẽ được giữ lại trong 30 ngày và có thể phục hồi bằng cách chỉ cần gán lại giấy phép cho người dùng.
   
-1. Trong Trung tâm quản trị Microsoft 365, hãy đến trang **người dùng** hiện \> **hoạt** . Chọn người dùng trong câu hỏi.
+1. Trong Trung tâm quản trị Microsoft 365, đi đến trang Người **dùng** \> **Người dùng hiện** hoạt. Chọn người dùng đề cập.
 
-2. Trên tab **giấy phép và ứng dụng** , gán giấy phép Exchange Online, rồi chọn **lưu thay đổi**.
+2. Trên tab **Giấy phép và Ứng dụng,** gán giấy phép Exchange Online và chọn Lưu thay **đổi.**
 
-Nếu bạn đang tìm cách khôi phục hộp thư chung hoặc người dùng đã bị xóa, tài liệu đó cũng sẽ có thể thu hồi trong 30 ngày. Bạn có thể tìm thấy chúng trong phần **người** dùng \> **đã xóa người dùng**; hộp thư dùng chung không yêu cầu giấy phép. Vui lòng xem [khôi phục người dùng](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user).
+Nếu bạn đang tìm cách khôi phục hộp thư chung hoặc người dùng đã bị xóa, bạn cũng có thể khôi phục trong 30 ngày. Bạn có thể tìm thấy trong phần **Người dùng** \> **người dùng** đã xóa ; hộp thư chung không yêu cầu giấy phép. Vui lòng xem [Khôi phục người dùng.](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user)
 
-Khôi phục email từ hộp thư của người dùng có thể được quản trị viên bằng cách đi đến [Trung tâm quản trị Exchange mới](https://techcommunity.microsoft.com/t5/exchange-team-blog/a-new-recoverableitems-experience-comes-to-exchange-online/ba-p/1505353).
+Người quản trị có thể thực hiện khôi phục email từ hộp thư của người dùng bằng cách đi đến [Trung tâm Quản Exchange Mới.](https://techcommunity.microsoft.com/t5/exchange-team-blog/a-new-recoverableitems-experience-comes-to-exchange-online/ba-p/1505353)
 
-Cuối cùng, nếu bạn đang tìm cách khôi phục hộp thư không hoạt động, [hãy làm theo các hướng dẫn ở đây](https://docs.microsoft.com/microsoft-365/compliance/recover-an-inactive-mailbox).
+Cuối cùng, nếu bạn đang cố gắng khôi phục hộp thư Không hoạt động, hãy [làm theo các hướng dẫn ở đây](https://docs.microsoft.com/microsoft-365/compliance/recover-an-inactive-mailbox).
   

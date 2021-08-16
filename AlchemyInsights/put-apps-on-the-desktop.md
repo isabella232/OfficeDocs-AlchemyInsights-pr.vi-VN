@@ -1,5 +1,5 @@
 ---
-title: Đặt các ứng dụng trên máy tính
+title: Đặt ứng dụng trên màn hình nền
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001668"
 - "3735"
-ms.openlocfilehash: e04a6c9d29df92d65d120e6f9907cb82661fc912
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: fef1b01647ca0a2828f6b1f09bc9850b54da777edd04d2fd76e6c79579fbefcc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835869"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54075166"
 ---
-# <a name="put-apps-on-the-desktop"></a>Đặt các ứng dụng trên máy tính
+# <a name="put-apps-on-the-desktop"></a>Đặt ứng dụng trên màn hình nền
 
-Tìm kiếm ứng dụng trong menu **bắt đầu** và lấy biểu tượng ứng dụng bằng cách giữ nút chuột trái và di chuyển biểu tượng đến màn hình nền.
+Tìm kiếm ứng dụng trong **menu** Bắt đầu và chọn biểu tượng ứng dụng bằng cách nhấn và giữ nút chuột trái và di chuyển biểu tượng đến màn hình nền.
 
-Bạn cũng có thể nhấn **phím Windows + R** rồi nhập lệnh này:
+Bạn cũng có thể **nhấn Windows phím + R,** rồi nhập lệnh sau:
 
 `shell:appsfolder`
 
-Điều này sẽ mở thư mục **ứng dụng** trong **file Explorer**. Bây giờ bạn có thể kéo và thả biểu tượng ứng dụng vào màn hình nền.
+Làm như vậy sẽ mở **thư mục Ứng** dụng trong File **Explorer.** Bây giờ, bạn có thể kéo và thả biểu tượng ứng dụng vào màn hình nền.
