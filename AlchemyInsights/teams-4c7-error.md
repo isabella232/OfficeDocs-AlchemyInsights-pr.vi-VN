@@ -1,5 +1,5 @@
 ---
-title: Lỗi nhóm 6c 7
+title: Teams lỗi 4c7
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3472"
 - "9001211"
-ms.openlocfilehash: 51f2aa936e803b63bcbdf73b89959cd3a1757751
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: ea3e8f23c07103e604fc6b264047582b9c3e26b6b73237adc30eba574e06cfd3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51786691"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54049330"
 ---
-# <a name="4c7-error-in-microsoft-teams"></a>lỗi 6x7 trong Microsoft nhóm
+# <a name="4c7-error-in-microsoft-teams"></a>Lỗi 4c7 trong Microsoft Teams
 
-Lỗi này xảy ra vì Microsoft nhóm yêu cầu xác thực biểu mẫu. Khi bạn triển khai các dịch vụ liên kết Active Directory (AD FS), xác thực biểu mẫu không được kích hoạt cho mạng nội bộ theo mặc định. Nếu xác thực tích hợp Windows không thành công, bạn sẽ được nhắc đăng nhập bằng cách sử dụng xác thực biểu mẫu.
+Lỗi này xảy ra vì Microsoft Teams yêu cầu Xác thực Forms. Khi bạn triển khai Dịch vụ Liên kết Active Directory (AD FS), Xác thực Forms không được bật cho mạng nội bộ theo mặc định. Nếu Windows xác thực Tích hợp không thành công, bạn sẽ được nhắc đăng nhập bằng cách sử dụng Xác thực Forms.
 
-Để giải quyết sự cố này, hãy bật xác thực biểu mẫu bằng cách sử dụng trình điều khiển Microsoft Management Console (MMC) của AD FS trên máy tính có bản sao cục bộ của Active Directory. Caranya sebagai berikut: 
+Để giải quyết sự cố này, hãy bật Xác thực Forms bằng cách sử dụng phần đính vào Bảng điều khiển Quản lý Microsoft AD FS (MMC) trên máy tính có bản sao cục bộ của Active Directory. Caranya sebagai berikut: 
 
-1. Trong ngăn dẫn hướng, duyệt đến **chính sách xác thực**.
-2. Bên dưới **hành động** trong ngăn chi tiết, hãy chọn **chỉnh sửa xác thực toàn cầu chính**.
-3. Trên tab **intranet** , chọn **biểu mẫu xác thực**.
-4. Chọn **OK** (hoặc **áp dụng**).
+1. Trong ngăn dẫn hướng, duyệt đến Chính **sách Xác thực**.
+2. Bên dưới **Hành** động trong ngăn chi tiết, chọn Chỉnh **sửa xác thực chính toàn cầu**.
+3. Trên tab **Mạng nội bộ,** chọn Xác **thực Biểu mẫu**.
+4. Chọn **OK** (hoặc **Áp dụng**).

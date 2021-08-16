@@ -1,5 +1,5 @@
 ---
-title: Bật kiểm tra hộp thư
+title: Bật tính năng kiểm tra hộp thư
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: aa0ff925ae891d28e31394ec66eb17c2d9710008
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 797dd57aaa43e879c015a36c79c8c9fb13e04ae894b33b0f7c6d9694d1ae1960
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50483549"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54058060"
 ---
-# <a name="turn-on-mailbox-auditing"></a>Bật kiểm tra hộp thư
+# <a name="turn-on-mailbox-auditing"></a>Bật tính năng kiểm tra hộp thư
 
-Để bật tính năng kiểm tra hộp thư cho một người dùng duy nhất hoặc toàn bộ tổ chức, hãy chạy các lệnh ghép ngắn sau đây từ Remote PowerShell:
+Để bật tính năng kiểm tra hộp thư cho một người dùng hoặc toàn bộ tổ chức, hãy chạy lệnh ghép ngắn sau từ PowerShell Từ xa:
 
-- **Người dùng**: Set-Mailbox-Identity "Jane Dow"-AuditEnabled $True
-- **Tổ chức**: Get-Mailbox-ResultSize không giới hạn-Filter {RecipientTypeDetails-EQ "usermailbox"} | Set-Mailbox-AuditEnabled $true
+- **Người dùng đơn** lẻ : Set-Mailbox -Identity "Jane Dow" -AuditEnabled $true
+- **Tổ** chức : Get-Mailbox -ResultSize Unlimited -Filter {RecipientTypeDetails -eq "UserMailbox"} | Set-Mailbox -AuditEnabled $true
 
-Để tìm hiểu thêm, hãy xem [quản lý kiểm tra hộp thư](https://go.microsoft.com/fwlink/?linkid=2103668).
+Để tìm hiểu thêm, xem mục [Quản lý kiểm tra hộp thư](https://go.microsoft.com/fwlink/?linkid=2103668).

@@ -1,5 +1,5 @@
 ---
-title: Sử dụng bảo vệ quản lý quyền với Microsoft 365
+title: Sử dụng Rights Management Protection với Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,19 +13,19 @@ ms.custom:
 - "9001670"
 - "3737"
 - "3820"
-ms.openlocfilehash: 8b3eec34c3c5be2ffbf5cec73adf0637600b13ec
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: b57387176c9a3098c1967da953c6f178ea174204f5a31334f71ddd143d66d92c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51770941"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53998524"
 ---
-# <a name="use-rights-management-protection-with-microsoft-365"></a>Sử dụng bảo vệ quản lý quyền với Microsoft 365
+# <a name="use-rights-management-protection-with-microsoft-365"></a>Sử dụng Rights Management Protection với Microsoft 365
 
-Bạn phải kích hoạt [dịch vụ quản lý quyền (RMS)](https://docs.microsoft.com/azure/information-protection/what-is-azure-rms) trước khi bạn có thể sử dụng các tính năng quản lý quyền thông tin (IRM) trong các ứng dụng và dịch vụ của Microsoft.
+Bạn phải kích hoạt [dịch vụ Rights Management (RMS)](https://docs.microsoft.com/azure/information-protection/what-is-azure-rms) trước khi có thể dùng các tính năng Quản trị Quyền Thông tin (IRM) của các ứng dụng và dịch vụ Microsoft.
 
-1. Đối với yêu cầu cấp phép và kích hoạt từ **Trung tâm quản trị microsoft 365**, hãy xem mục [cách kích hoạt bảo vệ quản lý quyền từ Trung tâm quản trị Microsoft 365](https://docs.microsoft.com/azure/information-protection/activate-office365). **Lưu ý**: yêu cầu tài khoản quản trị toàn cầu.
+1. Để biết các yêu cầu giấy phép và kích hoạt **từ Trung tâm quản trị Microsoft 365,** hãy [xem Cách kích hoạt Rights Management Protection từ Trung tâm quản trị Microsoft 365.](https://docs.microsoft.com/azure/information-protection/activate-office365) **Lưu ý:** Yêu cầu tài khoản quản trị toàn cầu.
 
-2. Đối với yêu cầu cấp phép và kích hoạt từ **Azure Portal**, hãy xem [cách kích hoạt dịch vụ bảo vệ quyền quản lý từ Azure Portal](https://docs.microsoft.com/azure/information-protection/activate-azure). **Lưu ý**: không yêu cầu tài khoản người quản trị toàn cầu.
+2. Để biết các yêu cầu giấy phép và kích **hoạt từ Cổng thông tin Azure,** hãy xem Cách kích hoạt dịch vụ bảo vệ Quản lý Quyền từ cổng thông tin [Azure.](https://docs.microsoft.com/azure/information-protection/activate-azure) **Lưu ý:** Không yêu cầu Tài khoản Người quản trị Toàn cầu.
 
-Để biết thêm thông tin, hãy xem con [trỏ để biết thông tin về quản lý quyền trong Trung tâm quản trị](https://docs.microsoft.com/office365/enterprise/activate-rms-in-office-365).
+Để biết thêm thông tin, hãy [xem mục Trỏ tới thông tin về Quản lý Quyền trong trung tâm quản trị](https://docs.microsoft.com/office365/enterprise/activate-rms-in-office-365).

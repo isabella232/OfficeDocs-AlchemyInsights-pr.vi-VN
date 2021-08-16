@@ -1,5 +1,5 @@
 ---
-title: Quản lý lưu trữ SharePoint hoặc OneDrive của bạn
+title: Quản lý thiết bị SharePoint hoặc bộ OneDrive của bạn
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,29 +12,29 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8b0e6b9b-67c9-4716-8602-ebb58b364ef9
-ms.openlocfilehash: d1f34740e93a666d72b691d0d16ca2a40a28c5a9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9653f61da65f6aeb77ba33cb7eaf7f508ec7da8d38c3b32c2c30ea519d31ada6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662923"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54077816"
 ---
-# <a name="manage-your-sharepoint-or-onedrive-storage"></a>Quản lý lưu trữ SharePoint hoặc OneDrive của bạn
+# <a name="manage-your-sharepoint-or-onedrive-storage"></a>Quản lý thiết bị SharePoint hoặc bộ OneDrive của bạn
 
- **SharePoint Online**
+ **SharePoint Trực tuyến**
   
-Đối với hầu hết các tổ chức, lưu trữ SharePoint được quản lý tự động, do đó bạn không cần đặt giới hạn cho mỗi tuyển tập trang. Để kiểm tra xem có bao nhiêu dung lượng lưu trữ SharePoint của bạn:
+Đối với hầu hết các tổ chức, SharePoint trữ được quản lý tự động nên bạn không cần đặt giới hạn cho từng tuyển tập site. Để kiểm tra dung lượng SharePoint lưu trữ của bạn:
   
-- Trong Trung tâm quản trị SharePoint mới, ở phía trên bên phải của trang site, hãy tìm dung lượng lưu trữ sẵn dùng và tổng của bạn.
+- Trong trung tâm quản SharePoint mới, ở phía trên bên phải của trang site, hãy tìm dung lượng lưu trữ sẵn có và tổng dung lượng lưu trữ của bạn.
     
-Để biết thông tin về cách tính toán giới hạn của bạn, hãy xem [giới hạn SharePoint Online](https://go.microsoft.com/fwlink/p/?LinkID=856113). Để mua thêm dung lượng lưu trữ, hãy xem [thay đổi dung lượng lưu trữ cho thuê bao của bạn](https://go.microsoft.com/fwlink/?linkid=866428).
+Để biết cách tính toán giới hạn của bạn, hãy xem [mục SharePoint giới hạn Trực tuyến](https://go.microsoft.com/fwlink/p/?LinkID=856113). Để mua thêm dung lượng lưu trữ, xem [mục Thay đổi dung lượng lưu trữ cho đăng ký của bạn](https://go.microsoft.com/fwlink/?linkid=866428).
   
  **OneDrive**
   
-Để thay đổi dung lượng lưu trữ mặc định cho người dùng OneDrive mới và hiện có:
+Để thay đổi dung lượng lưu trữ mặc định cho người dùng mới và OneDrive hiện tại:
   
-- Đi đến [trang lưu trữ của Trung tâm quản trị OneDrive](https://admin.onedrive.com/?v=StorageSettings), rồi nhập một số lượng mới trong GB.
+- Đi đến trang [Dung lượng lưu trữ của OneDrive tâm quản trị viên](https://admin.onedrive.com/?v=StorageSettings), rồi nhập một số tiền mới tính theo GB.
     
-Để kiểm tra xem có bao nhiêu dung lượng lưu trữ mà bạn đang dùng trong OneDrive của riêng bạn, hãy xem [quản lý dung lượng lưu trữ OneDrive for Business của](https://go.microsoft.com/fwlink/?linkid=866429)bạn. Để biết thông tin về dung lượng lưu trữ đi kèm với mỗi gói đăng ký, hãy xem [mô tả Dịch vụ Onedrive for Business](https://go.microsoft.com/fwlink/p/?LinkID=826071).
+Để kiểm tra xem bạn đang sử dụng bao nhiêu dung lượng lưu trữ trong kho lưu trữ OneDrive, hãy xem mục [Quản lý dung lượng OneDrive for Business lưu trữ của bạn.](https://go.microsoft.com/fwlink/?linkid=866429) Để biết thông tin về dung lượng lưu trữ đi kèm với mỗi gói, hãy xem [mục Mô OneDrive for Business dịch vụ mới.](https://go.microsoft.com/fwlink/p/?LinkID=826071)
   
 
