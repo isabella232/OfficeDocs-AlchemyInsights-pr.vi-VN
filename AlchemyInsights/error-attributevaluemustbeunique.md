@@ -1,5 +1,5 @@
 ---
-title: Lỗi AttributeValueMustBeUnique
+title: Thuộc tính LỗiValueMustBeUnique
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,23 +12,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bf8ac830-6f0c-4616-827d-987616700e59
-ms.openlocfilehash: 35eb88624a5535e136ac1d01faf8e905bf00eb45
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 37d6764d19d9cfbb0899a5ab85a4b1530896568adc364122075b7d6f2a32970a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51813782"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54002149"
 ---
 # <a name="error-attributevaluemustbeunique"></a>Lỗi: AttributeValueMustBeUnique
 
-Lý do phổ biến nhất đối với lỗi AttributeValueMustBeUnique là hai đối tượng với SourceAnchor khác nhau (Immudtableid) có cùng một giá trị cho ProxyAddresses và/hoặc UserPrincipalName thuộc tính. Để khắc phục lỗi Attributevaluemustbemust:
+Lý do phổ biến nhất cho lỗi AttributeValueMustBeUnique là hai đối tượng có các thuộc tính SourceAnchor (immutableId) khác nhau có cùng giá trị cho các thuộc tính ProxyAddresses và/hoặc UserPrincipalName. Cách khắc phục lỗi AttributeValueMustBeUnique:
   
-1. Xác định các proxyAddresses trùng lặp, userPrincipalName hoặc giá trị thuộc tính khác gây ra lỗi. Đồng thời, cũng xác định hai đối tượng (hoặc nhiều) liên quan đến cuộc xung đột. Báo cáo được tạo bởi Azure AD Connect Health for Sync có thể giúp bạn xác định hai đối tượng.
+1. Xác định proxyAddresses trùng lặp, userPrincipalName hoặc giá trị thuộc tính khác đang gây ra lỗi. Ngoài ra, xác định hai (hoặc nhiều) đối tượng liên quan đến xung đột. Báo cáo do Azure AD Kết nối Health tạo để đồng bộ có thể giúp bạn xác định hai đối tượng.
     
-2. Xác định đối tượng nào nên tiếp tục có giá trị trùng lặp và đối tượng nào không nên làm.
+2. Xác định đối tượng cần tiếp tục có giá trị trùng lặp và đối tượng nào không nên có.
     
-3. Loại bỏ giá trị trùng lặp ra khỏi đối tượng không nên có giá trị đó. Lưu ý rằng bạn nên thực hiện thay đổi trong thư mục ở đó đối tượng có nguồn gốc từ đó. Trong một số trường hợp, bạn có thể cần xóa một trong các đối tượng trong xung đột.
+3. Loại bỏ giá trị trùng lặp khỏi đối tượng không nên có giá trị đó. Lưu ý rằng bạn nên thực hiện thay đổi trong thư mục có nguồn gốc của đối tượng. Trong một số trường hợp, bạn có thể cần xóa một trong các đối tượng đang xung đột.
     
-4. Nếu bạn đã thực hiện thay đổi trong quảng cáo tại cơ sở, hãy để Azure AD kết nối đồng bộ thay đổi cho lỗi để khắc phục.
+4. Nếu bạn đã thực hiện thay đổi trong AD tại chỗ, hãy để Azure AD Kết nối đồng bộ thay đổi để khắc phục lỗi.
     
 

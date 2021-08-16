@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000730"
 - "9439"
-ms.openlocfilehash: 5cd58303b0629e55b0ed67157f9fcf01668fda1e
-ms.sourcegitcommit: 13d96a612b67e01c725d5c2a5a0212d824031f6e
+ms.openlocfilehash: 5481d1d63e6cf1f2fdbe1c17420dd041e5fe8b4f5be17a891b9e0bf871d27baf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50696312"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54002106"
 ---
 # <a name="how-to-manage-an-app"></a>Cách quản lý ứng dụng
 
 Để quản lý ứng dụng:
 
-- Bắt đầu với [quản lý các ứng dụng](https://admin.teams.microsoft.com/policies/manage-apps) trong Trung tâm quản trị nhóm Microsoft để thêm một ứng dụng cho tổ chức của bạn.
-- Bạn có thể sử dụng [chính sách cấp phép ứng dụng](https://admin.teams.microsoft.com/policies/app-permission) trong Trung tâm quản trị nhóm Microsoft để cho phép hoặc chặn ứng dụng và gán nó cho người dùng.
-- Để thay đổi thứ tự một ứng dụng được trình bày cho người dùng hoặc ghim ứng dụng, hãy dùng các [chính sách thiết lập ứng dụng](https://admin.teams.microsoft.com/policies/app-setup) trong Trung tâm quản trị nhóm Microsoft.
+- Bắt đầu với [Quản lý ứng](https://admin.teams.microsoft.com/policies/manage-apps) dụng trong trung Microsoft Teams quản trị Của bạn để thêm ứng dụng cho tổ chức của bạn.
+- Bạn có thể sử [dụng chính sách cấp](https://admin.teams.microsoft.com/policies/app-permission) phép ứng dụng trong trung tâm quản trị Microsoft Teams để cho phép hoặc chặn một ứng dụng và gán nó cho người dùng.
+- Để thay đổi thứ tự trình bày ứng dụng [](https://admin.teams.microsoft.com/policies/app-setup) cho người dùng hoặc để ghim ứng dụng, hãy sử dụng chính sách thiết lập ứng dụng trong Trung tâm quản Microsoft Teams Chính sách.
 
-Để biết thêm thông tin về cách tạo chính sách ứng dụng cho tổ chức của bạn, hãy xem:
+Để biết thêm thông tin về việc tạo chính sách ứng dụng cho tổ chức của bạn, hãy xem:
 
-- [Quản lý ứng dụng của bạn trong Trung tâm quản trị nhóm Microsoft](https://docs.microsoft.com/MicrosoftTeams/manage-apps)
-- [Quản lý chính sách cấp phép ứng dụng trong Microsoft nhóm](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)
-- [Quản lý các chính sách thiết lập ứng dụng trong Microsoft nhóm](https://docs.microsoft.com/microsoftteams/teams-app-setup-policies)
+- [Quản lý ứng dụng của bạn trong trung Microsoft Teams trị viên](https://docs.microsoft.com/MicrosoftTeams/manage-apps)
+- [Quản lý chính sách cấp phép ứng dụng trong Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)
+- [Quản lý chính sách thiết lập ứng dụng trong Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-app-setup-policies)

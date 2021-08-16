@@ -1,5 +1,5 @@
 ---
-title: Mã Facebook Outlook.com
+title: Outlook.com mã Facebook
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1967"
 - "9000338"
-ms.openlocfilehash: aca8bcd07567116639d42254138513db573c8115
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f4e17b68de85fa3b7d446523380e0a2780802bfe01d4c3df133f4b7231a0d16c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47672078"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063974"
 ---
-# <a name="not-receiving-facebook-codes-using-outlookcom"></a>Bạn không nhận được mã Facebook bằng cách sử dụng Outlook.com
+# <a name="not-receiving-facebook-codes-using-outlookcom"></a>Không nhận được mã Facebook bằng cách sử Outlook.com
 
 Nếu bạn yêu cầu mật khẩu mới từ Facebook nhưng không nhận được email đặt lại mật khẩu của bạn:
 
-- Kiểm tra thư [mục thư rác hoặc thư rác](https://outlook.live.com/mail/junkemail)của bạn.
-- Hãy thử [đặt lại mật khẩu Facebook của bạn](https://aka.ms/facebook-password-reset).
+- Kiểm tra thư [mục thư rác hoặc thư mục thư rác .](https://outlook.live.com/mail/junkemail)
+- Hãy thử [đặt lại mật khẩu Facebook của bạn.](https://aka.ms/facebook-password-reset)
 
-Nếu bạn không thể đặt lại mật khẩu của mình bởi vì bạn không thể truy nhập vào email hoặc số điện thoại di động trên tài khoản của mình, hãy thử các [Mẹo đặt lại mật khẩu của Facebook](https://aka.ms/facebook-password-help).
+Nếu bạn không thể đặt lại mật khẩu vì không thể truy nhập email hoặc số điện thoại di động trên tài khoản của mình, hãy thử Đặt lại Mật khẩu của [Facebook](https://aka.ms/facebook-password-help)Mẹo.
