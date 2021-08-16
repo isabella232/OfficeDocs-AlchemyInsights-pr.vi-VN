@@ -1,5 +1,5 @@
 ---
-title: Kết hợp gia nhập với thiết bị kế thừa Windows
+title: Liên kết kết hợp với các Windows kế thừa
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "6137"
 - "9003244"
-ms.openlocfilehash: 03cc7753d1cfd93c2d87d7f2ab52ca2a2653ea84
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b4b5fdf79fc7eb4cc9124ef740a68d3425f2c9b023b792f3d2538a29dd1ad7c2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47743739"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54015030"
 ---
-# <a name="hybrid-join-with-windows-legacy-devices"></a>Kết hợp gia nhập với thiết bị kế thừa Windows
+# <a name="hybrid-join-with-windows-legacy-devices"></a>Liên kết kết hợp với các Windows kế thừa
 
-Để biết hướng dẫn về cách giải quyết các vấn đề tiềm ẩn đối với các thiết bị kết hợp Windows Azure Active Directory (Azure AD) Windows, hãy xem [khắc phục sự cố các thiết bị kết hợp Active Directory gia nhập xuống cấp](https://docs.microsoft.com/azure/active-directory/devices/troubleshoot-hybrid-join-windows-legacy). 
+Để biết hướng dẫn về cách giải quyết các sự cố tiềm ẩn với thiết bị kết hợp Azure Active Directory (Azure AD) Windows thừa tự, hãy xem mục Khắc phục sự cố kết hợp Azure Active Directory nối các thiết bị cấp [độ xuống.](https://docs.microsoft.com/azure/active-directory/devices/troubleshoot-hybrid-join-windows-legacy) 

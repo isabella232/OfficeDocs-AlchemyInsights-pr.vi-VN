@@ -1,5 +1,5 @@
 ---
-title: Trình hướng dẫn cấu hình hỗn hợp
+title: Trình hướng dẫn Cấu hình Kết hợp
 ms.author: dstrome
 author: dstrome
 manager: dansimp
@@ -13,19 +13,19 @@ ms.custom:
 - "603"
 - "3500010"
 ms.assetid: 94bdd043-be92-435e-8e0f-7ce453368919
-ms.openlocfilehash: 13361962fe2a3ee88a820c44c0839611c2b9b4e2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: afb38121fdfbd244da39377a19f6756a5f0370f6707fade98eaf53def6981696
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47743786"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54015066"
 ---
-# <a name="hybrid-configuration-wizard"></a>Trình hướng dẫn cấu hình hỗn hợp
+# <a name="hybrid-configuration-wizard"></a>Trình hướng dẫn Cấu hình Kết hợp
 
-Trình hướng dẫn cấu hình hỗn hợp là một ứng dụng giúp bạn thiết lập triển khai kết hợp mới giữa tổ chức Exchange tại chỗ của bạn và Microsoft 365. Nếu bạn đã thiết lập triển khai kết hợp, trình hướng dẫn sẽ giúp bạn Cập Nhật thiết đặt triển khai kết hợp. Để biết thêm thông tin, hãy xem:
+Trình hướng dẫn Cấu hình Kết hợp là một ứng dụng giúp bạn thiết lập triển khai kết hợp mới giữa tổ chức Exchange tại chỗ và tổ chức Microsoft 365. Nếu bạn đã thiết lập triển khai hỗn hợp, trình hướng dẫn sẽ giúp bạn cập nhật thiết đặt triển khai kết hợp của mình. Để biết thêm thông tin, hãy xem:
   
-- [Trình hướng dẫn chạy cấu hình hỗn hợp](https://technet.microsoft.com/library/mt595788%28v=exchg.150%29.aspx)
+- [Trình hướng dẫn Chạy Cấu hình Kết hợp](https://technet.microsoft.com/library/mt595788%28v=exchg.150%29.aspx)
 
-- [Trình hướng dẫn cấu hình hỗn hợp](https://technet.microsoft.com/library/hh529921%28v=exchg.150%29.aspx)
+- [Trình hướng dẫn Cấu hình Kết hợp](https://technet.microsoft.com/library/hh529921%28v=exchg.150%29.aspx)
 
-- [Câu hỏi thường gặp về cấu hình hỗn hợp](https://technet.microsoft.com/library/mt488940%28v=exchg.150%29.aspx)
+- [Câu hỏi thường gặp về trình hướng dẫn Cấu hình Kết hợp](https://technet.microsoft.com/library/mt488940%28v=exchg.150%29.aspx)

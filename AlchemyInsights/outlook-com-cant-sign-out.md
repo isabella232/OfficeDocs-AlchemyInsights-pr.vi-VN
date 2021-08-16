@@ -12,17 +12,17 @@ ms.custom:
 - "8000008"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 1a319509369e4832fa27ca4b35155c33a03d5245
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 78d3a570eedac8cb341d66b63d53048a7ba57a502bff63dfaa2148e087390289
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47752777"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53984663"
 ---
 # <a name="unable-to-sign-out-of-outlookcom"></a>Không thể đăng xuất khỏi Outlook.com
 
-Để đăng xuất khỏi Outlook.com, chọn tên hoặc ảnh của bạn ở góc trên cùng bên phải của màn hình, rồi chọn **đăng**xuất.
+Để đăng xuất khỏi Outlook.com, chọn tên hoặc ảnh của bạn ở góc trên cùng bên phải của màn hình, sau đó **chọn Đăng xuất**.
 
-Nếu bạn không nhìn thấy ảnh của mình ở phía trên cùng của màn hình, hãy kiểm tra xem liệu bạn có bật chặn quảng cáo hay không. Đôi khi điều này sẽ ngăn không cho hiển thị ảnh.
+Nếu bạn không thấy ảnh của mình ở đầu màn hình, hãy kiểm tra xem tính năng chặn quảng cáo có đang bật không. Đôi khi điều này sẽ ngăn ảnh hiển thị.
 
-Nếu bạn vẫn không thể đăng xuất khỏi Outlook.com, hãy bấm  [https://login.live.com/logout.srf](https://login.live.com/logout.srf) sau đó đóng tất cả các cửa sổ trình duyệt.
+Nếu bạn vẫn không thể đăng xuất khỏi Outlook.com, hãy bấm vào sau đó đóng [https://login.live.com/logout.srf](https://login.live.com/logout.srf) tất cả các cửa sổ trình duyệt.

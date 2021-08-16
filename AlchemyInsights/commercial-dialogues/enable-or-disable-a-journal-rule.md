@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004299"
 - "7677"
-ms.openlocfilehash: 8cbb675b8a290dae5a0a161296a7be95b5259711
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: e877abb3ea5c6b1b578af3f1a7bfcbab7665ce20c71987eeb44d2c7e3a1b2c16
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50751117"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54058852"
 ---
 # <a name="enable-or-disable-a-journal-rule"></a>Bật hoặc tắt quy tắc nhật ký
 
 Dưới đây là cách thực hiện:
 
-1. Trong [Trung tâm quản trị Exchange](https://go.microsoft.com/fwlink/p/?linkid=2059104), hãy đi đến quy tắc nhật ký **quản lý tuân thủ**  >  .
-2. Trong dạng xem danh sách, trong cột **trên** bên cạnh tên của quy tắc, hãy chọn hộp kiểm để cho phép các quy tắc hoặc xóa nó để tắt quy tắc.
+1. In the [Exchange admin center](https://go.microsoft.com/fwlink/p/?linkid=2059104), go to compliance **management**  >  **journal rules**.
+2. Trong dạng xem danh sách, trong cột **BẬT** bên cạnh tên quy tắc, chọn hộp kiểm để bật quy tắc hoặc bỏ chọn hộp kiểm để tắt quy tắc.
