@@ -1,5 +1,5 @@
 ---
-title: Các yêu cầu về quyền và liên quan đến trình duyệt đối với Microsoft 365 Defender
+title: Các quyền và yêu cầu liên quan đến trình duyệt đối với Bộ bảo vệ Microsoft 365
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: a4f25f5cdcfefaad91f12864dfaa2e000c357716
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: c28a54bb2ebdbb95c3f33bce7bb569a76d48751168189dc23cbc37390d95613f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748411"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54016614"
 ---
-# <a name="permissions-and-browser-related-requirements-for-microsoft-365-defender"></a>Các yêu cầu về quyền và liên quan đến trình duyệt đối với Microsoft 365 Defender
+# <a name="permissions-and-browser-related-requirements-for-microsoft-365-defender"></a>Các quyền và yêu cầu liên quan đến trình duyệt đối với Bộ bảo vệ Microsoft 365
 
-- Quyền: để bật Microsoft 365 Defender, bạn phải là người quản trị toàn cầu hoặc người quản trị bảo mật trong Azure Active Directory. Để xem danh sách các vai trò có thể sử dụng Microsoft 365 Defender và để tìm hiểu cách quyền truy nhập vào dữ liệu được quy định, hãy tham khảo [quản lý quyền truy nhập vào Microsoft 365 Defender](https://go.microsoft.com/fwlink/?linkid=2143626).
+- Quyền: Để bật tính năng Bộ bảo vệ Microsoft 365, bạn phải là người quản trị toàn cầu hoặc người quản trị bảo mật Azure Active Directory. Để xem danh sách các vai trò có thể sử dụng Bộ bảo vệ Microsoft 365 và để tìm hiểu cách quy định quyền truy nhập vào dữ liệu, hãy tham khảo mục Quản lý quyền truy nhập [vào Bộ bảo vệ Microsoft 365.](https://go.microsoft.com/fwlink/?linkid=2143626)
 
-- Các yêu cầu liên quan đến trình duyệt: để truy nhập Microsoft 365 Defender trong Trung tâm bảo mật Microsoft 365, hãy sử dụng Microsoft Edge, Internet Explorer 11, hoặc bất kỳ trình duyệt web HTML 5 – compliant.
+- Yêu cầu liên quan đến trình duyệt: Để truy nhập Bộ bảo vệ Microsoft 365 trung tâm bảo mật Microsoft 365, hãy sử dụng Microsoft Edge, Internet Explorer 11 hoặc trình duyệt web tuân thủ HTML 5 bất kỳ.

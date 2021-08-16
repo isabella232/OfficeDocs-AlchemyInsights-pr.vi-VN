@@ -1,5 +1,5 @@
 ---
-title: Trình kết nối trên tiền đề trên InTune
+title: Bộ nối Exchange tại chỗ của Intune
 ms.author: mandia
 author: mandia
 manager: dougeby
@@ -13,57 +13,57 @@ ms.collection: Adm_O365
 ms.custom:
 - "6732"
 - "9003775"
-ms.openlocfilehash: 8b470655efa2dfb460c29b6b840fa793ed2aa448
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: 744758739c2ca839823d2c8b440ed7b0d9dd4f06ebbb6f19fe52041a6710c4b4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48808190"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54013986"
 ---
-# <a name="intune-exchange-on-premise-connector"></a>Trình kết nối trên tiền đề trên InTune
+# <a name="intune-exchange-on-premise-connector"></a>Bộ nối Exchange tại chỗ của Intune
 
-Để biết chi tiết về cách thiết lập kết nối giữa InTune và Exchange được lưu trữ tại chỗ, vui lòng xem tài liệu sau đây:
+Để biết chi tiết về cách thiết lập đường kết nối giữa Intune và Exchange thư được lưu trữ tại chỗ, vui lòng xem tài liệu sau:
 
-[Thiết lập trình kết nối Exchange tại chỗ InTune trong Microsoft InTune Azure](https://docs.microsoft.com/intune/exchange-connector-install)
+[Thiết lập bộ nối Exchange tại chỗ Intune trong Azure Microsoft Intune](https://docs.microsoft.com/intune/exchange-connector-install)
 
-**DIỄN**
+**Câu hỏi thường gặp:**
 
-Hỏi: tôi thấy một lỗi chẳng hạn như "Phiên bản trình kết nối Exchange không được hỗ trợ" khi cố gắng thiết lập trình kết nối Exchange. Nguyên nhân có thể là gì?
+H: Tôi thấy lỗi như "Phiên bản Bộ nối Exchange không được hỗ trợ" khi tìm cách thiết lập bộ nối Exchange kết nối. Nguyên nhân có thể là gì?
 
-A: tài khoản mà bạn đang dùng được cấp phép thích hợp-nó phải có giấy phép InTune hiện hoạt
+Đáp: Tài khoản bạn đang sử dụng được cấp phép phù hợp - tài khoản phải có giấy phép Intune hiện hoạt
 
-Hỏi: có thể có nhiều đường kết nối Exchange không?
+Hỏi: Có thể có nhiều đường kết nối Exchange không?
 
-A: bạn chỉ có thể thiết lập một trình kết nối Exchange cho mỗi đối tượng thuê InTune cho mỗi tổ chức Exchange. Chỉ có thể cài đặt đường kết nối trên một máy chủ trong một tổ chức đa máy chủ Exchange.
+A: Bạn chỉ có thể thiết lập một trình kết nối Exchange cho mỗi đối tượng thuê Intune cho Exchange chức. Chỉ có thể cài đặt bộ nối trên một máy chủ trong tổ chức trao đổi nhiều máy chủ.
 
-Ngoài ra, bạn không thể có cấu hình đường kết nối cho cả hai giao dịch và Exchange Online được đặt cấu hình trong cùng một đối tượng thuê.
+Bạn cũng không thể cấu hình các đường kết nối cho Exchange tại chỗ và Exchange Online cấu hình trong cùng một đối tượng thuê.
 
-Hỏi: có thể kết nối sử dụng một mảng CAS làm kết nối với Exchange không?
+Hỏi: Bộ nối có thể dùng mảng CAS làm kết nối của nó với đường kết Exchange?
 
-A: chỉ định một mảng CAS không phải là cấu hình được hỗ trợ trong thiết lập đường kết nối. Chỉ một máy chủ duy nhất được chỉ định và phải được mã hardcoded trong tệp cấu hình kết nối có thể được tìm thấy trong
+A: Việc xác định mảng CAS không phải là một cấu hình được hỗ trợ trong thiết lập bộ nối. Only a single server should be specified and should be hardcoded in the connector configuration file which can be found in
 
-chương trình data\microsoft\microsoft InTune trên đường kết nối trao đổi giao dịch OnpremiseExchangeConnectorServiceConfiguration.xml
+dữ liệu chương trình\microsoft\microsoft Intune tại cơ sở Exchange kết nối\ OnpremiseExchangeConnectorServiceConfiguration.xml
 
-Xác định vị trí mục nhập sau ```<ExchangeWebServiceURL />``` và thay thế URL bằng máy chủ Exchange.
+Định vị mục nhập ```<ExchangeWebServiceURL />``` sau đây và thay thế URL bằng máy chủ exchange.
 
-**Mẫu**
+**Ví dụ:**
 ```<ExchangeWebServiceURL> https://Exchangeserver.domain.com/ews/exchange.asmx<ExchangeWebServiceURL />```
 
-Vui lòng xem tài liệu sau để khắc phục sự cố bổ sung: [khắc phục sự cố trình kết nối Exchange tại cơ sở tại chỗ](https://support.microsoft.com/help/4471887/troubleshooting-exchange-connector-in-microsoft-intune)
+Vui lòng xem tài liệu sau đây để biết thêm cách khắc phục sự cố: Khắc phục sự cố cho bộ nối Exchange tại [chỗ của Intune](https://support.microsoft.com/help/4471887/troubleshooting-exchange-connector-in-microsoft-intune)
 
-**Bật tính năng ghi nhật ký tiết ra cho trình kết nối Exchange**
+**Bật ghi nhật ký Verbose cho bộ Exchange nối**
 
-1. Mở tệp cấu hình truy tìm Exchange tracing để chỉnh sửa.  
-Tệp được đặt tại:%ProgramData%\Microsoft\Windows InTune Exchange Connector\TracingConfiguration.xml  
+1. Mở tệp cấu Exchange nối Theo sau để chỉnh sửa.  
+Tệp được đặt tại : %ProgramData%\Microsoft\Windows Intune Exchange Connector\TracingConfiguration.xml  
 
-**Mẫu**
+**Ví dụ:**
 ``` <C:\ProgramData\Microsoft\Windows Intune Exchange Connector\TracingConfiguration.xml>```
   
-2. Xác định vị trí TraceSourceLine với khóa sau: OnPremisesExchangeConnectorService  
+2. Định vị TraceSourceLine bằng khóa sau: OnPremisesExchangeConnectorService  
   
-3. Thay đổi giá trị nút SourceLevel từ Activitruy tìm thông tin (mặc định) đến verbose ActivityTracing  
+3. Thay đổi giá trị nút Mức Nguồn từ Kết hợp Hoạt động Thông tin (mặc định) thành Verbose ActivityTracing  
 
-**Mẫu**
+**Ví dụ:**
 ```
 <TraceSourceLine>  
 <Key xsi:type="xsd:string">OnPremisesExchangeConnectorService</Key>  
@@ -74,6 +74,6 @@ Tệp được đặt tại:%ProgramData%\Microsoft\Windows InTune Exchange Conn
 <ListenerType>CircularTraceListener</ListenerType>
 <SourceLevel>Verbose ActivityTracing</SourceLevel>
 ```
-4. Khởi động lại dịch vụ Exchange Microsoft InTune  
-5. Đồng bộ đầy đủ trong InTune Portal cho đến khi kết thúc, rồi thay đổi XML Back to "thông tin ActivityTracing" và khởi động lại dịch vụ Exchange InTune của Microsoft.  
-6. Vị trí của Nhật ký là: `%ProgramData%\Microsoft\Windows Intune Exchange Connector`
+4. Khởi động lại dịch Microsoft Intune Exchange Service  
+5. Đồng bộ đầy đủ trong Cổng thông tin Intune cho đến khi hoàn tất và sau đó thay đổi XML trở lại "Information ActivityTracing" và khởi động lại Microsoft Intune Exchange Service.  
+6. Vị trí của nhật ký là: `%ProgramData%\Microsoft\Windows Intune Exchange Connector`

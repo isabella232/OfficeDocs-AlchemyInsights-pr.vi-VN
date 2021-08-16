@@ -1,5 +1,5 @@
 ---
-title: ID quy tắc triển khai ứng dụng InTune 991
+title: Id 991 của Quy tắc Triển khai Ứng dụng Intune
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,22 +12,22 @@ ms.custom:
 - "991"
 - "6700004"
 ms.assetid: 1ec12c49-243a-44dc-9084-15863b223078
-ms.openlocfilehash: 90e8b8f2d66046f1e74d051343d8dded9d5c8f95
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 561ff3a3a70029a6c53776176602f6de10a6637f8ab66c0189d7584220316e87
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47755189"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54014130"
 ---
-# <a name="intune-app-deployment"></a>Triển khai ứng dụng InTune
+# <a name="intune-app-deployment"></a>Triển khai Ứng dụng Intune
 
-Triển khai ứng dụng với InTune là một quy trình ba bước:
+Việc triển khai ứng dụng với Intune là một quy trình có ba bước:
   
-1. **Thêm ứng** dụng-bạn có thể thêm ứng dụng lưu trữ ứng dụng hoặc tải lên một dòng ứng dụng Business.
+1. **Thêm ứng dụng** - Bạn có thể thêm ứng dụng App Store hoặc tải lên ứng dụng Dòng Nghiệp vụ.
 
-2. **Gán một ứng dụng** -xác định phạm vi triển khai ứng dụng.
+2. **Gán ứng dụng** - Xác định phạm vi triển khai của ứng dụng.
 
-3. **Giám sát ứng dụng** -xem trạng thái cài đặt của ứng dụng, danh sách các ứng dụng đã phát hiện và quản lý các ứng dụng đã mua từ các cửa hàng ứng dụng.
+3. **Ứng dụng theo dõi** - Xem trạng thái cài đặt của ứng dụng, danh sách các ứng dụng được phát hiện và quản lý các ứng dụng được mua từ cửa hàng ứng dụng.
 
-Đọc [quản lý ứng dụng InTune](https://docs.microsoft.com/intune/app-management) cho walkthroughs và thông tin về cấu hình và bảo vệ ứng dụng.
+Đọc [Quản lý Ứng dụng Intune là gì](https://docs.microsoft.com/intune/app-management) để biết phần giới thiệu và thông tin về việc đặt cấu hình và bảo vệ ứng dụng.
   

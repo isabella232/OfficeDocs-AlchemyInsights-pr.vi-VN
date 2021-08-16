@@ -1,5 +1,5 @@
 ---
-title: Chặn tải xuống các tệp chỉ xem trong SharePoint và OneDrive
+title: Chặn nội dung tải xuống cho các tệp chỉ xem trong SharePoint tệp OneDrive
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "1788"
 - "9000213"
-ms.openlocfilehash: 3715bb2f8ed8649c1a8cb493a177a28e5cf2a196
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 9d036dc69e467516d362cc39a3d3262789f75b08d72367e1e7b6dba513687058
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50749269"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54045334"
 ---
-# <a name="block-downloads-for-view-only-files-in-sharepoint-and-onedrive"></a>Chặn tải xuống các tệp chỉ xem trong SharePoint và OneDrive
+# <a name="block-downloads-for-view-only-files-in-sharepoint-and-onedrive"></a>Chặn nội dung tải xuống cho các tệp chỉ xem trong SharePoint tệp OneDrive
 
-Khi bạn chia sẻ các mục với những người khác trong OneDrive hoặc SharePoint, bạn có thể cung cấp cho họ quyền truy nhập để xem, nhưng không tải xuống. Để biết thêm thông tin, hãy xem mục [tải xuống các tệp chỉ xem trong SharePoint và OneDrive](https://support.microsoft.com/office/block-downloads-for-view-only-files-in-sharepoint-and-onedrive-6051184b-62ac-4149-b874-13dcd40ef91e).
+Khi bạn chia sẻ mục với người khác trong OneDrive hoặc SharePoint, bạn có thể cấp cho họ quyền truy nhập để xem nhưng không tải xuống. Để biết thêm thông tin, [hãy xem chặn bản tải xuống cho các tệp chỉ xem trong SharePoint và OneDrive.](https://support.microsoft.com/office/block-downloads-for-view-only-files-in-sharepoint-and-onedrive-6051184b-62ac-4149-b874-13dcd40ef91e)
