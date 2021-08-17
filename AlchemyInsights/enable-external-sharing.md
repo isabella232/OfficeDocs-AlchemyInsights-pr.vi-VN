@@ -9,35 +9,35 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: 246a99f4c8a88e226b7cfbbaa9a68c02081b4088
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 197de1f073e4e8c054dce32f0acfbe0064d61ca606b759d4ff45e0bc8a4b5cab
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47784689"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54057268"
 ---
 # <a name="enable-external-sharing"></a>Bật chia sẻ với bên ngoài
 
- Để đảm bảo rằng chia sẻ được bật cho SharePoint Online:
+ Để đảm bảo rằng tính năng chia sẻ được bật cho SharePoint Online:
   
-- **Chia sẻ toàn cầu**
+- **Chia sẻ Chung**
     
-  - Cổng thông tin- \> chia sẻ bên ngoài- \> tổng quan về chia sẻ-site, cho phép người bên ngoài truy nhập vào trang web của bạn: bật
+  - Cổng thông tin - \> Chia sẻ với bên ngoài - Tổng quan về Chia sẻ - \> Site, Cho phép người bên ngoài truy nhập site của bạn: BẬT
     
-  - Cổng thông tin- \> chia sẻ bên ngoài- \> site-"Hãy để người bên ngoài truy nhập vào trang của bạn"
+  - Cổng thông tin - \> Chia sẻ với Bên ngoài - Site - Hộp kiểm \> "Cho phép người bên ngoài truy nhập site của bạn"
     
-- **Chia sẻ hành chính-Trung tâm quản trị SharePoint**
+- **Chia sẻ Quản trị - Trung SharePoint tâm Quản trị**
     
-    Chia sẻ bên ngoài-đảm bảo một trong hai tùy chọn được chọn:
+    Chia sẻ Với bên ngoài - đảm bảo một trong hai tùy chọn được chọn:
     
-  - "Cho phép người dùng bên ngoài chấp nhận lời mời chia sẻ và đăng nhập như người dùng được xác thực"
+  - "Cho phép người dùng bên ngoài chấp nhận lời mời chia sẻ và đăng nhập với tư cách người dùng đã xác thực"
     
-  - "Cho phép cả người dùng bên ngoài chấp nhận việc chia sẻ thư mời và các nối kết khách ẩn danh"
+  - "Cho phép cả người dùng bên ngoài chấp nhận lời mời chia sẻ và liên kết khách ẩn danh"
     
-- **Tuyển tập site riêng lẻ**
+- **Tuyển tập Site Riêng lẻ**
     
-  - Tuyển tập trang-chọn tuyển tập trang trong câu hỏi, rồi bấm chia sẻ-từ Ribbon- \> đảm bảo tùy chọn chia sẻ được chọn.
+  - Tuyển tập Site - Chọn tuyển tập site được đề cập, rồi bấm vào Chia sẻ - từ dải băng - đảm bảo \> chọn một trong hai tùy chọn chia sẻ.
     
-Để biết thêm thông tin về cách bật hoặc tắt tính năng chia sẻ bên ngoài, hãy xem mục [bật hoặc tắt chia sẻ bên ngoài cho SharePoint Online.](https://go.microsoft.com/fwlink/?linkid=2047681&amp;clcid=0x409)
+Để biết thêm thông tin về cách bật chia sẻ bên ngoài, hãy [xem Bật hoặc tắt chia sẻ bên ngoài SharePoint Online.](https://go.microsoft.com/fwlink/?linkid=2047681&amp;clcid=0x409)
   
 

@@ -1,5 +1,5 @@
 ---
-title: Báo cáo chuyển tiếp email
+title: Báo cáo thư được chuyển tiếp tự động
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,16 +12,14 @@ ms.custom:
 - "1195"
 - "1200004"
 ms.assetid: b8308c24-029f-43ab-af84-0ac97e6ff9d7
-ms.openlocfilehash: 6ec48c625ad183b34cb9dd665e5275c0c6c23b075233fcee4712404ab8f37284
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f501b9c74b7480a706def72dd60fa9012c98318b1ef590a5c4c9c17d707d5240
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54030150"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57891473"
 ---
-# <a name="email-forwarding-report"></a>Báo cáo chuyển tiếp email
+# <a name="auto-forwarded-messages-report"></a>Báo cáo thư được chuyển tiếp tự động
 
-Để xem báo cáo về số lượng thư được chuyển tiếp tự động có trong tổ chức của bạn, hãy kiểm tra thông tin chuyên sâu về thư được chuyển tiếp tự động trong Trung tâm Bảo [mật & Tuân](https://docs.microsoft.com/microsoft-365/security/office-365-security/mfi-auto-forwarded-messages-report) thủ trong Trung tâm Tuân thủ bảo mật [Microsoft 365 &amp; ](https://protection.office.com/#/homepage).
-  
-Xin lưu ý: nếu đây là lần đầu tiên bạn đăng nhập vào Trung tâm Tuân thủ Bảo mật, bạn có thể cần làm mới trình duyệt sau vài phút để xem tất cả các tùy chọn &amp; sẵn có.
+Để xem báo cáo về số lượng thư được chuyển [](https://docs.microsoft.com/exchange/monitoring/mail-flow-reports/mfr-auto-forwarded-messages-report) tiếp tự động có trong tổ chức của bạn, hãy kiểm tra báo cáo Thư tự động chuyển tiếp trong Trung tâm quản trị Exchange (EAC) tại Dòng thư Báo <https://admin.exchange.microsoft.com/> \>  \> cáo. Hoặc để đi trực tiếp đến trang Thư **chuyển tiếp tự động,** hãy sử dụng <https://admin.exchange.microsoft.com/#/reports/autoforwardedmessages> .
   

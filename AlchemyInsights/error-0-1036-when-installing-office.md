@@ -1,5 +1,5 @@
 ---
-title: Lỗi 0-1036 khi cài đặt Office
+title: Lỗi 0-1036 khi cài đặt office
 ms.author: janellem
 author: janellem
 ms.date: 04/21/2020
@@ -12,27 +12,27 @@ ms.custom:
 - "984"
 - "2000020"
 ms.assetid: 42017e50-9544-4869-86e6-0009d325aa1b
-ms.openlocfilehash: 9047f30109428c5d94ff5d69c17ed57562175fef
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f0779ef2460059d5469fc3e7c3ace6f57ce137559ca782152c8c312eb1a5b07d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47709293"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54057196"
 ---
-# <a name="error-0-1036-when-installing-office"></a>Lỗi 0-1036 khi cài đặt Office
+# <a name="error-0-1036-when-installing-office"></a>Lỗi 0-1036 khi cài đặt office
 
-Hãy thử các giải pháp này để sửa lỗi 0-1036 của bạn:
+Hãy thử các giải pháp sau để khắc Office lỗi 0-1036:
   
-- Khởi động lại máy tính của bạn và thử [cài đặt lại Office](https://portal.office.com/OLS/MySoftware.aspx) .
+- Khởi động lại máy tính của bạn [và thử cài Office](https://portal.office.com/OLS/MySoftware.aspx) lại.
 
-- Tải xuống và cài đặt công cụ [Trợ giúp phục hồi và hỗ trợ](https://aka.ms/SARA-OfficeUninstall-Alchemy).
+- Tải xuống và cài đặt [Công cụ Trợ giúp Phục hồi và Hỗ trợ.](https://aka.ms/SARA-OfficeUninstall-Alchemy)
 
-1. Khi mở, từ **gỡ cài đặt sản phẩm Office** , hãy chọn phiên bản bạn muốn dỡ cài đặt, rồi chọn **tiếp theo**.
+1. Khi tệp mở ra, từ Gỡ **cài Office sản phẩm sẽ** chọn phiên bản bạn muốn gỡ cài đặt, rồi chọn Tiếp **theo.**
 
-2. Tiếp tục đi qua màn hình và khởi động lại máy tính của bạn khi được nhắc.
+2. Tiếp tục xem qua các màn hình và khởi động lại máy tính của bạn khi được nhắc.
 
-    Sau khi khởi động lại, trợ lý hỗ trợ và phục hồi tự động mở lại để hoàn tất quy trình gỡ cài đặt.
+    Sau khi khởi động lại, Công cụ Trợ giúp Phục hồi và Hỗ trợ sẽ tự động mở lại để hoàn tất quy trình gỡ cài đặt.
 
-3. Làm theo lời nhắc còn lại, và [cài đặt lại Office](https://portal.office.com/OLS/MySoftware.aspx) hoặc đóng trợ lý.
+3. Làm theo các lời nhắc còn lại [và cài Office](https://portal.office.com/OLS/MySoftware.aspx) hoặc đóng trợ lý.
 
-- [Sử dụng trình cài đặt Office ngoại tuyến](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) để cài đặt Office
+- [Sử dụng chương Office cài đặt ngoại tuyến để](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) cài đặt Office

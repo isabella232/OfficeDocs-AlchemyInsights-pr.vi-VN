@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "11250"
 - "9000037"
-ms.openlocfilehash: fc7cd938becd8680f804c414ccbbc69799efacab
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 0b6d482cb0b5d625e80f3bb98779c76d2e6091bdce249724f9a36bf6192672b1
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52564651"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57891369"
 ---
 # <a name="microsoft-365-groups-not-synching-in-outlook"></a>Microsoft 365 Các nhóm không đồng bộ trong Outlook
 
-Để giải quyết Microsoft 365 cố đồng bộ email nhóm, bạn cần bật OAuth (Xác thực Hiện đại). 
+Để giải quyết Microsoft 365 cố về đồng bộ email của nhóm, bạn cần bật OAuth (Xác thực Hiện đại). 
 
-Để biết các bước bật OAuth, xem mục Bật hoặc tắt [xác thực hiện đại cho người Outlook trong Exchange Online.](/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online)
+Để biết các bước bật OAuth, hãy xem mục Bật hoặc tắt xác thực hiện [đại cho Outlook trong Exchange Online.](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online)

@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002359"
 - "4718"
-ms.openlocfilehash: 0d31e84fbb4faaadc435f826c61860c69ba01744
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1015b3a82fa4e90c66ca05cf528167d0a0e120e8e6833d1b0c21948f453436b8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51812846"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54057088"
 ---
 # <a name="fix-issues-with-opening-notebooks"></a>Khắc phục sự cố khi mở sổ tay
 
-**Quan trọng**: bạn có thể thấy thông báo "chúng tôi đang gặp phải các hạn chế với OneNote trong Microsoft nhóm. Vui lòng sử dụng OneNote cho web để sửa sổ ghi chép này. "
+**Quan** trọng : Bạn có thể thấy thông báo: "Chúng tôi đang gặp phải những hạn chế OneNote không Microsoft Teams. Vui lòng sử dụng OneNote cho web để chỉnh sửa sổ tay này".
 
-Tham khảo [ID Trung tâm thông báo: 207439-nhận thức về điều chỉnh tính năng tạm thời của Microsoft 365](https://admin.microsoft.com/Adminportal/Home?source=applauncher#MessageCenter?id=MC207439).
+Tham khảo [ID Trung tâm Thông báo: 207439 - Nhận thức về các điều chỉnh tính Microsoft 365 tạm thời.](https://admin.microsoft.com/Adminportal/Home?source=applauncher#MessageCenter?id=MC207439)
 
-OneNote trong nhóm sẽ là chỉ đọc cho đối tượng thuê thương mại và giáo dục. Để sửa, vui lòng sử dụng OneNote cho web hoặc ứng dụng OneNote trên máy tính.
+OneNote in Teams sẽ là chỉ đọc đối với đối tượng thuê thương mại và giáo dục. Để chỉnh sửa, vui lòng sử OneNote cho web hoặc trình điều OneNote trên máy tính.
 
-Dưới đây là một số giải pháp thông thường cho các vấn đề khi mở sổ ghi chép:
+Dưới đây là một số giải pháp phổ biến cho các vấn đề khi mở sổ ghi chép:
 
-1. Có thể bạn sẽ không thể mở sổ ghi chép vì bạn đã đăng nhập bằng tài khoản cá nhân của mình thay vì tài khoản cơ quan hoặc trường học của bạn.
-    - Nếu sổ tay mở ra trên OneNote cho web, hãy đảm bảo rằng bạn đang đăng nhập bằng thông tin đăng nhập hiện tại trong OneNote.
-    - Trong OneNote 2016, bấm vào **tệp > tài khoản** và **đăng xuất khỏi** tất cả các tài khoản. Đăng nhập lại bằng tài khoản người dùng với giấy phép hợp lệ. Để biết thông tin chi tiết, hãy xem [tài khoản trong Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9). 
-    - Trong OneNote for Windows, bấm vào dấu chấm lửng (**...**) ở phía trên cùng bên phải của màn hình, bấm **thiết đặt > tài khoản** và đảm bảo rằng tài khoản cơ quan hoặc trường học được liệt kê. 
-2. Nếu sổ ghi chép không mở được lưu trữ trên OneDrive hoặc SharePoint Online, hãy thử mở sổ ghi chép trong [OneNote cho web](https://onenote.com). Nếu sổ ghi chép không được liệt kê, bạn có thể không có quyền đối với sổ ghi chép đó. Nếu đây là sổ ghi chép được chia sẻ, hãy yêu cầu chủ sở hữu chia sẻ và đảm bảo rằng bạn đang sử dụng đúng tài khoản để đăng nhập.
+1. Bạn có thể không mở được sổ tay vì bạn đã đăng nhập bằng tài khoản cá nhân thay vì tài khoản cơ quan hoặc trường học.
+    - Nếu sổ tay mở trên OneNote cho web, hãy đảm bảo rằng bạn đang đăng nhập bằng thông tin xác thực hiện tại OneNote.
+    - Trong OneNote 2016, hãy bấm **Tệp > khoản và** Đăng xuất khỏi tất **cả** các tài khoản. Đăng nhập lại bằng tài khoản người dùng có giấy phép hợp lệ. Để biết thông tin chi tiết, [hãy xem Tài khoản Office.](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9) 
+    - Trong OneNote cho Windows, hãy bấm vào dấu chấm lửng (**...**) ở phía trên cùng bên phải màn hình, bấm **vào Tài** khoản Cài đặt > , rồi đảm bảo rằng tài khoản cơ quan hoặc trường học được liệt kê. 
+2. Nếu sổ tay không mở được lưu trữ trên OneDrive hoặc SharePoint Online, hãy thử mở sổ tay trong [OneNote cho web.](https://onenote.com) Nếu sổ ghi chép không được liệt kê, bạn có thể không có quyền đối với nó. Nếu đó là sổ tay dùng chung, hãy yêu cầu chủ sở hữu chia sẻ sổ tay và đảm bảo rằng bạn đang sử dụng đúng tài khoản để đăng nhập.
