@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002502"
 - "4868"
-ms.openlocfilehash: c0f823b827980e4ff1a888a121213eabcabb14a9
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f0412f2cc310d5c2ee033f9dfca0eafa19ff815d691778bd7ba6030e6c494bdd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51824493"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54105044"
 ---
 # <a name="unable-to-change-site-logo"></a>Không thể thay đổi logo site
 
-Khi tìm cách thay đổi logo trang trên site SharePoint của một nhóm Office 365, bạn sẽ thấy một trong các lỗi sau đây:
+Khi tìm cách thay đổi logo site trên SharePoint nhóm Office 365 SharePoint, bạn gặp phải một trong các lỗi sau:
 
-- Lỗi đã xảy ra trong khi xử lý yêu cầu này.
+- Đã xảy ra lỗi trong khi xử lý yêu cầu này.
 
-- "Kiểm tra xem liệu nhóm thuộc tính của nhóm HiddenFromAddressListsEnabled được đặt là true hay nếu chính sách sổ địa chỉ được đặt trên nhóm. Nếu không, vui lòng thử lại sau. "
+- "Kiểm tra xem thuộc tính nhóm HiddenFromAddressListsEnabled có được đặt là true hay không hoặc liệu Chính sách Sổ Địa chỉ có được đặt trên nhóm hay không. Nếu không, vui lòng thử lại sau."
 
-- Pa-nen thông tin site tạm dừng trong khi đang tải.
+- Pa-nen Thông tin Site tạm dừng trong khi tải.
 
-Hãy xem mục [không thể thay đổi logo site](https://docs.microsoft.com/sharepoint/troubleshoot/sites/error-when-changing-o365-site-logo) để làm việc-cộng tác và đề xuất nhiều hơn nữa.
+Xem [Không thể thay đổi Logo Site](https://docs.microsoft.com/sharepoint/troubleshoot/sites/error-when-changing-o365-site-logo) để có những giải quyết thay đổi và các đề xuất khác.

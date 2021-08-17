@@ -1,5 +1,5 @@
 ---
-title: Các tệp đang bị chặn đột ngột?
+title: Tệp đang bị chặn ngoài dự định?
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9355"
 - "3200002"
-ms.openlocfilehash: b69f53e0a6d7f7dd02ffae01aee903fa0b7934e9
-ms.sourcegitcommit: 4883f1f89d4c6ca23161e9a43ff206ad21d4f09b
+ms.openlocfilehash: 58db07300928ac27fb19d923a9610d92559ef5e11749a145b890d774c5911bb1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/08/2021
-ms.locfileid: "50694839"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54043597"
 ---
-# <a name="files-are-being-blocked-unexpectedly"></a>Các tệp đang bị chặn đột ngột?
+# <a name="files-are-being-blocked-unexpectedly"></a>Tệp đang bị chặn ngoài dự định?
 
-Microsoft Defender Antivirus phát hiện ra một đối tượng đột ngột hoặc không phát hiện ra nó dưới dạng phần mềm độc hại. Nếu kịch bản này xảy ra, hãy thực hiện các bước sau đây:
+Tính năng Chống Virut của Bộ bảo vệ Microsoft phát hiện đối tượng bất ngờ hoặc không phát hiện được đối tượng đó dưới dạng phần mềm xấu. Nếu kịch bản này phát sinh, hãy thực hiện các bước sau đây:
 
-- Đảm bảo (các) hệ thống của bạn đang chạy [nền tảng antimalware mới nhất](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-antivirus/manage-updates-baselines-microsoft-defender-antivirus) và đã cài đặt các [bản cập nhật tình báo an ninh mới nhất](https://www.microsoft.com/security/encyclopedia/adlpackages.aspx) (aka chữ ký).
-- Đảm bảo bạn đã bật tính năng [bảo vệ đám mây](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-antivirus/enable-cloud-protection-microsoft-defender-antivirus)
-- Nếu sự cố vẫn xảy ra, hãy sử dụng [liên kết](https://www.microsoft.com/wdsi/filesubmission) này để cung cấp cho chúng tôi một mẫu để phân tích thêm.
+- Đảm bảo (các) hệ thống của bạn đang chạy nền tảng [Chống phần mềm có](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-antivirus/manage-updates-baselines-microsoft-defender-antivirus) hại mới nhất và đã cài đặt các bản cập nhật Bảo mật thông minh mới nhất (chữ ký aka). [](https://www.microsoft.com/security/encyclopedia/adlpackages.aspx)
+- Đảm bảo bạn đã bật Tính năng [Bảo vệ Điện toán đám mây](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-antivirus/enable-cloud-protection-microsoft-defender-antivirus)
+- Nếu vấn đề vẫn xảy ra, hãy dùng nối kết [này để](https://www.microsoft.com/wdsi/filesubmission) cung cấp cho chúng tôi mẫu để phân tích thêm.

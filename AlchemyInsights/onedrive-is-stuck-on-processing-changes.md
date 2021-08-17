@@ -1,5 +1,5 @@
 ---
-title: OneDrive bị kẹt khi xử lý các thay đổi
+title: OneDrive bị kẹt khi Đang xử lý thay đổi
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -13,15 +13,15 @@ ms.assetid: ''
 ms.custom:
 - "9003089"
 - "5842"
-ms.openlocfilehash: 984d7975e14d4ecfc91b4602470e4341f63d3122
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 603afed979f9b15315fd41e1ab139936ec0bb7a21ad4bcb3a56279a104bc0267
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802655"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54076079"
 ---
-# <a name="onedrive-is-stuck-on-processing-changes"></a>OneDrive bị kẹt khi xử lý các thay đổi
+# <a name="onedrive-is-stuck-on-processing-changes"></a>OneDrive bị kẹt khi Đang xử lý thay đổi
 
-Nếu OneDrive Hiển thị "đang xử lý thay đổi" trong một thời gian dài, có thể là do bạn có một tệp trực tuyến đang mở, rất nhiều tệp bị kẹt trong hàng đợi hoặc tệp đồng bộ rất lớn. Đọc  [Onedrive bị kẹt trong "đang xử lý thay đổi"](https://support.office.com/article/onedrive-is-stuck-on-processing-changes-b386b813-9b66-4e47-8c4c-2b45533edccd) cho các bước được đề xuất và thông tin khác.
+Nếu OneDrive hiển thị "Đang xử lý thay đổi" trong một thời gian dài, điều đó có thể do bạn đang mở một tệp trực tuyến, nhiều tệp đang chờ trong hàng đợi hoặc đang đồng bộ tệp rất lớn. Tính năng [OneDrive bị kẹt ở phần "Đang xử lý thay đổi" đối với](https://support.office.com/article/onedrive-is-stuck-on-processing-changes-b386b813-9b66-4e47-8c4c-2b45533edccd) các bước được gợi ý và biết thêm thông tin.
 
-Nếu bạn cần thêm trợ giúp, bạn có thể  [hỗ trợ email OneDrive](https://go.microsoft.com/fwlink/p/?LinkId=528676).
+Nếu bạn cần thêm trợ giúp, bạn có thể [gửi email cho bộ OneDrive hỗ trợ.](https://go.microsoft.com/fwlink/p/?LinkId=528676)

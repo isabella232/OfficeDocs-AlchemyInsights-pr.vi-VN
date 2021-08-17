@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001098"
 - "3059"
-ms.openlocfilehash: b4ce32ceb9c79a149c784a43ef7aad9f951d2888
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: b297aff26d3e194c642d9f3b42dff5a2e387feea0709bb23fcc8182360453307
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51827418"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54104870"
 ---
 # <a name="updating-your-email-account-password"></a>Cập nhật mật khẩu tài khoản email của bạn
 
-Khi bạn thay đổi mật khẩu, ứng dụng của chúng tôi sẽ nhắc bạn nhập mật khẩu mới nhất của mình.
+Khi bạn thay đổi mật khẩu, ứng dụng của chúng tôi sẽ nhắc bạn nhập mật khẩu mới nhất.
 
-Bạn có thể thay đổi mật khẩu cho tài khoản tương ứng của bạn tại vị trí nhà cung cấp của họ:
+Bạn có thể thay đổi mật khẩu cho các tài khoản tương ứng của mình tại vị trí nhà cung cấp của chúng:
 
 - [iCloud](https://support.apple.com/HT201487)
 
 - [Outlook, Live, Hotmail](https://account.live.com/password/reset)
 
-- [O365](https://passwordreset.microsoftonline.com) (nếu người quản trị CNTT của bạn đã được cho phép để đặt lại mật khẩu tự phục vụ.)
+- [O365 (Nếu](https://passwordreset.microsoftonline.com) người quản trị CNTT của bạn đã cho phép tự đặt lại mật khẩu tự phục vụ.)
 
-- [Yahoo!](https://login.yahoo.com/account/challenge/username?done=https%3A%2F%2Fwww.yahoo.com%2F&authMechanism=secondary&chllngnm=base&sessionIndex=QQ--)
+- [Yahoo](https://login.yahoo.com/account/challenge/username?done=https%3A%2F%2Fwww.yahoo.com%2F&authMechanism=secondary&chllngnm=base&sessionIndex=QQ--)
 
 - [Gmail](https://support.google.com/mail/answer/41078?co=GENIE.Platform%3DDesktop&hl=en)
 
-- Exchange: bạn sẽ cần liên hệ với người quản trị CNTT của bạn.
+- Exchange: Bạn sẽ cần liên hệ với Người quản trị CNTT của mình.
 
-- IMAP: nhà cung cấp IMAP của bạn có thể có một nối kết trên trang của họ hoặc bạn có thể cần liên hệ với nhà cung cấp IMAP của bạn.
+- IMAP: Nhà cung cấp IMAP của bạn có thể có một nối kết trên trang của họ hoặc bạn có thể cần liên hệ với nhà cung cấp IMAP của mình.

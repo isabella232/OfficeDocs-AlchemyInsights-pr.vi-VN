@@ -1,5 +1,5 @@
 ---
-title: Mã lỗi 550 5.7.705 truy nhập bị từ chối, đối tượng thuê đã vượt quá ngưỡng
+title: Mã lỗi 550 5.7.705 Từ chối truy nhập, đối tượng thuê đã vượt quá ngưỡng
 ms.author: chrisda
 author: chrisda
 ms.date: 04/21/2020
@@ -13,17 +13,17 @@ ms.custom:
 - "336"
 - "1948"
 - "3100014"
-ms.openlocfilehash: d3c1eddf22b61c14e8bb82de5f2e16e84786657c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9f35aaccb0bc80ddcb46e37533ee36c35b8cf520421786a809b28cfa70e16391
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47784041"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54044218"
 ---
-# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a>550 5.7.705 truy nhập bị từ chối, đối tượng thuê đã vượt quá ngưỡng
+# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a>550 5.7.705 Từ chối truy nhập, đối tượng thuê đã vượt quá ngưỡng
 
-Thông báo này xảy ra khi thư rác hoặc thư hàng loạt quá nhiều đã được tổ chức của bạn gửi đi và chúng tôi đặt một khối trên thư đi.
-Các nguyên nhân phổ biến bị xâm phạm các máy chủ tại cơ sở hoặc các tài khoản người quản trị đã bị xâm phạm đã được dùng để tạo đường kết nối. Điều kiện có thể cho phép thư rác chuyển qua trong tổ chức của bạn.
+Thông báo này xảy ra khi tổ chức của bạn đã gửi quá nhiều thư rác hoặc thư hàng loạt và chúng tôi đặt một chặn vào thư đi.
+Nguyên nhân phổ biến là do các máy chủ tại chỗ bị xâm phạm hoặc tài khoản người quản trị bị xâm phạm đã được sử dụng để tạo đường kết nối. Một trong hai điều kiện có thể cho phép thư rác đi qua tổ chức của bạn.
 
-Để loại bỏ khối này, bạn cần hiểu và giải thích nguyên nhân gây ra một nhân viên hỗ trợ, cũng như khắc phục sự cố cơ bản.
-Bấm vào **liên hệ với chúng tôi** bên dưới sau khi bạn đã sẵn sàng.
+Để loại bỏ việc chặn này, bạn cần hiểu và giải thích nguyên nhân cho nhân viên hỗ trợ, cũng như khắc phục sự cố cơ bản.
+Bấm vào **Liên hệ với** chúng tôi bên dưới khi bạn đã sẵn sàng.
