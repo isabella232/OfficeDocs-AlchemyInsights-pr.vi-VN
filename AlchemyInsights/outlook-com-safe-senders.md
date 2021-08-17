@@ -1,5 +1,5 @@
 ---
-title: 8000089 Outlook.com người gửi an toàn
+title: 8000089 Outlook.com Két sắt Người gửi
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,20 +12,20 @@ localization_priority: Normal
 ms.custom:
 - "1400"
 - "8000089"
-ms.openlocfilehash: 473259594605dfb88885e2176086cd6df1c5ea03
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e2235a7ae246122b62e77adf34a0d022e3137cb8d4d2edb7d5b5db4d78bc42e9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47722944"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54111422"
 ---
-# <a name="stop-messages-from-going-into-your-junk-email-folder"></a>Ngừng tin nhắn từ đi vào thư mục email rác của bạn
+# <a name="stop-messages-from-going-into-your-junk-email-folder"></a>Ngừng thư bị chuyển vào thư mục Email Rác của bạn
 
-Có những lúc bạn không muốn tin nhắn từ một người hoặc tên miền cụ thể để kết thúc trong thư mục email rác của bạn trong Outlook.com. Thư từ địa chỉ hoặc tên miền trên danh sách người gửi an toàn sẽ không được di chuyển đến thư mục email rác của bạn.
+Có những lúc bạn không muốn thư từ một người cụ thể hoặc tên miền để kết thúc trong thư mục Email rác của bạn trong Outlook.com. Thư từ địa chỉ hoặc tên miền trong danh sách người gửi an toàn sẽ không bị chuyển vào thư mục Email Rác.
 
-1. Mở [thiết đặt người gửi an toàn](https://go.microsoft.com/fwlink/?linkid=2035804)của bạn.
-2. Bên dưới người **gửi và tên miền an toàn**, hãy nhập địa chỉ email hoặc tên miền mà bạn muốn thêm vào, rồi chọn **Thêm**.
-3. Để thêm danh sách gửi thư vào người gửi an toàn của bạn, hãy nhập danh sách gửi thư trong danh sách **gửi thư an toàn** , rồi chọn **Thêm**.
-4. Chọn **lưu**.
+1. Mở cài đặt [người Két sắt gửi của bạn](https://go.microsoft.com/fwlink/?linkid=2035804).
+2. Bên **Két sắt người gửi và tên miền,** hãy nhập địa chỉ email hoặc tên miền mà bạn muốn thêm, rồi chọn **Thêm**.
+3. Để thêm một danh sách gửi thư vào người gửi an toàn, hãy nhập danh sách gửi **thư vào Két sắt sách** gửi thư mới và chọn **Thêm**.
+4. Chọn **Lưu**.
 
 Đọc thêm tại [chặn hoặc bỏ chặn người gửi trong Outlook.com](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy).
