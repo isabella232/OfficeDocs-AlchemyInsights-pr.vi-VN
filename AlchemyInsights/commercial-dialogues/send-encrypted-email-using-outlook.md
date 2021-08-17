@@ -1,5 +1,5 @@
 ---
-title: Gửi email đã mã hóa bằng Outlook
+title: Gửi email được mã hóa bằng cách sử Outlook
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,27 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 59b6b6bae745edb18148b92e4a5514d62e2aa086
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 577c09436700e2bde9a2c8457414a4ec64ade7b57adac4f5fc51ca7cffe73656
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50749997"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54081590"
 ---
-# <a name="send-encrypted-email-using-outlook"></a>Gửi email đã mã hóa bằng Outlook
+# <a name="send-encrypted-email-using-outlook"></a>Gửi email được mã hóa bằng cách sử Outlook
 
-Người dùng có thể mã hóa thư email trên cơ sở từng trường hợp bằng cách sử dụng Outlook mà không cần thêm bất kỳ thiết lập bổ sung nào. Để thực hiện điều này, hãy làm theo các bước sau đây:
+Người dùng có thể mã hóa email theo từng trường hợp theo từng trường hợp bằng cách sử dụng Outlook mà không cần bất kỳ thiết lập bổ sung nào. Để thực hiện điều này, hãy thực hiện các bước sau đây:
 
-1. Trong ứng dụng Outlook: a. Tạo thư email, rồi chọn **tùy chọn > mã hóa**. 
-    b. Bấm **chỉ mã hóa** hoặc không **chuyển tiếp**.
+1. Trong ứng Outlook Trang: a. Tạo thư email, rồi chọn Tùy **chọn > mã hóa**. 
+    b. Bấm vào **Chỉ Mã hóa hoặc** Không Chuyển **tiếp**.
 
-2. Trong Outlook trên web: a. Tạo thư email, rồi chọn **> mã hóa**.
-    b. Bấm **mã hóa** hoặc không **chuyển tiếp**.
+2. Trong Outlook trên web: a. Tạo thư email, rồi chọn Mã **> mã hóa**.
+    b. Bấm Mã **hóa** hoặc **Không Chuyển tiếp**.
 
 > [!TIP]
-> Các định dạng tệp đã biết được bảo vệ. Tuy nhiên, các tệp được gửi dưới dạng phần đính kèm từ OneDrive for Business không được mã hóa. Để có danh sách tất cả các loại tệp được hỗ trợ, hãy xem các [loại tệp được hỗ trợ bởi máy khách bảo vệ thông tin Azure](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types).
+> Định dạng tệp đã biết được bảo vệ. Tuy nhiên, các tệp được gửi dưới dạng tệp đính OneDrive for Business sẽ không được mã hóa. Để biết danh sách tất cả các loại tệp được hỗ trợ, hãy [xem Các loại tệp được máy khách Azure Information Protection hỗ trợ.](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types)
 
-Để biết thêm thông tin, hãy xem [gửi, xem và trả lời thư được mã hóa trong Outlook for PC](https://support.microsoft.com/topic/send-view-and-reply-to-encrypted-messages-in-outlook-for-pc-eaa43495-9bbb-4fca-922a-df90dee51980).
+Để biết thêm thông tin, [hãy xem Gửi, xem và trả lời thư mã hóa trong Outlook for PC.](https://support.microsoft.com/topic/send-view-and-reply-to-encrypted-messages-in-outlook-for-pc-eaa43495-9bbb-4fca-922a-df90dee51980)
 
 
 

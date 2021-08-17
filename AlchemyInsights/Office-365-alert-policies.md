@@ -13,16 +13,16 @@ ms.custom:
 - "1385"
 - "3200002"
 ms.assetid: ''
-ms.openlocfilehash: f5109445530ec4cc4988fb9c5d37145c45794ced6920607ce6df85c6497c25ec
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 681f7609f32b004ddfa7bfbeff179757e7063657
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57891701"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58312709"
 ---
 # <a name="alert-policies"></a>Chính sách cảnh báo
 
-Microsoft 365 các [](https://docs.microsoft.com/microsoft-365/compliance/alert-policies#default-alert-policies) chính sách cảnh báo mặc định kích hoạt cảnh báo cho tổ chức có đăng ký Microsoft 365 Enterprise hoặc Microsoft 365 TỪ Chính phủ Hoa Kỳ E1/G1, E3/G3 hoặc E5/G5. Do đó, người quản trị có thể nhận được thông báo email cảnh báo được gửi bởi Office365Alerts@microsoft.com kèm theo dòng chủ đề chẳng hạn như "Cảnh báo mức độ nghiêm trọng thấp: tên của chính sách *cảnh báo*". Thông báo cảnh báo được gửi đi khi các cảnh báo được kích hoạt cho các hoạt động phổ biến, chẳng hạn như khi người dùng:
+Microsoft 365 các chính [](https://docs.microsoft.com/microsoft-365/compliance/alert-policies#default-alert-policies) sách cảnh báo mặc định kích hoạt cảnh báo cho tổ chức có đăng ký Microsoft 365 Enterprise hoặc Microsoft 365 TỪ Chính phủ Hoa Kỳ E1/G1, E3/G3 hoặc E5/G5. Do đó, người quản trị có thể nhận được thông báo email cảnh báo được gửi bởi Office365Alerts@microsoft.com kèm theo dòng chủ đề chẳng hạn như "Cảnh báo mức độ nghiêm trọng thấp: tên của chính sách *cảnh báo*". Thông báo cảnh báo được gửi đi khi các cảnh báo được kích hoạt cho các hoạt động phổ biến, chẳng hạn như khi người dùng:
 
 - Tạo quy tắc hộp thư đến chuyển tiếp email.
 - Gán quyền hộp thư của họ.
@@ -33,7 +33,7 @@ Microsoft 365 các [](https://docs.microsoft.com/microsoft-365/compliance/alert-
 
 1. Thực hiện một trong các bước sau đây:
    - Trong thanh Trung tâm tuân thủ Microsoft 365 , <https://compliance.microsoft.com> đi tới Cảnh **báo**. Hoặc để đi thẳng tới trang **Cảnh báo,** hãy sử dụng <https://compliance.microsoft.com/compliancealerts> .
-   - Trong cổng thông Bộ bảo vệ Microsoft 365 tin Tại <https://security.microsoft.com> , đi đến Cảnh báo & Báo **hiệu** \> **Sự cố**. Hoặc để đi thẳng tới trang **Cảnh báo,** hãy sử dụng <https://security.microsoft.com/alerts> .
+   - Trong cổng thông Bộ bảo vệ Microsoft 365 tin Tại , đi đến Cảnh báo & Báo hiệu Sự <https://security.microsoft.com>  \> **cố**. Hoặc để đi thẳng tới trang **Cảnh báo,** hãy sử dụng <https://security.microsoft.com/alerts> .
 2. Bấm vào một cảnh báo để hiển thị trang bật lên cùng với thông tin về cảnh báo đó.
 
 Bạn có thể thực hiện một hành động đối với một cảnh báo, chẳng hạn [như loại bỏ một quy tắc hộp thư đến đáng ngờ](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account). Hoặc bạn chỉ cần đóng cảnh báo bằng cách bấm **Giải quyết** trên trang bật lên cảnh báo.

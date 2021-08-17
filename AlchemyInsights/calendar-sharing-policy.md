@@ -1,5 +1,5 @@
 ---
-title: Chính sách chia sẻ trong lịch 618
+title: Chính sách Chia sẻ Lịch 618
 ms.author: chrisda
 author: chrisda
 manager: scotv
@@ -15,27 +15,27 @@ ms.custom:
 - "899"
 - "3800014"
 ms.assetid: bc3db17b-87f8-4e50-b3ee-8b105b70d67a
-ms.openlocfilehash: d2511183d068330cdcfb4e08b08df4f18625c822
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1f1bfb0273301c05f5fe5f8af5fb9039328390d16305e33897680dce1c1977e8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47684252"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54091631"
 ---
 # <a name="policy-error-when-sharing-a-calendar"></a>Lỗi chính sách khi chia sẻ lịch
 
-1. Hãy thực hiện một trong những thao tác sau đây, phù hợp với tình huống của bạn:
-    - Kết nối với Exchange Online bằng cách sử dụng Remote PowerShell. Để biết thêm thông tin, hãy xem [kết nối với Exchange Online bằng PowerShell từ xa](https://technet.microsoft.com/library/jj984289%28v=exchg.160%29.aspx).
-    - Trên máy chủ tại cơ sở, hãy mở Exchange Management Shell.
-2. Xác định chính sách chia sẻ được gán cho người dùng. Để thực hiện điều này, hãy chạy lệnh sau đây và ghi lại chính sách trả về:
+1. Thực hiện một trong những cách sau đây, phù hợp với tình huống của bạn:
+    - Kết nối cập Exchange Online cách sử dụng Remote PowerShell. Để biết thêm thông tin, [hãy xem Kết nối tìm Exchange Online cách sử dụng Remote PowerShell](https://technet.microsoft.com/library/jj984289%28v=exchg.160%29.aspx).
+    - Trên máy chủ tại chỗ, hãy mở trình Exchange Management Shell.
+2. Xác định chính sách chia sẻ được gán cho người dùng. Để thực hiện điều này, hãy chạy lệnh sau đây và ghi chú chính sách được trả về:
 
     `
     Get-Mailbox User1 | fl *sharing*
     `
 
-3. Cập Nhật chính sách chia sẻ cho người dùng. Caranya sebagai berikut:
-    - Mở Trung tâm quản trị Exchange.
-    - Bấm **tổ chức**, rồi bấm đúp vào chính sách được gán cho người dùng bên dưới **chia sẻ riêng lẻ**. Đây là chính sách đã được trả về trong bước 2.
-    - Trên trang chia sẻ quy tắc, hãy chọn mức chia sẻ lịch mà bạn muốn cho phép bên dưới **xác định những thông tin bạn muốn chia sẻ**; bấm **lưu**.
+3. Cập nhật chính sách chia sẻ cho người dùng. Caranya sebagai berikut:
+    - Mở trung tâm quản Exchange chính.
+    - Bấm **Tổ** chức , rồi bấm đúp vào chính sách được gán cho người dùng bên dưới Chia **sẻ Cá nhân.** Đây là chính sách được trả về ở bước 2.
+    - Trên trang Quy tắc Chia sẻ, hãy chọn mức chia sẻ lịch mà bạn muốn cho phép trong Xác **định những thông tin bạn muốn chia sẻ**; bấm **Lưu**.
 
-Để biết thêm thông tin, hãy xem: ["chính sách không cho phép cấp quyền ở mức này cho một hoặc nhiều lỗi" người nhận (các) "khi người dùng cố gắng chia sẻ lịch](https://docs.microsoft.com/exchange/troubleshoot/calendar-sharing/policy-permissions-issue).
+Để biết thêm thông tin, hãy xem mục: Lỗi "Chính sách không cho phép cấp quyền ở cấp độ này cho một hoặc nhiều người nhận" khi người dùng tìm cách [chia sẻ lịch.](https://docs.microsoft.com/exchange/troubleshoot/calendar-sharing/policy-permissions-issue)

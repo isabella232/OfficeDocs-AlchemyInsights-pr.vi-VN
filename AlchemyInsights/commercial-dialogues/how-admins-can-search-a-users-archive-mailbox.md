@@ -1,5 +1,5 @@
 ---
-title: Cách người quản trị có thể tìm kiếm hộp thư lưu trữ của người dùng
+title: Cách người quản trị có thể tìm kiếm trong hộp thư lưu trữ của người dùng
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100008"
 - "7255"
-ms.openlocfilehash: 00710319f8d8b6ecd9d99d76751ecb256b2f867d
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 39296e35191b43d3bb6e6dc8364e97395e9dca65f29413265cd5e7ef8a87828e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50750542"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54091379"
 ---
-# <a name="how-admins-can-search-a-users-archive-mailbox"></a>Cách người quản trị có thể tìm kiếm hộp thư lưu trữ của người dùng
+# <a name="how-admins-can-search-a-users-archive-mailbox"></a>Cách người quản trị có thể tìm kiếm trong hộp thư lưu trữ của người dùng
 
-Đây là cách bạn-người quản trị, có thể tìm kiếm lưu trữ trực tuyến của người dùng cho email:
+Dưới đây là cách bạn - người quản trị, có thể tìm kiếm trong kho lưu trữ trực tuyến của người dùng cho email:
 
-* Khi đã bật hộp thư lưu trữ, bạn có thể sử dụng tìm kiếm **nội dung** hoặc **Tìm kiếm khám phá điện tử và xuất** để khám phá và xuất nội dung trong cả hộp thư chính và lưu trữ. Để sử dụng **Tìm kiếm nội dung**, hãy xem [xuất kết quả tìm kiếm nội dung.](https://docs.microsoft.com/office365/securitycompliance/export-search-results)
-* Bạn cũng có thể giữ lại nội dung đó bằng cách thêm hộp thư vào **chính sách duy trì**. Việc này sẽ đặt nội dung ở cả hộp thư chính và lưu trữ ở chế độ chờ. Để tìm hiểu thêm về cách tạo chính sách duy trì, hãy xem [tổng quan về chính sách duy trì.](https://docs.microsoft.com/office365/securitycompliance/retention-policies)
+* Khi hộp thư lưu trữ được  kích  hoạt, bạn có thể sử dụng Tìm kiếm Nội dung hoặc Tìm kiếm Khám phá Điện tử và Xuất để khám phá và xuất nội dung trong cả hộp thư chính và hộp thư lưu trữ. Để sử dụng Tìm **kiếm Nội dung,** hãy xem [xuất kết quả Tìm kiếm Nội dung.](https://docs.microsoft.com/office365/securitycompliance/export-search-results)
+* Bạn cũng có thể lưu giữ nội dung đó bằng cách thêm hộp thư vào chính **sách duy trì**. Điều này sẽ giữ lại nội dung trong cả hộp thư chính và lưu trữ. Để tìm hiểu thêm về việc tạo chính sách duy trì, hãy xem [Tổng quan về chính sách duy trì.](https://docs.microsoft.com/office365/securitycompliance/retention-policies)

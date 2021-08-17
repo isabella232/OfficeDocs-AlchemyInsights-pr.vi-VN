@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "319"
 - "1500007"
-ms.openlocfilehash: 299aca30aa9fdd8fae803f3874b2600483bfc058c128f9e87e4898a69f4505c3
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: ff0ddcba4212697685dd71360532c89e27815f8d96aeced8f36c7416bdbebf64
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54501838"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892217"
 ---
 # <a name="add-or-remove-licenses-for-your-subscription"></a>Thêm hoặc loại bỏ giấy phép cho đăng ký của bạn
 
@@ -32,10 +32,10 @@ ms.locfileid: "54501838"
 4. Để mua hoặc loại  bỏ giấy  phép, bên dưới Số lượng mới trong hộp Tổng số giấy phép, hãy nhập tổng số lượng giấy phép mà bạn muốn cho đăng ký này. Ví dụ: nếu bạn đã có 100 giấy phép và bạn muốn thêm 25 giấy phép nữa, hãy nhập 125. Nếu bạn muốn loại bỏ 25 giấy phép, hãy nhập 75.
 5. Chọn **Lưu**.
 
-Để biết thông tin về cách gán giấy phép, hãy xem [mục Gán giấy phép cho người dùng.](/microsoft-365/admin/manage/assign-licenses-to-users)
+Để biết thông tin về cách gán giấy phép, hãy xem [mục Gán giấy phép cho người dùng.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
 
 **Tài nguyên**
   
-- [Mua hoặc loại bỏ giấy phép](/microsoft-365/commerce/licenses/buy-licenses)
-- [Hủy bỏ Microsoft 365 cho doanh nghiệp](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
-- [Dùng thử hoặc mua đăng Microsoft 365 cho doanh nghiệp](/microsoft-365/commerce/try-or-buy-microsoft-365)
+- [Mua hoặc loại bỏ giấy phép](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
+- [Hủy bỏ Microsoft 365 cho doanh nghiệp](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+- [Dùng thử hoặc mua đăng Microsoft 365 cho doanh nghiệp](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365)

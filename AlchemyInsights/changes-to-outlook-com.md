@@ -1,5 +1,5 @@
 ---
-title: 8000026 thay đổi thành Outlook.com
+title: 8000026 các thay đổi Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -11,16 +11,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Critical
 ms.custom: 8000026
 ms.assetid: 77216e51-08d8-4f75-8c8c-e91e14eed75d
-ms.openlocfilehash: 69ef37c164fcb70efff858797ea894e5e9e8037b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7f4c197a633a86c54484a807980bd4febee910e11a5e9442807f8da3a4340c04
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47714125"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54091487"
 ---
-# <a name="learn-about-the-new-outlookcom"></a>Tìm hiểu về Outlook.com mới
+# <a name="learn-about-the-new-outlookcom"></a>Tìm hiểu về phiên bản Outlook.com mới
 
-[Tìm hiểu thêm](https://go.microsoft.com/fwlink/?linkid=2039724&amp;clcid=0x409) về những thay đổi trong Outlook.com mới hoặc tìm kiếm trong hộp bên dưới. 
+[Tìm hiểu thêm](https://go.microsoft.com/fwlink/?linkid=2039724&amp;clcid=0x409) về các thay đổi trong Outlook.com mới hoặc tìm kiếm trong hộp bên dưới. 
   
 Cuộn xuống để xem kết quả.
   

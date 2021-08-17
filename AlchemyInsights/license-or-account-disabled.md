@@ -14,16 +14,16 @@ ms.custom:
 - commerce_subscriptions
 - "9002459"
 - "3764"
-ms.openlocfilehash: fc25928b601cd6c36d6c5569a44288c12b156857453f15c312110464e621f251
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 50e8185e90e40ef538230decf0a41f9e7ca0fb6c2649354559af43d4e563a9dc
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54042364"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893873"
 ---
 # <a name="license-or-account-disabled"></a>Đã vô hiệu hóa giấy phép hoặc tài khoản
 
-Nếu đăng ký của bạn hết hạn hoặc bị Microsoft vô hiệu hóa hoặc nếu bạn đã hủy bỏ đăng ký trong thời hạn đăng ký thì bạn có thể kích hoạt lại trong trung tâm quản trị.
+Nếu đăng ký của bạn hết hạn hoặc bị Microsoft vô hiệu hóa hoặc nếu bạn đã hủy bỏ đăng ký trong thời hạn đăng ký thì bạn có thể kích hoạt lại đăng ký trong trung tâm quản trị.
 
 **Kích hoạt lại đăng ký**
 
@@ -34,4 +34,4 @@ Nếu đăng ký của bạn hết hạn hoặc bị Microsoft vô hiệu hóa h
 3. Trong ngăn **Kích hoạt lại đăng ký này,** chọn một phương thức thanh toán từ danh sách thả xuống hoặc chọn Thêm phương thức thanh **toán**.
 4. Chọn **Lưu**.
 
-Để biết thêm thông tin, hãy [xem Kích hoạt lại đăng ký của bạn](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Để biết thêm thông tin, hãy [xem Kích hoạt lại đăng ký của bạn](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).

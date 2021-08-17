@@ -1,5 +1,5 @@
 ---
-title: Trả lời tự động trong Outlook.com
+title: Trả lời tự động Outlook.com
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,14 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "6435"
 - "9003532"
-ms.openlocfilehash: e57e7a4f8b6aa205e3bd9a870b188eac405e6beb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 31553430a17ccc281ce7404a7f95114a8cfe4500b194f895b5290268e22be383
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47804111"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54091733"
 ---
-# <a name="automatic-replies-in-outlookcom"></a>Trả lời tự động trong Outlook.com
+# <a name="automatic-replies-in-outlookcom"></a>Trả lời tự động Outlook.com
 
-1. Mở [trả lời tự động](https://go.microsoft.com/fwlink/?linkid=2143007)của bạn.
-2. Chọn nút **bật tắt tự động trả lời** .
+1. Mở Trả [lời tự động](https://go.microsoft.com/fwlink/?linkid=2143007).
+2. Chọn nút **bật tắt Bật trả lời** tự động.

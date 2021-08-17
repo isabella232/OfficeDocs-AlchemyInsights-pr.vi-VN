@@ -1,5 +1,5 @@
 ---
-title: Tệp và video trong yammer
+title: Tệp và video trong Yammer
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,27 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "6040"
 - "9003112"
-ms.openlocfilehash: c5f2b7f6ac4686bc9ef81c38525994d032a57f78
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5b58ffe7669a08fab9f4e1c4fdf8d9415b66bd3355608d474f8c3fc398b1e7d0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47745224"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54117146"
 ---
-# <a name="files-and-videos-in-yammer"></a>Tệp và video trong yammer
+# <a name="files-and-videos-in-yammer"></a>Tệp và video trong Yammer
 
-Các tệp có thể được đính kèm vào thư trong yammer hoặc được tải lên trực tiếp vào các nhóm. Trải nghiệm người dùng hơi khác nhau giữa các yammer cổ điển và mới nhưng các tệp được tải lên cùng một vị trí. Để biết thêm thông tin, hãy xem [đính kèm tệp hoặc hình ảnh vào một tin nhắn yammer](https://support.microsoft.com/office/attach-a-file-or-image-to-a-yammer-message-f576d4d1-ad66-4ce4-9c43-46cf75978dbf),  
+Tệp có thể được đính kèm vào tin nhắn trong Yammer tải lên trực tiếp cho nhóm. Trải nghiệm người dùng sẽ hơi khác nhau giữa phiên bản Yammer điển nhưng tệp được tải lên cùng một vị trí. Để biết thêm thông tin, [xem mục Đính kèm tệp hoặc hình ảnh vào Yammer ,](https://support.microsoft.com/office/attach-a-file-or-image-to-a-yammer-message-f576d4d1-ad66-4ce4-9c43-46cf75978dbf)  
 
-Khi người dùng gặp vấn đề, hãy thử tải lên từ một trình duyệt hoặc thiết bị khác. Sử dụng kết nối mạng nhanh nhất và trình duyệt gần đây nhất có sẵn. Sử dụng một cửa sổ trình duyệt tươi để đăng nhập lại có thể giúp đảm bảo rằng các thẻ kết hợp Azure quảng cáo chính xác đều sẵn dùng.
+Khi người dùng gặp sự cố, hãy thử tải lên từ trình duyệt hoặc thiết bị khác. Sử dụng kết nối mạng nhanh nhất và trình duyệt mới nhất sẵn dùng. Việc sử dụng cửa sổ trình duyệt mới để đăng nhập lại có thể giúp đảm bảo rằng các mã thông báo Azure AD chính xác đều sẵn dùng.
 
-Video tải lên yammer yêu cầu tải lên và mã hóa. Để biết thêm thông tin, hãy xem [bài đăng video trong yammer tải lên và mã hóa riêng rẽ](https://support.microsoft.com/office/video-posts-in-yammer-upload-and-encode-separately-5b3a348e-3a0a-4c4b-95b1-eabdf245ba25). Tùy thuộc vào kích cỡ video, mã hóa có thể mất thời gian để hoàn thành. Cân nhắc việc sử dụng [Microsoft Stream](https://docs.microsoft.com/stream/overview) để tải lên các video mà bạn đang chia sẻ trên Microsoft 365.
+Video tải lên Yammer cầu tải lên và mã hóa. Để biết thêm thông tin, hãy [xem Bài đăng video trong Yammer tải lên và mã hóa riêng](https://support.microsoft.com/office/video-posts-in-yammer-upload-and-encode-separately-5b3a348e-3a0a-4c4b-95b1-eabdf245ba25). Tùy thuộc vào kích cỡ video, mã hóa có thể mất thời gian để hoàn thành. Hãy cân nhắc [sử dụng Microsoft Stream](https://docs.microsoft.com/stream/overview) để tải lên video mà bạn đang chia sẻ trên Microsoft 365.
 
-**Hạn chế tệp và hình ảnh tải lên**
+**Hạn chế tải tệp và ảnh lên**
 
-Yammer cho phép tải lên tất cả các loại tệp theo mặc định. Người quản trị có thể thay đổi thiết đặt để chặn tệp được tải lên yammer. Để biết thêm thông tin, hãy xem [hạn chế những người có thể tải tệp lên và định dạng tệp giới hạn](https://docs.microsoft.com/yammer/configure-your-yammer-network/configure-yammer#restrict-who-can-upload-files-and-limit-file-formats). Thiết đặt liên quan sẵn dùng để hạn chế các dấu GIFs trong yammer. Để biết thêm thông tin, hãy xem [cho phép tenor GIFs trong thư](https://docs.microsoft.com/yammer/configure-your-yammer-network/configure-yammer#allow-tenor-gifs-in-messages).
+Yammer cho phép tải lên tất cả các loại tệp theo mặc định. Người quản trị có thể thay đổi thiết đặt để chặn việc tải tệp lên Yammer. Để biết thêm thông tin, hãy xem [mục Hạn chế người có thể tải lên tệp và giới hạn định dạng tệp](https://docs.microsoft.com/yammer/configure-your-yammer-network/configure-yammer#restrict-who-can-upload-files-and-limit-file-formats). Một cài đặt liên quan sẵn dùng để hạn chế GIF trong Yammer. Để biết thêm thông tin, [hãy xem mục Cho phép GIF Tenor trong tin nhắn](https://docs.microsoft.com/yammer/configure-your-yammer-network/configure-yammer#allow-tenor-gifs-in-messages).
 
-**Lưu trữ tệp yammer**
+**Yammer trữ tệp**
 
-Yammer được tích hợp với Microsoft 365 và sử dụng SharePoint Online để tải lên tệp. Để biết thêm thông tin, hãy xem [tổng quan về lưu trữ tệp yammer](https://docs.microsoft.com/yammer/get-started-with-yammer/file-storage). 
+Yammer được tích hợp với Microsoft 365 và sử dụng SharePoint Online để tải tệp lên. Để biết thêm thông tin, hãy [xem Yammer quan về dung lượng lưu trữ tệp](https://docs.microsoft.com/yammer/get-started-with-yammer/file-storage). 
 
-Để có trải nghiệm di chuyển tệp sang SharePoint Online, chúng tôi khuyên bạn nên cấu hình mạng yammer cho chế độ gốc. Để biết thêm thông tin, hãy xem [tổng quan về chế độ gốc](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode). 
+Để có trải nghiệm tốt nhất khi di chuyển tệp sang SharePoint Online, chúng tôi khuyên bạn nên đặt cấu hình mạng Yammer của mình cho Chế độ Gốc. Để biết thêm thông tin, hãy xem [mục Tổng quan về Chế độ Gốc.](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode) 

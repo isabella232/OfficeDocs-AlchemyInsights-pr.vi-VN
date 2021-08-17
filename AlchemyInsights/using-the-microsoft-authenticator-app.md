@@ -1,5 +1,5 @@
 ---
-title: Sử dụng ứng dụng Microsoft Authenticator
+title: Sử dụng Ứng Microsoft Authenticator Dành cho Thiết bị
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001679"
 - "3744"
-ms.openlocfilehash: 62c981d616cc612b77922a8cbc4cedf4b3b87cf0
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 353d2f2f473fba0f450379c031eec11be3c5e87e89c33433867818c22090be79
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51834357"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54083828"
 ---
-# <a name="using-the-microsoft-authenticator-app"></a>Sử dụng ứng dụng Microsoft Authenticator
+# <a name="using-the-microsoft-authenticator-app"></a>Sử dụng Ứng Microsoft Authenticator Dành cho Thiết bị
 
-Đăng nhập vào tài khoản Microsoft cá nhân của bạn bằng cách sử dụng dấu vân tay, nhận dạng khuôn mặt hoặc GHIM.
+Đăng nhập vào tài khoản Microsoft cá nhân của bạn bằng dấu vân tay, nhận dạng khuôn mặt hoặc mã PIN.
 
-- [Cách sử dụng ứng dụng Microsoft Authenticator](https://support.microsoft.com/help/4026727/microsoft-account-how-to-use-the-microsoft-authenticator-app). 
+- [Cách sử dụng ứng Microsoft Authenticator App](https://support.microsoft.com/help/4026727/microsoft-account-how-to-use-the-microsoft-authenticator-app). 
 
-- [Thiết lập ứng dụng Authenticator](https://docs.microsoft.com/azure/active-directory/user-help/security-info-setup-auth-app) bằng cách quét mã QR hoặc bằng [cách thêm một tài khoản](https://docs.microsoft.com/azure/active-directory/user-help/user-help-auth-app-add-account-manual).  
+- [Thiết lập Authenticator App bằng](https://docs.microsoft.com/azure/active-directory/user-help/security-info-setup-auth-app) cách quét Mã QR hoặc thêm tài khoản theo cách thủ [công.](https://docs.microsoft.com/azure/active-directory/user-help/user-help-auth-app-add-account-manual)  
 
-Để biết thêm thông tin, hãy xem [tổng quan về ứng dụng Authenticator](https://docs.microsoft.com/azure/active-directory/user-help/user-help-auth-app-overview).
+Để biết thêm thông tin, hãy xem phần [Tổng Authenticator Ứng dụng .](https://docs.microsoft.com/azure/active-directory/user-help/user-help-auth-app-overview)
