@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "530"
 - "1400007"
-ms.openlocfilehash: 86a51ca294c18c5a596d626f4e2caf8e0a2fa9cdf554d0390dd31b97445a0b6d
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 54889cd480f85fc63254c8218d03e26541795620fe2711798c19c9c503637f92
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54499102"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892949"
 ---
 # <a name="buy-additional-licenses"></a>Mua thêm giấy phép
 
@@ -31,8 +31,8 @@ ms.locfileid: "54499102"
 3. Bên **dưới Số lượng** mới trong hộp Tổng **số** giấy phép, hãy nhập tổng số giấy phép mà bạn muốn cho đăng ký này. Ví dụ: nếu bạn đã có 100 giấy phép và bạn muốn thêm 25 giấy phép nữa, hãy nhập 125.
 4. Chọn **Lưu**.
 
-Để tìm hiểu thêm, hãy [xem Mua hoặc loại bỏ giấy phép](/microsoft-365/commerce/licenses/buy-licenses).
+Để tìm hiểu thêm, hãy [xem Mua hoặc loại bỏ giấy phép](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
 
 **Các tài nguyên bổ sung**
 
-[Gán giấy phép cho người dùng trong Microsoft 365 dành cho doanh nghiệp](/microsoft-365/admin/manage/assign-licenses-to-users)
+[Gán giấy phép cho người dùng trong Microsoft 365 dành cho doanh nghiệp](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)

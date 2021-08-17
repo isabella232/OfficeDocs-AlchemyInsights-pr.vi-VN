@@ -14,12 +14,12 @@ ms.custom:
 - commerce_licensing
 - "652"
 - "2000017"
-ms.openlocfilehash: a7c749095478a227f7981b7057a92690d90b9195802bde3a8f784e25d1ac03a7
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 51c3e5ed3398b8d341bc2e84b8ae56bfd36a07f4de167042891a9ed606a94669
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54499678"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892561"
 ---
 # <a name="how-to-buy-licenses-for-your-microsoft-365-apps-for-business-subscription"></a>Cách mua giấy phép cho đăng ký Ứng dụng Microsoft 365 dành cho doanh nghiệp bạn
 
@@ -32,4 +32,4 @@ Khi gán giấy phép cho người dùng, bạn có thể nhận thấy rằng m
 3. Trong ngăn **Mua giấy phép,** **bên** dưới Số lượng mới trong hộp Tổng số giấy phép, hãy nhập tổng số giấy phép mà bạn muốn cho đăng ký này.  Ví dụ: nếu bạn đã có 100 giấy phép và bạn muốn thêm 25 giấy phép nữa, hãy nhập 125.
 4. Chọn **Lưu**.
 
-Để tìm hiểu thêm, hãy [xem Mua hoặc loại bỏ giấy phép](/microsoft-365/commerce/licenses/buy-licenses).
+Để tìm hiểu thêm, hãy [xem Mua hoặc loại bỏ giấy phép](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).

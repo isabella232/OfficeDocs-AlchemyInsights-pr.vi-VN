@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "12064"
 - "9006408"
-ms.openlocfilehash: 31924446f76ae8354773c8608968dca4ff3e24cf389f95ad02713e601fb7ff47
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: eeaf233d46fee73649c25d501abe161d28fc31d5b37011b862876f6fd34f0140
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53986949"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893261"
 ---
 # <a name="issues-related-to-office-scripts"></a>Các sự cố liên quan đến Office-lệnh
 
@@ -32,13 +32,13 @@ ms.locfileid: "53986949"
 - Office 365 A3
 - Office 365 A5
 
-Có thể mất tới 48 giờ để các thay đổi trong thiết Office Script có hiệu lực. Để biết chi tiết, [hãy xem Quản lý Office Thiết đặt Script](/microsoft-365/admin/manage/manage-office-scripts-settings).
+Có thể mất tới 48 giờ để các thay đổi đối với thiết Office Script có hiệu lực. Để biết chi tiết, [hãy xem Quản lý Office Thiết đặt Script](https://docs.microsoft.com/microsoft-365/admin/manage/manage-office-scripts-settings).
 
-Vì Office Script hoạt động với Power Automate, chúng tôi khuyên bạn nên xem lại chính sách ngăn mất dữ liệu hiện có của bạn (DLP) để đảm bảo dữ liệu tổ chức của bạn vẫn được bảo vệ trong khi người dùng sử dụng Script Office. Để biết thêm thông tin, hãy [xem Chính sách Ngăn mất dữ liệu (DLP).](/power-automate/prevent-data-loss)
+Vì Office Script hoạt động với Power Automate, chúng tôi khuyên bạn nên xem lại chính sách ngăn mất dữ liệu (DLP) hiện có của mình để đảm bảo dữ liệu tổ chức của bạn vẫn được bảo vệ khi người dùng sử dụng Script Office. Để biết thêm thông tin, hãy [xem Chính sách Ngăn mất dữ liệu (DLP).](https://docs.microsoft.com/power-automate/prevent-data-loss)
 
 Để biết thêm thông tin, hãy xem:
 
-[Office Hướng dẫn sử dụng script](/office/dev/scripts/)<br/>
+[Office Hướng dẫn sử dụng script](https://docs.microsoft.com/office/dev/scripts/)<br/>
 [Giới thiệu về Office Script trong Excel](https://support.microsoft.com/office/introduction-to-office-scripts-in-excel-9fbe283d-adb8-4f13-a75b-a81c6baf163a)<br/>
-[Chia Office Lệnh Chia Excel trên Web](https://support.microsoft.com/office/sharing-office-scripts-in-excel-for-the-web-226eddbc-3a44-4540-acfe-fccda3d1122b)<br/>
-[Ghi, chỉnh sửa và tạo Office Script trong Excel trên web](/office/dev/scripts/tutorials/excel-tutorial)
+[Chia Office Lệnh Chia Excel trên web](https://support.microsoft.com/office/sharing-office-scripts-in-excel-for-the-web-226eddbc-3a44-4540-acfe-fccda3d1122b)<br/>
+[Ghi, chỉnh sửa và tạo Office Script trong thư Excel trên web](https://docs.microsoft.com/office/dev/scripts/tutorials/excel-tutorial)

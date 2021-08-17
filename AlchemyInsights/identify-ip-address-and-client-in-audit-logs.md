@@ -13,16 +13,16 @@ ms.custom:
 - "1367"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 080b3df3934781ebf0d0cd5243787bf6975fc5f123b5b1593c0b6d9ada4eae5d
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 57a1756787f8297a2a1ab3012b95aaa2f33e6045
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57887522"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58313041"
 ---
 # <a name="identify-ip-address-and-client-in-audit-logs"></a>Xác định địa chỉ IP và máy khách trong nhật ký kiểm tra
 
-Địa chỉ IP tương ứng với một hoạt động do người dùng hoặc người quản Microsoft 365 của họ thực hiện được hiển thị trong Nhật ký Kiểm tra. Thông tin máy khách cũng được ghi nhật ký. Dưới đây là các bước để xác định thông tin đó
+Địa chỉ IP tương ứng với một hoạt động do một người Microsoft 365 hoặc người quản trị xác định được hiển thị trong Nhật ký Kiểm tra. Thông tin máy khách cũng được ghi nhật ký. Dưới đây là các bước để xác định thông tin đó
 
 1. Đăng nhập vào Trung [tâm Microsoft 365 Tuân thủ .](https://protection.office.com/)
 

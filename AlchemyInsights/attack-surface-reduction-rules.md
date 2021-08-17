@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "11228"
 - "9005470"
-ms.openlocfilehash: 0f2e3d2d2cfa205f95a5d5dc84f7293fbee165a2976248de75a96379becd6925
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 1eb0d949693916d1192fb75132207cd6a52e75840899e57c089a5f5aaca3ca88
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54072218"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893157"
 ---
 # <a name="attack-surface-reduction-rules"></a>Quy tắc giảm bề mặt tấn công
 
 Loại trừ tệp hoặc thư mục có thể giảm nghiêm trọng bảo vệ do quy tắc giảm bề mặt tấn công cung cấp. Các tệp đã bị quy tắc cho phép chạy sẽ bị chặn và không có báo cáo hoặc sự kiện nào được ghi lại. Loại trừ áp dụng cho tất cả quy tắc cho phép loại trừ.
 
-Loại trừ ASR sử dụng cùng một cú pháp như loại Tính năng Chống Virut của Bộ bảo vệ Microsoft loại trừ. Để biết chi tiết, [hãy xem Cấu hình và xác thực loại trừ cho Tính năng Chống Virut của Bộ bảo vệ Microsoft quét.](/microsoft-365/security/defender-endpoint/configure-exclusions-microsoft-defender-antivirus) Để tránh vấn đề, [hãy xem lại Các lỗi phổ biến cần tránh khi xác định loại trừ.](/microsoft-365/security/defender-endpoint/common-exclusion-mistakes-microsoft-defender-antivirus)
+Loại trừ ASR sử dụng cùng một cú pháp như loại Tính năng Chống Virut của Bộ bảo vệ Microsoft loại trừ. Để biết chi tiết, [hãy xem Cấu hình và xác thực loại trừ cho Tính năng Chống Virut của Bộ bảo vệ Microsoft quét.](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/configure-exclusions-microsoft-defender-antivirus) Để tránh vấn đề, [hãy xem lại Các lỗi phổ biến cần tránh khi xác định loại trừ.](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/common-exclusion-mistakes-microsoft-defender-antivirus)
 
-Không phải tất cả quy tắc ASR đều hỗ trợ loại trừ. Để xác thực xem quy tắc của bạn có hỗ trợ loại trừ hay [không,](/microsoft-365/security/defender-endpoint/attack-surface-reduction#attack-surface-reduction-rules)hãy xem bảng Các quy tắc giảm thiểu bề mặt tấn công .
+Không phải tất cả quy tắc ASR đều hỗ trợ loại trừ. Để xác thực xem quy tắc của bạn có hỗ trợ loại trừ hay [không,](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/attack-surface-reduction#attack-surface-reduction-rules)hãy xem bảng Các quy tắc giảm thiểu bề mặt tấn công .
 
 ## <a name="attack-surface-reduction-rules"></a>Quy tắc giảm bề mặt tấn công
 
@@ -34,11 +34,11 @@ Bề mặt tấn công của tổ chức bao gồm tất cả những nơi mà k
 
 Để biết thêm thông tin, hãy xem:
 
-- [GUID quy tắc ánh xạ ASR thành tên](/microsoft-365/security/defender-endpoint/attack-surface-reduction#attack-surface-reduction-rules)
+- [GUID quy tắc ánh xạ ASR thành tên](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/attack-surface-reduction#attack-surface-reduction-rules)
 - Yêu cầu về quy tắc ASR:
-    - [Windows 10 Pro, phiên bản 1709 trở lên](/windows/whats-new/whats-new-windows-10-version-1709)
-    - [Windows 10 Enterprise, phiên bản 1709 trở lên](/windows/whats-new/whats-new-windows-10-version-1709)
-    - [Windows Máy chủ, phiên bản 1803 (Kênh Nửa năm một lần) trở lên](/windows-server/get-started/whats-new-in-windows-server-1803)
+    - [Windows 10 Pro, phiên bản 1709 trở lên](https://docs.microsoft.com/windows/whats-new/whats-new-windows-10-version-1709)
+    - [Windows 10 Enterprise, phiên bản 1709 trở lên](https://docs.microsoft.com/windows/whats-new/whats-new-windows-10-version-1709)
+    - [Windows Máy chủ, phiên bản 1803 (Kênh Nửa năm một lần) trở lên](https://docs.microsoft.com/windows-server/get-started/whats-new-in-windows-server-1803)
 
 ## <a name="identify-the-correct-exclusion-to-apply"></a>Xác định loại trừ chính xác cần áp dụng
 
@@ -50,15 +50,15 @@ Bề mặt tấn công của tổ chức bao gồm tất cả những nơi mà k
     - Thực hiện loại trừ càng nghiêm ngặt càng tốt.
     - Áp dụng ký tự đại diện mà cần (ví dụ: thay thế biến Người dùng).
 
-1. Áp dụng loại trừ theo nhu cầu triển khai của bạn. Để biết chi tiết, xem mục [Tùy chỉnh quy tắc giảm thiểu bề mặt tấn công](/microsoft-365/security/defender-endpoint/customize-attack-surface-reduction).
+1. Áp dụng loại trừ theo nhu cầu triển khai của bạn. Để biết chi tiết, xem mục [Tùy chỉnh quy tắc giảm thiểu bề mặt tấn công](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/customize-attack-surface-reduction).
 
 ## <a name="exclusion-is-not-honored"></a>Loại trừ không được thực hiện
 
-1. Xác định quy tắc có hỗ trợ loại trừ hay không. Để biết chi tiết, xem mục [Quy tắc giảm thiểu bề mặt tấn công](/microsoft-365/security/defender-endpoint/attack-surface-reduction#attack-surface-reduction-rules).
+1. Xác định quy tắc có hỗ trợ loại trừ hay không. Để biết chi tiết, xem mục [Quy tắc giảm thiểu bề mặt tấn công](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/attack-surface-reduction#attack-surface-reduction-rules).
 
-1. Xem lại các loại trừ đã áp dụng và xác minh dữ liệu sự kiện về lỗi chính sách hoặc ký tự đại diện bị hiểu sai. Để biết thêm thông tin, hãy [xem Các loại loại trừ được hỗ trợ](/microsoft-365/security/defender-endpoint/mac-exclusions#supported-exclusion-types)
+1. Xem lại các loại trừ được áp dụng và xác minh với dữ liệu sự kiện về lỗi chính sách hoặc ký tự đại diện bị hiểu sai. Để biết thêm thông tin, hãy [xem Các loại loại trừ được hỗ trợ](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/mac-exclusions#supported-exclusion-types)
 
-1. nếu ảnh hưởng của quy tắc đó quá cao, hãy xem xét việc di chuyển quy tắc (quay lại) sang chế độ Kiểm tra để thực hiện xác thực thêm. Để biết chi tiết, xem mục [Kiểm tra cách thức tính năng của Bộ bảo vệ Microsoft dành cho các tính năng Điểm cuối hoạt động trong chế độ kiểm tra](/microsoft-365/security/defender-endpoint/audit-windows-defender).
+1. nếu ảnh hưởng của quy tắc đó quá cao, hãy xem xét việc di chuyển quy tắc (quay lại) sang chế độ Kiểm tra để thực hiện xác thực thêm. Để biết chi tiết, xem mục [Kiểm tra cách thức tính năng của Bộ bảo vệ Microsoft dành cho các tính năng Điểm cuối hoạt động trong chế độ kiểm tra](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/audit-windows-defender).
 
 1. Thu thập dữ liệu hỗ trợ để mở trường hợp hỗ trợ bằng cách sử dụng lệnh sau:
     

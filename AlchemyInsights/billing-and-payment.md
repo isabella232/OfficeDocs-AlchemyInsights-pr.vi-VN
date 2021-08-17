@@ -15,12 +15,12 @@ ms.custom:
 - commerce_billing
 - "9001669"
 - "3752"
-ms.openlocfilehash: 0899e81892117e1d512aa37a264ad3a77cf27b5c457f04c4d6a8d56753300543
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 17b78533dd1477095a7302704bf2f37c52f6d8a3fef61d756413ce51cc5f200f
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54502414"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893077"
 ---
 # <a name="billing-and-payment"></a>Lập hóa đơn và thanh toán
 
@@ -38,9 +38,9 @@ Nếu thanh toán bằng thẻ tín dụng hoặc tài khoản ngân hàng, phư
 
 Nếu bạn đã thêm một thẻ mới và vẫn nhận được thông báo từ chối trên thẻ tín dụng cũ, bạn có thể cần liên kết thẻ mới đó với đăng ký.
 
-1. Trong trung tâm quản trị, đi tới trang **Hóa đơn thanh** toán và & Phương  >  **thức** thanh  >  [toán.](https://go.microsoft.com/fwlink/p/?linkid=2018806)
+1. Trong trung tâm quản trị, đi tới trang **Hóa đơn thanh** toán và & Phương  >  **thức**  >  [thanh toán.](https://go.microsoft.com/fwlink/p/?linkid=2018806)
 
-2. Chọn hàng của phương thức thanh toán cần thay thế. Ngăn bên phải liệt kê tất cả các hồ sơ thanh toán và các đăng ký riêng lẻ sử dụng phương thức thanh toán được chọn.
+2. Chọn hàng của phương thức thanh toán cần thay thế. Ngăn bên phải liệt kê tất cả các hồ sơ thanh toán và các đăng ký riêng lẻ sử dụng phương thức thanh toán đã chọn.
 
 3. Trong ngăn bên phải, chọn Thay thế **phương thức thanh toán cho tất cả các mặt hàng**.
 
@@ -55,10 +55,10 @@ Nếu bạn đã thêm một thẻ mới và vẫn nhận được thông báo t
 
 7. Phương thức thanh toán mới đã được chọn trong danh sách thả xuống. Chọn **Thay thế**.
 
-Để tìm hiểu thêm, hãy xem quản [lý phương thức thanh toán](/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Để tìm hiểu thêm, hãy xem quản [lý phương thức thanh toán](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
 **Tần suất thanh toán**
 
 Hóa đơn được tạo hàng tháng hoặc hàng năm tùy thuộc vào tần suất thanh toán được chọn tại thanh toán.  
 
-**Lưu ý**: Đơn hàng với thanh toán hàng năm có thể nhận được một hóa đơn giữa kỳ nếu các thay đổi được thực hiện như thêm hoặc loại bỏ giấy phép. [Thay đổi tần suất thanh toán của bạn](/microsoft-365/commerce/billing-and-payments/change-payment-frequency).
+**Lưu ý**: Đơn hàng với thanh toán hàng năm có thể nhận được một hóa đơn giữa kỳ nếu các thay đổi được thực hiện như thêm hoặc loại bỏ giấy phép. [Thay đổi tần suất thanh toán của bạn](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).

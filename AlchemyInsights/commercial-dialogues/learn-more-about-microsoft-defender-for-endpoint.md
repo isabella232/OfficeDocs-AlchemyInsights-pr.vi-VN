@@ -1,5 +1,5 @@
 ---
-title: Tìm hiểu thêm về bảo vệ Microsoft cho điểm cuối
+title: Tìm hiểu thêm về Microsoft Defender dành cho Điểm cuối
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 2b2a425904c63ea627332c36d67cc2b902571ee3
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 891ed9f226cfab2882554e68c24f675c11f54c1aea2802f3851d42630af80df8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50750309"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54081920"
 ---
-# <a name="learn-more-about-microsoft-defender-for-endpoint"></a>Tìm hiểu thêm về bảo vệ Microsoft cho điểm cuối
+# <a name="learn-more-about-microsoft-defender-for-endpoint"></a>Tìm hiểu thêm về Microsoft Defender dành cho Điểm cuối
 
-Microsoft Defender cho điểm cuối là một nền tảng được thiết kế để giúp các mạng doanh nghiệp ngăn chặn, phát hiện, điều tra và phản hồi các mối đe dọa nâng cao.
+Bộ bảo vệ Microsoft dành cho Điểm cuối là một nền tảng được thiết kế để giúp các mạng doanh nghiệp ngăn chặn, phát hiện, điều tra và phản hồi các mối đe dọa nâng cao.
 
-- Microsoft Defender cho Office 365 và Microsoft Defender cho khả năng cung cấp các điểm cuối riêng biệt:
-  - Bảo vệ cho các email màn hình **Office 365** , cùng với các công cụ cộng tác hàng ngày, chẳng hạn như SharePoint, một ổ đĩa và nhóm.
-  - **Defender để** bảo vệ các thiết bị được liên kết với các điểm cuối và giúp xác định các cuộc tấn công thực hiện quá khứ phòng thủ trước khi bị vi phạm.
-- Để tìm hiểu thêm về bảo vệ cho điểm cuối hoặc bắt đầu dùng thử miễn phí, hãy xem bảo [vệ Microsoft cho điểm cuối](https://go.microsoft.com/fwlink/?linkid=2094113).
+- Bộ bảo vệ Microsoft dành cho Office 365 và Bộ bảo vệ Microsoft dành cho Điểm cuối cung cấp các chức năng khác biệt:
+  - **Bộ bảo vệ dành Office 365** giám sát email, cùng với các công cụ cộng tác hàng ngày, như SharePoint, One Drive và Teams.
+  - **Bộ bảo vệ dành cho Điểm cuối** sẽ bảo vệ các thiết bị được liên kết với các điểm cuối và giúp xác định các cuộc tấn công nhằm đưa điểm cuối qua khu vực bảo vệ trước vi phạm.
+- Để tìm hiểu thêm về Bộ bảo vệ dành cho Điểm cuối hoặc bắt đầu bản dùng thử miễn phí, xem [mục Bộ bảo vệ Microsoft dành cho Điểm cuối](https://go.microsoft.com/fwlink/?linkid=2094113).

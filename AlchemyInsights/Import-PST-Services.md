@@ -14,12 +14,12 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 71d2eb88c6ef79952084ff74e63506f097562f7b181248cf9a83ddc56dbffb2a
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 55cccce6f2c8e628bd76278486f4e95a09e020f5
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57891777"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58312745"
 ---
 # <a name="microsoft-365-import-service"></a>Microsoft 365 Nhập dịch vụ
 
@@ -31,7 +31,7 @@ ms.locfileid: "57891777"
 
 1. Trên trang **Nhập,** chọn **Công việc nhập mới**. Nhập tên công việc, rồi chọn **Tiếp theo**.
 
-1. Chọn Tải lên **dữ liệu của** bạn để sử dụng tùy chọn tải lên mạng cho Nhập Loại Công **việc**. Để biết các bước chi tiết, [hãy xem Sử dụng phương pháp tải lên mạng để nhập tệp PST của tổ chức bạn vào Microsoft 365.](https://docs.microsoft.com/compliance/use-network-upload-to-import-pst-files)
+1. Chọn Tải lên **liệu của bạn** để sử dụng tùy chọn tải lên mạng cho Nhập Loại Công **việc**. Để biết các bước chi tiết, [hãy xem Sử dụng phương pháp tải lên mạng để nhập tệp PST của tổ chức bạn vào Microsoft 365.](https://docs.microsoft.com/compliance/use-network-upload-to-import-pst-files)
 
 Để truy nhập **trang Nhập,** hãy đảm bảo bạn đã được gán các quyền thích hợp. Để biết thêm thông tin, hãy [xem mục Sử dụng phương pháp tải lên mạng để nhập tệp PST.](https://docs.microsoft.com/microsoft-365/compliance/importing-pst-files-to-office-365#using-network-upload-to-import-pst-files)
 

@@ -1,5 +1,5 @@
 ---
-title: Xem lại trạng thái của một trình gửi email, URL hoặc tệp đính kèm
+title: Xem lại trạng thái gửi email, URL hoặc tệp đính kèm
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 3514600ba19efe508adc552fa26bdd64ec107f00
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 170219c96a82a00db66757874c9d0c447e9064c626331b153e070ad9010f7e7b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747709"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54081848"
 ---
-# <a name="review-the-status-of-an-email-url-or-attachment-submission"></a>Xem lại trạng thái của một trình gửi email, URL hoặc tệp đính kèm
+# <a name="review-the-status-of-an-email-url-or-attachment-submission"></a>Xem lại trạng thái gửi email, URL hoặc tệp đính kèm
 
-Sau khi gửi một email, URL hoặc phần đính kèm, bạn có thể kiểm tra trạng thái và kết quả trên cùng một trang đệ trình.
+Sau khi gửi thư email, URL hoặc tệp đính kèm, bạn có thể kiểm tra trạng thái và kết quả trên cùng một trang gửi.
 
-Bạn sẽ thấy tiến độ nộp hồ sơ trên trang, và bạn cũng có thể truy sâu xuống các bài nộp trước để xem chi tiết về việc gửi và kết quả.
+Bạn sẽ thấy tiến độ gửi trên trang, và bạn cũng có thể truy sâu xuống các bản gửi trước đó để xem chi tiết của bản gửi đi và kết quả.
 
 > [!NOTE]
-> Sau khi bạn gửi một mục bằng cách sử dụng trình khám phá Submissions, có thể mất vài phút để kết quả xuất hiện.
+> Sau khi bạn gửi một mục bằng trình duyệt Trình gửi, có thể mất vài phút để kết quả xuất hiện.

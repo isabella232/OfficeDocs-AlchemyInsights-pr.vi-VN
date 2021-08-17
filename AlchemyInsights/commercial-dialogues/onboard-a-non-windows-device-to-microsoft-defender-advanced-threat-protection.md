@@ -1,5 +1,5 @@
 ---
-title: Trên một thiết bị không phải Windows với Microsoft Defender Advanced Threat Protection (MDATP)
+title: Triển năng Chống Mối đe dọa Nâng Windows của Bộ bảo vệ Microsoft (MDATP)
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: de230abdc56d32780e70e5ae1bf95ac45e9252cc
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 228fe6a4514df4508dda7f7fbdfa650a439b38ef51abafa7936afa4ecfd54e04
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748462"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54081884"
 ---
-# <a name="onboard-a-non-windows-device-to-microsoft-defender-advanced-threat-protection-mdatp"></a>Trên một thiết bị không phải Windows với Microsoft Defender Advanced Threat Protection (MDATP)
+# <a name="onboard-a-non-windows-device-to-microsoft-defender-advanced-threat-protection-mdatp"></a>Triển năng Chống Mối đe dọa Nâng Windows của Bộ bảo vệ Microsoft (MDATP)
 
-Xác định xem phân phối Linux hoặc phiên bản macOS của thiết bị tương thích với MDATP:
+Xác định xem phân phối Linux hoặc phiên bản macOS của thiết bị có tương thích với MDATP không:
 
-- [Các yêu cầu đối với thiết bị Linux](https://go.microsoft.com/fwlink/?linkid=2143462)
-- [Các yêu cầu đối với thiết bị macOS](https://go.microsoft.com/fwlink/?linkid=2143461)
-- [Các thiết bị không chạy Windows](https://go.microsoft.com/fwlink/?linkid=2143628)
+- [Yêu cầu đối với thiết bị Linux](https://go.microsoft.com/fwlink/?linkid=2143462)
+- [Yêu cầu đối với thiết bị macOS](https://go.microsoft.com/fwlink/?linkid=2143461)
+- [Thiết bị không sử dụng thiết Windows bảng](https://go.microsoft.com/fwlink/?linkid=2143628)

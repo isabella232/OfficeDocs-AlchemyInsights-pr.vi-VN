@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: e457f07a8180788dd612e0e905190276bd459856
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 0927d1dac654fc0678709eb19b3d5732536196beae36d102d1a94bf7617b1b45
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58311421"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892889"
 ---
 # <a name="view-all-quarantined-messages"></a>Xem tất cả thư bị cách ly
 
-1. In the Bộ bảo vệ Microsoft 365 portal at <https://security.microsoft.com> , go to Email & **Collaboration** \> **Review** \> **Quarantine**.
+1. Trong cổng thông Bộ bảo vệ Microsoft 365 của bạn <https://security.microsoft.com> tại , đi đến Email và Xem lại &  \> **Cách** \> **ly.**
 
    Để đi trực tiếp đến **trang Cách ly,** sử dụng <https://security.microsoft.com/quarantine> .
 
-2. Trên trang **Cách ly,** xác nhận tab **email được** chọn.
+2. Trên trang **Cách ly,** xác nhận tab **email** được chọn.
 3. Theo mặc định, thư được sắp xếp từ mới nhất đến cũ nhất dựa trên ngày nhận thư. Bạn có thể sắp xếp trên một trường bằng cách bấm vào một tiêu đề.
 4. Bạn chỉ có thể thực hiện thao tác hàng loạt trên tối đa 100 mục, vì vậy lọc cũng có thể giúp giảm tập hợp kết quả của bạn nếu bạn có nhiều hơn 100 mục.
 

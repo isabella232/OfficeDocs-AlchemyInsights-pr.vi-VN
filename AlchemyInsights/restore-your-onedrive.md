@@ -1,5 +1,5 @@
 ---
-title: Khôi phục OneDrive của bạn
+title: Khôi phục tài khoản OneDrive
 ms.author: matteva
 author: pebaum
 manager: scotv
@@ -12,25 +12,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8c07fc4e-98ba-438d-a4f7-9cfb1ed6a08a
-ms.openlocfilehash: 741c227b5d39282d53d36cefebe9e86290167447
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 27ab60bc794d50c031e22a7c1497d529f0403dde9b5a45708a54495117c1939f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801314"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54109370"
 ---
-# <a name="restore-your-onedrive"></a>Khôi phục OneDrive của bạn
+# <a name="restore-your-onedrive"></a>Khôi phục tài khoản OneDrive
 
-Nếu rất nhiều các tệp OneDrive của bạn bị xóa, ghi đè, bị hỏng hoặc nhiễm phần mềm độc hại, bạn có thể khôi phục toàn bộ OneDrive thành một thời gian trước đó trong vòng 30 ngày qua.
+Nếu bạn có nhiều tệp OneDrive bị xóa, ghi nhật ký, hỏng hoặc nhiễm phần mềm xấu, bạn có thể khôi phục toàn bộ OneDrive về một thời điểm trước đó trong vòng 30 ngày qua.
   
-1. Đi đến OneDrive của bạn trong trình duyệt web của bạn.
+1. Đi đến trang web OneDrive trình duyệt web của bạn.
     
-2. Bấm vào biểu tượng thiết đặt ở phía trên bên phải, rồi chọn **khôi phục OneDrive của bạn**.
+2. Bấm vào biểu Cài đặt màn hình ở phía trên bên phải, rồi chọn **Khôi phục tài liệu OneDrive**.
     
-3. Chọn ngày tháng từ danh sách, hoặc chọn **ngày tháng và thời gian tùy chỉnh**.
+3. Chọn một ngày từ danh sách hoặc chọn Ngày **và giờ tùy chỉnh**.
     
-4. Bấm **khôi phục** để hoàn tác tất cả các hoạt động sau ngày bạn đã chọn. 
+4. Bấm **Khôi phục** để hoàn tác tất cả các hoạt động sau ngày bạn đã chọn. 
     
-[Thêm trợ giúp bằng cách dùng khôi phục tệp](https://go.microsoft.com/fwlink/?linkid=872874)
+[Trợ giúp thêm về cách sử dụng tính năng Khôi phục Tệp](https://go.microsoft.com/fwlink/?linkid=872874)
   
 
