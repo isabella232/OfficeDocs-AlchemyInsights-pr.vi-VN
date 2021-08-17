@@ -1,5 +1,5 @@
 ---
-title: Freemium nhóm
+title: Teams Freemium
 ms.author: heidip
 author: heidip
 ms.date: 04/21/2020
@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.custom:
 - "997"
 - "6500005"
-ms.openlocfilehash: 5b4aae884bff8be2a7b2a7018eb28e65aef87e50
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 9ee8e58510ec8ca550de60ff7b07855427633bae055b738eeef3e838edd7c609
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708228"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54048826"
 ---
-# <a name="id-like-to-sign-up-for-teams-for-free"></a>Tôi muốn đăng ký cho các nhóm miễn phí
+# <a name="id-like-to-sign-up-for-teams-for-free"></a>Tôi muốn đăng ký nhận đăng ký miễn Teams này
 
-Các nhóm sẵn dùng miễn phí thông qua một vài chương trình khác nhau. Vì bạn đang liên hệ với bộ phận hỗ trợ với yêu cầu này, bạn đã có một đối tượng thuê Microsoft 365 hiện có nghĩa là bạn đã có các nhóm Microsoft.
+Teams có sẵn miễn phí thông qua một số chương trình khác nhau. Vì bạn đang liên hệ với bộ phận hỗ trợ theo yêu cầu này, bạn đã có một đối tượng thuê Microsoft 365 có sẵn, nghĩa là bạn đã liên Microsoft Teams.
 
-Trong hầu hết các trường hợp, các nhóm được bật theo mặc định cho tất cả người dùng của bạn. Sau khi bật, người dùng của bạn có thể chạy nhóm, bằng cách cài đặt máy khách trên [máy tính](https://docs.microsoft.com/MicrosoftTeams/get-clients#desktop-client)   và [di động](https://docs.microsoft.com/MicrosoftTeams/get-clients#mobile-clients) , hoặc [từ trình duyệt trong](https://dos.microsoft.com/MicrosoftTeams/get-clients#web-client)    [Microsoft nhóm](https://www.microsoft.com/microsoft-teams/teams-for-work).
+Trong hầu hết các trường hợp, Teams sẽ được bật theo mặc định cho tất cả người dùng của bạn. Sau khi bật, người dùng của bạn có thể [](https://docs.microsoft.com/MicrosoftTeams/get-clients#desktop-client)chạy Teams, bằng cách cài đặt máy tính và máy khách di động hoặc từ trình duyệt   tại [](https://docs.microsoft.com/MicrosoftTeams/get-clients#mobile-clients)  [](https://dos.microsoft.com/MicrosoftTeams/get-clients#web-client)    [Microsoft Teams.](https://www.microsoft.com/microsoft-teams/teams-for-work)
 
-Ngoại lệ này là Microsoft nhóm dành cho giáo dục (EDU). Nếu bạn có giấy phép EDU, bạn cần bật các nhóm Microsoft theo cách thủ công. Để thực hiện điều này, hãy đi đến Trung tâm quản trị Microsoft 365 **> các dịch vụ và phần bổ trợ > Microsoft**. Nếu bạn đang sử dụng trung tâm quản trị nhóm mới, bạn sẽ phải tắt **thử Trung tâm quản trị mới**   để tìm các **dịch vụ và phần bổ** trợ. QUAN trọng: bạn có thể phải chờ tối đa 24 giờ để thay đổi có hiệu lực.
+Ngoại lệ cho trường hợp này Microsoft Teams dành cho giáo dục (EDU). Nếu bạn có giấy phép EDU, bạn cần bật theo cách Microsoft Teams công. Để thực hiện điều này, hãy đi Trung tâm quản trị Microsoft 365> Dịch vụ **và phần bổ trợ của > Microsoft Teams.** Nếu bạn đang sử dụng trung tâm quản trị Teams mới, bạn sẽ phải tắt Thử trung tâm quản trị mới để tìm Dịch vụ và ****   phần bổ **trợ.** QUAN TRỌNG: Bạn có thể phải chờ tối đa 24 giờ để thay đổi của mình có hiệu lực.
 
-Đừng bỏ lỡ tất cả các hướng dẫn của chúng tôi để [hỗ trợ người lao động từ xa với nhóm](https://docs.microsoft.com/MicrosoftTeams/support-remote-work-with-teams).
+Đừng bỏ lỡ tất cả hướng dẫn của chúng tôi để [hỗ trợ nhân viên từ xa với Teams.](https://docs.microsoft.com/MicrosoftTeams/support-remote-work-with-teams)

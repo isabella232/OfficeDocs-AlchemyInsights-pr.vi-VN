@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "6021"
 - "9003211"
-ms.openlocfilehash: c70f393ce70905ded6a4ad5c08089aacb2273b47
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b558570fd680b9368305dfffe1060f671aa12ae3d74286825775f55ef1002c70
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47804385"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54078608"
 ---
 # <a name="how-to-save-battery"></a>Cách tiết kiệm pin
 
-Dưới đây là ba cách để pin của bạn kéo dài lâu hơn khi bạn không thể cắm vào máy tính xách tay hoặc máy tính bảng của bạn.  
+Dưới đây là ba cách để kéo dài thời lượng pin khi bạn không thể cắm máy tính xách tay hoặc máy tính bảng.  
 
-- **Sử dụng trình tiết kiệm pin** Chọn nút **bắt đầu** , rồi chọn **thiết đặt**   >   **pin hệ thống**   >   **Battery**. Theo mặc định, bộ bảo vệ pin bật chính nó khi mức pin của bạn giảm xuống dưới 20%, nhưng bạn có thể điều chỉnh điều này trong thiết đặt pin.
+- **Sử dụng chế độ tiết kiệm pin** Chọn nút **Bắt** đầu, rồi **chọn** Cài đặt Pin   >   **Hệ**   >   **thống**. Theo mặc định, chế độ tiết kiệm pin sẽ tự bật khi mức pin dưới 20% nhưng bạn có thể điều chỉnh mức này trong cài đặt pin.
     
-- **Sử dụng Microsoft Edge để duyệt** Các kiểm tra cho thấy khi duyệt bằng Microsoft Edge, pin của bạn kéo dài 36-53% cho mỗi khoản phí so với khi duyệt bằng Chrome, Firefox hoặc Opera trên Windows 10.
+- **Sử dụng Microsoft Edge để duyệt web** Thử nghiệm cho thấy khi duyệt web bằng Microsoft Edge, thời lượng pin của bạn dài hơn 36-53% mỗi lần sạc so với khi duyệt web bằng Chrome, Firefox hoặc Opera trên điện Windows 10.
     
-- **Chạy trình khắc phục sự cố trong Power troubleshooter** Chọn nút **bắt đầu** , rồi chọn **thiết đặt**  >  **Update & Security**  >  **khắc phục sự cố**bảo mật &  >  **Power**  >  **khi chạy trình gỡ rối**.
+- **Chạy Bộ hướng dẫn giải quyết trục trặc nguồn điện** Chọn nút Bắt **đầu,** rồi chọn Bộ hướng **Cài đặt** cập & sự cố  >  **Bảo**  >  **mật**  >  **Power**  >  **Run bộ hướng dẫn giải quyết trục trặc**.

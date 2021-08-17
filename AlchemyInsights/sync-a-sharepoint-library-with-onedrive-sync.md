@@ -1,5 +1,5 @@
 ---
-title: Đồng bộ thư viện SharePoint với đồng bộ OneDrive
+title: Đồng bộ Thư SharePoint Với Đồng OneDrive Trang
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003051"
 - "5797"
-ms.openlocfilehash: 66ed9c9e579eb591ea56436966976f6b1d9669b0
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 83f3793f4feadc68160046680d8291a259da3b417049be743f14a0f0784f4246
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51831144"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54049483"
 ---
-# <a name="sync-a-sharepoint-library-with-onedrive-sync"></a>Đồng bộ thư viện SharePoint với đồng bộ OneDrive
+# <a name="sync-a-sharepoint-library-with-onedrive-sync"></a>Đồng bộ Thư SharePoint Với Đồng OneDrive Trang
 
-Để có đồng bộ các tệp SharePoint của bạn vào ổ đĩa cứng cục bộ của bạn, hãy hoàn thành các bước sau đây:
+Để đồng bộ tệp SharePoint vào ổ đĩa cứng cục bộ của bạn, hãy hoàn thành các bước sau đây:
 
-1. Dẫn hướng đến thư viện tài liệu mà bạn muốn đồng bộ với ổ đĩa cứng cục bộ của bạn.
-2. Chọn nút đồng bộ từ các tùy chọn Menu.
-3. Làm theo các bước từng bước để hoàn tất việc đồng bộ hóa.
+1. Dẫn hướng đến thư viện tài liệu mà bạn muốn đồng bộ với ổ đĩa cứng cục bộ.
+2. Chọn nút Đồng bộ từ các tùy chọn menu.
+3. Làm theo từng bước để hoàn thành quá trình đồng bộ hóa.
