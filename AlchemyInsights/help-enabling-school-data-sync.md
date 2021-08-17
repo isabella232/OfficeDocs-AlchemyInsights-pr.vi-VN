@@ -1,5 +1,5 @@
 ---
-title: Trợ giúp cho phép đồng bộ dữ liệu trường học
+title: Giúp bật tính năng School Data Sync
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001732"
 - "3834"
-ms.openlocfilehash: 10224171bf81cd31b2d90afb30887539aa7b4e58
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 6c6983ee723312564c8fcf1252267938aa4ea0916014a6bd81188308f4cdb488
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51811694"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54055684"
 ---
-# <a name="help-enabling-school-data-sync"></a>Trợ giúp cho phép đồng bộ dữ liệu trường học
+# <a name="help-enabling-school-data-sync"></a>Giúp bật tính năng School Data Sync
 
-Bạn cần trợ giúp cho phép đồng bộ dữ liệu trường học? Bạn có biết bạn có thể đủ điều kiện để được trợ giúp từ chương trình Microsoft 365 FastTrack không?
+Bạn cần trợ giúp để bật School Data Sync? Bạn có biết mình có đủ điều kiện để được hỗ trợ từ chương trình Microsoft 365 FastTrack không?
 
-Vui lòng truy nhập [Trung tâm Fasttrack](https://www.microsoft.com/fasttrack) để gửi yêu cầu trợ giúp trong việc bật đồng bộ dữ liệu trường học cho tổ chức của bạn.
+Vui lòng truy nhập [Trung FastTrack Để](https://www.microsoft.com/fasttrack) gửi yêu cầu hỗ trợ trong việc bật tính School Data Sync cho tổ chức của bạn.

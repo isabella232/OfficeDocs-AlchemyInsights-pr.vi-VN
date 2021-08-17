@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "3835"
-ms.openlocfilehash: 928eac7dc5455a96d8f49f60a368f098f8e322bb
-ms.sourcegitcommit: 29019d042be8283d24048f96f1a16ec865c74ca6
+ms.openlocfilehash: 5eaf53633be10a10df9c040bc2852152f51daa6b248f3773997e203cbb6b86f7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/10/2021
-ms.locfileid: "52882711"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54108614"
 ---
 # <a name="set-up-advanced-ediscovery"></a>Thiết lập Khám phá Điện tử nâng cao
 
 Với Advanced eDiscovery, bạn có thể áp dụng phân tích văn bản, máy học và mã hóa liên quan/dự đoán. Tính năng Advanced eDiscovery yêu cầu một trong các mục sau:
 
-- Microsoft 365 E5 hoặc Office 365 ký E5
+- Microsoft 365 E5 hoặc Office 365 E5 ký
 
 - Microsoft 365 E3 của bạn với phần bổ trợ Tuân thủ E5
 
-- Office 365 Đăng ký E3 với phần bổ trợ Tuân thủ Nâng cao
+- Office 365 E3 của bạn với phần bổ trợ Tuân thủ Nâng cao
 
 Dưới đây là tổng quan ở mức cao về các bước thiết lập và quản lý Advanced eDiscovery:
 
