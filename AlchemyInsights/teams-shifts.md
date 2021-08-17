@@ -1,5 +1,5 @@
 ---
-title: Thay đổi nhóm
+title: Teams Ca
 ms.author: heidip
 author: heidip
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "6251"
 - "9000161"
-ms.openlocfilehash: cf8ada741fd93283513d868869b0e216373f6b7d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cf4227da85656ee0200ca8a1e4ced10229d7dce6ab91cdbc62f63a41c899c80d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750725"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54106526"
 ---
-# <a name="using-teams-shifts"></a>Sử dụng ca nhóm
+# <a name="using-teams-shifts"></a>Dùng Teams Ca
 
-Để biết thông tin về việc quản lý ứng dụng ca, bao gồm cách thiết lập ca, cho phép thay đổi cho người dùng và quản lý ứng dụng ca, hãy xem:
+Để biết thông tin về quản lý ứng dụng Ca, bao gồm cách thiết lập ca, bật Ca cho người dùng và quản lý ứng dụng Ca, hãy xem:
  
-- [Quản lý ứng dụng ca cho tổ chức của bạn trong Microsoft nhóm](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#set-up-shifts).
-- [Bật hoặc tắt thay đổi đối với người dùng cụ thể trong tổ chức của bạn](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#enable-or-disable-shifts-for-specific-users-in-your-organization).
+- [Quản lý ứng dụng Ca cho tổ chức của bạn trong Microsoft Teams.](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#set-up-shifts)
+- [Bật hoặc tắt Ca cho người dùng cụ thể trong tổ chức của bạn.](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#enable-or-disable-shifts-for-specific-users-in-your-organization)
 
-Để tìm hiểu thêm về ca cho các nhóm, bao gồm cả việc quản lý lịch biểu thay đổi [cho các nhóm](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts-for-teams-landing-page).
+Để tìm hiểu thêm về Ca trong Teams, bao gồm quản lý lịch biểu Ca, hãy xem [Ca trong Teams.](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts-for-teams-landing-page)
 
-Có **hiệu lực ngày 30 tháng 6, 2020**, Microsoft Staffhub đã ngừng hoạt động. Để biết thêm thông tin, hãy xem [Microsoft StaffHub đã ngừng](https://docs.microsoft.com/MicrosoftTeams/expand-teams-across-your-org/shifts/microsoft-staffhub-to-be-retired)hoạt động.
+**Có hiệu lực vào 30/06/2020,** Microsoft Staffhub đã ngừng hoạt động. Để biết thêm thông tin, [xem mục Microsoft StaffHub đã ngừng hoạt động.](https://docs.microsoft.com/MicrosoftTeams/expand-teams-across-your-org/shifts/microsoft-staffhub-to-be-retired)
 

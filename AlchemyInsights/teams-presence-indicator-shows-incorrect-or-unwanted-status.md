@@ -1,5 +1,5 @@
 ---
-title: Chỉ báo hiện diện nhóm Hiển thị trạng thái không mong muốn hoặc không mong muốn
+title: Teams chỉ báo hiện diện hiển thị trạng thái không chính xác hoặc không mong muốn
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003301"
 - "6205"
-ms.openlocfilehash: ee870e4b47da5bf1fbe4bc9248fc3e36273c2c87
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e30545b995b198d3b12a71d0f68259c9cdf977d304d4d6f11ce360f53daf1fae
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47735941"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54106520"
 ---
-# <a name="teams-presence-indicator-shows-incorrect-or-unwanted-status"></a>Chỉ báo hiện diện nhóm Hiển thị trạng thái không mong muốn hoặc không mong muốn
+# <a name="teams-presence-indicator-shows-incorrect-or-unwanted-status"></a>Teams chỉ báo hiện diện hiển thị trạng thái không chính xác hoặc không mong muốn
 
-Nhóm tự động đặt trạng thái của bạn dựa trên:
+Teams động đặt trạng thái của bạn dựa trên:
 
-- Hoạt động trên máy tính của bạn hoặc trong nhóm điện thoại di động.
-- Các cuộc họp và thiết đặt trả lời tự động trong Outlook.
+- Hoạt động trên máy tính hoặc trong thiết Teams di động.
+- Cuộc họp và thiết đặt trả lời tự động Outlook.
 
-Để biết thêm thông tin, hãy xem [sự hiện diện của người dùng trong nhóm](https://docs.microsoft.com/microsoftteams/presence-admins).  
+Để biết thêm thông tin, hãy [xem Hiện diện người dùng trong Teams.](https://docs.microsoft.com/microsoftteams/presence-admins)  
 
-Tuy nhiên, bạn có thể thiết lập một trạng thái nhóm để đè lên những điều này bằng cách chọn trạng thái hiện tại của bạn và chọn một trạng thái khác. Để biết chi tiết, hãy xem [thay đổi trạng thái của bạn trong nhóm](https://support.microsoft.com/office/change-your-status-in-teams-ce36ed14-6bc9-4775-a33e-6629ba4ff78e).
+Tuy nhiên, bạn có thể đặt một Teams thái thay thế bằng cách chọn trạng thái hiện tại của bạn và chọn một trạng thái khác. Để biết chi tiết, hãy [xem Thay đổi trạng thái của bạn Teams.](https://support.microsoft.com/office/change-your-status-in-teams-ce36ed14-6bc9-4775-a33e-6629ba4ff78e)

@@ -1,5 +1,5 @@
 ---
-title: Sử dụng Planner với nhóm Microsoft
+title: Sử dụng Planner cùng với Microsoft Teams
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "2653"
 - "9000727"
-ms.openlocfilehash: fb0677e7b4115cb957d32c74ee8ad6de954eb373
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 96f88e51c03c147eff23ab402139a2ede1b185c9438cc9b2de3613d91e4363f2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51827166"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54047962"
 ---
-# <a name="using-planner-with-microsoft-teams"></a>Sử dụng Planner với nhóm Microsoft
+# <a name="using-planner-with-microsoft-teams"></a>Sử dụng Planner cùng với Microsoft Teams
 
-Sắp xếp các tác vụ của bạn bằng cách thêm một hoặc nhiều tab Planner vào một kênh Nhóm: 
+Sắp xếp tác vụ của bạn bằng cách thêm một hoặc nhiều tab Planner vào một Teams khác: 
 
-- [Thêm tab Planner vào kênh nhóm](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0#bkmk_addaplannertabtoateamchannel). Người dùng thêm tab phải là thành viên của nhóm, chứ không phải chỉ là chủ sở hữu. Bạn có thể thêm người dùng làm một thành viên thông qua giao diện Microsoft nhóm.
-- [Thêm một kế hoạch hiện có cho nhóm Microsoft](https://techcommunity.microsoft.com/t5/Planner-Blog/Bringing-a-Plan-into-Microsoft-Teams/ba-p/57463).
-- [Loại bỏ tab Planner hoặc xóa một gói](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0#bkmk_removeaplannertabordeleteaplan). Không thể khôi phục các gói đã xóa trong nhóm. Nếu một nhóm đã bị xóa đã có, bạn có thể [khôi phục các gói đã xóa và nhóm](https://blogs.msdn.microsoft.com/brismith/2017/03/29/microsoft-planner-now-you-can-recover-deleted-plans-and-groups).
-- [Bật hoặc tắt thông báo gán Planner trong nhóm](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0#bkmk_getplannerassignmentnotificationsinteams).
+- [Thêm tab Planner vào kênh nhóm](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0#bkmk_addaplannertabtoateamchannel). Người dùng thêm tab phải là thành viên của nhóm, chứ không chỉ chủ sở hữu. Bạn có thể thêm người dùng làm thành viên thông qua giao Microsoft Teams khác.
+- [Thêm một Kế hoạch hiện có vào Microsoft Teams.](https://techcommunity.microsoft.com/t5/Planner-Blog/Bringing-a-Plan-into-Microsoft-Teams/ba-p/57463)
+- [Xóa tab Planner hoặc xóa kế hoạch](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0#bkmk_removeaplannertabordeleteaplan). Không thể khôi phục gói đã xóa trong Teams. Nếu một nhóm đã bị xóa, bạn có thể khôi phục [các kế hoạch và nhóm đã xóa.](https://blogs.msdn.microsoft.com/brismith/2017/03/29/microsoft-planner-now-you-can-recover-deleted-plans-and-groups)
+- [Bật hoặc tắt thông báo bài tập Planner trong Teams](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0#bkmk_getplannerassignmentnotificationsinteams).
 
-**Lưu ý:** Để biết tổng quan chung về tích hợp Planner với Microsoft nhóm, hãy xem [dùng Planner trong Microsoft nhóm](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0).
+**Lưu ý:** Để biết tổng quan chung về tích hợp Planner Microsoft Teams, xem mục [Sử dụng Planner trong Microsoft Teams.](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0)

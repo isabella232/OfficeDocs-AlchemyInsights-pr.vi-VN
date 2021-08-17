@@ -1,5 +1,5 @@
 ---
-title: Khắc phục sự cố với các thiết bị đăng ký iOS trong Microsoft InTune
+title: Khắc phục sự cố đăng ký thiết bị iOS trong Microsoft Intune
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -10,31 +10,31 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d717bcc9-1cc1-44f6-b5e6-c1bc059c1973
-ms.openlocfilehash: 14f7a897f0c7504db1b605485e170183c3a1afb2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 0aaece95effa468af5c906a8bd07e5b00ffa3df37b4e2cb296d64108efec94e9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823485"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54047998"
 ---
-# <a name="troubleshoot-issues-with-enrolling-ios-devices-in-microsoft-intune"></a>Khắc phục sự cố với các thiết bị đăng ký iOS trong Microsoft InTune
+# <a name="troubleshoot-issues-with-enrolling-ios-devices-in-microsoft-intune"></a>Khắc phục sự cố đăng ký thiết bị iOS trong Microsoft Intune
 
-Xem lại các tài nguyên được liệt kê dưới đây để giải quyết sự cố của bạn ngay bây giờ. 
+Xem lại các tài nguyên được liệt kê bên dưới để giải quyết sự cố của bạn ngay. 
   
-Một số thông báo lỗi và giải pháp thông thường:
+Một số thông báo lỗi phổ biến và các bước giải quyết:
   
-- **Nắp thiết bị đã đạt** Người dùng có thêm các thiết bị được đăng ký với giới hạn của thiết bị. Xem lại các tài liệu này để [loại bỏ một thiết bị](https://docs.microsoft.com/intune/devices-wipe) hoặc [thay đổi giới hạn thiết bị](https://docs.microsoft.com/intune/enrollment-restrictions-set#set-device-limit-restrictions).
+- **Đã đạt Đến Hạn mức Thiết bị** Người dùng có nhiều thiết bị đã đăng ký hơn giới hạn thiết bị. Xem lại các tài liệu này [để loại bỏ một thiết](https://docs.microsoft.com/intune/devices-wipe) bị hoặc thay đổi giới hạn thiết [bị](https://docs.microsoft.com/intune/enrollment-restrictions-set#set-device-limit-restrictions).
     
-- **Dịch vụ này không được hỗ trợ. Không có chính sách đăng ký:** dịch vụ thông báo đẩy táo (APNS) cần được cấu hình hoặc gia hạn. Xem lại [tài liệu này](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get) để biết hướng dẫn về cách thực hiện điều đó. 
+- **Dịch vụ này không được hỗ trợ. Không có Chính sách Đăng ký:** Cần cấu hình hoặc gia hạn Dịch vụ Thông báo Đẩy (APNS) của Apple. Xem [lại tài liệu](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get) này để biết hướng dẫn về cách thực hiện việc đó. 
     
-- **Loại giấy phép người dùng không được nhận diện không hợp lệ hoặc tên người dùng:** Người dùng cần được gán giấy phép InTune hoặc EMS. Xem lại các tài liệu này để gán giấy phép thông qua: [Trung tâm quản trị Office](https://docs.microsoft.com/intune/licenses-assign) hoặc [cổng thông tin Azure](https://docs.microsoft.com/azure/active-directory/license-users-groups).
+- **Loại giấy phép người dùng không hợp lệ hoặc tên người dùng không được nhận dạng:** Người dùng cần được gán giấy phép Intune hoặc EMS. Xem lại các tài liệu này để gán giấy phép thông [qua: Trung Office tâm Quản trị](https://docs.microsoft.com/intune/licenses-assign) hoặc cổng thông tin [Azure.](https://docs.microsoft.com/azure/active-directory/license-users-groups)
     
 Các tài nguyên bổ sung để giúp giải quyết sự cố của bạn:
   
-1. Sử dụng [cổng thông tin khắc phục sự cố InTune](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) để chẩn đoán và giải quyết các lỗi đăng ký thường gặp. Xem lại [tài liệu này](https://docs.microsoft.com/intune/help-desk-operators) để biết thêm chi tiết. 
+1. Sử dụng [Cổng thông tin Khắc phục sự cố Intune](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) để chẩn đoán và giải quyết các lỗi đăng ký thường gặp. Xem lại [tài liệu này](https://docs.microsoft.com/intune/help-desk-operators) để biết thêm chi tiết. 
     
-2. Xem lại các tài liệu này để biết danh sách các lỗi phổ biến ngăn chặn việc đăng ký và độ phân giải cho từng: [hướng dẫn khắc phục](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) sự cố và trình [xử lý khắc phục sự cố](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune).
+2. Xem lại các tài liệu này để biết danh sách các lỗi thường gặp ngăn chặn việc đăng ký và giải pháp cho mỗi lỗi: Hướng dẫn [khắc](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) phục sự cố và [tài liệu Khắc phục sự cố](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune).
     
-3. [Tìm hiểu cách đăng ký thiết bị iOS trong Microsoft InTune](https://docs.microsoft.com/intune/ios-enroll).
+3. [Tìm hiểu cách đăng ký thiết bị iOS trong Microsoft Intune](https://docs.microsoft.com/intune/ios-enroll).
     
 
