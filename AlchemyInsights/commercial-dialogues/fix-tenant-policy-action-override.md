@@ -1,5 +1,5 @@
 ---
-title: Sửa chữa chính sách đối tượng thuê (ghi đè hành động)
+title: Khắc phục chính sách Đối tượng thuê (thay thế hành động)
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,20 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: bc7ad8acd86c9d5b2f99ffdc6fe8a8b53e1fcb8b
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 157baa1f1e3f48b47ba07b8c6d446f8e081a4ad24b7d48f50c4fc5af5518cdd6
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748983"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896097"
 ---
-# <a name="fix-tenant-policy-action-override"></a>Sửa chữa chính sách đối tượng thuê (ghi đè hành động)
+# <a name="fix-tenant-policy-action-override"></a>Khắc phục chính sách Đối tượng thuê (thay thế hành động)
 
-Chính sách chống thư rác trong đối tượng thuê của bạn bị ảnh hưởng trong thư này. Để xem lại chính sách, hãy làm như sau:
+Một trong những chính sách chống thư rác của bạn đã ảnh hưởng đến thư này. Để xem lại chính sách, hãy thực hiện các bước sau đây:
 
-1. Truy nhập [Trung tâm tuân thủ & bảo mật của Office 365](https://go.microsoft.com/fwlink/p/?linkid=2077143), rồi đi tới chính sách chống thư rác về **quản lý mối đe dọa**  >    >  [](https://go.microsoft.com/fwlink/?linkid=2101518).
-2. Kiểm tra xem **nguồn chính sách** cho biết như sau:  **Thêm-XHeader/Modifysubject/Redirect/Delete/No Action/Bcc Message**
+1. Trong cổng thông tin Bộ bảo vệ Microsoft 365 , đi đến Chính sách Cộng tác qua Email & các chính & Chính sách mối đe dọa Quy tắc Chống thư <https://security.microsoft.com/>  \>  \>  \>  rác trong **phần Chính** sách.
 
-    Nếu vậy, trên tab **tùy chỉnh** , hãy kiểm tra các thiết đặt của chính sách ảnh hưởng đến thư. Có thể các **thiết đặt tiêu chuẩn** được áp dụng cho tất cả các khách hàng bảo vệ Exchange Online đã ảnh hưởng đến thư.
+   Để truy nhập trực tiếp vào **trang Chính sách chống thư rác,** hãy sử dụng <https://security.microsoft.com/antispam> .
 
-Để biết thêm thông tin về cách cấu hình chính sách bộ lọc thư rác, hãy xem [cấu hình chính sách bộ lọc thư rác của bạn](https://go.microsoft.com/fwlink/?linkid=2101431).
+2. Trên trang **Chính** sách chống thư rác, hãy chọn chính sách  bằng cách bấm  vào tên của chính sách **(** Loại là Chính sách chống thư rác tùy chỉnh hoặc Tên là Chính sách gửi thư đến Chống Thư rác **(Mặc định)).**
+3. Trong hộp bật lên chi tiết xuất hiện, hãy chọn **Chỉnh sửa hành** động trong phần **Hành** động.
+4. Trong phần Hành động **thư,** xem lại các bản pháp cho Thư  rác **,** Thư rác với độ tin cậy **cao,** Lừa đảo qua mạng và Lừa đảo qua mạng với độ tin cậy cao để xem liệu có bất kỳ giá trị nào sau đây được chọn không:
+   - **Thêm dấu X đầu trang**
+   - **Mở sẵn dòng chủ đề bằng văn bản**
+   - **Chuyển hướng thư đến địa chỉ email**
+   - **Xóa thư**
+   - **Không hành động**
+
+   Có thể cài đặt Tiêu chuẩn được **áp dụng cho tất** cả các Exchange Online Protection khách hàng đã ảnh hưởng đến thư.
+
+Để biết thêm thông tin, hãy [xem Cấu hình chính sách chống thư rác trong EOP.](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-your-spam-filter-policies)

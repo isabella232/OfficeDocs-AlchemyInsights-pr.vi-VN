@@ -13,26 +13,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 8d656d5660b7c6e6d32d32a06c3dbf49c45e4ca04c4422128f1c4ea62413afa1
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ef4cbb0b778b22fba83d22d5056449c2281c5a2947ecb41ce8f808a4d1132426
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53967355"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896037"
 ---
 # <a name="read-the-audit-logs-for-deleted-events"></a>Đọc nhật ký kiểm tra cho các sự kiện đã xóa
 
 Dưới đây là cách thực hiện:
 
-1. Đi đến Trung [tâm Office 365 chính sách Bảo & Tuân thủ](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-1. Chọn Tìm **kiếm Tìm** kiếm Nhật ký  >  [**kiểm tra**](https://go.microsoft.com/fwlink/?linkid=2103759).
-    > [!NOTE]
-    > Nếu bạn thấy thông báo rằng bạn cần bật tính năng này, hãy tiếp tục và bật tính năng ngay bây giờ. If the feature isn't turned on, search results won't be able to pull data from previous dates.
-1. Chọn **Hoạt động**, sau đó tìm các Exchange động trong hộp thư **.** Chọn các tùy **chọn Thư đã xóa khỏi thư mục Các mục Đã** xóa và tùy chọn Thư đã di chuyển vào thư **mục** Các mục Đã xóa. Khi bạn thực hiện xong, hãy bấm vào bên ngoài ngăn để thu nhỏ ngăn **Hoạt** động.
-1. Xác định phạm vi ngày, sau đó trong hộp **Người dùng,** hãy chọn tên người dùng cho người dùng mà bạn muốn điều tra. Bạn có thể chọn nhiều người dùng cùng lúc.
-1. Chọn **Tìm kiếm**. Các hoạt động xuất hiện bên dưới **Kết quả**.
-1. Để xem chi tiết, hãy chọn một hoạt động, rồi chọn Xem **thêm Thông tin**. Thông tin bổ sung về mục đã xóa, chẳng hạn như dòng chủ đề và vị trí của mục khi mục bị xóa, sẽ được hiển thị trong trường **Mục bị Ảnh** hưởng.
-    > [!NOTE]
-    > Bạn không thể khôi phục các mục đã xóa bằng tính năng nhật ký kiểm tra. Để khôi phục các mục đã xóa, hãy [xem Khôi phục các mục hoặc email đã xóa Outlook Web App.](https://go.microsoft.com/fwlink/?linkid=2103759)
+1. Thực hiện một trong các thao tác sau:
+   - In the Trung tâm tuân thủ Microsoft 365 at <https://compliance.microsoft.com> , go to Solutions  \> **Audit**. Hoặc để đi trực tiếp đến trang **Kiểm tra,** sử dụng <https://compliance.microsoft.com/auditlogsearch> .
+   - Trong cổng thông Bộ bảo vệ Microsoft 365 tại <https://security.microsoft.com> , đi tới Kiểm **tra**. Hoặc để đi trực tiếp đến trang **Kiểm tra,** sử dụng <https://security.microsoft.com/auditlogsearch> .
 
-Để tìm hiểu thêm, xem mục [Tìm kiếm nhật Office 365 kiểm tra để khắc phục các tình huống phổ biến.](https://go.microsoft.com/fwlink/?linkid=2103944)
+    > [!NOTE]
+    > Nếu bạn thấy thông báo rằng bạn cần bật tính năng này, hãy tiếp tục và bật tính năng ngay bây giờ. Nếu tính năng này không bật, kết quả tìm kiếm sẽ không thể lấy dữ liệu từ ngày trước đó.
+
+2. Trên tab Tìm **kiếm** của trang Kiểm **tra,** hãy cấu hình các thiết đặt sau:
+   - **Phạm vi ngày và giờ**: Chọn phạm vi ngày/giờ trong hộp Bắt **đầu** **và Kết** thúc.
+   - **Hoạt động**: Nhập **Exchange động trong hộp thư,** sau đó chọn các giá trị sau:
+     - **Đã xóa thư khỏi thư mục Các mục Đã xóa**
+     - **Đã di chuyển thư vào thư mục Các mục Đã xóa**
+
+       Khi bạn thực hiện xong, hãy bấm vào bên ngoài ngăn để thu nhỏ ngăn **Hoạt** động.
+
+   - **Người dùng:** Chấp nhận giá trị mặc định trống để trả về kết quả cho tất cả người dùng hoặc nhập một hoặc nhiều người dùng.
+
+3. Khi bạn hoàn tất, hãy bấm Tìm **kiếm.** Các hoạt động sẽ xuất hiện trên trang **Tìm kiếm kiểm tra** mới.
+
+4. Chọn một hoạt động trong kết quả để mở hộp bật lên chi tiết. Thông tin bổ sung về mục đã xóa, chẳng hạn như dòng chủ đề và vị trí của mục khi mục bị xóa, sẽ được hiển thị trong trường **Mục bị Ảnh** hưởng.
+
+   > [!NOTE]
+   > Bạn không thể khôi phục các mục đã xóa bằng tính năng nhật ký kiểm tra. Để khôi phục các mục đã xóa, [hãy xem Khôi phục email đã xóa Outlook trên web.](https://support.microsoft.com/office/recover-deleted-email-messages-in-outlook-on-the-web-a8ca78ac-4721-4066-95dd-571842e9fb11)
+
+Để biết thêm thông tin, hãy xem [Tìm kiếm nhật ký kiểm tra để điều tra các sự cố hỗ trợ phổ biến.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios)
