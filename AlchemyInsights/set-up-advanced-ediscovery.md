@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "3835"
-ms.openlocfilehash: 5eaf53633be10a10df9c040bc2852152f51daa6b248f3773997e203cbb6b86f7
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 51a7e1c5d060f58a5bb0e551e31b8c9734858fc2ec88fc662b1d9a78d127bed1
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54108614"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893709"
 ---
 # <a name="set-up-advanced-ediscovery"></a>Thiết lập Khám phá Điện tử nâng cao
 
@@ -26,7 +26,7 @@ Với Advanced eDiscovery, bạn có thể áp dụng phân tích văn bản, m�
 
 - Microsoft 365 E5 hoặc Office 365 E5 ký
 
-- Microsoft 365 E3 của bạn với phần bổ trợ Tuân thủ E5
+- Microsoft 365 E3 đăng ký với phần bổ trợ Tuân thủ E5
 
 - Office 365 E3 của bạn với phần bổ trợ Tuân thủ Nâng cao
 
@@ -36,10 +36,10 @@ Dưới đây là tổng quan ở mức cao về các bước thiết lập và 
 
 **2. Gán quyền Khám phá Điện tử**
 
-**3. Đặt cấu hình thiết đặt chung cho Advanced eDiscovery**
+**3. Đặt cấu hình thiết đặt chung cho doanh Advanced eDiscovery**
 
-**4. Tạo trường Advanced eDiscovery đề**
+**4. Tạo một trường Advanced eDiscovery đề**
 
-Để biết thông tin về các bước cần thiết để thiết Advanced eDiscovery, hãy [xem Bắt đầu với Advanced eDiscovery.](/microsoft-365/compliance/get-started-with-advanced-ediscovery)
+Để biết thông tin về các bước cần thiết để thiết Advanced eDiscovery, hãy [xem Bắt đầu với Advanced eDiscovery.](https://docs.microsoft.com/microsoft-365/compliance/get-started-with-advanced-ediscovery)
 
-Để biết thêm thông tin về cách tạo và quản lý các trường hợp, [hãy xem Tạo và quản lý các Advanced eDiscovery hợp Microsoft 365.](/microsoft-365/compliance/create-and-manage-advanced-ediscoveryv2-case)
+Để biết thêm thông tin về cách tạo và quản lý các trường hợp, [hãy xem Tạo và quản lý các Advanced eDiscovery hợp Microsoft 365.](https://docs.microsoft.com/microsoft-365/compliance/create-and-manage-advanced-ediscoveryv2-case)

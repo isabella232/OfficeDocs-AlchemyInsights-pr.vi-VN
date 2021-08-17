@@ -1,5 +1,5 @@
 ---
-title: Các bản cập nhật phần mềm không được triển khai
+title: Cập nhật phần mềm không được triển khai
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1125"
 - "6700007"
-ms.openlocfilehash: d9a37e4c2d977083cf2ccbf6580159f92524f936
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7bc1832dcfbd885f01c88c632f6cf2bad61363900e11ce0e00f99a7a2dcd9f3f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47665272"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54084548"
 ---
-# <a name="software-updates-are-not-being-deployed"></a>Các bản cập nhật phần mềm không được triển khai
+# <a name="software-updates-are-not-being-deployed"></a>Cập nhật phần mềm không được triển khai
 
-Nếu bạn đã cấu hình các bản cập nhật phần mềm thông qua một vòng Cập nhật Windows 10, nhưng các bản Cập Nhật không được triển khai, hãy thử làm như sau:  
+Nếu bạn đã cấu hình cập nhật phần mềm thông qua vòng cập Windows 10 cập nhật, nhưng các bản cập nhật không được triển khai, hãy thử làm như sau:  
 
-- Cân nhắc việc thay đổi dịch vụ Windows từ kiểu phát hành  **kênh nửa năm**  một lần vào một kiểu bản phát hành nghiêm ngặt, thường xuyên hơn.
-- Kiểm tra thời gian phân phát cho  **bản Cập Nhật chất lượng**  và  **bản cập nhật tính năng**. Một giai đoạn bị suy giảm có thể dẫn đến sự chậm trễ trong các bản Cập Nhật trong tối đa 180 ngày.
+- Hãy cân nhắc Windows vụ từ  loại bản phát hành Kênh Nửa năm một lần sang loại bản phát hành nghiêm ngặt hơn, thường xuyên hơn.
+- Kiểm tra khoảng thời gian trì hoãn đối với Cập nhật  **chất lượng và**  Cập nhật tính  **năng**. Thời gian trì hoãn có thể dẫn đến chậm trễ trong các bản cập nhật tối đa là 180 ngày.

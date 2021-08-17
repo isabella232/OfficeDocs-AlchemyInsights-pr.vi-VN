@@ -1,5 +1,5 @@
 ---
-title: Người dùng bên ngoài không thể gửi email đến nhóm Microsoft 365 người dùng
+title: Người dùng bên ngoài không thể gửi email đến Microsoft 365 nhóm
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,14 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "6115"
 - "9003200"
-ms.openlocfilehash: 88890b757c7fc7b44d3f474cce5b8c79f7e78e07fb9e1572e1a27f8f17e36274
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: c3b6a02c9eabcf2bbc3c2f530e577bb845fa6027
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57892673"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58313307"
 ---
-# <a name="external-users-cant-send-email-to-microsoft-365-group"></a>Người dùng bên ngoài không thể gửi email đến nhóm Microsoft 365 người dùng
+# <a name="external-users-cant-send-email-to-microsoft-365-group"></a>Người dùng bên ngoài không thể gửi email đến Microsoft 365 nhóm
 
 Sử dụng các bước này để cho phép người dùng bên ngoài gửi email cho nhóm Microsoft 365 bạn:
 
@@ -30,4 +30,4 @@ Sử dụng các bước này để cho phép người dùng bên ngoài gửi e
 4. Chọn **Lưu**.</br>
     Các cài đặt được phản ánh trong tối đa một giờ. 
 
-Nếu bạn vẫn gặp phải các sự cố về gửi email đến một nhóm Microsoft 365, hãy xem Tìm và khắc phục các sự cố chuyển phát email với tư cách là [người quản Microsoft 365 cho doanh nghiệp.](https://docs.microsoft.com/exchange/troubleshoot/email-delivery/email-delivery-issues)
+Nếu bạn vẫn gặp phải các sự cố về gửi email đến một nhóm Microsoft 365, hãy xem tìm và khắc phục các sự cố chuyển phát email với tư cách là [người quản Microsoft 365 cho doanh nghiệp.](https://docs.microsoft.com/exchange/troubleshoot/email-delivery/email-delivery-issues)

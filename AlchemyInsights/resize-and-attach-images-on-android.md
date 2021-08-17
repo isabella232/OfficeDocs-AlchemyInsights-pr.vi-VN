@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001113"
 - "3074"
-ms.openlocfilehash: aa497883706055a3124f76d731399e39ca3f72f6
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 47eb83537d32b4ef966ddb9a9107c2535287730b3bb7bd75b32c894c6411aeca
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51809533"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54110522"
 ---
 # <a name="resize-and-attach-images-on-android"></a>Đổi kích cỡ và đính kèm hình ảnh trên Android
 
-Khi bạn đính kèm một hình ảnh trên 1 MB Kích cỡ vào email, bạn có thể tùy chọn nén/đổi kích cỡ hình ảnh trên thư.
+Khi bạn đính kèm hình ảnh có kích cỡ hơn 1 MB vào email, bạn sẽ có tùy chọn nén/đổi kích cỡ hình ảnh trên thư.
  
-- Nếu bạn chọn giữ nguyên bản gốc, sau đó tất cả các hình ảnh trên thư sẽ được gửi đến kích cỡ đầy đủ của họ.
+- Nếu bạn chọn giữ lại bản gốc thì tất cả hình ảnh trong thư sẽ được gửi với kích cỡ đầy đủ của ảnh.
  
-- Nếu bạn chọn đổi kích cỡ, sau đó tất cả các hình ảnh trên thư sẽ được nén.  Điều này bao gồm các hình ảnh được thêm vào sau này trong khi vẫn sửa bản thảo đó.
+- Nếu bạn chọn đổi kích cỡ thì TẤT CẢ các hình ảnh trên thư đều sẽ được nén.  Ảnh này sẽ được thêm vào sau trong khi vẫn sửa bản nháp đó.
  
-- Nếu bạn lưu bản thảo và quay lại sau và bạn thêm một hình ảnh lớn khác, bạn sẽ được hỏi lại và lựa chọn của bạn sẽ áp dụng cho tất cả các bản thảo trong phiên sửa đó.
+- Nếu bạn lưu bản nháp và quay lại sau và thêm một ảnh lớn khác, bạn sẽ được hỏi lại và lựa chọn của bạn sẽ áp dụng cho tất cả nháp trong phiên chỉnh sửa đó.
  

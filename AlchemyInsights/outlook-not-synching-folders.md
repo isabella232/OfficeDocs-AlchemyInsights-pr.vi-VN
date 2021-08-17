@@ -1,5 +1,5 @@
 ---
-title: Outlook không đồng bộ thư mục
+title: Outlook đồng bộ thư mục
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,19 +14,19 @@ ms.custom:
 - "1951"
 - "9000241"
 ms.assetid: ''
-ms.openlocfilehash: cc4d109ae4b6b579284aa5b3876d17d38f0230fa
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9ac814286496a946866fbd36268ec63b7904e8f15124e2909a134805fc615a7a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47771887"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54111252"
 ---
-# <a name="outlook-not-synching-folders"></a>Outlook không đồng bộ thư mục
+# <a name="outlook-not-synching-folders"></a>Outlook đồng bộ thư mục
 
-Nếu Outlook không đồng bộ các thư mục như mong đợi, có một số điều bạn có thể tìm cách khắc phục.
+Nếu Outlook đồng bộ thư mục như mong đợi, có một số cách bạn có thể thử để khắc phục sự cố đó.
 
-1. Giảm số lượng thư mục trong hộp thư chính hoặc dùng chung. [Xem các sự cố về hiệu suất của Outlook khi có quá nhiều mục hoặc thư mục trong một chế độ đệm ẩn. OST hoặc thư mục tệp. PST](https://support.microsoft.com/help/2768656).
-2. Tắt bộ đệm ẩn của tất cả các thư mục dùng chung.
-3. Thay đổi cấu hình của hộp thư Exchange phụ sang một tài khoản Exchange thứ hai trong hồ sơ của bạn.
+1. Giảm số lượng thư mục trong hộp thư chính hoặc hộp thư chung. Xem Outlook cố về hiệu suất khi có quá nhiều mục hoặc thư mục trong thư mục tệp [.ost hoặc .pst chế độ Đệm ẩn](https://support.microsoft.com/help/2768656).
+2. Tắt lưu bộ nhớ ẩn của tất cả các thư mục dùng chung.
+3. Thay đổi cấu hình hộp thư Exchange của bạn sang tài khoản Exchange thứ hai trong hồ sơ của bạn.
 
-Để biết thêm thông tin, hãy xem các [vấn đề về hiệu suất và đồng bộ khi bạn làm việc với các thư mục trong hộp thư thứ cấp trong Outlook](https://support.microsoft.com/help/3115602).
+Để biết thêm thông tin, hãy xem mục Sự cố về hiệu năng và đồng bộ khi bạn làm việc với các thư mục trong hộp thư [phụ ở Outlook.](https://support.microsoft.com/help/3115602)

@@ -14,17 +14,17 @@ ms.custom:
 - "9004395"
 - "8265"
 - "9276"
-ms.openlocfilehash: 3834696ff59b7e96e90a5b660a489003dfa9729c
-ms.sourcegitcommit: 581c696ec108184adae9d4bc8f47cb9247131de8
+ms.openlocfilehash: 45cf530c3258fa3c7008c3e8251fdb7b74be6911d0487f58c5ce2530e25ca282
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50714589"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54110702"
 ---
 # <a name="replica-set"></a>Tập hợp bản sao
 
-Tiếng a cũng được gọi là tên miền được quản lý. Nó thực sự là hai bộ điều khiển tên miền được chạy và duy trì bởi bộ phụ trợ. Hai hàm này bao gồm một hình DC chính và một bản sao. Sao lưu trong phần thêm (tên miền được quản lý) là một quy trình tự động do nền tảng Azure quản lý. Trong trường hợp có sự cố với tên miền được quản lý của bạn, Azure hỗ trợ có thể hỗ trợ bạn trong việc khôi phục từ bản sao lưu.
+AADDS còn được gọi là tên miền được quản lý. Thực tế là hai bộ điều khiển miền được chạy và duy trì bởi bộ điều khiển phụ trợ. Hai DC bao gồm một DC chính và một DC bản sao. Các bản sao lưu trong AADDS (tên miền được quản lý) là một quy trình tự động do nền tảng Azure quản lý. Trong trường hợp có sự cố với miền được quản lý của bạn, bộ máy hỗ trợ của Azure có thể hỗ trợ bạn trong việc khôi phục từ bản sao lưu.
 
-Bạn tạo mỗi bản sao trong một mạng ảo. Mỗi mạng ảo phải được peered đến mọi mạng ảo khác mà lưu trữ tập hợp bản sao của tên miền được quản lý. Cấu hình này tạo một topo mạng lưới hỗ trợ sao chép thư mục. Mạng ảo có thể hỗ trợ nhiều bộ bản sao, được cung cấp cho mỗi tập hợp bản sao nằm trong một mạng con khác.
+Bạn tạo mỗi bản sao trong một mạng ảo. Mỗi mạng ảo phải được ngang hàng với mọi mạng ảo khác lưu trữ bộ bản sao của tên miền được quản lý. Cấu hình này tạo ra cấu hình mạng lưới hỗ trợ nhân bản thư mục. Một mạng ảo có thể hỗ trợ nhiều bộ bản sao, miễn là mỗi bộ bản sao nằm trong một mạng con ảo khác nhau.
 
-Để biết thêm chi tiết về bộ bản sao, hãy xem [bộ khái niệm bản sao](https://docs.microsoft.com/azure/active-directory-domain-services/concepts-replica-sets).
+Để biết thêm chi tiết về bộ Bản sao, hãy [xem Bản sao khái niệm .](https://docs.microsoft.com/azure/active-directory-domain-services/concepts-replica-sets)

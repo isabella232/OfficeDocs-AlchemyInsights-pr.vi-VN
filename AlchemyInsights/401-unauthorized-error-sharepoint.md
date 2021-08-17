@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "10935"
 - "9001435"
-ms.openlocfilehash: 8935f461aaf24cb100516311203ef642f5dbed931e472df944c1cd7e72a8cf4e
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 04f56dfc7ebe7de91bc64a5e6d2b480b07741c6e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57890288"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314370"
 ---
 # <a name="401-unauthorized-error-in-sharepoint"></a>401 Lỗi trái phép trong SharePoint
 
@@ -30,4 +30,4 @@ Nếu bạn nhận được lỗi "(401) Trái phép" trong SharePoint điều n
 
 - [Cập nhật để bật TLS 1.1 và TLS 1.2 làm giao thức bảo mật mặc định trong WinHTTP trong Windows](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392)
 
-Nếu người dùng đang sử Windows 7, hãy đảm bảo họ kiểm tra [TLS Cipher Suites trong Windows 7.](https://docs.microsoft.com/windows/win32/secauthn/tls-cipher-suites-in-windows-7)
+Nếu người dùng đang sử dụng Windows 7, hãy đảm bảo họ kiểm tra [TLS Cipher Suites trong Windows 7.](https://docs.microsoft.com/windows/win32/secauthn/tls-cipher-suites-in-windows-7)

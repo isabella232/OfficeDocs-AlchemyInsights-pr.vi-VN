@@ -1,5 +1,5 @@
 ---
-title: Xem thêm tài nguyên về chính sách cảnh báo
+title: Các tài nguyên khác về chính sách cảnh báo
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200002"
 - "7670"
-ms.openlocfilehash: 1fcddb1252e268471af19375f74547a19fafd210
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 9acb8cc687b7ff4bedaad6c30a9830efbb65d9199a794d844fe040628451ef8c
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403225"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57894349"
 ---
-# <a name="more-resources-on-alert-policies"></a>Xem thêm tài nguyên về chính sách cảnh báo
+# <a name="more-resources-on-alert-policies"></a>Các tài nguyên khác về chính sách cảnh báo
 
 Để tìm hiểu thêm, hãy xem bài viết sau đây:
 
-[Chính sách cảnh báo trong Trung tâm tuân thủ & bảo mật](https://go.microsoft.com/fwlink/?linkid=2103211)
+[Chính sách cảnh báo trong Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/alert-policies)

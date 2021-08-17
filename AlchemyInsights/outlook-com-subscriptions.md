@@ -1,5 +1,5 @@
 ---
-title: 9000215 đăng ký Outlook.com
+title: 9000215 Outlook.com Thuê bao
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -11,21 +11,21 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000215
-ms.openlocfilehash: 758359c9c5907f2167666e9755a59dedee764a95
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 584138b667f56053254b9aa5cdea764c041ecc4584aaaee683107f21b14d61e3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47722621"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54111314"
 ---
-# <a name="subscriptions-and-unsubscribing"></a>Đăng ký và bỏ đăng ký
+# <a name="subscriptions-and-unsubscribing"></a>Đăng ký và hủy đăng ký
 
-Nếu bạn muốn ngừng nhận bản tin hoặc chương trình khuyến mãi, có hai cách bạn có thể bỏ đăng ký trong Outlook.com:
+Nếu bạn muốn dừng nhận bản tin hoặc khuyến mãi, có hai cách bạn có thể hủy đăng ký trong Outlook.com:
 
-1. Trong hộp thư đến của bạn, hãy chọn một bản tin hoặc email quảng cáo. Ở phía trên cùng của ngăn đọc, hãy chọn bỏ **đăng ký**.
-2. Mở [thiết đặt đăng ký Outlook.com](https://outlook.live.com/mail/options/mail/brandsSubscriptions) của bạn (**thiết đặt**  >  **dạng xem tất cả các**  >  **Email**  >  **đăng ký**email thiết đặt Outlook) và chọn bỏ **đăng ký**.
+1. Trong hộp thư đến của bạn, chọn một bản tin hoặc email khuyến mãi. Ở phía trên cùng của ngăn đọc, **hãy chọn Hủy đăng ký**.
+2. Mở thiết [đặt đăng ký Outlook.com](https://outlook.live.com/mail/options/mail/brandsSubscriptions) của bạn ( Xem **Cài đặt** Tất cả thiết Outlook Đăng ký Email ) và chọn  >    >    >   **Hủy đăng ký**.
 
-Boy
+Lưu ý:
 
-- Không phải tất cả khách hàng có thể được hưởng lợi từ tính năng này vào lúc này.
-- Bạn sẽ chỉ nhìn thấy tính năng này nếu bạn nhận được một email từ công ty sẽ gửi email đã đăng ký.
+- Không phải tất cả khách hàng đều có thể hưởng lợi từ tính năng này tại thời điểm này.
+- Bạn sẽ chỉ thấy tính năng này nếu bạn đã nhận được email từ công ty gửi email đã đăng ký.

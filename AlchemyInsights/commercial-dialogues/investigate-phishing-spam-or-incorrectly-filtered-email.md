@@ -12,17 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 6a20a59ae4395e718839c82c8c2cdcdec05ae80c59715e7f618e75b9d5428b64
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 3015b0cb3b972bc1b096e6f791b7976f78f0c15639fb15403d9b0c134a09e1cf
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53948977"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57894417"
 ---
 # <a name="investigate-phishing-spam-or-incorrectly-filtered-email"></a>Điều tra email lừa đảo qua web, thư rác hoặc email đã lọc không chính xác
 
 Sử dụng Submission Explorer để gửi thư đến Microsoft. Bạn sẽ nhận được phản hồi ngay lập tức về việc lọc thư và lý do sự cố xảy ra. Dưới đây là tóm tắt các bước:
 
-1. Đi đến Trung [Office 365 Mật & Tuân thủ](https://go.microsoft.com/fwlink/p/?linkid=2077143), chọn Bài gửi Quản lý mối đe dọa , rồi chọn   >   **+Bài gửi mới**.
-2. Xác định chi tiết trong danh **sách bật lên Bản gửi** mới.
-3. Thông báo cho người dùng của bạn rằng [](https://go.microsoft.com/fwlink/?linkid=2092385) họ nên báo cáo email đáng ngờ cho Microsoft và rằng phần bổ trợ Thư Báo cáo là công cụ mà họ nên sử dụng cho mục đích này.
+1. Trong cổng thông Bộ bảo vệ Microsoft 365 Tin nhắn tại <https://security.microsoft.com> , đi tới Email cho các Bản & cộng **tác** \> **mới**.
+
+   Để đi trực tiếp đến **trang Gửi,** sử dụng <https://security.microsoft.com/reportsubmission> .
+
+2. Trên trang **Gửi Nộp,** hãy xác nhận tab **Gửi để phân** tích được chọn, rồi bấm + Gửi đến Microsoft để phân **tích.**
+
+3. Một hình bật lên sẽ xuất hiện với tùy chọn gửi email, URL hoặc tệp. Để biết thêm thông tin, hãy xem Sử dụng Gửi Người quản trị để gửi các tệp bị nghi là thư [rác, lừa đảo qua mạng, URL và các tệp đến Microsoft.](https://docs.microsoft.com/microsoft-365/security/office-365-security/admin-submission)
+
+4. Thông báo cho người dùng của bạn rằng họ nên báo cáo mọi thư khả nghi trong Hộp thư đến của họ bằng cách sử dụng phần bổ trợ Thông báo thư báo cáo hoặc phần bổ trợ Báo cáo Lừa [đảo qua mạng.](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in)
