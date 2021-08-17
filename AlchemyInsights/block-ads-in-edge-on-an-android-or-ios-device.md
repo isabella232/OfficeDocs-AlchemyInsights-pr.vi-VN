@@ -1,5 +1,5 @@
 ---
-title: Chặn quảng cáo trong trình duyệt Microsoft Edge trên thiết bị Android hoặc iOS
+title: Chặn quảng cáo trong trình Microsoft Edge của bạn trên thiết bị chạy Android hoặc iOS
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "8217"
 - "9004596"
-ms.openlocfilehash: 37860cbb447b12f1c989b9e02beb263edc5f2fd2
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: dd7fdf4b0e6da5a472052176b6d39a055c7aa0940a0d6ad82c773ae9c14345af
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51037103"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54060014"
 ---
-# <a name="block-ads-in-the-microsoft-edge-browser-on-an-android-or-ios-device"></a>Chặn quảng cáo trong trình duyệt Microsoft Edge trên thiết bị Android hoặc iOS
+# <a name="block-ads-in-the-microsoft-edge-browser-on-an-android-or-ios-device"></a>Chặn quảng cáo trong trình Microsoft Edge của bạn trên thiết bị chạy Android hoặc iOS
 
-Để chặn tất cả các quảng cáo ngoại trừ những người được cho là chấp nhận bằng AdBlock Plus:
-1. Chọn **...** > **(Thiết đặt và nhiều hơn nữa)**  >  **Thiết đặt**  >  **Chặn nội dung**.
-2. Bật **chặn quảng cáo**.
+Để chặn tất cả các quảng cáo, ngoại trừ những quảng cáo được AdBlock Plus cho là có thể chấp nhận:
+1. Chọn **...** > **(và Cài đặt nhiều hơn nữa)**  >  **Cài đặt**  >  **Trình chặn nội dung**.
+2. Bật Chặn **quảng cáo**.
 
 Để chặn tất cả các quảng cáo:
-1. Chọn **...** > **(Thiết đặt và nhiều hơn nữa)**  >  **Thiết đặt**  >  **Chặn nội dung**.
-2. Bật **chặn quảng cáo**.
-3. Chọn **thiết đặt nâng cao**.
-4. Tắt **cho phép quảng cáo có thể chấp nhận** được.
+1. Chọn **...** > **(và Cài đặt nhiều hơn nữa)**  >  **Cài đặt**  >  **Trình chặn nội dung**.
+2. Bật Chặn **quảng cáo**.
+3. Chọn Cài **đặt nâng cao**.
+4. Tắt mục Cho **phép quảng cáo chấp nhận** được .
