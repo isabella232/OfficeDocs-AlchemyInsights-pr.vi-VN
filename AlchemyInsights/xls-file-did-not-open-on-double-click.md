@@ -1,5 +1,5 @@
 ---
-title: Tệp XLS không mở được khi bấm đúp
+title: Tệp XLS không mở khi bấm đúp
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,39 +12,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "776"
 - "2100015"
-ms.openlocfilehash: 1eb977b0dcdf3f0ac77b09d61583b53cd5018031
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 4c17329db92eb08b7bec43fd7b0d0191e7bce2b8ae030c210b46baf6b76e9bbf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51770617"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54047170"
 ---
-# <a name="excel-file-doesnt-open"></a>Tệp Excel không mở
+# <a name="excel-file-doesnt-open"></a>Excel tệp không mở
 
-Hãy thử một trong các đề xuất sau:
+Hãy thử một trong các gợi ý sau:
 
 **Chọn Excel làm mặc định**
 
-* Bấm chuột phải vào trang tính, chọn **mở bằng**, rồi chọn **Excel**
+* Bấm chuột phải vào trang tính, chọn **Mở bằng**, rồi **chọn** Excel
 
-**Chạy sửa chữa nhanh**
+**Chạy Sửa chữa Nhanh**
 
-1. Đi đến **Pa-nen điều khiển > chương trình > các chương trình và tính năng**.
+1. Đi đến **Panel Điều khiển để > Trình > Trình và Tính năng .**
 
-2. Chọn sản phẩm Office bạn muốn sửa chữa, rồi chọn **thay đổi**.
+2. Chọn sản Office bạn muốn sửa chữa, rồi chọn Thay **đổi**.
 
-3. Chọn tùy chọn **sửa chữa nhanh** , rồi chọn **sửa chữa**.
+3. Chọn tùy **chọn Sửa chữa** Nhanh, rồi chọn Sửa **chữa.**
 
-**Gỡ cài đặt các phiên bản Office bạn không sử dụng**
+**Gỡ cài đặt các Office mà bạn không sử dụng**
 
-1. Đi đến **Pa-nen điều khiển > dỡ cài đặt chương trình**, rồi chọn phiên bản Office bạn muốn loại bỏ.
+1. Đi tới **Panel Điều > cài đặt Chương** trình , rồi chọn phiên bản Office bạn muốn loại bỏ.
 
-2. Bấm **dỡ cài đặt**.
+2. Bấm **Dỡ cài đặt**.
 
 3. Khởi động lại máy tính của bạn.
 
-**Chạy trình khắc phục sự cố này để đặt phần mở rộng tệp Office để mở trong Office**
+**Chạy bộ hướng dẫn giải quyết trục trặc này Office mở phần mở rộng tệp Office**
 
-1. Chạy trình khắc phục sự cố này: https://aka.ms/diag_officefile .
+1. Chạy bộ hướng dẫn giải quyết trục trặc này: https://aka.ms/diag_officefile .
 
-2. Tùy thuộc vào trình duyệt của bạn, **mở** hoặc **lưu** trình khắc phục sự cố vào màn hình nền của bạn, rồi **chạy** nó.
+2. Tùy theo trình duyệt của bạn, **Mở** hoặc **Lưu trình** khắc phục sự cố vào máy tính của bạn, rồi Chạy bộ **hướng** dẫn giải quyết trục trặc.

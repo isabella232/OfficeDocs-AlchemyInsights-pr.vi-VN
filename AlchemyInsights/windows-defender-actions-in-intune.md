@@ -1,5 +1,5 @@
 ---
-title: Các hành động của Windows Defender trong InTune
+title: Bộ bảo vệ Windows động trong Intune
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1282"
 - "6700008"
-ms.openlocfilehash: 732b7450121f85416bb0f1868b3722899bee8194
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: af9e8e16fe96b7460b19481900e4c46d0a2a27f73293f81b5af86131af40287a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47699109"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54047386"
 ---
-# <a name="windows-defender-actions-in-intune"></a>Các hành động của Windows Defender trong InTune
+# <a name="windows-defender-actions-in-intune"></a>Bộ bảo vệ Windows động trong Intune
 
-InTune có thể được dùng để kích hoạt bản Cập Nhật chữ ký quét và vi-rút theo yêu cầu cho Windows Defender trên các thiết bị riêng lẻ.
+Intune có thể được sử dụng để kích hoạt cập nhật quét theo yêu cầu và chữ ký vi-rút cho tất Bộ bảo vệ Windows trên các thiết bị riêng lẻ.
 
-Sau khi hành động từ xa được kích hoạt thành công hoạt động này sẽ được phản ánh trong Nhật ký sự kiện bảo vệ Windows.
+Sau khi kích hoạt thành công hành động từ xa, hoạt động sẽ được phản ánh trong nhật ký Bộ bảo vệ Windows kiện chính.
 
-Chính sách bảo vệ Windows Endpoint cho phép các thiết đặt bổ sung cho các tính năng của Windows Defender sẽ được tạo ra trong InTune và áp dụng cho bộ thiết bị.
+Windows Chính sách Bảo vệ Điểm cuối cho phép tạo Bộ bảo vệ Windows tính năng bổ sung trong Intune và được áp dụng cho tập hợp thiết bị.
 
-Để biết thêm chi tiết về kích hoạt hành động của Windows Defender, hãy xem [cấu hình và chạy theo yêu cầu của Microsoft Defender quét chống virus](https://docs.microsoft.com/windows/security/threat-protection/windows-defender-antivirus/run-scan-windows-defender-antivirus).
+Để biết thêm chi tiết về việc kích hoạt Bộ bảo vệ Windows động, hãy xem Đặt cấu hình và [chạy các tác vụ Tính năng Chống Virut của Bộ bảo vệ Microsoft quét theo yêu cầu](https://docs.microsoft.com/windows/security/threat-protection/windows-defender-antivirus/run-scan-windows-defender-antivirus).

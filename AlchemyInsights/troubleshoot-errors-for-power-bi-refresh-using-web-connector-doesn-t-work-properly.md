@@ -1,5 +1,5 @@
 ---
-title: Làm mới bằng đường kết nối web không hoạt động đúng cách
+title: Làm mới bằng cách dùng bộ nối Web không hoạt động đúng cách
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "1316"
 - "2500002"
-ms.openlocfilehash: b6a1e8ef98b72832db05f904ae82f4f8164f1a47
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: ff44f18e55cc905c4e65fa18c777af3812409ea6f6c26bacb24a7758c2749b5a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51809029"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54106058"
 ---
-# <a name="refresh-using-web-connector-doesnt-work-properly"></a>Làm mới bằng đường kết nối web không hoạt động đúng cách
+# <a name="refresh-using-web-connector-doesnt-work-properly"></a>Làm mới bằng cách dùng bộ nối Web không hoạt động đúng cách
 
-Nếu bạn có một script trình kết nối web đang dùng hàm [web.Page](https://msdn.microsoft.com/library/mt260924.aspx) và bạn đã cập nhật dữ liệu hoặc báo cáo sau ngày 18 tháng 11, 2016, bạn cần phải sử dụng cổng kết nối để làm mới để làm việc đúng cách.
+Nếu bạn có tập lệnh đường kết nối web đang sử dụng hàm [Web.Page](https://msdn.microsoft.com/library/mt260924.aspx) và bạn đã cập nhật tập dữ liệu hoặc báo cáo của mình sau ngày 18 tháng 11 năm 2016, bạn cần sử dụng cổng kết nối để làm mới hoạt động đúng cách.
 
 Để biết thêm thông tin: [https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)

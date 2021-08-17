@@ -1,5 +1,5 @@
 ---
-title: Cài đặt và cấu hình OneDrive
+title: Cài đặt và đặt cấu OneDrive
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -14,21 +14,21 @@ ms.custom:
 - "845"
 - "5800002"
 ms.assetid: 242bf619-d235-49de-88a3-9f6173c542d1
-ms.openlocfilehash: c36cc3e32d158198f233aeb791e145d961b9af5b
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+ms.openlocfilehash: e69ea8b7f99db8dcabb13aca2c9e1c69cb9f3758839a3fa28f0b0b9a5b6a534c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49609533"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54078140"
 ---
-# <a name="install-and-configure-onedrive"></a>Cài đặt và cấu hình OneDrive
+# <a name="install-and-configure-onedrive"></a>Cài đặt và đặt cấu OneDrive
 
-Máy khách đồng bộ OneDrive được cài đặt sẵn với Windows 10. Để cài đặt OneDrive cho Windows 7 hoặc máy Mac, hoặc để có được ứng dụng dành cho thiết bị di động cho điện thoại hoặc máy tính bảng của bạn, hãy đi tới [https://onedrive.com/download](https://onedrive.com/download) .
+Máy khách Đồng bộ OneDrive được cài đặt sẵn cùng với máy khách Windows 10. Để cài OneDrive cho Windows 7 hoặc máy Mac hoặc để tải ứng dụng dành cho thiết bị di động cho điện thoại hoặc máy tính bảng, hãy đi tới [https://onedrive.com/download](https://onedrive.com/download) .
   
-Để thiết lập máy khách đồng bộ OneDrive trong Windows, hãy xem:
+Để thiết lập ứng dụng Đồng bộ OneDrive khách trong Máy khách Windows, hãy xem:
   
-- [Hướng dẫn thiết lập onedrive](https://admin.microsoft.com/adminportal/home#/modernonboarding/onedrivequickstartguide) để bắt đầu với các khả năng lưu trữ tệp onedrive, chia sẻ, cộng tác và đồng bộ hóa.
+- [OneDrive lập Hướng dẫn để](https://admin.microsoft.com/adminportal/home#/modernonboarding/onedrivequickstartguide) bắt đầu với OneDrive trữ, chia sẻ, cộng tác và đồng bộ tệp mới.
 
-- [Thiết lập máy tính của bạn để đồng bộ các tệp OneDrive for Business của bạn](https://go.microsoft.com/fwlink/?linkid=533375)
+- [Thiết lập máy tính để đồng bộ tệp OneDrive for Business của bạn](https://go.microsoft.com/fwlink/?linkid=533375)
 
-- [Đồng bộ các tệp SharePoint với máy khách đồng bộ OneDrive mới](https://go.microsoft.com/fwlink/?linkid=871666)
+- [Đồng SharePoint tệp với máy khách Đồng bộ OneDrive mới](https://go.microsoft.com/fwlink/?linkid=871666)

@@ -1,5 +1,5 @@
 ---
-title: Khởi động Windows mới
+title: Windows Bắt đầu Từ đầu
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "1280"
 - "6700008"
-ms.openlocfilehash: 220f42d3005cdef272ed3e74a1101a52a9b47a8a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e72728c1fb5f79a67c13e5f66c8fa3a2094299be3fa721dd043e549fe0dff278
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47698956"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54047314"
 ---
-# <a name="windows-fresh-start"></a>Khởi động Windows mới
+# <a name="windows-fresh-start"></a>Windows Bắt đầu Từ đầu
 
-Hành động thiết bị khởi động Windows mới cung cấp thay thế cho việc xóa sạch thiết bị và thiết bị sẽ hành động cùng với tùy chọn duy trì trạng thái đăng ký thiết bị cùng với các ứng dụng và thiết đặt thư mục nhà của người dùng.
+Windows Hành động Bắt đầu Từ đầu Mới cung cấp một giải pháp thay thế cho hành động Xóa thiết bị và Thiết bị Ngừng hoạt động cùng với tùy chọn duy trì trạng thái đăng ký thiết bị cùng với các cài đặt và ứng dụng thư mục tại nhà của người dùng.
 
-Để biết thêm thông tin, hãy xem [sử dụng bắt đầu mới để đặt lại thiết bị chạy Windows 10 bằng InTune](https://docs.microsoft.com/intune/device-fresh-start).
+Để biết thêm thông tin, hãy [xem mục Sử dụng bắt đầu mới để đặt Windows 10 của bạn với Intune](https://docs.microsoft.com/intune/device-fresh-start).

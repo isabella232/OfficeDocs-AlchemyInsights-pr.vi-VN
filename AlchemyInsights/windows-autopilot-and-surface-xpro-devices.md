@@ -1,5 +1,5 @@
 ---
-title: Các thiết bị của Windows Autopilot và Surface X Pro
+title: Windows Autopilot và Surface X cho Pro bị
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003909"
 - "6964"
-ms.openlocfilehash: 4124d16aa16a8a4bd24e3ae0af6a1d6237a497fe
-ms.sourcegitcommit: ec88047d550006a1df4b6f10a3f513218113b9a5
+ms.openlocfilehash: 7f6825d99fcfee0ca4cc60cced2be9e4f0f9e75381e9595501072eb7dfad1698
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49692431"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54047422"
 ---
-# <a name="windows-autopilot-and-surface-x-pro-devices"></a>Các thiết bị của Windows Autopilot và Surface X Pro
+# <a name="windows-autopilot-and-surface-x-pro-devices"></a>Windows Autopilot và Surface X cho Pro bị
 
-Windows Autopilot là một công nghệ triển khai dựa trên nền tảng điện toán đám mây trong Windows 10. Bạn có thể sử dụng Windows Autopilot để triển khai từ xa và cấu hình các thiết bị phải ra khỏi hộp. Các thiết bị đã đăng ký Windows Autopilot được xác định qua Internet lúc khởi động đầu tiên thông qua một chữ ký thiết bị duy nhất được gọi là băm phần cứng. Chúng được cấu hình bằng cách sử dụng các giải pháp quản lý hiện đại, chẳng hạn như Azure Active Directory (Azure AD) và Microsoft InTune.
+Windows Autopilot là một công nghệ triển khai trên nền điện toán đám mây trong nền tảng điện toán Windows 10. Bạn có thể sử Windows AutoPilot để triển khai và đặt cấu hình thiết bị ngay từ hộp. Windows Thiết bị đã đăng ký Autopilot được nhận dạng qua Internet lúc đầu khởi động thông qua chữ ký thiết bị duy nhất được gọi là băm phần cứng. Các giải pháp này được đặt cấu hình bằng các giải pháp quản lý hiện đại, Azure Active Directory (Azure AD) và các Microsoft Intune.
 
-Các thiết bị có thể được vận chuyển trực tiếp đến người dùng của bạn. Quá trình này loại bỏ reimaging trong khi triển khai, cho phép bạn triển khai các phương pháp mới, Agile và quản lý thiết bị.
+Thiết bị có thể được gửi trực tiếp đến người dùng của bạn. Quy trình này giúp bỏ tái hiện trong quá trình triển khai, cho phép bạn thực hiện các phương pháp quản lý và phân phối thiết bị mới, linh hoạt.
 
-Để tìm hiểu thêm, hãy xem các [thiết bị Autopilot và Surface của Windows](https://go.microsoft.com/fwlink/?linkid=2135712).
+Để tìm hiểu thêm, hãy [xem Windows Autopilot và thiết bị Surface](https://go.microsoft.com/fwlink/?linkid=2135712).

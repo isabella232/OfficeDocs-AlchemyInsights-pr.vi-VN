@@ -1,5 +1,5 @@
 ---
-title: Đa địa lý
+title: Multi-Geo
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3046"
 - "9001088"
-ms.openlocfilehash: 0fea960e68eb66d0d14423caa4a6a66f82d9c423
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: df2682a639366a824edbdb36afa49562b71eeae22d2644df41e7bc68490a4f75
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51825249"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54077348"
 ---
-# <a name="microsoft-365-multi-geo"></a>Đa địa lý Microsoft 365
+# <a name="microsoft-365-multi-geo"></a>Microsoft 365 Multi-Geo
 
-Với Microsoft 365 Multi-Geo, tổ chức của bạn có thể mở rộng sự hiện diện của Microsoft 365 với nhiều khu vực địa lý và/hoặc quốc gia trong đối tượng thuê hiện tại của bạn. Xem các nối kết dưới đây để biết thêm thông tin.
+Với Microsoft 365 Multi-Geo, tổ chức của bạn có thể mở rộng sự hiện diện của Microsoft 365 mình tới nhiều khu vực địa lý và/hoặc các quốc gia trong đối tượng thuê hiện có của bạn. Xem các liên kết bên dưới để biết thêm thông tin.
 
-- [Đa địa lý Microsoft 365](https://docs.microsoft.com/office365/enterprise/office-365-multi-geo)
-- [Lập kế hoạch cho Microsoft 365 đa địa lý](https://docs.microsoft.com/office365/enterprise/plan-for-multi-geo)
-- [Cấu hình nhiều địa lý](https://docs.microsoft.com/office365/enterprise/multi-geo-tenant-configuration)
+- [Microsoft 365 Multi-Geo](https://docs.microsoft.com/office365/enterprise/office-365-multi-geo)
+- [Lập kế hoạch Microsoft 365 Multi-Geo](https://docs.microsoft.com/office365/enterprise/plan-for-multi-geo)
+- [Đặt cấu hình Multi-Geo](https://docs.microsoft.com/office365/enterprise/multi-geo-tenant-configuration)

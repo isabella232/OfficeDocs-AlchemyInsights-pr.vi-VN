@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000221"
 - "4863"
-ms.openlocfilehash: a84637d7135cef04921ce76bc3582538a003d731
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 51973ea1d6b9365a67ef57a19df5470de32e9cf71d2f4e471d69e7fa2caa44a9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51825933"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54047350"
 ---
-# <a name="windows-enrolment-error-codes"></a>Mã lỗi đăng ký Windows
+# <a name="windows-enrolment-error-codes"></a>Windows mã lỗi đăng ký
 
-Có vẻ như bạn đang yêu cầu về việc đăng ký thiết bị Windows để InTune và cung cấp một mã lỗi hoặc thông báo lỗi. Có một số tài nguyên có thể giúp bạn hiểu tại sao lỗi đã được tạo.
+Có vẻ như bạn đang hỏi về việc đăng ký Windows thiết bị của mình cho Intune và cung cấp mã lỗi hoặc thông báo lỗi. Có một số tài nguyên có thể giúp bạn hiểu tại sao đã tạo lỗi.
  
-Vui lòng xem các bài viết sau đây:
+Vui lòng xem lại các bài viết sau:
 
-- [Đăng ký Windows MDM chung](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-windows-enrollment-errors)
+- [Đăng ký MDM của Generic Windows](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-windows-enrollment-errors)
 
-- [Mã lỗi đăng ký chung](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-device-enrollment-in-intune#general-enrollment-error-codes)
+- [Mã Lỗi Đăng ký Chung](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-device-enrollment-in-intune#general-enrollment-error-codes)
 
-- [Khắc phục sự cố Windows AutoPilot](https://docs.microsoft.com/windows/deployment/windows-autopilot/troubleshooting)
+- [Khắc phục Windows AutoPilot](https://docs.microsoft.com/windows/deployment/windows-autopilot/troubleshooting)
 
-- [Khắc phục sự cố không tham gia về kết nối hỗn hợp](https://docs.microsoft.com/azure/active-directory/devices/troubleshoot-hybrid-join-windows-current)
+- [Khắc phục sự cố lỗi Kết hợp AAD Kết hợp](https://docs.microsoft.com/azure/active-directory/devices/troubleshoot-hybrid-join-windows-current)
 
-- [Tham chiếu mã lỗi đăng ký MDM](https://docs.microsoft.com/windows/win32/mdmreg/mdm-registration-constants)
+- [Tham chiếu mã lỗi Đăng ký MDM](https://docs.microsoft.com/windows/win32/mdmreg/mdm-registration-constants)
