@@ -13,17 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: 742870fc586daa1f44c88f16405c7b14b5bd2f5000f7e13d396ad6d43829acbd
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 38700b516887dd4789e826a02672b5cc5d8354b1cd0ff743ba321724903413ba
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54081452"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895029"
 ---
 # <a name="unblock-an-account-by-using-threat-management"></a>Bỏ chặn tài khoản bằng cách sử dụng tính năng quản lý mối đe dọa
 
-Dưới đây là cách thực hiện: 
+Dưới đây là cách thực hiện:
 
-1. Đi đến Trung [tâm Office 365 chính sách Bảo & Tuân thủ](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-1. Chọn Xem **lại quản lý mối đe**  >  **dọa**. Trên trang Xem **lại,** chọn Người dùng **[Bị hạn chế.](https://go.microsoft.com/fwlink/?linkid=2103514)**
-1. Nếu tài khoản bị xâm phạm sẽ hiển thị trong danh sách, hãy bấm **bỏ chặn Tài khoản**. Tài khoản sẽ có thể gửi lại thư, thường là trong vòng một giờ.
+1. Đi đến cổng thông tin Bộ bảo vệ Microsoft 365 email trong Email & Xem <https://security.microsoft.com> \> **lại Cộng tác** \> **Người** dùng bị \> **hạn chế.**
+
+   Để truy nhập trực tiếp vào trang **Người dùng bị hạn chế,** hãy sử dụng <https://security.microsoft.com/restrictedusers> .
+
+2. Nếu người dùng đó nằm trong danh sách, hãy chọn người dùng đó, rồi **chọn Bỏ chặn**. Làm theo các bước trong ngăn bay ra, rồi chọn Có **để** xác nhận.
+
+   Tài khoản sẽ có thể gửi lại thư, thường là trong vòng một giờ.
+
+Để biết thêm thông tin, hãy xem [Loại bỏ người dùng bị chặn khỏi cổng thông tin Người dùng hạn chế.](https://docs.microsoft.com/microsoft-365/security/office-365-security/removing-user-from-restricted-users-portal-after-spam)

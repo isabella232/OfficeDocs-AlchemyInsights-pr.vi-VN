@@ -1,5 +1,5 @@
 ---
-title: Thêm Microsoft Edge vào Microsoft Intune
+title: Thêm Microsoft Edge vào danh Microsoft Intune
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,27 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "8240"
 - "9004604"
-ms.openlocfilehash: 19e933e3029b7b809389815026faa63ea5dc36e81c1d4eb61b52b848fa1461a1
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7cfc2279acf18a7cb6fab89befc8ef1ccc7a4be7
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53935827"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58315146"
 ---
-# <a name="add-microsoft-edge-to-microsoft-intune"></a>Thêm Microsoft Edge vào Microsoft Intune
+# <a name="add-microsoft-edge-to-microsoft-intune"></a>Thêm Microsoft Edge vào danh Microsoft Intune
 
-Để có thể triển khai, đặt cấu hình, giám sát và bảo vệ Microsoft Edge cho Windows 10, trước tiên bạn phải thêm nó vào Microsoft Intune.
+Để có thể triển khai, đặt cấu hình, giám sát và bảo vệ Microsoft Edge cho mọi Windows 10, trước tiên bạn phải thêm nó vào Microsoft Intune.
 
-> [!IMPORTANT]
+> **Quan trọng:**
 - Intune hỗ trợ Microsoft Edge 77 trở lên.
 - Intune sẽ phát hiện mọi bản cài đặt đã có sẵn của máy Microsoft Edge.
-- Nếu cài Microsoft Edge ngữ người dùng, bản cài đặt hệ thống sẽ ghi đè cài đặt trong ngữ cảnh người dùng.
+- Nếu bản Microsoft Edge được cài đặt trong ngữ cảnh người dùng, bản cài đặt hệ thống sẽ ghi đè cài đặt trong ngữ cảnh người dùng.
 - Nếu bạn Microsoft Edge đặt theo ngữ cảnh hệ thống thì thành công của quá trình cài đặt sẽ được báo cáo.
-- Cài đặt sẵn Microsoft Edge 77 trở lên, cho mọi kênh trong ngữ cảnh người dùng, sẽ bị ghi đè khi cài Microsoft Edge theo ngữ cảnh hệ thống.
+- Phiên bản 77 Microsoft Edge cài đặt sẵn và mới hơn cho mọi kênh trong ngữ cảnh người dùng sẽ bị ghi đè khi Microsoft Edge đặt trong ngữ cảnh hệ thống.
 
 **Điều kiện tiên quyết**
 
-Windows 10 phiên bản 1709 trở lên
+Windows 10 1709 trở lên
 
 **Các bước để thêm Edge vào Intune**
 

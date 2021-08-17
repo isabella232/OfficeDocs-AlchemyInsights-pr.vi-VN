@@ -1,5 +1,5 @@
 ---
-title: Khắc phục Địa chỉ Người gửi tắc danh sách Tên miền/Tên miền
+title: Khắc phục các Địa chỉ Người gửi tắc danh sách Tên miền/Tên miền
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,19 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: bf2a36853f53c723ca620487dd1c656ecb188cba9c80def68c793e3d5fbf5f87
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: db8b921fc84f42b6cef1138dca9ad433e648e0a2f10e80927bd5b0222bfeae3b
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53930047"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896133"
 ---
-# <a name="fix-sender-addressdomain-list-rules"></a>Khắc phục Địa chỉ Người gửi tắc danh sách Tên miền/Tên miền
+# <a name="fix-sender-addressdomain-list-rules"></a>Khắc phục các Địa chỉ Người gửi tắc danh sách Tên miền/Tên miền
 
-Chính sách chống thư rác trong đối tượng thuê của bạn đã ảnh hưởng đến thư này. Người gửi thư đã được tìm thấy trong danh sách Cho phép hoặc Chặn. Để xem lại chính sách, hãy làm như sau:
+Một trong những chính sách chống thư rác của bạn đã ảnh hưởng đến thư này. Người gửi thư đã được tìm thấy trong danh sách Cho phép hoặc Chặn. Để xem lại chính sách, hãy thực hiện các bước sau đây:
 
-1. Đi đến Trung [tâm Tuân Office 365 Security & Sau](https://go.microsoft.com/fwlink/p/?linkid=2077143)đó, đi đến Chính sách Quản lý mối đe dọa Chống thư   >    >  [rác](https://go.microsoft.com/fwlink/?linkid=2101518).
-2. Trên tab **Chuẩn,** nếu Cài đặt **tiêu chuẩn được** bật, hãy kiểm tra danh sách Cho phép danh **sách** **và Chặn.**
-3. Trên tab **Tùy chỉnh,** nếu cài đặt Tùy chỉnh  được bật, hãy xem lại các chính sách bằng cách chọn Chỉnh sửa chính sách, rồi kiểm tra danh sách Cho phép **và** **danh sách Chặn.** 
+1. Trong cổng thông tin Bộ bảo vệ Microsoft 365 , đi đến Chính sách Cộng tác qua Email & các chính sách & chính sách Mối đe dọa Quy tắc Chống thư <https://security.microsoft.com/>  \>  \>  \>  rác trong **phần Chính** sách.
 
-Để biết thêm thông tin về việc cấu hình chính sách bộ lọc thư rác, hãy xem Đặt [cấu hình chính sách bộ lọc thư rác của bạn.](https://go.microsoft.com/fwlink/?linkid=2101431)
+   Để truy nhập trực tiếp vào **trang Chính sách chống thư rác,** hãy sử dụng <https://security.microsoft.com/antispam> .
+
+2. Trên trang **Chính** sách chống thư rác, hãy chọn chính sách  bằng cách bấm  vào tên của chính sách **(** Loại là Chính sách chống thư rác tùy chỉnh hoặc Tên là Chính sách gửi thư đến Chống Thư rác **(Mặc định)).**
+3. Trong cửa sổ bật lên  chi tiết xuất hiện, chọn Chỉnh sửa người gửi và tên miền bị chặn và cho phép trong mục Người gửi và tên miền được cho phép và **bị** chặn.
+4. Trong phần **Cho phép,** hãy xem lại người gửi và tên miền bằng cách bấm Quản **lý người \<nn\> gửi** **hoặc Cho phép tên miền.**
+
+Để biết thêm thông tin, hãy [xem Cấu hình chính sách chống thư rác trong EOP.](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-your-spam-filter-policies)

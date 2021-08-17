@@ -15,16 +15,16 @@ ms.custom:
 - commerce_billing
 - "9001669"
 - "3752"
-ms.openlocfilehash: 17b78533dd1477095a7302704bf2f37c52f6d8a3fef61d756413ce51cc5f200f
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: fe8ceed52f43f41cbddd9e04bf188f557f023ccb
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57893077"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314938"
 ---
 # <a name="billing-and-payment"></a>Lập hóa đơn và thanh toán
 
-Hóa đơn của bạn có thể được tìm thấy trên **tab Hóa** đơn thanh  >  [& thanh](https://go.microsoft.com/fwlink/p/?linkid=848039) toán.  Theo mặc định, 3 tháng cuối của hóa đơn được hiển thị.  Để xem hóa đơn cũ hơn, hãy điều chỉnh bộ lọc.  Bấm vào liên **kết Tải xuống hóa** đơn PDF để xem hóa đơn.
+Hóa đơn của bạn có thể được tìm thấy trên **tab Hóa** đơn thanh &  >  [toán khác.](https://go.microsoft.com/fwlink/p/?linkid=848039)  Theo mặc định, 3 tháng cuối của hóa đơn được hiển thị.  Để xem hóa đơn cũ hơn, hãy điều chỉnh bộ lọc.  Bấm vào liên **kết Tải xuống hóa** đơn PDF để xem hóa đơn.
 
 **Nhận hóa đơn qua email**
 
@@ -38,16 +38,15 @@ Nếu thanh toán bằng thẻ tín dụng hoặc tài khoản ngân hàng, phư
 
 Nếu bạn đã thêm một thẻ mới và vẫn nhận được thông báo từ chối trên thẻ tín dụng cũ, bạn có thể cần liên kết thẻ mới đó với đăng ký.
 
-1. Trong trung tâm quản trị, đi tới trang **Hóa đơn thanh** toán và & Phương  >  **thức**  >  [thanh toán.](https://go.microsoft.com/fwlink/p/?linkid=2018806)
+1. Trong trung tâm quản trị, đi tới trang **Hóa đơn thanh** toán & phương thức  >  **thanh** toán  >  [của](https://go.microsoft.com/fwlink/p/?linkid=2018806) thanh toán.
 
-2. Chọn hàng của phương thức thanh toán cần thay thế. Ngăn bên phải liệt kê tất cả các hồ sơ thanh toán và các đăng ký riêng lẻ sử dụng phương thức thanh toán đã chọn.
+2. Chọn hàng của phương thức thanh toán cần thay thế. Ngăn bên phải liệt kê tất cả các hồ sơ thanh toán và các đăng ký riêng lẻ sử dụng phương thức thanh toán được chọn.
 
 3. Trong ngăn bên phải, chọn Thay thế **phương thức thanh toán cho tất cả các mặt hàng**.
 
 4. Để sử dụng phương thức thanh toán hiện có, hãy chọn một phương thức từ danh sách thả xuống, rồi chọn Thay **thế**.
 
-    > [!NOTE]
-    > Nếu bạn có các đăng ký được liên kết với hồ sơ thanh toán, bạn chỉ có thể sử dụng thẻ tín dụng hoặc thẻ ghi nợ để thanh toán cho chúng. Nếu bạn có tài khoản ngân hàng được **liệt kê trên** trang Phương thức thanh toán, chúng không có sẵn để chọn trong danh sách thả xuống.
+    **Lưu** ý : Nếu bạn có các đăng ký liên kết với hồ sơ thanh toán, bạn chỉ có thể sử dụng thẻ tín dụng hoặc thẻ ghi nợ để thanh toán. Nếu bạn có tài khoản ngân hàng được **liệt kê trên** trang Phương thức thanh toán, chúng không có sẵn để chọn trong danh sách thả xuống.
 
 5. Để thêm phương thức thanh toán mới, hãy chọn Thêm **phương thức thanh toán**.
 
