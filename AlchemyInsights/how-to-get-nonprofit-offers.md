@@ -1,5 +1,5 @@
 ---
-title: Cách thức cung cấp phi lợi nhuận
+title: Cách nhận ưu đãi dành cho tổ chức phi lợi nhuận
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,25 +11,25 @@ ms.assetid: ''
 ms.custom:
 - "1500010"
 - "3819"
-ms.openlocfilehash: cd8777d29b3db623d715552a1e3939ccbf4d0454
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 799a0de5bab60cb4d0f6eb5e3374bda9b6096ae2ef28f3729e6111c68a27a4e9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47780405"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54043156"
 ---
-# <a name="how-to-get-nonprofit-offers"></a>Cách thức cung cấp phi lợi nhuận
+# <a name="how-to-get-nonprofit-offers"></a>Cách nhận ưu đãi dành cho tổ chức phi lợi nhuận
 
-Để có được các ưu đãi phi lợi nhuận, bạn sẽ cần thực hiện các thao tác sau:
+Để nhận ưu đãi dành cho tổ chức phi lợi nhuận, bạn sẽ cần thực hiện như sau:
 
-1. Đăng ký với [chương trình Microsoft nonprofits](https://go.microsoft.com/fwlink/p/?linkid=2008962).
+1. Đăng ký chương [trình Microsoft Nonprofits](https://go.microsoft.com/fwlink/p/?linkid=2008962).
 
-2. Nếu đủ điều kiện được xác nhận, các ưu đãi Microsoft 365 lợi nhuận sẽ trở nên sẵn dùng trong cổng thông tin quản trị Microsoft 365 bằng cách đi đến trang **thanh toán > [mua dịch vụ](https://go.microsoft.com/fwlink/p/?linkid=868433) ** . Điều này bao gồm các đề nghị đã tặng E1 và Business Essentials.
+2. Nếu tính đủ điều kiện được xác nhận, Microsoft 365 dụng các ưu đãi Phi lợi nhuận sẽ sẵn dùng trong cổng thông tin quản trị Microsoft 365 của bạn bằng cách truy nhập trang Thanh **toán > [Mua dịch](https://go.microsoft.com/fwlink/p/?linkid=868433)** vụ. Điều này bao gồm các ưu đãi E1 và Business Essentials được tặng.
 
-3. Sau khi mua, hãy đi đến tab [người dùng](https://admin.microsoft.com/Adminportal/Home#/users) trong cổng thông tin quản trị để gán cho người dùng của bạn vào các thuê bao mới của Microsoft 365 lợi nhuận.
+3. Sau khi mua, hãy đi tới [tab](https://admin.microsoft.com/Adminportal/Home#/users) Người dùng trong cổng thông tin quản trị để gán người dùng cho đăng ký Microsoft 365 Nonprofit mới của bạn.
 
-Để biết các câu trả lời khác cho câu hỏi thường gặp, vui lòng xem lại câu [hỏi thường gặp của](https://www.microsoft.com/microsoft-365/nonprofit/office-365-nonprofit#coreui-heading-67lnrlz)chúng tôi. Ngoài ra, hãy xem:
+Để biết các câu trả lời khác cho các câu hỏi thường gặp, vui lòng xem [lại Câu hỏi thường gặp của chúng tôi.](https://www.microsoft.com/microsoft-365/nonprofit/office-365-nonprofit#coreui-heading-67lnrlz) Ngoài ra, hãy xem:
 
-- [Gán giấy phép Microsoft nhóm](https://docs.microsoft.com/MicrosoftTeams/assign-teams-licenses)
+- [Gán giấy phép Microsoft teams](https://docs.microsoft.com/MicrosoftTeams/assign-teams-licenses)
 
-- [Các cuộc họp trong nhóm Microsoft](https://docs.microsoft.com/MicrosoftTeams/tutorial-meetings-in-teams)
+- [Cuộc họp trong Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/tutorial-meetings-in-teams)
