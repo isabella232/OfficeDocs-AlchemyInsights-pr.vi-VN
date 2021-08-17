@@ -14,18 +14,18 @@ ms.custom:
 - commerce_billing
 - "9002612"
 - "5073"
-ms.openlocfilehash: c793ed6b7281a558a7a4ce0aa1a3fa432ba4863c7c473e3ec47d980d67c28b7b
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 0a160b0caba0098ce678872ae54df7b6ad69e78cba4eac85ac15567f2e75a8c7
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54503962"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57891553"
 ---
 # <a name="change-payment-method-fromto"></a>Thay đổi phương thức thanh toán từ/đến
 
 1. **Thay đổi từ hóa đơn sang thẻ tín dụng hoặc tài khoản ngân hàng**
 
-    - Bạn không thể tự động thay đổi từ thanh toán theo hóa đơn sang thanh toán bằng một phương thức thanh toán khác. Thay vào [](/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription) đó, bạn phải mua một đăng ký khác được thanh toán bằng thẻ tín dụng hoặc thẻ ghi nợ hoặc tài khoản ngân [hàng,](/microsoft-365/commerce/subscriptions/move-users-different-subscription)di chuyển tất cả người dùng sang đăng ký mới , rồi hủy bỏ đăng [ký cũ.](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+    - Bạn không thể tự động thay đổi từ thanh toán theo hóa đơn sang thanh toán bằng một phương thức thanh toán khác. Thay vào [](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription) đó, bạn phải mua một đăng ký khác được thanh toán bằng thẻ tín dụng hoặc thẻ ghi nợ hoặc tài khoản ngân [hàng,](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/move-users-different-subscription)di chuyển tất cả người dùng sang đăng ký mới , rồi hủy bỏ đăng [ký cũ.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
 
 2. **Thay đổi từ thẻ tín dụng hoặc tài khoản ngân hàng sang hóa đơn**
 
@@ -35,4 +35,4 @@ ms.locfileid: "54503962"
 
     - Làm theo các bước trong Mục [Làm thế nào để thay đổi từ thanh toán bằng thẻ tín dụng sang hóa đơn? để](how-do-i-change-from-credit-card-payments-to-invoice.md) hoàn tất thay đổi thủ công.
 
-Để biết thêm thông tin, hãy [xem mục Cách thanh toán cho đăng ký của bạn](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).
+Để biết thêm thông tin, hãy [xem mục Cách thanh toán cho đăng ký của bạn](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).

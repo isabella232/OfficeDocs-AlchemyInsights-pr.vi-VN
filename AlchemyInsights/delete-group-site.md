@@ -15,20 +15,20 @@ ms.custom:
 - "5200006"
 - "7996"
 ms.assetid: aa6c2aa1-6853-461c-8764-01fb96f8e981
-ms.openlocfilehash: a298f8e285b5fa84bcd5c3d21a00ca3a53aa4275a87d91452e6c41587fd20e7b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 44a6ca5d8ab4a27b844dadb6da8e0d8c6cf9657f1543883389eee6e7d743a930
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54102845"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57891517"
 ---
 # <a name="delete-a-sharepoint-site-that-belongs-to-a-microsoft-365-group"></a>Xóa bỏ SharePoint site thuộc về Microsoft 365 nhóm
 
-Xóa bỏ một site được kết nối với nhóm sẽ xóa nhóm và tất cả các tài nguyên của nhóm, bao gồm hộp thư Outlook và lịch, bất kỳ Teams kênh nào.
+Xóa bỏ một site được kết nối với nhóm sẽ xóa nhóm và tất cả tài nguyên của nhóm, bao gồm hộp thư Outlook và lịch, và bất kỳ Teams kênh nào.
   
 Quan trọng:
 
 - Bạn có thể phục hồi các site đã xóa trong 93 ngày. Nhóm đã xóa phải được khôi phục trong vòng 30 ngày. [Xem và khôi phục các site đã](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true) xóa trực tiếp từ Trung SharePoint tâm Quản trị. Để [xem và khôi phục nhóm đã **xóa,**](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/deletedgroups)hãy chọn **Quản lý Nhóm**, sau đó chọn Đã **xóa**.
-- Nếu site là một phần của chính sách duy trì, bạn không thể xóa bỏ nó cho đến khi site được loại bỏ khỏi Trung tâm Quản trị Bảo [mật & Tuân thủ.](https://protection.office.com/?rfr=AdminCenter#/retention) Để biết thêm thông tin, xem mục Tổng [quan về Chính sách Duy trì.](/microsoft-365/compliance/retention-policies)
+- Nếu site là một phần của chính sách duy trì, bạn không thể xóa bỏ nó cho đến khi site được loại bỏ khỏi Trung tâm Quản trị & [Tuân thủ.](https://protection.office.com/?rfr=AdminCenter#/retention) Để biết thêm thông tin, xem mục Tổng [quan về Chính sách Duy trì.](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
   
-Để biết thêm thông tin, [hãy xem mục Quản lý các site trong trung tâm quản SharePoint mới.](/sharepoint/manage-sites-in-new-admin-center)
+Để biết thêm thông tin, [hãy xem mục Quản lý các site trong trung tâm quản SharePoint mới.](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center)
