@@ -1,5 +1,5 @@
 ---
-title: Khắc phục các sự cố phổ biến với Microsoft Defender cho Office 365
+title: Khắc phục các sự cố phổ biến với Bộ bảo vệ Microsoft dành cho Office 365
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,21 +12,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 05fa518ece7ea40fd7b4cea57115d9cd60370b01
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 9104615baa5bf6dc91468912168e42ece6727eadd5330f1eb34e2a9170568b26
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50750750"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898266"
 ---
-# <a name="fix-common-problems-with-microsoft-defender-for-office-365"></a>Khắc phục các sự cố phổ biến với Microsoft Defender cho Office 365
+# <a name="fix-common-problems-with-microsoft-defender-for-office-365"></a>Khắc phục các sự cố phổ biến với Bộ bảo vệ Microsoft dành cho Office 365
 
-Dưới đây là một số giải pháp cho các vấn đề thường gặp với Microsoft Defender cho Office 365:
+Dưới đây là một số giải pháp cho các sự cố phổ biến với Bộ bảo vệ Microsoft dành cho Office 365:
 
-- Độ **trễ thư:** Nếu bạn đang gặp sự cố khi chuyển phát thư bị trì hoãn, bạn sẽ muốn sử dụng các tùy chọn chuyển phát **động** trong chính sách tệp đính kèm an toàn của bạn. Để tìm hiểu thêm, hãy xem [phân phát động trong chính sách tệp đính kèm an toàn](https://go.microsoft.com/fwlink/?linkid=2094106).
-- **Báo cáo kết quả dương tính false hoặc âm:** Báo cáo thư cho Microsoft bằng cách sử dụng liên kết này: [cổng thông tin phản hồi của Microsoft Defender](https://go.microsoft.com/fwlink/?linkid=2092835).
-- **Cho phép bảo vệ liên kết an toàn:**
-    1. Đăng nhập vào [Trung tâm tuân thủ & bảo mật của Office 365](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-    2. Đi đến   >    >  **nối kết an toàn** chính sách quản lý mối đe dọa.
-    3. Bên dưới **chính sách áp dụng cho những người nhận cụ thể**, hãy mở chính sách được cấu hình.
-    4. Bên dưới **thiết đặt**, hãy chọn **áp dụng nối kết an toàn cho thư được gửi trong tổ chức**.
+- **Độ trễ thư:**
+
+  Sự chậm trễ trong việc chuyển phát email có thể là Két sắt đến việc quét tệp đính kèm của thư. Để biết thêm thông tin, hãy [xem Két sắt đặt chính sách Phần đính kèm.](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-attachments#safe-attachments-policy-settings)
+
+- **Báo cáo kết quả dương hoặc âm báo cáo sai:**
+
+  Để biết thêm thông tin, hãy [xem mục Báo cáo thư và tệp cho Microsoft.](https://docs.microsoft.com/microsoft-365/security/office-365-security/report-junk-email-messages-to-microsoft)
+
+- **Bật Bảo Két sắt kết:**
+
+  1. Trong cổng thông tin Bộ bảo vệ Microsoft 365 , đi đến Chính sách Cộng tác qua Email & các chính sách & mối đe dọa trong quy tắc Két sắt nối kết trong <https://security.microsoft.com/>  \>  \>  \>  **phần Chính** sách.
+
+     Để đi trực tiếp đến trang **Két sắt Kết nối,** hãy sử dụng <https://security.microsoft.com/safelinksv2> .
+
+  2. Trên trang **Két sắt Liên kết,** hãy chọn chính sách bằng cách bấm vào tên của chính sách.
+  3. Trong phần bật lên chi tiết xuất hiện, hãy thực hiện một trong các bước sau đây:
+     - Để thêm chính sách mới, chọn **+ Tạo**. Một trình hướng dẫn sẽ khởi chạy để giúp bạn xác định các thiết đặt chính sách.
+     - Để sửa chính sách hiện có, hãy chọn chính sách bằng cách bấm vào tên của chính sách. Trong hộp bật lên chi tiết xuất hiện, chọn Chỉnh **sửa trong** mục Cài **đặt bảo** vệ.
+  4. Trên trang Thiết **đặt bảo vệ,** cấu hình các thiết đặt sau:
+     - Bật Chọn hành **động cho URL độc hại tiềm ẩn không xác định trong thư.**
+     - Chọn Áp **dụng các liên kết an toàn cho các tin nhắn đã gửi trong tổ chức**.
+
+  Để biết thêm thông tin, xem [mục Thiết lập các chính Két sắt liên kết trong Bộ bảo vệ Microsoft cho Office 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-safe-links-policies)

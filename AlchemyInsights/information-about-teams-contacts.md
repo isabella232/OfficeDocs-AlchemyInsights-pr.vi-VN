@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "8263"
 - "9004610"
-ms.openlocfilehash: a2efa52c3fcd90b255d5f1ccbb07c31f9c138e7a31dbe92f318418fb1643601d
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: ccdcf5b175ffe5455cc5ab0bb4c7ef652fd6a3c9
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57868368"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320813"
 ---
 # <a name="information-about-teams-contacts"></a>Thông tin về Teams hệ
 
-Teams những liên hệ này:
+Teams các liên hệ này:
 
 - Liên hệ trong Active Directory của tổ chức bạn
-- Các liên hệ được thêm vào thư mục mặc định Outlook người dùng
+- Các liên hệ được thêm vào thư mục mặc Outlook người dùng
 
 Nếu liên hệ chưa hoàn thành hoặc không đồng bộ cho một hoặc nhiều người dùng, hãy làm như sau:
 
-- Đảm bảo hộp thư Exchange người dùng được lưu trữ trực tuyến (không phải tại chỗ). Để biết thêm thông tin, hãy [xem Cách thức Exchange và Microsoft Teams tương tác.](https://docs.microsoft.com/microsoftteams/exchange-teams-interact)
+- Đảm bảo hộp thư Exchange người dùng được lưu trữ trực tuyến (không phải tại chỗ). Để biết thêm thông tin, [hãy xem Cách Exchange và Microsoft Teams tương tác.](https://docs.microsoft.com/microsoftteams/exchange-teams-interact)
 - Đảm bảo số điện thoại của liên hệ được thêm vào thông tin liên hệ.
 - Tìm kiếm email của liên hệ trong thanh **Tìm** kiếm. Liên hệ bạn có thể truy xuất đồng bộ với danh sách Liên hệ.
 

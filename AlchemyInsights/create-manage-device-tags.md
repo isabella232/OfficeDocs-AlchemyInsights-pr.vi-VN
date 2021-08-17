@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "11446"
 - "9003537"
-ms.openlocfilehash: 752d08ce7583580ac9896bd4390152df493d7148c8e8d4a1f39d86fc87785a7f
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c06fbd377159e55cf34c79ef0aa1e34f0412a908e8d4e3dec5ad088c9b8b818a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54069564"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898222"
 ---
 # <a name="create-and-manage-device-tags-or-groups"></a>Tạo và quản lý thẻ hoặc nhóm thiết bị
 
-Thêm thẻ trên thiết bị để tạo sự liên kết nhóm lô-gic. Thẻ thiết bị hỗ trợ ánh xạ phù hợp trên mạng, cho phép bạn đính kèm các thẻ khác nhau để chụp ngữ cảnh và cho phép tạo danh sách động như một phần của sự cố. Thẻ có thể được sử dụng như một bộ lọc trong dạng xem danh sách Thiết bị hoặc để nhóm các thiết bị. Để biết thêm thông tin về tính năng nhóm thiết bị, hãy [xem Tạo và quản lý thẻ thiết bị](/microsoft-365/security/defender-endpoint/machine-tags).
+Thêm thẻ trên thiết bị để tạo sự liên kết nhóm lô-gic. Thẻ thiết bị hỗ trợ ánh xạ phù hợp mạng, cho phép bạn đính kèm các thẻ khác nhau để chụp ngữ cảnh và cho phép tạo danh sách động như một phần của sự cố. Thẻ có thể được sử dụng như một bộ lọc trong dạng xem danh sách Thiết bị hoặc để nhóm các thiết bị. Để biết thêm thông tin về việc nhóm thiết bị, hãy [xem Tạo và quản lý thẻ thiết bị](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/machine-tags).
 
 Bạn có thể thêm thẻ trên thiết bị bằng cách:
 
@@ -32,7 +32,7 @@ Bạn có thể thêm thẻ trên thiết bị bằng cách:
  
 **Lưu ý:** Có thể có độ trễ giữa thời gian thẻ được thêm vào một thiết bị và tính khả dụng của thẻ đó trong danh sách thiết bị và trang thiết bị.
 
-Để thêm thẻ thiết bị bằng API, hãy xem [Thêm hoặc loại bỏ thẻ thiết bị API](/microsoft-365/security/defender-endpoint/add-or-remove-machine-tags).
+Để thêm thẻ thiết bị bằng API, hãy xem [Thêm hoặc loại bỏ thẻ thiết bị API](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/add-or-remove-machine-tags).
 
 ## <a name="add-and-manage-device-tags-using-the-portal"></a>Thêm và quản lý thẻ thiết bị bằng cổng thông tin
 
@@ -51,4 +51,4 @@ Bạn có thể thêm thẻ trên thiết bị bằng cách:
 
 Thẻ được thêm vào chế độ xem thiết bị và được phản ánh trong dạng xem danh sách Thiết bị. Sau đó bạn có thể sử dụng bộ lọc Thẻ để xem danh sách thiết bị liên quan.
 
-Để biết thêm thông tin, hãy [xem Tạo và quản lý thẻ thiết bị](/microsoft-365/security/defender-endpoint/machine-tags).
+Để biết thêm thông tin, hãy [xem Tạo và quản lý thẻ thiết bị](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/machine-tags).

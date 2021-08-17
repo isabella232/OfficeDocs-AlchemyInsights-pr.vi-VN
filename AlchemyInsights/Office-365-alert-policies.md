@@ -13,16 +13,16 @@ ms.custom:
 - "1385"
 - "3200002"
 ms.assetid: ''
-ms.openlocfilehash: 7bb5ec0efb7e29dc6a133d62491c7674c5a851a4fa422c647035aeaa0dbcd8d5
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f5109445530ec4cc4988fb9c5d37145c45794ced6920607ce6df85c6497c25ec
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53918381"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57891701"
 ---
 # <a name="alert-policies"></a>Chính sách cảnh báo
 
-Trung tâm Bảo mật Microsoft 365 & cung [](https://docs.microsoft.com/microsoft-365/compliance/alert-policies#default-alert-policies) cấp các chính sách cảnh báo mặc định kích hoạt cảnh báo cho tổ chức có đăng ký Office 365 Enterprise hoặc Office 365 Government E1/G1, E3/G3 hoặc E5/G5 của Chính phủ Hoa Kỳ. Do đó, người quản trị có thể nhận được thông báo qua email cảnh báo được gửi Office365Alerts@microsoft.com kèm theo dòng chủ đề chẳng hạn như "Cảnh báo mức độ nghiêm trọng *thấp:* tên của chính sách cảnh báo ". Thông báo cảnh báo được gửi đi khi các cảnh báo được kích hoạt cho các hoạt động phổ biến, chẳng hạn như khi người dùng:
+Microsoft 365 các [](https://docs.microsoft.com/microsoft-365/compliance/alert-policies#default-alert-policies) chính sách cảnh báo mặc định kích hoạt cảnh báo cho tổ chức có đăng ký Microsoft 365 Enterprise hoặc Microsoft 365 TỪ Chính phủ Hoa Kỳ E1/G1, E3/G3 hoặc E5/G5. Do đó, người quản trị có thể nhận được thông báo email cảnh báo được gửi bởi Office365Alerts@microsoft.com kèm theo dòng chủ đề chẳng hạn như "Cảnh báo mức độ nghiêm trọng thấp: tên của chính sách *cảnh báo*". Thông báo cảnh báo được gửi đi khi các cảnh báo được kích hoạt cho các hoạt động phổ biến, chẳng hạn như khi người dùng:
 
 - Tạo quy tắc hộp thư đến chuyển tiếp email.
 - Gán quyền hộp thư của họ.
@@ -31,9 +31,10 @@ Trung tâm Bảo mật Microsoft 365 & cung [](https://docs.microsoft.com/micros
 
 Để xem lại và hành động trên một cảnh báo:
 
-1. Đi đến Trung [tâm Bảo & Tuân thủ,](https://protection.office.com) rồi đăng nhập.
-2. Bấm **vào Cảnh báo** dạng xem cảnh  >  **báo**.
-3. Bấm vào một cảnh báo để hiển thị trang bật lên cùng với thông tin về cảnh báo đó.
+1. Thực hiện một trong các bước sau đây:
+   - Trong thanh Trung tâm tuân thủ Microsoft 365 , <https://compliance.microsoft.com> đi tới Cảnh **báo**. Hoặc để đi thẳng tới trang **Cảnh báo,** hãy sử dụng <https://compliance.microsoft.com/compliancealerts> .
+   - Trong cổng thông Bộ bảo vệ Microsoft 365 tin Tại <https://security.microsoft.com> , đi đến Cảnh báo & Báo **hiệu** \> **Sự cố**. Hoặc để đi thẳng tới trang **Cảnh báo,** hãy sử dụng <https://security.microsoft.com/alerts> .
+2. Bấm vào một cảnh báo để hiển thị trang bật lên cùng với thông tin về cảnh báo đó.
 
 Bạn có thể thực hiện một hành động đối với một cảnh báo, chẳng hạn [như loại bỏ một quy tắc hộp thư đến đáng ngờ](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account). Hoặc bạn chỉ cần đóng cảnh báo bằng cách bấm **Giải quyết** trên trang bật lên cảnh báo.
 
@@ -45,4 +46,4 @@ Bạn có thể thực hiện một hành động đối với một cảnh báo
 - Xác minh chi tiết bảo mật cho tài khoản của bạn
 - Xác thực lại bản thân
 
-Nếu bạn nhận được một thư email như thế này thì email đó không phải do Microsoft gửi và bị coi là thư lừa đảo qua mạng. Nếu điều đó xảy ra, vui [lòng báo cáo cho Microsoft](https://docs.microsoft.com/microsoft-365/security/office-365-security/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop).
+Nếu bạn nhận được thư email có các loại yêu cầu này thì thư đó không được Microsoft gửi và bị coi là thư lừa đảo qua mạng. Nếu bạn nhận được thông báo với những loại yêu cầu này, [hãy báo cáo tin nhắn cho Microsoft](https://docs.microsoft.com/microsoft-365/security/office-365-security/report-junk-email-messages-to-microsoft).

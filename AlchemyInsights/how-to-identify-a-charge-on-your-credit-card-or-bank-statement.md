@@ -17,17 +17,17 @@ ms.custom:
 - "1960"
 - "1500019"
 ms.assetid: db7b34b7-0843-4f4b-9222-bfb998b860df
-ms.openlocfilehash: 1f3b39833f947dc2d298abe84b8e5e045f13b9c9720c4493c85273ea5afa2ebb
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 82e14310556b46cec30c8ec861992a36930b6c2d
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54502342"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320859"
 ---
 # <a name="how-to-identify-a-charge-on-your-credit-card-or-bank-statement"></a>Cách xác định chi phí trên thẻ tín dụng hoặc bản sao kê ngân hàng của bạn
 
-Mô tả chi phí cho một đăng Microsoft 365 có hình thức như sau:
+Mô tả chi phí cho đăng ký Microsoft 365 có hình thức như sau:
   
 MSFT \* E012345ABC 0000 - MSBILL.INFO, WA
   
-Chuỗi 10 ký tự chữ cái và số theo sau MSFT \* là Số Hóa đơn mà chi phí có liên quan. Để tìm hóa đơn, hãy truy cập trang **Hóa đơn** thanh & \> [toán để](https://go.microsoft.com/fwlink/p/?linkid=848039) xem hóa đơn gần đây của bạn. Số hóa đơn là gần góc bên phải của tài liệu hóa đơn.
+Chuỗi 10 ký tự chữ cái và số theo sau MSFT \* là Số Hóa đơn mà chi phí có liên quan. Để tìm hóa đơn, hãy truy cập trang **Hóa đơn** thanh & thanh \> [toán để](https://go.microsoft.com/fwlink/p/?linkid=848039) xem hóa đơn gần đây của bạn. Số hóa đơn là gần góc bên phải của tài liệu hóa đơn.

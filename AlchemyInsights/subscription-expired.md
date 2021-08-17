@@ -15,27 +15,27 @@ ms.custom:
 - "9002437"
 - "4741"
 - "4739"
-ms.openlocfilehash: 9925c220897337cdc6956674448b31c818dfc42635459076ca29806f565b3050
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9571bcdadb5e408bf66c2b9da18296e48eb1de7a484e1524dd1751008eb5fe5a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54009198"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57891921"
 ---
 # <a name="subscription-expired"></a>Đăng ký đã hết hạn
 
-Nếu đăng ký của bạn hết hạn hoặc bị Microsoft vô hiệu hóa hoặc nếu bạn đã hủy bỏ đăng ký trong thời hạn đăng ký thì bạn có thể kích hoạt lại trong trung tâm quản trị.
+Nếu đăng ký của bạn hết hạn hoặc bị Microsoft vô hiệu hóa hoặc nếu bạn đã hủy bỏ đăng ký trong thời hạn đăng ký thì bạn có thể kích hoạt lại đăng ký trong trung tâm quản trị.
 
 **Kích hoạt lại đăng ký**
 
 1. Trong trung tâm quản trị, đi đến trang Thanh toán  >  [Sản phẩm của](https://go.microsoft.com/fwlink/p/?linkid=842054) bạn.
-2. Trên tab **Sản** phẩm, tìm đăng ký mà bạn muốn kích hoạt lại, chọn ba dot (thao tác khác), rồi chọn Kích hoạt lại **đăng ký này.**
+2. Trên tab **Sản** phẩm, tìm đăng ký bạn muốn kích hoạt lại, chọn ba dot (thao tác khác), rồi chọn Kích hoạt lại **đăng ký này.**
     > [!NOTE]
     > Nếu bạn không thấy Kích hoạt lại **đăng ký này, hãy liên hệ với** bộ phận hỗ trợ.
 3. Trong ngăn **Kích hoạt lại đăng ký này,** chọn một phương thức thanh toán từ danh sách thả xuống hoặc chọn Thêm phương thức thanh **toán**.
 4. Chọn **Lưu**.
 
-Để biết thêm thông tin, hãy [xem Kích hoạt lại đăng ký của bạn](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Để biết thêm thông tin, hãy [xem Kích hoạt lại đăng ký của bạn](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 **Quản lý gia hạn đăng ký**
 
@@ -47,4 +47,4 @@ Nếu đăng ký của bạn hết hạn hoặc bị Microsoft vô hiệu hóa h
 4. Trong ngăn **Chỉnh sửa cài đặt thanh toán định kỳ,** chọn **Bật**, Bật nhưng gia hạn **một lần** hoặc **Tắt**.
 5. Chọn **Lưu**.
 
-Để biết thêm thông tin, [hãy xem mục Tắt hoặc bật thanh toán định kỳ](/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).
+Để biết thêm thông tin, [hãy xem mục Tắt hoặc bật thanh toán định kỳ](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).

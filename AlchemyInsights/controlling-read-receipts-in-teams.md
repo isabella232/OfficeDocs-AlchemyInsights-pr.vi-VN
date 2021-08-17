@@ -1,5 +1,5 @@
 ---
-title: Kiểm soát biên nhận đọc trong nhóm
+title: Kiểm soát xác nhận đã đọc trong Teams
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002246"
 - "4369"
-ms.openlocfilehash: 34fdfc7df6bde1ef93b52cb20983762c8d79ca94
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d1557cbacab8f2ffdfca7b8e073a14dce6467afeccd6b11ac0da3ce556e1fa3f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51816654"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54057952"
 ---
-# <a name="controlling-read-receipts-in-teams"></a>Kiểm soát biên nhận đọc trong nhóm
+# <a name="controlling-read-receipts-in-teams"></a>Kiểm soát xác nhận đã đọc trong Teams
 
-Bạn có thể kiểm soát **biên nhận đọc** cho tổ chức của bạn bằng cách sử dụng các chính sách nhắn tin trong nhóm.
+Bạn có thể kiểm soát **xác nhận đã đọc cho** tổ chức của mình bằng cách sử dụng chính sách Nhắn Teams.
 
-Để cập nhật thiết đặt xác nhận đọc của người dùng cá nhân trong ứng dụng: bấm vào hồ sơ của bạn ở phía trên cùng bên phải của cửa sổ ứng dụng nhóm, bấm vào  >  **quyền riêng tư** thiết đặt rồi dùng nút bật tắt biên nhận đã **đọc** .
+Để cập nhật cài đặt biên nhận đã đọc của một người dùng cá nhân trong ứng dụng: Bấm vào hồ sơ của bạn ở phía trên bên phải cửa sổ ứng dụng Teams, bấm vào Quyền riêng **tư của Cài đặt,** rồi sử dụng nút bật tắt Xác nhận  >   đọc. 
 
-- Có thể bật hoặc tắt biên nhận đã đọc ở cấp độ tổ chức với chính sách gửi tin nhắn. Xem phần "biên nhận đã đọc" bên dưới [thiết đặt chính sách nhắn tin](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams#messaging-policy-settings).
+- Có thể bật hoặc tắt xác nhận đã đọc ở mức tổ chức với Chính sách Gửi thư. Xem "Xác nhận đã đọc" trong [mục Chính sách gửi Cài đặt.](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams#messaging-policy-settings)
 
-- Nếu bạn cho phép người dùng điều khiển thiết đặt xác nhận đọc của riêng mình, [đây là cách họ có thể sửa đổi chúng](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams#messaging-policy-settings). 
+- Nếu bạn cho phép người dùng kiểm soát cài đặt biên nhận đã đọc của riêng mình thì [đây là cách họ có thể sửa đổi thiết đặt.](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams#messaging-policy-settings) 
 
-**Lưu ý**: biên nhận đã đọc phải được người quản trị thực hiện thay đổi. Để kiểm tra hoặc sửa đổi thiết đặt này, hãy đi tới >  **chính sách gửi**  >   thư của Trung tâm quản trị nhóm
+**Lưu** ý : Người quản trị PHẢI bật Xác nhận Đọc để người dùng thực hiện sửa đổi. Để kiểm tra hoặc sửa đổi thiết đặt này, hãy đi đến trung **tâm quản Teams chính sách Nhắn** tin Xác >  **nhận**  >  **đọc**
