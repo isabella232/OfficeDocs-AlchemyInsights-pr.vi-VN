@@ -1,5 +1,5 @@
 ---
-title: Sự cố dịch vụ đang thực hiện
+title: Đang tiến hành Sự cố Dịch vụ
 ms.author: pebaum
 author: CrystalThomasMS
 ms.date: 04/21/2020
@@ -12,19 +12,19 @@ ms.assetid: 724f662c-50f0-456a-925a-2ab840a50cd3
 ms.custom:
 - "118"
 - "1600016"
-ms.openlocfilehash: 344507c74530f6f7b91fad68025554d0c6a6a004
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a0f2722720060490fa544de42e87c05f230fa09bc01a05623f6d985f1f058042
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799082"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54074270"
 ---
-# <a name="service-incident-in-progress"></a>Sự cố dịch vụ đang thực hiện
+# <a name="service-incident-in-progress"></a>Đang tiến hành Sự cố Dịch vụ
 
-Bạn có thể bị ảnh hưởng bởi sự cố dịch vụ hoặc tư vấn hiện đang được nghiên cứu. Bạn có thể kiểm tra trạng thái mới nhất bằng cách đi đến trang trạng thái [dịch vụ](https://admin.microsoft.com/adminportal/home#/servicehealth) .
+Bạn có thể bị ảnh hưởng bởi sự cố dịch vụ hoặc tư vấn hiện đang được điều tra. Bạn có thể kiểm tra trạng thái mới nhất bằng cách truy nhập [trang Trạng thái Dịch](https://admin.microsoft.com/adminportal/home#/servicehealth) vụ.
   
-Để thuận tiện cho bạn, bạn có thể tìm thấy tóm tắt về sự cố này dưới đây:
+Để thuận tiện cho bạn, bạn có thể tìm bản tóm tắt về sự cố này dưới đây:
   
-> **Số sự cố:**[{incidentid}](https://admin.microsoft.com/adminportal/home#/servicehealth)
+> **Số sự cố:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)
 
-> Mô tả tác động: {ImpactDescription}
+> Mô tả ảnh hưởng: {ImpactDescription}

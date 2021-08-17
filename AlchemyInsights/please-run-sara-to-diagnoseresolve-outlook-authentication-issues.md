@@ -1,5 +1,5 @@
 ---
-title: 182 vui lòng chạy SaRA để chẩn đoán và giải quyết sự cố xác thực Outlook
+title: 182 Vui lòng chạy công SaRA chẩn đoán và giải quyết sự cố Outlook xác thực
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,15 +13,15 @@ ms.custom:
 - "182"
 - "1800012"
 ms.assetid: a3a5ea91-6989-4616-9290-c7b24484e8c8
-ms.openlocfilehash: aa1e831eac829f3bd35f34e2fbe34923c5af0d3a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 461424e2c5726deb3a63e6588d1043278d4835e4b2d891e9a5413d54bc445a72
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802043"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54040744"
 ---
-# <a name="use-sara-to-diagnose-and-resolve-outlook-authentication-issues"></a>Dùng SaRA để chẩn đoán và giải quyết sự cố xác thực Outlook
+# <a name="use-sara-to-diagnose-and-resolve-outlook-authentication-issues"></a>Dùng công SaRA để chẩn đoán và giải quyết các sự cố Outlook xác thực
 
-**Lưu ý**: vui lòng kiểm tra xem liệu có được kích hoạt [mặc định bảo mật](https://aka.ms/securitydefaults) cho tổ chức của bạn hay không. Nếu đối tượng thuê của bạn đã được tạo sau ngày 21 tháng mười, 2019 và Outlook của bạn liên tục yêu cầu bạn có mật khẩu, bạn có thể đã bật tính năng **mặc định bảo mật** trong đối tượng thuê của mình.
+**Lưu ý**: Vui lòng kiểm tra xem mặc [định bảo mật có được](https://aka.ms/securitydefaults) bật cho tổ chức của bạn hay không. Nếu đối tượng thuê của bạn được tạo sau ngày 21/10/2019 và  Outlook của bạn liên tục yêu cầu bạn nhập mật khẩu thì có thể bạn đã bật các mặc định bảo mật trong đối tượng thuê của mình.
 
-Chúng tôi khuyên bạn nên sử dụng [Outlook để yêu cầu chẩn đoán mật khẩu của tôi](https://aka.ms/SaRA-OutlookPwdPrompt-Alchemy) trên máy tính bị ảnh hưởng để khắc phục sự cố khi Outlook liên tục nhắc mật khẩu. Chẩn đoán [SaRA](https://diagnostics.office.com/#/) này sẽ tự động kiểm tra và trả về các giải pháp có thể để bạn sử dụng để giải quyết mọi vấn đề được phát hiện.
+Chúng tôi khuyên bạn [](https://aka.ms/SaRA-OutlookPwdPrompt-Alchemy) nên sử dụng Outlook liên tục yêu cầu chẩn đoán mật khẩu của tôi trên máy bị ảnh hưởng để khắc phục sự cố mà trong đó Outlook liên tục nhắc nhập mật khẩu. Chẩn SaRA [tự động](https://diagnostics.office.com/#/) kiểm tra và trả về các giải pháp khả thi để bạn có thể sử dụng nhằm giải quyết mọi sự cố được phát hiện.

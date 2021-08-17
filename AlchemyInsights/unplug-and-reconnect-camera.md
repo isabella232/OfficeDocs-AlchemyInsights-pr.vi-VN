@@ -1,5 +1,5 @@
 ---
-title: Rút và kết nối lại camera
+title: Tháo và kết nối lại camera
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - gethelp
-ms.openlocfilehash: 9c733c69b1430c9a5439caf99cf8f6fddff60ef5
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 48b63bab69eac91942fc1b0f3fe63f6d004992bb49757de8df6e3bdcf9d447d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51827742"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54073766"
 ---
-# <a name="unplug-and-reconnect-camera"></a>Rút và kết nối lại camera
+# <a name="unplug-and-reconnect-camera"></a>Tháo và kết nối lại camera
 
-Rất tiếc là không hoạt động. Nếu camera là một camera bên ngoài, hãy tháo thiết bị và kết nối lại một lần nữa có thể trợ giúp.
+Rất tiếc, cách đó không hiệu quả. Nếu camera là camera bên ngoài, thì việc rút thiết bị và kết nối lại có thể giúp ích.
 
-Nếu đây là camera tích hợp sẵn, hãy khởi động lại máy tính của bạn có thể trợ giúp.
+Nếu đây là một camera tích hợp sẵn, hãy khởi động lại máy tính của bạn có thể giúp ích.

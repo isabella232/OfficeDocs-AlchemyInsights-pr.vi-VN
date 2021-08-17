@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002252"
 - "4554"
-ms.openlocfilehash: e624d24718f4b5dac833454775c5f7c626719f90
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 3e76aa101ab5f6429b7854c4d3bfbbec92b6cc8cc53373f7c465ddf5320b3ba1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51801325"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54040672"
 ---
 # <a name="port-order-request"></a>Yêu cầu lệnh nối cổng
 
-Tải về [loa](https://docs.microsoft.com/microsoftteams/manage-phone-numbers-for-your-organization/manage-phone-numbers-for-your-organization#letters-of-authorization-loas-for-transferring-numbers) cho quốc gia hoặc khu vực của bạn, hoàn thành biểu mẫu, sau đó gửi nó đến bàn PSTN dịch vụ cho khu vực của bạn:
+Tải xuống [LOA cho](https://docs.microsoft.com/microsoftteams/manage-phone-numbers-for-your-organization/manage-phone-numbers-for-your-organization#letters-of-authorization-loas-for-transferring-numbers) quốc gia hoặc khu vực của bạn, hoàn thành biểu mẫu, rồi gửi đến bộ phận dịch vụ PSTN cho khu vực của bạn:
 
-- Tại Hoa Kỳ, hãy [gửi yêu cầu của bạn](mailto:ptn@microsoft.com).
+- Tại Hoa Kỳ, hãy gửi [yêu cầu của bạn](mailto:ptn@microsoft.com).
 
-- Tại châu Âu, hãy [gửi yêu cầu của bạn](mailto:ptneu@microsoft.com).
+- Tại Châu Âu, [hãy gửi yêu cầu của bạn](mailto:ptneu@microsoft.com).
 
-- Trong Asia, hãy [gửi yêu cầu của bạn](mailto:ptnapac@microsoft.com).
+- Tại Châu Á, [hãy gửi yêu cầu của bạn](mailto:ptnapac@microsoft.com).

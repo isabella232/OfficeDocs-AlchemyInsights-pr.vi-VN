@@ -1,5 +1,5 @@
 ---
-title: Khắc phục sự cố về chất lượng cuộc gọi trong Skype for Business
+title: Khắc phục sự Skype for Business lượng cuộc gọi
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,13 +11,13 @@ ms.custom:
 - "9002263"
 - "4364"
 ms.assetid: ''
-ms.openlocfilehash: 088c1cc7b1951bc9b67ffa5b511eec68b7938409
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2e7c7fc8cdc50c186d48779e9be740807d40993020cff9c4e7794ceaf1f81443
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664840"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54039232"
 ---
-# <a name="troubleshoot-skype-for-business-call-quality"></a>Khắc phục sự cố về chất lượng cuộc gọi trong Skype for Business
+# <a name="troubleshoot-skype-for-business-call-quality"></a>Khắc phục sự Skype for Business lượng cuộc gọi
 
-Có thể dùng phân tích cuộc gọi để giúp khắc phục sự cố chất lượng cuộc gọi trong nhóm Microsoft. Để tìm hiểu thêm về phân tích cuộc gọi và chất lượng cuộc gọi, hãy xem [sử dụng phân tích cuộc gọi để khắc phục sự cố chất lượng cuộc gọi kém](https://docs.microsoft.com/MicrosoftTeams/use-call-analytics-to-troubleshoot-poor-call-quality).
+Phân tích Cuộc gọi có thể được sử dụng để giúp khắc phục sự cố về chất lượng cuộc gọi Microsoft Teams. Để tìm hiểu thêm về Phân tích Cuộc gọi và chất lượng cuộc gọi, hãy xem [Dùng Phân tích Cuộc gọi để khắc phục sự cố chất lượng cuộc gọi kém.](https://docs.microsoft.com/MicrosoftTeams/use-call-analytics-to-troubleshoot-poor-call-quality)

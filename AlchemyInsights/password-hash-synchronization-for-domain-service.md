@@ -1,5 +1,5 @@
 ---
-title: Đồng bộ hóa hash mật khẩu cho dịch vụ miền
+title: Đồng bộ hóa băm mật khẩu cho dịch vụ tên miền
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -15,25 +15,25 @@ ms.custom:
 - "9004400"
 - "8249"
 - "9003245"
-ms.openlocfilehash: 7f138837b720926c5b687285a105eb0417ca5b39
-ms.sourcegitcommit: 22eaf0a151ab95414476f596db8d318b6540ff31
+ms.openlocfilehash: 3c00105a67f70ae9ce11cd8bb922c4d84a320010d021414b9159948f7dc87dbc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "50177616"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54040888"
 ---
-# <a name="password-hash-synchronization-for-domain-service"></a>Đồng bộ hóa hash mật khẩu cho dịch vụ miền
+# <a name="password-hash-synchronization-for-domain-service"></a>Đồng bộ hóa băm mật khẩu cho dịch vụ tên miền
 
-**Nếu ví dụ Azure AD DS của bạn là nhắc bạn bật đồng bộ hóa hash mật khẩu**
+**Nếu phiên bản Azure AD DS của bạn nhắc bạn bật đồng bộ hóa băm mật khẩu**
 
-Bạn gặp phải một tình huống mà bạn đang chạy môi trường hỗn hợp với người dùng đang đồng bộ hóa từ môi trường dịch vụ miền (AD DS) tại chỗ của Azure Active Directory. Tình huống này gặp mặc dù bạn có đồng bộ hóa hash mật khẩu từ AD DS tại cơ sở với đối tượng thuê Azure AD của bạn.
+Bạn gặp phải kịch bản trong đó bạn đang chạy môi trường kết hợp với người dùng đồng bộ hóa từ môi trường Dịch vụ Miền Azure Active Directory tại chỗ (AD DS). Bạn vẫn gặp phải kịch bản này mặc dù bạn có đồng bộ hóa băm mật khẩu từ AD DS tại chỗ với đối tượng thuê Azure AD của mình.
 
-**Bởi**
+**Nguyên nhân**
 
-Điều này xảy ra vì Azure AD kết nối theo mặc định không đồng bộ hóa công nghệ mới của Microsoft Manager (NTLM) và Kerberos mật khẩu hàm băm cần thiết cho Azure AD DS.
+Điều này xảy ra vì Azure AD Kết nối theo mặc định không đồng bộ hóa Thừa tự Trình quản lý Công nghệ LAN (NTLM) và hashe mật khẩu Kerberos cần thiết cho Azure AD DS.
 
-**Lỗi** 
+**Giải pháp thay thế** 
 
-Bạn sẽ cần phải cấu hình Azure AD Connect để đồng bộ hóa các hàm hàm băm mật khẩu được yêu cầu cho NTLM và Kerberos xác thực.
+You would need to configure Azure AD Kết nối to synchronize those password hashes required for NTLM and Kerberos authentication.
 
-Sau khi Azure AD Connect được cấu hình, một tài khoản tại chỗ hoặc tạo sự kiện thay đổi mật khẩu cũng đồng bộ hóa mật khẩu kế thừa hàm băm thành Azure AD. Vui lòng xem mục [ở đây](https://docs.microsoft.com/azure/active-directory-domain-services/tutorial-configure-password-hash-sync) để biết thêm thông tin về điều này và để được hướng dẫn về cách bật đồng bộ hóa mật khẩu trong AZURE AD DS Hybrid môi trường.
+Sau khi Azure AD Kết nối cấu hình, sự kiện tạo tài khoản hoặc thay đổi mật khẩu tại chỗ cũng sẽ đồng bộ hóa các hashe mật khẩu thừa tự với Azure AD. Vui lòng xem [tại](https://docs.microsoft.com/azure/active-directory-domain-services/tutorial-configure-password-hash-sync) đây để biết thêm thông tin về điều này và để biết hướng dẫn về cách bật đồng bộ hóa mật khẩu trong môi trường kết hợp Azure AD DS.
