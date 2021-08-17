@@ -1,5 +1,5 @@
 ---
-title: Single-Sign cho Azure Active Directory đã tham gia thiết bị
+title: Single-Sign bật cho các thiết Azure Active Directory nối
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003257"
 - "9891"
-ms.openlocfilehash: f6426a3fb4addc24c5041196fe837134bf0d296b
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 365225926296677feb7853481651a634792fd8bfa9abd9dc9359ffaae50b60eb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51405666"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54050032"
 ---
-# <a name="single-sign-on-for-azure-active-directory-joined-devices"></a>Đăng nhập một lần cho Azure Active Directory đã tham gia thiết bị
+# <a name="single-sign-on-for-azure-active-directory-joined-devices"></a>Đăng nhập một lần cho Thiết Azure Active Directory Nối
 
-Nếu bạn có môi trường Active Directory (AD) tại cơ sở và bạn muốn gia nhập vào các máy tính của bạn tham gia vào Azure AD, bạn có thể thực hiện điều này bằng cách kết hợp kết hợp Azure AD join. [Cách thức: lập kế hoạch cho việc thực hiện kết hợp Azure Active Directory của bạn](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-plan) sẽ cung cấp cho bạn các bước liên quan để thực hiện kết hợp Azure AD join trong môi trường của bạn.
+Nếu bạn có môi trường Active Directory (AD) tại chỗ và bạn muốn liên kết các máy tính kết nối với miền AD với Azure AD, bạn có thể thực hiện việc này bằng cách thực hiện kết hợp Azure AD kết hợp. [Cách Thức: Lập kế hoạch triển khai Azure Active Directory](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-plan) kết hợp sẽ cung cấp cho bạn các bước liên quan để triển khai kết hợp Azure AD kết hợp trong môi trường của bạn.
 
-[Cấu hình Azure AD đã tham gia các thiết bị cho Single-Sign tại cơ sở khi sử dụng Windows Hello for Business](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-plan) 
+[Đặt cấu hình các thiết bị đã kết hợp Azure AD cho Single-Sign tại chỗ Đang sử dụng Windows Hello for Business](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-plan) 
 
-Các sự **cố mã thông báo làm mới (PRT) chính** Một mã thông báo làm mới chính (PRT) là một artifact chính của xác thực Azure AD trên Windows 10, Windows Server 2016 và các thiết bị chạy sau, iOS và Android. Đây là một mã thông báo web JSON (JWT) đặc biệt được phát hành cho môi giới mã thông báo đầu tiên của Microsoft để cho phép đăng nhập một lần (SSO) trên các ứng dụng được sử dụng trên các thiết bị này. [Trong mã bản làm mới chính là gì?](https://docs.microsoft.com/azure/active-directory/devices/concept-primary-refresh-token), chúng tôi sẽ cung cấp chi tiết về cách thức phát hành của PRT, được sử dụng và bảo vệ trên các thiết bị chạy Windows 10.
+**Các vấn đề về Mã thông báo Làm mới Chính (PRT)** Mã thông báo Làm mới Chính (PRT) là một đối số quan trọng của xác thực Azure AD trên Windows 10, Windows Server 2016 trở lên, các thiết bị chạy iOS và Android. Đây là một Mã thông báo Web JSON (JWT) được cấp đặc biệt cho các nhà môi giới mã thông báo của bên thứ nhất của Microsoft để cho phép đăng nhập một lần (SSO) trên các ứng dụng được sử dụng trên các thiết bị đó. Trong Mã thông báo Làm mới Chính là [gì?,](https://docs.microsoft.com/azure/active-directory/devices/concept-primary-refresh-token)chúng tôi sẽ cung cấp chi tiết về cách phát hành, sử dụng và bảo vệ PRT trên các Windows 10 của bạn.
 
-**Wamdefaultset: có và AzureADPrt: có** Những trường này cho biết người dùng đã xác thực thành công để Azure AD khi đăng nhập vào thiết bị hay không. Nếu các giá trị là **không có**, thì có thể là do:
+**WamDefaultSet: YES và AzureADPrt: YES** Các trường này cho biết người dùng đã xác thực thành công với Azure AD khi đăng nhập vào thiết bị hay chưa. Nếu các giá trị là **NO** thì có thể là do:
 
-- Phím lưu trữ xấu trong TPM được liên kết với thiết bị sau khi đăng ký (kiểm tra kiểm tra phím trong khi đang chạy nâng cao).
-- ID đăng nhập thay thế
-- Không tìm thấy proxy HTTP
+- Khóa lưu trữ bad trong TPM được liên kết với thiết bị khi đăng ký (chọn KeySignTest trong khi chạy mức cao).
+- ID Đăng nhập Thay thế
+- Không tìm thấy HTTP Proxy
 
-Khắc phục sự cố các thiết bị sử dụng lệnh dsregcmd- [SSO State](https://docs.microsoft.com/azure/active-directory/devices/troubleshoot-device-dsregcmd#sso-state)
+Khắc phục sự cố thiết bị bằng lệnh dsregcmd - [Trạng thái SSO](https://docs.microsoft.com/azure/active-directory/devices/troubleshoot-device-dsregcmd#sso-state)

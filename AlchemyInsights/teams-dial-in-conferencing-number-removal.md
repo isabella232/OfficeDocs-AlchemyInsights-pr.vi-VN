@@ -1,5 +1,5 @@
 ---
-title: Loại bỏ số lượng hội thảo quay số vào nhóm
+title: Teams loại bỏ số hội thảo quay số vào
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,35 +12,35 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002248"
 - "4352"
-ms.openlocfilehash: 00ae4b82fd7ac266a7d590de8ae82702fd53905f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 38112d08915fffdeeb35bc09419cd632cb24c28dfa1ce75963f0217fc274d67e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823557"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54106823"
 ---
-# <a name="teams-dial-in-conferencing-number-removal"></a>Loại bỏ số lượng hội thảo quay số vào nhóm
+# <a name="teams-dial-in-conferencing-number-removal"></a>Teams loại bỏ số hội thảo quay số vào
 
-Bạn có cần trợ giúp loại bỏ một số hội thảo quay số vào từ cầu nối hội thảo của bạn không? Là số mà bạn đang cố gắng loại bỏ hiện tại là số mặc định? Nếu vậy, trước tiên, bạn sẽ cần thay đổi số mặc định của cầu nối hội thảo.
+Bạn cần trợ giúp để loại bỏ số hội thảo quay số vào khỏi cầu nối hội thảo của mình? Có phải số mà bạn đang tìm cách loại bỏ hiện là số mặc định không? Nếu vậy, trước tiên bạn cần thay đổi số mặc định của cầu nối hội thảo.
 
-Số điện thoại mặc định của cầu nối hội thảo xác định ID người gọi sẽ được sử dụng khi một cuộc gọi đi được đặt bởi một người tham gia hoặc người tổ chức từ bên trong một cuộc họp.
+Số điện thoại mặc định của cầu nối hội thảo xác định nhận dạng đối tượng gọi sẽ được sử dụng khi cuộc gọi đi do một người dự hoặc người tổ chức thực hiện từ bên trong một cuộc họp.
 
-1. Đăng nhập bằng tài khoản công việc của bạn.
+1. Đăng nhập bằng tài khoản cơ quan của bạn.
 
-2. Đi đến **Trung tâm quản trị Microsoft 365**.
+2. Đi tới **Trung tâm quản trị Microsoft 365**.
 
-3. Đi đến **Trung tâm quản trị > nhóm & Skype**.
+3. Đi đến **Trung tâm quản > Teams & Skype**.
 
-4. Đi tới **cuộc họp**.
+4. Đi tới **Cuộc họp**.
 
-5. Đi tới **cầu nối hội thảo**.
+5. Đi đến **Cầu nối Hội thảo**.
 
-6. Tô sáng số của dịch vụ mà bạn muốn cấu hình theo mặc định.
+6. Tô sáng số tính phí dịch vụ bạn muốn cấu hình làm số mặc định.
 
-7. Bấm **đặt làm mặc định**.
+7. Bấm **Đặt làm mặc định.**
 
-Để biết thêm thông tin, hãy tham khảo [mục thay đổi số điện thoại trên cầu nối hội thảo âm thanh của bạn](https://docs.microsoft.com/microsoftteams/change-the-phone-numbers-on-your-audio-conferencing-bridge).
+Để biết thêm thông tin, hãy [tham khảo Thay đổi số điện thoại trên cầu nối Hội thảo Âm thanh](https://docs.microsoft.com/microsoftteams/change-the-phone-numbers-on-your-audio-conferencing-bridge).
 
-**Tài nguyên liên quan**
+**Tài nguyên Liên quan**
 
-[Thay đổi thiết đặt cho cầu nối hội thảo âm thanh](https://docs.microsoft.com/microsoftteams/change-the-settings-for-an-audio-conferencing-bridge)
+[Thay đổi thiết đặt cho cầu nối Hội thảo Âm thanh](https://docs.microsoft.com/microsoftteams/change-the-settings-for-an-audio-conferencing-bridge)

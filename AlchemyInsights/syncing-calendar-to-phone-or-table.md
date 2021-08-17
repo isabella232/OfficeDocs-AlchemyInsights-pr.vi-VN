@@ -1,5 +1,5 @@
 ---
-title: 1600036 đồng bộ lịch vào điện thoại hoặc bảng
+title: 1600036 Đồng bộ Lịch vào điện thoại hoặc máy tính bảng
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -11,15 +11,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ef3b7fc8-f8c0-43b0-8d78-3f8287872ebd
 ms.custom: 1600036
-ms.openlocfilehash: 83f3be839ea6f2f23911860ecc4fbde46485ff02
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f97661468310a1241fbe0616657ccebac7677401a235561ca27020be6e27cbbb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47700369"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54106931"
 ---
-# <a name="issues-synchronizing-your-outlook-calendar-to-devices"></a>Các sự cố khi đồng bộ lịch Outlook của bạn với các thiết bị
+# <a name="issues-synchronizing-your-outlook-calendar-to-devices"></a>Các sự cố về đồng bộ hóa Outlook lịch với thiết bị
 
-Để khắc phục sự cố khi đồng bộ hóa lịch vào các thiết bị, hãy xem mục [không thể đồng bộ lịch và liên hệ với điện thoại hoặc máy tính bảng của tôi](https://support.office.com/article/8479d764-b9f5-4fff-ba88-edd7c265df9f.aspx).
+Để khắc phục sự cố đồng bộ hóa lịch với thiết bị, hãy xem Không thể đồng bộ lịch và danh bạ [với điện thoại hoặc máy tính bảng của tôi.](https://support.office.com/article/8479d764-b9f5-4fff-ba88-edd7c265df9f.aspx)
   
 

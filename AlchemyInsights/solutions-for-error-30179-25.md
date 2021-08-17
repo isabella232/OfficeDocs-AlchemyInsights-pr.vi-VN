@@ -1,5 +1,5 @@
 ---
-title: Giải pháp lỗi 30179-25
+title: Giải pháp cho lỗi 30179-25
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,16 +13,16 @@ ms.assetid: 858c2f23-bcf5-42e4-92c5-8749eed29dfb
 ms.custom:
 - "835"
 - "2000020"
-ms.openlocfilehash: 42b275309ff7a63899bc03898dd29884fd797a4c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2229ccac30b1bddb943a5fb9a944167895a41129608326ced437231166920610
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51828282"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54050068"
 ---
-# <a name="solutions-for-error-30179-25"></a>Giải pháp lỗi 30179-25
+# <a name="solutions-for-error-30179-25"></a>Giải pháp cho lỗi 30179-25
 
-Bạn có thể thấy lỗi với thư "không thể dòng Office" (mã lỗi [30179-25](https://support.office.com/article/e40d3c7d-98f6-4284-94a0-882beaa44593?wt.mc_id=Alchemy_ClientDIA)) nếu ổ đĩa cứng của bạn bị hết dung lượng.
+Bạn có thể thấy lỗi kèm theo thông báo "Không thể phát trực tuyến Office" (Mã lỗi [30179-25](https://support.office.com/article/e40d3c7d-98f6-4284-94a0-882beaa44593?wt.mc_id=Alchemy_ClientDIA)) nếu ổ đĩa cứng của bạn sắp hết dung lượng.
   
-Giải [phóng dung lượng trên ổ đĩa cứng của bạn](https://support.microsoft.com/help/12425/windows-10-free-up-drive-space) , rồi [cài đặt lại Office](https://portal.office.com/OLS/MySoftware.aspx).
+[Giải phóng dung lượng trên ổ cứng của bạn,](https://support.microsoft.com/help/12425/windows-10-free-up-drive-space) rồi [cài đặt lại Office](https://portal.office.com/OLS/MySoftware.aspx).
   
