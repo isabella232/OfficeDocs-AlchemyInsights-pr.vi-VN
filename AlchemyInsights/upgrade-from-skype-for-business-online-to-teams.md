@@ -1,5 +1,5 @@
 ---
-title: Nâng cấp từ Skype for Business Online thành nhóm
+title: Nâng cấp từ Skype for Business Online lên Teams
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "4000006"
 - "2693"
-ms.openlocfilehash: 6febce6559b697261c1a8dc3d72a39df2fb80652
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8e1c292a415794c65cf6efa1f5f335be627759db64a6aa7b4918f05436502fd0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51827346"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54073586"
 ---
-# <a name="upgrade-from-skype-for-business-online-to-teams"></a>Nâng cấp từ Skype for Business Online thành nhóm  
+# <a name="upgrade-from-skype-for-business-online-to-teams"></a>Nâng cấp từ Skype for Business Online lên Teams  
 
-Làm theo hướng dẫn trong bài viết dưới đây nếu bạn đã triển khai Skype for Business Online và muốn nâng cấp người dùng của bạn từ Skype for Business thành các nhóm. Bạn có thể nâng cấp người dùng trong các giai đoạn hoặc tất cả cùng một lúc, dựa trên cuộc hành trình nâng cấp mà tổ chức của bạn đã chọn, bằng cách gán chế độ cotồn tại và nâng cấp thích hợp cho người dùng của bạn.
+Hãy làm theo hướng dẫn trong bài viết dưới đây nếu bạn đã triển khai Skype for Business Online và muốn nâng cấp người dùng từ phiên bản Skype for Business lên Teams. Bạn có thể nâng cấp người dùng theo từng giai đoạn hoặc nâng cấp cùng một lúc, dựa trên hành trình nâng cấp mà tổ chức của bạn đã chọn, bằng cách gán chế độ đồng tồn tại và nâng cấp phù hợp cho người dùng của bạn.
 
-[Nâng cấp từ Skype for Business Online thành nhóm](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline) 
+[Nâng cấp từ Skype for Business Online lên Teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline) 

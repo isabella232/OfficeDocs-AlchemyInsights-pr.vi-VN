@@ -1,5 +1,5 @@
 ---
-title: Khắc phục sự cố SSPR
+title: Khắc phục sự cố về SSPR
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,40 +13,40 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003259"
 - "6128"
-ms.openlocfilehash: 85bfc812dcffce008a6fa5394a6069bd64c514d6
-ms.sourcegitcommit: f4ba304b92ed01e35273ecda67e9dc3ad9d475c1
+ms.openlocfilehash: 9d8184efdc60befd359059c62ea3eb1a14ad7d2a20dade921d4a71e424f52033
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50430360"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54038980"
 ---
-# <a name="troubleshoot-sspr"></a>Khắc phục sự cố SSPR
+# <a name="troubleshoot-sspr"></a>Khắc phục sự cố về SSPR
 
-**Tôi đang gặp sự cố về cấu hình đặt lại mật khẩu**
+**Tôi đang gặp sự cố khi đặt cấu hình đặt lại mật khẩu**
 
-- Nếu bạn là người quản trị và tìm cách bật tính năng đặt lại mật khẩu tự phục vụ, hãy xem [hướng dẫn bật SSPR](https://docs.microsoft.com/azure/active-directory/authentication/tutorial-enable-sspr), để cấu hình đặt lại mật khẩu cho tổ chức của bạn. Bạn cũng có thể muốn xem lại các [yêu cầu cấp phép](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-licensing?WT.mc_id=Portal-Microsoft_Azure_Support). Bạn phải có ít nhất một giấy phép được gán trong tổ chức của bạn.
-    - **Đám mây chỉ người dùng** -bất kỳ Office 365 (O365) được trả về SKU hoặc Azure AD BASIC
-    - Nền tảng điện **toán đám mây và/hoặc người dùng tại cơ sở** -Azure AD Premium P1 hoặc P2, doanh nghiệp Mobility + Security (EMS), hoặc doanh nghiệp hiệu quả bảo mật (SPE)
-- Để biết thêm thông tin về việc đặt lại mật khẩu tự phục vụ, hãy xem lại câu [hỏi thường gặp của chúng tôi](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-faq?WT.mc_id=Portal-Microsoft_Azure_Support).
+- Nếu bạn là người quản trị và đang tìm cách bật tính năng tự đặt lại mật khẩu, hãy xem hướng dẫn cho phép [SSPR](https://docs.microsoft.com/azure/active-directory/authentication/tutorial-enable-sspr), để đặt cấu hình đặt lại mật khẩu cho tổ chức của bạn. Bạn cũng có thể muốn xem lại các yêu [cầu cấp phép.](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-licensing?WT.mc_id=Portal-Microsoft_Azure_Support) Bạn phải có ít nhất một giấy phép được gán trong tổ chức của mình.
+    - **Cloud only users** - Any Office 365 (O365) paid SKU, or Azure AD Basic
+    - **Người dùng đám mây và/hoặc** người dùng tại chỗ - Azure AD Premium P1 hoặc P2, Enterprise Mobility + Security (EMS) hoặc Azure SECURE PRODUCTIVE ENTERPRISE (SPE)
+- Để biết thêm câu hỏi về tính năng tự đặt lại mật khẩu, hãy xem lại Câu [hỏi thường gặp của chúng tôi.](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-faq?WT.mc_id=Portal-Microsoft_Azure_Support)
 
 **Tôi nhận được thông báo lỗi**
 
-Xem lại bài viết này để tìm các lỗi thường gặp và giải pháp: [khắc phục sự cố đặt lại mật khẩu tự phục vụ](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-troubleshoot?WT.mc_id=Portal-Microsoft_Azure_Support)
+Xem lại bài viết này để tìm các lỗi thường gặp và giải pháp: Khắc phục [sự cố tự đặt lại mật khẩu](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-troubleshoot?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Tôi đang gặp sự cố với chính sách đặt lại mật khẩu của tôi**
+**Tôi đang gặp sự cố với chính sách đặt lại mật khẩu của mình**
 
-- Nếu chính sách đặt lại mật khẩu của bạn không phải là hành xử như mong muốn, hoặc nếu bạn có thắc mắc về chính sách đặt lại mật khẩu, hãy xem lại bài viết này: [chính sách mật khẩu và các hạn chế trong Azure Active Directory](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy?WT.mc_id=Portal-Microsoft_Azure_Support).
-- Các chính sách đặt lại mật khẩu không áp dụng cho người quản trị. Microsoft tham lực một chính sách đặt lại mật khẩu hai cổng mặc định mạnh cho bất kỳ vai trò người quản trị Azure nào. Hãy đảm bảo rằng bạn đang thử nghiệm với người dùng không phải là người quản trị. Để biết thêm thông tin về chính sách đặt lại người quản trị, hãy xem bài viết này: [sự khác biệt về chính sách đặt lại người quản trị](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy?WT.mc_id=Portal-Microsoft_Azure_Support#administrator-reset-policy-differences).
+- Nếu chính sách đặt lại mật khẩu của bạn không hoạt động như mong đợi hoặc nếu bạn có thắc mắc về chính sách đặt lại mật khẩu, hãy xem lại bài viết này: Chính sách mật khẩu và hạn chế [trong Azure Active Directory.](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Chính sách đặt lại mật khẩu không áp dụng cho người quản trị. Microsoft sẽ thực thi chính sách đặt lại mật khẩu hai cổng mặc định mạnh cho mọi vai trò người quản trị Azure. Đảm bảo rằng bạn đang thử nghiệm với người dùng không phải là người quản trị. Để biết thêm thông tin về chính sách đặt lại người quản trị, hãy xem bài viết sau: Sự [khác biệt về chính sách của người quản trị.](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy?WT.mc_id=Portal-Microsoft_Azure_Support#administrator-reset-policy-differences)
 
-**Tôi không muốn người dùng của mình đăng ký thông tin bảo mật bổ sung để đặt lại mật khẩu**
+**Tôi không muốn người dùng đăng ký thông tin bảo mật bổ sung cho việc đặt lại mật khẩu**
 
-Bạn có thể có dữ liệu sẵn (email và thuộc tính điện thoại) cho người dùng của bạn bằng cách dùng API, PowerShell hoặc Azure AD Connect. Để tìm hiểu cách đọc:
+Bạn có thể nhập trước dữ liệu (thuộc tính email và điện thoại) cho người dùng của mình bằng cách sử dụng API, PowerShell hoặc Azure AD Kết nối. Để tìm hiểu cách đọc:
 
-- [Triển khai việc đặt lại mật khẩu mà không yêu cầu người dùng đăng ký](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-data?WT.mc_id=Portal-Microsoft_Azure_Support#set-and-read-authentication-data-using-powershell)
-- [Việc đặt lại mật khẩu, dữ liệu nào được sử dụng](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-data?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Triển khai đặt lại mật khẩu mà không yêu cầu người dùng đăng ký](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-data?WT.mc_id=Portal-Microsoft_Azure_Support#set-and-read-authentication-data-using-powershell)
+- [Dữ liệu nào được dùng bằng cách đặt lại mật khẩu](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-data?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Tôi muốn người dùng của mình đăng ký thông tin bảo mật bổ sung của họ để đặt lại mật khẩu**
+**Tôi muốn người dùng của tôi đăng ký thông tin bảo mật bổ sung cho việc đặt lại mật khẩu**
 
-1. Có người dùng của bạn đăng ký thông tin bảo mật của họ để đặt lại mật khẩu tự phục vụ bằng cách hướng họ đến [aka.MS/ssprsetup](https://mysignins.microsoft.com/security-info).
-1. Sau khi dữ liệu được nhập cho người dùng (bởi người dùng hoặc người quản trị), hãy hướng dẫn người dùng của bạn đến [aka.MS/sspr](https://passwordreset.microsoftonline.com/) để người dùng của bạn có thể được quyền đặt lại mật khẩu của riêng họ.
-1. Nếu người dùng vẫn gặp vấn đề mà họ có **thể liên** kết hoặc **mật khẩu Hash** người dùng đồng bộ. Điều này có nghĩa là có vấn đề với dịch vụ Writeback mật khẩu.
+1. Yêu cầu người dùng đăng ký thông tin bảo mật của họ để tự đặt lại mật khẩu dịch vụ bằng cách hướng [họ aka.ms/ssprsetup.](https://mysignins.microsoft.com/security-info)
+1. Sau khi dữ liệu được cấp cho người dùng (bởi người dùng hoặc người quản trị), hãy hướng người dùng của bạn đến [aka.ms/sspr](https://passwordreset.microsoftonline.com/) để người dùng của bạn có thể được trao quyền đặt lại mật khẩu của riêng họ.
+1. Nếu người dùng vẫn gặp sự cố, nhiều khả năng họ **là người dùng** được liên kết hoặc đồng bộ hóa bằng **mật** khẩu. Điều này có nghĩa là có thể có sự cố với dịch vụ Password Writeback.

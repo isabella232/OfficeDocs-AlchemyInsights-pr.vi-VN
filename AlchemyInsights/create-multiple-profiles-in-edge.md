@@ -14,22 +14,22 @@ ms.custom:
 - "6976"
 - "9004596"
 - "8216"
-ms.openlocfilehash: 0c67e8e82199a40f820292fa7473d10a260c1367
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 6202e1aae10fd9a55c20748b7cd34588056fde45f1c4d5c429da651f7a9bb6a7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50897033"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54103430"
 ---
 # <a name="create-multiple-profiles-in-microsoft-edge"></a>Tạo nhiều hồ sơ trong Microsoft Edge
 
-Hồ sơ cho phép nhiều người dùng hoạt động trong môi trường dùng chung trong khi duy trì quyền truy nhập vào thiết đặt trình duyệt, thẻ đánh dấu và phần mở rộng được cá nhân hóa của họ. Để thêm nhiều hồ sơ trong Microsoft Edge, hãy làm theo các bước sau:
+Hồ sơ cho phép nhiều người dùng hoạt động trong môi trường chung trong khi vẫn duy trì quyền truy nhập vào cài đặt trình duyệt, thẻ đánh dấu và phần mở rộng được cá nhân hóa của họ. Để thêm nhiều hồ sơ trong một Microsoft Edge, hãy làm theo các bước sau:
 
-1. Khởi động Microsoft Edge.
-    - Nếu bạn không đăng nhập, hãy chọn biểu tượng hồ sơ > **đăng nhập**. Điều này sẽ tự động đưa bạn đến trang **quản lý thiết đặt hồ sơ** .
-    - Nếu bạn đã đăng nhập, hãy chọn biểu tượng hồ sơ > **quản lý các thiết đặt hồ sơ**.
-2. Chọn **hồ sơ > + thêm hồ sơ > thêm**.
-3. Chọn **đăng nhập để đồng bộ dữ liệu** để kết nối với một tài khoản hiện có.
-4. Chọn **có** để bật tính năng đồng bộ hóa đăng nhập, rồi chọn **xác nhận**.
+1. Bắt Microsoft Edge.
+    - Nếu bạn chưa đăng nhập, hãy chọn biểu tượng hồ sơ > **Đăng nhập**. Điều này sẽ tự động đưa bạn đến trang **Quản lý thiết đặt hồ** sơ.
+    - Nếu bạn đã đăng nhập, hãy chọn biểu tượng hồ sơ trong > **quản lý cài đặt hồ sơ.**
+2. Chọn **Hồ sơ > + Thêm hồ sơ > Thêm**.
+3. Chọn **Đăng nhập để đồng bộ dữ liệu** để kết nối với tài khoản hiện có.
+4. Chọn **Có** để bật đồng bộ đăng nhập, rồi chọn Xác **nhận**.
 
-    Bây giờ, Hồ sơ bổ sung có sẵn để sử dụng.
+    Hồ sơ bổ sung hiện đã sẵn có để sử dụng.
