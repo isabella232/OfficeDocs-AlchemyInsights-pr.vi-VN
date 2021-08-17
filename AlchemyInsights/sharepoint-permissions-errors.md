@@ -1,5 +1,5 @@
 ---
-title: Lỗi quyền đối với SharePoint
+title: SharePoint lỗi về quyền
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000156"
 - "2595"
-ms.openlocfilehash: 051d0d002394b4685b044f2ed15057f5f26b3024
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: ab3e2accbb9c2e765dd77fc64b92305dce748cd5da3bf0c6c6dd8414737c709f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826617"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54107669"
 ---
-# <a name="sharepoint-permissions-errors"></a>Lỗi quyền đối với SharePoint
+# <a name="sharepoint-permissions-errors"></a>SharePoint lỗi về quyền
 
-Có nhiều kịch bản có thể nhắc một trong các thư này. Thông thường nhất, quyền đối với người dùng hoặc người quản trị được cấu hình không đúng hoặc không được cấu hình. 
+Có nhiều kịch bản có thể nhắc một trong những thông báo này. Thông thường, các quyền dành cho người dùng hoặc người quản trị được cấu hình không chính xác hoặc không được cấu hình hoàn toàn. 
 
-Để biết thêm thông tin, vui lòng xem "[Access bị từ chối", "bạn cần quyền truy nhập vào trang web này" hoặc "không tìm thấy người dùng trong thư mục" lỗi trong SharePoint Online và OneDrive for Business](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business).
+Để biết thêm thông tin, vui lòng xem mục "Truy nhập Bị từ[chối", "Bạn](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)cần quyền truy nhập vào site này" hoặc lỗi "Người dùng không tìm thấy trong thư mục" trong SharePoint Online và OneDrive for Business.

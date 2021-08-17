@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "6034"
 - "9001470"
-ms.openlocfilehash: 474672131cb7e9f52029eb8976691a305396a9b8
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: f2f71234c5f9cd41692031b679c987bf6c108cc4c50f8d4f95f72da42fea73c7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52543986"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54107147"
 ---
 # <a name="software-inventory-is-missing-or-inaccurate"></a>Kiểm kê phần mềm bị thiếu hoặc không chính xác
 
-Kiểm kê phần mềm trong dịch ATP của Bộ bảo vệ Microsoft cung cấp tên sản phẩm hoặc nhà cung cấp, số phiên bản mới nhất của nó và phát hiện ra các lỗ hổng và lỗ hổng. Để biết thêm thông tin, xem [mục Kiểm kê phần mềm - Quản lý Mối đe dọa và Lỗ hổng.](/windows/security/threat-protection/microsoft-defender-atp/tvm-software-inventory)
+Hàng tồn kho phần mềm trong dịch vụ ATP của Bộ bảo vệ Microsoft cung cấp tên sản phẩm hoặc nhà cung cấp, số phiên bản mới nhất của phần mềm và phát hiện ra các lỗ hổng và lỗ hổng. Để biết thêm thông tin, xem [mục Kiểm kê phần mềm - Quản lý Mối đe dọa và Lỗ hổng.](/windows/security/threat-protection/microsoft-defender-atp/tvm-software-inventory)
 
 Bạn có thể báo cáo thông tin mơ hồ hoặc không đầy đủ, số phiên bản không chính xác hoặc thông tin kiểm kê phần mềm đã khắc phục bằng cách làm theo các bước sau.  
 

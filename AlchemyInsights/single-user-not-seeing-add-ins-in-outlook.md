@@ -1,5 +1,5 @@
 ---
-title: Một người dùng không nhìn thấy phần bổ trợ trong Outlook
+title: Một người dùng không nhìn thấy các phần bổ trợ trong Outlook
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -11,17 +11,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
-ms.openlocfilehash: 8c99b443a2d83f3ac24362d63cd6363a66a81393
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 647a17bb5220d3591934c4f53cf417d42810b2c1a681bafd3e2d703abbfcbc64
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47719687"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54050680"
 ---
-# <a name="single-user-not-seeing-add-ins-in-outlook"></a>Một người dùng không nhìn thấy phần bổ trợ trong Outlook
+# <a name="single-user-not-seeing-add-ins-in-outlook"></a>Một người dùng không nhìn thấy các phần bổ trợ trong Outlook
 
-Người dùng có thể là một phần của một vai trò không có tham số kích hoạt Appsforofficeđúng. Chạy lệnh ghép ngắn này để tìm hiểu xem vai trò chính xác được liên kết với người dùng không:
+Người dùng có thể là một phần của vai trò không có tham số AppsForOfficeEnabled chính xác. Chạy lệnh ghép ngắn này để tìm hiểu xem vai trò chính xác có được liên kết với người dùng hay không:
 
-Get-Managementrolegán-RoleAssignee user@domain.com-Deletưới $false | Định dạng-đóng vai trò tự động, RoleAssigneeName, RoleAssigneeType
+Get-ManagementRoleAssignment -RoleAssignee user@domain.com -Ủy quyền $false | Format-Table -Auto Role,RoleAssigneeName,RoleAssigneeType
 
-Để biết thêm thông tin, hãy xem [mục xác định người quản trị và người dùng có thể cài đặt và quản lý các phần bổ trợ cho Outlook](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/add-ins-for-outlook/specify-who-can-install-and-manage-add-ins).
+Để biết thêm thông tin, xem mục Chỉ định người quản trị và người dùng có thể cài đặt và [quản lý phần bổ trợ cho Outlook.](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/add-ins-for-outlook/specify-who-can-install-and-manage-add-ins)

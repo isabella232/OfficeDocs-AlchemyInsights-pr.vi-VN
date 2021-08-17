@@ -1,5 +1,5 @@
 ---
-title: Cấu trúc site và nội dung bị loại bỏ
+title: Đã loại bỏ cấu trúc site và nội dung
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -8,20 +8,20 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 55060d5c-fb1c-4812-bc66-181a7aa2cdea
-ms.openlocfilehash: 0e00cdc67a27afc210e3b017a7229b39a1598fab
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1ab61c0203b1e91e9851482ccf5b093ccb97db2588c6af424cbf24c51e7fbcda
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47719543"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54050464"
 ---
-# <a name="site-and-content-structure-removed"></a>Cấu trúc site và nội dung bị loại bỏ
+# <a name="site-and-content-structure-removed"></a>Đã loại bỏ cấu trúc site và nội dung
 
-Bắt đầu từ tháng mười 2018, trang nội dung site và cấu trúc sẽ không còn được hỗ trợ hoặc nhận bản cập nhật tính năng. Liên kết thiết đặt đến trang SiteManager. aspx sẽ bị loại bỏ khỏi SharePoint Online và Access trực tiếp sẽ được giới hạn đối với người quản trị tuyển tập trang cho đến ngày 2019 tháng 3, tại thời điểm đó trang nội dung site và cấu trúc sẽ được hoàn toàn ngừng hoạt động. 
+Bắt đầu từ tháng 10 năm 2018, trang Nội dung và Cấu trúc site sẽ không còn được hỗ trợ hoặc nhận các bản cập nhật tính năng. Liên kết thiết đặt đến trang SiteManager.aspx sẽ bị loại bỏ khỏi SharePoint Online và quyền truy nhập trực tiếp sẽ bị hạn chế đối với Người quản trị tuyển tập site cho đến tháng Ba năm 2019, tại thời điểm đó, trang Nội dung và Cấu trúc Site sẽ ngừng hoạt động hoàn toàn. 
 
-Lưu ý: khi một giải pháp thay thế cho đến khi tính năng này đã ngừng hoạt động, người quản trị tuyển tập trang có thể dẫn hướng đến Trung tâm quản trị Microsoft 365, hãy chọn ô SharePoint và chắp thêm hoặc sửa URL bằng cách thay thế '/SharePoint.aspx ' với '/Sitemanager.aspx '. 
+Lưu ý: Như một giải pháp thay thế cho đến khi tính năng này hoàn toàn ngừng hoạt động, Người quản trị Tuyển tập Site có thể dẫn hướng đến Trung tâm quản trị Microsoft 365, chọn ô SharePoint và nối hoặc sửa URL bằng cách thay thế '/Sharepoint.aspx' bằng '/Sitemanager.aspx'. 
 
 
-Sử dụng di chuyển tệp và sao chép để quản lý nội dung và cấu trúc trang. Để biết thêm thông tin, hãy xem [sao chép tệp và thư mục giữa các site OneDrive và SharePoint](https://support.office.com/article/copy-files-and-folders-between-onedrive-and-sharepoint-sites-67a6323e-7fd4-4254-99a8-35613492a82f). 
+Dùng Di chuyển và Sao chép Tệp để quản lý nội dung và cấu trúc site. Để biết thêm thông tin, hãy [xem mục Sao chép tệp và thư mục giữa các OneDrive và SharePoint site.](https://support.office.com/article/copy-files-and-folders-between-onedrive-and-sharepoint-sites-67a6323e-7fd4-4254-99a8-35613492a82f) 
 
-Để biết thêm thông tin, vui lòng tham khảo mục [làm việc với nội dung và cấu trúc trang](https://support.office.com/article/Work-with-site-content-and-structure-30fcaad9-02b1-4347-8b03-e1ccc5a4c19f).
+Để biết thêm thông tin, vui lòng tham khảo phần [Làm việc với nội dung và cấu trúc site](https://support.office.com/article/Work-with-site-content-and-structure-30fcaad9-02b1-4347-8b03-e1ccc5a4c19f).

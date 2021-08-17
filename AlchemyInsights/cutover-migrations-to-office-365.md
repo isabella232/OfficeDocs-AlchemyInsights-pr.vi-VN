@@ -1,5 +1,5 @@
 ---
-title: Di chuyển chuyển giao cho Microsoft
+title: Di chuyển chuyển giao sang Microsoft
 ms.author: dstrome
 author: dstrome
 manager: dansimp
@@ -12,14 +12,14 @@ localization_priority: Priority
 ms.custom:
 - "695"
 - "3500010"
-ms.openlocfilehash: 79a2c02429915e1cd9354109cf39bbecb3fec821
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8fc2078836520016cd97677a03ed6d5e3ce9abfa65a5d815060630c222e1d3d8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47731765"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54079904"
 ---
 # <a name="cutover-migrations"></a>Di chuyển chuyển giao
 
-Khi bạn đăng ký Microsoft 365, bạn có thể di chuyển nội dung của hộp thư người dùng từ tổ chức Exchange tại cơ sở. Khi bạn thực hiện tất cả cùng một lúc, nó được gọi là di chuyển chuyển giao. Di chuyển chuyển giao có thể phù hợp với bạn nếu bạn đang chạy phiên bản Exchange được hỗ trợ và có ít hơn các hộp thư 2.000. Để tìm hiểu thêm về di chuyển chuyển giao, hãy xem [qua mục: di chuyển email bằng phương pháp trao đổi của Exchange](https://docs.microsoft.com/Exchange/mailbox-migration/cutover-migration-to-office-365).
+Khi bạn đăng ký để Microsoft 365, bạn có thể di chuyển nội dung của hộp thư người dùng từ một tổ chức Exchange cơ sở. Khi bạn làm toàn bộ việc này cùng một lúc, nó được gọi là di chuyển chuyển giao. Di chuyển chuyển giao có thể phù hợp với bạn nếu bạn đang chạy phiên bản hỗ trợ của Exchange và có ít hơn 2.000 hộp thư. Để tìm hiểu thêm về di chuyển chuyển giao, hãy xem: Di chuyển [email bằng phương pháp Exchange chuyển giao](https://docs.microsoft.com/Exchange/mailbox-migration/cutover-migration-to-office-365).
   
