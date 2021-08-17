@@ -1,5 +1,5 @@
 ---
-title: Chia sẻ màn hình với các nhóm
+title: Chia sẻ màn hình với Teams
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,19 +11,19 @@ ms.custom: ''
 ms.assetid:
 - "9002254"
 - "4358"
-ms.openlocfilehash: da0259043dba88445f77a096e23e360343d103cc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fd57ded1f8a06215590fd54fa1c84801ab1e4ace3629dbffa2d08026139a96fd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47774157"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54086510"
 ---
-# <a name="screen-sharing-with-teams"></a>Chia sẻ màn hình với các nhóm
+# <a name="screen-sharing-with-teams"></a>Chia sẻ màn hình với Teams
 
 Chia sẻ màn hình cho phép người dùng trình bày một màn hình hoặc ứng dụng trong cuộc họp hoặc cuộc trò chuyện.
 
-- [Cấu hình tính năng chia sẻ màn hình nền trong Microsoft nhóm](https://docs.microsoft.com/microsoftteams/configure-desktop-sharing). **Lưu ý**: có thể có một sự chậm trễ để thiết đặt chính sách có hiệu lực. 
+- [Cấu hình chia sẻ màn hình Microsoft Teams](https://docs.microsoft.com/microsoftteams/configure-desktop-sharing). **Lưu** ý : có thể có sự chậm trễ khi thiết đặt chính sách có hiệu lực. 
 
-- [Tìm hiểu về những cách khác nhau mà](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#meeting-policy-settings---content-sharing) người dùng có thể sử dụng tính năng chia sẻ màn hình. 
+- [Tìm hiểu những cách khác nhau mà người dùng có](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#meeting-policy-settings---content-sharing) thể sử dụng tính năng Chia sẻ màn hình. 
 
-- Nếu người dùng đang gặp vấn đề về chia sẻ màn hình, hãy xem lại [tài nguyên khắc phục sự cố](https://docs.microsoft.com/microsoftteams/connectivity-issues). 
+- Nếu người dùng gặp sự cố chia sẻ màn hình, hãy xem lại các [tài nguyên khắc phục sự cố.](https://docs.microsoft.com/microsoftteams/connectivity-issues) 

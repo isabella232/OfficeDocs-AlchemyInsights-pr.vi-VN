@@ -1,5 +1,5 @@
 ---
-title: Thông tin bổ trợ chung của Outlook
+title: Thông tin Outlook bổ trợ chung
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003117"
 - "5902"
-ms.openlocfilehash: 308c53545a73b5c2ea9052e04a29773b586dc86b
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+ms.openlocfilehash: 790de41737c2915969a7a5a2300213559f08b2ae2f9c3e900b96e0e25fb9c06a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49679973"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116966"
 ---
-# <a name="general-outlook-add-ins-information"></a>Thông tin bổ trợ chung của Outlook
+# <a name="general-outlook-add-ins-information"></a>Thông tin Outlook bổ trợ chung
 
-Truy nhập trang web này cho tài nguyên tài liệu toàn bộ của bạn liên quan đến [việc xây dựng](https://docs.microsoft.com/office/dev/add-ins/outlook/)các phần bổ trợ Outlook.
+Hãy truy nhập website này để biết tài nguyên hướng dẫn toàn bộ về [việc xây Outlook bổ trợ.](https://docs.microsoft.com/office/dev/add-ins/outlook/)
 
-Đối với các tài nguyên bổ sung liên quan đến việc quản lý, triển khai và bật phần bổ trợ, hãy xem:
+Để biết các tài nguyên bổ sung về quản lý, triển khai và bật phần bổ trợ, hãy xem:
 
-- [Xác định xem việc triển khai phần bổ trợ tập trung cho tổ chức của bạn](https://docs.microsoft.com/microsoft-365/admin/manage/centralized-deployment-of-add-ins).
+- [Xác định Triển khai Tập trung các phần bổ trợ có hoạt động đối với tổ chức của bạn không.](https://docs.microsoft.com/microsoft-365/admin/manage/centralized-deployment-of-add-ins)
 - [Quản lý việc triển khai các phần bổ trợ trong Trung tâm quản trị Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/manage/manage-deployment-of-add-ins)
-- [Xác định người quản trị và người dùng có thể cài đặt và quản lý các phần bổ trợ cho Outlook](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/add-ins-for-outlook/specify-who-can-install-and-manage-add-ins)
+- [Chỉ định người quản trị và người dùng có thể cài đặt và quản lý các phần bổ trợ dành cho Outlook](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/add-ins-for-outlook/specify-who-can-install-and-manage-add-ins)

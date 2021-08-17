@@ -11,29 +11,28 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 2491
 ms.assetid: ''
-ms.openlocfilehash: ac4c157d6e202488659c56605768bbfd2b3af8e658d0a2f82e529fdac6763fa9
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 2e24f489292f38b5e9cacc8b9bfe5730ebfc71ce5e3004be479134ef6c791a12
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53999694"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57899354"
 ---
-# <a name="alert-email-messages-from-the-phish-delivered-due-to-tenant-or-user-override-policy"></a>Cảnh báo email từ chính sách 'Chuyển phát thư lừa đảo do đối tượng thuê hoặc người dùng ghi đè'
+# <a name="alert-email-messages-from-the-phish-delivered-due-to-tenant-or-user-override-policy"></a>Cảnh báo email từ chính sách 'Chuyển phát qua mạng do đối tượng thuê hoặc người dùng ghi đè'
 
-Chính sách cảnh báo mặc định có tên "Giao hàng qua mạng do đối tượng thuê hoặc người dùng ghi đè" đã được triển khai cho các đối tượng thuê có giấy phép Microsoft Defender dành cho Office 365 P1 và P2. Nếu bạn nhận được cảnh báo này, dưới đây là các bước để điều tra:
+Một chính sách cảnh báo mặc định có tên **Là** lừa đảo qua mạng do đối tượng thuê hoặc người dùng ghi đè sẵn dùng trong các tổ chức có giấy phép Microsoft Defender Office 365 P1 và P2. Nếu bạn nhận được cảnh báo này, dưới đây là các bước để điều tra:
 
-1. Từ thông báo cảnh báo, hãy **bấm Xem Cảnh** báo để đến trang Cảnh báo **trong** Trung tâm Tuân & Chính sách Bảo mật.
+1. Từ thông báo cảnh báo, bấm **Xem Cảnh** báo để đến trang Cảnh **báo trong** cổng thông Bộ bảo vệ Microsoft 365 chính.
 
 2. Chọn cảnh báo để xem tùy chọn Xem **danh sách thư hoặc** Xem thư trong **Explorer**. Cả hai tùy chọn này sẽ đưa bạn đến chi tiết của thư, trong đó có ID Thông báo. Lưu ý rằng liên kết Trình khám phá Mối đe dọa sẽ tự động lọc các thư khớp với tiêu chí cảnh báo. Bạn có thể cần điều chỉnh bộ lọc ngày trong Trình khám phá Mối đe dọa.
 
 Thư lừa đảo đã được chuyển phát do thay thế được cấu hình theo cách thủ công:
 
-- Người dùng được phép đặt tên miền hoặc người dùng.
-
-- Người gửi hoặc tên miền được phép thiết lập bởi người quản trị trong chính sách chống thư rác.
-
+- Người gửi hoặc tên miền được phép thiết lập bởi người dùng.
+- Người gửi hoặc tên miền được phép được thiết lập bởi người quản trị trong chính sách chống thư rác.
 - Địa chỉ IP được cho phép trong chính sách bộ lọc kết nối.
-
 - Quy tắc dòng thư (còn được gọi là quy tắc truyền tải) được cấu hình để cho phép thư nhập.
 
-Nếu bạn cho rằng thư đã được đánh dấu sai [](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) là thư lừa đảo qua điện thoại, hãy sử dụng phần bổ trợ Outlook Báo cáo để gửi mẫu thư đến Microsoft.
+Nếu bạn cho rằng thư đã bị đánh dấu sai là thư lừa đảo qua mạng, hãy sử dụng bản [gửi của Người quản](https://docs.microsoft.com/microsoft-365/security/office-365-security/admin-submission) trị để báo cáo thư tới Microsoft.
+
+Người dùng có thể [sử dụng](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) phần bổ trợ Thông báo Báo cáo hoặc phần bổ trợ Báo cáo Lừa đảo qua Outlook để gửi mẫu thư đến Microsoft.

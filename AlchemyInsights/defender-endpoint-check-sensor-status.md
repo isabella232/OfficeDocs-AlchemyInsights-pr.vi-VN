@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11084"
 - "9003537"
-ms.openlocfilehash: 4943287fe010aacc456670105761b0e8e6b4269ce24086bc5000c9ccc916c8f8
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: cefebe63e45caab176ba84a35280378ace7e6b3115c48694ed043a39b4d93c1e
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53994239"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57890076"
 ---
 # <a name="defender-endpoint-check-sensor-status"></a>Trạng thái cảm biến kiểm tra điểm cuối của Bộ bảo vệ
 
@@ -34,12 +34,12 @@ Bấm vào bất kỳ nhóm nào sẽ hướng bạn đến danh sách Thiết b
 - **Hiện hoạt** Các thiết bị đang tích cực báo cáo cho Bộ bảo vệ dành cho dịch vụ Điểm cuối.
 - **Đã cấu hình sai** Các thiết bị có thể báo cáo một phần dữ liệu cảm biến tới Bộ bảo vệ dành cho dịch vụ Điểm cuối nhưng gặp các lỗi về cấu hình cần được sửa. Thiết bị bị cấu hình sai có thể có một hoặc một sự cố kết hợp các vấn đề sau đây:
 
-    - Không có dữ liệu cảm biến - Thiết bị đã ngừng gửi dữ liệu cảm biến. Các cảnh báo giới hạn có thể được kích hoạt từ thiết bị.
+    - Không có dữ liệu cảm biến - Thiết bị đã ngừng gửi dữ liệu cảm biến. Có thể kích hoạt cảnh báo hạn chế từ thiết bị.
     - Giao tiếp bị khiếm khuyết - Khả năng giao tiếp với thiết bị suy giảm. Gửi tệp để phân tích chuyên sâu, chặn tệp, cách ly thiết bị khỏi mạng và các hành động khác yêu cầu liên lạc với thiết bị có thể không hoạt động.
 - **Không hoạt động** Các thiết bị đã ngừng báo cáo với Bộ bảo vệ dành cho dịch vụ Điểm cuối.
 
 Bạn có thể tải xuống toàn bộ danh sách ở định dạng CSV bằng cách sử dụng tính năng Xuất.
 
-Để biết thêm thông tin, xem [mục Kiểm tra trạng thái cảm biến trong Bộ bảo vệ Microsoft dành cho Điểm cuối](/microsoft-365/security/defender-endpoint/check-sensor-status).
+Để biết thêm thông tin, xem [mục Kiểm tra trạng thái cảm biến trong Bộ bảo vệ Microsoft dành cho Điểm cuối](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/check-sensor-status).
 
-Để biết thêm thông tin về nguyên nhân thiết bị không hoạt động hoặc cấu hình sai, xem mục Khắc phục các cảm biến không tốt trong Bộ bảo [vệ Microsoft dành](/microsoft-365/security/defender-endpoint/fix-unhealthy-sensors)cho Điểm cuối .
+Để biết thêm thông tin về nguyên nhân thiết bị không hoạt động hoặc cấu hình sai, xem mục Khắc phục các cảm biến không tốt trong Bộ bảo [vệ Microsoft dành](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/fix-unhealthy-sensors)cho Điểm cuối .
