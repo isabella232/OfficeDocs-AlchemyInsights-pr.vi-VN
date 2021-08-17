@@ -1,5 +1,5 @@
 ---
-title: Không đủ quyền của người dùng
+title: Không đủ quyền người dùng
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002274"
 - "4492"
-ms.openlocfilehash: b036c7c958f5ca02d035eecc4a31d1c610276871
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f2927f20cd0607cc7a8f9902d3464c863fa9849aa518edc7061bb2dcf81cc534
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51824133"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54055072"
 ---
-# <a name="insufficient-user-permissions"></a>Không đủ quyền của người dùng
+# <a name="insufficient-user-permissions"></a>Không đủ quyền người dùng
 
-Sự cố này xảy ra khi điều [kiện tiên quyết bắt buộc](https://docs.microsoft.com/configmgr/tenant-attach/device-sync-actions#prerequisites) không được đáp ứng. Vui lòng đảm bảo rằng người dùng có quyền **thông báo cho tài nguyên** trong nhóm đối tượng **tuyển tập** trong trình quản lý cấu hình.
+Sự cố này xảy ra khi [các điều kiện tiên quyết bắt buộc không](https://docs.microsoft.com/configmgr/tenant-attach/device-sync-actions#prerequisites) được đáp ứng. Vui lòng đảm bảo rằng người dùng có quyền **Thông báo Tài nguyên** theo lớp đối tượng **Tuyển** tập trong Trình quản lý Cấu hình.

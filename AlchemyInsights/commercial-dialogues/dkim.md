@@ -1,5 +1,5 @@
 ---
-title: Hàm MKIM (DomainKeys được nhận dạng thư)
+title: DKIM (Thư được Xác định bởi DomainKeys)
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 509cd2db33a84f93baf3f53d1ae66aee28c62051
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: a56513d727517a799f0a415b8bcb777cd2b26dec677f1990a6caf4b2090f660b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50751120"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54058924"
 ---
-# <a name="dkim-domainkeys-identified-mail"></a>Hàm MKIM (DomainKeys được nhận dạng thư)
+# <a name="dkim-domainkeys-identified-mail"></a>DKIM (Thư được Xác định bởi DomainKeys)
 
-DomainKeys được nhận dạng thư (MKIM) là một giao thức cho phép một tổ chức chịu trách nhiệm truyền thư theo cách có thể được xác nhận bởi nhà cung cấp dịch vụ hộp thư. Xác nhận này được thực hiện có thể thông qua xác thực mã hóa.
+Thư được Xác định bởi DomainKeys (DKIM) là giao thức cho phép tổ chức chịu trách nhiệm truyền thư theo cách có thể được nhà cung cấp hộp thư xác nhận. Việc xác minh này có thể thực hiện thông qua xác thực mã hóa.

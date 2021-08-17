@@ -1,5 +1,5 @@
 ---
-title: Điều tra tính phí thanh toán từ Microsoft hoặc MSbill dot info
+title: Điều tra một Khoản phí Thanh toán từ Microsoft hoặc thông tin dot MSbill
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000008"
 - "1993"
-ms.openlocfilehash: 3b1409ba54da2354933e9202af9501868d9b1c90
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2a6edab560edf98ff77a8cfad8582d8010f32e180a5868cab720aae6751f0c14
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51833205"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54055000"
 ---
-# <a name="investigate-a-billing-charge-from-microsoft-or-msbill-dot-info"></a>Điều tra tính phí thanh toán từ Microsoft hoặc MSbill dot info
+# <a name="investigate-a-billing-charge-from-microsoft-or-msbill-dot-info"></a>Điều tra khoản phí thanh toán từ Microsoft hoặc thông tin dot MSbill
 
-Xem lại [cách điều tra tính phí thanh toán từ Microsoft hoặc MSbill.info](https://support.microsoft.com/help/10623/microsoft-account-investigate-billing-charge), để nhận các mẹo về: 
+Xem [lại Cách kiểm tra khoản phí thanh toán từ Microsoft hoặc MSbill.info](https://support.microsoft.com/help/10623/microsoft-account-investigate-billing-charge), để nhận các mẹo về: 
 
-- Xem [lịch sử đơn hàng](https://account.microsoft.com/billing/orders/) từ tài khoản của bạn để so sánh tài khoản của bạn với tính phí trong câu hỏi.
+- Xem lịch sử [đơn hàng từ](https://account.microsoft.com/billing/orders/) tài khoản của bạn để so sánh tài khoản của bạn với khoản phí được đề cập.
 
-- Xem các **nguyên nhân phổ biến** cho phí không mong muốn và những điều bạn có thể thực hiện.
+- Xem các **nguyên nhân phổ biến** gây ra các khoản phí ngoài dự phòng và những điều bạn có thể làm.
 
-**Lưu ý**: nếu bạn có nhiều hơn một tài khoản Microsoft, hãy đăng nhập vào mỗi người để kiểm tra lịch sử đơn hàng của bạn.
+**Lưu** ý: Nếu bạn có nhiều tài khoản Microsoft, hãy đăng nhập vào từng tài khoản để kiểm tra lịch sử đơn hàng của bạn.

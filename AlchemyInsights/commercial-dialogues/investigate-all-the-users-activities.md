@@ -13,26 +13,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: 5375efe4998ee8720867b77a8c9ed60e3eda92e5b00fd3b6e93c0afab09fec2b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d05c8f02efc3bb92865880ea4a2338abaf7d70254f0b4bbfb566423e62b391dd
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53949409"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898818"
 ---
 # <a name="investigate-all-the-users-activities"></a>Điều tra tất cả các hoạt động của người dùng
 
 Dưới đây là cách thực hiện:
 
-1. Đi đến Trung [tâm Bảo & Tuân thủ.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-1. Chọn Tìm **kiếm Tìm** kiếm Nhật ký  >  **[kiểm tra](https://go.microsoft.com/fwlink/?linkid=2103759)**.
+1. Thực hiện một trong các thao tác sau:
+   - Trong trang Trung tâm tuân thủ Microsoft 365 , <https://compliance.microsoft.com> đi đến Kiểm tra **Giải** \> **pháp**. Hoặc để đi trực tiếp đến trang **Kiểm tra,** sử dụng <https://compliance.microsoft.com/auditlogsearch> .
+   - Trong cổng thông Bộ bảo vệ Microsoft 365 tại <https://security.microsoft.com> , đi tới Kiểm **tra**. Hoặc để đi trực tiếp đến trang **Kiểm tra,** sử dụng <https://security.microsoft.com/auditlogsearch> .
+
     > [!NOTE]
     > Nếu bạn thấy thông báo rằng bạn cần bật tính năng này, hãy tiếp tục và bật tính năng ngay bây giờ. Nếu tính năng này không bật, kết quả tìm kiếm sẽ không thể lấy dữ liệu từ ngày trước đó.
 
-1. Nếu bạn quan tâm đến một hoạt động cụ thể, hãy chọn hoạt động đó từ danh **sách Hoạt** động. Nếu không, theo mặc định, tất cả các hoạt động sẽ được trả về cho người dùng đã chọn.
-1. Xác định phạm vi ngày, sau đó trong hộp **Người dùng,** hãy chọn tên người dùng cho người dùng mà bạn muốn điều tra. Bạn có thể chọn nhiều người dùng cùng lúc.
-1. Bấm Tìm **kiếm.** Các hoạt động xuất hiện bên dưới **Kết quả**. Bạn sẽ thấy địa chỉ IP, người dùng và tên hoạt động.
-1. Để tải xuống kết quả, hãy chọn **Xuất Kết quả**.
-1. Để xem lại chi tiết, hãy chọn hoạt động, rồi bung rộng **Thêm thông tin**.
+2. Trên tab Tìm **kiếm** của trang Kiểm **tra,** hãy cấu hình các thiết đặt sau:
+   - **Phạm vi ngày và giờ**: Chọn phạm vi ngày/giờ trong hộp Bắt **đầu** **và Kết** thúc.
+   - **Hoạt** động: Nếu bạn quan tâm đến một hoạt động cụ thể, hãy chọn hoạt động đó từ danh sách; nếu không, giá trị mặc định Hiển **thị kết quả cho tất cả các hoạt động sẽ** trả về tất cả các hoạt động.
+   - **Người dùng:** Chấp nhận giá trị mặc định trống để trả về kết quả cho tất cả người dùng hoặc nhập một hoặc nhiều người dùng.
 
-Để tìm hiểu thêm, hãy xem Tìm [kiếm nhật ký kiểm tra để khắc phục sự cố các kịch bản phổ biến](https://go.microsoft.com/fwlink/?linkid=2103944).
+3. Khi bạn hoàn tất, hãy bấm Tìm **kiếm.** Các hoạt động sẽ xuất hiện trên trang **Tìm kiếm kiểm tra** mới. Bạn sẽ thấy địa chỉ **IP**, Người **dùng và** tên **Hoạt** động.
+
+4. Để tải xuống kết quả, hãy chọn Xuất **Tải xuống** tất cả \> **kết quả**.
+
+5. Chọn một hoạt động trong kết quả để mở hộp bật lên chi tiết.
+
+Để tìm hiểu thêm, hãy xem Tìm [kiếm nhật ký kiểm tra để điều tra các sự cố hỗ trợ phổ biến.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios)

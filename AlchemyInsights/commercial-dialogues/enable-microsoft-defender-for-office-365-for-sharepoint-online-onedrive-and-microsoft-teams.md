@@ -1,5 +1,5 @@
 ---
-title: Bật Microsoft Defender cho Office 365 cho SharePoint Online, OneDrive và Microsoft nhóm
+title: Bật Bộ bảo vệ Microsoft dành Office 365 cho SharePoint Online, OneDrive và Microsoft Teams
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 1c29afdcc52e7032fea22d698371677918665fa9
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: db79c1d79ddb9bc92f0601ac156e5e41a8ab83cd603556f191d5491cdd5ae2a3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747735"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54058888"
 ---
-# <a name="enable-microsoft-defender-for-office-365-for-sharepoint-online-onedrive-and-microsoft-teams"></a>Bật Microsoft Defender cho Office 365 cho SharePoint Online, OneDrive và Microsoft nhóm
+# <a name="enable-microsoft-defender-for-office-365-for-sharepoint-online-onedrive-and-microsoft-teams"></a>Bật Bộ bảo vệ Microsoft dành Office 365 cho SharePoint Online, OneDrive và Microsoft Teams
 
-1. Sử dụng danh mục quản trị toàn cầu hoặc thông tin xác thực của người quản trị bảo mật, hãy đăng nhập vào [Trung tâm bảo mật và tuân thủ của Office 365](https://protection.office.com/).
-2. Chọn **quản lý mối đe dọa** trong ngăn bên trái, rồi chọn **chính sách**  >  [tệp đính kèm an toàn](https://protection.office.com/safeattachment).
-3. Chọn **bật Microsoft Defender cho Office 365 cho SharePoint, OneDrive và Microsoft nhóm**, rồi chọn **lưu**.
+1. Sử dụng thông tin xác thực người quản trị toàn cầu hoặc người quản trị bảo mật của bạn, đăng [nhập vào Office 365 tâm Bảo mật và Tuân thủ](https://protection.office.com/).
+2. Chọn **Quản lý mối đe** dọa trong ngăn bên trái, rồi chọn Chính sách **Két sắt**  >  [kèm](https://protection.office.com/safeattachment).
+3. Chọn **Bật Bộ bảo vệ Microsoft cho Office 365 cho SharePoint, OneDrive và Microsoft Teams**, sau đó chọn **Lưu**.
     > [!TIP]
     >
-    > - Với tư cách là người quản trị toàn cầu hoặc người quản trị SharePoint Online, hãy chạy lệnh ghép ngắn PowerShell sau đây để đặt tham số **tải xuống** dành cho các đối tượng là *True*: [Set-spothuê](https://go.microsoft.com/fwlink/?linkid=2092301)
-    > - [Thiết lập cảnh báo cho các tệp đã phát hiện](https://go.microsoft.com/fwlink/?linkid=2092110)
+    > - Với tư cách là người quản trị toàn cầu hoặc người quản trị SharePoint Online, hãy chạy lệnh ghép ngắn PowerShell sau đây với tham số **DisallowInfectedFileDownload** được đặt thành *true:* [Set-SPOTenant](https://go.microsoft.com/fwlink/?linkid=2092301)
+    > - [Thiết lập cảnh báo cho các tệp được phát hiện](https://go.microsoft.com/fwlink/?linkid=2092110)
 
-Để biết thêm thông tin, hãy xem mục [Microsoft Defender dành cho Office 365 cho SharePoint, OneDrive và các nhóm Microsoft](https://go.microsoft.com/fwlink/?linkid=2092041).
+Để biết thêm thông tin, xem [mục Bộ bảo vệ Microsoft Office 365 để biết SharePoint, OneDrive và Microsoft Teams.](https://go.microsoft.com/fwlink/?linkid=2092041)

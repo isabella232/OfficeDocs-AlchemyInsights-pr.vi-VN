@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002578"
 - "4996"
-ms.openlocfilehash: 2e8bda03ffad21e8c7bedd132dc5c18e9e553c21076a149351cc8d86d19b4d60
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d01f91a4b5fefd881f71f92321537d938fdb1850bb5b163738e4322312d7f02b
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53917085"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898990"
 ---
 # <a name="change-the-default-link-type-for-a-site"></a>Thay đổi kiểu nối kết mặc định cho một site
 
-Người dùng có thể chia sẻ tệp và thư mục trong SharePoint và OneDrive bằng cách gửi liên kết. Họ nên chọn loại liên kết dựa trên những người mà họ muốn cấp quyền.
+Người dùng có thể chia sẻ tệp và thư mục SharePoint và OneDrive mình bằng cách gửi liên kết. Họ nên chọn loại liên kết dựa trên những người mà họ muốn cấp quyền.
 
-Để biết thêm thông tin, [hãy xem mục Thay đổi loại liên kết mặc định cho một site](/sharepoint/change-default-sharing-link).
+Để biết thêm thông tin, [hãy xem mục Thay đổi loại liên kết mặc định cho một site](https://docs.microsoft.com/sharepoint/change-default-sharing-link).

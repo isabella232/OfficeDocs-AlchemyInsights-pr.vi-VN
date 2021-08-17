@@ -17,12 +17,12 @@ ms.custom:
 - "1200012"
 - "4714"
 - "4715"
-ms.openlocfilehash: 133b4dab80a69c7c47e1193e6109551ca665552fbf9168dde8be14096336efe5
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 0b99e1e6547fc94e9203997aa8e3fa7465b128add22821ece190995d0aaf8f3f
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54498994"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898914"
 ---
 # <a name="change-your-billing-address"></a>Thay đổi địa chỉ thanh toán của bạn
 
@@ -30,12 +30,12 @@ Hóa đơn của bạn có chứa ba địa chỉ.
 
 **Thay đổi địa chỉ thanh toán cho một phương thức thanh toán**
 
-1. Trong trung tâm quản trị, đi tới Thanh **toán > Phương thức thanh [toán](https://go.microsoft.com/fwlink/p/?linkid=2018806)**.
+1. Trong trung tâm quản trị, đi tới **Thanh toán > Phương thức thanh [toán](https://go.microsoft.com/fwlink/p/?linkid=2018806)**.
 2. Chọn thẻ tín dụng hoặc tài khoản ngân hàng mà bạn muốn thay đổi.
 3. Trên trang Chi **tiết phương thức thanh toán,** bấm vào Chỉnh **sửa**.
 4. Cập nhật địa chỉ thanh toán của bạn, **rồi bấm vào Lưu > Xong**.
 
-Để biết thêm thông tin về các thay đổi về địa chỉ và thông báo, [hãy xem Thay đổi địa chỉ thanh toán Microsoft 365 dành cho doanh nghiệp.](/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses)
+Để biết thêm thông tin về các thay đổi về địa chỉ và thông báo, [hãy xem Thay đổi địa chỉ thanh toán của Microsoft 365 dành cho doanh nghiệp.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses)
 
 **Thay đổi thông tin tài khoản thanh toán**
 
@@ -43,4 +43,4 @@ Hóa đơn của bạn có chứa ba địa chỉ.
 2. Chọn Chỉnh **sửa thông tin tài khoản thanh toán**.
 3. Cập nhật thông tin tài khoản thanh toán, rồi **bấm Lưu > Xong**.
 
-**Lưu** ý : Bạn không thể thay đổi Quốc gia/Khu vực. Nếu cần thay đổi trường này, bạn sẽ cần phải mua một đối tượng thuê mới.
+**Lưu** ý: Bạn không thể thay đổi Quốc gia/Khu vực. Nếu cần thay đổi trường này, bạn sẽ cần phải mua một đối tượng thuê mới.
