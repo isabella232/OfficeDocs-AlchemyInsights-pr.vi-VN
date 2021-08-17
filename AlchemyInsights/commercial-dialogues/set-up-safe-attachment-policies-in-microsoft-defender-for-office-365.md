@@ -12,17 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 206c5c8889e88efa792f2fae686da040c5ec94d3f4bb495a5ac5cca59e455e64
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 88f06f5d35030a4decaaf3a7b1f8198f42e6913154c27ed426373ad95a291a67
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54058564"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57888392"
 ---
 # <a name="set-up-safe-attachment-policies-in-microsoft-defender-for-office-365"></a>Thiết lập chính Két sắt đính kèm trong Bộ bảo vệ Microsoft cho mọi Office 365
 
-1. Đi đến Trung tâm Bảo [Office 365 Tuân thủ & chọn](https://go.microsoft.com/fwlink/p/?linkid=2077143) Chính sách Quản lý Mối đe dọa   >  **cho**  >  **Két sắt kèm.**
-2. Để bật tính năng này cho các khối lượng công việc khác, hãy chọn Bật Bộ bảo vệ **Microsoft cho Office 365 dành cho SharePoint Online, OneDrive và Microsoft Teams**.
-3. Để tạo một chính sách mới, hãy **chọn biểu tượng** Mới ( **+** ).
-4. Xác định tên, mô tả và thiết đặt cho chính sách.
-5. Chọn **Lưu**.
+1. Trong cổng thông Bộ bảo vệ Microsoft 365 Tin nhắn tại , đi đến Chính sách Cộng tác email & & các chính sách Mối đe dọa Két sắt quy tắc đối với Phần đính kèm <https://security.microsoft.com/>  \>  \>  \>  **trong phần Chính** sách.
+
+   Để đi thẳng tới trang **Két sắt Đính kèm,** sử dụng <https://security.microsoft.com/safeattachmentv2> .
+
+2. Trên trang Phần **Két sắt,** hãy thực hiện bất kỳ bước nào sau đây:
+   - Để thêm chính sách mới, chọn **+ Tạo**. Một trình hướng dẫn sẽ khởi chạy để giúp bạn xác định các thiết đặt chính sách.
+   - Để sửa chính sách hiện có, hãy chọn chính sách bằng cách bấm vào tên của chính sách. Trong hộp bật lên chi tiết xuất hiện, chọn **Chỉnh sửa** trong mục có chứa các cài đặt bạn muốn cấu hình.
+   - Để bật hoặc tắt Phần đính kèm Két sắt cho SharePoint, OneDrive và Microsoft Teams, hãy bấm Thiết đặt chung **,** bật hoặc tắt thiết đặt, rồi bấm **Lưu.**
+
+3. Sau khi đã xem lại thiết đặt của mình, hãy chọn **Gửi** (mới) hoặc **Lưu** (chỉnh sửa).
+
+Để biết thêm thông tin, hãy xem các bài viết sau đây:
+
+- [Thiết lập chính Két sắt đính kèm trong Bộ bảo vệ Microsoft cho mọi Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-safe-attachments-policies)
+- [Bật Tính năng Két sắt kèm cho mọi SharePoint, OneDrive và Microsoft Teams](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-mdo-for-spo-odb-and-teams)

@@ -1,5 +1,5 @@
 ---
-title: Thư mục được phép gửi dưới dạng thư công cộng trong EXO
+title: Gửi Dưới dạng Thư mục Công cộng hỗ trợ Thư trong EXO
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom:
 - "1956"
 - "3500007"
-ms.openlocfilehash: ed62c6d7db0ae532f806ce4fdc48f42623bcd545
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: 22aa3e8f46c2ff4f62cb520b9498041dffb9d3a3eb607d788cc97b10bf32dbb5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48462078"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54052588"
 ---
-# <a name="sendas-mail-enabled-public-folder"></a>Thư mục công cộng được kích hoạt trong SendAs mail
+# <a name="sendas-mail-enabled-public-folder"></a>Thư mục Công cộng hỗ trợ Thư SendAs
 
-Ví dụ sau đây gán quyền "gửi dưới dạng" cho thư mục công cộng cho phép thư NewPF1 đến Jason của người dùng.
+Ví dụ sau gán quyền "Gửi Với tư cách" cho thư mục công cộng hỗ trợ thư NewPF1 cho người dùng Jason.
 
-Add-RecipientPermission-Identity ' NewPF1 '-Trustee "Jason"-AccessRights ' SendAs '
+Add-RecipientPermission -Identity 'NewPF1' -Trustee "Jason" -AccessRights 'SendAs'
 
-Để biết thông tin về cú pháp và tham số chi tiết, hãy xem [gán quyền "gửi dưới dạng" hoặc "gửi thay mặt" cho các thư mục công cộng cho phép thư](https://docs.microsoft.com/exchange/collaboration-exo/public-folders/assign-permissions-mail-enabled-pfs).
+Để biết thông tin về cú pháp và tham số chi tiết, hãy xem mục Gán quyền "Gửi Với tư cách" hoặc "Gửi Thay mặt" cho thư [mục công cộng hỗ trợ thư.](https://docs.microsoft.com/exchange/collaboration-exo/public-folders/assign-permissions-mail-enabled-pfs)
 

@@ -1,5 +1,5 @@
 ---
-title: Sử dụng Microsoft Intune cơ sở bảo mật để đặt cấu hình cho các Windows 10 thiết bị
+title: Sử dụng Microsoft Intune cơ sở bảo mật để đặt cấu hình cho Windows 10 thiết bị
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006500"
 - "11142"
-ms.openlocfilehash: 0a89b121f2f425b0a81fa250650f108e9af48c9da39dfc8a62b07541d3a6c3dd
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f77fdbb315db8317a6a1374f05489a7f5a0bedcec484dc9ac53a473098583949
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54098084"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57886654"
 ---
-# <a name="use-microsoft-intune-security-baselines-to-configure-windows-10-devices"></a>Sử dụng Microsoft Intune cơ sở bảo mật để đặt cấu hình cho các Windows 10 thiết bị
+# <a name="use-microsoft-intune-security-baselines-to-configure-windows-10-devices"></a>Sử dụng Microsoft Intune cơ sở bảo mật để đặt cấu hình cho Windows 10 thiết bị
 
-Đường cơ sở bảo mật intune giúp bảo vệ người dùng và thiết bị. Đường cơ sở bảo mật là Windows đặt sẵn được dùng để áp dụng một nhóm thiết đặt đã biết và các giá trị mặc định do các nhóm bảo mật liên quan đề xuất. Bằng cách tạo hồ sơ đường cơ sở bảo mật trong Intune, bạn tạo một mẫu bao gồm nhiều hồ sơ cấu hình thiết bị.
+Đường cơ sở bảo mật intune giúp bảo vệ người dùng và thiết bị. Đường cơ sở bảo mật là Windows đặt sẵn được dùng để áp dụng một nhóm thiết đặt đã biết và các giá trị mặc định do các nhóm bảo mật liên quan đề xuất. Bằng cách tạo một hồ sơ đường cơ sở bảo mật trong Intune, bạn tạo một mẫu bao gồm nhiều hồ sơ cấu hình thiết bị.
 
 Khi bạn triển khai đường cơ sở bảo mật cho các nhóm người dùng hoặc thiết bị, thiết đặt được áp dụng cho các thiết bị chạy trên Windows 10 trở lên. Ví dụ: Đường cơ sở bảo mật quản lý thiết bị di động (MDM) của Microsoft tự động bật BitLocker cho ổ đĩa di động, yêu cầu mật khẩu để mở khóa thiết bị và tắt xác thực cơ bản. Khi một giá trị mặc định không hoạt động đối với môi trường của bạn, bạn có thể tùy chỉnh đường cơ sở để áp dụng các thiết đặt mà bạn cần.
 
@@ -30,5 +30,5 @@ Khi bạn triển khai đường cơ sở bảo mật cho các nhóm người d�
 
 Nếu bạn mới sử dụng Intune và không chắc nên bắt đầu từ đâu, đường cơ sở bảo mật sẽ giúp bạn nhanh chóng tạo và triển khai hồ sơ bảo mật. Nếu bạn hiện đang sử dụng chính sách nhóm, việc di chuyển sang Intune cho mục đích quản lý sẽ dễ dàng hơn nhiều với đường cơ sở bảo mật vì chúng được tích hợp vào Intune và bao gồm các chức năng quản lý tiên tiến.
 
-Để tìm hiểu thêm, hãy xem [Windows cơ sở bảo mật và](/windows/security/threat-protection/windows-security-baselines) Quản lý thiết bị di [động](/windows/client-management/mdm/).
+Để tìm hiểu thêm, hãy xem [Windows cơ sở bảo mật và Quản](https://docs.microsoft.com/windows/security/threat-protection/windows-security-baselines) lý thiết bị di [động](https://docs.microsoft.com/windows/client-management/mdm/).
 

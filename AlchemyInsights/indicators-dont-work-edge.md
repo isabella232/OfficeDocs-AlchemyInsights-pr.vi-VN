@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "11230"
 - "9005470"
-ms.openlocfilehash: 4094371ee0a3b3ec8d29454fd66f3e9e7c3f35a91b9ea05f308325bc447ce11c
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ff7a2ee4c97c579422c7679c461f6fb288a9235ff9056be1c56e80b1d6379723
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53926339"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57887462"
 ---
 # <a name="indicators-dont-work-using-edge-browser"></a>Các chỉ báo không hoạt động khi sử dụng trình duyệt Edge
 
-Sau khi bạn đã tạo Chỉ báo, Edge (Màn hình thông minh) không có chức năng này. Để biết thêm thông tin, [hãy xem Tạo chỉ báo cho CÁC URL và URL/miền.](/microsoft-365/security/defender-endpoint/indicator-ip-domain)
+Sau khi bạn đã tạo Một Chỉ báo, Edge (Màn hình thông minh) không có chức năng này. Để biết thêm thông tin, [hãy xem Tạo chỉ báo cho CÁC URL và URL/miền.](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/indicator-ip-domain)
 
 ## <a name="step-1-ensure-the-following"></a>Bước 1: Đảm bảo các bước sau
 
@@ -34,7 +34,7 @@ Sau khi bạn đã tạo Chỉ báo, Edge (Màn hình thông minh) không có ch
 
 ## <a name="step-2-troubleshoot-the-potential-issue"></a>Bước 2: Khắc phục sự cố tiềm ẩn
 
-- Hãy đảm bảo máy khách đáp ứng các yêu cầu. Để biết chi tiết, [hãy xem Tạo chỉ báo cho CÁC URL và URL/tên miền](/microsoft-365/security/defender-endpoint/indicator-ip-domain).
+- Hãy đảm bảo máy khách đáp ứng các yêu cầu. Để biết chi tiết, [hãy xem Tạo chỉ báo cho CÁC URL và URL/tên miền](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/indicator-ip-domain).
 - Đảm bảo rằng bạn đang chạy phiên bản trình duyệt Edge mới nhất. Để tìm hiểu phiên bản mới nhất, [hãy xem Tìm hiểu xem bạn có phiên bản Microsoft Edge nào.](https://support.microsoft.com/microsoft-edge/find-out-which-version-of-microsoft-edge-you-have-c726bee8-c42e-e472-e954-4cf5123497eb)
 - Khởi động lại trình duyệt Edge.
 - Dẫn hướng đến site mà bạn đã thiết lập một chỉ báo. Nếu site không xuất hiện như mong đợi, hãy tiếp tục đến Bước 3. 

@@ -1,5 +1,5 @@
 ---
-title: Sự chậm trễ khi nhận được các cảnh báo SharePoint và OneDrive
+title: Sự chậm trễ khi nhận thông báo SharePoint báo OneDrive báo
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "2642"
-ms.openlocfilehash: fd00bd90de382e325a9b8c4ce5b21d535e630730
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7111a26e54a909cd8541d8c351d4f9db0338138d76de1ad14402b1c86932b79c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51831252"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54107930"
 ---
-# <a name="delays-in-receiving-sharepoint-and-onedrive-alerts"></a>Sự chậm trễ khi nhận được các cảnh báo SharePoint và OneDrive
+# <a name="delays-in-receiving-sharepoint-and-onedrive-alerts"></a>Sự chậm trễ khi nhận thông báo SharePoint báo OneDrive báo
 
-- Nếu **tất cả cảnh báo từ nhiều tệp hoặc thư viện bị trì hoãn**, hãy truy nhập bảng điều khiển trạng thái [dịch vụ](https://portal.office.com/adminportal/home?ref=/servicehealth) để kiểm tra bất kỳ sự cố nào/sự cố có thể xảy ra với SharePoint hoặc Exchange.
-- Nếu một **cảnh báo riêng lẻ từ một tệp hoặc thư viện cụ thể không được chuyển** phát, hãy tìm cách xóa bỏ và tạo lại nó. Xem mục [quản lý, xem hoặc xóa bỏ cảnh báo SharePoint](https://support.microsoft.com/office/99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) để tạo lại cảnh báo.
-- Kiểm tra thư mục thư rác hoặc thư rác trong email của bạn.
+- Nếu tất cả các cảnh báo từ nhiều [](https://portal.office.com/adminportal/home?ref=/servicehealth) tệp hoặc thư viện bị trì **hoãn,** hãy truy nhập bảng điều khiển Tình trạng Dịch vụ để kiểm tra bất kỳ tư vấn/sự cố nào có thể xảy ra với SharePoint hoặc Exchange.
+- Nếu **một cảnh báo cá nhân từ một tệp hoặc thư viện cụ** thể không được chuyển phát , hãy tìm cách xóa và tạo lại nó. Hãy [xem mục Quản lý, xem hoặc xóa SharePoint báo trước](https://support.microsoft.com/office/99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) đó để tạo lại cảnh báo.
+- Kiểm tra thư mục Thư rác hoặc Thư rác trong email của bạn.
 
 > [!NOTE]
-> - Không thể gửi cảnh báo đến một nhóm phân phối. Chỉ các nhóm bảo mật và O365 được hỗ trợ.
-> - Bạn không thể tùy chỉnh các mẫu email cảnh báo. Bạn phải sử dụng dòng công việc trình thiết kế Microsoft hoặc SharePoint để đạt được những nội dung đó.
+> - Không thể gửi cảnh báo tới Nhóm Phân phối. Chỉ hỗ trợ Bảo mật và Nhóm O365.
+> - Bạn không thể tùy chỉnh mẫu email cảnh báo. Bạn phải sử dụng Một Microsoft Flow Thiết SharePoint Công việc Designer để đạt được những điều đó.

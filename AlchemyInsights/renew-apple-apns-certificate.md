@@ -1,5 +1,5 @@
 ---
-title: Gia hạn chứng chỉ Apple APNS
+title: Gia hạn chứng chỉ APNS của Apple
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000654"
 - "3542"
-ms.openlocfilehash: 655fbec4d0722316babcfaed1be6a4cdffcb3072
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: abf1e723c0525286a54dfce0b6adc1a7d3997f4e7e99817573633f797ccf5d4e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51830784"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54053164"
 ---
-# <a name="renew-apple-apns-certificate"></a>Gia hạn chứng chỉ Apple APNS
+# <a name="renew-apple-apns-certificate"></a>Gia hạn chứng chỉ APNS của Apple
 
-Chứng chỉ đẩy táo MDM của bạn đã hết hạn!
+Chứng chỉ Đẩy MDM của Apple của bạn đã hết hạn!
 
-Chứng chỉ đẩy của Apple MDM có hiệu lực trong một năm và phải được gia hạn hàng năm để duy trì quản lý thiết bị chạy iOS và macOS. Nếu chứng chỉ của bạn hết hạn, các thiết bị của Apple đã đăng ký không thể liên lạc và các thiết bị mới không thể đăng ký.
+Chứng chỉ đẩy MDM của Apple hợp lệ trong một năm và phải được gia hạn hàng năm để duy trì quản lý thiết bị iOS và macOS. Nếu chứng chỉ của bạn hết hạn, không thể liên hệ với các thiết bị Apple đã đăng ký và không thể đăng ký thiết bị mới.
 
-Để gia hạn chứng chỉ đẩy MDM táo của bạn, hãy xem mục gia [hạn chứng chỉ đẩy MDM của Apple](https://docs.microsoft.com/intune/enrollment/apple-mdm-push-certificate-get#renew-apple-mdm-push-certificate).
+Để gia hạn chứng chỉ Đẩy MDM Apple của bạn, hãy [xem mục Gia hạn chứng chỉ đẩy MDM của Apple.](https://docs.microsoft.com/intune/enrollment/apple-mdm-push-certificate-get#renew-apple-mdm-push-certificate)

@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006500"
 - "11139"
-ms.openlocfilehash: c578db2ccba7c6831d39b02d10afc50f00904755204866e45aa4eb2ec313a8e3
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 74eb78786c45614679b97b0808f8f16171c6554ea94ab22c34f2c45766123662
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53980163"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57886001"
 ---
 # <a name="view-the-april-2020-baseline-for-microsoft-edge-versions-80-and-later"></a>Xem đường cơ sở tháng 4 năm 2020 để biết Microsoft Edge 80 trở lên
 
-Microsoft Intune hỗ trợ các thiết đặt đường cơ sở cho các Microsoft Edge. Các mặc định đường cơ sở thể hiện cấu hình được đề xuất cho trình duyệt; chúng có thể không khớp với các mặc định cho các đường cơ sở bảo mật khác.
+Microsoft Intune hỗ trợ các thiết đặt đường cơ sở cho các Microsoft Edge. Các mặc định đường cơ sở biểu thị cấu hình được đề xuất cho trình duyệt; chúng có thể không khớp với các mặc định cho các đường cơ sở bảo mật khác.
 
 Để tìm hiểu xem có gì thay đổi trong đường cơ sở tháng 4 năm 2020, hãy sử dụng tính năng So sánh đường cơ sở, sẵn dùng trong ngăn Phiên bản.
 
-Để tìm hiểu thêm, hãy xem Microsoft Edge cơ sở cho Tháng Tư [2020 (Phiên bản Edge 80 trở lên).](/mem/intune/protect/security-baseline-settings-edge?pivots=edge-april-2020)
+Để tìm hiểu thêm, hãy xem Microsoft Edge cơ sở cho Tháng Tư [2020 (Phiên bản Edge 80 trở lên).](https://docs.microsoft.com/mem/intune/protect/security-baseline-settings-edge?pivots=edge-april-2020)

@@ -1,5 +1,5 @@
 ---
-title: Điểm bảo mật của Microsoft
+title: Điểm Số Bảo mật của Microsoft
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,24 +13,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: 3e66fad970e52af7ab3b2c5a66001c44b50c2fe6
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 59bca6951dd7fb6a6cd5df1108993e3c018ee0d8391b51a0cbcaf3a61fc45a55
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403261"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57883377"
 ---
-# <a name="microsoft-secure-score"></a>Điểm bảo mật của Microsoft
+# <a name="microsoft-secure-score"></a>Điểm Số Bảo mật của Microsoft
 
-Bạn có thể giúp môi trường của bạn an toàn hơn bằng cách sử dụng điểm số bảo mật của Microsoft. Hãy nghĩ về nó như một điểm số tín dụng để bảo mật. Nó cho bạn biết những hành động bạn có thể thực hiện mà có thể giúp cải thiện tính bảo mật của tổ chức của bạn.
+Bạn có thể làm cho môi trường của mình an toàn hơn bằng cách sử dụng Điểm Bảo mật của Microsoft. Hãy xem điểm số tín dụng cho bảo mật. Thông báo này cho bạn biết các hành động bạn có thể thực hiện có thể giúp cải thiện bảo mật của tổ chức bạn.
 
-1. Đi đến [Trung tâm tuân thủ & bảo mật của Office 365](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-1. Chọn thẻ điểm bảo mật của Microsoft hoặc đi đến [điểm số bảo mật của Microsoft](https://go.microsoft.com/fwlink/?linkid=2099589).
-    > [!TIP]
-    >  Trên trang tổng quan về điểm bảo mật của Microsoft, hãy chọn hành động cải thiện cho các đề xuất về việc bảo vệ tổ chức của bạn. Bạn có thể chọn bộ lọc hoặc nhóm theo trong bảng để nhanh chóng xác định các hành động có thể tốt hơn nếu bạn hoàn thành chúng theo thứ tự.
-1. Chọn một hành động cải thiện từ danh sách. Một công việc đã xuất hiện sẽ đưa ra mô tả ngắn gọn về hành động.
-1. Bấm vào **xem thiết đặt**, rồi làm theo hướng dẫn được cung cấp trong các **bước tiếp theo**.
+1. Trong cổng thông Bộ bảo vệ Microsoft 365 tin tại <https://security.microsoft.com> , đi tới Điểm an **toàn**.
+
+   Để đi trực tiếp đến trang **Điểm số bảo** mật, hãy sử dụng <https://security.microsoft.com/securescore>
+
+2. Trên tab Tổng **quan trong** phần Hành động để xem lại **và Hành** động cải tiến **hàng** đầu, hãy lưu ý bất kỳ đề xuất nào cho việc bảo mật tổ chức của bạn.
+
+3. Trên tab Hành động **cải**  thiện, hãy lưu ý **mục** nhập hành động Thứ hạng Cải tiến có giá trị **Trạng** thái của Địa chỉ **Tới** hoặc Đã **hồi quy.** Bạn có thể sử **dụng Bộ** lọc hoặc **Nhóm theo** trong bảng để nhanh chóng xác định hành động có thể tốt hơn nếu bạn hoàn thành chúng theo thứ tự.
+
+4. Chọn một **mục Đến địa** chỉ hoặc Hồi **quy** từ danh sách trên tab Hành **động cải** tiến. Một trang mới sẽ mở ra và cung cấp mô tả đầy đủ cùng nút **Quản** lý để khắc phục sự cố.
+
     > [!NOTE]
-    > Bạn đã cho điểm để cấu hình các tính năng bảo mật được đề xuất, nhưng hãy nhớ rằng một số hành động được gắn nhãn là **[không ghi được]**. Điều này có nghĩa là ngay cả khi bạn thực hiện hành động cải thiện đó, bạn sẽ không được trao bất kỳ điểm nào cho điểm số của mình. Nếu không, *có thể mất tới 24 giờ* để cập nhật điểm số của bạn.
+    > Bạn được tặng điểm khi cấu hình các tính năng bảo mật được đề xuất, nhưng hãy nhớ rằng một số hành động được đánh nhãn **là [Chưa Cho điểm]**. Điều này có nghĩa là ngay cả khi bạn thực hiện hành động cải thiện đó, bạn vẫn sẽ không được tặng bất kỳ điểm nào cho điểm số của mình. Nếu không, *có thể mất tới 24 giờ để* điểm của bạn cập nhật.
 
-Để biết thêm thông tin về điểm số bảo mật của Microsoft, hãy xem mục [điểm bảo mật của Microsoft](https://go.microsoft.com/fwlink/?linkid=2103077).
+Để biết thêm thông tin về Điểm Số Bảo mật của Microsoft, hãy [xem Điểm Bảo mật của Microsoft](https://docs.microsoft.com/microsoft-365/security/defender/microsoft-secure-score).
