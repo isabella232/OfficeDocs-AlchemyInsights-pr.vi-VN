@@ -14,23 +14,23 @@ ms.custom:
 - "1300023"
 - "3754"
 - "4531"
-ms.openlocfilehash: 4bfbe6b2dd9a2112f0cb7af0d6e7a46693bc70680895fd674ddb0332b7071797
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d0ef27e7c03eb8bcd9de74c58a5e0398d8892a6eb0ab50944b3c2201247fa0b8
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53937123"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57889240"
 ---
 # <a name="active-directory-not-syncing"></a>Active Directory không đồng bộ
 
-Nếu bạn đang nhận được lỗi đồng bộ, chẳng hạn như "không đồng bộ hóa gần đây" hoặc nhận thấy trạng thái đồng bộ hóa thư mục trong cổng thông tin quản trị Office cho biết "Đã đồng bộ lần cuối hơn 3 ngày trước", đó có thể là AADConnect có cài đặt không chính xác hoặc không đủ quyền để thực hiện đồng bộ.  
+Nếu bạn đang nhận được lỗi đồng bộ, như "không đồng bộ hóa gần đây" hoặc nhận thấy trạng thái đồng bộ hóa thư mục trong cổng thông tin quản trị Office cho biết "Đã đồng bộ lần cuối hơn 3 ngày trước", đó có thể là AADConnect có cài đặt không chính xác hoặc không đủ quyền để thực hiện đồng bộ.  
 
-Việc cài đặt lại AADConnect bằng cách sử dụng cài đặt nhanh có thể giải quyết sự cố một cách nhanh chóng:
+Việc cài đặt lại AADConnect bằng cách sử dụng cài đặt nhanh có thể nhanh chóng giải quyết được sự cố:
 
 1. [Tải xuống phiên bản AADConnect mới nhất.](https://go.microsoft.com/fwlink/?LinkId=615771)
 
-2. [Làm theo hướng dẫn để cài đặt nhanh.](/azure/active-directory/hybrid/how-to-connect-install-express)
+2. [Làm theo hướng dẫn để cài đặt nhanh.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-express)
 
-Azure AD Kết nối được cài đặt trên Windows Server 2012 trở lên. Máy chủ này phải nối miền và có thể là bộ kiểm soát miền hoặc máy chủ thành viên. Để biết danh sách đầy đủ các yêu cầu và Kết nối điều kiện tiên quyết của Azure AD, hãy xem lại Điều kiện tiên quyết cho [Azure AD Kết nối.](/azure/active-directory/hybrid/how-to-connect-install-prerequisites)
+Azure AD Kết nối được cài đặt trên Windows Server 2012 trở lên. Máy chủ này phải nối miền và có thể là bộ kiểm soát miền hoặc máy chủ thành viên. Để biết danh sách đầy đủ các yêu cầu và Kết nối điều kiện tiên quyết của Azure AD, hãy xem lại Điều kiện tiên quyết cho [Azure AD Kết nối.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-prerequisites)
 
-Để biết thêm thông tin về tài khoản dịch vụ AADConnect, hãy [xem mục Azure AD Kết nối: Tài khoản và quyền.](/azure/active-directory/hybrid/reference-connect-accounts-permissions)
+Để biết thêm thông tin về tài khoản dịch vụ AADConnect, hãy [xem mục Azure AD Kết nối: Tài khoản và quyền.](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-accounts-permissions)

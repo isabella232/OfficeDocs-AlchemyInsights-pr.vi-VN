@@ -1,5 +1,5 @@
 ---
-title: iOS 13-iPadOS
+title: iOS 13 - iPadOS
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2701"
 - "6700003"
-ms.openlocfilehash: d851fcc6c8514300d5f67b5755caa729c5441a67
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c20e1a100f34aaea49fd0bfea513583ed45c91963751459ac229a265929f3fd0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51833169"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54054892"
 ---
-# <a name="ios-13--ipados-updates-for-conditional-access-policy"></a>iOS 13 +/iPadOS Cập Nhật cho chính sách truy nhập có điều kiện
+# <a name="ios-13--ipados-updates-for-conditional-access-policy"></a>Các bản cập nhật iOS 13+ / iPadOS cho chính sách Truy nhập có Điều kiện
 
-Nếu bạn đang gặp các vấn đề liên quan đến quyền truy nhập có điều kiện trên iPads đã được nâng cấp lên iPadOS (iOS 13 trở lên), hãy xem lại bài viết sau từ nhóm nghiên cứu về những thay đổi mà bạn có thể cần phải thực hiện để đảm bảo rằng truy nhập có điều kiện vẫn tiếp tục hoạt động như mong muốn:
+Nếu bạn đang gặp phải sự cố liên quan đến Quyền truy nhập có Điều kiện trên ipad đã được nâng cấp lên iPadOS (iOS 13 trở lên), hãy xem lại bài viết sau từ nhóm AAD về các thay đổi bạn có thể cần thực hiện để đảm bảo rằng Truy nhập có Điều kiện tiếp tục hoạt động như mong muốn:
 
-[Hành động bắt buộc: đánh giá và cập nhật các chính sách truy nhập có điều kiện để chuẩn bị cho bản phát hành iPadOS](https://support.microsoft.com/help/4521038/action-required-update-conditional-access-policies-for-ipados)
+[Hành động Bắt buộc: Đánh giá và cập nhật chính sách Truy nhập có Điều kiện để chuẩn bị cho việc phát hành iPadOS](https://support.microsoft.com/help/4521038/action-required-update-conditional-access-policies-for-ipados)

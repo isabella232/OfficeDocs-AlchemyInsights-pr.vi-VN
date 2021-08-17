@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003070"
 - "5830"
-ms.openlocfilehash: 284d7cbc8b140c49dae158663c560a65e17810eb
-ms.sourcegitcommit: 64eb79b3664ce762813fd19fbcca7e6002a4d3de
+ms.openlocfilehash: 447a9da970a0cb2e6e8ba21cc8f46082fd85d06b1244636c28fdebc2d911531d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49680165"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54080588"
 ---
 # <a name="create-an-email-message-template"></a>Tạo mẫu thư email
 
 Để tạo mẫu thư email:
 
-1. Trên tab **trang** đầu của Outlook trên máy tính, trong **nhóm mới**, bấm **email mới**.
+1. Trên tab **Trang** đầu của Outlook Màn hình nền, **trong Nhóm Mới,** bấm Email **Mới.**
 
-    Lối tắt bàn phím để tạo thư email là CTRL + SHIFT + M.
+    Phím tắt để tạo thư email là CTRL+SHIFT+M.
 
-2. Trong nội dung thư, hãy nhập nội dung bạn muốn.
-3. Trong cửa sổ thư, hãy bấm tab **tệp** .
-4. Bấm **lưu như**.
-5. Trong hộp thoại **lưu dưới dạng** , trong danh sách **lưu dưới dạng** , hãy bấm **mẫu Outlook**.
-6. Trong hộp **tên tệp** , nhập tên cho mẫu của bạn, rồi bấm **lưu**.
+2. Trong nội dung thư, nhập nội dung bạn muốn.
+3. Trong cửa sổ thư, bấm **tab** Tệp.
+4. Bấm **vào Lưu Dưới dạng**.
+5. Trong hộp **thoại Lưu** Dưới dạng, trong danh sách Lưu **dưới dạng,** hãy **bấm Outlook Mẫu.**
+6. Trong hộp **Tên tệp,** nhập tên cho mẫu của bạn, rồi bấm **Lưu**.
 
-Theo các mẫu mặc định được lưu tại vị trí sau đây:
+Theo mặc định, các mẫu được lưu tại vị trí sau đây:
 
 **c:\users\username\appdata\roaming\microsoft\templates**
