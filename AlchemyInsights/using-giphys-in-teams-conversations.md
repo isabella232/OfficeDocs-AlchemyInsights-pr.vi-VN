@@ -1,5 +1,5 @@
 ---
-title: Sử dụng Giphys trong các cuộc hội thoại Nhóm
+title: Sử dụng Giphy trong Teams thoại
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,26 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003825"
 - "6850"
-ms.openlocfilehash: 2fc29974bff9484c226c9651b9b000a89cad14dc
-ms.sourcegitcommit: 534e9217d99336eb471166ff83231c7e408fb1d9
+ms.openlocfilehash: 0244b68ffa2ebd3d70bae66a24ac299004848557b63b17c2ea74fafaff22bb8c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48982572"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54104330"
 ---
-# <a name="using-giphys-in-teams-conversations"></a>Sử dụng Giphys trong các cuộc hội thoại Nhóm
+# <a name="using-giphys-in-teams-conversations"></a>Sử dụng Giphy trong Teams thoại
 
-Truy nhập giphys trong nhóm trò chuyện được bật theo mặc định. Với tư cách là người quản trị, bạn có thể kiểm soát nếu Giphys sẵn có cho người dùng bằng [cách đặt chính sách gửi tin nhắn](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams#messaging-policy-settings) và đảm bảo rằng **việc sử dụng giphys trong các cuộc hội thoại** đang **bật**.
+Quyền truy nhập Giphys Teams trò chuyện được bật theo mặc định. Là người quản trị, bạn có thể kiểm [](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams#messaging-policy-settings) soát xem Giphy có sẵn dùng cho người dùng không bằng cách thiết đặt chính sách nhắn tin và đảm bảo rằng Sử dụng **Giphy trong** cuộc hội thoại là **Bật**.
 
-Nếu GIFs không hoạt động như dự kiến trong các cuộc hội thoại nhóm, hãy xác nhận:
+Nếu GIF không hoạt động như mong đợi trong cuộc hội thoại Teams, hãy xác nhận:
 
-[Chính sách nhắn tin](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams) cần để cho phép Giphys. Để xác nhận bằng cách sử dụng lệnh ghép ngắn PowerShell:
+Chính [sách nhắn tin](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams) cần phải cho phép Giphys. Để xác minh bằng cách sử dụng lệnh ghép ngắn PowerShell:
 
-- Xác nhận rằng bạn có thể [quản lý các nhóm bằng PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview?view=o365-worldwide#manage-teams-with-powershell).
-- Chạy lệnh PowerShell [Get-Cisteamsmessagingpolicy-Identity Global](https://docs.microsoft.com/powershell/module/skype/get-csteamsmessagingpolicy?view=skype-ps) và xác minh rằng **allowgiphy** được đặt là **True**.
-- Nếu **Allowgiphy** được đặt là **false** , hãy chạy lệnh PowerShell sau đây là lệnh [-Xsteamsmessagingpolicy-Identity Global-allowgiphy $True](https://docs.microsoft.com/powershell/module/skype/set-csteamsmessagingpolicy?view=skype-ps).
+- Xác minh rằng bạn [có thể Quản Teams với PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview?view=o365-worldwide#manage-teams-with-powershell).
+- Chạy lệnh PowerShell [Get-CsTeamsMessagingPolicy -Identity Global](https://docs.microsoft.com/powershell/module/skype/get-csteamsmessagingpolicy?view=skype-ps) và xác minh rằng **AllowGiphy** được đặt thành **TRUE.**
+- Nếu **AllowGiphy** được đặt thành **FALSE**, hãy chạy lệnh PowerShell [set-CsTeamsMessagingPolicy -Identity Global -AllowGiphy $True](https://docs.microsoft.com/powershell/module/skype/set-csteamsmessagingpolicy?view=skype-ps).
 
-[Những trải nghiệm kết nối tùy chọn](https://docs.microsoft.com/deployoffice/privacy/optional-connected-experiences) cần được kích hoạt để cho phép truy nhập vào URL của giphy.
+[Optional Connected Experiences](https://docs.microsoft.com/deployoffice/privacy/optional-connected-experiences) need to be enabled to allow access to the Giphy URL.
 
 > [!NOTE]
-> Nếu bạn có nhiều chính sách nhắn tin theo nhóm được cấu hình cho đối tượng thuê của mình, bạn có thể xác định danh tính của chính sách được gán cho người dùng bị ảnh hưởng bằng lệnh PowerShell [Get-Xsonlineuser-Identity](https://docs.microsoft.com/powershell/module/skype/get-csonlineuser?view=skype-ps) <user@domain.com> | Chọn TeamsMessagingPolicy.
+> Nếu bạn có nhiều chính sách Teams Messaging được cấu hình cho đối tượng thuê của mình, bạn có thể xác định danh tính của chính sách được gán cho người dùng bị ảnh hưởng bằng lệnh [Get-CsOnlineUser -Identity](https://docs.microsoft.com/powershell/module/skype/get-csonlineuser?view=skype-ps) <user@domain.com> | Chọn TeamsMessagingPolicy.

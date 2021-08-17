@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002459"
 - "4764"
-ms.openlocfilehash: 2e915860046dd66c7d7642c0b031717c2113681f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: ea2d30c1d42f6701c4f5e3cc451bbb34ae77ae7781e9f5382502eeb9782ea023
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51836517"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54042436"
 ---
 # <a name="license-not-working"></a>Giấy phép không hoạt động
 
-Sau đây là một vài tính tổng hợp mà bạn có thể thử:
+Sau đây là một số xác thực bạn có thể thử:
 
-- Nếu bạn đã gán giấy phép Office 365 và các ứng dụng liên quan không hoạt động, vui lòng cung cấp ít nhất 24 giờ cho tất cả các quy trình đồng bộ để hoàn thành. 
+- Nếu bạn đã gán giấy phép Office 365 và các ứng dụng liên quan không hoạt động, vui lòng cung cấp ít nhất 24 giờ để tất cả các quy trình đồng bộ hoàn tất. 
 
-- Tìm cách bật/tắt giấy phép sản phẩm và xem khắc phục sự cố đó. 
+- Hãy thử chuyển đổi giấy phép sản phẩm THÀNH TẮT và BẬT để xem giấy phép đó có khắc phục được sự cố không. 
 
-- Nếu bạn không thấy giấy phép được gán, hãy đảm bảo giấy phép được gán cho người dùng; Xem mục [gán giấy phép cho người dùng](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
+- Nếu bạn không thấy giấy phép đã gán, hãy đảm bảo giấy phép được gán cho người dùng; xem [mục Gán giấy phép cho người dùng](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
 
-- Kiểm tra xem đăng ký của bạn đã hết hạn và gia hạn nếu cần thiết không; Hãy xem kích [hoạt lại đăng ký của bạn](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription). 
+- Kiểm tra xem thuê bao của bạn đã hết hạn và gia hạn nếu cần thiết; xem [Kích hoạt lại đăng ký của bạn](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription). 
 
-- Nếu bạn đã mua giấy phép từ một người bán lại hoặc đối tác, họ có thể không kích hoạt chúng. Vui lòng liên hệ trực tiếp: [Tìm đối tác hoặc người bán lại Office 365 của bạn](https://docs.microsoft.com//microsoft-365/admin/manage/find-your-partner-or-reseller).
+- Nếu bạn đã mua giấy phép từ một nhà bán lẻ hoặc đối tác, có thể họ chưa kích hoạt chúng. Vui lòng liên hệ trực tiếp [với họ: Tìm đối tác Office 365 hoặc nhà bán lại của bạn.](https://docs.microsoft.com//microsoft-365/admin/manage/find-your-partner-or-reseller)
 
-- Nếu có bất kỳ vấn đề gì trong khi kích hoạt thuê bao của bạn, hãy thử [tiếp tục quy trình đăng ký](https://go.microsoft.com/fwlink/?linkid=2126800).
+- Nếu có bất kỳ sự cố nào trong khi kích hoạt đăng ký của bạn, hãy thử [tiếp tục quy trình đăng ký](https://go.microsoft.com/fwlink/?linkid=2126800).

@@ -1,5 +1,5 @@
 ---
-title: Hưu trí của hộp thư của trang
+title: Nghỉ hưu hộp thư của Site
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004319"
 - "7703"
-ms.openlocfilehash: 9077fe8bb6744d42195e4a46b8492c498159d5d6
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: daea50e36ee672b119b5a351e04b1aba18c31754a06b2e59c792e2c748cfcca6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49757339"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54074696"
 ---
-# <a name="retirement-of-site-mailbox"></a>Hưu trí của hộp thư của trang
+# <a name="retirement-of-site-mailbox"></a>Nghỉ hưu hộp thư của Site
 
-Hộp thư của site đã bị trả về sau trong [2017](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/deprecation-of-site-mailboxes/ba-p/93028) và việc tạo hộp thư của site mới và quyền truy nhập của người dùng vào hộp thư của site đã được ngừng hoạt động với các thông báo tiếp theo. Bây giờ, quá trình rút lui các hộp thư của trang đã bắt đầu. Truy nhập trang [này](https://aka.ms/SiteMailboxRetirement) để biết thêm chi tiết và hành động sẽ được thực hiện.
+Các hộp thư của site đã bị ngừng phát triển trở lại trong [năm 2017](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/deprecation-of-site-mailboxes/ba-p/93028) và việc tạo các hộp thư của site mới cũng như quyền truy nhập người dùng vào hộp thư của site đã bị ngừng với các thông báo sau đó. Bây giờ, quy trình ngừng hoạt động hộp thư của site đã bắt đầu. Hãy truy [cập trang](https://aka.ms/SiteMailboxRetirement) này để biết thêm chi tiết và hành động cần thực hiện.

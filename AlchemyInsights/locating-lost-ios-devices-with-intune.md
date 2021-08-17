@@ -1,5 +1,5 @@
 ---
-title: Định vị mất thiết bị iOS với InTune
+title: Xác định vị trí các thiết bị iOS bị mất với Intune
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,47 +13,47 @@ ms.collection: Adm_O365
 ms.custom:
 - "1283"
 - "6700008"
-ms.openlocfilehash: 70f12328813a312631c67cd72cc75559ed2eca1b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: af747a63caf76e7b4a4a180eaef25dfdf2cb5e3391079c713fe0e413198efb15
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47675214"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54042328"
 ---
-# <a name="locating-lost-ios-devices-with-intune"></a>Định vị mất thiết bị iOS với InTune
+# <a name="locating-lost-ios-devices-with-intune"></a>Xác định vị trí các thiết bị iOS bị mất với Intune
 
-Bật chế độ bị mất trên thiết bị iOS cho phép người quản trị có thư và liên hệ với số điện thoại được hiển thị trên màn hình khóa.
+Bật chế độ mất trên thiết bị iOS cho phép người quản trị hiển thị tin nhắn và số điện thoại liên hệ trên màn hình khóa.
 
-Sau khi chế độ bị mất được bật người quản trị có thể sử dụng hành động định vị thiết bị để xác định vị trí thực của thiết bị.
+Sau khi chế độ bị mất được bật, người quản trị có thể sử dụng hành động Định vị thiết bị để xác định vị trí vật lý của thiết bị.
 
-Hành động định vị thiết bị trong InTune hoạt động với thiết bị iOS để hiển thị vị trí của một thiết bị cụ thể trên bản đồ.
+Hành động Định vị thiết bị trong Intune hoạt động với thiết bị iOS để hiển thị vị trí của một thiết bị cụ thể trên bản đồ.
 
-Sử dụng hành động này yêu cầu thiết bị iOS được in:
+Việc sử dụng hành động này đòi hỏi thiết bị iOS phải hoạt động:
 
-- Chế độ giám sát
+- Chế độ có tổ hợp
 - Chế độ bị mất
 
-Để biết thêm thông tin, hãy xem [bật chế độ bị mất trên thiết bị iOS/iPadOS có InTune](https://docs.microsoft.com/intune/device-lost-mode) và [xác định vị trí bị mất hoặc bị đánh cắp các thiết bị iOS/Ipados với InTune](https://docs.microsoft.com/intune/device-locate).
+Để biết thêm thông tin, hãy xem mục Bật chế độ bị mất trên thiết bị [iOS/iPadOS với Intune](https://docs.microsoft.com/intune/device-lost-mode) và Xác định vị trí thiết bị [iOS/iPadOS](https://docs.microsoft.com/intune/device-locate)bị mất hoặc bị đánh cắp với Intune .
 
-**DIỄN**
+**Câu hỏi thường gặp**
 
-Hỏi: tôi đã ban hành một hành động từ xa để loại bỏ dữ liệu công ty khỏi thiết bị và bây giờ nó bị kẹt trong trạng thái đang chờ xử lý.
+Hỏi: Tôi đã phát hành một hành động từ xa để loại bỏ dữ liệu công ty khỏi thiết bị, và bây giờ nó đang kẹt ở trạng thái đang chờ xử lý.
 
-A: đối với hành động từ xa để hoàn thành thành công, thiết bị đích phải trực tuyến và khỏe mạnh. Trong những tình huống sau đây, hành động từ xa vẫn nằm trong trạng thái đang chờ 30 ngày hoặc cho đến khi thiết bị thừa nhận lệnh:
+Đáp: Để hoàn tất thành công hành động từ xa, thiết bị mục tiêu phải trực tuyến và hoạt động tốt. Trong các tình huống sau, hành động từ xa nằm ở trạng thái chờ xử lý trong 30 ngày hoặc cho đến khi thiết bị chấp nhận lệnh:
 
 - Khi thiết bị không có kết nối
-- Khi thiết bị mất trạng thái quản lý của nó bằng InTune
+- Khi thiết bị mất trạng thái quản lý với Intune
 
-Nếu bạn cho rằng thiết bị không còn được kiểm tra tại đó, và nó sẽ không thể loại bỏ dữ liệu của công ty, chọn xóa. Việc xóa bỏ bản ghi thiết bị để nó không còn xuất hiện trong danh sách các thiết bị InTune. Nếu thiết bị trở thành hoạt động trở lại, người dùng sẽ phải đăng ký lại nó.
+Nếu bạn cho rằng thiết bị không còn kiểm nhập và thiết bị đó sẽ không thể loại bỏ dữ liệu công ty, hãy chọn Xóa. Việc xóa sẽ loại bỏ bản ghi thiết bị để bản ghi không còn xuất hiện trong danh sách thiết bị Intune. Nếu thiết bị trở nên hiện hoạt lại, người dùng của thiết bị sẽ phải đăng ký lại thiết bị.
 
-Hỏi: tại sao những hành động từ xa nhất định không sẵn dùng cho tôi để sử dụng?
+Hỏi: Tại sao một số hành động từ xa nhất định không sẵn dùng để tôi dùng?
 
-A: không phải tất cả các nền tảng hỗ trợ tất cả các hành động thiết bị từ xa. Các hành động từ xa sau đây là nền tảng cụ thể, do đó, chúng chỉ sẵn dùng cho những nền tảng được ghi chú.
+A: Không phải tất cả các nền tảng đều hỗ trợ tất cả các hành động của thiết bị từ xa. Các hành động từ xa sau đây dành riêng cho nền tảng, vì vậy chúng chỉ sẵn dùng cho những nền tảng được chú ý.
 
-- Bỏ qua khóa kích hoạt (chỉ dành cho iOS)
-- Bắt đầu mới (chỉ dành cho Windows)
-- Chế độ bị mất (chỉ dành cho iOS)
-- Định vị thiết bị (chỉ dành cho iOS)
-- Khởi động lại (chỉ dành cho Windows)
+- Bỏ qua Khóa Kích hoạt (chỉ iOS)
+- Bắt đầu Từ đầu (Windows riêng)
+- Chế độ bị mất (chỉ iOS)
+- Định vị thiết bị (chỉ iOS)
+- Khởi động lại (Windows lại)
 
-Để biết thêm chi tiết về từng hành động, hãy xem các [hành động của thiết bị sẵn dùng](https://docs.microsoft.com/intune/device-management#available-device-actions).
+Để biết thêm chi tiết về từng hành động, hãy xem Hành [động thiết bị sẵn dùng](https://docs.microsoft.com/intune/device-management#available-device-actions).

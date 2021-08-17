@@ -1,5 +1,5 @@
 ---
-title: Quản lý bản ghi cuộc họp cho giáo dục
+title: Quản lý các bản ghi cuộc họp cho Giáo dục
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,35 +13,35 @@ ms.collection: Adm_O365
 ms.custom:
 - "6131"
 - "9002530"
-ms.openlocfilehash: 144480dbed8b74f8b395b6b80c586038a1f12697
-ms.sourcegitcommit: e1d72cf118451ed62e975970e5a2faa4b13282f5
+ms.openlocfilehash: b064c5773a681c1602dc939049d5eb6084fb661906d3a406169c31f313876a6b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 10/24/2020
-ms.locfileid: "48753693"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54042292"
 ---
-# <a name="manage-meeting-recordings-for-education"></a>Quản lý bản ghi cuộc họp cho giáo dục
+# <a name="manage-meeting-recordings-for-education"></a>Quản lý các bản ghi cuộc họp cho Giáo dục
 
-Bắt đầu từ **ngày 20 tháng 8, 2020**, khi người dùng có A1 (bao gồm A1 Plus), giấy phép bắt đầu ghi một cuộc họp nhóm, bản ghi sẽ sẵn dùng trong 21 ngày.
+Bắt đầu từ ngày 20 tháng 8 năm **2020,** khi người dùng có giấy phép A1 (bao gồm giấy phép A1 Cộng) bắt đầu một bản ghi cuộc họp Teams, bản ghi có sẵn trong 21 ngày.
 
-Để biết thêm thông tin, bao gồm cách lưu cuộc họp vào một vị trí khác, hãy xem [tải lên bản ghi cuộc họp của Microsoft nhóm sang dòng](https://docs.microsoft.com/stream/portal-upload-teams-meeting-recording).
+Để biết thêm thông tin, bao gồm cách lưu cuộc họp vào một vị trí khác, hãy xem tạo [Tải lên ghi âm cuộc Microsoft Teams họp mới vào Phát trực tuyến](https://docs.microsoft.com/stream/portal-upload-teams-meeting-recording).
 
-Giờ đây, bản ghi cuộc họp của nhóm Microsoft có thể được lưu trữ trong OneDrive SharePoint, để biết thêm thông tin và chọn tham gia, hãy xem bài đăng Trung tâm thông báo sau đây:
+Microsoft Teams Bản ghi Cuộc họp giờ đây có thể được lưu trong OneDrive SharePoint, để biết thêm thông tin và để chọn tham gia, hãy xem Bài đăng trong Trung tâm Thông báo sau đây:
 
-[Cập Nhóm Microsoft: bản ghi cuộc họp đã lưu vào OneDrive và SharePoint](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter&id=MC222640)
+[(Đã cập nhật) Microsoft Teams: bản ghi cuộc họp được lưu vào OneDrive và SharePoint](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter&id=MC222640)
 
-Việc di chuyển vị trí lưu trữ của bạn vào OneDrive và SharePoint sẽ loại bỏ yêu cầu trước đó mà dòng sẵn dùng trong khu vực của bạn.
+Việc di chuyển vị trí lưu trữ của bạn OneDrive và SharePoint loại bỏ yêu cầu trước đó rằng Stream khả dụng trong khu vực của bạn.
 
-Nếu bạn đang tìm cách **chặn hoặc cho phép** học viên ghi lại các cuộc họp trong nhóm, chúng tôi khuyên bạn nên sử dụng gói chính sách dành cho học viên và an toàn giáo dục. Để biết thêm thông tin, hãy xem:
+Nếu bạn đang tìm  cách chặn hoặc cho phép học viên Ghi lại Cuộc họp trong Teams, chúng tôi khuyên bạn nên sử dụng gói chính sách cho sự an toàn của học viên và giáo viên. Để biết thêm thông tin, hãy xem:
 
-Các [gói chính sách trong Microsoft nhóm](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policy-packages-in-microsoft-teams).
+[Gói chính sách trong Microsoft Teams.](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policy-packages-in-microsoft-teams)
 
-[Các chính sách cần được giao cho an toàn cho sinh viên](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-student-safety).
+[Các chính sách cần được gán cho an toàn của học viên](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-student-safety).
 
-[Các chính sách phải được giao cho các nhà giáo dục](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-educators).
+[Các chính sách nên được gán cho nhà giáo dục.](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-educators)
 
-Nếu bạn chỉ muốn quản lý khả năng ghi lại cuộc họp, hãy xem [bật hoặc tắt ghi âm đám mây](https://docs.microsoft.com/microsoftteams/cloud-recording#turn-on-or-turn-off-cloud-recording).
+Nếu bạn chỉ muốn quản lý khả năng ghi cuộc họp, hãy [xem Bật hoặc tắt tính](https://docs.microsoft.com/microsoftteams/cloud-recording#turn-on-or-turn-off-cloud-recording)năng ghi trên đám mây .
 
-**Ghi chú** Trừ khi bạn đã chọn tham gia vào OneDrive SharePoint lưu trữ cho các nhóm họp bản ghi cuộc họp, các khả năng này sẽ dựa vào trạng thái sẵn sàng của khu vực và quốc gia. Nếu bạn không thể ghi lại cuộc họp, hãy xem mục [khu vực nào đang lưu trữ dữ liệu của tôi trong đó?](https://docs.microsoft.com/stream/faq#which-regions-does-microsoft-stream-host-my-data-in).
+**Lưu ý** Trừ khi bạn đã chọn tham gia để lưu trữ OneDrive SharePoint cho Bản ghi Cuộc họp Teams, những chức năng đó sẽ dựa vào Tính khả dụng của khu vực và quốc gia. Nếu bạn không thể ghi âm cuộc họp, hãy xem Microsoft Stream lưu trữ dữ liệu của tôi [ở khu vực nào?](https://docs.microsoft.com/stream/faq#which-regions-does-microsoft-stream-host-my-data-in).
 
-Để biết thêm thông tin, hãy xem [tính năng đã Cập Nhật: Microsoft Stream Cloud Recordings điều khiển lưu trữ khu vực](https://admin.microsoft.com/AdminPortal/Home#/MessageCenter?id=MC214327).
+Để biết thêm thông tin, hãy xem [Tính năng Cập nhật: Điều khiển lưu trữ khu vực của bản ghi](https://admin.microsoft.com/AdminPortal/Home#/MessageCenter?id=MC214327)đám mây Microsoft Stream.
