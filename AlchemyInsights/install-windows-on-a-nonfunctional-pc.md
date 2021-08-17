@@ -1,5 +1,5 @@
 ---
-title: Cài đặt Windows trên PC không có chức năng
+title: Cài Windows cài đặt trên PC không phải chức năng
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,39 +12,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001473"
 - "3501"
-ms.openlocfilehash: e741b99dcc01aaabce001c8b8fe45161a1d3badd
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 61b52b3ff64ddd0b41551561b3917bbe23cbe0d4ba3209b90f9079bef2c18225
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51832008"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54055468"
 ---
-# <a name="install-windows-on-a-nonfunctional-pc"></a>Cài đặt Windows trên PC không có chức năng
+# <a name="install-windows-on-a-nonfunctional-pc"></a>Cài Windows cài đặt trên PC không phải chức năng
 
-Bạn có thể sử dụng phương tiện cài đặt (USB Flash Drive hoặc DVD) để cài đặt bản sao Windows mới, hãy thực hiện cài đặt sạch hoặc cài đặt lại Windows.
+Bạn có thể sử dụng phương tiện cài đặt (ổ đĩa flash USB hoặc DVD) để cài đặt bản sao Windows mới, thực hiện cài đặt sạch hoặc cài đặt lại Windows.
 
-1. **Xác định vị trí khóa sản phẩm hoặc giấy phép kỹ thuật số của bạn**.
+1. **Định vị khóa sản phẩm hoặc giấy phép kỹ thuật số của bạn.**
 
-    - Nơi tìm khóa sản phẩm của bạn phụ thuộc vào cách bạn nhận được bản sao Windows của bạn. Để được trợ giúp về vị trí của bạn, hãy xem [Tìm khóa sản phẩm Windows của bạn](https://support.microsoft.com/help/10749/windows-10-find-product-key). 
+    - Vị trí để tìm khóa sản phẩm của bạn phụ thuộc vào cách bạn nhận bản sao Windows. Để được trợ giúp định vị khóa sản phẩm của bạn, [xem mục Tìm Windows sản phẩm .](https://support.microsoft.com/help/10749/windows-10-find-product-key) 
 
-2. **Sử dụng ổ đĩa flash USB hoặc DVD để tạo phương tiện cài đặt riêng của bạn**.
+2. **Sử dụng ổ đĩa flash USB hoặc DVD để tạo phương tiện cài đặt của riêng bạn.**
 
-    - Bạn cần một máy tính có chức năng riêng biệt để thực hiện bước này nếu PC để nhận được Windows không có chức năng.
+    - Bạn cần một máy tính hoạt động riêng biệt để thực hiện bước này nếu PC nhận được Windows không phải là chức năng.
 
-    - Chúng tôi khuyên bạn nên sử dụng một USB trống hoặc trống DVD như phương tiện cài đặt vì bất kỳ nội dung nào trên nó sẽ bị xóa.
+    - Chúng tôi khuyên bạn nên sử dụng USB hoặc DVD trống làm phương tiện cài đặt vì mọi nội dung trên đó sẽ bị xóa.
 
-    - Nếu bạn cần định dạng ổ đĩa USB của mình, hãy xem [cài đặt Windows từ ổ đĩa flash USB](https://docs.microsoft.com/windows-hardware/manufacture/desktop/install-windows-from-a-usb-flash-drive) để biết thêm thông tin.
+    - Nếu bạn cần định dạng ổ đĩa USB, hãy xem [Mục Cài Windows ổ đĩa Flash USB để](https://docs.microsoft.com/windows-hardware/manufacture/desktop/install-windows-from-a-usb-flash-drive) biết thêm thông tin.
 
-    - Khi bạn đã sẵn sàng để tạo một phương tiện cài đặt, hãy [tải xuống và chạy công cụ tạo phương tiện](https://www.microsoft.com/software-download/windows10). Xem các hướng dẫn có để biết thêm thông tin về cách sử dụng công cụ.
+    - Khi bạn đã sẵn sàng tạo phương tiện cài đặt, hãy [tải xuống và chạy công cụ tạo phương tiện](https://www.microsoft.com/software-download/windows10). Xem hướng dẫn ở đó để biết thêm thông tin về cách sử dụng công cụ.
 
-3. **Cài đặt Windows thành một PC không có chức năng bằng cách sử dụng ổ đĩa flash hoặc DVD từ USB của bạn từ bước 2**.
+3. Cài Windows vào PC không phải chức năng bằng cách sử dụng ổ **đĩa flash USB hoặc DVD từ Bước 2.**
 
-    - Kết nối các phương tiện cài đặt mà bạn đã tạo ra cho PC không có chức năng của bạn; sau đó bật lại.
+    - Kết nối phương tiện cài đặt bạn đã tạo cho PC không liên quan; sau đó bật lên.
 
-    - Trên màn hình thiết lập ban đầu, hãy nhập ngôn ngữ của bạn và các tùy chọn khác, rồi bấm vào **tiếp theo**. Nếu bạn không nhìn thấy màn hình thiết lập, PC của bạn có thể không được thiết lập để khởi động từ ổ đĩa. Kiểm tra Website của nhà sản xuất PC của bạn để biết thông tin về cách thay đổi thứ tự khởi động trên máy tính của bạn, rồi thử lại.
+    - Trên màn hình thiết lập ban đầu, hãy nhập ngôn ngữ và các tùy chọn khác của bạn và bấm **Tiếp .** Nếu bạn không thấy màn hình thiết lập thì PC của bạn có thể chưa được thiết lập để khởi động từ ổ đĩa. Kiểm tra trang web của nhà sản xuất PC để biết thông tin về cách thay đổi thứ tự khởi động của PC, rồi thử lại.
 
-    - Bấm **sửa chữa máy tính của bạn**.
+    - Bấm sửa **máy tính của bạn.**
 
-    - Trên màn hình **chọn tùy chọn** , bấm **khắc phục sự cố**. Từ đó, bạn có thể khôi phục từ điểm khôi phục Hệ thống.
+    - Trên màn hình **Chọn một tùy chọn,** hãy bấm Khắc **phục sự cố**. Từ đó, bạn có thể khôi phục từ một điểm khôi phục hệ thống.
 
-**Quan trọng**: nếu bạn đang cố gắng cài đặt Windows trên một máy tính có chức năng, bạn có thể làm bước 3 khác nhau. Để biết thêm hướng dẫn về các tình huống khác nhau, hãy xem mục [tùy chọn phục hồi trong Windows 10](https://support.microsoft.com/help/12415/windows-10-recovery-options).
+**Quan** trọng: nếu bạn đang cố gắng cài đặt Windows pc chức năng, bạn có thể thực hiện Bước 3 khác. Để biết thêm hướng dẫn về các kịch bản khác nhau, hãy [xem tùy chọn Phục hồi Windows 10.](https://support.microsoft.com/help/12415/windows-10-recovery-options)

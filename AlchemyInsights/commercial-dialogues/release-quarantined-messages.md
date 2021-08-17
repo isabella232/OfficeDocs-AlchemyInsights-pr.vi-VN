@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: b9daff7b03f34fbadc50c023aad2e7636274cb1a
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: d1ca4a95a9f08255eb631af0996d274395d122bc76ca369944cc029f7f4314f5
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58296073"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896001"
 ---
 # <a name="release-quarantined-messages"></a>Phát hành thư bị cách ly
 
 Bạn có thể phát hành thư bị cách ly (hoặc tập hợp thư) cho tất cả những người nhận, hoặc chỉ phát hành thư cho những người cụ thể mà bạn chọn từ danh sách tất cả những người nhận. Dưới đây là cách thực hiện:
 
-1. In the Bộ bảo vệ Microsoft 365 portal at <https://security.microsoft.com> , go to Email & **Collaboration** \> **Review** \> **Quarantine**.
+1. Trong cổng thông Bộ bảo vệ Microsoft 365 của bạn <https://security.microsoft.com> tại , đi đến Email và Xem lại &  \> **Cách** \> **ly.**
 
    Để đi trực tiếp đến **trang Cách ly,** sử dụng <https://security.microsoft.com/quarantine> .
 

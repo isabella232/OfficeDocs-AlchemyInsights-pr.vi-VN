@@ -1,5 +1,5 @@
 ---
-title: Chạy theo dõi thư
+title: Chạy công cụ tìm thư
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 5cf5a16b4975b6307631858dfa934ff85376561d
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: c5b9c550d02e5201572f2e55154988a33128a047ab373134a59188f6ab59820b
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50483572"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57890620"
 ---
-# <a name="run-a-message-trace"></a>Chạy theo dõi thư
+# <a name="run-a-message-trace"></a>Chạy công cụ tìm thư
 
-Các dấu vết thư được chạy trong phần dòng thư của Trung tâm tuân thủ & bảo mật của Office 365.
+Bạn có thể chạy theo dõi thư từ **Exchange dõi thư** trong cổng thông Bộ bảo vệ Microsoft 365 của bạn tại <https://security.microsoft.com> .
 
-Để tìm hiểu cách chạy theo dõi thư, hãy xem mục [theo dõi thư trong Trung tâm tuân thủ & bảo mật của Office 365](https://go.microsoft.com/fwlink/?linkid=2103855).
+Để biết thêm thông tin, hãy [xem Theo dõi thư trong cổng Bộ bảo vệ Microsoft 365 tin](https://docs.microsoft.com/microsoft-365/security/office-365-security/message-trace-scc)

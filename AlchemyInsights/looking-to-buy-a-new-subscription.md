@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: commerce_purchasing
 ms.assetid: d2a9331d-12e3-4c35-b216-4bdddf6c92c3
-ms.openlocfilehash: 00f01df15069ec779187655500812d7ba06d8e567093f9d6b89f96fe8e57a2dc
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: ae9e8990e826a0cc0f6505dc6c0f2083599cd4866c7f4338d4a1c67568083616
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54500470"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895469"
 ---
 # <a name="looking-to-buy-a-new-subscription"></a>Bạn đang tìm cách mua đăng ký mới?
 
-Nếu bạn đã có đăng ký Microsoft 365 dành cho doanh nghiệp và bạn  muốn mua một đăng ký khác cho tổ chức của mình, hãy truy nhập trang Dịch vụ mua Thanh toán để xem danh sách các đăng ký sẵn dùng cho tổ chức \> [](https://go.microsoft.com/fwlink/p/?linkid=868433) của bạn.
+Nếu bạn đã có đăng ký Microsoft 365 dành cho doanh nghiệp và bạn  muốn mua một đăng ký khác cho tổ chức của mình, hãy đi đến trang Dịch vụ mua Thanh toán để xem danh sách các đăng ký sẵn dùng cho tổ chức \> [](https://go.microsoft.com/fwlink/p/?linkid=868433) của bạn.
  
 1. Chọn đăng ký bạn muốn, rồi chọn **Mua**.
 
@@ -33,8 +33,8 @@ Nếu bạn đã có đăng ký Microsoft 365 dành cho doanh nghiệp và bạn
 
  **Các tài nguyên bổ sung:**
   
-- [Gán giấy phép cho người dùng trong Microsoft 365 dành cho doanh nghiệp](/microsoft-365/admin/add-users/add-users)
+- [Gán giấy phép cho người dùng trong Microsoft 365 dành cho doanh nghiệp](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
     
-- [Hủy bỏ đăng ký của bạn](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+- [Hủy bỏ đăng ký của bạn](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
     
-- If you are interested in switching subscriptions, [see Switch to a different Microsoft 365 for business plan.](/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)
+- If you are interested in switching subscriptions, [see Switch to a different Microsoft 365 for business plan.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)

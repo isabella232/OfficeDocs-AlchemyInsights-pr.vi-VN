@@ -1,5 +1,5 @@
 ---
-title: Bỏ qua phòng đợi
+title: Phòng đợi bỏ qua
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,36 +12,36 @@ ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: bcb40c6f15e957c0a59911322c3b28f03cd562c1
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: dac6690b66181455a1c9c0f40a642b71f2af3516d91ea0853d06564b017b03a2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820056"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54059618"
 ---
-# <a name="control-lobby-settings-and-level-of-participation-in-teams"></a>Kiểm soát các thiết đặt phòng đợi và mức độ tham gia trong nhóm
+# <a name="control-lobby-settings-and-level-of-participation-in-teams"></a>Kiểm soát thiết đặt phòng đợi và cấp độ tham gia trong Teams
 
-Nếu bạn muốn cho phép mọi người, bao gồm cả những người dùng quay số vào, bên ngoài và ẩn danh, để **bỏ qua phòng đợi**, hãy dùng PowerShell để thực hiện tác vụ này. Đây là một ví dụ về việc sửa đổi chính sách cuộc họp toàn cầu cho tổ chức của bạn.
+Nếu bạn muốn cho phép tất cả mọi người, bao gồm người dùng Quay số vào, bên ngoài và ẩn danh, bỏ qua phòng **đợi,** hãy sử dụng PowerShell để thực hiện tác vụ này. Đây là ví dụ về sửa đổi chính sách cuộc họp toàn cầu cho tổ chức của bạn.
 
 `Set-CsTeamsMeetingPolicy -Identity Global -AutoAdmittedUsers "Everyone" -AllowPSTNUsersToBypassLobby $True`
 
-Lệnh ghép ngắn này hiện đang yêu cầu sử dụng mô-đun của Skype for Business PowerShell. Để được thiết lập để sử dụng lệnh ghép ngắn này, hãy xem phần [quản lý chính sách qua PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview#managing-policies-via-powershell).
+Lệnh ghép ngắn này hiện yêu cầu sử dụng Skype for Business-đun PowerShell của bạn. Để được thiết lập sử dụng lệnh ghép ngắn này, hãy xem qua [mục Quản lý chính sách qua PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview#managing-policies-via-powershell).
 
-Sau khi bạn đã thiết lập chính sách, bạn cần áp dụng nó cho người dùng; hoặc nếu bạn đã sửa đổi chính sách toàn cầu, nó sẽ tự động áp dụng cho người dùng. Đối với bất kỳ thay đổi chính sách nào, bạn cần chờ ít nhất **4 giờ tối đa 24 giờ** để các chính sách có hiệu lực. 
+Sau khi đã thiết lập chính sách, bạn cần áp dụng chính sách đó cho người dùng; hoặc, nếu bạn đã sửa đổi Chính sách toàn cầu, nó sẽ tự động áp dụng cho người dùng. Đối với bất kỳ thay đổi chính sách nào, bạn cần chờ ít nhất 4 giờ đến **24** giờ để các chính sách có hiệu lực. 
 
-Hãy đảm bảo bạn xem lại tài liệu dưới đây trước khi thực hiện những thay đổi này để hiểu chính xác những điều này cho phép.
+Hãy nhớ xem lại tài liệu dưới đây trước khi thực hiện những thay đổi này để hiểu chính xác những gì điều này cho phép.
 
 
-## <a name="understanding-teams-meeting-lobby-policy-controls"></a>Tìm hiểu về điều khiển chính sách phòng đợi cuộc họp nhóm
+## <a name="understanding-teams-meeting-lobby-policy-controls"></a>Tìm hiểu về Teams chính sách phòng đợi cuộc họp
 
-Những thiết đặt này kiểm soát những người dự cuộc họp chờ đợi trong phòng đợi trước khi chúng được nhận vào cuộc họp và mức độ tham gia của họ được phép trong cuộc họp. Bạn có thể sử dụng PowerShell để cập nhật các thiết đặt chính sách cuộc họp chưa được thực hiện (có nhãn "Coming Soon") trong Trung tâm quản trị nhóm. Xem phần dưới đây cho một lệnh ghép ngắn PowerShell ví dụ cho phép tất cả người dùng bỏ qua phòng đợi.
+Những thiết đặt này kiểm soát những người dự cuộc họp nào chờ ở phòng đợi trước khi họ được tiếp nhận vào cuộc họp và mức độ tham gia mà họ được phép trong cuộc họp. Bạn có thể sử dụng PowerShell để cập nhật cài đặt chính sách cuộc họp chưa được thực hiện (có nhãn "sắp ra mắt") trong Trung tâm quản trị Teams chính thức. Hãy xem bên dưới để biết ví dụ về lệnh ghép ngắn PowerShell cho phép tất cả người dùng bỏ qua phòng đợi.
 
-- [Tự động thừa nhận mọi người](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#automatically-admit-people) là một chính sách cho mỗi người tổ chức điều khiển cho dù mọi người tham gia cuộc họp trực tiếp hoặc chờ trong phòng đợi cho đến khi chúng được người dùng xác thực thừa nhận.
+- [Tự động chấp nhận mọi](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#automatically-admit-people) người là một chính sách cho mỗi người tổ chức kiểm soát việc mọi người có tham dự cuộc họp trực tiếp hay chờ ở phòng đợi cho đến khi họ được một người dùng xác thực tiếp nhận.
 
-- [Cho phép những người ẩn danh bắt đầu cuộc họp](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-anonymous-people-to-start-a-meeting) là một chính sách cho mỗi người tổ chức điều khiển cho dù những người ẩn danh, bao gồm B2B và người dùng liên kết, có thể tham gia cuộc họp của người dùng mà không có người dùng được xác thực từ tổ chức tham dự.
+- [](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-anonymous-people-to-start-a-meeting) Cho phép người ẩn danh bắt đầu cuộc họp là một chính sách theo người tổ chức kiểm soát việc liệu những người ẩn danh, bao gồm B2B và người dùng được liên kết, có thể tham gia cuộc họp của người dùng mà không có người dùng đã xác thực từ tổ chức tham dự hay không.
 
-- [Cho phép người dùng quay số vào bỏ qua phòng đợi](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-dial-in-users-to-bypass-the-lobby-coming-soon) (**sắp** ra mắt) là chính sách cho mỗi người tổ chức điều khiển cho dù những người quay số vào bằng điện thoại sẽ tham gia cuộc họp trực tiếp hoặc chờ trong phòng đợi, bất kể thiết đặt **mọi người tự động thừa nhận** .
+- Cho phép người dùng quay số vào bỏ qua phòng đợi [(sắp](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-dial-in-users-to-bypass-the-lobby-coming-soon) ra mắt **)** là chính sách từng người tổ chức kiểm soát việc những người quay số vào bằng điện thoại có gia nhập trực tiếp vào cuộc họp hay chờ ở phòng đợi bất kể thiết đặt Tự động tiếp nhận mọi **người.**
 
-- [Cho phép người tổ chức ghi đè các thiết đặt](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-organizers-to-override-lobby-settings-coming-soon) phòng chờ (**sắp** ra mắt) là chính sách cho mỗi người tổ chức kiểm soát việc người tổ chức cuộc họp có thể ghi đè lên các thiết đặt phòng đợi mà người quản trị đã đặt **tự động thừa nhận** và **cho phép người dùng quay số** vào khi họ lên lịch một cuộc họp mới.
+- Cho phép người tổ chức ghi đè lên thiết đặt phòng đợi [(](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-organizers-to-override-lobby-settings-coming-soon) sắp ra mắt **)** là chính sách  từng người  tổ chức kiểm soát việc người tổ chức cuộc họp có thể ghi đè lên thiết đặt phòng đợi mà người quản trị đã đặt trong Tự động tiếp nhận mọi người và Cho phép người dùng quay số vào bỏ qua phòng đợi khi họ lên lịch cuộc họp mới hay không.
 
-**Lưu ý:** Đọc [quản lý chính sách cuộc họp trong nhóm](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) để biết tổng quan về chính sách cuộc họp Microsoft nhóm.
+**Lưu ý:** Hãy đọc [Quản lý chính sách cuộc họp Teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) để có cái nhìn tổng quan đầy đủ về các chính Microsoft Teams họp.

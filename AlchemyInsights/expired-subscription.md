@@ -15,12 +15,12 @@ ms.custom:
 - commerce_subscriptions
 - "456"
 - "1500020"
-ms.openlocfilehash: d36d6c418d405be9acf31bc17f7da511a4941cc790353812dce2f088a2d19604
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 93ce084a307d79c1ca7181c1a3abdd3d038a5b52aace0486b088cbc6ecb4ff57
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54029754"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895909"
 ---
 # <a name="expired-subscription"></a>Đăng ký đã hết hạn
 
@@ -31,17 +31,17 @@ Dường như bạn có một hoặc nhiều đăng ký đã hết hạn. Nếu 
 1. Trong trung tâm quản  trị, đi đến trang Thanh toán \> [Sản phẩm của](https://go.microsoft.com/fwlink/p/?linkid=842054) bạn.
 2. Trên tab **Sản** phẩm, hãy tìm đăng ký mà bạn muốn kích hoạt lại. Chọn ba dot (hành động khác), sau đó chọn **Kích hoạt lại đăng ký này**.
     > [!NOTE]
-    > Nếu bạn không thấy Kích hoạt lại **thuê bao này , hãy gọi** cho bộ máy hỗ trợ.
+    > Nếu bạn không thấy Kích hoạt lại **đăng ký này , hãy gọi** cho bộ máy hỗ trợ.
 3. Trong ngăn **Kích hoạt lại đăng ký này,** chọn một phương thức thanh toán từ danh sách thả xuống hoặc chọn Thêm phương thức thanh **toán**.
 4. Chọn **Lưu**.
 
-Để tìm hiểu thêm, hãy xem [Kích hoạt lại đăng ký của bạn.](/microsoft-365/commerce/subscriptions/reactivate-your-subscription)
+Để tìm hiểu thêm, hãy xem [Kích hoạt lại đăng ký của bạn.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription)
 
 **Thực hiện giao dịch mua mới**
   
 1. Trong trung tâm quản trị, đi đến trang dịch **vụ** \> [Mua Thanh](https://go.microsoft.com/fwlink/p/?linkid=868433) toán.
 2. Chọn đăng ký mà bạn muốn mua, rồi chọn **Mua**.
-3. Nhập số giấy phép bạn cần, rồi chọn thanh toán hàng tháng hay cả năm. Chọn xem bạn có muốn tự động gán giấy phép cho mọi người hiện không có giấy phép hay không. Sau đó **chọn Xem ngay**.
+3. Nhập số giấy phép bạn cần, rồi chọn thanh toán hàng tháng hay cả năm. Chọn xem bạn muốn tự động gán giấy phép cho mọi người hiện không có giấy phép hay không. Sau đó **chọn Xem ngay**.
 4. Làm theo các bước còn lại để hoàn tất quy trình thanh toán.
 
-Để tìm hiểu thêm, hãy xem [Mua một đăng ký khác](/microsoft-365/commerce/buy-another-subscription).
+Để tìm hiểu thêm, hãy xem [Mua một đăng ký khác](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription).

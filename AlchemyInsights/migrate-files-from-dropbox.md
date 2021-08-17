@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "8002"
 - "5300030"
-ms.openlocfilehash: 0180acbddc850691ea2626d4669844ff59bcefa70ed05fc412c3680cc179f22f
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b0774b3ce59c98f83ea9fb1efaef409eb9e0d622
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54065990"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58311205"
 ---
 # <a name="migrate-files-from-dropbox"></a>Di chuyển tệp từ Dropbox
 
-Cộng tác tất cả ở một nơi bằng cách di chuyển tài liệu, dữ liệu và người dùng Dropbox sang các OneDrive, SharePoint và Teams của bạn trong Microsoft 365.
+Cộng tác tất cả ở một nơi bằng cách di chuyển tài liệu, dữ liệu và người dùng Dropbox sang các OneDrive, SharePoint và Teams của mình Microsoft 365.
 
-Để biết thêm thông tin, [hãy xem di chuyển Dropbox di Microsoft 365 với Trình quản lý Di chuyển](/sharepointmigration/mm-dropbox-overview).
+Để biết thêm thông tin, hãy [xem di chuyển Dropbox di chuyển sang Microsoft 365 trình quản lý di chuyển](https://docs.microsoft.com/sharepointmigration/mm-dropbox-overview).
 

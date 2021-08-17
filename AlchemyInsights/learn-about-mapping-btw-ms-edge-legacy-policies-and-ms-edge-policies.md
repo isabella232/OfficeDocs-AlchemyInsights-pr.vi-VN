@@ -1,5 +1,5 @@
 ---
-title: Tìm hiểu về ánh xạ giữa các chính sách kế thừa của Microsoft Edge và các chính sách Microsoft Edge
+title: Tìm hiểu về ánh xạ giữa các chính Microsoft Edge phiên bản cũ và chính sách liên Microsoft Edge chính sách
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -12,13 +12,13 @@ localization_priority: Normal
 ms.custom:
 - "9003843"
 - "7095"
-ms.openlocfilehash: f9d65c043ee726fa110b09d38cdd4ee6b72c2d7b
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: 6891f2d0ee2b1fe4893d5b6173737f8ba20e2d50ef68e51a764e5f9f1fc7f790
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573819"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54087410"
 ---
-# <a name="learn-about-mapping-between-microsoft-edge-legacy-policies-and-microsoft-edge-policies"></a>Tìm hiểu về ánh xạ giữa các chính sách kế thừa của Microsoft Edge và các chính sách Microsoft Edge
+# <a name="learn-about-mapping-between-microsoft-edge-legacy-policies-and-microsoft-edge-policies"></a>Tìm hiểu về ánh xạ giữa các chính Microsoft Edge phiên bản cũ và chính sách liên Microsoft Edge chính sách
 
-Các chính sách nhóm của Microsoft Edge Legacy (Phiên bản 45 trở lên) và bản đồ thiết đặt thiết bị di động (MDM) vào chính sách liên quan của Microsoft EDGE Version 80. Để tìm hiểu thêm, hãy xem mục [Microsoft Edge Legacy vào bản đồ chính sách của Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2141665).
+Các Chính sách Nhóm của Microsoft Edge phiên bản cũ (phiên bản 45 trở về trước) và thiết đặt Quản lý Thiết bị Di động (MDM) ánh xạ đến các chính sách liên quan của phiên Microsoft Edge 80. Để tìm hiểu thêm, hãy [xem Microsoft Edge phiên bản cũ để biết Microsoft Edge chính sách ánh xạ](https://go.microsoft.com/fwlink/?linkid=2141665).

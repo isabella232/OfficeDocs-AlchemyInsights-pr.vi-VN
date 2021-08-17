@@ -1,5 +1,5 @@
 ---
-title: Nâng cao tay của bạn trong nhóm
+title: Hãy giơ cao tay Teams
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,28 +12,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002646"
 - "5086"
-ms.openlocfilehash: 879bb55280dd58a95539e90d27a9c2f23cd6cacd
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 3f9f584019726f5d30d384044b3c11ac215ca371c06f6472a8d479b38ccaf537
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51789886"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54111062"
 ---
-# <a name="raise-your-hand-in-teams"></a>Nâng cao tay vào nhóm!
+# <a name="raise-your-hand-in-teams"></a>Hãy giơ cao tay Teams!
 
-- Tính năng nâng cao tay mới trong nhóm cho phép người dự cuộc họp xác định rằng họ muốn nói chuyện bằng cách trao đổi biểu tượng bàn tay trong thanh điều khiển cuộc họp, giúp bạn dễ dàng tham gia vào các cuộc họp.
-- Nâng cao tay sẽ sẵn dùng cho máy khách PC, máy Mac và nền web.
-- Hỗ trợ cho các ứng dụng di động sẽ theo dõi. Chúng tôi sẽ thực hiện bước này trong Mid-April.
-- Mong đợi hỗ trợ tính năng trong môi trường của chính phủ và trên nền tảng di động (iOS và Android) vào cuối tháng 5.
-- Thông báo này được liên kết với Microsoft 365 lộ trình 62755.
+- Tính năng nâng cao tay mới trong Teams cho phép người dự cuộc họp xác định họ muốn nói bằng cách bật/đổi biểu tượng bàn tay trong thanh điều khiển cuộc họp, giúp họ tham gia các cuộc họp dễ dàng hơn.
+- Nâng cao tay sẽ sẵn dùng ban đầu cho máy tính cá nhân, máy Mac và máy khách trên nền web.
+- Tiếp theo sẽ cần hỗ trợ cho các ứng dụng dành cho thiết bị di động. Chúng tôi sẽ dần triển khai tính năng này vào giữa Tháng Tư.
+- Hỗ trợ tính năng mong đợi trong môi trường chính phủ và trên nền tảng di động (iOS và Android) vào cuối Tháng Năm.
+- Thông báo này được liên kết Microsoft 365 LỘ TRÌNH ID 62755.
 
-những **hạn chế đã biết**:
+**GIỚI HẠN ĐÃ BIẾT:**
 
-- Tại thời điểm này, 1:1 cuộc gọi/trò chuyện không được hỗ trợ.
-- Những người dự quay số vào PSTN sẽ không thể sử dụng tính năng này.
-- Những người dùng đang chia sẻ màn hình máy tính hoặc màn hình sẽ không thể nhìn thấy bàn tay nâng cao (chúng tôi đang làm việc trên tính năng này).
-- Diễn giả hiện không thể hạ được tất cả các bàn tay được nâng cao, ví dụ, nếu thời gian đã chấm hỏi (tính năng trong sự phát triển).
-- Hiện tại không có phân tích nào sẵn dùng trên tính năng này (trong phần xem xét).
-- Biểu tượng bàn tay không có Flash/animate (tính năng trong phát triển).
-- Khi một bàn tay lớn lên, không có thông báo nào trong Chat (bên dưới xem xét).
-- Người dùng (người dự) nâng cao tay của họ sẽ không biết "đơn đặt hàng" là gì; diễn giả sẽ thấy người dự theo thứ tự chúng nâng cao tay (tính năng trong phát triển).
+- Hiện tại, các cuộc gọi/cuộc trò chuyện 1:1 không được hỗ trợ.
+- Người dự quay số vào PSTN SẼ KHÔNG thể sử dụng tính năng này.
+- Người dùng đang chia sẻ màn hình nền hoặc màn hình SẼ KHÔNG thể nhìn thấy bàn tay đang giơ cao (chúng tôi đang làm việc trên tính năng này).
+- Diễn giả hiện không thể hạ thấp tất cả các tay đang giơ cao, ví dụ, nếu hết thời gian câu hỏi (tính năng phát triển).
+- Hiện không có phân tích nào về tính năng này (đang được cân nhắc).
+- Biểu tượng bàn tay không nháy/hoạt hình (tính năng đang được phát triển).
+- Khi bạn giơ tay lên, không có thông báo trong chat (đang được cân nhắc).
+- Người dùng (người dự) giơ tay của họ sẽ không biết họ đang ở "đơn hàng" gì; diễn giả sẽ thấy người dự theo thứ tự họ giơ cao tay (tính năng phát triển).
