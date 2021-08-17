@@ -1,5 +1,5 @@
 ---
-title: Bắt đầu sử dụng báo cáo mức sử dụng Microsoft Search
+title: Bắt đầu sử dụng báo cáo Tìm kiếm của Microsoft dụng
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006479"
 - "11047"
-ms.openlocfilehash: 2da847a66d227cbad07d56d733488a216deacbe7
-ms.sourcegitcommit: 29a88bc83086b18b0e0fd14fe8ed18a4f88edd06
+ms.openlocfilehash: b5bfba500c229ee58f82fde1de01da91c46ecbc991fb4c2f7418b0dc3bf141e5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/25/2021
-ms.locfileid: "52676559"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54077312"
 ---
-# <a name="get-started-with-using-microsoft-search-usage-reports"></a>Bắt đầu sử dụng báo cáo mức sử dụng Microsoft Search
+# <a name="get-started-with-using-microsoft-search-usage-reports"></a>Bắt đầu sử dụng báo cáo Tìm kiếm của Microsoft dụng
 
-Báo cáo mức sử dụng Tìm kiếm của Microsoft cung cấp thông tin chuyên sâu về cách tìm kiếm hoạt động trong tổ chức của bạn. Những thông tin chuyên sâu này sẽ giúp bạn tìm nội dung và tạo tìm kiếm một trải nghiệm hữu ích và thú vị hơn cho người dùng trong tổ chức của bạn.
+Tìm kiếm của Microsoft báo cáo mức sử dụng cung cấp thông tin chuyên sâu về cách tìm kiếm hoạt động trong tổ chức của bạn. Những thông tin chuyên sâu này sẽ giúp bạn tìm nội dung và tạo tìm kiếm một trải nghiệm hữu ích và thú vị hơn cho người dùng trong tổ chức của bạn.
 
-Để tìm hiểu thêm, hãy xem mục [Báo cáo Mức sử dụng tìm kiếm của Microsoft](https://go.microsoft.com/fwlink/?linkid=2152048).
+Để tìm hiểu thêm, hãy xem [Tìm kiếm của Microsoft Báo cáo Sử dụng](https://go.microsoft.com/fwlink/?linkid=2152048).

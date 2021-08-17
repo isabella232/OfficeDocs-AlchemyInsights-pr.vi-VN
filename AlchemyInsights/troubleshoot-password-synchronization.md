@@ -14,31 +14,31 @@ ms.custom:
 - "579"
 - "1300006"
 ms.assetid: 1cba32c4-37ce-4ec1-9e58-8d3440b53d57
-ms.openlocfilehash: 96f63f2ae8e5de246bce7fc15a9b2c3d604f2eb8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cb782c0d1dc396ee7a9f016afb9629a2cdee93d52f5408b7a73e576e783ebc0a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664948"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54105800"
 ---
 # <a name="troubleshoot-password-synchronization"></a>Khắc phục sự cố đồng bộ hóa mật khẩu
 
-Để khắc phục sự cố về đồng bộ hóa mật khẩu, hãy bắt đầu bằng cách sử dụng tác vụ khắc phục sự cố kết nối này để xác định tại sao mật khẩu không đồng bộ. Để bắt đầu, hãy đi đến [quản lý đồng bộ trực tiếp](https://admin.microsoft.com/AdminPortal/Home#/dirsyncmanagement).  
+Để khắc phục sự cố đồng bộ hóa mật khẩu, hãy bắt đầu bằng cách sử dụng AAD này để Kết nối cố khắc phục sự cố để xác định lý do mật khẩu không đồng bộ. Để bắt đầu, hãy đi tới Quản [lý đồng bộ trực tiếp](https://admin.microsoft.com/AdminPortal/Home#/dirsyncmanagement).  
 
-1. Mở phiên Windows PowerShell mới trên máy chủ Azure AD Connect của bạn, rồi chọn tùy chọn **chạy với tư cách người quản trị** .
+1. Mở một phiên làm Windows PowerShell trên máy chủ azure AD Kết nối của bạn, rồi chọn tùy chọn **Chạy với vai trò Người quản** trị.
 
-2. Chạy Set-ExecutionPolicy RemoteSigned hoặc Set-ExecutionPolicy không hạn chế.
+2. Chạy Set-ExecutionPolicy ký từ xa hoặc Set-ExecutionPolicy Hạn chế.
 
-3. Khởi động trình hướng dẫn Azure AD Connect.
+3. Khởi động trình hướng dẫn Kết nối Azure AD.
 
-4. Đi đến trang nhiệm vụ bổ sung > **khắc phục sự cố**  >  **tiếp theo**.
+4. Đi đến trang Nhiệm vụ Bổ sung để > **khắc phục sự cố tiếp**  >  **theo**.
 
-5. Chọn **khởi động** để mở menu khắc phục sự cố PowerShell.
+5. Chọn **Khởi** chạy để mở menu khắc phục sự cố PowerShell.
 
-6. Chọn **khắc phục sự cố đồng bộ hóa mật khẩu**.
+6. Chọn **Khắc phục sự cố Đồng bộ hóa Mật khẩu**.
 
-    Vấn đề thường là một mật khẩu không được đồng bộ cho một tài khoản người dùng cụ thể.
+    Vấn đề thường là mật khẩu không được đồng bộ hóa cho một tài khoản người dùng cụ thể.
 
-    **Ghi chú** Đồng bộ hóa mật khẩu không thể nếu đồng bộ mật khẩu đã thành công cuối cùng đã được một thời gian trước đây.
+    **Ghi chú** Đồng bộ hóa mật khẩu không thành công nếu lần đồng bộ mật khẩu thành công gần đây nhất đã xảy ra cách đây một thời gian.
 
-Để biết thêm trợ giúp khắc phục sự cố đồng bộ hóa mật khẩu, hãy xem [khắc phục sự cố đồng bộ hóa băm mật khẩu với AZURE AD Connect Sync](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization).
+Để biết thêm trợ giúp khắc phục sự cố đồng bộ hóa mật khẩu, hãy xem mục Khắc phục sự cố đồng bộ hóa băm mật khẩu [với Azure AD Kết nối đồng bộ](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization).

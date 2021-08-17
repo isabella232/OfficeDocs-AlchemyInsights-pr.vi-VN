@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001721"
 - "4341"
-ms.openlocfilehash: 308ab6028962564f10f44e60654ac1dbfeac766a
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8487e50c89edc2130419d722b7588f8ee5d239b44a17ae55456ee2fc3442181e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51791398"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54077060"
 ---
-# <a name="no-access-to-teams-admin-center"></a>Không có quyền truy nhập vào Trung tâm quản trị nhóm
+# <a name="no-access-to-teams-admin-center"></a>Không có quyền truy nhập vào Teams tâm Quản trị
 
-Tìm hiểu thêm về cách quản lý thiết đặt nhóm Microsoft cho tổ chức của bạn với [Trung tâm quản trị nhóm](https://docs.microsoft.com/microsoftteams/enable-features-office-365).
+Tìm hiểu thêm về việc quản lý Microsoft Teams thiết đặt công ty cho tổ chức của bạn với [Trung tâm Quản Teams Chính.](https://docs.microsoft.com/microsoftteams/enable-features-office-365)
 
-Bạn không thể truy nhập [Trung tâm quản trị nhóm](https://docs.microsoft.com/microsoftteams/enable-features-office-365)? Sự cố hiện hoạt có thể xảy ra và khiến bạn không truy nhập trung tâm quản trị nhóm, vui lòng kiểm tra bảng điều khiển trạng thái [dịch vụ](https://status.office365.com/) để biết chi tiết.
+Bạn không thể truy nhập Vào Trung [Teams tâm Quản trị?](https://docs.microsoft.com/microsoftteams/enable-features-office-365) Sự cố Dịch vụ Hiện hoạt có thể xảy ra và khiến bạn không truy nhập được vào Trung tâm quản trị Teams, vui lòng kiểm tra Bảng [điều khiển Tình trạng Dịch vụ của bạn để](https://status.office365.com/) biết chi tiết.
 
-Để biết các bước khắc phục sự cố chi tiết về lỗi, FAILED_TO_AUTO_DISCOVER_DOMAIN, hãy xem [FAILED_TO_AUTO_DISCOVER_DOMAIN lỗi trong Trung tâm quản trị nhóm Microsoft](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-administration/failed-to-auto-discover-domain-error-teams-admin-center).
+Để biết các bước khắc phục sự cố chi tiết về lỗi, FAILED_TO_AUTO_DISCOVER_DOMAIN, [hãy xem FAILED_TO_AUTO_DISCOVER_DOMAIN lỗi trong Microsoft Teams tâm quản trị .](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-administration/failed-to-auto-discover-domain-error-teams-admin-center)

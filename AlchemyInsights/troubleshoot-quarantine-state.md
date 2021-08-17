@@ -1,5 +1,5 @@
 ---
-title: Khắc phục sự cố trạng thái kiểm dịch
+title: Khắc phục sự cố về trạng thái cách ly
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "7853"
 - "9004348"
-ms.openlocfilehash: 3ee932b7788f4aff3c8bc762c5c917124edfe065
-ms.sourcegitcommit: 953a8567ebcd9835f8c5c49472b223107c92549b
+ms.openlocfilehash: f68ae572f9236a296d84636ece2277f5bac2648c60ad1a79839a9163e200080b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "49949927"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54105734"
 ---
-# <a name="troubleshoot-quarantine-state"></a>Khắc phục sự cố trạng thái kiểm dịch
+# <a name="troubleshoot-quarantine-state"></a>Khắc phục sự cố về trạng thái cách ly
 
-Dịch vụ cung cấp Azure Active Directory (AD) giám sát trạng thái của cấu hình của bạn. Nó cũng đặt các ứng dụng không lành mạnh **trong trạng thái** kiểm dịch. Nếu hầu hết, hoặc tất cả các cuộc gọi được thực hiện đối với hệ thống đích nhất quán không thành công, thì việc cung cấp sẽ được đánh dấu là **trong cách ly**. Một ví dụ về lỗi là **một lỗi đã nhận được vì thông tin xác thực của người quản trị không hợp lệ**. Để biết thêm thông tin, hãy xem mục [cung cấp ứng dụng trong trạng thái cách ly](https://docs.microsoft.com/azure/active-directory/app-provisioning/application-provisioning-quarantine-status).
+Dịch vụ Azure Active Directory cấp Dịch vụ cung cấp (AD) sẽ theo dõi tình trạng cấu hình của bạn. Ứng dụng này cũng đặt các ứng dụng không tốt ở **trạng thái cách** ly. Nếu hầu hết hoặc tất cả cuộc gọi được thực hiện đối với hệ thống đích không thực hiện một cách nhất quán thì công việc cung cấp được đánh dấu là **trong cách ly**. Ví dụ về lỗi là lỗi nhận **được do thông tin đăng nhập của người quản trị không hợp lệ.** Để biết thêm thông tin, hãy [xem phần Cấp phép ứng dụng trong trạng thái cách ly.](https://docs.microsoft.com/azure/active-directory/app-provisioning/application-provisioning-quarantine-status)
 
-Để khắc phục sự cố đồng bộ đám mây, hãy xem các [vấn đề về cách ly](https://docs.microsoft.com/azure/active-directory/cloud-sync/how-to-troubleshoot#provisioning-quarantined-problems). 
+Để khắc phục sự cố về đồng bộ điện [toán đám mây, hãy xem Phần cấp phép các vấn đề về cách ly.](https://docs.microsoft.com/azure/active-directory/cloud-sync/how-to-troubleshoot#provisioning-quarantined-problems) 

@@ -1,5 +1,5 @@
 ---
-title: 1490-khắc phục sự cố-khám phá điện tử-hỏng
+title: 1490-troubleshooting-eDiscovery-failures
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -14,27 +14,27 @@ ms.custom:
 - "1490"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: ff28f96d64ec14980e9a47b630246b394faf4610
-ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
+ms.openlocfilehash: 7b819b9bb18b5c0a635e708eccc0f23271267874707e5f3a7d41b633a05f2822
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48277839"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54105590"
 ---
-# <a name="troubleshoot-content-search-errors"></a>Khắc phục lỗi tìm kiếm nội dung
+# <a name="troubleshoot-content-search-errors"></a>Khắc phục lỗi Tìm kiếm Nội dung
 
-Bạn gặp sự cố với tìm kiếm nội dung hoặc nhận được lỗi khi bạn xuất kết quả tìm kiếm?
+Bạn đang gặp sự cố với Tìm kiếm Nội dung hoặc gặp thất bại khi xuất kết quả tìm kiếm?
 
-Ví dụ, bạn có nhận được những thao tác sau khi tìm kiếm chạy không?
+Ví dụ: bạn có nhận được thông báo sau khi chạy tìm kiếm không?
 
 - Lỗi CS008 hoặc CS012
 
-- Lỗi bận/thời gian chờ máy chủ
+- Lỗi máy chủ bận/thời gian chờ
 
-- Lỗi ứng dụng đã xảy ra
+- Đã xảy ra lỗi ứng dụng
 
-Hoặc khi tìm kiếm hoặc xuất kết quả từ số lượng hộp thư lớn (trên hộp thư 100.000), thì bạn sẽ nhận được lỗi xuất hiện?
+Hoặc khi tìm kiếm hoặc xuất kết quả từ một số lượng lớn các hộp thư (hơn 100.000 hộp thư), bạn có gặp lỗi xuất không?
 
-Đối với các loại lỗi này, hãy thử lại việc tìm kiếm các vị trí nội dung không thành công. Xem  [bài viết này](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) để biết thêm thông tin.
+Đối với các loại lỗi này, hãy tìm kiếm lại các vị trí nội dung đã không thành công. Hãy xem  [bài viết này](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) để biết thêm thông tin.
 
-Nếu bạn đang xuất nhiều hơn 100K hộp thư, bạn sẽ cần sử dụng PowerShell sau đây để tải xuống các kết quả xuất:  [xuất kết quả từ hơn 100k hộp thư](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide%23exporting-results-from-more-than-100000-mailboxes).
+Nếu bạn đang xuất hơn 100K hộp thư, bạn sẽ cần sử dụng Powershell sau để tải xuống kết quả Xuất: Xuất kết quả từ  [hơn 100K hộp](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide%23exporting-results-from-more-than-100000-mailboxes)thư.

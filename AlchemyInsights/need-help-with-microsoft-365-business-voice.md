@@ -1,5 +1,5 @@
 ---
-title: Bạn cần trợ giúp với Microsoft 365 Business Premium Voice?
+title: Bạn cần trợ giúp với tính Microsoft 365 Business Premium Thoại?
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001713"
 - "3795"
-ms.openlocfilehash: 014752ac52038c2e49d7d440d17c6f24ce10102d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 0f8b02eb71adf56fe221d9ae7e9ace4c3566da0bdc03a93698746e938a36a283
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51792622"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54077276"
 ---
-# <a name="need-help-with-microsoft-365-business-premium-voice"></a>Bạn cần trợ giúp với Microsoft 365 Business Premium Voice?
+# <a name="need-help-with-microsoft-365-business-premium-voice"></a>Bạn cần trợ giúp với tính Microsoft 365 Business Premium Thoại?
 
-Giọng nói Microsoft 365 Business Premium giúp bạn dễ dàng cho các tổ chức nhỏ và trung bình để chuyển các nhóm Microsoft thành một hệ thống điện thoại mạnh mẽ và linh hoạt. Để biết thêm thông tin về giọng nói doanh nghiệp, hãy xem [giọng nói của Microsoft 365 Business Premium là gì?](https://docs.microsoft.com/microsoftteams/business-voice/whats-business-voice)
+Microsoft 365 Business Premium Thoại giúp cho các tổ chức nhỏ và vừa dễ dàng chuyển thiết bị Microsoft Teams điện thoại mạnh mẽ và linh hoạt. Để biết thêm thông tin về Business Voice, hãy [xem Thoại Microsoft 365 Business Premium là gì?](https://docs.microsoft.com/microsoftteams/business-voice/whats-business-voice)
 
-Nếu bạn đã mua Microsoft 365 Business Premium Voice, trình [hướng dẫn bắt đầu](https://docs.microsoft.com/microsoftteams/business-voice/use-getting-started-wizard) có thể giúp bạn nhận được những điều sẽ xảy ra. 
+Nếu bạn đã mua Voice Microsoft 365 Business Premium, trình hướng dẫn [Bắt đầu có thể](https://docs.microsoft.com/microsoftteams/business-voice/use-getting-started-wizard) giúp bạn làm mọi thứ. 

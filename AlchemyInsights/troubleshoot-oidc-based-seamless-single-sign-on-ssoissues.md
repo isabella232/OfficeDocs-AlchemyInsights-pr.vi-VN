@@ -1,5 +1,5 @@
 ---
-title: Khắc phục sự cố các vấn đề đăng nhập đơn (SSO) trên nền tảng OIDC
+title: Khắc phục sự cố Đăng nhập Một lần (SSO) dựa trên OIDC
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004357"
 - "9375"
-ms.openlocfilehash: e4ddde6176d9ab021b93e23b3cb363e10b1c1048
-ms.sourcegitcommit: be246651064dfeacc866b2f69c0dbe4002a73f1c
+ms.openlocfilehash: 5880ee37a2fcc98b34231cc9960fb3f87fa184b07bd81ccd37d0ea5a78170af0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747136"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54105806"
 ---
-# <a name="troubleshoot-oidc-based-seamless-single-sign-on-sso-issues"></a>Khắc phục sự cố các vấn đề đăng nhập đơn (SSO) trên nền tảng OIDC
+# <a name="troubleshoot-oidc-based-seamless-single-sign-on-sso-issues"></a>Khắc phục sự cố Đăng nhập Một lần (SSO) dựa trên OIDC
 
-- Để tìm hiểu cách thêm ứng dụng dựa trên OIDC vào đối tượng Azure của bạn, hãy xem [bắt đầu nhanh: thiết lập đăng nhập vào OIDC (SSO) cho một ứng dụng trong đối tượng thuê Azure Active Directory (AZURE AD) của bạn](https://docs.microsoft.com/azure/active-directory/manage-apps/add-application-portal-setup-oidc-sso).
-- Để biết thêm chi tiết về các ứng dụng sử dụng tiêu chuẩn kết nối OpenID để thực hiện đăng nhập đơn, hãy xem mục [Tìm hiểu đăng nhập OIDC](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-oidc-single-sign-on).
-- Để biết thông tin trong trường hợp bạn chọn để viết mã của bạn bằng cách gửi trực tiếp và xử lý các yêu cầu HTTP hoặc sử dụng thư viện nguồn mở của bên thứ ba, thay vì sử dụng một trong các thư viện nguồn mở của chúng tôi, hãy xem mục [OAuth 2,0 và OpenID kết nối giao thức trên nền tảng định danh Microsoft](https://docs.microsoft.com/azure/active-directory/develop/active-directory-v2-protocols).
+- Để tìm hiểu cách thêm ứng dụng dựa trên OIDC vào đối tượng thuê Azure của bạn, hãy xem Bắt đầu nhanh: Thiết lập đăng nhập đơn dựa trên [OIDC (SSO)](https://docs.microsoft.com/azure/active-directory/manage-apps/add-application-portal-setup-oidc-sso)cho một ứng dụng trong đối tượng thuê Azure Active Directory (Azure AD) của bạn.
+- Để biết thêm chi tiết về các ứng dụng sử dụng tiêu chuẩn Kết nối OpenID để triển khai đăng nhập một lần, xem mục Hiểu rõ đăng nhập đơn dựa [trên OIDC.](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-oidc-single-sign-on)
+- Để biết thông tin trong trường hợp bạn chọn ghi mã của mình bằng cách gửi và xử lý trực tiếp các yêu cầu HTTP hoặc sử dụng thư viện mã nguồn mở của bên thứ ba, thay vì sử dụng một trong các thư viện mã nguồn mở của chúng tôi, hãy xem các giao thức [OAuth 2.0](https://docs.microsoft.com/azure/active-directory/develop/active-directory-v2-protocols)và OpenID Kết nối trên Nền tảng định danh Microsoft.
 
-**Å**
+**Giao thức**
 
-1. [Nền tảng Microsoft Identity và dòng cấp tiềm ẩn](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-implicit-grant-flow) -các đặc tính xác định của Grant tiềm ẩn là thẻ (thẻ ID hoặc thẻ truy nhập) được trả về trực tiếp từ điểm cuối/ủy nhiệm thay vì điểm cuối/token. Điều này thường được sử dụng như một phần của dòng mã ủy quyền, trong điều gì được gọi là **"dòng hỗn hợp"-truy xuất mã thông báo ID theo yêu cầu/ủy quyền cùng với một mã ủy quyền**. Bài viết này mô tả cách chương trình trực tiếp chống lại giao thức trong ứng dụng của bạn để yêu cầu thẻ từ Azure AD.
-2. [Nền tảng Microsoft Identity và dòng mã ủy quyền oauth 2,0](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-auth-code-flow) -cấp phép mã oauth 2,0 có thể được sử dụng trong các ứng dụng được cài đặt trên một thiết bị để truy nhập vào các tài nguyên được bảo vệ, chẳng hạn như các API web. Sử dụng Microsoft Identity Platform thực hiện của OAuth 2,0, bạn có thể **Thêm đăng nhập và truy nhập API vào ứng dụng di động và máy tính bàn của bạn**. Bài viết này mô tả cách chương trình trực tiếp chống lại giao thức trong ứng dụng của bạn bằng bất kỳ ngôn ngữ nào.
-3. [Microsoft Identity Platform và giao thức kết nối OpenID](https://docs.microsoft.com/azure/active-directory/develop/v2-protocols-oidc) -khi bạn sử dụng triển khai kết nối OpenID Identity Platform của Microsoft, bạn có thể thêm đăng nhập và truy nhập API vào ứng dụng của mình. Bài viết này trình bày cách làm điều này độc lập với ngôn ngữ và mô tả cách **gửi và nhận thư http mà không cần sử dụng bất kỳ thư viện nguồn mở nào của Microsoft**.
-4. [Nền tảng Microsoft Identity và dòng chứng danh máy khách oauth 2,0](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-client-creds-grant-flow) -bạn có thể dùng cấp chứng danh máy khách oauth 2,0 đã xác định trong RFC 6749, đôi khi được gọi là **hai chân OAuth**, để truy nhập vào các tài nguyên được lưu trữ trên web bằng cách sử dụng danh tính của một ứng dụng. Loại tài trợ này thường được sử dụng cho các tương tác máy chủ phải chạy trong nền, không có sự tương tác ngay lập tức với người dùng. Những loại ứng dụng này thường được gọi là tài khoản **daemons** hoặc **dịch vụ**. Bài viết này mô tả cách chương trình trực tiếp chống lại giao thức trong ứng dụng của bạn.
+1. [Nền tảng định danh Microsoft](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-implicit-grant-flow) và ngầm cấp - Đặc tính xác định của khoản cấp ẩn là các mã thông báo (mã thông báo ID hoặc mã thông báo truy nhập) được trả về trực tiếp từ điểm cuối /authorize thay vì điểm cuối /token. Điều này thường được sử dụng như một phần của dòng mã ủy quyền, trong dòng được gọi là "dòng hỗn **hợp" -** truy xuất mã thông báo ID trên yêu cầu /ủy quyền cùng với mã ủy quyền . Bài viết này mô tả cách lập trình trực tiếp đối với giao thức trong ứng dụng của bạn để yêu cầu mã thông báo từ Azure AD.
+2. Nền tảng định danh Microsoft và dòng mã ủy quyền [OAuth 2.0](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-auth-code-flow) - có thể sử dụng cấp mã ủy quyền OAuth 2.0 trong các ứng dụng được cài đặt trên thiết bị để có quyền truy nhập vào các tài nguyên được bảo vệ, chẳng hạn như các API web. Sử dụng công Nền tảng định danh Microsoft thực hiện OAuth 2.0, bạn có thể thêm quyền đăng nhập và truy nhập API vào các ứng dụng dành cho thiết bị di động **và máy tính.** Bài viết này mô tả cách lập trình trực tiếp đối với giao thức trong ứng dụng của bạn bằng bất kỳ ngôn ngữ nào.
+3. Nền tảng định danh Microsoft giao thức [Kết nối OpenID](https://docs.microsoft.com/azure/active-directory/develop/v2-protocols-oidc) - Khi bạn sử dụng việc triển khai OpenID Kết nối Nền tảng định danh Microsoft của Nền tảng định danh Microsoft, bạn có thể thêm quyền đăng nhập và truy nhập API vào các ứng dụng của mình. Bài viết này cho biết cách làm điều này độc lập với ngôn ngữ và mô tả cách gửi và nhận thư HTTP mà không sử dụng bất kỳ **thư viện nguồn mở nào của Microsoft.**
+4. Nền tảng định danh Microsoft và dòng thông tin xác thực máy khách [OAuth 2.0](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-client-creds-grant-flow) - Bạn có thể sử dụng thông tin xác thực máy khách OAuth 2.0 được chỉ định trong RFC 6749, đôi khi được gọi là **OAuth** hai chân , để truy nhập các tài nguyên được lưu trữ trên web bằng cách sử dụng danh tính của một ứng dụng. Loại cấp này thường được sử dụng cho các tương tác giữa các máy chủ và máy chủ phải chạy ở nền mà không có tương tác ngay lập tức với người dùng. Những kiểu ứng dụng này thường được gọi là tài **khoản đăng ký hoặc** tài khoản dịch **vụ**. Bài viết này mô tả cách lập trình trực tiếp trên giao thức trong ứng dụng của bạn.
