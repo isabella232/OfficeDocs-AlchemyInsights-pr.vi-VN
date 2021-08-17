@@ -1,5 +1,5 @@
 ---
-title: Xem lịch sử Phiên bản
+title: Xem lịch sử phiên bản
 ms.author: toresing
 author: tomresing
 ms.date: 04/21/2020
@@ -9,21 +9,21 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 34c73c42-e4a0-41ab-8eb8-a834d4bb04c4
-ms.openlocfilehash: cd955ccbc393d7052b42cb75fb0158dc46957a72
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8a50b491ee0601b6d48b0986ce8c51081549ad80516b2fc9d52f1bf6e7c025cf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796454"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54037162"
 ---
-# <a name="view-version-history-of-a-file-or-list-item"></a>Xem lịch sử Phiên bản của một tệp hoặc mục danh sách
+# <a name="view-version-history-of-a-file-or-list-item"></a>Xem lịch sử phiên bản của một tệp hoặc mục danh sách
 
-1. Đi tới site SharePoint và mở danh sách hoặc thư viện từ thanh khởi động nhanh. Nếu tên của danh sách hoặc thư viện không xuất hiện, hãy bấm vào **nội dung site** hoặc **xem tất cả nội dung trang**, rồi bấm vào tên.
+1. Đi đến trang SharePoint của bạn và mở danh sách hoặc thư viện từ thanh Khởi động Nhanh. Nếu tên của danh sách hay thư viện đó không xuất hiện, hãy bấm Nội dung **Site** hoặc Xem Tất cả Nội dung **Site**, rồi bấm vào tên đó.
     
-2. Bấm chuột phải vào khoảng trống giữa mục hoặc tên tài liệu và ngày, sau đó bấm **lịch sử Phiên bản** từ menu. Bạn có thể cần cuộn menu để xem **lịch sử Phiên bản**. Nếu bạn không nhìn thấy nó, hãy bấm vào dấu chấm lửng (...) trong hộp thoại, rồi bấm **lịch sử Phiên bản**.
+2. Bấm chuột phải vào khoảng cách giữa mục hoặc tên tài liệu và ngày, rồi bấm Lịch **sử Phiên bản** từ menu. Có thể bạn cần cuộn menu để xem Lịch **sử Phiên bản**. Nếu bạn không nhìn thấy dấu chấm lửng đó, hãy bấm vào dấu chấm lửng (...) trong hộp thoại, rồi bấm Lịch **sử Phiên bản**.
     
-3. Trong hộp thoại lịch sử Phiên bản, trỏ tới phiên bản bạn muốn xem và bấm vào mũi tên xuống ở bên phải để lấy danh sách các tùy chọn. Bấm **dạng xem**.
+3. Trong hộp thoại Lịch sử Phiên bản, trỏ tới phiên bản bạn muốn xem và bấm vào mũi tên xuống ở bên phải để xem danh sách các tùy chọn. Bấm **Xem**.
     
-[Tìm hiểu thêm về lịch sử Phiên bản](https://go.microsoft.com/fwlink/?linkid=875709)
+[Tìm hiểu thêm về lịch sử phiên bản](https://go.microsoft.com/fwlink/?linkid=875709)
   
 

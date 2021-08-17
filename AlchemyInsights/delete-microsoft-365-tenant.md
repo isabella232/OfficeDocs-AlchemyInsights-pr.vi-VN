@@ -1,5 +1,5 @@
 ---
-title: Xóa đối tượng thuê Microsoft 365
+title: Xóa đối Microsoft 365 của Bạn
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,15 +11,15 @@ ms.custom:
 - "9002250"
 - "4355"
 ms.assetid: ''
-ms.openlocfilehash: 554f7275dd881e9dce6377ecf0dcd3d190483cd9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e50562c52325d3b4e938716833647dac0616b4e0fb2e643367a697e13f0b9ab2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47680265"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54102701"
 ---
-# <a name="delete-microsoft-365-tenant"></a>Xóa đối tượng thuê Microsoft 365
+# <a name="delete-microsoft-365-tenant"></a>Xóa đối Microsoft 365 của Bạn
 
-Để xóa bỏ hoàn toàn đối tượng thuê của bạn, bạn cần hủy bỏ đăng ký của mình. Để biết thêm thông tin, hãy xem [hủy bỏ Microsoft 365 dành cho doanh nghiệp](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription?view=o365-worldwide). 
+Để xóa bỏ hoàn toàn đối tượng thuê của mình, bạn cần hủy bỏ đăng ký của mình. Để biết thêm thông tin, [hãy xem Hủy bỏ Microsoft 365 for Business](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription?view=o365-worldwide). 
  
-Sau khi thuê bao bị hủy bỏ, đối tượng thuê sẽ chuyển sang trạng thái vô hiệu hóa sẽ kéo dài 90 ngày cho hầu hết các thuê bao. Đối tượng thuê sẽ bị xóa hoàn toàn sau 3 tháng. Để biết thêm thông tin, hãy xem [điều gì sẽ xảy ra khi bạn hủy bỏ một thuê bao](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription?view=o365-worldwide#what-happens-when-you-cancel-a-subscription)?
+Sau khi đăng ký được hủy bỏ, đối tượng thuê sẽ chuyển sang trạng thái Đã vô hiệu hóa, kéo dài trong 90 ngày đối với hầu hết các đăng ký. Đối tượng thuê sẽ bị xóa hoàn toàn sau 3 tháng. Để biết thêm thông tin, hãy xem [mục Điều gì sẽ xảy ra khi bạn hủy bỏ đăng ký?](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription?view=o365-worldwide#what-happens-when-you-cancel-a-subscription)

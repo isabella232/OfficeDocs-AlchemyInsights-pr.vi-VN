@@ -1,5 +1,5 @@
 ---
-title: Xác nhận tên miền của bạn trong Azure AD
+title: Xác minh miền của bạn trong Azure AD
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "6113"
 - "9003233"
-ms.openlocfilehash: d8934aa3cc077a17acd7a0c0fc93a69492de89e5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 68815f4623d10b3b3eb187d2adaa9cb43d8af0a14f03c78e88ef6ebb52ed586d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796562"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54072902"
 ---
-# <a name="verify-your-domain-in-azure-ad"></a>Xác nhận tên miền của bạn trong Azure AD
+# <a name="verify-your-domain-in-azure-ad"></a>Xác minh miền của bạn trong Azure AD
 
-Để xác minh tên miền của bạn sau khi bạn đăng ký trong Azure AD, hãy xem [mục xác minh tên miền tùy chỉnh của bạn](https://docs.microsoft.com/azure/active-directory/fundamentals/add-custom-domain#verify-your-custom-domain-name).
+Để xác minh tên miền của bạn sau khi đăng ký Azure AD, hãy xem [mục Xác minh tên miền tùy chỉnh của bạn.](https://docs.microsoft.com/azure/active-directory/fundamentals/add-custom-domain#verify-your-custom-domain-name)

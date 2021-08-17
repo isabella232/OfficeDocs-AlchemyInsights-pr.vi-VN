@@ -1,5 +1,5 @@
 ---
-title: Sử dụng bộ công cụ sẵn sàng Office
+title: Sử dụng Bộ công Office cụ Về Tính sẵn sàng
 ms.author: danbrown
 author: DHB-MSFT
 manager: laurawi
@@ -11,15 +11,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000176
-ms.openlocfilehash: c38424553f089f80df6d88c3dcca6cb504aa3ffb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fa6677c9d811b863462ae720e722735fd544ef568e6e10a95cff35e54948735e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794897"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54072938"
 ---
-# <a name="using-the-office-readiness-toolkit"></a>Sử dụng bộ công cụ sẵn sàng Office
+# <a name="using-the-office-readiness-toolkit"></a>Sử dụng Bộ công Office cụ Về Tính sẵn sàng
 
-Để biết thông tin về cách sử dụng bộ công cụ sẵn sàng Office, hãy xem [sử dụng bộ công cụ sẵn sàng để đánh giá tính tương thích ứng dụng cho ứng dụng Microsoft 365](https://docs.microsoft.com/DeployOffice/readiness-toolkit-application-compatibility-microsoft-365-apps).
+Để biết thông tin về cách sử dụng Bộ công cụ Office Sẵn sàng, hãy xem Sử dụng Bộ công cụ Sẵn sàng để đánh giá tính tương thích của ứng [dụng Ứng dụng Microsoft 365.](https://docs.microsoft.com/DeployOffice/readiness-toolkit-application-compatibility-microsoft-365-apps)
 
-Nếu bạn có phản hồi hoặc câu hỏi về bộ công cụ sẵn sàng, vui lòng gửi email cho chúng tôi tại ReadyForOffice@microsoft.com.
+Nếu bạn có phản hồi hoặc thắc mắc về Bộ công cụ Sẵn sàng, vui lòng gửi email cho chúng tôi ReadyForOffice@microsoft.com.
