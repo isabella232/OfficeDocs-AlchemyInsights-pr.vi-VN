@@ -1,5 +1,5 @@
 ---
-title: Các sự kiện trực tiếp trong Microsoft Stream
+title: Sự kiện trực tiếp trong Microsoft Stream
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001511"
 - "3571"
-ms.openlocfilehash: ef42a8156a1c120b23f89969d9debd1c25c49309
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 013458e043f948f899ef945858dceee4578c73acb9151f982a6ca010a5683f52
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51825573"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54114986"
 ---
-# <a name="live-events-in-microsoft-stream"></a>Các sự kiện trực tiếp trong Microsoft Stream
+# <a name="live-events-in-microsoft-stream"></a>Sự kiện trực tiếp trong Microsoft Stream
 
-Bạn có thể tạo các sự kiện trực tiếp bằng Microsoft Stream qua tổ chức. Bạn có thể lên lịch, sản xuất và cung cấp các sự kiện trực tiếp cho nhiều kịch bản như các sự kiện công ty-toàn diện, các bản Cập Nhật lãnh đạo và nhiều hơn nữa.
+Bạn có thể tạo các sự kiện trực tiếp bằng Cách sử dụng Microsoft Stream trong toàn tổ chức. Bạn có thể lên lịch, sản xuất và cung cấp các sự kiện trực tiếp cho nhiều kịch bản khác nhau, chẳng hạn như các sự kiện trên toàn công ty, các cập nhật từ ban đầu và nhiều kịch bản khác.
 
 - [Tạo sự kiện trực tiếp trong Microsoft Stream](https://docs.microsoft.com/stream/live-create-event)
-- [Bắt đầu với các sự kiện trực tiếp của Microsoft nhóm](https://support.office.com/article/get-started-with-microsoft-teams-live-events-d077fec2-a058-483e-9ab5-1494afda578a)
-- [Cấu hình bộ mã hóa cho streaming trực tiếp trong Microsoft Stream](https://docs.microsoft.com/stream/live-encoder-setup)
+- [Bắt đầu với các sự Microsoft Teams kiện trực tiếp](https://support.office.com/article/get-started-with-microsoft-teams-live-events-d077fec2-a058-483e-9ab5-1494afda578a)
+- [Đặt cấu hình bộ mã hóa để phát trực tuyến trực tiếp trong Microsoft Stream](https://docs.microsoft.com/stream/live-encoder-setup)

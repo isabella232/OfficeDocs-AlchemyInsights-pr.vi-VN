@@ -1,5 +1,5 @@
 ---
-title: Đặt phòng cấp phép không hiển thị
+title: Không hiển thị việc đặt trước giấy phép
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002575"
 - "5030"
-ms.openlocfilehash: 091d635af2027f29aae66a2ef7a8c8ce77c4393d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 4499475ad21418b57341e23c3e3ce0afb58a14834fcb2115e4dffc9881f1b6cf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51836481"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54115058"
 ---
-# <a name="license-reservation-does-not-show"></a>Đặt phòng cấp phép không hiển thị
+# <a name="license-reservation-does-not-show"></a>Không hiển thị việc đặt trước giấy phép
 
 - Giấy phép được cung cấp hoặc kích hoạt trong 24 đến 48 giờ.
 
-- Nếu giấy phép dành riêng là từ thỏa thuận doanh nghiệp cấp phép số lớn, hãy xem [cách liên hệ với Trung tâm dịch vụ cấp phép số lớn của Microsoft](https://support.microsoft.com/help/4471406/how-to-contact-the-microsoft-volume-licensing-service-center).
+- Nếu giấy phép dành riêng đến từ một trung tâm Cấp phép Số Thỏa thuận Doanh nghiệp, hãy xem Cách liên hệ với Trung tâm Dịch vụ Cấp [phép Số lớn của Microsoft.](https://support.microsoft.com/help/4471406/how-to-contact-the-microsoft-volume-licensing-service-center)

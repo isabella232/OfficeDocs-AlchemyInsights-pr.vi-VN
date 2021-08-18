@@ -11,17 +11,16 @@ ms.assetid: de63d2e1-f053-40ed-ac1a-041ddafefba0
 ms-custom:
 - "1846"
 - "9000253"
-ms.openlocfilehash: 2ce3d5467d8582aa3a3216b0efbc73ead5570248c4da57e175e0d4decc326f1c
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 341a77e9a6738cd96a8b4587e52e633be0176010
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54051112"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58318110"
 ---
 # <a name="sharepoint-publishing-infrastructure"></a>SharePoint Cơ sở hạ tầng Phát hành
 
-> [!IMPORTANT]
-> Site Liên lạc Hiện đại không hỗ trợ các tính năng phát hành cổ điển được gọi là Cơ sở SharePoint sở hạ tầng Phát hành Server. Khi tìm cách kích hoạt tính năng cho Site Liên lạc hiện đại, bạn sẽ gặp lỗi. Site liên lạc hiện đại cung cấp giải pháp thay thế mới hơn theo mặc định.
+**Quan trọng:** Site Liên lạc Hiện đại không hỗ trợ các tính năng phát hành cổ điển có tên SharePoint Cơ sở hạ tầng Phát hành Server. Khi tìm cách kích hoạt tính năng cho Site Liên lạc hiện đại, bạn sẽ gặp lỗi. Site liên lạc hiện đại cung cấp giải pháp thay thế mới hơn theo mặc định.
 
 Đối với các site cổ điển, SharePoint bao gồm một tập hợp tính năng cổ điển cho phép bạn tác giả và phát hành các trang web phong phú cho mạng nội bộ của bạn. Kích hoạt Cơ sở SharePoint đặt Cơ sở hạ tầng Phát hành ở mức tuyển tập site để bật chúng.
 

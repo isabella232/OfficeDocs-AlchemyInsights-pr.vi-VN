@@ -1,5 +1,5 @@
 ---
-title: 761 kết nối với Exchange Online PowerShell khi MFA được bật
+title: 761 Kết nối Exchange Online PowerShell khi bật MFA
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,13 +14,13 @@ ms.custom:
 - "761"
 - "3500011"
 ms.assetid: 9b0b89e3-d1d7-4e4d-93de-bb4cd00904d8
-ms.openlocfilehash: 5622b6faef8f1fb5d39d884410feda5af07ff466
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8d60e36e779327f18de760bfd487f9056034cdf016b4282180648906277f6d2d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47748122"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090300"
 ---
-# <a name="connect-to-exchange-online-powershell-when-mfa-is-enabled"></a>Kết nối với Exchange Online PowerShell khi MFA được bật
+# <a name="connect-to-exchange-online-powershell-when-mfa-is-enabled"></a>Kết nối đổi Exchange Online powerShell khi bật MFA
 
-Nếu tài khoản của bạn có bật xác thực đa yếu tố (MFA), bạn cần thực hiện theo các hướng dẫn sau để kết nối với Exchange Online PowerShell: [dùng Exchange Online PowerShell với xác thực hiện đại bằng mô-đun v2](https://aka.ms/exops-docs). Vui lòng tìm kiếm hướng dẫn xác thực MFA/đa yếu tố trên trang đó.
+Nếu tài khoản của bạn đã bật xác thực đa yếu tố (MFA), bạn cần làm theo các hướng dẫn sau để kết nối với Exchange Online PowerShell: Sử dụng [Exchange Online PowerShell](https://aka.ms/exops-docs)với xác thực hiện đại bằng mô-đun V2. Vui lòng tìm kiếm hướng dẫn MFA / Xác thực Đa Yếu tố trên trang đó.

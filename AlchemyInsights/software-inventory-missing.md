@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "11382"
 - "9001470"
-ms.openlocfilehash: f26fab92d0159c06eb600cf9ec4161892561a719e8d113d15bfbac133301e793
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 40aa18fb2f309cb80efa8cdc684766df4ded969f
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57897618"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58318028"
 ---
 # <a name="software-inventory-is-missing-or-inaccurate"></a>Kiểm kê phần mềm bị thiếu hoặc không chính xác
 
-Kiểm kê phần mềm trong Quản lý Mối đe dọa và Lỗ hổng (TVM) là một danh sách phần mềm đã biết trong tổ chức của bạn với Công thức Liệt kê Nền tảng Thường gặp (CPE) chính thức.
+Kiểm kê phần mềm trong Quản lý Mối đe dọa và Lỗ hổng (TVM) là một danh sách phần mềm đã biết trong tổ chức của bạn với Công thức Liệt kê Nền tảng Chung (CPE) chính thức.
 
 Sản phẩm phần mềm không có CPE chính thức không có lỗ hổng được phát hành. Hàng tồn kho cũng bao gồm các chi tiết như tên của nhà cung cấp, số lượng thiết bị tồn kho, mối đe dọa và số lượng thiết bị càng tiếp xúc.
 

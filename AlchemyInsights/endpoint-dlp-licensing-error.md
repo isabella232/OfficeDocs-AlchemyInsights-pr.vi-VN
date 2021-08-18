@@ -1,5 +1,5 @@
 ---
-title: Lỗi cấp phép điểm cuối
+title: Lỗi cấp phép DLP điểm cuối
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,29 +13,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200001"
 - "7176"
-ms.openlocfilehash: d17c51177898d62c7c477460c8c26b4753bae65f
-ms.sourcegitcommit: 0f42d1600b6845083f0273d14c1d9e59344e4371
+ms.openlocfilehash: 1e242abe18717e5ef64d6f067ab3ec6fa8833cb672dd21c85e577ce640240ba0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49564874"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090182"
 ---
-# <a name="endpoint-dlp-licensing-error"></a>Lỗi cấp phép điểm cuối
+# <a name="endpoint-dlp-licensing-error"></a>Lỗi Cấp phép Điểm cuối DLP
 
-Khi bạn cố gắng thiết lập điểm cuối, nếu bạn nhận được lỗi sau:
+Khi tìm cách thiết lập DLP Điểm cuối, nếu bạn gặp lỗi sau:
 
 `Your organization is missing the licenses required to manage these devices`.
 
-Đảm bảo bạn có một trong các gói đăng ký hoặc bổ trợ sau đây:
+Đảm bảo bạn có một trong những đăng ký hoặc phần bổ trợ sau:
 
 - Microsoft 365 E5
 - Microsoft 365 A5 (EDU)
-- Tuân thủ Microsoft 365 E5
-- Tuân thủ Microsoft 365 A5
-- Bảo vệ và quản trị thông tin E5 của Microsoft 365
-- Bảo vệ và quản trị thông tin của Microsoft 365 A5
+- Microsoft 365 E5 tuân thủ
+- Microsoft 365 A5 tuân thủ
+- Microsoft 365 E5 bảo vệ và quản trị thông tin
+- Microsoft 365 A5 bảo vệ và quản trị thông tin
 
 > [!NOTE]
-> Thao tác này sẽ không hoạt động với các kết hợp giấy phép như: Win E5 + O365 E5 + EMS E5. Bạn phải có giấy phép Pure M365 E5 để thiết lập tính năng này.
+> Điều này sẽ không có tác dụng đối với các tổ hợp giấy phép như: Win E5 + O365 E5 + EMS E5. Bạn phải có giấy phép M365 E5 thuần để thiết lập tính năng này.
 
-Để biết thêm thông tin về cấp phép điểm cuối, hãy xem mục [cấp phép điểm cuối.](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#onboarding-devices-into-device-management)
+Để biết thêm thông tin cấp phép DLP Điểm cuối, hãy [xem Cấp phép DLP Điểm cuối.](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#onboarding-devices-into-device-management)
