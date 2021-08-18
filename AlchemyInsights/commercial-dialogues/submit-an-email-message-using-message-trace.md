@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: cd5ca46d24c079b4b86a487bd70ffc63a6b4c1b08cfdb931769db8d16db3c3fd
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: d55dae30c875022b8c38c14ba72eafbc674efcae
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57874561"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324547"
 ---
 # <a name="submit-an-email-message-using-message-trace"></a>Gửi thư email bằng cách sử dụng công cụ tìm thư
 
-1. Đi đến trung tâm Exchange quản trị (EAC) tại Theo <https://admin.exchange.microsoft.com> \> **dõi thư dòng** \> **thư**.
+1. Đi đến trung tâm Exchange quản trị (EAC) tại Theo <https://admin.exchange.microsoft.com> \> **dõi dòng** \> **thư**.
 
    Để truy nhập trực tiếp vào **trang Tìm thư,** sử dụng <https://admin.exchange.microsoft.com/#/messagetrace> .
 

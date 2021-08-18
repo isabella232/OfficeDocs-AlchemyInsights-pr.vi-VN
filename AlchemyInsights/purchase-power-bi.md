@@ -15,18 +15,18 @@ ms.custom:
 - commerce_purchase
 - "9002564"
 - "4961"
-ms.openlocfilehash: 15642c07f686504ea7bf129c53a4d9ae453d2dffb6a9e666f1312ed35acf9c16
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: fc5e731ee05722c7cd707239af5ad4c07a6d85b9
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57900978"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323660"
 ---
 # <a name="purchase-power-bi"></a>Mua Power BI
 
-Bạn có thể mua Power BI trong **ứng Trung tâm quản trị Microsoft 365.**
+Bạn có thể mua Power BI trong ứng **Trung tâm quản trị Microsoft 365.**
 
-1. Đi đến trang **Thanh toán > Dịch vụ mua [hàng.](https://go.microsoft.com/fwlink/p/?linkid=868433)**
+1. Đi tới trang **Thanh > Dịch vụ mua [hàng.](https://go.microsoft.com/fwlink/p/?linkid=868433)**
 2. Sử dụng hộp Tìm kiếm để tìm kiếm "Power BI".
 3. Chọn gói Power BI bạn muốn mua, chọn Chi **tiết**, rồi chọn **Mua**.
 4. Nhập số giấy phép bạn cần và chọn thanh toán hàng tháng hay cả năm. Chọn xem bạn muốn tự động gán giấy phép cho mọi người hiện không có giấy phép hay không. Sau đó **chọn Thanh toán ngay**.

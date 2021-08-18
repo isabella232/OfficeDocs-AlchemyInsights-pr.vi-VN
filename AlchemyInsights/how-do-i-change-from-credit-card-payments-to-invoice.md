@@ -14,17 +14,16 @@ ms.custom:
 - commerce_billing
 - "433"
 - "1500001"
-ms.openlocfilehash: 3f52f79f081274f7d7e661cdd36a431ceb0b87901e129c80747430a00d762d67
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 3f3f52a5cedc8f065dbac59499cc087641e84682
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57868700"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323808"
 ---
 # <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>Làm thế nào để thay đổi từ thanh toán bằng thẻ tín dụng sang hóa đơn?
 
-> [!NOTE]
-> Bạn chỉ có thể thay đổi sang thanh toán theo hóa đơn nếu chi phí đăng ký của bạn vượt quá một số tiền nhất định. Trước tiên, bạn phải thanh toán toàn bộ dư nợ trên thẻ tín dụng hoặc thẻ ghi nợ hoặc tài khoản ngân hàng trước khi có thể thay đổi sang thanh toán bằng hóa đơn.
+**Lưu ý:** Bạn chỉ có thể thay đổi sang thanh toán theo hóa đơn nếu chi phí đăng ký của bạn vượt quá một số tiền nhất định. Trước tiên, bạn phải thanh toán toàn bộ dư nợ trên thẻ tín dụng hoặc thẻ ghi nợ hoặc tài khoản ngân hàng trước khi có thể thay đổi sang thanh toán bằng hóa đơn.
 
 1. Trong trung tâm quản trị, đi đến trang Thanh toán  >  [Sản phẩm của](https://go.microsoft.com/fwlink/p/?linkid=842054) bạn.
 2. Trên tab **Sản phẩm,** tìm đăng ký mà bạn muốn thanh toán bằng phương thức thanh toán thay thế.

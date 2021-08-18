@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "11446"
 - "9003537"
-ms.openlocfilehash: c06fbd377159e55cf34c79ef0aa1e34f0412a908e8d4e3dec5ad088c9b8b818a
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: c06ed00d7cf4bcb23fdcee12f446953918075728
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57898222"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325671"
 ---
 # <a name="create-and-manage-device-tags-or-groups"></a>Tạo và quản lý thẻ hoặc nhóm thiết bị
 
-Thêm thẻ trên thiết bị để tạo sự liên kết nhóm lô-gic. Thẻ thiết bị hỗ trợ ánh xạ phù hợp mạng, cho phép bạn đính kèm các thẻ khác nhau để chụp ngữ cảnh và cho phép tạo danh sách động như một phần của sự cố. Thẻ có thể được sử dụng như một bộ lọc trong dạng xem danh sách Thiết bị hoặc để nhóm các thiết bị. Để biết thêm thông tin về việc nhóm thiết bị, hãy [xem Tạo và quản lý thẻ thiết bị](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/machine-tags).
+Thêm thẻ trên thiết bị để tạo sự liên kết nhóm lô-gic. Thẻ thiết bị hỗ trợ ánh xạ phù hợp trên mạng, cho phép bạn đính kèm các thẻ khác nhau để chụp ngữ cảnh và cho phép tạo danh sách động như một phần của sự cố. Thẻ có thể được sử dụng như một bộ lọc trong dạng xem danh sách Thiết bị hoặc để nhóm các thiết bị. Để biết thêm thông tin về tính năng nhóm thiết bị, hãy [xem Tạo và quản lý thẻ thiết bị](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/machine-tags).
 
 Bạn có thể thêm thẻ trên thiết bị bằng cách:
 

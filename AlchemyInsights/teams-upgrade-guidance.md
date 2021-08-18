@@ -11,18 +11,18 @@ ms.custom:
 - "982"
 - "4000006"
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
-ms.openlocfilehash: 987c91886aaa4ae04d9dc66567688cd15102a8adc5b0ba0dd4d59dc784d65d01
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 57164d972780830087bb85f9cd809d290446fa3e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57901202"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324338"
 ---
 # <a name="microsoft-teams-upgrade"></a>Microsoft Teams cấp
 
 Dù bạn vừa mới bắt đầu sử dụng Teams, đã sử dụng Teams cùng với Skype for Business hoặc sẵn sàng nâng cấp, chúng tôi đều muốn đảm bảo rằng bạn có mọi thứ bạn cần để dẫn hướng một cuộc hành trình thành công đến Teams. Để biết thêm thông tin, vui lòng truy cập các liên kết bên dưới.
 
-[Bắt đầu nâng cấp thiết bị Microsoft Teams bạn](https://docs.microsoft.com/MicrosoftTeams/upgrade-start-here)
+[Bắt đầu nâng cấp thiết bị Microsoft Teams của bạn](https://docs.microsoft.com/MicrosoftTeams/upgrade-start-here)
 
 [Lập kế hoạch nâng cấp của bạn](https://docs.microsoft.com/MicrosoftTeams/upgrade-plan-journey)
 

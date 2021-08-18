@@ -1,5 +1,5 @@
 ---
-title: Biểu tượng lịch không hiển thị trong máy khách Microsoft nhóm
+title: Biểu tượng lịch không hiển thị trong máy Microsoft Teams khách
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -14,15 +14,15 @@ ms.custom:
 - "9001219"
 - "6794"
 - "3403"
-ms.openlocfilehash: e28b1c8d5d0feef1a743c8527db424af4c205fe9
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: edd6b4a2d94b03cf4ae7bf3a8d6332ed94a7e8263aba9df1f9588eecbd0ce05a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583932"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54120026"
 ---
-# <a name="calendar-icon-isnt-showing-in-microsoft-teams-client"></a>Biểu tượng lịch không hiển thị trong máy khách Microsoft nhóm
+# <a name="calendar-icon-isnt-showing-in-microsoft-teams-client"></a>Biểu tượng lịch không hiển thị trong máy Microsoft Teams khách
 
-Tab **lịch** trong nhóm yêu cầu quyền truy nhập vào hộp thư Exchange thông qua dịch vụ Web Exchange. Hộp thư Exchange có thể trực tuyến hoặc tại cơ sở. Đối với những người dùng trực tuyến không nhìn thấy tab **lịch** , hãy đảm bảo rằng chúng [được cấp phép cho hộp thư Exchange Online và hộp thư được bật](https://docs.microsoft.com/exchange/recipients-in-exchange-online/create-user-mailboxes). Nếu người dùng của bạn được sắp đặt tại cơ sở, bạn cần phải xác nhận rằng cấu hình hỗn hợp của bạn sẽ khỏe mạnh. Sử dụng trình [hướng dẫn cấu hình hỗn](https://docs.microsoft.com/exchange/hybrid-deployment/hybrid-agent) hợp để khắc phục sự cố. Lưu ý rằng các [nhóm yêu cầu Exchange 2016 CU3 hoặc cao hơn](https://docs.microsoft.com/microsoftteams/exchange-teams-interact).
+Tab **Lịch** trong Thư viện Teams yêu cầu quyền truy nhập vào hộp Exchange của bạn thông qua Exchange Dịch vụ Web. Hộp Exchange tại chỗ có thể là Trực tuyến hoặc Tại chỗ. Đối với người dùng Trực tuyến không nhìn thấy **Tab** Lịch, hãy đảm bảo rằng họ được cấp phép cho một hộp Exchange Online và hộp thư được [kích hoạt.](https://docs.microsoft.com/exchange/recipients-in-exchange-online/create-user-mailboxes) Nếu người dùng của bạn được đặt tại chỗ, bạn cần xác nhận rằng cấu hình Kết hợp của bạn hoạt động tốt. Sử dụng Trình hướng [dẫn Cấu hình Kết hợp](https://docs.microsoft.com/exchange/hybrid-deployment/hybrid-agent) để khắc phục sự cố. Lưu ý [rằng Teams cần Exchange CU3 2016 trở lên.](https://docs.microsoft.com/microsoftteams/exchange-teams-interact)
 
-Để biết thêm thông tin và các bước khắc phục sự cố, hãy xem khắc phục sự cố các [vấn đề tương tác với Microsoft nhóm và Exchange Server](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue).
+Để biết thêm thông tin và các bước khắc phục sự cố, hãy [xem Khắc phục Microsoft Teams các Exchange Server cố tương tác.](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue)
