@@ -1,5 +1,5 @@
 ---
-title: Gửi trả lời tự động từ Outlook
+title: Gửi trả lời tự động Outlook
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "7254"
-ms.openlocfilehash: dc0b35ca22ebb5e7572a48e372c619ec9b8a14d4
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 5775e0de2392ed82fdd2f8ea46fac5b38212bd52e836f00bdac68b24e31639ba
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747683"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54091106"
 ---
-# <a name="sending-automatic-replies-from-outlook"></a>Gửi trả lời tự động từ Outlook
+# <a name="sending-automatic-replies-from-outlook"></a>Gửi trả lời tự động Outlook
 
-- Có hai cách để gửi trả lời vắng mặt tự động, tùy thuộc vào loại tài khoản email mà bạn có.
-- Bấm **tệp**, sau đó chọn **trả lời tự động** dựa trên phiên bản Outlook của bạn.
+- Có hai cách để gửi trả lời tự động khi trả lời ngoài văn phòng, tùy thuộc vào loại tài khoản email bạn có.
+- Bấm **vào Tệp**, sau đó chọn Trả lời **Tự** động dựa trên phiên bản trả lời Outlook.

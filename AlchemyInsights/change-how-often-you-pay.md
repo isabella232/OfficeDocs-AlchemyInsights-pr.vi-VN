@@ -17,12 +17,12 @@ ms.custom:
 - "469"
 - "4552"
 - "1500025"
-ms.openlocfilehash: 888bac8b4ff8cf5c0ad7616cf4e87c0003e922ae89f9faf7872b94aba76f7027
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: b42fe2e660b83d40737855ff84d313c6b7df1860
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57891589"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58318926"
 ---
 # <a name="change-how-often-you-pay"></a>Thay đổi tần suất thanh toán của bạn
 
@@ -33,7 +33,6 @@ ms.locfileid: "57891589"
 3. Trên trang chi tiết đăng ký, trong mục **Cài đặt đăng ký và thanh toán,** chọn Chỉnh sửa tần suất thanh **toán**.
 4. Trong ngăn **Chỉnh sửa tần suất thanh** toán, chọn tùy chọn tần suất bạn muốn được lập hóa đơn, rồi chọn Thay **đổi**.
 
-> [!NOTE]
-> Thanh toán hàng tháng hoặc Hàng năm là các tùy chọn duy nhất.
+**Lưu ý**: Thanh toán hàng tháng hoặc Hàng năm là các tùy chọn duy nhất.
 
 Để biết thêm thông tin, hãy xem [mục Thay đổi tần suất thanh toán của bạn](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).

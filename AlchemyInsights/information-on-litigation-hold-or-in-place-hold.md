@@ -1,5 +1,5 @@
 ---
-title: Thông tin về tổ chức tranh chấp hoặc giữ nguyên vị trí
+title: Thông tin về việc giữ lại hoặc giữ tại chỗ
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -10,24 +10,24 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 52484e19-9328-42f4-b675-7e0be9338a8b
-ms.openlocfilehash: 08579c3cf887de649480480856ba42478d488a0a
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: dd508bcd2b09ccb0bcdd99c37c3c5ecfbc26ec42f00ddce520ef8e73e3aef436
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50709344"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54115454"
 ---
-# <a name="about-litigation-holds-and-in-place-holds"></a>Giới thiệu về tranh chấp giữ và giữ tại chỗ
+# <a name="about-litigation-holds-and-in-place-holds"></a>Về việc giữ lại và giữ tại chỗ
 
-- Để áp dụng một tổ chức tranh chấp hoặc giữ tại chỗ vào một hộp thư, một [giấy phép Exchange Online Plan 2](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) được yêu cầu. Nếu bạn có bất kỳ gói nào khác, hãy gán giấy phép [lưu trữ Exchange Online](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) riêng biệt với tài khoản đó. 
+- Để áp dụng giữ lại thư trong trường hợp tranh chấp pháp lý hoặc giữ tại chỗ cho hộp thư, cần [Exchange Online phép Plan 2](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) mới. Nếu bạn có bất kỳ Gói nào khác, hãy gán [giấy phép Exchange Online Archiving](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) riêng biệt cho tài khoản. 
     
-- **Để bật duy trì tranh chấp** cho một người dùng, hãy làm theo các bước được nêu [ở đây](https://docs.microsoft.com/microsoft-365/compliance/create-a-litigation-hold?view=o365-worldwide#place-a-mailbox-on-litigation-hold). Khi được bật phép tranh chấp, tất cả nội dung trong hộp thư được đặt ở chế độ chờ.
+- **Để cho phép giữ lại thư trong trường hợp tranh chấp pháp lý** đối với một Người dùng, hãy làm theo các bước được nêu ở [đây.](https://docs.microsoft.com/microsoft-365/compliance/create-a-litigation-hold?view=o365-worldwide#place-a-mailbox-on-litigation-hold) Khi tính năng bảo quản thư trong trường hợp tranh chấp được bật, tất cả nội dung trong hộp thư sẽ được giữ lại.
     
-- Để áp dụng **giữ tại chỗ trên một người dùng duy nhất** hoặc giữ cho **tất cả các hộp thư trong toàn bộ tổ chức**, bạn có thể sử dụng chính sách duy trì trong Trung tâm bảo mật và tuân thủ Microsoft 365 bằng cách làm theo các bước được nêu [ở đây](https://docs.microsoft.com/microsoft-365/compliance/retention-policies).
+- Để áp  dụng giữ lại tại chỗ cho người dùng đơn lẻ hoặc giữ cho tất cả các hộp thư trong toàn bộ Tổ **chức,** bạn có thể sử dụng Chính sách Duy trì trong Trung tâm Bảo mật và Tuân thủ Microsoft 365 bằng cách làm theo các bước nêu tại [đây.](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
     
     > [!NOTE]
-    > Đối với các chính sách duy trì toàn bộ tổ chức, người dùng mới sẽ được tự động thêm vào giữ. 
+    > Đối với chính sách duy trì trong toàn tổ chức, người dùng mới sẽ được tự động thêm vào chế độ giữ. 
   
-- Để xem hoặc khám phá nội dung hộp thư được đặt ở chế độ chờ, hãy sử dụng **Tìm kiếm và xuất trình khám phá** điện tử. Để biết thông tin về cách sử dụng **Tìm kiếm và xuất**, hãy làm theo các bước được nêu [ở đây](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).
+- Để xem hoặc khám phá nội dung hộp thư được giữ lại, hãy sử dụng Tìm kiếm và Xuất Khám **phá Điện tử.** Để biết thông tin về cách **sử dụng Tính năng Tìm kiếm và Xuất Khám phá Điện tử,** hãy làm theo các bước được nêu [tại đây.](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)
     
 

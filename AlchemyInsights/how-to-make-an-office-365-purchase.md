@@ -15,12 +15,12 @@ ms.custom:
 - commerce_purchase
 - "531"
 - "1400007"
-ms.openlocfilehash: 5af852de7126dd36598339250a3b8b445d88ad1d57f8621e90c8818e8959f12b
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 3eb518dbdd71985fe06044925dd52bfbca98defc
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57896953"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58318584"
 ---
 # <a name="how-to-make-a-microsoft-365-purchase"></a>Cách mua hàng Microsoft 365 hàng
 
@@ -34,7 +34,7 @@ Bạn có thể mua đăng Microsoft 365 ký trong trung tâm quản trị.
 
 **Khắc phục sự cố**
 
-Nếu bạn gặp sự cố với việc tải trang, hãy thử mở trang web trong một trình duyệt khác hoặc thử mở trang một cửa sổ trình duyệt riêng tư, như cửa sổ InPrivate trong Microsoft Edge hoặc cửa sổ ẩn danh trong Google Chrome.
+Nếu bạn gặp sự cố với việc tải trang, hãy thử mở trang web trong một trình duyệt khác hoặc thử mở trang đó một cửa sổ trình duyệt riêng tư, như cửa sổ InPrivate trong Microsoft Edge hoặc cửa sổ ẩn danh trong Google Chrome.
 
 **Các tài nguyên Bổ sung**
   

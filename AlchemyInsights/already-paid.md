@@ -16,12 +16,12 @@ ms.custom:
 - "466"
 - "1500024"
 ms.assetid: 091e3fa1-b67f-40a4-b72f-b69c9f2c741f
-ms.openlocfilehash: 949320c2c4f7057161760a0c7bbc8ebee4f5c88918358642186d1b30b8478ebb
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: c250831ba9770e6ce454b7680ed05f5747d69761
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54500758"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58319170"
 ---
 # <a name="already-paid"></a>Bạn đã thanh toán?
 
@@ -29,7 +29,7 @@ Nếu bạn đã gửi khoản thanh toán, bạn có thể cho chúng tôi bi�
   
 1. Trong trung tâm quản trị, đi đến **trang Đăng** \> [ký Thanh](https://go.microsoft.com/fwlink/p/?linkid=842054) toán.
 
-2. Chọn một đăng ký và trong mục Hóa **đơn của tôi,** chọn Xem **Hóa đơn.**
+2. Chọn một đăng ký và trong mục Hóa **đơn của tôi,** chọn Xem **Hóa đơn**.
 
 3. Trên trang Chi **tiết hóa đơn,** chọn **Đã Thanh toán?** Bạn sẽ được yêu cầu nhập thông tin liên quan đến khoản thanh toán đã được gửi đi.
 

@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "11228"
 - "9005470"
-ms.openlocfilehash: 1eb0d949693916d1192fb75132207cd6a52e75840899e57c089a5f5aaca3ca88
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: f7811c15af21d8e7790e6686bb8ba9e5de3659d9
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57893157"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58319018"
 ---
 # <a name="attack-surface-reduction-rules"></a>Quy tắc giảm bề mặt tấn công
 
-Loại trừ tệp hoặc thư mục có thể giảm nghiêm trọng bảo vệ do quy tắc giảm bề mặt tấn công cung cấp. Các tệp đã bị quy tắc cho phép chạy sẽ bị chặn và không có báo cáo hoặc sự kiện nào được ghi lại. Loại trừ áp dụng cho tất cả quy tắc cho phép loại trừ.
+Loại trừ tệp hoặc thư mục có thể giảm nghiêm trọng bảo vệ do quy tắc giảm bề mặt tấn công cung cấp. Những tệp đã bị quy tắc cho phép chạy sẽ bị chặn và không có báo cáo hoặc sự kiện nào được ghi lại. Loại trừ áp dụng cho tất cả quy tắc cho phép loại trừ.
 
 Loại trừ ASR sử dụng cùng một cú pháp như loại Tính năng Chống Virut của Bộ bảo vệ Microsoft loại trừ. Để biết chi tiết, [hãy xem Cấu hình và xác thực loại trừ cho Tính năng Chống Virut của Bộ bảo vệ Microsoft quét.](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/configure-exclusions-microsoft-defender-antivirus) Để tránh vấn đề, [hãy xem lại Các lỗi phổ biến cần tránh khi xác định loại trừ.](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/common-exclusion-mistakes-microsoft-defender-antivirus)
 
