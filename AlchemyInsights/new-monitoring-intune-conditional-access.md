@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004636"
 - "8386"
-ms.openlocfilehash: 7f30202ff0a5b9475393cf26c0506bd6bec24f3d378052f24ebf7f327cf84689
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 2c3a382671ac95ecbaec1b374bd8c474cf9690a2
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54025524"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58327579"
 ---
 # <a name="monitor-intune-conditional-access"></a>Giám sát Quyền truy cập có điều kiện của Intune
 
 Người dùng được quyền truy nhập có điều kiện hướng tới sẽ nhận được email thông báo nếu họ không đáp ứng các yêu cầu truy nhập từ tổ chức của bạn. Để giải quyết, chúng tôi đề xuất một hoặc nhiều giải pháp sau đây:
 
-1. Nếu thiết bị được giả định là đã đăng ký, hãy đề nghị người dùng truy nhập ứng dụng Company Portal và xác minh xem thiết bị có xuất hiện trong danh Company Portal. Nếu thiết bị không xuất hiện, người dùng phải đăng ký thiết bị.
+1. Nếu thiết bị được giả định là đã đăng ký, hãy đề nghị người dùng truy nhập ứng dụng Company Portal và xác minh xem thiết bị có xuất hiện trong trang Company Portal. Nếu thiết bị không xuất hiện, người dùng phải đăng ký thiết bị.
 1. Trong Cổng thông tin Azure, đi tới **Tuân thủ thiết bị Intune**  >  . 
 1. Để xem báo cáo tuân thủ thiết bị của bạn để xác minh rằng thiết bị của người dùng được đánh dấu là đã tuân thủ, bên dưới Giám sát **,** bấm vào Tuân thủ **thiết bị**.
 1. Trong Cổng thông tin Azure, đi tới **Tuân thủ thiết bị Intune**  >  . Bên dưới **Quản lý,** bấm vào **Chính sách.** Trong danh sách các chính sách tuân thủ, hãy xác minh rằng thiết bị người dùng của bạn đã được gán hồ sơ. Nếu chưa gán hồ sơ, Intune sẽ không thể xác nhận trạng thái tuân thủ của thiết bị.
@@ -39,5 +39,4 @@ Người dùng được quyền truy nhập có điều kiện hướng tới s�
 - [Chính sách khắc phục sự cố](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
 - [Giám sát sự tuân thủ của thiết bị Intune](https://docs.microsoft.com/intune/compliance-policy-monitor)
 
-> [!NOTE]
-> Các bước này chỉ hữu ích trong việc khắc phục sự cố về Azure Active Directory năng Truy nhập có điều kiện. Cũng có thể cách ly một thiết bị chặn quyền truy nhập email của thiết bị đó với chính Exchange bạn. Có thể tìm thấy thêm thông tin Exchange lý thiết bị tại [**đây.**](https://docs.microsoft.com/previous-versions/office/exchange-server-2010/ff959225(v=exchg.141))
+**Lưu ý**: Các bước này chỉ hữu ích trong việc khắc phục sự cố về Azure Active Directory năng Truy nhập có điều kiện. Cũng có thể cách ly một thiết bị chặn quyền truy nhập email của thiết bị đó với chính Exchange bạn. Có thể tìm thấy thêm thông tin Exchange về quản lý thiết bị [**tại đây.**](https://docs.microsoft.com/previous-versions/office/exchange-server-2010/ff959225(v=exchg.141))

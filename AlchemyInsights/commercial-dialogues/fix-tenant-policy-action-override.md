@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 157baa1f1e3f48b47ba07b8c6d446f8e081a4ad24b7d48f50c4fc5af5518cdd6
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: ee45e86a143719914f7a7917730d7e840e90625f
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57896097"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326819"
 ---
 # <a name="fix-tenant-policy-action-override"></a>Khắc phục chính sách Đối tượng thuê (thay thế hành động)
 
 Một trong những chính sách chống thư rác của bạn đã ảnh hưởng đến thư này. Để xem lại chính sách, hãy thực hiện các bước sau đây:
 
-1. Trong cổng thông tin Bộ bảo vệ Microsoft 365 , đi đến Chính sách Cộng tác qua Email & các chính & Chính sách mối đe dọa Quy tắc Chống thư <https://security.microsoft.com/>  \>  \>  \>  rác trong **phần Chính** sách.
+1. Trong cổng thông tin Bộ bảo vệ Microsoft 365 , đi đến Chính sách Cộng tác qua Email & Chính sách & Chính sách mối đe dọa Quy tắc Chính sách Chống thư <https://security.microsoft.com/>  \>  \>  \>  rác trong **phần Chính** sách.
 
    Để truy nhập trực tiếp vào **trang Chính sách chống thư rác,** hãy sử dụng <https://security.microsoft.com/antispam> .
 
@@ -36,6 +36,6 @@ Một trong những chính sách chống thư rác của bạn đã ảnh hưở
    - **Xóa thư**
    - **Không hành động**
 
-   Có thể cài đặt Tiêu chuẩn được **áp dụng cho tất** cả các Exchange Online Protection khách hàng đã ảnh hưởng đến thư.
+   Có thể cài đặt Tiêu chuẩn **được áp dụng cho** tất cả các Exchange Online Protection khách hàng đã ảnh hưởng đến thư.
 
 Để biết thêm thông tin, hãy [xem Cấu hình chính sách chống thư rác trong EOP.](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-your-spam-filter-policies)

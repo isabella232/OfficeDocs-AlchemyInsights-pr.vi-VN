@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "6864"
-ms.openlocfilehash: 2803ef358acd5e133e1eaff5c31b09143b3a4649c9c814d27b214585487c0e7e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ae0061651012e12ec5792c4c27df99c0092141ab
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54003666"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326527"
 ---
 # <a name="e-mail-invoice---legacy"></a>Hóa đơn Email - Thừa tự
 
@@ -52,5 +52,4 @@ Làm theo các bước sau để nhận hóa đơn đăng ký của bạn qua em
 4. Chọn đăng ký Azure của bạn, rồi bấm vào **Cho phép người khác tải xuống hóa đơn.**
 5. Chọn **Bật,** **rồi** Lưu ở đầu trang.
 
-> [!NOTE]
-Nếu bạn không phải là người quản trị tài khoản, hãy liên hệ với người quản trị tài khoản của bạn để làm theo hướng dẫn bên trên để chọn tham gia, thêm người nhận hoặc cho phép người dùng khác tải xuống hóa đơn.
+**Lưu** ý: Nếu bạn không phải là người quản trị tài khoản, hãy liên hệ với người quản trị tài khoản của bạn để làm theo hướng dẫn bên trên để chọn tham gia, thêm người nhận hoặc cho phép người dùng khác tải xuống hóa đơn.
