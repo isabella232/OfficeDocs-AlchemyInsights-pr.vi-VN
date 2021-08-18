@@ -1,5 +1,5 @@
 ---
-title: Di chuyển mạng
+title: Di chuyển Mạng
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,27 +12,27 @@ ms.custom:
 - "716"
 - "6000002"
 ms.assetid: b5ab885c-3803-4cc8-adab-94848e226ffb
-ms.openlocfilehash: 6f026f932bb35d12d32ce7eddf49e49a44db7f31
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9f63ce1641faf3cb2a29fd954624d25f5e1e37f135ec361ac09668086d78aa3e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799586"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54113222"
 ---
-# <a name="network-migration"></a>Di chuyển mạng
+# <a name="network-migration"></a>Di chuyển Mạng
 
-Đối tượng thuê O365 của bạn có thể liên kết với nhiều mạng yammer trong một đối tượng thuê 1: có nhiều cấu hình mạng. Bắt đầu từ ngày 16 tháng 10, 2018, yammer sẽ không còn hỗ trợ nhiều mạng yammer được liên kết với một đối tượng thuê. Bạn có thể thực hiện di chuyển mạng để đến một cấu hình 1:1 ưu tiên.
+Đối tượng thuê O365 của bạn có thể được liên kết với nhiều mạng Yammer trong một đối tượng thuê 1: Cấu hình nhiều mạng. Kể từ 16/10/2018, Yammer sẽ không còn hỗ trợ nhiều mạng Yammer liên kết với một đối tượng thuê. Bạn có thể thực hiện Di chuyển Mạng để có được cấu hình 1:1 ưa thích.
   
-- Để xem danh sách các mạng liên kết với đối tượng thuê của bạn, hãy đăng nhập vào yammer với tư cách là người quản trị toàn cầu và duyệt đến **quản trị mạng**, sau đó **di chuyển mạng**. Chọn **tiếp theo**.
+- Để xem danh sách các mạng được liên kết với đối tượng thuê của bạn, hãy đăng nhập vào Yammer với tư cách Người quản trị Toàn cầu và duyệt đến Quản trị **Mạng,** sau đó **Di chuyển Mạng.** Chọn **Tiếp theo**.
 
-- Nếu bạn thấy nhiều mạng được liệt kê trên bước 2 của 3, thì bạn có nhiều mạng yammer được liên kết với đối tượng thuê O365 của bạn.
+- Nếu bạn thấy nhiều mạng được liệt kê ở Bước 2/3, thì bạn có nhiều mạng Yammer liên kết với đối tượng thuê O365 của mình.
 
-- Để sửa cấu hình của bạn thành cấu hình 1:1, hãy tiếp tục sử dụng công cụ di chuyển mạng.
+- Để sửa cấu hình của bạn thành cấu hình 1:1, hãy tiếp tục sử dụng công cụ Di chuyển Mạng.
 
-- Để biết thêm thông tin về việc di chuyển mạng, vui lòng xem [di chuyển mạng: củng cố nhiều mạng yammer](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks).
+- Để biết thêm thông tin về Di chuyển Mạng, [vui lòng xem di chuyển mạng: Hợp nhất Yammer mạng.](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks)
 
-Xin lưu ý:
+Vui lòng Lưu ý:
   
-- **Di chuyển mạng chỉ định vị những người dùng hiện hoạt và đang chờ xử lý.** Cùng với người dùng hiện hoạt, thông tin của người dùng, chẳng hạn như tên và ảnh hồ sơ, cũng được di chuyển. Bất kỳ nội dung mạng nào, bao gồm nhóm, không được di chuyển.
+- **Di chuyển mạng chỉ di chuyển những người dùng đang chờ xử lý và hiện hoạt.** Cùng với người dùng hiện hoạt, thông tin của người dùng, chẳng hạn như tên và ảnh hồ sơ, cũng được di chuyển. Bất kỳ nội dung mạng nào, bao gồm các nhóm, sẽ không được di chuyển.
 
-- **Di chuyển mạng không thể đảo ngược.** Bạn sẽ không thể truy nhập vào mạng công ty con của bạn và nội dung của nó sau khi di chuyển. Vì vậy, trước khi bạn xem xét một di chuyển, bạn muốn lên kế hoạch cẩn thận.
+- **Không thể đảo ngược di chuyển mạng.** Bạn sẽ không thể truy nhập mạng công ty con và nội dung của mạng công ty con sau khi di chuyển. Vì vậy, trước khi xem xét việc di chuyển, bạn nên lập kế hoạch cẩn thận.

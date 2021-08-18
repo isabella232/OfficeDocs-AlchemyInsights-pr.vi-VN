@@ -11,18 +11,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 2491
 ms.assetid: ''
-ms.openlocfilehash: 2e24f489292f38b5e9cacc8b9bfe5730ebfc71ce5e3004be479134ef6c791a12
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 90b078147bbb1e60cba0a2de6e49a862469f93aa
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57899354"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316380"
 ---
 # <a name="alert-email-messages-from-the-phish-delivered-due-to-tenant-or-user-override-policy"></a>Cảnh báo email từ chính sách 'Chuyển phát qua mạng do đối tượng thuê hoặc người dùng ghi đè'
 
-Một chính sách cảnh báo mặc định có tên **Là** lừa đảo qua mạng do đối tượng thuê hoặc người dùng ghi đè sẵn dùng trong các tổ chức có giấy phép Microsoft Defender Office 365 P1 và P2. Nếu bạn nhận được cảnh báo này, dưới đây là các bước để điều tra:
+Một chính sách  cảnh báo mặc định có tên Là lừa đảo qua mạng do đối tượng thuê hoặc người dùng ghi đè sẽ sẵn dùng trong các tổ chức có giấy phép Microsoft Defender dành Office 365 P1 và P2. Nếu bạn nhận được cảnh báo này, dưới đây là các bước để điều tra:
 
-1. Từ thông báo cảnh báo, bấm **Xem Cảnh** báo để đến trang Cảnh **báo trong** cổng thông Bộ bảo vệ Microsoft 365 chính.
+1. Từ thông báo cảnh báo, bấm **Xem Cảnh** báo để đi đến trang **Cảnh báo** trong cổng thông Bộ bảo vệ Microsoft 365 chính.
 
 2. Chọn cảnh báo để xem tùy chọn Xem **danh sách thư hoặc** Xem thư trong **Explorer**. Cả hai tùy chọn này sẽ đưa bạn đến chi tiết của thư, trong đó có ID Thông báo. Lưu ý rằng liên kết Trình khám phá Mối đe dọa sẽ tự động lọc các thư khớp với tiêu chí cảnh báo. Bạn có thể cần điều chỉnh bộ lọc ngày trong Trình khám phá Mối đe dọa.
 

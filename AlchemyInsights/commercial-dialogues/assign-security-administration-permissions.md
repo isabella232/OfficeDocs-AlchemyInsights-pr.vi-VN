@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "7363"
 - "9000722"
-ms.openlocfilehash: a1be177e9a86f96812c019f7247edcb9b05af974
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 715ebc8dff3426e86b7a0d3ce53476e835923056bd569c111282ec074a7cef9e
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58315814"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57897370"
 ---
 # <a name="assign-the-security-administrator-permission"></a>Gán quyền Người quản trị Bảo mật
 
-1. Trong cổng Bộ bảo vệ Microsoft 365 Tin nhắn tại , hãy chọn Quyền & vai trò Trong <https://security.microsoft.com> phần Email & vai trò  \>  **cộng** tác.
+1. Trong cổng Bộ bảo vệ Microsoft 365 Tin nhắn tại , hãy chọn Quyền & vai trò Trong <https://security.microsoft.com> phần Email & vai trò cộng  \>  **tác.**
 2. Chọn Người **quản trị** Bảo mật từ danh sách các nhóm vai trò.
 3. Trong hộp thả xuống chi tiết xuất hiện, cuộn xuống mục **Thành** viên, rồi bấm vào Chỉnh **sửa**.
 4. Trong hộp bật **lên Chọn thành viên** xuất hiện, bấm vào Chỉnh **sửa**.

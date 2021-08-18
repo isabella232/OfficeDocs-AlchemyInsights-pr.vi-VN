@@ -1,5 +1,5 @@
 ---
-title: Ẩn hoặc bỏ ẩn nhóm Office 365 hoặc nhóm từ danh sách địa chỉ
+title: Ẩn hoặc bỏ ẩn danh sách Office 365 nhóm hoặc nhóm khỏi danh sách địa chỉ
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002947"
 - "5642"
-ms.openlocfilehash: 12e221c69775f3dfeed1781b70d3061e1ca0ac3b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7e667e22cd81f38a1a2c1385bf42e5227cb641480f4b505110ee7349a13f13a1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51811478"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54088418"
 ---
-# <a name="hide-or-un-hide-office-365-groups-or-teams-from-address-list"></a>Ẩn hoặc bỏ ẩn nhóm Office 365 hoặc nhóm từ danh sách địa chỉ
+# <a name="hide-or-un-hide-office-365-groups-or-teams-from-address-list"></a>Ẩn hoặc bỏ ẩn danh sách Office 365 nhóm hoặc nhóm khỏi danh sách địa chỉ
 
-Sử dụng lệnh EXO PowerShell sau đây để ẩn hoặc bỏ ẩn nhóm Office 365/nhóm từ danh sách địa chỉ (GAL) của máy khách Exchange (Outlook, OWA):
+Sử dụng lệnh EXO PowerShell sau đây để ẩn hoặc bỏ ẩn Office 365/nhóm khỏi danh sách địa chỉ (GAL) của máy khách Exchange (Outlook, OWA):
 
 `
     Set-UnifiedGroup -Identity GroupName -HiddenFromAddressListsEnabled:<$true> or <$false>
 `
 
-Sử dụng lệnh EXO PowerShell sau đây để ẩn hoặc bỏ ẩn nhóm Office365 từ Exchange Client (Outlook, OWA):
+Sử dụng lệnh EXO PowerShell sau đây để ẩn hoặc bỏ ẩn nhóm/nhóm Office365 khỏi máy Exchange khách (Outlook, OWA):
 
 `
     Set-unifiedGroup -Identity GroupName -HiddenFromExchangeClientsEnabled:<$true> or <$false>
 `
 
-- Để biết hướng dẫn chi tiết, hãy xem [ẩn các nhóm Office 365 từ máy khách gal và Exchange](https://docs.microsoft.com/schooldatasync/hide-office-365-groups-from-the-gal).
+- Để biết hướng dẫn chi tiết, [hãy xem Office 365 Nhóm Mới khỏi GAL và Exchange Khách hàng.](https://docs.microsoft.com/schooldatasync/hide-office-365-groups-from-the-gal)

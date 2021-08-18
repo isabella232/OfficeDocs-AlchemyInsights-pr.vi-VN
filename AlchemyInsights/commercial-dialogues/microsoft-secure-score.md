@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: 59bca6951dd7fb6a6cd5df1108993e3c018ee0d8391b51a0cbcaf3a61fc45a55
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 40da85009f051005940429dcd2ac81ec9fa6dd64
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57883377"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316998"
 ---
 # <a name="microsoft-secure-score"></a>Điểm Số Bảo mật của Microsoft
 
 Bạn có thể làm cho môi trường của mình an toàn hơn bằng cách sử dụng Điểm Bảo mật của Microsoft. Hãy xem điểm số tín dụng cho bảo mật. Thông báo này cho bạn biết các hành động bạn có thể thực hiện có thể giúp cải thiện bảo mật của tổ chức bạn.
 
-1. Trong cổng thông Bộ bảo vệ Microsoft 365 tin tại <https://security.microsoft.com> , đi tới Điểm an **toàn**.
+1. Trong cổng thông Bộ bảo vệ Microsoft 365 tin Tại <https://security.microsoft.com> , đi tới Điểm bảo **mật**.
 
    Để đi trực tiếp đến trang **Điểm số bảo** mật, hãy sử dụng <https://security.microsoft.com/securescore>
 
@@ -34,7 +34,6 @@ Bạn có thể làm cho môi trường của mình an toàn hơn bằng cách s
 
 4. Chọn một **mục Đến địa** chỉ hoặc Hồi **quy** từ danh sách trên tab Hành **động cải** tiến. Một trang mới sẽ mở ra và cung cấp mô tả đầy đủ cùng nút **Quản** lý để khắc phục sự cố.
 
-    > [!NOTE]
-    > Bạn được tặng điểm khi cấu hình các tính năng bảo mật được đề xuất, nhưng hãy nhớ rằng một số hành động được đánh nhãn **là [Chưa Cho điểm]**. Điều này có nghĩa là ngay cả khi bạn thực hiện hành động cải thiện đó, bạn vẫn sẽ không được tặng bất kỳ điểm nào cho điểm số của mình. Nếu không, *có thể mất tới 24 giờ để* điểm của bạn cập nhật.
+    **Lưu** ý: Bạn được cấp điểm khi đặt cấu hình các tính năng bảo mật được đề xuất, nhưng hãy nhớ rằng một số hành động được đánh nhãn **là [Chưa Ghi điểm].** Điều này có nghĩa là ngay cả khi bạn thực hiện hành động cải thiện đó, bạn vẫn sẽ không được tặng bất kỳ điểm nào cho điểm số của mình. Nếu không, *có thể mất tới 24 giờ để* điểm của bạn cập nhật.
 
 Để biết thêm thông tin về Điểm Số Bảo mật của Microsoft, hãy [xem Điểm Bảo mật của Microsoft](https://docs.microsoft.com/microsoft-365/security/defender/microsoft-secure-score).

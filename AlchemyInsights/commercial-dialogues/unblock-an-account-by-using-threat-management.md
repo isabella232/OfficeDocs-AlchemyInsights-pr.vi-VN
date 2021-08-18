@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: 38700b516887dd4789e826a02672b5cc5d8354b1cd0ff743ba321724903413ba
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 777e09288347861fdb3356a54762ca63b08fcd85
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57895029"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316952"
 ---
 # <a name="unblock-an-account-by-using-threat-management"></a>Bỏ chặn tài khoản bằng cách sử dụng tính năng quản lý mối đe dọa
 
 Dưới đây là cách thực hiện:
 
-1. Đi đến cổng thông tin Bộ bảo vệ Microsoft 365 email trong Email & Xem <https://security.microsoft.com> \> **lại Cộng tác** \> **Người** dùng bị \> **hạn chế.**
+1. Đi đến cổng thông tin Bộ bảo vệ Microsoft 365 email trong <https://security.microsoft.com> \> **Email & Xem lại Người dùng** \> **bị** hạn \> **chế.**
 
    Để truy nhập trực tiếp vào trang **Người dùng bị hạn chế,** hãy sử dụng <https://security.microsoft.com/restrictedusers> .
 

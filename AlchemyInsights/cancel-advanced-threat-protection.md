@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscriptions
 - "9003019"
 - "5777"
-ms.openlocfilehash: 48c8c82257467a484205c4fcbb218b2441244915f943ed8d984c9d41767c676d
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: de141118124bf76339888a325c595c63cbaaa06d
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57894045"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317034"
 ---
 # <a name="cancel-advanced-threat-protection"></a>Hủy bỏ Tính năng Chống Mối đe dọa Nâng cao
 
@@ -27,7 +27,7 @@ Người quản trị có thể hủy bỏ đăng ký Chống Mối đe dọa N�
 
 1. Đi tới trang Thanh **toán Sản**  >  [phẩm của](https://go.microsoft.com/fwlink/p/?linkid=842054) bạn.
 2. Trên tab Sản **phẩm,** tìm gói Chống Mối đe dọa Nâng cao mà bạn muốn hủy bỏ. Chọn ba dot (thao tác khác), sau đó chọn Hủy **bỏ đăng ký**.
-3. Trong ngăn **Hủy bỏ** đăng ký, chọn lý do bạn hủy bỏ. Hoặc bạn có thể cung cấp bất kỳ phản hồi nào.
+3. Trong ngăn **Hủy bỏ** đăng ký, chọn lý do bạn hủy bỏ. Bạn có thể tùy chọn cung cấp bất kỳ phản hồi nào.
 4. Chọn **Lưu**.
 
 **Hoàn tiền:** Bạn sẽ được trả lại mọi khoản tín dụng theo hệ thống trong chu kỳ thanh toán tiếp theo.

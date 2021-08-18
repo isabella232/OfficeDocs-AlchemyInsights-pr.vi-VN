@@ -1,5 +1,5 @@
 ---
-title: thông tin 606 về ủy quyền
+title: 606 Thông tin về Ủy quyền
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,24 +13,24 @@ ms.custom:
 - "606"
 - "3800004"
 ms.assetid: f67467cc-d434-41e1-847c-120412b12c3f
-ms.openlocfilehash: 7fca7eb6af2abdaefe03e1ae5aa5976575183f79
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2e2c6b17807fe8ecab0b9685f981beda20c122143d1036a9c03075552c5ca897
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47755729"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54088238"
 ---
-# <a name="troubleshooting-delegation-in-outlook-and-outlook-on-the-web"></a>Khắc phục sự cố ủy quyền trong Outlook và Outlook trên web
+# <a name="troubleshooting-delegation-in-outlook-and-outlook-on-the-web"></a>Khắc phục sự cố ủy quyền Outlook và Outlook trên web
 
-**Khắc phục sự cố với công cụ SaRA:**
+**Khắc phục sự cố với công SaRA công cụ:**
 
-1. Tải xuống và cài đặt công cụ SaRA [ở đây](https://aka.ms/SaRA-SkypeForBusinessSignIn).
-1. Chọn **Outlook**, sau đó **tôi đang gặp vấn đề với lịch của mình**.
-1. Nói **có** máy tính bị ảnh hưởng.
+1. Tải xuống và cài SaRA công cụ tại [đây](https://aka.ms/SaRA-SkypeForBusinessSignIn).
+1. Chọn **Outlook**, sau **đó tôi đang gặp sự cố với lịch của mình**.
+1. Nói **Có cho** máy bị ảnh hưởng.
 1. Thêm địa chỉ email của người dùng bị ảnh hưởng.
-1. Chọn **tôi đang gặp vấn đề với quyền**đại diện.
-1. Ở lời nhắc tiếp theo, nếu bạn là người đưa ra quyền, hãy nhập địa chỉ email của người đại diện của bạn. Nếu bạn nhận được quyền và bạn là người đại diện, hãy nhập địa chỉ email của người đã cấp cho bạn quyền.
-1. Ở menu tiếp theo, hãy chọn tùy chọn phù hợp với tình huống của bạn.
+1. Chọn **Tôi đang gặp sự cố với quyền đại diện**.
+1. Trong lời nhắc tiếp theo, nếu bạn là người cấp quyền, hãy nhập địa chỉ email của đại diện của bạn. Nếu bạn đã nhận được quyền và bạn là người đại diện, hãy nhập địa chỉ email của người đã cấp quyền cho bạn.
+1. Ở menu tiếp theo, hãy chọn tùy chọn phù hợp với kịch bản của bạn.
 1. Ở menu tiếp theo, chọn mức cấp phép.
-1. Ở giai đoạn này, công cụ SaRA sẽ thực hiện kiểm tra tự động và nó sẽ cung cấp cho bạn một giải pháp có thể xảy ra hoặc cách khác sẽ cung cấp Nhật ký chẩn đoán có thể được dùng để khắc phục sự cố thêm.
-1. Bạn có thể tìm thấy các bản ghi trong thư mục kết quả SaRA nằm tại c: \ người dùng \ dữ _ liệu _ ứng _ dụng \ dữ liệu Sararesults.
+1. Ở giai đoạn này, công cụ SaRA sẽ thực hiện kiểm tra tự động và nó sẽ cung cấp cho bạn giải pháp khả thi hoặc thay vào đó sẽ cung cấp một nhật ký chẩn đoán có thể được sử dụng để khắc phục sự cố thêm.
+1. Bạn có thể tìm thấy nhật ký trong thư mục SaRA Results nằm tại C:\Users\Username\AppData\Local\SaraResults.

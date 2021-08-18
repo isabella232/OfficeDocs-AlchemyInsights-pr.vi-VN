@@ -1,5 +1,5 @@
 ---
-title: Cài đặt các nhóm trên môi trường VDI
+title: Cài đặt Teams trên môi trường VDI
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "2664"
 - "9000660"
-ms.openlocfilehash: 6e0d49683fb3b0069131d396a39f2188342b3aee
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1843caac062824ee531abda8e443903b98d94b4948759a0f63741ae17062bf8e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51831864"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54088166"
 ---
-# <a name="installing-teams-on-vdi-environments"></a>Cài đặt các nhóm trên môi trường VDI
+# <a name="installing-teams-on-vdi-environments"></a>Cài đặt Teams trên môi trường VDI
 
-Để biết thông tin về việc triển khai các nhóm trên máy tính dùng chung, các dịch vụ trên máy tính từ xa (RDS) hoặc cơ sở hạ tầng máy tính bàn ảo (VDI), hãy xem các [môi trường được chia sẻ và VDI với nhóm Microsoft](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams).
+Để biết thông tin về việc triển khai Teams trên máy tính dùng chung, Dịch vụ Máy tính Từ xa (RDS) hoặc Cơ sở hạ tầng Máy tính Ảo (VDI), hãy xem Máy tính dùng chung và môi trường [VDI với máy Microsoft Teams.](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams)
