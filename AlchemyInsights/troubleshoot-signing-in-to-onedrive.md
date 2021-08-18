@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8283"
 - "9004614"
-ms.openlocfilehash: fb944ae8dac7a8a222d2946025d8009216d6ca02efa750977bc9037bf578c8a1
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ea5000a06f86c0bc33cb057b67f6001fd1a4d5bddd39ac3324cd3b5c74ecdae7
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53972630"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57900710"
 ---
 # <a name="troubleshoot-signing-in-to-onedrive"></a>Khắc phục sự cố đăng nhập vào OneDrive
 
@@ -29,24 +29,24 @@ Bài viết này mô tả các kịch bản sau đây:
 
 **Khắc phục sự cố về đăng nhập vào máy Đồng bộ OneDrive khách**
 
-- Để biết các bước giải quyết lỗi 0x004de40, hãy xem mục Mã [0x8004de40 lỗi khi đăng nhập vào OneDrive.](/sharepoint/troubleshoot/administration/error-0x8004de40-in-onedrive)
-- Đăng nhập vào OneDrive hoặc SharePoint site bằng cách truy nhập  site, rồi bấm vào nút Đồng bộ ở đầu thanh menu trên site.
-- Đảm bảo bạn đang đăng nhập vào OneDrive for Business, không phải OneDrive.com. Nếu URL bạn truy cập bắt đầu bằng một onedrive.live.com, đó không phải là vị trí dành cho doanh nghiệp OneDrive nghiệp của bạn. Cách dễ dàng để đảm bảo rằng bạn đang đăng nhập vào OneDrive for Business bằng liên kết này: sau đó sử dụng tài khoản cơ quan hoặc trường học của bạn https://portal.office.com/onedrive để đăng nhập.
+- Để biết các bước giải quyết lỗi 0x004de40, [hãy xem mục Mã lỗi 0x8004de40 khi đăng nhập vào OneDrive.](https://docs.microsoft.com/sharepoint/troubleshoot/administration/error-0x8004de40-in-onedrive)
+- Đăng nhập vào OneDrive hoặc SharePoint site của bạn bằng cách  truy nhập site, rồi bấm vào nút Đồng bộ ở đầu thanh menu trên site.
+- Đảm bảo bạn đang đăng nhập vào OneDrive for Business chứ không phải OneDrive.com. Nếu URL bạn truy cập bắt đầu bằng địa onedrive.live.com, đó không phải là vị trí cho địa chỉ OneDrive nghiệp của bạn. Cách dễ dàng để đảm bảo rằng bạn đang đăng nhập vào OneDrive for Business bằng liên kết này: sau đó sử dụng tài khoản cơ quan hoặc trường học của bạn https://portal.office.com/onedrive để đăng nhập.
 - Nếu bạn vẫn gặp sự cố, hãy cân [nhắc thiết đặt lại OneDrive.](https://support.microsoft.com/office/reset-onedrive-34701e00-bf7b-42db-b960-84905399050c)
-- [Hủy](https://support.microsoft.com/office/how-to-remove-an-account-in-onedrive-72699268-9e64-45bd-b723-9a19f4512fd1)liên kết tài khoản của bạn OneDrive , đăng nhập vào site OneDrive  hoặc SharePoint, rồi bấm vào nút Đồng bộ ở đầu thanh menu trên site.
+- Bỏ [nối kết](https://support.microsoft.com/office/how-to-remove-an-account-in-onedrive-72699268-9e64-45bd-b723-9a19f4512fd1)tài khoản của bạn OneDrive , đăng nhập vào site OneDrive hoặc  SharePoint, rồi bấm vào nút Đồng bộ ở đầu thanh menu trên site.
 
 **Khắc phục sự cố về đăng nhập vào site OneDrive for Business bạn**
 
-- Đảm bảo bạn đang đăng nhập vào OneDrive for Business, không phải OneDrive.com. Nếu URL bạn truy cập bắt đầu bằng địa onedrive.live.com thì đó không phải là vị trí cho tài khoản OneDrive for Business. Cách dễ dàng để đảm bảo rằng bạn đang đăng nhập vào OneDrive for Business bằng liên kết này: sau đó sử dụng tài khoản cơ quan hoặc trường học của bạn https://portal.office.com/onedrive để đăng nhập.
+- Đảm bảo bạn đang đăng nhập vào OneDrive for Business, không phải OneDrive.com. Nếu URL bạn truy cập bắt đầu bằng địa onedrive.live.com thì đó không phải là vị trí cho địa chỉ OneDrive for Business. Cách dễ dàng để đảm bảo rằng bạn đang đăng nhập vào OneDrive for Business bằng liên kết này: sau đó sử dụng tài khoản cơ quan hoặc trường học của bạn https://portal.office.com/onedrive để đăng nhập.
 - Nếu bạn được chuyển hướng đến trang hồ sơ Delve của mình, người quản trị Microsoft 365 sẽ cần cấp cho người dùng quyền tạo [trang OneDrive for Business của họ.](https://support.microsoft.com/office/you-re-redirected-to-your-delve-profile-page-after-you-click-onedrive-on-the-microsoft-365-app-launcher-2af26640-9ddf-46c3-8912-6af30efcc7b0)
-- Kiểm tra xem bạn có thể truy nhập site OneDrive web hay không bằng cách sử dụng tính năng duyệt [InPrivate trong Microsoft Edge](https://support.microsoft.com/microsoft-edge/browse-inprivate-in-microsoft-edge-e6f47704-340c-7d4f-b00d-d0cf35aa1fcc) (hoặc một tính năng tương tự trong trình duyệt khác).
+- Kiểm tra xem bạn có thể truy nhập site OneDrive của bạn bằng cách sử dụng duyệt [InPrivate trong Microsoft Edge](https://support.microsoft.com/microsoft-edge/browse-inprivate-in-microsoft-edge-e6f47704-340c-7d4f-b00d-d0cf35aa1fcc) (hoặc một tính năng tương tự trong trình duyệt khác).
     - Nếu tính năng duyệt InPrivate hoạt động, bạn có thể cần xóa dữ liệu duyệt web của [Microsoft Edge](https://support.microsoft.com/microsoft-edge/view-and-delete-browser-history-in-microsoft-edge-00cf7943-a9e1-975a-a33d-ac10ce454ca4) (hoặc một tính năng tương tự trong trình duyệt khác).
 
-**Khắc phục sự cố đăng Office để đồng bộ với các bản OneDrive**
+**Khắc phục sự cố đăng Office nhập để đồng bộ với các OneDrive**
 
-Nếu bạn nhận được thông báo lỗi cho biết **Tải lên** chặn **,** Đăng nhập vào lưu tệp này hoặc Lưu bản sao **,** bạn có thể cần phải loại bỏ và kết nối lại OneDrive khỏi dịch vụ Office nối của [mình.](https://support.microsoft.com/office/how-to-resolve-upload-blocked-sign-into-save-this-file-or-save-a-copy-error-messages-32c7340c-f5fb-4ca0-a829-65d8120f81f8)
+Nếu bạn nhận được thông báo lỗi cho biết **Tải lên** đã chặn **,** Đăng nhập vào lưu tệp này hoặc Lưu bản sao **,** bạn có thể cần phải loại bỏ và kết nối lại OneDrive khỏi dịch vụ Office nối của [mình.](https://support.microsoft.com/office/how-to-resolve-upload-blocked-sign-into-save-this-file-or-save-a-copy-error-messages-32c7340c-f5fb-4ca0-a829-65d8120f81f8)
 
 **Mẹo khắc phục sự cố khác**
 
-Nếu bạn là người quản trị toàn cầu, giấy phép hoặc người dùng, [hãy gán đúng giấy phép cho người dùng bị ảnh hưởng.](/microsoft-365/admin/manage/assign-licenses-to-users)
+Nếu bạn là người quản trị toàn cầu, giấy phép hoặc người dùng, [hãy gán đúng giấy phép cho người dùng bị ảnh hưởng.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
 

@@ -1,5 +1,5 @@
 ---
-title: Chào mừng bạn đến với bản xem trước Microsoft 365 Lighthouse Private
+title: Chào mừng bạn đến với Microsoft 365 Lighthouse Private Preview
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004405"
 - "7958"
-ms.openlocfilehash: cca5f2200d9a43ee35bd15262e5e2b8913d21d8f
-ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
+ms.openlocfilehash: c68747fbea80732f80d7537e123eae95e52e02548a37c899350a5d1f9f5cd53d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50243729"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54114266"
 ---
-# <a name="welcome-to-the-microsoft-365-lighthouse-private-preview"></a>Chào mừng bạn đến với bản xem trước Microsoft 365 Lighthouse Private
+# <a name="welcome-to-the-microsoft-365-lighthouse-private-preview"></a>Chào mừng bạn đến với Microsoft 365 Lighthouse Private Preview
 
-Bạn đang tham gia vào bản xem trước riêng tư dành cho Microsoft 365 Lighthouse. Nếu bạn mong muốn cung cấp phản hồi về việc Microsoft 365 Lighthouse, hãy đăng chi tiết vào [site tiếng người dùng](https://aka.ms/M365Lighthouseuservoice)của chúng tôi. Nếu bạn có câu hỏi hoặc gặp phải vấn đề trong khi sử dụng Microsoft 365 Lighthouse, vui lòng tạo yêu cầu hỗ trợ để được hỗ trợ thêm.
+Bạn đang tham gia vào Bản xem trước Riêng tư cho Microsoft 365 Lighthouse. Nếu bạn muốn cung cấp phản hồi về Microsoft 365 Lighthouse, hãy đăng chi tiết lên [site User Voice của chúng tôi.](https://aka.ms/M365Lighthouseuservoice) Nếu có thắc mắc hoặc gặp sự cố trong khi sử dụng Lighthouse Microsoft 365, vui lòng tạo yêu cầu hỗ trợ để được hỗ trợ thêm.

@@ -1,5 +1,5 @@
 ---
-title: Quyền đối với nhóm Microsoft
+title: Microsoft Teams quyền
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "2658"
 - "9000730"
-ms.openlocfilehash: 8e6ce1a6344c70f43f76164612bc55b95a61e97d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2cf6668e8451530a4ad05a448ab59f7a34d22a7a1072f290da6c5a248ab0c433
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51833781"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54114086"
 ---
-# <a name="microsoft-teams-permissions"></a>Quyền đối với nhóm Microsoft
+# <a name="microsoft-teams-permissions"></a>Microsoft Teams quyền
 
-Nhóm Microsoft bao gồm hai vai trò người dùng: chủ sở hữu và thành viên. Theo mặc định, một người dùng đã tạo một nhóm mới được cấp trạng thái chủ sở hữu. Ngoài ra, chủ sở hữu và thành viên có thể có các khả năng của người điều hành cho kênh (nếu đã được thiết lập). Nếu nhóm được tạo từ một nhóm Microsoft 365 hiện có, các quyền được kế thừa. Để biết thêm thông tin, hãy xem:
+Microsoft Teams gồm hai vai trò người dùng: chủ sở hữu và thành viên. Theo mặc định, người dùng tạo nhóm mới sẽ được cấp trạng thái chủ sở hữu. Ngoài ra, người sở hữu và thành viên có thể có khả năng điều hành cho kênh (nếu đã thiết lập điều hành). Nếu một nhóm được tạo từ một Nhóm Microsoft 365 có sẵn, các quyền sẽ được kế thừa. Để biết thêm thông tin, hãy xem:
 
-- [Gán chủ sở hữu nhóm và thành viên trong nhóm Microsoft](https://docs.microsoft.com/microsoftteams/assign-roles-permissions)
-- [Quyền đối với các ứng dụng Microsoft nhóm và cân nhắc](https://docs.microsoft.com/microsoftteams/app-permissions)
-- [Đặt quyền đối với các kênh trong nhóm](https://support.office.com/article/4756c468-2746-4bfd-a582-736d55fcc169)
+- [Gán cho chủ sở hữu và thành viên nhóm trong Microsoft Teams](https://docs.microsoft.com/microsoftteams/assign-roles-permissions)
+- [Microsoft Teams các quyền và cân nhắc của ứng dụng](https://docs.microsoft.com/microsoftteams/app-permissions)
+- [Đặt quyền của khách cho kênh trong Teams](https://support.office.com/article/4756c468-2746-4bfd-a582-736d55fcc169)

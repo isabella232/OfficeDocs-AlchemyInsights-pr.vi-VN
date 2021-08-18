@@ -1,5 +1,5 @@
 ---
-title: Chuyên gia Microsoft Threat-chuyên gia theo yêu cầu
+title: Chuyên gia về Mối đe dọa của Microsoft - Chuyên gia theo Yêu cầu
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004241"
 - "8321"
-ms.openlocfilehash: 583b1099ad4ea07f780a3b122f381dd0ac2e864d
-ms.sourcegitcommit: 1736dc914ceb9d72fc87f45762f2aa7f646b8fbb
+ms.openlocfilehash: 63ba0615d118d2ac32ffe5acc289838ef9dfb62d3576c5cfecf361e182060acd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/17/2021
-ms.locfileid: "50841786"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54113942"
 ---
-# <a name="microsoft-threat-experts---experts-on-demand"></a>Chuyên gia Microsoft Threat-chuyên gia theo yêu cầu
+# <a name="microsoft-threat-experts---experts-on-demand"></a>Chuyên gia về Mối đe dọa của Microsoft - Chuyên gia theo Yêu cầu
 
-Các chuyên gia theo yêu cầu là khả năng của chuyên gia đe dọa Microsoft thứ hai. Đây là nơi bạn có thể tiếp cận với chúng tôi khi bạn cần tham khảo ý kiến về các câu hỏi liên quan đến các kẻ thù và kẻ thù.
+Chuyên gia theo Yêu cầu là chức năng Chuyên gia về Mối đe dọa của Microsoft thứ hai. Đây là nơi bạn có thể liên hệ với chúng tôi khi bạn cần tư vấn về các câu hỏi liên quan về phát hiện và thời từ.
 
-Nếu bạn đã là hậu vệ cho khách hàng điểm cuối, bạn có thể liên hệ với đại diện Microsoft của mình để đăng ký với chuyên gia Microsoft Threat-chuyên gia theo yêu cầu.
+Nếu bạn đã là Bộ bảo vệ cho khách hàng Điểm cuối, bạn có thể liên hệ với đại diện Microsoft của mình để đăng ký Chuyên gia về Mối đe dọa của Microsoft - Chuyên gia theo Yêu cầu.
 
-Tùy chọn **tham khảo ý kiến một chuyên gia mối đe dọa** sẵn dùng trong các menu sau trong cổng thông tin, nơi bạn có thể tham gia với các chuyên gia trong ngữ cảnh của điều tra của bạn:
+Tùy chọn Tham **khảo chuyên gia về mối** đe dọa có sẵn trong các menu sau đây trong cổng thông tin, nơi bạn có thể tham gia với các chuyên gia trong bối cảnh điều tra của bạn:
 
-- Menu trợ giúp và hỗ trợ
-- Menu hành động trang thiết bị
-- Menu hành động trang cảnh báo
-- Menu hành động trang tệp
+- Menu Trợ giúp và hỗ trợ
+- Menu Hành động trang thiết bị
+- Menu hành động của trang Cảnh báo
+- Menu Hành động trang tệp
 
-Để biết thêm thông tin, hãy xem [cấu hình và quản lý các chức năng của chuyên gia Microsoft Threat](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-microsoft-threat-experts).
+Để biết thêm thông tin, hãy [xem đặt cấu hình và quản Chuyên gia về Mối đe dọa của Microsoft năng mới](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-microsoft-threat-experts).

@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscriptions
 - "1400001"
 - "4722"
-ms.openlocfilehash: 94a07f68003c8e77149499dbb95e1e96313e14b953e1b8bbf7e0efed24ea145d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9a336cb0c13751044cdca7017803d9ba4dabcb1e5f6e49d3ac4fd7d35d027c95
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54071426"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57900450"
 ---
 # <a name="cancel-project-subscription"></a>Hủy bỏ Project ký
 
@@ -27,9 +27,9 @@ Người quản trị có thể hủy bỏ đăng Project cho tổ chức của 
 
 1. Đi tới trang Thanh **toán Sản** \> [phẩm của](https://go.microsoft.com/fwlink/p/?linkid=842054) bạn.
 2. Trên tab **Sản** phẩm, tìm đăng Project mà bạn muốn hủy bỏ. Chọn ba dot (thao tác khác), sau đó chọn Hủy **bỏ đăng ký**.
-3. Trong ngăn **Hủy bỏ** đăng ký, chọn lý do bạn hủy bỏ. Bạn có thể tùy chọn cung cấp bất kỳ phản hồi nào.
+3. Trong ngăn **Hủy bỏ** đăng ký, chọn lý do bạn hủy bỏ. Hoặc bạn có thể cung cấp bất kỳ phản hồi nào.
 4. Chọn **Lưu**.
 
 **Hoàn tiền:** Bạn sẽ được trả lại mọi khoản tín dụng theo hệ thống trong chu kỳ thanh toán tiếp theo.
 
-Để tìm hiểu thêm, xem mục [Hủy bỏ đăng ký của bạn](/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+Để tìm hiểu thêm, xem mục [Hủy bỏ đăng ký của bạn](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).

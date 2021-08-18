@@ -1,5 +1,5 @@
 ---
-title: Sử dụng Microsoft InTune để cấu hình các thiết đặt chính sách của Microsoft Edge cho Windows 10
+title: Sử dụng Microsoft Intune để cấu hình các Microsoft Edge chính sách cho người Windows 10
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -14,17 +14,17 @@ ms.custom:
 - "9004632"
 - "7096"
 - "8365"
-ms.openlocfilehash: 0107571b4a9313b39751f8c8d06468ccf8cdf807
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 7b044a17c06522bd0cc97eef10841754833f7ae04fb25e9951c1d9df7e93f6f9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51401785"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54114158"
 ---
-# <a name="use-microsoft-intune-to-configure-microsoft-edge-policy-settings-for-windows-10"></a>Sử dụng Microsoft InTune để cấu hình các thiết đặt chính sách của Microsoft Edge cho Windows 10
+# <a name="use-microsoft-intune-to-configure-microsoft-edge-policy-settings-for-windows-10"></a>Sử dụng Microsoft Intune để cấu hình các Microsoft Edge chính sách cho người Windows 10
 
-Bạn có thể cấu hình các chính sách và thiết đặt Microsoft Edge bằng cách thêm hồ sơ cấu hình thiết bị vào Microsoft InTune. Điều này tương đương với cấu hình chính sách Nhóm Microsoft Azure Active Directory hoặc thiết đặt đối tượng chính sách Nhóm Cục bộ (GPO) trên thiết bị người dùng.
+Bạn có thể cấu hình Microsoft Edge sách và thiết đặt thiết bị bằng cách thêm một hồ sơ cấu hình thiết Microsoft Intune. Điều này tương đương với việc cấu hình Microsoft Azure Active Directory chính sách nhóm hoặc cài đặt Đối tượng Chính sách Nhóm cục bộ (GPO) trên thiết bị người dùng.
 
-Để tìm hiểu thêm, hãy xem [tạo hồ sơ để quản lý thiết đặt trong Microsoft Edge for Windows 10](https://go.microsoft.com/fwlink/?linkid=2133700).
+Để tìm hiểu thêm, xem [mục Tạo hồ sơ để quản lý cài đặt trong Microsoft Edge for Windows 10.](https://go.microsoft.com/fwlink/?linkid=2133700)
 
-Bài viết này áp dụng cho các phiên bản Microsoft Edge 77 trở lên.
+Bài viết này áp dụng Microsoft Edge phiên bản 77 trở lên.

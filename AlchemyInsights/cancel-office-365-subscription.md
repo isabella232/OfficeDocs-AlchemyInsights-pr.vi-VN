@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - commerce_subscriptions
 ms.assetid: 8518f535-1bd3-4bf0-8e6e-e3468459bd5e
-ms.openlocfilehash: ca9dd54a7ba8007da5f78b7c4fd8b2e0cfff6d5f
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: b55130a5e3ddc42c32658115809035ce792fa3868ff62b16a94c80d91572568a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58303851"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57900494"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>Bạn đang hủy bỏ đăng Microsoft 365 của mình?
 
@@ -30,6 +30,7 @@ Chúng tôi rất tiếc khi bạn ngừng sử dụng dịch vụ nhưng nếu 
 
 **Hoàn tiền: Bạn sẽ được trả lại mọi khoản tín dụng theo xếp hạng trong chu kỳ thanh toán tiếp theo.**
 
-**Lưu** ý: Nếu bạn không thấy tùy chọn để hủy bỏ, hãy chọn đăng ký để xem trang chi tiết. Trong mục Đăng **ký và cài đặt thanh toán,** chọn Hủy bỏ đăng **ký**.
+> [!NOTE]
+> Nếu bạn không thấy tùy chọn để hủy bỏ, hãy chọn đăng ký để xem trang chi tiết. Trong mục Đăng **ký và cài đặt thanh toán,** chọn Hủy bỏ đăng **ký**.
 
 Để tìm hiểu thêm, xem mục [Hủy bỏ đăng ký của bạn](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).

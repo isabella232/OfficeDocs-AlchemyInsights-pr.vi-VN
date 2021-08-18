@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003554"
 - "6819"
-ms.openlocfilehash: b0618a02d2ae74ece246b629d96b92d76e5e5718367f9055d9783c1440a7a70b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 97b4138517ef84b8e7fb176a4abee44d64a56d2f
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54020106"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317162"
 ---
 # <a name="understand-billing-amount"></a>Tìm hiểu về số tiền thanh toán
 
@@ -25,13 +25,13 @@ ms.locfileid: "54020106"
 
 Gói đăng ký này giới hạn cho một đăng ký cho mỗi khách hàng đủ điều kiện và không thể kết hợp với bất kỳ gói nào khác trừ khi được Microsoft cho phép khác
 
-Trong vòng 30 ngày kể từ khi đăng ký hoặc sau khi dùng hết hạn mức tín dụng của khách hàng (tùy theo điều kiện nào xảy ra trước), khách hàng phải nâng cấp lên tài khoản Thanh toán Khi Bạn Truy cập bằng cách xóa Giới hạn Chi tiêu. Điều này cho phép tiếp tục sử dụng Tài khoản Azure Miễn phí trong 11 tháng còn lại. Sau khi khách hàng đã nâng cấp, mức sử dụng nằm ngoài tín dụng ban đầu và chọn các dịch vụ miễn phí sẽ được lập hóa đơn ở mức cước phí Thanh toán Theo Mức sử dụng tiếp. Nếu khách hàng chọn không nâng cấp, đăng ký Tài khoản Miễn phí sẽ bị vô hiệu hóa.
+Trong vòng 30 ngày kể từ khi đăng ký hoặc sau khi dùng hết hạn mức tín dụng của khách hàng (tùy theo điều kiện nào xảy ra trước), khách hàng phải nâng cấp lên tài khoản Thanh toán Khi Bạn Truy cập bằng cách xóa Giới hạn Chi tiêu. Điều này cho phép tiếp tục sử dụng Tài khoản Azure Miễn phí trong 11 tháng còn lại. Sau khi khách hàng đã nâng cấp, mức sử dụng nằm ngoài tín dụng ban đầu và chọn các dịch vụ miễn phí sẽ được lập hóa đơn ở mức cước phí Thanh toán Khi Sử dụng tiếp. Nếu khách hàng chọn không nâng cấp, đăng ký Tài khoản Miễn phí sẽ bị vô hiệu hóa.
 
 Tìm hiểu thêm: [Các sản phẩm được cung cấp miễn phí hàng tháng dưới tài khoản Azure miễn phí](https://azure.microsoft.com/free/free-account-faq/)
 
 **Đã tắt Đăng ký Bật lại sau 30 ngày**
 
-- Sau khi bạn kích hoạt lại và chuyển đổi đăng ký Dùng thử miễn phí thành Dịch vụ Bao gồm MIỄN PHÍ PAYG sẽ bắt đầu từ thời điểm đăng ký được bật. Ngoài ra, nếu bạn chuyển đổi nhầm ưu đãi Azure Free Account sang X (không phải PAYG), bạn vẫn sẽ tiếp tục nhận được các lợi ích.
+- Sau khi bạn kích hoạt lại và chuyển đổi đăng ký Dùng thử miễn phí của mình thành Dịch vụ Bao gồm MIỄN PHÍ PAYG sẽ bắt đầu từ thời điểm đăng ký được bật. Ngoài ra, nếu bạn chuyển đổi nhầm ưu đãi Azure Free Account sang X (không phải PAYG), bạn vẫn sẽ tiếp tục nhận được các lợi ích.
 
 Tìm hiểu thêm: 
 - [Kích hoạt lại gói đăng ký](https://docs.microsoft.com/azure/billing/billing-subscription-become-disable?WT.mc_id=Portal-Microsoft_Azure_Support)
@@ -46,7 +46,7 @@ Tìm hiểu thêm:
 
 **Tôi có phải thanh toán bất kỳ khoản nào khi đang sử dụng Tài khoản Azure Miễn phí không?**
 
-Bạn sẽ chỉ bị tính phí nếu bạn triển khai các dịch vụ không được tích hợp trong Tài khoản Azure Miễn phí. Chỉ sau khi bạn xóa tín dụng $200 hoặc đạt đến khoảng thời gian 30 ngày (tùy theo ngày đến trước) bạn sẽ bắt đầu được lập hóa đơn ở mức cước phí Thanh toán Khi Bạn Bắt đầu.
+Bạn sẽ chỉ bị tính phí nếu bạn triển khai các dịch vụ không được bao gồm trong Tài khoản Azure Miễn phí. Chỉ sau khi bạn xóa tín dụng $200 hoặc đạt đến khoảng thời gian 30 ngày (tùy theo ngày đến trước) bạn sẽ bắt đầu được lập hóa đơn ở mức cước phí Thanh toán Khi Bạn Bắt đầu.
 
 **Tôi được phép sử dụng bao nhiêu đăng ký Tài khoản Miễn phí Azure trên tài khoản của mình?**  
 
@@ -54,7 +54,7 @@ Có giới hạn một đăng ký Tài khoản Miễn phí Azure cho mỗi tài 
 
 **Tài khoản Azure Miễn phí hoạt động như thế nào với Thỏa thuận Doanh nghiệp khách hàng (EA) của bạn?**  
 
-Ưu đãi này không khả dụng cho khách hàng EA. Tuy nhiên, nếu khách hàng có Tài khoản miễn phí và chuyển đổi sang lớp EA sau đó, các lợi ích của Tài khoản Miễn phí sẽ tiếp tục trong 12 tháng kể từ thời điểm đăng ký Tài khoản miễn phí.
+Ưu đãi này không khả dụng cho khách hàng EA. Tuy nhiên, nếu khách hàng có Tài khoản Miễn phí và chuyển đổi sang lớp EA sau đó, các lợi ích của Tài khoản Miễn phí sẽ tiếp tục trong 12 tháng kể từ thời điểm đăng ký Tài khoản miễn phí.
 
 **Các dịch vụ được cung cấp trong lớp miễn phí có sử dụng khoản tín dụng $200 ban đầu không?**  
 
@@ -65,12 +65,14 @@ Không. Khách hàng được đếm cố định các dịch vụ Lớp Miễn 
 - Mở cửa sổ trình duyệt riêng tư/ẩn danh (Ctrl + Shift + P trong Edge)
 - Dẫn hướng [đến các tài trợ Azure](http://www.microsoftazuresponsorships.com/)
 - Bấm nối kết Kiểm tra Số dư của Bạn
-- Đăng nhập bằng thông tin xác thực tài khoản Tài trợ của Chính phủ Azure (Đăng nhập phải sử dụng định user.name@xxxx.onmicrosoft.com khác)
+- Đăng nhập bằng thông tin xác thực tài khoản Tài khoản Tài trợ của Chính phủ Azure (Đăng nhập phải sử dụng định user.name@xxxx.onmicrosoft.com khác)
 - Bạn sẽ được chuyển đến một trang hiển thị các thông tin sau: Ngày Bắt đầu, Ngày Kết thúc, Số tiền Tài trợ, Đã sử dụng, Số dư Còn lại
 
 **Làm thế nào để tôi có thể xác minh dịch vụ miễn phí đang hoạt động hoặc khi nào chúng sẽ hết hạn?**
 
-Trong trang Tổng quan về Đăng> ký Ibiza > mục > cuộn xuống tới Dịch vụ miễn phí trong 12 tháng, rồi bấm vào biểu tượng Thông tin. Thông tin này sẽ hiển thị ngày hết hạn Dịch vụ miễn phí **Lưu** ý: Không có dịch vụ V1 nào nằm trong Dịch vụ Bao gồm Miễn phí Azure. Để biết danh sách cập nhật nhất về Dịch vụ Miễn phí, hãy xem Mục Những [sản phẩm miễn phí trong 12 tháng](http://www.microsoftazuresponsorships.com/)
+Trong trang Tổng quan về Đăng> đăng ký > Ibiza> cuộn xuống tới Dịch vụ miễn phí trong 12 tháng, rồi bấm vào biểu tượng Thông tin. Thông tin này sẽ hiển thị ngày hết hạn dịch vụ Miễn phí
+
+**Lưu ý**: Không có dịch vụ V1 nào là một phần của Dịch vụ Được bao gồm Miễn phí Azure. Để biết danh sách cập nhật nhất về Dịch vụ Miễn phí, xem mục Những [sản phẩm miễn phí trong 12 tháng](http://www.microsoftazuresponsorships.com/)
 
 Câu hỏi thường gặp khác: Câu [hỏi thường gặp về tài khoản miễn phí](https://azure.microsoft.com/free/free-account-faq/)
 
