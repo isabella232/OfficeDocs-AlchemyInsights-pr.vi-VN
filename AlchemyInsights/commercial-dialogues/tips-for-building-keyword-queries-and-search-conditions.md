@@ -1,5 +1,5 @@
 ---
-title: Mẹo cho việc dựng truy vấn từ khóa và điều kiện tìm kiếm
+title: Mẹo dựng truy vấn từ khóa và điều kiện tìm kiếm
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7221"
-ms.openlocfilehash: 8d653e97e1a95ac14e49bfe6e03af0b65da5a4c7
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 59c7a2d9d6484bbaa1103fb13a3aa4fbd5e2ab745208e9474362029cf6406234
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50483552"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54119126"
 ---
-# <a name="tips-for-building-keyword-queries-and-search-conditions"></a>Mẹo cho việc dựng truy vấn từ khóa và điều kiện tìm kiếm
+# <a name="tips-for-building-keyword-queries-and-search-conditions"></a>Mẹo dựng truy vấn từ khóa và điều kiện tìm kiếm
 
-Dưới đây là một số mẹo để xây dựng truy vấn tìm kiếm của bạn và nhận được kết quả chính xác hơn:
+Dưới đây là một số mẹo cho việc xây dựng truy vấn tìm kiếm của bạn và nhận kết quả chính xác hơn:
 
-1. Sử dụng [ngôn ngữ truy vấn từ khóa (KQL)](https://go.microsoft.com/fwlink/?linkid=2101591) cho cú pháp truy vấn.
-1. Sử dụng toán tử [boolean](https://go.microsoft.com/fwlink/?linkid=2101592) như và, hoặc không.
-1. Sử dụng các [điều kiện tìm kiếm](https://go.microsoft.com/fwlink/?linkid=2102410) như ngày, người gửi/tác giả và chủ đề để giúp thu hẹp tìm kiếm.
-1. Bạn có thể tìm kiếm các thuộc tính thư email chẳng hạn như **Bcc** và **CC**. Bạn cũng có thể tìm kiếm các thuộc tính SharePoint và OneDrive for Business
+1. Use [Keyword Query Language (KQL)](https://go.microsoft.com/fwlink/?linkid=2101591) for the query syntax.
+1. Sử [dụng các toán tử Boolean](https://go.microsoft.com/fwlink/?linkid=2101592) như AND, OR, NOT.
+1. Sử [dụng các điều](https://go.microsoft.com/fwlink/?linkid=2102410) kiện tìm kiếm như Ngày, Người gửi/Tác giả và Chủ đề để giúp thu hẹp tìm kiếm.
+1. Bạn có thể tìm kiếm các thuộc tính thư email như **bcc** và **cc.** Bạn cũng có thể tìm kiếm các thuộc SharePoint và OneDrive for Business tính
 
-Để tìm hiểu thêm, hãy xem [truy vấn từ khóa và điều kiện tìm kiếm để tìm kiếm nội dung](https://go.microsoft.com/fwlink/?linkid=2102411).
+Để tìm hiểu thêm, hãy xem Truy [vấn từ khóa và điều kiện tìm kiếm cho Tìm kiếm Nội dung.](https://go.microsoft.com/fwlink/?linkid=2102411)

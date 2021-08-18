@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscriptions
 - "9002459"
 - "3764"
-ms.openlocfilehash: 50e8185e90e40ef538230decf0a41f9e7ca0fb6c2649354559af43d4e563a9dc
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 6724a82f318ed13890a34039470eb9611a630e03
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57893873"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323026"
 ---
 # <a name="license-or-account-disabled"></a>Đã vô hiệu hóa giấy phép hoặc tài khoản
 
@@ -29,8 +29,7 @@ Nếu đăng ký của bạn hết hạn hoặc bị Microsoft vô hiệu hóa h
 
 1. Trong trung tâm quản trị, đi đến trang Thanh toán  >  [Sản phẩm của](https://go.microsoft.com/fwlink/p/?linkid=842054) bạn.
 2. Trên tab **Sản** phẩm, hãy tìm đăng ký mà bạn muốn kích hoạt lại. Chọn ba dot (hành động khác), sau đó chọn **Kích hoạt lại đăng ký này**.
-    > [!NOTE]
-    > Nếu bạn không thấy Kích hoạt lại **đăng ký này, hãy liên hệ với** bộ phận hỗ trợ.
+    **Lưu** ý: Nếu bạn không thấy Kích hoạt lại đăng **ký này, hãy liên hệ với** bộ phận hỗ trợ.
 3. Trong ngăn **Kích hoạt lại đăng ký này,** chọn một phương thức thanh toán từ danh sách thả xuống hoặc chọn Thêm phương thức thanh **toán**.
 4. Chọn **Lưu**.
 

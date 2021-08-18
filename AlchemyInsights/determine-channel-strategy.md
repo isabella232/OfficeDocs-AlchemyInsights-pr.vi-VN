@@ -15,12 +15,12 @@ ms.custom:
 - "9005291"
 - "11089"
 - "9006490"
-ms.openlocfilehash: 06ad41ae0d76b5734d6a399e023d1ae84f5b86d8b9b48d7696619dbf22d88618
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 19efa16e7cf665648a03dc95da9d68841ca9e531
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57899966"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323262"
 ---
 # <a name="determine-channel-strategy"></a>Xác định chiến lược kênh
 
@@ -28,8 +28,7 @@ Microsoft Edge phát hành trong bốn kênh giúp kiểm soát tần suất tr�
 
 Kênh Ổn định là kênh mà bạn sẽ muốn triển khai cho hầu hết các thiết bị, nhưng bạn nên cân nhắc việc triển khai nhiều kênh và thiết bị.
 
-> [!NOTE]
-> Bạn có thể cài đặt nhiều kênh trên một thiết bị.
+**Lưu** ý: Bạn có thể cài đặt nhiều kênh trên một thiết bị.
 
 **Nhiều thiết bị và kênh**
 

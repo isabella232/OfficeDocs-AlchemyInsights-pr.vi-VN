@@ -1,5 +1,5 @@
 ---
-title: Thiết lập chính Két sắt kết cập nhật trong Bộ bảo vệ Microsoft dành cho Office 365
+title: Thiết lập Két sắt sách Liên kết trong Bộ bảo vệ Microsoft dành cho Office 365
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 31ebb466394dddd4c72c64c3f10500d578cb206cfe2c316a2f12d9a34bff130d
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 353571996403d1ddd133d5ef1705d86e7dc38d02
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57882589"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58322235"
 ---
-# <a name="set-up-safe-link-policies-in-microsoft-defender-for-office-365"></a>Thiết lập chính Két sắt kết cập nhật trong Bộ bảo vệ Microsoft dành cho Office 365
+# <a name="set-up-safe-link-policies-in-microsoft-defender-for-office-365"></a>Thiết lập Két sắt sách Liên kết trong Bộ bảo vệ Microsoft dành cho Office 365
 
-1. Trong cổng thông tin Bộ bảo vệ Microsoft 365 , đi đến Chính sách Cộng tác qua Email & các chính sách & mối đe dọa trong quy tắc Két sắt nối kết trong <https://security.microsoft.com/>  \>  \>  \>  **phần Chính** sách.
+1. Trong cổng thông tin Bộ bảo vệ Microsoft 365 , đi đến Chính sách Cộng tác qua Email & & chính sách Mối đe dọa trong Quy Két sắt Nối kết trong <https://security.microsoft.com/>  \>  \>  \>  **phần Chính** sách.
 
-   Để đi trực tiếp đến trang **Két sắt Kết nối,** hãy sử dụng <https://security.microsoft.com/safelinksv2> .
+   Để đi thẳng tới trang **Liên Két sắt,** hãy sử dụng <https://security.microsoft.com/safelinksv2> .
 
-2. Trên trang Nối **Két sắt,** hãy thực hiện bất kỳ bước nào sau đây:
+2. Trên trang Nối **Két sắt, hãy** thực hiện bất kỳ bước nào sau đây:
    - Để thêm chính sách mới, chọn **+ Tạo**. Một trình hướng dẫn sẽ khởi chạy để giúp bạn xác định các thiết đặt chính sách.
    - Để sửa chính sách hiện có, hãy chọn chính sách bằng cách bấm vào tên của chính sách. Trong hộp bật lên chi tiết xuất hiện, chọn **Chỉnh sửa** trong mục có chứa các cài đặt bạn muốn cấu hình.
    - Để chặn các URL khỏi Két sắt Bảo vệ liên kết hoặc đặt cấu hình cài đặt cho Két sắt Liên kết trong ứng dụng Office 365 được hỗ trợ, bấm vào Cài đặt chung **,** đặt cấu hình cài đặt bạn muốn, rồi bấm **vào Lưu.**
@@ -34,5 +34,5 @@ ms.locfileid: "57882589"
 
 Để biết thêm thông tin, hãy xem các bài viết sau đây:
 
-- [Chính sách Thiết Két sắt kết trong Bộ bảo vệ Microsoft dành cho người Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-safe-links-policies)
+- [Chính sách Thiết Két sắt kết trong Bộ bảo vệ Microsoft dành cho Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-safe-links-policies)
 - [Đặt cấu hình cài đặt chung Két sắt Liên kết trong Bộ bảo vệ Microsoft cho Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-global-settings-for-safe-links)

@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004299"
 - "7677"
-ms.openlocfilehash: 2fcd0f386d2da8cad19fcc9872482bb75fe00dd2
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: c104f77f0f0f20fa4b029e5e0b515b6418326e4b7fab304f005fb67a18e2202a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748670"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54119306"
 ---
 # <a name="manage-journaling"></a>Quản lý ghi nhật ký
 
-Journaling có thể giúp tổ chức của bạn phản hồi các yêu cầu tuân thủ pháp lý, quy định và tổ chức bằng cách ghi liên lạc email đến và gửi đi. Hãy nhớ:
+Ghi nhật ký có thể giúp tổ chức của bạn đáp ứng các yêu cầu về pháp lý, quy định và tuân thủ của tổ chức bằng cách ghi lại thông tin liên lạc email đến và đi. Hãy ghi nhớ:
 
-* Bạn cần có quyền quản lý [tổ chức](https://go.microsoft.com/fwlink/?linkid=2115259) và quản [lý bản ghi](https://go.microsoft.com/fwlink/?linkid=2115469) trước khi có thể quản lý journaling.
-* Bạn cần có một hộp thư Nhật ký và (tùy chọn) một hộp thư sẽ được đặt cấu hình thay thế. Để tìm hiểu thêm, hãy xem mục [đặt cấu hình journaling trong Exchange Online](https://go.microsoft.com/fwlink/?linkid=2115260).
-* Trong Exchange Online, có giới hạn số lượng quy tắc nhật ký mà bạn có thể tạo. Để biết chi tiết, hãy xem [giới hạn về Nhật ký, giao thông và quy tắc hộp thư đến](https://go.microsoft.com/fwlink/?linkid=2115261).
-* Exchange Online không hỗ trợ việc cung cấp báo cáo Nhật ký vào một hộp thư Exchange Online. Bạn phải xác định địa chỉ email của hệ thống lưu trữ tại cơ sở hoặc dịch vụ lưu trữ bên thứ ba làm hộp thư ghi nhật ký.
+* Bạn cần phải có quyền [Quản lý Tổ chức](https://go.microsoft.com/fwlink/?linkid=2115259) và Quản lý [Bản](https://go.microsoft.com/fwlink/?linkid=2115469) ghi trước khi có thể quản lý ghi nhật ký.
+* Bạn cần có một hộp thư nhật ký và (tùy chọn) một hộp thư ghi nhật ký thay thế được cấu hình. Để tìm hiểu thêm, xem mục [Đặt cấu hình Ghi nhật ký Exchange Online.](https://go.microsoft.com/fwlink/?linkid=2115260)
+* Trong Exchange Online, có giới hạn về số lượng quy tắc nhật ký mà bạn có thể tạo. Để biết chi tiết, hãy [xem Giới hạn quy tắc nhật ký, truyền tải và hộp thư đến.](https://go.microsoft.com/fwlink/?linkid=2115261)
+* Exchange Online hỗ trợ chuyển phát báo cáo nhật ký đến hộp Exchange Online của bạn. Bạn phải chỉ định địa chỉ email của hệ thống lưu trữ tại chỗ hoặc dịch vụ lưu trữ của bên thứ ba làm hộp thư ghi nhật ký.

@@ -1,5 +1,5 @@
 ---
-title: Xóa site SharePoint
+title: Xóa bỏ SharePoint trang
 ms.author: pebaum
 author: bentoncity
 manager: scotv
@@ -12,43 +12,43 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: 06406794f24821836cebb1bb5ade56f9ca7e49a2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c8dff84e8b4a4a1a78db98736c23f8a0b0d235d9b09f15bd9ff770785badb4f2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47731225"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54118550"
 ---
-# <a name="delete-sites-that-belong-to-a-microsoft-365-group"></a>Xóa bỏ các site thuộc nhóm Microsoft 365
+# <a name="delete-sites-that-belong-to-a-microsoft-365-group"></a>Xóa các site thuộc nhóm Microsoft 365 bạn
 
-Khi người dùng tạo một site nhóm mới từ SharePoint Home hoặc bạn tạo một site nhóm mới từ Trung tâm quản trị SharePoint mới, một nhóm Microsoft 365 tương ứng sẽ được tạo tự động. Nhóm Microsoft 365-site nhóm được kết nối cũng được tạo khi bạn tạo nhóm Microsoft 365 hoặc nhóm trong Microsoft nhóm. Để xóa một site SharePoint vốn thuộc về một nhóm Microsoft 365, bạn cần xóa chính nó trong nhóm Microsoft 365. 
+Khi người dùng tạo một site nhóm mới từ SharePoint Home hoặc bạn tạo site nhóm mới từ trung tâm quản trị SharePoint mới, một nhóm Microsoft 365 nhóm tương ứng sẽ được tạo tự động. Microsoft 365 site nhóm kết nối với nhóm cũng được tạo khi bạn tạo Microsoft 365 nhóm hoặc nhóm trong Microsoft Teams. Để xóa SharePoint site thuộc nhóm Microsoft 365, bạn cần xóa chính nhóm Microsoft 365 đó. 
   
-1. Đi đến [trang nhóm của Trung tâm quản trị Microsoft 365](https://portal.office.com/adminportal/home#/groups).
+1. Đi tới [trang Nhóm của Trung tâm quản trị Microsoft 365.](https://portal.office.com/adminportal/home#/groups)
     
 2. Chọn hộp kiểm bên cạnh nhóm.
     
-3. Chọn **xóa**.
+3. Chọn **Xóa**.
     
-LƯU ý: khi bạn xóa một nhóm, có thể là một sự chậm trễ trước khi trang web bị loại bỏ khỏi SharePoint.
+GHI CHÚ: Khi bạn xóa nhóm, có thể có một độ trễ trước khi site bị loại bỏ khỏi nhóm SharePoint.
   
-**Xóa các trang liên lạc hoặc trang cổ điển:**
+**Xóa các site liên lạc hoặc site cổ điển:**
 
-1. Đi đến trang.
+1. Đi đến site.
   
-2. Bấm vào biểu tượng **thiết đặt** ở phía trên bên phải. 
+2. Bấm vào **biểu Cài đặt** ở phía trên bên phải. 
   
-3. Bấm **thiết đặt trang**. Bên dưới **thông tin site** hoặc **hành động site**, hãy bấm **xóa trang web này**, rồi bấm **xóa**.
+3. Bấm **vào Cài đặt site**. Bên **dưới Thông tin** Site hoặc Hành động **Site,** **bấm vào Xóa site** này, rồi bấm **vào Xóa.**
   
-**Xóa một tuyển tập trang SharePoint:**
+**Xóa bỏ tuyển SharePoint trang:**
 
-Để xóa một site:
+Để xóa site:
   
-1. Trong Trung tâm quản trị SharePoint mới, trên trang site, hãy bấm vào **hộp kiểm** bên cạnh trang bạn muốn xóa bỏ. 
+1. Trong trung tâm SharePoint quản trị Mới, trên  trang Site, bấm vào hộp kiểm bên cạnh site mà bạn muốn xóa. 
     
-2. Trên thanh công cụ Ribbon, hãy bấm **xóa.**
+2. Trên thanh công cụ dải băng, bấm **vào Xóa.**
     
-**Đã xóa một site theo tai nạn?**
+**Vô tình xóa một site?**
 
-Xem mục [khôi phục tuyển tập trang đã xóa](https://go.microsoft.com/fwlink/?linkid=867660).
+Xem [Khôi phục tuyển tập trang đã xóa](https://go.microsoft.com/fwlink/?linkid=867660)bỏ .
   
 

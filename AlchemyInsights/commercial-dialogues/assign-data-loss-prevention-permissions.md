@@ -1,5 +1,5 @@
 ---
-title: Gán quyền công tác phòng chống mất dữ liệu
+title: Gán quyền Ngăn Mất Dữ liệu (DLP)
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "7363"
 - "9000722"
-ms.openlocfilehash: c39a7f63baf8a516254f0bc02755cd2c0931b0e2
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 9bdac91466f751c44d80d658ddb741ada993a7f36e42fef10064c8a1dff9e662
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50749503"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54119378"
 ---
-# <a name="assign-data-loss-prevention-dlp-permissions"></a>Gán quyền công tác phòng chống mất dữ liệu
+# <a name="assign-data-loss-prevention-dlp-permissions"></a>Gán quyền Ngăn Mất Dữ liệu (DLP)
 
-Để gán quyền phòng chống mất dữ liệu (), hãy thực hiện các bước sau đây:
+Để gán quyền Ngăn mất Dữ liệu (DLP), hãy thực hiện các bước sau đây:
 
-1. Trong Trung tâm tuân thủ & bảo mật của Office 365, hãy bấm **quyền quản lý tuân thủ >**.
-2. Trên trang **thuộc tính** của nhóm vai trò, bên cạnh **thành viên**, hãy bấm **sửa**.
-3. Trên trang **chỉnh sửa chọn thành viên** , hãy bấm **chọn thành viên**.
-4. Trên trang **chọn thành viên** , hãy bấm **Thêm +**, rồi chọn tên của từng người dùng mà bạn muốn thêm.
-5. Khi bạn đã chọn tất cả những người dùng mà bạn muốn thêm vào nhóm vai trò, hãy chọn **thêm > đã xong**, rồi bấm **lưu**.
+1. Trong Trung tâm Office 365 mật & tuân thủ của Liên kết, bấm **vào Quyền > Quản lý Tuân thủ DLP.**
+2. Trên trang thuộc tính của nhóm vai **trò,** bên cạnh Thành **viên,** bấm **Sửa**.
+3. Trên trang **Chọn thành viên Sửa,** hãy bấm **Chọn thành viên.**
+4. Trên trang **Chọn thành** viên, **bấm Thêm+,** rồi chọn tên của từng người dùng mà bạn muốn thêm.
+5. Khi bạn đã chọn tất cả người dùng mà bạn muốn thêm vào nhóm vai trò, hãy chọn **Thêm > Xong** rồi bấm **Lưu**.

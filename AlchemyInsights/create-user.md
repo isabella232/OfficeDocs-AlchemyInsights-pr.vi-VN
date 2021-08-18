@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003231"
 - "9403"
-ms.openlocfilehash: d86b2dd6d7915f0698cf950cd57f1065cde22219284edbbc0e64f3a5e69ff252
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: a144b172787563b1aa57bdec790df1805a13f078
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57896737"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323308"
 ---
 # <a name="create-user"></a>Tạo người dùng
 
@@ -29,9 +29,9 @@ ms.locfileid: "57896737"
 
 **Tôi không thể tạo người dùng mới trong thư mục Azure AD của mình**
 
-1. Đảm bảo rằng bạn được phép tạo người dùng tiêu chuẩn mới. Chỉ người quản trị Toàn cầu hoặc vai trò người quản trị Người dùng trong Azure Active Directory (AD) mới có thể tạo một người dùng chuẩn mới. Nếu bạn không ở trong một trong những vai trò này, hãy yêu cầu người quản trị thêm bạn vào một trong những vai trò này hoặc tạo tài khoản người dùng mới cho bạn.
+1. Đảm bảo rằng bạn được phép tạo người dùng tiêu chuẩn mới. Chỉ người quản trị Toàn cầu hoặc vai trò người quản trị người dùng Azure Active Directory (AD) mới có thể tạo người dùng chuẩn mới. Nếu bạn không ở trong một trong những vai trò này, hãy yêu cầu người quản trị thêm bạn vào một trong những vai trò này hoặc tạo tài khoản người dùng mới cho bạn.
 1. Đảm bảo rằng tên người dùng nằm trong miền được xác minh trong Azure AD của bạn. Nếu bạn không có bất kỳ tên miền riêng đã xác minh nào trong Azure AD, bạn có thể sử dụng miền ban đầu Azure AD kết thúc bằng *.onmicrosoft.com.
-1. Đảm bảo rằng tên người dùng nằm trong một miền không được liên kết với Azure AD từ AD tại chỗ của bạn. Không thể thêm người dùng vào đám mây với các tên miền được liên kết từ tại chỗ.
+1. Đảm bảo rằng tên người dùng nằm trong miền không được liên kết với Azure AD từ AD tại chỗ của bạn. Không thể thêm người dùng vào đám mây với các tên miền được liên kết từ tại chỗ.
 1. Đảm bảo rằng không có người dùng hoặc liên hệ nào khác đã có tên người dùng mà bạn muốn gán cho người dùng mới. Tên người dùng phải là duy nhất trong Azure AD.
 1. Hãy [xem mục Vai trò và người quản trị Azure AD](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) cho Azure AD của bạn.
 1. Xem các [tên miền cho](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) Azure AD của bạn.

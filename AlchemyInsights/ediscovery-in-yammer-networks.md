@@ -1,5 +1,5 @@
 ---
-title: Khám phá điện tử trong mạng yammer
+title: Khám phá Điện tử trong Yammer Networks
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "3533"
-ms.openlocfilehash: 2583a1d83047e87a5d655195a3941ee860ff1ced
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f5e2f29e30db5ee2b042b43dc4737c90198ebd7025b9e1637f922b655a1a3f83
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814502"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54118436"
 ---
-# <a name="ediscovery-in-yammer-networks"></a>Khám phá điện tử trong mạng yammer
+# <a name="ediscovery-in-yammer-networks"></a>Khám phá Điện tử trong Yammer Networks
 
-Giờ đây, bạn có thể thực hiện tìm kiếm khám phá điện tử cho nội dung yammer.  Thực hiện tìm kiếm khám phá điện tử hoặc xuất trên nội dung yammer yêu cầu như sau:
+Giờ đây, bạn có thể thực hiện tìm kiếm Khám phá Điện tử để Yammer dung.  Thực hiện tìm kiếm hoặc xuất Khám phá Điện tử trên toàn bộ Yammer cần có các thao tác sau:
 
-1. Trước tiên, bạn phải di chuyển mạng yammer Enterprise sang chế độ bản địa để giúp thư và các tệp yammer của bạn phát hiện. **Lưu ý: nếu bạn là một khách hàng mới với số thứ 2020 của ngày 9 tháng 1 và mạng yammer của bạn đang ở chế độ gốc, dữ liệu của bạn hiện đã được phát hiện với khám phá điện** tử.
+1. Trước tiên, bạn phải di chuyển Mạng Yammer Enterprise của mình sang Chế độ Gốc để dễ dàng tìm Yammer và tệp của bạn. Lưu ý: nếu bạn là khách hàng mới vào **09/01/2020** và mạng Yammer của bạn đã nằm trong Chế độ Gốc thì dữ liệu của bạn giờ có thể được tìm thấy với Khám phá Điện tử.
 
-2. Đối với các khách hàng thoát, khám phá điện tử cho yammer sẽ sẵn dùng một lần công cụ căn chỉnh chế độ gốc được phát hành và di chuyển chế độ gốc đã hoàn thành cho yammer trong đối tượng thuê.
+2. Đối với khách hàng thoát, Khám phá Điện tử cho Yammer sẽ sẵn dùng sau khi công cụ Căn chỉnh Chế độ Gốc được phát hành và di chuyển Chế độ Gốc hoàn tất cho Yammer trong đối tượng thuê.
 
 Để biết thêm thông tin về:
 
-- Chế độ bản địa trong yammer, hãy xem: [tổng quan về chế độ gốc](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode).
-- Khám phá điện tử trong mạng yammer, hãy xem: [tổng quan về khám phá điện tử trong mạng yammer](https://docs.microsoft.com/yammer/manage-security-and-compliance/overview-of-ediscovery).
-- Khám phá điện tử trong Microsoft 365, hãy xem [khám phá điện tử trong microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).
+- Chế độ Gốc trong Yammer, hãy xem: Tổng [quan về Chế độ Gốc](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode).
+- Khám phá Điện tử trong Yammer Mạng, hãy xem: Tổng quan về Khám phá Điện [tử trong các Yammer mạng khác.](https://docs.microsoft.com/yammer/manage-security-and-compliance/overview-of-ediscovery)
+- Khám phá Điện tử trong Microsoft 365, xem [Khám phá Điện tử trong Microsoft 365.](https://docs.microsoft.com/microsoft-365/compliance/ediscovery)

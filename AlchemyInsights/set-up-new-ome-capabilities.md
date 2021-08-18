@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "11216"
-ms.openlocfilehash: 0edf2f0f86267726ff8111bfa06c139823695263c0c3282fd96af0623f91cbaf
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: f5edc0cf39ae17724383432a770846ac3f8c3f97
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57897774"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58322633"
 ---
 # <a name="set-up-new-ome-capabilities"></a>Thiết lập các chức năng OME mới
 
@@ -27,4 +27,4 @@ Mã hóa Thư Office 365 (OME) được cung cấp như một phần của Offic
 
 - Để biết thêm chi tiết về đăng ký và câu hỏi thường gặp, hãy xem [Câu hỏi thường gặp về Mã hóa Thông báo](https://docs.microsoft.com/microsoft-365/compliance/ome-faq#what-subscriptions-do-i-need-to-use-the-new-ome-capabilities-).
 
-- Đối với các sự cố khi mở thư được mã hóa trong Outlook, hãy xem Gửi, xem và trả lời thư mã hóa [trong Outlook for PC.](https://support.microsoft.com/en-us/topic/send-view-and-reply-to-encrypted-messages-in-outlook-for-pc-eaa43495-9bbb-4fca-922a-df90dee51980?ui=en-us&rs=en-us&ad=us)
+- Đối với các sự cố khi mở thư được mã hóa trong Outlook, hãy xem Gửi, xem và trả lời thư được mã hóa [trong Outlook for PC.](https://support.microsoft.com/en-us/topic/send-view-and-reply-to-encrypted-messages-in-outlook-for-pc-eaa43495-9bbb-4fca-922a-df90dee51980?ui=en-us&rs=en-us&ad=us)

@@ -1,5 +1,5 @@
 ---
-title: Đồng SharePoint tệp với máy khách Đồng bộ OneDrive mới
+title: Đồng bộ SharePoint tệp với máy khách Đồng bộ OneDrive mới
 ms.author: matteva
 author: pebaum
 manager: scotv
@@ -12,26 +12,25 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: 7966933cd7474dd640ac8397ce560c9fb1c57fb4e99d02f8976d5dcfe7cf5a82
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d83dd6f96b0d8788ebd11d7f89fa07bf204604b6
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53909236"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58322587"
 ---
-# <a name="sync-sharepoint-files-with-the-new-onedrive-sync-client"></a>Đồng SharePoint tệp với máy khách Đồng bộ OneDrive mới
+# <a name="sync-sharepoint-files-with-the-new-onedrive-sync-client"></a>Đồng bộ SharePoint tệp với máy khách Đồng bộ OneDrive mới
 
-1. Trong trung tâm quản SharePoint mới, chọn thiết **đặt**.
+1. Trong trung tâm quản SharePoint mới, chọn thiết **đặt.**
     
 2. Đảm bảo "Nút OneDrive đồng bộ" được đặt thành "Hiển thị nút Đồng bộ".
     
 3. Đối với "Máy khách Đồng bộ dành SharePoint", chọn **Bắt đầu máy khách mới**.
     
-    > [!NOTE]
-    > Nếu tùy chọn này không xuất hiện thì tổ chức của bạn đã được thiết lập để sử dụng máy khách Đồng bộ OneDrive mới để đồng bộ tệp SharePoint của bạn. 
+    **Lưu** ý : Nếu tùy chọn này không xuất hiện, tổ chức của bạn đã được thiết lập để sử dụng máy khách mới Đồng bộ OneDrive đồng bộ tệp SharePoint của bạn. 
   
 4. Bấm **OK**.
     
-Để biết thêm thông tin, [hãy xem mục Cho phép người dùng đồng SharePoint tệp với máy khách Đồng bộ OneDrive mới.](https://go.microsoft.com/fwlink/?linkid=866433) Để biết hướng dẫn cung cấp cho người dùng của bạn, [hãy xem mục Đồng bộ tệp SharePoint với máy khách Đồng bộ OneDrive mới.](https://go.microsoft.com/fwlink/?linkid=866427)
+Để biết thêm thông tin, [hãy xem mục Cho phép người SharePoint đồng bộ tệp với máy khách Đồng bộ OneDrive mới.](https://go.microsoft.com/fwlink/?linkid=866433) Để biết hướng dẫn cung cấp cho người dùng của bạn, [hãy xem mục Đồng SharePoint tệp với máy khách Đồng bộ OneDrive mới.](https://go.microsoft.com/fwlink/?linkid=866427)
   
 
