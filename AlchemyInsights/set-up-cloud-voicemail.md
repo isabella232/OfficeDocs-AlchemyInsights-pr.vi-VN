@@ -1,5 +1,5 @@
 ---
-title: Thiết lập hoặc khắc phục sự cố thư thoại đám mây
+title: Thiết lập hoặc khắc phục sự cố Thư thoại trên đám mây
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002347"
 - "4567"
-ms.openlocfilehash: 207713f9d3b9a18cd8d240fed06355bda14652d8
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 3122fad95953cc0d75e5440dff415cc20ec496d45e94d13d6102d6f5659b332c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51787267"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54086078"
 ---
-# <a name="set-up-or-troubleshoot-cloud-voicemail"></a>Thiết lập hoặc khắc phục sự cố thư thoại đám mây
+# <a name="set-up-or-troubleshoot-cloud-voicemail"></a>Thiết lập hoặc khắc phục sự cố Thư thoại trên đám mây
 
-- [Thiết lập thư thoại đám mây](https://docs.microsoft.com/microsoftteams/set-up-phone-system-voicemail) 
-- [Cấp phép bổ trợ của Microsoft nhóm](https://docs.microsoft.com/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing) 
-- Điện thoại Microsoft nhóm với môi trường tại chỗ: [cấu hình dịch vụ thư thoại đám mây cho người dùng tại cơ sở](https://docs.microsoft.com/skypeforbusiness/hybrid/configure-cloud-voicemail) 
-- [Các kế hoạch gọi Microsoft các nhóm cho Microsoft 365](https://docs.microsoft.com//microsoftteams/calling-plans-for-office-365) 
+- [Thiết lập Các Thư thoại trên đám mây](https://docs.microsoft.com/microsoftteams/set-up-phone-system-voicemail) 
+- [Microsoft Teams cấp phép phần bổ trợ](https://docs.microsoft.com/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing) 
+- Microsoft Teams Điện thoại môi trường tại chỗ: Đặt cấu [hình Thư thoại trên đám mây vụ cho người dùng tại chỗ](https://docs.microsoft.com/skypeforbusiness/hybrid/configure-cloud-voicemail) 
+- [Microsoft Teams Gói Gọi điện cho Người Microsoft 365](https://docs.microsoft.com//microsoftteams/calling-plans-for-office-365) 
 
-Nếu tin nhắn thư thoại không được chuyển phát, hãy xem [tin nhắn thư thoại không được chuyển phát trong nhóm hoặc ứng dụng khách Skype for Business](https://docs.microsoft.com/SkypeForBusiness/troubleshoot/hybrid-phone-system/voicemails-not-delivered).
+Nếu tin nhắn thoại không được chuyển phát, hãy xem Tin nhắn thoại không được chuyển phát [trong máy Teams hoặc Skype for Business khách.](https://docs.microsoft.com/SkypeForBusiness/troubleshoot/hybrid-phone-system/voicemails-not-delivered)

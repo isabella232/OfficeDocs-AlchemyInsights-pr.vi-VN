@@ -1,5 +1,5 @@
 ---
-title: Lệnh ghép Clear-DnsClientCache PowerShell
+title: Lệnh ghép ngắn Clear-DnsClientCache PowerShell
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "12458"
 - "9007450"
-ms.openlocfilehash: 0a69e25306a52782305d49fee1d0c377ba70fbfd5fc9626796f4700e776f2c37
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 0c4a970a0077b3342b6bbe4895c2b062dd9a193d
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "57812691"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58315534"
 ---
-# <a name="powershell-clear-dnsclientcache-cmdlet"></a>Lệnh ghép Clear-DnsClientCache PowerShell
+# <a name="powershell-clear-dnsclientcache-cmdlet"></a>Lệnh ghép ngắn Clear-DnsClientCache PowerShell
 
 Lệnh ghép Clear-DnsClientCache xóa tất cả nội dung của bộ đệm ẩn máy khách DNS. Việc chạy lệnh ghép ngắn này tương đương với việc chạy ipconfig/flushdns.
 
-Để biết chi tiết, [hãy xem Clear-DnsClientCache](/powershell/module/dnsclient/clear-dnsclientcache?view=windowsserver2019-ps).
+Để biết chi tiết, [hãy xem Clear-DnsClientCache](https://docs.microsoft.com/powershell/module/dnsclient/clear-dnsclientcache?view=windowsserver2019-ps).

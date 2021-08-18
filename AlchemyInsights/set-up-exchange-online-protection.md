@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004218"
 - "7419"
-ms.openlocfilehash: 038274244578f8fd4d05ef94a53705f6498de757
-ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
+ms.openlocfilehash: 05d2bad8a5bdd34b04e9b2c5d0bd3ffd8356e98acbb622e859e2464f09e6222b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50448980"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54085898"
 ---
 # <a name="set-up-exchange-online-protection"></a>Thiết lập Exchange Online Protection
 
-Microsoft Exchange Online Protection (EOP) là một dịch vụ lọc email dựa trên nền tảng điện toán đám mây để bảo vệ chống thư rác và phần mềm xấu, với các tính năng bảo vệ tổ chức của bạn khỏi các vi phạm chính sách nhắn tin.
+Microsoft Exchange Online Bảo vệ (EOP) là một dịch vụ lọc email trên nền điện toán đám mây để bảo vệ chống lại thư rác và phần mềm xấu, với các tính năng bảo vệ tổ chức của bạn khỏi các vi phạm chính sách nhắn tin.
 
-Sử dụng [hướng dẫn thiết lập Exchange Online Protection](https://go.microsoft.com/fwlink/?linkid=2071067) để thiết lập EoP bằng cách chọn trong số ba tình huống triển khai-hộp thư tại chỗ, kết hợp (hỗn hợp hộp thư tại cơ sở và đám mây), hoặc tất cả các hộp thư điện toán đám mây — phù hợp với tổ chức của bạn. Hướng dẫn cung cấp thông tin và tài nguyên để thiết lập EOP và xem xét cấp phép của người dùng, gán quyền trong Trung tâm quản trị Microsoft 365 và đặt cấu hình các chính sách chống phần mềm độc hại và thư rác của tổ chức của bạn trong Trung tâm tuân thủ & bảo mật.
+Sử dụng hướng dẫn thiết lập [Exchange Online Protection](https://go.microsoft.com/fwlink/?linkid=2071067) để thiết lập EOP bằng cách chọn trong số ba kịch bản triển khai — hộp thư tại chỗ, kết hợp (kết hợp các hộp thư tại chỗ và điện toán đám mây) hoặc tất cả các hộp thư điện toán đám mây— phù hợp với tổ chức của bạn. Hướng dẫn này cung cấp thông tin và tài nguyên để thiết lập EOP và xem lại việc cấp phép của người dùng, gán quyền trong Trung tâm quản trị Microsoft 365 và cấu hình chính sách chống phần mềm xấu và thư rác của tổ chức của bạn trong Trung tâm Bảo mật & Tuân thủ.

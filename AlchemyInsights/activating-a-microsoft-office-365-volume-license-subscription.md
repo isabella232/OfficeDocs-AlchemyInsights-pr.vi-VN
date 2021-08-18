@@ -16,12 +16,12 @@ ms.custom:
 - "1500028"
 ms.assetid: 7a6919fc-afe4-40c7-8ada-d8ce523ad8a8
 ms.date: 04/21/2020
-ms.openlocfilehash: 373d517c29a98bb035e8b0785f9d9889b37734d80fa6113de34544d49f08cdf1
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4fd484d890f08e4a85a23993655f46a0fea26926
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53937735"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58315390"
 ---
 # <a name="activating-a-microsoft-volume-license-subscription"></a>Kích hoạt Đăng ký Giấy phép Số lớn của Microsoft
 
@@ -31,5 +31,5 @@ ms.locfileid: "53937735"
 4. Email kích hoạt cung cấp cho bạn hai tùy chọn: **Đăng** ký hoặc **Đăng nhập**. Nếu trước đó bạn đã tạo một bản dùng thử, hãy **chọn Đăng nhập**. Nếu bạn vẫn chưa có đối tượng thuê Microsoft 365, hãy chọn **Đăng ký**.
 5. Đăng nhập vào thư mục (Trung tâm quản trị Microsoft 365 [https://admin.microsoft.com](https://admin.microsoft.com) ) bằng thông tin xác thực người quản trị hiện có của bạn. Sau khi đăng nhập thành công, bạn sẽ nhận được một email khác xác nhận giao dịch mua của bạn.
 6. Sau khi bạn đã đăng nhập, hãy đi đến trang Thanh toán Sản phẩm  của bạn để xác minh rằng đăng ký đã mua của bạn hiện \> [](https://go.microsoft.com/fwlink/p/?linkid=842054) hoạt. 
-    > [!NOTE]
-    > Bạn cũng có thể chọn tab **Đăng** ký trong VLSC để xem các chi tiết xác minh rằng đăng ký của bạn đã được kích hoạt.)
+
+    **Lưu** ý: Bạn cũng có thể chọn tab **Đăng** ký trong VLSC để xem các chi tiết xác minh rằng đăng ký của bạn đã được kích hoạt.)
