@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3000003"
 - "5652"
-ms.openlocfilehash: d16389ca577970deaf743255f75dc86134e79dcab2fff8c33987532fc7ee1105
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 14f1454ad687b4d76cf419583b442685fa19b5a2
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57890456"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321775"
 ---
 # <a name="enable-smtp-authentication-and-troubleshooting"></a>Bật xác thực và khắc phục sự cố SMTP
 
@@ -26,7 +26,7 @@ Nếu bạn muốn bật xác thực SMTP cho một hộp thư hoặc bạn đan
 1. Tắt mặc [định bảo mật Azure bằng](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) cách chuyển Bật mặc định bảo **mật** thành **Không.**
 
     a. Đăng nhập vào cổng thông tin Azure với tư cách người quản trị Bảo mật, người quản trị Truy nhập có Điều kiện hoặc người quản trị toàn cầu.<BR/>
-    b. Duyệt đến Thuộc Azure Active Directory > **tính**.<BR/>
+    b. Duyệt đến Thuộc Azure Active Directory > **tính.**<BR/>
     c. Chọn **Quản lý mặc định bảo mật**.<BR/>
     d. Đặt **Bật mặc định bảo mật** là **Không**.<BR/>
     e. Chọn **Lưu**.
@@ -40,6 +40,6 @@ Nếu bạn muốn bật xác thực SMTP cho một hộp thư hoặc bạn đan
 
 3. [Tắt Xác thực Đa Yếu tố (MFA)](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication#turn-off-legacy-per-user-mfa) trên hộp thư được cấp phép.
 
-    a. Đi tới menu Trung tâm quản trị Microsoft 365, rồi trong menu dẫn hướng bên trái, chọn Người dùng **Người dùng**  >  **hiện hoạt**.<BR/>
+    a. Đi tới menu Trung tâm quản trị Microsoft 365, rồi trong menu dẫn hướng bên trái, chọn Người dùng **Người dùng**  >  **Hiện hoạt**.<BR/>
     b. Chọn **Xác thực đa yếu tố**.<BR/>
     c. Chọn người dùng, rồi tắt **xác thực Đa Yếu tố**.<BR/>

@@ -1,5 +1,5 @@
 ---
-title: Bật lại mật khẩu trong Azure AD Connect
+title: Bật ghi lại mật khẩu trong Azure AD Kết nối
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,35 +12,35 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002933"
 - "5615"
-ms.openlocfilehash: 2ad7568bded3c8e4832e0e433a2d715e6307e4bb
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 63304667cce67c48fd8bbeee52ff6d61d033ea38fd8d4c4d96c240847dab2cab
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814034"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54118226"
 ---
-# <a name="enable-password-writeback-in-azure-ad-connect"></a>Bật lại mật khẩu trong Azure AD Connect
+# <a name="enable-password-writeback-in-azure-ad-connect"></a>Bật ghi lại mật khẩu trong Azure AD Kết nối
 
-Để bật lại bản đặt lại mật khẩu tự phục vụ, trước tiên, bật tùy chọn writeback trong Azure AD Connect. Từ máy chủ Azure AD Connect của bạn, hãy hoàn thành các bước sau đây:
+Để bật chức năng ghi lại mật khẩu tự phục vụ, trước tiên hãy bật tùy chọn ghi lại trong Azure AD Kết nối. Từ máy chủ Azure AD Kết nối của bạn, hãy hoàn tất các bước sau đây:
 
-1. Đăng nhập vào máy chủ Azure AD Connect của bạn và bắt đầu trình hướng dẫn cấu hình **AZURE AD Connect** .
-2. Trên trang **chào mừng** , bấm **cấu hình**.
-3. Trên trang **nhiệm vụ bổ sung** , hãy chọn tùy **chỉnh tùy chọn đồng bộ**, rồi bấm vào **tiếp theo**.
-4. Trên trang **kết nối đến AZURE AD** , nhập thông tin xác thực người quản trị toàn cầu cho đối tượng thuê Azure của bạn, rồi bấm vào **tiếp theo**.
-5. Trên trang các **thư mục kết nối** và **tên miền/ou** lọc, bấm **tiếp**.
-6. Trên trang **tính năng tùy chọn** , chọn hộp bên cạnh **mật khẩu trở lại** và bấm **tiếp**.
-7. Trên trang **sẵn sàng cấu hình** , hãy bấm **cấu hình** và chờ cho quá trình kết thúc.
-8. Khi bạn nhìn thấy kết thúc cấu hình, hãy bấm **thoát**.
+1. Đăng nhập vào máy chủ Azure AD Kết nối khởi động trình hướng **dẫn cấu hình Azure AD Kết nối** hình.
+2. Trên trang Chào **mừng,** bấm **Cấu hình.**
+3. Trên trang **Tác vụ bổ** sung, chọn Tùy chỉnh tùy chọn **đồng** bộ hóa , rồi bấm vào **Tiếp theo.**
+4. Trên trang **Kết nối Azure AD,** nhập thông tin xác thực người quản trị toàn cầu cho đối tượng thuê Azure của bạn, rồi bấm vào **Tiếp theo**.
+5. Trên các **Kết nối mục chính và** các trang lọc Tên **miền/OU,** bấm vào **Tiếp theo.**
+6. Trên trang **Tính năng tùy** chọn, chọn hộp bên cạnh Ghi lại mật **khẩu, rồi** bấm vào Tiếp **theo.**
+7. Trên trang **Sẵn sàng cấu hình,** hãy bấm **Cấu** hình và đợi cho đến khi kết thúc quy trình.
+8. Khi bạn thấy cấu hình hoàn tất, hãy bấm **Thoát.**
 
-Với mật khẩu được bật lại trong Azure AD Connect, hãy cấu hình Azure AD SSPR cho writeback.  Để bật lại mật khẩu trong SSPR, hãy hoàn thành các bước sau đây:
+Với chức năng ghi lại mật khẩu được bật trong Azure AD Kết nối, hãy đặt cấu hình Azure AD SSPR để ghi lại.  Để bật ghi lại mật khẩu trong SSPR, hãy hoàn thành các bước sau đây:
 
 1. Đăng nhập vào cổng thông tin Azure bằng tài khoản người quản trị toàn cầu.
-2. Tìm kiếm và chọn **Azure Active Directory**, bấm vào **đặt lại mật khẩu**, sau đó bấm **tích hợp tại cơ sở**.
-3. Đặt tùy chọn để **ghi lại mật khẩu vào thư mục tại chỗ của bạn?** để **có**.
-4. Đặt tùy chọn cho **phép người dùng mở khóa tài khoản mà không đặt lại mật khẩu của họ?** để **có**.
-5. Khi đã sẵn sàng, hãy bấm **lưu**.
+2. Tìm kiếm và chọn cài **Azure Active Directory**, bấm **Đặt lại mật** khẩu , sau đó bấm tích hợp tại **chỗ**.
+3. Đặt tùy chọn Ghi **lại mật khẩu vào thư mục tại chỗ của bạn?** thành **Có**.
+4. Đặt tùy chọn Cho phép **người dùng mở khóa tài khoản mà không đặt lại mật khẩu?** **thành Có.**
+5. Khi đã sẵn sàng, hãy **bấm Lưu**.
 
-Để biết thêm thông tin, hãy xem [bật thiết đặt lại mật khẩu tự phục vụ Azure Active Directory với môi trường tại chỗ](https://docs.microsoft.com/azure/active-directory/authentication/tutorial-enable-sspr-writeback).
+Để biết thêm thông tin, hãy xem Azure Active Directory bật tính năng tự đặt lại mật khẩu cho [môi trường tại chỗ.](https://docs.microsoft.com/azure/active-directory/authentication/tutorial-enable-sspr-writeback)
 
 > [!NOTE]
->  Khi người quản trị đặt lại mật khẩu của người dùng trong cổng thông tin Azure, nếu người dùng đó được liên kết hoặc băm mật khẩu được đồng bộ hóa, thì mật khẩu sẽ được ghi lại tại chỗ. Chức năng này đòi hỏi giấy phép Azure Premium (P1 hoặc P2) và hiện không được hỗ trợ trong cổng thông tin quản trị Office.
+>  Khi người quản trị đặt lại mật khẩu người dùng trong Cổng thông tin Azure, nếu người dùng đó được liên kết hoặc đồng bộ hóa mật khẩu, mật khẩu sẽ được ghi trở lại tại chỗ. Chức năng này yêu cầu Giấy Premium Azure (P1 hoặc P2) và hiện không được hỗ trợ trong cổng thông tin Quản Office của bạn.

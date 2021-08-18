@@ -1,5 +1,5 @@
 ---
-title: Bật đăng nhập đơn (SSO) liền mạch
+title: Bật Đăng nhập Đơn Liền mạch (SSO)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -14,17 +14,17 @@ ms.custom:
 - "9004357"
 - "9385"
 - "9861"
-ms.openlocfilehash: 66613381a9d07b9e79152cb1fa7f746d02d40f26
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 933264dc876dffc54b5a3fb4ab0630236fab2efa16c6fccc9dc31716cf366129
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403405"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54117938"
 ---
-# <a name="enable-seamless-single-sign-on-sso"></a>Bật đăng nhập đơn (SSO) liền mạch
+# <a name="enable-seamless-single-sign-on-sso"></a>Bật Đăng nhập Đơn Liền mạch (SSO)
 
-Hầu hết người dùng có thể bật đăng nhập đơn (SSO) liền mạch bằng các bước dưới đây:
+Hầu hết người dùng có thể bật Đăng nhập Một lần Liền mạch (SSO) theo các bước dưới đây:
 
-1. Để bật SSO liền mạch, hãy làm theo các bước trong bài viết [Azure Active Directory seamless đăng nhập đơn: bắt đầu](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sso-quick-start)nhanh.
-2. Để tìm hiểu cách lấy trải nghiệm SSO trên Azure AD đã tham gia các thiết bị cho các tài nguyên và ứng dụng dựa vào quảng cáo tại cơ sở, hãy xem [cách SSO đến các tài nguyên tại chỗ hoạt động trên AZURE AD đã tham gia thiết bị](https://docs.microsoft.com/azure/active-directory/devices/azuread-join-sso).
-3. Để tìm hiểu về các topo khác nhau tại cơ sở và Azure Active Directory (Azure AD) có sử dụng Azure AD Connect Sync là giải pháp tích hợp phím, hãy xem [topo cho AZURE AD Connect](https://docs.microsoft.com/azure/active-directory/hybrid/plan-connect-topologies). Bài viết này bao gồm cả các cấu hình được hỗ trợ và không được hỗ trợ.
+1. Để bật Seamless SSO, hãy làm theo các bước trong [bài viết Azure Active Directory Seamless Single Sign-On: Quickstart](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sso-quick-start).
+2. Để tìm hiểu cách có được trải nghiệm SSO trên các thiết bị liên kết với Azure AD cho các tài nguyên và ứng dụng dựa trên AD tại chỗ, hãy xem Làm cách nào SSO để các tài nguyên tại chỗ hoạt động trên các thiết bị được liên kết [với Azure AD.](https://docs.microsoft.com/azure/active-directory/devices/azuread-join-sso)
+3. Để tìm hiểu về các liên kết tại chỗ và Azure Active Directory (Azure AD) sử dụng đồng bộ Azure AD Kết nối làm giải pháp tích hợp then chốt, hãy xem [Topologies for Azure AD Kết nối](https://docs.microsoft.com/azure/active-directory/hybrid/plan-connect-topologies). Bài viết này bao gồm cả cấu hình được hỗ trợ lẫn không được hỗ trợ.

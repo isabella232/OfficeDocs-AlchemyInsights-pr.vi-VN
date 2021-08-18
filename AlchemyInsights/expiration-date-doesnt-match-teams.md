@@ -1,5 +1,5 @@
 ---
-title: Ngày hết hạn của nhóm và nhóm cơ bản không khớp
+title: Ngày hết hạn của nhóm và nhóm cơ sở không khớp
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "6667"
 - "9003760"
-ms.openlocfilehash: 7174158a73cd5c26f3ff531381e2d6c62b6a1ad3
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 76bf82780ad74c4ecc7077b26d3bd9c88f3957842685bcd683d7b2bbaf3a26fa
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51813458"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54117758"
 ---
-# <a name="expiration-date-of-team-and-underlying-group-dont-match"></a>Ngày hết hạn của nhóm và nhóm cơ bản không khớp
+# <a name="expiration-date-of-team-and-underlying-group-dont-match"></a>Ngày hết hạn của nhóm và nhóm cơ sở không khớp
 
-Trước khi nhóm được gia hạn, nhóm có mặt trong nhóm được gia hạn trước tiên. Là một phần của gia hạn, một ngày hết hạn mới được đặt trong nhóm cho một ngày trong tương lai. Ngày mới này có thể không được hiển thị ngay lập tức trong nhóm. Có thể mất tới 24 giờ để đồng bộ. Nếu bạn thấy một sự khác biệt giữa ngày hết hạn cho một nhóm và nhóm cơ bản, hãy chờ 24 giờ trước khi tìm kiếm hỗ trợ thêm.  
+Trước khi một nhóm được gia hạn, nhóm sau nhóm đó sẽ được gia hạn trước. Là một phần của gia hạn, ngày hết hạn mới được đặt trên nhóm cho một ngày trong tương lai. Ngày mới này có thể không hiển thị ngay lập tức trong Teams. Có thể mất tới 24 giờ để đồng bộ. Nếu bạn thấy khác biệt giữa ngày hết hạn cho một nhóm và nhóm cơ sở của nhóm, hãy chờ 24 giờ trước khi muốn nhận hỗ trợ thêm.  
 
-Xem [hết hạn và gia hạn trong nhóm Microsoft](https://docs.microsoft.com/microsoftteams/team-expiration-renewal)  để biết thêm thông tin.
+Xem [mục Hết hạn và gia hạn nhóm trong Microsoft Teams thêm](https://docs.microsoft.com/microsoftteams/team-expiration-renewal) thông tin.

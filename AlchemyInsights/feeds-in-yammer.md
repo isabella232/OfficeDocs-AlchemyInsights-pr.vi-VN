@@ -1,5 +1,5 @@
 ---
-title: Nguồn cấp dữ liệu trong yammer
+title: Nguồn cấp trong Yammer
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003219"
 - "9666"
-ms.openlocfilehash: d933c2b7fa73d6ab1fd91a452ed5736d084cdd18
-ms.sourcegitcommit: a6ab402f59e5ee1492bcf5ab7f18714fc251717d
+ms.openlocfilehash: 855921cb5a1e84355a436a5a1f67a2518240fb804c14286f86e7f2fca306bb30
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "51038133"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54117470"
 ---
-# <a name="feeds-in-yammer"></a>Nguồn cấp dữ liệu trong yammer
+# <a name="feeds-in-yammer"></a>Nguồn cấp trong Yammer
 
 **Nguồn cấp**
 
-Yammer mới giới thiệu một [nguồn cấp nhà mới](https://support.microsoft.com/office/what-s-in-the-yammer-home-feed-8fff52dd-5b38-468c-b963-fa4c6a4f9254). Bạn có thể đọc thêm thông tin về có [gì mới với nguồn cấp này](https://techcommunity.microsoft.com/t5/yammer-blog/yammer-discovery-what-is-in-my-feed/ba-p/1596230) được thiết kế cho nội dung bề mặt từ cộng đồng của bạn và giúp bạn khám phá nội dung mới. Di chuột qua tùy chọn nguồn cấp trang chủ cho phép một menu có quyền truy nhập vào tất cả dạng xem hội thoại. Các Cập Nhật trong tương lai cho nguồn cấp dữ liệu có thể mang trong nội dung từ các nguồn bổ sung trong Microsoft 365 Suite.
+Nguồn cấp Yammer ra mắt Nguồn [cấp dữ liệu Trang chủ mới](https://support.microsoft.com/office/what-s-in-the-yammer-home-feed-8fff52dd-5b38-468c-b963-fa4c6a4f9254). Bạn có thể đọc thêm về các tính năng mới với nguồn cấp dữ liệu [này](https://techcommunity.microsoft.com/t5/yammer-blog/yammer-discovery-what-is-in-my-feed/ba-p/1596230) được thiết kế để bề mặt nội dung từ cộng đồng của bạn và giúp bạn khám phá nội dung mới. Di chuột qua tùy chọn Nguồn cấp dữ liệu Trang chủ cho phép một menu có quyền truy nhập vào dạng xem Tất cả Hội thoại. Các cập nhật trong tương lai cho nguồn cấp có thể đưa vào nội dung từ các nguồn bổ sung trong bộ Microsoft 365 này.
 
-Yammer cổ điển có [nguồn cấp phát hiện](https://support.microsoft.com/office/what-s-in-the-yammer-discovery-feed-28ba9a79-2bde-4e7c-8420-db2296c3ca49) không được nâng cao trong điều kiện của nó xác định nội dung cho bạn. Các tùy chọn để chuyển sang tất cả các nguồn cấp dữ liệu và sau đây đều sẵn dùng ở phía trên cùng của trang chủ.
+Nguồn Yammer điển có [nguồn cấp dữ](https://support.microsoft.com/office/what-s-in-the-yammer-discovery-feed-28ba9a79-2bde-4e7c-8420-db2296c3ca49) liệu Khám phá không nâng cao về cách thức xác định nội dung cho bạn. Các tùy chọn để chuyển sang nguồn cấp Tất cả và Đang theo dõi có sẵn ở đầu trang chủ.
 
-Nguồn cấp yammer cũng có thể được đưa vào các site SharePoint bằng các [hội thoại yammer và các phần web nổi bật](https://support.microsoft.com/office/use-a-yammer-web-part-in-sharepoint-online-a53cfa0c-3d09-42c8-a286-1038a81c59da).
+Yammer liệu nguồn cấp dữ liệu cũng có thể được bao gồm SharePoint site dùng các phần web Yammer Cuộc hội [thoại và Tin nổi bật.](https://support.microsoft.com/office/use-a-yammer-web-part-in-sharepoint-online-a53cfa0c-3d09-42c8-a286-1038a81c59da)
 
-**Các vấn đề về việc gửi**
+**Đăng sự cố**
 
-Phải có khả năng đăng lên yammer bằng nhiều cách. Sau đây là một số vấn đề phổ biến mà người dùng có thể gặp phải:
+Bạn có thể đăng lên trang theo Yammer nhiều cách. Sau đây là một số sự cố phổ biến mà người dùng có thể gặp phải:
 
-- Người quản trị đã [hạn chế đăng các cuộc hội thoại mới](https://support.microsoft.com/office/restrict-all-company-posts-in-yammer-3219d2ae-db15-4c9f-9dd2-28559ae39a97) trong tất cả công ty. Đây là một hạn chế mà người quản trị sẽ cần phải loại bỏ để cho phép người dùng thường xuyên đăng bài.
-- Thành viên cộng đồng đã không đồng bộ đúng cách. Ví dụ: người dùng là thành viên của cộng đồng trong yammer nhưng không phải là nhóm Microsoft 365 được kết nối với SharePoint Online. Đang chờ việc đồng bộ tư cách thành viên hoàn thành đối với các nhóm rất lớn có thể mất tới 24 giờ.
-- Một bản cập nhật mã từ một CDN đã không tải đúng. Xóa bộ đệm ẩn của trình duyệt và cookie sẽ thường giải quyết điều này.
+- Người quản trị đã [hạn chế đăng các cuộc hội thoại mới trong](https://support.microsoft.com/office/restrict-all-company-posts-in-yammer-3219d2ae-db15-4c9f-9dd2-28559ae39a97) Toàn bộ công ty. Đây là hạn chế mà người quản trị sẽ cần loại bỏ để cho phép người dùng thông thường đăng.
+- Tư cách thành viên cộng đồng chưa được đồng bộ hóa đúng cách. Ví dụ: người dùng là thành viên của một cộng đồng trong Yammer nhưng không phải là thành viên Microsoft 365 kết nối với SharePoint Online. Bạn có thể cần đến 24 giờ để quá trình đồng bộ hóa tư cách thành viên hoàn thành.
+- Không tải được bản cập nhật mã từ CDN. Việc xóa bộ đệm ẩn trình duyệt và cookie thường sẽ giải quyết được vấn đề này.

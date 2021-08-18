@@ -1,5 +1,5 @@
 ---
-title: Khắc phục các Địa chỉ Người gửi tắc danh sách Tên miền/Tên miền
+title: Khắc phục Địa chỉ Người gửi tắc danh sách Tên miền/Tên miền
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: db8b921fc84f42b6cef1138dca9ad433e648e0a2f10e80927bd5b0222bfeae3b
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 7e3c729e9bf630fa798c746f25f046606a1459a1
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57896133"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320511"
 ---
-# <a name="fix-sender-addressdomain-list-rules"></a>Khắc phục các Địa chỉ Người gửi tắc danh sách Tên miền/Tên miền
+# <a name="fix-sender-addressdomain-list-rules"></a>Khắc phục Địa chỉ Người gửi tắc danh sách Tên miền/Tên miền
 
 Một trong những chính sách chống thư rác của bạn đã ảnh hưởng đến thư này. Người gửi thư đã được tìm thấy trong danh sách Cho phép hoặc Chặn. Để xem lại chính sách, hãy thực hiện các bước sau đây:
 
-1. Trong cổng thông tin Bộ bảo vệ Microsoft 365 , đi đến Chính sách Cộng tác qua Email & các chính sách & chính sách Mối đe dọa Quy tắc Chống thư <https://security.microsoft.com/>  \>  \>  \>  rác trong **phần Chính** sách.
+1. Trong cổng thông tin Bộ bảo vệ Microsoft 365 , đi đến Chính sách Cộng tác email & chính sách & chính sách mối đe dọa Chính sách mối đe dọa <https://security.microsoft.com/>  \>  \>  \>  trong **phần Chính** sách.
 
    Để truy nhập trực tiếp vào **trang Chính sách chống thư rác,** hãy sử dụng <https://security.microsoft.com/antispam> .
 

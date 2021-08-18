@@ -15,16 +15,16 @@ ms.custom:
 - commerce_licensing
 - "9000568"
 - "2425"
-ms.openlocfilehash: 31b2069e02aff949adcbe703675cd85ed2c87256fda2e73e96742542d1971b1f
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 3e6ab7cdc92294a5902bd98c8c39cd3187b0aace
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54502522"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321439"
 ---
 # <a name="change-app-license-quantity"></a>Thay đổi số lượng giấy phép ứng dụng
 
-Bạn có thể xem hoặc thay đổi số lượng giấy phép mình có và gán chúng cho người dùng trong ứng dụng Trung tâm quản trị Microsoft 365.
+Bạn có thể xem hoặc thay đổi số lượng giấy phép mình có và gán chúng cho người dùng trong trung tâm Trung tâm quản trị Microsoft 365.
 
 ## <a name="to-change-license-quantity"></a>Để thay đổi số lượng giấy phép
 
@@ -40,4 +40,4 @@ Bạn có thể xem hoặc thay đổi số lượng giấy phép mình có và 
 
 1. Đi tới trang Thanh **toán Sản**  >  **[phẩm của](https://go.microsoft.com/fwlink/p/?linkid=842054)** bạn.
 2. Trên tab **Sản** phẩm, trong mục **Ứng** dụng, hãy tìm ứng dụng mà bạn muốn quản lý.
-3. Bên **dưới Cài đặt & hành động,** chọn liên kết đến Quản lý trong cổng thông tin của **publisher.**
+3. Bên **Cài đặt & hành động,** chọn liên kết đến **Quản lý trong cổng thông tin của publisher**.

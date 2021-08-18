@@ -1,5 +1,5 @@
 ---
-title: Cho phép gửi ngay lập tức khi được kết nối
+title: Bật Gửi ngay khi được kết nối
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,21 +14,21 @@ ms.custom:
 - "9000768"
 - "9002385"
 - "4645"
-ms.openlocfilehash: 6ebd318af82a4e57dc9e2f51a88301c1d9a6851c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 27b4caf4d1f3fcaa16031ee8d80dd01bda1cc1bc1511983632ebbabf82f8ecbc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51813998"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54117902"
 ---
-# <a name="enable-send-immediately-when-connected"></a>Cho phép gửi ngay lập tức khi được kết nối
+# <a name="enable-send-immediately-when-connected"></a>Bật Gửi ngay khi được kết nối
  
-1. Trên tab tệp, bấm **tùy chọn**.
+1. Trên tab Tệp, bấm vào Tùy **chọn**.
 
-2. Trong hộp thoại tùy chọn Outlook, bấm **nâng cao**.
+2. Trong hộp thoại Outlook Chọn, bấm Nâng **cao.**
 
-3. Trong phần gửi và nhận, bấm để cho phép **gửi ngay lập tức khi được kết nối**. Bấm **OK**.
+3. Trong phần Gửi và nhận, bấm để bật Gửi ngay **lập tức khi được kết nối.** Bấm **OK**.
 
 Để biết chi tiết đầy đủ, hãy xem:
-- [Video: gửi hoặc xóa một email bị kẹt](https://support.office.com/article/Video-Send-or-delete-an-email-stuck-in-your-outbox-26d5d34a-4e5f-444a-a9e8-44db04a94dec) 
-- [Email vẫn nằm trong thư mục hộp thư đi cho đến khi bạn bắt đầu thao tác gửi/nhận trong Outlook](https://support.microsoft.com/help/2797572/email-stays-in-the-outbox-folder-until-you-manually-initiate-a-send-re)
+- [Video: Gửi hoặc xóa một email bị kẹt](https://support.office.com/article/Video-Send-or-delete-an-email-stuck-in-your-outbox-26d5d34a-4e5f-444a-a9e8-44db04a94dec) 
+- [Email nằm trong thư mục Hộp thư đi cho đến khi bạn khởi tạo thủ công thao tác gửi/nhận Outlook](https://support.microsoft.com/help/2797572/email-stays-in-the-outbox-folder-until-you-manually-initiate-a-send-re)
