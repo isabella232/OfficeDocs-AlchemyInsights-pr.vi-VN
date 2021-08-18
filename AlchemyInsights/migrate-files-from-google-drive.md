@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "8001"
 - "5300030"
-ms.openlocfilehash: 2ba7e9c773dd22697ab4b956a1b532b098a99feaca81a1009885ea87e287b6e3
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: c7783ed9d0c1d1b7ddaf1752aed0d82ed0fb9d16
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57897966"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316436"
 ---
 # <a name="migrate-files-from-google-drive"></a>Di chuyển tệp từ Google Drive
 
-Cộng tác tất cả ở một nơi bằng cách di chuyển tài liệu, dữ liệu và người dùng của Google Drive sang các OneDrive, SharePoint và Teams của mình Microsoft 365.
+Cộng tác tất cả ở một nơi bằng cách di chuyển tài liệu, dữ liệu và người dùng của Google Drive sang các OneDrive, SharePoint và Teams trong Microsoft 365.
 
-Để biết thêm thông tin, hãy [xem Di chuyển Không gian làm việc Google sang Microsoft 365 Trình quản lý Di chuyển](https://docs.microsoft.com/sharepointmigration/mm-google-overview).
+Để biết thêm thông tin, xem [mục Di chuyển Không gian làm việc Google sang Microsoft 365 di chuyển bằng Trình quản lý Di chuyển](https://docs.microsoft.com/sharepointmigration/mm-google-overview).

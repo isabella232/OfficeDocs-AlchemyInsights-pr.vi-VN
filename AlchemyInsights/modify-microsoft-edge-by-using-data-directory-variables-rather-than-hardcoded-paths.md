@@ -1,5 +1,5 @@
 ---
-title: Sửa đổi Microsoft Edge bằng cách dùng các biến dữ liệu của thư mục thay vì đường dẫn hardcoded
+title: Sửa đổi Microsoft Edge dùng biến thư mục dữ liệu thay vì đường dẫn mã cứng
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: ''
 ms.custom:
 - "9003873"
 - "6926"
-ms.openlocfilehash: 5c40aa1d7f61fbd2842839a5839899af8ab439f2
-ms.sourcegitcommit: 523098560e54a50184a99c974809dfbfffadacb5
+ms.openlocfilehash: 235696d17711726da57d9a09c23b5b13140a28d7645299ef120a4b2c7b395c5e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49679157"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54113438"
 ---
-# <a name="modify-microsoft-edge-by-using-data-directory-variables-rather-than-hardcoded-paths"></a>Sửa đổi Microsoft Edge bằng cách dùng các biến dữ liệu của thư mục thay vì đường dẫn hardcoded
+# <a name="modify-microsoft-edge-by-using-data-directory-variables-rather-than-hardcoded-paths"></a>Sửa đổi Microsoft Edge dùng biến thư mục dữ liệu thay vì đường dẫn mã cứng
 
-Ví dụ, trên Windows, để lưu trữ dữ liệu hồ sơ dưới dữ liệu ứng dụng cục bộ của người dùng thay vì ở vị trí mặc định, hãy đặt chính sách **Userdatadir** thành **$ {local_app_data} \Edge\Profile**. 
+Ví dụ: trên Windows, để lưu trữ dữ liệu hồ sơ dưới dữ liệu ứng dụng cục bộ của người dùng thay vì tại vị trí mặc định, hãy đặt chính sách **UserDataDir** **thành ${local_app_data}\Edge\Profile**. 
 
-Để tìm hiểu thêm, hãy xem [tạo các biến số thư mục dữ liệu người dùng Microsoft Edge](https://docs.microsoft.com/deployedge/edge-learnmore-create-user-directory-vars).
+Để tìm hiểu thêm, hãy [xem mục Tạo Microsoft Edge thư mục dữ liệu người dùng .](https://docs.microsoft.com/deployedge/edge-learnmore-create-user-directory-vars)
