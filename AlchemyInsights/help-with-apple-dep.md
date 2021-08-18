@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000654"
 - "2506"
-ms.openlocfilehash: 510228c48532b762c3fce836d9358c46ca48cdb5
-ms.sourcegitcommit: 0f26f6b23b3d48c3c6cddf98bc41df484f16cb00
+ms.openlocfilehash: 7751a8ba22713998f09d12a184abe2e20178579e93bd7d6aefe5c8d7a9f847d3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49599042"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116354"
 ---
 # <a name="help-with-apple-dep"></a>Trợ giúp với Apple DEP
 
-Nếu thiết bị DEP không thể đăng ký và MFA (xác thực đa yếu tố) được bật, vui lòng tắt MFA. MFA hiện không được hỗ trợ cho việc đăng ký DEP.
+Nếu thiết bị DEP không thể đăng ký và bật MFA (Xác thực Đa Yếu tố), vui lòng tắt MFA. MFA hiện không được hỗ trợ cho đăng ký DEP.
 
-[Bước đầu làm quen với InTune và chương trình đăng ký thiết bị của Apple (DEP)](https://docs.microsoft.com/intune/enrollment/device-enrollment-program-enroll-ios)
+[Bắt đầu với Intune và Chương trình Đăng ký Thiết bị (DEP) của Apple](https://docs.microsoft.com/intune/enrollment/device-enrollment-program-enroll-ios)
 
-[Các lỗi và giải pháp đăng ký iOS thường gặp](https://docs.microsoft.com/intune/enrollment/troubleshoot-ios-enrollment-errors)
+[Các lỗi đăng ký iOS phổ biến và giải pháp](https://docs.microsoft.com/intune/enrollment/troubleshoot-ios-enrollment-errors)
 
-[Các kịch bản sao lưu và khôi phục cho các thiết bị iOS/iPadOS đã đăng ký](https://docs.microsoft.com/mem/intune/enrollment/backup-restore-ios)
+[Kịch bản Sao lưu và Khôi phục cho các thiết bị iOS / iPadOS đã đăng ký](https://docs.microsoft.com/mem/intune/enrollment/backup-restore-ios)
 
-[Khắc phục sự cố đăng ký chung](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune)
+[Khắc phục sự cố Đăng ký Chung](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune)
 
-[Sử dụng cổng thông tin khắc phục sự cố InTune để chẩn đoán và giải quyết các lỗi đăng ký thường gặp](https://docs.microsoft.com/intune/fundamentals/help-desk-operators)
+[Sử dụng Cổng thông tin Khắc phục sự cố Intune để chẩn đoán và giải quyết các lỗi đăng ký thường gặp](https://docs.microsoft.com/intune/fundamentals/help-desk-operators)

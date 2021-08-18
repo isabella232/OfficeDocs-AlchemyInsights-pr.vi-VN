@@ -13,23 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7325"
-ms.openlocfilehash: d5473f73f280a61eefb36fed6d528ef1b0999d7f9898570e9e8eb24105a1cfa6
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5c0f4e7e92081a60be1f6930100ed08ce91ad545
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54001530"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320052"
 ---
 # <a name="update-sold-to-and-bill-to-address-associated-to-your-mca---recommended-steps"></a>Cập nhật địa chỉ bán hàng và gửi hóa đơn liên kết với MCA của bạn - các bước được đề xuất
 
 Bạn có thể cập nhật địa chỉ bán hàng và gửi hóa đơn liên kết với Thỏa thuận Khách hàng của Microsoft (MCA) của bạn. 
 
-> [!NOTE]
-> Chỉ người quản trị người dùng có thể thực hiện thay đổi đối với thông Azure Active Directory sơ người dùng. Nếu bạn chưa được gán vai trò người quản trị người dùng, hãy liên hệ với người quản trị người dùng của bạn. Để biết thêm thông tin về việc thay đổi hồ sơ người dùng, hãy xem Thêm hoặc cập nhật thông tin [hồ sơ người dùng bằng Azure Active Directory.](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)
+**Lưu ý**: Chỉ người quản trị người dùng có thể thực hiện thay đổi đối với thông Azure Active Directory sơ người dùng. Nếu bạn chưa được gán vai trò người quản trị người dùng, hãy liên hệ với người quản trị người dùng của bạn. Để biết thêm thông tin về việc thay đổi hồ sơ người dùng, hãy xem Thêm hoặc cập nhật thông tin hồ sơ người dùng [bằng Azure Active Directory.](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)
 
-**Địa chỉ bán -** Địa chỉ mua là địa chỉ và thông tin liên hệ của tổ chức hoặc cá nhân chịu trách nhiệm về tài khoản thanh toán. Thanh toán được hiển thị trong tất cả các hóa đơn đã tạo cho tài khoản thanh toán.
+**Địa chỉ mua** - Địa chỉ mua là địa chỉ và thông tin liên hệ của tổ chức hoặc cá nhân chịu trách nhiệm về tài khoản thanh toán. Thanh toán được hiển thị trong tất cả các hóa đơn đã tạo cho tài khoản thanh toán.
 
-**Địa chỉ nhận** hóa đơn - Địa chỉ nhận hóa đơn là địa chỉ và thông tin liên hệ của tổ chức hoặc cá nhân chịu trách nhiệm về các hóa đơn đã tạo cho tài khoản thanh toán. Đối với tài khoản thanh toán cho MCA, có một địa chỉ gửi hóa đơn cho từng hồ sơ thanh toán và địa chỉ đó được hiển thị trong hóa đơn được tạo cho hồ sơ thanh toán.
+**Địa chỉ nhận** hóa đơn - Địa chỉ gửi hóa đơn là địa chỉ và thông tin liên hệ của tổ chức hoặc cá nhân chịu trách nhiệm về các hóa đơn đã tạo cho tài khoản thanh toán. Đối với tài khoản thanh toán cho MCA, có một địa chỉ gửi hóa đơn cho từng hồ sơ thanh toán và địa chỉ đó được hiển thị trong hóa đơn được tạo cho hồ sơ thanh toán.
 
 **Cách cập nhật địa chỉ bán tài khoản thanh toán MCA:**
 
@@ -46,7 +45,7 @@ Một số tài khoản yêu cầu xác minh bổ sung trước khi địa chỉ
 1. Tìm kiếm Thanh **toán Quản lý Chi**  +  **phí**.
 1. Bấm **Vào Hồ sơ thanh toán,** rồi chọn một hồ sơ thanh toán để cập nhật địa chỉ thanh toán.
 1. Bấm vào **Địa chỉ** Cập nhật  >  **Thuộc tính**.
-1. Nhập địa chỉ mới, rồi bấm **vào Lưu.**
+1. Nhập địa chỉ mới rồi bấm **Lưu.**
 
 **Tài liệu được đề xuất**
 

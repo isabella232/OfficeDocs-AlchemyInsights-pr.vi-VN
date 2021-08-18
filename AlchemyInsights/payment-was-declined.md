@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001506"
 - "4732"
-ms.openlocfilehash: 0459341dc4727655af37acd9ab6fcb927243f959bf7e9cb69787e3813658342d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 39b1a6cfccf85ee03a804045b043e25dbdb2d45b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54087230"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58319914"
 ---
 # <a name="your-payment-was-declined"></a>Khoản thanh toán của bạn đã bị từ chối
 
@@ -27,7 +27,7 @@ Microsoft sẽ cố gắng tính phí thẻ của bạn nhiều lần trong vòn
 
 **Thay thế phương thức thanh toán cho tất cả các mặt hàng**
 
-1. Trong trung tâm quản trị, đi tới trang **Hóa đơn thanh** toán và & Phương  >  **thức** thanh  >  [toán.](https://go.microsoft.com/fwlink/p/?linkid=2018806)
+1. Trong trung tâm quản trị, đi tới trang **Hóa đơn thanh** toán & Phương thức  >  **thanh** toán  >  [của](https://go.microsoft.com/fwlink/p/?linkid=2018806) thanh toán.
 
 2. Chọn hàng của phương thức thanh toán cần thay thế. Ngăn bên phải liệt kê tất cả các hồ sơ thanh toán và các đăng ký riêng lẻ sử dụng phương thức thanh toán được chọn.
 
@@ -35,8 +35,7 @@ Microsoft sẽ cố gắng tính phí thẻ của bạn nhiều lần trong vòn
 
 4. Để sử dụng phương thức thanh toán hiện có, hãy chọn một phương thức từ danh sách thả xuống, rồi chọn Thay **thế**.
 
-    > [!NOTE]
-    > Nếu bạn có các đăng ký được liên kết với hồ sơ thanh toán, bạn chỉ có thể sử dụng thẻ tín dụng hoặc thẻ ghi nợ để thanh toán cho chúng. Nếu bạn có tài khoản ngân hàng được **liệt kê trên** trang Phương thức thanh toán, chúng không có sẵn để chọn trong danh sách thả xuống.
+    **Lưu** ý : Nếu bạn có các đăng ký liên kết với hồ sơ thanh toán, bạn chỉ có thể sử dụng thẻ tín dụng hoặc thẻ ghi nợ để thanh toán. Nếu bạn có tài khoản ngân hàng được **liệt kê trên** trang Phương thức thanh toán, chúng không có sẵn để chọn trong danh sách thả xuống.
 
 5. Để thêm phương thức thanh toán mới, hãy chọn Thêm **phương thức thanh toán**.
 
@@ -46,7 +45,7 @@ Microsoft sẽ cố gắng tính phí thẻ của bạn nhiều lần trong vòn
 
 **Cập nhật chi tiết phương thức thanh toán**
 
-1. Trong trung tâm quản trị, đi tới trang **Hóa đơn thanh** toán và & Phương  >  **thức** thanh  >  [toán.](https://go.microsoft.com/fwlink/p/?linkid=2018806)
+1. Trong trung tâm quản trị, đi tới trang **Hóa đơn thanh** toán & Phương thức  >  **thanh** toán  >  [của](https://go.microsoft.com/fwlink/p/?linkid=2018806) thanh toán.
 
 2. Chọn hàng của phương thức thanh toán cần cập nhật. Trong ngăn bên phải, chọn **Chỉnh sửa**.
 

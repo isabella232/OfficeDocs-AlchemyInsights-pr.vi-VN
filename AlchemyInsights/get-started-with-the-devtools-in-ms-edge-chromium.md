@@ -1,5 +1,5 @@
 ---
-title: Bắt đầu với các công cụ nhà phát triển trong Microsoft Edge (Crom)
+title: Bắt đầu với các công cụ của nhà phát triển Microsoft Edge (Chromium)
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004029"
 - "7099"
-ms.openlocfilehash: ba44365906b3ccaf763c3e64a7ffd7d1b34b9ac0
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: d1238ac3f3af4857aebe3c51b900e755ff86814fa425ec47be1e83cd5f9faa20
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583725"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116390"
 ---
-# <a name="get-started-with-the-developer-tools-in-microsoft-edge-chromium"></a>Bắt đầu với các công cụ nhà phát triển trong Microsoft Edge (Crom)
+# <a name="get-started-with-the-developer-tools-in-microsoft-edge-chromium"></a>Bắt đầu với các công cụ của nhà phát triển Microsoft Edge (Chromium)
 
-Microsoft Edge đã áp dụng các dự án nguồn mở Chromium, nhằm giúp nền tảng web phân mảnh chưa phân tán và web tương thích hơn. Thay đổi này sẽ trao quyền cho bạn để sử dụng Microsoft Edge để xây dựng và kiểm tra các trang web của bạn hoạt động trên các trình duyệt dựa trên Crom khác.
+Microsoft Edge đã áp dụng dự án Chromium nguồn mở của mình, điều này chủ định giúp cho nền tảng web ít bị phân mảnh và tương thích hơn với web. Thay đổi này sẽ trao quyền cho bạn sử dụng Microsoft Edge để xây dựng và kiểm tra các trang web hoạt động trên các trình duyệt Chromium trên nền tảng khác.
 
-Microsoft Edge (Crom) cũng cung cấp các [công cụ nhà phát triển lớp học tốt nhất](https://go.microsoft.com/fwlink/?linkid=2134941) nên quen thuộc với bạn và tương thích với các công cụ mà bạn đã sử dụng.
+Microsoft Edge dụng (Chromium) cũng cung [](https://go.microsoft.com/fwlink/?linkid=2134941) cấp các công cụ nhà phát triển tốt nhất nên làm quen với bạn và tương thích với các công cụ bạn đã sử dụng.
 
-Để tìm hiểu thêm, hãy xem có [gì mới trong Microsoft Edge (Crom) DevTools](https://go.microsoft.com/fwlink/?linkid=2135020).
+Để tìm hiểu thêm, [hãy xem mục Có gì mới trong công Microsoft Edge (Chromium) DevTools](https://go.microsoft.com/fwlink/?linkid=2135020).

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000722"
 - "4812"
-ms.openlocfilehash: 5231fca8c0a3cd919dd9fb79e7cbcf5a4f2c67fdd52a0f136b87e9331a3d6c44
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 5d328c1d494a978b424a4f9932ec9145637b766c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57893545"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58319650"
 ---
 # <a name="compliance-common-issues-and-resolutions"></a>Các sự cố phổ biến về tuân thủ và giải pháp
 
@@ -31,7 +31,7 @@ Dưới đây là một số chủ đề thường được yêu cầu về tuâ
 
 - Thiết lập Khám phá Điện tử và Tìm kiếm và Xuất Nội dung: Tìm [kiếm và](https://docs.microsoft.com/microsoft-365/compliance/content-search) Xuất Nội dung Kết quả [Tìm kiếm.](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)
 
-- Kiểm tra trong O365: Tìm [kiếm Nhật ký Kiểm tra trong O365](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance).
+- Kiểm tra trong O365: Tìm [kiếm Nhật ký Kiểm tra trong O365.](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance)
 
 - Data Loss Prevention(DLP): Xem [Tổng quan về Ngăn Mất Dữ liệu (DLP) để](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies) biết thêm thông tin.
  
@@ -39,6 +39,6 @@ Dưới đây là một số chủ đề thường được yêu cầu về tuâ
 
 - Xem chính sách cảnh báo: [Xem chính sách cảnh báo trong Trung tâm tuân thủ Microsoft 365.](https://docs.microsoft.com/microsoft-365/compliance/alert-policies)
 
-- Quyền của trung tâm phức tạp: Xem [Quyền trong Trung tâm tuân thủ Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center-permissions).
+- Quyền của trung tâm biên dịch: Xem [Quyền trong trung tâm Trung tâm tuân thủ Microsoft 365.](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center-permissions)
 
 **Lưu** ý: Để biết câu trả lời cụ thể hơn về vấn đề tuân thủ, hãy nếp nhanh câu hỏi của bạn và bao gồm bất kỳ lỗi nào bạn thấy hoặc tính năng bạn đang sử dụng.

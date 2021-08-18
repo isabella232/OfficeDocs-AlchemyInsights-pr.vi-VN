@@ -13,22 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 258e92368b8a33e8ea807f0cb9af90132c86ed5b
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: c3b1cac5379f4f3da93152fa20086068f7df562cd98b2980ce1b4280e0aa6d5f
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58303599"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57902282"
 ---
 # <a name="find-the-ip-address-in-audit-log"></a>Tìm địa chỉ IP trong nhật ký kiểm tra
 
 Địa chỉ IP tương ứng với hoạt động được thực hiện bởi người dùng hoặc người quản trị được hiển thị trong nhật ký kiểm tra. Thông tin máy khách cũng được ghi nhật ký. Dưới đây là cách xác định địa chỉ IP:
 
 1. Thực hiện một trong các thao tác sau:
-   - Trong thanh công Trung tâm tuân thủ Microsoft 365 , <https://compliance.microsoft.com> đi đến Kiểm tra **Giải** \> **pháp**. Hoặc để đi trực tiếp đến trang **Kiểm tra,** sử dụng <https://compliance.microsoft.com/auditlogsearch> .
-   - In the Bộ bảo vệ Microsoft 365 portal at <https://security.microsoft.com> , go to **Audit**. Hoặc để đi trực tiếp đến trang **Kiểm tra,** sử dụng <https://security.microsoft.com/auditlogsearch> .
+   - In the Trung tâm tuân thủ Microsoft 365 at <https://compliance.microsoft.com> , go to Solutions  \> **Audit**. Hoặc để đi trực tiếp đến trang **Kiểm tra,** sử dụng <https://compliance.microsoft.com/auditlogsearch> .
+   - Trong cổng thông Bộ bảo vệ Microsoft 365 tại <https://security.microsoft.com> , đi tới Kiểm **tra**. Hoặc để đi trực tiếp đến trang **Kiểm tra,** sử dụng <https://security.microsoft.com/auditlogsearch> .
 
-    **Lưu** ý: Nếu bạn thấy thông báo rằng bạn cần bật tính năng kiểm tra, hãy tiếp tục và bật ngay. If this feature isn't enabled, search results won't be able to pull data from previous dates.
+    > [!NOTE]
+    > Nếu bạn thấy thông báo rằng bạn cần bật tính năng kiểm tra, hãy tiếp tục và bật ngay. If this feature isn't enabled, search results won't be able to pull data from previous dates.
 
 2. On the **Audit** page, verify that the **Search** tab is selected and then configure the following settings:
    - **Phạm vi ngày và giờ**: Chọn phạm vi ngày/giờ trong hộp Bắt **đầu** **và Kết** thúc.

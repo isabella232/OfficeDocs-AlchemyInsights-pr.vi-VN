@@ -1,5 +1,5 @@
 ---
-title: 911 tắt hộp thư đến ưu tiên trong máy khách
+title: 911 Tắt hộp thư đến tập trung trong máy khách
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,15 +13,15 @@ ms.custom:
 - "911"
 - "1800019"
 ms.assetid: 192cdbaa-e106-49a1-9ecd-f6a6fa3a05a0
-ms.openlocfilehash: 7d9d065c3b95f5fe75eca5df844fbe7a9f3e6de9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: df283ec7aab493dcca684426606b54fdb08a2fa94d2e17845cefc028ed4407c5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795230"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54092508"
 ---
-# <a name="turn-off-focused-inbox-in-email-clients"></a>Tắt hộp thư đến ưu tiên trong ứng dụng khách email
+# <a name="turn-off-focused-inbox-in-email-clients"></a>Tắt Hộp thư đến Tập trung trong máy khách email
 
-Để tắt hộp thư đến ưu tiên trong Outlook 2016, Outlook trên web, Outlook.com/Hotmail.com, Outlook 2016 for Mac hoặc thư dành cho Windows 10, hãy xem mục [tắt hộp thư đến](https://support.office.com/article/f714d94d-9e63-4217-9ccb-6cb2986aa1b2.aspx)ưu tiên.
+Để tắt Hộp thư đến Tập trung trong Outlook 2016, Outlook trên web, Outlook.com/Hotmail.com, Outlook 2016 for Mac hoặc Thư dành cho Windows 10, hãy xem mục Tắt Hộp thư đến Tập [trung.](https://support.office.com/article/f714d94d-9e63-4217-9ccb-6cb2986aa1b2.aspx)
 
-Để tắt hộp thư đến ưu tiên cho tất cả mọi người trong tổ chức, hãy xem mục [đặt cấu hình hộp thư đến ưu tiên cho mọi người trong tổ chức của bạn](https://docs.microsoft.com/microsoft-365/admin/setup/configure-focused-inbox).
+Để tắt Hộp thư đến Tập trung cho mọi người trong tổ chức, hãy xem mục Đặt cấu hình Hộp thư đến [Tập trung cho mọi người trong tổ chức của bạn](https://docs.microsoft.com/microsoft-365/admin/setup/configure-focused-inbox).
