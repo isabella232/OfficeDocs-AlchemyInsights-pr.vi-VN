@@ -13,20 +13,20 @@ ms.custom:
 - "1369"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 2af731bc9a1e28e2db7c6662041b930e1b05be4c3bf8340784d9ab87101c44af
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 48634fad8f573e3a7c38cac299bb95ec90814f5c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57899906"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58331181"
 ---
 # <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Xác định khi nào cấu hình chuyển tiếp email bên ngoài trên hộp thư
 
-Khi người Microsoft 365 đặt cấu hình chuyển tiếp email bên ngoài trên hộp thư, hoạt động này được kiểm tra như một phần của lệnh ghép ngắn **Set-Mailbox.** Bạn có thể thấy hoạt động bằng tính năng tìm kiếm nhật ký kiểm tra. Sau đây là cách thực hiện.
+Khi người dùng Microsoft 365 cấu hình chuyển tiếp email bên ngoài trên một hộp thư, hoạt động này được kiểm tra như một phần của lệnh ghép ngắn **Set-Mailbox.** Bạn có thể thấy hoạt động bằng tính năng tìm kiếm nhật ký kiểm tra. Sau đây là cách thực hiện.
 
 1. Thực hiện một trong các bước sau đây:
-   - In the Trung tâm tuân thủ Microsoft 365 at <https://compliance.microsoft.com> , go to Solutions  \> **Audit**. Hoặc để đi trực tiếp đến trang **Kiểm tra,** sử dụng <https://compliance.microsoft.com/auditlogsearch> .
-   - Trong cổng thông Bộ bảo vệ Microsoft 365 tại <https://security.microsoft.com> , đi tới Kiểm **tra**. Hoặc để đi trực tiếp đến trang **Kiểm tra,** sử dụng <https://sip.security.microsoft.com/auditlogsearch> .
+   - Trong thanh công Trung tâm tuân thủ Microsoft 365 , <https://compliance.microsoft.com> đi đến Kiểm tra **Giải** \> **pháp**. Hoặc để đi trực tiếp đến trang **Kiểm tra,** sử dụng <https://compliance.microsoft.com/auditlogsearch> .
+   - In the Bộ bảo vệ Microsoft 365 portal at <https://security.microsoft.com> , go to **Audit**. Hoặc để đi trực tiếp đến trang **Kiểm tra,** sử dụng <https://sip.security.microsoft.com/auditlogsearch> .
 
 2. On the **Audit** page, verify that the **Search** tab is selected and then configure the following settings:
    - Chọn phạm vi ngày/giờ trong hộp **Bắt đầu** **và Kết** thúc.

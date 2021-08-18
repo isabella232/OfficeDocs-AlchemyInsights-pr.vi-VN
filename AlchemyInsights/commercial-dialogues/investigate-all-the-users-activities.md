@@ -13,23 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: d05c8f02efc3bb92865880ea4a2338abaf7d70254f0b4bbfb566423e62b391dd
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 016f4b1caa05cb26d1e6795551b64737d4cb64a5
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57898818"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58332365"
 ---
 # <a name="investigate-all-the-users-activities"></a>Điều tra tất cả các hoạt động của người dùng
 
 Dưới đây là cách thực hiện:
 
 1. Thực hiện một trong các thao tác sau:
-   - Trong trang Trung tâm tuân thủ Microsoft 365 , <https://compliance.microsoft.com> đi đến Kiểm tra **Giải** \> **pháp**. Hoặc để đi trực tiếp đến trang **Kiểm tra,** sử dụng <https://compliance.microsoft.com/auditlogsearch> .
-   - Trong cổng thông Bộ bảo vệ Microsoft 365 tại <https://security.microsoft.com> , đi tới Kiểm **tra**. Hoặc để đi trực tiếp đến trang **Kiểm tra,** sử dụng <https://security.microsoft.com/auditlogsearch> .
+   - Trong thanh công Trung tâm tuân thủ Microsoft 365 , <https://compliance.microsoft.com> đi đến Kiểm tra **Giải** \> **pháp**. Hoặc để đi trực tiếp đến trang **Kiểm tra,** sử dụng <https://compliance.microsoft.com/auditlogsearch> .
+   - In the Bộ bảo vệ Microsoft 365 portal at <https://security.microsoft.com> , go to **Audit**. Hoặc để đi trực tiếp đến trang **Kiểm tra,** sử dụng <https://security.microsoft.com/auditlogsearch> .
 
-    > [!NOTE]
-    > Nếu bạn thấy thông báo rằng bạn cần bật tính năng này, hãy tiếp tục và bật tính năng ngay bây giờ. Nếu tính năng này không bật, kết quả tìm kiếm sẽ không thể lấy dữ liệu từ ngày trước đó.
+    **Lưu** ý: Nếu bạn thấy thông báo rằng bạn cần bật tính năng này, hãy tiếp tục và bật tính năng ngay bây giờ. Nếu tính năng này không bật, kết quả tìm kiếm sẽ không thể lấy dữ liệu từ ngày trước đó.
 
 2. Trên tab Tìm **kiếm** của trang Kiểm **tra,** hãy cấu hình các thiết đặt sau:
    - **Phạm vi ngày và giờ**: Chọn phạm vi ngày/giờ trong hộp Bắt **đầu** **và Kết** thúc.

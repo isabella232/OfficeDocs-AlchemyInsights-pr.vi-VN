@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7194"
-ms.openlocfilehash: 5aa6f11d31ed62078fdd05090af5722289544c5ab2244a369182f4e0f9214183
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 48a06fde215e007b6b81b32ab751ca8e4bba522d
+ms.sourcegitcommit: 46e24d65cffd37b6988447c6738b3315303bbe13
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53963809"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58339054"
 ---
 # <a name="how-to-add-and-manage-administrators---recommended-steps"></a>Cách thêm và quản lý người quản trị - các bước được đề xuất
 
@@ -41,7 +41,7 @@ Người quản trị Dịch vụ hoặc Người quản trị đồng có thể
 
 **Thêm/Thay đổi/Loại bỏ Người đồng quản trị**
 
-1. Đăng nhập vào cổng thông [tin Azure với tư](https://ms.portal.azure.com/#home) cách là Người quản trị Dịch vụ.
+1. Đăng nhập vào cổng thông [tin Azure với tư](https://ms.portal.azure.com/#home) cách Người quản trị Dịch vụ.
 2. Mở [Đăng ký và](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) chọn một đăng ký. (Chỉ có thể chỉ định người đồng quản trị ở phạm vi đăng ký.)
 3. Dẫn hướng đến kiểm soát **Access (IAM)** Người quản trị cổ điển Thêm Thêm người đồng quản trị để mở ngăn Thêm người đồng quản trị (Nếu tùy chọn Thêm người quản trị đồng bị vô hiệu hóa, tùy chọn này sẽ biểu thị rằng bạn không có  >    >    >   quyền). 
 4. Chọn người dùng mà bạn muốn thêm và bấm **Thêm.**
@@ -58,7 +58,7 @@ Người quản trị Dịch vụ hoặc Người quản trị đồng có thể
 Bạn có thể thêm người dùng mới hoặc xóa người dùng hiện có khỏi tổ chức Azure Active Directory (Azure AD) của mình:
 
 1. Để thêm người dùng mới, hãy đăng nhập vào cổng thông [tin Azure với](https://ms.portal.azure.com/#home) tư cách là Người quản trị người dùng cho tổ chức.
-2. Chọn Azure Active Directory , chọn Người **dùng,** rồi bấm vào **Người dùng mới.**
+2. Chọn **Azure Active Directory**, chọn Người **dùng,** rồi bấm vào **Người dùng mới.**
 3. Trên trang **Người dùng,** hãy điền thông tin bắt buộc. Bấm **vào Tạo**. Người dùng được tạo và thêm vào đối tượng thuê Azure AD của bạn.
 
 **Tìm hiểu thêm:**
@@ -75,7 +75,7 @@ Bạn có thể thêm người dùng mới hoặc xóa người dùng hiện có
 - [Hướng dẫn: Cấp quyền truy nhập cho người dùng bằng cách sử dụng RBAC và cổng thông tin Azure](https://docs.microsoft.com/azure/role-based-access-control/quickstart-assign-role-user-portal)
 - [Khắc phục sự cố về RBAC trong Azure](https://docs.microsoft.com/azure/role-based-access-control/troubleshooting)
 - [Sắp xếp tài nguyên của bạn với các nhóm quản lý Azure](https://docs.microsoft.com/azure/governance/management-groups/overview)
-- [Cách yêu cầu bản sao hóa đơn Azure qua email](https://azure.microsoft.com/en-us/blog/azure-email-invoices/)
+- [Cách yêu cầu bản sao hóa đơn Azure qua email](https://azure.microsoft.com/blog/azure-email-invoices/)
 - [Cách thêm, cập nhật hoặc loại bỏ thẻ tín dụng hoặc thẻ ghi nợ khỏi Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card)
 - [Quản lý (Kích hoạt lại/Hủy bỏ/Chuyển) đăng ký](https://docs.microsoft.com/azure/cost-management-billing/manage/subscription-disabled)
 

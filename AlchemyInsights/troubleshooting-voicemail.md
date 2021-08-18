@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002347"
 - "7564"
-ms.openlocfilehash: e639d74cd8dbbb03ffb5b253451c99c8fe639f024a46e173845a0f4d322e43ca
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 36ba65c1ee67631a8b3c24c3407f46e3304541c5
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53972405"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330766"
 ---
 # <a name="troubleshooting-voicemail"></a>Khắc phục sự cố Thư thoại
 
@@ -31,7 +31,7 @@ Nếu người dùng này không cần tính năng này:
 1. Chọn Quản **lý Người dùng**.
 1. Tìm kiếm người dùng và thay đổi Chính sách Gọi điện thành chính sách có sẵn Chính sách Gọi điện đang **Bận khi đang gọi** đến **Tắt.**
 1. Bấm **vào Áp dụng**.
-> [!NOTE]
-> Thay đổi đối với chính sách có thể mất đến 24 giờ để nhân bản.
+
+**Lưu** ý : Bạn có thể phải mất tới 24 giờ để thay đổi các chính sách.
 
 Để biết thêm thông tin về tính năng này, hãy tham [khảo:](https://docs.microsoft.com/microsoftteams/teams-calling-policy#busy-on-busy-is-available-while-in-a-call)Bận khi đang bận đang sẵn sàng trong cuộc gọi .

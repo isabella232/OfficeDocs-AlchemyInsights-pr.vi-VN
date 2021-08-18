@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f61d1335-2b63-4eaf-91f6-3a773c0fd610
-ms.openlocfilehash: d6d62762a5da836a8fb4b6e750bdeca4d0fb46e42f30f4fde2183550e5d2210f
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b87a0dbc9640cefe32a6bec3bea228eee91fe21a
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54082424"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58332457"
 ---
 # <a name="change-a-users-email-address"></a>Thay đổi địa chỉ email của người dùng
 
@@ -31,7 +31,7 @@ Thay đổi địa chỉ email của ai đó rất dễ dàng! Chỉ cần làm 
     
 4. Trong hộp **Biệt danh,** nhập email mới, rồi chọn **Thêm**.
     
-    **QUAN** TRỌNG : Nếu bạn gặp thông báo lỗi " Không tìm được tham số khớp với tên tham số **'EmailAddresses**' thì có nghĩa là Microsoft sẽ mất thêm một chút thời gian để hoàn tất việc thiết lập đối tượng thuê hoặc tên miền riêng của bạn, nếu gần đây bạn đã thêm một đối tượng. Quy trình thiết lập có thể mất đến 4 giờ để hoàn tất. Hãy chờ một chút để quy trình thiết lập hoàn tất, rồi thử lại. Nếu sự cố vẫn tiếp diễn, hãy gọi cho bộ máy Hỗ trợ và họ sẽ thực hiện đồng bộ đầy đủ cho bạn.
+    Quan trọng **:** Nếu bạn gặp thông báo lỗi " Không tìm được tham số khớp với tên tham số **'EmailAddresses**' thì có nghĩa là Microsoft sẽ mất thêm một chút thời gian để hoàn tất việc thiết lập đối tượng thuê hoặc tên miền riêng của bạn, nếu gần đây bạn đã thêm một đối tượng. Quy trình thiết lập có thể mất đến 4 giờ để hoàn tất. Hãy chờ một chút để quy trình thiết lập hoàn tất, rồi thử lại. Nếu sự cố vẫn tiếp diễn, hãy gọi cho bộ trợ giúp và họ sẽ thực hiện đồng bộ đầy đủ cho bạn.
     
     Nếu bạn gặp thông báo lỗi **"Chúng tôi rất tiếc, không thể chỉnh sửa người dùng. Xem lại thông tin người dùng,** rồi thử lại " điều đó có nghĩa là bạn không phải là người quản trị toàn cầu và bạn không có quyền thay đổi tên của người dùng.
     

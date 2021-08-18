@@ -7,13 +7,13 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 6818f0e5bd82bd7f8f4e955749aa0defecc5b5d947383de4571c23a4bd316497
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4f64426642e8213176b29d55b3091249762b4fa3
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54117794"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58333287"
 ---
-# <a name="error-404-file-not-found-in-sharepoint-or-onedrive"></a>Lỗi 404: Không tìm thấy tệp ở dạng SharePoint hoặc OneDrive
+# <a name="error-404-file-not-found-in-sharepoint-or-onedrive"></a>Lỗi 404: Không tìm thấy tệp ở định dạng SharePoint hoặc OneDrive
 
-Nếu bạn nhận được lỗi 404 không tìm thấy, hãy xem lỗi: Không tìm thấy [Tệp/Trang 404](/sharepoint/troubleshoot/administration/error-404-onedrive-sharepoint)trong OneDrive hoặc SharePoint.
+Nếu bạn nhận được lỗi 404 không tìm thấy, hãy xem lỗi: Không tìm thấy [Tệp/Trang 404](https://docs.microsoft.com/sharepoint/troubleshoot/administration/error-404-onedrive-sharepoint)trong OneDrive trang SharePoint.

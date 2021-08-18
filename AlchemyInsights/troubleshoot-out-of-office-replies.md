@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "5831"
-ms.openlocfilehash: 9450edbed749f6abcb268678acb407599559ad0f0ab8fb405b3f772c2371cdea
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 0fb5afbfb5194e44f925557421f5724b8ce57158
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57899682"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58332579"
 ---
 # <a name="troubleshooting-out-of-office-automatic-replies"></a>Khắc phục sự cố Trả Office trả lời tự động
 
-Một loạt các nguyên nhân có thể là nguyên nhân gây ra sự cố tùy thuộc vào cách bạn đã cấu hình Trả lời Tự động Office động như thế nào.
+Nhiều nguyên nhân có thể là nguyên nhân gây ra sự cố tùy thuộc vào cách bạn cấu hình Trả lời Tự động Office bạn.
 
-Để hiểu sâu hơn về vị trí của vấn đề, vui lòng đọc Mục Tìm hiểu và khắc phục sự cố Trong Office [(OOF).](https://docs.microsoft.com/exchange/troubleshoot/email-delivery/understand-troubleshoot-oof-replies)
+Để hiểu rõ hơn về vị trí của vấn đề, vui lòng đọc mục Hiểu và khắc phục sự cố Trong Office [(OOF).](https://docs.microsoft.com/exchange/troubleshoot/email-delivery/understand-troubleshoot-oof-replies)
