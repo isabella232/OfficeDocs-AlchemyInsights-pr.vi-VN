@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003244"
 - "7319"
-ms.openlocfilehash: 224e6e613c306b50e354930bcbe6f43f1c08528766cb6e681b0e9826b2d55a4d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7d8a55f8c9a9fc30c653152c2f1b185874cea3ee
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53914025"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330394"
 ---
 # <a name="device-in-pending-state"></a>Thiết bị đang chờ xử lý
 
@@ -31,19 +31,18 @@ Quy trình đăng ký liên kết Azure AD kết hợp yêu cầu các thiết b
 
 **Môi trường xác thực đám mây (sử dụng đồng bộ băm mật khẩu Azure AD hoặc xác thực thông qua)**
 
-Dòng đăng ký này còn được gọi là "Kết nối đồng bộ".
+Dòng đăng ký này còn được gọi là "Đồng bộ kết nối".
 
 Dưới đây là phân tích về những điều xảy ra trong quá trình đăng ký:
 
 1. Windows 10 phát hiện bản ghi Điểm Kết nối Dịch vụ (SCP) khi người dùng đăng nhập vào thiết bị.
 
     1. Trước tiên, thiết bị tìm cách truy xuất thông tin đối tượng thuê từ SCP phía máy khách trong sổ đăng ký [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CDJ\AAD]. Để biết thêm thông tin, hãy xem [tài liệu](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-control).
-    1. Nếu không thành công, thiết bị sẽ liên lạc với Active Directory tại cơ sở để nhận thông tin đối tượng thuê từ SCP. Để xác minh SCP, hãy tham khảo tài [liệu này.](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-manual#configure-a-service-connection-point)
+    1. Nếu không thành công, thiết bị sẽ liên lạc với Active Directory tại chỗ để nhận thông tin đối tượng thuê từ SCP. Để xác minh SCP, hãy tham khảo tài [liệu này.](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-manual#configure-a-service-connection-point)
 
-    > [!NOTE]
-    > Chúng tôi khuyên bạn nên bật SCP trong Active Directory và chỉ sử dụng SCP phía máy khách để xác thực ban đầu.
+    **Lưu** ý : Chúng tôi khuyên bạn nên bật SCP trong Active Directory và chỉ sử dụng SCP phía máy khách để xác thực ban đầu.
 
-2. Windows 10 liên lạc với Azure AD trong ngữ cảnh hệ thống để xác thực chính mình với Azure AD.
+2. Windows 10 tìm cách liên lạc với Azure AD trong ngữ cảnh hệ thống để xác thực chính mình với Azure AD.
 
     Bạn có thể xác minh xem thiết bị có thể truy nhập tài nguyên Microsoft theo tài khoản hệ thống không bằng cách sử dụng script [Kiểm tra Khả năng kết nối Đăng ký Thiết bị.](https://gallery.technet.microsoft.com/Test-Device-Registration-3dc944c0)
 
@@ -53,13 +52,11 @@ Dưới đây là phân tích về những điều xảy ra trong quá trình đ
 
 5. Ở giai đoạn này, bạn có thể thấy thiết bị chủ đề ở trạng thái **"** Đang chờ xử lý " trong Thiết bị của Cổng thông tin Azure.
 
-6. Tại lần đăng nhập người dùng tiếp theo vào Windows 10, quá trình đăng ký sẽ được hoàn tất.
+6. Tại lần đăng nhập người dùng tiếp theo Windows 10 người dùng đó, quá trình đăng ký sẽ được hoàn tất.
 
-    > [!NOTE]
-    > Nếu bạn đang sử dụng VPN và logoff/login chấm dứt kết nối miền, bạn có thể kích hoạt đăng ký theo cách thủ công. Cách thực hiện:
-    >
-    > Cấp lời `dsregcmd /join` nhắc cục bộ trên lời nhắc người quản trị hoặc từ xa thông qua PSExec đến PC của bạn.
-    >
-    > Ví dụ: `PsExec -s \\win10client01 cmd, dsregcmd /join`
+    **Lưu ý:** Nếu bạn đang sử dụng VPN và đăng nhập/đăng nhập sẽ chấm dứt kết nối miền, bạn có thể kích hoạt đăng ký theo cách thủ công. Cách thực hiện:
+    
+    Cấp lời `dsregcmd /join` nhắc cục bộ trên lời nhắc quản trị hoặc từ xa thông qua PSExec vào PC của bạn.\
+    Ví dụ: `PsExec -s \\win10client01 cmd, dsregcmd /join`
 
 Để biết các sự cố thường gặp với Azure Active Directory thiết bị, hãy xem Câu [hỏi thường gặp về thiết bị.](https://docs.microsoft.com/azure/active-directory/devices/faq)

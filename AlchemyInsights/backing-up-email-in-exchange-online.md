@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002333"
 - "4537"
-ms.openlocfilehash: 3368f31c312de15acbfc46a16ef5a989b20cdce9
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 66de4338fd0ddd21bf6cd7d0a5bcb60374ad70adb3b27bdd021dbec8a7f163a6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820596"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54120062"
 ---
 # <a name="backing-up-email-in-exchange-online"></a>Sao lưu email trong Exchange Online
 
-Để tìm hiểu về cách sao lưu email trong Exchange Online, vui lòng xem [sao lưu email trong Exchange Online](https://docs.microsoft.com/exchange/back-up-email).
+Để tìm hiểu về cách sao lưu email trong Exchange Online, vui lòng [xem Sao lưu email trong Exchange Online.](https://docs.microsoft.com/exchange/back-up-email)
 
-Xin lưu ý rằng dữ liệu trong Exchange Online được bảo vệ bằng cách [có nhiều bản sao thừa](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/high-availability-and-business-continuity), vì vậy tùy theo nhu cầu của bạn, các giải pháp sao lưu truyền thống có thể không cần thiết.
+Vui lòng lưu ý rằng dữ liệu [](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/high-availability-and-business-continuity)trong Exchange Online được bảo vệ bằng cách có nhiều bản sao dư thừa, vì vậy, tùy theo nhu cầu của bạn, có thể bạn không cần tới các giải pháp sao lưu truyền thống.

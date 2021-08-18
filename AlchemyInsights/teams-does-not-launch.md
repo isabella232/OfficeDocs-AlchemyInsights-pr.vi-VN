@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "12673"
 - "9007646"
-ms.openlocfilehash: a37f980e700090da8199c703216af6f04f4aca464c21870beb3e907dd7b2d491
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ebfabf667092850e5045c56e34e355739944ba44
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "57813363"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58329348"
 ---
 # <a name="teams-doesnt-launch"></a>Teams không khởi chạy
 
-Nếu bạn tìm cách mở Microsoft Teams khởi chạy, hãy thử cách sau:
+Nếu bạn tìm cách mở một Microsoft Teams khởi chạy, hãy thử cách sau:
 
-1. Duyệt đến **%appdata%\Microsoft\Teams**.
+1. Duyệt đến **%appdata%\Microsoft\Teams.**
 1. Xóa nội dung của thư mục.
 1. Khởi động lại máy tính, rồi thử khởi động Teams.
 
@@ -35,6 +35,6 @@ Bạn có thể cần cài đặt lại Teams. Để cài đặt lại:
 1. Xóa nội dung của thư mục.
 1. Duyệt đến **%appdata%\Microsoft\teams\Cache**.
 1. Xóa nội dung của thư mục.
-1. Khởi động lại máy tính, rồi tải xuống và cài Teams.
+1. Khởi động lại máy tính, rồi tải xuống và cài đặt Teams.
 
 Nếu bạn muốn chạy chẩn đoán trên đối tượng thuê của mình đối với một người dùng cụ thể không thể đăng nhập, hãy bắt đầu tìm kiếm mới với từ khóa **TeamsUserUnableToSignIn** và làm theo lời nhắc.

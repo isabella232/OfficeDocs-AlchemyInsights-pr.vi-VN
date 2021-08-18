@@ -15,12 +15,12 @@ ms.custom:
 - commerce_subscriptions
 - "53"
 - "1400001"
-ms.openlocfilehash: 90399a54ad9d77bb94f8c067f255274e4d2591823095b391f53ddf7514d338a6
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 03ee652d21cb87d9534f2d5d4b1918d815788c22
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57890780"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330230"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>Bạn đang hủy bỏ đăng Microsoft 365 của mình?
 
@@ -28,7 +28,7 @@ Chúng tôi rất tiếc khi bạn ngừng sử dụng, dưới đây là các b
 
 1. Trong trung tâm quản trị, đi tới trang Thanh  >  **[toán Sản phẩm của](https://go.microsoft.com/fwlink/p/?linkid=842054)** bạn, rồi chọn tab **Sản** phẩm.
 2. Tìm đăng ký mà bạn muốn hủy bỏ. Chọn ba dot (thao tác khác), sau đó chọn Hủy **bỏ đăng ký**.
-3. Trong ngăn **Hủy bỏ** đăng ký, chọn lý do bạn hủy bỏ. Hoặc bạn có thể cung cấp bất kỳ phản hồi nào.
+3. Trong ngăn **Hủy bỏ** đăng ký, chọn lý do bạn hủy bỏ. Bạn có thể tùy chọn cung cấp bất kỳ phản hồi nào.
 4. Chọn **Lưu**.
 
 Để tìm hiểu thêm về cách hủy bỏ đăng ký hoặc các tùy chọn, hãy xem mục [Hủy bỏ đăng ký của bạn](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).

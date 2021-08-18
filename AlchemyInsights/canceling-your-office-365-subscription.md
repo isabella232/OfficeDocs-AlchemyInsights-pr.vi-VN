@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscription
 - "4"
 - "1400001"
-ms.openlocfilehash: 035c5301ebd06b1d39d0dd7e2f00ce058505c69f05630d7ad27fb5476ab4ef24
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 310d8b5630ad5f520567c357656ded915d6768cd
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57901758"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330194"
 ---
 # <a name="canceling-your-subscription"></a>Bạn đang hủy gói đăng ký của mình?
 
@@ -30,7 +30,6 @@ Chúng tôi rất tiếc khi bạn ngừng sử dụng dịch vụ nhưng nếu 
   
 **Hoàn tiền: Bạn sẽ được trả lại mọi khoản tín dụng theo xếp hạng trong chu kỳ thanh toán tiếp theo.**
 
-> [!NOTE]
-> Nếu bạn không thấy tùy chọn để hủy bỏ, hãy chọn đăng ký để xem trang chi tiết. Trong mục Đăng **ký và cài đặt thanh toán,** chọn Hủy bỏ đăng **ký**.
+**Lưu** ý: Nếu bạn không thấy tùy chọn để hủy bỏ, hãy chọn đăng ký để xem trang chi tiết. Trong mục Đăng **ký và cài đặt thanh toán,** chọn Hủy bỏ đăng **ký**.
 
 Để tìm hiểu thêm, xem mục [Hủy bỏ đăng ký của bạn](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).

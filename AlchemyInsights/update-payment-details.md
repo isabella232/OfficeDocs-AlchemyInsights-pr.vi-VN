@@ -15,24 +15,22 @@ ms.custom:
 - commerce_billing
 - "428"
 - "1500016"
-ms.openlocfilehash: 1e64961a3f5b688d71f1931a2f0cee802007b47c8094b69b325a1d1e123c8dbe
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 3942acf1cc4f62ad4368bbccc9c616deba17601c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57892449"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330690"
 ---
 # <a name="update-credit-card-information"></a>Cập nhật thông tin thẻ tín dụng
 
 1. Trong thanh Trung tâm quản trị Microsoft 365, đi đến trang Phương **thức thanh** \> [toán hóa](https://go.microsoft.com/fwlink/p/?linkid=2018806) đơn.
 
-    > [!NOTE]
-    > Nếu bạn gặp phải vòng lặp đưa bạn quay lại trang chủ Người quản trị trước khi quá trình cập nhật của bạn hoàn tất, hãy thử sử dụng chế độ Inprivate hoặc Incognito.
+    **Lưu** ý: Nếu bạn gặp phải vòng lặp đưa bạn quay lại trang chủ Người quản trị trước khi quá trình cập nhật của bạn hoàn tất, hãy thử chế độ Inprivate hoặc Incognito.
   
 2. Chọn thẻ tín dụng bạn muốn cập nhật.
 
-    > [!NOTE]
-    > Nếu người quản trị khác đã thêm phương thức thanh toán, bạn sẽ không thể cập nhật thông tin thẻ tín dụng hoặc tài khoản ngân hàng cho phương thức thanh toán đó. Nếu thẻ tín dụng sắp hết hạn và người quản trị kia không thể cập nhật thông tin thì bạn có thể ngăn nguy cơ gián đoạn dịch vụ bằng cách thêm một thẻ tín dụng khác hoặc thêm tài khoản ngân hàng mới cho đăng ký bằng cách chọn Thêm phương thức thanh toán **.**
+    **Lưu** ý: Nếu người quản trị khác thêm phương thức thanh toán, bạn sẽ không thể cập nhật thông tin thẻ tín dụng hoặc tài khoản ngân hàng cho phương thức thanh toán đó. Nếu thẻ tín dụng sắp hết hạn và người quản trị kia không thể cập nhật thông tin thì bạn có thể ngăn nguy cơ gián đoạn dịch vụ bằng cách thêm một thẻ tín dụng khác hoặc thêm tài khoản ngân hàng mới cho đăng ký bằng cách chọn Thêm phương thức thanh toán **.**
   
 3. Trong ngăn Chi **tiết phương thức thanh** toán, chọn Chỉnh **sửa**.
 
@@ -42,6 +40,6 @@ ms.locfileid: "57892449"
 
 **Khắc phục sự cố**
 
-Nếu bạn gặp sự cố với việc tải trang, hãy thử mở trang web trong một trình duyệt khác hoặc thử mở trang một cửa sổ trình duyệt riêng tư, như cửa sổ InPrivate trong Microsoft Edge hoặc cửa sổ ẩn danh trong Google Chrome. 
+Nếu bạn gặp sự cố với việc tải trang, hãy thử mở trang web trong một trình duyệt khác hoặc thử mở trang đó một cửa sổ trình duyệt riêng tư, như cửa sổ InPrivate trong Microsoft Edge hoặc cửa sổ ẩn danh trong Google Chrome. 
 
 Để biết thêm thông tin, hãy xem [mục Quản lý phương thức thanh toán](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).

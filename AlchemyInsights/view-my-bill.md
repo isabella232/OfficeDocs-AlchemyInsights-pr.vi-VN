@@ -16,16 +16,16 @@ ms.custom:
 - "437"
 - "1500005"
 ms.assetid: 464d32fd-2487-4885-af0f-d4096b694861
-ms.openlocfilehash: 80b709c3474594858b3bc0e7104fdeb00343bee7cb2a5bdd414b791a1cb49564
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 1cbd1e84557fcba3b5192ed06cd4b1162ba4e4ce
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57900002"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330608"
 ---
 # <a name="view-my-bill-or-invoice"></a>Xem hóa đơn của tôi
 
-1. Trong trang Trung tâm quản trị Microsoft 365, đi đến trang **Hóa đơn** Thanh toán \> [& thanh](https://go.microsoft.com/fwlink/p/?linkid=848039) toán.
+1. Trong trang Trung tâm quản trị Microsoft 365, đi đến  trang Hóa \> [đơn Thanh toán & thanh](https://go.microsoft.com/fwlink/p/?linkid=848039) toán.
 
 2. Chọn phạm vi ngày từ danh sách thả xuống, rồi chọn thứ tự bạn muốn xem.
 

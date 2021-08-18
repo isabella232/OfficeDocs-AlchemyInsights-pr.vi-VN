@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 9104615baa5bf6dc91468912168e42ece6727eadd5330f1eb34e2a9170568b26
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: c5043bcd3d40dccc76b348f436001408e42ee7f9
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57898266"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330082"
 ---
 # <a name="fix-common-problems-with-microsoft-defender-for-office-365"></a>Khắc phục các sự cố phổ biến với Bộ bảo vệ Microsoft dành cho Office 365
 
@@ -25,17 +25,17 @@ Dưới đây là một số giải pháp cho các sự cố phổ biến với 
 
 - **Độ trễ thư:**
 
-  Sự chậm trễ trong việc chuyển phát email có thể là Két sắt đến việc quét tệp đính kèm của thư. Để biết thêm thông tin, hãy [xem Két sắt đặt chính sách Phần đính kèm.](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-attachments#safe-attachments-policy-settings)
+  Sự chậm trễ trong việc chuyển phát email có thể là Két sắt đến việc quét tệp đính kèm của thư. Để biết thêm thông tin, hãy [xem Két sắt chính sách Phần đính kèm.](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-attachments#safe-attachments-policy-settings)
 
 - **Báo cáo kết quả dương hoặc âm báo cáo sai:**
 
   Để biết thêm thông tin, hãy [xem mục Báo cáo thư và tệp cho Microsoft.](https://docs.microsoft.com/microsoft-365/security/office-365-security/report-junk-email-messages-to-microsoft)
 
-- **Bật Bảo Két sắt kết:**
+- **Bật Bảo Két sắt nối kết:**
 
-  1. Trong cổng thông tin Bộ bảo vệ Microsoft 365 , đi đến Chính sách Cộng tác qua Email & các chính sách & mối đe dọa trong quy tắc Két sắt nối kết trong <https://security.microsoft.com/>  \>  \>  \>  **phần Chính** sách.
+  1. Trong cổng thông tin Bộ bảo vệ Microsoft 365 , đi đến Chính sách Cộng tác qua Email & & chính sách Mối đe dọa trong Quy Két sắt Nối kết trong <https://security.microsoft.com/>  \>  \>  \>  **phần Chính** sách.
 
-     Để đi trực tiếp đến trang **Két sắt Kết nối,** hãy sử dụng <https://security.microsoft.com/safelinksv2> .
+     Để đi thẳng tới trang **Liên Két sắt,** hãy sử dụng <https://security.microsoft.com/safelinksv2> .
 
   2. Trên trang **Két sắt Liên kết,** hãy chọn chính sách bằng cách bấm vào tên của chính sách.
   3. Trong phần bật lên chi tiết xuất hiện, hãy thực hiện một trong các bước sau đây:
@@ -45,4 +45,4 @@ Dưới đây là một số giải pháp cho các sự cố phổ biến với 
      - Bật Chọn hành **động cho URL độc hại tiềm ẩn không xác định trong thư.**
      - Chọn Áp **dụng các liên kết an toàn cho các tin nhắn đã gửi trong tổ chức**.
 
-  Để biết thêm thông tin, xem [mục Thiết lập các chính Két sắt liên kết trong Bộ bảo vệ Microsoft cho Office 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-safe-links-policies)
+  Để biết thêm thông tin, xem [mục Thiết lập liên Két sắt chính sách Liên kết trong Bộ bảo vệ Microsoft cho Office 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-safe-links-policies)

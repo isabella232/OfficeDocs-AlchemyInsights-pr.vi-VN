@@ -15,12 +15,12 @@ ms.custom:
 - "9002437"
 - "4741"
 - "4739"
-ms.openlocfilehash: 9571bcdadb5e408bf66c2b9da18296e48eb1de7a484e1524dd1751008eb5fe5a
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: b6232cfed6a26609dc7cec4cb020ed46f087410e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57891921"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58328358"
 ---
 # <a name="subscription-expired"></a>Đăng ký đã hết hạn
 
@@ -29,9 +29,8 @@ Nếu đăng ký của bạn hết hạn hoặc bị Microsoft vô hiệu hóa h
 **Kích hoạt lại đăng ký**
 
 1. Trong trung tâm quản trị, đi đến trang Thanh toán  >  [Sản phẩm của](https://go.microsoft.com/fwlink/p/?linkid=842054) bạn.
-2. Trên tab **Sản** phẩm, tìm đăng ký bạn muốn kích hoạt lại, chọn ba dot (thao tác khác), rồi chọn Kích hoạt lại **đăng ký này.**
-    > [!NOTE]
-    > Nếu bạn không thấy Kích hoạt lại **đăng ký này, hãy liên hệ với** bộ phận hỗ trợ.
+2. Trên tab **Sản** phẩm, tìm đăng ký bạn muốn kích hoạt lại, chọn ba dot (thao tác khác), rồi chọn Kích hoạt lại đăng ký **này**.\
+    **Lưu** ý: Nếu bạn không thấy Kích hoạt lại đăng **ký này, hãy liên hệ với** bộ phận hỗ trợ.
 3. Trong ngăn **Kích hoạt lại đăng ký này,** chọn một phương thức thanh toán từ danh sách thả xuống hoặc chọn Thêm phương thức thanh **toán**.
 4. Chọn **Lưu**.
 

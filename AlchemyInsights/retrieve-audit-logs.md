@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "10964"
 - "3100005"
-ms.openlocfilehash: 6ca61775d18fb5501911fb3334ef499ff1f06a6b42634367eaf546fc322f822c
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: ac2e5eafbb92b234697c22f73cd565af9d7c3508
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57889668"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58329516"
 ---
 # <a name="retrieve-the-audit-logs"></a>Truy xuất nhật ký kiểm tra
 
 Khi bạn mở nhật ký kiểm tra lần đầu, nhật ký kiểm tra sẽ trống. Bạn phải thực hiện tìm kiếm để xem có gì ở đó. Sau đây là cách thực hiện tìm kiếm chung cho tất cả các hoạt động:
 
 1. Thực hiện một trong các bước sau đây:
-   - In the Trung tâm tuân thủ Microsoft 365 at <https://compliance.microsoft.com> , go to Solutions  \> **Audit**. Hoặc để đi trực tiếp đến trang **Kiểm tra,** sử dụng <https://compliance.microsoft.com/auditlogsearch> .
-   - Trong cổng thông Bộ bảo vệ Microsoft 365 tại <https://security.microsoft.com> , đi tới Kiểm **tra**. Hoặc để đi trực tiếp đến trang **Kiểm tra,** sử dụng <https://sip.security.microsoft.com/auditlogsearch> .
+   - Trong thanh công Trung tâm tuân thủ Microsoft 365 , <https://compliance.microsoft.com> đi đến Kiểm tra **Giải** \> **pháp**. Hoặc để đi trực tiếp đến trang **Kiểm tra,** sử dụng <https://compliance.microsoft.com/auditlogsearch> .
+   - In the Bộ bảo vệ Microsoft 365 portal at <https://security.microsoft.com> , go to **Audit**. Hoặc để đi trực tiếp đến trang **Kiểm tra,** sử dụng <https://sip.security.microsoft.com/auditlogsearch> .
 
 2. On the **Audit** page, verify that the **Search** tab is selected and then configure the following settings:
    - **Phạm vi ngày và giờ**: Chọn phạm vi ngày/giờ trong hộp Bắt **đầu** **và Kết** thúc.

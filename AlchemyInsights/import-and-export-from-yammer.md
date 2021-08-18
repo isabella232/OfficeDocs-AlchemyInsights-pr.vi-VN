@@ -13,24 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9735"
 - "9003224"
-ms.openlocfilehash: 3ead2702c2fbd26b2e5596e26e9189c2f97baf93c93ec3cbd57f15c855b5128e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b365921d3ca64e8ad4bd3891e11add8043b2a903
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54001504"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58329848"
 ---
 # <a name="import-and-export-from-yammer"></a>Nhập và xuất từ Yammer
 
 **Nhập**
 
-Tùy chọn nhập người dùng sẽ khác nhau tùy thuộc vào việc mạng Yammer của bạn đang ở Chế độ [Gốc cho Microsoft 365,](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode)hoặc không.
+Các tùy chọn nhập người dùng sẽ khác nhau tùy thuộc vào việc mạng Yammer của bạn đang ở Chế độ [Gốc cho Microsoft 365,](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode)hoặc không.
 
 - **Chế độ Không** phải Dành riêng: Người dùng có thể được nhập vào các nhóm bằng cách [](https://docs.microsoft.com/yammer/manage-yammer-users/add-block-or-remove-users) sử dụng Thêm từ Sổ Địa chỉ [(giới](https://support.microsoft.com/office/manage-yammer-community-members-75253554-d0f3-4148-b835-e6a9a8a0c294) hạn 100 người dùng) trong thiết đặt nhóm hoặc vào mạng bằng cách sử dụng Cập nhật Hàng loạt trong Người quản trị Mạng.
-- **Chế độ Gốc**: Phải thực hiện các thao tác tư cách thành viên nhóm và tư cách thành viên mạng từ cổng thông tin quản trị [Microsoft 365,](https://docs.microsoft.com/microsoft-365/admin/add-users)cổng thông tin [Azure AD](https://docs.microsoft.com/azure/active-directory/fundamentals/add-users-azure-active-directory)hoặc sử dụng một tùy chọn Azure AD khác. Các mạng ở Chế độ Gốc không còn có quyền truy nhập vào Cập nhật Hàng loạt và các tính năng kế thừa khác nữa.
+- **Chế độ Gốc**: Phải thực hiện các thao tác tư cách thành viên nhóm và tư cách thành viên mạng từ cổng thông tin quản trị [Microsoft 365,](https://docs.microsoft.com/microsoft-365/admin/add-users)cổng thông tin [Azure AD](https://docs.microsoft.com/azure/active-directory/fundamentals/add-users-azure-active-directory)hoặc sử dụng một tùy chọn Azure AD khác. Các mạng ở Chế độ Gốc sẽ không còn có quyền truy nhập vào Cập nhật Hàng loạt và các tính năng kế thừa khác nữa.
 
-> [!IMPORTANT]
-> Yammer bao giờ được hỗ trợ nhập nội dung từ bên trong Người quản trị Mạng ngay cả khi tính năng Xuất Dữ liệu đã được sử dụng trong mạng khác. Nội dung có thể được đăng lại bởi các giải pháp đối tác hoặc API REST Yammer lại.
+    **Quan trọng**: Yammer bao giờ được hỗ trợ nhập nội dung từ bên trong Người quản trị Mạng ngay cả khi tính năng Xuất Dữ liệu đã được sử dụng trong mạng khác. Nội dung có thể được đăng lại bởi các giải pháp đối tác hoặc API REST Yammer lại.
 
 **Xuất**
 
