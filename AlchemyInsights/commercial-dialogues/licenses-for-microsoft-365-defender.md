@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: f536fbfe365538f49cee93f77f4a56400658400390535c9d2ae142004b2c2274
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ee0b821f8b02df8066013975e1a9cebf6a0a2dd7
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53968003"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58315708"
 ---
 # <a name="licenses-for-microsoft-365-defender"></a>Giấy phép cho doanh Bộ bảo vệ Microsoft 365
 
-Các giấy phép sau đây cung cấp quyền truy nhập miễn phí vào các Bộ bảo vệ Microsoft 365 năng này trong trung Microsoft 365 quan hệ bảo mật:
+Các giấy phép sau cung cấp quyền truy nhập miễn phí vào các Bộ bảo vệ Microsoft 365 năng này trong trung Microsoft 365 quan hệ bảo mật:
 
 - Microsoft 365 E5 hoặc A5
 - Microsoft 365 E5 Security hoặc Bảo mật A5
@@ -33,8 +33,7 @@ Các giấy phép sau đây cung cấp quyền truy nhập miễn phí vào các
 - Microsoft Cloud App Security
 - Bộ bảo vệ Microsoft dành cho Office 365 (Plan 2)
 
-    > [!NOTE]
-    > Tại thời điểm này, giấy phép dùng thử dành cho Office 365 không cung cấp quyền truy nhập vào Bộ bảo vệ Microsoft 365.
+    **Lưu** ý : Tại thời điểm này, giấy phép dùng thử dành cho Office 365 không cung cấp quyền truy nhập vào Bộ bảo vệ Microsoft 365.
 
 Để biết thêm thông tin, hãy xem [so Microsoft 365 Enterprise kế hoạch mới.](https://go.microsoft.com/fwlink/?linkid=2143458)
 

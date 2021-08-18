@@ -16,12 +16,12 @@ ms.custom:
 - commerce_billing
 - "1200012"
 - "4716"
-ms.openlocfilehash: 2f1f907a23e0f65cf8c230c8cf27b671e681d92565fd83bb5d39ebf3c53ab9fd
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: c145a5366ef173dbf82521e91d5cf032a26e2e7fa09d8e0061ec03887a2a3124
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54504034"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57897438"
 ---
 # <a name="change-billing-address-or-billing-email-notifications"></a>Thay đổi địa chỉ thanh toán hoặc thông báo email gửi hóa đơn
 
@@ -45,4 +45,4 @@ ms.locfileid: "54504034"
 
 4. Trong hộp **Email thay thế,** nhập địa chỉ email thay thế bạn muốn sử dụng, rồi bấm **Lưu.**
 
-Để biết thêm thông tin về các thay đổi về địa chỉ và thông báo, [hãy xem Thay đổi địa chỉ thanh toán Microsoft 365 dành cho doanh nghiệp.](/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses)
+Để biết thêm thông tin về các thay đổi về địa chỉ và thông báo, [hãy xem Thay đổi địa chỉ thanh toán của Microsoft 365 dành cho doanh nghiệp.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses)

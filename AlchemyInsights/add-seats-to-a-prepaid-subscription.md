@@ -15,12 +15,12 @@ ms.custom:
 - "663"
 - "1500007"
 ms.date: 04/21/2020
-ms.openlocfilehash: 2d270fa84f6135ffdb5a42c0838c519ac4963a9873e3d021fcfcebf6c409fac6
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 1f4666a45695450e01efd5356de50a38a4f6c7aa
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53935611"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316070"
 ---
 # <a name="add-seats-to-a-prepaid-subscription"></a>Thêm chỗ vào đăng ký trả trước
 
@@ -31,8 +31,7 @@ Giấy phép trả trước được cấp cho bạn dưới dạng mã chữ v�
 3. Trên trang chi tiết về đăng ký, trong **mục Giấy** phép, chọn Thêm giấy **phép khác.**
 4. Trong ngăn **Thêm giấy phép khác,** chọn **Sử dụng một khóa sản phẩm mới** và chưa sử dụng , sau đó chọn Tiếp **theo**.
 5. Nhập khóa sản phẩm, rồi chọn **Tiếp theo**.
-    > [!NOTE]
-    > Nếu bạn có nhiều khóa sản phẩm, bạn có thể chọn **Thêm khóa sản phẩm khác** để nhập chúng.
+    **Lưu** ý: Nếu bạn có nhiều khóa sản phẩm, bạn có thể chọn **Thêm khóa sản phẩm khác** để nhập chúng.
 6. Xem lại chi tiết đơn hàng của bạn, sau đó **chọn Quy đổi**.
 
 Để tìm hiểu thêm, xem [mục Thêm giấy phép hoặc gia hạn đăng ký được thanh toán bằng khóa sản phẩm.](https://docs.microsoft.com/microsoft-365/commerce/licenses/add-licenses-using-product-key)

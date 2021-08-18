@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003919"
 - "6974"
-ms.openlocfilehash: 2ad8d00d192c1c845aef7a362fa1d9ab91bce152468ff6a1e7bf6ad9250eb5c1
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e576bf74ee9e4035ea765ccc0f5e9173fc08be71
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54005472"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58315642"
 ---
 # <a name="deploy-microsoft-edge-for-mobile-for-iosipados-or-android"></a>Triển Microsoft Edge cho Thiết bị di động cho iOS/iPadOS hoặc Android
 
@@ -28,8 +28,7 @@ Kịch bản có hướng dẫn tóm tắt bên dưới sẽ giúp bạn gán Mi
 - Tích hợp với Azure Active Directory Proxy Ứng dụng
 - Lối tắt trang chủ và mục yêu thích được quản lý
 
-> [!NOTE]
-> Nếu bạn đã chặn không cho người dùng đăng ký thiết bị di động, kịch bản có hướng dẫn này sẽ không hoạt động và người dùng sẽ cần tự cài Microsoft Edge mình.
+**Lưu ý**: Nếu bạn đã chặn người dùng đăng ký thiết bị di động, kịch bản có hướng dẫn này sẽ không hoạt động và người dùng sẽ cần tự cài đặt Microsoft Edge mình.
 
 Để triển khai Microsoft Edge cho Thiết bị di động cho iOS/iPadOS hoặc Android, hãy xem:
 

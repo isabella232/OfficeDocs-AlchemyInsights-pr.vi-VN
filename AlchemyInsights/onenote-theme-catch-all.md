@@ -1,5 +1,5 @@
 ---
-title: Chủ đề OneNote bắt tất cả
+title: OneNote đề để nắm bắt tất cả
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000755"
 - "2695"
-ms.openlocfilehash: cb3e0a729b34e46123fe66f6ef95f376a1a9707c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d72693900cc2bf0824ae119b8d2ba48e7376765a621eb9f31eb0fe053735f0b0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51831540"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54112898"
 ---
-# <a name="common-issues-and-resolutions-with-onenote"></a>Các sự cố thường gặp và độ phân giải với OneNote
+# <a name="common-issues-and-resolutions-with-onenote"></a>Các sự cố và giải pháp phổ biến với OneNote
 
-Dưới đây là một số chủ đề OneNote được yêu cầu thường xuyên:
+Dưới đây là một số chủ đề thường được yêu OneNote sau đây:
 
-- [Khắc phục sự cố đồng bộ](https://support.office.com/article/299495ef-66d1-448f-90c1-b785a6968d45) -để giải quyết các sự cố phổ biến nhất liên quan đến OneNote Sync, vui lòng dùng các bước trong [khắc phục sự cố khi bạn không thể đồng bộ OneNote](https://support.office.com/article/Fix-issues-when-you-can-t-sync-OneNote-299495ef-66d1-448f-90c1-b785a6968d45).
+- [Khắc phục sự cố đồng](https://support.office.com/article/299495ef-66d1-448f-90c1-b785a6968d45) bộ - để giải quyết hầu hết các sự cố phổ biến liên quan đến đồng bộ OneNote, vui lòng sử dụng các bước trong Khắc phục sự cố khi bạn không thể đồng bộ [OneNote.](https://support.office.com/article/Fix-issues-when-you-can-t-sync-OneNote-299495ef-66d1-448f-90c1-b785a6968d45)
 
-- Sử dụng [OneNote trong nhóm](https://support.microsoft.com/office/0ec78cc3-ba3b-4279-a88e-aa40af9865c2) 
+- Sử [dụng OneNote trong Teams](https://support.microsoft.com/office/0ec78cc3-ba3b-4279-a88e-aa40af9865c2) 
 
-- [Sử dụng OneNote Class Notebook trong nhóm](https://support.office.com/article/bd77f11f-27cd-4d41-bfbd-2b11799f1440) trả lời câu hỏi về việc thiết lập sổ ghi chép lớp học trong nhóm.
+- [Sử dụng OneNote Class Notebook trong Teams](https://support.office.com/article/bd77f11f-27cd-4d41-bfbd-2b11799f1440) câu hỏi về việc thiết lập Sổ tay Lớp học Teams.
 
-- [Di chuyển sổ ghi chép vào điện toán đám mây](https://support.office.com/article/d5c28b91-7b9c-45be-8f0c-529bdbba019a).
+- [Di chuyển sổ ghi chép lên đám mây](https://support.office.com/article/d5c28b91-7b9c-45be-8f0c-529bdbba019a).
 
-- [Khắc phục sự cố di chuyển sổ ghi chép vào đám mây](https://support.office.com/article/70528107-11dc-4f3f-b695-b150059dfd78).
+- [Khắc phục sự cố di chuyển sổ ghi chép lên đám mây](https://support.office.com/article/70528107-11dc-4f3f-b695-b150059dfd78).
 
-- [Cài đặt OneNote 2016](https://support.office.com/article/c08068d8-b517-4464-9ff2-132cb9c45c08) -bắt đầu từ tháng ba 2020, khi bạn cài đặt Office 365 hoặc Office 2019, ứng dụng OneNote trên máy tính sẽ được cài đặt cùng với các ứng dụng Word, PowerPoint và Excel trên máy tính.
+- Cài [đặt OneNote 2016](https://support.office.com/article/c08068d8-b517-4464-9ff2-132cb9c45c08) - Bắt đầu từ tháng 3 năm 2020, khi bạn cài đặt Office 365 hoặc Office 2019, ứng dụng OneNote trên máy tính sẽ được cài đặt cùng với các ứng dụng Word, PowerPoint và Excel trên máy tính.
 
-- [Xuất và nhập sổ ghi chép OneNote](https://support.office.com/article/a4b60da5-8f33-464e-b1ba-b95ce540f309).
+- [Xuất và nhập sổ OneNote của bạn.](https://support.office.com/article/a4b60da5-8f33-464e-b1ba-b95ce540f309)

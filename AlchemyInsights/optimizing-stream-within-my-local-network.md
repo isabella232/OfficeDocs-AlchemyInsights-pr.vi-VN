@@ -1,5 +1,5 @@
 ---
-title: Tối ưu hóa dòng trong mạng nội bộ của tôi
+title: Tối ưu hóa Phát trực tuyến trong mạng nội bộ của tôi
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002552"
 - "5145"
-ms.openlocfilehash: 0fa96d48a5bd6e02df8501c2d5758aa31ba2ae28
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 52499bb34d1bda1bfc9e712b2d950f18d16b41f8ef0e721c96b189b07f1cd461
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51790750"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54112862"
 ---
-# <a name="optimizing-stream-within-my-local-network"></a>Tối ưu hóa dòng trong mạng nội bộ của tôi
+# <a name="optimizing-stream-within-my-local-network"></a>Tối ưu hóa Phát trực tuyến trong mạng nội bộ của tôi
 
-Stream thừa hưởng việc mã hóa thông minh và dòng bitrate thích ứng để giảm mạng và lưu lượng truy nhập Internet phát lại video. Tuy nhiên, hãy phát lại là một dòng unicast. Đối với các sự kiện trực tiếp hoặc video được gửi đến các phần lớn của tổ chức của bạn, có thể có một lượng băng thông Internet đáng kể được người xem tiêu thụ. Để biết thêm thông tin, hãy xem:
+Stream tận dụng mã hóa thông minh và khả năng truyền bit thích nghi để giảm lưu lượng phát lại video trên mạng và internet. Tuy nhiên, phát lại là một luồng unicast. Đối với các sự kiện hoặc video trực tiếp được gửi tới một phần lớn trong tổ chức của bạn, có thể có một lượng lớn băng thông internet mà người xem sử dụng. Để biết thêm thông tin, hãy xem:
 
-- [Tối ưu hóa việc chuyển phát video trong mạng nội bộ của tôi](https://docs.microsoft.com/stream/network-overview#optimizing-video-delivery-within-my-local-network)
+- [Tối ưu hóa chuyển phát video trong mạng cục bộ của tôi](https://docs.microsoft.com/stream/network-overview#optimizing-video-delivery-within-my-local-network)
