@@ -1,5 +1,5 @@
 ---
-title: 1245-Import-PST-Services
+title: Nhập dịch vụ trong Trung Office 365 Tâm Bảo & Tuân thủ
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -14,28 +14,23 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 55cccce6f2c8e628bd76278486f4e95a09e020f5
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 2add8264754cadccc7025d5afa3d2e6fdf15140e
+ms.sourcegitcommit: 071ba3a6b6257dddee5e84af44e5bc45dedd78fb
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58312745"
+ms.lasthandoff: 08/20/2021
+ms.locfileid: "58418171"
 ---
-# <a name="microsoft-365-import-service"></a>Microsoft 365 Nhập dịch vụ
+# <a name="import-service-in-the-office-365-security--compliance-center"></a>Nhập dịch vụ trong Trung Office 365 Tâm Bảo & Tuân thủ
 
-Để truy nhập vào dịch vụ Nhập và bắt đầu quá trình nhập:
+Office 365 Dịch vụ nhập cho phép bạn nhập nhiều tệp PST vào hộp thư Exchange Online người dùng. Sử dụng dịch vụ Nhập để nhập hàng loạt tệp PST vào tổ chức của bạn bằng cách sử dụng tùy chọn Tải **lên mạng** hoặc Vận **chuyển ổ** đĩa.
 
-1. Đi tới Trung tâm [Tuân thủ M365](https://compliance.microsoft.com/), rồi đăng nhập bằng thông tin xác thực cho tài khoản người quản trị trong tổ chức của bạn.
+Để truy nhập dịch vụ Nhập và các công cụ để nhập nhiều tệp PST:
 
-1. Trong ngăn bên trái của Trung tâm Tuân thủ M365 bên dưới **Giải pháp,** chọn **Nhập Quản trị Thông**  >  **tin**.
+1. Đi tới Office 365 [bảo mật & tuân thủ](https://protection.office.com), rồi đăng nhập bằng tài khoản Office 365 bạn.
+1. Chọn **Quản trị Dữ liệu**, chọn **Nhập**, và làm theo các bước trong trình hướng dẫn. 
 
-1. Trên trang **Nhập,** chọn **Công việc nhập mới**. Nhập tên công việc, rồi chọn **Tiếp theo**.
+Để biết thêm thông tin và hướng dẫn từng bước để nhập nhiều tệp PST, hãy xem Tổng quan về nhập tệp [PST của tổ chức bạn.](https://docs.microsoft.com/office365/securitycompliance/importing-pst-files-to-office-365)
 
-1. Chọn Tải lên **liệu của bạn** để sử dụng tùy chọn tải lên mạng cho Nhập Loại Công **việc**. Để biết các bước chi tiết, [hãy xem Sử dụng phương pháp tải lên mạng để nhập tệp PST của tổ chức bạn vào Microsoft 365.](https://docs.microsoft.com/compliance/use-network-upload-to-import-pst-files)
-
-Để truy nhập **trang Nhập,** hãy đảm bảo bạn đã được gán các quyền thích hợp. Để biết thêm thông tin, hãy [xem mục Sử dụng phương pháp tải lên mạng để nhập tệp PST.](https://docs.microsoft.com/microsoft-365/compliance/importing-pst-files-to-office-365#using-network-upload-to-import-pst-files)
-
-Nếu bạn muốn nhập PST vào hộp thư của mình, hãy xem mục Nhập email, danh bạ và lịch [từ tệp Outlook .pst.](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac)
-
-Nếu bạn đang gặp vấn đề với việc nhập, hãy xem Các vấn đề ảnh [hưởng đến công việc nhập PST.](https://docs.microsoft.com/office365/troubleshoot/pst-import-service/issues-with-pst-import-job)
+Để nhập một tệp PST duy nhất, hãy [xem mục Nhập và xuất Outlook email, danh bạ và lịch.](https://support.office.com/article/92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=Mac)
 
