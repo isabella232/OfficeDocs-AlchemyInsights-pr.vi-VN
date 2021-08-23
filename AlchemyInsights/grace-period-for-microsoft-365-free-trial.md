@@ -1,8 +1,9 @@
 ---
 title: Thời kỳ gia hạn của bản Microsoft 365 dùng thử miễn phí
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,14 +11,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_purchase
 - "1400006"
 - "5479"
-ms.openlocfilehash: d10fc7cb850811628b7440778edf874e7544f2e64c08ec8171ab99642ab0fa6f
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 3d95410f98b10ba2fa11c1f2d35e6bbc939df3d9
+ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53964025"
+ms.lasthandoff: 08/21/2021
+ms.locfileid: "58452304"
 ---
 # <a name="grace-period-for-microsoft-365-free-trial"></a>Thời kỳ gia hạn của bản Microsoft 365 dùng thử miễn phí
 
@@ -25,4 +27,4 @@ Sau bản dùng thử miễn phí 30 ngày, tài khoản của bạn sẽ chuy�
 
 Bạn có thể chọn [gia hạn bản dùng](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial) thử của mình thêm 30 ngày nếu bạn chưa gia hạn.
 
-Nếu bạn là khách hàng cấp phép **số lượng lớn,** vui lòng sử dụng Trung tâm Dịch vụ Cấp phép Số lượng lớn của [Microsoft](https://support.microsoft.com/help/4471406/how-to-contact-the-microsoft-volume-licensing-service-center) để biết thêm câu hỏi về thời kỳ gia hạn dùng thử.
+Nếu bạn là khách hàng Cấp phép **Số lượng lớn,** vui lòng sử dụng Trung tâm Dịch vụ Cấp phép Số lớn của [Microsoft](https://support.microsoft.com/help/4471406/how-to-contact-the-microsoft-volume-licensing-service-center) để biết thêm câu hỏi về thời kỳ gia hạn dùng thử.

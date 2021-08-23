@@ -3,7 +3,7 @@ title: Microsoft 365 E3 hỏi thường gặp về đăng ký
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: sctov
-ms.reviewer: ?, ?
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,20 +14,20 @@ ms.custom:
 - commerce_subscriptions
 - "9002554"
 - "5392"
-ms.openlocfilehash: bb57d0c13d47dbe54ecd620e3100a5254290649978d1102267cac04414337b59
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a7788812f206c5836dfa46fa40c82a4a23b323ba
+ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54114338"
+ms.lasthandoff: 08/21/2021
+ms.locfileid: "58452088"
 ---
-# <a name="microsoft-365-e3-subscription-and-license-management-faq"></a>Microsoft 365 E3 hỏi thường gặp về đăng ký và quản lý giấy phép
+# <a name="microsoft-365-e3-subscription-and-license-management-faq"></a>Microsoft 365 E3 hỏi thường gặp về quản lý đăng ký và giấy phép
 
 - Để so sánh Microsoft 365 E1, E3, E5, hãy xem [So sánh các Office 365 Enterprise Kế hoạch.](https://www.microsoft.com/microsoft-365/business/compare-more-office-365-for-business-plans)
 - Để **mua** E3, đi tới Thanh **toán > Mua dịch [vụ](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Sử dụng hộp Tìm kiếm để tìm kiếm trên "E3"; chọn gói và số lượng người dùng. [Mua gói đăng ký khác](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription).
 - Để **thay đổi các gói,** hãy xem mục Nâng cấp lên gói [khác](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
-- Để **gán** giấy phép E3 cho người dùng, hãy đi **tới Thanh toán > [phép](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Để biết thêm thông tin, hãy [xem mục Gán giấy phép cho người dùng.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
-- Để **mua hoặc loại bỏ giấy** phép E3, hãy đi đến thanh toán > Sản phẩm của **[bạn](https://go.microsoft.com/fwlink/p/?linkid=842054)**. Để biết thêm thông tin, [hãy xem Mua hoặc loại bỏ giấy phép](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
+- Để **gán** giấy phép E3 cho người dùng, hãy đi **tới Thanh toán > [phép.](https://go.microsoft.com/fwlink/p/?linkid=842264)** Để biết thêm thông tin, hãy [xem mục Gán giấy phép cho người dùng.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
+- Để **mua hoặc loại bỏ giấy** phép E3, hãy đi đến thanh toán bằng > sản phẩm của **[bạn](https://go.microsoft.com/fwlink/p/?linkid=842054)**. Để biết thêm thông tin, [hãy xem Mua hoặc loại bỏ giấy phép](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
 - Để **hủy** bỏ đăng ký E3, đi tới Thanh toán  **>Sản phẩm của bạn [](https://go.microsoft.com/fwlink/p/?linkid=842054)**, chọn đăng ký, rồi trong mục Cài đặt đăng ký và thanh toán, chọn Hủy bỏ đăng **ký**. Để biết thêm thông tin, hãy xem mục [Hủy bỏ đăng ký của bạn](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 - Để kích **hoạt** đăng ký E3, xem mục [Kích hoạt đăng ký của bạn](https://docs.microsoft.com/alchemyinsights/activate-your-office-365-subscription).
 - Để **kích hoạt lại thuê** bao E3, hãy xem Kích hoạt lại thuê bao của [bạn](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription).
