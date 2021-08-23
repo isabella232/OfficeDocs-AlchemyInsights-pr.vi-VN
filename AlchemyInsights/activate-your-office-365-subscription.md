@@ -3,6 +3,7 @@ title: Kích hoạt đăng ký Microsoft 365 bạn
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,14 +11,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "1500028"
 - "4744"
-ms.openlocfilehash: 0f1b451c69667db3a581e84b84864458e179b2c8
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/10/2020
+ms.openlocfilehash: 3af46c4eabe70cb70f92310c9d192f5cb91670d0
+ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58314298"
+ms.lasthandoff: 08/21/2021
+ms.locfileid: "58450945"
 ---
 # <a name="activate-your-subscription"></a>Kích hoạt đăng ký của bạn
 
@@ -25,7 +28,7 @@ ms.locfileid: "58314298"
 
 - Để cấp cho người dùng quyền truy nhập vào dịch vụ, hãy gán cho họ giấy phép. Để tìm hiểu cách thực hiện, [hãy xem mục Gán giấy phép cho người dùng.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
 - Nếu bạn đã có giấy phép được gán, bạn có thể tìm thấy các ứng dụng mà bạn có thể tải xuống từ trang [Tài khoản của Tôi.](https://portal.office.com/account/#installs) Trang này cung cấp danh sách các ứng dụng có sẵn để bạn tải xuống dựa trên giấy phép đã được gán.
-- Nếu bạn đã tải xuống các ứng Office của mình, bạn có thể cần đăng nhập vào các ứng dụng bằng tài khoản cơ quan hoặc trường học của mình. Bạn có thể thực hiện điều đó trong ứng dụng Office kỳ (Word, Excel, v.v.) bằng cách chọn Tệp **> khoản** (gần dưới cùng). Bên dưới Thông tin Người dùng, chọn **Chuyển đổi Tài khoản**. Để biết thêm thông tin, hãy [đọc cài đặt Office dụng.](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications)
+- Nếu bạn đã tải xuống các ứng Office của mình, bạn có thể cần đăng nhập vào các ứng dụng bằng tài khoản cơ quan hoặc trường học của mình. Bạn có thể thực hiện điều đó trong ứng dụng Office kỳ (Word, Excel, v.v.) bằng cách chọn Tệp **>** khoản (gần dưới cùng). Bên dưới Thông tin Người dùng, chọn **Chuyển đổi Tài khoản**. Để biết thêm thông tin, hãy [đọc Cài đặt Office dụng.](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications)
 
 **Kích hoạt lại đăng ký**
 
@@ -40,5 +43,5 @@ Nếu đăng ký của bạn hết hạn hoặc bị Microsoft vô hiệu hóa h
 
 **Kích hoạt đăng ký mới bằng khóa sản phẩm**
 
-- Để kích hoạt đăng ký Microsoft 365 mới bằng khóa sản phẩm của bạn, hãy xem mục Nơi nhập [khóa sản phẩm Office của bạn.](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db)
+- Để kích hoạt đăng ký Microsoft 365 mới bằng khóa sản phẩm, hãy xem mục Nơi nhập [khóa sản phẩm Office của bạn.](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db)
 - Nhập khóa sản Microsoft 365 và làm theo lời nhắc để kích hoạt đăng ký của bạn. Nếu bạn gặp phải sự cố với việc kích hoạt, hãy xem qua danh sách các lỗi thường [gặp về khóa sản phẩm và giải pháp này.](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions)
