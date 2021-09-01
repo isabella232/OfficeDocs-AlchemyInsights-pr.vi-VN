@@ -3,7 +3,6 @@ title: Câu hỏi thường gặp về thanh toán
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -14,18 +13,19 @@ ms.custom:
 - commerce_billing
 - "9001669"
 - "5128"
-ms.openlocfilehash: 62f97141af5be683ab2727add01364aa44c5193e493a681f32acd208f7197825
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.date: 08/10/2021
+ms.openlocfilehash: d14fcc47898e068e505e30a18195ce812e0f3a3c
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57895729"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58841923"
 ---
 # <a name="payment-faq"></a>Câu hỏi thường gặp về thanh toán
 
 Quản lý các khoản thanh toán **trong Trung tâm quản trị Microsoft 365.**
 
-- Đi tới Thanh **toán > Sản phẩm của bạn [để](https://go.microsoft.com/fwlink/p/?linkid=842054)** gán hoặc thay đổi phương thức thanh toán của gói đăng ký.
+- Đi tới Thanh **toán > sản phẩm của bạn để [gán](https://go.microsoft.com/fwlink/p/?linkid=842054)** hoặc thay đổi phương thức thanh toán của gói đăng ký.
 - Đi tới Thanh **toán > phương thức thanh toán [để](https://go.microsoft.com/fwlink/p/?linkid=2018806)** thêm, cập nhật, thay thế hoặc xóa các phương thức thanh toán.
 
 - **Phương thức Thanh** toán - Nếu thanh toán bằng thẻ tín dụng hoặc tài khoản ngân hàng, phương thức thanh toán liên kết với (các) đăng ký của bạn sẽ được tính phí trong vòng vài ngày sau khi hóa đơn được tạo. Nếu thanh toán không thành công, hãy cập nhật phương thức thanh toán của bạn. Để biết thêm thông tin, hãy xem [mục Quản lý phương thức thanh toán](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).

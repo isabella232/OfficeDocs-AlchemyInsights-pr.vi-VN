@@ -3,7 +3,6 @@ title: Quản lý giấy phép ứng dụng
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: micurn, nicholak
 ms.audience: Admin
 ms.topic: article
@@ -15,12 +14,13 @@ ms.custom:
 - commerce_licensing
 - "1500008"
 - "2443"
-ms.openlocfilehash: 7695d0f4bbea4f81146135b800fd2525decb625f
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/05/2021
+ms.openlocfilehash: 5a698efab669df54a81e618ffb782349d8f62fd3
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58326201"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58836788"
 ---
 # <a name="manage-app-licenses"></a>Quản lý giấy phép ứng dụng
 
@@ -38,4 +38,4 @@ ms.locfileid: "58326201"
 
 1. Đi tới trang Thanh **toán Sản**  >  **[phẩm của](https://go.microsoft.com/fwlink/p/?linkid=842054)** bạn.
 2. Trên tab **Sản** phẩm, trong mục **Ứng dụng,** tìm và chọn ứng dụng bạn muốn quản lý.
-3. Bên **Cài đặt & hành động,** chọn liên kết đến **Quản lý trong cổng thông tin của publisher**.
+3. Bên **Cài đặt & hành động,** chọn liên kết đến **Quản lý trong cổng thông tin của publisher.**

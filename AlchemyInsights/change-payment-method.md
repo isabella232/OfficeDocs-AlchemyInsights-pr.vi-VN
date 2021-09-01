@@ -3,7 +3,6 @@ title: Thay đổi phương thức thanh toán
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: jamitche, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -15,19 +14,20 @@ ms.custom:
 - "1500001"
 - "277"
 - "4852"
-ms.openlocfilehash: f31352aa920720edb4d8091e01c8a8cddcb602fc
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/11/2021
+ms.openlocfilehash: 924c3afce5ceda57175de1f638a2a4012b2ba96b
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58324058"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58836847"
 ---
 # <a name="change-payment-method"></a>Thay đổi phương thức thanh toán
 
 Bạn có thể thay đổi phương thức thanh toán từ **Trung tâm quản trị Microsoft 365.**
   
-1. Trong trung tâm quản trị, đi tới trang **Hóa đơn thanh** toán & Phương thức  >  **thanh** toán  >  [của](https://go.microsoft.com/fwlink/p/?linkid=2018806) thanh toán.
-2. Chọn hàng của phương thức thanh toán cần thay thế. Ngăn bên phải liệt kê tất cả các hồ sơ thanh toán và các đăng ký riêng lẻ sử dụng phương thức thanh toán được chọn.
+1. Trong trung tâm quản trị, đi đến trang **Hóa đơn thanh** toán và & phương thức  >  **thanh**  >  [toán.](https://go.microsoft.com/fwlink/p/?linkid=2018806)
+2. Chọn hàng của phương thức thanh toán cần thay thế. Ngăn bên phải liệt kê tất cả các hồ sơ thanh toán và các đăng ký riêng lẻ sử dụng phương thức thanh toán đã chọn.
 3. Trong ngăn bên phải, chọn Thay thế **phương thức thanh toán cho tất cả các mặt hàng**.
 4. Để sử dụng phương thức thanh toán hiện có, hãy chọn một phương thức từ danh sách thả xuống, rồi chọn Thay **thế**.
     **Lưu** ý : Nếu bạn có các đăng ký liên kết với hồ sơ thanh toán, bạn chỉ có thể sử dụng thẻ tín dụng hoặc thẻ ghi nợ để thanh toán. Nếu bạn có tài khoản ngân hàng được **liệt kê trên** trang Phương thức thanh toán, chúng không có sẵn để chọn trong danh sách thả xuống.
