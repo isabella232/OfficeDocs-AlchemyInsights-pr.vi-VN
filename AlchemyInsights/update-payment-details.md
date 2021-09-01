@@ -3,7 +3,6 @@ title: Cập nhật thông tin thẻ tín dụng
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: jamitche, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -15,16 +14,17 @@ ms.custom:
 - commerce_billing
 - "428"
 - "1500016"
-ms.openlocfilehash: 3942acf1cc4f62ad4368bbccc9c616deba17601c
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/11/2021
+ms.openlocfilehash: 69cb08380caf1227ce218d9eb26d7a485609ff01
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58330690"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58844300"
 ---
 # <a name="update-credit-card-information"></a>Cập nhật thông tin thẻ tín dụng
 
-1. Trong thanh Trung tâm quản trị Microsoft 365, đi đến trang Phương **thức thanh** \> [toán hóa](https://go.microsoft.com/fwlink/p/?linkid=2018806) đơn.
+1. Trong thanh Trung tâm quản trị Microsoft 365, hãy đi đến trang Phương **thức** \> [thanh toán thanh](https://go.microsoft.com/fwlink/p/?linkid=2018806) toán.
 
     **Lưu** ý: Nếu bạn gặp phải vòng lặp đưa bạn quay lại trang chủ Người quản trị trước khi quá trình cập nhật của bạn hoàn tất, hãy thử chế độ Inprivate hoặc Incognito.
   
@@ -40,6 +40,6 @@ ms.locfileid: "58330690"
 
 **Khắc phục sự cố**
 
-Nếu bạn gặp sự cố với việc tải trang, hãy thử mở trang web trong một trình duyệt khác hoặc thử mở trang đó một cửa sổ trình duyệt riêng tư, như cửa sổ InPrivate trong Microsoft Edge hoặc cửa sổ ẩn danh trong Google Chrome. 
+Nếu bạn gặp sự cố với việc tải trang, hãy thử mở trang web trong một trình duyệt khác hoặc thử mở trang một cửa sổ trình duyệt riêng tư, như cửa sổ InPrivate trong Microsoft Edge hoặc cửa sổ ẩn danh trong Google Chrome. 
 
 Để biết thêm thông tin, hãy xem [mục Quản lý phương thức thanh toán](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).

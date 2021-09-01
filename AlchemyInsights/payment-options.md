@@ -3,7 +3,6 @@ title: Tùy chọn thanh toán
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: jkinma, jmueller
 ms.audience: ITPro
 ms.topic: article
@@ -14,16 +13,17 @@ ms.custom:
 - commerce_billing
 - "1639"
 - "9000134"
-ms.openlocfilehash: ee601c667a0d2aefb8ced7444fd5e2319924dc13
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/10/2021
+ms.openlocfilehash: 5ba7e3ea21fa85e8674782d43e802a137126fc4a
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58324420"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58844732"
 ---
 # <a name="payment-options-for-microsoft-365-for-business-subscriptions"></a>Tùy chọn thanh toán cho Microsoft 365 ký dành cho doanh nghiệp
   
-Thẻ tín dụng, thẻ ghi nợ, tài khoản ngân hàng (ghi nợ trực tiếp) và hóa đơn (thanh toán bằng séc hoặc chuyển tiền điện tử (EFT)) đều là các tùy chọn thanh toán cho đăng ký Microsoft 365 cho doanh nghiệp.
+Thẻ tín dụng, thẻ ghi nợ, tài khoản ngân hàng (ghi nợ trực tiếp) và hóa đơn (thanh toán bằng séc hoặc chuyển tiền điện tử (EFT)) đều là các tùy chọn thanh toán cho các đăng ký Microsoft 365 cho doanh nghiệp.
   
 **Thanh toán bằng thẻ tín dụng hoặc thẻ ghi nợ hoặc tài khoản ngân hàng**
   
@@ -39,4 +39,4 @@ Nếu bạn thanh toán bằng hóa đơn cho đăng ký của mình, bạn sẽ
   
 **Thông tin bổ sung**
   
-[Cách thanh toán cho đăng ký Microsoft 365 dành cho doanh nghiệp](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)
+[Cách thanh toán cho đăng ký Microsoft 365 cho doanh nghiệp](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)

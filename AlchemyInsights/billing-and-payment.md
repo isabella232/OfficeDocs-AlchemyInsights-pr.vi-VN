@@ -3,7 +3,6 @@ title: Lập hóa đơn và thanh toán
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -15,12 +14,13 @@ ms.custom:
 - commerce_billing
 - "9001669"
 - "3752"
-ms.openlocfilehash: fe8ceed52f43f41cbddd9e04bf188f557f023ccb
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/11/2021
+ms.openlocfilehash: 7e6b8773af419756fa693094dd68cd2838452ae1
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58314938"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58844984"
 ---
 # <a name="billing-and-payment"></a>Lập hóa đơn và thanh toán
 
@@ -38,7 +38,7 @@ Nếu thanh toán bằng thẻ tín dụng hoặc tài khoản ngân hàng, phư
 
 Nếu bạn đã thêm một thẻ mới và vẫn nhận được thông báo từ chối trên thẻ tín dụng cũ, bạn có thể cần liên kết thẻ mới đó với đăng ký.
 
-1. Trong trung tâm quản trị, đi tới trang **Hóa đơn thanh** toán & phương thức  >  **thanh** toán  >  [của](https://go.microsoft.com/fwlink/p/?linkid=2018806) thanh toán.
+1. Trong trung tâm quản trị, đi tới trang Hóa **đơn thanh** toán &  >  **Phương thức** thanh  >  [toán.](https://go.microsoft.com/fwlink/p/?linkid=2018806)
 
 2. Chọn hàng của phương thức thanh toán cần thay thế. Ngăn bên phải liệt kê tất cả các hồ sơ thanh toán và các đăng ký riêng lẻ sử dụng phương thức thanh toán được chọn.
 

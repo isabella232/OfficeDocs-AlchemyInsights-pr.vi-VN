@@ -13,16 +13,17 @@ ms.custom:
 - commerce_subscriptions
 - "9001669"
 - "3736"
-ms.openlocfilehash: 67201f14f6ec304507be0b1c3509aa54047244da
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/11/2021
+ms.openlocfilehash: ce5a0f6edb9adee35b43a71aac1f9e9e85d9bc99
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58314514"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58844192"
 ---
 # <a name="your-products"></a>Sản phẩm của bạn
 
-Bạn có thể tìm thấy các đăng ký thuộc sở hữu của tổ chức của bạn trên trang Thanh  >  [toán Sản phẩm của](https://go.microsoft.com/fwlink/p/?linkid=842054) bạn. Dưới đây là một số điểm nổi bật của trang này cùng với các liên kết để biết thêm thông tin về từng tính năng:
+Bạn có thể tìm thấy các đăng ký thuộc sở hữu của tổ chức của bạn trên trang Thanh  >  [toán sản phẩm của](https://go.microsoft.com/fwlink/p/?linkid=842054) bạn. Dưới đây là một số điểm nổi bật của trang này cùng với các liên kết để biết thêm thông tin về từng tính năng:
 
 1. Xem số lượng giấy phép đã được gán và số lượng giấy phép đã được mua cho mỗi đăng ký.
     **Lưu** ý: Bạn vẫn bị tính phí đối với các giấy phép không sử dụng (chưa được gán cho người dùng). Để không bị tính phí cho giấy phép không sử dụng, hãy giảm số lượng giấy phép đã mua. Để biết thông tin về cách thêm hoặc loại bỏ giấy phép khỏi một đăng ký, hãy [xem Làm thế nào để thêm hoặc giảm giấy phép](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses).
