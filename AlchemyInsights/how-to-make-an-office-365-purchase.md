@@ -1,9 +1,8 @@
 ---
-title: Cách mua hàng Microsoft 365 hàng
+title: Cách mua Microsoft 365 hàng
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: drjones, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -15,14 +14,15 @@ ms.custom:
 - commerce_purchase
 - "531"
 - "1400007"
-ms.openlocfilehash: 3eb518dbdd71985fe06044925dd52bfbca98defc
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/10/2021
+ms.openlocfilehash: 61070576e6961a40f275dbb76493d8dc93192bb7
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58318584"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58842428"
 ---
-# <a name="how-to-make-a-microsoft-365-purchase"></a>Cách mua hàng Microsoft 365 hàng
+# <a name="how-to-make-a-microsoft-365-purchase"></a>Cách mua Microsoft 365 hàng
 
 Bạn có thể mua đăng Microsoft 365 ký trong trung tâm quản trị.
   
@@ -34,7 +34,7 @@ Bạn có thể mua đăng Microsoft 365 ký trong trung tâm quản trị.
 
 **Khắc phục sự cố**
 
-Nếu bạn gặp sự cố với việc tải trang, hãy thử mở trang web trong một trình duyệt khác hoặc thử mở trang đó một cửa sổ trình duyệt riêng tư, như cửa sổ InPrivate trong Microsoft Edge hoặc cửa sổ ẩn danh trong Google Chrome.
+Nếu bạn gặp sự cố với việc tải trang, hãy thử mở trang web trong một trình duyệt khác hoặc thử mở trang một cửa sổ trình duyệt riêng tư, như cửa sổ InPrivate trong Microsoft Edge hoặc cửa sổ ẩn danh trong Google Chrome.
 
 **Các tài nguyên Bổ sung**
   

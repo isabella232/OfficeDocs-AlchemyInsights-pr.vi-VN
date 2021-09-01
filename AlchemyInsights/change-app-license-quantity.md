@@ -3,7 +3,6 @@ title: Thay đổi số lượng giấy phép ứng dụng
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: micurn, nicholak
 ms.audience: Admin
 ms.topic: article
@@ -15,12 +14,13 @@ ms.custom:
 - commerce_licensing
 - "9000568"
 - "2425"
-ms.openlocfilehash: 3e6ab7cdc92294a5902bd98c8c39cd3187b0aace
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/05/2021
+ms.openlocfilehash: 4f9a5a172e6b126e9d0e1ead9838c2bd6aa20838
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58321439"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58845992"
 ---
 # <a name="change-app-license-quantity"></a>Thay đổi số lượng giấy phép ứng dụng
 
@@ -40,4 +40,4 @@ Bạn có thể xem hoặc thay đổi số lượng giấy phép mình có và 
 
 1. Đi tới trang Thanh **toán Sản**  >  **[phẩm của](https://go.microsoft.com/fwlink/p/?linkid=842054)** bạn.
 2. Trên tab **Sản** phẩm, trong mục **Ứng** dụng, hãy tìm ứng dụng mà bạn muốn quản lý.
-3. Bên **Cài đặt & hành động,** chọn liên kết đến **Quản lý trong cổng thông tin của publisher**.
+3. Bên **dưới Cài đặt & hành động,** hãy chọn nối kết đến Quản lý trong cổng thông tin của **publisher.**

@@ -14,12 +14,13 @@ ms.custom:
 - commerce_subscriptions
 - "9002608"
 - "7594"
-ms.openlocfilehash: a1aaea58fb28ec6c25343a46047086e87fddf9f8
-ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
+ms.date: 04/14/2021
+ms.openlocfilehash: 7c534709b959d36abc15dc845bca55d3a41e0b1e
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/21/2021
-ms.locfileid: "58450828"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58845632"
 ---
 # <a name="switch-to-a-different-plan"></a>Chuyển sang gói khác
 
@@ -31,4 +32,4 @@ Có thể hoàn tất chuyển đổi gói trong Trung Quản trị Microsoft 36
 
 - Trong một số trường [hợp, nút Chuyển đổi](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan#use-the-switch-plans-button) Gói sẵn dùng để hướng dẫn bạn thực hiện quy trình chuyển gói.
 
-Để biết thêm thông tin, hãy xem mục Chuyển sang gói [Microsoft 365 khác dành cho doanh nghiệp](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan).
+Để biết thêm thông tin, hãy xem mục Chuyển sang gói [Microsoft 365 cho doanh nghiệp](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan).

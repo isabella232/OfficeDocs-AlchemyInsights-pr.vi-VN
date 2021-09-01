@@ -1,9 +1,8 @@
 ---
-title: Gán Giấy phép của Bộ bảo Office 365 Microsoft
+title: Gán Giấy phép Của Bộ bảo Office 365 Microsoft
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: argani, nicholak
 ms.audience: Admin
 ms.topic: article
@@ -15,14 +14,15 @@ ms.custom:
 - commerce_licensing
 - "9003019"
 - "5778"
-ms.openlocfilehash: dd2771143980b7a9652bf2323b08e5c8019fc1b1
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/10/2021
+ms.openlocfilehash: 39f8e86e9b7c766ca4a901717c00a472e73288a3
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58328124"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58845200"
 ---
-# <a name="assign-microsoft-defender-for-office-365-licenses"></a>Gán Giấy phép của Bộ bảo Office 365 Microsoft
+# <a name="assign-microsoft-defender-for-office-365-licenses"></a>Gán Giấy phép Của Bộ bảo Office 365 Microsoft
 
 Bạn có thể gán Bộ bảo Office 365 Microsoft cho người dùng trong Trung Quản trị Microsoft 365 Khác.
 

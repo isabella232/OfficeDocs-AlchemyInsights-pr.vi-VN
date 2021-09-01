@@ -3,7 +3,6 @@ title: Thông tin hóa đơn và thanh toán
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -16,12 +15,13 @@ ms.custom:
 - commerce_billing
 - "485"
 - "1500018"
-ms.openlocfilehash: 8790752b10012d891b6b23078986ef589cf4d650
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/10/2021
+ms.openlocfilehash: b28778c821b4440636a3edea450920306ee9f6a0
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58321985"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58845344"
 ---
 # <a name="invoice-and-payment-information"></a>Thông tin hóa đơn và thanh toán
 
@@ -37,4 +37,4 @@ Bạn có thể tìm và tải xuống hóa đơn trên **trang Hóa** đơn tha
 
 Hóa đơn được tạo hàng tháng hoặc hàng năm tùy theo tần suất thanh toán đã chọn trong khi mua.  Nếu thanh toán hàng năm, bạn có thể nhận được một hóa đơn giữa kỳ khi thêm hoặc loại bỏ giấy phép trên một thuê bao.
 
-- Để biết thêm thông tin, hãy [xem mục Hiểu rõ hóa đơn cho doanh Microsoft 365 dành cho doanh nghiệp.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)
+- Để biết thêm thông tin, hãy [xem mục Hiểu rõ hóa đơn cho doanh Microsoft 365 doanh nghiệp](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).
