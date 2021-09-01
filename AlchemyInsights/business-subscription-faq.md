@@ -22,12 +22,13 @@ ms.custom:
 - "5169"
 - "9002661"
 - "5161"
-ms.openlocfilehash: 4f059459ea1c0867ae972f154f082b183040f4040a81e7cb42cf00e493bfcf6b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.date: 07/31/2021
+ms.openlocfilehash: 7a97f2fba9f033ecca4a0fcd62361facc9c3c9f8
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54072146"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58843184"
 ---
 # <a name="business-subscription-faq"></a>Câu hỏi thường gặp về đăng ký doanh nghiệp
 
@@ -35,7 +36,7 @@ ms.locfileid: "54072146"
 - Để **mua gói,** hãy đi tới Thanh **toán > Mua dịch [vụ](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Chọn gói và số lượng người dùng. Để biết thêm thông tin, hãy [xem Mua một đăng ký khác](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription).
 - Để **thay đổi các gói,** hãy xem mục Nâng cấp lên gói [khác](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
 - Để **gán giấy** phép cho người dùng, hãy đi tới Thanh toán > **[phép](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Để biết thêm thông tin, hãy [xem mục Gán giấy phép cho người dùng.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
-- Để mua **hoặc loại bỏ giấy** phép, hãy đi tới Thanh toán > sản phẩm của **[bạn](https://go.microsoft.com/fwlink/p/?linkid=842054)**. Để biết thêm thông tin, [hãy xem Mua hoặc loại bỏ giấy phép](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
+- Để **mua hoặc loại bỏ giấy** phép, hãy đi tới Thanh toán > sản phẩm của **[bạn](https://go.microsoft.com/fwlink/p/?linkid=842054)**. Để biết thêm thông tin, [hãy xem Mua hoặc loại bỏ giấy phép](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
 - Để **hủy** bỏ đăng ký, đi tới Thanh toán > Sản phẩm của bạn , chọn đăng ký, rồi trong mục Cài đặt đăng ký và **thanh** toán, chọn **Hủy bỏ đăng ký**. **[](https://go.microsoft.com/fwlink/p/?linkid=842054)** Để biết thêm thông tin, hãy xem mục [Hủy bỏ đăng ký của bạn](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 - Để kích **hoạt** đăng ký, xem mục [Kích hoạt đăng ký của bạn](https://docs.microsoft.com/alchemyinsights/activate-your-office-365-subscription).
 - Để **kích hoạt lại đăng** ký, hãy xem Kích hoạt lại đăng ký của [bạn](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription).

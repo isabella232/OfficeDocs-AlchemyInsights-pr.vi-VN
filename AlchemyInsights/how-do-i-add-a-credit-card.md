@@ -3,7 +3,6 @@ title: Làm thế nào để thêm thẻ tín dụng?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
 ms.reviewer: jamitche, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -15,17 +14,18 @@ ms.custom:
 - commerce_billing
 - "432"
 - "1500001"
+ms.date: 04/21/2020
 ms.assetid: fbce8401-1a2c-4372-af0b-d855c1cd5f31
-ms.openlocfilehash: 6af7a3ac9554e48b83e2582f3724577273104a5b8b7fefdc41b15977ec0e1abb
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: cb89856a33d9ae30b6799132f1b769493df88633
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57896581"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58843796"
 ---
 # <a name="how-do-i-add-a-credit-card"></a>Làm thế nào để thêm thẻ tín dụng?
 
-1. Trong thanh Trung tâm quản trị Microsoft 365, đi đến trang Phương **thức thanh** \> [toán hóa](https://go.microsoft.com/fwlink/p/?linkid=2018806) đơn.
+1. Trong thanh Trung tâm quản trị Microsoft 365, hãy đi đến trang Phương **thức** \> [thanh toán hóa](https://go.microsoft.com/fwlink/p/?linkid=2018806) đơn.
 
 2. Bấm **vào Thêm phương thức thanh toán**.
 

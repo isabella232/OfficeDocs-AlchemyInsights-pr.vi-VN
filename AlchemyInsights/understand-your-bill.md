@@ -15,18 +15,19 @@ ms.custom:
 - "1500005"
 - "4728"
 - "4727"
-ms.openlocfilehash: 41fef2ca1d65b46e49b602b5cd03e19a4ab708fc
-ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
+ms.date: 04/14/2021
+ms.openlocfilehash: 3b3adfe422d35bab3cd623f0ab48c5a014e19aa6
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/21/2021
-ms.locfileid: "58451836"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58843508"
 ---
 # <a name="understand-your-bill"></a>Hiểu rõ hóa đơn của bạn
 
 **Xem hóa đơn của bạn**
 
-1. Trong trang Trung tâm quản trị Microsoft 365, đi tới trang **Thanh toán của > Hóa đơn & [thanh](https://go.microsoft.com/fwlink/p/?linkid=848039)** toán.
+1. Trong thanh Trung tâm quản trị Microsoft 365, đi tới trang **Thanh toán > Hóa đơn & [thanh](https://go.microsoft.com/fwlink/p/?linkid=848039)** toán.
 
 2. Chọn một phạm vi ngày từ danh sách thả xuống, rồi chọn đơn hàng bạn muốn xem lại hoặc bấm vào liên kết Tải xuống hóa đơn **pdf** để xem bản sao hóa đơn.
 

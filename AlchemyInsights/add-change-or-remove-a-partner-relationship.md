@@ -14,12 +14,13 @@ ms.custom:
 - commerce_subscriptions
 - "9001683"
 - "3748"
-ms.openlocfilehash: 4a2c26c3850d99aeb19cc3c47116faffa879edfa
-ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
+ms.date: 04/14/2021
+ms.openlocfilehash: 0f6e5cdfb678642b11c1375db47f0a988e4beb24
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/21/2021
-ms.locfileid: "58450972"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58842860"
 ---
 # <a name="add-change-or-remove-a-partner-relationship"></a>Thêm, thay đổi hoặc loại bỏ mối quan hệ đối tác
 
@@ -27,6 +28,6 @@ Với tư cách là người quản trị, bạn có thể làm việc với đ�
 
 - Nếu bạn đang tìm cách chỉnh sửa mối quan hệ đối tác hiện có của mình, hãy xem mục [Thêm, thay](https://docs.microsoft.com/microsoft-365/admin/misc/add-partner)đổi hoặc xóa đối tác tư vấn đăng ký .
 
-- Nếu bạn đang tìm kiếm một đối tác Microsoft, hãy xem [mục Tìm đối tác Microsoft 365 hoặc nhà bán lẻ .](https://docs.microsoft.com/microsoft-365/admin/manage/find-your-partner-or-reseller)
+- Nếu bạn đang tìm kiếm một đối tác Microsoft, hãy xem [mục Tìm đối tác Microsoft 365 hoặc nhà bán lẻ](https://docs.microsoft.com/microsoft-365/admin/manage/find-your-partner-or-reseller).
 
-Nếu bạn hiện là đối tác của Microsoft hoặc đang tìm cách trở thành đối tác, hãy xem Trung tâm Đối tác của [Microsoft](https://support.microsoft.com/help/4499930/partner-center-overview) để biết thêm thông tin về các lợi ích hoặc cách nhận hỗ trợ từ bộ trợ giúp [Đối tác của Microsoft.](https://aka.ms/partnersupport)
+Nếu bạn hiện đang là đối tác của Microsoft hoặc đang muốn trở thành đối tác, hãy xem Trung tâm Đối tác của [Microsoft](https://support.microsoft.com/help/4499930/partner-center-overview) để biết thêm thông tin về các lợi ích hoặc cách nhận hỗ trợ từ bộ trợ giúp [Đối tác của Microsoft.](https://aka.ms/partnersupport)

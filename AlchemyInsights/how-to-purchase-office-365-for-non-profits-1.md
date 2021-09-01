@@ -3,7 +3,6 @@ title: 'Microsoft 365 dành cho tổ chức phi lợi nhuận - đã được ph
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
 ms.reviewer: drjones, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -15,13 +14,14 @@ ms.custom:
 - commerce_purchase
 - "340"
 - "1500010"
+ms.date: 04/21/2020
 ms.assetid: 870f4834-a10c-49cd-ac5f-ccb1f0a9215f
-ms.openlocfilehash: de22b17e0863af13073a47b31ed9c8236cce23e8
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: d544d57361edda30647067ae4f0aec04fa64f806
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58332921"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58843076"
 ---
 # <a name="microsoft-365-for-nonprofits---approved"></a>Microsoft 365 dành cho tổ chức phi lợi nhuận - đã được phê duyệt
 
@@ -33,4 +33,4 @@ Bạn đã được phê duyệt trạng thái Tổ chức Phi lợi nhuận Đ�
 
 3. Di chuột qua đăng ký mà bạn muốn mua, rồi chọn **Mua Ngay**.
 
-Để biết thêm thông tin, hãy [xem Microsoft 365 của bạn dành cho các tổ chức phi lợi nhuận hoặc](https://www.microsoft.com/nonprofits/microsoft-365) liên hệ với bộ [phận bán hàng.](https://www.microsoft.com/nonprofits/contact-us)
+Để biết thêm thông tin, hãy [xem Microsoft 365 nguyên dành cho các tổ chức phi lợi nhuận hoặc](https://www.microsoft.com/nonprofits/microsoft-365) bán hàng liên [hệ](https://www.microsoft.com/nonprofits/contact-us).

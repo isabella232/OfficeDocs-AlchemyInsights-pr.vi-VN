@@ -3,7 +3,6 @@ title: Gán tên Project cho người dùng
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: micurn, nicholak
 ms.audience: Admin
 ms.topic: article
@@ -15,18 +14,19 @@ ms.custom:
 - commerce_licensing
 - "9002424"
 - "5103"
-ms.openlocfilehash: 49f0b0fe500f496d56aea6ff74f682edc2cc3e8b
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/10/2021
+ms.openlocfilehash: f8c0ee53cadb8559eab349cf78cd8caf86341557
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58329210"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58842824"
 ---
 # <a name="assign-project-to-users"></a>Gán tên Project cho người dùng
 
 Project thể được gán cho người dùng trong Trung **Quản trị Microsoft 365 Chính.**
 
-1. Đi tới **Giấy phép > hóa [đơn](https://go.microsoft.com/fwlink/p/?linkid=842264)**.
+1. Đi tới **Giấy phép > hóa [đơn.](https://go.microsoft.com/fwlink/p/?linkid=842264)**
 2. Chọn một sản phẩm mà bạn muốn gán giấy phép.
 3. Bấm **Gán giấy phép**.
 4. Trong ngăn **Gán giấy phép cho người dùng,** bắt đầu nhập tên người dùng, rồi chọn tên đó từ kết quả. Bạn có thể thêm tối đa 20 người dùng cùng một lúc.

@@ -3,7 +3,6 @@ title: Quản lý giấy phép Power BI
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: sinakassaw, nicholak
 ms.audience: Admin
 ms.topic: article
@@ -15,16 +14,17 @@ ms.custom:
 - commerce_licensing
 - "9002564"
 - "4969"
-ms.openlocfilehash: 6f6c10d349f000874a1eece493b05ba5c220b8c9
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/10/2021
+ms.openlocfilehash: 3e03f8dbf183dd0ed74378e4dbfe22c14cad62e7
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58329628"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58842968"
 ---
 # <a name="power-bi-license-management"></a>Quản lý giấy phép Power BI
 
-Có thể hoàn tất quản lý giấy phép Power BI trong cơ Trung tâm quản trị Microsoft 365.
+Có thể hoàn tất việc quản lý giấy phép Power BI trong Trung tâm quản trị Microsoft 365.
 
 - **Để mua Power BI**: Đi tới Dịch vụ **Mua Thanh** \> **[toán](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Sử dụng hộp Tìm kiếm để tìm kiếm "Power BI", sau đó chọn gói và số lượng người dùng mà bạn muốn mua. Để biết thêm thông tin, hãy [xem Mua một đăng ký khác](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription).
 - **Để gán giấy phép Power BI:** Đi tới Giấy **phép**  >  **[Thanh toán](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Để biết thêm thông tin, hãy [xem mục Gán giấy phép cho người dùng.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
