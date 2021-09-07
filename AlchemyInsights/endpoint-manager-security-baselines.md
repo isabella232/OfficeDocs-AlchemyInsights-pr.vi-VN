@@ -15,12 +15,12 @@ ms.custom:
 - "6700005"
 - "10064"
 - "9003771"
-ms.openlocfilehash: c13bc161b19a5fef1352beb28bdcc20110111a9a61a47433d82e1e69aff7f88d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4c8e03a817751ba7dc1710aed5a3e19c6e79db33
+ms.sourcegitcommit: ae556b6b26974392ca68a68426a2b40967ae0071
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53978183"
+ms.lasthandoff: 09/07/2021
+ms.locfileid: "58923576"
 ---
 # <a name="endpoint-manager---security-baselines"></a>Trình quản lý Điểm cuối - Đường cơ sở bảo mật
 
@@ -34,10 +34,12 @@ Hiện có các đường cơ sở cho các sản phẩm này:
 
 Mỗi đường cơ sở được cập nhật định kỳ và phát hành theo phiên bản tăng dần. Mỗi phiên bản thêm và hoặc loại bỏ cài đặt khỏi phiên bản trước nhằm đảm bảo rằng đường cơ sở đáp ứng hướng dẫn hiện tại. Bảng điều khiển Đường cơ sở bảo mật trong Bảo mật Điểm cuối cho phép so sánh các phiên bản khác nhau bằng cách hiển thị các thay đổi từ phiên bản này sang phiên bản khác.
 
-Để biết hướng dẫn về cách triển khai phiên bản đường cơ sở hiệu quả nhất, hãy xem mục Quản lý hồ sơ đường cơ sở [bảo mật Microsoft Intune.](https://docs.microsoft.com/mem/intune/protect/security-baselines-configure)
+Để biết hướng dẫn về cách triển khai phiên bản đường cơ sở hiệu [quả nhất,](https://docs.microsoft.com/mem/intune/protect/security-baselines-configure)hãy xem mục Quản lý hồ sơ đường cơ sở bảo mật Microsoft Intune .
 
 Sau khi triển khai một đường cơ sở bảo mật, bạn có thể theo dõi trạng thái triển khai và xem xét thiết đặt trên cơ sở từng thiết bị.
 
-**Lưu ý:** Dữ liệu báo cáo cho đường cơ sở có thể mất đến 24 giờ để xuất hiện từ lần triển khai đầu tiên đến một thiết bị và tối đa 6 giờ để cập nhật thêm. 
+Vì đường cơ sở bảo mật chứa nhiều thiết đặt, điều quan trọng là phải xem lại những thay đổi về cấu hình và thực hiện kiểm tra để đảm bảo tất cả các thiết đặt đều thích hợp cho các thiết bị và nhu cầu kinh doanh của bạn.
+
+**Lưu ý:** Dữ liệu báo cáo cho đường cơ sở có thể mất đến 24 giờ để xuất hiện từ lần triển khai ban đầu đến một thiết bị và tối đa 6 giờ để cập nhật thêm. 
 
 Nguyên nhân phổ biến nhất của thiết đặt đường cơ sở không áp dụng là vì cùng một thiết đặt đang được sử dụng trong một hồ sơ khác. Kịch bản này có thể được điều tra cho thiết bị cụ thể bằng cách chọn thiết bị đó từ bên trong nút Trạng thái Thiết bị của hồ sơ Đường cơ sở Bảo mật. Để biết chi tiết, [hãy xem Giải quyết xung đột cho đường cơ sở bảo mật](https://docs.microsoft.com/mem/intune/protect/security-baselines-monitor#resolve-conflicts-for-security-baselines).

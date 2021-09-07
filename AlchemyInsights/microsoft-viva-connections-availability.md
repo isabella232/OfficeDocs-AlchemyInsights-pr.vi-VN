@@ -1,5 +1,5 @@
 ---
-title: Microsoft Viva Connections Tính khả dụng
+title: Thiết lập ứng dụng Viva Connections trên máy tính
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004616"
 - "8336"
-ms.openlocfilehash: aca273a73ba1ae750e1467857ad777bbbfbc90e98b8ff4912e7acef498010221
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 8c00d30e32914d9fb35d3c8e563aababa9e11093
+ms.sourcegitcommit: ae556b6b26974392ca68a68426a2b40967ae0071
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54000486"
+ms.lasthandoff: 09/07/2021
+ms.locfileid: "58923720"
 ---
-# <a name="microsoft-viva-connections-availability"></a>Microsoft Viva Connections Tính khả dụng
+# <a name="set-up-the-viva-connections-desktop-app"></a>Thiết lập ứng dụng Viva Connections trên máy tính
 
-Microsoft Viva Connections sẵn dùng cho máy tính vào nửa đầu năm 2021 và dành cho thiết bị di động vào mùa hè năm 2021. Các tính năng bổ sung sẽ được triển khai trong suốt năm 2022.
+Có hai yêu cầu chính đối với Kết nối Viva cho máy Teams tính để bàn. 
 
-Để biết thêm thông tin, hãy xem cách Microsoft Viva Connections mọi người luôn tham gia và cập nhật thông [tin.](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/microsoft-viva-connections-helps-everyone-to-stay-engaged-and/ba-p/2107009)
+- Thanh ứng SharePoint dụng của Công cụ Khách hàng phải được triển khai và kích hoạt để đối tượng thuê nhận được toàn bộ lợi ích của Kết nối Viva. Chúng tôi khuyên bạn nên sử dụng trang chủ làm trải nghiệm đích ở Teams. 
+- Phiên bản đầu tiên của Viva Connections có thể được cung cấp thông qua Trung tâm tải xuống của Microsoft bằng PowerShell (sử dụng phiên bản cập nhật nhất [của SharePoint PowerShell).](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/introduction-sharepoint-online-management-shell?view=sharepoint-ps) Sau đó, Viva Connections được tải lên dưới dạng ứng dụng trong Trung Teams quản trị viên Chính. Tập lệnh PowerShell đã sẵn dùng từ ngày 31 tháng 3 năm 2021. Tải xuống Viva Connections Desktop từ Trung tâm Tải xuống [chính thức của Microsoft](https://www.microsoft.com/download/confirmation.aspx?id=102888). 
+
+Để biết thêm thông tin, xem [mục Thêm Kết nối Viva để biết Microsoft Teams màn](https://docs.microsoft.com/SharePoint/viva-connections) hình nền Microsoft Teams quan về [PowerShell.](https://docs.microsoft.com/microsoftteams/teams-powershell-overview)
