@@ -15,12 +15,12 @@ ms.custom:
 - "13810"
 - "13812"
 - "9008619"
-ms.openlocfilehash: 16aa4f052c934421423c73244f03a20aa38e4785
-ms.sourcegitcommit: 76c61dec041b93d0039764fae38107108da324aa
+ms.openlocfilehash: ff8eac6487ef544277c5ce2c0c0b7068c9d400ca
+ms.sourcegitcommit: b47c6d5e74819b73becaf1dc5eacc72eaf7c1055
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/04/2021
-ms.locfileid: "59316356"
+ms.lasthandoff: 09/15/2021
+ms.locfileid: "59327836"
 ---
 # <a name="reports-in-microsoft-365-admin-center-do-not-show-readable-username"></a>Báo cáo trong Trung tâm quản trị Microsoft 365 không hiển thị tên người dùng có thể đọc
 
@@ -30,5 +30,5 @@ Báo cáo trong Trung tâm quản trị Microsoft 365 không hiển thị tên n
 
 Người quản trị toàn cầu có thể hoàn nguyên thay đổi này cho đối tượng thuê của họ và hiển thị thông tin người dùng có thể nhận dạng nếu các thực hành về quyền riêng tư của tổ chức của họ cho phép. Để hoàn nguyên thay đổi cho đối tượng thuê:
 
-1. Trong trung tâm quản trị, đi đến **cài Cài đặt** Dịch vụ cài  >  **đặt tổ**  >  [**chức**](https://admin.microsoft.com/Adminportal/Home#/Settings/Services), rồi chọn Báo **cáo**. 
+1. Trong trung tâm quản trị, đi đến **cài Cài đặt** Dịch vụ cài  >  **đặt tổ**  >  [**chức**](https://admin.microsoft.com/Adminportal/Home#/Settings/Services ), rồi chọn Báo **cáo**. 
 1. Bên **dưới Mục Chọn cách hiển** thị thông tin người dùng, chọn Hiển thị thông tin người dùng có thể nhận dạng trong báo cáo , rồi chạy lại báo cáo. 
