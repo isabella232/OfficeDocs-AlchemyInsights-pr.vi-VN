@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "11015"
 - "9000181"
-ms.openlocfilehash: 1fe426683a8c39d07e59bb4121131ecacf1832075f626b26982ec0ede3c24698
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7b9025092c154f2734f74dc547de877e70caac2e
+ms.sourcegitcommit: a097d1f8915a31ed8460b5b68dccc8d87e563cc0
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54062894"
+ms.lasthandoff: 09/22/2021
+ms.locfileid: "59475239"
 ---
 # <a name="how-to-publish-a-sensitivity-label"></a>Cách phát hành nhãn nhạy cảm
 
-1. Đi đến Trung tâm Microsoft 365 Tuân thủ để > **sách Nhãn** Bảo vệ  >  **Thông tin.**
+1. Đi đến Trung tâm Tuân Microsoft 365 tuân thủ để > **sách Nhãn** Bảo vệ  >  **Thông tin.**
 
 1. Chọn **+ Phát hành nhãn để** bắt đầu trình hướng dẫn Nhãn nhạy cảm mới.
 
@@ -36,6 +36,8 @@ ms.locfileid: "54062894"
 
 1. Lặp lại các bước này nếu bạn cần các thiết đặt chính sách khác nhau cho những người dùng hoặc vị trí khác nhau. Ví dụ: bạn muốn thêm nhãn cho một nhóm người dùng hoặc một nhãn mặc định khác cho một tập hợp con của người dùng.
 
-1. Nếu bạn tạo nhiều chính sách nhãn có thể gây ra xung đột cho người dùng hoặc vị trí, hãy xem lại thứ tự chính sách và nếu cần thiết, di chuyển chúng lên hoặc xuống. Để thay đổi thứ tự của chính sách nhãn, hãy chọn dấu ba dấu 0 (thao tác khác), rồi chọn **Di chuyển lên hoặc** Di chuyển **xuống**.
+1. Nếu bạn tạo nhiều chính sách nhãn có thể gây ra xung đột cho người dùng hoặc vị trí, hãy xem lại thứ tự chính sách và nếu cần thiết, di chuyển chúng lên hoặc xuống. Để thay đổi thứ tự của chính sách nhãn, hãy chọn dấu ba 0 (thao tác khác), rồi chọn **Di chuyển lên hoặc** Di chuyển **xuống**.
 
 Khi hoàn tất trình hướng dẫn, trình hướng dẫn sẽ tự động phát hành chính sách nhãn.
+
+Để biết thêm thông tin, hãy [xem Tạo và cấu hình nhãn nhạy cảm và chính sách của chúng](https://docs.microsoft.com/microsoft-365/compliance/create-sensitivity-labels).
