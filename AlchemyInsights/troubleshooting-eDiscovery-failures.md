@@ -14,27 +14,28 @@ ms.custom:
 - "1490"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 7b819b9bb18b5c0a635e708eccc0f23271267874707e5f3a7d41b633a05f2822
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b60cfc298ee05375523e3660f407ab03e630c861
+ms.sourcegitcommit: e9e282be4997b0ee95f1ff4491e0943f8fc52444
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54105590"
+ms.lasthandoff: 09/22/2021
+ms.locfileid: "59481827"
 ---
 # <a name="troubleshoot-content-search-errors"></a>Khắc phục lỗi Tìm kiếm Nội dung
 
 Bạn đang gặp sự cố với Tìm kiếm Nội dung hoặc gặp thất bại khi xuất kết quả tìm kiếm?
-
 Ví dụ: bạn có nhận được thông báo sau khi chạy tìm kiếm không?
 
-- Lỗi CS008 hoặc CS012
+- Lỗi CS007, CS008 hoặc CS012
 
 - Lỗi máy chủ bận/thời gian chờ
 
 - Đã xảy ra lỗi ứng dụng
 
-Hoặc khi tìm kiếm hoặc xuất kết quả từ một số lượng lớn các hộp thư (hơn 100.000 hộp thư), bạn có gặp lỗi xuất không?
+Hoặc bạn gặp phải lỗi xuất khi tìm kiếm hoặc xuất kết quả từ một số lượng lớn (hơn 100.000) hộp thư?
 
-Đối với các loại lỗi này, hãy tìm kiếm lại các vị trí nội dung đã không thành công. Hãy xem  [bài viết này](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) để biết thêm thông tin.
+Đối với các lỗi này, hãy lần nữa tìm kiếm lại vị trí nội dung đã không thành công hoặc cập nhật tìm kiếm bằng cách giảm mức độ phức tạp của truy vấn tìm kiếm. Ví dụ: tìm kiếm thẻ đại diện có thể trả về quá nhiều kết quả cho hệ thống để xử lý, điều này gây ra lỗi CS007.   
 
-Nếu bạn đang xuất hơn 100K hộp thư, bạn sẽ cần sử dụng Powershell sau để tải xuống kết quả Xuất: Xuất kết quả từ  [hơn 100K hộp](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide%23exporting-results-from-more-than-100000-mailboxes)thư.
+Để biết thêm [](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) thông tin, hãy xem mục Tìm kiếm lại Nội dung để giải quyết lỗi vị trí nội dung hoặc Điều tra, khắc phục sự cố và giải quyết các sự cố Phổ biến [về Khám phá Điện tử.](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-troubleshooting-common-issues)
+
+Nếu bạn đang xuất hơn 100K hộp thư, bạn sẽ cần phải tải xuống kết quả xuất. Để biết chi tiết, hãy xem [Xuất kết quả tìm kiếm Nội dung](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).
