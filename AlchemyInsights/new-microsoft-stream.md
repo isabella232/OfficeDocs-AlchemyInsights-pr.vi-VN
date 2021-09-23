@@ -12,17 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001509"
 - "6449"
-ms.openlocfilehash: d1196b0a9737da577833c90a7b5202fde264973c8fe9b196ec55d595315d2a20
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a88d4beab4d3749d622f200f7b4117e7ed4a80f9
+ms.sourcegitcommit: cce7932374d1b8ad5806a28bff2b4bac4702852d
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54097400"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59482690"
 ---
 # <a name="microsoft-stream"></a>Microsoft Stream
 
-Microsoft Stream là một dịch vụ Video Dành cho Doanh nghiệp nơi mọi người trong tổ chức của bạn có thể tải lên, xem và chia sẻ video một cách bảo mật. Bạn có thể chia sẻ bản ghi của lớp học, cuộc họp, bản trình bày, phiên đào tạo hoặc video khác giúp nhóm của bạn cộng tác.  
+Tầm nhìn mới về Microsoft Stream hỗ trợ người dùng tạo, chia sẻ, khám phá và quản lý video giống như bất kỳ tệp nào khác. Để biết thêm thông tin, hãy xem:
 
-- [Microsoft Stream mới](https://docs.microsoft.com/stream/new-stream)
-- [Microsoft Stream (Cổ điển)](https://docs.microsoft.com/stream/overview)
-- [Di chuyển từ Microsoft Stream (Cổ điển) sang Microsoft Stream mới](https://docs.microsoft.com/stream/classic-migration)
+- [Stream (được tích hợp SharePoint), phiên bản mới của Microsoft Stream](https://docs.microsoft.com/stream/streamnew/new-stream)
+- [Tổng quan về di chuyển từ Microsoft Stream (Cổ điển) stream (được xây dựng trên SharePoint)](https://docs.microsoft.com/stream/streamnew/stream-classic-to-new-migration-overview)
